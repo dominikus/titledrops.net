@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1210819",
+    "title": "The Lone Ranger",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+    ],
+    "count": 5,
+    "all_lines": 1947,
+    "occurrences": [
+      [
+        52,
+        "00:06:01.154000",
+        "00:06:03.948000",
+        "But the Lone Ranger and Tonto were good guys."
+      ],
+      [
+        538,
+        "00:41:30.156000",
+        "00:41:31.949000",
+        "But he's the Lone Ranger."
+      ],
+      [
+        963,
+        "01:11:03.510000",
+        "01:11:04.637000",
+        "A lone Ranger."
+      ],
+      [
+        1448,
+        "01:41:37.509000",
+        "01:41:39.052000",
+        "A lone Ranger,"
+      ],
+      [
+        1895,
+        "02:15:19.362000",
+        "02:15:23.074000",
+        "this Lone Ranger."
+      ]
+    ],
+    "regex": "\\b((?!\\bLone\\ Ranger:)Lone\\ Ranger)(?!\\:)(?!'t)\\b",
+    "runtime": 150,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

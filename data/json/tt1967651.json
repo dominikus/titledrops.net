@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1967651",
+    "title": "Unconditional Love",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 978,
+    "occurrences": [
+      [
+        429,
+        "00:37:08.440000",
+        "00:37:09.760000",
+        "Unconditional love."
+      ],
+      [
+        764,
+        "01:11:29.840000",
+        "01:11:34.480000",
+        "The left-hand column, unconditional love, money, the ride of your life."
+      ]
+    ],
+    "regex": "\\b((?!\\bUnconditional\\ Love:)Unconditional\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

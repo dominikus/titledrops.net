@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0457802",
+    "title": "The Blue Umbrella",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 495,
+    "occurrences": [
+      [
+        235,
+        "00:32:44.209000",
+        "00:32:47.178000",
+        "My heavenly blue umbrella"
+      ],
+      [
+        236,
+        "00:32:56.221000",
+        "00:33:01.682000",
+        "My heavenly blue umbrella my flight to the skies umbrella"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Umbrella:)Blue\\ Umbrella)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

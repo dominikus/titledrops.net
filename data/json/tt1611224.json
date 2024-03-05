@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1611224",
+    "title": "Abraham Lincoln: Vampire Hunter",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 697,
+    "occurrences": [
+      [
+        195,
+        "00:21:44.320000",
+        "00:21:50.200000",
+        "Steven Douglas, how do you do. - Abraham Lincoln."
+      ],
+      [
+        632,
+        "01:23:58.320000",
+        "01:24:02.480000",
+        "I'm gonna destroy a myth of Abraham Lincoln,"
+      ]
+    ],
+    "regex": "\\b((?!\\bAbraham\\ Lincoln:)Abraham\\ Lincoln|(?!\\bVampire\\ Hunter:)Vampire\\ Hunter)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

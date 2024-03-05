@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0091757",
+    "title": "Pirates",
+    "year": 1986,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 7,
+    "all_lines": 769,
+    "occurrences": [
+      [
+        61,
+        "00:16:03.057000",
+        "00:16:08.980000",
+        "Attacked at night by pirates. On board the... \"The Morning Star\"."
+      ],
+      [
+        99,
+        "00:19:29.264000",
+        "00:19:34.185000",
+        "- Pirates... Devil take 'em! - Who were these pirates?"
+      ],
+      [
+        434,
+        "01:02:46.820000",
+        "01:02:51.783000",
+        "An officer of the Royal Fleet does not drink with pirates."
+      ],
+      [
+        538,
+        "01:18:44.777000",
+        "01:18:49.741000",
+        "This Padre and his brave companions have delivered me from the pirates' clutches."
+      ],
+      [
+        603,
+        "01:25:43.196000",
+        "01:25:46.157000",
+        "predicament! The pirates attack at dawn!"
+      ],
+      [
+        714,
+        "01:43:28.261000",
+        "01:43:32.223000",
+        "Have no fear of pirates, senora. They would receive a warm welcome..."
+      ]
+    ],
+    "regex": "\\b((?!\\bPirates:)Pirates)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt17519798",
+    "title": "Cabin Girl",
+    "year": 2023,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1364,
+    "occurrences": [
+      [
+        121,
+        "00:06:48.477000",
+        "00:06:50.460000",
+        "Call me Cabin Girl."
+      ],
+      [
+        674,
+        "00:41:31.274000",
+        "00:41:34.013000",
+        "Hey, Cabin Girl. I got your new tire."
+      ],
+      [
+        1322,
+        "01:23:32.843000",
+        "01:23:34.433000",
+        "Call me Cabin Girl."
+      ]
+    ],
+    "regex": "\\b((?!\\bCabin\\ Girl:)Cabin\\ Girl)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

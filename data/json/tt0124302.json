@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0124302",
+    "title": "Speed Cross",
+    "year": 1980,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 854,
+    "occurrences": [
+      [
+        397,
+        "00:45:19.708000",
+        "00:45:24",
+        "This is not just speed cross. It has nothing to do with sport."
+      ],
+      [
+        405,
+        "00:45:58.583000",
+        "00:46:04.125000",
+        "In America, speed cross races are clandestine. In Nevada, Mexico."
+      ],
+      [
+        750,
+        "01:24:54.125000",
+        "01:24:59.666000",
+        "They embody the fairness typical of speed cross races."
+      ],
+      [
+        794,
+        "01:33:25.750000",
+        "01:33:29.291000",
+        "We just saw something very rare in speed cross!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpeed\\ Cross:)Speed\\ Cross)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

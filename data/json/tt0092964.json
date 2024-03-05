@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0092964",
+    "title": "Empire State",
+    "year": 1987,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1542,
+    "occurrences": [
+      [
+        682,
+        "00:40:38.467000",
+        "00:40:40.067000",
+        "I mean take the Empire State."
+      ],
+      [
+        1514,
+        "01:40:48.633000",
+        "01:40:50.167000",
+        "Empire State."
+      ],
+      [
+        1541,
+        "01:41:56.367000",
+        "01:41:58.600000",
+        "VOICEOVER: Empire State."
+      ]
+    ],
+    "regex": "\\b((?!\\bEmpire\\ State:)Empire\\ State)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

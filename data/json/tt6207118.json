@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt6207118",
+    "title": "Impossibility Defense",
+    "year": 2017,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1155,
+    "occurrences": [
+      [
+        3,
+        "00:00:32.440000",
+        "00:00:39.920000",
+        "This kind of actions is called The Impossibility Defense."
+      ],
+      [
+        27,
+        "00:01:32",
+        "00:01:37.460000",
+        "The Impossibility Defense"
+      ],
+      [
+        116,
+        "00:08:44.310000",
+        "00:08:47.770000",
+        "It's indeed The Impossibility Defense."
+      ],
+      [
+        120,
+        "00:08:54.350000",
+        "00:08:56.040000",
+        "Impossibility defense is impossible to be judged."
+      ]
+    ],
+    "regex": "\\b((?!\\bImpossibility\\ Defense:)Impossibility\\ Defense)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

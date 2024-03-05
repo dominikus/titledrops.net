@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0111079",
+    "title": "Savage Land",
+    "year": 1994,
+    "genres": [
+      "Adventure"
+    ],
+    "count": 2,
+    "all_lines": 1342,
+    "occurrences": [
+      [
+        25,
+        "00:03:36.462000",
+        "00:03:41.089000",
+        "Sweet, sweet music to soothe a savage land"
+      ],
+      [
+        35,
+        "00:04:00.801000",
+        "00:04:03.139000",
+        "The savage land - Let go of me!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSavage\\ Land:)Savage\\ Land)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

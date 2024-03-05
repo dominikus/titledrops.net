@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0083630",
+    "title": "The Beastmaster",
+    "year": 1982,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 541,
+    "occurrences": [
+      [
+        430,
+        "01:27:37.843000",
+        "01:27:38.970000",
+        "He is the Beastmaster."
+      ],
+      [
+        474,
+        "01:33:18.350000",
+        "01:33:20.185000",
+        "Beastmaster, follow me home."
+      ],
+      [
+        528,
+        "01:51:12.173000",
+        "01:51:13.257000",
+        "Beastmaster."
+      ]
+    ],
+    "regex": "\\b((?!\\bBeastmaster:)Beastmaster)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0102557",
+    "title": "Blue Note",
+    "year": 1991,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1530,
+    "occurrences": [
+      [
+        1,
+        "00:00:27.040000",
+        "00:00:29.930000",
+        "The Blue Note"
+      ],
+      [
+        1094,
+        "01:19:16.320000",
+        "01:19:18.584000",
+        "the one I call the blue note."
+      ],
+      [
+        1528,
+        "02:02:07.040000",
+        "02:02:09.156000",
+        "Until the blue note, Frederic?"
+      ],
+      [
+        1529,
+        "02:02:10.320000",
+        "02:02:12.482000",
+        "Until the blue note, George."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Note:)Blue\\ Note)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

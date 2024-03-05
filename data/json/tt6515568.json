@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6515568",
+    "title": "National Theatre Live: The Deep Blue Sea",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 920,
+    "occurrences": [
+      [
+        249,
+        "00:22:30.544000",
+        "00:22:34.549000",
+        "Anyway, when you're trapped between any kind of devil and the deep blue sea..."
+      ],
+      [
+        250,
+        "00:22:35.435000",
+        "00:22:38.678000",
+        "...sometimes the deep blue sea seems very inviting. It did last night"
+      ]
+    ],
+    "regex": "\\b((?!\\bNational\\ Theatre\\ Live:)National\\ Theatre\\ Live|(?!\\bDeep\\ Blue\\ Sea:)Deep\\ Blue\\ Sea)(?!\\:)(?!'t)\\b",
+    "runtime": 160,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

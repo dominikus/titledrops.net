@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0090605",
+    "title": "Aliens",
+    "year": 1986,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1411,
+    "occurrences": [
+      [
+        1184,
+        "01:39:22.432000",
+        "01:39:27.144000",
+        "- (Aliens shrieking) - Come on! Get them!"
+      ],
+      [
+        1220,
+        "01:42:03.259000",
+        "01:42:05.219000",
+        "(Aliens shrieking)"
+      ],
+      [
+        1244,
+        "01:44:04.505000",
+        "01:44:07.591000",
+        "- (Clicking) - (Aliens hissing)"
+      ]
+    ],
+    "regex": "\\b((?!\\bAliens:)Aliens)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.4
+  }
+]

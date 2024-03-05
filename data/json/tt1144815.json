@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1144815",
+    "title": "Son of Morning",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1356,
+    "occurrences": [
+      [
+        256,
+        "00:13:34.180000",
+        "00:13:38.446000",
+        "Son of Morning!"
+      ],
+      [
+        998,
+        "00:50:57.754000",
+        "00:51:00.814000",
+        "Son of Morning."
+      ],
+      [
+        1109,
+        "00:56:25.415000",
+        "00:56:28.873000",
+        "Are you the Son of Morning?"
+      ],
+      [
+        1114,
+        "00:56:39.062000",
+        "00:56:42.691000",
+        "Mr. Katz, are you the Son of Morning?"
+      ],
+      [
+        1122,
+        "00:57:05.555000",
+        "00:57:09.321000",
+        "in the name of something called \"The Son of Morning\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSon\\ of\\ Morning:)Son\\ of\\ Morning)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

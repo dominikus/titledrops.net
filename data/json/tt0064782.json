@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0064782",
+    "title": "Paint Your Wagon",
+    "year": 1969,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "count": 6,
+    "all_lines": 709,
+    "occurrences": [
+      [
+        6,
+        "00:00:51.720000",
+        "00:00:55.713000",
+        "Paint your wagon And come along"
+      ],
+      [
+        13,
+        "00:01:21.480000",
+        "00:01:23.391000",
+        "Paint your wagon"
+      ],
+      [
+        15,
+        "00:02:00.360000",
+        "00:02:04.558000",
+        "Paint your wagon And come along"
+      ],
+      [
+        32,
+        "00:03:20.480000",
+        "00:03:24.712000",
+        "Paint your wagon And come along"
+      ],
+      [
+        73,
+        "00:07:34.920000",
+        "00:07:39.391000",
+        "Paint your wagon And come along"
+      ],
+      [
+        81,
+        "00:08:03.400000",
+        "00:08:07.439000",
+        "Paint your wagon And come along"
+      ]
+    ],
+    "regex": "\\b((?!\\bPaint\\ Your\\ Wagon:)Paint\\ Your\\ Wagon)(?!\\:)(?!'t)\\b",
+    "runtime": 164,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

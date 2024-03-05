@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1085496",
+    "title": "Rock Haven",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 527,
+    "occurrences": [
+      [
+        0,
+        "00:02:13.834000",
+        "00:02:16.933000",
+        "The very first day I arrived at Rock Haven,"
+      ],
+      [
+        4,
+        "00:04:23.429000",
+        "00:04:26.165000",
+        "Rock Haven owes its birth to the 1906 earthquake."
+      ]
+    ],
+    "regex": "\\b((?!\\bRock\\ Haven:)Rock\\ Haven)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

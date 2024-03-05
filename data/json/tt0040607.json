@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0040607",
+    "title": "Moonrise",
+    "year": 1948,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 2,
+    "all_lines": 850,
+    "occurrences": [
+      [
+        47,
+        "00:10:11.905000",
+        "00:10:17.275000",
+        "# That there's magic in the moonrise"
+      ],
+      [
+        49,
+        "00:10:21.155000",
+        "00:10:26.115000",
+        "# When we found our love at moonrise"
+      ]
+    ],
+    "regex": "\\b((?!\\bMoonrise:)Moonrise)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

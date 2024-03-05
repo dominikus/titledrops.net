@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0155388",
+    "title": "The Winslow Boy",
+    "year": 1999,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1630,
+    "occurrences": [
+      [
+        1219,
+        "01:12:50.873000",
+        "01:12:54.343000",
+        "Read the latest about the Winslow boy right here in these pages!"
+      ],
+      [
+        1222,
+        "01:13:00.873000",
+        "01:13:02.386000",
+        "Latest on the Winslow boy!"
+      ]
+    ],
+    "regex": "\\b((?!\\bWinslow\\ Boy:)Winslow\\ Boy)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

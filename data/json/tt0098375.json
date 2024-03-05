@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0098375",
+    "title": "Spontaneous Combustion",
+    "year": 1989,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 964,
+    "occurrences": [
+      [
+        188,
+        "00:19:41.932000",
+        "00:19:45.314000",
+        "It is difficult for us to comprehend spontaneous combustion."
+      ],
+      [
+        380,
+        "00:33:26.240000",
+        "00:33:29.356000",
+        "Spontaneous combustion, oh yes."
+      ],
+      [
+        389,
+        "00:33:50.546000",
+        "00:33:53.072000",
+        "it was really spontaneous combustion."
+      ],
+      [
+        406,
+        "00:34:45.928000",
+        "00:34:49.427000",
+        "- The woman from the power plant. - Amy? Spontaneous combustion?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpontaneous\\ Combustion:)Spontaneous\\ Combustion)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

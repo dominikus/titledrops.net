@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0118883",
+    "title": "Conspiracy Theory",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1408,
+    "occurrences": [
+      [
+        15,
+        "00:00:58.573000",
+        "00:01:00.484000",
+        "{y:n}Conspiracy Theory"
+      ],
+      [
+        643,
+        "00:52:32.453000",
+        "00:52:36.731000",
+        "This is the third issue this year. I give you \"Conspiracy Theory\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bConspiracy\\ Theory:)Conspiracy\\ Theory)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0104114",
+    "title": "The Distinguished Gentleman",
+    "year": 1992,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1622,
+    "occurrences": [
+      [
+        731,
+        "00:47:14.668000",
+        "00:47:17.337000",
+        "the distinguished gentleman from Florida."
+      ],
+      [
+        1443,
+        "01:34:46.478000",
+        "01:34:52.651000",
+        "But first the chair would like to yield to the distinguished gentleman from Florida."
+      ]
+    ],
+    "regex": "\\b((?!\\bDistinguished\\ Gentleman:)Distinguished\\ Gentleman)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2363523",
+    "title": "Under the Peach Tree",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1375,
+    "occurrences": [
+      [
+        1,
+        "00:00:10.247000",
+        "00:00:14.807000",
+        "\"Under the Peach Tree\""
+      ],
+      [
+        10,
+        "00:01:02.047000",
+        "00:01:05.403000",
+        "Under the Peach Tree is not the story of a tree."
+      ]
+    ],
+    "regex": "\\b((?!\\bUnder\\ the\\ Peach\\ Tree:)Under\\ the\\ Peach\\ Tree)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

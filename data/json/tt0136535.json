@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0136535",
+    "title": "Webmaster",
+    "year": 1998,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 589,
+    "occurrences": [
+      [
+        4,
+        "00:01:55.080000",
+        "00:01:58.675000",
+        "Instead he gave me a job ... as Webmaster."
+      ],
+      [
+        163,
+        "00:27:03.160000",
+        "00:27:07.279000",
+        "- I don't know what you're on about. - You should. You're the Webmaster."
+      ]
+    ],
+    "regex": "\\b((?!\\bWebmaster:)Webmaster)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

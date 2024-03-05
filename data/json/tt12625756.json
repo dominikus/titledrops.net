@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt12625756",
+    "title": "Churuli",
+    "year": 2021,
+    "genres": [
+      "Fantasy",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1098,
+    "occurrences": [
+      [
+        87,
+        "00:10:08.040000",
+        "00:10:11.320000",
+        "- How do we get to Churuli? - Go up that way, there's a jeep."
+      ],
+      [
+        91,
+        "00:10:38.400000",
+        "00:10:40.960000",
+        "Churuli?"
+      ],
+      [
+        106,
+        "00:12:00.480000",
+        "00:12:03.080000",
+        "Come here, son! Is this the jeep to Churuli?"
+      ],
+      [
+        371,
+        "00:38:07.200000",
+        "00:38:09.600000",
+        "You dare come to Churuli to dig pits?!"
+      ]
+    ],
+    "regex": "\\b((?!\\bChuruli:)Churuli)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

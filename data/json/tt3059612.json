@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3059612",
+    "title": "Mancs",
+    "year": 2015,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 958,
+    "occurrences": [
+      [
+        305,
+        "00:29:49.360000",
+        "00:29:52.397000",
+        "Mancs met Doki, the veterinarian"
+      ],
+      [
+        308,
+        "00:29:59.560000",
+        "00:30:02.154000",
+        "Mancs introduced Isis to his empire,"
+      ]
+    ],
+    "regex": "\\b((?!\\bMancs:)Mancs)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

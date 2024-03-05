@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0084516",
+    "title": "Poltergeist",
+    "year": 1982,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1228,
+    "occurrences": [
+      [
+        532,
+        "00:46:12.603000",
+        "00:46:17.650000",
+        "What I meant to say was, it might very well be a poltergeist intrusion"
+      ],
+      [
+        545,
+        "00:46:54.854000",
+        "00:46:58.065000",
+        "Poltergeist disturbances have a fairly short duration."
+      ]
+    ],
+    "regex": "\\b((?!\\bPoltergeist:)Poltergeist)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5716438",
+    "title": "Star Boys",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 536,
+    "occurrences": [
+      [
+        121,
+        "00:14:09.360000",
+        "00:14:12.432000",
+        "Shut up! The Star boys are singing!"
+      ],
+      [
+        142,
+        "00:16:17.720000",
+        "00:16:20.918000",
+        "The Star boys will sing for us."
+      ]
+    ],
+    "regex": "\\b((?!\\bStar\\ Boys:)Star\\ Boys)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

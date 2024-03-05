@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt2155399",
+    "title": "Variações: Guardian Angel",
+    "year": 2019,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "count": 5,
+    "all_lines": 1076,
+    "occurrences": [
+      [
+        2,
+        "00:01:03.298000",
+        "00:01:09.863000",
+        "GUARDIAN ANGEL"
+      ],
+      [
+        367,
+        "00:37:23.477000",
+        "00:37:26.470000",
+        "I have an angel A guardian angel"
+      ],
+      [
+        369,
+        "00:37:30.317000",
+        "00:37:33.343000",
+        "I have an angel A guardian angel"
+      ],
+      [
+        396,
+        "00:39:26.198000",
+        "00:39:28.962000",
+        "I have an angel A guardian angel"
+      ],
+      [
+        398,
+        "00:39:32.838000",
+        "00:39:35.907000",
+        "I have an angel A guardian angel"
+      ]
+    ],
+    "regex": "\\b((?!\\bVariacoes:)Variacoes|(?!\\bGuardian\\ Angel:)Guardian\\ Angel)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

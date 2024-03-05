@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt8639136",
+    "title": "The East",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1281,
+    "occurrences": [
+      [
+        27,
+        "00:03:07.020000",
+        "00:03:11.270000",
+        "the east"
+      ],
+      [
+        769,
+        "01:11:57.310000",
+        "01:11:59.230000",
+        "That you're doing good things in the east."
+      ],
+      [
+        849,
+        "01:18:58.810000",
+        "01:19:00.310000",
+        "he's a warrior from the middle east"
+      ]
+    ],
+    "regex": "\\b((?!\\bEast:)East)(?!\\:)(?!'t)\\b",
+    "runtime": 138,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

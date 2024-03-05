@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1148205",
+    "title": "The Bronx Bull",
+    "year": 2016,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1645,
+    "occurrences": [
+      [
+        333,
+        "00:22:31.032000",
+        "00:22:33.568000",
+        "for the Bronx Bull, Jake LaMotta."
+      ],
+      [
+        1078,
+        "00:58:20.647000",
+        "00:58:23.249000",
+        "the Bronx Bull himself,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBronx\\ Bull:)Bronx\\ Bull)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

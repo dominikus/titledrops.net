@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5633396",
+    "title": "Fourth Place",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1249,
+    "occurrences": [
+      [
+        391,
+        "00:25:13.720000",
+        "00:25:14.929000",
+        "Fourth place!"
+      ],
+      [
+        510,
+        "00:33:45.105000",
+        "00:33:46.357000",
+        "All fourth place?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFourth\\ Place:)Fourth\\ Place)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

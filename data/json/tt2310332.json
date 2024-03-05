@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2310332",
+    "title": "The Hobbit: The Battle of the Five Armies",
+    "year": 2014,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 1230,
+    "occurrences": [
+      [
+        527,
+        "00:50:27.031000",
+        "00:50:30.303000",
+        "I look absurd. I'm not a warrior, I'm a Hobbit."
+      ],
+      [
+        695,
+        "01:01:25.833000",
+        "01:01:27.063000",
+        "Find this Hobbit a bed ..."
+      ],
+      [
+        700,
+        "01:01:45.050000",
+        "01:01:47.370000",
+        "Move it, stupid Hobbit."
+      ],
+      [
+        701,
+        "01:02:21.107000",
+        "01:02:24.272000",
+        "Wakey, Wakey. Hobbit, up you ... get ?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHobbit:)Hobbit|(?!\\bBattle\\ of\\ the\\ Five\\ Armies:)Battle\\ of\\ the\\ Five\\ Armies)(?!\\:)(?!'t)\\b",
+    "runtime": 144,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

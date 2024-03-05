@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2197936",
+    "title": "Fatima",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1298,
+    "occurrences": [
+      [
+        830,
+        "01:11:22.574000",
+        "01:11:24.868000",
+        "Would you like people to talk about a priest in Fatima"
+      ],
+      [
+        906,
+        "01:16:20.956000",
+        "01:16:23.959000",
+        "...if the Virgin has appeared for real in Fatima,"
+      ]
+    ],
+    "regex": "\\b((?!\\bFatima:)Fatima)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

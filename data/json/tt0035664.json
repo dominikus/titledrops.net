@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0035664",
+    "title": "Bataan",
+    "year": 1943,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1021,
+    "occurrences": [
+      [
+        6,
+        "00:02:46.232000",
+        "00:02:49.167000",
+        "We've already moved half way down the Bataan Peninsula."
+      ],
+      [
+        62,
+        "00:08:54.133000",
+        "00:08:58.126000",
+        "...through this pass, the Battle of Bataan's going to be all over too soon."
+      ]
+    ],
+    "regex": "\\b((?!\\bBataan:)Bataan)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

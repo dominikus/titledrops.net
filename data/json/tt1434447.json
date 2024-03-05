@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1434447",
+    "title": "Rocket Singh: Salesman of the Year",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1900,
+    "occurrences": [
+      [
+        211,
+        "00:15:49.128000",
+        "00:15:51.392000",
+        "One who sells the most will be the salesman of the year,"
+      ],
+      [
+        1836,
+        "02:22:44.068000",
+        "02:22:47.469000",
+        "The person I should have made salesman of the year,"
+      ]
+    ],
+    "regex": "\\b((?!\\bRocket\\ Singh:)Rocket\\ Singh|(?!\\bSalesman\\ of\\ the\\ Year:)Salesman\\ of\\ the\\ Year)(?!\\:)(?!'t)\\b",
+    "runtime": 150,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

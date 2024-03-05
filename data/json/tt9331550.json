@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt9331550",
+    "title": "Loves Me, Loves Me Not",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1362,
+    "occurrences": [
+      [
+        3,
+        "00:00:21.931000",
+        "00:00:25.434000",
+        "Loves me, Loves me not, by Ali Silver."
+      ],
+      [
+        6,
+        "00:00:31.874000",
+        "00:00:33.910000",
+        "Loves me, loves me not."
+      ]
+    ],
+    "regex": "\\b((?!\\bLoves\\ Me,\\ Loves\\ Me\\ Not:)Loves\\ Me,\\ Loves\\ Me\\ Not)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

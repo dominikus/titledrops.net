@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0070030",
+    "title": "Emperor of the North",
+    "year": 1973,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 867,
+    "occurrences": [
+      [
+        213,
+        "00:27:47.529000",
+        "00:27:52.286000",
+        "Well, he's the road. He's the Emperor of the North Pole."
+      ],
+      [
+        726,
+        "01:36:05.488000",
+        "01:36:08.139000",
+        "you can be Emperor of the North Pole."
+      ],
+      [
+        778,
+        "01:44:25.883000",
+        "01:44:28.022000",
+        "Emperor of the North Pole!"
+      ],
+      [
+        858,
+        "01:54:26.266000",
+        "01:54:29.649000",
+        "You'll never be Emperor of the North Pole, kid!"
+      ]
+    ],
+    "regex": "\\b((?!\\bEmperor\\ of\\ the\\ North:)Emperor\\ of\\ the\\ North)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

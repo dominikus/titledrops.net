@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4909602",
+    "title": "Lust",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 282,
+    "occurrences": [
+      [
+        2,
+        "00:01:28.361000",
+        "00:01:32.160000",
+        "has just released his fifth novel, \"Lust\"."
+      ],
+      [
+        275,
+        "01:19:40.241000",
+        "01:19:45.520000",
+        "Her novel \"Lust\" has been translated into 25 languages."
+      ]
+    ],
+    "regex": "\\b((?!\\bLust:)Lust)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

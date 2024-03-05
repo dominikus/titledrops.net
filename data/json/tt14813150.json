@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt14813150",
+    "title": "Manodrome",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1063,
+    "occurrences": [
+      [
+        768,
+        "00:57:27.652000",
+        "00:57:29.696000",
+        "And a son of Manodrome."
+      ],
+      [
+        769,
+        "00:57:30.447000",
+        "00:57:32.574000",
+        "\"And a son of Manodrome.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bManodrome:)Manodrome)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

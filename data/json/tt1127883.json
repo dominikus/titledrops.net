@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1127883",
+    "title": "The Girl",
+    "year": 2012,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 452,
+    "occurrences": [
+      [
+        115,
+        "00:07:41.195000",
+        "00:07:45.197000",
+        "EVERYTHING YOU DID, GIRL, HAS BRIGHTENED UP MY DAY"
+      ],
+      [
+        258,
+        "00:21:39.364000",
+        "00:21:41.032000",
+        "HEY, AMERICAN GIRL."
+      ],
+      [
+        270,
+        "00:22:55.540000",
+        "00:22:58.542000",
+        "BE CAREFUL, PRETTY GIRL."
+      ],
+      [
+        342,
+        "00:50:31.763000",
+        "00:50:34.096000",
+        "TAKING CARE OF THAT LITTLE GIRL?"
+      ]
+    ],
+    "regex": "\\b((?!\\bGirl:)Girl)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

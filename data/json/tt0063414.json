@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0063414",
+    "title": "Partner",
+    "year": 1968,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1106,
+    "occurrences": [
+      [
+        1020,
+        "01:41:59.913000",
+        "01:42:03.906000",
+        "Yes, you're a great partner."
+      ],
+      [
+        1021,
+        "01:42:04.751000",
+        "01:42:07.287000",
+        "I'm a great partner?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPartner:)Partner)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

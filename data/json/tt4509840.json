@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt4509840",
+    "title": "The Rift: Dark Side of the Moon",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 1,
+    "all_lines": 475,
+    "occurrences": [
+      [
+        217,
+        "00:37:57.719000",
+        "00:38:04.398000",
+        "We collected geological samples from the dark side of the moon."
+      ]
+    ],
+    "regex": "\\b((?!\\bRift:)Rift|(?!\\bDark\\ Side\\ of\\ the\\ Moon:)Dark\\ Side\\ of\\ the\\ Moon)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

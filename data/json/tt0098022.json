@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0098022",
+    "title": "Old Gringo",
+    "year": 1989,
+    "genres": [
+      "Adventure",
+      "History",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 921,
+    "occurrences": [
+      [
+        164,
+        "00:18:55.760000",
+        "00:18:59.275000",
+        "A crazy old gringo on a white horse."
+      ],
+      [
+        715,
+        "01:27:20.080000",
+        "01:27:25.279000",
+        "Once upon a time an old gringo Came here to get himself killed"
+      ],
+      [
+        776,
+        "01:33:20.080000",
+        "01:33:22.275000",
+        "The old gringo gave it to me."
+      ]
+    ],
+    "regex": "\\b((?!\\bOld\\ Gringo:)Old\\ Gringo)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

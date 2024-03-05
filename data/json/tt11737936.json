@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt11737936",
+    "title": "Walnut Tree",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 690,
+    "occurrences": [
+      [
+        18,
+        "00:05:06.399000",
+        "00:05:09.808000",
+        "A story that began next to this walnut tree."
+      ],
+      [
+        19,
+        "00:05:10.249000",
+        "00:05:15.209000",
+        "Walnut Tree"
+      ],
+      [
+        20,
+        "00:05:15.380000",
+        "00:05:18.896000",
+        "The old, damaged, walnut tree outside the village."
+      ]
+    ],
+    "regex": "\\b((?!\\bWalnut\\ Tree:)Walnut\\ Tree)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

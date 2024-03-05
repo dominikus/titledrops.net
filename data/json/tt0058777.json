@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0058777",
+    "title": "Zulu",
+    "year": 1964,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 600,
+    "occurrences": [
+      [
+        5,
+        "00:01:46.320000",
+        "00:01:48.959000",
+        "between the armies of the Zulu king Cetewayo"
+      ],
+      [
+        32,
+        "00:09:32.600000",
+        "00:09:36.912000",
+        "Perhaps the Zulu girls are luckier. Getting a brave man."
+      ],
+      [
+        393,
+        "00:41:55.880000",
+        "00:42:00.556000",
+        "What for? Did I ever see a Zulu walk down the City Road? No!"
+      ],
+      [
+        442,
+        "00:45:56.120000",
+        "00:46:00.750000",
+        "A Zulu regiment can run 50 miles and fight a battle at the end of it."
+      ]
+    ],
+    "regex": "\\b((?!\\bZulu:)Zulu)(?!\\:)(?!'t)\\b",
+    "runtime": 138,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

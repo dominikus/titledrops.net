@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt21867590",
+    "title": "The Sparring Partner",
+    "year": 2022,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 2395,
+    "occurrences": [
+      [
+        18,
+        "00:03:02.499000",
+        "00:03:04.665000",
+        "\"The Sparring Partner\" We went to flat 3B"
+      ],
+      [
+        19,
+        "00:03:04.666000",
+        "00:03:08.291000",
+        "\"The Sparring Partner\" of Chung Mei Building in Tai Kok Tsui."
+      ],
+      [
+        20,
+        "00:03:08.291000",
+        "00:03:09.582000",
+        "\"The Sparring Partner\""
+      ],
+      [
+        21,
+        "00:03:09.582000",
+        "00:03:10.290000",
+        "\"The Sparring Partner\" That's Angus Tong's home."
+      ]
+    ],
+    "regex": "\\b((?!\\bSparring\\ Partner:)Sparring\\ Partner)(?!\\:)(?!'t)\\b",
+    "runtime": 138,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

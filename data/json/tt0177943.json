@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0177943",
+    "title": "New Blood",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1184,
+    "occurrences": [
+      [
+        251,
+        "00:15:11.562000",
+        "00:15:13.129000",
+        "- So you're the new blood."
+      ],
+      [
+        637,
+        "00:45:19.281000",
+        "00:45:21.544000",
+        "New blood gets spilled, it doesn't matter so much."
+      ]
+    ],
+    "regex": "\\b((?!\\bNew\\ Blood:)New\\ Blood)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

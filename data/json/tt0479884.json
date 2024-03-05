@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0479884",
+    "title": "Crank",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 777,
+    "occurrences": [
+      [
+        186,
+        "00:16:17.680000",
+        "00:16:18.999000",
+        "Crank the music."
+      ],
+      [
+        187,
+        "00:16:23.480000",
+        "00:16:25.391000",
+        "Crank it!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCrank:)Crank)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

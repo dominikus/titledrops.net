@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0056219",
+    "title": "Maniac",
+    "year": 1963,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1037,
+    "occurrences": [
+      [
+        459,
+        "00:37:16.467000",
+        "00:37:19.243000",
+        "If we were contemplating turning loose a homicidal maniac,"
+      ],
+      [
+        645,
+        "00:50:50.447000",
+        "00:50:54.259000",
+        "Make up your mind, Eve. We're dealing with a homicidal maniac."
+      ]
+    ],
+    "regex": "\\b((?!\\bManiac:)Maniac)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

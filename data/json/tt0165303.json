@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0165303",
+    "title": "The Godson",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 6,
+    "all_lines": 1543,
+    "occurrences": [
+      [
+        139,
+        "00:12:08.327000",
+        "00:12:11.330000",
+        "the godson. "
+      ],
+      [
+        491,
+        "00:35:28.926000",
+        "00:35:31.295000",
+        "Godson ?"
+      ],
+      [
+        509,
+        "00:36:27.985000",
+        "00:36:32.356000",
+        "How can you make him the godson ?  Look at him !"
+      ],
+      [
+        589,
+        "00:41:16.173000",
+        "00:41:20.077000",
+        "Who cares ?  Nobody tells the godson what to do."
+      ],
+      [
+        882,
+        "00:59:45.915000",
+        "00:59:48.718000",
+        "Maybe you'd like to buy some Godson merchandise."
+      ],
+      [
+        888,
+        "01:00:01.364000",
+        "01:00:03.333000",
+        " Here comes the Godson dinosaur."
+      ]
+    ],
+    "regex": "\\b((?!\\bGodson:)Godson)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

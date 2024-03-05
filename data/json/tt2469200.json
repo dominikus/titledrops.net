@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2469200",
+    "title": "The Conduit",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 964,
+    "occurrences": [
+      [
+        810,
+        "01:24:37.203000",
+        "01:24:41.175000",
+        "Amy... is a conduit."
+      ],
+      [
+        811,
+        "01:24:44.278000",
+        "01:24:45.445000",
+        "A conduit?"
+      ]
+    ],
+    "regex": "\\b((?!\\bConduit:)Conduit)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

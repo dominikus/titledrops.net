@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0105179",
+    "title": "Prom Night IV: Deliver Us from Evil",
+    "year": 1991,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 616,
+    "occurrences": [
+      [
+        254,
+        "00:36:00.626000",
+        "00:36:04.394000",
+        "Here's to prom night. To prom night. Prom night."
+      ],
+      [
+        516,
+        "01:10:01.864000",
+        "01:10:03.898000",
+        "Lead us not into temptation, but deliver us from evil,"
+      ]
+    ],
+    "regex": "\\b((?!\\bProm\\ Night:)Prom\\ Night|(?!\\bDeliver\\ Us\\ from\\ Evil:)Deliver\\ Us\\ from\\ Evil)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

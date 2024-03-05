@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2317337",
+    "title": "Vicky Donor",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 2140,
+    "occurrences": [
+      [
+        1918,
+        "01:47:19.733000",
+        "01:47:22.725000",
+        "Sir this is the file of Vicky Donor and all the details are in this."
+      ],
+      [
+        2028,
+        "01:54:17.083000",
+        "01:54:20.280000",
+        "Before Vicky donor came into their life."
+      ]
+    ],
+    "regex": "\\b((?!\\bVicky\\ Donor:)Vicky\\ Donor)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

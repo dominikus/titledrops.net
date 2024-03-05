@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0073014",
+    "title": "Foxtrot",
+    "year": 1976,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 882,
+    "occurrences": [
+      [
+        671,
+        "01:03:37.250000",
+        "01:03:40.125000",
+        "I've often wondered why you like Foxtrot so much."
+      ],
+      [
+        871,
+        "01:27:45.333000",
+        "01:27:49.875000",
+        "# Dancing, sharing a foxtrot"
+      ]
+    ],
+    "regex": "\\b((?!\\bFoxtrot:)Foxtrot)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

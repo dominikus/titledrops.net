@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0261833",
+    "title": "Mission: Killfast",
+    "year": 1991,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "count": 2,
+    "all_lines": 1032,
+    "occurrences": [
+      [
+        987,
+        "01:22:12.594000",
+        "01:22:14.960000",
+        "Enough. Killfast Operation."
+      ],
+      [
+        1010,
+        "01:25:50.771000",
+        "01:25:52.853000",
+        "There's the camp. Killfast."
+      ]
+    ],
+    "regex": "\\b((?!\\bMission:)Mission|(?!\\bKillfast:)Killfast)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

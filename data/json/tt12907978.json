@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt12907978",
+    "title": "Two Types of People",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1384,
+    "occurrences": [
+      [
+        581,
+        "00:39:31.583000",
+        "00:39:33.667000",
+        "there are always two types of people."
+      ],
+      [
+        878,
+        "00:59:00.167000",
+        "00:59:02.292000",
+        "But there are two types of people, right?"
+      ],
+      [
+        1027,
+        "01:09:08.750000",
+        "01:09:10.500000",
+        "There really are two types of people."
+      ],
+      [
+        1056,
+        "01:11:43.042000",
+        "01:11:44.375000",
+        "there are two types of people."
+      ]
+    ],
+    "regex": "\\b((?!\\bTwo\\ Types\\ of\\ People:)Two\\ Types\\ of\\ People)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

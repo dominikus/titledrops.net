@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt0089714",
+    "title": "O-Bi, O-Ba: The End of Civilization",
+    "year": 1985,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 1,
+    "all_lines": 838,
+    "occurrences": [
+      [
+        0,
+        "00:00:10.861000",
+        "00:00:14.917000",
+        "O-bi, o-ba. The End of civilisation."
+      ]
+    ],
+    "regex": "\\b((?!\\bO\\-Bi,\\ O\\-Ba:)O\\-Bi,\\ O\\-Ba|(?!\\bEnd\\ of\\ Civilization:)End\\ of\\ Civilization)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

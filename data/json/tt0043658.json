@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0043658",
+    "title": "Hotel Sahara",
+    "year": 1951,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "War"
+    ],
+    "count": 5,
+    "all_lines": 1662,
+    "occurrences": [
+      [
+        39,
+        "00:03:40.416000",
+        "00:03:42.125000",
+        "Then the Hotel Sahara will belong to you"
+      ],
+      [
+        71,
+        "00:04:59.791000",
+        "00:05:04.125000",
+        "The Italian Army isadvancing on Hotel Sahara!"
+      ],
+      [
+        506,
+        "00:24:31.791000",
+        "00:24:33.958000",
+        "This is Hotel Sahara speaking."
+      ],
+      [
+        507,
+        "00:24:34.083000",
+        "00:24:36.958000",
+        "Ho-- Hotel Sahara?"
+      ],
+      [
+        655,
+        "00:33:52",
+        "00:33:54.708000",
+        "Welcome to Hotel Sahara, gentlemen."
+      ]
+    ],
+    "regex": "\\b((?!\\bHotel\\ Sahara:)Hotel\\ Sahara)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

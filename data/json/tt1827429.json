@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1827429",
+    "title": "Hangman's Game",
+    "year": 2015,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1252,
+    "occurrences": [
+      [
+        1026,
+        "01:09:44.848000",
+        "01:09:45.982000",
+        "The hangman's game."
+      ],
+      [
+        1028,
+        "01:09:50.720000",
+        "01:09:52.589000",
+        "Hangman's game."
+      ]
+    ],
+    "regex": "\\b((?!\\bHangman's\\ Game:)Hangman's\\ Game)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.9
+  }
+]

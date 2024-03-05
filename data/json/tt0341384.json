@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0341384",
+    "title": "The Coast Guard",
+    "year": 2002,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 335,
+    "occurrences": [
+      [
+        31,
+        "00:04:37.110000",
+        "00:04:39.078000",
+        "Coast Guard platoon, 23 reporting and one on duty."
+      ],
+      [
+        331,
+        "00:47:24.341000",
+        "00:47:27.071000",
+        "Coast Guard Platoon. 22 soldiers reporting and one on duty."
+      ]
+    ],
+    "regex": "\\b((?!\\bCoast\\ Guard:)Coast\\ Guard)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

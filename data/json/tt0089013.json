@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0089013",
+    "title": "Demons",
+    "year": 1985,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 763,
+    "occurrences": [
+      [
+        96,
+        "00:13:23.553000",
+        "00:13:27.641000",
+        "Hitler, world wars, the coming of the demons."
+      ],
+      [
+        173,
+        "00:19:08.815000",
+        "00:19:11.151000",
+        "It's something about demons."
+      ],
+      [
+        176,
+        "00:19:18.825000",
+        "00:19:22.537000",
+        "It says here that demons are instruments of evil."
+      ]
+    ],
+    "regex": "\\b((?!\\bDemons:)Demons)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

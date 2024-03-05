@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3134422",
+    "title": "Gold",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 1081,
+    "occurrences": [
+      [
+        139,
+        "00:11:55.465000",
+        "00:11:59.010000",
+        "but Abbie's never been afraid to shoot for the gold."
+      ],
+      [
+        482,
+        "00:33:21.126000",
+        "00:33:24.629000",
+        "\"Hey Frank, how come all these medals here are gold?"
+      ],
+      [
+        849,
+        "01:00:29.045000",
+        "01:00:34.300000",
+        "you could be sitting on a big pot of digital gold."
+      ],
+      [
+        851,
+        "01:00:35.844000",
+        "01:00:39.723000",
+        "Digital gold, Frank. Those were his exact words."
+      ]
+    ],
+    "regex": "\\b((?!\\bGold:)Gold)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

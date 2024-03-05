@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt10945328",
+    "title": "Food Club",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 827,
+    "occurrences": [
+      [
+        86,
+        "00:07:03.424000",
+        "00:07:10.104000",
+        "\"The Food Club. An exclusive cooking class in Apulia, Italy, for two.\""
+      ],
+      [
+        786,
+        "01:27:50.064000",
+        "01:27:53.184000",
+        "-Maybe we'd form a food club? -A food club?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFood\\ Club:)Food\\ Club)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

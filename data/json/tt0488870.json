@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0488870",
+    "title": "Always: Sunset on Third Street",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 643,
+    "occurrences": [
+      [
+        252,
+        "00:24:47.432000",
+        "00:24:50.663000",
+        "He applies for every prize but always gets rejected"
+      ],
+      [
+        436,
+        "00:44:24.141000",
+        "00:44:26.701000",
+        "Is he always like that?"
+      ],
+      [
+        509,
+        "00:51:02.206000",
+        "00:51:04.333000",
+        "What are you always writing?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAlways:)Always|(?!\\bSunset\\ on\\ Third\\ Street:)Sunset\\ on\\ Third\\ Street)(?!\\:)(?!'t)\\b",
+    "runtime": 133,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0071360",
+    "title": "The Conversation",
+    "year": 1974,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 661,
+    "occurrences": [
+      [
+        412,
+        "00:33:37.641000",
+        "00:33:40.060000",
+        "Who started this conversation anyhow?"
+      ],
+      [
+        437,
+        "00:34:54.885000",
+        "00:34:56.761000",
+        "What a stupid conversation."
+      ],
+      [
+        539,
+        "00:43:09.838000",
+        "00:43:11.214000",
+        "of an important conversation."
+      ]
+    ],
+    "regex": "\\b((?!\\bConversation:)Conversation)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

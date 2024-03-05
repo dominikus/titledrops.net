@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1663660",
+    "title": "On the Ice",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 820,
+    "occurrences": [
+      [
+        103,
+        "00:09:06.023000",
+        "00:09:08.438000",
+        "Out on the ice."
+      ],
+      [
+        554,
+        "00:55:20.764000",
+        "00:55:24.347000",
+        "That day on the ice, I thought his dad was gonna fucking kill me."
+      ]
+    ],
+    "regex": "\\b((?!\\bOn\\ the\\ Ice:)On\\ the\\ Ice)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

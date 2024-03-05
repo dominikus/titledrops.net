@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5436486",
+    "title": "The Secret",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1211,
+    "occurrences": [
+      [
+        168,
+        "00:19:20.040000",
+        "00:19:23.200000",
+        "Can you keep a secret?"
+      ],
+      [
+        173,
+        "00:19:32.840000",
+        "00:19:34.160000",
+        "It's a secret..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSecret:)Secret)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

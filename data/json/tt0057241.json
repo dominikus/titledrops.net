@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0057241",
+    "title": "Ladies Who Do",
+    "year": 1963,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 762,
+    "occurrences": [
+      [
+        251,
+        "00:27:58.530000",
+        "00:28:02.785000",
+        "I know the ladies who do."
+      ],
+      [
+        304,
+        "00:33:46.356000",
+        "00:33:53.281000",
+        "Ladies Who Do - Ladies Who Do. - Very funny, you know."
+      ]
+    ],
+    "regex": "\\b((?!\\bLadies\\ Who\\ Do:)Ladies\\ Who\\ Do)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

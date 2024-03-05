@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0330069",
+    "title": "Blue Collar Comedy Tour: The Movie",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 2142,
+    "occurrences": [
+      [
+        40,
+        "00:02:01.888000",
+        "00:02:03.528000",
+        "BILL: You remember that movie, 9 1/2 Weeks?"
+      ],
+      [
+        574,
+        "00:26:58.500000",
+        "00:27:00.420000",
+        "Hi there, we're with the Blue Collar Comedy Tour."
+      ],
+      [
+        958,
+        "00:44:06.227000",
+        "00:44:08.147000",
+        "You want to show me a real love scene in a movie,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Collar\\ Comedy\\ Tour:)Blue\\ Collar\\ Comedy\\ Tour|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt21622842",
+    "title": "Warrior Strong",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 3,
+    "all_lines": 1674,
+    "occurrences": [
+      [
+        1559,
+        "01:28:03.084000",
+        "01:28:06.353000",
+        "Warrior strong on three. One, two, three..."
+      ],
+      [
+        1560,
+        "01:28:06.386000",
+        "01:28:07.487000",
+        "Warrior strong!"
+      ],
+      [
+        1617,
+        "01:30:26.661000",
+        "01:30:28.796000",
+        "One, two, three. Warrior strong!"
+      ]
+    ],
+    "regex": "\\b((?!\\bWarrior\\ Strong:)Warrior\\ Strong)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

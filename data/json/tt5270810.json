@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5270810",
+    "title": "Earthquake",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 786,
+    "occurrences": [
+      [
+        744,
+        "01:33:02.440000",
+        "01:33:08.163000",
+        "During the earthquake the energy released equaled 1O atomic bombs dropped on Hiroshima in 1945."
+      ],
+      [
+        745,
+        "01:33:08.320000",
+        "01:33:11.927000",
+        "As a result of the earthquake 58 villages as well as the city of Spitak were erased from the face of the Earth."
+      ]
+    ],
+    "regex": "\\b((?!\\bEarthquake:)Earthquake)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

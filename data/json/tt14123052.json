@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt14123052",
+    "title": "Groomed",
+    "year": 2021,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1088,
+    "occurrences": [
+      [
+        280,
+        "00:23:46.792000",
+        "00:23:49.193000",
+        "He also groomed my family."
+      ],
+      [
+        463,
+        "00:37:10.261000",
+        "00:37:12.062000",
+        "Talk about being groomed, like..."
+      ],
+      [
+        515,
+        "00:39:36.173000",
+        "00:39:38.475000",
+        "because he groomed you to think that."
+      ],
+      [
+        754,
+        "01:00:44.107000",
+        "01:00:46.208000",
+        "The part of me that is groomed"
+      ]
+    ],
+    "regex": "\\b((?!\\bGroomed:)Groomed)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0469640",
+    "title": "Bathory: Countess of Blood",
+    "year": 2008,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 5,
+    "all_lines": 684,
+    "occurrences": [
+      [
+        5,
+        "00:00:56.937000",
+        "00:01:01.478000",
+        "Countess Erzsebet Bathory."
+      ],
+      [
+        18,
+        "00:02:18.443000",
+        "00:02:23.289000",
+        "I trust my  daughter Erzsebet Bathory,"
+      ],
+      [
+        64,
+        "00:06:29.744000",
+        "00:06:33.100000",
+        "BATHORY"
+      ],
+      [
+        270,
+        "00:26:27.390000",
+        "00:26:31.127000",
+        "Cardinal Andrasz Bathory, a true saint."
+      ],
+      [
+        272,
+        "00:26:34.910000",
+        "00:26:37.167000",
+        "Great aunt Arnica Bathory."
+      ]
+    ],
+    "regex": "\\b((?!\\bBathory:)Bathory|(?!\\bCountess\\ of\\ Blood:)Countess\\ of\\ Blood)(?!\\:)(?!'t)\\b",
+    "runtime": 141,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

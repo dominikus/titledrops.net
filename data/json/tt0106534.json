@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0106534",
+    "title": "The Earth's Most Beloved Son",
+    "year": 1993,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1232,
+    "occurrences": [
+      [
+        0,
+        "00:00:02.705000",
+        "00:00:06.895000",
+        "The Earth's Most Beloved Son"
+      ],
+      [
+        1063,
+        "01:57:48.064000",
+        "01:57:50.398000",
+        "- You're Earth's most beloved son. Do you like it?"
+      ]
+    ],
+    "regex": "\\b((?!\\bEarth's\\ Most\\ Beloved\\ Son:)Earth's\\ Most\\ Beloved\\ Son)(?!\\:)(?!'t)\\b",
+    "runtime": 138,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.4
+  }
+]

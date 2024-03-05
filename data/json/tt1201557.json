@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1201557",
+    "title": "Acid Factory",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1187,
+    "occurrences": [
+      [
+        314,
+        "00:31:39.344000",
+        "00:31:41.835000",
+        "This is an acid factory."
+      ],
+      [
+        984,
+        "01:19:51.900000",
+        "01:19:54.334000",
+        "We had a shooting at the acid factory near this place."
+      ],
+      [
+        985,
+        "01:20:04.146000",
+        "01:20:05.670000",
+        "The acid factory."
+      ]
+    ],
+    "regex": "\\b((?!\\bAcid\\ Factory:)Acid\\ Factory)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

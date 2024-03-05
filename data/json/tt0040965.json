@@ -1,0 +1,58 @@
+[
+  {
+    "imdb": "tt0040965",
+    "title": "Whispering Smith",
+    "year": 1948,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 6,
+    "all_lines": 938,
+    "occurrences": [
+      [
+        31,
+        "00:05:16.560000",
+        "00:05:19.720000",
+        "Now he's way up there... Whispering Smith."
+      ],
+      [
+        38,
+        "00:05:37.880000",
+        "00:05:40.240000",
+        "Yeah, but why do they call him \"Whispering Smith\"?"
+      ],
+      [
+        40,
+        "00:05:44.320000",
+        "00:05:49.320000",
+        "and you hear somebody behind you talkin' low and quiet, it's Whispering Smith and you're in trouble"
+      ],
+      [
+        190,
+        "00:19:28.720000",
+        "00:19:32.640000",
+        "Say, what's this I hear about Whispering Smith? Got himself shot up or something, huh?"
+      ],
+      [
+        317,
+        "00:28:45.200000",
+        "00:28:48.920000",
+        "Whispering Smith'll be breathing down the back of your neck."
+      ],
+      [
+        403,
+        "00:36:38.680000",
+        "00:36:41.760000",
+        "Say, are you Whispering Smith? That's what they tell me."
+      ]
+    ],
+    "regex": "\\b((?!\\bWhispering\\ Smith:)Whispering\\ Smith)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [
+      "Whispering Smith"
+    ],
+    "title_is_name": true,
+    "rating": 6.6
+  }
+]

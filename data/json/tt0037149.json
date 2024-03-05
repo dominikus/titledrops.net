@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0037149",
+    "title": "On Approval",
+    "year": 1944,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1093,
+    "occurrences": [
+      [
+        169,
+        "00:11:54.515000",
+        "00:11:56.193000",
+        "Take him away? On approval."
+      ],
+      [
+        803,
+        "00:56:27.673000",
+        "00:56:30.103000",
+        "old woman hadn't started this on approval business."
+      ]
+    ],
+    "regex": "\\b((?!\\bOn\\ Approval:)On\\ Approval)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

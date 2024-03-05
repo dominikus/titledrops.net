@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt8936646",
+    "title": "Extraction",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 924,
+    "occurrences": [
+      [
+        120,
+        "00:12:17.958000",
+        "00:12:20",
+        "Extraction. Indian kid."
+      ],
+      [
+        155,
+        "00:15:23.125000",
+        "00:15:27.333000",
+        "This is our extraction point. So, Jose and Thiago will man a boat,"
+      ],
+      [
+        297,
+        "00:29:04.750000",
+        "00:29:07.625000",
+        "Proceeding to extraction. Let's go."
+      ],
+      [
+        641,
+        "01:02:04.416000",
+        "01:02:08.875000",
+        "I told Nik that an extraction is... It's not feasible."
+      ]
+    ],
+    "regex": "\\b((?!\\bExtraction:)Extraction)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0330080",
+    "title": "The Great Role",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1080,
+    "occurrences": [
+      [
+        44,
+        "00:04:48.955000",
+        "00:04:53.585000",
+        "The Great Role"
+      ],
+      [
+        998,
+        "01:19:12.714000",
+        "01:19:17.083000",
+        "The great role Maurice never got, he's been playing for his wife."
+      ]
+    ],
+    "regex": "\\b((?!\\bGreat\\ Role:)Great\\ Role)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

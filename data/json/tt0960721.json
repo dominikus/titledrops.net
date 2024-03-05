@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0960721",
+    "title": "Adventures of Power",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1472,
+    "occurrences": [
+      [
+        1,
+        "00:00:04.178000",
+        "00:00:05.458000",
+        "I directed \"Adventures of Power,\""
+      ],
+      [
+        17,
+        "00:00:40.716000",
+        "00:00:43.325000",
+        "Now, get ready for \"Adventures of Power.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bAdventures\\ of\\ Power:)Adventures\\ of\\ Power)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

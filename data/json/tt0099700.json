@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0099700",
+    "title": "Gremlins 2: The New Batch",
+    "year": 1990,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 1002,
+    "occurrences": [
+      [
+        603,
+        "00:58:01.161000",
+        "00:58:05.757000",
+        "Just rereleased on video is Gremlins, though I can't imagine why."
+      ],
+      [
+        691,
+        "01:08:10.669000",
+        "01:08:13.263000",
+        "Mom, I wanna see the Gremlins!"
+      ],
+      [
+        700,
+        "01:08:46.105000",
+        "01:08:49.905000",
+        "Mr. Hulk, we have Gremlins in the projection booth."
+      ],
+      [
+        701,
+        "01:08:50.109000",
+        "01:08:54.512000",
+        "- Could you help us? - Gremlins? In this theater? Now?"
+      ],
+      [
+        707,
+        "01:09:12.998000",
+        "01:09:17.901000",
+        "If I were you, I'd run the rest of Gremlins 2 right now!"
+      ],
+      [
+        754,
+        "01:15:02.181000",
+        "01:15:05.639000",
+        "That's not a fire in there. They're gremlins."
+      ]
+    ],
+    "regex": "\\b((?!\\bGremlins:)Gremlins|(?!\\bNew\\ Batch:)New\\ Batch)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

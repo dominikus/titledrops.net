@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt6665464",
+    "title": "The Marriage",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1364,
+    "occurrences": [
+      [
+        227,
+        "00:17:34.255000",
+        "00:17:37.422000",
+        "She wants to meet you and congratulate you on your marriage"
+      ],
+      [
+        1199,
+        "01:18:01.953000",
+        "01:18:04.661000",
+        "of the law on marriage and family relations"
+      ],
+      [
+        1208,
+        "01:18:35.450000",
+        "01:18:40.165000",
+        "Are you willfully entering marriage with the bride who stands before you?"
+      ],
+      [
+        1211,
+        "01:18:46.209000",
+        "01:18:51.334000",
+        "Are you willfully entering marriage with the groom who stands before you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMarriage:)Marriage)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt20426646",
+    "title": "It Came from the Water",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1400,
+    "occurrences": [
+      [
+        9,
+        "00:00:45.023000",
+        "00:00:47.815000",
+        "You need to know it came from the water."
+      ],
+      [
+        1342,
+        "01:46:54.939000",
+        "01:46:58.271000",
+        "You need to know it came from the water."
+      ]
+    ],
+    "regex": "\\b((?!\\bIt\\ Came\\ from\\ the\\ Water:)It\\ Came\\ from\\ the\\ Water)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

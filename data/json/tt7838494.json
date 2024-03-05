@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt7838494",
+    "title": "The Waiter",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 285,
+    "occurrences": [
+      [
+        56,
+        "00:15:32.140000",
+        "00:15:34.500000",
+        "Do you like being a waiter ?"
+      ],
+      [
+        58,
+        "00:15:42.260000",
+        "00:15:45.260000",
+        "I'm a waiter. Have been all my life."
+      ],
+      [
+        61,
+        "00:15:58.020000",
+        "00:16:02.300000",
+        "But this is where I am now. Professional waiter."
+      ],
+      [
+        118,
+        "00:34:38.940000",
+        "00:34:40.940000",
+        "I'm a waiter."
+      ]
+    ],
+    "regex": "\\b((?!\\bWaiter:)Waiter)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt18450548",
+    "title": "Don't Leave",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1675,
+    "occurrences": [
+      [
+        25,
+        "00:01:28.041000",
+        "00:01:30.416000",
+        "Hey, come on. Don't leave if you don't want to."
+      ],
+      [
+        1474,
+        "01:27:40.375000",
+        "01:27:41.500000",
+        "Don't leave it."
+      ]
+    ],
+    "regex": "\\b((?!\\bDon't\\ Leave:)Don't\\ Leave)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

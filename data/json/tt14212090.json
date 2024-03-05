@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt14212090",
+    "title": "Scarlet",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 676,
+    "occurrences": [
+      [
+        1,
+        "00:02:23.268000",
+        "00:02:26.563000",
+        "\"Scarlet Sails\" - Alexander Grin"
+      ],
+      [
+        313,
+        "00:46:08.391000",
+        "00:46:13.271000",
+        "you'll spot scarlet sails in the sky,"
+      ],
+      [
+        349,
+        "00:49:48.235000",
+        "00:49:51.614000",
+        "Look at the sky tomorrow, the scarlet sails are coming,"
+      ],
+      [
+        467,
+        "01:01:24.639000",
+        "01:01:28.143000",
+        "Scarlet sails, the color of stars"
+      ]
+    ],
+    "regex": "\\b((?!\\bScarlet:)Scarlet)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

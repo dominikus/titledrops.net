@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt3515632",
+    "title": "SWAT: Unit 887",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1325,
+    "occurrences": [
+      [
+        22,
+        "00:03:04.984000",
+        "00:03:06.429000",
+        "SWAT, give it up, man."
+      ],
+      [
+        430,
+        "00:33:39.283000",
+        "00:33:40.785000",
+        "Any available unit respond."
+      ],
+      [
+        467,
+        "00:35:08.372000",
+        "00:35:10.443000",
+        "LAPD, first year of SWAT."
+      ],
+      [
+        1263,
+        "01:26:56.144000",
+        "01:26:58.454000",
+        "Call a hazmat unit, and have them set up a perimeter."
+      ]
+    ],
+    "regex": "\\b((?!\\bSWAT:)SWAT|(?!\\bUnit:)Unit)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.6
+  }
+]

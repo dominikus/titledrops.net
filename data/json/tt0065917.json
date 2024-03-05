@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt0065917",
+    "title": "Jonathan",
+    "year": 1970,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 188,
+    "occurrences": [
+      [
+        117,
+        "00:37:05.058000",
+        "00:37:06.599000",
+        "Jonathan!"
+      ],
+      [
+        118,
+        "00:37:10.764000",
+        "00:37:12.728000",
+        "Jonathan!"
+      ],
+      [
+        119,
+        "00:37:14.157000",
+        "00:37:16.613000",
+        "Jonathan! Don't go with him!"
+      ]
+    ],
+    "regex": "\\b((?!\\bJonathan:)Jonathan)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [
+      "Jonathan"
+    ],
+    "title_is_name": true,
+    "rating": 6.1
+  }
+]

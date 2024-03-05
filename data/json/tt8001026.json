@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt8001026",
+    "title": "Gringa",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 1596,
+    "occurrences": [
+      [
+        848,
+        "00:49:03.331000",
+        "00:49:05.638000",
+        "-Not gringa? -Tambien."
+      ],
+      [
+        849,
+        "00:49:05.812000",
+        "00:49:06.900000",
+        "Gringa y amiga."
+      ],
+      [
+        1474,
+        "01:30:54.536000",
+        "01:30:57.582000",
+        "Gringa, Gringa!"
+      ]
+    ],
+    "regex": "\\b((?!\\bGringa:)Gringa)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

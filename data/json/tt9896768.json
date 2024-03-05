@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt9896768",
+    "title": "The Immortal Wars: Rebirth",
+    "year": 2021,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 955,
+    "occurrences": [
+      [
+        53,
+        "00:03:24.405000",
+        "00:03:29.109000",
+        "The immortal wars, an annual event that is held in the U.S."
+      ],
+      [
+        57,
+        "00:03:39.620000",
+        "00:03:42.656000",
+        "The immortal wars ran successfully for 13 ages."
+      ],
+      [
+        65,
+        "00:04:02.676000",
+        "00:04:04.912000",
+        "during the 13th age of the immortal wars,"
+      ],
+      [
+        603,
+        "00:53:42.019000",
+        "00:53:45.155000",
+        "you represent Mexico in this age's immortal wars."
+      ]
+    ],
+    "regex": "\\b((?!\\bImmortal\\ Wars:)Immortal\\ Wars|(?!\\bRebirth:)Rebirth)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

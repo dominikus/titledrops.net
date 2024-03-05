@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0352277",
+    "title": "De-Lovely",
+    "year": 2004,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1645,
+    "occurrences": [
+      [
+        382,
+        "00:23:05.400000",
+        "00:23:07.300000",
+        "It's de-lovely"
+      ],
+      [
+        397,
+        "00:23:49.400000",
+        "00:23:52.600000",
+        "It's de-Ritz, it's de-lovely"
+      ]
+    ],
+    "regex": "\\b((?!\\bDe\\-Lovely:)De\\-Lovely)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

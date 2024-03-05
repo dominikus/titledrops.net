@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt4687358",
+    "title": "Beyond the Gates",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 860,
+    "occurrences": [
+      [
+        270,
+        "00:24:08.281000",
+        "00:24:10.281000",
+        "\"Beyond the gates.\""
+      ],
+      [
+        291,
+        "00:25:20.586000",
+        "00:25:25.723000",
+        "Have you the courage to go beyond the gates?"
+      ],
+      [
+        391,
+        "00:30:58.591000",
+        "00:31:02.359000",
+        "allows passage beyond the gates"
+      ],
+      [
+        825,
+        "01:15:59.121000",
+        "01:16:01.222000",
+        "- You've now passed beyond the gates."
+      ]
+    ],
+    "regex": "\\b((?!\\bBeyond\\ the\\ Gates:)Beyond\\ the\\ Gates)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

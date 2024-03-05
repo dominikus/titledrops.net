@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2857458",
+    "title": "Mortadelo and Filemon: Mission Implausible",
+    "year": 2014,
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1355,
+    "occurrences": [
+      [
+        170,
+        "00:13:59.347000",
+        "00:14:02.307000",
+        "MORTADELO AND FILEMON"
+      ],
+      [
+        241,
+        "00:21:51.819000",
+        "00:21:56.364000",
+        "Mortadelo and Filemon, report immediately to T.I.A. Headquarters."
+      ],
+      [
+        925,
+        "00:59:15.435000",
+        "00:59:17.269000",
+        "Mortadelo and Filemon, from the T.I.A."
+      ],
+      [
+        1349,
+        "01:31:24.153000",
+        "01:31:25.570000",
+        "To you, Dad, for inserting Mortadelo and Filemon"
+      ]
+    ],
+    "regex": "\\b((?!\\bMortadelo\\ and\\ Filemon:)Mortadelo\\ and\\ Filemon|(?!\\bMission\\ Implausible:)Mission\\ Implausible)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

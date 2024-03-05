@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt6598072",
+    "title": "The Ranger",
+    "year": 2018,
+    "genres": [
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 1033,
+    "occurrences": [
+      [
+        233,
+        "00:15:22.269000",
+        "00:15:24.662000",
+        "GARTH: Look, Mr. Park Ranger, sir."
+      ],
+      [
+        241,
+        "00:15:48.948000",
+        "00:15:52.864000",
+        "What are you going to do about it Mr. Park Ranger, sir?"
+      ],
+      [
+        545,
+        "00:38:39.099000",
+        "00:38:41.057000",
+        "Isn't that what the ranger-dude said?"
+      ],
+      [
+        596,
+        "00:41:52.248000",
+        "00:41:56.644000",
+        "The Ranger was working here when I used to come visit."
+      ],
+      [
+        769,
+        "00:50:41.690000",
+        "00:50:45.433000",
+        "Found property must be brought to the nearest park ranger."
+      ],
+      [
+        829,
+        "00:55:43.731000",
+        "00:55:45.559000",
+        "Ranger's house."
+      ]
+    ],
+    "regex": "\\b((?!\\bRanger:)Ranger)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [
+      "The Ranger"
+    ],
+    "title_is_name": true,
+    "rating": 5.1
+  }
+]

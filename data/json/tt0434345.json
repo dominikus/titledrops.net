@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0434345",
+    "title": "Snow White",
+    "year": 2005,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1293,
+    "occurrences": [
+      [
+        195,
+        "00:14:02.130000",
+        "00:14:03.609000",
+        "he calls me \"Snow White\","
+      ],
+      [
+        197,
+        "00:14:06.890000",
+        "00:14:08.243000",
+        "Snow White ..."
+      ],
+      [
+        1174,
+        "01:32:28.250000",
+        "01:32:29.808000",
+        "A new \"Snow White\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSnow\\ White:)Snow\\ White)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4453756",
+    "title": "Flora",
+    "year": 2017,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 900,
+    "occurrences": [
+      [
+        460,
+        "00:39:22.235000",
+        "00:39:25.029000",
+        "There's no flora with any color, nothing to allure insects!"
+      ],
+      [
+        752,
+        "01:08:20.388000",
+        "01:08:21.639000",
+        "all other deciduous flora."
+      ]
+    ],
+    "regex": "\\b((?!\\bFlora:)Flora)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

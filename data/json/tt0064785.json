@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0064785",
+    "title": "Colonel Wolodyjowski",
+    "year": 1969,
+    "genres": [
+      "Adventure",
+      "History",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 595,
+    "occurrences": [
+      [
+        72,
+        "00:09:02.241000",
+        "00:09:06.200000",
+        "And how's Colonel Wolodyjowski doing? Is he well?"
+      ],
+      [
+        565,
+        "01:11:22.911000",
+        "01:11:25.880000",
+        "Long live Colonel Wolodyjowski!"
+      ]
+    ],
+    "regex": "\\b((?!\\bColonel\\ Wolodyjowski:)Colonel\\ Wolodyjowski)(?!\\:)(?!'t)\\b",
+    "runtime": 160,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

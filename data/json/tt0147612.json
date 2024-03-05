@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0147612",
+    "title": "Happiness",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 8,
+    "all_lines": 1334,
+    "occurrences": [
+      [
+        382,
+        "00:31:31.870000",
+        "00:31:37.331000",
+        "Happiness, where are you... I've searched so long for you."
+      ],
+      [
+        383,
+        "00:31:38.276000",
+        "00:31:40.540000",
+        "Happiness where are you..."
+      ],
+      [
+        385,
+        "00:31:44.316000",
+        "00:31:54.248000",
+        "Happiness, why do you have to stay so far away... from me."
+      ],
+      [
+        387,
+        "00:32:02.467000",
+        "00:32:07.905000",
+        "...l know that I don't dare to end my search for happiness."
+      ],
+      [
+        388,
+        "00:32:08.607000",
+        "00:32:11.599000",
+        "Happiness where are you, l..."
+      ],
+      [
+        1332,
+        "01:57:28.722000",
+        "01:57:33.284000",
+        "To happiness. To happiness! To happiness!"
+      ]
+    ],
+    "regex": "\\b((?!\\bHappiness:)Happiness)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

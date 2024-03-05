@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0116331",
+    "title": "Focus",
+    "year": 1996,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1048,
+    "occurrences": [
+      [
+        27,
+        "00:02:38.625000",
+        "00:02:40.149000",
+        "We'll check size and focus."
+      ],
+      [
+        54,
+        "00:05:10.243000",
+        "00:05:11.403000",
+        "Focus on you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFocus:)Focus)(?!\\:)(?!'t)\\b",
+    "runtime": 73,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

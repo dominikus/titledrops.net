@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0234853",
+    "title": "The Tao of Steve",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1367,
+    "occurrences": [
+      [
+        701,
+        "00:38:59",
+        "00:39:03",
+        "That takes us to part three of the Tao of Steve."
+      ],
+      [
+        873,
+        "00:49:54",
+        "00:49:58",
+        "I just want to tell you I'm not going to do your stupid Tao of Steve thing anymore."
+      ],
+      [
+        1241,
+        "01:15:27",
+        "01:15:31",
+        "- What works? - The tao of Steve, Dex's rules for picking up chicks."
+      ],
+      [
+        1341,
+        "01:21:22",
+        "01:21:26",
+        "The Tao of Steve isn't about picking up lots of women."
+      ]
+    ],
+    "regex": "\\b((?!\\bTao\\ of\\ Steve:)Tao\\ of\\ Steve)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

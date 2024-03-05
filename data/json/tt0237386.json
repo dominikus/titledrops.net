@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0237386",
+    "title": "Landscape",
+    "year": 2000,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 815,
+    "occurrences": [
+      [
+        808,
+        "01:47:32.212000",
+        "01:47:34.271000",
+        "Only a small landscape remains of it."
+      ],
+      [
+        814,
+        "01:47:57.537000",
+        "01:48:01.166000",
+        "And the landscape is a white spot on a map."
+      ]
+    ],
+    "regex": "\\b((?!\\bLandscape:)Landscape)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

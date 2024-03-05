@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7891470",
+    "title": "The Merger",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 2271,
+    "occurrences": [
+      [
+        132,
+        "00:05:56.773000",
+        "00:06:00.187000",
+        "- You can't just force us into a merger, Geoff!"
+      ],
+      [
+        133,
+        "00:06:00.193000",
+        "00:06:01.650000",
+        "- What's a merger?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMerger:)Merger)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

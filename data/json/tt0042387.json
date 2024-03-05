@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0042387",
+    "title": "Deported",
+    "year": 1950,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 4,
+    "all_lines": 1314,
+    "occurrences": [
+      [
+        94,
+        "00:05:55.145000",
+        "00:05:57.940000",
+        "However, since you come to us as a deported citizen,"
+      ],
+      [
+        112,
+        "00:06:33.058000",
+        "00:06:34.643000",
+        "who have been deported from the States."
+      ],
+      [
+        154,
+        "00:09:21.226000",
+        "00:09:23.145000",
+        "I was bounced out, deported."
+      ],
+      [
+        1144,
+        "01:09:55.774000",
+        "01:09:57.651000",
+        "I was deported."
+      ]
+    ],
+    "regex": "\\b((?!\\bDeported:)Deported)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

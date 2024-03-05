@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2101441",
+    "title": "Spring Breakers",
+    "year": 2012,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 978,
+    "occurrences": [
+      [
+        396,
+        "00:36:11.588000",
+        "00:36:13.382000",
+        "Now let me guess. Spring breakers?"
+      ],
+      [
+        718,
+        "00:56:57.668000",
+        "00:57:01.004000",
+        "Go back and do what white boys do, like robbing spring breakers,"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpring\\ Breakers:)Spring\\ Breakers)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

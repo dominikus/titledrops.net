@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0097052",
+    "title": "Checking Out",
+    "year": 1988,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1393,
+    "occurrences": [
+      [
+        1212,
+        "01:19:59.528000",
+        "01:20:01.393000",
+        "You're checking out, pal. Let's get out of here."
+      ],
+      [
+        1217,
+        "01:20:32.260000",
+        "01:20:34.091000",
+        "I knew I was checking out, but nobody believed me."
+      ],
+      [
+        1231,
+        "01:21:48.503000",
+        "01:21:51.768000",
+        "You're checking out. That's none of your business."
+      ]
+    ],
+    "regex": "\\b((?!\\bChecking\\ Out:)Checking\\ Out)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt1176252",
+    "title": "Hunger",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Crime",
+      "Horror"
+    ],
+    "count": 7,
+    "all_lines": 501,
+    "occurrences": [
+      [
+        208,
+        "00:51:40.733000",
+        "00:51:44.600000",
+        "Ten thousand people marched for the seven hunger strikers last October."
+      ],
+      [
+        213,
+        "00:51:56.206000",
+        "00:51:59.539000",
+        "Hunger strike failed. We're on the front line."
+      ],
+      [
+        251,
+        "00:54:02.533000",
+        "00:54:05.368000",
+        "I'm starting a hunger strike on the first of March."
+      ],
+      [
+        259,
+        "00:54:54.540000",
+        "00:54:57.909000",
+        "The last hunger strike was flawed. It became emotional."
+      ],
+      [
+        271,
+        "00:55:31.992000",
+        "00:55:35.076000",
+        "You start a hunger strike to protest for what you believe in."
+      ],
+      [
+        296,
+        "00:57:00.033000",
+        "00:57:04.327000",
+        "I supported the first hunger strike on the basis it was a protest."
+      ],
+      [
+        477,
+        "01:12:58.226000",
+        "01:13:02.437000",
+        "'through the prison hunger strike to death."
+      ]
+    ],
+    "regex": "\\b((?!\\bHunger:)Hunger)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

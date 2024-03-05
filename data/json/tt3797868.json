@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt3797868",
+    "title": "The Choice",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1819,
+    "occurrences": [
+      [
+        6,
+        "00:00:57.881000",
+        "00:01:03.396000",
+        "You see, every path you take leads to another choice,"
+      ],
+      [
+        9,
+        "00:01:14.431000",
+        "00:01:17.410000",
+        "And, boy, do I got a choice I got to make."
+      ],
+      [
+        1507,
+        "01:20:17.891000",
+        "01:20:22.738000",
+        "every path you take leads to another choice..."
+      ],
+      [
+        1511,
+        "01:20:33.740000",
+        "01:20:36.741000",
+        "And, boy, have I got a choice I gotta make."
+      ],
+      [
+        1645,
+        "01:30:36.642000",
+        "01:30:39.143000",
+        "I had to make a choice, Steph."
+      ]
+    ],
+    "regex": "\\b((?!\\bChoice:)Choice)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

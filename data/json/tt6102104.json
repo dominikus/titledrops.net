@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt6102104",
+    "title": "The Ride",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1156,
+    "occurrences": [
+      [
+        374,
+        "00:34:19.970000",
+        "00:34:21.668000",
+        "I can teach you how to ride a bike,"
+      ],
+      [
+        1017,
+        "01:22:02.613000",
+        "01:22:04.049000",
+        "but how they ride as a whole."
+      ],
+      [
+        1018,
+        "01:22:04.093000",
+        "01:22:07.313000",
+        "We judge how you ride the course, style, tricks,"
+      ],
+      [
+        1102,
+        "01:27:11.922000",
+        "01:27:13.053000",
+        "if John can ride."
+      ]
+    ],
+    "regex": "\\b((?!\\bRide:)Ride)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

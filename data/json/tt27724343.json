@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt27724343",
+    "title": "Sandwich",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 928,
+    "occurrences": [
+      [
+        57,
+        "00:08:32.957000",
+        "00:08:36.616000",
+        "If I didn't eat my sandwich like this, then you would never have noticed me."
+      ],
+      [
+        110,
+        "00:11:40.129000",
+        "00:11:42.757000",
+        "Apple comes fine with the sandwich."
+      ]
+    ],
+    "regex": "\\b((?!\\bSandwich:)Sandwich)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

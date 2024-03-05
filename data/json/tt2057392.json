@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2057392",
+    "title": "Eye in the Sky",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1054,
+    "occurrences": [
+      [
+        97,
+        "00:09:59.266000",
+        "00:10:01.684000",
+        "Your job is to be their eye in the sky."
+      ],
+      [
+        541,
+        "00:45:16.797000",
+        "00:45:18.425000",
+        "We have only one eye in the sky."
+      ]
+    ],
+    "regex": "\\b((?!\\bEye\\ in\\ the\\ Sky:)Eye\\ in\\ the\\ Sky)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

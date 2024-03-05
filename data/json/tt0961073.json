@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0961073",
+    "title": "The Passage",
+    "year": 2007,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 773,
+    "occurrences": [
+      [
+        78,
+        "00:11:31.957000",
+        "00:11:34.755000",
+        "is the passage through a piece."
+      ],
+      [
+        771,
+        "01:42:22.236000",
+        "01:42:36.879000",
+        "She just wanted passage by the island."
+      ]
+    ],
+    "regex": "\\b((?!\\bPassage:)Passage)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

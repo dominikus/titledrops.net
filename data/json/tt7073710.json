@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt7073710",
+    "title": "What Keeps You Alive",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1139,
+    "occurrences": [
+      [
+        215,
+        "00:16:20.447000",
+        "00:16:24.048000",
+        "\"You only kill what keeps you alive.\""
+      ],
+      [
+        607,
+        "00:49:35.239000",
+        "00:49:37.239000",
+        "...what keeps you alive."
+      ]
+    ],
+    "regex": "\\b((?!\\bWhat\\ Keeps\\ You\\ Alive:)What\\ Keeps\\ You\\ Alive)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

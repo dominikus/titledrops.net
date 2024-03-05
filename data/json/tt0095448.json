@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0095448",
+    "title": "Kimagure Orange Road: I Want to Return to That Day",
+    "year": 1988,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 617,
+    "occurrences": [
+      [
+        3,
+        "00:00:27.152000",
+        "00:00:29.195000",
+        "kimagure orange road"
+      ],
+      [
+        4,
+        "00:00:29.196000",
+        "00:00:36.328000",
+        "kimagure orange road I want to return to that day"
+      ]
+    ],
+    "regex": "\\b((?!\\bKimagure\\ Orange\\ Road:)Kimagure\\ Orange\\ Road|(?!\\bI\\ Want\\ to\\ Return\\ to\\ That\\ Day:)I\\ Want\\ to\\ Return\\ to\\ That\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 69,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

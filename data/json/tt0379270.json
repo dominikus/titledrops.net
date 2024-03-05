@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0379270",
+    "title": "Easy",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1411,
+    "occurrences": [
+      [
+        325,
+        "00:19:27.833000",
+        "00:19:31.702000",
+        "She's the one, and I'm just the easy chick."
+      ],
+      [
+        1367,
+        "01:32:37.317000",
+        "01:32:41.287000",
+        "She's very easy, really."
+      ]
+    ],
+    "regex": "\\b((?!\\bEasy:)Easy)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

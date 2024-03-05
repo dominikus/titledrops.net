@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0999913",
+    "title": "Straw Dogs",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1980,
+    "occurrences": [
+      [
+        622,
+        "00:30:14.062000",
+        "00:30:15.530000",
+        "Bunch of straw dogs."
+      ],
+      [
+        623,
+        "00:30:16.106000",
+        "00:30:17.198000",
+        "Straw dogs?"
+      ],
+      [
+        639,
+        "00:30:50.891000",
+        "00:30:55.112000",
+        "Those straw dogs were practically licking my body outside, so..."
+      ]
+    ],
+    "regex": "\\b((?!\\bStraw\\ Dogs:)Straw\\ Dogs)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

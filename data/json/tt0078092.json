@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0078092",
+    "title": "The Playbirds",
+    "year": 1978,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1261,
+    "occurrences": [
+      [
+        525,
+        "00:34:46.180000",
+        "00:34:47.800000",
+        "I doubt that he reads Playbirds."
+      ],
+      [
+        1058,
+        "01:13:38.681000",
+        "01:13:40.583000",
+        "about getting you in Playbirds."
+      ]
+    ],
+    "regex": "\\b((?!\\bPlaybirds:)Playbirds)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

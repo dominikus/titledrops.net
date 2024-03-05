@@ -1,0 +1,60 @@
+[
+  {
+    "imdb": "tt0238552",
+    "title": "Replicant",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 737,
+    "occurrences": [
+      [
+        114,
+        "00:15:04",
+        "00:15:07.440000",
+        "-Okay. So this is a clone of the killer? -A replicant."
+      ],
+      [
+        133,
+        "00:16:07.160000",
+        "00:16:09.920000",
+        "All you have is Replicant."
+      ],
+      [
+        162,
+        "00:19:59.040000",
+        "00:20:02",
+        "At the end of the day, Replicant is disposable."
+      ],
+      [
+        322,
+        "00:37:29.160000",
+        "00:37:31.960000",
+        "...and now you're telling me you've mistreated my replicant?"
+      ],
+      [
+        439,
+        "00:53:10.840000",
+        "00:53:12.680000",
+        "Hello, Jake. How's my replicant?"
+      ],
+      [
+        613,
+        "01:10:16.960000",
+        "01:10:18.160000",
+        "How's my replicant?"
+      ]
+    ],
+    "regex": "\\b((?!\\bReplicant:)Replicant)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [
+      "Replicant",
+      "Edward Garrotte"
+    ],
+    "title_is_name": true,
+    "rating": 5.3
+  }
+]

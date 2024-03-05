@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0411805",
+    "title": "Return of the Living Dead: Necropolis",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 488,
+    "occurrences": [
+      [
+        17,
+        "00:01:24",
+        "00:01:30",
+        "THE RETURN OF THE DEAD PART 4 NECROPOLIS"
+      ],
+      [
+        233,
+        "00:31:21",
+        "00:31:23",
+        "What is NECROPOLIS?"
+      ],
+      [
+        321,
+        "00:46:56",
+        "00:46:58.999000",
+        "- Ever heard of Necropolis? - Never heard of it!"
+      ]
+    ],
+    "regex": "\\b((?!\\bReturn\\ of\\ the\\ Living\\ Dead:)Return\\ of\\ the\\ Living\\ Dead|(?!\\bNecropolis:)Necropolis)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

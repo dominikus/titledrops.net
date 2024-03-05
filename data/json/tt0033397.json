@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0033397",
+    "title": "The Black Cat",
+    "year": 1941,
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 1458,
+    "occurrences": [
+      [
+        142,
+        "00:07:27.822000",
+        "00:07:29.983000",
+        "Oh, old lady Winslow considers a black cat"
+      ],
+      [
+        432,
+        "00:20:27.935000",
+        "00:20:29.471000",
+        "A black cat."
+      ],
+      [
+        435,
+        "00:20:32.690000",
+        "00:20:35.978000",
+        "No, grandmother never allowed a black cat on the place."
+      ],
+      [
+        436,
+        "00:20:35.985000",
+        "00:20:40.820000",
+        "Henrietta knew that whom a black cat follows, dies."
+      ],
+      [
+        746,
+        "00:34:42.038000",
+        "00:34:44.654000",
+        "Where was the black cat at the time of your accident?"
+      ],
+      [
+        1091,
+        "00:50:42.331000",
+        "00:50:45.198000",
+        "But the black cat was there, but it wasn't there, I..."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Cat:)Black\\ Cat)(?!\\:)(?!'t)\\b",
+    "runtime": 70,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

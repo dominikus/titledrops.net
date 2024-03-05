@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6089700",
+    "title": "The Hatred",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1045,
+    "occurrences": [
+      [
+        733,
+        "00:59:52.756000",
+        "00:59:56.260000",
+        "It is believed that the amulet would remove any fear and hatred"
+      ],
+      [
+        740,
+        "01:00:13.009000",
+        "01:00:16.013000",
+        "A physical manifestation of pure hatred."
+      ],
+      [
+        742,
+        "01:00:19.082000",
+        "01:00:22.757000",
+        "Hatred... trapped in an amulet?"
+      ],
+      [
+        953,
+        "01:19:32.034000",
+        "01:19:35.709000",
+        "we cannot let the fear and hatred consume us."
+      ]
+    ],
+    "regex": "\\b((?!\\bHatred:)Hatred)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

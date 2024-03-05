@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1942884",
+    "title": "Indie Game: The Movie",
+    "year": 2012,
+    "genres": [
+      "Documentary",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1552,
+    "occurrences": [
+      [
+        16,
+        "00:01:21.516000",
+        "00:01:26.105000",
+        "Indie Game: The Movie"
+      ],
+      [
+        36,
+        "00:02:16.961000",
+        "00:02:19.475000",
+        "Like a movie or something that I wrote."
+      ],
+      [
+        70,
+        "00:03:45.040000",
+        "00:03:47.600000",
+        "The generation indie game developers are coming from,"
+      ],
+      [
+        281,
+        "00:15:11.106000",
+        "00:15:13.953000",
+        "For my first indie game."
+      ],
+      [
+        534,
+        "00:30:09.621000",
+        "00:30:13.536000",
+        "Not quite in the same way as a movie. But sort of."
+      ]
+    ],
+    "regex": "\\b((?!\\bIndie\\ Game:)Indie\\ Game|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

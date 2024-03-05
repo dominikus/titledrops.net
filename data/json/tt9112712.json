@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt9112712",
+    "title": "Breaking Fast",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1816,
+    "occurrences": [
+      [
+        1126,
+        "00:53:31.654000",
+        "00:53:34.422000",
+        "His name is Kal. We've been breaking fast together."
+      ],
+      [
+        1133,
+        "00:53:47.937000",
+        "00:53:50.006000",
+        "How often are you two \"breaking fast?\""
+      ]
+    ],
+    "regex": "\\b((?!\\bBreaking\\ Fast:)Breaking\\ Fast)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

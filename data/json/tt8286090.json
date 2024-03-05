@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt8286090",
+    "title": "Promised",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1451,
+    "occurrences": [
+      [
+        104,
+        "00:08:06.198000",
+        "00:08:07.535000",
+        "Promised?"
+      ],
+      [
+        542,
+        "00:31:27.332000",
+        "00:31:31.040000",
+        "I never promised you a rose garden"
+      ]
+    ],
+    "regex": "\\b((?!\\bPromised:)Promised)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

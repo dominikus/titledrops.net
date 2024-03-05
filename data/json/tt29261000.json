@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt29261000",
+    "title": "Heather McMahan: Son I Never Had",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 6,
+    "all_lines": 1355,
+    "occurrences": [
+      [
+        25,
+        "00:01:15.200000",
+        "00:01:20.622000",
+        "Heather McMahan."
+      ],
+      [
+        278,
+        "00:12:41.636000",
+        "00:12:44.472000",
+        "\"You are the son I never had.\""
+      ],
+      [
+        284,
+        "00:12:53.648000",
+        "00:12:57.026000",
+        "and your dad looks you dead in the eyes and says, \"You're the son I never had,\""
+      ],
+      [
+        654,
+        "00:31:03.445000",
+        "00:31:05.447000",
+        "\"That's the son I never had.\""
+      ],
+      [
+        786,
+        "00:37:54.189000",
+        "00:37:56.316000",
+        "\"Heather McMahan. She's my favorite comedian.\""
+      ],
+      [
+        1344,
+        "01:04:40.543000",
+        "01:04:41.795000",
+        "I'm Heather McMahan."
+      ]
+    ],
+    "regex": "\\b((?!\\bHeather\\ McMahan:)Heather\\ McMahan|(?!\\bSon\\ I\\ Never\\ Had:)Son\\ I\\ Never\\ Had)(?!\\:)(?!'t)\\b",
+    "runtime": 66,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

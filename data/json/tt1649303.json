@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1649303",
+    "title": "Darling",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1546,
+    "occurrences": [
+      [
+        554,
+        "00:51:04.643000",
+        "00:51:05.632000",
+        "You carry on darling."
+      ],
+      [
+        806,
+        "01:21:06.675000",
+        "01:21:09.141000",
+        "Unnecessarily you made my darling abused in public."
+      ],
+      [
+        808,
+        "01:21:12.110000",
+        "01:21:15.201000",
+        "You knew about your darling's arrival because of this trouble, right?"
+      ],
+      [
+        1544,
+        "02:30:20.584000",
+        "02:30:26.143000",
+        "Darling! He won't harm us. Look there!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDarling:)Darling)(?!\\:)(?!'t)\\b",
+    "runtime": 151,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

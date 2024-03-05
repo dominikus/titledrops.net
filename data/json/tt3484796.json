@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3484796",
+    "title": "The Fear of Darkness",
+    "year": 2015,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 864,
+    "occurrences": [
+      [
+        20,
+        "00:03:59.438000",
+        "00:04:01.240000",
+        "The book is called The Fear of Darkness"
+      ],
+      [
+        38,
+        "00:04:37.109000",
+        "00:04:38.978000",
+        "Like our fear of darkness."
+      ]
+    ],
+    "regex": "\\b((?!\\bFear\\ of\\ Darkness:)Fear\\ of\\ Darkness)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

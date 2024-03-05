@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt1223930",
+    "title": "The Architect",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 498,
+    "occurrences": [
+      [
+        25,
+        "00:07:24.360000",
+        "00:07:26.157000",
+        "Why did you become an architect?"
+      ],
+      [
+        29,
+        "00:07:37.720000",
+        "00:07:39.790000",
+        "Why did I become an architect?"
+      ],
+      [
+        31,
+        "00:07:44.440000",
+        "00:07:48.911000",
+        "But you said you became an architect for the same reasons as me."
+      ],
+      [
+        66,
+        "00:12:50.920000",
+        "00:12:53.878000",
+        "If you want to become an architect ... - Eva, drop it."
+      ],
+      [
+        312,
+        "00:46:43.480000",
+        "00:46:47.155000",
+        "I aIways said you'd make a good architect with a bit of ambition."
+      ],
+      [
+        322,
+        "00:47:19.680000",
+        "00:47:23.673000",
+        "But I'm an architect, and that's where I have connections."
+      ]
+    ],
+    "regex": "\\b((?!\\bArchitect:)Architect)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

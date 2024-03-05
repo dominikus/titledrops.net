@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1347442",
+    "title": "The Front Line",
+    "year": 2009,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 890,
+    "occurrences": [
+      [
+        55,
+        "00:06:17.600000",
+        "00:06:21.115000",
+        "I was one of the stewards in the front line at demonstrations."
+      ],
+      [
+        511,
+        "00:48:51.320000",
+        "00:48:53.788000",
+        "You're the front line of nothing."
+      ]
+    ],
+    "regex": "\\b((?!\\bFront\\ Line:)Front\\ Line)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

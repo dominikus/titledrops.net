@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0089715",
+    "title": "O.C. and Stiggs",
+    "year": 1985,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1389,
+    "occurrences": [
+      [
+        200,
+        "00:14:30.452000",
+        "00:14:36.291000",
+        "- OK. O.C. and Stiggs. - And Mr Granger."
+      ],
+      [
+        662,
+        "00:47:55.789000",
+        "00:47:59.292000",
+        "- O.C. and Stiggs. - Happy Birthday to you, Mrs Barney."
+      ],
+      [
+        1051,
+        "01:14:49.192000",
+        "01:14:52.112000",
+        "O.C. and Stiggs."
+      ]
+    ],
+    "regex": "\\b((?!\\bO\\.C\\.\\ and\\ Stiggs:)O\\.C\\.\\ and\\ Stiggs)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

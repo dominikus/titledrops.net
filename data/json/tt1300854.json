@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1300854",
+    "title": "Iron Man 3",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1097,
+    "occurrences": [
+      [
+        219,
+        "00:15:18.433000",
+        "00:15:21.059000",
+        "Let me tell you something, you know what happened when I told people I was Iron Man's bodyguard? They would laugh in my face."
+      ],
+      [
+        470,
+        "00:43:11.197000",
+        "00:43:14.802000",
+        "Is that Iron Man? - Technically, I am."
+      ],
+      [
+        476,
+        "00:43:33.301000",
+        "00:43:35.769000",
+        "If I was building Iron Man and War Machine,"
+      ],
+      [
+        1097,
+        "01:58:50.043000",
+        "01:58:51.844000",
+        "I am Iron Man."
+      ]
+    ],
+    "regex": "\\b((?!\\bIron\\ Man:)Iron\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

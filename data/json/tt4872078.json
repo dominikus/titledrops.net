@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt4872078",
+    "title": "The Intervention",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1450,
+    "occurrences": [
+      [
+        116,
+        "00:06:53.946000",
+        "00:06:57.082000",
+        "This marriage intervention is long overdue."
+      ],
+      [
+        119,
+        "00:07:01.021000",
+        "00:07:02.521000",
+        "\"Marriage intervention\"?"
+      ],
+      [
+        712,
+        "00:34:11.717000",
+        "00:34:13.150000",
+        "If you wanna do the intervention"
+      ],
+      [
+        847,
+        "00:41:28.619000",
+        "00:41:32.622000",
+        "On a&e's Emmy award-winning show, intervention,"
+      ]
+    ],
+    "regex": "\\b((?!\\bIntervention:)Intervention)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

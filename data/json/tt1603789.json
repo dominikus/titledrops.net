@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1603789",
+    "title": "Amphetamine",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 881,
+    "occurrences": [
+      [
+        386,
+        "00:39:13.250000",
+        "00:39:15.901000",
+        "Amphetamine, 1OO% positive,"
+      ],
+      [
+        647,
+        "01:00:44.340000",
+        "01:00:47.525000",
+        "It's amphetamine..."
+      ]
+    ],
+    "regex": "\\b((?!\\bAmphetamine:)Amphetamine)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

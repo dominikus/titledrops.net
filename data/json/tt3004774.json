@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt3004774",
+    "title": "Tigers",
+    "year": 2014,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1275,
+    "occurrences": [
+      [
+        168,
+        "00:12:59.720000",
+        "00:13:01.440000",
+        "Good morning Tigers."
+      ],
+      [
+        171,
+        "00:13:05.440000",
+        "00:13:06.560000",
+        "Tigers."
+      ],
+      [
+        177,
+        "00:13:18.720000",
+        "00:13:20.360000",
+        "Growl Tigers."
+      ],
+      [
+        346,
+        "00:21:49.200000",
+        "00:21:51.520000",
+        "I thought tigers only growled when they have caught their prey."
+      ]
+    ],
+    "regex": "\\b((?!\\bTigers:)Tigers)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

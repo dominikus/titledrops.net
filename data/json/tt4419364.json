@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt4419364",
+    "title": "Holidays",
+    "year": 2016,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1012,
+    "occurrences": [
+      [
+        0,
+        "00:02:09.562000",
+        "00:02:16.335000",
+        "Holidays"
+      ],
+      [
+        802,
+        "01:18:54.297000",
+        "01:18:57.832000",
+        "- But you... -Sorry, pal. Holidays are hell."
+      ],
+      [
+        865,
+        "01:23:49.726000",
+        "01:23:50.625000",
+        "Happy holidays!"
+      ],
+      [
+        899,
+        "01:27:04.285000",
+        "01:27:05.819000",
+        "Ain't the holidays hell?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHolidays:)Holidays)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

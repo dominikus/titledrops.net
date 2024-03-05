@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt1111918",
+    "title": "The Line",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 649,
+    "occurrences": [
+      [
+        23,
+        "00:06:24.116000",
+        "00:06:28.855000",
+        "well under market price, in exchange for access to the line."
+      ],
+      [
+        24,
+        "00:06:28.856000",
+        "00:06:30.571000",
+        "The line?"
+      ],
+      [
+        33,
+        "00:06:52.956000",
+        "00:06:55.944000",
+        "The bottom line we can't guarantee that something won't make it through."
+      ],
+      [
+        35,
+        "00:06:59.040000",
+        "00:07:01.439000",
+        "with a pipe line for whatever they want..."
+      ],
+      [
+        381,
+        "00:47:31.396000",
+        "00:47:36.126000",
+        "Salazar... ran this line with dignity."
+      ],
+      [
+        443,
+        "00:54:31.249000",
+        "00:54:33.477000",
+        "The user line stays open."
+      ]
+    ],
+    "regex": "\\b((?!\\bLine:)Line)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0366548",
+    "title": "Happy Feet",
+    "year": 2006,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1353,
+    "occurrences": [
+      [
+        834,
+        "00:57:05.358000",
+        "00:57:07.849000",
+        "Wait a minute. Happy feet can't cause a famine."
+      ],
+      [
+        847,
+        "00:57:38.291000",
+        "00:57:41.351000",
+        "- You, Mumble Happy Feet, must go. - Hear, hear."
+      ],
+      [
+        961,
+        "01:04:04.486000",
+        "01:04:05.919000",
+        "- Listen. - Mumble Happy Feet."
+      ],
+      [
+        1159,
+        "01:19:16.330000",
+        "01:19:19.322000",
+        "I'm gonna be telling your story, Happy Feet..."
+      ]
+    ],
+    "regex": "\\b((?!\\bHappy\\ Feet:)Happy\\ Feet)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

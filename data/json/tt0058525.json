@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0058525",
+    "title": "Rio Conchos",
+    "year": 1964,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 738,
+    "occurrences": [
+      [
+        483,
+        "01:06:42.010000",
+        "01:06:47.266000",
+        "About half a day's ride southwest of here the Rio Conchos."
+      ],
+      [
+        612,
+        "01:21:00.483000",
+        "01:21:05.281000",
+        "Chihuahua instead of Louisiana. Rio Conchos instead of the Mississippi."
+      ]
+    ],
+    "regex": "\\b((?!\\bRio\\ Conchos:)Rio\\ Conchos)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

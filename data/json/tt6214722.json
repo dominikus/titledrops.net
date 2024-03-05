@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt6214722",
+    "title": "If I Leave Here Tomorrow: A Film About Lynyrd Skynyrd",
+    "year": 2018,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Music"
+    ],
+    "count": 1,
+    "all_lines": 2012,
+    "occurrences": [
+      [
+        1952,
+        "01:30:50.754000",
+        "01:30:55.092000",
+        "If I leave here tomorrow"
+      ]
+    ],
+    "regex": "\\b((?!\\bIf\\ I\\ Leave\\ Here\\ Tomorrow:)If\\ I\\ Leave\\ Here\\ Tomorrow|(?!\\bFilm\\ About\\ Lynyrd\\ Skynyrd:)Film\\ About\\ Lynyrd\\ Skynyrd)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

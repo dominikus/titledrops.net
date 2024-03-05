@@ -1,0 +1,69 @@
+[
+  {
+    "imdb": "tt13249596",
+    "title": "Father of the Bride",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 8,
+    "all_lines": 2221,
+    "occurrences": [
+      [
+        554,
+        "00:26:50.442000",
+        "00:26:51.985000",
+        "I'm the father of the bride,"
+      ],
+      [
+        555,
+        "00:26:52.068000",
+        "00:26:53.546000",
+        "the father of the bride will be paying for the wedding."
+      ],
+      [
+        558,
+        "00:26:56.990000",
+        "00:26:59.218000",
+        "{\\an5}I am the father of the bride, and I will be paying for the wedding."
+      ],
+      [
+        1141,
+        "00:51:31.463000",
+        "00:51:33.006000",
+        "but I am the father of the bride"
+      ],
+      [
+        1142,
+        "00:51:33.089000",
+        "00:51:34.942000",
+        "and the father of the bride pays for the wedding."
+      ],
+      [
+        1242,
+        "00:56:46.778000",
+        "00:56:49.280000",
+        "So, how's the father of the bride?"
+      ],
+      [
+        1353,
+        "01:00:47.977000",
+        "01:00:49.705000",
+        "Yeah? Well, I'm the father of the bride, not him."
+      ],
+      [
+        1360,
+        "01:01:10.917000",
+        "01:01:13.086000",
+        "You're just the father of the bride."
+      ]
+    ],
+    "regex": "\\b((?!\\bFather\\ of\\ the\\ Bride:)Father\\ of\\ the\\ Bride)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

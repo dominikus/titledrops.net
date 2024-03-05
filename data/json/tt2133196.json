@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2133196",
+    "title": "Born to Be Blue",
+    "year": 2015,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1512,
+    "occurrences": [
+      [
+        677,
+        "00:38:07.718000",
+        "00:38:10.665000",
+        "It's got that tune we love, \"Born To Be Blue.\""
+      ],
+      [
+        1510,
+        "01:31:55.576000",
+        "01:31:57.112000",
+        "\"Born To Be Blue.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bBorn\\ to\\ Be\\ Blue:)Born\\ to\\ Be\\ Blue)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

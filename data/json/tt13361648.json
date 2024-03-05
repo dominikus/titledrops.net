@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt13361648",
+    "title": "The New Toy",
+    "year": 2022,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1684,
+    "occurrences": [
+      [
+        439,
+        "00:25:00.792000",
+        "00:25:02.083000",
+        "My new toy."
+      ],
+      [
+        1551,
+        "01:36:16.792000",
+        "01:36:18.833000",
+        "This is my new toy."
+      ],
+      [
+        1643,
+        "01:42:58.125000",
+        "01:42:59.458000",
+        "need a new toy?"
+      ]
+    ],
+    "regex": "\\b((?!\\bNew\\ Toy:)New\\ Toy)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

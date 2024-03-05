@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0193854",
+    "title": "A Shot at Glory",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1851,
+    "occurrences": [
+      [
+        532,
+        "00:32:46.029000",
+        "00:32:47.758000",
+        "to have a shot at glory?"
+      ],
+      [
+        1065,
+        "01:04:35.670000",
+        "01:04:38.138000",
+        "This is our shot at glory, lads, all right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bShot\\ at\\ Glory:)Shot\\ at\\ Glory)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

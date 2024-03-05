@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0303021",
+    "title": "Second Name",
+    "year": 2002,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 792,
+    "occurrences": [
+      [
+        386,
+        "00:45:55.040000",
+        "00:45:57.998000",
+        "Did your father have a second name?"
+      ],
+      [
+        388,
+        "00:46:04.160000",
+        "00:46:06.549000",
+        "are given the father's second name."
+      ],
+      [
+        389,
+        "00:46:06.960000",
+        "00:46:09.872000",
+        "Was your father's second name Daniel?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSecond\\ Name:)Second\\ Name)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

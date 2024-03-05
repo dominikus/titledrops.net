@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt10747038",
+    "title": "It Feels So Good",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1142,
+    "occurrences": [
+      [
+        739,
+        "01:10:59.256000",
+        "01:11:01.856000",
+        "when it feels so good like with us"
+      ],
+      [
+        1140,
+        "01:52:10.322000",
+        "01:52:11.455000",
+        "It feels so good."
+      ]
+    ],
+    "regex": "\\b((?!\\bIt\\ Feels\\ So\\ Good:)It\\ Feels\\ So\\ Good)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

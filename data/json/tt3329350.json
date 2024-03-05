@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt3329350",
+    "title": "All-Round Appraiser Q: The Eyes of Mona Lisa",
+    "year": 2014,
+    "genres": [
+      "Fantasy",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1066,
+    "occurrences": [
+      [
+        170,
+        "00:12:21.439000",
+        "00:12:25.756000",
+        "An appraiser. The 'All-round Appraiser Q'."
+      ],
+      [
+        254,
+        "00:17:54.606000",
+        "00:17:57.453000",
+        "'All-round Appraiser Q'?"
+      ],
+      [
+        323,
+        "00:30:07.706000",
+        "00:30:10.713000",
+        "'All-round Appraiser Q'?"
+      ],
+      [
+        466,
+        "00:42:18.602000",
+        "00:42:21.871000",
+        "as 'All-round Appraiser Q'.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bAll\\-Round\\ Appraiser\\ Q:)All\\-Round\\ Appraiser\\ Q|(?!\\bEyes\\ of\\ Mona\\ Lisa:)Eyes\\ of\\ Mona\\ Lisa)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

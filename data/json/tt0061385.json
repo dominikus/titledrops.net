@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0061385",
+    "title": "Barefoot in the Park",
+    "year": 1967,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1894,
+    "occurrences": [
+      [
+        1347,
+        "01:13:30.289000",
+        "01:13:32.992000",
+        "Why, because I won't go walking barefoot in the park?"
+      ],
+      [
+        1533,
+        "01:25:09.054000",
+        "01:25:11.299000",
+        "Now you'll have somebody to walk barefoot in the park with."
+      ],
+      [
+        1757,
+        "01:37:27.024000",
+        "01:37:29.094000",
+        "I've been walking barefoot in the park."
+      ]
+    ],
+    "regex": "\\b((?!\\bBarefoot\\ in\\ the\\ Park:)Barefoot\\ in\\ the\\ Park)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0431058",
+    "title": "Fatwa",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 636,
+    "occurrences": [
+      [
+        57,
+        "00:04:05.569000",
+        "00:04:10.858000",
+        "we issue to following fatwa... - Fatwa."
+      ],
+      [
+        58,
+        "00:04:11.557000",
+        "00:04:17.495000",
+        "Fatwa. We issue to following fatwa to utmost person."
+      ]
+    ],
+    "regex": "\\b((?!\\bFatwa:)Fatwa)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

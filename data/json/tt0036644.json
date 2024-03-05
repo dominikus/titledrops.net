@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0036644",
+    "title": "The Big Noise",
+    "year": 1944,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 884,
+    "occurrences": [
+      [
+        171,
+        "00:13:52.300000",
+        "00:13:55",
+        "- I call it the Big Noise. - Why?"
+      ],
+      [
+        703,
+        "00:54:44.500000",
+        "00:54:46.300000",
+        "I call it the Big Noise."
+      ]
+    ],
+    "regex": "\\b((?!\\bBig\\ Noise:)Big\\ Noise)(?!\\:)(?!'t)\\b",
+    "runtime": 74,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

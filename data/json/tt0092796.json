@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0092796",
+    "title": "Creepshow 2",
+    "year": 1987,
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 889,
+    "occurrences": [
+      [
+        13,
+        "00:04:55.840000",
+        "00:04:58.991000",
+        "to another edition of Creepshow."
+      ],
+      [
+        355,
+        "00:34:28.680000",
+        "00:34:32.389000",
+        "Creepshow is not a funny paper."
+      ]
+    ],
+    "regex": "\\b((?!\\bCreepshow:)Creepshow)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

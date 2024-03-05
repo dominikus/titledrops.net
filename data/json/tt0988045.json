@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt0988045",
+    "title": "Sherlock Holmes",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1409,
+    "occurrences": [
+      [
+        20,
+        "00:04:53.251000",
+        "00:04:54.628000",
+        "Sherlock Holmes."
+      ],
+      [
+        722,
+        "01:00:19.157000",
+        "01:00:21.993000",
+        "Sherlock Holmes, Ambassador Standish from America..."
+      ],
+      [
+        1000,
+        "01:27:20.277000",
+        "01:27:22.946000",
+        "...will be Sherlock Holmes."
+      ]
+    ],
+    "regex": "\\b((?!\\bSherlock\\ Holmes:)Sherlock\\ Holmes)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [
+      "Sherlock Holmes"
+    ],
+    "title_is_name": true,
+    "rating": 7.6
+  }
+]

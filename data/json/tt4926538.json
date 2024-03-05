@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt4926538",
+    "title": "Les Tuche 2: The American Dream",
+    "year": 2016,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1626,
+    "occurrences": [
+      [
+        273,
+        "00:13:16.378000",
+        "00:13:19.381000",
+        "Les Tuche, I have something important to tell you."
+      ],
+      [
+        1608,
+        "01:31:03.499000",
+        "01:31:06.961000",
+        "- This is how we Tuches lived the American dream."
+      ]
+    ],
+    "regex": "\\b((?!\\bLes\\ Tuche:)Les\\ Tuche|(?!\\bAmerican\\ Dream:)American\\ Dream)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

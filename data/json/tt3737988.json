@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3737988",
+    "title": "Tetarti 04:45",
+    "year": 2015,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1267,
+    "occurrences": [
+      [
+        0,
+        "00:00:17.087000",
+        "00:00:20.397000",
+        "WEDNEEDAY 04:45"
+      ],
+      [
+        593,
+        "00:43:49.927000",
+        "00:43:51.599000",
+        "I'm 45..."
+      ],
+      [
+        1190,
+        "01:34:18.727000",
+        "01:34:22.037000",
+        "WEDNEEDAY 04:45 You can dance to jazz"
+      ],
+      [
+        1267,
+        "01:48:08.887000",
+        "01:48:12.163000",
+        "WEDNEEDAY 04:45"
+      ]
+    ],
+    "regex": "\\b((?!\\bTetarti:)Tetarti|(?!\\b45:)45)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

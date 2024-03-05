@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5291792",
+    "title": "Furlough",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1485,
+    "occurrences": [
+      [
+        147,
+        "00:06:54.163000",
+        "00:06:56.456000",
+        "Well, we sometimes grant emergency furlough"
+      ],
+      [
+        233,
+        "00:10:09.609000",
+        "00:10:11.695000",
+        "furlough escort. Give me your hands."
+      ]
+    ],
+    "regex": "\\b((?!\\bFurlough:)Furlough)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

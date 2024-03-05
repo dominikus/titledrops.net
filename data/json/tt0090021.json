@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0090021",
+    "title": "Silver Bullet",
+    "year": 1985,
+    "genres": [
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 816,
+    "occurrences": [
+      [
+        1,
+        "00:00:23.500000",
+        "00:00:28.400000",
+        "Stephen King's Silver Bullet (1985)"
+      ],
+      [
+        136,
+        "00:14:16.560000",
+        "00:14:20.160000",
+        "Hey, it's Madman Marty in the Silver Bullet."
+      ],
+      [
+        700,
+        "01:16:36.120000",
+        "01:16:39.760000",
+        "I want you to turn this into a silver bullet."
+      ],
+      [
+        724,
+        "01:18:36.360000",
+        "01:18:39.040000",
+        "You want a silver bullet, huh?"
+      ],
+      [
+        729,
+        "01:19:00.080000",
+        "01:19:04.800000",
+        "He melted them down and molded them into a silver bullet."
+      ],
+      [
+        774,
+        "01:22:32.160000",
+        "01:22:36.760000",
+        "If that would have gone off, that've been the end of our Silver Bullet."
+      ]
+    ],
+    "regex": "\\b((?!\\bSilver\\ Bullet:)Silver\\ Bullet)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

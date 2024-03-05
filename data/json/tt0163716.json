@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0163716",
+    "title": "Litan",
+    "year": 1982,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 461,
+    "occurrences": [
+      [
+        23,
+        "00:07:48.633000",
+        "00:07:53.108000",
+        "Don't be scared! Today is Litan's day, everybody is thrilled!"
+      ],
+      [
+        26,
+        "00:09:29.547000",
+        "00:09:34.685000",
+        "Like every year on Litan's day, we're gonna chase the monster and catch it."
+      ],
+      [
+        239,
+        "00:46:30.413000",
+        "00:46:35.940000",
+        "He's working on Litan's research center. He just did what Mr. Macel asked him."
+      ],
+      [
+        246,
+        "00:47:26.450000",
+        "00:47:31.645000",
+        "I love speleology. Like many others in Litan. We even have a club."
+      ],
+      [
+        366,
+        "01:04:33.159000",
+        "01:04:39.121000",
+        "And all my staff is gone. I can just tell you to run away from Litan."
+      ],
+      [
+        455,
+        "01:25:07.201000",
+        "01:25:12.877000",
+        "You'd chose Litan's day to put us through this terrible ordeal,"
+      ]
+    ],
+    "regex": "\\b((?!\\bLitan:)Litan)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

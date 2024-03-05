@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt2006721",
+    "title": "Divorce Invitation",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 2821,
+    "occurrences": [
+      [
+        2531,
+        "01:40:04.065000",
+        "01:40:05.765000",
+        "come here. >> Look what he brings me -- a divorce invitation."
+      ],
+      [
+        2532,
+        "01:40:05.767000",
+        "01:40:06.799000",
+        ">> Look what he brings me -- a divorce invitation. >>  I'm free, free"
+      ],
+      [
+        2533,
+        "01:40:06.801000",
+        "01:40:07.600000",
+        "divorce invitation. >>  I'm free, free cheers to you"
+      ],
+      [
+        2555,
+        "01:40:36.031000",
+        "01:40:38.898000",
+        "Be there. Hey, Paul and Amber. Divorce invitation."
+      ],
+      [
+        2556,
+        "01:40:38.900000",
+        "01:40:41.034000",
+        "Hey, Paul and Amber. Divorce invitation. I'll see you there, okay?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDivorce\\ Invitation:)Divorce\\ Invitation)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

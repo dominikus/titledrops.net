@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt14654918",
+    "title": "Dogface: A TrapHouse Horror",
+    "year": 2021,
+    "genres": [
+      "Horror",
+      "Musical"
+    ],
+    "count": 5,
+    "all_lines": 1216,
+    "occurrences": [
+      [
+        235,
+        "00:16:06.724000",
+        "00:16:08.620000",
+        "but you talking about some nigga with a Dogface"
+      ],
+      [
+        237,
+        "00:16:09.724000",
+        "00:16:12.724000",
+        "Man, it is a man in here with a Dogface."
+      ],
+      [
+        238,
+        "00:16:12.758000",
+        "00:16:16.793000",
+        "Man, listen. There's a man in here with a Dogface."
+      ],
+      [
+        243,
+        "00:16:25.137000",
+        "00:16:27.310000",
+        "The man with a Dogface had to do it."
+      ],
+      [
+        1205,
+        "01:12:23.379000",
+        "01:12:26.550000",
+        "your everlasting brother, dogface,"
+      ]
+    ],
+    "regex": "\\b((?!\\bDogface:)Dogface|(?!\\bTrapHouse\\ Horror:)TrapHouse\\ Horror)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

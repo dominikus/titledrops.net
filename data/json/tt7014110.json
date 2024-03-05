@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt7014110",
+    "title": "Bring It On: Worldwide #Cheersmack",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 1467,
+    "occurrences": [
+      [
+        12,
+        "00:01:07.834000",
+        "00:01:09.074000",
+        "Bring it on!"
+      ],
+      [
+        418,
+        "00:23:25.070000",
+        "00:23:30.520000",
+        "If you accept, post a video with the hashtag bring it on."
+      ],
+      [
+        437,
+        "00:24:13.418000",
+        "00:24:14.897000",
+        "Hashtag bring it on."
+      ],
+      [
+        1360,
+        "01:18:13.388000",
+        "01:18:16.979000",
+        "with the hashtags cheersmackdown and bring it on."
+      ]
+    ],
+    "regex": "\\b((?!\\bBring\\ It\\ On:)Bring\\ It\\ On|(?!\\bWorldwide\\ \\#Cheersmack:)Worldwide\\ \\#Cheersmack)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

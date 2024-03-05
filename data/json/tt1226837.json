@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1226837",
+    "title": "Beautiful Boy",
+    "year": 2018,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1959,
+    "occurrences": [
+      [
+        984,
+        "00:58:10.095000",
+        "00:58:13.098000",
+        "Beautiful boy"
+      ],
+      [
+        987,
+        "00:58:19.844000",
+        "00:58:22.324000",
+        "DAVID and JOHN LENNON: Beautiful boy"
+      ]
+    ],
+    "regex": "\\b((?!\\bBeautiful\\ Boy:)Beautiful\\ Boy)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

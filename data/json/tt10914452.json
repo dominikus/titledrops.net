@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt10914452",
+    "title": "The Binding",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1002,
+    "occurrences": [
+      [
+        27,
+        "00:03:21.791000",
+        "00:03:25.333000",
+        "\"Binding refers to a psychic condition of impediment or inhibition"
+      ],
+      [
+        647,
+        "00:51:13.708000",
+        "00:51:15.583000",
+        "Ada created a binding with her."
+      ],
+      [
+        648,
+        "00:51:16.333000",
+        "00:51:19.833000",
+        "She only has to complete the binding, then she'll come and take her."
+      ],
+      [
+        656,
+        "00:51:52.500000",
+        "00:51:55.666000",
+        "I know how to sever the binding, but we need to hurry."
+      ],
+      [
+        728,
+        "00:58:29.416000",
+        "00:58:31.750000",
+        "It wasn't a simple binding."
+      ],
+      [
+        784,
+        "01:02:43.791000",
+        "01:02:46.750000",
+        "The binding with Sofia nourishes Ada."
+      ]
+    ],
+    "regex": "\\b((?!\\bBinding:)Binding)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

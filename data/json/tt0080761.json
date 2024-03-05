@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0080761",
+    "title": "Friday the 13th",
+    "year": 1980,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 907,
+    "occurrences": [
+      [
+        39,
+        "00:07:40.335000",
+        "00:07:44.203000",
+        "It's 07:01 on Friday the 13th of June."
+      ],
+      [
+        720,
+        "01:01:51.708000",
+        "01:01:54.416000",
+        "It's not bad enough to have Friday the 13th,"
+      ]
+    ],
+    "regex": "\\b((?!\\bFriday\\ the\\ 13th:)Friday\\ the\\ 13th)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

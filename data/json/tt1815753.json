@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1815753",
+    "title": "One Day More",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1284,
+    "occurrences": [
+      [
+        1103,
+        "01:22:27.608000",
+        "01:22:31.066000",
+        "Let's just end it now. One day more, one day less..."
+      ],
+      [
+        1234,
+        "01:35:10.150000",
+        "01:35:12.691000",
+        "One day more, one day less. What's the difference?"
+      ],
+      [
+        1236,
+        "01:35:14.816000",
+        "01:35:17.108000",
+        "One day more makes a big difference."
+      ]
+    ],
+    "regex": "\\b((?!\\bOne\\ Day\\ More:)One\\ Day\\ More)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

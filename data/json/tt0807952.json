@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0807952",
+    "title": "The Leaning Tower",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1009,
+    "occurrences": [
+      [
+        16,
+        "00:03:05.960000",
+        "00:03:07.916000",
+        "Leaning tower!"
+      ],
+      [
+        20,
+        "00:03:21.400000",
+        "00:03:23.630000",
+        "Leaning, leaning, leaning tower!"
+      ],
+      [
+        400,
+        "00:36:44.160000",
+        "00:36:47.311000",
+        "- Not the leaning tower? - That, too."
+      ]
+    ],
+    "regex": "\\b((?!\\bLeaning\\ Tower:)Leaning\\ Tower)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

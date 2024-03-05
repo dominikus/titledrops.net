@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1646926",
+    "title": "Open Season 3",
+    "year": 2010,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1574,
+    "occurrences": [
+      [
+        0,
+        "00:00:16.167000",
+        "00:00:19.205000",
+        "Open Season 2"
+      ],
+      [
+        2,
+        "00:00:21.273000",
+        "00:00:24.152000",
+        "Open Season 3"
+      ]
+    ],
+    "regex": "\\b((?!\\bOpen\\ Season:)Open\\ Season)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0193253",
+    "title": "Jin-Roh: The Wolf Brigade",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Animation",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 791,
+    "occurrences": [
+      [
+        48,
+        "00:03:29.155000",
+        "00:03:34.616000",
+        "Jin-Roh - The Wolf Brigade"
+      ],
+      [
+        178,
+        "00:19:59.512000",
+        "00:20:01.480000",
+        "The \"Wolf Brigade\"?"
+      ],
+      [
+        546,
+        "00:57:42.205000",
+        "00:57:46.039000",
+        "...have you heard about a group called the \"Wolf Brigade\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bJin\\-Roh:)Jin\\-Roh|(?!\\bWolf\\ Brigade:)Wolf\\ Brigade)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

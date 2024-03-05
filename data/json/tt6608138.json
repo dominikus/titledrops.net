@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt6608138",
+    "title": "I See You",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1106,
+    "occurrences": [
+      [
+        625,
+        "00:39:08.682000",
+        "00:39:10.267000",
+        "\"I see you.\""
+      ],
+      [
+        628,
+        "00:39:17.649000",
+        "00:39:18.901000",
+        "I see you."
+      ],
+      [
+        765,
+        "00:47:08.996000",
+        "00:47:11.081000",
+        "if I see you, you could be a celebrity."
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ See\\ You:)I\\ See\\ You)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

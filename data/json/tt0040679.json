@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0040679",
+    "title": "The Paleface",
+    "year": 1948,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Western"
+    ],
+    "count": 4,
+    "all_lines": 830,
+    "occurrences": [
+      [
+        692,
+        "01:14:40.837000",
+        "01:14:43.397000",
+        "Me greet paleface warrior."
+      ],
+      [
+        694,
+        "01:14:48.778000",
+        "01:14:51.338000",
+        "Yeah. Me very big paleface warrior."
+      ],
+      [
+        697,
+        "01:14:56.052000",
+        "01:15:00.716000",
+        "Paleface more brave than all white warriors."
+      ],
+      [
+        704,
+        "01:15:17.674000",
+        "01:15:21.542000",
+        "Paleface warrior get much praise."
+      ]
+    ],
+    "regex": "\\b((?!\\bPaleface:)Paleface)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

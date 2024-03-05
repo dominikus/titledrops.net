@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0091676",
+    "title": "On Valentine's Day",
+    "year": 1986,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1894,
+    "occurrences": [
+      [
+        179,
+        "00:10:14.526000",
+        "00:10:16.746000",
+        "You married on Valentine's Day."
+      ],
+      [
+        181,
+        "00:10:18.052000",
+        "00:10:21.577000",
+        "At 1:00 in the afternoon on Valentine's Day."
+      ],
+      [
+        1633,
+        "01:29:19.005000",
+        "01:29:21.791000",
+        "You'll be married a year on Valentine's Day."
+      ]
+    ],
+    "regex": "\\b((?!\\bOn\\ Valentine's\\ Day:)On\\ Valentine's\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

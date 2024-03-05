@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2251275",
+    "title": "Cycle",
+    "year": 2012,
+    "genres": [
+      "Animation",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 754,
+    "occurrences": [
+      [
+        400,
+        "00:32:15.120000",
+        "00:32:18.800000",
+        "before the cycle repeats itself and the program restarts."
+      ],
+      [
+        561,
+        "00:46:50.640000",
+        "00:46:52.680000",
+        "-The last cycle hasn't stopped yet. -Ah."
+      ]
+    ],
+    "regex": "\\b((?!\\bCycle:)Cycle)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

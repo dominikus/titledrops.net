@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt11815960",
+    "title": "Superdeep",
+    "year": 2020,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 920,
+    "occurrences": [
+      [
+        60,
+        "00:07:21.930000",
+        "00:07:24.020000",
+        "at Kola Superdeep."
+      ],
+      [
+        182,
+        "00:16:40.880000",
+        "00:16:44.670000",
+        "Currently, I am Head of Research at Kola Superdeep."
+      ]
+    ],
+    "regex": "\\b((?!\\bSuperdeep:)Superdeep)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

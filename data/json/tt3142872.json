@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3142872",
+    "title": "A Small September Affair",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 911,
+    "occurrences": [
+      [
+        14,
+        "00:02:52.560000",
+        "00:02:55.484000",
+        "- A Small September Affair. - Come again?"
+      ],
+      [
+        99,
+        "00:10:54.760000",
+        "00:10:57.730000",
+        "But not she will have her own show. Called, 'A Small September Affair'."
+      ],
+      [
+        655,
+        "01:07:57.960000",
+        "01:08:03.960000",
+        "There is a small September affair. And! Can't deal with it..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSmall\\ September\\ Affair:)Small\\ September\\ Affair)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

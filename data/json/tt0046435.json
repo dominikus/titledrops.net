@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0046435",
+    "title": "Titanic",
+    "year": 1953,
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1039,
+    "occurrences": [
+      [
+        72,
+        "00:07:51.053000",
+        "00:07:55.444000",
+        "On the Titanic? l'm sorry, sir. This first trip has been sold out since March."
+      ],
+      [
+        218,
+        "00:19:56.253000",
+        "00:19:59.165000",
+        "\"Mr James J Hays, on board the Titanic.\""
+      ],
+      [
+        1035,
+        "01:33:14.412000",
+        "01:33:18.485000",
+        "RMS \" Titanic\" passed from the British registry."
+      ]
+    ],
+    "regex": "\\b((?!\\bTitanic:)Titanic)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

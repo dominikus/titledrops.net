@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0041375",
+    "title": "The Girl from the Third Row",
+    "year": 1949,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 926,
+    "occurrences": [
+      [
+        48,
+        "00:07:58.320000",
+        "00:08:03.320000",
+        "Me? I'm the girl from the third row."
+      ],
+      [
+        881,
+        "01:18:14.920000",
+        "01:18:19",
+        "I'm the girl from the third row."
+      ]
+    ],
+    "regex": "\\b((?!\\bGirl\\ from\\ the\\ Third\\ Row:)Girl\\ from\\ the\\ Third\\ Row)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

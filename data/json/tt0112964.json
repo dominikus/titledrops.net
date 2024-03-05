@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0112964",
+    "title": "England, My England",
+    "year": 1995,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1121,
+    "occurrences": [
+      [
+        872,
+        "01:46:57.149000",
+        "01:47:03.179000",
+        "England, my England, is shuffling about like an old tramp..."
+      ],
+      [
+        1053,
+        "02:16:36.760000",
+        "02:16:40.492000",
+        "England, my England! Do you know what this country has become'?"
+      ]
+    ],
+    "regex": "\\b((?!\\bEngland,\\ My\\ England:)England,\\ My\\ England)(?!\\:)(?!'t)\\b",
+    "runtime": 153,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

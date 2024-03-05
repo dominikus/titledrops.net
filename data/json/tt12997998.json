@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt12997998",
+    "title": "Wishlist",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 810,
+    "occurrences": [
+      [
+        329,
+        "00:28:57.200000",
+        "00:29:01.840000",
+        "Let's go to Europe Mohit. Let's live out wishlist."
+      ],
+      [
+        699,
+        "01:08:22.360000",
+        "01:08:29.400000",
+        "I'm trying to fulfil his Wishlist."
+      ]
+    ],
+    "regex": "\\b((?!\\bWishlist:)Wishlist)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

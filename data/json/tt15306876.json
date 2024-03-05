@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt15306876",
+    "title": "Katrina Babies",
+    "year": 2022,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1089,
+    "occurrences": [
+      [
+        43,
+        "00:08:11.320000",
+        "00:08:13.560000",
+        "Cierra, Katrina Babies, take one."
+      ],
+      [
+        44,
+        "00:08:17.680000",
+        "00:08:21.200000",
+        "Lolly, Katrina Babies, interview, take one."
+      ],
+      [
+        64,
+        "00:09:17.040000",
+        "00:09:19.200000",
+        "All right. Katrina Babies..."
+      ],
+      [
+        908,
+        "01:00:22.920000",
+        "01:00:26",
+        "Carol Carter, Katrina Babies, take one."
+      ]
+    ],
+    "regex": "\\b((?!\\bKatrina\\ Babies:)Katrina\\ Babies)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

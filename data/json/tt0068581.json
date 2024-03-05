@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0068581",
+    "title": "The Woman in Blue",
+    "year": 1973,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 841,
+    "occurrences": [
+      [
+        658,
+        "01:08:43.953000",
+        "01:08:47.411000",
+        "But you' re taking this woman in blue thing tragically."
+      ],
+      [
+        701,
+        "01:18:36.378000",
+        "01:18:38.676000",
+        "Maybe my woman in blue was death,"
+      ]
+    ],
+    "regex": "\\b((?!\\bWoman\\ in\\ Blue:)Woman\\ in\\ Blue)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

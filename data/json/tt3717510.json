@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3717510",
+    "title": "The Drop Box",
+    "year": 2015,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "News"
+    ],
+    "count": 4,
+    "all_lines": 933,
+    "occurrences": [
+      [
+        292,
+        "00:24:42.481000",
+        "00:24:44.108000",
+        "The drop box was made because of her."
+      ],
+      [
+        296,
+        "00:24:56.453000",
+        "00:24:58.914000",
+        "That's why the drop box was made."
+      ],
+      [
+        324,
+        "00:26:57.825000",
+        "00:27:00.452000",
+        "They say before the drop box existed"
+      ],
+      [
+        898,
+        "01:06:16.848000",
+        "01:06:20.935000",
+        "What does the \"drop box\" or \"baby box\" symbolize?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDrop\\ Box:)Drop\\ Box)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

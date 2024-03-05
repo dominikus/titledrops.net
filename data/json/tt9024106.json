@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt9024106",
+    "title": "Unplanned",
+    "year": 2019,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 2130,
+    "occurrences": [
+      [
+        2076,
+        "01:45:00.934000",
+        "01:45:04.888000",
+        "I know that there's no such thing as unplanned"
+      ],
+      [
+        2093,
+        "01:46:10.362000",
+        "01:46:14.860000",
+        "I know that there's no such thing as unplanned"
+      ],
+      [
+        2099,
+        "01:46:31.894000",
+        "01:46:35.260000",
+        "There's no such thing as unplanned"
+      ],
+      [
+        2103,
+        "01:46:48.359000",
+        "01:46:51.726000",
+        "Oh, there's no such thing as unplanned"
+      ],
+      [
+        2107,
+        "01:47:04.591000",
+        "01:47:08.545000",
+        "'Cause there's no such thing as unplanned"
+      ]
+    ],
+    "regex": "\\b((?!\\bUnplanned:)Unplanned)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

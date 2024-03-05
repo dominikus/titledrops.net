@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt10904418",
+    "title": "Midnight Diner",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1312,
+    "occurrences": [
+      [
+        2,
+        "00:01:49.167000",
+        "00:01:51.579000",
+        "Every midnight diner"
+      ],
+      [
+        1297,
+        "01:34:33.375000",
+        "01:34:38.324000",
+        "Every city has its own midnight diner."
+      ],
+      [
+        1298,
+        "01:34:38.333000",
+        "01:34:40.415000",
+        "Every midnight diner"
+      ],
+      [
+        1302,
+        "01:34:47.875000",
+        "01:34:50.161000",
+        "a midnight diner."
+      ]
+    ],
+    "regex": "\\b((?!\\bMidnight\\ Diner:)Midnight\\ Diner)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

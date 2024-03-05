@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0185842",
+    "title": "Revenge",
+    "year": 1964,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 775,
+    "occurrences": [
+      [
+        116,
+        "00:13:00.656000",
+        "00:13:04.743000",
+        "Whatever their quarrel was, it is our duty to take revenge for his death."
+      ],
+      [
+        683,
+        "01:19:55.458000",
+        "01:19:58.753000",
+        "Without hesitation, Tatsunosuke will then take his revenge."
+      ]
+    ],
+    "regex": "\\b((?!\\bRevenge:)Revenge)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

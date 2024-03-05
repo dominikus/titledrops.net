@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0322700",
+    "title": "I Love Your Work",
+    "year": 2003,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1030,
+    "occurrences": [
+      [
+        20,
+        "00:03:20.912000",
+        "00:03:25.110000",
+        "\"O PRECO DO SUCESSO\" - I Love Your Work -"
+      ],
+      [
+        288,
+        "00:29:38.955000",
+        "00:29:44.894000",
+        "- You have? No way! - Gray Evans! I love your work."
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Love\\ Your\\ Work:)I\\ Love\\ Your\\ Work)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "imdb": "tt2707858",
+    "title": "Yves Saint Laurent",
+    "year": 2014,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1165,
+    "occurrences": [
+      [
+        366,
+        "00:28:25.910000",
+        "00:28:28.395000",
+        "\"Yves Saint Laurent hesitates to take up arms."
+      ],
+      [
+        479,
+        "00:35:04.014000",
+        "00:35:06.664000",
+        "in this case, our capital is called Yves Saint Laurent"
+      ],
+      [
+        538,
+        "00:37:37.162000",
+        "00:37:39.912000",
+        "\"Yves Saint Laurent opens his own Maison de couture\"."
+      ],
+      [
+        814,
+        "01:01:31.439000",
+        "01:01:32.946000",
+        "I'm Yves Saint Laurent."
+      ]
+    ],
+    "regex": "\\b((?!\\bYves\\ Saint\\ Laurent:)Yves\\ Saint\\ Laurent)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [
+      "Yves Saint Laurent"
+    ],
+    "title_is_name": true,
+    "rating": 6.2
+  }
+]

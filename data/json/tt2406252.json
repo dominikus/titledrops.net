@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt2406252",
+    "title": "Venus in Fur",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1338,
+    "occurrences": [
+      [
+        23,
+        "00:03:07.729000",
+        "00:03:10.856000",
+        "Holy shit! - If you are coming for \"Venus in Fur\"..."
+      ],
+      [
+        145,
+        "00:09:55.136000",
+        "00:09:59.014000",
+        "\"The Venus in Fur\" by Leopold von Sacher Masoch."
+      ],
+      [
+        153,
+        "00:10:19.160000",
+        "00:10:21.995000",
+        "\"Venus in Fur\" is a beautiful love story..."
+      ],
+      [
+        265,
+        "00:17:38.223000",
+        "00:17:40.975000",
+        "\"Venus In Fur\". Did you write it?"
+      ]
+    ],
+    "regex": "\\b((?!\\bVenus\\ in\\ Fur:)Venus\\ in\\ Fur)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

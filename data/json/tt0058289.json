@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0058289",
+    "title": "The Lion of Thebes",
+    "year": 1964,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 8,
+    "all_lines": 867,
+    "occurrences": [
+      [
+        297,
+        "00:28:02.486000",
+        "00:28:06.600000",
+        "This valuable dagger ... which once belonged to the \"Lion of Thebes\"."
+      ],
+      [
+        302,
+        "00:28:21.024000",
+        "00:28:24.517000",
+        "If you win, you will also receive the title of \"Lion of Thebes\"."
+      ],
+      [
+        306,
+        "00:31:07.598000",
+        "00:31:09.299000",
+        "Long live the \"Lion of Thebes\"!"
+      ],
+      [
+        307,
+        "00:31:09.379000",
+        "00:31:15.054000",
+        "Long live the \"Lion of Thebes\"! Long live the \"Lion of Thebes\" ...!"
+      ],
+      [
+        308,
+        "00:31:15.300000",
+        "00:31:17.500000",
+        "Long live the \"Lion of Thebes\"! Long live the \"Lion of Thebes\"!"
+      ],
+      [
+        863,
+        "01:25:58.324000",
+        "01:26:02.814000",
+        "I am too weak and tired to measure my strength with the \"Lion of Thebes.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bLion\\ of\\ Thebes:)Lion\\ of\\ Thebes)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

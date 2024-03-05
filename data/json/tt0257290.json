@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0257290",
+    "title": "Glass Tiger",
+    "year": 2001,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1108,
+    "occurrences": [
+      [
+        31,
+        "00:03:50.327000",
+        "00:03:54.400000",
+        "Why Glass Tiger? Should it be Wooden Puma?"
+      ],
+      [
+        842,
+        "01:13:17.847000",
+        "01:13:22.602000",
+        "have proven right and the stall called Glass Tiger is unsuitable"
+      ],
+      [
+        1105,
+        "01:40:05.367000",
+        "01:40:08.484000",
+        "and the ''Glass Tiger'' group has been found."
+      ]
+    ],
+    "regex": "\\b((?!\\bGlass\\ Tiger:)Glass\\ Tiger)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

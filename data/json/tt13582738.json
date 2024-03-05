@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt13582738",
+    "title": "Masquerade Night",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1437,
+    "occurrences": [
+      [
+        179,
+        "00:15:38.680000",
+        "00:15:42.440000",
+        "The party is called \"Masquerade Night.\""
+      ],
+      [
+        180,
+        "00:15:42.920000",
+        "00:15:45.680000",
+        "Masquerade Night..."
+      ],
+      [
+        1097,
+        "01:27:05.240000",
+        "01:27:10.240000",
+        "You're absolutely right, sir. But this is Masquerade Night."
+      ]
+    ],
+    "regex": "\\b((?!\\bMasquerade\\ Night:)Masquerade\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

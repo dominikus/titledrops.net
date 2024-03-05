@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt15772866",
+    "title": "Christmas with the Chosen: The Messengers",
+    "year": 2021,
+    "genres": [
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 1715,
+    "occurrences": [
+      [
+        77,
+        "00:06:05.407000",
+        "00:06:08.410000",
+        "And welcome to \"Christmas with The Chosen.\""
+      ],
+      [
+        270,
+        "00:18:06.252000",
+        "00:18:08.046000",
+        "God's messengers..."
+      ],
+      [
+        1608,
+        "01:48:38.977000",
+        "01:48:40.854000",
+        "but doers and messengers of the Word,"
+      ],
+      [
+        1621,
+        "01:49:10.717000",
+        "01:49:12.093000",
+        "We're the messengers now."
+      ]
+    ],
+    "regex": "\\b((?!\\bChristmas\\ with\\ the\\ Chosen:)Christmas\\ with\\ the\\ Chosen|(?!\\bMessengers:)Messengers)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt5546300",
+    "title": "The Confession",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1231,
+    "occurrences": [
+      [
+        23,
+        "00:04:25.588000",
+        "00:04:28.668000",
+        "I would like that you collect my confession."
+      ],
+      [
+        29,
+        "00:05:11.029000",
+        "00:05:14.790000",
+        "This confession, I want to do it out of loyalty"
+      ],
+      [
+        178,
+        "00:14:27.211000",
+        "00:14:30.170000",
+        "He does us good when we go to confession."
+      ],
+      [
+        540,
+        "00:41:35.871000",
+        "00:41:36.871000",
+        "I have a confession."
+      ],
+      [
+        1039,
+        "01:23:08.324000",
+        "01:23:10.844000",
+        "You're gonna have to come to confession."
+      ]
+    ],
+    "regex": "\\b((?!\\bConfession:)Confession)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

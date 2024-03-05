@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1496422",
+    "title": "The Paperboy",
+    "year": 2012,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1565,
+    "occurrences": [
+      [
+        1555,
+        "01:35:55.928000",
+        "01:35:58.132000",
+        "Paperboy."
+      ],
+      [
+        1556,
+        "01:35:58.198000",
+        "01:36:00",
+        "Where you going, paperboy?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPaperboy:)Paperboy)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

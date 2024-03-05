@@ -1,0 +1,69 @@
+[
+  {
+    "imdb": "tt14253440",
+    "title": "Ex",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 8,
+    "all_lines": 806,
+    "occurrences": [
+      [
+        118,
+        "00:06:39.678000",
+        "00:06:41.780000",
+        "So a picture of you and your ex came alive"
+      ],
+      [
+        282,
+        "00:19:04.856000",
+        "00:19:05.990000",
+        "My ex."
+      ],
+      [
+        283,
+        "00:19:06.057000",
+        "00:19:07.125000",
+        "Which ex?"
+      ],
+      [
+        424,
+        "00:34:35.554000",
+        "00:34:37.490000",
+        "Listen, Maria, your ex."
+      ],
+      [
+        434,
+        "00:35:28.139000",
+        "00:35:29.341000",
+        "of my ex-girlfriend."
+      ],
+      [
+        462,
+        "00:38:26.285000",
+        "00:38:30.456000",
+        "Stop posting your ex's pictures 'cause she's dead."
+      ],
+      [
+        490,
+        "00:47:07.373000",
+        "00:47:10.409000",
+        "\"came to the wedding of every ex-fiancee Andrei Vorontsov."
+      ],
+      [
+        512,
+        "00:48:15.208000",
+        "00:48:16.074000",
+        "She was your ex-girlfriend."
+      ]
+    ],
+    "regex": "\\b((?!\\bEx:)Ex)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

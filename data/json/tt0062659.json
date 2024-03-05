@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0062659",
+    "title": "Kill Them All and Come Back Alone",
+    "year": 1968,
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 497,
+    "occurrences": [
+      [
+        105,
+        "00:14:59.167000",
+        "00:15:02.781000",
+        "Kill them all and come back alone."
+      ],
+      [
+        107,
+        "00:15:13.833000",
+        "00:15:18.822000",
+        "kill them all and come back alone"
+      ]
+    ],
+    "regex": "\\b((?!\\bKill\\ Them\\ All\\ and\\ Come\\ Back\\ Alone:)Kill\\ Them\\ All\\ and\\ Come\\ Back\\ Alone)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

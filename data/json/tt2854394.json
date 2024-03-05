@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt2854394",
+    "title": "Hot Bot",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "count": 6,
+    "all_lines": 1379,
+    "occurrences": [
+      [
+        2,
+        "00:00:15.800000",
+        "00:00:17.646000",
+        "Die deutsche Hot Bot Corporation"
+      ],
+      [
+        6,
+        "00:00:27.445000",
+        "00:00:31.696000",
+        "So far, the Hot Bot Corporation in the United States does not have any patent approval"
+      ],
+      [
+        10,
+        "00:00:40.265000",
+        "00:00:42.338000",
+        "This is the Hot Bot Corporation,"
+      ],
+      [
+        438,
+        "00:27:57.180000",
+        "00:27:59.310000",
+        "\"The Hot Bot is a learning computer."
+      ],
+      [
+        440,
+        "00:28:03.820000",
+        "00:28:06.317000",
+        "Treat the Hot Bot as you want to be treated."
+      ],
+      [
+        1101,
+        "01:10:06.680000",
+        "01:10:09.785000",
+        "by Hot Bot Incorporated and declare a $ 1,000 hotel bill?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHot\\ Bot:)Hot\\ Bot)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

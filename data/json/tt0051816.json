@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0051816",
+    "title": "The Key",
+    "year": 1958,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 6,
+    "all_lines": 1376,
+    "occurrences": [
+      [
+        347,
+        "00:29:38.623000",
+        "00:29:41.197000",
+        "Anyway, Van Barger gave me the key to the flat."
+      ],
+      [
+        374,
+        "00:31:47.836000",
+        "00:31:49.579000",
+        "When Van Barger gave me a key,"
+      ],
+      [
+        789,
+        "01:02:23.545000",
+        "01:02:26.499000",
+        "- Did he give you the key? - Yes."
+      ],
+      [
+        813,
+        "01:04:49.941000",
+        "01:04:52.099000",
+        "Otherwise, he would not have given you the key."
+      ],
+      [
+        1159,
+        "01:36:34.552000",
+        "01:36:36.130000",
+        "you'll need a key."
+      ],
+      [
+        1334,
+        "02:00:01.749000",
+        "02:00:03.789000",
+        "He gave you the key?"
+      ]
+    ],
+    "regex": "\\b((?!\\bKey:)Key)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

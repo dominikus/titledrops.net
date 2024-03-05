@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0054049",
+    "title": "Make Mine Mink",
+    "year": 1960,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1211,
+    "occurrences": [
+      [
+        1,
+        "00:00:41.720000",
+        "00:00:43.870000",
+        "# Make mine mink"
+      ],
+      [
+        2,
+        "00:00:57.560000",
+        "00:00:59.596000",
+        "# Make mine mink"
+      ],
+      [
+        3,
+        "00:01:29",
+        "00:01:34.677000",
+        "# Make mine mink, mink, mink, mink! #"
+      ],
+      [
+        1210,
+        "01:36:41.360000",
+        "01:36:47.629000",
+        "# Make mine mink, mink, mink, mink, mink #"
+      ]
+    ],
+    "regex": "\\b((?!\\bMake\\ Mine\\ Mink:)Make\\ Mine\\ Mink)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

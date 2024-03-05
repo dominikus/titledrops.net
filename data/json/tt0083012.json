@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0083012",
+    "title": "The Lynx",
+    "year": 1982,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 513,
+    "occurrences": [
+      [
+        0,
+        "00:00:21.320000",
+        "00:00:26.360000",
+        "LYNX"
+      ],
+      [
+        88,
+        "00:16:30.560000",
+        "00:16:33.560000",
+        "- What's your name? - They call me Lynx in our troop."
+      ],
+      [
+        116,
+        "00:18:14.040000",
+        "00:18:15.720000",
+        "Don't delude yourself, Lynx."
+      ]
+    ],
+    "regex": "\\b((?!\\bLynx:)Lynx)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3339680",
+    "title": "Don't Go",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1110,
+    "occurrences": [
+      [
+        816,
+        "01:02:26.240000",
+        "01:02:29.177000",
+        "Don't go, stay with me."
+      ],
+      [
+        818,
+        "01:02:35.516000",
+        "01:02:36.518000",
+        "Don't go."
+      ]
+    ],
+    "regex": "\\b((?!\\bDon't\\ Go:)Don't\\ Go)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt1539997",
+    "title": "Kerala Cafe",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 7,
+    "all_lines": 1347,
+    "occurrences": [
+      [
+        1,
+        "00:00:13.146000",
+        "00:00:14.704000",
+        "...who have come to watch Kerala Cafe."
+      ],
+      [
+        18,
+        "00:00:59.426000",
+        "00:01:02.020000",
+        "I welcome you all to the Kerala Cafe."
+      ],
+      [
+        404,
+        "00:28:38.750000",
+        "00:28:42.117000",
+        "When I was sitting in the Kerala Cafe..."
+      ],
+      [
+        543,
+        "00:43:38.048000",
+        "00:43:40.608000",
+        "Do you want kappuchina from Kerala cafe?"
+      ],
+      [
+        870,
+        "01:17:25.140000",
+        "01:17:27.506000",
+        "You go to the station and see Jose in the Kerala Cafe."
+      ],
+      [
+        1199,
+        "02:02:23.636000",
+        "02:02:27.936000",
+        "Yes, we are in Kerala cafe. we are in family room."
+      ],
+      [
+        1200,
+        "02:02:29.508000",
+        "02:02:32.875000",
+        "Yes, near railway station. Kerala cafe in family room."
+      ]
+    ],
+    "regex": "\\b((?!\\bKerala\\ Cafe:)Kerala\\ Cafe)(?!\\:)(?!'t)\\b",
+    "runtime": 140,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

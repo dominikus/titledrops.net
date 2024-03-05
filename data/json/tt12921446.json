@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt12921446",
+    "title": "The Exorcist: Believer",
+    "year": 2023,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1616,
+    "occurrences": [
+      [
+        860,
+        "00:55:53.256000",
+        "00:55:55.958000",
+        "and say, \"I want to sign up for exorcist school\"?"
+      ],
+      [
+        861,
+        "00:55:55.992000",
+        "00:55:59.061000",
+        "Well, for starters, I'm not an exorcist."
+      ],
+      [
+        878,
+        "00:56:30.026000",
+        "00:56:31.460000",
+        "Not an exorcist."
+      ]
+    ],
+    "regex": "\\b((?!\\bExorcist:)Exorcist|(?!\\bBeliever:)Believer)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt4497978",
+    "title": "Ice Breaker",
+    "year": 2017,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1802,
+    "occurrences": [
+      [
+        119,
+        "00:04:33.132000",
+        "00:04:34.653000",
+        "and it's called Ice Breaker"
+      ],
+      [
+        280,
+        "00:10:13.117000",
+        "00:10:15.117000",
+        "you do the ice breaker and you"
+      ],
+      [
+        1195,
+        "00:53:46.804000",
+        "00:53:49.958000",
+        "- Oh, break the ice with Ice Breaker."
+      ],
+      [
+        1415,
+        "01:05:12.497000",
+        "01:05:13.914000",
+        "with Ice Breaker."
+      ]
+    ],
+    "regex": "\\b((?!\\bIce\\ Breaker:)Ice\\ Breaker)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "imdb": "tt0104403",
+    "title": "Hedd Wyn",
+    "year": 1992,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 767,
+    "occurrences": [
+      [
+        56,
+        "00:06:34.520000",
+        "00:06:40.560000",
+        "Best known by his bardic name, Hedd Wyn."
+      ],
+      [
+        431,
+        "00:42:53.320000",
+        "00:42:55.250000",
+        "I meant Hedd Wyn."
+      ],
+      [
+        508,
+        "00:50:59.160000",
+        "00:51:02.920000",
+        "So this is Hedd Wyn... bard!"
+      ],
+      [
+        698,
+        "01:20:21.760000",
+        "01:20:24.110000",
+        "Is that it... Hedd Wyn?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHedd\\ Wyn:)Hedd\\ Wyn)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [
+      "Ellis Evans",
+      "Hedd Wyn"
+    ],
+    "title_is_name": true,
+    "rating": 7.1
+  }
+]

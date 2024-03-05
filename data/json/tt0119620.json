@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0119620",
+    "title": "Marius and Jeannette",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1337,
+    "occurrences": [
+      [
+        1316,
+        "01:33:53",
+        "01:33:56",
+        "Marius and Jeannette are married"
+      ],
+      [
+        1332,
+        "01:34:52",
+        "01:34:55",
+        "Marius and Jeannette live a peaceful life in L`Estaque"
+      ]
+    ],
+    "regex": "\\b((?!\\bMarius\\ and\\ Jeannette:)Marius\\ and\\ Jeannette)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

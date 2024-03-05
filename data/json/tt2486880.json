@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2486880",
+    "title": "Such Good People",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1243,
+    "occurrences": [
+      [
+        264,
+        "00:24:19",
+        "00:24:21",
+        "They were such good people."
+      ],
+      [
+        482,
+        "00:40:58",
+        "00:41:01",
+        "Oh, my god, thank you so much, you're such good people."
+      ]
+    ],
+    "regex": "\\b((?!\\bSuch\\ Good\\ People:)Such\\ Good\\ People)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

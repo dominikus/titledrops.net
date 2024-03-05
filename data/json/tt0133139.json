@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0133139",
+    "title": "The Organ",
+    "year": 1965,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 533,
+    "occurrences": [
+      [
+        119,
+        "00:19:00.664000",
+        "00:19:07.376000",
+        "He knows there is a large organ in St. Michael's Church."
+      ],
+      [
+        136,
+        "00:21:32.984000",
+        "00:21:36.659000",
+        "The organ is old, hard to play."
+      ],
+      [
+        139,
+        "00:22:06.264000",
+        "00:22:13.739000",
+        "ln St. Michael's Church there is a big organ."
+      ],
+      [
+        384,
+        "01:05:54.984000",
+        "01:05:58.374000",
+        "l have already lost the organ."
+      ],
+      [
+        386,
+        "01:06:09.024000",
+        "01:06:14.894000",
+        "There was no singing. Only the organ played."
+      ]
+    ],
+    "regex": "\\b((?!\\bOrgan:)Organ)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

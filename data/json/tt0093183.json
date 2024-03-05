@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0093183",
+    "title": "The Hero's Journey: The World of Joseph Campbell",
+    "year": 1987,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 890,
+    "occurrences": [
+      [
+        4,
+        "00:00:46.713000",
+        "00:00:51.349000",
+        "In the story of Galahad is the myth of the hero's journey."
+      ],
+      [
+        741,
+        "00:44:00.872000",
+        "00:44:05.007000",
+        "In his book, Campbell outlined his idea of the hero's journey"
+      ]
+    ],
+    "regex": "\\b((?!\\bHero's\\ Journey:)Hero's\\ Journey|(?!\\bWorld\\ of\\ Joseph\\ Campbell:)World\\ of\\ Joseph\\ Campbell)(?!\\:)(?!'t)\\b",
+    "runtime": 58,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

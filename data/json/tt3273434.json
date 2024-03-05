@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt3273434",
+    "title": "November Rule",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 2312,
+    "occurrences": [
+      [
+        248,
+        "00:10:02.989000",
+        "00:10:04.406000",
+        "Oh, right, November rule."
+      ],
+      [
+        251,
+        "00:10:07.493000",
+        "00:10:09.287000",
+        "that stupid November rule thing."
+      ],
+      [
+        317,
+        "00:12:24.630000",
+        "00:12:25.923000",
+        "reveal the November rule."
+      ],
+      [
+        545,
+        "00:21:53.991000",
+        "00:21:55.826000",
+        "May I remind you that because of November rule,"
+      ],
+      [
+        1803,
+        "01:09:31.136000",
+        "01:09:34.223000",
+        "November Rule, Christmas dinner, Aunt Hildy."
+      ]
+    ],
+    "regex": "\\b((?!\\bNovember\\ Rule:)November\\ Rule)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

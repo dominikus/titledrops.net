@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0443771",
+    "title": "Robotech: The Shadow Chronicles",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 5,
+    "all_lines": 1173,
+    "occurrences": [
+      [
+        217,
+        "00:19:22.494000",
+        "00:19:28.167000",
+        "This planet too strongly retains the malignant spirit of the Robotech Masters."
+      ],
+      [
+        356,
+        "00:28:31.376000",
+        "00:28:36.948000",
+        "The humans have been influenced too strongly by the Shadows of the Robotech Masters"
+      ],
+      [
+        592,
+        "00:44:24.495000",
+        "00:44:28.165000",
+        "Admiral Hunter forged an alliance with during the Robotech Expedition."
+      ],
+      [
+        645,
+        "00:47:27.177000",
+        "00:47:32.850000",
+        "Marcus, Alex, this is Dr. Louie Nichols, Robotech engineer for the Icarus."
+      ],
+      [
+        886,
+        "01:01:43.533000",
+        "01:01:46.525000",
+        "Now approaching Robotech fleet. Look sharp."
+      ]
+    ],
+    "regex": "\\b((?!\\bRobotech:)Robotech|(?!\\bShadow\\ Chronicles:)Shadow\\ Chronicles)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

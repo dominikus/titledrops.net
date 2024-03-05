@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0042339",
+    "title": "Comanche Territory",
+    "year": 1950,
+    "genres": [
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 758,
+    "occurrences": [
+      [
+        316,
+        "00:30:47.156000",
+        "00:30:49.751000",
+        "Thinking of staking your claim in Comanche Territory?"
+      ],
+      [
+        568,
+        "00:54:22.643000",
+        "00:54:26.343000",
+        "Nobody is moving in on Comanche territory, nobody."
+      ],
+      [
+        607,
+        "00:58:48.794000",
+        "00:58:51.973000",
+        "That being so, we are moving in on Comanche territory tonight."
+      ]
+    ],
+    "regex": "\\b((?!\\bComanche\\ Territory:)Comanche\\ Territory)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

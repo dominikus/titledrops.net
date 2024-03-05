@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1687889",
+    "title": "Madison County",
+    "year": 2011,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 802,
+    "occurrences": [
+      [
+        62,
+        "00:06:43.801000",
+        "00:06:45.771000",
+        "We're going to Madison County to interview an author."
+      ],
+      [
+        96,
+        "00:08:48.927000",
+        "00:08:50.763000",
+        "We're actually headed to Madison County."
+      ],
+      [
+        367,
+        "00:28:09.319000",
+        "00:28:12.324000",
+        "My friends and I are doing a write-up on Madison County."
+      ],
+      [
+        533,
+        "00:40:31.561000",
+        "00:40:33.929000",
+        "what brings you all the way out to Madison County?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMadison\\ County:)Madison\\ County)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

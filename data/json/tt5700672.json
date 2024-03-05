@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5700672",
+    "title": "Train to Busan",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 848,
+    "occurrences": [
+      [
+        18,
+        "00:03:42.364000",
+        "00:03:47.405000",
+        "Train to Busan."
+      ],
+      [
+        748,
+        "01:27:28.243000",
+        "01:27:32.534000",
+        "or disembarking for another train to Busan"
+      ]
+    ],
+    "regex": "\\b((?!\\bTrain\\ to\\ Busan:)Train\\ to\\ Busan)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0089913",
+    "title": "Revolution",
+    "year": 1985,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 1316,
+    "occurrences": [
+      [
+        6,
+        "00:01:31.567000",
+        "00:01:33.876000",
+        "Revolution."
+      ],
+      [
+        1125,
+        "01:29:07.327000",
+        "01:29:09.682000",
+        "Each makes its own revolution around the sun."
+      ],
+      [
+        1127,
+        "01:29:14.527000",
+        "01:29:15.846000",
+        "A revolution."
+      ],
+      [
+        1314,
+        "01:48:01.567000",
+        "01:48:03.080000",
+        "revolution."
+      ]
+    ],
+    "regex": "\\b((?!\\bRevolution:)Revolution)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0064417",
+    "title": "Hello Down There",
+    "year": 1969,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1194,
+    "occurrences": [
+      [
+        806,
+        "01:04:53.789000",
+        "01:04:56.553000",
+        "Hello down there!"
+      ],
+      [
+        807,
+        "01:05:06.869000",
+        "01:05:10.032000",
+        "Hello down there!"
+      ]
+    ],
+    "regex": "\\b((?!\\bHello\\ Down\\ There:)Hello\\ Down\\ There)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

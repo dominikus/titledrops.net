@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0395119",
+    "title": "Captain Alatriste: The Spanish Musketeer",
+    "year": 2006,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 807,
+    "occurrences": [
+      [
+        468,
+        "00:48:36.080000",
+        "00:48:37.959000",
+        "For Captain Alatriste."
+      ],
+      [
+        705,
+        "01:05:52.520000",
+        "01:05:55.520000",
+        "Captain Alatriste"
+      ],
+      [
+        765,
+        "01:14:03.200000",
+        "01:14:06.200000",
+        "If it isn't Captain Alatriste!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCaptain\\ Alatriste:)Captain\\ Alatriste|(?!\\bSpanish\\ Musketeer:)Spanish\\ Musketeer)(?!\\:)(?!'t)\\b",
+    "runtime": 145,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

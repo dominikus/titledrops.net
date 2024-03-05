@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0465436",
+    "title": "December Boys",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 849,
+    "occurrences": [
+      [
+        26,
+        "00:05:36.119000",
+        "00:05:39.611000",
+        "...the December boys please come forward."
+      ],
+      [
+        41,
+        "00:07:04.373000",
+        "00:07:06.102000",
+        "They're our December boys."
+      ],
+      [
+        69,
+        "00:09:45.868000",
+        "00:09:51.204000",
+        "All for one, and one for all. December boys."
+      ],
+      [
+        844,
+        "01:38:44.497000",
+        "01:38:50.231000",
+        "One, two, three, the December boys!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDecember\\ Boys:)December\\ Boys)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

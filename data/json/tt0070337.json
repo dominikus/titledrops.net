@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0070337",
+    "title": "Lost Horizon",
+    "year": 1973,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 1608,
+    "occurrences": [
+      [
+        16,
+        "00:01:49.967000",
+        "00:01:54.635000",
+        "? Theres a lost horizon ?"
+      ],
+      [
+        18,
+        "00:02:00.635000",
+        "00:02:03.927000",
+        "? Theres a lost horizon ?"
+      ],
+      [
+        1603,
+        "02:27:16.776000",
+        "02:27:21.152000",
+        "? There's a Lost Horizon, ?"
+      ],
+      [
+        1605,
+        "02:27:26.692000",
+        "02:27:30.193000",
+        "? There's a Lost Horizon ?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLost\\ Horizon:)Lost\\ Horizon)(?!\\:)(?!'t)\\b",
+    "runtime": 150,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

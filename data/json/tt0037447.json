@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0037447",
+    "title": "Waterloo Road",
+    "year": 1945,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1124,
+    "occurrences": [
+      [
+        276,
+        "00:18:05.535000",
+        "00:18:07.890000",
+        "It'd have been a change from the Waterloo Road."
+      ],
+      [
+        297,
+        "00:21:10.615000",
+        "00:21:13.254000",
+        "Waterloo Road. I guess they're watching all the exits."
+      ],
+      [
+        534,
+        "00:34:55.695000",
+        "00:34:58.812000",
+        "So's everyone in skirts within a mile of the Waterloo Road."
+      ]
+    ],
+    "regex": "\\b((?!\\bWaterloo\\ Road:)Waterloo\\ Road)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

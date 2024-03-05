@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4096750",
+    "title": "The Binding",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1069,
+    "occurrences": [
+      [
+        329,
+        "00:27:58.540000",
+        "00:28:02.271000",
+        "the binding. Jeremiah 32:35."
+      ],
+      [
+        751,
+        "00:58:01.502000",
+        "00:58:04.038000",
+        "Not unlike the binding of Issac."
+      ],
+      [
+        987,
+        "01:15:15.702000",
+        "01:15:18.137000",
+        "I must proceed with the binding,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBinding:)Binding)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

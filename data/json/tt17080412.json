@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt17080412",
+    "title": "Survive",
+    "year": 2022,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1060,
+    "occurrences": [
+      [
+        501,
+        "00:41:03.466000",
+        "00:41:04.726000",
+        "to survive okay"
+      ],
+      [
+        1034,
+        "01:41:28.724000",
+        "01:41:30.404000",
+        "Makes sense but your survive."
+      ]
+    ],
+    "regex": "\\b((?!\\bSurvive:)Survive)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

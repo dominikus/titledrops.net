@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt7319496",
+    "title": "Out Stealing Horses",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 579,
+    "occurrences": [
+      [
+        131,
+        "00:16:59.874000",
+        "00:17:02.167000",
+        "- We're going out stealing horses. - I know."
+      ],
+      [
+        153,
+        "00:26:45.792000",
+        "00:26:47.167000",
+        "We were out stealing horses."
+      ],
+      [
+        282,
+        "01:06:27.375000",
+        "01:06:29.584000",
+        "\"Are you coming? We're going out stealing horses.\""
+      ],
+      [
+        441,
+        "01:34:31.167000",
+        "01:34:32.542000",
+        "Have you been out stealing horses?"
+      ]
+    ],
+    "regex": "\\b((?!\\bOut\\ Stealing\\ Horses:)Out\\ Stealing\\ Horses)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

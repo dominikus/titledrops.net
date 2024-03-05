@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt13031460",
+    "title": "The Healing Garden",
+    "year": 2021,
+    "genres": [
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1065,
+    "occurrences": [
+      [
+        422,
+        "00:38:13.552000",
+        "00:38:15.054000",
+        "It's a healing garden."
+      ],
+      [
+        884,
+        "01:15:19.445000",
+        "01:15:21.046000",
+        "We pray for the healing garden."
+      ]
+    ],
+    "regex": "\\b((?!\\bHealing\\ Garden:)Healing\\ Garden)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt2378000",
+    "title": "Fridge",
+    "year": 2012,
+    "genres": [
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 862,
+    "occurrences": [
+      [
+        669,
+        "01:03:56.549000",
+        "01:03:59.257000",
+        "- The fridge! - Relax. Come here."
+      ],
+      [
+        707,
+        "01:08:38.130000",
+        "01:08:41.771000",
+        "She unwittingly killed herself by hiding inside the fridge."
+      ],
+      [
+        760,
+        "01:14:07.059000",
+        "01:14:08.732000",
+        "In the fridge."
+      ],
+      [
+        769,
+        "01:14:46.532000",
+        "01:14:48.910000",
+        "But her soul is still in the fridge."
+      ],
+      [
+        858,
+        "01:25:12.957000",
+        "01:25:15.028000",
+        "Look, madame! The fridge!"
+      ]
+    ],
+    "regex": "\\b((?!\\bFridge:)Fridge)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0080437",
+    "title": "The Big Red One",
+    "year": 1980,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 5,
+    "all_lines": 852,
+    "occurrences": [
+      [
+        36,
+        "00:05:04.282000",
+        "00:05:06.512000",
+        "The Big Red One."
+      ],
+      [
+        37,
+        "00:05:21.032000",
+        "00:05:25.264000",
+        "24 years later, the Big Red One"
+      ],
+      [
+        210,
+        "00:23:11.402000",
+        "00:23:13.870000",
+        "Anybody here from the Big Red One?"
+      ],
+      [
+        213,
+        "00:23:30.087000",
+        "00:23:32.282000",
+        "Where's that Big Red One man?"
+      ],
+      [
+        224,
+        "00:23:58.615000",
+        "00:24:01.083000",
+        "You mean the Big Red One took Tunis?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBig\\ Red\\ One:)Big\\ Red\\ One)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

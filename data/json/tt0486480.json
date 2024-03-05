@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0486480",
+    "title": "Silk",
+    "year": 2006,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 867,
+    "occurrences": [
+      [
+        401,
+        "00:36:43.601000",
+        "00:36:44.932000",
+        "That strand of silk!"
+      ],
+      [
+        440,
+        "00:43:55.599000",
+        "00:43:57.829000",
+        "Silk"
+      ],
+      [
+        441,
+        "00:44:06.543000",
+        "00:44:09.341000",
+        "Silk is the connection between two energies"
+      ],
+      [
+        712,
+        "01:21:16.605000",
+        "01:21:18.163000",
+        "I can see that strand of silk"
+      ],
+      [
+        715,
+        "01:21:23.612000",
+        "01:21:24.874000",
+        "that silk is a strand of hate"
+      ]
+    ],
+    "regex": "\\b((?!\\bSilk:)Silk)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

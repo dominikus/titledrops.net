@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0068772",
+    "title": "Hunchback of the Morgue",
+    "year": 1973,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 680,
+    "occurrences": [
+      [
+        0,
+        "00:00:22.143000",
+        "00:00:28.695000",
+        "The Hunchback of the Morgue"
+      ],
+      [
+        249,
+        "00:34:15.343000",
+        "00:34:20.019000",
+        "- the hunchback of the morgue - Gotho? I thought he disappeared"
+      ]
+    ],
+    "regex": "\\b((?!\\bHunchback\\ of\\ the\\ Morgue:)Hunchback\\ of\\ the\\ Morgue)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

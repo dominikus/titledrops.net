@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0223150",
+    "title": "Door",
+    "year": 1988,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 608,
+    "occurrences": [
+      [
+        143,
+        "00:14:26.950000",
+        "00:14:30.303000",
+        "Mommy! Mommy, open the door!"
+      ],
+      [
+        170,
+        "00:16:10.803000",
+        "00:16:12.113000",
+        "Somebody's at the door."
+      ],
+      [
+        215,
+        "00:26:38.473000",
+        "00:26:41.408000",
+        "What was written on the door?"
+      ],
+      [
+        235,
+        "00:27:39.700000",
+        "00:27:43.847000",
+        "You don't even know who was kicking your door for sure."
+      ],
+      [
+        299,
+        "00:37:42.637000",
+        "00:37:44.238000",
+        "You wrote that on my door."
+      ],
+      [
+        473,
+        "01:04:37.082000",
+        "01:04:39.310000",
+        "Mommy! Open the door!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDoor:)Door)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

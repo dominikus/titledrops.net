@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0119581",
+    "title": "Loved",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1396,
+    "occurrences": [
+      [
+        748,
+        "00:49:52.816000",
+        "00:49:53.858000",
+        "That he loved me."
+      ],
+      [
+        959,
+        "01:03:38.780000",
+        "01:03:41.212000",
+        "Because then I'd know I was loved."
+      ],
+      [
+        995,
+        "01:06:02.986000",
+        "01:06:03.855000",
+        "Loved?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLoved:)Loved)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

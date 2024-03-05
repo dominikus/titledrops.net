@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt26547864",
+    "title": "The Conference",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 1686,
+    "occurrences": [
+      [
+        187,
+        "00:10:46.291000",
+        "00:10:49",
+        "the standard at next year's conference will be higher, right?"
+      ],
+      [
+        204,
+        "00:11:27.125000",
+        "00:11:29.875000",
+        "Look, I mean, you can't have a conference facility without Wi-Fi."
+      ],
+      [
+        774,
+        "00:40:40.416000",
+        "00:40:43.750000",
+        "we went on conference trips to get a break from our everyday lives."
+      ],
+      [
+        775,
+        "00:40:43.833000",
+        "00:40:45.625000",
+        "And conference trips were for getting out,"
+      ],
+      [
+        973,
+        "00:50:06.541000",
+        "00:50:08.875000",
+        "A nice raise and conference trips to Dubai?"
+      ],
+      [
+        1319,
+        "01:10:55",
+        "01:10:58.041000",
+        "I think I told him we were coming here for our conference."
+      ]
+    ],
+    "regex": "\\b((?!\\bConference:)Conference)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

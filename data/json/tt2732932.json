@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2732932",
+    "title": "The Kill Team",
+    "year": 2013,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1162,
+    "occurrences": [
+      [
+        15,
+        "00:01:41.782000",
+        "00:01:44.546000",
+        " Soldiers allegedIy formed a kill team..."
+      ],
+      [
+        544,
+        "00:33:04.262000",
+        "00:33:07.129000",
+        "to this kill team idea, basically."
+      ],
+      [
+        1137,
+        "01:11:49.318000",
+        "01:11:51.013000",
+        "as we're horrible, we're the Kill Team..."
+      ]
+    ],
+    "regex": "\\b((?!\\bKill\\ Team:)Kill\\ Team)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

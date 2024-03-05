@@ -1,0 +1,65 @@
+[
+  {
+    "imdb": "tt0396273",
+    "title": "Willenbrock",
+    "year": 2005,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 788,
+    "occurrences": [
+      [
+        15,
+        "00:02:08.680000",
+        "00:02:10.477000",
+        "Job offer? - Mr. Willenbrock,"
+      ],
+      [
+        121,
+        "00:12:17.200000",
+        "00:12:21.432000",
+        "Willenbrock. The Alfa Romeo ... remember?"
+      ],
+      [
+        233,
+        "00:24:38.520000",
+        "00:24:41.557000",
+        "and please pay me a visit. I' m Susanne Willenbrock,"
+      ],
+      [
+        234,
+        "00:24:41.960000",
+        "00:24:44.030000",
+        "from Boutique Willenbrock."
+      ],
+      [
+        364,
+        "00:44:52.840000",
+        "00:44:55.229000",
+        "I' m Mr. Willenbrock. - Hello."
+      ],
+      [
+        408,
+        "00:48:39.560000",
+        "00:48:42.154000",
+        "This is Bernd Willenbrock, my car dealer,"
+      ],
+      [
+        651,
+        "01:14:48.280000",
+        "01:14:51.033000",
+        "Willenbrock? - Yes? - Did you like my gift?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWillenbrock:)Willenbrock)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [
+      "Bernd Willenbrock",
+      "Susanne Willenbrock"
+    ],
+    "title_is_name": true,
+    "rating": 6.9
+  }
+]

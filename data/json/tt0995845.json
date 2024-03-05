@@ -1,0 +1,83 @@
+[
+  {
+    "imdb": "tt0995845",
+    "title": "The Courier",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 10,
+    "all_lines": 710,
+    "occurrences": [
+      [
+        0,
+        "00:00:49.180000",
+        "00:00:51.419000",
+        "Where is the money, Courier? 6 minutes left."
+      ],
+      [
+        5,
+        "00:02:15.708000",
+        "00:02:18.021000",
+        "- I'm the Courier. - Throw the bag."
+      ],
+      [
+        103,
+        "00:12:51.733000",
+        "00:12:53.333000",
+        "What do you need today, Courier?"
+      ],
+      [
+        106,
+        "00:13:00.658000",
+        "00:13:03.293000",
+        "'Cause you say so, Courier? You're stepping up in the world?"
+      ],
+      [
+        124,
+        "00:13:58.774000",
+        "00:14:00.934000",
+        "You don't need these kind of guns, Courier."
+      ],
+      [
+        134,
+        "00:14:25.189000",
+        "00:14:26.836000",
+        "Do you need something else, Courier?"
+      ],
+      [
+        352,
+        "00:41:33.786000",
+        "00:41:37.540000",
+        "Really? Why would I get a briefcase of a Russian courier..."
+      ],
+      [
+        387,
+        "00:47:50.359000",
+        "00:47:55.352000",
+        "So I'm sure the Courier will be probably motivated. Also, there's a girl with him."
+      ],
+      [
+        443,
+        "00:54:07.149000",
+        "00:54:11.902000",
+        "Complete insanity. This is not a game. He will kill me. I am a courier..."
+      ],
+      [
+        655,
+        "01:23:24.947000",
+        "01:23:26.897000",
+        "That's why I hired the Russian courier."
+      ]
+    ],
+    "regex": "\\b((?!\\bCourier:)Courier)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [
+      "The Courier"
+    ],
+    "title_is_name": true,
+    "rating": 4.5
+  }
+]

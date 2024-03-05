@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt12783454",
+    "title": "The Kissing Booth 3",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 2067,
+    "occurrences": [
+      [
+        1884,
+        "01:40:53.708000",
+        "01:40:57.625000",
+        "The kids at school were still using the Kissing Booth."
+      ],
+      [
+        1968,
+        "01:45:59.666000",
+        "01:46:01.916000",
+        "- Yeah, let's do it. - Welcome to The Kissing Booth."
+      ]
+    ],
+    "regex": "\\b((?!\\bKissing\\ Booth:)Kissing\\ Booth)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

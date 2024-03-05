@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt3675606",
+    "title": "The Paper Store",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 2325,
+    "occurrences": [
+      [
+        783,
+        "00:32:34.553000",
+        "00:32:35.821000",
+        "The paper store."
+      ],
+      [
+        853,
+        "00:35:02.468000",
+        "00:35:03.802000",
+        "to take down the paper store?"
+      ],
+      [
+        1644,
+        "01:06:11.768000",
+        "01:06:15.005000",
+        "Then she is not the only paper store around here."
+      ]
+    ],
+    "regex": "\\b((?!\\bPaper\\ Store:)Paper\\ Store)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

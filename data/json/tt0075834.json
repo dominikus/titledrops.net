@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0075834",
+    "title": "The Pyjama Girl Case",
+    "year": 1977,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1329,
+    "occurrences": [
+      [
+        920,
+        "01:02:33.250000",
+        "01:02:35.367000",
+        "He was still working on the pyjama girl case."
+      ],
+      [
+        926,
+        "01:02:47.514000",
+        "01:02:50.678000",
+        "Yeah, it was nothing to do with the pyjama girl case."
+      ]
+    ],
+    "regex": "\\b((?!\\bPyjama\\ Girl\\ Case:)Pyjama\\ Girl\\ Case)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

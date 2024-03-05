@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0049966",
+    "title": "Written on the Wind",
+    "year": 1956,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1239,
+    "occurrences": [
+      [
+        3,
+        "00:01:10.530000",
+        "00:01:16.244000",
+        "Is written on the wind"
+      ],
+      [
+        5,
+        "00:01:21.833000",
+        "00:01:27.422000",
+        "Is written on the wind"
+      ],
+      [
+        18,
+        "00:02:25.063000",
+        "00:02:29.275000",
+        "What's written on the wind"
+      ]
+    ],
+    "regex": "\\b((?!\\bWritten\\ on\\ the\\ Wind:)Written\\ on\\ the\\ Wind)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

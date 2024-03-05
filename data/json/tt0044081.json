@@ -1,0 +1,25 @@
+[
+  {
+    "imdb": "tt0044081",
+    "title": "A Streetcar Named Desire",
+    "year": 1951,
+    "genres": [
+      "Drama"
+    ],
+    "count": 1,
+    "all_lines": 528,
+    "occurrences": [
+      [
+        2,
+        "00:02:28.800000",
+        "00:02:31.700000",
+        "Why, they told me to take a streetcar named Desire,"
+      ]
+    ],
+    "regex": "\\b((?!\\bStreetcar\\ Named\\ Desire:)Streetcar\\ Named\\ Desire)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

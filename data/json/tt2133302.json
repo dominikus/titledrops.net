@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt2133302",
+    "title": "OutPost 11",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 369,
+    "occurrences": [
+      [
+        5,
+        "00:00:39.812000",
+        "00:00:41.812000",
+        "a remote British outpost intercepts enemy"
+      ],
+      [
+        8,
+        "00:00:48.455000",
+        "00:00:50.455000",
+        "This is the story about Outpost eleven and its crew."
+      ],
+      [
+        10,
+        "00:04:08.809000",
+        "00:04:11.879000",
+        "Outpost 11"
+      ],
+      [
+        188,
+        "00:41:05.654000",
+        "00:41:09.921000",
+        "no record of your outpost exists."
+      ],
+      [
+        293,
+        "01:11:40.297000",
+        "01:11:42.697000",
+        "it was a ugly bussiness, but I fear he was trying to flea to outpost 11."
+      ]
+    ],
+    "regex": "\\b((?!\\bOutPost:)OutPost)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

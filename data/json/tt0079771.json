@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0079771",
+    "title": "Racquet",
+    "year": 1979,
+    "genres": [
+      "Comedy",
+      "Sport"
+    ],
+    "count": 6,
+    "all_lines": 1787,
+    "occurrences": [
+      [
+        1,
+        "00:00:24.281000",
+        "00:00:29.281000",
+        "All you need to play the game is a real good racquet"
+      ],
+      [
+        17,
+        "00:01:04.882000",
+        "00:01:06.399000",
+        "A well-strung racquet"
+      ],
+      [
+        40,
+        "00:01:55.632000",
+        "00:01:57.084000",
+        "A well-strung racquet"
+      ],
+      [
+        1151,
+        "00:47:05.261000",
+        "00:47:08.175000",
+        "Beats his victims over the head with a tennis racquet."
+      ],
+      [
+        1197,
+        "00:49:46.430000",
+        "00:49:47.921000",
+        "and a tennis racquet."
+      ],
+      [
+        1198,
+        "00:49:47.921000",
+        "00:49:50.977000",
+        "He beats his victim to death with the racquet, you see."
+      ]
+    ],
+    "regex": "\\b((?!\\bRacquet:)Racquet)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

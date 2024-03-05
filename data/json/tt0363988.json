@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0363988",
+    "title": "Secret Window",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 877,
+    "occurrences": [
+      [
+        64,
+        "00:11:53.793000",
+        "00:11:55.585000",
+        "Is a secret window."
+      ],
+      [
+        67,
+        "00:12:03.014000",
+        "00:12:05.842000",
+        "Is a secret window and it looked down on a secret garden."
+      ],
+      [
+        104,
+        "00:16:14.920000",
+        "00:16:16.616000",
+        "You remember the secret window?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSecret\\ Window:)Secret\\ Window)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

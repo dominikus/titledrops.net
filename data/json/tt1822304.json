@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1822304",
+    "title": "Sleeping Sickness",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 711,
+    "occurrences": [
+      [
+        252,
+        "00:26:21.610000",
+        "00:26:23.680000",
+        "You are in the first stage of sleeping sickness."
+      ],
+      [
+        465,
+        "00:48:53.450000",
+        "00:48:57.045000",
+        "It's about the evaluation of your program against sleeping sickness."
+      ],
+      [
+        466,
+        "00:48:58.610000",
+        "00:49:01.204000",
+        "We have sleeping sickness here. - I do hope so!"
+      ],
+      [
+        467,
+        "00:49:01.410000",
+        "00:49:04.402000",
+        "Of course we have the sleeping sickness. Come on."
+      ]
+    ],
+    "regex": "\\b((?!\\bSleeping\\ Sickness:)Sleeping\\ Sickness)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

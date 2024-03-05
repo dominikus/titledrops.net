@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0041716",
+    "title": "On the Town",
+    "year": 1949,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1283,
+    "occurrences": [
+      [
+        760,
+        "00:55:45.443000",
+        "00:55:47.411000",
+        "\"We're going on the town"
+      ],
+      [
+        775,
+        "00:56:34.102000",
+        "00:56:36.969000",
+        "\"We're goin' on the town\""
+      ],
+      [
+        815,
+        "00:59:04.917000",
+        "00:59:06.680000",
+        "\"We're goin' on the town"
+      ],
+      [
+        829,
+        "00:59:51.440000",
+        "00:59:54.932000",
+        "\"We're goin' on the town!\""
+      ]
+    ],
+    "regex": "\\b((?!\\bOn\\ the\\ Town:)On\\ the\\ Town)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

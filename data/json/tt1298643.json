@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1298643",
+    "title": "Closed for the Season",
+    "year": 2010,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1020,
+    "occurrences": [
+      [
+        45,
+        "00:05:14.148000",
+        "00:05:16.358000",
+        "What do you mean, \"Closed for the season\"?"
+      ],
+      [
+        201,
+        "00:21:39.799000",
+        "00:21:44.512000",
+        "put up \"Closed for the season\" signs. Everything was still inside though."
+      ],
+      [
+        319,
+        "00:31:29.888000",
+        "00:31:32.516000",
+        "Closed for the season, how can that be?"
+      ]
+    ],
+    "regex": "\\b((?!\\bClosed\\ for\\ the\\ Season:)Closed\\ for\\ the\\ Season)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt6952230",
+    "title": "Lôi Báo",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 822,
+    "occurrences": [
+      [
+        81,
+        "00:08:41.020000",
+        "00:08:42.563000",
+        "It's Loi Bao! Kill him!"
+      ],
+      [
+        339,
+        "00:42:21.458000",
+        "00:42:23.544000",
+        "No, my daddy is \"Loi Bao\"!"
+      ],
+      [
+        340,
+        "00:42:28.507000",
+        "00:42:29.842000",
+        "What the hell is a \"Loi Bao\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLoi\\ Bao:)Loi\\ Bao)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

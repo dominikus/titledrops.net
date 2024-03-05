@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt8108230",
+    "title": "Pokémon the Movie: The Power of Us",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 4,
+    "all_lines": 2209,
+    "occurrences": [
+      [
+        2177,
+        "01:32:51.229000",
+        "01:32:55.756000",
+        "In the power of us"
+      ],
+      [
+        2179,
+        "01:33:04.982000",
+        "01:33:08.551000",
+        "in the power of us"
+      ],
+      [
+        2190,
+        "01:34:07.697000",
+        "01:34:10.569000",
+        "In the power of us"
+      ],
+      [
+        2194,
+        "01:34:21.711000",
+        "01:34:24.235000",
+        "In the power of us"
+      ]
+    ],
+    "regex": "\\b((?!\\bPokemon\\ the\\ Movie:)Pokemon\\ the\\ Movie|(?!\\bPower\\ of\\ Us:)Power\\ of\\ Us)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt2618214",
+    "title": "Ghost Child",
+    "year": 2013,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 580,
+    "occurrences": [
+      [
+        546,
+        "01:15:49.333000",
+        "01:15:52.416000",
+        "Where's the ghost child?"
+      ],
+      [
+        548,
+        "01:15:54",
+        "01:15:55",
+        "Where's the ghost child?"
+      ],
+      [
+        550,
+        "01:15:57.333000",
+        "01:15:58.500000",
+        "Where's the ghost child?"
+      ],
+      [
+        551,
+        "01:15:58.583000",
+        "01:15:59.583000",
+        "Where's the ghost child?"
+      ]
+    ],
+    "regex": "\\b((?!\\bGhost\\ Child:)Ghost\\ Child)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt14001894",
+    "title": "Secret Headquarters",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1444,
+    "occurrences": [
+      [
+        338,
+        "00:23:22.358000",
+        "00:23:24.943000",
+        "We're in The Guard's secret headquarters."
+      ],
+      [
+        701,
+        "00:50:14.427000",
+        "00:50:17.721000",
+        "Irons. When were you gonna tell me you found The Guard's secret headquarters?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSecret\\ Headquarters:)Secret\\ Headquarters)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

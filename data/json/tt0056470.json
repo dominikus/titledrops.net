@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0056470",
+    "title": "Sergeants 3",
+    "year": 1962,
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 982,
+    "occurrences": [
+      [
+        13,
+        "00:04:54.127000",
+        "00:04:57.381000",
+        "Find Sergeants Merry, Deal and Barrett. I want them at once."
+      ],
+      [
+        966,
+        "01:50:23.415000",
+        "01:50:29.213000",
+        "of Sergeants Michael Merry, Charles Deal and Lawrence Barrett of this command,"
+      ]
+    ],
+    "regex": "\\b((?!\\bSergeants:)Sergeants)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

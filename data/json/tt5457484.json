@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt5457484",
+    "title": "Cabin 28",
+    "year": 2017,
+    "genres": [
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 854,
+    "occurrences": [
+      [
+        577,
+        "00:46:25.848000",
+        "00:46:28.250000",
+        "back to your family at Cabin 28."
+      ],
+      [
+        744,
+        "01:04:37.351000",
+        "01:04:39.718000",
+        "Yeah, I usually keep it out front the cabin,"
+      ],
+      [
+        749,
+        "01:04:52.133000",
+        "01:04:55.735000",
+        "past my cabin, yeah, now if he done that,"
+      ],
+      [
+        834,
+        "01:09:42.535000",
+        "01:09:44.302000",
+        "You have to walk past Cabin 28"
+      ],
+      [
+        836,
+        "01:09:46.707000",
+        "01:09:49.910000",
+        "Did you see any activity around Cabin 28 at that time?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCabin:)Cabin)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

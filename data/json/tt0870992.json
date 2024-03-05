@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0870992",
+    "title": "Cyclops",
+    "year": 1987,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 393,
+    "occurrences": [
+      [
+        0,
+        "00:00:38.833000",
+        "00:00:42.250000",
+        "Infants with severe malformations are called cyclops."
+      ],
+      [
+        3,
+        "00:00:50.125000",
+        "00:00:54.708000",
+        "Besides cyclops there are other forms of malformations, such as Siamese twins."
+      ]
+    ],
+    "regex": "\\b((?!\\bCyclops:)Cyclops)(?!\\:)(?!'t)\\b",
+    "runtime": 52,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

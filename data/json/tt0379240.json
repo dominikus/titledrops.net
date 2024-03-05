@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0379240",
+    "title": "Dead Fish",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1046,
+    "occurrences": [
+      [
+        961,
+        "01:23:33.732000",
+        "01:23:35.859000",
+        "we find a dead Fish."
+      ],
+      [
+        1024,
+        "01:28:44.175000",
+        "01:28:48.908000",
+        "All he needed was the body of a dead Fish and a clear shot."
+      ]
+    ],
+    "regex": "\\b((?!\\bDead\\ Fish:)Dead\\ Fish)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

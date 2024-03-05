@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1092633",
+    "title": "The Goods: Live Hard, Sell Hard",
+    "year": 2009,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1468,
+    "occurrences": [
+      [
+        45,
+        "00:03:26.272000",
+        "00:03:29.537000",
+        "Don \"The Goods\" Ready. Yes. Yeah."
+      ],
+      [
+        112,
+        "00:06:56.949000",
+        "00:07:00.407000",
+        "I'm Don Ready, and I got the goods."
+      ],
+      [
+        398,
+        "00:22:39.191000",
+        "00:22:41.250000",
+        "I'm Don \"The Goods\" Ready."
+      ],
+      [
+        1218,
+        "01:08:11.287000",
+        "01:08:14.415000",
+        "And having Don \"The Goods\" Ready here for three days"
+      ]
+    ],
+    "regex": "\\b((?!\\bGoods:)Goods|(?!\\bLive\\ Hard,\\ Sell\\ Hard:)Live\\ Hard,\\ Sell\\ Hard)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

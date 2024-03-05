@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt14209088",
+    "title": "Share or Die",
+    "year": 2021,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 976,
+    "occurrences": [
+      [
+        222,
+        "00:18:54.290000",
+        "00:18:56.120000",
+        "share, to share or die."
+      ],
+      [
+        609,
+        "00:46:18.900000",
+        "00:46:20.610000",
+        "the share or die post."
+      ]
+    ],
+    "regex": "\\b((?!\\bShare\\ or\\ Die:)Share\\ or\\ Die)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3
+  }
+]

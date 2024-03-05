@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1056422",
+    "title": "Fados",
+    "year": 2007,
+    "genres": [
+      "Documentary",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 737,
+    "occurrences": [
+      [
+        350,
+        "00:37:34.195000",
+        "00:37:36.993000",
+        "between a bunch of Fados,"
+      ],
+      [
+        369,
+        "00:39:03.525000",
+        "00:39:06.084000",
+        "between a bunch of Fados,"
+      ]
+    ],
+    "regex": "\\b((?!\\bFados:)Fados)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

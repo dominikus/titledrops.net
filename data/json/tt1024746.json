@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1024746",
+    "title": "Jake's Corner",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1719,
+    "occurrences": [
+      [
+        127,
+        "00:06:22.990000",
+        "00:06:23.823000",
+        "- Jake's Corner."
+      ],
+      [
+        517,
+        "00:31:25.750000",
+        "00:31:28.480000",
+        "up the river all the way to Jake's Corner."
+      ],
+      [
+        600,
+        "00:34:43.320000",
+        "00:34:45.430000",
+        "of the family here to Jake's Corner."
+      ]
+    ],
+    "regex": "\\b((?!\\bJake's\\ Corner:)Jake's\\ Corner)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

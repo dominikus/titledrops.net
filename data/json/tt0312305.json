@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt0312305",
+    "title": "Quantum Quest: A Cassini Space Odyssey",
+    "year": 2010,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Sci-Fi"
+    ],
+    "count": 1,
+    "all_lines": 704,
+    "occurrences": [
+      [
+        6,
+        "00:01:48.499000",
+        "00:01:51.372000",
+        "Welcome to the atomic realm of Quantum Quest,"
+      ]
+    ],
+    "regex": "\\b((?!\\bQuantum\\ Quest:)Quantum\\ Quest|(?!\\bCassini\\ Space\\ Odyssey:)Cassini\\ Space\\ Odyssey)(?!\\:)(?!'t)\\b",
+    "runtime": 50,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

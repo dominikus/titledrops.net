@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3501112",
+    "title": "Security",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1065,
+    "occurrences": [
+      [
+        296,
+        "00:22:03.843000",
+        "00:22:07.633000",
+        "Do the security cameras have backup power? Over."
+      ],
+      [
+        891,
+        "01:06:14.629000",
+        "01:06:16.128000",
+        "Hey, hey, I am security. On your knees!"
+      ],
+      [
+        949,
+        "01:11:34.228000",
+        "01:11:38.520000",
+        "the security one, alright?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSecurity:)Security)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

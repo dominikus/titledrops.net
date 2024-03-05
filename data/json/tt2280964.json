@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt2280964",
+    "title": "Real",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 6,
+    "all_lines": 896,
+    "occurrences": [
+      [
+        6,
+        "00:01:45.100000",
+        "00:01:53.620000",
+        "R E A L The day of a real plesiosaur"
+      ],
+      [
+        175,
+        "00:17:25.900000",
+        "00:17:33.070000",
+        "It's possible that this kind of hallucination can appear in your real life too from now on."
+      ],
+      [
+        200,
+        "00:19:16.670000",
+        "00:19:19.890000",
+        "This will be a real treasure for her fans."
+      ],
+      [
+        478,
+        "00:59:40.970000",
+        "00:59:43.020000",
+        "This isn't real!"
+      ],
+      [
+        483,
+        "01:00:15.760000",
+        "01:00:19.810000",
+        "Maybe you're mistaken, this is also not real."
+      ],
+      [
+        597,
+        "01:18:07.080000",
+        "01:18:09.790000",
+        "You are the real Atsumi!"
+      ]
+    ],
+    "regex": "\\b((?!\\bReal:)Real)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0076754",
+    "title": "The Swindle",
+    "year": 1977,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 5,
+    "all_lines": 1148,
+    "occurrences": [
+      [
+        146,
+        "00:10:05.666000",
+        "00:10:06.833000",
+        "It's a little swindle."
+      ],
+      [
+        156,
+        "00:10:32.625000",
+        "00:10:35.583000",
+        "They waited for someone to swindle, someone with a stupid face."
+      ],
+      [
+        172,
+        "00:11:17.416000",
+        "00:11:21.208000",
+        "It's a swindle to a shopkeeper done with 10,000 liras."
+      ],
+      [
+        1129,
+        "01:36:43.916000",
+        "01:36:46.375000",
+        "-It's a swindle! -A patriotic swindle."
+      ]
+    ],
+    "regex": "\\b((?!\\bSwindle:)Swindle)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

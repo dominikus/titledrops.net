@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt0038747",
+    "title": "Monsieur Beaucaire",
+    "year": 1946,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "History"
+    ],
+    "count": 5,
+    "all_lines": 1306,
+    "occurrences": [
+      [
+        60,
+        "00:05:31.473000",
+        "00:05:34.840000",
+        "Monsieur Beaucaire. Monsieur Beaucaire!"
+      ],
+      [
+        61,
+        "00:05:34.943000",
+        "00:05:37.377000",
+        "- Monsieur Beaucaire! - Monsieur Beaucaire!"
+      ],
+      [
+        62,
+        "00:05:37.479000",
+        "00:05:39.970000",
+        "Monsieur Beaucaire!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMonsieur\\ Beaucaire:)Monsieur\\ Beaucaire)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [
+      "Monsieur Beaucaire"
+    ],
+    "title_is_name": true,
+    "rating": 6.7
+  }
+]

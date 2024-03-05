@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1986953",
+    "title": "Storage 24",
+    "year": 2012,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 738,
+    "occurrences": [
+      [
+        207,
+        "00:20:36.920000",
+        "00:20:39.070000",
+        "I meant, what do you want from storage?"
+      ],
+      [
+        219,
+        "00:21:22.360000",
+        "00:21:26.148000",
+        "Work in a storage warehouse. What a ridiculous place to work."
+      ],
+      [
+        548,
+        "00:51:38.840000",
+        "00:51:42.753000",
+        "Are we gonna Iisten to a guy who Iives in a storage unit and is clearly crazy?"
+      ]
+    ],
+    "regex": "\\b((?!\\bStorage:)Storage)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

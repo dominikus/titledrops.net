@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt6296236",
+    "title": "Running Shaadi",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1744,
+    "occurrences": [
+      [
+        7,
+        "00:02:21.975000",
+        "00:02:25.812000",
+        "A website... and it's called Running Shaadi."
+      ],
+      [
+        19,
+        "00:02:51.838000",
+        "00:02:53.965000",
+        "{\\an8}So I feel Running Shaadi is a good thing."
+      ],
+      [
+        25,
+        "00:03:03.433000",
+        "00:03:05.476000",
+        "This is exactly why Running Shaadi was created."
+      ],
+      [
+        884,
+        "00:56:42.649000",
+        "00:56:47.654000",
+        "to be running around with cards and pamphlets of your Running Shaadi."
+      ]
+    ],
+    "regex": "\\b((?!\\bRunning\\ Shaadi:)Running\\ Shaadi)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt2088923",
+    "title": "The Cloth",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 1262,
+    "occurrences": [
+      [
+        251,
+        "00:16:37.696000",
+        "00:16:40.365000",
+        "...known as The Cloth."
+      ],
+      [
+        252,
+        "00:16:41.266000",
+        "00:16:43.668000",
+        "\"The Cloth.\""
+      ],
+      [
+        365,
+        "00:22:34.620000",
+        "00:22:38.823000",
+        "The Cloth's main objective is to seek and destroy"
+      ],
+      [
+        768,
+        "00:47:15.699000",
+        "00:47:18.701000",
+        "...until I have eliminated The Cloth."
+      ],
+      [
+        1177,
+        "01:16:24.713000",
+        "01:16:27.648000",
+        "The Cloth's been working above this the whole time?"
+      ],
+      [
+        1247,
+        "01:22:01.183000",
+        "01:22:03.751000",
+        "It's a symbol for The Cloth, what are you talking about?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCloth:)Cloth)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.3
+  }
+]

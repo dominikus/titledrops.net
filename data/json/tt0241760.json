@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0241760",
+    "title": "The New Guy",
+    "year": 2002,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 907,
+    "occurrences": [
+      [
+        329,
+        "00:29:22.961000",
+        "00:29:26.795000",
+        "-Who the heII are you? -I'm the new guy."
+      ],
+      [
+        343,
+        "00:30:24.956000",
+        "00:30:27.982000",
+        "Hey, new guy. Got a name?"
+      ],
+      [
+        406,
+        "00:35:52.650000",
+        "00:35:54.618000",
+        "Hey, new guy."
+      ],
+      [
+        407,
+        "00:36:04.595000",
+        "00:36:07.063000",
+        "You wanna dance, new guy?"
+      ],
+      [
+        495,
+        "00:43:04.415000",
+        "00:43:07.873000",
+        "-What's that about? -Just asking the new guy a favor."
+      ]
+    ],
+    "regex": "\\b((?!\\bNew\\ Guy:)New\\ Guy)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

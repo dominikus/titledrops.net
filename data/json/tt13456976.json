@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt13456976",
+    "title": "Old Man",
+    "year": 2022,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1531,
+    "occurrences": [
+      [
+        812,
+        "00:51:16.908000",
+        "00:51:18.512000",
+        "that there's some old man"
+      ],
+      [
+        1323,
+        "01:19:40.115000",
+        "01:19:42.577000",
+        "RASCAL: You're losing your mind, old man."
+      ],
+      [
+        1402,
+        "01:23:28.475000",
+        "01:23:30.244000",
+        "Hell, Old Man."
+      ],
+      [
+        1476,
+        "01:30:37.266000",
+        "01:30:40.542000",
+        "You're looking tired, old man."
+      ]
+    ],
+    "regex": "\\b((?!\\bOld\\ Man:)Old\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [
+      "Old Man"
+    ],
+    "title_is_name": true,
+    "rating": 4.9
+  }
+]

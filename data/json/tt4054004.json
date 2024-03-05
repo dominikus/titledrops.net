@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt4054004",
+    "title": "2047: Virtual Revolution",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Crime",
+      "Sci-Fi"
+    ],
+    "count": 1,
+    "all_lines": 640,
+    "occurrences": [
+      [
+        8,
+        "00:04:30.040000",
+        "00:04:35.320000",
+        "This is in 2047, a century characterized by a technical revolution."
+      ]
+    ],
+    "regex": "\\b((?!\\b2047:)2047|(?!\\bVirtual\\ Revolution:)Virtual\\ Revolution)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

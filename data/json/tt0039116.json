@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0039116",
+    "title": "Ziegfeld Follies",
+    "year": 1945,
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "count": 5,
+    "all_lines": 1121,
+    "occurrences": [
+      [
+        71,
+        "00:12:51.271000",
+        "00:12:55.810000",
+        "The world would never forget the Ziegfeld follies."
+      ],
+      [
+        78,
+        "00:13:29.267000",
+        "00:13:32.930000",
+        "After all, how could there be a Ziegfeld follies"
+      ],
+      [
+        103,
+        "00:14:50.807000",
+        "00:14:53.924000",
+        "The Ziegfeld follies was itself a story of an era."
+      ],
+      [
+        115,
+        "00:15:23.756000",
+        "00:15:27.920000",
+        "j you'll find them all in the Ziegfeld follies! J"
+      ],
+      [
+        130,
+        "00:18:02.456000",
+        "00:18:07.541000",
+        "j in the Ziegfeld follies. J"
+      ]
+    ],
+    "regex": "\\b((?!\\bZiegfeld\\ Follies:)Ziegfeld\\ Follies)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

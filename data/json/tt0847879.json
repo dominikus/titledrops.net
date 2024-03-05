@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0847879",
+    "title": "Glenn Gould: Hereafter",
+    "year": 2006,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 152,
+    "occurrences": [
+      [
+        122,
+        "01:25:37.300000",
+        "01:25:40.403000",
+        "of having a fictitious conversation with Glenn Gould."
+      ],
+      [
+        125,
+        "01:25:46.142000",
+        "01:25:48.645000",
+        "in which I talked with Glenn Gould."
+      ],
+      [
+        132,
+        "01:26:47.003000",
+        "01:26:49.105000",
+        "When I listen to Glenn Gould,"
+      ],
+      [
+        146,
+        "01:41:58.246000",
+        "01:41:59.681000",
+        "Glenn Gould,"
+      ]
+    ],
+    "regex": "\\b((?!\\bGlenn\\ Gould:)Glenn\\ Gould|(?!\\bHereafter:)Hereafter)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

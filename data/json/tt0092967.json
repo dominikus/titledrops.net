@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0092967",
+    "title": "End of the Line",
+    "year": 1987,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1456,
+    "occurrences": [
+      [
+        736,
+        "00:53:31.737000",
+        "00:53:33.739000",
+        "Looks like we've hit the end of the line."
+      ],
+      [
+        738,
+        "00:53:37.842000",
+        "00:53:39.777000",
+        "The end of the line is jail."
+      ],
+      [
+        1297,
+        "01:30:37.770000",
+        "01:30:39.571000",
+        "End of the line!"
+      ]
+    ],
+    "regex": "\\b((?!\\bEnd\\ of\\ the\\ Line:)End\\ of\\ the\\ Line)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

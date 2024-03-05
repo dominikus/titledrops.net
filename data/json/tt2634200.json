@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2634200",
+    "title": "Don't Think I've Forgotten: Cambodia's Lost Rock and Roll",
+    "year": 2014,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 747,
+    "occurrences": [
+      [
+        9,
+        "00:02:08.950000",
+        "00:02:14.450000",
+        "(Don't Think I've Forgotten)"
+      ],
+      [
+        739,
+        "01:41:59.250000",
+        "01:42:03.290000",
+        "Don't think I've forgotten"
+      ]
+    ],
+    "regex": "\\b((?!\\bDon't\\ Think\\ I've\\ Forgotten:)Don't\\ Think\\ I've\\ Forgotten|(?!\\bCambodia's\\ Lost\\ Rock\\ and\\ Roll:)Cambodia's\\ Lost\\ Rock\\ and\\ Roll)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

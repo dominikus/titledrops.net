@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0758732",
+    "title": "Beaufort",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 555,
+    "occurrences": [
+      [
+        0,
+        "00:01:21",
+        "00:01:23.753000",
+        "The Beaufort Castle, a twelfth-century Crusader fort,"
+      ],
+      [
+        14,
+        "00:04:01.880000",
+        "00:04:03.871000",
+        "This is Liraz, the outpost commander. Welcome to Beaufort."
+      ],
+      [
+        104,
+        "00:11:04.840000",
+        "00:11:06.592000",
+        "this is how you sleep at Beaufort."
+      ],
+      [
+        127,
+        "00:14:37.640000",
+        "00:14:41.315000",
+        "Stay with us. We'll make you a deluxe Beaufort toast."
+      ]
+    ],
+    "regex": "\\b((?!\\bBeaufort:)Beaufort)(?!\\:)(?!'t)\\b",
+    "runtime": 131,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

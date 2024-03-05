@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt8179024",
+    "title": "Body Cam",
+    "year": 2020,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 992,
+    "occurrences": [
+      [
+        85,
+        "00:05:33.484000",
+        "00:05:35.186000",
+        "saw your body cam footage, Renee."
+      ],
+      [
+        257,
+        "00:19:03.627000",
+        "00:19:07.331000",
+        "Ganning's body cam got fried, too. It's blank."
+      ],
+      [
+        297,
+        "00:21:14.959000",
+        "00:21:16.460000",
+        "Body cam footage was all they needed"
+      ],
+      [
+        910,
+        "01:20:08.425000",
+        "01:20:11.161000",
+        "Body cam footage of the night of the murder."
+      ],
+      [
+        986,
+        "01:29:31.555000",
+        "01:29:35.159000",
+        "on the body cam of the late Officer Daniel Holledge came to light,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBody\\ Cam:)Body\\ Cam)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0076161",
+    "title": "The Hound of the Baskervilles",
+    "year": 1978,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1574,
+    "occurrences": [
+      [
+        126,
+        "00:09:24.955000",
+        "00:09:27.044000",
+        "that the legendary hound of the baskervilles"
+      ],
+      [
+        824,
+        "00:45:58.756000",
+        "00:46:02.585000",
+        "Aren't you Mr. Frankland, the expert on the hound of the baskervilles?"
+      ],
+      [
+        1056,
+        "00:57:27.356000",
+        "00:57:32.013000",
+        "that she encountered the hound of the baskervilles..."
+      ],
+      [
+        1271,
+        "01:08:41.595000",
+        "01:08:45.121000",
+        "Exactly. A perfect likeness of the hound of the baskervilles,"
+      ]
+    ],
+    "regex": "\\b((?!\\bHound\\ of\\ the\\ Baskervilles:)Hound\\ of\\ the\\ Baskervilles)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

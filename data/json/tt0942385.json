@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0942385",
+    "title": "Tropic Thunder",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Comedy",
+      "War"
+    ],
+    "count": 5,
+    "all_lines": 1520,
+    "occurrences": [
+      [
+        199,
+        "00:13:07.704000",
+        "00:13:10.707000",
+        "More bad news from the Vietnamese set of Tropic Thunder,"
+      ],
+      [
+        214,
+        "00:13:57.670000",
+        "00:14:00.048000",
+        "I'm so excited, you know what I'm saying, about doing Tropic Thunder."
+      ],
+      [
+        471,
+        "00:29:16.171000",
+        "00:29:19.341000",
+        "Tropic Thunder. Kind of like my Catcher in the Rye."
+      ],
+      [
+        954,
+        "01:00:23.954000",
+        "01:00:26.414000",
+        "So you can read the Tropic Thunder contract"
+      ],
+      [
+        1030,
+        "01:05:03.817000",
+        "01:05:05.860000",
+        "The book of Tropic Thunder."
+      ]
+    ],
+    "regex": "\\b((?!\\bTropic\\ Thunder:)Tropic\\ Thunder)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1606389",
+    "title": "The Vow",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1730,
+    "occurrences": [
+      [
+        155,
+        "00:10:02.101000",
+        "00:10:04.274000",
+        "I vow to help you love life,"
+      ],
+      [
+        169,
+        "00:10:45.478000",
+        "00:10:47.685000",
+        "I vow to fiercely love you"
+      ],
+      [
+        599,
+        "00:36:10.368000",
+        "00:36:12.609000",
+        "I vow to help you love life,"
+      ],
+      [
+        611,
+        "00:36:40.464000",
+        "00:36:42.501000",
+        "LEO: I vow to fiercely Jove you"
+      ],
+      [
+        1632,
+        "01:35:25.186000",
+        "01:35:28.167000",
+        "PAIGE: I vow to help you love life,"
+      ]
+    ],
+    "regex": "\\b((?!\\bVow:)Vow)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

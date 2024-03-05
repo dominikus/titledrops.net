@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt11056910",
+    "title": "The Stylist",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 668,
+    "occurrences": [
+      [
+        132,
+        "00:20:06.571000",
+        "00:20:09.298000",
+        "I texted my regular stylist this morning."
+      ],
+      [
+        309,
+        "00:34:55.838000",
+        "00:34:59.152000",
+        "She was a hair stylist also."
+      ],
+      [
+        319,
+        "00:35:36.258000",
+        "00:35:37.708000",
+        "- My hair stylist. - Oh."
+      ],
+      [
+        323,
+        "00:35:43.369000",
+        "00:35:45.509000",
+        "Claire was just telling me that her mom was also a hair stylist."
+      ],
+      [
+        395,
+        "00:49:40.653000",
+        "00:49:43.415000",
+        "My hair stylist and the savior of my wedding."
+      ],
+      [
+        450,
+        "00:54:04.503000",
+        "00:54:05.987000",
+        "So what's up with the hair stylist?"
+      ]
+    ],
+    "regex": "\\b((?!\\bStylist:)Stylist)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

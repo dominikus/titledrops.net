@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0044423",
+    "title": "The Black Castle",
+    "year": 1952,
+    "genres": [
+      "Adventure",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 909,
+    "occurrences": [
+      [
+        141,
+        "00:13:39.518000",
+        "00:13:43.045000",
+        "Very well, sir. We leave for the Black Castle in the morning."
+      ],
+      [
+        870,
+        "01:16:21.510000",
+        "01:16:25.344000",
+        "I wonder why he ever came to the Black Castle in the first place."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Castle:)Black\\ Castle)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

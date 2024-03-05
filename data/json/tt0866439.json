@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0866439",
+    "title": "Made of Honor",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1472,
+    "occurrences": [
+      [
+        501,
+        "00:31:30.950000",
+        "00:31:32.838000",
+        "\"Made of Honor\"?"
+      ],
+      [
+        599,
+        "00:36:13.434000",
+        "00:36:15.753000",
+        "What's your dress size, Made Of Honor?"
+      ],
+      [
+        924,
+        "00:51:42.186000",
+        "00:51:44.280000",
+        "we have to make you the best Made of Honor, ever."
+      ],
+      [
+        933,
+        "00:51:57.006000",
+        "00:52:00.133000",
+        "That's funny, because we got the Made of Honor!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMade\\ of\\ Honor:)Made\\ of\\ Honor)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

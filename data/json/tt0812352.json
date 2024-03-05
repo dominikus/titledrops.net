@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0812352",
+    "title": "9 Miles Down",
+    "year": 2009,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 730,
+    "occurrences": [
+      [
+        47,
+        "00:09:47.583000",
+        "00:09:53.129000",
+        "Seismographic data recently detected a massive underground cavity opened 9 miles down ."
+      ],
+      [
+        54,
+        "00:10:10.250000",
+        "00:10:12.003000",
+        "9 Miles Down!"
+      ]
+    ],
+    "regex": "\\b((?!\\b9\\ Miles\\ Down:)9\\ Miles\\ Down)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

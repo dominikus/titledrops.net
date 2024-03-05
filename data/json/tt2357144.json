@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2357144",
+    "title": "37: A Final Promise",
+    "year": 2014,
+    "genres": [
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1346,
+    "occurrences": [
+      [
+        3,
+        "00:00:34.773000",
+        "00:00:38.342000",
+        "In a few months I'll be 37"
+      ],
+      [
+        165,
+        "00:09:56.770000",
+        "00:09:58.598000",
+        "He's gonna be 37."
+      ],
+      [
+        911,
+        "01:01:03.355000",
+        "01:01:07.664000",
+        "Hey, don't make fun of me, Mr. 37."
+      ],
+      [
+        1241,
+        "01:22:12.797000",
+        "01:22:20.109000",
+        "I made a vow to kill myself when I turned 37"
+      ]
+    ],
+    "regex": "\\b((?!\\b37:)37|(?!\\bFinal\\ Promise:)Final\\ Promise)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

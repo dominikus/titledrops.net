@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0475532",
+    "title": "Cello",
+    "year": 2005,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 602,
+    "occurrences": [
+      [
+        152,
+        "00:22:36.955000",
+        "00:22:39.219000",
+        "Teaching Yoon-jin the cello."
+      ],
+      [
+        393,
+        "00:52:12.629000",
+        "00:52:14.256000",
+        "That I quit the cello"
+      ],
+      [
+        406,
+        "00:53:11.855000",
+        "00:53:15.985000",
+        "She said that maybe if one of us didn't play the cello,"
+      ],
+      [
+        439,
+        "00:58:24.667000",
+        "00:58:28.694000",
+        "Huh? Where'd the cello go?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCello:)Cello)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

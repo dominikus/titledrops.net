@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0104692",
+    "title": "The Lawnmower Man",
+    "year": 1992,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1175,
+    "occurrences": [
+      [
+        454,
+        "00:35:17.482000",
+        "00:35:21.680000",
+        "No. You're not the Lawnmower Man."
+      ],
+      [
+        477,
+        "00:36:20.978000",
+        "00:36:22.639000",
+        "OK, Lawnmower Man."
+      ],
+      [
+        853,
+        "01:09:18.721000",
+        "01:09:21.986000",
+        "and I am too tired for this, Lawnmower Man."
+      ],
+      [
+        861,
+        "01:10:32.328000",
+        "01:10:35.889000",
+        "Lawnmower Man's in your head now, Jake."
+      ]
+    ],
+    "regex": "\\b((?!\\bLawnmower\\ Man:)Lawnmower\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

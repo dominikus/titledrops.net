@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt12832916",
+    "title": "Red Woods",
+    "year": 2021,
+    "genres": [
+      "Adventure",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 2482,
+    "occurrences": [
+      [
+        220,
+        "00:07:47.175000",
+        "00:07:48.843000",
+        "a.k.a. the Red Woods-"
+      ],
+      [
+        267,
+        "00:09:25.899000",
+        "00:09:27.609000",
+        "Mouth of the mighty Red Woods"
+      ]
+    ],
+    "regex": "\\b((?!\\bRed\\ Woods:)Red\\ Woods)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

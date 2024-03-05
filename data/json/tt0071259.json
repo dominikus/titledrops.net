@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0071259",
+    "title": "Busting",
+    "year": 1974,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1306,
+    "occurrences": [
+      [
+        976,
+        "01:03:57.192000",
+        "01:04:00.108000",
+        "I mean, you go around busting $10 hookers,"
+      ],
+      [
+        989,
+        "01:04:29.833000",
+        "01:04:33.881000",
+        "Captain Marvel, saving the world by busting $10 hookers."
+      ]
+    ],
+    "regex": "\\b((?!\\bBusting:)Busting)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

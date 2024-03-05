@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0131097",
+    "title": "The Widower",
+    "year": 1959,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1587,
+    "occurrences": [
+      [
+        5,
+        "00:00:23.066000",
+        "00:00:25.261000",
+        "I dreamed I was a widower."
+      ],
+      [
+        765,
+        "00:42:07.706000",
+        "00:42:09.822000",
+        "But as Elvira's widower,"
+      ],
+      [
+        1050,
+        "00:56:42.946000",
+        "00:56:45.460000",
+        "Good thing he was only a widower for 24 hours."
+      ],
+      [
+        1075,
+        "00:57:58.226000",
+        "00:58:00.581000",
+        "Forget her! You're not a widower now."
+      ],
+      [
+        1088,
+        "00:58:39.826000",
+        "00:58:43.296000",
+        "I am a widower. I have nothing else to say."
+      ]
+    ],
+    "regex": "\\b((?!\\bWidower:)Widower)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

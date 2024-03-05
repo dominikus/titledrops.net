@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt10696896",
+    "title": "Stillwater",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 2090,
+    "occurrences": [
+      [
+        28,
+        "00:03:42.744000",
+        "00:03:44.702000",
+        "- MAN: Where you from? - BILL: Stillwater."
+      ],
+      [
+        140,
+        "00:10:18.313000",
+        "00:10:20.445000",
+        "No, I mean I forgot them at home in Stillwater."
+      ],
+      [
+        1802,
+        "01:48:57.618000",
+        "01:48:59.489000",
+        "S-Stillwater!"
+      ],
+      [
+        1806,
+        "01:49:07.149000",
+        "01:49:09.020000",
+        "He say \"Stillwater.\""
+      ],
+      [
+        1835,
+        "01:50:54.430000",
+        "01:50:56.214000",
+        "Said \"Stillwater\" on it."
+      ],
+      [
+        2025,
+        "02:08:17.690000",
+        "02:08:19.561000",
+        "Said \"Stillwater\" on it."
+      ]
+    ],
+    "regex": "\\b((?!\\bStillwater:)Stillwater)(?!\\:)(?!'t)\\b",
+    "runtime": 139,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

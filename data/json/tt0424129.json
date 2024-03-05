@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0424129",
+    "title": "Gunner Palace",
+    "year": 2004,
+    "genres": [
+      "Documentary",
+      "War"
+    ],
+    "count": 5,
+    "all_lines": 1251,
+    "occurrences": [
+      [
+        35,
+        "00:02:57.010000",
+        "00:02:58.978000",
+        "Welcome to Gunner Palace."
+      ],
+      [
+        718,
+        "00:43:59.003000",
+        "00:44:01.165000",
+        "Welcome to Gunner Palace."
+      ],
+      [
+        722,
+        "00:44:09.413000",
+        "00:44:13.077000",
+        "That's right. Gunner Palace, basically an adult paradise,"
+      ],
+      [
+        869,
+        "00:55:45.342000",
+        "00:55:48.710000",
+        "I received an e-mail from Gunner Palace."
+      ],
+      [
+        1251,
+        "01:25:10.973000",
+        "01:25:14.534000",
+        "Gunner Palace, basically, an adult's paradise."
+      ]
+    ],
+    "regex": "\\b((?!\\bGunner\\ Palace:)Gunner\\ Palace)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

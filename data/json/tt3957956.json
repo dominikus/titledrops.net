@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt3957956",
+    "title": "12 Rounds 3: Lockdown",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 770,
+    "occurrences": [
+      [
+        116,
+        "00:12:58.792000",
+        "00:13:00.825000",
+        "Takes 12 rounds, right? That's right."
+      ],
+      [
+        240,
+        "00:25:53.672000",
+        "00:25:54.837000",
+        "I need you to put the building into lockdown"
+      ],
+      [
+        271,
+        "00:27:26.940000",
+        "00:27:28.273000",
+        "System lockdown initiated."
+      ],
+      [
+        323,
+        "00:31:51.082000",
+        "00:31:52.315000",
+        "Confirm lockdown."
+      ],
+      [
+        380,
+        "00:36:27.574000",
+        "00:36:29.815000",
+        "until we're out of lockdown. You understand me?"
+      ],
+      [
+        506,
+        "00:52:36.423000",
+        "00:52:38.055000",
+        "We're in complete lockdown."
+      ],
+      [
+        657,
+        "01:12:44.593000",
+        "01:12:47.360000",
+        "we're out of lockdown and Shaw can make calls!"
+      ]
+    ],
+    "regex": "\\b((?!\\b12\\ Rounds:)12\\ Rounds|(?!\\bLockdown:)Lockdown)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

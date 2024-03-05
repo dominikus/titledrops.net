@@ -1,0 +1,36 @@
+[
+  {
+    "imdb": "tt6443346",
+    "title": "Black Adam",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1770,
+    "occurrences": [
+      [
+        1720,
+        "01:56:03.561000",
+        "01:56:05.389000",
+        "Okay, \"Black Adam.\""
+      ],
+      [
+        1734,
+        "01:57:03.667000",
+        "01:57:04.842000",
+        "Black Adam."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Adam:)Black\\ Adam)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [
+      "Black Adam",
+      "Teth Adam"
+    ],
+    "title_is_name": true,
+    "rating": 6.2
+  }
+]

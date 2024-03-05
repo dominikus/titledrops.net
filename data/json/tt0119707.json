@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0119707",
+    "title": "Mortal Kombat: Annihilation",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 6,
+    "all_lines": 702,
+    "occurrences": [
+      [
+        0,
+        "00:00:50.500000",
+        "00:00:53.600000",
+        "Mortal Kombat is not about death..."
+      ],
+      [
+        5,
+        "00:01:03.900000",
+        "00:01:05.865000",
+        "According to the rules of Mortal Kombat..."
+      ],
+      [
+        21,
+        "00:03:04.500000",
+        "00:03:07.465000",
+        "I thought our victory in Mortal Kombat closed those portals."
+      ],
+      [
+        66,
+        "00:07:57.100000",
+        "00:08:02.500000",
+        "But Kahn must be stopped, or your world will perish. We have six days until annihilation."
+      ],
+      [
+        238,
+        "00:30:16.500000",
+        "00:30:21.500000",
+        "If you are Nightwolf, you know I won Mortal Kombat."
+      ],
+      [
+        681,
+        "01:15:23.740000",
+        "01:15:26.580000",
+        "In Mortal Kombat."
+      ]
+    ],
+    "regex": "\\b((?!\\bMortal\\ Kombat:)Mortal\\ Kombat|(?!\\bAnnihilation:)Annihilation)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

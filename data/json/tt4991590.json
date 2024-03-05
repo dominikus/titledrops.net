@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4991590",
+    "title": "Interruption",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 619,
+    "occurrences": [
+      [
+        50,
+        "00:09:50.148000",
+        "00:09:52.277000",
+        "We apologize for the interruption."
+      ],
+      [
+        318,
+        "00:41:12.363000",
+        "00:41:14.386000",
+        "We apologize for the interruption."
+      ],
+      [
+        387,
+        "00:48:34.523000",
+        "00:48:36.467000",
+        "We apologize for the interruption."
+      ]
+    ],
+    "regex": "\\b((?!\\bInterruption:)Interruption)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

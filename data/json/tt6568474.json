@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt6568474",
+    "title": "Winner",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 2160,
+    "occurrences": [
+      [
+        13,
+        "00:02:14.317000",
+        "00:02:17.233000",
+        "Sir, our jockey is the winner of 14 major titles."
+      ],
+      [
+        160,
+        "00:13:05.817000",
+        "00:13:08.400000",
+        "is the winner of the race."
+      ],
+      [
+        1186,
+        "01:16:31.392000",
+        "01:16:33.735000",
+        "Become winner by marrying that girl."
+      ],
+      [
+        2033,
+        "02:08:36.025000",
+        "02:08:38.608000",
+        "\"You are the winner\""
+      ],
+      [
+        2045,
+        "02:09:39.358000",
+        "02:09:41.983000",
+        "'\"You are the winner.\""
+      ],
+      [
+        2114,
+        "02:22:47.677000",
+        "02:22:50.724000",
+        "Jockey number 6 is the winner."
+      ],
+      [
+        2145,
+        "02:26:01.254000",
+        "02:26:03.442000",
+        "But my son made me a winner."
+      ]
+    ],
+    "regex": "\\b((?!\\bWinner:)Winner)(?!\\:)(?!'t)\\b",
+    "runtime": 155,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

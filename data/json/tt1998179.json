@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1998179",
+    "title": "At Stake: Vampire Solutions",
+    "year": 2012,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 1483,
+    "occurrences": [
+      [
+        56,
+        "00:03:50.263000",
+        "00:03:52.599000",
+        "we are At Stake Vampire Solutions."
+      ],
+      [
+        58,
+        "00:03:56.002000",
+        "00:04:00.173000",
+        "Hi, we are At Stake Vampire Solutions."
+      ],
+      [
+        784,
+        "00:39:13.351000",
+        "00:39:15.420000",
+        "At Stake Vampire Solutions, this is Kevin speaking,"
+      ]
+    ],
+    "regex": "\\b((?!\\bAt\\ Stake:)At\\ Stake|(?!\\bVampire\\ Solutions:)Vampire\\ Solutions)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

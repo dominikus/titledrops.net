@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1816705",
+    "title": "Vanished",
+    "year": 2011,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1285,
+    "occurrences": [
+      [
+        1130,
+        "01:13:43.792000",
+        "01:13:47.792000",
+        "all the vanished had one thing in common."
+      ],
+      [
+        1151,
+        "01:15:14.626000",
+        "01:15:19.459000",
+        "Then she just vanished, never seen or heard from again."
+      ]
+    ],
+    "regex": "\\b((?!\\bVanished:)Vanished)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

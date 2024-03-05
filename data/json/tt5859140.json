@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5859140",
+    "title": "The End of Meat",
+    "year": 2017,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1365,
+    "occurrences": [
+      [
+        382,
+        "00:30:38.208000",
+        "00:30:42.625000",
+        "How could the end of meat affect the planet, the animals,"
+      ],
+      [
+        1324,
+        "01:30:31.500000",
+        "01:30:33.500000",
+        "The end of meat as we know it"
+      ]
+    ],
+    "regex": "\\b((?!\\bEnd\\ of\\ Meat:)End\\ of\\ Meat)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

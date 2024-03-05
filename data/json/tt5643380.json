@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5643380",
+    "title": "Taekwondo",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1182,
+    "occurrences": [
+      [
+        194,
+        "00:16:07.563000",
+        "00:16:13.021000",
+        "I started doing taekwondo, because that's all they had there."
+      ],
+      [
+        703,
+        "01:02:29.771000",
+        "01:02:31.854000",
+        "Germen, a friend of mine from Taekwondo."
+      ]
+    ],
+    "regex": "\\b((?!\\bTaekwondo:)Taekwondo)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

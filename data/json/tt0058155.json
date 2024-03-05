@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0058155",
+    "title": "The Gorgon",
+    "year": 1964,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 860,
+    "occurrences": [
+      [
+        372,
+        "00:35:08.199000",
+        "00:35:11.911000",
+        "So hideous was the Gorgon..."
+      ],
+      [
+        559,
+        "00:54:40.955000",
+        "00:54:44.375000",
+        "...must have looked directly at the Gorgon and so did your father."
+      ]
+    ],
+    "regex": "\\b((?!\\bGorgon:)Gorgon)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

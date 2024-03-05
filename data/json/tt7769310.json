@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt7769310",
+    "title": "Red Cow",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 909,
+    "occurrences": [
+      [
+        54,
+        "00:08:36.307000",
+        "00:08:38.924000",
+        "I received word that a red cow was born."
+      ],
+      [
+        189,
+        "00:18:33.070000",
+        "00:18:35.607000",
+        "According to the Red Cow Tractate,"
+      ],
+      [
+        194,
+        "00:18:52.340000",
+        "00:18:55.503000",
+        "to locate the exact place where the red cow was burned,"
+      ],
+      [
+        199,
+        "00:19:30.127000",
+        "00:19:36.920000",
+        "the Red Cow is a sign that urges us to resume our worship in the Holy City,"
+      ],
+      [
+        668,
+        "01:03:28.888000",
+        "01:03:30.845000",
+        "the red cow and the..."
+      ]
+    ],
+    "regex": "\\b((?!\\bRed\\ Cow:)Red\\ Cow)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

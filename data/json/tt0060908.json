@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0060908",
+    "title": "King of Hearts",
+    "year": 1966,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "count": 5,
+    "all_lines": 747,
+    "occurrences": [
+      [
+        135,
+        "00:15:59.138000",
+        "00:16:00.571000",
+        "King of Hearts!"
+      ],
+      [
+        164,
+        "00:28:43.301000",
+        "00:28:45.895000",
+        "- What king? - The King of Hearts!"
+      ],
+      [
+        196,
+        "00:31:28.233000",
+        "00:31:29.928000",
+        "King of Hearts!"
+      ],
+      [
+        295,
+        "00:41:05.843000",
+        "00:41:07.276000",
+        "The King of Hearts!"
+      ],
+      [
+        372,
+        "00:51:19.156000",
+        "00:51:21.784000",
+        "Long live the King! Long live the King of Hearts!"
+      ]
+    ],
+    "regex": "\\b((?!\\bKing\\ of\\ Hearts:)King\\ of\\ Hearts)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

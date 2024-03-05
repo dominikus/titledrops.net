@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2095649",
+    "title": "Grace of Monaco",
+    "year": 2014,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1154,
+    "occurrences": [
+      [
+        291,
+        "00:23:49.807000",
+        "00:23:52.222000",
+        "her Serene Highness Princess Grace of Monaco"
+      ],
+      [
+        576,
+        "00:39:52.323000",
+        "00:39:57.015000",
+        "Her Serene Highness Princess Grace of Monaco,"
+      ],
+      [
+        1035,
+        "01:23:07.112000",
+        "01:23:11.093000",
+        "Her Serene Highness, Princess Grace of Monaco."
+      ]
+    ],
+    "regex": "\\b((?!\\bGrace\\ of\\ Monaco:)Grace\\ of\\ Monaco)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

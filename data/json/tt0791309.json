@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0791309",
+    "title": "I Want Candy",
+    "year": 2007,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1346,
+    "occurrences": [
+      [
+        311,
+        "00:17:14.560000",
+        "00:17:15.834000",
+        "I want Candy."
+      ],
+      [
+        997,
+        "00:58:16.720000",
+        "00:58:18.790000",
+        "I want Candy"
+      ],
+      [
+        998,
+        "00:58:21.320000",
+        "00:58:23.356000",
+        "I want Candy"
+      ],
+      [
+        1004,
+        "00:58:55.480000",
+        "00:58:57.675000",
+        "I want Candy"
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Want\\ Candy:)I\\ Want\\ Candy)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

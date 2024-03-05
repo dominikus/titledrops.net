@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2755860",
+    "title": "Quality Balls: The David Steinberg Story",
+    "year": 2013,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1697,
+    "occurrences": [
+      [
+        57,
+        "00:02:43.258000",
+        "00:02:45.091000",
+        "You know, you had quality balls."
+      ],
+      [
+        1228,
+        "00:54:30.823000",
+        "00:54:33.155000",
+        "To be in a David Steinberg story, you have to be--"
+      ]
+    ],
+    "regex": "\\b((?!\\bQuality\\ Balls:)Quality\\ Balls|(?!\\bDavid\\ Steinberg\\ Story:)David\\ Steinberg\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

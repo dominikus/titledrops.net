@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt14874302",
+    "title": "At Midnight",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1809,
+    "occurrences": [
+      [
+        693,
+        "00:36:24.750000",
+        "00:36:26.650000",
+        "At midnight."
+      ],
+      [
+        727,
+        "00:38:06.710000",
+        "00:38:08.150000",
+        "(At midnight.)"
+      ],
+      [
+        797,
+        "00:43:37.240000",
+        "00:43:40.180000",
+        " (So... my shift ends at midnight.)"
+      ]
+    ],
+    "regex": "\\b((?!\\bAt\\ Midnight:)At\\ Midnight)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

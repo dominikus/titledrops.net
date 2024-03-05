@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0040443",
+    "title": "Holiday Camp",
+    "year": 1947,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1448,
+    "occurrences": [
+      [
+        15,
+        "00:03:29.800000",
+        "00:03:32.800000",
+        "Have you been to the holiday camp before?"
+      ],
+      [
+        575,
+        "00:40:37.800000",
+        "00:40:40.800000",
+        "This is Gerry Wilmot, your holiday camp MC calling all beauties."
+      ]
+    ],
+    "regex": "\\b((?!\\bHoliday\\ Camp:)Holiday\\ Camp)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

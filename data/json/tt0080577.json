@@ -1,0 +1,34 @@
+[
+  {
+    "imdb": "tt0080577",
+    "title": "Csontváry",
+    "year": 1980,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 590,
+    "occurrences": [
+      [
+        5,
+        "00:01:07.648000",
+        "00:01:10.244000",
+        "I, Csontvary Kosztka Tivadar"
+      ],
+      [
+        563,
+        "01:29:42.767000",
+        "01:29:45.685000",
+        "You won't make... a Csontvary out of me."
+      ]
+    ],
+    "regex": "\\b((?!\\bCsontvary:)Csontvary)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [
+      "Csontváry",
+      "Z the actor"
+    ],
+    "title_is_name": true,
+    "rating": 7
+  }
+]

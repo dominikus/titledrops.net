@@ -1,0 +1,34 @@
+[
+  {
+    "imdb": "tt1722484",
+    "title": "Tom Sawyer",
+    "year": 2011,
+    "genres": [
+      "Adventure",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 864,
+    "occurrences": [
+      [
+        208,
+        "00:21:44.720000",
+        "00:21:47.178000",
+        "Tom. Tom Sawyer, Sir."
+      ],
+      [
+        681,
+        "01:15:15.302000",
+        "01:15:19.762000",
+        "I'm Captain Tom Sawyer,"
+      ]
+    ],
+    "regex": "\\b((?!\\bTom\\ Sawyer:)Tom\\ Sawyer)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [
+      "Tom Sawyer"
+    ],
+    "title_is_name": true,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt4007248",
+    "title": "Hurricane Bianca",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1903,
+    "occurrences": [
+      [
+        48,
+        "00:02:26.056000",
+        "00:02:29.332000",
+        "Hurricane Bianca"
+      ],
+      [
+        567,
+        "00:25:05.775000",
+        "00:25:08.765000",
+        "Hurricane Bianca is going to cause more problems"
+      ],
+      [
+        621,
+        "00:27:49.307000",
+        "00:27:53.547000",
+        "In the next 48 hours, Hurricane Bianca is expected to strengthen"
+      ],
+      [
+        1899,
+        "01:21:02.241000",
+        "01:21:06.492000",
+        "Hurricane Bianca was just the right kind of storm"
+      ]
+    ],
+    "regex": "\\b((?!\\bHurricane\\ Bianca:)Hurricane\\ Bianca)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt3542320",
+    "title": "Heart Attack",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 2094,
+    "occurrences": [
+      [
+        173,
+        "00:15:52.833000",
+        "00:15:53.958000",
+        "Heart Attack!"
+      ],
+      [
+        174,
+        "00:15:55",
+        "00:15:58.125000",
+        "Priya! Come fast. He got heart attack."
+      ],
+      [
+        177,
+        "00:16:07.708000",
+        "00:16:09.416000",
+        "You shouldn't talk when you suffer from heart attack."
+      ],
+      [
+        329,
+        "00:23:00",
+        "00:23:02.625000",
+        "Don't worry, brother. It is a mild heart attack."
+      ]
+    ],
+    "regex": "\\b((?!\\bHeart\\ Attack:)Heart\\ Attack)(?!\\:)(?!'t)\\b",
+    "runtime": 142,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

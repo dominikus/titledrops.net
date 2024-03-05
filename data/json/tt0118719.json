@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0118719",
+    "title": "Bikini Hotel",
+    "year": 1997,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1321,
+    "occurrences": [
+      [
+        621,
+        "00:34:08.850000",
+        "00:34:13.280000",
+        "And you think these women will work for Bikini Hotel?"
+      ],
+      [
+        623,
+        "00:34:14",
+        "00:34:17.390000",
+        "I mean, gee, I loved working Bikini Hotel."
+      ],
+      [
+        1096,
+        "01:05:49.430000",
+        "01:05:52.390000",
+        "First, it was the Bikini Hotel."
+      ],
+      [
+        1320,
+        "01:27:23.130000",
+        "01:27:25.830000",
+        "His first movie was about a bikini hotel."
+      ]
+    ],
+    "regex": "\\b((?!\\bBikini\\ Hotel:)Bikini\\ Hotel)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

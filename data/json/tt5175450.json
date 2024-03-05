@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt5175450",
+    "title": "Mark Felt: The Man Who Brought Down the White House",
+    "year": 2017,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 5,
+    "all_lines": 1228,
+    "occurrences": [
+      [
+        30,
+        "00:03:52.560000",
+        "00:03:54.950000",
+        "- (INTERCOM BUZZES) - SECRETARY: (OVER INTERCOM) Mark Felt."
+      ],
+      [
+        151,
+        "00:13:52.560000",
+        "00:13:55.712000",
+        "Bill Sullivan and Mark Felt, together again."
+      ],
+      [
+        155,
+        "00:14:00.240000",
+        "00:14:03.199000",
+        "- MARK: You know you were. - That's right. Mark Felt never forgets."
+      ],
+      [
+        175,
+        "00:15:03.240000",
+        "00:15:04.640000",
+        "Mark Felt."
+      ],
+      [
+        889,
+        "01:07:55.600000",
+        "01:07:57.512000",
+        "I'm certainly no Mark Felt."
+      ]
+    ],
+    "regex": "\\b((?!\\bMark\\ Felt:)Mark\\ Felt|(?!\\bMan\\ Who\\ Brought\\ Down\\ the\\ White\\ House:)Man\\ Who\\ Brought\\ Down\\ the\\ White\\ House)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

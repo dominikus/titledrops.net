@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt7978236",
+    "title": "The Discarded",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 694,
+    "occurrences": [
+      [
+        478,
+        "00:54:59.230000",
+        "00:55:02.564000",
+        "It's only now when you're Discarded that the veil is lifted."
+      ],
+      [
+        479,
+        "00:55:02.566000",
+        "00:55:05.467000",
+        "I've been a Worker my whole life, I'm not a Discarded."
+      ]
+    ],
+    "regex": "\\b((?!\\bDiscarded:)Discarded)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

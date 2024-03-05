@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0817177",
+    "title": "Flipped",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1670,
+    "occurrences": [
+      [
+        84,
+        "00:04:52.484000",
+        "00:04:56.011000",
+        "JULl: The first day I met Bryce Loski, I flipped."
+      ],
+      [
+        1417,
+        "01:14:27.388000",
+        "01:14:29.982000",
+        "Hey, have you flipped? What's the matter with you?"
+      ],
+      [
+        1423,
+        "01:14:49.844000",
+        "01:14:52.904000",
+        "I had flipped. Completely."
+      ]
+    ],
+    "regex": "\\b((?!\\bFlipped:)Flipped)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

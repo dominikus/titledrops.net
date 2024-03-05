@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt7316358",
+    "title": "Maine",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 635,
+    "occurrences": [
+      [
+        421,
+        "00:50:22.231000",
+        "00:50:24.901000",
+        "- Not necessary. - Stay with me along the way to Maine."
+      ],
+      [
+        422,
+        "00:50:25.192000",
+        "00:50:27.572000",
+        "- All the way to Maine? - All the way to the end of the trail."
+      ],
+      [
+        458,
+        "00:55:20.070000",
+        "00:55:21.780000",
+        "Maine toast."
+      ],
+      [
+        459,
+        "00:55:23.782000",
+        "00:55:24.782000",
+        "Maine toast."
+      ],
+      [
+        460,
+        "00:55:27.119000",
+        "00:55:29.249000",
+        "Maine toast."
+      ]
+    ],
+    "regex": "\\b((?!\\bMaine:)Maine)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

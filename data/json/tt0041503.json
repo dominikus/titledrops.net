@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0041503",
+    "title": "Impact",
+    "year": 1949,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 2,
+    "all_lines": 1700,
+    "occurrences": [
+      [
+        0,
+        "00:01:36.500000",
+        "00:01:41.722000",
+        "Impact, the force with which two lives come together."
+      ],
+      [
+        1699,
+        "01:50:29.459000",
+        "01:50:35.598000",
+        "Yes, impact the force with which two lives can come together,"
+      ]
+    ],
+    "regex": "\\b((?!\\bImpact:)Impact)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

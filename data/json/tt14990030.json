@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt14990030",
+    "title": "Man of God",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1578,
+    "occurrences": [
+      [
+        1082,
+        "01:10:18.797000",
+        "01:10:22.051000",
+        "Man of God!"
+      ],
+      [
+        1435,
+        "01:32:13.236000",
+        "01:32:15.530000",
+        "That... That man of God who's the best dressed,"
+      ]
+    ],
+    "regex": "\\b((?!\\bMan\\ of\\ God:)Man\\ of\\ God)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

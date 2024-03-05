@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0412412",
+    "title": "Animal",
+    "year": 2005,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 990,
+    "occurrences": [
+      [
+        323,
+        "00:23:53.280000",
+        "00:23:56.556000",
+        "- the wild animal behaved like a lamb. - Julius? Are you in front of a TV?"
+      ],
+      [
+        954,
+        "01:22:39.360000",
+        "01:22:42.909000",
+        "like an animal. My God!"
+      ]
+    ],
+    "regex": "\\b((?!\\bAnimal:)Animal)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

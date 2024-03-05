@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0435434",
+    "title": "Swing Girls",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 901,
+    "occurrences": [
+      [
+        557,
+        "00:58:00.083000",
+        "00:58:03.459000",
+        "Hip Jazz from the Swing Girls"
+      ],
+      [
+        845,
+        "01:30:06.501000",
+        "01:30:11.125000",
+        "As for the Swing Girls from Yamakawa High School,"
+      ],
+      [
+        853,
+        "01:30:42.042000",
+        "01:30:46.001000",
+        "The Swing Girls will play"
+      ],
+      [
+        860,
+        "01:32:03.959000",
+        "01:32:07.751000",
+        "The Swing Girls"
+      ]
+    ],
+    "regex": "\\b((?!\\bSwing\\ Girls:)Swing\\ Girls)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

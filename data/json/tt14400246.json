@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt14400246",
+    "title": "Bird Box: Barcelona",
+    "year": 2023,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1571,
+    "occurrences": [
+      [
+        388,
+        "00:27:20",
+        "00:27:22.375000",
+        "Laura's waiting. We're leaving Barcelona for a few days."
+      ],
+      [
+        644,
+        "00:42:23.583000",
+        "00:42:25.375000",
+        "Castle, mountain, Barcelona."
+      ],
+      [
+        712,
+        "00:45:49.625000",
+        "00:45:53.416000",
+        "I've lived in Barcelona for 30 years, and I've never gone up to Montjuic."
+      ],
+      [
+        749,
+        "00:48:50",
+        "00:48:54.958000",
+        "I was meaning to ask you, how did you end up here in Barcelona?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBird\\ Box:)Bird\\ Box|(?!\\bBarcelona:)Barcelona)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

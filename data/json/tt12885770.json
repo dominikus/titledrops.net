@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt12885770",
+    "title": "Project Legion",
+    "year": 2022,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 762,
+    "occurrences": [
+      [
+        19,
+        "00:02:10.765000",
+        "00:02:14.035000",
+        "of mercenaries, known as Project Legion,"
+      ],
+      [
+        761,
+        "01:27:19.974000",
+        "01:27:21.809000",
+        "Project Legion has failed!"
+      ],
+      [
+        762,
+        "01:27:24.545000",
+        "01:27:25.980000",
+        "Project Legion has failed!"
+      ]
+    ],
+    "regex": "\\b((?!\\bProject\\ Legion:)Project\\ Legion)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.1
+  }
+]

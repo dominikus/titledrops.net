@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0064232",
+    "title": "The Devil by the Tail",
+    "year": 1969,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1338,
+    "occurrences": [
+      [
+        6,
+        "00:02:44",
+        "00:02:49",
+        "The Devil by the Tail"
+      ],
+      [
+        1337,
+        "01:29:07.500000",
+        "01:29:10.500000",
+        "What does it mean to pull the devil by the tail?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDevil\\ by\\ the\\ Tail:)Devil\\ by\\ the\\ Tail)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

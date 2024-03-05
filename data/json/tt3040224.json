@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3040224",
+    "title": "Smothered",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1267,
+    "occurrences": [
+      [
+        730,
+        "00:54:36.405000",
+        "00:54:38.908000",
+        "Come on get him out. He's getting smothered. come on!"
+      ],
+      [
+        1135,
+        "01:18:53.728000",
+        "01:18:55.230000",
+        "She killed him, man. She smothered him with"
+      ]
+    ],
+    "regex": "\\b((?!\\bSmothered:)Smothered)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0063607",
+    "title": "Single Room Furnished",
+    "year": 1966,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1613,
+    "occurrences": [
+      [
+        2,
+        "00:00:46.046000",
+        "00:00:48.483000",
+        "You are about to see \"Single Room Furnished\"--"
+      ],
+      [
+        7,
+        "00:01:01.539000",
+        "00:01:03.367000",
+        "In \"Single Room Furnished,\""
+      ],
+      [
+        15,
+        "00:01:26.825000",
+        "00:01:29.437000",
+        "and now in \"Single Room Furnished\""
+      ],
+      [
+        32,
+        "00:02:26.102000",
+        "00:02:30.106000",
+        "the characters she created in \"Single Room Furnished,\""
+      ],
+      [
+        146,
+        "00:12:04.288000",
+        "00:12:08.771000",
+        "moved into a single room furnished upstairs."
+      ]
+    ],
+    "regex": "\\b((?!\\bSingle\\ Room\\ Furnished:)Single\\ Room\\ Furnished)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

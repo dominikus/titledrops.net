@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0443693",
+    "title": "The Wild Blue Yonder",
+    "year": 2005,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 403,
+    "occurrences": [
+      [
+        6,
+        "00:01:32.326000",
+        "00:01:36.830000",
+        "Where I come from, is the Wild Blue Yonder"
+      ],
+      [
+        297,
+        "00:43:32.646000",
+        "00:43:36.517000",
+        "Soon, they would be at the doorstep of the Wild Blue Yonder."
+      ],
+      [
+        309,
+        "00:45:23.657000",
+        "00:45:28.529000",
+        "And I can hear the sound of the Wild Blue Yonder."
+      ]
+    ],
+    "regex": "\\b((?!\\bWild\\ Blue\\ Yonder:)Wild\\ Blue\\ Yonder)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

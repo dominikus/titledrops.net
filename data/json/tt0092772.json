@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0092772",
+    "title": "Comrades",
+    "year": 1986,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 1245,
+    "occurrences": [
+      [
+        169,
+        "00:24:26.500000",
+        "00:24:31.749000",
+        "Sir. Sir, far be it for my friend here to seek priority over his comrades."
+      ],
+      [
+        715,
+        "01:53:27.058000",
+        "01:53:29.880000",
+        "No... 'comrades'."
+      ],
+      [
+        1178,
+        "02:52:42.710000",
+        "02:52:44.797000",
+        "Comrades..."
+      ]
+    ],
+    "regex": "\\b((?!\\bComrades:)Comrades)(?!\\:)(?!'t)\\b",
+    "runtime": 183,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

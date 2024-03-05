@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt3509804",
+    "title": "The Word",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 611,
+    "occurrences": [
+      [
+        31,
+        "00:03:16.080000",
+        "00:03:23.248000",
+        "The Word"
+      ],
+      [
+        552,
+        "01:20:52.560000",
+        "01:20:56.565000",
+        "One word from me was enough, and Janek knew what he had to do."
+      ],
+      [
+        553,
+        "01:20:56.960000",
+        "01:20:58.086000",
+        "Just one word."
+      ],
+      [
+        611,
+        "01:29:27.960000",
+        "01:29:35.162000",
+        "The Word"
+      ]
+    ],
+    "regex": "\\b((?!\\bWord:)Word)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

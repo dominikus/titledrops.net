@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt16376512",
+    "title": "Free Chol Soo Lee",
+    "year": 2022,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1389,
+    "occurrences": [
+      [
+        428,
+        "00:25:54.322000",
+        "00:25:59.054000",
+        "So, \"Free Chol Soo Lee,\" people come up, they want one."
+      ],
+      [
+        662,
+        "00:39:02.735000",
+        "00:39:04.432000",
+        "which is to free Chol Soo Lee."
+      ]
+    ],
+    "regex": "\\b((?!\\bFree\\ Chol\\ Soo\\ Lee:)Free\\ Chol\\ Soo\\ Lee)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1439558",
+    "title": "Max Rose",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1241,
+    "occurrences": [
+      [
+        1009,
+        "01:05:24.337000",
+        "01:05:25.838000",
+        "Max Rose."
+      ],
+      [
+        1030,
+        "01:06:27.566000",
+        "01:06:29.777000",
+        "Max Rose wants the truth!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMax\\ Rose:)Max\\ Rose)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [
+      "Max Rose"
+    ],
+    "title_is_name": true,
+    "rating": 6.2
+  }
+]

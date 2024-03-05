@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0039545",
+    "title": "Lady in the Lake",
+    "year": 1946,
+    "genres": [
+      "Crime",
+      "Film-Noir",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 1482,
+    "occurrences": [
+      [
+        9,
+        "00:02:09.329000",
+        "00:02:12.264000",
+        "They call it \"The Case of the Lady in the Lake.\""
+      ],
+      [
+        14,
+        "00:02:24.644000",
+        "00:02:28.239000",
+        "This \"Lady in the Lake\" business started just three days before Christmas."
+      ],
+      [
+        424,
+        "00:27:18.837000",
+        "00:27:21.533000",
+        "You think Chrystal Kingsby shoved this lady in the lake..."
+      ],
+      [
+        799,
+        "00:52:26.343000",
+        "00:52:30.439000",
+        "And when I mentioned the lady in the lake, you looked still more interested."
+      ],
+      [
+        1354,
+        "01:34:53.954000",
+        "01:34:58.448000",
+        "The lady in the lake, instead of being you, is Chrystal Kingsby. Is that an accident?"
+      ],
+      [
+        1362,
+        "01:35:18.612000",
+        "01:35:21.979000",
+        "He was the only one who knew the real identity of the lady in the lake."
+      ]
+    ],
+    "regex": "\\b((?!\\bLady\\ in\\ the\\ Lake:)Lady\\ in\\ the\\ Lake)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

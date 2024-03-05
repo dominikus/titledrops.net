@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6563576",
+    "title": "The Queen's Corgi",
+    "year": 2019,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 998,
+    "occurrences": [
+      [
+        277,
+        "00:28:05",
+        "00:28:08.417000",
+        "I don't belong in a cage, I am the queen's corgi."
+      ],
+      [
+        753,
+        "01:02:47.708000",
+        "01:02:50.083000",
+        "I'm the queen's corgi and your ..."
+      ]
+    ],
+    "regex": "\\b((?!\\bQueen's\\ Corgi:)Queen's\\ Corgi)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

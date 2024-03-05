@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0071646",
+    "title": "Here and Elsewhere",
+    "year": 1976,
+    "genres": [
+      "Documentary",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 510,
+    "occurrences": [
+      [
+        1,
+        "00:00:25.222000",
+        "00:00:28.658000",
+        "In 1974 it is called \"Here and Elsewhere\"."
+      ],
+      [
+        4,
+        "00:00:35.563000",
+        "00:00:40.348000",
+        "In 1974 it is called \"Here and Elsewhere\"."
+      ],
+      [
+        102,
+        "00:12:45.930000",
+        "00:12:47.210000",
+        "Here and Elsewhere;"
+      ],
+      [
+        494,
+        "00:51:08.464000",
+        "00:51:13.217000",
+        "In 1975 it is called: Here and Elsewhere."
+      ]
+    ],
+    "regex": "\\b((?!\\bHere\\ and\\ Elsewhere:)Here\\ and\\ Elsewhere)(?!\\:)(?!'t)\\b",
+    "runtime": 53,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

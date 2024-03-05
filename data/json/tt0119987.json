@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0119987",
+    "title": "The Real Blonde",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 2202,
+    "occurrences": [
+      [
+        240,
+        "00:13:37.876000",
+        "00:13:39.877000",
+        "She was a real blonde?"
+      ],
+      [
+        476,
+        "00:22:31.312000",
+        "00:22:32.813000",
+        "is she a real blonde?"
+      ],
+      [
+        788,
+        "00:35:28.961000",
+        "00:35:31.463000",
+        "Too bad you're not a real blonde."
+      ],
+      [
+        791,
+        "00:35:35.468000",
+        "00:35:37.969000",
+        "I know a real blonde when I see one."
+      ],
+      [
+        794,
+        "00:35:43.976000",
+        "00:35:47.979000",
+        "You telling me that you are a real blonde?"
+      ]
+    ],
+    "regex": "\\b((?!\\bReal\\ Blonde:)Real\\ Blonde)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

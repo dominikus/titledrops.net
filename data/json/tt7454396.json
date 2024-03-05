@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt7454396",
+    "title": "A Mother",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 355,
+    "occurrences": [
+      [
+        83,
+        "00:16:28.390000",
+        "00:16:32.600000",
+        "So you are Maria Lindstrom's mother? - Yes."
+      ],
+      [
+        242,
+        "00:54:33.020000",
+        "00:54:36.720000",
+        "MOTHER CALLING"
+      ],
+      [
+        253,
+        "00:55:57.770000",
+        "00:56:02.020000",
+        "your mother died."
+      ],
+      [
+        306,
+        "01:14:21.890000",
+        "01:14:25.350000",
+        "Does your mother's name happen to be Eeva Lindstrom?"
+      ],
+      [
+        312,
+        "01:15:18.600000",
+        "01:15:23.060000",
+        "What do you want? - That you go see your mother."
+      ],
+      [
+        317,
+        "01:15:42.470000",
+        "01:15:46.390000",
+        "Maybe you don't want her to be your mother,"
+      ]
+    ],
+    "regex": "\\b((?!\\bMother:)Mother)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

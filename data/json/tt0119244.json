@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0119244",
+    "title": "Hacks",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1919,
+    "occurrences": [
+      [
+        383,
+        "00:17:51.592000",
+        "00:17:52.941000",
+        "a couple of desperate hacks for the privilege."
+      ],
+      [
+        384,
+        "00:17:52.984000",
+        "00:17:55.683000",
+        "Ira, we're a couple of desperate hacks!"
+      ]
+    ],
+    "regex": "\\b((?!\\bHacks:)Hacks)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

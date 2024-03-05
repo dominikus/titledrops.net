@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt10334456",
+    "title": "Once Were Brothers",
+    "year": 2019,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 1725,
+    "occurrences": [
+      [
+        16,
+        "00:02:23.268000",
+        "00:02:26.897000",
+        "When I stumbled onto this song, \"Once Were Brothers\"..."
+      ],
+      [
+        19,
+        "00:02:34.529000",
+        "00:02:37.115000",
+        "Once were brothers"
+      ],
+      [
+        1581,
+        "01:30:19.998000",
+        "01:30:22.584000",
+        "Once were brothers"
+      ]
+    ],
+    "regex": "\\b((?!\\bOnce\\ Were\\ Brothers:)Once\\ Were\\ Brothers)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

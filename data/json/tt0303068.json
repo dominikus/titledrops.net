@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0303068",
+    "title": "The Shower",
+    "year": 1979,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 608,
+    "occurrences": [
+      [
+        2,
+        "00:00:53.286000",
+        "00:00:59.555000",
+        "The Shower"
+      ],
+      [
+        272,
+        "00:43:18.395000",
+        "00:43:21.131000",
+        "They can smell a shower coming."
+      ],
+      [
+        382,
+        "00:56:54.110000",
+        "00:56:59.844000",
+        "You kids better go down. There's a shower coming."
+      ],
+      [
+        383,
+        "00:57:01.317000",
+        "00:57:07.483000",
+        "-Shower? But the sky's so blue! -That's how showers come."
+      ],
+      [
+        386,
+        "00:57:50.433000",
+        "00:57:51.900000",
+        "It's a shower!"
+      ],
+      [
+        525,
+        "01:20:51.379000",
+        "01:20:53.939000",
+        "Is it because you got caught in the shower?"
+      ]
+    ],
+    "regex": "\\b((?!\\bShower:)Shower)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

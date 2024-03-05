@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1778258",
+    "title": "Revenge: A Love Story",
+    "year": 2010,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 581,
+    "occurrences": [
+      [
+        75,
+        "00:13:27.920000",
+        "00:13:29.430000",
+        "Revenge?"
+      ],
+      [
+        484,
+        "01:01:58.200000",
+        "01:02:00.230000",
+        "The motherfucker's back for revenge"
+      ],
+      [
+        529,
+        "01:15:06.640000",
+        "01:15:08.590000",
+        "It was revenge"
+      ],
+      [
+        535,
+        "01:15:25.600000",
+        "01:15:27.710000",
+        "I wanted revenge"
+      ],
+      [
+        581,
+        "01:25:46.440000",
+        "01:26:12.550000",
+        "There is no revenge so complete as forgiveness - Josh Billings, humor writer"
+      ]
+    ],
+    "regex": "\\b((?!\\bRevenge:)Revenge|(?!\\bLove\\ Story:)Love\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

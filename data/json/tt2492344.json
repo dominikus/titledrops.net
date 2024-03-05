@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2492344",
+    "title": "Division 19",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1084,
+    "occurrences": [
+      [
+        393,
+        "00:26:47.157000",
+        "00:26:48.710000",
+        "- According to this, he's in division 14"
+      ],
+      [
+        394,
+        "00:26:48.745000",
+        "00:26:50.367000",
+        "but his chip is in division 12."
+      ],
+      [
+        565,
+        "00:43:35.371000",
+        "00:43:37.062000",
+        "to Division 17 near district six, and if we--"
+      ]
+    ],
+    "regex": "\\b((?!\\bDivision:)Division)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

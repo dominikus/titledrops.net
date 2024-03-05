@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt5052474",
+    "title": "Sicario: Day of the Soldado",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 1,
+    "all_lines": 807,
+    "occurrences": [
+      [
+        806,
+        "01:54:23.016000",
+        "01:54:25.602000",
+        "So you wanna be a sicario."
+      ]
+    ],
+    "regex": "\\b((?!\\bSicario:)Sicario|(?!\\bDay\\ of\\ the\\ Soldado:)Day\\ of\\ the\\ Soldado)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt4480648",
+    "title": "The Make-up Room",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1283,
+    "occurrences": [
+      [
+        0,
+        "00:00:15.815000",
+        "00:00:18.409000",
+        "MAKE-UP ROOM"
+      ],
+      [
+        3,
+        "00:00:28.461000",
+        "00:00:30.053000",
+        "Then can I use it as a make-up room?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMake\\-up\\ Room:)Make\\-up\\ Room)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

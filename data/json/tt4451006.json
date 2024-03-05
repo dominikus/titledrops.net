@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt4451006",
+    "title": "Armstrong",
+    "year": 2017,
+    "genres": [
+      "Action"
+    ],
+    "count": 4,
+    "all_lines": 961,
+    "occurrences": [
+      [
+        174,
+        "00:12:50.570000",
+        "00:12:52.305000",
+        "David Armstrong?"
+      ],
+      [
+        650,
+        "00:51:54.812000",
+        "00:52:00.751000",
+        "Armstrong, I watched you zap a man to dust."
+      ],
+      [
+        729,
+        "00:59:00.738000",
+        "00:59:02.907000",
+        "Armstrong, talk to me, are you hit??"
+      ],
+      [
+        744,
+        "01:00:22.219000",
+        "01:00:23.888000",
+        "Come on, Armstrong!"
+      ]
+    ],
+    "regex": "\\b((?!\\bArmstrong:)Armstrong)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [
+      "Armstrong"
+    ],
+    "title_is_name": true,
+    "rating": 3.7
+  }
+]

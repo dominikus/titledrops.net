@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0115759",
+    "title": "Broken Arrow",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1042,
+    "occurrences": [
+      [
+        244,
+        "00:21:43.033000",
+        "00:21:44.694000",
+        "We got ourselves a Broken Arrow."
+      ],
+      [
+        249,
+        "00:21:59.215000",
+        "00:22:03.948000",
+        "Broken Arrow. It's a class IV strategic theater emergency."
+      ]
+    ],
+    "regex": "\\b((?!\\bBroken\\ Arrow:)Broken\\ Arrow)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

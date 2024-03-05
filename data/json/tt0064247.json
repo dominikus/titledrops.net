@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0064247",
+    "title": "Don't Drink the Water",
+    "year": 1969,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1671,
+    "occurrences": [
+      [
+        78,
+        "00:06:33.518000",
+        "00:06:36.976000",
+        "\"and don't drink the water"
+      ],
+      [
+        89,
+        "00:07:05.842000",
+        "00:07:08.379000",
+        "but phase don't drink the water"
+      ],
+      [
+        94,
+        "00:07:26.613000",
+        "00:07:29.229000",
+        "\"but don't drink the water\""
+      ],
+      [
+        111,
+        "00:08:28.425000",
+        "00:08:31.132000",
+        "but don't drink the water"
+      ],
+      [
+        1671,
+        "01:39:34.177000",
+        "01:39:36.543000",
+        "Don't drink the water"
+      ]
+    ],
+    "regex": "\\b((?!\\bDon't\\ Drink\\ the\\ Water:)Don't\\ Drink\\ the\\ Water)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

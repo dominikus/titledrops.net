@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1260932",
+    "title": "252: Signal of Life",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 471,
+    "occurrences": [
+      [
+        291,
+        "00:43:28.772000",
+        "00:43:32.003000",
+        "Code 252 here! Conscious."
+      ],
+      [
+        374,
+        "00:51:39.062000",
+        "00:51:43.761000",
+        "...we've found no 252."
+      ]
+    ],
+    "regex": "\\b((?!\\b252:)252|(?!\\bSignal\\ of\\ Life:)Signal\\ of\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "imdb": "tt0087788",
+    "title": "The Next One",
+    "year": 1984,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1124,
+    "occurrences": [
+      [
+        1111,
+        "01:37:30.640000",
+        "01:37:35.640000",
+        "Waiting to welcome the next one"
+      ],
+      [
+        1112,
+        "01:37:36.560000",
+        "01:37:39.160000",
+        "The next one"
+      ]
+    ],
+    "regex": "\\b((?!\\bNext\\ One:)Next\\ One)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [
+      "Glenn",
+      "The Next One"
+    ],
+    "title_is_name": true,
+    "rating": 4.7
+  }
+]

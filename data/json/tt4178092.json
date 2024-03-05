@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt4178092",
+    "title": "The Gift",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1490,
+    "occurrences": [
+      [
+        167,
+        "00:10:40.280000",
+        "00:10:42.328000",
+        "Hey. Thank you for the lovely gift."
+      ],
+      [
+        202,
+        "00:12:21.600000",
+        "00:12:25.366000",
+        "Yeah, I know. It was a gift and then it turned out that"
+      ],
+      [
+        299,
+        "00:16:54.240000",
+        "00:16:57.847000",
+        "but just to say that the bad things, they can be a gift."
+      ],
+      [
+        443,
+        "00:23:23.640000",
+        "00:23:27.645000",
+        "I hope his next gift is a sushi knife for those fish."
+      ],
+      [
+        561,
+        "00:29:39.720000",
+        "00:29:41.882000",
+        "Oh, that's a gift. That's for you."
+      ]
+    ],
+    "regex": "\\b((?!\\bGift:)Gift)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

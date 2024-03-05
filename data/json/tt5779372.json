@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5779372",
+    "title": "An Interview with God",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1374,
+    "occurrences": [
+      [
+        525,
+        "00:34:23.931000",
+        "00:34:25.802000",
+        "Interview with God."
+      ],
+      [
+        1214,
+        "01:19:36.162000",
+        "01:19:39.296000",
+        "So, I come along, I offer you an interview with God,"
+      ]
+    ],
+    "regex": "\\b((?!\\bInterview\\ with\\ God:)Interview\\ with\\ God)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

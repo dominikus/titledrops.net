@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0306474",
+    "title": "Princess Arete",
+    "year": 2001,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 680,
+    "occurrences": [
+      [
+        4,
+        "00:00:41.581000",
+        "00:00:46.705000",
+        "Princess Arete"
+      ],
+      [
+        536,
+        "01:22:29.489000",
+        "01:22:34.244000",
+        "Clairvoyance mode. Show me where Princess Arete is right now."
+      ],
+      [
+        537,
+        "01:22:34.725000",
+        "01:22:37.571000",
+        "Showing Princess Arete."
+      ]
+    ],
+    "regex": "\\b((?!\\bPrincess\\ Arete:)Princess\\ Arete)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "imdb": "tt1235200",
+    "title": "Mercy",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 805,
+    "occurrences": [
+      [
+        86,
+        "00:04:56.430000",
+        "00:05:00.430000",
+        "Mercy 1x15 I Did Kill You, Didn't I"
+      ],
+      [
+        116,
+        "00:06:03.283000",
+        "00:06:04.717000",
+        "Back with you, Mercy."
+      ],
+      [
+        123,
+        "00:06:16.296000",
+        "00:06:19.732000",
+        "Mercy clear with rescue 29."
+      ],
+      [
+        193,
+        "00:09:16.443000",
+        "00:09:20.913000",
+        "Welcome to Mercy, ma'am. Hemopneumothorax."
+      ]
+    ],
+    "regex": "\\b((?!\\bMercy:)Mercy)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [
+      "Mercy"
+    ],
+    "title_is_name": true,
+    "rating": 5.9
+  }
+]

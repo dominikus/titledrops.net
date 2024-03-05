@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1303685",
+    "title": "As Simple as That",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 854,
+    "occurrences": [
+      [
+        0,
+        "00:00:24.160000",
+        "00:00:30.200000",
+        "As Simple As That"
+      ],
+      [
+        56,
+        "00:08:27.760000",
+        "00:08:29.300000",
+        "Just like that. As simple as that."
+      ]
+    ],
+    "regex": "\\b((?!\\bAs\\ Simple\\ as\\ That:)As\\ Simple\\ as\\ That)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

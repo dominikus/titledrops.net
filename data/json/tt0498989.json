@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0498989",
+    "title": "White Trash",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 739,
+    "occurrences": [
+      [
+        598,
+        "01:11:34.495000",
+        "01:11:40.843000",
+        "\"Uneducated, and what the Americans call White Trash.\""
+      ],
+      [
+        718,
+        "01:27:12.415000",
+        "01:27:17.887000",
+        "- And you call me White Trash? - Hit as hard as you like."
+      ]
+    ],
+    "regex": "\\b((?!\\bWhite\\ Trash:)White\\ Trash)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

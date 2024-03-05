@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt23782248",
+    "title": "Custody",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 2387,
+    "occurrences": [
+      [
+        1664,
+        "01:37:33.561000",
+        "01:37:34.769000",
+        "He is in my custody."
+      ],
+      [
+        2343,
+        "02:22:00.875000",
+        "02:22:04.916000",
+        "should immediately be taken into CBI's custody for investigation."
+      ]
+    ],
+    "regex": "\\b((?!\\bCustody:)Custody)(?!\\:)(?!'t)\\b",
+    "runtime": 148,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

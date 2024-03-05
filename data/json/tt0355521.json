@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0355521",
+    "title": "The Sin",
+    "year": 1965,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 501,
+    "occurrences": [
+      [
+        358,
+        "00:59:38.284000",
+        "00:59:42.359000",
+        "is a sin but everybody knows my husband is ill"
+      ],
+      [
+        359,
+        "00:59:43.204000",
+        "00:59:48.947000",
+        "maybe i should kill myself, but its a sin"
+      ],
+      [
+        360,
+        "00:59:51.045000",
+        "01:00:00.743000",
+        "What i'm doing is also a sin. What have i done, the devil held me"
+      ],
+      [
+        494,
+        "01:35:27.678000",
+        "01:35:36.171000",
+        "The people kept wondering, was she a sinner that washed her sin by death"
+      ],
+      [
+        495,
+        "01:35:36.579000",
+        "01:35:44.382000",
+        "Or a martyr who was force into sin by a greater sin"
+      ],
+      [
+        501,
+        "01:36:20.408000",
+        "01:36:25.773000",
+        "wanting to bear a child, a ligitimate child, not a child of sin"
+      ]
+    ],
+    "regex": "\\b((?!\\bSin:)Sin)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0057542",
+    "title": "Summer Magic",
+    "year": 1963,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Musical"
+    ],
+    "count": 4,
+    "all_lines": 1376,
+    "occurrences": [
+      [
+        0,
+        "00:00:18.101000",
+        "00:00:21.730000",
+        "# Summer magic"
+      ],
+      [
+        320,
+        "00:27:02.137000",
+        "00:27:09.134000",
+        "# Summer magic"
+      ],
+      [
+        321,
+        "00:27:09.210000",
+        "00:27:17.140000",
+        "# The soft summer magic"
+      ],
+      [
+        324,
+        "00:27:29.230000",
+        "00:27:34.964000",
+        "# Summer magic"
+      ]
+    ],
+    "regex": "\\b((?!\\bSummer\\ Magic:)Summer\\ Magic)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

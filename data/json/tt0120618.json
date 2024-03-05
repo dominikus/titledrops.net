@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0120618",
+    "title": "Breakfast of Champions",
+    "year": 1999,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1474,
+    "occurrences": [
+      [
+        24,
+        "00:03:47.161000",
+        "00:03:50.422000",
+        "Breakfast of champions!"
+      ],
+      [
+        25,
+        "00:03:50.489000",
+        "00:03:54.864000",
+        "Breakfast of champions, Mr. Hoover!"
+      ],
+      [
+        1213,
+        "01:21:40.756000",
+        "01:21:43.439000",
+        "Breakfast of champions."
+      ]
+    ],
+    "regex": "\\b((?!\\bBreakfast\\ of\\ Champions:)Breakfast\\ of\\ Champions)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

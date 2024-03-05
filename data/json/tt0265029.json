@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0265029",
+    "title": "America's Sweethearts",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1369,
+    "occurrences": [
+      [
+        27,
+        "00:02:15.009000",
+        "00:02:18.001000",
+        "America's sweethearts."
+      ],
+      [
+        431,
+        "00:30:10.116000",
+        "00:30:14.678000",
+        "A year ago, America's sweethearts went bust in dramatic fashion."
+      ],
+      [
+        656,
+        "00:48:52.904000",
+        "00:48:56.237000",
+        "-America's sweethearts... -What the hell's going on?"
+      ],
+      [
+        664,
+        "00:49:21.566000",
+        "00:49:24.831000",
+        "There they are! America's sweethearts!"
+      ]
+    ],
+    "regex": "\\b((?!\\bAmerica's\\ Sweethearts:)America's\\ Sweethearts)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

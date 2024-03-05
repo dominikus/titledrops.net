@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt15428330",
+    "title": "Mobile Suit Gundam: Cucuruz Doan's Island",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Animation",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1105,
+    "occurrences": [
+      [
+        0,
+        "00:00:30.590000",
+        "00:00:38.590000",
+        "This film is an adaptation of the 15th episode of the original Mobile Suit Gundam series, which aired in 1979."
+      ],
+      [
+        23,
+        "00:04:07.080000",
+        "00:04:11.790000",
+        "the prototype mobile suit Gundam you delivered to us"
+      ]
+    ],
+    "regex": "\\b((?!\\bMobile\\ Suit\\ Gundam:)Mobile\\ Suit\\ Gundam|(?!\\bCucuruz\\ Doan's\\ Island:)Cucuruz\\ Doan's\\ Island)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

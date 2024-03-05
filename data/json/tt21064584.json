@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt21064584",
+    "title": "The Iron Claw",
+    "year": 2023,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 1406,
+    "occurrences": [
+      [
+        10,
+        "00:02:59.947000",
+        "00:03:01.883000",
+        "Oh! The Iron Claw."
+      ],
+      [
+        11,
+        "00:03:01.983000",
+        "00:03:03.818000",
+        "Kevin's got me in the Iron Claw."
+      ],
+      [
+        226,
+        "00:18:36.216000",
+        "00:18:38.953000",
+        "And here comes the Iron Claw,"
+      ],
+      [
+        708,
+        "00:53:24.471000",
+        "00:53:27.175000",
+        "The hands that will deliver the Iron Claw to you."
+      ]
+    ],
+    "regex": "\\b((?!\\bIron\\ Claw:)Iron\\ Claw)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

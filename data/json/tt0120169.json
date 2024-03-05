@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0120169",
+    "title": "Soul Food",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 862,
+    "occurrences": [
+      [
+        155,
+        "00:09:01.491000",
+        "00:09:03.810000",
+        "...and chow down on some good old soul food."
+      ],
+      [
+        160,
+        "00:09:14.879000",
+        "00:09:16.879000",
+        "...more soul food."
+      ],
+      [
+        194,
+        "00:11:12.445000",
+        "00:11:15.932000",
+        "Soul food cookin' is about cooking from the heart."
+      ]
+    ],
+    "regex": "\\b((?!\\bSoul\\ Food:)Soul\\ Food)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

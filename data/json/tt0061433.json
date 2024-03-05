@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0061433",
+    "title": "More Than a Miracle",
+    "year": 1967,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1117,
+    "occurrences": [
+      [
+        1,
+        "00:00:24.487000",
+        "00:00:29.792000",
+        "* It's more than a miracle *"
+      ],
+      [
+        9,
+        "00:01:03.893000",
+        "00:01:08.364000",
+        "* You're more than a miracle *"
+      ],
+      [
+        15,
+        "00:01:29.586000",
+        "00:01:36.693000",
+        "* It's more than a miracle *"
+      ],
+      [
+        1110,
+        "01:41:19.335000",
+        "01:41:25.476000",
+        "* It's more than a miracle *"
+      ]
+    ],
+    "regex": "\\b((?!\\bMore\\ Than\\ a\\ Miracle:)More\\ Than\\ a\\ Miracle)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1530983",
+    "title": "Red Hill",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Western"
+    ],
+    "count": 4,
+    "all_lines": 597,
+    "occurrences": [
+      [
+        200,
+        "00:18:44.399000",
+        "00:18:49.399000",
+        "and the attempted murder of a Red Hill police officer in 1995."
+      ],
+      [
+        240,
+        "00:22:22.939000",
+        "00:22:26.939000",
+        "and the attempted murder of a Red Hill police officer in 1995..."
+      ],
+      [
+        253,
+        "00:23:02.652000",
+        "00:23:06.552000",
+        "From Jackson, it's about a six-hour haul to Red Hill."
+      ],
+      [
+        489,
+        "01:14:37.688000",
+        "01:14:41.188000",
+        "This is officer Shane Cooper of Red Hill District 208."
+      ]
+    ],
+    "regex": "\\b((?!\\bRed\\ Hill:)Red\\ Hill)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

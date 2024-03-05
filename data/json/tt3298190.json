@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3298190",
+    "title": "The Sleeping Room",
+    "year": 2014,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 840,
+    "occurrences": [
+      [
+        281,
+        "00:27:14.125000",
+        "00:27:17.658000",
+        "Mm, probably a sleeping room then."
+      ],
+      [
+        282,
+        "00:27:17.758000",
+        "00:27:19.092000",
+        "A sleeping room?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSleeping\\ Room:)Sleeping\\ Room)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

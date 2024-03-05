@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0305242",
+    "title": "The Architects",
+    "year": 1990,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 491,
+    "occurrences": [
+      [
+        85,
+        "00:06:52.712000",
+        "00:06:57.308000",
+        "We are forming a speciaI coIIective, a task force of young architects."
+      ],
+      [
+        143,
+        "00:11:11.570000",
+        "00:11:16.234000",
+        "My maIe coIIeagues convinced me that singIe moms can't be architects."
+      ],
+      [
+        315,
+        "00:29:38.109000",
+        "00:29:42.341000",
+        "But we Weimar-trained architects are bIeeding hearts."
+      ]
+    ],
+    "regex": "\\b((?!\\bArchitects:)Architects)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

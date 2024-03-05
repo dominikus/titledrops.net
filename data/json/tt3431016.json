@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3431016",
+    "title": "The Messenger",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1043,
+    "occurrences": [
+      [
+        252,
+        "00:28:51.362000",
+        "00:28:52.831000",
+        "You're just the messenger."
+      ],
+      [
+        790,
+        "01:08:53.494000",
+        "01:08:54.596000",
+        "I'm just the messenger."
+      ]
+    ],
+    "regex": "\\b((?!\\bMessenger:)Messenger)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

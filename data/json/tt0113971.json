@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0113971",
+    "title": "Nothing Funny",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 747,
+    "occurrences": [
+      [
+        37,
+        "00:03:25.200000",
+        "00:03:28.200000",
+        "All my life nothing funny ever happened to me."
+      ],
+      [
+        38,
+        "00:03:30.200000",
+        "00:03:33.200000",
+        "Nothing FUNNY"
+      ]
+    ],
+    "regex": "\\b((?!\\bNothing\\ Funny:)Nothing\\ Funny)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

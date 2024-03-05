@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1305131",
+    "title": "Modern Boy",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 518,
+    "occurrences": [
+      [
+        19,
+        "00:04:04.510000",
+        "00:04:06.375000",
+        "The 'modern boy'!"
+      ],
+      [
+        366,
+        "00:43:46.490000",
+        "00:43:49.550000",
+        "What modern boy doesn't know ISHIDA Yoko?"
+      ]
+    ],
+    "regex": "\\b((?!\\bModern\\ Boy:)Modern\\ Boy)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

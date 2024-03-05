@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt1709652",
+    "title": "Dragon Age: Dawn of the Seeker",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 1,
+    "all_lines": 684,
+    "occurrences": [
+      [
+        0,
+        "00:01:08.968000",
+        "00:01:11.737000",
+        "They call it the Dragon Age..."
+      ]
+    ],
+    "regex": "\\b((?!\\bDragon\\ Age:)Dragon\\ Age|(?!\\bDawn\\ of\\ the\\ Seeker:)Dawn\\ of\\ the\\ Seeker)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

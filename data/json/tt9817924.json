@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt9817924",
+    "title": "The Taverna",
+    "year": 2019,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1650,
+    "occurrences": [
+      [
+        512,
+        "00:24:23.392000",
+        "00:24:27.227000",
+        "Taverna here, two houses, you know."
+      ],
+      [
+        543,
+        "00:28:08.017000",
+        "00:28:10.286000",
+        "for a while at Taverna?"
+      ],
+      [
+        550,
+        "00:28:21.130000",
+        "00:28:22.331000",
+        "Just to run the Taverna."
+      ],
+      [
+        554,
+        "00:28:30.573000",
+        "00:28:33.806000",
+        "then the Taverna is going to make up for your life."
+      ],
+      [
+        1206,
+        "01:01:02.422000",
+        "01:01:04.423000",
+        "and tracing it to the Taverna."
+      ]
+    ],
+    "regex": "\\b((?!\\bTaverna:)Taverna)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

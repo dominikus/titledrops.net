@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0374583",
+    "title": "Look at Me",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1271,
+    "occurrences": [
+      [
+        503,
+        "00:34:44.661000",
+        "00:34:46.861000",
+        "- Sure? - Hey, look at me"
+      ],
+      [
+        1035,
+        "01:15:37.246000",
+        "01:15:39.006000",
+        "\"Look At Me\", Saturnale Press"
+      ]
+    ],
+    "regex": "\\b((?!\\bLook\\ at\\ Me:)Look\\ at\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

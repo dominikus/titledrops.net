@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0845424",
+    "title": "The Abortion",
+    "year": 2006,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 339,
+    "occurrences": [
+      [
+        83,
+        "00:18:04.680000",
+        "00:18:08.150000",
+        "Anyway at this stage you can't have an abortion, even if you want to."
+      ],
+      [
+        84,
+        "00:18:08.240000",
+        "00:18:12.756000",
+        "After 3 months abortion is an option only for cases with anomalies."
+      ],
+      [
+        86,
+        "00:19:13.480000",
+        "00:19:16.916000",
+        "As I said before at this stage abortion is not an option."
+      ],
+      [
+        234,
+        "00:51:15.880000",
+        "00:51:18.189000",
+        "She had a very bad abortion in the past."
+      ],
+      [
+        242,
+        "00:52:43.160000",
+        "00:52:45.310000",
+        "\"She had a very bad abortion in the past.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bAbortion:)Abortion)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.4
+  }
+]

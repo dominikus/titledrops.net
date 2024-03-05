@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1666185",
+    "title": "All Eyez on Me",
+    "year": 2017,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 2313,
+    "occurrences": [
+      [
+        1822,
+        "01:41:53.519000",
+        "01:41:54.855000",
+        "All Eyez On Me."
+      ],
+      [
+        1851,
+        "01:43:00.139000",
+        "01:43:02.184000",
+        "All Eyez On Me, let's go!"
+      ],
+      [
+        1865,
+        "01:44:00.539000",
+        "01:44:02.627000",
+        "All Eyez On Me got the world shook."
+      ],
+      [
+        1981,
+        "01:54:14.185000",
+        "01:54:16.314000",
+        "All Eyez on Me was a double album."
+      ]
+    ],
+    "regex": "\\b((?!\\bAll\\ Eyez\\ on\\ Me:)All\\ Eyez\\ on\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 139,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

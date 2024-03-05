@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2763764",
+    "title": "Running Man",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1661,
+    "occurrences": [
+      [
+        268,
+        "00:14:31.110000",
+        "00:14:35.620000",
+        "[Receiver: Running Man. Delivery request: 30 sit-ups.]"
+      ],
+      [
+        1406,
+        "01:17:01.680000",
+        "01:17:04.910000",
+        "You need to familiarize yourself about Running Man a bit more."
+      ],
+      [
+        1661,
+        "01:31:31.230000",
+        "01:31:34.130000",
+        "[Next week's Running Man- Flower Boy Athletic Competition.]"
+      ]
+    ],
+    "regex": "\\b((?!\\bRunning\\ Man:)Running\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

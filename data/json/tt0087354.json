@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0087354",
+    "title": "Grace Quigley",
+    "year": 1984,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1413,
+    "occurrences": [
+      [
+        81,
+        "00:11:55.932000",
+        "00:11:57.978000",
+        "My name is Grace Quigley."
+      ],
+      [
+        1090,
+        "01:04:24.948000",
+        "01:04:26.732000",
+        "I''m Grace Quigley."
+      ]
+    ],
+    "regex": "\\b((?!\\bGrace\\ Quigley:)Grace\\ Quigley)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [
+      "Grace Quigley"
+    ],
+    "title_is_name": true,
+    "rating": 5.7
+  }
+]

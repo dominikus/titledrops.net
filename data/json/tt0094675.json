@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0094675",
+    "title": "Ariel",
+    "year": 1988,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 281,
+    "occurrences": [
+      [
+        265,
+        "01:04:44.360000",
+        "01:04:49.260000",
+        "Stop. The ship's called Ariel."
+      ],
+      [
+        277,
+        "01:08:42.115000",
+        "01:08:46.364000",
+        "- Where's the Ariel headed? - Mexico. Didn't you know?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAriel:)Ariel)(?!\\:)(?!'t)\\b",
+    "runtime": 72,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

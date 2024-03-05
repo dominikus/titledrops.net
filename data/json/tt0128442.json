@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0128442",
+    "title": "Rounders",
+    "year": 1998,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1814,
+    "occurrences": [
+      [
+        125,
+        "00:11:19.368000",
+        "00:11:22.667000",
+        "to rounders who forget the cardinal fuckin' rule..."
+      ],
+      [
+        856,
+        "00:54:58.552000",
+        "00:55:01.749000",
+        "because all the New York rounders are taking care of the tourists here."
+      ]
+    ],
+    "regex": "\\b((?!\\bRounders:)Rounders)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

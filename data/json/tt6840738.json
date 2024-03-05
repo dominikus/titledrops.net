@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt6840738",
+    "title": "College Kumar",
+    "year": 2017,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 2154,
+    "occurrences": [
+      [
+        225,
+        "00:20:37.107000",
+        "00:20:40.278000",
+        "We are complaining against College Kumar."
+      ],
+      [
+        888,
+        "00:58:04.529000",
+        "00:58:07.747000",
+        "Glory to College Kumar!"
+      ],
+      [
+        1299,
+        "01:24:12.609000",
+        "01:24:14.840000",
+        "College Kumar failed in exams."
+      ]
+    ],
+    "regex": "\\b((?!\\bCollege\\ Kumar:)College\\ Kumar)(?!\\:)(?!'t)\\b",
+    "runtime": 141,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

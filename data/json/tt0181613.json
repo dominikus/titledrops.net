@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0181613",
+    "title": "John the Bastard",
+    "year": 1967,
+    "genres": [
+      "Western"
+    ],
+    "count": 5,
+    "all_lines": 760,
+    "occurrences": [
+      [
+        57,
+        "00:10:31.480000",
+        "00:10:33.520000",
+        "'John the bastard'"
+      ],
+      [
+        276,
+        "00:38:00.960000",
+        "00:38:04.560000",
+        "Tell her John the bastard will never forget her..."
+      ],
+      [
+        590,
+        "01:12:22.960000",
+        "01:12:27.080000",
+        "I'm John the bastard. That's the truth."
+      ],
+      [
+        592,
+        "01:12:31",
+        "01:12:33.800000",
+        "John the bastard."
+      ],
+      [
+        621,
+        "01:20:17.120000",
+        "01:20:19.840000",
+        "Yes, an American, John the bastard..."
+      ]
+    ],
+    "regex": "\\b((?!\\bJohn\\ the\\ Bastard:)John\\ the\\ Bastard)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

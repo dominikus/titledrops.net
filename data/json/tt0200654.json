@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0200654",
+    "title": "On Board",
+    "year": 1998,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 663,
+    "occurrences": [
+      [
+        0,
+        "00:00:09.730000",
+        "00:00:19.685000",
+        "On Board."
+      ],
+      [
+        504,
+        "01:18:10.730000",
+        "01:18:14.689000",
+        "I can't keep the wench on board, for the rest of her life."
+      ],
+      [
+        611,
+        "01:30:09.770000",
+        "01:30:11.681000",
+        "The hands on board may be good or bad but they take your orders."
+      ]
+    ],
+    "regex": "\\b((?!\\bOn\\ Board:)On\\ Board)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

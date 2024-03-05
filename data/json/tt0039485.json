@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0039485",
+    "title": "An Ideal Husband",
+    "year": 1947,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1498,
+    "occurrences": [
+      [
+        1478,
+        "01:30:28.339000",
+        "01:30:32.255000",
+        "And if you don't make this young lady an ideal husband, I'll cut you off with a shilling."
+      ],
+      [
+        1479,
+        "01:30:32.741000",
+        "01:30:35.460000",
+        "An ideal husband! I don't think I should like that."
+      ]
+    ],
+    "regex": "\\b((?!\\bIdeal\\ Husband:)Ideal\\ Husband)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

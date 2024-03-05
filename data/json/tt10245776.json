@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt10245776",
+    "title": "The Canyonlands",
+    "year": 2021,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1613,
+    "occurrences": [
+      [
+        57,
+        "00:05:26.673000",
+        "00:05:29.609000",
+        "But he can't do the Canyonlands trip tomorrow."
+      ],
+      [
+        286,
+        "00:15:20.055000",
+        "00:15:22.091000",
+        "two in Canyonlands, Navajo and Ute."
+      ]
+    ],
+    "regex": "\\b((?!\\bCanyonlands:)Canyonlands)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

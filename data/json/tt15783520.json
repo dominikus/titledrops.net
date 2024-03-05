@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt15783520",
+    "title": "On Fire",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1393,
+    "occurrences": [
+      [
+        47,
+        "00:02:12.466000",
+        "00:02:15.637000",
+        "I'm gonna say our house is on fire."
+      ],
+      [
+        552,
+        "00:28:25.406000",
+        "00:28:28.075000",
+        "Everything-- Everything that way is on fire! Turn around!"
+      ],
+      [
+        827,
+        "00:43:20.134000",
+        "00:43:21.268000",
+        "'cause the bushes are on fire."
+      ]
+    ],
+    "regex": "\\b((?!\\bOn\\ Fire:)On\\ Fire)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0810001",
+    "title": "Glastonbury Fayre",
+    "year": 2018,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 595,
+    "occurrences": [
+      [
+        130,
+        "00:20:04.513000",
+        "00:20:06.722000",
+        "- It'd be nice to see not just Glastonbury Fayre,"
+      ],
+      [
+        169,
+        "00:27:01.378000",
+        "00:27:05.554000",
+        "[\"Glastonbury Fayre Jam\" by Michael Magic]"
+      ]
+    ],
+    "regex": "\\b((?!\\bGlastonbury\\ Fayre:)Glastonbury\\ Fayre)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

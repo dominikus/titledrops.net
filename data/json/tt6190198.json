@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt6190198",
+    "title": "My Teacher",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1249,
+    "occurrences": [
+      [
+        18,
+        "00:02:09.733000",
+        "00:02:17.825000",
+        "[ Sensei! My Teacher ]"
+      ],
+      [
+        1247,
+        "01:48:32.102000",
+        "01:48:33.364000",
+        "My teacher."
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Teacher:)My\\ Teacher)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

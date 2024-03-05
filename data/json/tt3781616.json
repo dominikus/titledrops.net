@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3781616",
+    "title": "Checkmate",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 836,
+    "occurrences": [
+      [
+        776,
+        "01:19:58.715000",
+        "01:20:00.175000",
+        "Checkmate."
+      ],
+      [
+        813,
+        "01:26:23.183000",
+        "01:26:24.518000",
+        "Checkmate!"
+      ],
+      [
+        815,
+        "01:26:35.404000",
+        "01:26:38.031000",
+        "Yes, it's checkmate for now."
+      ]
+    ],
+    "regex": "\\b((?!\\bCheckmate:)Checkmate)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.7
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt3622592",
+    "title": "Paper Towns",
+    "year": 2015,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1839,
+    "occurrences": [
+      [
+        731,
+        "00:38:32.120000",
+        "00:38:33.460000",
+        "like with the paper towns thing."
+      ],
+      [
+        871,
+        "00:47:28.240000",
+        "00:47:29.241000",
+        "QUENTIN: Paper towns."
+      ],
+      [
+        1149,
+        "01:05:01.600000",
+        "01:05:04.126000",
+        "Are any of them paper towns?"
+      ],
+      [
+        1157,
+        "01:05:17.400000",
+        "01:05:20.006000",
+        "\"is one of the most famous paper towns in America.\""
+      ],
+      [
+        1657,
+        "01:31:43.640000",
+        "01:31:46.007000",
+        "and then I saw the \"You will go to the paper towns...\""
+      ]
+    ],
+    "regex": "\\b((?!\\bPaper\\ Towns:)Paper\\ Towns)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

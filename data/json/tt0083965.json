@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0083965",
+    "title": "Foxfire Light",
+    "year": 1983,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1396,
+    "occurrences": [
+      [
+        184,
+        "00:13:14.694000",
+        "00:13:17.998000",
+        "The woods' foxfire light. That's what the folks around here call it."
+      ],
+      [
+        186,
+        "00:13:20.834000",
+        "00:13:23.170000",
+        "He claimed he saw foxfire light."
+      ]
+    ],
+    "regex": "\\b((?!\\bFoxfire\\ Light:)Foxfire\\ Light)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

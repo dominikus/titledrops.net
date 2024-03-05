@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0063729",
+    "title": "Twisted Nerve",
+    "year": 1968,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1862,
+    "occurrences": [
+      [
+        1535,
+        "01:34:02.553000",
+        "01:34:04.553000",
+        "'A twisted nerve, '"
+      ],
+      [
+        1855,
+        "01:57:00.843000",
+        "01:57:02.283000",
+        "'A twisted nerve, '"
+      ]
+    ],
+    "regex": "\\b((?!\\bTwisted\\ Nerve:)Twisted\\ Nerve)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

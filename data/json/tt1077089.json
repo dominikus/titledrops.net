@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt1077089",
+    "title": "The Magic Hour",
+    "year": 2008,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 1576,
+    "occurrences": [
+      [
+        169,
+        "00:12:25.120000",
+        "00:12:27.790000",
+        "This is \"magic hour\"."
+      ],
+      [
+        174,
+        "00:12:45.307000",
+        "00:12:48.811000",
+        "magic hour is the most precious time in the day."
+      ],
+      [
+        1362,
+        "01:50:33.044000",
+        "01:50:36.506000",
+        "It'll be magic hour in a moment."
+      ],
+      [
+        1366,
+        "01:50:53.356000",
+        "01:50:58.528000",
+        "If you let magic hour slip away, know what you must do?"
+      ],
+      [
+        1369,
+        "01:51:09.414000",
+        "01:51:12.709000",
+        "There'll always be another magic hour."
+      ],
+      [
+        1389,
+        "01:52:50.807000",
+        "01:52:53.393000",
+        "for the next magic hour."
+      ]
+    ],
+    "regex": "\\b((?!\\bMagic\\ Hour:)Magic\\ Hour)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

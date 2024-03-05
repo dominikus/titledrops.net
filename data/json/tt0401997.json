@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0401997",
+    "title": "Breach",
+    "year": 2007,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 755,
+    "occurrences": [
+      [
+        1,
+        "00:01:01.828000",
+        "00:01:05.264000",
+        "an investigation to end a very serious breach"
+      ],
+      [
+        535,
+        "00:43:12.356000",
+        "00:43:16.349000",
+        "But this is the worst breach in the history of U.S. Intelligence."
+      ]
+    ],
+    "regex": "\\b((?!\\bBreach:)Breach)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

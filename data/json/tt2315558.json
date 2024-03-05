@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2315558",
+    "title": "The Hour of the Lynx",
+    "year": 2013,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 662,
+    "occurrences": [
+      [
+        402,
+        "00:47:14.440000",
+        "00:47:17.319000",
+        "Like in the hour of the lynx."
+      ],
+      [
+        405,
+        "00:47:31.840000",
+        "00:47:36.359000",
+        "That's the hour of the lynx. That's where everything can happen."
+      ],
+      [
+        608,
+        "01:15:49.120000",
+        "01:15:53.479000",
+        "No. Only in the hour of the lynx."
+      ],
+      [
+        609,
+        "01:15:53.640000",
+        "01:15:56.679000",
+        "The hour of the lynx?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHour\\ of\\ the\\ Lynx:)Hour\\ of\\ the\\ Lynx)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

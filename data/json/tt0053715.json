@@ -1,0 +1,53 @@
+[
+  {
+    "imdb": "tt0053715",
+    "title": "Cimarron",
+    "year": 1960,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Western"
+    ],
+    "count": 5,
+    "all_lines": 1983,
+    "occurrences": [
+      [
+        254,
+        "00:18:58.687000",
+        "00:19:00.245000",
+        "Hey, Cimarron."
+      ],
+      [
+        255,
+        "00:19:00.422000",
+        "00:19:03.823000",
+        "- Hey, Dixie, there's Cimarron. - Yancey, how are you? Where you been?"
+      ],
+      [
+        339,
+        "00:24:50.505000",
+        "00:24:52.837000",
+        "- Why do they call you Cimarron? - It's a long story."
+      ],
+      [
+        722,
+        "01:00:13.660000",
+        "01:00:15.594000",
+        "Cimarron."
+      ],
+      [
+        847,
+        "01:10:20.332000",
+        "01:10:24.701000",
+        "Cimarron, you can go and play with Ruby in the yard, but don't go out in the street."
+      ]
+    ],
+    "regex": "\\b((?!\\bCimarron:)Cimarron)(?!\\:)(?!'t)\\b",
+    "runtime": 147,
+    "characters": [
+      "Yancey `Cimarron` Cravat"
+    ],
+    "title_is_name": true,
+    "rating": 6.4
+  }
+]

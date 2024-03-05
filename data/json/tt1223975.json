@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1223975",
+    "title": "Tony Manero",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 318,
+    "occurrences": [
+      [
+        17,
+        "00:02:33.432000",
+        "00:02:34.672000",
+        "Tony Manero."
+      ],
+      [
+        21,
+        "00:02:48.758000",
+        "00:02:51.999000",
+        "Tony Manero."
+      ],
+      [
+        208,
+        "00:31:15.109000",
+        "00:31:18.910000",
+        "And the Tony Manero of the movies is never going to grow old."
+      ]
+    ],
+    "regex": "\\b((?!\\bTony\\ Manero:)Tony\\ Manero)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

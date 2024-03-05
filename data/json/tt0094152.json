@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0094152",
+    "title": "The Time Guardian",
+    "year": 1987,
+    "genres": [
+      "Action",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 648,
+    "occurrences": [
+      [
+        237,
+        "00:28:48.226000",
+        "00:28:49.977000",
+        "The Time Guardian."
+      ],
+      [
+        549,
+        "01:05:49.027000",
+        "01:05:53.407000",
+        "The Time Guardian who has run out of time."
+      ]
+    ],
+    "regex": "\\b((?!\\bTime\\ Guardian:)Time\\ Guardian)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3296658",
+    "title": "Rams",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 412,
+    "occurrences": [
+      [
+        25,
+        "00:07:37.680000",
+        "00:07:42.151000",
+        "It's time to hand over the prizes to the three best rams."
+      ],
+      [
+        33,
+        "00:08:26.760000",
+        "00:08:31.914000",
+        "I want to clarify, Perd, that between the two best rams"
+      ],
+      [
+        97,
+        "00:17:48",
+        "00:17:52.676000",
+        "You'll pay for, you bastard! Damn murderess of rams!"
+      ]
+    ],
+    "regex": "\\b((?!\\bRams:)Rams)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

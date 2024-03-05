@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0243585",
+    "title": "Stuart Little 2",
+    "year": 2002,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 909,
+    "occurrences": [
+      [
+        201,
+        "00:16:46.543000",
+        "00:16:50.206000",
+        "Forgive me. My name is Stuart. Stuart Little."
+      ],
+      [
+        221,
+        "00:18:02.552000",
+        "00:18:05.544000",
+        "So tell me, Stuart Little, do you actually live here?"
+      ],
+      [
+        474,
+        "00:36:57.653000",
+        "00:37:01.350000",
+        "And when you're friends with Stuart Little, you're friends for life."
+      ]
+    ],
+    "regex": "\\b((?!\\bStuart\\ Little:)Stuart\\ Little)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

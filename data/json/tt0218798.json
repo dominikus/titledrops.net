@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0218798",
+    "title": "The Twelve Months",
+    "year": 1956,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 702,
+    "occurrences": [
+      [
+        65,
+        "00:05:36.130000",
+        "00:05:41.640000",
+        "a chance meeting with \"The Twelve Months\"."
+      ],
+      [
+        178,
+        "00:12:42.290000",
+        "00:12:45.720000",
+        "consists of twelve months!"
+      ]
+    ],
+    "regex": "\\b((?!\\bTwelve\\ Months:)Twelve\\ Months)(?!\\:)(?!'t)\\b",
+    "runtime": 55,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

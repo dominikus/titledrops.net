@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0118615",
+    "title": "Anaconda",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 474,
+    "occurrences": [
+      [
+        117,
+        "00:17:19.921000",
+        "00:17:25.951000",
+        "Then after five days, you reach the head of a giant anaconda."
+      ],
+      [
+        255,
+        "00:40:11.481000",
+        "00:40:15.838000",
+        "- What the hell is this? - Anaconda skin."
+      ],
+      [
+        289,
+        "00:45:01.041000",
+        "00:45:05.273000",
+        "- What the fuck are you doing? - Anaconda bait."
+      ]
+    ],
+    "regex": "\\b((?!\\bAnaconda:)Anaconda)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

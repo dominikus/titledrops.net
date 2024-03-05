@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0116953",
+    "title": "Mad Dog Time",
+    "year": 1996,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 739,
+    "occurrences": [
+      [
+        61,
+        "00:09:47",
+        "00:09:50.600000",
+        "Let's face it. It's mad dog time."
+      ],
+      [
+        358,
+        "00:43:44.400000",
+        "00:43:49.400000",
+        "Everybody wilNbe at Vic's party It's gonna be mad dog time"
+      ]
+    ],
+    "regex": "\\b((?!\\bMad\\ Dog\\ Time:)Mad\\ Dog\\ Time)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

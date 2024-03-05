@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1930463",
+    "title": "Ride",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1387,
+    "occurrences": [
+      [
+        395,
+        "00:24:07.914000",
+        "00:24:09.246000",
+        "What, ride around on that thing?"
+      ],
+      [
+        651,
+        "00:37:07.726000",
+        "00:37:09.559000",
+        "and ride that wave toward shore."
+      ],
+      [
+        721,
+        "00:40:52.717000",
+        "00:40:54.617000",
+        "and ride the wave towards shore."
+      ],
+      [
+        817,
+        "00:48:09.387000",
+        "00:48:12.788000",
+        "if you can catch me, I'll give you a ride."
+      ],
+      [
+        1011,
+        "00:58:35.813000",
+        "00:58:37.646000",
+        "I got a ride."
+      ]
+    ],
+    "regex": "\\b((?!\\bRide:)Ride)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

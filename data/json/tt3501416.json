@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt3501416",
+    "title": "Assassination",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1294,
+    "occurrences": [
+      [
+        71,
+        "00:07:06.700000",
+        "00:07:10.100000",
+        "Assassination"
+      ],
+      [
+        236,
+        "00:19:06.140000",
+        "00:19:06.870000",
+        "...plan a joint assassination in Gyeongseong?"
+      ],
+      [
+        413,
+        "00:34:21.090000",
+        "00:34:25.560000",
+        "Request assassination target."
+      ],
+      [
+        740,
+        "01:04:12.210000",
+        "01:04:14.580000",
+        "They've been informed of an assassination plot."
+      ],
+      [
+        1207,
+        "02:07:10.820000",
+        "02:07:13.920000",
+        "He was wounded in an assassination attempt by Korean patriot Yun Bong-gil in Shanghai."
+      ]
+    ],
+    "regex": "\\b((?!\\bAssassination:)Assassination)(?!\\:)(?!'t)\\b",
+    "runtime": 140,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt18924506",
+    "title": "2000 Mules",
+    "year": 2022,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 970,
+    "occurrences": [
+      [
+        541,
+        "00:48:48.490000",
+        "00:48:55.650000",
+        "Let's first narrow in on just our 2000 mules, their average number of Dropbox visits 38"
+      ],
+      [
+        564,
+        "00:51:02.170000",
+        "00:51:09.140000",
+        "Shockingly, even this narrow way of looking at just our 2000 mules in these swing states"
+      ],
+      [
+        566,
+        "00:51:16.980000",
+        "00:51:22.750000",
+        "But no one thinks that our 2000 mules were the only mules trafficking illegal votes to"
+      ]
+    ],
+    "regex": "\\b((?!\\b2000\\ Mules:)2000\\ Mules)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

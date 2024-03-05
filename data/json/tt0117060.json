@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt0117060",
+    "title": "Mission: Impossible",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 1,
+    "all_lines": 990,
+    "occurrences": [
+      [
+        46,
+        "00:05:13.160000",
+        "00:05:15.993000",
+        "{y:i}Your mission, Jim, {y:i}should you choose to accept it,"
+      ]
+    ],
+    "regex": "\\b((?!\\bMission:)Mission|(?!\\bImpossible:)Impossible)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

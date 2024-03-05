@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0113875",
+    "title": "Mushrooms",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1436,
+    "occurrences": [
+      [
+        941,
+        "00:59:15.138000",
+        "00:59:16.181000",
+        "- Mushrooms."
+      ],
+      [
+        1114,
+        "01:13:09.180000",
+        "01:13:10.557000",
+        "And as for mushrooms."
+      ]
+    ],
+    "regex": "\\b((?!\\bMushrooms:)Mushrooms)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0307919",
+    "title": "The Actors",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 5,
+    "all_lines": 1699,
+    "occurrences": [
+      [
+        3,
+        "00:01:05.066000",
+        "00:01:08.733000",
+        "This is a story about the actors."
+      ],
+      [
+        277,
+        "00:15:56.666000",
+        "00:16:00.400000",
+        "Actors need characters, Mary. Precisely my weak point, you know?"
+      ],
+      [
+        837,
+        "00:45:26.666000",
+        "00:45:30.500000",
+        "Lot of lowlifes in here, lot of actors in here - horrible, dirty, no money."
+      ],
+      [
+        1444,
+        "01:16:04.533000",
+        "01:16:08.100000",
+        "(stage manager) Can I get some actors on stage, perchance to dream?"
+      ],
+      [
+        1670,
+        "01:27:59.533000",
+        "01:28:03.300000",
+        "but the bad actors always get all the attention."
+      ]
+    ],
+    "regex": "\\b((?!\\bActors:)Actors)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

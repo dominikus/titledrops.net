@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0085361",
+    "title": "Coolie",
+    "year": 1983,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 938,
+    "occurrences": [
+      [
+        96,
+        "00:19:19.324000",
+        "00:19:21.258000",
+        "''Sir, why did you beat that porter (coolie)?''"
+      ],
+      [
+        106,
+        "00:21:10.502000",
+        "00:21:15.439000",
+        "''My label is 786, l work as a coolie and my name is...''"
+      ]
+    ],
+    "regex": "\\b((?!\\bCoolie:)Coolie)(?!\\:)(?!'t)\\b",
+    "runtime": 177,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

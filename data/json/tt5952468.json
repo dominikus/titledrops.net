@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5952468",
+    "title": "The B-Side",
+    "year": 2016,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 959,
+    "occurrences": [
+      [
+        724,
+        "00:53:54.365000",
+        "00:53:55.933000",
+        "I call the B-side."
+      ],
+      [
+        725,
+        "00:53:59.504000",
+        "00:54:03.541000",
+        "You know how in music there's an A-side and a B-side?"
+      ]
+    ],
+    "regex": "\\b((?!\\bB\\-Side:)B\\-Side)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

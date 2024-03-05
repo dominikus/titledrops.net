@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1445203",
+    "title": "Hot Coffee",
+    "year": 2011,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1365,
+    "occurrences": [
+      [
+        183,
+        "00:11:24.700000",
+        "00:11:28.653000",
+        "I'm sure there's more than that, that was damaged with a hot coffee."
+      ],
+      [
+        294,
+        "00:18:24.002000",
+        "00:18:27.404000",
+        "She spilled hot coffee on her lap while sitting in her car, and claimed it was too hot."
+      ]
+    ],
+    "regex": "\\b((?!\\bHot\\ Coffee:)Hot\\ Coffee)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

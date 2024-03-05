@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1104806",
+    "title": "One Week",
+    "year": 2008,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 872,
+    "occurrences": [
+      [
+        1,
+        "00:00:30.650000",
+        "00:00:34.100000",
+        "or one week, or one month to live."
+      ],
+      [
+        673,
+        "01:03:22.300000",
+        "01:03:26.040000",
+        "What would you do if you had one week to live?"
+      ],
+      [
+        865,
+        "01:28:55.750000",
+        "01:28:58.810000",
+        "or one week, or one month to live?"
+      ]
+    ],
+    "regex": "\\b((?!\\bOne\\ Week:)One\\ Week)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

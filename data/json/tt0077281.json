@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0077281",
+    "title": "Blue Christmas",
+    "year": 1978,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1276,
+    "occurrences": [
+      [
+        75,
+        "00:05:33.060000",
+        "00:05:35.610000",
+        "Why in god's name did they dig up \"Blue Christmas\""
+      ],
+      [
+        939,
+        "01:26:44.390000",
+        "01:26:48.090000",
+        "who achieved sudden stardom with their pop hit \"Blue Christmas.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Christmas:)Blue\\ Christmas)(?!\\:)(?!'t)\\b",
+    "runtime": 133,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

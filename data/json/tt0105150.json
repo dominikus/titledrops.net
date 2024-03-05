@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0105150",
+    "title": "The Playboys",
+    "year": 1992,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1146,
+    "occurrences": [
+      [
+        909,
+        "01:18:45.788000",
+        "01:18:48.723000",
+        "The hour of The Playboys is past!"
+      ],
+      [
+        920,
+        "01:19:41.077000",
+        "01:19:43.102000",
+        "The Playboys, sir!"
+      ],
+      [
+        1026,
+        "01:29:19.755000",
+        "01:29:22.122000",
+        "with The Playboys!"
+      ]
+    ],
+    "regex": "\\b((?!\\bPlayboys:)Playboys)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1179793",
+    "title": "Summer Book",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 396,
+    "occurrences": [
+      [
+        8,
+        "00:07:06.040000",
+        "00:07:09.396000",
+        "But also take time to look at the summer book I'm handing out now."
+      ],
+      [
+        27,
+        "00:10:15.200000",
+        "00:10:18.317000",
+        "- Do you have the summer book for third grade? - No."
+      ]
+    ],
+    "regex": "\\b((?!\\bSummer\\ Book:)Summer\\ Book)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

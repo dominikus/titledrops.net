@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0084469",
+    "title": "Paradise",
+    "year": 1982,
+    "genres": [
+      "Adventure",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 690,
+    "occurrences": [
+      [
+        330,
+        "00:35:47.913000",
+        "00:35:49.915000",
+        "Our very own paradise..."
+      ],
+      [
+        332,
+        "00:35:51.917000",
+        "00:35:53.418000",
+        "Paradise."
+      ],
+      [
+        445,
+        "00:48:24.669000",
+        "00:48:26.171000",
+        "This is our Paradise."
+      ]
+    ],
+    "regex": "\\b((?!\\bParadise:)Paradise)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

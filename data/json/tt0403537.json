@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0403537",
+    "title": "State Property: Blood on the Streets",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 2287,
+    "occurrences": [
+      [
+        18,
+        "00:01:27.755000",
+        "00:01:30.991000",
+        "Those of y'all didn't see state property I,"
+      ],
+      [
+        249,
+        "00:11:01.028000",
+        "00:11:02.529000",
+        "Man, you're state property."
+      ],
+      [
+        654,
+        "00:29:11.583000",
+        "00:29:14.954000",
+        "because you're state property."
+      ]
+    ],
+    "regex": "\\b((?!\\bState\\ Property:)State\\ Property|(?!\\bBlood\\ on\\ the\\ Streets:)Blood\\ on\\ the\\ Streets)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

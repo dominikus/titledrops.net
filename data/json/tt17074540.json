@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt17074540",
+    "title": "Until Tomorrow",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 845,
+    "occurrences": [
+      [
+        37,
+        "00:05:50.595000",
+        "00:05:54.315000",
+        "Is it possible for you to look after her until tomorrow?"
+      ],
+      [
+        433,
+        "00:38:12.475000",
+        "00:38:15.795000",
+        "I need you to look after the baby until tomorrow."
+      ],
+      [
+        487,
+        "00:41:15.715000",
+        "00:41:21.395000",
+        "No. You just look after her until tomorrow, I promise you won't ever see me again."
+      ],
+      [
+        678,
+        "00:55:25.755000",
+        "00:55:29.262000",
+        "Look, I can come up with some money until tomorrow..."
+      ]
+    ],
+    "regex": "\\b((?!\\bUntil\\ Tomorrow:)Until\\ Tomorrow)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

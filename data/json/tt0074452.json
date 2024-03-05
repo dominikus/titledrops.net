@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt0074452",
+    "title": "The Eagle Has Landed",
+    "year": 1976,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 1,
+    "all_lines": 1198,
+    "occurrences": [
+      [
+        714,
+        "01:21:34.097000",
+        "01:21:38.597000",
+        "Reichsfiihrer, I have the honour to announce... the Eagle has landed."
+      ]
+    ],
+    "regex": "\\b((?!\\bEagle\\ Has\\ Landed:)Eagle\\ Has\\ Landed)(?!\\:)(?!'t)\\b",
+    "runtime": 149,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

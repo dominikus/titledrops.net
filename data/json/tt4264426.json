@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt4264426",
+    "title": "Bite",
+    "year": 2015,
+    "genres": [
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 1159,
+    "occurrences": [
+      [
+        140,
+        "00:06:18.479000",
+        "00:06:20.479000",
+        "Oh, my god! I think something bite me!"
+      ],
+      [
+        164,
+        "00:07:00.954000",
+        "00:07:03.422000",
+        "- Yeah. It's just a little bite."
+      ],
+      [
+        429,
+        "00:25:14.446000",
+        "00:25:16.486000",
+        "It's just a small bug bite from the trip."
+      ],
+      [
+        594,
+        "00:36:12.938000",
+        "00:36:15.179000",
+        "-  Are you looking at the bite mark now?"
+      ],
+      [
+        1082,
+        "01:18:18.094000",
+        "01:18:20.828000",
+        "- It's just a little bug bite."
+      ],
+      [
+        1158,
+        "01:24:38.574000",
+        "01:24:40.808000",
+        "- Yeah, it's just a little bite."
+      ]
+    ],
+    "regex": "\\b((?!\\bBite:)Bite)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

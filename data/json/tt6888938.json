@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6888938",
+    "title": "White Chamber",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1166,
+    "occurrences": [
+      [
+        340,
+        "00:24:45.501000",
+        "00:24:48.569000",
+        "Welcome to the White Chamber."
+      ],
+      [
+        341,
+        "00:24:48.571000",
+        "00:24:50.474000",
+        "White Chamber."
+      ],
+      [
+        362,
+        "00:25:55.771000",
+        "00:25:59.909000",
+        "I'd hate to soil this gleaming White Chamber."
+      ],
+      [
+        744,
+        "00:52:07.575000",
+        "00:52:10.846000",
+        "The White Chamber is where that animal belongs."
+      ]
+    ],
+    "regex": "\\b((?!\\bWhite\\ Chamber:)White\\ Chamber)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

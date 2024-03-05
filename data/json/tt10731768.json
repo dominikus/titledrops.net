@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt10731768",
+    "title": "Sweet Girl",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1441,
+    "occurrences": [
+      [
+        88,
+        "00:04:58.500000",
+        "00:05:00.333000",
+        "- That's my sweet girl. -"
+      ],
+      [
+        1310,
+        "01:35:04.958000",
+        "01:35:07.916000",
+        "Get up, sweet girl."
+      ]
+    ],
+    "regex": "\\b((?!\\bSweet\\ Girl:)Sweet\\ Girl)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

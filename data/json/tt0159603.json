@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0159603",
+    "title": "The Delivery",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 880,
+    "occurrences": [
+      [
+        45,
+        "00:04:12.933000",
+        "00:04:16.391000",
+        "Delivery work. He puts a suitcase in your car,"
+      ],
+      [
+        75,
+        "00:07:23.423000",
+        "00:07:26.221000",
+        "upon delivery of your consignment."
+      ],
+      [
+        86,
+        "00:08:05.298000",
+        "00:08:07.892000",
+        "and unharmed upon delivery of the consignment."
+      ],
+      [
+        309,
+        "00:27:47.379000",
+        "00:27:49.609000",
+        "We're making a delivery."
+      ],
+      [
+        802,
+        "01:22:22.985000",
+        "01:22:25.476000",
+        "When we make the delivery..."
+      ],
+      [
+        813,
+        "01:22:50.912000",
+        "01:22:52.903000",
+        "we're going to make a delivery."
+      ]
+    ],
+    "regex": "\\b((?!\\bDelivery:)Delivery)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

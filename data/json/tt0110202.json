@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0110202",
+    "title": "The Ride",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 709,
+    "occurrences": [
+      [
+        89,
+        "00:11:02.277000",
+        "00:11:06.077000",
+        "- C'mon. We'll give you a ride. - Oh no, boys, it's not worth it."
+      ],
+      [
+        113,
+        "00:12:58.505000",
+        "00:13:00.105000",
+        "Hi. Want a ride?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRide:)Ride)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

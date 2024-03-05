@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2424534",
+    "title": "The Scent of Burning Grass",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 857,
+    "occurrences": [
+      [
+        741,
+        "01:11:05.594000",
+        "01:11:08.097000",
+        "I could smell the scent of burning grass."
+      ],
+      [
+        742,
+        "01:11:09.014000",
+        "01:11:12.518000",
+        "How could you smell the scent of burning grass on that night?"
+      ],
+      [
+        795,
+        "01:15:14.801000",
+        "01:15:17.304000",
+        "I could smell the scent of burning grass,"
+      ]
+    ],
+    "regex": "\\b((?!\\bScent\\ of\\ Burning\\ Grass:)Scent\\ of\\ Burning\\ Grass)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1535970",
+    "title": "The Ledge",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1441,
+    "occurrences": [
+      [
+        991,
+        "01:05:09.739000",
+        "01:05:11.615000",
+        "- I'm up here on the ledge with somebody and-"
+      ],
+      [
+        1319,
+        "01:28:37.353000",
+        "01:28:40.564000",
+        "You get on the ledge in front of it."
+      ]
+    ],
+    "regex": "\\b((?!\\bLedge:)Ledge)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

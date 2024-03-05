@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt3257794",
+    "title": "Music Teacher",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1102,
+    "occurrences": [
+      [
+        123,
+        "00:13:55.130000",
+        "00:13:57.338000",
+        "I'm Beni Madhav Singh. I'm a music teacher."
+      ],
+      [
+        228,
+        "00:20:41.838000",
+        "00:20:43.255000",
+        "You're the music teacher."
+      ],
+      [
+        440,
+        "00:37:07.088000",
+        "00:37:09.713000",
+        "How long will you survive as a music teacher?"
+      ],
+      [
+        530,
+        "00:45:31.297000",
+        "00:45:34.963000",
+        "Jyotsna said that she won this award only because of her music teacher"
+      ],
+      [
+        608,
+        "00:52:22.880000",
+        "00:52:24.922000",
+        "But there is no music teacher like you."
+      ],
+      [
+        1093,
+        "01:36:13.880000",
+        "01:36:15.172000",
+        "I'm a music teacher."
+      ]
+    ],
+    "regex": "\\b((?!\\bMusic\\ Teacher:)Music\\ Teacher)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

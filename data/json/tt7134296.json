@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt7134296",
+    "title": "Crisis Hotline",
+    "year": 2019,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1374,
+    "occurrences": [
+      [
+        50,
+        "00:02:56.967000",
+        "00:03:01.304000",
+        "Listen, Tamita, this is a crisis hotline,"
+      ],
+      [
+        63,
+        "00:03:37.467000",
+        "00:03:48.059000",
+        "LGBT crisis hotline, Simon speaking."
+      ]
+    ],
+    "regex": "\\b((?!\\bCrisis\\ Hotline:)Crisis\\ Hotline)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

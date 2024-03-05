@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt5783476",
+    "title": "Insect",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 734,
+    "occurrences": [
+      [
+        22,
+        "00:04:09.280000",
+        "00:04:15.280000",
+        "The Capek Brothers wrote the \"The Insect Play\" in 1924."
+      ],
+      [
+        84,
+        "00:11:48.320000",
+        "00:11:54.360000",
+        "Insect populations were most numerous and diverse in the Tertiary Era,"
+      ],
+      [
+        87,
+        "00:12:05.400000",
+        "00:12:07.040000",
+        "Insect!"
+      ],
+      [
+        100,
+        "00:13:00.160000",
+        "00:13:03.880000",
+        "The Insect Play was perhaps the most misunderstood."
+      ]
+    ],
+    "regex": "\\b((?!\\bInsect:)Insect)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

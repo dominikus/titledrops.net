@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0335013",
+    "title": "The Company",
+    "year": 2003,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 439,
+    "occurrences": [
+      [
+        21,
+        "00:06:41.944000",
+        "00:06:45.572000",
+        "You'd like to sit in this chair? You could run the company."
+      ],
+      [
+        122,
+        "00:17:38.976000",
+        "00:17:48.734000",
+        "Company, just move all this crap! You're going to trip over it."
+      ],
+      [
+        214,
+        "00:31:16.460000",
+        "00:31:21.464000",
+        "The protocol is this, you call the company, you talk to Edouard..."
+      ],
+      [
+        245,
+        "00:35:46.146000",
+        "00:35:50.442000",
+        "This piece will be fantastic on this company."
+      ],
+      [
+        307,
+        "00:42:39.476000",
+        "00:42:43.480000",
+        "Listen up company. Hello? Is this on?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCompany:)Company)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

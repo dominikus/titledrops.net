@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt14355860",
+    "title": "Miracle",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1144,
+    "occurrences": [
+      [
+        205,
+        "00:22:54.258000",
+        "00:22:59.842000",
+        "No one can perform a miracle to lift us out of this shit."
+      ],
+      [
+        800,
+        "01:24:53.300000",
+        "01:24:57.883000",
+        "I think so. It's a true miracle she didn't lose it yet."
+      ]
+    ],
+    "regex": "\\b((?!\\bMiracle:)Miracle)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0420333",
+    "title": "Yasmin",
+    "year": 2004,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 607,
+    "occurrences": [
+      [
+        46,
+        "00:09:12.560000",
+        "00:09:15.677000",
+        "Yasmin Hussain, 34 Malsis Road, Millfield ..."
+      ],
+      [
+        59,
+        "00:11:02.400000",
+        "00:11:05.119000",
+        "Yasmin enough. Calm down now."
+      ],
+      [
+        125,
+        "00:17:51.440000",
+        "00:17:53.271000",
+        "Yasmin?"
+      ],
+      [
+        257,
+        "00:32:57.680000",
+        "00:32:58.999000",
+        "Yasmin!"
+      ],
+      [
+        606,
+        "01:19:13.320000",
+        "01:19:15.993000",
+        "I'm getting old, Yasmin."
+      ]
+    ],
+    "regex": "\\b((?!\\bYasmin:)Yasmin)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [
+      "Yasmin"
+    ],
+    "title_is_name": true,
+    "rating": 6.9
+  }
+]

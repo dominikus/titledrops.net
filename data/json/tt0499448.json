@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0499448",
+    "title": "The Chronicles of Narnia: Prince Caspian",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 585,
+    "occurrences": [
+      [
+        96,
+        "00:17:19.200000",
+        "00:17:23.500000",
+        "And now, it seems that for those walls, the one Prince Caspian disappeared."
+      ],
+      [
+        118,
+        "00:19:33.500000",
+        "00:19:37.500000",
+        "I assure them that I will find to the prince Caspian and"
+      ],
+      [
+        189,
+        "00:28:43.700000",
+        "00:28:47.200000",
+        "I Am the Prince Caspian... Tenth."
+      ],
+      [
+        394,
+        "00:54:19.700000",
+        "00:54:23.500000",
+        "- Prince Caspian? - Yes, and who are your?"
+      ]
+    ],
+    "regex": "\\b((?!\\bChronicles\\ of\\ Narnia:)Chronicles\\ of\\ Narnia|(?!\\bPrince\\ Caspian:)Prince\\ Caspian)(?!\\:)(?!'t)\\b",
+    "runtime": 150,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

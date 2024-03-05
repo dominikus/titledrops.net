@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt18076250",
+    "title": "Snake Hotel",
+    "year": 2023,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1030,
+    "occurrences": [
+      [
+        111,
+        "00:07:02.890000",
+        "00:07:07.127000",
+        "There can only be one winner of The Snake Hotel."
+      ],
+      [
+        112,
+        "00:07:08.462000",
+        "00:07:12.432000",
+        "There can only be one winner of The Snake Hotel."
+      ],
+      [
+        121,
+        "00:08:07.054000",
+        "00:08:11.124000",
+        "I hope you enjoyed your stay at The Snake Hotel."
+      ],
+      [
+        396,
+        "00:28:28.808000",
+        "00:28:31.286000",
+        "Welcome to The Snake Hotel."
+      ],
+      [
+        1030,
+        "01:24:45.381000",
+        "01:24:48.784000",
+        "\"Snake Hotel, numero dos.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bSnake\\ Hotel:)Snake\\ Hotel)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.5
+  }
+]

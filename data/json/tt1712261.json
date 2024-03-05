@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt1712261",
+    "title": "Triple 9",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1602,
+    "occurrences": [
+      [
+        570,
+        "00:34:29.320000",
+        "00:34:32.767000",
+        "MIKE: So what? We do this Triple 9, we get 10 clear minutes?"
+      ],
+      [
+        1289,
+        "01:21:37.880000",
+        "01:21:40.884000",
+        "Unit 342. Officer down. Triple 9!"
+      ],
+      [
+        1291,
+        "01:21:49.240000",
+        "01:21:51.580000",
+        "All units copy. Triple 9. Eighth and Washington."
+      ],
+      [
+        1301,
+        "01:22:52.600000",
+        "01:22:54.602000",
+        "Let's go. Triple 9. Let's go!"
+      ],
+      [
+        1303,
+        "01:22:58.560000",
+        "01:23:00.403000",
+        "- Yeah. Triple 9. - It's Chris."
+      ],
+      [
+        1600,
+        "01:49:52.600000",
+        "01:49:55.900000",
+        "All units, copy. Triple 9. Shots fired on scene."
+      ]
+    ],
+    "regex": "\\b((?!\\bTriple:)Triple)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

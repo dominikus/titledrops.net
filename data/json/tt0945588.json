@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt0945588",
+    "title": "The Fight",
+    "year": 2007,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 514,
+    "occurrences": [
+      [
+        2,
+        "00:01:06.199000",
+        "00:01:09.930000",
+        "Refereeing tonight's fight is none other than Emilio!"
+      ],
+      [
+        15,
+        "00:03:30.143000",
+        "00:03:32.737000",
+        "The winner of this fight is..."
+      ],
+      [
+        106,
+        "00:16:33.492000",
+        "00:16:35.392000",
+        "Can I go to the fight on Saturday?"
+      ],
+      [
+        169,
+        "00:23:44.022000",
+        "00:23:45.580000",
+        "He can't fight."
+      ],
+      [
+        320,
+        "00:45:41.772000",
+        "00:45:44.866000",
+        "And the referee for this fight.: Emilio!"
+      ],
+      [
+        328,
+        "00:47:06.056000",
+        "00:47:07.751000",
+        "The winner of the fight.:"
+      ],
+      [
+        417,
+        "01:05:45.174000",
+        "01:05:47.642000",
+        "And the winner of the fight is..."
+      ]
+    ],
+    "regex": "\\b((?!\\bFight:)Fight)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

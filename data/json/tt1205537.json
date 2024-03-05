@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1205537",
+    "title": "Jack Ryan: Shadow Recruit",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1171,
+    "occurrences": [
+      [
+        192,
+        "00:12:53.440000",
+        "00:12:56.359000",
+        "Jack Ryan said you could help me with the Balfour arbitrage."
+      ],
+      [
+        477,
+        "00:42:05.400000",
+        "00:42:07.944000",
+        "Hi. Jack Ryan to see Mr. Cherevin."
+      ],
+      [
+        485,
+        "00:43:28.942000",
+        "00:43:30.026000",
+        "Jack Ryan."
+      ],
+      [
+        516,
+        "00:45:04.496000",
+        "00:45:05.622000",
+        "Jack Ryan."
+      ],
+      [
+        770,
+        "01:05:09.534000",
+        "01:05:12.662000",
+        "I hope Jack Ryan realizes how fortunate he is."
+      ]
+    ],
+    "regex": "\\b((?!\\bJack\\ Ryan:)Jack\\ Ryan|(?!\\bShadow\\ Recruit:)Shadow\\ Recruit)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

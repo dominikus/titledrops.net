@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0099629",
+    "title": "Curry and Pepper",
+    "year": 1990,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1481,
+    "occurrences": [
+      [
+        784,
+        "00:41:42.750000",
+        "00:41:44.625000",
+        "Curry and Pepper, I'll need your support."
+      ],
+      [
+        1097,
+        "01:06:38.125000",
+        "01:06:41.166000",
+        "Curry and Pepper, I stopped selling weed."
+      ],
+      [
+        1098,
+        "01:06:47.208000",
+        "01:06:49.500000",
+        "Curry and Pepper, there's no need to chase me."
+      ],
+      [
+        1116,
+        "01:07:26.208000",
+        "01:07:28.541000",
+        "Curry and Pepper."
+      ]
+    ],
+    "regex": "\\b((?!\\bCurry\\ and\\ Pepper:)Curry\\ and\\ Pepper)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

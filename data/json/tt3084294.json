@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3084294",
+    "title": "The Lion Standing in the Wind",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 613,
+    "occurrences": [
+      [
+        3,
+        "00:01:52.245000",
+        "00:01:58.594000",
+        "The Lion Standing in the Wind"
+      ],
+      [
+        608,
+        "02:14:45.011000",
+        "02:14:53.123000",
+        "I want to be a lion standing in the wind"
+      ]
+    ],
+    "regex": "\\b((?!\\bLion\\ Standing\\ in\\ the\\ Wind:)Lion\\ Standing\\ in\\ the\\ Wind)(?!\\:)(?!'t)\\b",
+    "runtime": 139,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

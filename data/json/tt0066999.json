@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0066999",
+    "title": "Dirty Harry",
+    "year": 1971,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 804,
+    "occurrences": [
+      [
+        165,
+        "00:19:32.616000",
+        "00:19:34.641000",
+        "Why do they call you Dirty Harry?"
+      ],
+      [
+        232,
+        "00:27:56.220000",
+        "00:27:58.711000",
+        "About why they call you Dirty Harry."
+      ],
+      [
+        268,
+        "00:32:58.822000",
+        "00:33:03.691000",
+        "Now you know why I'm called Dirty Harry. Every dirty job that comes along."
+      ],
+      [
+        368,
+        "00:44:56.505000",
+        "00:45:00.407000",
+        "No wonder they call him Dirty Harry. He gets the shit end of the stick."
+      ]
+    ],
+    "regex": "\\b((?!\\bDirty\\ Harry:)Dirty\\ Harry)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

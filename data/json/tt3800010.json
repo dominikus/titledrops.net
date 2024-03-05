@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3800010",
+    "title": "Fidelio: Alice's Odyssey",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 978,
+    "occurrences": [
+      [
+        290,
+        "00:29:26.437000",
+        "00:29:29.153000",
+        "Applause for Fidelio's crew!"
+      ],
+      [
+        964,
+        "01:27:40.454000",
+        "01:27:42.532000",
+        "Fidelio is going to be scrap metal."
+      ]
+    ],
+    "regex": "\\b((?!\\bFidelio:)Fidelio|(?!\\bAlice's\\ Odyssey:)Alice's\\ Odyssey)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

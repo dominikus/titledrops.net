@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt6264954",
+    "title": "My Generation",
+    "year": 2017,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1248,
+    "occurrences": [
+      [
+        28,
+        "00:06:04.573000",
+        "00:06:07.907000",
+        "My generation demanded a new beginning."
+      ],
+      [
+        131,
+        "00:13:09.789000",
+        "00:13:11.325000",
+        "From my generation,"
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Generation:)My\\ Generation)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

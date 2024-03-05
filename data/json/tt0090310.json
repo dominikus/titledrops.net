@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0090310",
+    "title": "Wetherby",
+    "year": 1985,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1144,
+    "occurrences": [
+      [
+        6,
+        "00:00:54.852000",
+        "00:00:58.188000",
+        "What was happening in wetherby ten years ago?"
+      ],
+      [
+        296,
+        "00:23:41.685000",
+        "00:23:44.786000",
+        "he said I'm the best builder in wetherby."
+      ]
+    ],
+    "regex": "\\b((?!\\bWetherby:)Wetherby)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

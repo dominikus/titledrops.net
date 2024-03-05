@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt17527124",
+    "title": "Collide",
+    "year": 2022,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1032,
+    "occurrences": [
+      [
+        70,
+        "00:09:07.933000",
+        "00:09:09.977000",
+        "-Hello. -Hi. Welcome to Collide."
+      ],
+      [
+        242,
+        "00:23:07.944000",
+        "00:23:09.904000",
+        "By kind donation of the Collide cellar."
+      ]
+    ],
+    "regex": "\\b((?!\\bCollide:)Collide)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

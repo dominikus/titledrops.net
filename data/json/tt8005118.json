@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt8005118",
+    "title": "House Party",
+    "year": 2023,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 2329,
+    "occurrences": [
+      [
+        10,
+        "00:01:13.360000",
+        "00:01:15.516000",
+        "a house party is just a kick-back to catch up with the homies."
+      ],
+      [
+        296,
+        "00:13:19.490000",
+        "00:13:20.760000",
+        "What if we threw a house party?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHouse\\ Party:)House\\ Party)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

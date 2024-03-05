@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt13032716",
+    "title": "Dancing Queens",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2050,
+    "occurrences": [
+      [
+        498,
+        "00:27:44.875000",
+        "00:27:48.625000",
+        "Not to be a bitch, but his show is actually called \"Dancing Queens.\""
+      ],
+      [
+        1844,
+        "01:36:54.666000",
+        "01:36:58.250000",
+        "- For... For Dancing Queens, for... - We need her for who she is."
+      ]
+    ],
+    "regex": "\\b((?!\\bDancing\\ Queens:)Dancing\\ Queens)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

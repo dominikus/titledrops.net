@@ -1,0 +1,36 @@
+[
+  {
+    "imdb": "tt1234721",
+    "title": "RoboCop",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Crime",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1618,
+    "occurrences": [
+      [
+        935,
+        "01:04:07.464000",
+        "01:04:10.631000",
+        "now that RoboCop is here?"
+      ],
+      [
+        1188,
+        "01:24:22.047000",
+        "01:24:24.756000",
+        "Nah, Daniels. Bad cop, RoboCop."
+      ]
+    ],
+    "regex": "\\b((?!\\bRoboCop:)RoboCop)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [
+      "Alex Murphy",
+      "RoboCop"
+    ],
+    "title_is_name": true,
+    "rating": 6.1
+  }
+]

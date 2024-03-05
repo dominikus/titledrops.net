@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0406304",
+    "title": "Undercover Kids",
+    "year": 2004,
+    "genres": [
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1174,
+    "occurrences": [
+      [
+        6,
+        "00:00:49.633000",
+        "00:00:53.133000",
+        "No, the heroes in this mystery are \"Undercover Kids.\""
+      ],
+      [
+        71,
+        "00:05:18.667000",
+        "00:05:23.233000",
+        "How you started the Undercover Kids Detective Agency and all the details."
+      ],
+      [
+        1174,
+        "01:20:01.767000",
+        "01:20:07.600000",
+        "So it was another successful case solved for the undercover kids."
+      ]
+    ],
+    "regex": "\\b((?!\\bUndercover\\ Kids:)Undercover\\ Kids)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

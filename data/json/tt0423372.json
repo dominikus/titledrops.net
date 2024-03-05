@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0423372",
+    "title": "El Cortez",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1733,
+    "occurrences": [
+      [
+        32,
+        "00:01:48.800000",
+        "00:01:50.400000",
+        "El Cortez Hotel, Manny speaking."
+      ],
+      [
+        288,
+        "00:15:00.683000",
+        "00:15:02.809000",
+        "El Cortez Hotel, Manny speaking."
+      ],
+      [
+        721,
+        "00:34:21.260000",
+        "00:34:22.860000",
+        "El Cortez Hotel, Manny speaking."
+      ],
+      [
+        1157,
+        "00:59:31.774000",
+        "00:59:33.489000",
+        "-  El Cortez Hotel, Manny speaking."
+      ]
+    ],
+    "regex": "\\b((?!\\bEl\\ Cortez:)El\\ Cortez)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

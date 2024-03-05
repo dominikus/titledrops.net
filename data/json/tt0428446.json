@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0428446",
+    "title": "The Darwin Awards",
+    "year": 2006,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1154,
+    "occurrences": [
+      [
+        4,
+        "00:01:10.400000",
+        "00:01:12.800000",
+        "They call them the Darwin Awards."
+      ],
+      [
+        22,
+        "00:02:22.320000",
+        "00:02:25.960000",
+        "Everybody's gotta have a hobby. For me, it was the Darwin Awards."
+      ]
+    ],
+    "regex": "\\b((?!\\bDarwin\\ Awards:)Darwin\\ Awards)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

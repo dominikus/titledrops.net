@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0084786",
+    "title": "They Call Me Bruce",
+    "year": 1982,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1380,
+    "occurrences": [
+      [
+        248,
+        "00:16:19.243000",
+        "00:16:21.579000",
+        "They call me Bruce."
+      ],
+      [
+        908,
+        "00:54:28.005000",
+        "00:54:29.875000",
+        "They call me Bruce."
+      ],
+      [
+        1252,
+        "01:17:58.242000",
+        "01:18:01.415000",
+        "Say, foo, they call me Bruce."
+      ]
+    ],
+    "regex": "\\b((?!\\bThey\\ Call\\ Me\\ Bruce:)They\\ Call\\ Me\\ Bruce)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

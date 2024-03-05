@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt27125266",
+    "title": "Ghost",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 2272,
+    "occurrences": [
+      [
+        935,
+        "00:48:39.320000",
+        "00:48:40.320000",
+        "I'm trying to reach Ghost and tell him about this"
+      ],
+      [
+        938,
+        "00:48:43.400000",
+        "00:48:44.880000",
+        "Who saw Ghost last and where?"
+      ],
+      [
+        2138,
+        "01:56:44.600000",
+        "01:56:47.680000",
+        "Don't tell me, you are referring to the one and only Ghost"
+      ],
+      [
+        2207,
+        "02:00:15.240000",
+        "02:00:16.480000",
+        "Operation Ghost"
+      ],
+      [
+        2242,
+        "02:02:01.480000",
+        "02:02:02.600000",
+        "Congrats Ghost!"
+      ]
+    ],
+    "regex": "\\b((?!\\bGhost:)Ghost)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

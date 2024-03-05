@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt6072502",
+    "title": "The School",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 779,
+    "occurrences": [
+      [
+        10,
+        "00:02:40.142000",
+        "00:02:41.341000",
+        "This is the school."
+      ],
+      [
+        13,
+        "00:02:49.551000",
+        "00:02:53.152000",
+        "In the school? How did I get..."
+      ],
+      [
+        125,
+        "00:14:52.906000",
+        "00:14:58.244000",
+        "I wonder if Valerie knew that this section of the hospital used to be a school."
+      ],
+      [
+        157,
+        "00:18:43.171000",
+        "00:18:49.378000",
+        "Condemned to the school for eternity"
+      ],
+      [
+        337,
+        "00:37:04.571000",
+        "00:37:08.138000",
+        "They always want to get into the school."
+      ]
+    ],
+    "regex": "\\b((?!\\bSchool:)School)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

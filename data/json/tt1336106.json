@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1336106",
+    "title": "Slaughter Creek",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 2666,
+    "occurrences": [
+      [
+        136,
+        "00:07:11.064000",
+        "00:07:13",
+        "to slaughter creek?"
+      ],
+      [
+        2173,
+        "01:07:24.774000",
+        "01:07:26.809000",
+        "\"slaughter creek.\""
+      ],
+      [
+        2177,
+        "01:07:35.185000",
+        "01:07:35.819000",
+        "\"slaughter creek\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSlaughter\\ Creek:)Slaughter\\ Creek)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3
+  }
+]

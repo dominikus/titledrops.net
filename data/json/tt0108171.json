@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0108171",
+    "title": "Sniper",
+    "year": 1993,
+    "genres": [
+      "Action",
+      "Thriller",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 425,
+    "occurrences": [
+      [
+        37,
+        "00:06:27.053000",
+        "00:06:30.318000",
+        "- No. We need a sniper, a good one. - The best."
+      ],
+      [
+        40,
+        "00:06:44.237000",
+        "00:06:49.675000",
+        "How is it your proposition entails hiring a 50-year-old former scout sniper?"
+      ],
+      [
+        107,
+        "00:11:40.666000",
+        "00:11:45.194000",
+        "- And you were an Army sniper? - Former Delta, 85-41 out of Quantico."
+      ],
+      [
+        108,
+        "00:11:45.371000",
+        "00:11:47.931000",
+        "Urban sniper, SOTG."
+      ]
+    ],
+    "regex": "\\b((?!\\bSniper:)Sniper)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

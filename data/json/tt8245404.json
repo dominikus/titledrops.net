@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt8245404",
+    "title": "Show Me What You Got",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 754,
+    "occurrences": [
+      [
+        258,
+        "00:18:58.679000",
+        "00:19:00.013000",
+        "Show me what you got. Ok."
+      ],
+      [
+        259,
+        "00:19:00.013000",
+        "00:19:02.599000",
+        "Ok. Show me what you got!"
+      ],
+      [
+        747,
+        "01:32:40.263000",
+        "01:32:41.597000",
+        "Show me what you got."
+      ],
+      [
+        749,
+        "01:32:42.390000",
+        "01:32:44.183000",
+        "Show me what you got!"
+      ]
+    ],
+    "regex": "\\b((?!\\bShow\\ Me\\ What\\ You\\ Got:)Show\\ Me\\ What\\ You\\ Got)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

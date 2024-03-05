@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0392883",
+    "title": "Valley of Flowers",
+    "year": 2006,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 641,
+    "occurrences": [
+      [
+        393,
+        "01:04:21.493000",
+        "01:04:23.290000",
+        "Jalan, l have heard there's a place for us .... in the Valley Of Flowers."
+      ],
+      [
+        399,
+        "01:04:45.693000",
+        "01:04:48.605000",
+        "before going to the Valley of Flowers?"
+      ],
+      [
+        524,
+        "01:27:54.853000",
+        "01:27:57.367000",
+        "l'll sue Valley of Flowers Corp..."
+      ],
+      [
+        556,
+        "01:32:25.933000",
+        "01:32:30.961000",
+        "Jalan Otsal, of the Valley of Flowers Corporation ..."
+      ]
+    ],
+    "regex": "\\b((?!\\bValley\\ of\\ Flowers:)Valley\\ of\\ Flowers)(?!\\:)(?!'t)\\b",
+    "runtime": 155,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

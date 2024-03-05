@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0066289",
+    "title": "The Cruise",
+    "year": 1970,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 722,
+    "occurrences": [
+      [
+        0,
+        "00:00:07.487000",
+        "00:00:09.205000",
+        "CRUISE"
+      ],
+      [
+        155,
+        "00:16:35.927000",
+        "00:16:38.725000",
+        "who will cruise together with us."
+      ],
+      [
+        299,
+        "00:27:38.327000",
+        "00:27:43.401000",
+        "To be a candidate for a Cruise Council. Anybody against? No? Thank you."
+      ],
+      [
+        624,
+        "00:56:47.967000",
+        "00:56:51.755000",
+        "we should expel one person from the Cruise Council."
+      ],
+      [
+        674,
+        "01:00:03.967000",
+        "01:00:08.404000",
+        "We have decided that you would be expelled from the Cruise Council."
+      ],
+      [
+        677,
+        "01:00:18.407000",
+        "01:00:22.002000",
+        "to devote to matters connected with the Cruise Council."
+      ]
+    ],
+    "regex": "\\b((?!\\bCruise:)Cruise)(?!\\:)(?!'t)\\b",
+    "runtime": 65,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

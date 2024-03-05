@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt4073890",
+    "title": "Andron",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 808,
+    "occurrences": [
+      [
+        355,
+        "00:41:07.264000",
+        "00:41:10.066000",
+        "Andron decides."
+      ],
+      [
+        497,
+        "00:55:06.270000",
+        "00:55:08.637000",
+        "All this is Andron,"
+      ],
+      [
+        537,
+        "00:57:16.133000",
+        "00:57:18.801000",
+        "Andron changes era and setting,"
+      ],
+      [
+        584,
+        "01:00:36.900000",
+        "01:00:39.101000",
+        "It's about Andron."
+      ]
+    ],
+    "regex": "\\b((?!\\bAndron:)Andron)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.7
+  }
+]

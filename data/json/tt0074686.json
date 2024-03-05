@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0074686",
+    "title": "The Innocent",
+    "year": 1976,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1103,
+    "occurrences": [
+      [
+        0,
+        "00:00:26.367000",
+        "00:00:30.645000",
+        "INNOCENT"
+      ],
+      [
+        1004,
+        "01:48:53.167000",
+        "01:48:55.761000",
+        "it would have been you to have caused the death of that innocent?"
+      ]
+    ],
+    "regex": "\\b((?!\\bInnocent:)Innocent)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

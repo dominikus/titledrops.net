@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt8003558",
+    "title": "Keep Going",
+    "year": 2018,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 550,
+    "occurrences": [
+      [
+        548,
+        "01:16:10.260000",
+        "01:16:11.380000",
+        "We have to keep going,"
+      ],
+      [
+        549,
+        "01:16:12.340000",
+        "01:16:13.580000",
+        "keep going toward the other."
+      ]
+    ],
+    "regex": "\\b((?!\\bKeep\\ Going:)Keep\\ Going)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

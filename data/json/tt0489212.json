@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0489212",
+    "title": "The Living Wake",
+    "year": 2007,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 2129,
+    "occurrences": [
+      [
+        1570,
+        "00:58:14.806000",
+        "00:58:18.246000",
+        "don't worry. One cannot miss one's own living wake... not for the world."
+      ],
+      [
+        1603,
+        "01:01:51.067000",
+        "01:01:53.200000",
+        "so, let us begin our journey towards the void with k. Roth binew's living wake."
+      ],
+      [
+        1604,
+        "01:01:53.202000",
+        "01:01:57.070000",
+        "Towards the void with k. Roth binew's living wake."
+      ],
+      [
+        1605,
+        "01:01:57.072000",
+        "01:01:59.172000",
+        "- K. Roth binew's living wake. - Ladies and gentlemen..."
+      ]
+    ],
+    "regex": "\\b((?!\\bLiving\\ Wake:)Living\\ Wake)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1230385",
+    "title": "The Yellow Sea",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1091,
+    "occurrences": [
+      [
+        37,
+        "00:04:07.294000",
+        "00:04:11.253000",
+        "Yellow Sea"
+      ],
+      [
+        849,
+        "01:53:37.257000",
+        "01:53:41.250000",
+        "Yellow Sea"
+      ]
+    ],
+    "regex": "\\b((?!\\bYellow\\ Sea:)Yellow\\ Sea)(?!\\:)(?!'t)\\b",
+    "runtime": 157,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

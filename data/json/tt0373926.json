@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0373926",
+    "title": "The Interpreter",
+    "year": 2005,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 676,
+    "occurrences": [
+      [
+        160,
+        "00:20:31.863000",
+        "00:20:34.161000",
+        "Tell me about the interpreter."
+      ],
+      [
+        263,
+        "00:27:52.003000",
+        "00:27:55.063000",
+        "- This is the interpreter?. - I need everything ClA has on her."
+      ],
+      [
+        267,
+        "00:28:32.811000",
+        "00:28:35.439000",
+        "(Lud) So what do we make of this interpreter?."
+      ],
+      [
+        532,
+        "00:54:32.402000",
+        "00:54:34.233000",
+        "Or another interpreter."
+      ]
+    ],
+    "regex": "\\b((?!\\bInterpreter:)Interpreter)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

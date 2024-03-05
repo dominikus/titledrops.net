@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt14471774",
+    "title": "Mastemah",
+    "year": 2022,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 856,
+    "occurrences": [
+      [
+        627,
+        "01:06:29.679000",
+        "01:06:31.119000",
+        "\"Mastemah\"."
+      ],
+      [
+        628,
+        "01:06:31.599000",
+        "01:06:34.480000",
+        "Mastemah was one of the many names"
+      ],
+      [
+        637,
+        "01:06:58.199000",
+        "01:07:00.760000",
+        "The translation of Mastemah would be..."
+      ],
+      [
+        644,
+        "01:07:18.079000",
+        "01:07:20.800000",
+        "In a sense... In other words, this Mastemah"
+      ]
+    ],
+    "regex": "\\b((?!\\bMastemah:)Mastemah)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

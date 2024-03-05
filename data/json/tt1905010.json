@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1905010",
+    "title": "Yamada: Samurai of Ayothaya",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 350,
+    "occurrences": [
+      [
+        49,
+        "00:21:21.200000",
+        "00:21:23.160000",
+        "Yamada"
+      ],
+      [
+        53,
+        "00:22:09.080000",
+        "00:22:14.120000",
+        "- Yamada has been bribed by the enemy? - How can that be?"
+      ],
+      [
+        350,
+        "01:33:41.240000",
+        "01:33:47.080000",
+        "I, Yamada, thanks the heaven for bringing me here"
+      ]
+    ],
+    "regex": "\\b((?!\\bYamada:)Yamada|(?!\\bSamurai\\ of\\ Ayothaya:)Samurai\\ of\\ Ayothaya)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

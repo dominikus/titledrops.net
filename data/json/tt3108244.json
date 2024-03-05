@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3108244",
+    "title": "Capsule",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "History",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 729,
+    "occurrences": [
+      [
+        87,
+        "00:13:10.500000",
+        "00:13:14.083000",
+        "But I'm currently only breathing Oxygen in the capsule, Harry."
+      ],
+      [
+        226,
+        "00:28:24.208000",
+        "00:28:29.542000",
+        "Not until we find out, what is wrong with capsule. How it happened and how to fix it."
+      ],
+      [
+        360,
+        "00:43:12.958000",
+        "00:43:19.583000",
+        "Orbiting up in a capsule of some sort. We tracked your launch from Woomera, Australia."
+      ],
+      [
+        400,
+        "00:46:41.208000",
+        "00:46:46.667000",
+        "I'm gonna need help fix the capsule, but the longer I stay up here,"
+      ]
+    ],
+    "regex": "\\b((?!\\bCapsule:)Capsule)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

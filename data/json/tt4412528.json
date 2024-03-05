@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4412528",
+    "title": "Two Lovers and a Bear",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 974,
+    "occurrences": [
+      [
+        508,
+        "00:48:23.567000",
+        "00:48:25.979000",
+        "Two lovers and a bear walk into a bar,"
+      ],
+      [
+        927,
+        "01:25:16.911000",
+        "01:25:20.017000",
+        "Two lovers and a bear walk into a bar."
+      ]
+    ],
+    "regex": "\\b((?!\\bTwo\\ Lovers\\ and\\ a\\ Bear:)Two\\ Lovers\\ and\\ a\\ Bear)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

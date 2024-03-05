@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt6149944",
+    "title": "It's Just a Game",
+    "year": 2018,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 732,
+    "occurrences": [
+      [
+        183,
+        "00:17:51.480000",
+        "00:17:54.693000",
+        "because it's just a game."
+      ],
+      [
+        249,
+        "00:22:14.350000",
+        "00:22:16.516000",
+        "- Oh lighten up, it's just a game."
+      ],
+      [
+        319,
+        "00:29:00.850000",
+        "00:29:03.436000",
+        "It doesn't really matter, 'cause it's just a game."
+      ],
+      [
+        708,
+        "00:59:21.474000",
+        "00:59:23.807000",
+        "Relax man, it's just a game."
+      ]
+    ],
+    "regex": "\\b((?!\\bIt's\\ Just\\ a\\ Game:)It's\\ Just\\ a\\ Game)(?!\\:)(?!'t)\\b",
+    "runtime": 70,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0083267",
+    "title": "Outlaw: The Saga of Gisli",
+    "year": 1981,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 591,
+    "occurrences": [
+      [
+        12,
+        "00:02:02.538000",
+        "00:02:07.692000",
+        "OUTLAW"
+      ],
+      [
+        511,
+        "01:25:30.075000",
+        "01:25:34.750000",
+        "Why are we in exile, Gisli a hunted outlaw?"
+      ]
+    ],
+    "regex": "\\b((?!\\bOutlaw:)Outlaw|(?!\\bSaga\\ of\\ Gisli:)Saga\\ of\\ Gisli)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

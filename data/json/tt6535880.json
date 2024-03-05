@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt6535880",
+    "title": "Haunt",
+    "year": 2019,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1278,
+    "occurrences": [
+      [
+        219,
+        "00:12:37.390000",
+        "00:12:39.858000",
+        "ANGELA: Oh, this looks like the haunt from Evan's flyer."
+      ],
+      [
+        986,
+        "01:05:37.267000",
+        "01:05:41.903000",
+        "\"Find the key to escape the haunt.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bHaunt:)Haunt)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

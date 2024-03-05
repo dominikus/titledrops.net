@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt13273172",
+    "title": "Pawn",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1769,
+    "occurrences": [
+      [
+        43,
+        "00:03:57.148000",
+        "00:04:01.248000",
+        "Pawn"
+      ],
+      [
+        1744,
+        "01:49:11.177000",
+        "01:49:13.345000",
+        "... will pawn something for a while."
+      ]
+    ],
+    "regex": "\\b((?!\\bPawn:)Pawn)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

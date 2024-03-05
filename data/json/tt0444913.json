@@ -1,0 +1,60 @@
+[
+  {
+    "imdb": "tt0444913",
+    "title": "Tango Charlie",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 836,
+    "occurrences": [
+      [
+        83,
+        "00:06:29.636000",
+        "00:06:32.901000",
+        "His id is solider Tarun chauhan, Tango charlie."
+      ],
+      [
+        86,
+        "00:06:37.077000",
+        "00:06:39.671000",
+        "Tarun chauhan, Tango charlie, 101 battalion, BSF."
+      ],
+      [
+        334,
+        "00:23:30.989000",
+        "00:23:32.047000",
+        "Tango charlie."
+      ],
+      [
+        481,
+        "00:44:04.922000",
+        "00:44:07.152000",
+        "This Tango charlie is a simPle man."
+      ],
+      [
+        584,
+        "00:50:51.562000",
+        "00:50:54.326000",
+        "So this is the soldier, who is called Tango charlie?"
+      ],
+      [
+        668,
+        "00:57:20.951000",
+        "00:57:23.545000",
+        "Tango charlie, why are you chasing me?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTango\\ Charlie:)Tango\\ Charlie)(?!\\:)(?!'t)\\b",
+    "runtime": 142,
+    "characters": [
+      "Sepoy Tarun Chauhan",
+      "Tango Charlie"
+    ],
+    "title_is_name": true,
+    "rating": 6.1
+  }
+]

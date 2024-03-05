@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1223934",
+    "title": "The Door",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 514,
+    "occurrences": [
+      [
+        1,
+        "00:01:41.526000",
+        "00:01:45.257000",
+        "The Door"
+      ],
+      [
+        151,
+        "00:38:27.496000",
+        "00:38:29.555000",
+        "Open your door and wave."
+      ],
+      [
+        193,
+        "00:43:07.442000",
+        "00:43:11.310000",
+        "I found a tunnel leading up to a door"
+      ]
+    ],
+    "regex": "\\b((?!\\bDoor:)Door)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

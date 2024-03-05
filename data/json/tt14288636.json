@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt14288636",
+    "title": "Before Night Falls",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 862,
+    "occurrences": [
+      [
+        71,
+        "00:07:29.540000",
+        "00:07:30.100000",
+        "Before night falls, she will be held inside here..."
+      ],
+      [
+        72,
+        "00:07:30.100000",
+        "00:07:33.780000",
+        "Before night falls, she will be held inside here..."
+      ],
+      [
+        612,
+        "01:05:58.540000",
+        "01:06:00.100000",
+        "She knows she must get back before night falls."
+      ],
+      [
+        613,
+        "01:06:00.100000",
+        "01:06:01.340000",
+        "She knows she must get back before night falls."
+      ],
+      [
+        679,
+        "01:11:30.860000",
+        "01:11:34.340000",
+        "Before night falls, we will accompany Nina."
+      ],
+      [
+        702,
+        "01:13:56.100000",
+        "01:13:58.740000",
+        "...what Nina experience before night falls..."
+      ]
+    ],
+    "regex": "\\b((?!\\bBefore\\ Night\\ Falls:)Before\\ Night\\ Falls)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

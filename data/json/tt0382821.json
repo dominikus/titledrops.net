@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0382821",
+    "title": "Green Tea",
+    "year": 2003,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1300,
+    "occurrences": [
+      [
+        24,
+        "00:03:14.720000",
+        "00:03:15.311000",
+        "Green tea."
+      ],
+      [
+        492,
+        "00:34:54.240000",
+        "00:34:55.275000",
+        "Do you drink green tea?"
+      ],
+      [
+        632,
+        "00:42:56.440000",
+        "00:42:58.158000",
+        "I made green tea for you"
+      ]
+    ],
+    "regex": "\\b((?!\\bGreen\\ Tea:)Green\\ Tea)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

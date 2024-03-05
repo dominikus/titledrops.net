@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt12019088",
+    "title": "Piglady",
+    "year": 2023,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1136,
+    "occurrences": [
+      [
+        368,
+        "00:28:50.097000",
+        "00:28:53.167000",
+        "So, what do you have against the Piglady?"
+      ],
+      [
+        503,
+        "00:39:52.226000",
+        "00:39:53.995000",
+        "what you were saying about the Piglady?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPiglady:)Piglady)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.7
+  }
+]

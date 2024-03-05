@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0090197",
+    "title": "In a Glass Cage",
+    "year": 1986,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 296,
+    "occurrences": [
+      [
+        94,
+        "00:18:13.559000",
+        "00:18:16.323000",
+        "It's like being in a glass cage."
+      ],
+      [
+        241,
+        "00:34:49.620000",
+        "00:34:53.057000",
+        "I'm not in a glass cage."
+      ]
+    ],
+    "regex": "\\b((?!\\bIn\\ a\\ Glass\\ Cage:)In\\ a\\ Glass\\ Cage)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

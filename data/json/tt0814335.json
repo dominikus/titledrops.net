@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0814335",
+    "title": "The Stepfather",
+    "year": 2009,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1079,
+    "occurrences": [
+      [
+        9,
+        "00:05:35.535000",
+        "00:05:38.197000",
+        "Let's say the stepfather, this Grady Edwards did it."
+      ],
+      [
+        16,
+        "00:05:51.317000",
+        "00:05:54.878000",
+        "Gunshot wounds to the back of the head, The stepfather disappeared,"
+      ],
+      [
+        152,
+        "00:14:59.732000",
+        "00:15:02.132000",
+        "-father and son. -Stepfather."
+      ],
+      [
+        153,
+        "00:15:03.202000",
+        "00:15:04.464000",
+        "Stepfather"
+      ],
+      [
+        655,
+        "00:53:29.439000",
+        "00:53:33.569000",
+        "Definitely next time, But I did check out your soon-to-be stepfather,"
+      ]
+    ],
+    "regex": "\\b((?!\\bStepfather:)Stepfather)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2139965",
+    "title": "Hang Loose",
+    "year": 2012,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1501,
+    "occurrences": [
+      [
+        71,
+        "00:04:46.654000",
+        "00:04:50.824000",
+        "No, no, no. Shaka is Hawaiian for hang loose, dude."
+      ],
+      [
+        72,
+        "00:04:50.858000",
+        "00:04:52.893000",
+        "- Oh, okay. - Hang loose, man."
+      ]
+    ],
+    "regex": "\\b((?!\\bHang\\ Loose:)Hang\\ Loose)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0106934",
+    "title": "Fly by Night",
+    "year": 1992,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 2034,
+    "occurrences": [
+      [
+        407,
+        "00:19:54.566000",
+        "00:19:57.066000",
+        "I fly by night But I'm wicked by the day"
+      ],
+      [
+        1945,
+        "01:29:39.300000",
+        "01:29:41.433000",
+        "I fly by night But I'm wicked by the day"
+      ],
+      [
+        1982,
+        "01:31:02.466000",
+        "01:31:04.866000",
+        "'Cause I'm Fly by Night"
+      ]
+    ],
+    "regex": "\\b((?!\\bFly\\ by\\ Night:)Fly\\ by\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt18252340",
+    "title": "Carnifex",
+    "year": 2022,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1074,
+    "occurrences": [
+      [
+        656,
+        "00:52:58.623000",
+        "00:53:01.454000",
+        "Your megafauna carnifex only has one thumb."
+      ],
+      [
+        662,
+        "00:53:15.192000",
+        "00:53:20.300000",
+        "Thylacoleo carnifex hasn't been seen for 50,000 years."
+      ],
+      [
+        690,
+        "00:55:01.401000",
+        "00:55:04.404000",
+        "the public executioner was called the Carnifex"
+      ]
+    ],
+    "regex": "\\b((?!\\bCarnifex:)Carnifex)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

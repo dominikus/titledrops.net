@@ -1,0 +1,40 @@
+[
+  {
+    "imdb": "tt0039294",
+    "title": "Daisy Kenyon",
+    "year": 1947,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1318,
+    "occurrences": [
+      [
+        316,
+        "00:21:57.182000",
+        "00:22:02.779000",
+        "When you hear the tone, Daisy Kenyon will have been stood up for the first time in her life."
+      ],
+      [
+        318,
+        "00:22:05.424000",
+        "00:22:07.358000",
+        "- Miss Daisy Kenyon? - Yes."
+      ],
+      [
+        767,
+        "00:56:47.601000",
+        "00:56:52.163000",
+        "I think it's a pose, and I wish you'd cut it out, and sound like Daisy Kenyon."
+      ]
+    ],
+    "regex": "\\b((?!\\bDaisy\\ Kenyon:)Daisy\\ Kenyon)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [
+      "Daisy Kenyon Lapham"
+    ],
+    "title_is_name": true,
+    "rating": 6.8
+  }
+]

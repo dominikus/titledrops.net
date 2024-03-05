@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0493107",
+    "title": "An Angel of the Lord",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 736,
+    "occurrences": [
+      [
+        29,
+        "00:04:12.940000",
+        "00:04:20.600000",
+        "The Angel of the Lord"
+      ],
+      [
+        237,
+        "00:27:19.040000",
+        "00:27:23.120000",
+        "I'm the angel of the lord! I want no business with mortals."
+      ],
+      [
+        288,
+        "00:33:23.630000",
+        "00:33:29.210000",
+        "God's messenger, Mod's gessenger... Angel of the Lord! I'm an angel!"
+      ],
+      [
+        594,
+        "01:07:41.420000",
+        "01:07:46.710000",
+        "- And you are...? - The angel of the lord, sinner!"
+      ]
+    ],
+    "regex": "\\b((?!\\bAngel\\ of\\ the\\ Lord:)Angel\\ of\\ the\\ Lord)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

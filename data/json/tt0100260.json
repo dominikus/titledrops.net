@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0100260",
+    "title": "Nightbreed",
+    "year": 1990,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 864,
+    "occurrences": [
+      [
+        165,
+        "00:18:36.533000",
+        "00:18:39.953000",
+        "-We should take him below, Peloquin. -He's not Nightbreed."
+      ],
+      [
+        466,
+        "00:47:18.837000",
+        "00:47:21.882000",
+        "You're below now, with the Nightbreed."
+      ],
+      [
+        487,
+        "00:49:21.876000",
+        "00:49:23.920000",
+        "Yes. He's Nightbreed."
+      ],
+      [
+        497,
+        "00:49:55.368000",
+        "00:49:58.371000",
+        "-Nightbreed? -Can they die?"
+      ]
+    ],
+    "regex": "\\b((?!\\bNightbreed:)Nightbreed)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

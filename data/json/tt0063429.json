@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0063429",
+    "title": "The Pink Jungle",
+    "year": 1968,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1396,
+    "occurrences": [
+      [
+        1179,
+        "01:22:54.706000",
+        "01:22:55.707000",
+        "Pink Jungle."
+      ],
+      [
+        1382,
+        "01:42:49.576000",
+        "01:42:50.886000",
+        "Operation Pink Jungle is concluded."
+      ]
+    ],
+    "regex": "\\b((?!\\bPink\\ Jungle:)Pink\\ Jungle)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

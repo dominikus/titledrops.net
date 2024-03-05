@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1781840",
+    "title": "Jayne Mansfield's Car",
+    "year": 2012,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1921,
+    "occurrences": [
+      [
+        0,
+        "00:00:11.087000",
+        "00:00:12.587000",
+        "Jayne Mansfield's Car (2012) Retail OCR. HI removed."
+      ],
+      [
+        1145,
+        "01:13:23.188000",
+        "01:13:25.981000",
+        "And Jayne Mansfield's car slid right under it."
+      ]
+    ],
+    "regex": "\\b((?!\\bJayne\\ Mansfield's\\ Car:)Jayne\\ Mansfield's\\ Car)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

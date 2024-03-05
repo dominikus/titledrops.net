@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3197802",
+    "title": "The Answer",
+    "year": 2015,
+    "genres": [
+      "Biography",
+      "Family",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 1260,
+    "occurrences": [
+      [
+        182,
+        "00:17:13.066000",
+        "00:17:15.800000",
+        "Maybe there I'll find the answer I'm seeking."
+      ],
+      [
+        277,
+        "00:26:18.110000",
+        "00:26:20.110000",
+        "God is the answer,"
+      ],
+      [
+        278,
+        "00:26:20.112000",
+        "00:26:23.614000",
+        "but also having a true guru will take me to that answer."
+      ],
+      [
+        464,
+        "00:41:03.094000",
+        "00:41:05.228000",
+        "Only God is the answer"
+      ]
+    ],
+    "regex": "\\b((?!\\bAnswer:)Answer)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

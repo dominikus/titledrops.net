@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0061735",
+    "title": "Guess Who's Coming to Dinner",
+    "year": 1967,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 836,
+    "occurrences": [
+      [
+        640,
+        "00:43:39.725000",
+        "00:43:41.386000",
+        "Guess who's coming to dinner?"
+      ],
+      [
+        815,
+        "00:53:35.420000",
+        "00:53:37.752000",
+        "Guess who's coming to dinner now?"
+      ]
+    ],
+    "regex": "\\b((?!\\bGuess\\ Who's\\ Coming\\ to\\ Dinner:)Guess\\ Who's\\ Coming\\ to\\ Dinner)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

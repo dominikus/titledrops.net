@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0123935",
+    "title": "The Guard",
+    "year": 1990,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 833,
+    "occurrences": [
+      [
+        18,
+        "00:02:11.327000",
+        "00:02:13.924000",
+        "Take the guard's post. - Affirmative."
+      ],
+      [
+        190,
+        "00:16:28.458000",
+        "00:16:31.036000",
+        "Detailing for guard. - This isn't an order but a plea."
+      ],
+      [
+        223,
+        "00:19:00.831000",
+        "00:19:03.590000",
+        "Private Iveren will be sounding lights-out until the end of the guard."
+      ],
+      [
+        273,
+        "00:23:06.491000",
+        "00:23:11.297000",
+        "You are under the command of the guard and must obey all of our conditions."
+      ],
+      [
+        277,
+        "00:24:08.213000",
+        "00:24:10.543000",
+        "Thank God I wasn't killed in action. Tomorrow, on guard again."
+      ],
+      [
+        392,
+        "00:39:59.432000",
+        "00:40:06.646000",
+        "Warden - Must - Watchfully - Guard Firmly - Defend - His - Station"
+      ]
+    ],
+    "regex": "\\b((?!\\bGuard:)Guard)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

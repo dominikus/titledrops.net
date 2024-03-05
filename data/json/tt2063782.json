@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2063782",
+    "title": "Laddaland",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 283,
+    "occurrences": [
+      [
+        66,
+        "00:17:50.122000",
+        "00:17:57.343000",
+        "a dead woman was found disebuah home housing complex in Laddaland"
+      ],
+      [
+        171,
+        "00:59:02.345000",
+        "00:59:08.243000",
+        "-You know the famous housing? / Housing Laddaland? -Yeah, I heard that a lot of haunted places"
+      ],
+      [
+        206,
+        "01:13:24.345000",
+        "01:13:29.603000",
+        "Addons A murder occurs in the housing back Laddaland the father killing his family members"
+      ]
+    ],
+    "regex": "\\b((?!\\bLaddaland:)Laddaland)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

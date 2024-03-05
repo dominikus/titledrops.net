@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3481000",
+    "title": "Chocolate City",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1307,
+    "occurrences": [
+      [
+        496,
+        "00:33:28.153000",
+        "00:33:29.552000",
+        "Hey. Welcome to Chocolate City."
+      ],
+      [
+        1124,
+        "01:13:04.617000",
+        "01:13:06.917000",
+        "Chocolate City! We getting very sexy tonight."
+      ],
+      [
+        1193,
+        "01:19:46.262000",
+        "01:19:48.962000",
+        "And I work at the Chocolate City Strip Club."
+      ]
+    ],
+    "regex": "\\b((?!\\bChocolate\\ City:)Chocolate\\ City)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

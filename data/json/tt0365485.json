@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0365485",
+    "title": "The Matador",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1010,
+    "occurrences": [
+      [
+        48,
+        "00:10:28.200000",
+        "00:10:31.317000",
+        "A matador from Madrid fights on Sunday."
+      ],
+      [
+        249,
+        "00:27:49.080000",
+        "00:27:51.800000",
+        "Yeah, they're lucky, that matador was very good."
+      ],
+      [
+        251,
+        "00:27:54.400000",
+        "00:27:57.836000",
+        "A great matador can kill a bull with one plunge on the brain."
+      ]
+    ],
+    "regex": "\\b((?!\\bMatador:)Matador)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

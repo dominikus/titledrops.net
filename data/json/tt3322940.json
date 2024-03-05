@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3322940",
+    "title": "Annabelle",
+    "year": 2014,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 895,
+    "occurrences": [
+      [
+        8,
+        "00:01:20.881000",
+        "00:01:24.067000",
+        "that the doll was possessed by a girl named Annabelle Higgins."
+      ],
+      [
+        204,
+        "00:18:51.047000",
+        "00:18:55.076000",
+        "by their estranged daughter, Annabelle Higgins, and her unidentified boyfriend."
+      ],
+      [
+        557,
+        "01:00:29.084000",
+        "01:00:32.914000",
+        "That's Annabelle there. The Higgins girl."
+      ]
+    ],
+    "regex": "\\b((?!\\bAnnabelle:)Annabelle)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0120534",
+    "title": "Wounded",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 787,
+    "occurrences": [
+      [
+        88,
+        "00:23:56.966000",
+        "00:23:59",
+        "Alert the trauma team! We've got incoming wounded!"
+      ],
+      [
+        262,
+        "00:40:26.188000",
+        "00:40:29.723000",
+        "A good hunter never leaves his prey wounded."
+      ],
+      [
+        356,
+        "00:50:50.779000",
+        "00:50:54.080000",
+        "I was wounded four times."
+      ]
+    ],
+    "regex": "\\b((?!\\bWounded:)Wounded)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

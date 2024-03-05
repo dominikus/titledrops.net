@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt15275256",
+    "title": "The Infernal Machine",
+    "year": 2022,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 990,
+    "occurrences": [
+      [
+        156,
+        "00:23:49.600000",
+        "00:23:52.296000",
+        "You're that writer of The Infernal Machine."
+      ],
+      [
+        381,
+        "00:45:06.604000",
+        "00:45:09.913000",
+        "The Infernal Machine. You should read it."
+      ],
+      [
+        459,
+        "00:51:51.778000",
+        "00:51:55.186000",
+        "A book. The Infernal Machine. You ever read it?"
+      ],
+      [
+        612,
+        "01:07:26.045000",
+        "01:07:29.515000",
+        "That's fair to say. - So, what is the intent of The Infernal machine?"
+      ]
+    ],
+    "regex": "\\b((?!\\bInfernal\\ Machine:)Infernal\\ Machine)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

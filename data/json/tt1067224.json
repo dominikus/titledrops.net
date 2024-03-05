@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1067224",
+    "title": "The Photograph",
+    "year": 2007,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 643,
+    "occurrences": [
+      [
+        124,
+        "00:15:06.120000",
+        "00:15:10.640000",
+        "She'll be copying me. Well, just photograph me like this."
+      ],
+      [
+        641,
+        "01:35:58.080000",
+        "01:36:01.080000",
+        "This photograph has carried my mother and me"
+      ]
+    ],
+    "regex": "\\b((?!\\bPhotograph:)Photograph)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

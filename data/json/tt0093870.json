@@ -1,0 +1,60 @@
+[
+  {
+    "imdb": "tt0093870",
+    "title": "RoboCop",
+    "year": 1987,
+    "genres": [
+      "Action",
+      "Crime",
+      "Sci-Fi"
+    ],
+    "count": 6,
+    "all_lines": 997,
+    "occurrences": [
+      [
+        157,
+        "00:12:52.588000",
+        "00:12:54.385000",
+        "There's a Robocop program..."
+      ],
+      [
+        335,
+        "00:28:36.714000",
+        "00:28:38.204000",
+        "...Robocop."
+      ],
+      [
+        476,
+        "00:40:01.031000",
+        "00:40:03.864000",
+        "Robocop. Who is he? What is he?"
+      ],
+      [
+        505,
+        "00:41:30.387000",
+        "00:41:33.515000",
+        "There's a new guy in town. His name's Robocop."
+      ],
+      [
+        511,
+        "00:41:57.114000",
+        "00:42:00.880000",
+        "You're making a name for yourself in Security Concepts with Robocop."
+      ],
+      [
+        964,
+        "01:32:37.702000",
+        "01:32:39.829000",
+        "Sayonara, Robocop!"
+      ]
+    ],
+    "regex": "\\b((?!\\bRoboCop:)RoboCop)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [
+      "Alex Murphy",
+      "RoboCop"
+    ],
+    "title_is_name": true,
+    "rating": 7.6
+  }
+]

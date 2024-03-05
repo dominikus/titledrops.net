@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1146295",
+    "title": "Snow",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 539,
+    "occurrences": [
+      [
+        175,
+        "00:26:48.120000",
+        "00:26:49.075000",
+        "Snow!"
+      ],
+      [
+        325,
+        "00:51:38.920000",
+        "00:51:41.992000",
+        "''Once l dreamt that l was a Snow queen,"
+      ],
+      [
+        419,
+        "01:10:28.600000",
+        "01:10:31.194000",
+        "What will you do when the snow falls?"
+      ],
+      [
+        537,
+        "01:32:29.840000",
+        "01:32:32.354000",
+        "Snow."
+      ]
+    ],
+    "regex": "\\b((?!\\bSnow:)Snow)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

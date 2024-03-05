@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4254282",
+    "title": "Good Bones",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1741,
+    "occurrences": [
+      [
+        1271,
+        "00:59:02.234000",
+        "00:59:03.274000",
+        "This house has good bones."
+      ],
+      [
+        1274,
+        "00:59:10.024000",
+        "00:59:12.046000",
+        "He says that house either has good bones or it doesn't."
+      ]
+    ],
+    "regex": "\\b((?!\\bGood\\ Bones:)Good\\ Bones)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1945039",
+    "title": "Abu, Son of Adam",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 870,
+    "occurrences": [
+      [
+        311,
+        "00:41:22.346000",
+        "00:41:24.143000",
+        "Abu, son of Adam"
+      ],
+      [
+        369,
+        "00:45:00.264000",
+        "00:45:02.994000",
+        "Abu, son of Adam"
+      ]
+    ],
+    "regex": "\\b((?!\\bAbu,\\ Son\\ of\\ Adam:)Abu,\\ Son\\ of\\ Adam)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

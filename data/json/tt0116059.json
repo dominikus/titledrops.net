@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0116059",
+    "title": "Dear God",
+    "year": 1996,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 842,
+    "occurrences": [
+      [
+        272,
+        "00:17:49.560000",
+        "00:17:52.836000",
+        "Easy. He gets a lot. We put all the \"Dear God\" mail over here."
+      ],
+      [
+        311,
+        "00:20:21.160000",
+        "00:20:23.116000",
+        "You ever read these Dear God letters?"
+      ],
+      [
+        315,
+        "00:20:40.200000",
+        "00:20:44.637000",
+        "\"Dear God, we've gone on rent strike at the Normandy Arms"
+      ],
+      [
+        458,
+        "00:30:30.320000",
+        "00:30:33.630000",
+        "\"Dear God, my little girl will be nine next week.\""
+      ],
+      [
+        754,
+        "00:49:36.400000",
+        "00:49:40.029000",
+        "\"Dear God, living alone this past year has been hell"
+      ]
+    ],
+    "regex": "\\b((?!\\bDear\\ God:)Dear\\ God)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

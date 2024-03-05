@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1558877",
+    "title": "Vavien",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 876,
+    "occurrences": [
+      [
+        340,
+        "00:32:06.070000",
+        "00:32:08.379000",
+        "- You need a \"vavien\". - A what?"
+      ],
+      [
+        349,
+        "00:32:31.669000",
+        "00:32:33.181000",
+        "We call that a \"vavien\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bVavien:)Vavien)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

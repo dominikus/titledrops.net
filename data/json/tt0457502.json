@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0457502",
+    "title": "Through the Fire",
+    "year": 2005,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1269,
+    "occurrences": [
+      [
+        1243,
+        "01:41:28.080000",
+        "01:41:30.173000",
+        "# Brooklyn got me through the fire, know what I mean?"
+      ],
+      [
+        1263,
+        "01:42:31.677000",
+        "01:42:34.202000",
+        "# Their love got me through the fire, know what I mean?"
+      ]
+    ],
+    "regex": "\\b((?!\\bThrough\\ the\\ Fire:)Through\\ the\\ Fire)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0322259",
+    "title": "2 Fast 2 Furious",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1356,
+    "occurrences": [
+      [
+        56,
+        "00:04:26.432000",
+        "00:04:29.060000",
+        "2 fast, 2 fast 2 furious, 2 furious"
+      ],
+      [
+        1349,
+        "01:47:08.889000",
+        "01:47:11.585000",
+        "2 fast, 2 fast 2 furious, 2 furious"
+      ],
+      [
+        1351,
+        "01:47:14.428000",
+        "01:47:17.226000",
+        "2 fast, 2 fast 2 furious, 2 furious"
+      ],
+      [
+        1353,
+        "01:47:20.100000",
+        "01:47:23.092000",
+        "2 fast, 2 fast 2 furious, 2 furious"
+      ],
+      [
+        1355,
+        "01:47:25.739000",
+        "01:47:28.731000",
+        "2 fast, 2 fast 2 furious, 2 furious"
+      ]
+    ],
+    "regex": "\\b((?!\\b2\\ Fast\\ 2\\ Furious:)2\\ Fast\\ 2\\ Furious)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

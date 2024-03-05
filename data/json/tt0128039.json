@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0128039",
+    "title": "Amagi Pass",
+    "year": 1983,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 816,
+    "occurrences": [
+      [
+        33,
+        "00:07:16.040000",
+        "00:07:18.520000",
+        "have traveresed the Amagi Pass before."
+      ],
+      [
+        267,
+        "00:30:25.560000",
+        "00:30:31.280000",
+        "After the man left she came about an hour later, so I'd say she was headed up the Amagi Pass."
+      ]
+    ],
+    "regex": "\\b((?!\\bAmagi\\ Pass:)Amagi\\ Pass)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

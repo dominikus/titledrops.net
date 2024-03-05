@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4082596",
+    "title": "The Russian Woodpecker",
+    "year": 2015,
+    "genres": [
+      "Documentary",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 820,
+    "occurrences": [
+      [
+        222,
+        "00:22:29.224000",
+        "00:22:33.770000",
+        "The whole world knows this sound as the \"Russian Woodpecker.\""
+      ],
+      [
+        315,
+        "00:31:43.695000",
+        "00:31:50.702000",
+        "This iron curtain was the source of the Russian Woodpecker sound."
+      ]
+    ],
+    "regex": "\\b((?!\\bRussian\\ Woodpecker:)Russian\\ Woodpecker)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

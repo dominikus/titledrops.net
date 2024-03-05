@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4568268",
+    "title": "Orizont",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 679,
+    "occurrences": [
+      [
+        443,
+        "00:46:01.667000",
+        "00:46:05.792000",
+        "My client, Zoltan Kocsis, spent the night at the Orizont guesthouse"
+      ],
+      [
+        472,
+        "00:47:44.292000",
+        "00:47:46.833000",
+        "Zoltan Kocsis stayed at the Orizont guesthouse,"
+      ]
+    ],
+    "regex": "\\b((?!\\bOrizont:)Orizont)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

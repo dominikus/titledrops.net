@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt21104674",
+    "title": "Legacy Peak",
+    "year": 2022,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1079,
+    "occurrences": [
+      [
+        125,
+        "00:08:23.542000",
+        "00:08:25.167000",
+        "That's Legacy Peak there."
+      ],
+      [
+        154,
+        "00:10:22.459000",
+        "00:10:26.042000",
+        "We're ten miles west-north-west of Legacy Peak."
+      ]
+    ],
+    "regex": "\\b((?!\\bLegacy\\ Peak:)Legacy\\ Peak)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt7983894",
+    "title": "Ammonite",
+    "year": 2020,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 736,
+    "occurrences": [
+      [
+        46,
+        "00:09:43.004000",
+        "00:09:44.474000",
+        "Ammonite."
+      ],
+      [
+        76,
+        "00:11:24.007000",
+        "00:11:30.113000",
+        "I would love to purchase this ammonite from you, but I must be honest."
+      ],
+      [
+        86,
+        "00:12:05.348000",
+        "00:12:09.186000",
+        "As well as the purchase of this fine ammonite, of course."
+      ],
+      [
+        139,
+        "00:18:13.582000",
+        "00:18:15.383000",
+        "There is a little ammonite inside,"
+      ]
+    ],
+    "regex": "\\b((?!\\bAmmonite:)Ammonite)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

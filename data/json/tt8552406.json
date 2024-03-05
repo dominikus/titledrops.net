@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt8552406",
+    "title": "The Hoard",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 2373,
+    "occurrences": [
+      [
+        215,
+        "00:08:36.683000",
+        "00:08:38.917000",
+        "How can we be sure that this is a haunted hoard?"
+      ],
+      [
+        1089,
+        "00:41:34.893000",
+        "00:41:38.194000",
+        "the floodgates of the Maitland hoard will open."
+      ]
+    ],
+    "regex": "\\b((?!\\bHoard:)Hoard)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

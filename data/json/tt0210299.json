@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0210299",
+    "title": "Songcatcher",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 1544,
+    "occurrences": [
+      [
+        560,
+        "00:35:31.262000",
+        "00:35:34.026000",
+        "My brother's a songcatcher."
+      ],
+      [
+        567,
+        "00:35:48.112000",
+        "00:35:51.104000",
+        "I've been hearing this excitement about the songcatcher,"
+      ],
+      [
+        775,
+        "00:48:49.826000",
+        "00:48:52.351000",
+        "Why, if it ain't the songcatcher."
+      ]
+    ],
+    "regex": "\\b((?!\\bSongcatcher:)Songcatcher)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

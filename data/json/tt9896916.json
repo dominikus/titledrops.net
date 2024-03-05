@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt9896916",
+    "title": "Pilgrim's Progress",
+    "year": 2019,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1983,
+    "occurrences": [
+      [
+        41,
+        "00:01:48",
+        "00:01:51.875000",
+        "to write the allegory of \"The Pilgrim's Progress.\""
+      ],
+      [
+        82,
+        "00:03:47.375000",
+        "00:03:49.750000",
+        "in the story of \"The Pilgrim's Progress\""
+      ]
+    ],
+    "regex": "\\b((?!\\bPilgrim's\\ Progress:)Pilgrim's\\ Progress)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

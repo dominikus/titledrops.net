@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0487195",
+    "title": "Bonneville",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 933,
+    "occurrences": [
+      [
+        182,
+        "00:15:23.011000",
+        "00:15:25.514000",
+        "Joe's Bonneville..."
+      ],
+      [
+        404,
+        "00:34:27.959000",
+        "00:34:30.879000",
+        "Joe and I drove the Bonneville on the back roads"
+      ]
+    ],
+    "regex": "\\b((?!\\bBonneville:)Bonneville)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt9603216",
+    "title": "Lines",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 600,
+    "occurrences": [
+      [
+        227,
+        "00:25:32.291000",
+        "00:25:35.291000",
+        "This Politics has divided the people between lines/ borders..."
+      ],
+      [
+        228,
+        "00:25:36.500000",
+        "00:25:39.458000",
+        "These Lines took everything Nabeel!"
+      ],
+      [
+        229,
+        "00:25:40.125000",
+        "00:25:42.958000",
+        "Forget these Lines and all, let's have drinks."
+      ],
+      [
+        322,
+        "00:38:27.166000",
+        "00:38:29.166000",
+        "And see that all the lines are vanished!"
+      ],
+      [
+        390,
+        "00:45:29.500000",
+        "00:45:32.666000",
+        "Politics has divided People between lines..."
+      ],
+      [
+        524,
+        "01:03:59.750000",
+        "01:04:02.041000",
+        "Four people sat in a room and drew the lines..."
+      ]
+    ],
+    "regex": "\\b((?!\\bLines:)Lines)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt21746178",
+    "title": "The Anthrax Attacks",
+    "year": 2022,
+    "genres": [
+      "Crime",
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 1460,
+    "occurrences": [
+      [
+        124,
+        "00:07:39.625000",
+        "00:07:42.295000",
+        "The anthrax attacks, sir, do you believe there is any connection"
+      ],
+      [
+        606,
+        "00:37:53.980000",
+        "00:37:57.483000",
+        "Hatfill has denied any involvement in the anthrax attacks."
+      ],
+      [
+        657,
+        "00:40:40.438000",
+        "00:40:42.898000",
+        "unrelated to the anthrax attacks at all,"
+      ],
+      [
+        1277,
+        "01:19:44.488000",
+        "01:19:47.699000",
+        "Right? And then the anthrax attacks happen"
+      ],
+      [
+        1350,
+        "01:23:33.550000",
+        "01:23:36.510000",
+        "because we were convinced he was the one who committed the anthrax attacks."
+      ]
+    ],
+    "regex": "\\b((?!\\bAnthrax\\ Attacks:)Anthrax\\ Attacks)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

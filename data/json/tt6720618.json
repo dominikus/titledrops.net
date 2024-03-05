@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt6720618",
+    "title": "Ramen Shop",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 685,
+    "occurrences": [
+      [
+        88,
+        "00:16:49.754000",
+        "00:16:55.075000",
+        "this Ramen shop may not have survived."
+      ],
+      [
+        205,
+        "00:28:42.314000",
+        "00:28:45.595000",
+        "He is a celebrity Ramen shop owner in Singapore."
+      ],
+      [
+        208,
+        "00:28:49.754000",
+        "00:28:52.872000",
+        "His family runs a famous Ramen shop in Takasaki."
+      ]
+    ],
+    "regex": "\\b((?!\\bRamen\\ Shop:)Ramen\\ Shop)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

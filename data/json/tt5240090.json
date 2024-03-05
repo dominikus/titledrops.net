@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5240090",
+    "title": "Driver",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1167,
+    "occurrences": [
+      [
+        632,
+        "00:40:21.905000",
+        "00:40:24.206000",
+        "- I did. - Did you see the driver's face?"
+      ],
+      [
+        1145,
+        "01:15:39.536000",
+        "01:15:41.306000",
+        "He's a driver."
+      ]
+    ],
+    "regex": "\\b((?!\\bDriver:)Driver)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

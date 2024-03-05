@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0291538",
+    "title": "A Housekeeper",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 674,
+    "occurrences": [
+      [
+        0,
+        "00:01:06.032000",
+        "00:01:13.666000",
+        "The Housekeeper"
+      ],
+      [
+        233,
+        "00:30:56.388000",
+        "00:30:59.915000",
+        "I told her I was the housekeeper."
+      ],
+      [
+        270,
+        "00:35:09.107000",
+        "00:35:10.734000",
+        "HOUSEKEEPER AVAILABLE"
+      ],
+      [
+        597,
+        "01:11:22.346000",
+        "01:11:25.577000",
+        "In Paris, I'm your housekeeper."
+      ]
+    ],
+    "regex": "\\b((?!\\bHousekeeper:)Housekeeper)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

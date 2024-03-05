@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1692486",
+    "title": "Carnage",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1109,
+    "occurrences": [
+      [
+        2,
+        "00:00:51.332000",
+        "00:00:54.232000",
+        "Based on the play \"God of Carnage\" By Yasmina Reza"
+      ],
+      [
+        876,
+        "00:55:16.057000",
+        "00:55:19.856000",
+        "Penelope, I believe in the god of carnage."
+      ]
+    ],
+    "regex": "\\b((?!\\bCarnage:)Carnage)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

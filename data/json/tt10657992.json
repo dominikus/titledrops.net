@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt10657992",
+    "title": "Lady Usher",
+    "year": 2020,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1464,
+    "occurrences": [
+      [
+        449,
+        "00:24:52.376000",
+        "00:24:54.678000",
+        "...my mother, Lady Usher."
+      ],
+      [
+        677,
+        "00:35:51.435000",
+        "00:35:53.470000",
+        "I'm a man of science Lady Usher."
+      ],
+      [
+        940,
+        "00:52:35.505000",
+        "00:52:37.474000",
+        "Lady Usher?"
+      ],
+      [
+        1341,
+        "01:21:21.866000",
+        "01:21:24.234000",
+        "...the Lady Usher."
+      ]
+    ],
+    "regex": "\\b((?!\\bLady\\ Usher:)Lady\\ Usher)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [
+      "Lady Usher"
+    ],
+    "title_is_name": true,
+    "rating": 4.4
+  }
+]

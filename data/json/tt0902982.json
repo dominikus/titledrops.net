@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0902982",
+    "title": "The Harimaya Bridge",
+    "year": 2009,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 132,
+    "occurrences": [
+      [
+        0,
+        "00:00:18.936000",
+        "00:00:22.645000",
+        "The tale of the Harimaya Bridge."
+      ],
+      [
+        4,
+        "00:00:35.410000",
+        "00:00:48.881000",
+        "# At the Harimaya Bridge, in Kochi, in Tosa... #"
+      ]
+    ],
+    "regex": "\\b((?!\\bHarimaya\\ Bridge:)Harimaya\\ Bridge)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

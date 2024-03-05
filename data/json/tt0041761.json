@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0041761",
+    "title": "Port of New York",
+    "year": 1949,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 2,
+    "all_lines": 975,
+    "occurrences": [
+      [
+        1,
+        "00:01:19.782000",
+        "00:01:21.859000",
+        "This is the Port of New York."
+      ],
+      [
+        974,
+        "01:21:19.527000",
+        "01:21:22.082000",
+        "...the Port of New York."
+      ]
+    ],
+    "regex": "\\b((?!\\bPort\\ of\\ New\\ York:)Port\\ of\\ New\\ York)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

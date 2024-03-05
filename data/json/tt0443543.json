@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0443543",
+    "title": "The Illusionist",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1003,
+    "occurrences": [
+      [
+        8,
+        "00:04:19.225000",
+        "00:04:22.126000",
+        "Also known as Eisenheim the Illusionist..."
+      ],
+      [
+        250,
+        "00:27:08.893000",
+        "00:27:13.262000",
+        "Your Highness, may I introduce Eisenheim the Illusionist?"
+      ],
+      [
+        536,
+        "00:52:43.758000",
+        "00:52:46.249000",
+        "Eisenheim the Illusionist."
+      ],
+      [
+        893,
+        "01:28:10.248000",
+        "01:28:13.149000",
+        "also known as Eisenheim the Illusionist..."
+      ]
+    ],
+    "regex": "\\b((?!\\bIllusionist:)Illusionist)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

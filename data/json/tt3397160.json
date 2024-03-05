@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt3397160",
+    "title": "Stefan Zweig: Farewell to Europe",
+    "year": 2016,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 7,
+    "all_lines": 1311,
+    "occurrences": [
+      [
+        6,
+        "00:02:53.334000",
+        "00:02:58.042000",
+        "STEFAN ZWEIG - FAREWELL TO EUROPE"
+      ],
+      [
+        53,
+        "00:05:57.084000",
+        "00:06:00.376000",
+        "and in honor of our guest, Dr. Stefan Zweig,"
+      ],
+      [
+        587,
+        "00:44:41.209000",
+        "00:44:43.959000",
+        "Stefan Zweig and his honorable wife."
+      ],
+      [
+        601,
+        "00:45:36.417000",
+        "00:45:41.417000",
+        "will be immortalized in a book about Brazil by Stefan Zweig."
+      ],
+      [
+        1012,
+        "01:18:59.709000",
+        "01:19:00.959000",
+        "It's Stefan Zweig!"
+      ],
+      [
+        1301,
+        "01:40:11.001000",
+        "01:40:16.084000",
+        "I am too impatient, I go before them. Stefan Zweig.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bStefan\\ Zweig:)Stefan\\ Zweig|(?!\\bFarewell\\ to\\ Europe:)Farewell\\ to\\ Europe)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

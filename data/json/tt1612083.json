@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1612083",
+    "title": "The Inside",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1232,
+    "occurrences": [
+      [
+        134,
+        "00:08:23.967000",
+        "00:08:26.700000",
+        "Girls, no! We are not going inside."
+      ],
+      [
+        1158,
+        "01:14:21.367000",
+        "01:14:23.433000",
+        "SIAN: Girls, no! We are not going inside."
+      ]
+    ],
+    "regex": "\\b((?!\\bInside:)Inside)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.9
+  }
+]

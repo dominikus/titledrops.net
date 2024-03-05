@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt4154796",
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1755,
+    "occurrences": [
+      [
+        120,
+        "00:08:22.775000",
+        "00:08:26.016000",
+        "We're the Avengers? We're the Avengers? Not the Prevengers?"
+      ],
+      [
+        1039,
+        "01:24:24.414000",
+        "01:24:26.118000",
+        "Avengers."
+      ],
+      [
+        1371,
+        "01:52:50.555000",
+        "01:52:52.898000",
+        "So stop this shit. We're the Avengers, get it together."
+      ],
+      [
+        1532,
+        "02:15:24.336000",
+        "02:15:25.781000",
+        "Avengers..."
+      ]
+    ],
+    "regex": "\\b((?!\\bAvengers:)Avengers|(?!\\bEndgame:)Endgame)(?!\\:)(?!'t)\\b",
+    "runtime": 181,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.4
+  }
+]

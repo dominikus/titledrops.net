@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt0462499",
+    "title": "Rambo",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 386,
+    "occurrences": [
+      [
+        171,
+        "00:30:13.300000",
+        "00:30:14.200000",
+        "John Rambo!"
+      ],
+      [
+        173,
+        "00:30:17.200000",
+        "00:30:18.800000",
+        "John Rambo."
+      ]
+    ],
+    "regex": "\\b((?!\\bRambo:)Rambo)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [
+      "John Rambo"
+    ],
+    "title_is_name": true,
+    "rating": 7
+  }
+]

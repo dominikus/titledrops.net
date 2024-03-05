@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0071163",
+    "title": "Kenji Mizoguchi: The Life of a Film Director",
+    "year": 1975,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 870,
+    "occurrences": [
+      [
+        4,
+        "00:00:31.064000",
+        "00:00:35.057000",
+        "Kenji Mizoguchi The Life of a Film Director"
+      ],
+      [
+        25,
+        "00:01:55.682000",
+        "00:01:59.675000",
+        "Kenji Mizoguchi died."
+      ],
+      [
+        44,
+        "00:03:50.863000",
+        "00:03:54.856000",
+        "Kenji Mizoguchi's Grave"
+      ]
+    ],
+    "regex": "\\b((?!\\bKenji\\ Mizoguchi:)Kenji\\ Mizoguchi|(?!\\bLife\\ of\\ a\\ Film\\ Director:)Life\\ of\\ a\\ Film\\ Director)(?!\\:)(?!'t)\\b",
+    "runtime": 150,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

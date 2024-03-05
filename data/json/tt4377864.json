@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt4377864",
+    "title": "The Pearl Button",
+    "year": 2015,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 799,
+    "occurrences": [
+      [
+        484,
+        "00:50:01.291000",
+        "00:50:05.754000",
+        "One of the natives went aboard, in exchange for a pearl button,"
+      ],
+      [
+        731,
+        "01:11:52.810000",
+        "01:11:55.729000",
+        "From Jemmy Button, in exchange for a pearl button,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPearl\\ Button:)Pearl\\ Button)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

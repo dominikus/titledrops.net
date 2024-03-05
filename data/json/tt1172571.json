@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt1172571",
+    "title": "The Children",
+    "year": 2008,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 764,
+    "occurrences": [
+      [
+        440,
+        "00:36:50.583000",
+        "00:36:52.983000",
+        "Get the children inside, please."
+      ],
+      [
+        441,
+        "00:36:53.019000",
+        "00:36:56.546000",
+        "Get the children inside."
+      ],
+      [
+        466,
+        "00:38:21.674000",
+        "00:38:23.642000",
+        "Where are the children?"
+      ],
+      [
+        468,
+        "00:38:25.478000",
+        "00:38:26.706000",
+        "Where are my children?"
+      ],
+      [
+        623,
+        "00:56:35.734000",
+        "00:56:37.998000",
+        "Nobody leaves here until we find my children."
+      ],
+      [
+        654,
+        "00:59:56.034000",
+        "00:59:58.502000",
+        "My children's blood."
+      ]
+    ],
+    "regex": "\\b((?!\\bChildren:)Children)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

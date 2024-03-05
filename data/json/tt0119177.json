@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0119177",
+    "title": "Gattaca",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 332,
+    "occurrences": [
+      [
+        0,
+        "00:04:16.802000",
+        "00:04:20.223000",
+        "\"Welcome to Gattaca.\""
+      ],
+      [
+        109,
+        "00:19:06.150000",
+        "00:19:12.490000",
+        "- Welcome to Gattaca, gentlemen. \"- Now, we now have discrimination downto a science.\""
+      ],
+      [
+        186,
+        "00:29:09.420000",
+        "00:29:16.093000",
+        "\"Jerome had been engineered with everything he needed to get into Gattaca, except the desire to do so.\""
+      ],
+      [
+        219,
+        "00:33:47.615000",
+        "00:33:52.662000",
+        "\"In the guise of Jerome Morrow I've risen quickly for the ranks of Gattaca.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bGattaca:)Gattaca)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

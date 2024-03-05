@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0074886",
+    "title": "Meat",
+    "year": 1976,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 1136,
+    "occurrences": [
+      [
+        320,
+        "00:27:22.720000",
+        "00:27:24.800000",
+        "banks loan money and we sell meat,"
+      ],
+      [
+        404,
+        "00:53:26.560000",
+        "00:53:29.210000",
+        "I think that some of the meat is low enough now"
+      ],
+      [
+        406,
+        "00:53:32.990000",
+        "00:53:34.880000",
+        "some of the middle meat cuts."
+      ],
+      [
+        641,
+        "01:07:47.371000",
+        "01:07:50.038000",
+        "(meat thudding)"
+      ],
+      [
+        642,
+        "01:07:59.837000",
+        "01:08:02.504000",
+        "(meat thudding)"
+      ]
+    ],
+    "regex": "\\b((?!\\bMeat:)Meat)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

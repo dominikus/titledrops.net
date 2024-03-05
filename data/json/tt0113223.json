@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0113223",
+    "title": "Grizzly Mountain",
+    "year": 1995,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1754,
+    "occurrences": [
+      [
+        1074,
+        "00:57:17.162000",
+        "00:57:21.663000",
+        "Leave Grizzly Mountain alone."
+      ],
+      [
+        1075,
+        "00:57:21.664000",
+        "00:57:24.081000",
+        "Leave Grizzly Mountain alone."
+      ]
+    ],
+    "regex": "\\b((?!\\bGrizzly\\ Mountain:)Grizzly\\ Mountain)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

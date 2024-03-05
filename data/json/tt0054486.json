@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0054486",
+    "title": "Empress Wu",
+    "year": 1963,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 699,
+    "occurrences": [
+      [
+        198,
+        "00:21:30.122000",
+        "00:21:32.454000",
+        "He delegated state affairs to Empress Wu"
+      ],
+      [
+        311,
+        "00:31:54.078000",
+        "00:31:57.912000",
+        "Empress Wu!"
+      ]
+    ],
+    "regex": "\\b((?!\\bEmpress\\ Wu:)Empress\\ Wu)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0146316",
+    "title": "Lara Croft: Tomb Raider",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 7,
+    "all_lines": 806,
+    "occurrences": [
+      [
+        8,
+        "00:05:08.004000",
+        "00:05:09.126000",
+        "Kill Lara Croft"
+      ],
+      [
+        90,
+        "00:12:48.725000",
+        "00:12:50.810000",
+        "For little Lara Croft to grow up..."
+      ],
+      [
+        159,
+        "00:19:12.864000",
+        "00:19:15.284000",
+        "Lara Croft. I don't believe it."
+      ],
+      [
+        172,
+        "00:20:02.165000",
+        "00:20:04.584000",
+        "Hey, you're the tomb raider."
+      ],
+      [
+        316,
+        "00:35:17.053000",
+        "00:35:19.556000",
+        "- Morning. - Lady Lara Croft?"
+      ],
+      [
+        426,
+        "00:47:50.694000",
+        "00:47:53.030000",
+        "You're the tomb raider. Figure it out."
+      ],
+      [
+        630,
+        "01:10:38.542000",
+        "01:10:41.878000",
+        "Well, one tomb raider is good. Two, better."
+      ]
+    ],
+    "regex": "\\b((?!\\bLara\\ Croft:)Lara\\ Croft|(?!\\bTomb\\ Raider:)Tomb\\ Raider)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

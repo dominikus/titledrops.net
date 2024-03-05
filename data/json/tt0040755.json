@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0040755",
+    "title": "Salón México",
+    "year": 1949,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 833,
+    "occurrences": [
+      [
+        746,
+        "01:20:04.918000",
+        "01:20:07.658000",
+        "Aaron copland, the composer of Salon Mexico."
+      ],
+      [
+        751,
+        "01:20:19.316000",
+        "01:20:23.267000",
+        "to compose the Salon Mexico Suite."
+      ]
+    ],
+    "regex": "\\b((?!\\bSalon\\ Mexico:)Salon\\ Mexico)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

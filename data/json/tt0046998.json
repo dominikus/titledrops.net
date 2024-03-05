@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0046998",
+    "title": "French Cancan",
+    "year": 1955,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "count": 5,
+    "all_lines": 1090,
+    "occurrences": [
+      [
+        278,
+        "00:26:32.791000",
+        "00:26:34.224000",
+        "French Cancan."
+      ],
+      [
+        456,
+        "00:42:34.952000",
+        "00:42:36.715000",
+        "I dance the French Cancan."
+      ],
+      [
+        1028,
+        "01:30:35.129000",
+        "01:30:37.427000",
+        "You knew the chahut, not the French cancan."
+      ],
+      [
+        1030,
+        "01:30:57.418000",
+        "01:31:02.287000",
+        "We beg for your patience while waiting for the French Cancan."
+      ],
+      [
+        1078,
+        "01:34:58.159000",
+        "01:35:00.821000",
+        "Ladies and gentlemen, the French Cancan!"
+      ]
+    ],
+    "regex": "\\b((?!\\bFrench\\ Cancan:)French\\ Cancan)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

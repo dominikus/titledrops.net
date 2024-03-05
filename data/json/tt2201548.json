@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2201548",
+    "title": "A Teacher",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 658,
+    "occurrences": [
+      [
+        171,
+        "00:17:09.173000",
+        "00:17:12.207000",
+        "Uh, so you're the... the teacher?"
+      ],
+      [
+        181,
+        "00:17:36.933000",
+        "00:17:38.733000",
+        "What do you... She's a teacher."
+      ],
+      [
+        184,
+        "00:17:44.207000",
+        "00:17:48.642000",
+        "She is totally the teacher that all the little dudes in high school..."
+      ]
+    ],
+    "regex": "\\b((?!\\bTeacher:)Teacher)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

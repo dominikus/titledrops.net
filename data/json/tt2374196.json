@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2374196",
+    "title": "Solo",
+    "year": 2013,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 445,
+    "occurrences": [
+      [
+        42,
+        "00:03:55.012000",
+        "00:03:58.490000",
+        "Tomorrow morning I'll take you over to the island for your \"solo\"."
+      ],
+      [
+        57,
+        "00:05:15.087000",
+        "00:05:20.391000",
+        "So, you're not worried about your solo? - No."
+      ],
+      [
+        105,
+        "00:12:41.237000",
+        "00:12:44.027000",
+        "Yours in the last real solo here."
+      ]
+    ],
+    "regex": "\\b((?!\\bSolo:)Solo)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

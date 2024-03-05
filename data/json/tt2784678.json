@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt2784678",
+    "title": "Top Five",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 2206,
+    "occurrences": [
+      [
+        1037,
+        "00:40:59.491000",
+        "00:41:01.191000",
+        "Put your top five... Who's your top five?"
+      ],
+      [
+        1044,
+        "00:41:15.574000",
+        "00:41:19.742000",
+        "My top five is Jay, nas, scarface..."
+      ],
+      [
+        1051,
+        "00:41:36.862000",
+        "00:41:39.195000",
+        "Lisa: My top five. Ice-t..."
+      ],
+      [
+        2146,
+        "01:32:39.120000",
+        "01:32:40.620000",
+        "What's your top five?"
+      ],
+      [
+        2196,
+        "01:36:04.992000",
+        "01:36:07.160000",
+        "You want the top five? All: Yes!"
+      ]
+    ],
+    "regex": "\\b((?!\\bTop\\ Five:)Top\\ Five)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1183374",
+    "title": "Pet",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1020,
+    "occurrences": [
+      [
+        791,
+        "01:09:55.926000",
+        "01:09:59.294000",
+        "all I could think about was what if she had a pet?"
+      ],
+      [
+        958,
+        "01:21:29.318000",
+        "01:21:30.618000",
+        "if I'm just a pet."
+      ]
+    ],
+    "regex": "\\b((?!\\bPet:)Pet)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

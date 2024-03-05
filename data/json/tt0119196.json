@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0119196",
+    "title": "The Gingerbread Man",
+    "year": 1998,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1417,
+    "occurrences": [
+      [
+        705,
+        "00:46:29.400000",
+        "00:46:31.550000",
+        "The one about the Gingerbread Man."
+      ],
+      [
+        708,
+        "00:46:37.240000",
+        "00:46:40.437000",
+        "so she decides to bake a gingerbread man."
+      ],
+      [
+        714,
+        "00:46:57.960000",
+        "00:46:59.757000",
+        "\"I'm the Gingerbread Man.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bGingerbread\\ Man:)Gingerbread\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

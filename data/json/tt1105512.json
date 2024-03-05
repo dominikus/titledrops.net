@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1105512",
+    "title": "The Missing Person",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1242,
+    "occurrences": [
+      [
+        791,
+        "00:58:21.016000",
+        "00:58:22.544000",
+        "You were a missing person?"
+      ],
+      [
+        792,
+        "00:58:22.546000",
+        "00:58:24.475000",
+        "I am a missing person."
+      ]
+    ],
+    "regex": "\\b((?!\\bMissing\\ Person:)Missing\\ Person)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0064045",
+    "title": "The Assassination Bureau",
+    "year": 1969,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1274,
+    "occurrences": [
+      [
+        9,
+        "00:01:00.560000",
+        "00:01:04.326000",
+        "the Assassination Bureau."
+      ],
+      [
+        111,
+        "00:10:33.899000",
+        "00:10:37.858000",
+        "Our proper title is the Assassination Bureau, Limited."
+      ],
+      [
+        621,
+        "00:48:12.956000",
+        "00:48:17.325000",
+        "The Assassination Bureau is a political weapon or it is nothing."
+      ],
+      [
+        838,
+        "01:03:00.343000",
+        "01:03:03.779000",
+        "...the Assassination Bureau."
+      ]
+    ],
+    "regex": "\\b((?!\\bAssassination\\ Bureau:)Assassination\\ Bureau)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

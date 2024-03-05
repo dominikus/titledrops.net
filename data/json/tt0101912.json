@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0101912",
+    "title": "Frankie and Johnny",
+    "year": 1991,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1234,
+    "occurrences": [
+      [
+        314,
+        "00:24:43.040000",
+        "00:24:45.076000",
+        "Frankie And Johnny, the song."
+      ],
+      [
+        316,
+        "00:24:48.520000",
+        "00:24:51.637000",
+        "Yeah. Frankie and Johnny were sweethearts..."
+      ],
+      [
+        787,
+        "01:08:29.480000",
+        "01:08:32.756000",
+        "- Frankie and Johnny. - I've heard the song."
+      ],
+      [
+        1161,
+        "01:37:33.360000",
+        "01:37:37.478000",
+        "whose name is Frankie, is that a coincidence? Frankie and Johnny."
+      ],
+      [
+        1180,
+        "01:38:45.480000",
+        "01:38:48.517000",
+        "So could you play an encore for Frankie and Johnny"
+      ],
+      [
+        1216,
+        "01:42:46.640000",
+        "01:42:51.760000",
+        "I don't know if this is the most beautiful song, Frankie and Johnny."
+      ]
+    ],
+    "regex": "\\b((?!\\bFrankie\\ and\\ Johnny:)Frankie\\ and\\ Johnny)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

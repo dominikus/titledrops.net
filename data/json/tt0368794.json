@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0368794",
+    "title": "I'm Not There",
+    "year": 2007,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 2337,
+    "occurrences": [
+      [
+        2130,
+        "02:00:01.527000",
+        "02:00:03.495000",
+        "# But I'm not there #"
+      ],
+      [
+        2150,
+        "02:01:00.786000",
+        "02:01:01.810000",
+        "# I'm not there #"
+      ],
+      [
+        2299,
+        "02:12:06.918000",
+        "02:12:08.852000",
+        "# And I'm not there #"
+      ]
+    ],
+    "regex": "\\b((?!\\bI'm\\ Not\\ There:)I'm\\ Not\\ There)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt13197812",
+    "title": "Goodbye, Petrushka",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1281,
+    "occurrences": [
+      [
+        1025,
+        "01:14:19.730000",
+        "01:14:21.683000",
+        "Goodbye, Petrushka."
+      ],
+      [
+        1260,
+        "01:33:47.865000",
+        "01:33:49.448000",
+        "Goodbye, Petrushka."
+      ]
+    ],
+    "regex": "\\b((?!\\bGoodbye,\\ Petrushka:)Goodbye,\\ Petrushka)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

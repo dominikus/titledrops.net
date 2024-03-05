@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0470302",
+    "title": "The Road",
+    "year": 2006,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 786,
+    "occurrences": [
+      [
+        172,
+        "00:20:45.360000",
+        "00:20:49.956000",
+        "Then to Xi Chuan colliery the road is hard to drive"
+      ],
+      [
+        173,
+        "00:20:50.200000",
+        "00:20:52.953000",
+        "Leader considers change another road to you"
+      ],
+      [
+        243,
+        "00:27:19.720000",
+        "00:27:22.393000",
+        "Be careful, the road is narrow"
+      ]
+    ],
+    "regex": "\\b((?!\\bRoad:)Road)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

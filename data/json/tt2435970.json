@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2435970",
+    "title": "Primrose Lane",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1160,
+    "occurrences": [
+      [
+        46,
+        "00:02:38.425000",
+        "00:02:41.793000",
+        "Just like the family on Primrose Lane"
+      ],
+      [
+        55,
+        "00:03:02.316000",
+        "00:03:03.849000",
+        "Just like the family on Primrose Lane"
+      ]
+    ],
+    "regex": "\\b((?!\\bPrimrose\\ Lane:)Primrose\\ Lane)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3
+  }
+]

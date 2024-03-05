@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0160009",
+    "title": "The Art of War",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1011,
+    "occurrences": [
+      [
+        819,
+        "01:29:12.390000",
+        "01:29:17.190000",
+        "The Art of War teaches: Win by destroying your enemy from within."
+      ],
+      [
+        936,
+        "01:41:30.960000",
+        "01:41:32.460000",
+        "The Art of War."
+      ]
+    ],
+    "regex": "\\b((?!\\bArt\\ of\\ War:)Art\\ of\\ War)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

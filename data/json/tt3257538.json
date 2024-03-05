@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3257538",
+    "title": "Solitary",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1127,
+    "occurrences": [
+      [
+        817,
+        "01:02:57.007000",
+        "01:02:59.007000",
+        "And my sister's been in solitary confinement"
+      ],
+      [
+        836,
+        "01:03:49.526000",
+        "01:03:52.060000",
+        "from solitary confinement immediately"
+      ],
+      [
+        990,
+        "01:17:31.714000",
+        "01:17:34.348000",
+        "When I was in solitary,"
+      ]
+    ],
+    "regex": "\\b((?!\\bSolitary:)Solitary)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

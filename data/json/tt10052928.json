@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt10052928",
+    "title": "Black Fox: Age of the Ninja",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 883,
+    "occurrences": [
+      [
+        576,
+        "00:57:53.720000",
+        "00:57:57.683000",
+        "First white foxes, now a black fox, huh?"
+      ],
+      [
+        689,
+        "01:07:15.740000",
+        "01:07:17.283000",
+        "The Black Fox...?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Fox:)Black\\ Fox|(?!\\bAge\\ of\\ the\\ Ninja:)Age\\ of\\ the\\ Ninja)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

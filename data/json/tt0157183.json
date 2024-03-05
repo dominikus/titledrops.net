@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0157183",
+    "title": "West Beirut",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 7,
+    "all_lines": 1279,
+    "occurrences": [
+      [
+        206,
+        "00:17:18.680000",
+        "00:17:20.880000",
+        "West Beirut, I guess."
+      ],
+      [
+        570,
+        "00:45:12.520000",
+        "00:45:13.760000",
+        "West Beirut, sir."
+      ],
+      [
+        571,
+        "00:45:14.520000",
+        "00:45:17.600000",
+        "West Beirut? Let's see some ID."
+      ],
+      [
+        575,
+        "00:45:34.800000",
+        "00:45:37.800000",
+        "Sir, we're all Muslims from West Beirut."
+      ],
+      [
+        923,
+        "01:12:17.880000",
+        "01:12:19.200000",
+        "West Beirut."
+      ],
+      [
+        924,
+        "01:12:19.480000",
+        "01:12:20.640000",
+        "West Beirut?"
+      ],
+      [
+        925,
+        "01:12:21.280000",
+        "01:12:23.480000",
+        "What is this East Beirut, West Beirut shit?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWest\\ Beirut:)West\\ Beirut)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

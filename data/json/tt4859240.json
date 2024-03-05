@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4859240",
+    "title": "Not a Stranger",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 619,
+    "occurrences": [
+      [
+        380,
+        "00:46:22.179000",
+        "00:46:25.748000",
+        "- Not a Stranger, by Ray Combs."
+      ],
+      [
+        390,
+        "00:47:18.669000",
+        "00:47:22.872000",
+        "\"but not a stranger,"
+      ]
+    ],
+    "regex": "\\b((?!\\bNot\\ a\\ Stranger:)Not\\ a\\ Stranger)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0810096",
+    "title": "Red Carpet",
+    "year": 2005,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1236,
+    "occurrences": [
+      [
+        1079,
+        "01:27:06.621000",
+        "01:27:07.952000",
+        "Next thing you'll be asking me to roll out the red carpet..."
+      ],
+      [
+        1153,
+        "01:32:35.983000",
+        "01:32:41.216000",
+        "But you gotta put a red carpet on this floor right now."
+      ],
+      [
+        1155,
+        "01:32:45.826000",
+        "01:32:48.090000",
+        "\"A red carpet\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRed\\ Carpet:)Red\\ Carpet)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

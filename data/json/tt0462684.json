@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0462684",
+    "title": "Blood Rain",
+    "year": 2005,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 962,
+    "occurrences": [
+      [
+        26,
+        "00:04:44.140000",
+        "00:04:46.470000",
+        "Blood rain has fallen!"
+      ],
+      [
+        273,
+        "00:29:27.581000",
+        "00:29:29.451000",
+        "People even say they saw blood rain."
+      ],
+      [
+        397,
+        "00:42:01.721000",
+        "00:42:06.179000",
+        "Look, you! Blood rain has fallen!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlood\\ Rain:)Blood\\ Rain)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

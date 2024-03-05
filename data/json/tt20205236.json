@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt20205236",
+    "title": "No Bears",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1220,
+    "occurrences": [
+      [
+        872,
+        "01:12:54.708000",
+        "01:12:59.958000",
+        "There are no bears. Nonsense! Stories made up to scare us!"
+      ],
+      [
+        873,
+        "01:13:00",
+        "01:13:03.917000",
+        "Our fear empowers others. No bears!"
+      ],
+      [
+        875,
+        "01:13:05.625000",
+        "01:13:08.083000",
+        "No bears! Just paper bears."
+      ]
+    ],
+    "regex": "\\b((?!\\bNo\\ Bears:)No\\ Bears)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

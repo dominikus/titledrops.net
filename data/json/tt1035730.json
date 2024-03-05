@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1035730",
+    "title": "A Woman in Berlin",
+    "year": 2008,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1112,
+    "occurrences": [
+      [
+        2,
+        "00:00:24.447000",
+        "00:00:28.338000",
+        "A Woman in Berlin"
+      ],
+      [
+        1090,
+        "02:00:08.207000",
+        "02:00:12.433000",
+        "When the diary \"A woman in Berlin\" was first released in Germany in 1959,"
+      ]
+    ],
+    "regex": "\\b((?!\\bWoman\\ in\\ Berlin:)Woman\\ in\\ Berlin)(?!\\:)(?!'t)\\b",
+    "runtime": 131,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

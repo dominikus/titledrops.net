@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt9377332",
+    "title": "Noise in the Middle",
+    "year": 2020,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1296,
+    "occurrences": [
+      [
+        428,
+        "00:29:54.444000",
+        "00:29:56.925000",
+        "sort out all the noise in the middle,"
+      ],
+      [
+        598,
+        "00:40:35.694000",
+        "00:40:38.436000",
+        "That all the noise in the middle."
+      ]
+    ],
+    "regex": "\\b((?!\\bNoise\\ in\\ the\\ Middle:)Noise\\ in\\ the\\ Middle)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1819601",
+    "title": "Miss Dial",
+    "year": 2013,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1766,
+    "occurrences": [
+      [
+        272,
+        "00:13:51.231000",
+        "00:13:53.164000",
+        "That's a pretty big miss dial."
+      ],
+      [
+        317,
+        "00:15:46.479000",
+        "00:15:48.680000",
+        "You should miss dial more often."
+      ]
+    ],
+    "regex": "\\b((?!\\bMiss\\ Dial:)Miss\\ Dial)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

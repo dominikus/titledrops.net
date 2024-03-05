@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0200669",
+    "title": "The Golden Bowl",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 2042,
+    "occurrences": [
+      [
+        1427,
+        "01:22:43.398000",
+        "01:22:45.219000",
+        "You've brought me the golden bowl."
+      ],
+      [
+        1432,
+        "01:22:55.175000",
+        "01:22:57.380000",
+        "had been interested in the same golden bowl."
+      ],
+      [
+        1441,
+        "01:23:18.600000",
+        "01:23:20.837000",
+        "The lady liked my golden bowl,"
+      ]
+    ],
+    "regex": "\\b((?!\\bGolden\\ Bowl:)Golden\\ Bowl)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2231208",
+    "title": "Rio 2096: A Story of Love and Fury",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 4,
+    "all_lines": 766,
+    "occurrences": [
+      [
+        159,
+        "00:15:46.612000",
+        "00:15:51.640000",
+        "and named it San Sebastian of Rio de Janeiro."
+      ],
+      [
+        620,
+        "00:53:29.439000",
+        "00:53:30.667000",
+        "Welcome to Rio de Janeiro ."
+      ],
+      [
+        625,
+        "00:54:30.934000",
+        "00:54:33.494000",
+        "RIO - SEX"
+      ],
+      [
+        626,
+        "00:54:33.803000",
+        "00:54:36.465000",
+        "RIO - SEX"
+      ]
+    ],
+    "regex": "\\b((?!\\bRio:)Rio|(?!\\bStory\\ of\\ Love\\ and\\ Fury:)Story\\ of\\ Love\\ and\\ Fury)(?!\\:)(?!'t)\\b",
+    "runtime": 74,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0289633",
+    "title": "A Promise",
+    "year": 1998,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 613,
+    "occurrences": [
+      [
+        2,
+        "00:00:10.925000",
+        "00:00:14.349000",
+        "(A promise)"
+      ],
+      [
+        581,
+        "00:43:57.349000",
+        "00:43:58.282000",
+        "Promise me"
+      ],
+      [
+        584,
+        "00:44:05.134000",
+        "00:44:08.378000",
+        "Hee-ju I've never make a promise... ever..."
+      ],
+      [
+        585,
+        "00:44:09.780000",
+        "00:44:12.938000",
+        "Do you think my life is with a promise??"
+      ]
+    ],
+    "regex": "\\b((?!\\bPromise:)Promise)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

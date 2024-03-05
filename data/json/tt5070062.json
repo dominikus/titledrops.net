@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5070062",
+    "title": "I'll Find You",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1276,
+    "occurrences": [
+      [
+        705,
+        "00:55:11.892000",
+        "00:55:14.680000",
+        "I'll find you. I find you!"
+      ],
+      [
+        706,
+        "00:55:14.812000",
+        "00:55:16.769000",
+        "I'll find you!"
+      ]
+    ],
+    "regex": "\\b((?!\\bI'll\\ Find\\ You:)I'll\\ Find\\ You)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

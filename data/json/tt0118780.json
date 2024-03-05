@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0118780",
+    "title": "Broadway Damage",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 2228,
+    "occurrences": [
+      [
+        614,
+        "00:28:44.412000",
+        "00:28:46.621000",
+        "Nope, Broadway damage."
+      ],
+      [
+        616,
+        "00:28:48.623000",
+        "00:28:51.246000",
+        "Broadway damage?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBroadway\\ Damage:)Broadway\\ Damage)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0268695",
+    "title": "The Time Machine",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 615,
+    "occurrences": [
+      [
+        270,
+        "00:32:17.956000",
+        "00:32:21.256000",
+        "Found writings include treatise on the creation ofa time machine."
+      ],
+      [
+        271,
+        "00:32:21.327000",
+        "00:32:25.093000",
+        "- Tell me about the time machine. - Time Machine was written by H.G. Wells in 1 894."
+      ],
+      [
+        557,
+        "01:16:50.482000",
+        "01:16:54.817000",
+        "You built your time machine because of Emma's death."
+      ]
+    ],
+    "regex": "\\b((?!\\bTime\\ Machine:)Time\\ Machine)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

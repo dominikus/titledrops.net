@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt5039822",
+    "title": "Addicted to Sexting",
+    "year": 2015,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1548,
+    "occurrences": [
+      [
+        1485,
+        "01:14:07.911000",
+        "01:14:11.112000",
+        "I am addicted to sexting. I am."
+      ],
+      [
+        1492,
+        "01:14:27.063000",
+        "01:14:29.730000",
+        "So would you say you're addicted to sexting?"
+      ],
+      [
+        1497,
+        "01:14:37.006000",
+        "01:14:40.174000",
+        "I wouldn't say I'm addicted to sexting."
+      ],
+      [
+        1500,
+        "01:14:45.748000",
+        "01:14:47.982000",
+        "I'm not addicted to sexting."
+      ]
+    ],
+    "regex": "\\b((?!\\bAddicted\\ to\\ Sexting:)Addicted\\ to\\ Sexting)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

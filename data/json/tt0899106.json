@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0899106",
+    "title": "Love Happens",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 884,
+    "occurrences": [
+      [
+        0,
+        "00:00:05.280000",
+        "00:00:09.640000",
+        ">> Love Happens <<"
+      ],
+      [
+        6,
+        "00:02:02.080000",
+        "00:02:04.960000",
+        "Love Happens"
+      ]
+    ],
+    "regex": "\\b((?!\\bLove\\ Happens:)Love\\ Happens)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

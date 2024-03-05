@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt16085592",
+    "title": "Tall Girl 2",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1898,
+    "occurrences": [
+      [
+        7,
+        "00:00:35.125000",
+        "00:00:37.416000",
+        "- for a tall girl to date a short guy. -"
+      ],
+      [
+        743,
+        "00:34:28.166000",
+        "00:34:31",
+        "Looks like there's a new tall girl in town."
+      ],
+      [
+        1595,
+        "01:19:07.166000",
+        "01:19:10.833000",
+        "In a few short hours, you'll go back to being just the tall girl."
+      ]
+    ],
+    "regex": "\\b((?!\\bTall\\ Girl:)Tall\\ Girl)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

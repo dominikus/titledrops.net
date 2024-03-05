@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0106611",
+    "title": "Cool Runnings",
+    "year": 1993,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "count": 7,
+    "all_lines": 1265,
+    "occurrences": [
+      [
+        904,
+        "01:06:24.080000",
+        "01:06:27.277000",
+        "I say we call it \"Cool Runnings.\""
+      ],
+      [
+        908,
+        "01:06:34.480000",
+        "01:06:37.597000",
+        "\"Cool runnings\" means \"Peace be the journey.\""
+      ],
+      [
+        910,
+        "01:06:39.720000",
+        "01:06:41.790000",
+        "- Cool runnings. - Cool runnings."
+      ],
+      [
+        911,
+        "01:06:41.920000",
+        "01:06:44.229000",
+        "- Cool runnings. - E-Excuse me."
+      ],
+      [
+        1121,
+        "01:20:39.240000",
+        "01:20:42.437000",
+        "Cool runnings!"
+      ],
+      [
+        1190,
+        "01:25:10.160000",
+        "01:25:13.072000",
+        "- Cool runnings! - On the track."
+      ]
+    ],
+    "regex": "\\b((?!\\bCool\\ Runnings:)Cool\\ Runnings)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

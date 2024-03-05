@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt21235352",
+    "title": "Kisaragi Station",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 672,
+    "occurrences": [
+      [
+        55,
+        "00:10:42.808000",
+        "00:10:48.180000",
+        "Kisaragi Station"
+      ],
+      [
+        282,
+        "00:36:05.263000",
+        "00:36:07.832000",
+        "But I couldn't go to Kisaragi station."
+      ],
+      [
+        317,
+        "00:38:43.921000",
+        "00:38:46.891000",
+        "By chance, the procedure to go to Kisaragi Station"
+      ],
+      [
+        346,
+        "00:41:53.410000",
+        "00:41:55.412000",
+        "By chance at Kisaragi Station"
+      ]
+    ],
+    "regex": "\\b((?!\\bKisaragi\\ Station:)Kisaragi\\ Station)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

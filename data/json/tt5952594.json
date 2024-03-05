@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5952594",
+    "title": "The Mustang",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1385,
+    "occurrences": [
+      [
+        476,
+        "00:29:15.418000",
+        "00:29:17.650000",
+        "MYLES: You know, riding a mustang,"
+      ],
+      [
+        1205,
+        "01:20:29.383000",
+        "01:20:33.251000",
+        "Wild Mustang Conservation Program."
+      ]
+    ],
+    "regex": "\\b((?!\\bMustang:)Mustang)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3415358",
+    "title": "Rabbit",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 987,
+    "occurrences": [
+      [
+        415,
+        "00:39:21.925000",
+        "00:39:23.094000",
+        "It's a rabbit."
+      ],
+      [
+        420,
+        "00:39:43.079000",
+        "00:39:45.416000",
+        "We called it catch-a-rabbit."
+      ],
+      [
+        439,
+        "00:40:56.519000",
+        "00:40:57.387000",
+        "The rabbit."
+      ]
+    ],
+    "regex": "\\b((?!\\bRabbit:)Rabbit)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0087795",
+    "title": "Night Patrol",
+    "year": 1984,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 2044,
+    "occurrences": [
+      [
+        247,
+        "00:10:58.582000",
+        "00:11:01.609000",
+        "You're gonna be getting night patrol."
+      ],
+      [
+        248,
+        "00:11:01.610000",
+        "00:11:03.144000",
+        "Night patrol, sir?"
+      ],
+      [
+        425,
+        "00:16:20.973000",
+        "00:16:23.698000",
+        "I've been doing night patrol now for ten years."
+      ]
+    ],
+    "regex": "\\b((?!\\bNight\\ Patrol:)Night\\ Patrol)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

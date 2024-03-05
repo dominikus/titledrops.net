@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0370477",
+    "title": "The Preacher",
+    "year": 2004,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 308,
+    "occurrences": [
+      [
+        0,
+        "00:03:18.880000",
+        "00:03:24.637000",
+        "The Preacher"
+      ],
+      [
+        210,
+        "00:40:20.800000",
+        "00:40:22.552000",
+        "The preacher in black."
+      ]
+    ],
+    "regex": "\\b((?!\\bPreacher:)Preacher)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

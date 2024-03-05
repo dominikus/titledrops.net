@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0176269",
+    "title": "Universal Soldier: The Return",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 665,
+    "occurrences": [
+      [
+        21,
+        "00:08:11.160000",
+        "00:08:13.280000",
+        "...if you wanna be a Universal Soldier again."
+      ],
+      [
+        37,
+        "00:09:49.080000",
+        "00:09:51.880000",
+        "Romeo, return to cold room."
+      ]
+    ],
+    "regex": "\\b((?!\\bUniversal\\ Soldier:)Universal\\ Soldier|(?!\\bReturn:)Return)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

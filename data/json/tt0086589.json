@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0086589",
+    "title": "Suburbia",
+    "year": 1983,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 723,
+    "occurrences": [
+      [
+        99,
+        "00:16:06.700000",
+        "00:16:08.500000",
+        "They call it \"suburbia\" and that word's perfect"
+      ],
+      [
+        106,
+        "00:16:22.500000",
+        "00:16:24.398000",
+        "Suburbia is a great place for children."
+      ]
+    ],
+    "regex": "\\b((?!\\bSuburbia:)Suburbia)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0068305",
+    "title": "Bombay to Goa",
+    "year": 1972,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1659,
+    "occurrences": [
+      [
+        48,
+        "00:05:45.430000",
+        "00:05:49.910000",
+        "Madam, such a big note won't work for the Bombay to Goa route!"
+      ],
+      [
+        1515,
+        "01:57:50.510000",
+        "01:57:53.990000",
+        "Look, Bombay to Goa! Goa to Bombay!"
+      ],
+      [
+        1523,
+        "01:59:08.630000",
+        "01:59:11.310000",
+        "Rajesh! Change the Bombay to Goa sign board!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBombay\\ to\\ Goa:)Bombay\\ to\\ Goa)(?!\\:)(?!'t)\\b",
+    "runtime": 136,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

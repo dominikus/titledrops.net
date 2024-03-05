@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0043117",
+    "title": "Wagon Master",
+    "year": 1950,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 5,
+    "all_lines": 723,
+    "occurrences": [
+      [
+        76,
+        "00:09:04.594000",
+        "00:09:07.119000",
+        "Wagon master, that's what."
+      ],
+      [
+        399,
+        "00:48:28.488000",
+        "00:48:30.820000",
+        "Your haul, wagon master."
+      ],
+      [
+        458,
+        "00:55:50.430000",
+        "00:55:54.833000",
+        "We don't wanna have any trouble with the wagon master, now, do we?"
+      ],
+      [
+        514,
+        "01:03:26.586000",
+        "01:03:31.114000",
+        "Now, where's that wagon master and that carrot-headed kid?"
+      ],
+      [
+        654,
+        "01:16:50.756000",
+        "01:16:54.658000",
+        "-Are you ready, wagon master? -Ready, elder."
+      ]
+    ],
+    "regex": "\\b((?!\\bWagon\\ Master:)Wagon\\ Master)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

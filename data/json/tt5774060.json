@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5774060",
+    "title": "Underwater",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1286,
+    "occurrences": [
+      [
+        7,
+        "00:04:45.451000",
+        "00:04:47.662000",
+        "When you're underwater for months at a time,"
+      ],
+      [
+        603,
+        "00:38:24.677000",
+        "00:38:26.262000",
+        "Underwater moths."
+      ],
+      [
+        792,
+        "00:51:14.404000",
+        "00:51:16.865000",
+        "Give me my helmet! It's pulling me underwater!"
+      ]
+    ],
+    "regex": "\\b((?!\\bUnderwater:)Underwater)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

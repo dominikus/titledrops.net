@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5219972",
+    "title": "Class Rank",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1440,
+    "occurrences": [
+      [
+        230,
+        "00:16:15.374000",
+        "00:16:19.243000",
+        "the board voted 3 to 2 in favor of keeping class rank"
+      ],
+      [
+        233,
+        "00:16:30.122000",
+        "00:16:34.493000",
+        "I'm sorry, Ms. Krauss. It looks like class rank is here to stay."
+      ]
+    ],
+    "regex": "\\b((?!\\bClass\\ Rank:)Class\\ Rank)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

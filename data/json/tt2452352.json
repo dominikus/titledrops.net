@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2452352",
+    "title": "Compared to What: The Improbable Journey of Barney Frank",
+    "year": 2014,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2085,
+    "occurrences": [
+      [
+        1146,
+        "00:47:01.553000",
+        "00:47:03.021000",
+        "\"Compared to what?\""
+      ],
+      [
+        1150,
+        "00:47:08.226000",
+        "00:47:09.561000",
+        "Compared to what?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCompared\\ to\\ What:)Compared\\ to\\ What|(?!\\bImprobable\\ Journey\\ of\\ Barney\\ Frank:)Improbable\\ Journey\\ of\\ Barney\\ Frank)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

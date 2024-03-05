@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0192377",
+    "title": "The Knife",
+    "year": 1999,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1087,
+    "occurrences": [
+      [
+        10,
+        "00:01:58.491000",
+        "00:02:02.263000",
+        "Based on a novel \"The Knife\" by Vuk Draskovic"
+      ],
+      [
+        561,
+        "01:08:51.373000",
+        "01:08:54.876000",
+        "...for all moslems, after Alah, the knife of Ustashas..."
+      ],
+      [
+        781,
+        "01:29:54.528000",
+        "01:29:59.632000",
+        "Time has come to sharp the knife,to make bombs and to prepare to be an Ustasha soldier."
+      ],
+      [
+        785,
+        "01:30:19.735000",
+        "01:30:25.572000",
+        "How could I betray and deceive my cousins? I swore to knife and bomb that I'll go all the way..."
+      ],
+      [
+        959,
+        "01:52:35.251000",
+        "01:52:42.023000",
+        "You must have an operation. -What operation? They won't stick a knife into Rabiah's eyes."
+      ]
+    ],
+    "regex": "\\b((?!\\bKnife:)Knife)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.5
+  }
+]

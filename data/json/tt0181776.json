@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0181776",
+    "title": "The Process",
+    "year": 1998,
+    "genres": [
+      "Action"
+    ],
+    "count": 5,
+    "all_lines": 919,
+    "occurrences": [
+      [
+        79,
+        "00:10:16.068000",
+        "00:10:19.137000",
+        "That new guy was using a new process. We didn't stand a chance."
+      ],
+      [
+        96,
+        "00:11:28.827000",
+        "00:11:31.689000",
+        "with a special kind of process from the East."
+      ],
+      [
+        97,
+        "00:11:36.379000",
+        "00:11:41.413000",
+        "And the process empowers only the highest spiritual members with a special kind of power."
+      ],
+      [
+        100,
+        "00:11:47.758000",
+        "00:11:51.793000",
+        "the power of the process is more potent..."
+      ],
+      [
+        134,
+        "00:13:58.896000",
+        "00:14:02.724000",
+        "Yeah. Okay, let's hurry up the process here."
+      ]
+    ],
+    "regex": "\\b((?!\\bProcess:)Process)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

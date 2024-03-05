@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt12801798",
+    "title": "Fauna",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 646,
+    "occurrences": [
+      [
+        564,
+        "00:56:47.750000",
+        "00:56:49.375000",
+        "Fauna."
+      ],
+      [
+        572,
+        "00:57:13.791000",
+        "00:57:15.875000",
+        "I'm Fauna."
+      ],
+      [
+        610,
+        "01:01:05.375000",
+        "01:01:10.583000",
+        "I mean, that's what you think, but I doubt Fauna would say that."
+      ],
+      [
+        614,
+        "01:01:29.708000",
+        "01:01:33.250000",
+        "Are you really named Flora and Fauna?"
+      ],
+      [
+        622,
+        "01:06:44.875000",
+        "01:06:48.916000",
+        "They exit the bar and get into Fauna's boyfriend's car."
+      ],
+      [
+        634,
+        "01:08:39.166000",
+        "01:08:42.958000",
+        "He wakes up in Fauna's boyfriend's car."
+      ]
+    ],
+    "regex": "\\b((?!\\bFauna:)Fauna)(?!\\:)(?!'t)\\b",
+    "runtime": 70,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

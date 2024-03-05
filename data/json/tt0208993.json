@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0208993",
+    "title": "Downtown 81",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 636,
+    "occurrences": [
+      [
+        43,
+        "00:03:47.900000",
+        "00:03:49.900000",
+        "I knew my way downtown, and walking was deluxe"
+      ],
+      [
+        83,
+        "00:07:02.800000",
+        "00:07:04.800000",
+        "- Can I offer you a lift downtown?"
+      ],
+      [
+        84,
+        "00:07:05.500000",
+        "00:07:07.500000",
+        "She knew I was on my way downtown"
+      ]
+    ],
+    "regex": "\\b((?!\\bDowntown:)Downtown)(?!\\:)(?!'t)\\b",
+    "runtime": 72,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

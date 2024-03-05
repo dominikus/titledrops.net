@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0281686",
+    "title": "Bubba Ho-Tep",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 685,
+    "occurrences": [
+      [
+        436,
+        "00:53:59.694000",
+        "00:54:02.353000",
+        "Some kind of Bubba Ho-Tep?"
+      ],
+      [
+        460,
+        "00:58:24.643000",
+        "00:58:26.575000",
+        "Where did old Bubba Ho-Tep go?"
+      ],
+      [
+        624,
+        "01:13:11.751000",
+        "01:13:15.615000",
+        "Shit when Bubba Ho-Tep comes out of that creek bed."
+      ]
+    ],
+    "regex": "\\b((?!\\bBubba\\ Ho\\-Tep:)Bubba\\ Ho\\-Tep)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

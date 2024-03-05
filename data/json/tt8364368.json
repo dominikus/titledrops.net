@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt8364368",
+    "title": "Crawl",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 835,
+    "occurrences": [
+      [
+        464,
+        "00:41:21.577000",
+        "00:41:24.934000",
+        "Crawl along the foundation till you reach the wet wall."
+      ],
+      [
+        484,
+        "00:44:15.777000",
+        "00:44:18.690000",
+        "In less than an hour, this crawl space will be under water."
+      ]
+    ],
+    "regex": "\\b((?!\\bCrawl:)Crawl)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

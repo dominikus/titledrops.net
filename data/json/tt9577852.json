@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt9577852",
+    "title": "Rolling Thunder Revue",
+    "year": 2019,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "History"
+    ],
+    "count": 5,
+    "all_lines": 2432,
+    "occurrences": [
+      [
+        406,
+        "00:20:09.499000",
+        "00:20:12.836000",
+        "I would go on the road with the Rolling Thunder Revue."
+      ],
+      [
+        545,
+        "00:27:23.850000",
+        "00:27:25.852000",
+        "How did it become \"Rolling Thunder Revue\"?"
+      ],
+      [
+        771,
+        "00:39:56.977000",
+        "00:39:59.623000",
+        "Once again, good night on behalf of the Rolling Thunder Revue."
+      ],
+      [
+        903,
+        "00:47:53.745000",
+        "00:47:58.083000",
+        "and it's called the Rolling Thunder Revue at the Providence Civic Center, Tuesday..."
+      ],
+      [
+        2301,
+        "02:10:52.219000",
+        "02:10:54.847000",
+        "last scheduled concert for the Rolling Thunder Revue."
+      ]
+    ],
+    "regex": "\\b((?!\\bRolling\\ Thunder\\ Revue:)Rolling\\ Thunder\\ Revue)(?!\\:)(?!'t)\\b",
+    "runtime": 142,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

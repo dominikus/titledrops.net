@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt14965934",
+    "title": "Shark: The Beginning",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1317,
+    "occurrences": [
+      [
+        622,
+        "00:43:27.900000",
+        "00:43:28.850000",
+        "From the beginning."
+      ],
+      [
+        1294,
+        "01:43:24.560000",
+        "01:43:26.670000",
+        "Have you seen a shark in person?"
+      ]
+    ],
+    "regex": "\\b((?!\\bShark:)Shark|(?!\\bBeginning:)Beginning)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

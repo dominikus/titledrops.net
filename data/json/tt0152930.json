@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0152930",
+    "title": "Taxi",
+    "year": 1998,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 5,
+    "all_lines": 1139,
+    "occurrences": [
+      [
+        104,
+        "00:11:33.067000",
+        "00:11:37.261000",
+        "Are you a \"taxi\" taxi or a nice taxi?"
+      ],
+      [
+        451,
+        "00:35:05.561000",
+        "00:35:08.463000",
+        "That taxi just did it again."
+      ],
+      [
+        549,
+        "00:40:40.521000",
+        "00:40:43.631000",
+        "One taxi, one plate, one license..."
+      ]
+    ],
+    "regex": "\\b((?!\\bTaxi:)Taxi)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

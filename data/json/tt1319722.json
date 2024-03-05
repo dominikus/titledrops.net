@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1319722",
+    "title": "A Little Help",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1769,
+    "occurrences": [
+      [
+        1125,
+        "01:01:36.040000",
+        "01:01:42.366000",
+        "I used to purposely hit the ball over the fence and go, \"a little help!\""
+      ],
+      [
+        1513,
+        "01:24:59.360000",
+        "01:25:02.091000",
+        "When you said, \"a little help\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Help:)Little\\ Help)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

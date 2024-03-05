@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1084950",
+    "title": "Rachel Getting Married",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1404,
+    "occurrences": [
+      [
+        1,
+        "00:00:23.356000",
+        "00:00:28.020000",
+        "Hi, I'm Rosemarie DeWitt and I play Rachel in Rachel Getting Married."
+      ],
+      [
+        314,
+        "00:23:03.048000",
+        "00:23:07.576000",
+        "And now Rachel's getting married. Rachel getting married."
+      ]
+    ],
+    "regex": "\\b((?!\\bRachel\\ Getting\\ Married:)Rachel\\ Getting\\ Married)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

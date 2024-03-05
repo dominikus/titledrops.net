@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt14345386",
+    "title": "The Land",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1132,
+    "occurrences": [
+      [
+        305,
+        "00:24:26.132000",
+        "00:24:30.720000",
+        "They'll take away our house, your land, your unfinished house, cars..."
+      ],
+      [
+        848,
+        "01:08:45.247000",
+        "01:08:48.167000",
+        "I don't have a job. If I land a job, I'll send something."
+      ]
+    ],
+    "regex": "\\b((?!\\bLand:)Land)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

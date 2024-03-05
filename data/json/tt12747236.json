@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt12747236",
+    "title": "Do You Love Me As I Love You",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1357,
+    "occurrences": [
+      [
+        1247,
+        "01:33:25.249000",
+        "01:33:26.874000",
+        "\"Do You Love Me As I Love You?\""
+      ],
+      [
+        1264,
+        "01:34:26.749000",
+        "01:34:28.791000",
+        "\"Do You Love Me As I Love You?\""
+      ],
+      [
+        1354,
+        "01:43:00.207000",
+        "01:43:02.374000",
+        "Do you love me as I love you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDo\\ You\\ Love\\ Me\\ As\\ I\\ Love\\ You:)Do\\ You\\ Love\\ Me\\ As\\ I\\ Love\\ You)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

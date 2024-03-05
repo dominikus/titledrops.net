@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2513616",
+    "title": "Springsteen and I",
+    "year": 2013,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1045,
+    "occurrences": [
+      [
+        295,
+        "00:22:55.441000",
+        "00:22:58.476000",
+        "\"and he's singing with Springsteen and his dream's realized.\""
+      ],
+      [
+        508,
+        "00:36:24.850000",
+        "00:36:27.751000",
+        "to see Bruce Springsteen and the E Street Band"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpringsteen\\ and:)Springsteen\\ and)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

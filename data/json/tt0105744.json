@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0105744",
+    "title": "The Journey",
+    "year": 1992,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 771,
+    "occurrences": [
+      [
+        392,
+        "00:36:55.200000",
+        "00:36:55.996000",
+        "Like a journey"
+      ],
+      [
+        398,
+        "00:37:32.960000",
+        "00:37:36.430000",
+        "I'm going... going to start my journey."
+      ],
+      [
+        402,
+        "00:37:53.200000",
+        "00:37:55.919000",
+        "I know that a journey means discovery,"
+      ]
+    ],
+    "regex": "\\b((?!\\bJourney:)Journey)(?!\\:)(?!'t)\\b",
+    "runtime": 150,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

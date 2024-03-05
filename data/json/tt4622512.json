@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4622512",
+    "title": "Battle of the Sexes",
+    "year": 2017,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2229,
+    "occurrences": [
+      [
+        1857,
+        "01:31:44.944000",
+        "01:31:47.179000",
+        "...the Tennis Battle of the Sexes,"
+      ],
+      [
+        1919,
+        "01:35:48.319000",
+        "01:35:51.255000",
+        "the Battle of the Sexes is about to begin."
+      ]
+    ],
+    "regex": "\\b((?!\\bBattle\\ of\\ the\\ Sexes:)Battle\\ of\\ the\\ Sexes)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

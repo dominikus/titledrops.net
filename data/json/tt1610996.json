@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1610996",
+    "title": "Absentia",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 644,
+    "occurrences": [
+      [
+        52,
+        "00:07:02.508000",
+        "00:07:05.605000",
+        "- Death in absentia... - I know, it sounds really..."
+      ],
+      [
+        159,
+        "00:22:41.824000",
+        "00:22:45.357000",
+        "They started about the time you decided to declare him dead in absentia?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAbsentia:)Absentia)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

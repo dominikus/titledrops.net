@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0153644",
+    "title": "Wanted",
+    "year": 1998,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1288,
+    "occurrences": [
+      [
+        54,
+        "00:07:03.666000",
+        "00:07:06.208000",
+        "Alright, you said you wanted to do some talking,"
+      ],
+      [
+        399,
+        "00:30:25.375000",
+        "00:30:27.583000",
+        "I just wanted to let you know, I'm okay, Ma."
+      ]
+    ],
+    "regex": "\\b((?!\\bWanted:)Wanted)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

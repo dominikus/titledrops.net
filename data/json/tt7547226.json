@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt7547226",
+    "title": "BAB",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1227,
+    "occurrences": [
+      [
+        167,
+        "00:11:24.553000",
+        "00:11:25.815000",
+        "DONNIE: Wanted to see Bab before they started"
+      ],
+      [
+        315,
+        "00:20:02.026000",
+        "00:20:04.203000",
+        "I want to see Bab before the Center closes."
+      ],
+      [
+        433,
+        "00:29:30.899000",
+        "00:29:32.509000",
+        "I have read everything there is to know about Bab's"
+      ],
+      [
+        651,
+        "00:44:43.289000",
+        "00:44:45.117000",
+        "For Bab."
+      ],
+      [
+        811,
+        "00:58:42.083000",
+        "00:58:44.259000",
+        "You should see if Bab wants it."
+      ]
+    ],
+    "regex": "\\b((?!\\bBAB:)BAB)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

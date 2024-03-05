@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0242508",
+    "title": "Harvard Man",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 2707,
+    "occurrences": [
+      [
+        1506,
+        "00:54:10.060000",
+        "00:54:12.050000",
+        "a Harvard man have with some mafia hood."
+      ],
+      [
+        1727,
+        "01:01:24.060000",
+        "01:01:26.080000",
+        "Oh, it's a Harvard man-- river man."
+      ],
+      [
+        1732,
+        "01:01:33.120000",
+        "01:01:35.200000",
+        "Harvard man, run, River Charles, run."
+      ],
+      [
+        2192,
+        "01:18:00.100000",
+        "01:18:01.200000",
+        "He's a fucking Harvard man. What?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHarvard\\ Man:)Harvard\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

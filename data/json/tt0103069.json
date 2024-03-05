@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0103069",
+    "title": "Texasville",
+    "year": 1990,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1264,
+    "occurrences": [
+      [
+        225,
+        "00:19:51.520000",
+        "00:19:57.356000",
+        "I was wondering if we can't come to some compromise about Texasville."
+      ],
+      [
+        227,
+        "00:20:00.480000",
+        "00:20:05.031000",
+        "GG, Texasville was the first town in Archer County and the original county seat."
+      ],
+      [
+        232,
+        "00:20:17.200000",
+        "00:20:21.113000",
+        "Yeah. What if we just put a small replica of Texasville"
+      ],
+      [
+        235,
+        "00:20:27.800000",
+        "00:20:32.430000",
+        "Good idea. I move that we build a replica of Texasville in the courthouse square."
+      ],
+      [
+        1110,
+        "01:40:42.600000",
+        "01:40:46.639000",
+        "Duane! I just heard that GG's gonna sledgehammer Old Texasville."
+      ]
+    ],
+    "regex": "\\b((?!\\bTexasville:)Texasville)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

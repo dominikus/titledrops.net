@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0109759",
+    "title": "Exotica",
+    "year": 1994,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 994,
+    "occurrences": [
+      [
+        27,
+        "00:05:37.450000",
+        "00:05:39.543000",
+        "- People are asking for you. - * Exotica *"
+      ],
+      [
+        28,
+        "00:06:04.077000",
+        "00:06:07.012000",
+        "- She's right over there. I'll get her. - * Exotica *"
+      ],
+      [
+        278,
+        "00:35:02.113000",
+        "00:35:06.209000",
+        "All right, ladies and gentlemen, it's show time at the Exotica."
+      ],
+      [
+        821,
+        "01:20:57.166000",
+        "01:21:00.796000",
+        "Exotica is a special place."
+      ],
+      [
+        827,
+        "01:21:23.393000",
+        "01:21:28.490000",
+        "But you have to understand that Exotica is here for your amusement."
+      ]
+    ],
+    "regex": "\\b((?!\\bExotica:)Exotica)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

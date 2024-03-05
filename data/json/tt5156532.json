@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5156532",
+    "title": "The Jade Pendant",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "History",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 724,
+    "occurrences": [
+      [
+        358,
+        "00:55:49.612000",
+        "00:55:51.845000",
+        "When my grandma gave me this jade pendant,"
+      ],
+      [
+        708,
+        "01:38:12.485000",
+        "01:38:17.522000",
+        "Grandpa, tell me the story of the jade pendant again."
+      ]
+    ],
+    "regex": "\\b((?!\\bJade\\ Pendant:)Jade\\ Pendant)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

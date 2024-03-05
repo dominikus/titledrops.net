@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0032624",
+    "title": "If I Had My Way",
+    "year": 1940,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1513,
+    "occurrences": [
+      [
+        852,
+        "00:50:51.415000",
+        "00:50:56.182000",
+        "If I had my way, dear."
+      ],
+      [
+        861,
+        "00:51:33.957000",
+        "00:51:38.758000",
+        "If I had my way."
+      ]
+    ],
+    "regex": "\\b((?!\\bIf\\ I\\ Had\\ My\\ Way:)If\\ I\\ Had\\ My\\ Way)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

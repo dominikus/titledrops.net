@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2069756",
+    "title": "Dogman",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1156,
+    "occurrences": [
+      [
+        979,
+        "01:11:18.670000",
+        "01:11:20.127000",
+        "She calls it Dogman."
+      ],
+      [
+        980,
+        "01:11:22.330000",
+        "01:11:23.897000",
+        "It actually says Dogman?"
+      ],
+      [
+        981,
+        "01:11:26.273000",
+        "01:11:27.273000",
+        "Dogman."
+      ]
+    ],
+    "regex": "\\b((?!\\bDogman:)Dogman)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3300572",
+    "title": "Stung",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 818,
+    "occurrences": [
+      [
+        367,
+        "00:29:25.331000",
+        "00:29:27.331000",
+        "We need to find out. Is anyone stung?"
+      ],
+      [
+        405,
+        "00:31:16.442000",
+        "00:31:18.208000",
+        "- Have you been stung?"
+      ]
+    ],
+    "regex": "\\b((?!\\bStung:)Stung)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

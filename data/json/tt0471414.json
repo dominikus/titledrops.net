@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0471414",
+    "title": "Ultraman: The Next",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 785,
+    "occurrences": [
+      [
+        304,
+        "00:30:05.918000",
+        "00:30:09.251000",
+        "\"Next\"...maybe."
+      ],
+      [
+        433,
+        "00:50:08.506000",
+        "00:50:12.670000",
+        "Maybe \"Next\" is not our target to kill."
+      ],
+      [
+        754,
+        "01:30:19.849000",
+        "01:30:21.441000",
+        "\"Ultraman.\""
+      ],
+      [
+        770,
+        "01:31:43.967000",
+        "01:31:45.298000",
+        "Ultraman."
+      ]
+    ],
+    "regex": "\\b((?!\\bUltraman:)Ultraman|(?!\\bNext:)Next)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

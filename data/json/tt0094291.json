@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0094291",
+    "title": "Wall Street",
+    "year": 1987,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1223,
+    "occurrences": [
+      [
+        170,
+        "00:09:19.421000",
+        "00:09:22.427000",
+        "I hear all wall street guys are millionaires."
+      ],
+      [
+        704,
+        "00:35:34.796000",
+        "00:35:37.836000",
+        "working Wall Street stiff flying first class"
+      ],
+      [
+        760,
+        "00:40:11.676000",
+        "00:40:13.701000",
+        "Then call The Wall Street Chronicle,"
+      ],
+      [
+        765,
+        "00:40:22.643000",
+        "00:40:24.881000",
+        "The Wall Street Chronicle."
+      ],
+      [
+        1165,
+        "01:00:01.362000",
+        "01:00:02.932000",
+        "Mr. Wall Street."
+      ]
+    ],
+    "regex": "\\b((?!\\bWall\\ Street:)Wall\\ Street)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

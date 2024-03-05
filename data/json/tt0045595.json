@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0045595",
+    "title": "The Bandit",
+    "year": 1953,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 455,
+    "occurrences": [
+      [
+        0,
+        "00:01:31.145000",
+        "00:01:35.396000",
+        "The Cangaceiro (The Bandit)"
+      ],
+      [
+        212,
+        "00:43:24.815000",
+        "00:43:26.104000",
+        "Say it, a bandit."
+      ]
+    ],
+    "regex": "\\b((?!\\bBandit:)Bandit)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1213638",
+    "title": "Different from Whom",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1235,
+    "occurrences": [
+      [
+        860,
+        "01:04:50.020000",
+        "01:04:52.215000",
+        "Different from whom ?"
+      ],
+      [
+        1198,
+        "01:30:50.490000",
+        "01:30:52.845000",
+        "different from whom ?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDifferent\\ from\\ Whom:)Different\\ from\\ Whom)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

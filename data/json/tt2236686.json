@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt2236686",
+    "title": "Copycat",
+    "year": 2016,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 1482,
+    "occurrences": [
+      [
+        63,
+        "00:05:52.518000",
+        "00:05:54.786000",
+        "Welcome to copycat, how can I help you?"
+      ],
+      [
+        747,
+        "00:42:49.900000",
+        "00:42:52.168000",
+        "Welcome to copycat, can I help you?"
+      ],
+      [
+        748,
+        "00:42:57.474000",
+        "00:42:59.742000",
+        "Welcome to copycat, can I help you?"
+      ],
+      [
+        749,
+        "00:43:06.317000",
+        "00:43:09.419000",
+        "Welcome to copycat, can I help you?"
+      ],
+      [
+        1095,
+        "01:01:30.219000",
+        "01:01:32.320000",
+        "Welcome to copycat, can I help you?"
+      ],
+      [
+        1318,
+        "01:11:10.033000",
+        "01:11:13.935000",
+        "- I can't believe this is the end of copycat."
+      ]
+    ],
+    "regex": "\\b((?!\\bCopycat:)Copycat)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

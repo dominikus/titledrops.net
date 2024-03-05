@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt11444698",
+    "title": "Trip",
+    "year": 2021,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1856,
+    "occurrences": [
+      [
+        72,
+        "00:08:46.086000",
+        "00:08:48.120000",
+        "since we are all on our way to Kodaikanal trip..."
+      ],
+      [
+        79,
+        "00:08:58.171000",
+        "00:08:59.773000",
+        "Aren't you here to booze and enjoy the trip?"
+      ],
+      [
+        357,
+        "00:20:49.787000",
+        "00:20:51.638000",
+        "I must confess my love before this trip is over"
+      ],
+      [
+        760,
+        "00:41:00.960000",
+        "00:41:03.132000",
+        "I thought this was going to a fun trip with booze!"
+      ],
+      [
+        761,
+        "00:41:03.351000",
+        "00:41:05.499000",
+        "But this trip is a disaster! People are dying! God!"
+      ],
+      [
+        1308,
+        "01:05:21.274000",
+        "01:05:23.430000",
+        "How are you enjoying your trip in this forest, you dummy face?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTrip:)Trip)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

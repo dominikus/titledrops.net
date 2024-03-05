@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt2339351",
+    "title": "Aliyah",
+    "year": 2012,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 923,
+    "occurrences": [
+      [
+        200,
+        "00:16:33.959000",
+        "00:16:35.961000",
+        "You'll need to make aliyah."
+      ],
+      [
+        202,
+        "00:16:43.535000",
+        "00:16:45.674000",
+        "- Know What aliyah means? - Yeah."
+      ],
+      [
+        292,
+        "00:23:02.647000",
+        "00:23:06.652000",
+        "and I'm here for three years to help French Jews make aliyah."
+      ],
+      [
+        530,
+        "00:42:38.689000",
+        "00:42:40.532000",
+        "You're an aliyah applicant?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAliyah:)Aliyah)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

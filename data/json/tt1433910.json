@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1433910",
+    "title": "The Flood",
+    "year": 2010,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 708,
+    "occurrences": [
+      [
+        590,
+        "01:15:09.050000",
+        "01:15:12.182000",
+        "And there was flood for forty days and forty nights."
+      ],
+      [
+        703,
+        "01:31:54.010000",
+        "01:31:59.180000",
+        "And as for me. Behold. I am about to bring the Flood."
+      ],
+      [
+        704,
+        "01:31:59.230000",
+        "01:32:03.040000",
+        "I am about to bring the Flood."
+      ],
+      [
+        705,
+        "01:32:03.120000",
+        "01:32:07.611000",
+        "Bring the Flood upon the earth."
+      ]
+    ],
+    "regex": "\\b((?!\\bFlood:)Flood)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

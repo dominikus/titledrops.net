@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0419146",
+    "title": "A Soap",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 620,
+    "occurrences": [
+      [
+        0,
+        "00:00:52.520000",
+        "00:00:56.479000",
+        "A Soap"
+      ],
+      [
+        311,
+        "00:44:02.520000",
+        "00:44:06.520000",
+        "My favourite TV soap is about to start."
+      ],
+      [
+        493,
+        "01:13:57.520000",
+        "01:14:01.479000",
+        "I see. It probably needs to soak in soap water again."
+      ]
+    ],
+    "regex": "\\b((?!\\bSoap:)Soap)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

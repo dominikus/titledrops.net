@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2086830",
+    "title": "The King of Pigs",
+    "year": 2011,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1066,
+    "occurrences": [
+      [
+        9,
+        "00:02:01.920000",
+        "00:02:06.666000",
+        "The King of Pigs"
+      ],
+      [
+        500,
+        "00:43:03.069000",
+        "00:43:06.561000",
+        "Like that, Chul became the king of pigs."
+      ]
+    ],
+    "regex": "\\b((?!\\bKing\\ of\\ Pigs:)King\\ of\\ Pigs)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

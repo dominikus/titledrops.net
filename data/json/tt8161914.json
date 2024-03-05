@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt8161914",
+    "title": "City Hunter: Shinjuku Private Eyes",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 992,
+    "occurrences": [
+      [
+        22,
+        "00:05:20.480000",
+        "00:05:22.520000",
+        "City Hunter?"
+      ],
+      [
+        41,
+        "00:06:42.880000",
+        "00:06:46.960000",
+        "I thought the City Hunter will look as suave as him."
+      ],
+      [
+        418,
+        "00:34:18.960000",
+        "00:34:22.240000",
+        "His name is Saeba Ryo, nicknamed City Hunter"
+      ],
+      [
+        574,
+        "00:46:40.120000",
+        "00:46:42.040000",
+        "It's the City Hunter."
+      ],
+      [
+        820,
+        "01:07:52.680000",
+        "01:07:54.760000",
+        "Don't praise the City Hunter!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCity\\ Hunter:)City\\ Hunter|(?!\\bShinjuku\\ Private\\ Eyes:)Shinjuku\\ Private\\ Eyes)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

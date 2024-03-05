@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt12036270",
+    "title": "Row 19",
+    "year": 2021,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 843,
+    "occurrences": [
+      [
+        98,
+        "00:09:46.834000",
+        "00:09:50",
+        "- We have to go to the last row. - Sure?"
+      ],
+      [
+        99,
+        "00:09:50.001000",
+        "00:09:52.209000",
+        "- Yes, to the last row. - All right."
+      ],
+      [
+        830,
+        "01:11:43.917000",
+        "01:11:46.084000",
+        "We are in row 19."
+      ]
+    ],
+    "regex": "\\b((?!\\bRow:)Row)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

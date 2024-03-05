@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt2382009",
+    "title": "Nymphomaniac: Vol. II",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1271,
+    "occurrences": [
+      [
+        22,
+        "00:03:29.798000",
+        "00:03:32.724000",
+        "the most notorious nymphomaniac in history."
+      ],
+      [
+        688,
+        "01:02:03.767000",
+        "01:02:06.660000",
+        "-Hi, Joe. - and I'm a nymphomaniac."
+      ],
+      [
+        690,
+        "01:02:09.210000",
+        "01:02:11.326000",
+        "My name is Joe and I'm a nymphomaniac."
+      ],
+      [
+        740,
+        "01:07:20.160000",
+        "01:07:22.590000",
+        "I am a nymphomaniac,"
+      ]
+    ],
+    "regex": "\\b((?!\\bNymphomaniac:)Nymphomaniac|(?!\\bVol\\.\\ II:)Vol\\.\\ II)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

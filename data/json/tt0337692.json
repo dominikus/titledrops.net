@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0337692",
+    "title": "On the Road",
+    "year": 2012,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1457,
+    "occurrences": [
+      [
+        279,
+        "00:22:40.371000",
+        "00:22:45.976000",
+        "With the coming of Dean Moriarty, began the part of my life you could call \"My life on the Road\"."
+      ],
+      [
+        1439,
+        "02:13:22.332000",
+        "02:13:25.764000",
+        "Tonight also, I wrote a song, called \"On the Road\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bOn\\ the\\ Road:)On\\ the\\ Road)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

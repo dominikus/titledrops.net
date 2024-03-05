@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0236502",
+    "title": "Mirror Mirror 4: Reflections",
+    "year": 2000,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1491,
+    "occurrences": [
+      [
+        46,
+        "00:04:58.250000",
+        "00:05:01.893000",
+        "Oh, mirror mirror on the wall,"
+      ],
+      [
+        98,
+        "00:07:25.890000",
+        "00:07:28.688000",
+        "- Mirror mirror standing still,"
+      ]
+    ],
+    "regex": "\\b((?!\\bMirror\\ Mirror:)Mirror\\ Mirror|(?!\\bReflections:)Reflections)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1067765",
+    "title": "Adult World",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2354,
+    "occurrences": [
+      [
+        223,
+        "00:12:44.364000",
+        "00:12:45.530000",
+        "Oh, that's wonderful. Welcome to the adult world."
+      ],
+      [
+        224,
+        "00:12:45.532000",
+        "00:12:46.164000",
+        "Welcome to the adult world. "
+      ]
+    ],
+    "regex": "\\b((?!\\bAdult\\ World:)Adult\\ World)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt13405778",
+    "title": "Insidious: The Red Door",
+    "year": 2023,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1099,
+    "occurrences": [
+      [
+        630,
+        "01:00:23.624000",
+        "01:00:25.659000",
+        "A red door. A purple pecker."
+      ],
+      [
+        632,
+        "01:00:27.495000",
+        "01:00:28.462000",
+        "A red door?"
+      ],
+      [
+        899,
+        "01:20:41.408000",
+        "01:20:43.377000",
+        "Something about a red door."
+      ]
+    ],
+    "regex": "\\b((?!\\bInsidious:)Insidious|(?!\\bRed\\ Door:)Red\\ Door)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

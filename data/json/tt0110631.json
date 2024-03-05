@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0110631",
+    "title": "Nightwatch",
+    "year": 1994,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 710,
+    "occurrences": [
+      [
+        0,
+        "00:00:42.976000",
+        "00:00:49.211000",
+        "Nightwatch"
+      ],
+      [
+        580,
+        "01:21:57.779000",
+        "01:22:03.342000",
+        "Martin Bork here, the new nightwatch. You showed me around."
+      ]
+    ],
+    "regex": "\\b((?!\\bNightwatch:)Nightwatch)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

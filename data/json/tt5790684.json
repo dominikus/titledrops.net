@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt5790684",
+    "title": "Mia and Me: The Hero of Centopia",
+    "year": 2022,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "count": 5,
+    "all_lines": 1690,
+    "occurrences": [
+      [
+        365,
+        "00:20:29.062000",
+        "00:20:31.403000",
+        "MAYLA: The hero of Centopia."
+      ],
+      [
+        418,
+        "00:23:03.689000",
+        "00:23:06.789000",
+        "to defeat you just like the hero of Centopia"
+      ],
+      [
+        1251,
+        "00:56:30.661000",
+        "00:56:34.498000",
+        "And that's the hero of Centopia stopping Toxor."
+      ],
+      [
+        1528,
+        "01:10:54.953000",
+        "01:10:58.625000",
+        "I give you the new hero of Centopia!"
+      ],
+      [
+        1651,
+        "01:16:49.274000",
+        "01:16:52.011000",
+        "[MUSIC - \"MIA AND ME THEME SONG\"]"
+      ]
+    ],
+    "regex": "\\b((?!\\bMia\\ and\\ Me:)Mia\\ and\\ Me|(?!\\bHero\\ of\\ Centopia:)Hero\\ of\\ Centopia)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

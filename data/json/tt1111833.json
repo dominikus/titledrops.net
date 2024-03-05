@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1111833",
+    "title": "Super High Me",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 2502,
+    "occurrences": [
+      [
+        60,
+        "00:02:38.542000",
+        "00:02:42.287000",
+        "called \"Super High Me\" -- or"
+      ],
+      [
+        1843,
+        "01:05:31.815000",
+        "01:05:34.020000",
+        "called \"Super High Me.\""
+      ],
+      [
+        1942,
+        "01:10:06.996000",
+        "01:10:08.534000",
+        "\"Super High Me.\""
+      ],
+      [
+        1959,
+        "01:10:39.748000",
+        "01:10:41.620000",
+        "It's just \"Super High Me\" for 60"
+      ]
+    ],
+    "regex": "\\b((?!\\bSuper\\ High\\ Me:)Super\\ High\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

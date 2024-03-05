@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt18831124",
+    "title": "The Road Dog",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1689,
+    "occurrences": [
+      [
+        19,
+        "00:02:45.566000",
+        "00:02:47.502000",
+        "Please welcome the Road Dog himself:"
+      ],
+      [
+        421,
+        "00:26:23.818000",
+        "00:26:26.187000",
+        "There he is, the Road Dog himself."
+      ],
+      [
+        463,
+        "00:28:13.494000",
+        "00:28:16.263000",
+        "you're all here to see him. He's The Road Dog."
+      ],
+      [
+        1157,
+        "01:06:08.135000",
+        "01:06:09.671000",
+        "He is The Road Dog. Put it together."
+      ],
+      [
+        1584,
+        "01:33:32.146000",
+        "01:33:35.883000",
+        "I'm talking about the legendary Road Dog himself, Jimmy Quinn!"
+      ]
+    ],
+    "regex": "\\b((?!\\bRoad\\ Dog:)Road\\ Dog)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

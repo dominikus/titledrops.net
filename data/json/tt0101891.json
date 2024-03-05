@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0101891",
+    "title": "The Five Heartbeats",
+    "year": 1991,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 6,
+    "all_lines": 779,
+    "occurrences": [
+      [
+        96,
+        "00:09:06.826000",
+        "00:09:09.226000",
+        "Ladies and gentlemen, the Five Heartbeats."
+      ],
+      [
+        115,
+        "00:12:01.466000",
+        "00:12:03.832000",
+        "One more time for the Five Heartbeats."
+      ],
+      [
+        203,
+        "00:17:03.725000",
+        "00:17:05.090000",
+        "The Five Heartbeats!"
+      ],
+      [
+        345,
+        "00:25:48.416000",
+        "00:25:51.442000",
+        "the Five Heartbeats."
+      ],
+      [
+        567,
+        "00:43:51.469000",
+        "00:43:55.531000",
+        "The Five Heartbeats singing I Got Nothing but Love."
+      ],
+      [
+        621,
+        "00:46:27.789000",
+        "00:46:32.055000",
+        "Ladies and gentlemen, the Four... Five Heartbeats."
+      ]
+    ],
+    "regex": "\\b((?!\\bFive\\ Heartbeats:)Five\\ Heartbeats)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

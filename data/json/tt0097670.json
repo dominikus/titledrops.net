@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0097670",
+    "title": "Kinjite: Forbidden Subjects",
+    "year": 1989,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 838,
+    "occurrences": [
+      [
+        79,
+        "00:09:24.644000",
+        "00:09:26.475000",
+        "But they are kinjite..."
+      ],
+      [
+        80,
+        "00:09:26.913000",
+        "00:09:30.474000",
+        "forbidden subjects, in the West."
+      ]
+    ],
+    "regex": "\\b((?!\\bKinjite:)Kinjite|(?!\\bForbidden\\ Subjects:)Forbidden\\ Subjects)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

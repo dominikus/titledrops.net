@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0062981",
+    "title": "The Girls",
+    "year": 1968,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 799,
+    "occurrences": [
+      [
+        71,
+        "00:08:44.120000",
+        "00:08:46.040000",
+        "I thought it was about boys and girls."
+      ],
+      [
+        195,
+        "00:24:33.360000",
+        "00:24:37.360000",
+        "Girls, girls! Let me be the first to take the oath!"
+      ],
+      [
+        267,
+        "00:32:07.520000",
+        "00:32:10.880000",
+        "Empty your pots over them, girls, so they cool down!"
+      ],
+      [
+        378,
+        "00:45:48.425000",
+        "00:45:52.160000",
+        "-You expected them to answer? - Where are you, girls?"
+      ],
+      [
+        403,
+        "00:48:56.280000",
+        "00:48:58.720000",
+        "Get them, girls!"
+      ],
+      [
+        747,
+        "01:33:20.620000",
+        "01:33:25.260000",
+        "They're not so bad, the girls, though I prefer them at a distance."
+      ]
+    ],
+    "regex": "\\b((?!\\bGirls:)Girls)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

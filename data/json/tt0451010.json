@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0451010",
+    "title": "One Missed Call 2",
+    "year": 2005,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 388,
+    "occurrences": [
+      [
+        0,
+        "00:01:04.898000",
+        "00:01:10.165000",
+        "One Missed Call 2"
+      ],
+      [
+        57,
+        "00:06:55.515000",
+        "00:06:58.814000",
+        "One Missed Call"
+      ],
+      [
+        69,
+        "00:07:44.330000",
+        "00:07:46.093000",
+        "One Missed Call"
+      ],
+      [
+        79,
+        "00:09:24.030000",
+        "00:09:26.521000",
+        "One Missed Call"
+      ]
+    ],
+    "regex": "\\b((?!\\bOne\\ Missed\\ Call:)One\\ Missed\\ Call)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

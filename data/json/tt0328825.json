@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0328825",
+    "title": "At the First Breath of Wind",
+    "year": 2002,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 51,
+    "occurrences": [
+      [
+        15,
+        "00:13:12.480000",
+        "00:13:16.302000",
+        "but at the first breath of wind...\""
+      ],
+      [
+        23,
+        "00:24:50.680000",
+        "00:24:53.706000",
+        "\"But at the first breath of wind..."
+      ],
+      [
+        27,
+        "00:25:42.320000",
+        "00:25:45.639000",
+        "but at the first breath of wind..."
+      ],
+      [
+        45,
+        "01:16:05.080000",
+        "01:16:08.265000",
+        "but at the first breath of wind"
+      ]
+    ],
+    "regex": "\\b((?!\\bAt\\ the\\ First\\ Breath\\ of\\ Wind:)At\\ the\\ First\\ Breath\\ of\\ Wind)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

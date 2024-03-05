@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0082329",
+    "title": "Endless Love",
+    "year": 1981,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1021,
+    "occurrences": [
+      [
+        156,
+        "00:13:14.760000",
+        "00:13:19",
+        "My endless love"
+      ],
+      [
+        170,
+        "00:14:54.160000",
+        "00:14:59.640000",
+        "My endless love"
+      ],
+      [
+        994,
+        "01:48:21.840000",
+        "01:48:26.640000",
+        "My endless love"
+      ],
+      [
+        1009,
+        "01:49:40.640000",
+        "01:49:44.800000",
+        "My endless love"
+      ],
+      [
+        1021,
+        "01:50:59.920000",
+        "01:51:03.520000",
+        "My endless love"
+      ]
+    ],
+    "regex": "\\b((?!\\bEndless\\ Love:)Endless\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

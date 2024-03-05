@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0368688",
+    "title": "Direct Action",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1287,
+    "occurrences": [
+      [
+        235,
+        "00:16:15.975000",
+        "00:16:19.770000",
+        "You've been on the Direct Action Unit for three years now."
+      ],
+      [
+        546,
+        "00:39:26.906000",
+        "00:39:29.575000",
+        "So these bad cops are part of the Direct Action Unit?"
+      ],
+      [
+        596,
+        "00:42:16.326000",
+        "00:42:20.454000",
+        "l have a little concern about this Direct Action Unit investigation."
+      ],
+      [
+        1244,
+        "01:30:06.234000",
+        "01:30:08.736000",
+        "everything you know about the Direct Action Unit?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDirect\\ Action:)Direct\\ Action)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

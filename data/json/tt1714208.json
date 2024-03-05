@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt1714208",
+    "title": "The Woman",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 778,
+    "occurrences": [
+      [
+        199,
+        "00:28:17",
+        "00:28:18.874000",
+        "This woman thinks that she is an animal."
+      ],
+      [
+        269,
+        "00:35:32.625000",
+        "00:35:34.082000",
+        "That woman."
+      ]
+    ],
+    "regex": "\\b((?!\\bWoman:)Woman)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [
+      "The Woman"
+    ],
+    "title_is_name": true,
+    "rating": 6
+  }
+]

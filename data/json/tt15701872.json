@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt15701872",
+    "title": "Birdemic 3: Sea Eagle",
+    "year": 2022,
+    "genres": [
+      "Horror",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1078,
+    "occurrences": [
+      [
+        330,
+        "00:19:56.402000",
+        "00:19:57.886000",
+        "It's a sea eagle."
+      ],
+      [
+        613,
+        "00:37:47.989000",
+        "00:37:51.061000",
+        "Last week, birds, specifically the sea eagle,"
+      ],
+      [
+        616,
+        "00:37:56.998000",
+        "00:37:59.449000",
+        "as the sea eagle flew too close to the boardwalk."
+      ],
+      [
+        617,
+        "00:38:00.485000",
+        "00:38:02.728000",
+        "Scientists are researching just how the sea eagle"
+      ]
+    ],
+    "regex": "\\b((?!\\bBirdemic:)Birdemic|(?!\\bSea\\ Eagle:)Sea\\ Eagle)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 1.5
+  }
+]

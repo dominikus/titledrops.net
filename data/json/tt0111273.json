@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0111273",
+    "title": "The St. Tammany Miracle",
+    "year": 1994,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1457,
+    "occurrences": [
+      [
+        1122,
+        "01:06:22.970000",
+        "01:06:25.010000",
+        "but you have been dubbed the St. Tammany Miracle."
+      ],
+      [
+        1145,
+        "01:07:20.975000",
+        "01:07:22.963000",
+        "- I think they call it the St. Tammany Miracle."
+      ]
+    ],
+    "regex": "\\b((?!\\bSt\\.\\ Tammany\\ Miracle:)St\\.\\ Tammany\\ Miracle)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

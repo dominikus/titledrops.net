@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt26520932",
+    "title": "Wild Life",
+    "year": 2023,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1501,
+    "occurrences": [
+      [
+        1002,
+        "00:57:48.214000",
+        "00:57:52.343000",
+        "a landscape without wild life is only a staging."
+      ],
+      [
+        1471,
+        "01:27:40.797000",
+        "01:27:43.049000",
+        "Look at all that wild life"
+      ]
+    ],
+    "regex": "\\b((?!\\bWild\\ Life:)Wild\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1345505",
+    "title": "The Pig Farm",
+    "year": 2011,
+    "genres": [
+      "Crime",
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1343,
+    "occurrences": [
+      [
+        560,
+        "00:35:36.444000",
+        "00:35:41.553000",
+        "circle of need on the pig farm."
+      ],
+      [
+        590,
+        "00:37:23.137000",
+        "00:37:25.484000",
+        "I thought it was great to be on the pig farm at the,"
+      ],
+      [
+        1035,
+        "01:05:33.136000",
+        "01:05:36.898000",
+        "this woman up his pig farm."
+      ]
+    ],
+    "regex": "\\b((?!\\bPig\\ Farm:)Pig\\ Farm)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

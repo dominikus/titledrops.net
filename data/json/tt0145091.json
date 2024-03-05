@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0145091",
+    "title": "Ecco",
+    "year": 1963,
+    "genres": [
+      "Documentary",
+      "Musical"
+    ],
+    "count": 4,
+    "all_lines": 795,
+    "occurrences": [
+      [
+        9,
+        "00:00:42.999000",
+        "00:00:47.796000",
+        "Therefore, Ecco, which means look, witness, observe,"
+      ],
+      [
+        782,
+        "01:36:03.506000",
+        "01:36:06.759000",
+        "Hopefully she will say to him ecco,"
+      ],
+      [
+        784,
+        "01:36:09.428000",
+        "01:36:11.472000",
+        "Ecco, observe the passions of men"
+      ],
+      [
+        791,
+        "01:36:27.655000",
+        "01:36:32.493000",
+        "Ecco, behold the faith that lifts some men to mountaintops,"
+      ]
+    ],
+    "regex": "\\b((?!\\bEcco:)Ecco)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

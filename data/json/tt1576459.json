@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1576459",
+    "title": "The Dreamer",
+    "year": 2009,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 688,
+    "occurrences": [
+      [
+        222,
+        "00:29:19",
+        "00:29:25",
+        "Don't be such a talker, dreamer. Singing around."
+      ],
+      [
+        608,
+        "01:47:54",
+        "01:47:58",
+        "But Arai \"The Dreamer\" always know how to regain his spirit and search for a way"
+      ]
+    ],
+    "regex": "\\b((?!\\bDreamer:)Dreamer)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

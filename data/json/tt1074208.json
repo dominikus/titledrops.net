@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1074208",
+    "title": "Quickie Express",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1169,
+    "occurrences": [
+      [
+        143,
+        "00:16:04.080000",
+        "00:16:07.200000",
+        "Welcome to the Quickie Express Training Center."
+      ],
+      [
+        257,
+        "00:26:00.280000",
+        "00:26:03.800000",
+        "Here at Quickie Express, fresh gigolos start at the bottom."
+      ],
+      [
+        287,
+        "00:29:32.240000",
+        "00:29:34.160000",
+        "Hello! Quickie Express!"
+      ],
+      [
+        376,
+        "00:38:57.600000",
+        "00:39:01.720000",
+        "I wouldn't say that the job I have at Quickie Express is easy."
+      ],
+      [
+        626,
+        "01:03:22.480000",
+        "01:03:24.520000",
+        "I have to get back to Quickie Express."
+      ]
+    ],
+    "regex": "\\b((?!\\bQuickie\\ Express:)Quickie\\ Express)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

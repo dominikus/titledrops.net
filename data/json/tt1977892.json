@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1977892",
+    "title": "Pretty Rosebud",
+    "year": 2014,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1202,
+    "occurrences": [
+      [
+        26,
+        "00:03:18.967000",
+        "00:03:20.500000",
+        "- Hello pretty rosebud."
+      ],
+      [
+        250,
+        "00:20:33.200000",
+        "00:20:35.033000",
+        "- Good morning pretty rosebud."
+      ],
+      [
+        835,
+        "00:58:04.733000",
+        "00:58:09.433000",
+        "* Good morning pretty rosebud"
+      ]
+    ],
+    "regex": "\\b((?!\\bPretty\\ Rosebud:)Pretty\\ Rosebud)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

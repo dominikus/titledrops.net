@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2603308",
+    "title": "Countdown",
+    "year": 2012,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1013,
+    "occurrences": [
+      [
+        4,
+        "00:00:18.339000",
+        "00:00:20.569000",
+        "Let's go. Almost countdown time."
+      ],
+      [
+        158,
+        "00:13:07.114000",
+        "00:13:08.075000",
+        "It's nearing countdown"
+      ],
+      [
+        352,
+        "00:21:38.317000",
+        "00:21:40.581000",
+        "Ionely countdown tonight."
+      ]
+    ],
+    "regex": "\\b((?!\\bCountdown:)Countdown)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

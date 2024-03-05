@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0099674",
+    "title": "The Godfather Part III",
+    "year": 1990,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1276,
+    "occurrences": [
+      [
+        78,
+        "00:11:49.215000",
+        "00:11:52.366000",
+        "I have something special for our godfather."
+      ],
+      [
+        160,
+        "00:20:37.415000",
+        "00:20:41.249000",
+        "- Godfather. - Don Altobello, you have such a heart."
+      ],
+      [
+        271,
+        "00:29:31.655000",
+        "00:29:36.649000",
+        "Godfather, this is the cake for you and your family from Enzo the baker."
+      ],
+      [
+        335,
+        "00:37:03.735000",
+        "00:37:07.045000",
+        "- Godfather. - Andrew."
+      ],
+      [
+        486,
+        "00:50:36.855000",
+        "00:50:43.124000",
+        "It's not personal. It's only business. You should know, Godfather."
+      ],
+      [
+        1253,
+        "02:26:23.175000",
+        "02:26:25.484000",
+        "Sleep, Godfather."
+      ]
+    ],
+    "regex": "\\b((?!\\bGodfather:)Godfather)(?!\\:)(?!'t)\\b",
+    "runtime": 162,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt3125472",
+    "title": "Coming Home",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 822,
+    "occurrences": [
+      [
+        283,
+        "00:39:56.604000",
+        "00:39:58.689000",
+        "He's alive and he's coming home."
+      ],
+      [
+        467,
+        "00:59:39.160000",
+        "00:59:41.537000",
+        "He's coming back. He's coming home."
+      ],
+      [
+        501,
+        "01:04:58.979000",
+        "01:05:00.898000",
+        "My husband is coming home soon"
+      ]
+    ],
+    "regex": "\\b((?!\\bComing\\ Home:)Coming\\ Home)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

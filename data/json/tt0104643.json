@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0104643",
+    "title": "Horror Story",
+    "year": 1993,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 417,
+    "occurrences": [
+      [
+        0,
+        "00:00:22.897000",
+        "00:00:26.903000",
+        "Horror Story"
+      ],
+      [
+        199,
+        "00:52:17.267000",
+        "00:52:21.200000",
+        "Blood is nothing rare in a horror story"
+      ],
+      [
+        202,
+        "00:52:33.130000",
+        "00:52:37.578000",
+        "One could daydream over the horror story for hours"
+      ],
+      [
+        396,
+        "01:27:16.585000",
+        "01:27:19.937000",
+        "A murder belongs in a horror story."
+      ]
+    ],
+    "regex": "\\b((?!\\bHorror\\ Story:)Horror\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

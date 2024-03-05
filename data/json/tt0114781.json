@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0114781",
+    "title": "Under Siege 2: Dark Territory",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1026,
+    "occurrences": [
+      [
+        189,
+        "00:18:34.725000",
+        "00:18:38.092000",
+        "Sounds like torpedoes. We must be in dark territory."
+      ],
+      [
+        876,
+        "01:16:25.259000",
+        "01:16:27.227000",
+        "Dark territory."
+      ],
+      [
+        893,
+        "01:17:39.767000",
+        "01:17:42.998000",
+        "Not as long as they're in dark territory. There is no reception in the canyons."
+      ]
+    ],
+    "regex": "\\b((?!\\bUnder\\ Siege:)Under\\ Siege|(?!\\bDark\\ Territory:)Dark\\ Territory)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

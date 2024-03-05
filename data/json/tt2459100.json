@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2459100",
+    "title": "The Other Shore: The Diana Nyad Story",
+    "year": 2013,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1904,
+    "occurrences": [
+      [
+        28,
+        "00:02:07.094000",
+        "00:02:11.198000",
+        "Is the real vision of that other shore."
+      ],
+      [
+        41,
+        "00:02:57.210000",
+        "00:02:59.078000",
+        "When you reach the other shore,"
+      ],
+      [
+        1903,
+        "01:35:43.438000",
+        "01:35:47.040000",
+        "And not giving up, and getting to whatever your other shore is."
+      ]
+    ],
+    "regex": "\\b((?!\\bOther\\ Shore:)Other\\ Shore|(?!\\bDiana\\ Nyad\\ Story:)Diana\\ Nyad\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

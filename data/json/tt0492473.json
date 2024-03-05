@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0492473",
+    "title": "Little Red Flowers",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 536,
+    "occurrences": [
+      [
+        100,
+        "00:15:23.040000",
+        "00:15:27.158000",
+        "Let's see who have received little red flowers today"
+      ],
+      [
+        123,
+        "00:16:42.680000",
+        "00:16:46.036000",
+        "There are five opportunities everyday to compete for little red flowers"
+      ],
+      [
+        259,
+        "00:32:14.240000",
+        "00:32:17.755000",
+        "What's the matter with this child? He hasn't got any little red flowers"
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Red\\ Flowers:)Little\\ Red\\ Flowers)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

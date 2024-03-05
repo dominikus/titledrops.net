@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt15554640",
+    "title": "Chabutro",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1898,
+    "occurrences": [
+      [
+        568,
+        "00:33:42.239000",
+        "00:33:46.079000",
+        "{\\an8}And every pol has a bird feeder which is called Chabutro."
+      ],
+      [
+        837,
+        "00:48:23.838000",
+        "00:48:26.182000",
+        "\"Can't find the Chabutro (home).\""
+      ],
+      [
+        841,
+        "00:48:33.853000",
+        "00:48:36.215000",
+        "\"Can't find the Chabutro (home).\""
+      ],
+      [
+        1892,
+        "01:49:38.751000",
+        "01:49:41.174000",
+        "\"Can't find the Chabutro (nest).\""
+      ],
+      [
+        1896,
+        "01:49:48.820000",
+        "01:49:51.158000",
+        "\"Can't find the Chabutro (nest).\""
+      ]
+    ],
+    "regex": "\\b((?!\\bChabutro:)Chabutro)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

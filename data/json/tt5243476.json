@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5243476",
+    "title": "A Song for You: The Austin City Limits Story",
+    "year": 2016,
+    "genres": [
+      "Documentary",
+      "History",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 1686,
+    "occurrences": [
+      [
+        1413,
+        "01:15:43.106000",
+        "01:15:47.677000",
+        "* Now we're alone and I am singing my song for you *"
+      ],
+      [
+        1450,
+        "01:18:08.985000",
+        "01:18:13.857000",
+        "* And we were alone and I was singing my song for you *"
+      ],
+      [
+        1686,
+        "01:30:13.576000",
+        "01:30:17.480000",
+        "* Now we're alone and I am singing my song for you **"
+      ]
+    ],
+    "regex": "\\b((?!\\bSong\\ for\\ You:)Song\\ for\\ You|(?!\\bAustin\\ City\\ Limits\\ Story:)Austin\\ City\\ Limits\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

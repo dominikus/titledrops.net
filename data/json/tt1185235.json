@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1185235",
+    "title": "The Collective",
+    "year": 2008,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 945,
+    "occurrences": [
+      [
+        8,
+        "00:02:44.531000",
+        "00:02:48.695000",
+        "But to the collective behavior of humanity. Niebuhr"
+      ],
+      [
+        9,
+        "00:02:48.835000",
+        "00:02:53.204000",
+        "The collective"
+      ],
+      [
+        631,
+        "00:47:40.190000",
+        "00:47:42.158000",
+        "You know our party we're called \"The Collective.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bCollective:)Collective)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

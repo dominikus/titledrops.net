@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt21600628",
+    "title": "A New Breed of Criminal",
+    "year": 2023,
+    "genres": [
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1159,
+    "occurrences": [
+      [
+        391,
+        "00:27:13.157000",
+        "00:27:15.677000",
+        "We are dealing with a new breed of criminal."
+      ],
+      [
+        644,
+        "00:45:40.194000",
+        "00:45:41.885000",
+        "We're a new breed of criminal."
+      ]
+    ],
+    "regex": "\\b((?!\\bNew\\ Breed\\ of\\ Criminal:)New\\ Breed\\ of\\ Criminal)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

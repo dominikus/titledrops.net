@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2973506",
+    "title": "Dolly Deadly",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 981,
+    "occurrences": [
+      [
+        820,
+        "01:13:31.240000",
+        "01:13:33.477000",
+        "being called the Dolly Deadly Murder Spree."
+      ],
+      [
+        827,
+        "01:13:44.488000",
+        "01:13:47.791000",
+        "what authorities are calling the, Dolly Deadly Murders."
+      ],
+      [
+        843,
+        "01:14:22.526000",
+        "01:14:24.193000",
+        "about this Dolly Deadly Murder Spree?"
+      ],
+      [
+        883,
+        "01:16:33.790000",
+        "01:16:35.291000",
+        "Miss Dolly Deadly!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDolly\\ Deadly:)Dolly\\ Deadly)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

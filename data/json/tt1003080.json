@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1003080",
+    "title": "The Green Elephant",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 584,
+    "occurrences": [
+      [
+        0,
+        "00:00:07.016000",
+        "00:00:09.775000",
+        "GREEN ELEPHANT"
+      ],
+      [
+        280,
+        "00:31:13.625000",
+        "00:31:21.522000",
+        "This is a song about the circus. It's called \"Green Elephant\"."
+      ],
+      [
+        283,
+        "00:31:42.409000",
+        "00:31:48.770000",
+        "Our green elephant has arrived at the orchestra, our green elephant has brought a trumpet with him"
+      ],
+      [
+        284,
+        "00:31:49.026000",
+        "00:31:55.642000",
+        "When guys were walking away the green elephant played on the trumpet."
+      ],
+      [
+        584,
+        "01:24:07.791000",
+        "01:24:23.488000",
+        "I'm a green elephant, I'm a jolly tadpole."
+      ]
+    ],
+    "regex": "\\b((?!\\bGreen\\ Elephant:)Green\\ Elephant)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

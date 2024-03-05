@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0107120",
+    "title": "Hocus Pocus",
+    "year": 1993,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1206,
+    "occurrences": [
+      [
+        363,
+        "00:29:33.471000",
+        "00:29:36.702000",
+        "Oh, come on. It's just a bunch of hocus pocus."
+      ],
+      [
+        507,
+        "00:40:15.713000",
+        "00:40:20.173000",
+        "It's just a bunch of hocus pocus!"
+      ]
+    ],
+    "regex": "\\b((?!\\bHocus\\ Pocus:)Hocus\\ Pocus)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

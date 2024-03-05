@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt1393020",
+    "title": "Sex & Drugs & Rock & Roll",
+    "year": 2010,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "count": 6,
+    "all_lines": 1584,
+    "occurrences": [
+      [
+        919,
+        "00:59:14.400000",
+        "00:59:16.391000",
+        "# Sex & drugs & rock & roll"
+      ],
+      [
+        921,
+        "00:59:22.880000",
+        "00:59:25.075000",
+        "# Sex & drugs & rock & roll"
+      ],
+      [
+        935,
+        "01:00:25.560000",
+        "01:00:29.314000",
+        "# Sex & drugs & rock & roll"
+      ],
+      [
+        936,
+        "01:00:29.680000",
+        "01:00:33.309000",
+        "# Sex & drugs & rock & roll"
+      ],
+      [
+        937,
+        "01:00:34",
+        "01:00:37.515000",
+        "AUDIENCE: # Sex & drugs & rock & roll"
+      ],
+      [
+        1375,
+        "01:32:43.520000",
+        "01:32:45.795000",
+        "the man who put the phrase \"sex & drugs & rock & roll\""
+      ]
+    ],
+    "regex": "\\b((?!\\bSex\\ \\&\\ Drugs\\ \\&\\ Rock\\ \\&\\ Roll:)Sex\\ \\&\\ Drugs\\ \\&\\ Rock\\ \\&\\ Roll)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

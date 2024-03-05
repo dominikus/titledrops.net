@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0404225",
+    "title": "Max Havoc: Curse of the Dragon",
+    "year": 2004,
+    "genres": [
+      "Action"
+    ],
+    "count": 2,
+    "all_lines": 874,
+    "occurrences": [
+      [
+        742,
+        "01:14:50.068000",
+        "01:14:51.945000",
+        "Max Havoc. Please hold."
+      ],
+      [
+        779,
+        "01:18:04.596000",
+        "01:18:08.183000",
+        "Max Havoc, it's been a long time."
+      ]
+    ],
+    "regex": "\\b((?!\\bMax\\ Havoc:)Max\\ Havoc|(?!\\bCurse\\ of\\ the\\ Dragon:)Curse\\ of\\ the\\ Dragon)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

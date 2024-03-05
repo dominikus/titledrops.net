@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2352302",
+    "title": "Always in Season",
+    "year": 2019,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1492,
+    "occurrences": [
+      [
+        25,
+        "00:00:55.600000",
+        "00:00:57.033000",
+        "narrator: \"Always in Season,\""
+      ],
+      [
+        1080,
+        "00:59:17.133000",
+        "00:59:18.633000",
+        "You were always in season."
+      ]
+    ],
+    "regex": "\\b((?!\\bAlways\\ in\\ Season:)Always\\ in\\ Season)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

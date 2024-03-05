@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0997178",
+    "title": "Say Hello for Me",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 897,
+    "occurrences": [
+      [
+        860,
+        "01:47:31.205000",
+        "01:47:35.368000",
+        "...Say hello for me,\" he said."
+      ],
+      [
+        897,
+        "01:53:10.400000",
+        "01:53:18.400000",
+        "\"Sono Toki wa Kare ni Yoroshiku\" When You See Him, Say Hello for Me"
+      ]
+    ],
+    "regex": "\\b((?!\\bSay\\ Hello\\ for\\ Me:)Say\\ Hello\\ for\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

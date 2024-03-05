@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt10736580",
+    "title": "Spell",
+    "year": 2020,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 849,
+    "occurrences": [
+      [
+        106,
+        "00:07:22.743000",
+        "00:07:25.012000",
+        "[\"I Put a Spell On You\" by Screamin' Jay Hawkins plays]"
+      ],
+      [
+        280,
+        "00:20:56.624000",
+        "00:20:59.360000",
+        "All right? And then we can talk ourselves a spell."
+      ],
+      [
+        555,
+        "00:46:37.531000",
+        "00:46:41.868000",
+        "for a spell, who you are."
+      ],
+      [
+        618,
+        "01:00:25.292000",
+        "01:00:28.795000",
+        "\"Blood moon. Transference of life spell.\""
+      ],
+      [
+        624,
+        "01:00:44.778000",
+        "01:00:48.382000",
+        "Oh, my God. They're putting a spell on me."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpell:)Spell)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

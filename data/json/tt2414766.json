@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt2414766",
+    "title": "Frequencies",
+    "year": 2013,
+    "genres": [
+      "Mystery",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 1261,
+    "occurrences": [
+      [
+        76,
+        "00:07:07.369000",
+        "00:07:10.924000",
+        "Those with the lower frequencies need a minimum of 700 signifiers."
+      ],
+      [
+        435,
+        "00:35:45.234000",
+        "00:35:47.151000",
+        "We leave the Low-Frequencies."
+      ],
+      [
+        439,
+        "00:36:01.506000",
+        "00:36:03.639000",
+        "Now just through the High-Frequencies."
+      ],
+      [
+        714,
+        "00:59:05.512000",
+        "00:59:10.245000",
+        "- You steal people's frequencies? - It's just physics."
+      ],
+      [
+        783,
+        "01:03:21.109000",
+        "01:03:24.249000",
+        "In this case, the word to balance frequencies is \"Rana\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bFrequencies:)Frequencies)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

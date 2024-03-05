@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0373883",
+    "title": "Halloween",
+    "year": 2007,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 687,
+    "occurrences": [
+      [
+        267,
+        "00:24:25.844000",
+        "00:24:27.471000",
+        "Happy Halloween, Boo."
+      ],
+      [
+        318,
+        "00:27:50.648000",
+        "00:27:52.843000",
+        "that night, Halloween?."
+      ]
+    ],
+    "regex": "\\b((?!\\bHalloween:)Halloween)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

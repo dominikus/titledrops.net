@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt11286314",
+    "title": "Don't Look Up",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 2342,
+    "occurrences": [
+      [
+        1877,
+        "01:39:58",
+        "01:40:00.500000",
+        "- -  Don't look up!"
+      ],
+      [
+        1879,
+        "01:40:02.916000",
+        "01:40:05",
+        "Don't look up!"
+      ],
+      [
+        1903,
+        "01:41:08.166000",
+        "01:41:11.375000",
+        "-  Don't look up! - Don't!"
+      ],
+      [
+        1998,
+        "01:47:36.875000",
+        "01:47:40.291000",
+        "Don't look up."
+      ]
+    ],
+    "regex": "\\b((?!\\bDon't\\ Look\\ Up:)Don't\\ Look\\ Up)(?!\\:)(?!'t)\\b",
+    "runtime": 138,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1999987",
+    "title": "Breathe In",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 769,
+    "occurrences": [
+      [
+        447,
+        "00:37:00.054000",
+        "00:37:02.426000",
+        "And breathe in through your nose..."
+      ],
+      [
+        449,
+        "00:37:08.731000",
+        "00:37:10.375000",
+        "Breathe in..."
+      ]
+    ],
+    "regex": "\\b((?!\\bBreathe\\ In:)Breathe\\ In)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

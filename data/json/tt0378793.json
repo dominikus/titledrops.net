@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0378793",
+    "title": "Speak",
+    "year": 2004,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 753,
+    "occurrences": [
+      [
+        46,
+        "00:06:06.817000",
+        "00:06:08.317000",
+        "She doesn't speak English."
+      ],
+      [
+        491,
+        "00:57:42.340000",
+        "00:57:44.591000",
+        "The Suffragettes fought for their right to speak."
+      ],
+      [
+        526,
+        "00:59:44.597000",
+        "00:59:48.397000",
+        "The Suffragettes were all about speaking up. You can't speak up for your rights"
+      ],
+      [
+        529,
+        "00:59:54.798000",
+        "00:59:56.898000",
+        "but you can't make a difference unless you speak up."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpeak:)Speak)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

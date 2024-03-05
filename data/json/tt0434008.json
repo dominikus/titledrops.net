@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0434008",
+    "title": "Election",
+    "year": 2005,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1046,
+    "occurrences": [
+      [
+        110,
+        "00:10:01.434000",
+        "00:10:05.495000",
+        "The Triad election is a tradition over 100 years old"
+      ],
+      [
+        215,
+        "00:16:18.310000",
+        "00:16:20.608000",
+        "But if bribery corrupts this election"
+      ],
+      [
+        341,
+        "00:25:55.353000",
+        "00:25:57.412000",
+        "We had an election"
+      ],
+      [
+        862,
+        "01:13:14.323000",
+        "01:13:17.690000",
+        "I'll support you at the next election"
+      ],
+      [
+        965,
+        "01:22:06.588000",
+        "01:22:11.491000",
+        "He beat me at the election"
+      ]
+    ],
+    "regex": "\\b((?!\\bElection:)Election)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

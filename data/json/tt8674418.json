@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt8674418",
+    "title": "24 Kisses",
+    "year": 2018,
+    "genres": [
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1519,
+    "occurrences": [
+      [
+        201,
+        "00:16:09.841000",
+        "00:16:12.425000",
+        "So, there is a divine significance for these 24 kisses"
+      ],
+      [
+        202,
+        "00:16:12.425000",
+        "00:16:16.300000",
+        "Added to it, 24 is a number, 24 times and 24 kisses"
+      ]
+    ],
+    "regex": "\\b((?!\\b24\\ Kisses:)24\\ Kisses)(?!\\:)(?!'t)\\b",
+    "runtime": 140,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

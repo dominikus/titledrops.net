@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0109449",
+    "title": "The Club",
+    "year": 1994,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 942,
+    "occurrences": [
+      [
+        455,
+        "00:48:12.411000",
+        "00:48:14.920000",
+        "Suicide gets you into the club."
+      ],
+      [
+        629,
+        "01:01:23.986000",
+        "01:01:25.437000",
+        "A lonely member of the club."
+      ],
+      [
+        911,
+        "01:28:41.049000",
+        "01:28:42.403000",
+        "Welcome to the club."
+      ]
+    ],
+    "regex": "\\b((?!\\bClub:)Club)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

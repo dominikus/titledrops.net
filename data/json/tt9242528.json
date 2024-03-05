@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt9242528",
+    "title": "The Survivor",
+    "year": 2021,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 6,
+    "all_lines": 1198,
+    "occurrences": [
+      [
+        3,
+        "00:03:11.946000",
+        "00:03:17.697000",
+        "The pride of Poland and the survivor of Auschwitz,"
+      ],
+      [
+        59,
+        "00:08:07.105000",
+        "00:08:08.647000",
+        "I'm the survivor of Auschwitz."
+      ],
+      [
+        142,
+        "00:13:05.723000",
+        "00:13:08.472000",
+        "I'm the survivor of Auschwitz."
+      ],
+      [
+        433,
+        "00:40:16.182000",
+        "00:40:19.891000",
+        "Every survivor in this city passes through my office."
+      ],
+      [
+        608,
+        "00:53:31.497000",
+        "00:53:34.537000",
+        "Ask yourself, is this truly a survivor's move..."
+      ],
+      [
+        801,
+        "01:09:24.764000",
+        "01:09:28.514000",
+        "The survivor of Auschwitz,"
+      ]
+    ],
+    "regex": "\\b((?!\\bSurvivor:)Survivor)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

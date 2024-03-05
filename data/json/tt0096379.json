@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0096379",
+    "title": "Vice Academy",
+    "year": 1989,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1437,
+    "occurrences": [
+      [
+        1112,
+        "01:08:02.987000",
+        "01:08:05.698000",
+        "we're students at the Vice Academy."
+      ],
+      [
+        1279,
+        "01:19:04.481000",
+        "01:19:07.443000",
+        "Graduating the Vice Academy is an honor"
+      ]
+    ],
+    "regex": "\\b((?!\\bVice\\ Academy:)Vice\\ Academy)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

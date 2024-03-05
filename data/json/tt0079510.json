@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt0079510",
+    "title": "The Main Event",
+    "year": 1979,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Sport"
+    ],
+    "count": 1,
+    "all_lines": 1420,
+    "occurrences": [
+      [
+        1382,
+        "01:34:12.780000",
+        "01:34:16.898000",
+        "this is the main event of the evening. 10 rounds of boxing..."
+      ]
+    ],
+    "regex": "\\b((?!\\bMain\\ Event:)Main\\ Event)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

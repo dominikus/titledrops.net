@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2040281",
+    "title": "Beauty Is Embarrassing",
+    "year": 2012,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1998,
+    "occurrences": [
+      [
+        25,
+        "00:00:56.489000",
+        "00:00:59.492000",
+        "Beauty is embarrassing next."
+      ],
+      [
+        166,
+        "00:07:54.740000",
+        "00:07:58.044000",
+        "It says, \"beauty is embarrassing.\""
+      ],
+      [
+        167,
+        "00:07:58.077000",
+        "00:08:01.747000",
+        "Now, what do I mean by that, \"beauty is embarrassing\"?"
+      ],
+      [
+        1920,
+        "01:22:07.722000",
+        "01:22:09.658000",
+        "- Beauty is embarrassing."
+      ]
+    ],
+    "regex": "\\b((?!\\bBeauty\\ Is\\ Embarrassing:)Beauty\\ Is\\ Embarrassing)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

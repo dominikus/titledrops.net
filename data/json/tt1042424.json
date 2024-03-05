@@ -1,0 +1,34 @@
+[
+  {
+    "imdb": "tt1042424",
+    "title": "Johnny Mad Dog",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 849,
+    "occurrences": [
+      [
+        231,
+        "00:18:50.852000",
+        "00:18:54.392000",
+        "l'm Johnny Mad Dog, Small Boy Unit commander."
+      ],
+      [
+        395,
+        "00:36:51.582000",
+        "00:36:52.872000",
+        "Johnny Mad Dog!"
+      ]
+    ],
+    "regex": "\\b((?!\\bJohnny\\ Mad\\ Dog:)Johnny\\ Mad\\ Dog)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [
+      "Johnny Mad Dog"
+    ],
+    "title_is_name": true,
+    "rating": 6.7
+  }
+]

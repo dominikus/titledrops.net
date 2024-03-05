@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0113305",
+    "title": "Higher Learning",
+    "year": 1995,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1219,
+    "occurrences": [
+      [
+        1080,
+        "01:43:04.210000",
+        "01:43:07.480000",
+        "What is higher learning?"
+      ],
+      [
+        1082,
+        "01:43:11.010000",
+        "01:43:13.750000",
+        "What is higher learning?"
+      ],
+      [
+        1165,
+        "01:55:47.820000",
+        "01:55:52.280000",
+        "This is Columbus University, one of our greatest center of higher learning."
+      ]
+    ],
+    "regex": "\\b((?!\\bHigher\\ Learning:)Higher\\ Learning)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

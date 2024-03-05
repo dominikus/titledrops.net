@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt15509560",
+    "title": "The Last Mountain",
+    "year": 2021,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1271,
+    "occurrences": [
+      [
+        74,
+        "00:06:34.920000",
+        "00:06:41.359000",
+        "And Tom asked if he and Kate could see their mum's last mountain."
+      ],
+      [
+        77,
+        "00:06:49.680000",
+        "00:06:53.599000",
+        "and more importantly, their mum's last mountain."
+      ],
+      [
+        415,
+        "00:32:01.320000",
+        "00:32:03.840000",
+        "which was Mum's last mountain."
+      ],
+      [
+        418,
+        "00:32:12.360000",
+        "00:32:14.560000",
+        "to visit Tom's last mountain."
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Mountain:)Last\\ Mountain)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

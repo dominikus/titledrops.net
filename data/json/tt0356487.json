@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0356487",
+    "title": "Whisky Romeo Zulu",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 883,
+    "occurrences": [
+      [
+        795,
+        "01:34:18",
+        "01:34:20",
+        "...and Whisky Romeo Zulu's technical logs."
+      ],
+      [
+        799,
+        "01:38:46",
+        "01:38:49",
+        "On August 31, 1999 a Lapa B737 registered Whisky Romeo Zulu,"
+      ],
+      [
+        816,
+        "01:39:31",
+        "01:39:36",
+        "There's a registration over there with the name Whisky Romeo Zulu."
+      ]
+    ],
+    "regex": "\\b((?!\\bWhisky\\ Romeo\\ Zulu:)Whisky\\ Romeo\\ Zulu)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

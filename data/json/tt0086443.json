@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0086443",
+    "title": "Timerider: The Adventure of Lyle Swann",
+    "year": 1982,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 834,
+    "occurrences": [
+      [
+        4,
+        "00:00:34.034000",
+        "00:00:36.168000",
+        "TO PROJECT TIMERIDER."
+      ],
+      [
+        5,
+        "00:00:36.169000",
+        "00:00:39.555000",
+        "PROJECT TIMERIDER IS THE 16th IN OUR SERIES..."
+      ],
+      [
+        106,
+        "00:11:05.931000",
+        "00:11:09.818000",
+        " TIMERIDER, YOUR SENDBACK IS COMMITTED."
+      ]
+    ],
+    "regex": "\\b((?!\\bTimerider:)Timerider|(?!\\bAdventure\\ of\\ Lyle\\ Swann:)Adventure\\ of\\ Lyle\\ Swann)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

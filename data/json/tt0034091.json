@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0034091",
+    "title": "The Reluctant Dragon",
+    "year": 1941,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 304,
+    "occurrences": [
+      [
+        115,
+        "01:01:03.573000",
+        "01:01:05.211000",
+        "I'm the reluctant dragon"
+      ],
+      [
+        117,
+        "01:01:07.373000",
+        "01:01:08.852000",
+        "The very reluctant dragon"
+      ]
+    ],
+    "regex": "\\b((?!\\bReluctant\\ Dragon:)Reluctant\\ Dragon)(?!\\:)(?!'t)\\b",
+    "runtime": 74,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

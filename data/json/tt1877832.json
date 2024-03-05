@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt1877832",
+    "title": "X-Men: Days of Future Past",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 1,
+    "all_lines": 2101,
+    "occurrences": [
+      [
+        1652,
+        "01:32:38.010000",
+        "01:32:40.680000",
+        "The X-Men."
+      ]
+    ],
+    "regex": "\\b((?!\\bX\\-Men:)X\\-Men|(?!\\bDays\\ of\\ Future\\ Past:)Days\\ of\\ Future\\ Past)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

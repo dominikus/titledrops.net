@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt22015520",
+    "title": "Charles Enterprises",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2095,
+    "occurrences": [
+      [
+        121,
+        "00:11:07.284000",
+        "00:11:12.951000",
+        "'Charles Enterprises'"
+      ],
+      [
+        2069,
+        "02:07:37.784000",
+        "02:07:43.159000",
+        "\"Every story before us turns mystic and fallacious\" 'Charles Enterprises'"
+      ]
+    ],
+    "regex": "\\b((?!\\bCharles\\ Enterprises:)Charles\\ Enterprises)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

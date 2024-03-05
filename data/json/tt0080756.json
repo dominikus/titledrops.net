@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0080756",
+    "title": "Foxes",
+    "year": 1980,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1359,
+    "occurrences": [
+      [
+        458,
+        "00:33:00.590000",
+        "00:33:03.770000",
+        "They're looking good Like foxes should"
+      ],
+      [
+        463,
+        "00:33:24.440000",
+        "00:33:35.010000",
+        "Twentieth Century Foxes!"
+      ]
+    ],
+    "regex": "\\b((?!\\bFoxes:)Foxes)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

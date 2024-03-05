@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt4511200",
+    "title": "Manifesto",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 928,
+    "occurrences": [
+      [
+        1,
+        "00:01:19.538000",
+        "00:01:23.133000",
+        "To put out a manifesto, you must want A, B,"
+      ],
+      [
+        14,
+        "00:02:00.287000",
+        "00:02:05.293000",
+        "I'm writing a manifesto because I have nothing to say."
+      ]
+    ],
+    "regex": "\\b((?!\\bManifesto:)Manifesto)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt9840958",
+    "title": "Love Struck Sick",
+    "year": 2019,
+    "genres": [
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1944,
+    "occurrences": [
+      [
+        267,
+        "00:10:57.312000",
+        "00:11:00.762000",
+        "He has a song that is called Love Struck Sick."
+      ],
+      [
+        421,
+        "00:19:26.398000",
+        "00:19:30.315000",
+        "I've fallen love struck sick"
+      ],
+      [
+        670,
+        "00:28:49.291000",
+        "00:28:50.131000",
+        "- \"Love Struck Sick.\""
+      ],
+      [
+        671,
+        "00:28:50.131000",
+        "00:28:51.388000",
+        "- \"Love Struck Sick.\""
+      ],
+      [
+        1849,
+        "01:24:12.910000",
+        "01:24:16.827000",
+        "I've fallen love struck sick"
+      ]
+    ],
+    "regex": "\\b((?!\\bLove\\ Struck\\ Sick:)Love\\ Struck\\ Sick)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

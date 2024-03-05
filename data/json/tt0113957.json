@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0113957",
+    "title": "The Net",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1352,
+    "occurrences": [
+      [
+        72,
+        "00:06:20.922000",
+        "00:06:23.425000",
+        "The net is ultimate condom."
+      ],
+      [
+        340,
+        "00:25:48.005000",
+        "00:25:51.675000",
+        "I reckon you gotta try a few things in life without a safety net or..."
+      ]
+    ],
+    "regex": "\\b((?!\\bNet:)Net)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt4485178",
+    "title": "I Am a Soldier",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 732,
+    "occurrences": [
+      [
+        503,
+        "00:48:44.975000",
+        "00:48:51.810000",
+        "I am a soldier, like others there"
+      ],
+      [
+        511,
+        "00:49:44.084000",
+        "00:49:49.139000",
+        "I am a soldier, like others there"
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Am\\ a\\ Soldier:)I\\ Am\\ a\\ Soldier)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt12515958",
+    "title": "Innocence",
+    "year": 2020,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1408,
+    "occurrences": [
+      [
+        101,
+        "00:06:43.639000",
+        "00:06:48.352000",
+        "Innocence"
+      ],
+      [
+        737,
+        "00:48:04.119000",
+        "00:48:06.663000",
+        "Proving the innocence of an obvious murderer."
+      ],
+      [
+        738,
+        "00:48:09.833000",
+        "00:48:13.587000",
+        "Just watch me, I'll prove her innocence."
+      ],
+      [
+        1371,
+        "01:41:25.320000",
+        "01:41:30.325000",
+        "The defense insists on Chae Hwa-ja's innocence,"
+      ],
+      [
+        1408,
+        "01:46:45.599000",
+        "01:46:50.479000",
+        "Innocence"
+      ]
+    ],
+    "regex": "\\b((?!\\bInnocence:)Innocence)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

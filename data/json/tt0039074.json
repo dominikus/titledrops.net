@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0039074",
+    "title": "Utamaro and His Five Women",
+    "year": 1946,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 933,
+    "occurrences": [
+      [
+        1,
+        "00:00:13.847000",
+        "00:00:20.019000",
+        "Utamaro And His Five Women"
+      ],
+      [
+        933,
+        "01:34:39.886000",
+        "01:34:46.309000",
+        "Utamaro and His Five Women The End"
+      ]
+    ],
+    "regex": "\\b((?!\\bUtamaro\\ and\\ His\\ Five\\ Women:)Utamaro\\ and\\ His\\ Five\\ Women)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0110737",
+    "title": "Only You",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1660,
+    "occurrences": [
+      [
+        0,
+        "00:00:22.147000",
+        "00:00:25.192000",
+        "Only you"
+      ],
+      [
+        2,
+        "00:00:33.200000",
+        "00:00:35.870000",
+        "Only you"
+      ],
+      [
+        4,
+        "00:00:44.587000",
+        "00:00:48.800000",
+        "Only you and you alone"
+      ],
+      [
+        7,
+        "00:00:58.726000",
+        "00:01:02.730000",
+        "With love for only you"
+      ],
+      [
+        8,
+        "00:01:04.899000",
+        "00:01:08.569000",
+        "Baby, only you"
+      ]
+    ],
+    "regex": "\\b((?!\\bOnly\\ You:)Only\\ You)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

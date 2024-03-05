@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt11418284",
+    "title": "The Art of Love",
+    "year": 2022,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1307,
+    "occurrences": [
+      [
+        72,
+        "00:08:16.720000",
+        "00:08:22.880000",
+        "Hi everybody, and welcome to the 'Art of Love' Tester Conference!"
+      ],
+      [
+        86,
+        "00:09:37.840000",
+        "00:09:40.160000",
+        "The \"Art of Love.\""
+      ],
+      [
+        87,
+        "00:09:43.440000",
+        "00:09:45.440000",
+        "The \"Art of Love!\""
+      ],
+      [
+        116,
+        "00:11:50.560000",
+        "00:11:54",
+        "So, this year, the \"Art of Love\" Award"
+      ],
+      [
+        1305,
+        "01:42:24.120000",
+        "01:42:27.600000",
+        "the art of love."
+      ]
+    ],
+    "regex": "\\b((?!\\bArt\\ of\\ Love:)Art\\ of\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

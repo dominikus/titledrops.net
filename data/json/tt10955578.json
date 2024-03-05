@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt10955578",
+    "title": "Action",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1944,
+    "occurrences": [
+      [
+        36,
+        "00:04:36.120000",
+        "00:04:37.440000",
+        "It'll be action all the way!"
+      ],
+      [
+        922,
+        "01:02:48.400000",
+        "01:02:50.760000",
+        "Is only 'Action King' Arjun allowed to hack your account?"
+      ],
+      [
+        1747,
+        "02:02:37.640000",
+        "02:02:38.880000",
+        "It's time for action!"
+      ]
+    ],
+    "regex": "\\b((?!\\bAction:)Action)(?!\\:)(?!'t)\\b",
+    "runtime": 158,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

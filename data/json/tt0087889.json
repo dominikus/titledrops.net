@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0087889",
+    "title": "The Party Animal",
+    "year": 1984,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 571,
+    "occurrences": [
+      [
+        315,
+        "00:32:55.020000",
+        "00:32:57.181000",
+        "Party animal."
+      ],
+      [
+        514,
+        "01:03:37.627000",
+        "01:03:40.619000",
+        "- I'm a party animal. - Yeah, I can see that."
+      ]
+    ],
+    "regex": "\\b((?!\\bParty\\ Animal:)Party\\ Animal)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

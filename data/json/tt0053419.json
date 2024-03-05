@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0053419",
+    "title": "Life Around Us",
+    "year": 1959,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1318,
+    "occurrences": [
+      [
+        31,
+        "00:02:15.899000",
+        "00:02:22.681000",
+        "Life and love, life around us"
+      ],
+      [
+        40,
+        "00:03:16.966000",
+        "00:03:20.420000",
+        "life around us."
+      ]
+    ],
+    "regex": "\\b((?!\\bLife\\ Around\\ Us:)Life\\ Around\\ Us)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

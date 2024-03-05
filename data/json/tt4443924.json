@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt4443924",
+    "title": "Happy Journey",
+    "year": 2014,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 967,
+    "occurrences": [
+      [
+        224,
+        "00:31:25.807000",
+        "00:31:27.893000",
+        "Just buy this Happy Journey."
+      ],
+      [
+        225,
+        "00:31:29.521000",
+        "00:31:32.443000",
+        "-\"Happy Journey\"? -Yeah. This van..."
+      ],
+      [
+        282,
+        "00:37:20.936000",
+        "00:37:24.860000",
+        "Hey, just buy Happy Journey."
+      ]
+    ],
+    "regex": "\\b((?!\\bHappy\\ Journey:)Happy\\ Journey)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

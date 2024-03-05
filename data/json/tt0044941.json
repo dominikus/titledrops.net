@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0044941",
+    "title": "My Son John",
+    "year": 1952,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 2533,
+    "occurrences": [
+      [
+        628,
+        "00:28:40.373000",
+        "00:28:43.710000",
+        "my son John went to bed with his stockings on."
+      ],
+      [
+        631,
+        "00:28:46.296000",
+        "00:28:47.714000",
+        "my son John."
+      ],
+      [
+        635,
+        "00:28:52.052000",
+        "00:28:53.929000",
+        "my son John went to bed..."
+      ],
+      [
+        639,
+        "00:28:57.141000",
+        "00:28:59.017000",
+        "my son John went to bed"
+      ],
+      [
+        2245,
+        "01:43:22.767000",
+        "01:43:24.769000",
+        "My son John, my son John,"
+      ],
+      [
+        2246,
+        "01:43:24.811000",
+        "01:43:26.313000",
+        "my son John..."
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Son\\ John:)My\\ Son\\ John)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

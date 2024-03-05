@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt8672508",
+    "title": "National Theatre Live: Julie",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 745,
+    "occurrences": [
+      [
+        57,
+        "00:09:52.891000",
+        "00:09:55.519000",
+        "if it's too evil for Julie it's too evil for Diana"
+      ],
+      [
+        195,
+        "00:23:18.682000",
+        "00:23:21.288000",
+        "- To Julie - Thank you"
+      ]
+    ],
+    "regex": "\\b((?!\\bNational\\ Theatre\\ Live:)National\\ Theatre\\ Live|(?!\\bJulie:)Julie)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

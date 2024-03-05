@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt1302067",
+    "title": "Yogi Bear",
+    "year": 2010,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1322,
+    "occurrences": [
+      [
+        225,
+        "00:11:35.177000",
+        "00:11:39.671000",
+        "Yogi Bear, a brown bear commonly found in North America and Alaska."
+      ],
+      [
+        361,
+        "00:18:01.797000",
+        "00:18:05.893000",
+        "Getting your food stolen by Yogi Bear is special. People come here for that."
+      ]
+    ],
+    "regex": "\\b((?!\\bYogi\\ Bear:)Yogi\\ Bear)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [
+      "Yogi Bear"
+    ],
+    "title_is_name": true,
+    "rating": 4.6
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt12870980",
+    "title": "Help",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1054,
+    "occurrences": [
+      [
+        38,
+        "00:01:52.712000",
+        "00:01:54.479000",
+        "Okay, then help me."
+      ],
+      [
+        39,
+        "00:01:54.512000",
+        "00:01:56.615000",
+        "Help me to see a future in this relationship."
+      ],
+      [
+        983,
+        "01:25:13.995000",
+        "01:25:16.399000",
+        "You really need some help. This isn't normal."
+      ]
+    ],
+    "regex": "\\b((?!\\bHelp:)Help)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

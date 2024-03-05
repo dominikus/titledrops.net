@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0093093",
+    "title": "The Glass Menagerie",
+    "year": 1987,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2788,
+    "occurrences": [
+      [
+        353,
+        "00:18:50.879000",
+        "00:18:54.675000",
+        "Amuse ourselves with the little glass menagerie?"
+      ],
+      [
+        2358,
+        "01:48:44.768000",
+        "01:48:48.647000",
+        "My mother calls them my glass menagerie."
+      ]
+    ],
+    "regex": "\\b((?!\\bGlass\\ Menagerie:)Glass\\ Menagerie)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

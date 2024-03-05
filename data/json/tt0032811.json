@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0032811",
+    "title": "The Mortal Storm",
+    "year": 1940,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1682,
+    "occurrences": [
+      [
+        0,
+        "00:00:02.009000",
+        "00:00:04.012000",
+        "The Mortal Storm (1940) PAL 25fps 1:40:19"
+      ],
+      [
+        13,
+        "00:02:17.726000",
+        "00:02:22.335000",
+        "is of the mortal storm in which man finds himself today."
+      ]
+    ],
+    "regex": "\\b((?!\\bMortal\\ Storm:)Mortal\\ Storm)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7517232",
+    "title": "I Lost Albert",
+    "year": 2018,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1467,
+    "occurrences": [
+      [
+        442,
+        "00:28:19.490000",
+        "00:28:22.905000",
+        "- I lost Albert - Lost?"
+      ],
+      [
+        1433,
+        "01:33:09.532000",
+        "01:33:13.281000",
+        "\"I lost Albert I'm alone on Earth...\""
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Lost\\ Albert:)I\\ Lost\\ Albert)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

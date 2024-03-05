@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0070586",
+    "title": "Nothing to Report",
+    "year": 1973,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1404,
+    "occurrences": [
+      [
+        100,
+        "00:08:11.743000",
+        "00:08:13.282000",
+        "Nothing to report, eh?"
+      ],
+      [
+        762,
+        "00:52:51.660000",
+        "00:52:52.835000",
+        "Nothing to report?"
+      ],
+      [
+        871,
+        "01:00:23.620000",
+        "01:00:24.937000",
+        "Nothing to report?"
+      ]
+    ],
+    "regex": "\\b((?!\\bNothing\\ to\\ Report:)Nothing\\ to\\ Report)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

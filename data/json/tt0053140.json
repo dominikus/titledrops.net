@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0053140",
+    "title": "Operation Amsterdam",
+    "year": 1959,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 776,
+    "occurrences": [
+      [
+        18,
+        "00:03:31.678000",
+        "00:03:35.637000",
+        "But the key man on Operation Amsterdam was Jan Smit..."
+      ],
+      [
+        36,
+        "00:04:23.463000",
+        "00:04:26.728000",
+        "Operation Amsterdam has been given the highest possibIe priority."
+      ]
+    ],
+    "regex": "\\b((?!\\bOperation\\ Amsterdam:)Operation\\ Amsterdam)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

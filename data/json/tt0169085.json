@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0169085",
+    "title": "A Promise",
+    "year": 1986,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 870,
+    "occurrences": [
+      [
+        1,
+        "00:00:07.480000",
+        "00:00:10.699000",
+        "THE HUMAN PROMISE"
+      ],
+      [
+        844,
+        "01:52:37.120000",
+        "01:52:42.820000",
+        "The law is nothing else than a human promise."
+      ]
+    ],
+    "regex": "\\b((?!\\bPromise:)Promise)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

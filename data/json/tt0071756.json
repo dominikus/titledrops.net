@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0071756",
+    "title": "Lifespan",
+    "year": 1975,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 1132,
+    "occurrences": [
+      [
+        6,
+        "00:01:13.023000",
+        "00:01:18.162000",
+        "70 years says the bible... is the lifespan allotted to mankind."
+      ],
+      [
+        7,
+        "00:01:18.362000",
+        "00:01:23.209000",
+        "Medical and technological progress have not substantially increased this lifespan,"
+      ],
+      [
+        215,
+        "00:13:09.500000",
+        "00:13:12.200000",
+        "With mice, the entire lifespan is only about two years."
+      ],
+      [
+        433,
+        "00:25:54.680000",
+        "00:25:57.440000",
+        "And by the end of the decade, we may see a lifespan of well over 100."
+      ],
+      [
+        440,
+        "00:26:10.420000",
+        "00:26:12.570000",
+        "It has a long lifespan and few offspring."
+      ]
+    ],
+    "regex": "\\b((?!\\bLifespan:)Lifespan)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

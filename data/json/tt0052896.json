@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0052896",
+    "title": "A Hole in the Head",
+    "year": 1959,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1702,
+    "occurrences": [
+      [
+        725,
+        "00:48:19.920000",
+        "00:48:22.718000",
+        "- Pop, you got a hole in the head. - I know."
+      ],
+      [
+        1634,
+        "01:49:35.480000",
+        "01:49:38.677000",
+        "I need you like I need a hole in the head."
+      ]
+    ],
+    "regex": "\\b((?!\\bHole\\ in\\ the\\ Head:)Hole\\ in\\ the\\ Head)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

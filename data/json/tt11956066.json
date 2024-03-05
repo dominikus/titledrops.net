@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt11956066",
+    "title": "Underground",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 877,
+    "occurrences": [
+      [
+        576,
+        "01:01:58.375000",
+        "01:01:59.625000",
+        "You're not underground?"
+      ],
+      [
+        606,
+        "01:07:22.583000",
+        "01:07:26.042000",
+        "There was an explosion underground, we're in a state of emergency."
+      ]
+    ],
+    "regex": "\\b((?!\\bUnderground:)Underground)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

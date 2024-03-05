@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt2569236",
+    "title": "Suddenly",
+    "year": 2013,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1241,
+    "occurrences": [
+      [
+        120,
+        "00:10:14.447000",
+        "00:10:15.744000",
+        "Right here in Suddenly?"
+      ],
+      [
+        153,
+        "00:11:35.862000",
+        "00:11:38.240000",
+        "I swear, the president's coming to Suddenly."
+      ],
+      [
+        255,
+        "00:16:58.684000",
+        "00:16:59.810000",
+        "You're from Suddenly?"
+      ],
+      [
+        1211,
+        "01:21:16.872000",
+        "01:21:19.500000",
+        "Mister President, welcome to Suddenly."
+      ]
+    ],
+    "regex": "\\b((?!\\bSuddenly:)Suddenly)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

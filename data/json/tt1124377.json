@@ -1,0 +1,53 @@
+[
+  {
+    "imdb": "tt1124377",
+    "title": "John Rabe",
+    "year": 2009,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 5,
+    "all_lines": 653,
+    "occurrences": [
+      [
+        11,
+        "00:02:50.416000",
+        "00:02:52.832000",
+        "Put me through to John Rabe."
+      ],
+      [
+        56,
+        "00:05:24.583000",
+        "00:05:26.832000",
+        "l'm John Rabe. Welcome to Nanking."
+      ],
+      [
+        347,
+        "00:45:30.041000",
+        "00:45:34.082000",
+        "Tell me what thoughts are inside that head of yours, John Rabe."
+      ],
+      [
+        647,
+        "02:08:05.916000",
+        "02:08:08.749000",
+        "John Rabe was arrested as a suspected collaborator of the Chinese."
+      ],
+      [
+        651,
+        "02:08:18.625000",
+        "02:08:22.457000",
+        "John Rabe was at first refused denazification by the Allies."
+      ]
+    ],
+    "regex": "\\b((?!\\bJohn\\ Rabe:)John\\ Rabe)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [
+      "John Rabe"
+    ],
+    "title_is_name": true,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0232293",
+    "title": "Paul Is Dead",
+    "year": 2000,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 653,
+    "occurrences": [
+      [
+        199,
+        "00:21:32.750000",
+        "00:21:34.750000",
+        "Paul is dead!"
+      ],
+      [
+        501,
+        "00:50:24.700000",
+        "00:50:28.200000",
+        "So, Linda is crying because Paul is dead."
+      ],
+      [
+        518,
+        "00:52:43.100000",
+        "00:52:46.800000",
+        "Ever since you told him this \"Paul is dead\" story, he's been even more annoying than before."
+      ]
+    ],
+    "regex": "\\b((?!\\bPaul\\ Is\\ Dead:)Paul\\ Is\\ Dead)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

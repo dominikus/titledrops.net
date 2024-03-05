@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt24667568",
+    "title": "Ultimate Oppa",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1395,
+    "occurrences": [
+      [
+        1364,
+        "01:44:07.831000",
+        "01:44:09.958000",
+        "may not actually be your Ultimate Oppa."
+      ],
+      [
+        1365,
+        "01:44:10.042000",
+        "01:44:12.669000",
+        "Instead of the Ultimate Oppa,"
+      ],
+      [
+        1376,
+        "01:44:48.038000",
+        "01:44:51.041000",
+        "What would you do if he were your Ultimate Oppa?"
+      ],
+      [
+        1379,
+        "01:44:56.505000",
+        "01:44:59.341000",
+        "And never let your Ultimate Oppa go."
+      ]
+    ],
+    "regex": "\\b((?!\\bUltimate\\ Oppa:)Ultimate\\ Oppa)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0086993",
+    "title": "The Bounty",
+    "year": 1984,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "count": 7,
+    "all_lines": 1133,
+    "occurrences": [
+      [
+        5,
+        "00:04:52.020000",
+        "00:04:55.420000",
+        "of His Majesty's armed vessel, The Bounty,"
+      ],
+      [
+        68,
+        "00:08:40.820000",
+        "00:08:42.940000",
+        "I only say the Bounty's too small."
+      ],
+      [
+        136,
+        "00:14:10.380000",
+        "00:14:12.820000",
+        "I'm determined the Bounty shall not lose a single man."
+      ],
+      [
+        319,
+        "00:31:32.340000",
+        "00:31:33.540000",
+        "I am Master of The Bounty."
+      ],
+      [
+        792,
+        "01:26:46.980000",
+        "01:26:50.460000",
+        "Oh, the men won't have it. Are they in charge of the Bounty?"
+      ],
+      [
+        1126,
+        "02:00:43.420000",
+        "02:00:49.340000",
+        "This court finds that the seizure of His Majesty's armed vessel, Bounty,"
+      ],
+      [
+        1130,
+        "02:01:07.820000",
+        "02:01:13.540000",
+        "Indeed, in the matter of his command of the Bounty's open launch,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBounty:)Bounty)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

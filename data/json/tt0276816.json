@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0276816",
+    "title": "Below",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1101,
+    "occurrences": [
+      [
+        497,
+        "00:43:42.587000",
+        "00:43:46.341000",
+        "into the cold, black water, make our way below the boat,"
+      ],
+      [
+        534,
+        "00:48:45.476000",
+        "00:48:47.520000",
+        "but I never felt it down below."
+      ],
+      [
+        1052,
+        "01:32:03.766000",
+        "01:32:06.476000",
+        "We're going below now!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBelow:)Below)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

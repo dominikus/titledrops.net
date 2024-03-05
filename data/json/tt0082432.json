@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0082432",
+    "title": "Gallipoli",
+    "year": 1981,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1146,
+    "occurrences": [
+      [
+        146,
+        "00:13:54.447000",
+        "00:13:56.005000",
+        "Gallipoli."
+      ],
+      [
+        291,
+        "00:25:05.887000",
+        "00:25:10.278000",
+        "\"on the rocky slopes of... Gallipoli, and proved themselves heroes.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bGallipoli:)Gallipoli)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0144636",
+    "title": "Tokyo: The Last War",
+    "year": 1989,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 429,
+    "occurrences": [
+      [
+        45,
+        "00:08:42.373000",
+        "00:08:48.922000",
+        "Tokyo: The Last War"
+      ],
+      [
+        199,
+        "00:28:16.451000",
+        "00:28:20.061000",
+        "From Masakado, the God who protects Tokyo."
+      ]
+    ],
+    "regex": "\\b((?!\\bTokyo:)Tokyo|(?!\\bLast\\ War:)Last\\ War)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

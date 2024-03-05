@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt13575806",
+    "title": "Back to the Outback",
+    "year": 2021,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1819,
+    "occurrences": [
+      [
+        392,
+        "00:19:19.625000",
+        "00:19:23.041000",
+        "Tonight, we're going back to the outback."
+      ],
+      [
+        1031,
+        "00:48:25.500000",
+        "00:48:28",
+        "Probably trying to get back to the outback."
+      ]
+    ],
+    "regex": "\\b((?!\\bBack\\ to\\ the\\ Outback:)Back\\ to\\ the\\ Outback)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

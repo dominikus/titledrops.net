@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0844768",
+    "title": "Wild West Comedy Show: 30 Days & 30 Nights - Hollywood to the Heartland",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1894,
+    "occurrences": [
+      [
+        1,
+        "00:00:30.820000",
+        "00:00:33.653000",
+        "- How you doin', brother? - The Wild West Comedy Show?"
+      ],
+      [
+        23,
+        "00:01:40.723000",
+        "00:01:43.123000",
+        "to say Vince Vaughn's Wild West Comedy Show..."
+      ],
+      [
+        80,
+        "00:04:50.480000",
+        "00:04:52.971000",
+        "the Wild West Comedy Show, good to have you here."
+      ],
+      [
+        1800,
+        "01:33:48.612000",
+        "01:33:50.807000",
+        "I figured if you're gonna do the Wild West Comedy Show...."
+      ]
+    ],
+    "regex": "\\b((?!\\bWild\\ West\\ Comedy\\ Show:)Wild\\ West\\ Comedy\\ Show|(?!\\b30\\ Days\\ \\&\\ 30\\ Nights\\ \\-\\ Hollywood\\ to\\ the\\ Heartland:)30\\ Days\\ \\&\\ 30\\ Nights\\ \\-\\ Hollywood\\ to\\ the\\ Heartland)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

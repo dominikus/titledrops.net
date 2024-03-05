@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt2531168",
+    "title": "Still",
+    "year": 2014,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1065,
+    "occurrences": [
+      [
+        124,
+        "00:11:57.818000",
+        "00:12:00.485000",
+        "- Come on. Stand still. - Shut up."
+      ],
+      [
+        494,
+        "00:44:46.885000",
+        "00:44:49.385000",
+        "But, um, I've still got some things to sort out."
+      ],
+      [
+        505,
+        "00:48:05.650000",
+        "00:48:08.618000",
+        "Well, you still want those slides to show your class. Hey!"
+      ],
+      [
+        547,
+        "00:51:46.671000",
+        "00:51:50.005000",
+        "Well, still, you know, you should talk to her."
+      ],
+      [
+        674,
+        "01:04:15.819000",
+        "01:04:18.787000",
+        "I'd leave anything else till tomorrow. She's still very fragile."
+      ],
+      [
+        725,
+        "01:07:13.030000",
+        "01:07:15.997000",
+        "Then we're still looking."
+      ]
+    ],
+    "regex": "\\b((?!\\bStill:)Still)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

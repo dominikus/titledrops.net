@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0079588",
+    "title": "The Muppet Movie",
+    "year": 1979,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 1220,
+    "occurrences": [
+      [
+        1,
+        "00:01:04.597000",
+        "00:01:06.656000",
+        "We're here to heckle The Muppet Movie."
+      ],
+      [
+        27,
+        "00:02:32.185000",
+        "00:02:36.053000",
+        "Hi, everybody, and welcome to the first screening of The Muppet Movie."
+      ],
+      [
+        382,
+        "00:28:49.728000",
+        "00:28:51.719000",
+        "The Muppet Movie, huh?"
+      ],
+      [
+        1195,
+        "01:29:27.528000",
+        "01:29:30.554000",
+        "Okay. Muppet Movie, scene 1 -A, take 1."
+      ]
+    ],
+    "regex": "\\b((?!\\bMuppet\\ Movie:)Muppet\\ Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

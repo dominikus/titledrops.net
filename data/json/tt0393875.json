@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0393875",
+    "title": "The Third Wish",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1534,
+    "occurrences": [
+      [
+        294,
+        "00:19:38.434000",
+        "00:19:40.601000",
+        "That had my third wish in it."
+      ],
+      [
+        407,
+        "00:25:32.269000",
+        "00:25:34.367000",
+        "Is this the third wish."
+      ]
+    ],
+    "regex": "\\b((?!\\bThird\\ Wish:)Third\\ Wish)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

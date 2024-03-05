@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0145464",
+    "title": "Shotgun",
+    "year": 1989,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1169,
+    "occurrences": [
+      [
+        8,
+        "00:01:04.398000",
+        "00:01:09.736000",
+        "'Cause the Shotgun of Jones, ooh!"
+      ],
+      [
+        11,
+        "00:01:15.325000",
+        "00:01:17.327000",
+        "Shotgun!"
+      ],
+      [
+        17,
+        "00:01:44.187000",
+        "00:01:49.776000",
+        "'Cause the shotgun of Jones, ooh!"
+      ],
+      [
+        849,
+        "00:57:15.390000",
+        "00:57:21.229000",
+        "You know the streets are calling you Shotgun Jones now."
+      ],
+      [
+        1166,
+        "01:24:42.327000",
+        "01:24:47.457000",
+        "'Cause the Shotgun of Jones ooh!"
+      ],
+      [
+        1169,
+        "01:24:52.587000",
+        "01:24:53.880000",
+        "Shotgun!"
+      ]
+    ],
+    "regex": "\\b((?!\\bShotgun:)Shotgun)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

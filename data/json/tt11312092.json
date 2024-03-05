@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt11312092",
+    "title": "Grand Blue",
+    "year": 2020,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1265,
+    "occurrences": [
+      [
+        40,
+        "00:04:44.640000",
+        "00:04:45.360000",
+        "Grand Blue."
+      ],
+      [
+        41,
+        "00:04:46.700000",
+        "00:04:47.360000",
+        "Grand Blue?"
+      ],
+      [
+        63,
+        "00:06:17.020000",
+        "00:06:19.300000",
+        "I need to go back... to Grand Blue!"
+      ],
+      [
+        120,
+        "00:10:16.680000",
+        "00:10:17.280000",
+        "Grand Blue..."
+      ],
+      [
+        188,
+        "00:16:08.580000",
+        "00:16:10.360000",
+        "That Grand Blue shop.."
+      ]
+    ],
+    "regex": "\\b((?!\\bGrand\\ Blue:)Grand\\ Blue)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

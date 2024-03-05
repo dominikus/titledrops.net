@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2567712",
+    "title": "Starred Up",
+    "year": 2013,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1329,
+    "occurrences": [
+      [
+        216,
+        "00:23:38.167000",
+        "00:23:39.544000",
+        "He's starred up, ma'am."
+      ],
+      [
+        539,
+        "00:49:14.410000",
+        "00:49:16.287000",
+        "'Cause I'm starred up, mate, and very fucking violent"
+      ],
+      [
+        821,
+        "01:07:36.844000",
+        "01:07:38.812000",
+        "Starred up means you're a leader."
+      ]
+    ],
+    "regex": "\\b((?!\\bStarred\\ Up:)Starred\\ Up)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

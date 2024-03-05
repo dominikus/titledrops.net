@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0075467",
+    "title": "The Fifth Seal",
+    "year": 1976,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1593,
+    "occurrences": [
+      [
+        1,
+        "00:00:27.600000",
+        "00:00:32.700000",
+        "The Fifth Seal"
+      ],
+      [
+        870,
+        "00:52:30.050000",
+        "00:52:32.550000",
+        "breaks the fifth seal..."
+      ]
+    ],
+    "regex": "\\b((?!\\bFifth\\ Seal:)Fifth\\ Seal)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.5
+  }
+]

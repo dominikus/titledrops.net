@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0487928",
+    "title": "Dante 01",
+    "year": 2008,
+    "genres": [
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 496,
+    "occurrences": [
+      [
+        8,
+        "00:01:34.200000",
+        "00:01:38.113000",
+        "next to a hellhole called Dante."
+      ],
+      [
+        13,
+        "00:05:13.200000",
+        "00:05:17.159000",
+        "Welcome to Dante 01. I hope that your wakening went well."
+      ],
+      [
+        364,
+        "00:51:15.240000",
+        "00:51:19.233000",
+        "I only want to tell you that we're going crash on Dante soon."
+      ],
+      [
+        401,
+        "00:57:25.120000",
+        "00:57:28.112000",
+        "I programmed the station to crash on Dante!"
+      ],
+      [
+        477,
+        "01:07:21.080000",
+        "01:07:23.116000",
+        "the shuttle went directly on Dante."
+      ],
+      [
+        480,
+        "01:07:31.120000",
+        "01:07:33.998000",
+        "A few meters and we could pull the station away from Dante gravity."
+      ]
+    ],
+    "regex": "\\b((?!\\bDante:)Dante)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

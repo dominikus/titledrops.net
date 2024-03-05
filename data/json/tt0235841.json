@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0235841",
+    "title": "No Place to Go",
+    "year": 2000,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 857,
+    "occurrences": [
+      [
+        312,
+        "00:36:28.610000",
+        "00:36:31.630000",
+        "and now I'm here with all my things and no place to go."
+      ],
+      [
+        744,
+        "01:29:59.660000",
+        "01:30:02.630000",
+        "I have to go, even though I have no place to go."
+      ]
+    ],
+    "regex": "\\b((?!\\bNo\\ Place\\ to\\ Go:)No\\ Place\\ to\\ Go)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

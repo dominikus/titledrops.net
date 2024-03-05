@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt2354513",
+    "title": "Tina & Bettina: The Movie",
+    "year": 2012,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 936,
+    "occurrences": [
+      [
+        190,
+        "00:15:02.520000",
+        "00:15:05.114000",
+        "Welcome to Tina & Bettina's video blog."
+      ],
+      [
+        266,
+        "00:20:35.840000",
+        "00:20:40.038000",
+        "-You liked to be home alone? -I liked the movie \"Home Alone.\""
+      ],
+      [
+        286,
+        "00:22:12.760000",
+        "00:22:16.639000",
+        "Hi. I wondered, maybe, there'll be pizza and a movie"
+      ],
+      [
+        586,
+        "00:47:57.400000",
+        "00:48:03.077000",
+        "-So, enjoying a nice pizza birthday? -Pizza, movie and good friends, you know."
+      ]
+    ],
+    "regex": "\\b((?!\\bTina\\ \\&\\ Bettina:)Tina\\ \\&\\ Bettina|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

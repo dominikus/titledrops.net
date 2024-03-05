@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4881806",
+    "title": "Jurassic World: Fallen Kingdom",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1046,
+    "occurrences": [
+      [
+        28,
+        "00:07:04.094000",
+        "00:07:06.250000",
+        "Three years after the fall of Jurassic World,"
+      ],
+      [
+        553,
+        "00:54:02.030000",
+        "00:54:04.889000",
+        "The animal that took down Jurassic World."
+      ],
+      [
+        1045,
+        "01:57:43.803000",
+        "01:57:47.615000",
+        "Welcome, to Jurassic World."
+      ]
+    ],
+    "regex": "\\b((?!\\bJurassic\\ World:)Jurassic\\ World|(?!\\bFallen\\ Kingdom:)Fallen\\ Kingdom)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

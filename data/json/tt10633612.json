@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt10633612",
+    "title": "The First Supper",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1155,
+    "occurrences": [
+      [
+        29,
+        "00:02:29.660000",
+        "00:02:34.420000",
+        "The First Supper"
+      ],
+      [
+        30,
+        "00:02:34.500000",
+        "00:02:39.250000",
+        "The First Supper"
+      ]
+    ],
+    "regex": "\\b((?!\\bFirst\\ Supper:)First\\ Supper)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

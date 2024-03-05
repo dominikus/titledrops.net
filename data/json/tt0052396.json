@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0052396",
+    "title": "The Wind Cannot Read",
+    "year": 1958,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1259,
+    "occurrences": [
+      [
+        134,
+        "00:14:00.007000",
+        "00:14:01.998000",
+        "The Wind Cannot Read"
+      ],
+      [
+        145,
+        "00:14:41.207000",
+        "00:14:46.076000",
+        "The wind cannot read"
+      ],
+      [
+        149,
+        "00:15:04.847000",
+        "00:15:09.967000",
+        "The wind cannot read"
+      ]
+    ],
+    "regex": "\\b((?!\\bWind\\ Cannot\\ Read:)Wind\\ Cannot\\ Read)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

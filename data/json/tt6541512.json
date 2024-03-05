@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt6541512",
+    "title": "The Commodore Story",
+    "year": 2018,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1383,
+    "occurrences": [
+      [
+        5,
+        "00:01:13.170000",
+        "00:01:18.840000",
+        "journey back to the birth of the home computer by following the Commodore story discovering"
+      ],
+      [
+        25,
+        "00:03:11.140000",
+        "00:03:15.380000",
+        "Just arriving in San Francisco We're going to be doing the Commodore Story documentary"
+      ],
+      [
+        689,
+        "01:06:13.780000",
+        "01:06:17.980000",
+        "There are allsorts of stories I think the official Commodore story is that"
+      ],
+      [
+        1349,
+        "02:04:19.380000",
+        "02:04:22.220000",
+        "and I am on the set of the Commodore story"
+      ]
+    ],
+    "regex": "\\b((?!\\bCommodore\\ Story:)Commodore\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

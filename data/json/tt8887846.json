@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt8887846",
+    "title": "The King and I",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 2483,
+    "occurrences": [
+      [
+        2,
+        "00:00:06.600000",
+        "00:00:08.600000",
+        "\"The King and I\" from Lincoln Center Theater's"
+      ],
+      [
+        14,
+        "00:00:47.833000",
+        "00:00:49.833000",
+        "in Rodgers and Hammerstein's \"The King and I.\""
+      ],
+      [
+        1572,
+        "01:36:14.433000",
+        "01:36:15.533000",
+        "The king and his English guests"
+      ]
+    ],
+    "regex": "\\b((?!\\bKing\\ and:)King\\ and)(?!\\:)(?!'t)\\b",
+    "runtime": 160,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

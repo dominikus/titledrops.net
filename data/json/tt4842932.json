@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt4842932",
+    "title": "Birthday Card",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1348,
+    "occurrences": [
+      [
+        145,
+        "00:10:56.230000",
+        "00:11:00.610000",
+        "\"Birthday Card\""
+      ],
+      [
+        146,
+        "00:11:00.700000",
+        "00:11:05.030000",
+        "\"Birthday Card\""
+      ],
+      [
+        724,
+        "01:02:02.340000",
+        "01:02:04.210000",
+        "Back to your birthday card."
+      ],
+      [
+        728,
+        "01:02:15.020000",
+        "01:02:17.890000",
+        "I've decided not to read this year's birthday card."
+      ],
+      [
+        891,
+        "01:20:39.540000",
+        "01:20:45.580000",
+        "It's been ten years since you received the first birthday card."
+      ]
+    ],
+    "regex": "\\b((?!\\bBirthday\\ Card:)Birthday\\ Card)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

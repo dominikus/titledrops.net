@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt22656762",
+    "title": "Dive",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 6,
+    "all_lines": 976,
+    "occurrences": [
+      [
+        95,
+        "00:07:36.250000",
+        "00:07:39.791000",
+        "There's a very talented young girl whose 10m dive is awesome."
+      ],
+      [
+        696,
+        "01:01:02.875000",
+        "01:01:07.208000",
+        "The level of difficulty of the dive prevented you from being disqualified."
+      ],
+      [
+        828,
+        "01:15:33.833000",
+        "01:15:37.500000",
+        "\"If you make a good dive, \"I'll make you feel real good.\""
+      ],
+      [
+        955,
+        "01:28:00.500000",
+        "01:28:03.875000",
+        "They'll perform the last dive."
+      ],
+      [
+        956,
+        "01:28:04.500000",
+        "01:28:08.166000",
+        "A dive with a great level of difficulty."
+      ],
+      [
+        959,
+        "01:28:14.916000",
+        "01:28:17.333000",
+        "It's the last dive of the competition."
+      ]
+    ],
+    "regex": "\\b((?!\\bDive:)Dive)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

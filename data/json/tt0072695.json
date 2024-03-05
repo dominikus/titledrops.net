@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0072695",
+    "title": "Best Friends",
+    "year": 1975,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 992,
+    "occurrences": [
+      [
+        977,
+        "01:22:00.629000",
+        "01:22:05.467000",
+        "Best friends, we were the best of friends"
+      ],
+      [
+        988,
+        "01:22:48.218000",
+        "01:22:52.973000",
+        "Best friends, we were the best of friends"
+      ]
+    ],
+    "regex": "\\b((?!\\bBest\\ Friends:)Best\\ Friends)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

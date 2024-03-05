@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1467273",
+    "title": "The First Beautiful Thing",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1540,
+    "occurrences": [
+      [
+        204,
+        "00:18:00.746000",
+        "00:18:03.247000",
+        "The first beautiful thing"
+      ],
+      [
+        1457,
+        "01:50:32.751000",
+        "01:50:35.169000",
+        "The first beautiful thing"
+      ]
+    ],
+    "regex": "\\b((?!\\bFirst\\ Beautiful\\ Thing:)First\\ Beautiful\\ Thing)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

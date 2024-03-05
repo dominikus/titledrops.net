@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt19838608",
+    "title": "Babli Bouncer",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1787,
+    "occurrences": [
+      [
+        985,
+        "00:59:50.900000",
+        "00:59:54.180000",
+        "Look who's here! Babli Bouncer in the house.\u0000"
+      ],
+      [
+        1714,
+        "01:48:59.140000",
+        "01:49:00.580000",
+        "Babli Bouncer is on TV.\u0000"
+      ],
+      [
+        1720,
+        "01:49:12.100000",
+        "01:49:13.900000",
+        "{\\i1}Sir, tell us something about{\\i0} {\\i1}Babli Bouncer.{\\i0}\u0000"
+      ],
+      [
+        1763,
+        "01:51:30.700000",
+        "01:51:34.780000",
+        "Now it will be known as Babli Bouncer's village.\u0000"
+      ],
+      [
+        1782,
+        "01:53:03.660000",
+        "01:53:07.780000",
+        "{\\i1}So, that was the story of our Babli Bouncer.{\\i0}\u0000"
+      ]
+    ],
+    "regex": "\\b((?!\\bBabli\\ Bouncer:)Babli\\ Bouncer)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

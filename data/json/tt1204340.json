@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1204340",
+    "title": "Tyrannosaur",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 834,
+    "occurrences": [
+      [
+        540,
+        "00:57:56.932000",
+        "00:57:58.513000",
+        "The Tyrannosaur."
+      ],
+      [
+        679,
+        "01:10:59.046000",
+        "01:11:01.002000",
+        "(Hannah) Why Tyrannosaur?"
+      ],
+      [
+        687,
+        "01:11:30.244000",
+        "01:11:32.451000",
+        "and you hear the Tyrannosaur coming?"
+      ],
+      [
+        693,
+        "01:11:54.477000",
+        "01:11:56.513000",
+        "So I called her the Tyrannosaur."
+      ]
+    ],
+    "regex": "\\b((?!\\bTyrannosaur:)Tyrannosaur)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

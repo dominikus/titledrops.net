@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2018086",
+    "title": "Camille Claudel 1915",
+    "year": 2013,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 617,
+    "occurrences": [
+      [
+        1,
+        "00:01:02.106000",
+        "00:01:05.606000",
+        "the letters of Camille Claudel, and the medical records of Camille Claudel."
+      ],
+      [
+        2,
+        "00:01:18.031000",
+        "00:01:22.031000",
+        "Originally from Villeneuve in the Aisne, Camille Claudel is a sculptress,"
+      ]
+    ],
+    "regex": "\\b((?!\\bCamille\\ Claudel:)Camille\\ Claudel)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0202381",
+    "title": "Guest House Paradiso",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1040,
+    "occurrences": [
+      [
+        433,
+        "00:34:43.440000",
+        "00:34:47.307000",
+        "So, as we always say at the Guest House Paradiso,"
+      ],
+      [
+        848,
+        "01:08:42.836000",
+        "01:08:46.252000",
+        "The weekly lock-in at Guest House Paradiso!"
+      ]
+    ],
+    "regex": "\\b((?!\\bGuest\\ House\\ Paradiso:)Guest\\ House\\ Paradiso)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

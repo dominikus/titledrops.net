@@ -1,0 +1,75 @@
+[
+  {
+    "imdb": "tt1375789",
+    "title": "Race 2",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 9,
+    "all_lines": 346,
+    "occurrences": [
+      [
+        75,
+        "00:28:30.508000",
+        "00:28:33.739000",
+        "tomorrow there is a big race here, armaan will come here"
+      ],
+      [
+        85,
+        "00:30:56.087000",
+        "00:30:59.215000",
+        "he has never won any race"
+      ],
+      [
+        86,
+        "00:31:00.959000",
+        "00:31:02.984000",
+        "I think you have come to race 1st time"
+      ],
+      [
+        88,
+        "00:32:02.220000",
+        "00:32:05.951000",
+        "I dont understand 1 thing, how you won this race?"
+      ],
+      [
+        288,
+        "01:58:58.231000",
+        "01:59:01.200000",
+        "what do you think? You can run race"
+      ],
+      [
+        289,
+        "01:59:03.569000",
+        "01:59:06.333000",
+        "I can run race"
+      ],
+      [
+        303,
+        "02:04:16.749000",
+        "02:04:18.979000",
+        "you were saying you run this race?"
+      ],
+      [
+        304,
+        "02:04:20.686000",
+        "02:04:23.621000",
+        "Race was always mine and it will be mine"
+      ],
+      [
+        336,
+        "02:15:43.602000",
+        "02:15:50.667000",
+        "you forget race starts again where it ends"
+      ]
+    ],
+    "regex": "\\b((?!\\bRace:)Race)(?!\\:)(?!'t)\\b",
+    "runtime": 150,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

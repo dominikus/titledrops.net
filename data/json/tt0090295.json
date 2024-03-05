@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0090295",
+    "title": "The Warrior",
+    "year": 1981,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 772,
+    "occurrences": [
+      [
+        351,
+        "00:35:09.040000",
+        "00:35:10.760000",
+        "No! Don't give up, Warrior!"
+      ],
+      [
+        354,
+        "00:35:14.280000",
+        "00:35:16.120000",
+        "Yes! Don't give up, Warrior!"
+      ],
+      [
+        442,
+        "00:44:38.760000",
+        "00:44:41",
+        "But you're a warrior of your people."
+      ],
+      [
+        444,
+        "00:44:50.480000",
+        "00:44:54.200000",
+        "that someone like you calls me a warrior."
+      ]
+    ],
+    "regex": "\\b((?!\\bWarrior:)Warrior)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

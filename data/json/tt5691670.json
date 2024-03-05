@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt5691670",
+    "title": "Under the Silver Lake",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1306,
+    "occurrences": [
+      [
+        95,
+        "00:10:09.958000",
+        "00:10:11.418000",
+        "under the Silver Lake.\""
+      ],
+      [
+        208,
+        "00:19:50.726000",
+        "00:19:52.968000",
+        "under the Silver Lake.\""
+      ],
+      [
+        209,
+        "00:19:59.208000",
+        "00:20:01.132000",
+        "\"Under the Silver Lake.\""
+      ],
+      [
+        294,
+        "00:35:23.680000",
+        "00:35:29.586000",
+        "Sure, of course. I'm actually writing all day tomorrow. I'm finishing a new issue of \"Under the Silver Lake\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bUnder\\ the\\ Silver\\ Lake:)Under\\ the\\ Silver\\ Lake)(?!\\:)(?!'t)\\b",
+    "runtime": 139,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

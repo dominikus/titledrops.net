@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2702724",
+    "title": "The Boss",
+    "year": 2016,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 2084,
+    "occurrences": [
+      [
+        400,
+        "00:20:12.838000",
+        "00:20:16.338000",
+        "We can dish about the boss, and gossip about stuff and..."
+      ],
+      [
+        646,
+        "00:31:04.615000",
+        "00:31:08.875000",
+        "My boss, who is a massive fan of yours, by the way,"
+      ],
+      [
+        1513,
+        "01:09:24.122000",
+        "01:09:25.752000",
+        "You're not my boss anymore!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBoss:)Boss)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

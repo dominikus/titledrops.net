@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1998402",
+    "title": "The Undershepherd",
+    "year": 2012,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2034,
+    "occurrences": [
+      [
+        1899,
+        "01:40:22.850000",
+        "01:40:26.195000",
+        "He can't be sincere if he can't be an undershepherd."
+      ],
+      [
+        1900,
+        "01:40:26.653000",
+        "01:40:27.654000",
+        "A true undershepherd."
+      ]
+    ],
+    "regex": "\\b((?!\\bUndershepherd:)Undershepherd)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

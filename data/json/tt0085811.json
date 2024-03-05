@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0085811",
+    "title": "Krull",
+    "year": 1983,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 656,
+    "occurrences": [
+      [
+        5,
+        "00:04:30.711000",
+        "00:04:33.202000",
+        "the world of Krull--"
+      ],
+      [
+        229,
+        "00:36:56.989000",
+        "00:37:00.186000",
+        "- How did you know I had sons? - If the Slayers conquer Krull..."
+      ],
+      [
+        256,
+        "00:39:57.436000",
+        "00:39:59.961000",
+        "lived in a world far from Krull..."
+      ]
+    ],
+    "regex": "\\b((?!\\bKrull:)Krull)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

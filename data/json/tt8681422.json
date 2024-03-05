@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt8681422",
+    "title": "To the Ends of the Earth",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 763,
+    "occurrences": [
+      [
+        420,
+        "01:07:56.980000",
+        "01:08:04.730000",
+        "If you wanted me to, I'd go to the ends of the earth with you"
+      ],
+      [
+        748,
+        "01:54:16.560000",
+        "01:54:25.190000",
+        "If you wanted me to, I'd go to the ends of the earth with you"
+      ],
+      [
+        763,
+        "01:56:56.510000",
+        "01:57:02.220000",
+        "To the Ends of the Earth"
+      ]
+    ],
+    "regex": "\\b((?!\\bTo\\ the\\ Ends\\ of\\ the\\ Earth:)To\\ the\\ Ends\\ of\\ the\\ Earth)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0037535",
+    "title": "Bells of Rosarita",
+    "year": 1945,
+    "genres": [
+      "Drama",
+      "Music",
+      "Western"
+    ],
+    "count": 4,
+    "all_lines": 827,
+    "occurrences": [
+      [
+        137,
+        "00:09:59.421000",
+        "00:10:00.952000",
+        "Bells of Rosarita."
+      ],
+      [
+        191,
+        "00:13:09.051000",
+        "00:13:14.391000",
+        "The bells of Rosarita"
+      ],
+      [
+        821,
+        "00:52:43.807000",
+        "00:52:49.216000",
+        "The bells of Rosarita"
+      ],
+      [
+        827,
+        "00:53:16.569000",
+        "00:53:24.569000",
+        "For the bells of Rosarita may ring out amen."
+      ]
+    ],
+    "regex": "\\b((?!\\bBells\\ of\\ Rosarita:)Bells\\ of\\ Rosarita)(?!\\:)(?!'t)\\b",
+    "runtime": 68,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

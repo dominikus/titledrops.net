@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0034800",
+    "title": "The Golden City",
+    "year": 1942,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1629,
+    "occurrences": [
+      [
+        101,
+        "00:09:40.497000",
+        "00:09:42.408000",
+        "The golden city!"
+      ],
+      [
+        313,
+        "00:21:48.432000",
+        "00:21:50.047000",
+        "from the golden city."
+      ],
+      [
+        1029,
+        "01:08:01.869000",
+        "01:08:05.236000",
+        "Famous Prague, this golden city..."
+      ],
+      [
+        1125,
+        "01:14:27.213000",
+        "01:14:30",
+        "Prague is a golden city"
+      ]
+    ],
+    "regex": "\\b((?!\\bGolden\\ City:)Golden\\ City)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

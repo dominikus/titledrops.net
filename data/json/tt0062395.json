@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0062395",
+    "title": "The Trip",
+    "year": 1967,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 609,
+    "occurrences": [
+      [
+        76,
+        "00:06:09.501000",
+        "00:06:10.900000",
+        "It's a heavy trip."
+      ],
+      [
+        80,
+        "00:06:19.912000",
+        "00:06:23.905000",
+        "It's a heavy trip. I slept for 36 hours, man."
+      ],
+      [
+        82,
+        "00:06:28.654000",
+        "00:06:31.487000",
+        "That was my last trip on Roybal, I'll tell you that."
+      ],
+      [
+        107,
+        "00:08:02.381000",
+        "00:08:04.008000",
+        "Have a nice trip."
+      ],
+      [
+        122,
+        "00:08:54.633000",
+        "00:08:58.467000",
+        "Don't worry, it's just in case you happen to go on a bad trip."
+      ],
+      [
+        559,
+        "01:08:56.698000",
+        "01:09:00.828000",
+        "I don't want to bring you down, but let's try to sort the real from the trip."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrip:)Trip)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

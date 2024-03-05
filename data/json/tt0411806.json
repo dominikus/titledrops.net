@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0411806",
+    "title": "Return of the Living Dead: Rave to the Grave",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 862,
+    "occurrences": [
+      [
+        481,
+        "00:39:48.528000",
+        "00:39:51.861000",
+        "Hell, yeah! We're going to rave to the grave."
+      ],
+      [
+        678,
+        "01:04:10.221000",
+        "01:04:16.023000",
+        "so...take a smile on your face from the rave to the grave!"
+      ]
+    ],
+    "regex": "\\b((?!\\bReturn\\ of\\ the\\ Living\\ Dead:)Return\\ of\\ the\\ Living\\ Dead|(?!\\bRave\\ to\\ the\\ Grave:)Rave\\ to\\ the\\ Grave)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

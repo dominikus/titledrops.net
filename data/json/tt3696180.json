@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3696180",
+    "title": "The Forgiven",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1403,
+    "occurrences": [
+      [
+        1207,
+        "01:37:55.200000",
+        "01:37:57.640000",
+        "Do you think Abdellah has forgiven me?"
+      ],
+      [
+        1212,
+        "01:38:16.800000",
+        "01:38:18.080000",
+        "He must have forgiven you."
+      ]
+    ],
+    "regex": "\\b((?!\\bForgiven:)Forgiven)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

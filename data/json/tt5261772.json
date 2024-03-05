@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt5261772",
+    "title": "Crone Wood",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1021,
+    "occurrences": [
+      [
+        113,
+        "00:07:00.440000",
+        "00:07:04.520000",
+        "Ok, say that again, so it's called crone wood, but it's not really?"
+      ],
+      [
+        123,
+        "00:07:30.520000",
+        "00:07:34",
+        "- But the locals still call it crone wood. - Right."
+      ],
+      [
+        154,
+        "00:09:52.440000",
+        "00:09:56.240000",
+        "Is this proof of paranormal activity in the infamous crone wood?"
+      ],
+      [
+        543,
+        "00:45:24.120000",
+        "00:45:26.080000",
+        "- We are parked... - in the car park by crone wood."
+      ]
+    ],
+    "regex": "\\b((?!\\bCrone\\ Wood:)Crone\\ Wood)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0331370",
+    "title": "Whisky",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 462,
+    "occurrences": [
+      [
+        107,
+        "00:29:41.460000",
+        "00:29:46.409000",
+        "Perfect. A little smile now. Say \"whisky\"."
+      ],
+      [
+        350,
+        "01:04:20.860000",
+        "01:04:25.809000",
+        "I'm supposed to push here, right? Smile and say \"whisky\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bWhisky:)Whisky)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

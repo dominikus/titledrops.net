@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0110857",
+    "title": "Police Academy: Mission to Moscow",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 889,
+    "occurrences": [
+      [
+        58,
+        "00:05:33.356000",
+        "00:05:36.985000",
+        "''The academy has assembled a special team for a mission to Moscow. ''"
+      ],
+      [
+        267,
+        "00:20:04.396000",
+        "00:20:06.307000",
+        "A Russki police academy. What a joke."
+      ]
+    ],
+    "regex": "\\b((?!\\bPolice\\ Academy:)Police\\ Academy|(?!\\bMission\\ to\\ Moscow:)Mission\\ to\\ Moscow)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

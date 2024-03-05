@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt9907782",
+    "title": "The Cursed",
+    "year": 2021,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1577,
+    "occurrences": [
+      [
+        1038,
+        "01:10:17.802000",
+        "01:10:20.462000",
+        "The land of Gevaudan had been cursed."
+      ],
+      [
+        1044,
+        "01:10:30.114000",
+        "01:10:32.349000",
+        "She cursed the land."
+      ],
+      [
+        1048,
+        "01:10:38.589000",
+        "01:10:40.950000",
+        "You were cursed, and it started with Edward."
+      ],
+      [
+        1079,
+        "01:13:04.769000",
+        "01:13:07.905000",
+        "We've all dreamt of the silver that has cursed this land."
+      ]
+    ],
+    "regex": "\\b((?!\\bCursed:)Cursed)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

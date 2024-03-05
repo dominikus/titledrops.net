@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0765447",
+    "title": "Evening",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 761,
+    "occurrences": [
+      [
+        211,
+        "00:18:34.246000",
+        "00:18:35.770000",
+        "Is your suit pressed for this evening?"
+      ],
+      [
+        570,
+        "00:45:44.007000",
+        "00:45:46.567000",
+        "In the evening"
+      ]
+    ],
+    "regex": "\\b((?!\\bEvening:)Evening)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

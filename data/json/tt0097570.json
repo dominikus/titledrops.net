@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0097570",
+    "title": "In Country",
+    "year": 1989,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1208,
+    "occurrences": [
+      [
+        325,
+        "00:24:01.137000",
+        "00:24:03.662000",
+        "Seems like we've been in country forever."
+      ],
+      [
+        769,
+        "01:03:04.002000",
+        "01:03:06.869000",
+        "Hardly anyone came who wasn't in country."
+      ],
+      [
+        1068,
+        "01:32:00.238000",
+        "01:32:04.800000",
+        "It made me remember how in country you was always on guard or you died."
+      ]
+    ],
+    "regex": "\\b((?!\\bIn\\ Country:)In\\ Country)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

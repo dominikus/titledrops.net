@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0118842",
+    "title": "Chasing Amy",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1672,
+    "occurrences": [
+      [
+        1359,
+        "01:28:47.076000",
+        "01:28:50.239000",
+        "-You're chasing Amy. -What do you look so shocked for, man?"
+      ],
+      [
+        1408,
+        "01:31:41.639000",
+        "01:31:45.939000",
+        "So I've spent every day since then chasing Amy."
+      ]
+    ],
+    "regex": "\\b((?!\\bChasing\\ Amy:)Chasing\\ Amy)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

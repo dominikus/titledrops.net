@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2056520",
+    "title": "Arcadia",
+    "year": 2012,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1042,
+    "occurrences": [
+      [
+        169,
+        "00:12:56.927000",
+        "00:13:00.496000",
+        "Hey, Dad. Do you think they'll let me on the football team in Arcadia?"
+      ],
+      [
+        803,
+        "01:01:30.123000",
+        "01:01:33.258000",
+        "You're gonna love Arcadia. No more cliquey New England."
+      ]
+    ],
+    "regex": "\\b((?!\\bArcadia:)Arcadia)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

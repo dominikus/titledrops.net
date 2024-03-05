@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1769363",
+    "title": "The Giant Mechanical Man",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 738,
+    "occurrences": [
+      [
+        166,
+        "00:22:44.822000",
+        "00:22:50.536000",
+        "We're here to find out. His name is Tim Tucker And he is known as the \"The Giant Mechanical Man\""
+      ],
+      [
+        178,
+        "00:23:44.465000",
+        "00:23:49.720000",
+        "Maybe if you see A Giant Mechanical Man, you know, wondering down the street, towards you."
+      ],
+      [
+        718,
+        "01:23:12.241000",
+        "01:23:15.203000",
+        "The Giant Mechanical Man."
+      ]
+    ],
+    "regex": "\\b((?!\\bGiant\\ Mechanical\\ Man:)Giant\\ Mechanical\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

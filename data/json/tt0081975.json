@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0081975",
+    "title": "Absolution",
+    "year": 1978,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1129,
+    "occurrences": [
+      [
+        866,
+        "01:01:06.997000",
+        "01:01:09.830000",
+        "Help me, Father. Give me absolution."
+      ],
+      [
+        867,
+        "01:01:09.916000",
+        "01:01:14.911000",
+        "I will not give absolution for what I fervently hope is another practical joke."
+      ]
+    ],
+    "regex": "\\b((?!\\bAbsolution:)Absolution)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

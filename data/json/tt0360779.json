@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0360779",
+    "title": "Marseille",
+    "year": 2004,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 482,
+    "occurrences": [
+      [
+        76,
+        "00:26:47.560000",
+        "00:26:48.913000",
+        "To Marseille? - Yes."
+      ],
+      [
+        79,
+        "00:27:01.600000",
+        "00:27:05.434000",
+        "I'd never been to Marseille, but that wasn't really it..."
+      ],
+      [
+        173,
+        "00:39:51.760000",
+        "00:39:54.832000",
+        "Where have you been? - In Marseille."
+      ],
+      [
+        174,
+        "00:39:55.640000",
+        "00:39:59.679000",
+        "Why Marseille? - I swapped flats with someone."
+      ],
+      [
+        408,
+        "01:12:11.480000",
+        "01:12:13.550000",
+        "I'm going back to Marseille."
+      ],
+      [
+        454,
+        "01:21:08.920000",
+        "01:21:14.995000",
+        "I took the train to Marseille. Near the end, I opened the window."
+      ]
+    ],
+    "regex": "\\b((?!\\bMarseille:)Marseille)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

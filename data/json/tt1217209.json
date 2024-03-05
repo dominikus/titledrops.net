@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1217209",
+    "title": "Brave",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 3,
+    "all_lines": 876,
+    "occurrences": [
+      [
+        104,
+        "00:10:29.879000",
+        "00:10:33.674000",
+        "They say only the ancient kings were brave enough to drink the fire."
+      ],
+      [
+        597,
+        "00:52:13.380000",
+        "00:52:16.466000",
+        "My brave wee lassie, I'm here."
+      ],
+      [
+        873,
+        "01:24:29.398000",
+        "01:27:28.951000",
+        "You only have to be brave enough to see it."
+      ]
+    ],
+    "regex": "\\b((?!\\bBrave:)Brave)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

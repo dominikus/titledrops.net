@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2130270",
+    "title": "The Mule",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1137,
+    "occurrences": [
+      [
+        567,
+        "00:48:16.159000",
+        "00:48:19.560000",
+        "Well, well, well. Never had a mule refuse to shit before."
+      ],
+      [
+        657,
+        "00:57:19.367000",
+        "00:57:23.039000",
+        "It's you, or the mule."
+      ]
+    ],
+    "regex": "\\b((?!\\bMule:)Mule)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

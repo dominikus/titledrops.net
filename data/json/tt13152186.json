@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt13152186",
+    "title": "Confession",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 865,
+    "occurrences": [
+      [
+        11,
+        "00:01:06.493000",
+        "00:01:12.336000",
+        "This is my confession to you for everything, what I did"
+      ],
+      [
+        720,
+        "01:04:58.817000",
+        "01:05:03.220000",
+        "It's me facing Madison, it's my confession."
+      ],
+      [
+        804,
+        "01:10:48.826000",
+        "01:10:53.150000",
+        "You have to get this confession to Maddie."
+      ]
+    ],
+    "regex": "\\b((?!\\bConfession:)Confession)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

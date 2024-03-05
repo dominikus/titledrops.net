@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt5591666",
+    "title": "The Domestics",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 1005,
+    "occurrences": [
+      [
+        19,
+        "00:01:31.574000",
+        "00:01:35.612000",
+        "Here's another safety update for all you domestics out there,"
+      ],
+      [
+        97,
+        "00:06:59.833000",
+        "00:07:02.663000",
+        " Here's another safety update for all you domestics out there"
+      ],
+      [
+        225,
+        "00:19:48.808000",
+        "00:19:50.603000",
+        "for all you domestics out there."
+      ],
+      [
+        573,
+        "00:44:31.358000",
+        "00:44:33.843000",
+        "with another safety update for all you domestics out there."
+      ],
+      [
+        997,
+        "01:31:39.563000",
+        "01:31:41.461000",
+        "for all you domestics out there."
+      ]
+    ],
+    "regex": "\\b((?!\\bDomestics:)Domestics)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

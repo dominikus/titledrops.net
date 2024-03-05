@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1226232",
+    "title": "The Greatest",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1591,
+    "occurrences": [
+      [
+        262,
+        "00:20:11.293000",
+        "00:20:13.204000",
+        "The greatest?"
+      ],
+      [
+        545,
+        "00:36:06.581000",
+        "00:36:09.081000",
+        "My mom thinks that he was the greatest thing that ever lived,"
+      ]
+    ],
+    "regex": "\\b((?!\\bGreatest:)Greatest)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1941569",
+    "title": "Just Do It: A Tale of Modern-day Outlaws",
+    "year": 2011,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1311,
+    "occurrences": [
+      [
+        66,
+        "00:05:32.820000",
+        "00:05:33.900000",
+        "Just do it."
+      ],
+      [
+        1303,
+        "01:28:16.620000",
+        "01:28:21.020000",
+        "If anyone out there is thinking, \"I want to do more\", just do it."
+      ]
+    ],
+    "regex": "\\b((?!\\bJust\\ Do\\ It:)Just\\ Do\\ It|(?!\\bTale\\ of\\ Modern\\-day\\ Outlaws:)Tale\\ of\\ Modern\\-day\\ Outlaws)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0116378",
+    "title": "The Funeral",
+    "year": 1996,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1068,
+    "occurrences": [
+      [
+        801,
+        "01:01:08.920000",
+        "01:01:10.240000",
+        "Maybe tomorrow after the funeral"
+      ],
+      [
+        913,
+        "01:11:11.480000",
+        "01:11:13.240000",
+        "to each other's funeral."
+      ]
+    ],
+    "regex": "\\b((?!\\bFuneral:)Funeral)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

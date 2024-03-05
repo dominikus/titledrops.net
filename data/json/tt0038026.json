@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0038026",
+    "title": "Rhapsody in Blue",
+    "year": 1945,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Musical"
+    ],
+    "count": 3,
+    "all_lines": 1964,
+    "occurrences": [
+      [
+        856,
+        "00:51:43.281000",
+        "00:51:44.714000",
+        "A Rhapsody in Blue."
+      ],
+      [
+        975,
+        "01:06:34.747000",
+        "01:06:36.747000",
+        "\"The Rhapsody in Blue is a very stimulating piece\"..."
+      ],
+      [
+        1962,
+        "02:16:33.647000",
+        "02:16:36.047000",
+        "Will play the Rhapsody in Blue."
+      ]
+    ],
+    "regex": "\\b((?!\\bRhapsody\\ in\\ Blue:)Rhapsody\\ in\\ Blue)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

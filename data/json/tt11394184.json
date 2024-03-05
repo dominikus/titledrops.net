@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt11394184",
+    "title": "The Fight",
+    "year": 2020,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1608,
+    "occurrences": [
+      [
+        862,
+        "00:49:45.016000",
+        "00:49:47.683000",
+        "You're not gonna win every fight."
+      ],
+      [
+        1565,
+        "01:30:47.209000",
+        "01:30:49.810000",
+        "Amiri: All I've ever known how to do is fight,"
+      ],
+      [
+        1577,
+        "01:31:33.956000",
+        "01:31:37.324000",
+        "Strangio: There is a fight going on and we don't exist"
+      ]
+    ],
+    "regex": "\\b((?!\\bFight:)Fight)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

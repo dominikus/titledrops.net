@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt5982922",
+    "title": "Hatchback",
+    "year": 2019,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1555,
+    "occurrences": [
+      [
+        177,
+        "00:09:48.755000",
+        "00:09:51.356000",
+        "Hey, have you ever noticed that hatchback over there?"
+      ],
+      [
+        208,
+        "00:11:53.346000",
+        "00:11:56.014000",
+        "living in her '88 hatchback?"
+      ],
+      [
+        330,
+        "00:18:31.444000",
+        "00:18:33.177000",
+        "Yeah, the one in the hatchback."
+      ],
+      [
+        919,
+        "00:51:03.294000",
+        "00:51:06.262000",
+        "The hatchback was hers."
+      ],
+      [
+        1397,
+        "01:20:22.285000",
+        "01:20:24.285000",
+        "I'm gonna go sleep in my hatchback."
+      ]
+    ],
+    "regex": "\\b((?!\\bHatchback:)Hatchback)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

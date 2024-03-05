@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt3399916",
+    "title": "The Dead Lands",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "count": 5,
+    "all_lines": 711,
+    "occurrences": [
+      [
+        79,
+        "00:12:19.448000",
+        "00:12:23.869000",
+        "...lies the place we call the Dead Lands."
+      ],
+      [
+        144,
+        "00:24:01.691000",
+        "00:24:03.317000",
+        "It goes though the Dead Lands."
+      ],
+      [
+        146,
+        "00:24:05.945000",
+        "00:24:09.699000",
+        "Travelling through the Dead Lands saves us five clays."
+      ],
+      [
+        471,
+        "01:05:04.902000",
+        "01:05:08.906000",
+        "People don't enter the Dead Lands unless they have to."
+      ],
+      [
+        646,
+        "01:29:55.599000",
+        "01:29:58.769000",
+        "...and these dead lands have possessed you."
+      ]
+    ],
+    "regex": "\\b((?!\\bDead\\ Lands:)Dead\\ Lands)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0060564",
+    "title": "Johnny Reno",
+    "year": 1966,
+    "genres": [
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 826,
+    "occurrences": [
+      [
+        70,
+        "00:10:59.320000",
+        "00:11:01.436000",
+        "The man they call Johnny Reno."
+      ],
+      [
+        167,
+        "00:17:26.600000",
+        "00:17:29.194000",
+        "If Johnny Reno does come in here looking for me..."
+      ]
+    ],
+    "regex": "\\b((?!\\bJohnny\\ Reno:)Johnny\\ Reno)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [
+      "Johnny Reno"
+    ],
+    "title_is_name": true,
+    "rating": 5.7
+  }
+]

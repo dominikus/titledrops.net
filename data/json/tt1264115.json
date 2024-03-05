@@ -1,0 +1,75 @@
+[
+  {
+    "imdb": "tt1264115",
+    "title": "The Trial",
+    "year": 2010,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 9,
+    "all_lines": 1149,
+    "occurrences": [
+      [
+        142,
+        "00:16:37.355000",
+        "00:16:40.256000",
+        "- Before we go to trial, I want it to be full. - Okay."
+      ],
+      [
+        191,
+        "00:19:15.913000",
+        "00:19:19.576000",
+        "I'd also like you to tell me if you think he's competent to stand trial."
+      ],
+      [
+        319,
+        "00:25:56.680000",
+        "00:26:01.242000",
+        "is first, we will have a trial to determine guilt or innocence."
+      ],
+      [
+        438,
+        "00:34:03.199000",
+        "00:34:07.260000",
+        "In every criminal case, you want to put someone else on trial."
+      ],
+      [
+        481,
+        "00:37:57.133000",
+        "00:38:01.035000",
+        "Here's a detailed summary outlining our preparations for trial."
+      ],
+      [
+        508,
+        "00:40:09.032000",
+        "00:40:11.728000",
+        "This trial is necessary..."
+      ],
+      [
+        944,
+        "01:10:14.869000",
+        "01:10:17.497000",
+        "In this trial..."
+      ],
+      [
+        1040,
+        "01:21:41.788000",
+        "01:21:44.154000",
+        "This isn't over. I'm going to file a motion for a new trial."
+      ],
+      [
+        1134,
+        "01:32:24.097000",
+        "01:32:27.533000",
+        "After the trial, you were going to be next."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrial:)Trial)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

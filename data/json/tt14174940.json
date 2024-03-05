@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt14174940",
+    "title": "Interceptor",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1616,
+    "occurrences": [
+      [
+        150,
+        "00:09:31.583000",
+        "00:09:34.791000",
+        "All right, as of this moment we're the only interceptor platform"
+      ],
+      [
+        733,
+        "00:41:53.208000",
+        "00:41:56.666000",
+        "and I control the only interceptor missiles"
+      ],
+      [
+        746,
+        "00:42:39.750000",
+        "00:42:43.708000",
+        "at which point, it will be too late for this interceptor to catch it."
+      ],
+      [
+        869,
+        "00:49:41.791000",
+        "00:49:43.625000",
+        "Interceptor launched."
+      ],
+      [
+        1338,
+        "01:12:53",
+        "01:12:56.083000",
+        "Attention all missile teams, we have control of the interceptor."
+      ]
+    ],
+    "regex": "\\b((?!\\bInterceptor:)Interceptor)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

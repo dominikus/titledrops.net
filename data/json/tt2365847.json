@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt2365847",
+    "title": "The Scent",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 7,
+    "all_lines": 1280,
+    "occurrences": [
+      [
+        35,
+        "00:03:01.548000",
+        "00:03:05.279000",
+        "The Scent"
+      ],
+      [
+        496,
+        "00:40:53.918000",
+        "00:40:55.852000",
+        "Is it because it's mixed with the scent of your sweat?"
+      ],
+      [
+        497,
+        "00:40:57.822000",
+        "00:40:59.756000",
+        "Scent of your perfume is quite sensual."
+      ],
+      [
+        499,
+        "00:41:03.661000",
+        "00:41:05.185000",
+        "He liked the scent."
+      ],
+      [
+        500,
+        "00:41:09.967000",
+        "00:41:12.902000",
+        "Ah... That's why the dead girl had the same scent."
+      ],
+      [
+        572,
+        "00:52:15.265000",
+        "00:52:17.495000",
+        "You have a special scent."
+      ],
+      [
+        579,
+        "00:52:42.392000",
+        "00:52:46.920000",
+        "Do I still have that scent?"
+      ]
+    ],
+    "regex": "\\b((?!\\bScent:)Scent)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

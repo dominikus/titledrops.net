@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt0041247",
+    "title": "Christopher Columbus",
+    "year": 1949,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Biography"
+    ],
+    "count": 3,
+    "all_lines": 1590,
+    "occurrences": [
+      [
+        410,
+        "00:24:46.223000",
+        "00:24:50.314000",
+        "I present master Christopher Columbus. Madame Beatriz de Peraza."
+      ],
+      [
+        411,
+        "00:24:50.445000",
+        "00:24:52.926000",
+        "Christopher Columbus?"
+      ],
+      [
+        736,
+        "00:44:02.596000",
+        "00:44:04.946000",
+        "-Master Christopher Columbus? -The same."
+      ]
+    ],
+    "regex": "\\b((?!\\bChristopher\\ Columbus:)Christopher\\ Columbus)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [
+      "Christopher Columbus"
+    ],
+    "title_is_name": true,
+    "rating": 6
+  }
+]

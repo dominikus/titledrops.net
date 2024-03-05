@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0790602",
+    "title": "Nitro",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1007,
+    "occurrences": [
+      [
+        209,
+        "00:18:25.270000",
+        "00:18:29.138000",
+        "With the nitro, you'll be strapped to a rocket on wheels."
+      ],
+      [
+        226,
+        "00:19:22.294000",
+        "00:19:23.818000",
+        "-Dad, look, nitro! -Move."
+      ],
+      [
+        273,
+        "00:25:15.881000",
+        "00:25:17.678000",
+        "Get me a can of nitro."
+      ]
+    ],
+    "regex": "\\b((?!\\bNitro:)Nitro)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

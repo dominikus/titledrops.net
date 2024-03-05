@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt1612782",
+    "title": "The Butterfly Room",
+    "year": 2012,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 720,
+    "occurrences": [
+      [
+        113,
+        "00:12:10.784000",
+        "00:12:14.077000",
+        "This is the butterfly room my private studio."
+      ],
+      [
+        280,
+        "00:34:36.785000",
+        "00:34:40.661000",
+        "Which school does he go to the girl in the butterfly room?"
+      ],
+      [
+        281,
+        "00:34:40.785000",
+        "00:34:43.661000",
+        "Can I with the girl play in the butterfly room?"
+      ],
+      [
+        283,
+        "00:34:45.910000",
+        "00:34:49.477000",
+        "And you're not allowed in the butterfly room. That is very dangerous."
+      ],
+      [
+        377,
+        "00:47:58.077000",
+        "00:48:01.912000",
+        "Nick, did you know that Ann is a girl locked in the butterfly room?"
+      ],
+      [
+        417,
+        "00:50:48.827000",
+        "00:50:52.745000",
+        "This is my private work space the butterfly room."
+      ],
+      [
+        524,
+        "01:02:13.870000",
+        "01:02:16.996000",
+        "Ann has a little girl in her butterfly room!"
+      ]
+    ],
+    "regex": "\\b((?!\\bButterfly\\ Room:)Butterfly\\ Room)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

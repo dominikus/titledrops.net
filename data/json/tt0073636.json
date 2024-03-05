@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt0073636",
+    "title": "Rooster Cogburn",
+    "year": 1975,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 1284,
+    "occurrences": [
+      [
+        711,
+        "00:58:33.372000",
+        "00:58:35.897000",
+        "Rooster Cogburn ain't no jackrabbit."
+      ],
+      [
+        1267,
+        "01:44:38.802000",
+        "01:44:43.466000",
+        "- Book and chapter? - Rooster Cogburn, 1880."
+      ]
+    ],
+    "regex": "\\b((?!\\bRooster\\ Cogburn:)Rooster\\ Cogburn)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [
+      "Rooster Cogburn"
+    ],
+    "title_is_name": true,
+    "rating": 6.8
+  }
+]

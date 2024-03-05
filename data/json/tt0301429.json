@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0301429",
+    "title": "Volcano High",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 5,
+    "all_lines": 599,
+    "occurrences": [
+      [
+        1,
+        "00:01:49.008000",
+        "00:01:52.945000",
+        "There is a school called Volcano High."
+      ],
+      [
+        6,
+        "00:02:07.327000",
+        "00:02:10.661000",
+        "But a dark age would soon come to Volcano High."
+      ],
+      [
+        50,
+        "00:05:32.865000",
+        "00:05:37.496000",
+        "Volcano High. School number nine."
+      ],
+      [
+        298,
+        "00:33:19.415000",
+        "00:33:23.932000",
+        "I'll show you the future of Volcano High!"
+      ],
+      [
+        535,
+        "01:04:39.108000",
+        "01:04:42.271000",
+        "The future! The future of Volcano High!"
+      ]
+    ],
+    "regex": "\\b((?!\\bVolcano\\ High:)Volcano\\ High)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

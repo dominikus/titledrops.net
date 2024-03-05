@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1590193",
+    "title": "The Commuter",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1429,
+    "occurrences": [
+      [
+        310,
+        "00:17:19.781000",
+        "00:17:21.881000",
+        "It's my first time on a commuter train."
+      ],
+      [
+        869,
+        "00:58:51.007000",
+        "00:58:53.875000",
+        "This is a monthly pass. You're a regular commuter."
+      ],
+      [
+        1413,
+        "01:37:31.737000",
+        "01:37:35.071000",
+        "You know, I never took you for a commuter."
+      ]
+    ],
+    "regex": "\\b((?!\\bCommuter:)Commuter)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

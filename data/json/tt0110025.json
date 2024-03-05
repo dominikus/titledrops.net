@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0110025",
+    "title": "High School II",
+    "year": 1994,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 2212,
+    "occurrences": [
+      [
+        107,
+        "00:06:28.642000",
+        "00:06:32.861000",
+        "It's a high school that works best for those people who really want to be here."
+      ],
+      [
+        1528,
+        "01:24:17.346000",
+        "01:24:21.117000",
+        "This is not going to go away by one march by one high school."
+      ],
+      [
+        1694,
+        "01:34:12.962000",
+        "01:34:15.935000",
+        "and they should have knew that it was high school students"
+      ],
+      [
+        1695,
+        "01:34:15.975000",
+        "01:34:17.966000",
+        "and junior high school students there."
+      ]
+    ],
+    "regex": "\\b((?!\\bHigh\\ School:)High\\ School)(?!\\:)(?!'t)\\b",
+    "runtime": 220,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

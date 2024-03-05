@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0097138",
+    "title": "Cyborg",
+    "year": 1989,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 278,
+    "occurrences": [
+      [
+        42,
+        "00:06:51.205000",
+        "00:06:53.161000",
+        "I'm a cyborg."
+      ],
+      [
+        248,
+        "01:03:26.195000",
+        "01:03:28.345000",
+        "What's waiting for me, cyborg?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCyborg:)Cyborg)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

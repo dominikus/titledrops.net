@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6847810",
+    "title": "National Theatre Live: Angels in America Part Two: Perestroika",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1811,
+    "occurrences": [
+      [
+        0,
+        "00:01:23.040000",
+        "00:01:32.039000",
+        "PART TWO :Perestroika"
+      ],
+      [
+        1752,
+        "03:38:23.553000",
+        "03:38:30.200000",
+        "...everything everywhere was stuck. while in Russia... look! Perestroika. The Thaw"
+      ]
+    ],
+    "regex": "\\b((?!\\bNational\\ Theatre\\ Live:)National\\ Theatre\\ Live|(?!\\bAngels\\ in\\ America\\ Part\\ Two:)Angels\\ in\\ America\\ Part\\ Two|(?!\\bPerestroika:)Perestroika)(?!\\:)(?!'t)\\b",
+    "runtime": 225,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 9
+  }
+]

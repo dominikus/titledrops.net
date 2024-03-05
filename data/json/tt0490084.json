@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0490084",
+    "title": "Because I Said So",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1702,
+    "occurrences": [
+      [
+        398,
+        "00:22:08.794000",
+        "00:22:10.523000",
+        "Because I said so."
+      ],
+      [
+        518,
+        "00:28:46.324000",
+        "00:28:48.690000",
+        "\"Because I said so. That's why.\""
+      ],
+      [
+        1185,
+        "01:02:08.291000",
+        "01:02:11.089000",
+        "\"Because I said so.\""
+      ],
+      [
+        1686,
+        "01:34:22.690000",
+        "01:34:24.624000",
+        "Because I said so."
+      ]
+    ],
+    "regex": "\\b((?!\\bBecause\\ I\\ Said\\ So:)Because\\ I\\ Said\\ So)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

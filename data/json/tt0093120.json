@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0093120",
+    "title": "Ground Zero",
+    "year": 1987,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1148,
+    "occurrences": [
+      [
+        584,
+        "00:42:22.840000",
+        "00:42:25.160000",
+        "only a mile from ground zero."
+      ],
+      [
+        814,
+        "01:02:44.520000",
+        "01:02:47.360000",
+        "The exact spot. Ground zero."
+      ]
+    ],
+    "regex": "\\b((?!\\bGround\\ Zero:)Ground\\ Zero)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

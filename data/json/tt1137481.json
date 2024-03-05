@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt1137481",
+    "title": "Soo: Revenge for a Twisted Fate",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 273,
+    "occurrences": [
+      [
+        0,
+        "00:00:50.650000",
+        "00:00:56.247000",
+        "SOO"
+      ],
+      [
+        25,
+        "00:05:10.743000",
+        "00:05:12.108000",
+        "It's him. It's Soo."
+      ],
+      [
+        134,
+        "00:32:35.086000",
+        "00:32:37.145000",
+        "Soo, that bastard!"
+      ],
+      [
+        138,
+        "00:33:01.212000",
+        "00:33:05.049000",
+        "Soo was behind this!"
+      ],
+      [
+        145,
+        "00:33:21.499000",
+        "00:33:24.434000",
+        "Why should that matter? All we need to do is get Soo!"
+      ],
+      [
+        206,
+        "00:42:28.779000",
+        "00:42:30.144000",
+        "Soo..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSoo:)Soo|(?!\\bRevenge\\ for\\ a\\ Twisted\\ Fate:)Revenge\\ for\\ a\\ Twisted\\ Fate)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

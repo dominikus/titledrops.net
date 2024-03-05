@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt13701962",
+    "title": "A California Christmas: City Lights",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 2032,
+    "occurrences": [
+      [
+        1313,
+        "01:02:54.312000",
+        "01:02:56.898000",
+        "[\"California Christmas\" by Space Coast Kids playing]"
+      ],
+      [
+        1322,
+        "01:03:26.594000",
+        "01:03:32.892000",
+        "It's a very merry California Christmas"
+      ]
+    ],
+    "regex": "\\b((?!\\bCalifornia\\ Christmas:)California\\ Christmas|(?!\\bCity\\ Lights:)City\\ Lights)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

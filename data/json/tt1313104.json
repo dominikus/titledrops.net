@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1313104",
+    "title": "The Cove",
+    "year": 2009,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1274,
+    "occurrences": [
+      [
+        293,
+        "00:19:09.470000",
+        "00:19:11.495000",
+        "where they take the boats around to the secret cove"
+      ],
+      [
+        525,
+        "00:30:27.848000",
+        "00:30:30.874000",
+        "The secret cove is a natural fortress."
+      ],
+      [
+        880,
+        "00:50:49.935000",
+        "00:50:53.393000",
+        "The right side is right in the center of the killing cove."
+      ],
+      [
+        1046,
+        "01:01:07.085000",
+        "01:01:08.677000",
+        "When they're in that killing cove"
+      ]
+    ],
+    "regex": "\\b((?!\\bCove:)Cove)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.4
+  }
+]

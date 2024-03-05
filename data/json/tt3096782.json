@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3096782",
+    "title": "The Great Mystical Circus",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 864,
+    "occurrences": [
+      [
+        415,
+        "00:44:07.778000",
+        "00:44:10.145000",
+        "welcome to the Great Mystical Circus!"
+      ],
+      [
+        662,
+        "01:09:52.888000",
+        "01:09:56.791000",
+        "The Great Mystical Circus proudly presents..."
+      ],
+      [
+        858,
+        "01:35:36.130000",
+        "01:35:39.361000",
+        "The Great Mystical Circus proudly presents"
+      ]
+    ],
+    "regex": "\\b((?!\\bGreat\\ Mystical\\ Circus:)Great\\ Mystical\\ Circus)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1146283",
+    "title": "Foreign Exchange",
+    "year": 2008,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 2162,
+    "occurrences": [
+      [
+        5,
+        "00:00:31.698000",
+        "00:00:34.533000",
+        "\"and I'm your foreign exchange student for the semester."
+      ],
+      [
+        134,
+        "00:05:20.920000",
+        "00:05:23.022000",
+        "for each of your foreign exchange students."
+      ],
+      [
+        174,
+        "00:06:34.728000",
+        "00:06:36.495000",
+        "to loosen up our foreign exchange students."
+      ],
+      [
+        450,
+        "00:16:34.094000",
+        "00:16:35.327000",
+        "and my foreign exchange student"
+      ]
+    ],
+    "regex": "\\b((?!\\bForeign\\ Exchange:)Foreign\\ Exchange)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

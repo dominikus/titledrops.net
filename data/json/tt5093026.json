@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt5093026",
+    "title": "Papillon",
+    "year": 2017,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1226,
+    "occurrences": [
+      [
+        127,
+        "00:09:58.573000",
+        "00:10:01.110000",
+        "Papillon, right? They fucked you good, huh?"
+      ],
+      [
+        601,
+        "00:50:22.293000",
+        "00:50:25.330000",
+        "Papillon! "
+      ]
+    ],
+    "regex": "\\b((?!\\bPapillon:)Papillon)(?!\\:)(?!'t)\\b",
+    "runtime": 133,
+    "characters": [
+      "Henri Charrière (`Papillon`)"
+    ],
+    "title_is_name": true,
+    "rating": 7.2
+  }
+]

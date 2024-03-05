@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0131013",
+    "title": "A Quiet Life",
+    "year": 1995,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1027,
+    "occurrences": [
+      [
+        27,
+        "00:02:44.331000",
+        "00:02:50.292000",
+        "A quiet life"
+      ],
+      [
+        1025,
+        "01:58:13.712000",
+        "01:58:18.081000",
+        "How about... 'A quiet life..."
+      ],
+      [
+        1027,
+        "01:58:28.143000",
+        "01:58:30.008000",
+        "'A quiet life'."
+      ]
+    ],
+    "regex": "\\b((?!\\bQuiet\\ Life:)Quiet\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

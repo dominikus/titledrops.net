@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0361620",
+    "title": "First Daughter",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1336,
+    "occurrences": [
+      [
+        263,
+        "00:19:14.853000",
+        "00:19:17.754000",
+        "We'll be following the First Daughter through her entire--"
+      ],
+      [
+        265,
+        "00:19:21.527000",
+        "00:19:23.927000",
+        "I'm not saying the First Daughter dresses badly..."
+      ],
+      [
+        625,
+        "00:43:13.691000",
+        "00:43:15.784000",
+        "Favorite First Daughter joke?"
+      ],
+      [
+        784,
+        "00:53:09.853000",
+        "00:53:11.753000",
+        "I'm not the First Daughter."
+      ]
+    ],
+    "regex": "\\b((?!\\bFirst\\ Daughter:)First\\ Daughter)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

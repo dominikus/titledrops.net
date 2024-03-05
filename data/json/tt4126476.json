@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt4126476",
+    "title": "After",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1054,
+    "occurrences": [
+      [
+        3,
+        "00:01:56.480000",
+        "00:01:57.959000",
+        "And now, after him,"
+      ],
+      [
+        5,
+        "00:02:02.680000",
+        "00:02:03.715000",
+        "After."
+      ],
+      [
+        106,
+        "00:09:07.760000",
+        "00:09:09.114000",
+        "Sorry. After you. After you."
+      ],
+      [
+        713,
+        "01:03:49.920000",
+        "01:03:51.877000",
+        "I mean, and after all this work"
+      ]
+    ],
+    "regex": "\\b((?!\\bAfter:)After)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

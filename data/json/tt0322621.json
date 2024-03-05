@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt0322621",
+    "title": "DJ Hound Dog",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 1492,
+    "occurrences": [
+      [
+        1200,
+        "01:06:50.360000",
+        "01:06:53.404000",
+        "where DJ Hound Dog is spinning up."
+      ],
+      [
+        1226,
+        "01:08:16.996000",
+        "01:08:18.579000",
+        "- Hi, DJ Hound Dog."
+      ],
+      [
+        1413,
+        "01:16:15.913000",
+        "01:16:16.910000",
+        "- DJ Hound Dog."
+      ],
+      [
+        1414,
+        "01:16:16.910000",
+        "01:16:19.533000",
+        "- Oh, DJ Hound Dog!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDJ\\ Hound\\ Dog:)DJ\\ Hound\\ Dog)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [
+      "DJ Hound Dog"
+    ],
+    "title_is_name": true,
+    "rating": 5.4
+  }
+]

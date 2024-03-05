@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4130484",
+    "title": "Demon House",
+    "year": 2019,
+    "genres": [
+      "Documentary",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1785,
+    "occurrences": [
+      [
+        91,
+        "00:05:50.916000",
+        "00:05:55.212000",
+        "I just got the keys to the Demon House."
+      ],
+      [
+        1623,
+        "01:18:02.456000",
+        "01:18:04.248000",
+        "is a result of being in the demon house"
+      ]
+    ],
+    "regex": "\\b((?!\\bDemon\\ House:)Demon\\ House)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

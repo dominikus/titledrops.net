@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0088178",
+    "title": "Stop Making Sense",
+    "year": 1984,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 699,
+    "occurrences": [
+      [
+        574,
+        "01:08:46.295000",
+        "01:08:49.706000",
+        "As we get older and stop making sense"
+      ],
+      [
+        576,
+        "01:08:53.788000",
+        "01:08:57.616000",
+        "Stop making sense, stop making sense"
+      ],
+      [
+        577,
+        "01:08:57.640000",
+        "01:09:01.417000",
+        "Stop making sense, making sense"
+      ]
+    ],
+    "regex": "\\b((?!\\bStop\\ Making\\ Sense:)Stop\\ Making\\ Sense)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.7
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0258068",
+    "title": "The Quiet American",
+    "year": 2002,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 979,
+    "occurrences": [
+      [
+        38,
+        "00:03:15.111000",
+        "00:03:17.238000",
+        "He's a quiet American."
+      ],
+      [
+        39,
+        "00:03:17.363000",
+        "00:03:21.367000",
+        "Yes. A very quiet American."
+      ]
+    ],
+    "regex": "\\b((?!\\bQuiet\\ American:)Quiet\\ American)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0088354",
+    "title": "Family Life",
+    "year": 1985,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1209,
+    "occurrences": [
+      [
+        295,
+        "00:24:14",
+        "00:24:15.500000",
+        "That's family life in America."
+      ],
+      [
+        307,
+        "00:24:49",
+        "00:24:50.750000",
+        "Real family life is not a sinecure."
+      ],
+      [
+        639,
+        "00:48:21.750000",
+        "00:48:25",
+        "You've done everything to make falling back into family life unbearable."
+      ]
+    ],
+    "regex": "\\b((?!\\bFamily\\ Life:)Family\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

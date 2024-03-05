@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0086205",
+    "title": "Romantic Comedy",
+    "year": 1983,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1309,
+    "occurrences": [
+      [
+        1290,
+        "01:35:18.879000",
+        "01:35:21.074000",
+        "It's Iike some ending to a romantic comedy"
+      ],
+      [
+        1291,
+        "01:35:21.215000",
+        "01:35:24.013000",
+        "It's not a romantic comedy if they don't kiss"
+      ]
+    ],
+    "regex": "\\b((?!\\bRomantic\\ Comedy:)Romantic\\ Comedy)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

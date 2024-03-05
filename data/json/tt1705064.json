@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1705064",
+    "title": "Genji monogatari: Sennen no nazo",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 977,
+    "occurrences": [
+      [
+        1,
+        "00:00:19.248000",
+        "00:00:21.195000",
+        "...tale of love \"Genji Monogatari\" is still being widely read today."
+      ],
+      [
+        6,
+        "00:00:30.301000",
+        "00:00:33.428000",
+        "The ultimate mystery of \"Genji Monogatari\" lies with its author, Murasaki Shikibu."
+      ],
+      [
+        13,
+        "00:00:48.265000",
+        "00:00:50.808000",
+        "heart of the ultimate mystery in \"Genji Monogatari\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bGenji\\ monogatari:)Genji\\ monogatari|(?!\\bSennen\\ no\\ nazo:)Sennen\\ no\\ nazo)(?!\\:)(?!'t)\\b",
+    "runtime": 136,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7311036",
+    "title": "Clementine",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 817,
+    "occurrences": [
+      [
+        260,
+        "00:31:32.451000",
+        "00:31:36.854000",
+        "Once, when I was little, I peeled a clementine..."
+      ],
+      [
+        265,
+        "00:31:51.704000",
+        "00:31:53.404000",
+        "It wasn't any bigger than the clementine,"
+      ]
+    ],
+    "regex": "\\b((?!\\bClementine:)Clementine)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

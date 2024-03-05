@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt7818580",
+    "title": "While at War",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1263,
+    "occurrences": [
+      [
+        935,
+        "01:12:59.083000",
+        "01:13:00.789000",
+        "\"...while at war.\""
+      ],
+      [
+        936,
+        "01:13:01.125000",
+        "01:13:03.958000",
+        "Commander-in-chief... \"while at war.\""
+      ],
+      [
+        956,
+        "01:14:26.667000",
+        "01:14:30.615000",
+        "The reference to the war. \"While at war.\" Remember?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWhile\\ at\\ War:)While\\ at\\ War)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

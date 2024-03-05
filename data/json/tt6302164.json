@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt6302164",
+    "title": "Game of Death",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 977,
+    "occurrences": [
+      [
+        150,
+        "00:10:53.921000",
+        "00:10:55.956000",
+        "\"The game of death starts when the counter stops"
+      ],
+      [
+        444,
+        "00:22:30.918000",
+        "00:22:32.320000",
+        "I'm playing the game of death."
+      ],
+      [
+        804,
+        "00:44:40.881000",
+        "00:44:42.383000",
+        "My own little game of death."
+      ],
+      [
+        971,
+        "01:08:37.017000",
+        "01:08:38.986000",
+        "Game of death."
+      ]
+    ],
+    "regex": "\\b((?!\\bGame\\ of\\ Death:)Game\\ of\\ Death)(?!\\:)(?!'t)\\b",
+    "runtime": 73,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

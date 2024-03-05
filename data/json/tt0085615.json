@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0085615",
+    "title": "Gorky Park",
+    "year": 1983,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 1115,
+    "occurrences": [
+      [
+        63,
+        "00:08:26.600000",
+        "00:08:30.100000",
+        "(man) I can't understand it, lamskoy. Dead bodies in Gorky Park."
+      ],
+      [
+        436,
+        "00:47:31",
+        "00:47:37.500000",
+        "Three bodies, three people, shot down and mutilated in Gorky Park."
+      ],
+      [
+        499,
+        "00:54:05.400000",
+        "00:54:09.100000",
+        "- They were found in Gorky Park. - Why do you lie? Do..."
+      ],
+      [
+        631,
+        "01:09:56",
+        "01:10:00",
+        "I had it reconstructed from one of the Gorky Park heads."
+      ],
+      [
+        696,
+        "01:16:23.300000",
+        "01:16:26.100000",
+        "- Dead bodies in Gorky Park. - Ah."
+      ]
+    ],
+    "regex": "\\b((?!\\bGorky\\ Park:)Gorky\\ Park)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt4539140",
+    "title": "Marija",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 633,
+    "occurrences": [
+      [
+        125,
+        "00:22:13.600000",
+        "00:22:14.954000",
+        "Thanks, Marija."
+      ],
+      [
+        139,
+        "00:24:55",
+        "00:24:57.719000",
+        "Marija, Hassan. - Hello."
+      ],
+      [
+        198,
+        "00:32:35.160000",
+        "00:32:36.912000",
+        "Marija, say something."
+      ],
+      [
+        258,
+        "00:39:48.160000",
+        "00:39:49.195000",
+        "Tell me Marija..."
+      ],
+      [
+        526,
+        "01:16:52.760000",
+        "01:16:54.717000",
+        "Marija, this is important!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMarija:)Marija)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0088898",
+    "title": "The Chain",
+    "year": 1984,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 1908,
+    "occurrences": [
+      [
+        1370,
+        "01:00:04.580000",
+        "01:00:09.980000",
+        "Mrs. Andreos, you mustn't break the chain."
+      ],
+      [
+        1371,
+        "01:00:10.100000",
+        "01:00:11.420000",
+        "Chain?"
+      ],
+      [
+        1384,
+        "01:00:44.300000",
+        "01:00:48.620000",
+        "Oh-ho, that's-- that's a different chain, my dear."
+      ],
+      [
+        1895,
+        "01:30:51.740000",
+        "01:30:55.980000",
+        "me nots in the chain of love."
+      ],
+      [
+        1904,
+        "01:31:33.260000",
+        "01:31:36.460000",
+        "me nots in the chain of love."
+      ],
+      [
+        1908,
+        "01:31:47.980000",
+        "01:31:52.380000",
+        "me nots in the chain of love."
+      ]
+    ],
+    "regex": "\\b((?!\\bChain:)Chain)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5526028",
+    "title": "Dou Kyu Sei: Classmates",
+    "year": 2016,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 763,
+    "occurrences": [
+      [
+        17,
+        "00:01:26.700000",
+        "00:01:31.280000",
+        "Doukyuusei (Classmates)"
+      ],
+      [
+        723,
+        "00:52:26.200000",
+        "00:52:29.666000",
+        "...That we became classmates, you and me."
+      ]
+    ],
+    "regex": "\\b((?!\\bDou\\ Kyu\\ Sei:)Dou\\ Kyu\\ Sei|(?!\\bClassmates:)Classmates)(?!\\:)(?!'t)\\b",
+    "runtime": 60,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0040725",
+    "title": "The Red Shoes",
+    "year": 1948,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 334,
+    "occurrences": [
+      [
+        41,
+        "00:08:15.127000",
+        "00:08:17.186000",
+        "I wanna wear my red shoes!"
+      ],
+      [
+        44,
+        "00:08:23.536000",
+        "00:08:26.505000",
+        "I wanna wear my red shoes!"
+      ],
+      [
+        243,
+        "00:38:16.727000",
+        "00:38:20.493000",
+        "- They're mommy's! - Those red shoes aren't yours!"
+      ]
+    ],
+    "regex": "\\b((?!\\bRed\\ Shoes:)Red\\ Shoes)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

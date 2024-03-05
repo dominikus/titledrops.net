@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt1677557",
+    "title": "Istanbul",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 372,
+    "occurrences": [
+      [
+        184,
+        "00:28:16.920000",
+        "00:28:19.434000",
+        "- What does she want? - If we go to Istanbul."
+      ],
+      [
+        185,
+        "00:28:19.640000",
+        "00:28:21.517000",
+        "Yes we go to Istanbul."
+      ],
+      [
+        283,
+        "00:50:56.280000",
+        "00:50:58.999000",
+        "- Istanbul? - How did she get there?"
+      ],
+      [
+        285,
+        "00:51:02.200000",
+        "00:51:05.192000",
+        "They tracked her to a motel in Istanbul."
+      ],
+      [
+        298,
+        "00:51:58.360000",
+        "00:52:00.795000",
+        "What would she be doing in Istanbul, If she were ill?"
+      ],
+      [
+        357,
+        "01:28:55.960000",
+        "01:28:59.590000",
+        "- What do you mean, stayed. - In Istanbul."
+      ]
+    ],
+    "regex": "\\b((?!\\bIstanbul:)Istanbul)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

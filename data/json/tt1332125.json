@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1332125",
+    "title": "A Woman's Way",
+    "year": 2009,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 888,
+    "occurrences": [
+      [
+        873,
+        "01:42:28.530000",
+        "01:42:34.591000",
+        "(Backround Greek song: A woman's way or \"Mia Ghyneka\" by Kety Grey)"
+      ],
+      [
+        881,
+        "01:43:20.602000",
+        "01:43:25.618000",
+        "(Lyrics: \"A Woman's Way-Mia Ghyneka\") "
+      ]
+    ],
+    "regex": "\\b((?!\\bWoman's\\ Way:)Woman's\\ Way)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

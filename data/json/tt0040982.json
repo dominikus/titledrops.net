@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0040982",
+    "title": "You Gotta Stay Happy",
+    "year": 1948,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1582,
+    "occurrences": [
+      [
+        422,
+        "00:27:05.949000",
+        "00:27:09.264000",
+        "You can't live like a hermit all the time. You gotta stay happy."
+      ],
+      [
+        671,
+        "00:40:08.859000",
+        "00:40:10.681000",
+        "You gotta stay happy. Don't look for trouble."
+      ]
+    ],
+    "regex": "\\b((?!\\bYou\\ Gotta\\ Stay\\ Happy:)You\\ Gotta\\ Stay\\ Happy)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

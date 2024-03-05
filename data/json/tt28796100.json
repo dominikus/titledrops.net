@@ -1,0 +1,26 @@
+[
+  {
+    "imdb": "tt28796100",
+    "title": "Maxine's Baby: The Tyler Perry Story",
+    "year": 2023,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 1,
+    "all_lines": 2265,
+    "occurrences": [
+      [
+        2240,
+        "01:49:34.986000",
+        "01:49:37.280000",
+        "I'm Tyler Perry, and I'm Maxine's baby."
+      ]
+    ],
+    "regex": "\\b((?!\\bMaxine's\\ Baby:)Maxine's\\ Baby|(?!\\bTyler\\ Perry\\ Story:)Tyler\\ Perry\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

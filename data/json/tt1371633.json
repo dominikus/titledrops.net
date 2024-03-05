@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1371633",
+    "title": "My Dad's a Detective",
+    "year": 2009,
+    "genres": [
+      "Adventure",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 691,
+    "occurrences": [
+      [
+        101,
+        "00:11:25.120000",
+        "00:11:29.875000",
+        "My dad's a detective. -Then he's here for Tiki."
+      ],
+      [
+        675,
+        "01:23:01.280000",
+        "01:23:06.274000",
+        "*Look: this is the movie 'My dad's a detective'"
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Dad's\\ a\\ Detective:)My\\ Dad's\\ a\\ Detective)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

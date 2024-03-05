@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt13403380",
+    "title": "Flying Objects: A State Secret",
+    "year": 2020,
+    "genres": [
+      "Documentary",
+      "History",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1024,
+    "occurrences": [
+      [
+        4,
+        "00:01:06.980000",
+        "00:01:09.660000",
+        "three videos of unidentified flying objects"
+      ],
+      [
+        14,
+        "00:01:34.540000",
+        "00:01:37.840000",
+        "confirmed the presence of several flying objects."
+      ],
+      [
+        962,
+        "00:50:24.610000",
+        "00:50:26.830000",
+        "on these uninvited flying objects"
+      ]
+    ],
+    "regex": "\\b((?!\\bFlying\\ Objects:)Flying\\ Objects|(?!\\bState\\ Secret:)State\\ Secret)(?!\\:)(?!'t)\\b",
+    "runtime": 55,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

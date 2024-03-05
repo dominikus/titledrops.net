@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0441889",
+    "title": "Nuremberg",
+    "year": 1948,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 6,
+    "all_lines": 1145,
+    "occurrences": [
+      [
+        16,
+        "00:01:56.467000",
+        "00:01:59.031000",
+        "In the Palace of Justice in Nuremberg,"
+      ],
+      [
+        193,
+        "00:14:58.067000",
+        "00:15:02.131000",
+        "The sound of boots grew louder on the streets of Nuremberg."
+      ],
+      [
+        743,
+        "00:50:11.200000",
+        "00:50:15.331000",
+        "God has taught me that in my cell in Nuremberg."
+      ],
+      [
+        1137,
+        "01:14:15.467000",
+        "01:14:19.633000",
+        "In Nuremberg, the people of the world found out and why."
+      ],
+      [
+        1138,
+        "01:14:22.033000",
+        "01:14:26.931000",
+        "But Nuremberg is more than an answer to a question."
+      ],
+      [
+        1143,
+        "01:14:46.300000",
+        "01:14:49.800000",
+        "Nuremberg stands as a warning to all those"
+      ]
+    ],
+    "regex": "\\b((?!\\bNuremberg:)Nuremberg)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

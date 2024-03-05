@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0051818",
+    "title": "King Creole",
+    "year": 1958,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Musical"
+    ],
+    "count": 4,
+    "all_lines": 1052,
+    "occurrences": [
+      [
+        354,
+        "00:33:17.200000",
+        "00:33:19.316000",
+        "l oWn the King Creole doWn the street."
+      ],
+      [
+        436,
+        "00:39:46.880000",
+        "00:39:50.395000",
+        "- HoW smart do you call that? - He oWns the King Creole."
+      ],
+      [
+        560,
+        "00:48:30.160000",
+        "00:48:33.072000",
+        "Rock and roll at the King Creole! The hottest shoW in toWn!"
+      ],
+      [
+        579,
+        "00:51:35.760000",
+        "00:51:39.435000",
+        "King Creole presents a young man With a big future."
+      ]
+    ],
+    "regex": "\\b((?!\\bKing\\ Creole:)King\\ Creole)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

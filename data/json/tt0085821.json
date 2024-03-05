@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0085821",
+    "title": "Last Night at the Alamo",
+    "year": 1983,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1788,
+    "occurrences": [
+      [
+        92,
+        "00:05:36.474000",
+        "00:05:37.751000",
+        "This is the last night at the Alamo."
+      ],
+      [
+        104,
+        "00:05:57.840000",
+        "00:05:59.497000",
+        "I mean, this is the last night at The Alamo, goddammit,"
+      ],
+      [
+        832,
+        "00:34:42.873000",
+        "00:34:44.841000",
+        "Is this gonna be the last night at The Alamo?"
+      ],
+      [
+        1396,
+        "01:00:01.287000",
+        "01:00:04.911000",
+        "this here is the last night at The Alamo and all..."
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Night\\ at\\ the\\ Alamo:)Last\\ Night\\ at\\ the\\ Alamo)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

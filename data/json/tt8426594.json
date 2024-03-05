@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt8426594",
+    "title": "The Wind",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 668,
+    "occurrences": [
+      [
+        254,
+        "00:37:45.780000",
+        "00:37:47.506000",
+        "tells me it's the wind."
+      ],
+      [
+        392,
+        "00:52:56.725000",
+        "00:52:59.244000",
+        "The wind never stops."
+      ]
+    ],
+    "regex": "\\b((?!\\bWind:)Wind)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

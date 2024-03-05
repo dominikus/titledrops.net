@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt2436452",
+    "title": "Exhibition",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 799,
+    "occurrences": [
+      [
+        737,
+        "01:33:16",
+        "01:33:17",
+        "An exhibition? Mm."
+      ],
+      [
+        743,
+        "01:33:31",
+        "01:33:33",
+        "So, when's the exhibition going to be?"
+      ],
+      [
+        755,
+        "01:34:02",
+        "01:34:06",
+        "the time I'm there. So, the whole exhibition would be that?"
+      ],
+      [
+        768,
+        "01:34:55",
+        "01:34:58",
+        "You know, when someone offers you an exhibition like that,"
+      ]
+    ],
+    "regex": "\\b((?!\\bExhibition:)Exhibition)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

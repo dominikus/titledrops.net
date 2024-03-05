@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0422295",
+    "title": "Fur: An Imaginary Portrait of Diane Arbus",
+    "year": 2006,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 422,
+    "occurrences": [
+      [
+        64,
+        "00:09:16.129000",
+        "00:09:18.661000",
+        "To all the greatest fur buyers in America:"
+      ],
+      [
+        71,
+        "00:09:31.934000",
+        "00:09:33.968000",
+        "...and producers of fur garments in the world."
+      ],
+      [
+        91,
+        "00:10:55.718000",
+        "00:10:59.977000",
+        "The silkiest and most sensual fur that money can buy."
+      ],
+      [
+        94,
+        "00:11:04.465000",
+        "00:11:07.150000",
+        "This delicate fur... - Excuse me."
+      ]
+    ],
+    "regex": "\\b((?!\\bFur:)Fur|(?!\\bImaginary\\ Portrait\\ of\\ Diane\\ Arbus:)Imaginary\\ Portrait\\ of\\ Diane\\ Arbus)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

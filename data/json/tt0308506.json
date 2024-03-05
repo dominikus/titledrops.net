@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0308506",
+    "title": "Like Mike",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1769,
+    "occurrences": [
+      [
+        289,
+        "00:16:50.943000",
+        "00:16:52.653000",
+        "Make me like Mike."
+      ],
+      [
+        1261,
+        "01:10:23.891000",
+        "01:10:25.518000",
+        "Make me like Mike."
+      ]
+    ],
+    "regex": "\\b((?!\\bLike\\ Mike:)Like\\ Mike)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

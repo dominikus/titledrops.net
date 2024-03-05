@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt12181374",
+    "title": "Envoy: Shark Cull",
+    "year": 2021,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1717,
+    "occurrences": [
+      [
+        28,
+        "00:01:48.172000",
+        "00:01:52.068000",
+        "So we must be their envoy."
+      ],
+      [
+        1651,
+        "01:26:45.620000",
+        "01:26:48.896000",
+        "we must become their envoy."
+      ]
+    ],
+    "regex": "\\b((?!\\bEnvoy:)Envoy|(?!\\bShark\\ Cull:)Shark\\ Cull)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

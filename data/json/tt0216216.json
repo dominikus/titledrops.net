@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0216216",
+    "title": "The 6th Day",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1407,
+    "occurrences": [
+      [
+        350,
+        "00:24:30.810000",
+        "00:24:34.803000",
+        "We know. There's been a 6th Day violation. A human was cloned."
+      ],
+      [
+        417,
+        "00:32:19.178000",
+        "00:32:22.011000",
+        "ls it true you want to get the 6th Day laws repealed?"
+      ]
+    ],
+    "regex": "\\b((?!\\b6th\\ Day:)6th\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

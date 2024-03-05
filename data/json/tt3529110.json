@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3529110",
+    "title": "Blood Moon",
+    "year": 2014,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 1035,
+    "occurrences": [
+      [
+        207,
+        "00:14:42.715000",
+        "00:14:44.706000",
+        "a creature that kills in the light of the blood moon,"
+      ],
+      [
+        220,
+        "00:15:11.744000",
+        "00:15:13.178000",
+        "The time of the blood moon is almost upon us,"
+      ],
+      [
+        511,
+        "00:33:47.091000",
+        "00:33:48.183000",
+        "I saw you and me under the blood moon."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlood\\ Moon:)Blood\\ Moon)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

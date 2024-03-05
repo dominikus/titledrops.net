@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt4777004",
+    "title": "Fixed",
+    "year": 2017,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 2604,
+    "occurrences": [
+      [
+        154,
+        "00:06:18.325000",
+        "00:06:20.191000",
+        "we have to get this fixed. We have to call him again."
+      ],
+      [
+        529,
+        "00:18:15.409000",
+        "00:18:16.808000",
+        "then it's fixed, okay."
+      ],
+      [
+        605,
+        "00:20:39.453000",
+        "00:20:41.953000",
+        "and just getting fixed. It runs great, actually."
+      ],
+      [
+        607,
+        "00:20:44.123000",
+        "00:20:46.124000",
+        "though, right, babe? It's not really, like, fixed yet."
+      ],
+      [
+        608,
+        "00:20:46.126000",
+        "00:20:48.859000",
+        "- Well, it's getting fixed. - You should get a minivan."
+      ]
+    ],
+    "regex": "\\b((?!\\bFixed:)Fixed)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

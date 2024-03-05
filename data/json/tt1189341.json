@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1189341",
+    "title": "The Lost Coast",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 483,
+    "occurrences": [
+      [
+        21,
+        "00:03:17.764000",
+        "00:03:21.934000",
+        "The Lost Coast"
+      ],
+      [
+        54,
+        "00:06:22.315000",
+        "00:06:23.548000",
+        "This is the Lost Coast?"
+      ],
+      [
+        57,
+        "00:06:36.963000",
+        "00:06:41.933000",
+        "The Lost Coast in Northern California."
+      ],
+      [
+        422,
+        "00:54:35.805000",
+        "00:54:38.340000",
+        "I've thought of that trip we did the Lost Coast."
+      ]
+    ],
+    "regex": "\\b((?!\\bLost\\ Coast:)Lost\\ Coast)(?!\\:)(?!'t)\\b",
+    "runtime": 74,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

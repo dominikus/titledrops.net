@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0274558",
+    "title": "The Hours",
+    "year": 2002,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1255,
+    "occurrences": [
+      [
+        755,
+        "01:01:35.660000",
+        "01:01:38.128000",
+        "And room service is available twenty-four hours."
+      ],
+      [
+        1035,
+        "01:27:28.163000",
+        "01:27:30.631000",
+        "But I still have to face the hours, don't I?"
+      ],
+      [
+        1036,
+        "01:27:30.883000",
+        "01:27:33.158000",
+        "I mean, the hours after the party."
+      ],
+      [
+        1037,
+        "01:27:33.403000",
+        "01:27:35.155000",
+        "And the hours after that."
+      ],
+      [
+        1255,
+        "01:45:35.523000",
+        "01:45:37.354000",
+        "the hours."
+      ]
+    ],
+    "regex": "\\b((?!\\bHours:)Hours)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

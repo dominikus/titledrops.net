@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt14973630",
+    "title": "Swim",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Horror"
+    ],
+    "count": 7,
+    "all_lines": 1649,
+    "occurrences": [
+      [
+        442,
+        "00:24:10.315000",
+        "00:24:12.475000",
+        "Swim to the shore!"
+      ],
+      [
+        443,
+        "00:24:12.476000",
+        "00:24:14.974000",
+        "Becky, swim, swim!"
+      ],
+      [
+        445,
+        "00:24:23.035000",
+        "00:24:24.535000",
+        "Swim, Becky, swim!"
+      ],
+      [
+        1482,
+        "01:15:43.806000",
+        "01:15:45.405000",
+        "we're gonna have to swim, okay?"
+      ],
+      [
+        1488,
+        "01:15:54.345000",
+        "01:15:55.769000",
+        "we're gonna have to swim for it."
+      ]
+    ],
+    "regex": "\\b((?!\\bSwim:)Swim)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.8
+  }
+]

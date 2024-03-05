@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3663020",
+    "title": "So B. It",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1551,
+    "occurrences": [
+      [
+        423,
+        "00:23:00.112000",
+        "00:23:01.981000",
+        "What kind of a name is \"so b. It\"?"
+      ],
+      [
+        1434,
+        "01:25:53.316000",
+        "01:25:54.483000",
+        "so b. It."
+      ],
+      [
+        1550,
+        "01:33:28.937000",
+        "01:33:32.207000",
+        "So b. It. Amen."
+      ]
+    ],
+    "regex": "\\b((?!\\bSo\\ B\\.\\ It:)So\\ B\\.\\ It)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

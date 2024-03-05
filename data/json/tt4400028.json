@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt4400028",
+    "title": "No Kids",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1287,
+    "occurrences": [
+      [
+        338,
+        "00:24:36.408000",
+        "00:24:38.718000",
+        "- Come this way. - No kids!"
+      ],
+      [
+        354,
+        "00:26:27.419000",
+        "00:26:28.557000",
+        "\"No Kids.\""
+      ],
+      [
+        1074,
+        "01:21:04.326000",
+        "01:21:06.839000",
+        "\"no kids.\""
+      ],
+      [
+        1086,
+        "01:21:56.711000",
+        "01:22:00.215000",
+        "We didn't do it to be mean. She belongs to a \"no kids\" group."
+      ]
+    ],
+    "regex": "\\b((?!\\bNo\\ Kids:)No\\ Kids)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt10896962",
+    "title": "Blackjack: The Jackie Ryan Story",
+    "year": 2020,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 2040,
+    "occurrences": [
+      [
+        180,
+        "00:08:47.653000",
+        "00:08:51.123000",
+        "Well, it wasn't hard. I mean, you're a very popular guy Blackjack."
+      ],
+      [
+        796,
+        "00:35:31.591000",
+        "00:35:33.593000",
+        "Yes, it's Blackjack from John Jay."
+      ],
+      [
+        797,
+        "00:35:33.626000",
+        "00:35:36.294000",
+        "Oh, Blackjack from John Jay."
+      ],
+      [
+        1867,
+        "01:28:24.630000",
+        "01:28:26.464000",
+        "Hey, what up, Blackjack?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlackjack:)Blackjack|(?!\\bJackie\\ Ryan\\ Story:)Jackie\\ Ryan\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0423881",
+    "title": "Rahtree: Flower of the Night",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 572,
+    "occurrences": [
+      [
+        11,
+        "00:01:02.962000",
+        "00:01:06.659000",
+        "Her name is Bupah Her last name is Rahtree"
+      ],
+      [
+        23,
+        "00:01:50.844000",
+        "00:01:55.304000",
+        "Bupah Rahtree"
+      ],
+      [
+        84,
+        "00:10:43.843000",
+        "00:10:48.678000",
+        "Bupah Rahtree. Flower of the Night"
+      ],
+      [
+        101,
+        "00:14:03.209000",
+        "00:14:04.574000",
+        "Miss Bupah Rahtree"
+      ]
+    ],
+    "regex": "\\b((?!\\bRahtree:)Rahtree|(?!\\bFlower\\ of\\ the\\ Night:)Flower\\ of\\ the\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

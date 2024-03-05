@@ -1,0 +1,67 @@
+[
+  {
+    "imdb": "tt10699348",
+    "title": "Rundfunk: Jachterwachter",
+    "year": 2020,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 8,
+    "all_lines": 1086,
+    "occurrences": [
+      [
+        38,
+        "00:04:32.500000",
+        "00:04:34.500000",
+        "MAN: Jachterwachter!"
+      ],
+      [
+        325,
+        "00:25:47.625000",
+        "00:25:51.250000",
+        "JACHTERWACHTER HAALT PANIEKERIG ADEM"
+      ],
+      [
+        329,
+        "00:26:02.250000",
+        "00:26:06.250000",
+        "JACHTERWACHTER STRIBBELT MOMPELEND TEGEN"
+      ],
+      [
+        345,
+        "00:27:35.500000",
+        "00:27:38.583000",
+        "JACHTERWACHTER HIJGT PANIEKERIG"
+      ],
+      [
+        639,
+        "00:52:50.542000",
+        "00:52:52.542000",
+        "JACHTERWACHTER HOEST"
+      ],
+      [
+        898,
+        "01:13:43.583000",
+        "01:13:47.250000",
+        "JACHTERWACHTER, HUILEND: Het is over. Ik heb gefaald."
+      ],
+      [
+        946,
+        "01:18:02.500000",
+        "01:18:05.708000",
+        "En wie is dit dan? -Dit is de Jachterwachter."
+      ],
+      [
+        990,
+        "01:21:24.167000",
+        "01:21:27.625000",
+        "DE MICROFOON PIEPT, RONNIE HOORT ALLEEN DE JACHTERWACHTER"
+      ]
+    ],
+    "regex": "\\b((?!\\bRundfunk:)Rundfunk|(?!\\bJachterwachter:)Jachterwachter)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

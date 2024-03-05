@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0109357",
+    "title": "Block C",
+    "year": 1994,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 289,
+    "occurrences": [
+      [
+        2,
+        "00:00:11.920000",
+        "00:00:16.232000",
+        "Block C"
+      ],
+      [
+        10,
+        "00:04:18.680000",
+        "00:04:22.639000",
+        "Where are the elevators? No one knows a shit in this block."
+      ],
+      [
+        260,
+        "01:19:44.720000",
+        "01:19:46.655000",
+        "I had forgotten my life in the block, Selim, Asli."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlock:)Block)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

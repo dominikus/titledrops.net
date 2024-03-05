@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0083096",
+    "title": "Smash Palace",
+    "year": 1981,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 685,
+    "occurrences": [
+      [
+        0,
+        "00:03:49",
+        "00:03:50",
+        "Smash Palace."
+      ],
+      [
+        19,
+        "00:05:12.202000",
+        "00:05:13.202000",
+        "Hello. Smash Palace."
+      ]
+    ],
+    "regex": "\\b((?!\\bSmash\\ Palace:)Smash\\ Palace)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

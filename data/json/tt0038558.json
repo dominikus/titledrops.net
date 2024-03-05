@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0038558",
+    "title": "Ghost of Hidden Valley",
+    "year": 1946,
+    "genres": [
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 876,
+    "occurrences": [
+      [
+        18,
+        "00:03:12.593000",
+        "00:03:15.429000",
+        "And the ghost of hidden valley will get all the blame."
+      ],
+      [
+        39,
+        "00:04:16.490000",
+        "00:04:18.459000",
+        "the ghost of hidden valley gobbled him up."
+      ]
+    ],
+    "regex": "\\b((?!\\bGhost\\ of\\ Hidden\\ Valley:)Ghost\\ of\\ Hidden\\ Valley)(?!\\:)(?!'t)\\b",
+    "runtime": 56,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

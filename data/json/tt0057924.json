@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0057924",
+    "title": "The Castle of the Living Dead",
+    "year": 1964,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1026,
+    "occurrences": [
+      [
+        228,
+        "00:17:44.230000",
+        "00:17:48.940000",
+        "Beware the castle of the living dead!"
+      ],
+      [
+        229,
+        "00:17:50.319000",
+        "00:17:52.981000",
+        "\"The castle of the living dead.\""
+      ],
+      [
+        268,
+        "00:21:41.425000",
+        "00:21:45.043000",
+        "The castle of the living dead, just as the old woman said."
+      ]
+    ],
+    "regex": "\\b((?!\\bCastle\\ of\\ the\\ Living\\ Dead:)Castle\\ of\\ the\\ Living\\ Dead)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

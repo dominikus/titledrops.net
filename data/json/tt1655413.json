@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1655413",
+    "title": "The Suicide Shop",
+    "year": 2012,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 822,
+    "occurrences": [
+      [
+        18,
+        "00:04:23.348000",
+        "00:04:26.059000",
+        "SUICIDE SHOP"
+      ],
+      [
+        724,
+        "01:03:10.916000",
+        "01:03:15.255000",
+        "What if we turned the Suicide Shop into another kind of shop?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSuicide\\ Shop:)Suicide\\ Shop)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0183817",
+    "title": "The Stay Awake",
+    "year": 1988,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 887,
+    "occurrences": [
+      [
+        97,
+        "00:08:33.645000",
+        "00:08:35.447000",
+        "I thought the Stay Awake was organized"
+      ],
+      [
+        216,
+        "00:22:07.324000",
+        "00:22:10.795000",
+        "Oh, of course. The Stay Awake."
+      ],
+      [
+        237,
+        "00:24:03.774000",
+        "00:24:06.477000",
+        "whatever you and the girls do at a stay awake."
+      ],
+      [
+        415,
+        "00:42:19.969000",
+        "00:42:21.771000",
+        "This is supposed to be a stay awake."
+      ]
+    ],
+    "regex": "\\b((?!\\bStay\\ Awake:)Stay\\ Awake)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.6
+  }
+]

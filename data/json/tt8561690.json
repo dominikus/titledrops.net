@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt8561690",
+    "title": "4x4",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 641,
+    "occurrences": [
+      [
+        53,
+        "00:17:44.175000",
+        "00:17:46.467000",
+        "You're inside my 4x4."
+      ],
+      [
+        636,
+        "01:27:16.550000",
+        "01:27:19.592000",
+        "...the 4x4 SUV was parked next to a space for rent."
+      ]
+    ],
+    "regex": "\\b((?!\\b4x4:)4x4)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

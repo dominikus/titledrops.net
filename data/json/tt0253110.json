@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0253110",
+    "title": "Living It Up",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1372,
+    "occurrences": [
+      [
+        0,
+        "00:00:40.369000",
+        "00:00:42.360000",
+        "Living It Up"
+      ],
+      [
+        107,
+        "00:10:13.729000",
+        "00:10:18.041000",
+        "I was just wondering if you\"d like to try living it up before you die."
+      ],
+      [
+        1340,
+        "01:41:51.649000",
+        "01:41:53.765000",
+        "You tried living it up, didn\"t you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLiving\\ It\\ Up:)Living\\ It\\ Up)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt13978658",
+    "title": "Salute",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1542,
+    "occurrences": [
+      [
+        55,
+        "00:09:58.360000",
+        "00:10:00.360000",
+        "Is there a rule to salute an SI who's on leave?"
+      ],
+      [
+        56,
+        "00:10:03.120000",
+        "00:10:05.120000",
+        "That was not a policeman's salute."
+      ]
+    ],
+    "regex": "\\b((?!\\bSalute:)Salute)(?!\\:)(?!'t)\\b",
+    "runtime": 145,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

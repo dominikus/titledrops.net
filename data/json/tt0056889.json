@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0056889",
+    "title": "The Good Love",
+    "year": 1963,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 763,
+    "occurrences": [
+      [
+        0,
+        "00:00:02.440000",
+        "00:00:05.462000",
+        "\"... and help me, you archpriest, So I can make this \"Book of Good Love\","
+      ],
+      [
+        2,
+        "00:00:27.860000",
+        "00:00:32.400000",
+        "The good love"
+      ]
+    ],
+    "regex": "\\b((?!\\bGood\\ Love:)Good\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

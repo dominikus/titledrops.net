@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt9558468",
+    "title": "iSmart Shankar",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Crime",
+      "Sci-Fi"
+    ],
+    "count": 6,
+    "all_lines": 1448,
+    "occurrences": [
+      [
+        189,
+        "00:14:52.601000",
+        "00:14:58.065000",
+        "Shankar! Ustaad iSmart Shankar."
+      ],
+      [
+        675,
+        "01:00:56.113000",
+        "01:00:58.369000",
+        "'Ismart Shankar.'"
+      ],
+      [
+        714,
+        "01:02:49.808000",
+        "01:02:53.443000",
+        "Shankar. Ustaad ismart Shankar."
+      ],
+      [
+        1126,
+        "01:36:41.866000",
+        "01:36:45.833000",
+        "Now I am, Ustaad double ismart Shankar."
+      ],
+      [
+        1380,
+        "02:00:42.324000",
+        "02:00:45.079000",
+        "Ustaad Ismart Shankar."
+      ],
+      [
+        1407,
+        "02:05:36.994000",
+        "02:05:39.286000",
+        "ISmart Shankar."
+      ]
+    ],
+    "regex": "\\b((?!\\biSmart\\ Shankar:)iSmart\\ Shankar)(?!\\:)(?!'t)\\b",
+    "runtime": 140,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

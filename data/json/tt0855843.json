@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0855843",
+    "title": "I Am from Titov Veles",
+    "year": 2007,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 511,
+    "occurrences": [
+      [
+        287,
+        "00:48:14.750000",
+        "00:48:17.820000",
+        "\"I am from Titov Veles!\""
+      ],
+      [
+        289,
+        "00:48:21.470000",
+        "00:48:24.900000",
+        "\"I am from Titov Veles!\""
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Am\\ from\\ Titov\\ Veles:)I\\ Am\\ from\\ Titov\\ Veles)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

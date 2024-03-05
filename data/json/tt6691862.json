@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6691862",
+    "title": "Awake: A Dream from Standing Rock",
+    "year": 2017,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1263,
+    "occurrences": [
+      [
+        389,
+        "00:28:13.775000",
+        "00:28:14.776000",
+        "I am awake."
+      ],
+      [
+        394,
+        "00:28:49.645000",
+        "00:28:54.900000",
+        "See that I was honored to be among those who are awake."
+      ]
+    ],
+    "regex": "\\b((?!\\bAwake:)Awake|(?!\\bDream\\ from\\ Standing\\ Rock:)Dream\\ from\\ Standing\\ Rock)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

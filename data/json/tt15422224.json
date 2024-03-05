@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt15422224",
+    "title": "Slotherhouse",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 928,
+    "occurrences": [
+      [
+        854,
+        "01:20:58.092000",
+        "01:20:59.993000",
+        "But it's a slotherhouse."
+      ],
+      [
+        882,
+        "01:25:51.284000",
+        "01:25:53.353000",
+        "You're the sisters from the Slotherhouse."
+      ]
+    ],
+    "regex": "\\b((?!\\bSlotherhouse:)Slotherhouse)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

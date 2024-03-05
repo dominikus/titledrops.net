@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt4614612",
+    "title": "Peterloo",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 2553,
+    "occurrences": [
+      [
+        2467,
+        "02:23:18.294000",
+        "02:23:19.933000",
+        "Peterloo."
+      ],
+      [
+        2468,
+        "02:23:19.935000",
+        "02:23:22.175000",
+        "- The Battle of Peterloo. - That's it!"
+      ],
+      [
+        2470,
+        "02:23:24.695000",
+        "02:23:27.773000",
+        "- The Massacre of Peterloo. - We must print that."
+      ]
+    ],
+    "regex": "\\b((?!\\bPeterloo:)Peterloo)(?!\\:)(?!'t)\\b",
+    "runtime": 154,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

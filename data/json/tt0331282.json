@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0331282",
+    "title": "Little Night Music",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 780,
+    "occurrences": [
+      [
+        33,
+        "00:05:15.824000",
+        "00:05:17.598000",
+        "A Little Night Music! -What?"
+      ],
+      [
+        35,
+        "00:05:21.820000",
+        "00:05:23.260000",
+        "-A Little Night Music, I say."
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Night\\ Music:)Little\\ Night\\ Music)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

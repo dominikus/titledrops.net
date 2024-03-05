@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt2024469",
+    "title": "Non-Stop",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 1,
+    "all_lines": 1499,
+    "occurrences": [
+      [
+        141,
+        "00:10:35.427000",
+        "00:10:39.638000",
+        "welcome aboard British Aqualantic Flight 10, non-stop service to London."
+      ]
+    ],
+    "regex": "\\b((?!\\bNon\\-Stop:)Non\\-Stop)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

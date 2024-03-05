@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0069895",
+    "title": "The Crazies",
+    "year": 1973,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1461,
+    "occurrences": [
+      [
+        832,
+        "00:55:53.933000",
+        "00:55:56.852000",
+        " The crazies in here are detained, but they might not be infected."
+      ],
+      [
+        1352,
+        "01:34:16.484000",
+        "01:34:21.071000",
+        "- Watch out for crazies! There's crazies in there. - Shut up."
+      ]
+    ],
+    "regex": "\\b((?!\\bCrazies:)Crazies)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

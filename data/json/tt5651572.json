@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt5651572",
+    "title": "Worthless",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 976,
+    "occurrences": [
+      [
+        869,
+        "01:03:27.978000",
+        "01:03:29.544000",
+        "You can't be that worthless."
+      ],
+      [
+        876,
+        "01:03:41.426000",
+        "01:03:42.886000",
+        "You're worthless. You're worthless."
+      ],
+      [
+        895,
+        "01:05:13.866000",
+        "01:05:14.954000",
+        "\"Worthless\"."
+      ],
+      [
+        896,
+        "01:05:17.696000",
+        "01:05:19.959000",
+        "I got \"worthless\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bWorthless:)Worthless)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

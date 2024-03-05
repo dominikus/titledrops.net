@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0071194",
+    "title": "The Bank Shot",
+    "year": 1974,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 4,
+    "all_lines": 1052,
+    "occurrences": [
+      [
+        63,
+        "00:04:43.767000",
+        "00:04:46.303000",
+        "A bank shot."
+      ],
+      [
+        67,
+        "00:04:55.414000",
+        "00:04:57.249000",
+        "I wouldn't touch a bank shot."
+      ],
+      [
+        70,
+        "00:05:04.457000",
+        "00:05:07.962000",
+        "This is a very interesting bank shot, Walter."
+      ],
+      [
+        246,
+        "00:20:31.472000",
+        "00:20:33.774000",
+        "This bank shot was Victor's idea."
+      ]
+    ],
+    "regex": "\\b((?!\\bBank\\ Shot:)Bank\\ Shot)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

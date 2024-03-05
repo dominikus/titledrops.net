@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1735485",
+    "title": "The Tunnel",
+    "year": 2011,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1294,
+    "occurrences": [
+      [
+        125,
+        "00:10:06.640000",
+        "00:10:10.040000",
+        "Quite clearly, though, there was something there in the tunnel."
+      ],
+      [
+        468,
+        "00:31:57.720000",
+        "00:31:59.520000",
+        "I'm standing in a section of tunnel"
+      ],
+      [
+        482,
+        "00:32:53.240000",
+        "00:32:55.840000",
+        "We've been walking in the tunnel for less than an hour,"
+      ],
+      [
+        1047,
+        "01:05:53.280000",
+        "01:05:55.953000",
+        "What's that? I think it's the Cross City Tunnel."
+      ],
+      [
+        1222,
+        "01:20:34",
+        "01:20:38.640000",
+        "coming down that tunnel, out of the darkness, uh..."
+      ]
+    ],
+    "regex": "\\b((?!\\bTunnel:)Tunnel)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

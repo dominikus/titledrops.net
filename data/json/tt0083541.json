@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0083541",
+    "title": "Alley Cat",
+    "year": 1984,
+    "genres": [
+      "Action"
+    ],
+    "count": 2,
+    "all_lines": 1073,
+    "occurrences": [
+      [
+        58,
+        "00:05:18.159000",
+        "00:05:20.459000",
+        "she'll be nothing more than an alley cat."
+      ],
+      [
+        1060,
+        "01:15:05.730000",
+        "01:15:07.613000",
+        "Come on, alley cat!"
+      ]
+    ],
+    "regex": "\\b((?!\\bAlley\\ Cat:)Alley\\ Cat)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

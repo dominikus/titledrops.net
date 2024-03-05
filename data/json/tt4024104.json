@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt4024104",
+    "title": "The Royal Tailor",
+    "year": 2014,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1126,
+    "occurrences": [
+      [
+        47,
+        "00:06:45.338000",
+        "00:06:50.799000",
+        "ROYAL TAILOR"
+      ],
+      [
+        435,
+        "00:34:51.722000",
+        "00:34:53.656000",
+        "He's the King's royal tailor."
+      ]
+    ],
+    "regex": "\\b((?!\\bRoyal\\ Tailor:)Royal\\ Tailor)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

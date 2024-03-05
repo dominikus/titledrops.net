@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1203517",
+    "title": "The Graves",
+    "year": 2009,
+    "genres": [
+      "Adventure",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 915,
+    "occurrences": [
+      [
+        30,
+        "00:05:56.007000",
+        "00:05:58.441000",
+        "Of Megan and Abby Graves."
+      ],
+      [
+        520,
+        "00:48:16.743000",
+        "00:48:19.712000",
+        "Of Megan and Abby Graves."
+      ],
+      [
+        621,
+        "00:57:48.468000",
+        "00:57:51.303000",
+        "- Abigail Graves, leave!"
+      ],
+      [
+        909,
+        "01:20:35.004000",
+        "01:20:38.373000",
+        "- Yeah, who would have thought, Megan and Abby Graves,"
+      ]
+    ],
+    "regex": "\\b((?!\\bGraves:)Graves)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

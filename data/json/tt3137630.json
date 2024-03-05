@@ -1,0 +1,86 @@
+[
+  {
+    "imdb": "tt3137630",
+    "title": "David Brent: Life on the Road",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "count": 11,
+    "all_lines": 1891,
+    "occurrences": [
+      [
+        1,
+        "00:00:32.891000",
+        "00:00:35.021000",
+        "Hello, I'm David Brent."
+      ],
+      [
+        27,
+        "00:01:52.763000",
+        "00:01:55.914000",
+        "# Life on the road"
+      ],
+      [
+        35,
+        "00:02:28.006000",
+        "00:02:30.966000",
+        "# Life on the road"
+      ],
+      [
+        562,
+        "00:27:38.057000",
+        "00:27:41.557000",
+        "Oh, life on the road. Love it."
+      ],
+      [
+        717,
+        "00:36:00.934000",
+        "00:36:02.854000",
+        "- David Brent. - Hello."
+      ],
+      [
+        889,
+        "00:44:45.917000",
+        "00:44:48.707000",
+        "\"David Brent. Shite Night\"?"
+      ],
+      [
+        1325,
+        "01:06:48.071000",
+        "01:06:49.951000",
+        "- David Brent. - Oh, hi."
+      ],
+      [
+        1869,
+        "01:34:00.076000",
+        "01:34:02.446000",
+        "# Life on the road"
+      ],
+      [
+        1878,
+        "01:34:37.364000",
+        "01:34:39.534000",
+        "# Life on the road"
+      ],
+      [
+        1883,
+        "01:35:07.018000",
+        "01:35:09.308000",
+        "# Life on the road"
+      ],
+      [
+        1887,
+        "01:35:21.950000",
+        "01:35:25.330000",
+        "# Life on the road"
+      ]
+    ],
+    "regex": "\\b((?!\\bDavid\\ Brent:)David\\ Brent|(?!\\bLife\\ on\\ the\\ Road:)Life\\ on\\ the\\ Road)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2670524",
+    "title": "Youth",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 655,
+    "occurrences": [
+      [
+        580,
+        "01:24:52.915000",
+        "01:24:55.224000",
+        "Maybe because its a youth card."
+      ],
+      [
+        581,
+        "01:25:03.235000",
+        "01:25:05.112000",
+        "What did she say? - It\"s a youth card."
+      ]
+    ],
+    "regex": "\\b((?!\\bYouth:)Youth)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

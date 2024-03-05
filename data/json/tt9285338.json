@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt9285338",
+    "title": "Dwellers",
+    "year": 2021,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1501,
+    "occurrences": [
+      [
+        755,
+        "00:31:45.750000",
+        "00:31:48.153000",
+        "where the dwellers allegedly live."
+      ],
+      [
+        1241,
+        "00:59:33.101000",
+        "00:59:35.929000",
+        "I think these things used to be the dwellers."
+      ]
+    ],
+    "regex": "\\b((?!\\bDwellers:)Dwellers)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.9
+  }
+]

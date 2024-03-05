@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1198385",
+    "title": "In the Beginning",
+    "year": 2009,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1292,
+    "occurrences": [
+      [
+        0,
+        "00:00:40.071000",
+        "00:00:42.733000",
+        "In The Beginning"
+      ],
+      [
+        1216,
+        "01:53:43.404000",
+        "01:53:45.804000",
+        "In the beginning, there was a beetle problem."
+      ]
+    ],
+    "regex": "\\b((?!\\bIn\\ the\\ Beginning:)In\\ the\\ Beginning)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "imdb": "tt7188014",
+    "title": "PawParazzi",
+    "year": 2019,
+    "genres": [
+      "Family"
+    ],
+    "count": 8,
+    "all_lines": 1651,
+    "occurrences": [
+      [
+        7,
+        "00:01:23.996000",
+        "00:01:26.520000",
+        "Welcome back to Pawparazzi Snap,"
+      ],
+      [
+        12,
+        "00:01:37.053000",
+        "00:01:41.012000",
+        "Our Pawparazzi reporter Nancy O'Dog has an exclusive interview"
+      ],
+      [
+        327,
+        "00:19:50.580000",
+        "00:19:53.278000",
+        "Welcome back to Pawparazzi Snap."
+      ],
+      [
+        1177,
+        "01:05:55.864000",
+        "01:06:00.652000",
+        "You're from that TV show Pawparazzi Snap, correct?"
+      ],
+      [
+        1180,
+        "01:06:06.049000",
+        "01:06:09.313000",
+        "We're reporters from Pawparazzi."
+      ],
+      [
+        1197,
+        "01:07:07.023000",
+        "01:07:09.546000",
+        "Kim Quick, with Pawparazzi Snap,"
+      ],
+      [
+        1205,
+        "01:07:33.484000",
+        "01:07:36.225000",
+        "How long have you been with Pawparazzi?"
+      ],
+      [
+        1320,
+        "01:13:54.038000",
+        "01:13:56.431000",
+        "Pawparazzi Snap."
+      ]
+    ],
+    "regex": "\\b((?!\\bPawParazzi:)PawParazzi)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

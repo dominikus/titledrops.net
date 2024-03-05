@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0488334",
+    "title": "Scared",
+    "year": 2005,
+    "genres": [
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 457,
+    "occurrences": [
+      [
+        14,
+        "00:01:03.520000",
+        "00:01:05.181000",
+        "I'm getting scared, when I talk about it."
+      ],
+      [
+        161,
+        "00:13:16.320000",
+        "00:13:19.980000",
+        "If you're scared go home, and take the others with you!"
+      ],
+      [
+        177,
+        "00:14:38.240000",
+        "00:14:39.500000",
+        "I am scared."
+      ],
+      [
+        180,
+        "00:14:49.600000",
+        "00:14:52.558000",
+        "What are you scared about? You're so superstitious!"
+      ],
+      [
+        192,
+        "00:16:57.400000",
+        "00:16:59.506000",
+        "If you're scared, I'll go have a look."
+      ],
+      [
+        313,
+        "00:38:26.640000",
+        "00:38:27.796000",
+        "You've scared us to death!"
+      ]
+    ],
+    "regex": "\\b((?!\\bScared:)Scared)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

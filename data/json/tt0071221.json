@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0071221",
+    "title": "Black Belt Jones",
+    "year": 1974,
+    "genres": [
+      "Action"
+    ],
+    "count": 3,
+    "all_lines": 776,
+    "occurrences": [
+      [
+        338,
+        "00:30:23.271000",
+        "00:30:26.331000",
+        "Black Belt Jones, meet Sydney."
+      ],
+      [
+        518,
+        "00:44:12.566000",
+        "00:44:14.090000",
+        "Tell him it's Black Belt Jones."
+      ],
+      [
+        731,
+        "01:09:10.062000",
+        "01:09:12.360000",
+        "Black Belt Jones."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Belt\\ Jones:)Black\\ Belt\\ Jones)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [
+      "Black Belt Jones"
+    ],
+    "title_is_name": true,
+    "rating": 6.2
+  }
+]

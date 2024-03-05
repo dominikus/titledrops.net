@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt6190036",
+    "title": "Myth",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1239,
+    "occurrences": [
+      [
+        310,
+        "00:20:48.247000",
+        "00:20:51.833000",
+        "Okay, how long did it take you to write \"Myth\"?"
+      ],
+      [
+        314,
+        "00:21:10.978000",
+        "00:21:13.831000",
+        "I can't talk to you about \"Myth\"."
+      ],
+      [
+        921,
+        "01:05:21",
+        "01:05:25.731000",
+        "and I definitely didn't know anything about \"Myth\"."
+      ],
+      [
+        1143,
+        "01:18:29.121000",
+        "01:18:32.100000",
+        "The one that says \"Myth\" on it?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMyth:)Myth)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2889716",
+    "title": "Our Family",
+    "year": 2014,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1072,
+    "occurrences": [
+      [
+        161,
+        "00:17:04.506000",
+        "00:17:08.977000",
+        "Shunpei, I just don't want to see our family get separated."
+      ],
+      [
+        225,
+        "00:25:12.294000",
+        "00:25:15.138000",
+        "I worried about what would become of our family"
+      ]
+    ],
+    "regex": "\\b((?!\\bOur\\ Family:)Our\\ Family)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

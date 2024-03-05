@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt8944962",
+    "title": "Collodion: The Process of Preservation",
+    "year": 2020,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 7,
+    "all_lines": 942,
+    "occurrences": [
+      [
+        53,
+        "00:04:01.950000",
+        "00:04:05.550000",
+        "the water, the chemical, gets under the collodion"
+      ],
+      [
+        71,
+        "00:05:12.270000",
+        "00:05:15.543000",
+        "and with a glue-like substance called collodion."
+      ],
+      [
+        339,
+        "00:24:01.170000",
+        "00:24:03.520000",
+        "-  The collodion process really saved me"
+      ],
+      [
+        572,
+        "00:41:53.070000",
+        "00:41:55.920000",
+        "-  The collodion process was used to take portraits"
+      ],
+      [
+        810,
+        "01:03:51.380000",
+        "01:03:54.250000",
+        "Before collodion was used in photography,"
+      ],
+      [
+        814,
+        "01:04:06",
+        "01:04:08.400000",
+        "This camera and the collodion process brought me"
+      ],
+      [
+        869,
+        "01:09:35.382000",
+        "01:09:37.299000",
+        "Oh yeah, the collodion."
+      ]
+    ],
+    "regex": "\\b((?!\\bCollodion:)Collodion|(?!\\bProcess\\ of\\ Preservation:)Process\\ of\\ Preservation)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

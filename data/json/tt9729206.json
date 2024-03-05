@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt9729206",
+    "title": "Diner",
+    "year": 2019,
+    "genres": [
+      "Crime"
+    ],
+    "count": 5,
+    "all_lines": 1026,
+    "occurrences": [
+      [
+        132,
+        "00:11:49.130000",
+        "00:11:54.560000",
+        "Diner"
+      ],
+      [
+        159,
+        "00:13:50.810000",
+        "00:13:52.300000",
+        "This restaurant is called diner, using a membership system."
+      ],
+      [
+        166,
+        "00:14:07.540000",
+        "00:14:11.100000",
+        "This is a Diner for the killers."
+      ],
+      [
+        223,
+        "00:23:20.540000",
+        "00:23:22.830000",
+        "Welcome to Diner."
+      ],
+      [
+        586,
+        "00:54:09.430000",
+        "00:54:12.860000",
+        "Hello, this is Diner, what's up?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDiner:)Diner)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

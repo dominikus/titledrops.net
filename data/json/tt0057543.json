@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0057543",
+    "title": "Sunday in New York",
+    "year": 1963,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1786,
+    "occurrences": [
+      [
+        7,
+        "00:00:52.469000",
+        "00:00:55.347000",
+        "Of a Sunday in New York"
+      ],
+      [
+        16,
+        "00:01:25.961000",
+        "00:01:31.466000",
+        "Comes true on Sunday in New York"
+      ],
+      [
+        1786,
+        "01:44:39.398000",
+        "01:44:42.067000",
+        "even on a rainy Sunday in New York."
+      ]
+    ],
+    "regex": "\\b((?!\\bSunday\\ in\\ New\\ York:)Sunday\\ in\\ New\\ York)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt5785200",
+    "title": "Machine",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1560,
+    "occurrences": [
+      [
+        1341,
+        "01:53:25.148000",
+        "01:53:26.523000",
+        "why did you have to break the machine?"
+      ],
+      [
+        1506,
+        "02:05:50.085000",
+        "02:05:52.458000",
+        "You are just a machine!"
+      ],
+      [
+        1507,
+        "02:05:53.501000",
+        "02:05:56.626000",
+        "You are a machine."
+      ],
+      [
+        1527,
+        "02:09:09.686000",
+        "02:09:12.270000",
+        "I was a machine until now."
+      ]
+    ],
+    "regex": "\\b((?!\\bMachine:)Machine)(?!\\:)(?!'t)\\b",
+    "runtime": 148,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.7
+  }
+]

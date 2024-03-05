@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3984356",
+    "title": "Only",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 716,
+    "occurrences": [
+      [
+        300,
+        "00:33:07.912000",
+        "00:33:09.278000",
+        "It's only women."
+      ],
+      [
+        575,
+        "01:08:32.835000",
+        "01:08:34.535000",
+        "but she died after only a few weeks."
+      ]
+    ],
+    "regex": "\\b((?!\\bOnly:)Only)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

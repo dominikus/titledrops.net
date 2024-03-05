@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt15153532",
+    "title": "Strays",
+    "year": 2023,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 2184,
+    "occurrences": [
+      [
+        538,
+        "00:22:05.793000",
+        "00:22:08.696000",
+        "I told you strays life is the best life."
+      ],
+      [
+        1350,
+        "00:51:36.229000",
+        "00:51:37.699000",
+        "You found some strays, Rolf?"
+      ]
+    ],
+    "regex": "\\b((?!\\bStrays:)Strays)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

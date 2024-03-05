@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2361348",
+    "title": "The Lebanese Rocket Society",
+    "year": 2012,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 778,
+    "occurrences": [
+      [
+        649,
+        "01:12:17.040000",
+        "01:12:19.407000",
+        "\"The Lebanese Rocket Society\"."
+      ],
+      [
+        726,
+        "01:22:44.200000",
+        "01:22:49.047000",
+        "Welcome to the Museum of the Lebanese Rocket Society."
+      ]
+    ],
+    "regex": "\\b((?!\\bLebanese\\ Rocket\\ Society:)Lebanese\\ Rocket\\ Society)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

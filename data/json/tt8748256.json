@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt8748256",
+    "title": "Travel Mates 2",
+    "year": 2018,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1700,
+    "occurrences": [
+      [
+        460,
+        "00:26:37.400000",
+        "00:26:39.200000",
+        "Do you know an app called Travel Mates?"
+      ],
+      [
+        476,
+        "00:27:19.320000",
+        "00:27:23.080000",
+        "I don't know. You met on Travel Mates, after all."
+      ]
+    ],
+    "regex": "\\b((?!\\bTravel\\ Mates:)Travel\\ Mates)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

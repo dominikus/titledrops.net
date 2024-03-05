@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0204055",
+    "title": "Wild Mussels",
+    "year": 2000,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 658,
+    "occurrences": [
+      [
+        411,
+        "01:08:37",
+        "01:08:42.154000",
+        "But the best are wild mussels. They're good for eh..."
+      ],
+      [
+        412,
+        "01:08:43.240000",
+        "01:08:48.439000",
+        "A few years ago we had wild mussels so large..."
+      ],
+      [
+        417,
+        "01:09:05.680000",
+        "01:09:09.434000",
+        "Hey, Leen, you wouldn't need these wild mussels, would you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWild\\ Mussels:)Wild\\ Mussels)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

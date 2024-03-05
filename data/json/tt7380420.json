@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt7380420",
+    "title": "The 27 Club",
+    "year": 2019,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1339,
+    "occurrences": [
+      [
+        95,
+        "00:10:06.260000",
+        "00:10:09.815000",
+        "focus has already been brought to the notorious 27 Club"
+      ],
+      [
+        106,
+        "00:10:34.495000",
+        "00:10:37.395000",
+        "This makes Quinn Scott the newest member of the 27 Club."
+      ],
+      [
+        305,
+        "00:20:38.823000",
+        "00:20:41.412000",
+        "The 27 Club. You know it?"
+      ],
+      [
+        354,
+        "00:24:43.136000",
+        "00:24:45.863000",
+        "Why are you making a documentary on the 27 Club?"
+      ]
+    ],
+    "regex": "\\b((?!\\b27\\ Club:)27\\ Club)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt9766814",
+    "title": "The Midwife",
+    "year": 2021,
+    "genres": [
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 983,
+    "occurrences": [
+      [
+        64,
+        "00:03:12.101000",
+        "00:03:14.904000",
+        "Wendy, I'm the midwife. Lissie is it?"
+      ],
+      [
+        95,
+        "00:05:34.176000",
+        "00:05:36.712000",
+        "Charlie, this is Wendy, she's our midwife."
+      ],
+      [
+        451,
+        "00:34:38.553000",
+        "00:34:41.356000",
+        "Well then, you need a midwife."
+      ],
+      [
+        531,
+        "00:40:14.824000",
+        "00:40:16.959000",
+        "Well, if a midwife can be of assistance"
+      ],
+      [
+        780,
+        "00:59:28.077000",
+        "00:59:32.047000",
+        "You can do it Lissie you're under a midwife's care."
+      ]
+    ],
+    "regex": "\\b((?!\\bMidwife:)Midwife)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [
+      "The Midwife"
+    ],
+    "title_is_name": true,
+    "rating": 3.8
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt12266988",
+    "title": "Call Time",
+    "year": 2021,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1425,
+    "occurrences": [
+      [
+        829,
+        "00:55:26.994000",
+        "00:55:28.961000",
+        "me in my role in Call Time... I mean when I"
+      ],
+      [
+        1366,
+        "01:31:35.763000",
+        "01:31:38.466000",
+        "you are back on top of the film world with Call Time."
+      ],
+      [
+        1374,
+        "01:31:55.316000",
+        "01:31:58.652000",
+        "My name is David and I'm calling to get call time for Tuesday..."
+      ],
+      [
+        1379,
+        "01:32:11.665000",
+        "01:32:14.168000",
+        "thank you to everyone watching Call Time."
+      ]
+    ],
+    "regex": "\\b((?!\\bCall\\ Time:)Call\\ Time)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.5
+  }
+]

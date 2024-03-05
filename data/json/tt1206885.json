@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1206885",
+    "title": "Rambo: Last Blood",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1186,
+    "occurrences": [
+      [
+        735,
+        "00:48:35.330000",
+        "00:48:36.760000",
+        "\"John Rambo.\""
+      ],
+      [
+        736,
+        "00:48:42.212000",
+        "00:48:43.687000",
+        "Juanito Rambo."
+      ]
+    ],
+    "regex": "\\b((?!\\bRambo:)Rambo|(?!\\bLast\\ Blood:)Last\\ Blood)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt16117078",
+    "title": "Days of Our Lives: A Very Salem Christmas",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1515,
+    "occurrences": [
+      [
+        134,
+        "00:07:34.421000",
+        "00:07:37.190000",
+        "so are the Days of Our Lives."
+      ],
+      [
+        135,
+        "00:07:39.893000",
+        "00:07:41.628000",
+        "A VERY SALEM CHRISTMAS"
+      ]
+    ],
+    "regex": "\\b((?!\\bDays\\ of\\ Our\\ Lives:)Days\\ of\\ Our\\ Lives|(?!\\bVery\\ Salem\\ Christmas:)Very\\ Salem\\ Christmas)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

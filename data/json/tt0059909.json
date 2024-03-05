@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0059909",
+    "title": "Who Killed Teddy Bear",
+    "year": 1965,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1314,
+    "occurrences": [
+      [
+        5,
+        "00:00:50.680000",
+        "00:00:55.675000",
+        "7 Tell me who killed Teddy Bear &"
+      ],
+      [
+        15,
+        "00:01:59.600000",
+        "00:02:04.310000",
+        "7 Tell me who killed Teddy Bear &"
+      ],
+      [
+        1312,
+        "01:30:08.600000",
+        "01:30:13.117000",
+        "7 Tell me who killed teddy bear &"
+      ]
+    ],
+    "regex": "\\b((?!\\bWho\\ Killed\\ Teddy\\ Bear:)Who\\ Killed\\ Teddy\\ Bear)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0282628",
+    "title": "Jan Dara",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 801,
+    "occurrences": [
+      [
+        12,
+        "00:01:28.922000",
+        "00:01:32.653000",
+        "My name is Jan Dara"
+      ],
+      [
+        655,
+        "01:19:39.341000",
+        "01:19:45.280000",
+        "This house is now in the name of Mr Jan Dara"
+      ]
+    ],
+    "regex": "\\b((?!\\bJan\\ Dara:)Jan\\ Dara)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

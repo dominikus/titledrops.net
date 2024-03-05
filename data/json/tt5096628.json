@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5096628",
+    "title": "Paris 05:59: Théo & Hugo",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 919,
+    "occurrences": [
+      [
+        0,
+        "00:00:44.621000",
+        "00:00:49.296000",
+        "WHILE PARIS WAS SLEEPING"
+      ],
+      [
+        718,
+        "01:17:23.191000",
+        "01:17:25.476000",
+        "- No, I'm from Lons. - I'm from Paris."
+      ],
+      [
+        730,
+        "01:18:40.473000",
+        "01:18:42.594000",
+        "I like Paris."
+      ]
+    ],
+    "regex": "\\b((?!\\bParis:)Paris|(?!\\b59:)59|(?!\\bTheo\\ \\&\\ Hugo:)Theo\\ \\&\\ Hugo)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

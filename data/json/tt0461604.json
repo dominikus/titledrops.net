@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0461604",
+    "title": "The Buried Forest",
+    "year": 2005,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 634,
+    "occurrences": [
+      [
+        513,
+        "01:12:31.213000",
+        "01:12:32.510000",
+        "A buried forest."
+      ],
+      [
+        524,
+        "01:13:35.811000",
+        "01:13:41.010000",
+        "is believed to be part of a buried forest,"
+      ],
+      [
+        539,
+        "01:15:06.068000",
+        "01:15:10.164000",
+        "But now you are studying about the buried forest."
+      ],
+      [
+        633,
+        "01:32:44.225000",
+        "01:32:49.527000",
+        "All rights reserved by The Buried Forest Production Committee,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBuried\\ Forest:)Buried\\ Forest)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

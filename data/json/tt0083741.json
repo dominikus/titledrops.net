@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0083741",
+    "title": "Cold River",
+    "year": 1982,
+    "genres": [
+      "Adventure"
+    ],
+    "count": 4,
+    "all_lines": 821,
+    "occurrences": [
+      [
+        207,
+        "00:15:49.682000",
+        "00:15:52.252000",
+        "They're right over the Cold River--"
+      ],
+      [
+        209,
+        "00:15:56.423000",
+        "00:15:58.158000",
+        " Cold River."
+      ],
+      [
+        301,
+        "00:32:37.389000",
+        "00:32:40.692000",
+        "He promised that he wouldn't come down the Cold River."
+      ],
+      [
+        782,
+        "01:29:22.791000",
+        "01:29:24.359000",
+        "the Cold River."
+      ]
+    ],
+    "regex": "\\b((?!\\bCold\\ River:)Cold\\ River)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

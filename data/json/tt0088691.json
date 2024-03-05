@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0088691",
+    "title": "The Alchemist",
+    "year": 1983,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 652,
+    "occurrences": [
+      [
+        427,
+        "00:49:53.491000",
+        "00:49:57.314000",
+        "then you breathe life into it, like being an alchemist."
+      ],
+      [
+        429,
+        "00:49:58.147000",
+        "00:49:59.661000",
+        "- An alchemist?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAlchemist:)Alchemist)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

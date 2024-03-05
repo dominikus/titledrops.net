@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3395184",
+    "title": "Spring",
+    "year": 2014,
+    "genres": [
+      "Horror",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1723,
+    "occurrences": [
+      [
+        638,
+        "00:36:34.259000",
+        "00:36:37.661000",
+        "In spring, we just take off."
+      ],
+      [
+        1041,
+        "01:03:08.385000",
+        "01:03:13.855000",
+        "Late spring is a madhouse."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpring:)Spring)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

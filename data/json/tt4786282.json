@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt4786282",
+    "title": "Lights Out",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 762,
+    "occurrences": [
+      [
+        42,
+        "00:07:09.226000",
+        "00:07:12.625000",
+        "lights out"
+      ],
+      [
+        313,
+        "00:34:19.771000",
+        "00:34:22.493000",
+        "Keep the lights out."
+      ],
+      [
+        397,
+        "00:40:25.822000",
+        "00:40:30.369000",
+        "As long as I keep my head clear and you keep the lights out."
+      ]
+    ],
+    "regex": "\\b((?!\\bLights\\ Out:)Lights\\ Out)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

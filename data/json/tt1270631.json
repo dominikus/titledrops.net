@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1270631",
+    "title": "The Herb of the Rat",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 283,
+    "occurrences": [
+      [
+        137,
+        "00:17:20.649000",
+        "00:17:27.756000",
+        "herb of the rat, which effects are pestiferous as well."
+      ],
+      [
+        139,
+        "00:17:33.228000",
+        "00:17:36.755000",
+        "except the herb of the rat,"
+      ]
+    ],
+    "regex": "\\b((?!\\bHerb\\ of\\ the\\ Rat:)Herb\\ of\\ the\\ Rat)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

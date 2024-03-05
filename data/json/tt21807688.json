@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt21807688",
+    "title": "Sitio Diablo",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1090,
+    "occurrences": [
+      [
+        6,
+        "00:00:36.939000",
+        "00:00:40.317000",
+        "I am the deluge and the storm. Sitio Diablo is my paradise."
+      ],
+      [
+        66,
+        "00:04:37.763000",
+        "00:04:40.891000",
+        "Sitio Diablo is cursed."
+      ],
+      [
+        305,
+        "00:24:19.969000",
+        "00:24:24.224000",
+        "Your father is the founder of Sitio Diablo."
+      ],
+      [
+        1083,
+        "01:34:33.251000",
+        "01:34:35.512000",
+        "Have you cleaned up Sitio Diablo?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSitio\\ Diablo:)Sitio\\ Diablo)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7046826",
+    "title": "The Mimic",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 776,
+    "occurrences": [
+      [
+        45,
+        "00:09:20.185000",
+        "00:09:22.686000",
+        "- Don't mimic me. - Don't mimic me."
+      ],
+      [
+        614,
+        "01:16:04.310000",
+        "01:16:09.190000",
+        "A tiger will mimic me to eat you from outside the door."
+      ]
+    ],
+    "regex": "\\b((?!\\bMimic:)Mimic)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

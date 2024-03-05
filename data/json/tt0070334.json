@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0070334",
+    "title": "The Long Goodbye",
+    "year": 1973,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1463,
+    "occurrences": [
+      [
+        387,
+        "00:27:25.652000",
+        "00:27:31.717000",
+        "# There's a long goodbye #"
+      ],
+      [
+        1203,
+        "01:30:33.208000",
+        "01:30:37.086000",
+        "# There's a long goodbye #"
+      ]
+    ],
+    "regex": "\\b((?!\\bLong\\ Goodbye:)Long\\ Goodbye)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

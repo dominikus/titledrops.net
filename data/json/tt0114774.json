@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0114774",
+    "title": "The Blue Villa",
+    "year": 1995,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 710,
+    "occurrences": [
+      [
+        59,
+        "00:08:03.451000",
+        "00:08:04.886000",
+        "is called the Blue Villa."
+      ],
+      [
+        268,
+        "00:31:35.019000",
+        "00:31:36.830000",
+        "The Blue Villa."
+      ],
+      [
+        312,
+        "00:35:26.119000",
+        "00:35:28.127000",
+        "The Blue Villa..."
+      ],
+      [
+        319,
+        "00:35:50.249000",
+        "00:35:52.251000",
+        "What Blue Villa?"
+      ],
+      [
+        439,
+        "00:49:40.512000",
+        "00:49:42.080000",
+        "of the Blue Villa?"
+      ],
+      [
+        644,
+        "01:21:15.505000",
+        "01:21:18.375000",
+        "of the activities at the Blue Villa."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Villa:)Blue\\ Villa)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

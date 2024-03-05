@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt1289406",
+    "title": "Harry Brown",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 977,
+    "occurrences": [
+      [
+        181,
+        "00:18:39.946000",
+        "00:18:43.074000",
+        "- Mr. Harry Brown? - Yes."
+      ],
+      [
+        776,
+        "01:15:59.010000",
+        "01:16:02.180000",
+        "Sir, I don't think Harry Brown is a witness."
+      ],
+      [
+        852,
+        "01:23:54.277000",
+        "01:23:57.405000",
+        "As far as I'm concerned, Harry Brown's doing us a favour."
+      ]
+    ],
+    "regex": "\\b((?!\\bHarry\\ Brown:)Harry\\ Brown)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [
+      "Harry Brown"
+    ],
+    "title_is_name": true,
+    "rating": 7.2
+  }
+]

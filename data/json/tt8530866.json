@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt8530866",
+    "title": "Spitak",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 461,
+    "occurrences": [
+      [
+        19,
+        "00:05:10.600000",
+        "00:05:18.560000",
+        "- Operator 17 on the line. Lady, I want to connect to Spitak"
+      ],
+      [
+        21,
+        "00:05:22.200000",
+        "00:05:28.200000",
+        "I understand you might not understand the Russian language - There is no connection to Spitak"
+      ],
+      [
+        26,
+        "00:05:54",
+        "00:05:59.760000",
+        "They are in Spitak, and we are here in Moscow."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpitak:)Spitak)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

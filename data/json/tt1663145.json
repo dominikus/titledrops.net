@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1663145",
+    "title": "Broken Blade: The Time of Awakening",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Animation",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 616,
+    "occurrences": [
+      [
+        518,
+        "00:42:00.110000",
+        "00:42:01.830000",
+        "A broken blade, so to speak."
+      ],
+      [
+        581,
+        "00:06:30.860000",
+        "00:06:35.490000",
+        "Book One The Time of Awakening"
+      ]
+    ],
+    "regex": "\\b((?!\\bBroken\\ Blade:)Broken\\ Blade|(?!\\bTime\\ of\\ Awakening:)Time\\ of\\ Awakening)(?!\\:)(?!'t)\\b",
+    "runtime": 51,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4132190",
+    "title": "The Babymoon",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1894,
+    "occurrences": [
+      [
+        25,
+        "00:01:22.259000",
+        "00:01:24.432000",
+        "I think this trend of having a Babymoon"
+      ],
+      [
+        1578,
+        "01:19:08.518000",
+        "01:19:10.646000",
+        "Dammit, what kind of Babymoon is this?"
+      ],
+      [
+        1871,
+        "01:37:27.308000",
+        "01:37:28.900000",
+        "I mean what kind of Babymoon is this?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBabymoon:)Babymoon)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

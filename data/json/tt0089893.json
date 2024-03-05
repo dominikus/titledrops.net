@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt0089893",
+    "title": "Red Sonja",
+    "year": 1985,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 476,
+    "occurrences": [
+      [
+        60,
+        "00:17:46.298000",
+        "00:17:48.163000",
+        "What is it, Red Sonja?"
+      ],
+      [
+        61,
+        "00:18:17.329000",
+        "00:18:19.354000",
+        "L'm looking for Red Sonja."
+      ]
+    ],
+    "regex": "\\b((?!\\bRed\\ Sonja:)Red\\ Sonja)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [
+      "Red Sonja"
+    ],
+    "title_is_name": true,
+    "rating": 5.1
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "imdb": "tt10727128",
+    "title": "Parcel",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 11,
+    "all_lines": 1234,
+    "occurrences": [
+      [
+        85,
+        "00:12:26.750000",
+        "00:12:29.166000",
+        "Mrs. Nandini Roy? There's a parcel for you."
+      ],
+      [
+        93,
+        "00:12:46.375000",
+        "00:12:47.404000",
+        "It's just a parcel."
+      ],
+      [
+        169,
+        "00:19:59.125000",
+        "00:20:00.799000",
+        "Ma'am, a parcel for you."
+      ],
+      [
+        170,
+        "00:20:02.907000",
+        "00:20:05.500000",
+        "-Parcel? Who is it from? -There is no information."
+      ],
+      [
+        171,
+        "00:20:05.500000",
+        "00:20:08.250000",
+        "Strange! You show up with a parcel every day but you don't know who sends them?"
+      ],
+      [
+        444,
+        "00:43:48.712000",
+        "00:43:51.377000",
+        "-What gift? What parcel? What document? -Shut up!"
+      ],
+      [
+        478,
+        "00:46:58.001000",
+        "00:47:01.250000",
+        "And sir, this parcel was lying outside the main gate."
+      ],
+      [
+        629,
+        "01:02:06.875000",
+        "01:02:13.843000",
+        "...that we have seen the end of this parcel episode?"
+      ],
+      [
+        886,
+        "01:25:14.250000",
+        "01:25:17.583000",
+        "No, keep that parcel with you for now."
+      ],
+      [
+        1025,
+        "01:38:23.692000",
+        "01:38:27.041000",
+        "Do you want to open the last parcel? It's in that cupboard. I'll get it."
+      ],
+      [
+        1218,
+        "01:58:50.708000",
+        "01:58:53.208000",
+        "There's a parcel for him."
+      ]
+    ],
+    "regex": "\\b((?!\\bParcel:)Parcel)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

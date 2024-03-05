@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0295721",
+    "title": "Taxi 3",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 4,
+    "all_lines": 1159,
+    "occurrences": [
+      [
+        901,
+        "01:03:45.955000",
+        "01:03:46.955000",
+        "Oh no, not the taxi!"
+      ],
+      [
+        990,
+        "01:09:06.526000",
+        "01:09:10.151000",
+        "Daniel, I know you're fast, but a taxi can't climb a mountain!"
+      ],
+      [
+        1001,
+        "01:09:48.650000",
+        "01:09:51.025000",
+        "If they manage to escape in a chopper, is your taxi equipped for that?"
+      ],
+      [
+        1065,
+        "01:15:51.929000",
+        "01:15:55.845000",
+        "Ooops - it did. A... taxi... beats him by a split-second."
+      ]
+    ],
+    "regex": "\\b((?!\\bTaxi:)Taxi)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

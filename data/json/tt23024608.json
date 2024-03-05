@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt23024608",
+    "title": "It Be an Evil Moon",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 708,
+    "occurrences": [
+      [
+        544,
+        "01:00:23.920000",
+        "01:00:26.750000",
+        "It be an evil moon."
+      ],
+      [
+        547,
+        "01:00:32.880000",
+        "01:00:34.750000",
+        "It be an evil moon."
+      ],
+      [
+        553,
+        "01:00:49.600000",
+        "01:00:51.590000",
+        "It be an evil moon"
+      ]
+    ],
+    "regex": "\\b((?!\\bIt\\ Be\\ an\\ Evil\\ Moon:)It\\ Be\\ an\\ Evil\\ Moon)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

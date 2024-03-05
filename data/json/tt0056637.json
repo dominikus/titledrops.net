@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0056637",
+    "title": "The Underwater City",
+    "year": 1962,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1030,
+    "occurrences": [
+      [
+        96,
+        "00:08:52.751000",
+        "00:08:56.042000",
+        "No, this is real. An underwater city."
+      ],
+      [
+        97,
+        "00:08:56.125000",
+        "00:08:57.459000",
+        "Underwater city?"
+      ],
+      [
+        109,
+        "00:09:16.209000",
+        "00:09:17.876000",
+        "to build this underwater city."
+      ]
+    ],
+    "regex": "\\b((?!\\bUnderwater\\ City:)Underwater\\ City)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7091300",
+    "title": "Bad Apples",
+    "year": 2018,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 956,
+    "occurrences": [
+      [
+        47,
+        "00:08:24.677000",
+        "00:08:27.677000",
+        "I mean, there are certainly some bad apples,"
+      ],
+      [
+        898,
+        "01:19:32.275000",
+        "01:19:35.487000",
+        "those bad apples born out of violence,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBad\\ Apples:)Bad\\ Apples)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

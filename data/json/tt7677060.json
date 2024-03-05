@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7677060",
+    "title": "Love, Repeat",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1331,
+    "occurrences": [
+      [
+        32,
+        "00:02:52.722000",
+        "00:02:54.457000",
+        "Love, repeat."
+      ],
+      [
+        1288,
+        "01:14:00.457000",
+        "01:14:02.793000",
+        "Love, repeat."
+      ]
+    ],
+    "regex": "\\b((?!\\bLove,\\ Repeat:)Love,\\ Repeat)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

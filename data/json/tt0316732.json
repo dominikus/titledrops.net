@@ -1,0 +1,69 @@
+[
+  {
+    "imdb": "tt0316732",
+    "title": "Taxi",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 8,
+    "all_lines": 1189,
+    "occurrences": [
+      [
+        12,
+        "00:02:48.001000",
+        "00:02:52.338000",
+        "Anyway, we're all real proud of you for finally getting your taxi license."
+      ],
+      [
+        13,
+        "00:02:53.006000",
+        "00:02:56.217000",
+        "Knowing you're behind the wheel in a taxi in our fair city..."
+      ],
+      [
+        20,
+        "00:03:17.281000",
+        "00:03:18.573000",
+        "That's gonna be some taxi, Belle."
+      ],
+      [
+        43,
+        "00:04:30.187000",
+        "00:04:34.273000",
+        "I just got a 4:00 appointment at the Taxi Commission to pick up my license."
+      ],
+      [
+        225,
+        "00:23:56.852000",
+        "00:23:59.562000",
+        "- You shot my taxi! - You calm down now, ma'am!"
+      ],
+      [
+        454,
+        "00:38:03.281000",
+        "00:38:06.200000",
+        "Why would you take a taxi to a bank robbery?"
+      ],
+      [
+        673,
+        "00:52:13.088000",
+        "00:52:14.798000",
+        "If I had my taxi."
+      ],
+      [
+        745,
+        "01:00:06.979000",
+        "01:00:09.605000",
+        "You're not driving a taxi again. Let's go."
+      ]
+    ],
+    "regex": "\\b((?!\\bTaxi:)Taxi)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1071880",
+    "title": "The Crew",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1192,
+    "occurrences": [
+      [
+        201,
+        "00:20:01.870000",
+        "00:20:07.040000",
+        "You've got your own fucking crew. Every cunt round here's talking about Ratter"
+      ],
+      [
+        535,
+        "00:54:01.620000",
+        "00:54:04.790000",
+        "I'm fucking telling you Fucking Lepi's crew"
+      ],
+      [
+        540,
+        "00:54:21.430000",
+        "00:54:26.270000",
+        "If it was Lepi's crew that done Leo the Pig and now this..."
+      ],
+      [
+        629,
+        "01:01:11.960000",
+        "01:01:15.590000",
+        "You can have him and his whole fucking crew"
+      ],
+      [
+        654,
+        "01:03:23.590000",
+        "01:03:28.430000",
+        "Be there tomorrow morning, 8am No crew. No fucking tools"
+      ]
+    ],
+    "regex": "\\b((?!\\bCrew:)Crew)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

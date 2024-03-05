@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0283900",
+    "title": "The Spanish Apartment",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 2090,
+    "occurrences": [
+      [
+        515,
+        "00:31:46.085000",
+        "00:31:50.181000",
+        "\"The Spanish apartment\""
+      ],
+      [
+        516,
+        "00:31:50.251000",
+        "00:31:53.797000",
+        "(XAVIER NARRATING IN FRENCH) That house was a literal \"Spanish apartment.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bSpanish\\ Apartment:)Spanish\\ Apartment)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

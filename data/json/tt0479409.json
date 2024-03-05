@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0479409",
+    "title": "Herbie Hancock: Possibilities",
+    "year": 2006,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 5,
+    "all_lines": 971,
+    "occurrences": [
+      [
+        69,
+        "00:06:35.084000",
+        "00:06:37.224000",
+        "is the word \"possibilities.\""
+      ],
+      [
+        81,
+        "00:08:07.348000",
+        "00:08:09.558000",
+        "I got a phone call: \"You want to record with Herbie Hancock?\""
+      ],
+      [
+        236,
+        "00:20:00.992000",
+        "00:20:03.132000",
+        "On piano, Herbie Hancock."
+      ],
+      [
+        500,
+        "00:44:51.240000",
+        "00:44:53.656000",
+        "Mr. Herbie Hancock, Mr. Wayne Shorter."
+      ],
+      [
+        591,
+        "00:54:39.931000",
+        "00:54:44.004000",
+        "going into new possibilities is definitely contagious."
+      ]
+    ],
+    "regex": "\\b((?!\\bHerbie\\ Hancock:)Herbie\\ Hancock|(?!\\bPossibilities:)Possibilities)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

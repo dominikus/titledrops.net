@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0111140",
+    "title": "Sh'Chur",
+    "year": 1994,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 743,
+    "occurrences": [
+      [
+        636,
+        "01:21:31.160000",
+        "01:21:33.959000",
+        "How? - Sh'chur."
+      ],
+      [
+        685,
+        "01:28:27.614000",
+        "01:28:30.607000",
+        "It's just a bIessing. -No, it's not. It's Sh'chur."
+      ]
+    ],
+    "regex": "\\b((?!\\bSh'Chur:)Sh'Chur)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

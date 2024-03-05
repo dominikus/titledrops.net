@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2356975",
+    "title": "Bathing Franky",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1013,
+    "occurrences": [
+      [
+        192,
+        "00:17:44.360000",
+        "00:17:46.169000",
+        "I had no idea you were bathing Franky."
+      ],
+      [
+        894,
+        "01:14:03.601000",
+        "01:14:06.564000",
+        "I am tired of bathing Franky."
+      ]
+    ],
+    "regex": "\\b((?!\\bBathing\\ Franky:)Bathing\\ Franky)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

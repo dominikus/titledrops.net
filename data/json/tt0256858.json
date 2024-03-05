@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0256858",
+    "title": "Killers",
+    "year": 1996,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1106,
+    "occurrences": [
+      [
+        34,
+        "00:03:31.080000",
+        "00:03:35.270000",
+        "and now convicted killers Odessa and Kyle James"
+      ],
+      [
+        36,
+        "00:03:44.480000",
+        "00:03:47.873000",
+        "- Convicted killers Kyle and Odessa James are out."
+      ],
+      [
+        845,
+        "01:01:28.390000",
+        "01:01:29.483000",
+        "-  America's favorite killers,"
+      ],
+      [
+        1050,
+        "01:18:24.950000",
+        "01:18:27.670000",
+        "One of the most notorious of all killers"
+      ]
+    ],
+    "regex": "\\b((?!\\bKillers:)Killers)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

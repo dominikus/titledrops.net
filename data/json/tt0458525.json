@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0458525",
+    "title": "X-Men Origins: Wolverine",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 829,
+    "occurrences": [
+      [
+        41,
+        "00:04:50.082000",
+        "00:04:54.062000",
+        "X-MEN of the original Wolverine"
+      ],
+      [
+        246,
+        "00:29:50.577000",
+        "00:29:54.308000",
+        "Means Wolverine (Bursuc)."
+      ],
+      [
+        307,
+        "00:39:57.762000",
+        "00:39:59.480000",
+        "Wolverine."
+      ]
+    ],
+    "regex": "\\b((?!\\bX\\-Men\\ Origins:)X\\-Men\\ Origins|(?!\\bWolverine:)Wolverine)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

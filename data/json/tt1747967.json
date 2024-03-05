@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1747967",
+    "title": "Cassadaga",
+    "year": 2011,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1223,
+    "occurrences": [
+      [
+        133,
+        "00:12:31.997000",
+        "00:12:34.567000",
+        "Well, I so glad you've chosen Cassadaga University"
+      ],
+      [
+        486,
+        "00:37:25.467000",
+        "00:37:27.639000",
+        "I think Cassadaga's one of those places."
+      ],
+      [
+        785,
+        "01:00:39.954000",
+        "01:00:42.255000",
+        "it is right here in Cassadaga."
+      ],
+      [
+        1030,
+        "01:26:50.862000",
+        "01:26:54.463000",
+        "a Cassadaga resident who went missing four years ago."
+      ]
+    ],
+    "regex": "\\b((?!\\bCassadaga:)Cassadaga)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt20101986",
+    "title": "Bring It On: Cheer or Die",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1761,
+    "occurrences": [
+      [
+        1307,
+        "01:07:09.286000",
+        "01:07:11.027000",
+        "Cheer or die."
+      ],
+      [
+        1576,
+        "01:23:14.032000",
+        "01:23:14.859000",
+        "Bring it on!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBring\\ It\\ On:)Bring\\ It\\ On|(?!\\bCheer\\ or\\ Die:)Cheer\\ or\\ Die)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

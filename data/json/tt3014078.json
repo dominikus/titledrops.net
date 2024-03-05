@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3014078",
+    "title": "Shangri-La Suite",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 897,
+    "occurrences": [
+      [
+        722,
+        "01:02:42.217000",
+        "01:02:44.927000",
+        "Would you guys like the Shangri-La Suite?"
+      ],
+      [
+        885,
+        "01:19:27.596000",
+        "01:19:33.351000",
+        "as recording artist Jennifer Fever, whose minor 1988 hit \"Shangri-La Suite\""
+      ]
+    ],
+    "regex": "\\b((?!\\bShangri\\-La\\ Suite:)Shangri\\-La\\ Suite)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

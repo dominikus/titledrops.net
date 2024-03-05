@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt1899324",
+    "title": "The Letter",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1003,
+    "occurrences": [
+      [
+        399,
+        "00:32:35.553000",
+        "00:32:38.784000",
+        "And when you write a letter to someone who has died--"
+      ],
+      [
+        400,
+        "00:32:38.856000",
+        "00:32:42.155000",
+        "And when you write a letter to someone who has died--"
+      ],
+      [
+        403,
+        "00:32:48.566000",
+        "00:32:51.057000",
+        "So has the person who's written the letter"
+      ],
+      [
+        900,
+        "01:18:44.820000",
+        "01:18:47.721000",
+        "\"Write a letter to the dead."
+      ],
+      [
+        904,
+        "01:19:01.036000",
+        "01:19:03.869000",
+        "Take the letter in your hand"
+      ],
+      [
+        987,
+        "01:27:35.550000",
+        "01:27:39.452000",
+        "As I slept, I dreamt that I wrote you this letter"
+      ]
+    ],
+    "regex": "\\b((?!\\bLetter:)Letter)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

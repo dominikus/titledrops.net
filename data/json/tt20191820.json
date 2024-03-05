@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt20191820",
+    "title": "Colorado Christmas",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Family",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1408,
+    "occurrences": [
+      [
+        889,
+        "00:56:42.718000",
+        "00:56:45.654000",
+        "Call me crazy. But it's the Colorado Christmas tour."
+      ],
+      [
+        1252,
+        "01:23:38.720000",
+        "01:23:40.656000",
+        "The Johnny Colorado Christmas tour"
+      ]
+    ],
+    "regex": "\\b((?!\\bColorado\\ Christmas:)Colorado\\ Christmas)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

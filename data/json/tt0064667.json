@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0064667",
+    "title": "The Mighty Gorga",
+    "year": 1969,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 5,
+    "all_lines": 763,
+    "occurrences": [
+      [
+        402,
+        "00:37:58.240000",
+        "00:38:01.240000",
+        "Oh, mighty Gorga!"
+      ],
+      [
+        405,
+        "00:38:18.920000",
+        "00:38:23.845000",
+        "Oh, mighty Gorga! Great god of the jungle!"
+      ],
+      [
+        408,
+        "00:38:32.760000",
+        "00:38:36.185000",
+        "Return to the jungle, oh mighty Gorga."
+      ],
+      [
+        508,
+        "00:48:49.560000",
+        "00:48:51.560000",
+        "Oh, mighty Gorga!"
+      ],
+      [
+        534,
+        "00:57:25.200000",
+        "00:57:27.900000",
+        "Oh, mighty Gorga!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMighty\\ Gorga:)Mighty\\ Gorga)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.9
+  }
+]

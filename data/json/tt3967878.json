@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt3967878",
+    "title": "Illang: The Wolf Brigade",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 844,
+    "occurrences": [
+      [
+        310,
+        "00:49:10.489000",
+        "00:49:11.657000",
+        "of the Wolf Brigade?"
+      ],
+      [
+        564,
+        "01:23:59.826000",
+        "01:24:02.829000",
+        "A suspected Wolf Brigade member is on the move near Yongsan."
+      ],
+      [
+        697,
+        "01:42:01.991000",
+        "01:42:03.909000",
+        "You heard of the Wolf Brigade?"
+      ],
+      [
+        736,
+        "01:52:58.730000",
+        "01:52:59.982000",
+        "He's the Wolf Brigade."
+      ],
+      [
+        738,
+        "01:53:02.776000",
+        "01:53:04.569000",
+        "He's the Wolf Brigade!"
+      ]
+    ],
+    "regex": "\\b((?!\\bIllang:)Illang|(?!\\bWolf\\ Brigade:)Wolf\\ Brigade)(?!\\:)(?!'t)\\b",
+    "runtime": 139,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

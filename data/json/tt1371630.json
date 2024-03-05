@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt1371630",
+    "title": "Air Doll",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 349,
+    "occurrences": [
+      [
+        141,
+        "00:26:59.584000",
+        "00:27:03.020000",
+        "I am an air doll"
+      ],
+      [
+        209,
+        "00:39:25.096000",
+        "00:39:28.463000",
+        "I'm an air doll"
+      ]
+    ],
+    "regex": "\\b((?!\\bAir\\ Doll:)Air\\ Doll)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [
+      "Air Doll Maker"
+    ],
+    "title_is_name": true,
+    "rating": 6.9
+  }
+]

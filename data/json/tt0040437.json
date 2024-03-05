@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0040437",
+    "title": "Highway 13",
+    "year": 1948,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1092,
+    "occurrences": [
+      [
+        109,
+        "00:06:39.893000",
+        "00:06:41.330000",
+        "-  You come up Highway 13, Hank?"
+      ],
+      [
+        821,
+        "00:41:21.370000",
+        "00:41:25.230000",
+        "is strongly suspicious of the Clover Garage on Highway 13?"
+      ],
+      [
+        1003,
+        "00:51:45.523000",
+        "00:51:49.440000",
+        "22 go east and west on Highway 13."
+      ],
+      [
+        1010,
+        "00:52:29.650000",
+        "00:52:31.640000",
+        "on Highway 13."
+      ]
+    ],
+    "regex": "\\b((?!\\bHighway:)Highway)(?!\\:)(?!'t)\\b",
+    "runtime": 59,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

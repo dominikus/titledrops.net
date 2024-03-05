@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7718114",
+    "title": "FOMO: Fear of Missing Out",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1102,
+    "occurrences": [
+      [
+        65,
+        "00:04:55.840000",
+        "00:05:00.480000",
+        "FEAR OF MISSING OUT"
+      ],
+      [
+        1102,
+        "01:25:40.120000",
+        "01:25:43.240000",
+        "FOMO"
+      ]
+    ],
+    "regex": "\\b((?!\\bFOMO:)FOMO|(?!\\bFear\\ of\\ Missing\\ Out:)Fear\\ of\\ Missing\\ Out)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

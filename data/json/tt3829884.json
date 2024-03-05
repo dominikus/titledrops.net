@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3829884",
+    "title": "Baby, Baby, Baby",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1678,
+    "occurrences": [
+      [
+        589,
+        "00:28:51.797000",
+        "00:28:53.799000",
+        "\"Baby, baby, baby.\""
+      ],
+      [
+        592,
+        "00:28:56.302000",
+        "00:28:59.571000",
+        "SYDNEY: \"Baby, baby, baby\" is about this guy"
+      ],
+      [
+        602,
+        "00:29:31.870000",
+        "00:29:35.307000",
+        "'cause what makes \"Baby, baby, baby\" so special"
+      ],
+      [
+        606,
+        "00:29:49.888000",
+        "00:29:52.324000",
+        "Baby, baby, baby."
+      ]
+    ],
+    "regex": "\\b((?!\\bBaby,\\ Baby,\\ Baby:)Baby,\\ Baby,\\ Baby)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

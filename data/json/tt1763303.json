@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1763303",
+    "title": "The First Time",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1200,
+    "occurrences": [
+      [
+        411,
+        "00:32:24.251000",
+        "00:32:25.876000",
+        "This is the first time I've ever skipped class."
+      ],
+      [
+        441,
+        "00:35:10.751000",
+        "00:35:13.792000",
+        "This is the first time you're not spending your birthday with me."
+      ],
+      [
+        902,
+        "01:11:12.542000",
+        "01:11:14.334000",
+        "I never thought, that the first time I saw snow,"
+      ],
+      [
+        1107,
+        "01:32:23.542000",
+        "01:32:27.167000",
+        "The truth is, the first time I saw you,"
+      ]
+    ],
+    "regex": "\\b((?!\\bFirst\\ Time:)First\\ Time)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

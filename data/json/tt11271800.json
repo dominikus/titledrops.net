@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt11271800",
+    "title": "Mayday",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 1079,
+    "occurrences": [
+      [
+        15,
+        "00:01:28.486000",
+        "00:01:30.755000",
+        "-  (ominous music playing) - Woman: Mayday."
+      ],
+      [
+        352,
+        "00:27:50.068000",
+        "00:27:51.203000",
+        "Mayday! Mayday! Mayday!"
+      ],
+      [
+        356,
+        "00:28:04.650000",
+        "00:28:05.651000",
+        "Mayday is our favorite."
+      ],
+      [
+        1039,
+        "01:28:51.297000",
+        "01:28:52.597000",
+        "Mayday!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMayday:)Mayday)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

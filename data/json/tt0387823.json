@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0387823",
+    "title": "Real Life",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 393,
+    "occurrences": [
+      [
+        91,
+        "00:09:44.920000",
+        "00:09:48.993000",
+        "All these things which never let you lead a real life!"
+      ],
+      [
+        275,
+        "00:34:40",
+        "00:34:44.471000",
+        "but my real life is this one."
+      ]
+    ],
+    "regex": "\\b((?!\\bReal\\ Life:)Real\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

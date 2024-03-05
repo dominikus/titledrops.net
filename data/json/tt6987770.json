@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt6987770",
+    "title": "Destination Wedding",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1521,
+    "occurrences": [
+      [
+        100,
+        "00:08:10.257000",
+        "00:08:14.929000",
+        "I'm going to that most presumptuous of all things, a destination wedding."
+      ],
+      [
+        489,
+        "00:29:09.283000",
+        "00:29:12.150000",
+        "A destination wedding is presumptuous."
+      ],
+      [
+        1200,
+        "01:02:26.580000",
+        "01:02:28.447000",
+        "of a destination wedding?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDestination\\ Wedding:)Destination\\ Wedding)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

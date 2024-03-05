@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1158889",
+    "title": "Little Soldier",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 392,
+    "occurrences": [
+      [
+        57,
+        "00:08:19.070000",
+        "00:08:23.519000",
+        "Little soldier, you've got no money."
+      ],
+      [
+        390,
+        "01:32:01.230000",
+        "01:32:03.710000",
+        "Little soldier."
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Soldier:)Little\\ Soldier)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

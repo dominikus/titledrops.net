@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2093109",
+    "title": "Escape Fire: The Fight to Rescue American Healthcare",
+    "year": 2012,
+    "genres": [
+      "Documentary",
+      "News"
+    ],
+    "count": 2,
+    "all_lines": 1766,
+    "occurrences": [
+      [
+        16,
+        "00:01:31.557000",
+        "00:01:34.692000",
+        "I'll be in what came to be known as an escape fire."
+      ],
+      [
+        20,
+        "00:01:46.906000",
+        "00:01:53.411000",
+        "Wag dodge survived nearly unharmed in his escape fire."
+      ]
+    ],
+    "regex": "\\b((?!\\bEscape\\ Fire:)Escape\\ Fire|(?!\\bFight\\ to\\ Rescue\\ American\\ Healthcare:)Fight\\ to\\ Rescue\\ American\\ Healthcare)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

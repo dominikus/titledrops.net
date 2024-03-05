@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt7816392",
+    "title": "The Bouncer",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 446,
+    "occurrences": [
+      [
+        34,
+        "00:11:18.936000",
+        "00:11:22.936000",
+        "An uncle told me they are looking for a bouncer. If you are interested, you can sign up."
+      ],
+      [
+        76,
+        "00:19:56.380000",
+        "00:20:00.020000",
+        "You are a bouncer, and you beat up a guy and you left it for me."
+      ],
+      [
+        129,
+        "00:29:28.583000",
+        "00:29:31.063000",
+        "I am the bouncer at the strip club."
+      ]
+    ],
+    "regex": "\\b((?!\\bBouncer:)Bouncer)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

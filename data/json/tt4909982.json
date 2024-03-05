@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt4909982",
+    "title": "Losers",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 757,
+    "occurrences": [
+      [
+        138,
+        "00:20:46.240000",
+        "00:20:48.799000",
+        "- There are other losers too. - Bullshit."
+      ],
+      [
+        745,
+        "01:28:11.720000",
+        "01:28:16.920000",
+        "Looking at it, we're all losers in this town."
+      ],
+      [
+        751,
+        "01:28:39.960000",
+        "01:28:44.760000",
+        "- There are losers everywhere. - The world's made for losers."
+      ]
+    ],
+    "regex": "\\b((?!\\bLosers:)Losers)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

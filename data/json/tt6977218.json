@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6977218",
+    "title": "The Lumber Baron",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "History",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1515,
+    "occurrences": [
+      [
+        61,
+        "00:05:16.182000",
+        "00:05:19.819000",
+        "This mansion is the envy of every lumber baron in the"
+      ],
+      [
+        78,
+        "00:06:15.575000",
+        "00:06:16.775000",
+        "SILAS LYNCH: I'm a lumber baron."
+      ],
+      [
+        320,
+        "00:22:29.715000",
+        "00:22:31.983000",
+        "is the youngest lumber baron in the valley."
+      ],
+      [
+        1054,
+        "01:11:49.805000",
+        "01:11:52.408000",
+        "How many acres does the average lumber baron own?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLumber\\ Baron:)Lumber\\ Baron)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

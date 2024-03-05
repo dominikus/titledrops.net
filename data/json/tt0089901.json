@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0089901",
+    "title": "Remo Williams: The Adventure Begins",
+    "year": 1985,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 990,
+    "occurrences": [
+      [
+        65,
+        "00:11:29.398000",
+        "00:11:30.732000",
+        "Remo Williams."
+      ],
+      [
+        95,
+        "00:14:53.645000",
+        "00:14:56.814000",
+        "-Come in, Mr\"....\" -Williams, Remo Williams."
+      ],
+      [
+        965,
+        "01:54:41.200000",
+        "01:54:42.701000",
+        "Remo Williams."
+      ]
+    ],
+    "regex": "\\b((?!\\bRemo\\ Williams:)Remo\\ Williams|(?!\\bAdventure\\ Begins:)Adventure\\ Begins)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

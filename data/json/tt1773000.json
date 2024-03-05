@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1773000",
+    "title": "Identity Card",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1388,
+    "occurrences": [
+      [
+        128,
+        "00:09:45.527000",
+        "00:09:48.803000",
+        "I don't know if it's a good idea to wear jeans to get your identity card"
+      ],
+      [
+        679,
+        "00:54:32.927000",
+        "00:54:36.317000",
+        "So you think this belongs in your identity card? On the page that says"
+      ]
+    ],
+    "regex": "\\b((?!\\bIdentity\\ Card:)Identity\\ Card)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

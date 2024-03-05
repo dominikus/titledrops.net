@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt4078744",
+    "title": "Fukushima: A Nuclear Story",
+    "year": 2015,
+    "genres": [
+      "Documentary",
+      "News"
+    ],
+    "count": 3,
+    "all_lines": 151,
+    "occurrences": [
+      [
+        37,
+        "00:18:38.533000",
+        "00:18:45.104000",
+        "people who lived 20 km from the power plant in Fukushima Daiichi."
+      ],
+      [
+        41,
+        "00:19:16.410000",
+        "00:19:20.244000",
+        "from the Fukushima Daiichi."
+      ],
+      [
+        72,
+        "00:32:02.294000",
+        "00:32:04.444000",
+        "from the Fukushima power plant."
+      ]
+    ],
+    "regex": "\\b((?!\\bFukushima:)Fukushima|(?!\\bNuclear\\ Story:)Nuclear\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt27791865",
+    "title": "Amy Schumer: Emergency Contact",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 834,
+    "occurrences": [
+      [
+        388,
+        "00:24:14.995000",
+        "00:24:17.289000",
+        "\"Hey! Amy Schumer!\""
+      ],
+      [
+        751,
+        "00:44:39.051000",
+        "00:44:40.886000",
+        "You're my emergency contact for Christ's sake!"
+      ]
+    ],
+    "regex": "\\b((?!\\bAmy\\ Schumer:)Amy\\ Schumer|(?!\\bEmergency\\ Contact:)Emergency\\ Contact)(?!\\:)(?!'t)\\b",
+    "runtime": 51,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

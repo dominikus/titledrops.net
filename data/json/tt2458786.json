@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt2458786",
+    "title": "Love a la Carte",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1718,
+    "occurrences": [
+      [
+        333,
+        "00:17:13.566000",
+        "00:17:14.501000",
+        "-But I found this website Love a la Carte,"
+      ],
+      [
+        434,
+        "00:21:55.915000",
+        "00:21:55.948000",
+        "- Greeting from Love a la Carte your ad was"
+      ],
+      [
+        481,
+        "00:24:01.841000",
+        "00:24:01.874000",
+        "-Well, if Love a la Carte can't help me,"
+      ],
+      [
+        533,
+        "00:27:23.342000",
+        "00:27:23.976000",
+        "- Greetings from Love a la Carte."
+      ],
+      [
+        1468,
+        "01:14:18.855000",
+        "01:14:20.990000",
+        "So Evelyn queried the website, Love a la Carte"
+      ],
+      [
+        1611,
+        "01:21:37.093000",
+        "01:21:37.927000",
+        "- Love a la Carte"
+      ]
+    ],
+    "regex": "\\b((?!\\bLove\\ a\\ la\\ Carte:)Love\\ a\\ la\\ Carte)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

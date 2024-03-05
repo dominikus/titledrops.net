@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6341086",
+    "title": "Intrigo: Dear Agnes",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1119,
+    "occurrences": [
+      [
+        400,
+        "00:30:54.397000",
+        "00:30:56.799000",
+        "When I saw you in Cafe Intrigo,"
+      ],
+      [
+        417,
+        "00:31:45.848000",
+        "00:31:49.386000",
+        "Dear Agnes, couldn't we just start over?"
+      ]
+    ],
+    "regex": "\\b((?!\\bIntrigo:)Intrigo|(?!\\bDear\\ Agnes:)Dear\\ Agnes)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

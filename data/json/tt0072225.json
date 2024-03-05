@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0072225",
+    "title": "Sugar Hill",
+    "year": 1974,
+    "genres": [
+      "Action",
+      "Crime",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 784,
+    "occurrences": [
+      [
+        77,
+        "00:10:08.021000",
+        "00:10:09.761000",
+        "Sugar Hill."
+      ],
+      [
+        779,
+        "01:28:13.732000",
+        "01:28:17.661000",
+        "Goodbye, Sugar Hill. A gift for you."
+      ]
+    ],
+    "regex": "\\b((?!\\bSugar\\ Hill:)Sugar\\ Hill)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

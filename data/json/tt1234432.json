@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1234432",
+    "title": "Master Key",
+    "year": 2009,
+    "genres": [
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 946,
+    "occurrences": [
+      [
+        51,
+        "00:07:58.411000",
+        "00:08:01.107000",
+        "The Master Key"
+      ],
+      [
+        937,
+        "01:38:52.927000",
+        "01:38:59.423000",
+        "The Master Key"
+      ]
+    ],
+    "regex": "\\b((?!\\bMaster\\ Key:)Master\\ Key)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

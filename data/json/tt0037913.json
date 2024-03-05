@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt0037913",
+    "title": "Mildred Pierce",
+    "year": 1945,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 2,
+    "all_lines": 1506,
+    "occurrences": [
+      [
+        106,
+        "00:14:11.529000",
+        "00:14:15.465000",
+        "-Mildred Pierce Beragon. -Okay. Wheel her in."
+      ],
+      [
+        446,
+        "00:36:13.083000",
+        "00:36:15.074000",
+        "Mildred Pierce."
+      ]
+    ],
+    "regex": "\\b((?!\\bMildred\\ Pierce:)Mildred\\ Pierce)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [
+      "Mildred Pierce Beragon"
+    ],
+    "title_is_name": true,
+    "rating": 7.9
+  }
+]

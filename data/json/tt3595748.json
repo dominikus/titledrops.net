@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3595748",
+    "title": "Hollow",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 931,
+    "occurrences": [
+      [
+        311,
+        "00:32:35.433000",
+        "00:32:37.432000",
+        "You see how the rock is hollow?"
+      ],
+      [
+        314,
+        "00:32:43.966000",
+        "00:32:46.499000",
+        "the rock becomes hollow, like this."
+      ],
+      [
+        317,
+        "00:32:54",
+        "00:32:55.665000",
+        "Only if the rock is hollow."
+      ],
+      [
+        320,
+        "00:33:05.833000",
+        "00:33:08.699000",
+        "Your stomach is not hollow."
+      ]
+    ],
+    "regex": "\\b((?!\\bHollow:)Hollow)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0246119",
+    "title": "The Wedding",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 624,
+    "occurrences": [
+      [
+        318,
+        "00:22:36.881000",
+        "00:22:39.967000",
+        "I'm off for a drink to celebrate your wedding."
+      ],
+      [
+        463,
+        "00:36:02.437000",
+        "00:36:04.897000",
+        "Whats going on? This is a wedding!"
+      ],
+      [
+        549,
+        "00:46:26.144000",
+        "00:46:28.521000",
+        "-Bug off! -Its our wedding day!"
+      ]
+    ],
+    "regex": "\\b((?!\\bWedding:)Wedding)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0479257",
+    "title": "Your Name Is Justine",
+    "year": 2005,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 514,
+    "occurrences": [
+      [
+        189,
+        "00:24:23.720000",
+        "00:24:25.720000",
+        "Your name is Justine, you understand?"
+      ],
+      [
+        249,
+        "00:45:46.040000",
+        "00:45:48.040000",
+        "Look. Your name is Justine. The beautiful Justine."
+      ]
+    ],
+    "regex": "\\b((?!\\bYour\\ Name\\ Is\\ Justine:)Your\\ Name\\ Is\\ Justine)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

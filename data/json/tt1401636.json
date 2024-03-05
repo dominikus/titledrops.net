@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1401636",
+    "title": "Switch",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1023,
+    "occurrences": [
+      [
+        36,
+        "00:05:16.066000",
+        "00:05:17.318000",
+        "Switch.com."
+      ],
+      [
+        55,
+        "00:06:12.790000",
+        "00:06:16.668000",
+        "I logged on to switch.com and found a place. In Paris."
+      ],
+      [
+        167,
+        "00:23:55.393000",
+        "00:23:59.689000",
+        "Through a specialised site. Switch.com."
+      ],
+      [
+        168,
+        "00:23:59.814000",
+        "00:24:01.232000",
+        "Switch."
+      ],
+      [
+        218,
+        "00:27:15.301000",
+        "00:27:17.803000",
+        "No internet site called switch.com."
+      ]
+    ],
+    "regex": "\\b((?!\\bSwitch:)Switch)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

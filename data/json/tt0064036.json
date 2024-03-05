@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0064036",
+    "title": "The April Fools",
+    "year": 1969,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1427,
+    "occurrences": [
+      [
+        774,
+        "00:58:37.078000",
+        "00:58:42.649000",
+        "Are we just April fools"
+      ],
+      [
+        776,
+        "00:58:48.612000",
+        "00:58:54.443000",
+        "If we''re just April fools"
+      ],
+      [
+        1421,
+        "01:33:49.014000",
+        "01:33:55.455000",
+        "Are we just April fools"
+      ],
+      [
+        1423,
+        "01:34:01.940000",
+        "01:34:08.381000",
+        "If we''re just April fools"
+      ]
+    ],
+    "regex": "\\b((?!\\bApril\\ Fools:)April\\ Fools)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2112152",
+    "title": "For No Good Reason",
+    "year": 2012,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 1000,
+    "occurrences": [
+      [
+        441,
+        "00:39:44.340000",
+        "00:39:46.466000",
+        "It's a good way to do stuff, for no good reason."
+      ],
+      [
+        443,
+        "00:39:47.886000",
+        "00:39:52.812000",
+        "\"Why are we doing this, Hunter?\" \"For no good reason, Ralph.\""
+      ],
+      [
+        998,
+        "01:25:26.371000",
+        "01:25:28.873000",
+        "For no good reason."
+      ]
+    ],
+    "regex": "\\b((?!\\bFor\\ No\\ Good\\ Reason:)For\\ No\\ Good\\ Reason)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

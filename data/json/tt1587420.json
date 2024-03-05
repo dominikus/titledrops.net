@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1587420",
+    "title": "Mixtape",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1781,
+    "occurrences": [
+      [
+        227,
+        "00:12:31.875000",
+        "00:12:33.625000",
+        "Didn't you say it was a mixtape?"
+      ],
+      [
+        230,
+        "00:12:41.208000",
+        "00:12:47.666000",
+        "Okay. A mixtape is a message from the maker to the listener. Right?"
+      ],
+      [
+        504,
+        "00:25:29.750000",
+        "00:25:32.083000",
+        "It's, like, mixtape law."
+      ]
+    ],
+    "regex": "\\b((?!\\bMixtape:)Mixtape)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

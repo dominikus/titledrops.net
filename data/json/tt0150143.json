@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0150143",
+    "title": "Claire Dolan",
+    "year": 1998,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 676,
+    "occurrences": [
+      [
+        40,
+        "00:05:34.420000",
+        "00:05:36.012000",
+        "- Who is calling? - Claire Dolan."
+      ],
+      [
+        213,
+        "00:23:24.300000",
+        "00:23:26.256000",
+        "Claire Dolan is thy cousin."
+      ],
+      [
+        614,
+        "01:22:33.380000",
+        "01:22:34.733000",
+        "Claire Dolan."
+      ],
+      [
+        626,
+        "01:24:25.460000",
+        "01:24:27.132000",
+        "My name is Claire Dolan."
+      ],
+      [
+        628,
+        "01:24:47.660000",
+        "01:24:49.935000",
+        "My name is Claire Dolan."
+      ]
+    ],
+    "regex": "\\b((?!\\bClaire\\ Dolan:)Claire\\ Dolan)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [
+      "Claire Dolan"
+    ],
+    "title_is_name": true,
+    "rating": 6.7
+  }
+]

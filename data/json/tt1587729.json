@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1587729",
+    "title": "71: Into the Fire",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "count": 6,
+    "all_lines": 937,
+    "occurrences": [
+      [
+        12,
+        "00:02:52.833000",
+        "00:03:00.701000",
+        "(71-Into The Fire)"
+      ],
+      [
+        180,
+        "00:25:24.854000",
+        "00:25:27.276000",
+        "all 71 here, sir!"
+      ],
+      [
+        395,
+        "00:43:22.677000",
+        "00:43:26.210000",
+        "There are only 71 of us left here."
+      ],
+      [
+        755,
+        "01:29:28.605000",
+        "01:29:31.105000",
+        "(Into the fire)"
+      ],
+      [
+        911,
+        "01:55:52.934000",
+        "01:55:54.418000",
+        "(the 71 student soldiers)"
+      ]
+    ],
+    "regex": "\\b((?!\\b71:)71|(?!\\bInto\\ the\\ Fire:)Into\\ the\\ Fire)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

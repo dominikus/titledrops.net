@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt1678050",
+    "title": "Cure for Pain: The Mark Sandman Story",
+    "year": 2011,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 7,
+    "all_lines": 1107,
+    "occurrences": [
+      [
+        23,
+        "00:01:40.007000",
+        "00:01:44.717000",
+        "Tonight from Boston, presenting \"Cure for Pain\" ... Morphine"
+      ],
+      [
+        47,
+        "00:03:11.720000",
+        "00:03:17.250000",
+        "CURE FOR PAIN The story of Mark Sandman"
+      ],
+      [
+        297,
+        "00:21:12.647000",
+        "00:21:15.048000",
+        "... Or demos of \"Cure for pain\" and they offered ..."
+      ],
+      [
+        751,
+        "00:55:35.766000",
+        "00:55:40.468000",
+        "And now comes a song called \"Cure for pain\"."
+      ],
+      [
+        759,
+        "00:56:15.743000",
+        "00:56:18.492000",
+        "A song called \"Cure for pain\" It reads ..."
+      ],
+      [
+        769,
+        "00:57:22.125000",
+        "00:57:25.855000",
+        "... will a cure for pain ..."
+      ],
+      [
+        772,
+        "00:57:44.894000",
+        "00:57:46.737000",
+        "... when they find a cure for pain ..."
+      ]
+    ],
+    "regex": "\\b((?!\\bCure\\ for\\ Pain:)Cure\\ for\\ Pain|(?!\\bMark\\ Sandman\\ Story:)Mark\\ Sandman\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

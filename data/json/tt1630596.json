@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1630596",
+    "title": "East End Angels",
+    "year": 2010,
+    "genres": [
+      "Adventure",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 502,
+    "occurrences": [
+      [
+        489,
+        "01:10:46.680000",
+        "01:10:49.513000",
+        "The East End Angels?"
+      ],
+      [
+        493,
+        "01:11:04.360000",
+        "01:11:08.672000",
+        "We're the East End Angels. We take cases!"
+      ]
+    ],
+    "regex": "\\b((?!\\bEast\\ End\\ Angels:)East\\ End\\ Angels)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4788736",
+    "title": "Central Park",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1053,
+    "occurrences": [
+      [
+        890,
+        "01:07:35.842000",
+        "01:07:37.608000",
+        "We're in Central Park. There's somebody in here"
+      ],
+      [
+        980,
+        "01:14:58.016000",
+        "01:15:00.119000",
+        "911 distress, Central Park, north west."
+      ]
+    ],
+    "regex": "\\b((?!\\bCentral\\ Park:)Central\\ Park)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1908594",
+    "title": "Tokyo Oasis",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 606,
+    "occurrences": [
+      [
+        0,
+        "00:00:27.020000",
+        "00:00:34.990000",
+        "Tokyo Oasis"
+      ],
+      [
+        606,
+        "01:21:48.065000",
+        "01:21:41.065000",
+        "Theme Song: \"Tokyo Oasis\" by Taeko Onuki"
+      ]
+    ],
+    "regex": "\\b((?!\\bTokyo\\ Oasis:)Tokyo\\ Oasis)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

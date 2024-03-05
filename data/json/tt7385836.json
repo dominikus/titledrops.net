@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7385836",
+    "title": "Sunset Society",
+    "year": 2018,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1030,
+    "occurrences": [
+      [
+        129,
+        "00:11:07.722000",
+        "00:11:10.022000",
+        "on the Sunset Society."
+      ],
+      [
+        1003,
+        "01:23:27.057000",
+        "01:23:29.858000",
+        "I'm not part of the Sunset Society."
+      ]
+    ],
+    "regex": "\\b((?!\\bSunset\\ Society:)Sunset\\ Society)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.9
+  }
+]

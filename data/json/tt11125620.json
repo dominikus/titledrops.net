@@ -1,0 +1,69 @@
+[
+  {
+    "imdb": "tt11125620",
+    "title": "The Addams Family 2",
+    "year": 2021,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 8,
+    "all_lines": 1871,
+    "occurrences": [
+      [
+        224,
+        "00:10:31.732000",
+        "00:10:35.102000",
+        "We are going on an Addams family vacation!"
+      ],
+      [
+        241,
+        "00:11:18.879000",
+        "00:11:20.582000",
+        "this trip will bring the Addams family"
+      ],
+      [
+        597,
+        "00:25:56.757000",
+        "00:26:00.928000",
+        "So, I remembered the age-old Addams family nursery trick."
+      ],
+      [
+        1133,
+        "00:53:24.706000",
+        "00:53:26.040000",
+        "\"Dear Addams family,"
+      ],
+      [
+        1374,
+        "01:04:49.923000",
+        "01:04:51.492000",
+        "The Addams family."
+      ],
+      [
+        1424,
+        "01:07:01.054000",
+        "01:07:03.323000",
+        "Uh, Addams family, I..."
+      ],
+      [
+        1580,
+        "01:13:57.939000",
+        "01:14:01.008000",
+        "The Addams family."
+      ],
+      [
+        1750,
+        "01:22:45.834000",
+        "01:22:49.069000",
+        "Come on, Addams family. Let's go home."
+      ]
+    ],
+    "regex": "\\b((?!\\bAddams\\ Family:)Addams\\ Family)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0217654",
+    "title": "Militia",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "count": 4,
+    "all_lines": 1349,
+    "occurrences": [
+      [
+        292,
+        "00:22:16.302000",
+        "00:22:18.405000",
+        "he can gather as to what militia group is"
+      ],
+      [
+        313,
+        "00:22:58.545000",
+        "00:23:02.949000",
+        "Now, half your militia redneck freaks?"
+      ],
+      [
+        390,
+        "00:26:07.867000",
+        "00:26:10.002000",
+        "You know that the militia is a man's world."
+      ],
+      [
+        941,
+        "00:56:54.178000",
+        "00:56:55.846000",
+        "here to infiltrate a militia."
+      ]
+    ],
+    "regex": "\\b((?!\\bMilitia:)Militia)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

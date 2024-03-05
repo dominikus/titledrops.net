@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3625136",
+    "title": "Detours",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1314,
+    "occurrences": [
+      [
+        167,
+        "00:10:45.645000",
+        "00:10:49.016000",
+        "- DAAD, Destinations Achieved plus Attractive Detours"
+      ],
+      [
+        1195,
+        "01:09:44.848000",
+        "01:09:47.884000",
+        "to ensure the best possible routes and detours."
+      ]
+    ],
+    "regex": "\\b((?!\\bDetours:)Detours)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

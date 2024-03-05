@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt14766636",
+    "title": "You Have to Come and See It",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 656,
+    "occurrences": [
+      [
+        31,
+        "00:10:34.524000",
+        "00:10:37.124000",
+        "- You've to come to us next time. - You have to come and see it."
+      ],
+      [
+        115,
+        "00:19:38.684000",
+        "00:19:42.084000",
+        "They kept saying: \"You have to come and see it\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bYou\\ Have\\ to\\ Come\\ and\\ See\\ It:)You\\ Have\\ to\\ Come\\ and\\ See\\ It)(?!\\:)(?!'t)\\b",
+    "runtime": 64,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

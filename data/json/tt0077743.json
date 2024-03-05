@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0077743",
+    "title": "International Velvet",
+    "year": 1978,
+    "genres": [
+      "Drama",
+      "Family",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 2413,
+    "occurrences": [
+      [
+        1668,
+        "01:27:46.200000",
+        "01:27:47.400000",
+        "International velvet."
+      ],
+      [
+        2201,
+        "01:51:20.667000",
+        "01:51:22.067000",
+        "Or international velvet brown"
+      ]
+    ],
+    "regex": "\\b((?!\\bInternational\\ Velvet:)International\\ Velvet)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

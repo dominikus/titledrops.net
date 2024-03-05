@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt12903840",
+    "title": "The Man in the Woods",
+    "year": 2020,
+    "genres": [
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 1349,
+    "occurrences": [
+      [
+        57,
+        "00:03:35.173000",
+        "00:03:37.090000",
+        "You're not scared of the man in the woods at all?"
+      ],
+      [
+        319,
+        "00:19:10.525000",
+        "00:19:12.725000",
+        "The man in the woods..."
+      ],
+      [
+        968,
+        "00:53:26.245000",
+        "00:53:28.579000",
+        "There's a man in the woods."
+      ],
+      [
+        976,
+        "00:53:52.037000",
+        "00:53:54.271000",
+        "There's a man in the woods. He did it."
+      ],
+      [
+        1209,
+        "01:06:59.391000",
+        "01:07:02.491000",
+        "The man in the woods."
+      ]
+    ],
+    "regex": "\\b((?!\\bMan\\ in\\ the\\ Woods:)Man\\ in\\ the\\ Woods)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

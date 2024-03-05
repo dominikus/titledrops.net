@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0038348",
+    "title": "Beauty and the Beast",
+    "year": 1946,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 737,
+    "occurrences": [
+      [
+        0,
+        "00:01:23.200000",
+        "00:01:27.800000",
+        "Beauty and the Beast"
+      ],
+      [
+        4,
+        "00:02:34.040000",
+        "00:02:36.219000",
+        "Beauty and the beast, take one."
+      ]
+    ],
+    "regex": "\\b((?!\\bBeauty\\ and\\ the\\ Beast:)Beauty\\ and\\ the\\ Beast)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

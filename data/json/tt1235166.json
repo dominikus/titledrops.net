@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1235166",
+    "title": "A Prophet",
+    "year": 2009,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1026,
+    "occurrences": [
+      [
+        787,
+        "01:40:18.743000",
+        "01:40:22.779000",
+        "What are you? What are you? A prophet or what?"
+      ],
+      [
+        794,
+        "01:41:49.528000",
+        "01:41:55.462000",
+        "Hey, prophet! Tell me. The Muslims want to talk about Luciani. Is that it?"
+      ]
+    ],
+    "regex": "\\b((?!\\bProphet:)Prophet)(?!\\:)(?!'t)\\b",
+    "runtime": 155,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt10187680",
+    "title": "Forensic",
+    "year": 2020,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1307,
+    "occurrences": [
+      [
+        70,
+        "00:12:14.460000",
+        "00:12:15.850000",
+        "What about the forensic information?"
+      ],
+      [
+        1283,
+        "02:01:51.400000",
+        "02:01:54",
+        "My team needs two forensic doctors"
+      ]
+    ],
+    "regex": "\\b((?!\\bForensic:)Forensic)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

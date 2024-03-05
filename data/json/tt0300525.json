@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0300525",
+    "title": "Asako in Ruby Shoes",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 619,
+    "occurrences": [
+      [
+        250,
+        "00:29:37.456000",
+        "00:29:40.687000",
+        "\"Asako in ruby shoes\""
+      ],
+      [
+        569,
+        "00:56:11.481000",
+        "00:56:13.346000",
+        "'Asako in ruby shoes. '"
+      ],
+      [
+        571,
+        "00:56:17.120000",
+        "00:56:19.554000",
+        "Asako in Ruby Shoes..."
+      ],
+      [
+        586,
+        "00:57:13.577000",
+        "00:57:16.740000",
+        "\"Asako in ruby shoes\""
+      ]
+    ],
+    "regex": "\\b((?!\\bAsako\\ in\\ Ruby\\ Shoes:)Asako\\ in\\ Ruby\\ Shoes)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

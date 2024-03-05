@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1401643",
+    "title": "Black Venus",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1207,
+    "occurrences": [
+      [
+        449,
+        "01:22:31.426000",
+        "01:22:35.226000",
+        "thanks to skilful taming, our young lady, our black Venus,"
+      ],
+      [
+        1191,
+        "02:43:30.514000",
+        "02:43:33.244000",
+        "Black Venus"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Venus:)Black\\ Venus)(?!\\:)(?!'t)\\b",
+    "runtime": 166,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt2192016",
+    "title": "The Dark Horse",
+    "year": 2014,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1227,
+    "occurrences": [
+      [
+        239,
+        "00:20:11.640000",
+        "00:20:14.928000",
+        "You were once a chess champ, eh? The Dark Horse?"
+      ],
+      [
+        292,
+        "00:24:39.280000",
+        "00:24:41.248000",
+        "Or, as he was once called, The Dark Horse."
+      ],
+      [
+        516,
+        "00:40:07.920000",
+        "00:40:11.208000",
+        "Looks like we got another Dark Horse in our midst, eh?"
+      ],
+      [
+        517,
+        "00:40:11.320000",
+        "00:40:13.687000",
+        "What Dark Horse? Him?"
+      ],
+      [
+        1108,
+        "01:32:10.760000",
+        "01:32:13.127000",
+        "Become The Dark Horse again."
+      ]
+    ],
+    "regex": "\\b((?!\\bDark\\ Horse:)Dark\\ Horse)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

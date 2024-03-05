@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3951298",
+    "title": "Army Dog",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 899,
+    "occurrences": [
+      [
+        155,
+        "00:14:56.979000",
+        "00:14:58.564000",
+        "What are we going to do with an army dog?"
+      ],
+      [
+        792,
+        "01:05:49.070000",
+        "01:05:51.322000",
+        "You know, you can't lick an army dog."
+      ]
+    ],
+    "regex": "\\b((?!\\bArmy\\ Dog:)Army\\ Dog)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

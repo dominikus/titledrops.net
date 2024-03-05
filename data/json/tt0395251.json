@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0395251",
+    "title": "The Producers",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Musical"
+    ],
+    "count": 3,
+    "all_lines": 1038,
+    "occurrences": [
+      [
+        518,
+        "00:34:05.687000",
+        "00:34:08.599000",
+        "We're gonna be the producers"
+      ],
+      [
+        549,
+        "00:35:55.767000",
+        "00:35:57.997000",
+        "We're producers, Bialystock and Bloom..."
+      ],
+      [
+        963,
+        "00:59:58.647000",
+        "01:00:02.526000",
+        "So what? So what? We're producers, aren't we?"
+      ]
+    ],
+    "regex": "\\b((?!\\bProducers:)Producers)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

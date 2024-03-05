@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0094037",
+    "title": "Stewardess School",
+    "year": 1986,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1162,
+    "occurrences": [
+      [
+        96,
+        "00:08:17.060000",
+        "00:08:18.430000",
+        "Stewardess school."
+      ],
+      [
+        336,
+        "00:25:34.730000",
+        "00:25:37.130000",
+        "Welcome to stewardess school."
+      ]
+    ],
+    "regex": "\\b((?!\\bStewardess\\ School:)Stewardess\\ School)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

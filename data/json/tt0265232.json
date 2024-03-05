@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0265232",
+    "title": "Once in a Lifetime",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 943,
+    "occurrences": [
+      [
+        667,
+        "01:08:31.486000",
+        "01:08:34.526000",
+        "He must realize that this is your once in a lifetime opportunity."
+      ],
+      [
+        827,
+        "01:28:01.647000",
+        "01:28:05.087000",
+        "This is your once in a lifetime opportunity."
+      ]
+    ],
+    "regex": "\\b((?!\\bOnce\\ in\\ a\\ Lifetime:)Once\\ in\\ a\\ Lifetime)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0050438",
+    "title": "The Girl Most Likely",
+    "year": 1957,
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "count": 4,
+    "all_lines": 1708,
+    "occurrences": [
+      [
+        0,
+        "00:00:12.980000",
+        "00:00:18.183000",
+        "The girl most likely"
+      ],
+      [
+        1,
+        "00:00:29.030000",
+        "00:00:33.377000",
+        "The girl most likely to catch your eye"
+      ],
+      [
+        4,
+        "00:00:44.979000",
+        "00:00:49.393000",
+        "The girl most likely to tip the scales"
+      ],
+      [
+        15,
+        "00:01:32.860000",
+        "00:01:39.164000",
+        "And who gets the girl most likely to be yours"
+      ]
+    ],
+    "regex": "\\b((?!\\bGirl\\ Most\\ Likely:)Girl\\ Most\\ Likely)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

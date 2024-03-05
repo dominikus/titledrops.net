@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1717158",
+    "title": "Low Cost",
+    "year": 2010,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1251,
+    "occurrences": [
+      [
+        4,
+        "00:01:25.128000",
+        "00:01:27.839000",
+        "No, I found a low cost flight."
+      ],
+      [
+        1140,
+        "01:20:33.872000",
+        "01:20:35.373000",
+        "Goddamn low cost!!"
+      ],
+      [
+        1198,
+        "01:24:54.132000",
+        "01:24:56.259000",
+        "And you, rather than fly low cost,"
+      ]
+    ],
+    "regex": "\\b((?!\\bLow\\ Cost:)Low\\ Cost)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

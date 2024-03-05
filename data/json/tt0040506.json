@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0040506",
+    "title": "Key Largo",
+    "year": 1948,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1420,
+    "occurrences": [
+      [
+        6,
+        "00:02:14.092000",
+        "00:02:16.162000",
+        "Home being Key Largo."
+      ],
+      [
+        168,
+        "00:11:06.212000",
+        "00:11:09.124000",
+        "Why would they decide to sit down on Key Largo?"
+      ]
+    ],
+    "regex": "\\b((?!\\bKey\\ Largo:)Key\\ Largo)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

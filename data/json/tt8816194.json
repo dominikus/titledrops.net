@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt8816194",
+    "title": "Come to Daddy",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1081,
+    "occurrences": [
+      [
+        332,
+        "00:27:40.057000",
+        "00:27:43.392000",
+        "- Come here. Come to Daddy! - Please, please don't do this."
+      ],
+      [
+        376,
+        "00:31:59.583000",
+        "00:32:03.285000",
+        "Come to Daddy."
+      ]
+    ],
+    "regex": "\\b((?!\\bCome\\ to\\ Daddy:)Come\\ to\\ Daddy)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2277946",
+    "title": "Plastic Paradise: The Great Pacific Garbage Patch",
+    "year": 2013,
+    "genres": [
+      "Adventure",
+      "Documentary",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1178,
+    "occurrences": [
+      [
+        62,
+        "00:03:05.370000",
+        "00:03:06.908000",
+        "Have you heard of the great pacific garbage patch?"
+      ],
+      [
+        944,
+        "00:44:38.043000",
+        "00:44:40.846000",
+        "And what do you think about the great pacific garbage patch?"
+      ],
+      [
+        950,
+        "00:44:51.265000",
+        "00:44:52.600000",
+        "The great pacific garbage patch?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPlastic\\ Paradise:)Plastic\\ Paradise|(?!\\bGreat\\ Pacific\\ Garbage\\ Patch:)Great\\ Pacific\\ Garbage\\ Patch)(?!\\:)(?!'t)\\b",
+    "runtime": 57,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

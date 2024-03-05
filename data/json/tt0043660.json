@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0043660",
+    "title": "The House on Telegraph Hill",
+    "year": 1951,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 2,
+    "all_lines": 1096,
+    "occurrences": [
+      [
+        1,
+        "00:01:25.018000",
+        "00:01:27.612000",
+        "And this is the house on Telegraph Hill..."
+      ],
+      [
+        242,
+        "00:18:20.065000",
+        "00:18:25.002000",
+        "And so, at last, I came to the house on Telegraph Hill."
+      ]
+    ],
+    "regex": "\\b((?!\\bHouse\\ on\\ Telegraph\\ Hill:)House\\ on\\ Telegraph\\ Hill)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt0091658",
+    "title": "Nutcracker",
+    "year": 1986,
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 93,
+    "occurrences": [
+      [
+        76,
+        "00:48:34.824000",
+        "00:48:39.699000",
+        "that only the jaws of my Nutcracker Prince, could reveal to me."
+      ],
+      [
+        84,
+        "00:53:50.314000",
+        "00:53:56.276000",
+        "And my tall Nutcracker cavalier had eyes only for me."
+      ]
+    ],
+    "regex": "\\b((?!\\bNutcracker:)Nutcracker)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [
+      "Nutcracker Prince"
+    ],
+    "title_is_name": true,
+    "rating": 6.8
+  }
+]

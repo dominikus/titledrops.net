@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3173594",
+    "title": "Hacker",
+    "year": 2016,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1521,
+    "occurrences": [
+      [
+        52,
+        "00:04:19.126000",
+        "00:04:22.695000",
+        "an online criminal organization led by a hacker named zed."
+      ],
+      [
+        95,
+        "00:07:14.901000",
+        "00:07:18.704000",
+        "Darkweb was this online hacker group that was getting a lot of news at the time."
+      ],
+      [
+        1369,
+        "01:32:32.781000",
+        "01:32:36.583000",
+        "The notorious computer hacker zed has been taken into custody"
+      ]
+    ],
+    "regex": "\\b((?!\\bHacker:)Hacker)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt7736042",
+    "title": "Hacksaw",
+    "year": 2020,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 737,
+    "occurrences": [
+      [
+        38,
+        "00:09:48.378000",
+        "00:09:50.413000",
+        "all killed by his hacksaw."
+      ],
+      [
+        228,
+        "00:19:21.983000",
+        "00:19:24.953000",
+        "Ed Hacksaw Crow."
+      ],
+      [
+        246,
+        "00:20:29.152000",
+        "00:20:32.588000",
+        "I'd cut him up with his own fucking hacksaw!"
+      ]
+    ],
+    "regex": "\\b((?!\\bHacksaw:)Hacksaw)(?!\\:)(?!'t)\\b",
+    "runtime": 70,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 1.9
+  }
+]

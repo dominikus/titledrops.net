@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0483206",
+    "title": "The Wind Blows Round",
+    "year": 2005,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 762,
+    "occurrences": [
+      [
+        7,
+        "00:01:24.660000",
+        "00:01:27.094000",
+        ".. and the wind blows round..."
+      ],
+      [
+        212,
+        "00:23:31.140000",
+        "00:23:33.415000",
+        "The wind blows round"
+      ],
+      [
+        761,
+        "01:45:53.709000",
+        "01:45:57.065000",
+        "...the wind blows round and everything comes back sooner or later..."
+      ]
+    ],
+    "regex": "\\b((?!\\bWind\\ Blows\\ Round:)Wind\\ Blows\\ Round)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

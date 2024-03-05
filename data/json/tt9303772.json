@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt9303772",
+    "title": "Divorce Club",
+    "year": 2020,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 1660,
+    "occurrences": [
+      [
+        724,
+        "00:39:33.258000",
+        "00:39:34.967000",
+        "What is this, a divorce club?"
+      ],
+      [
+        732,
+        "00:40:18.842000",
+        "00:40:21.383000",
+        "A Divorce Club? Excellent!"
+      ],
+      [
+        807,
+        "00:43:41.342000",
+        "00:43:44.467000",
+        "And that place is right here. The Divorce Club!"
+      ],
+      [
+        904,
+        "00:50:38.675000",
+        "00:50:42.300000",
+        "The Divorce Club! Where divorce is a party!"
+      ],
+      [
+        1485,
+        "01:29:01.758000",
+        "01:29:05.467000",
+        "Have fun at your Divorce Club! Loser!"
+      ],
+      [
+        1489,
+        "01:29:15.175000",
+        "01:29:16.342000",
+        "Divorce Club?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDivorce\\ Club:)Divorce\\ Club)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

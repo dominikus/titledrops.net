@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0280970",
+    "title": "My Name Is Tanino",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1086,
+    "occurrences": [
+      [
+        48,
+        "00:05:00.770000",
+        "00:05:03.648000",
+        "My name is Tanino."
+      ],
+      [
+        371,
+        "00:33:39.248000",
+        "00:33:42.648000",
+        "- Nice to meet you! - My name is Tanino."
+      ],
+      [
+        964,
+        "01:31:04.050000",
+        "01:31:08.550000",
+        "My name is Tanino. I come from Italy. I love your films."
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Name\\ Is\\ Tanino:)My\\ Name\\ Is\\ Tanino)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

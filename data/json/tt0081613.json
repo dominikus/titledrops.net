@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0081613",
+    "title": "The Tempest",
+    "year": 1979,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 605,
+    "occurrences": [
+      [
+        21,
+        "00:04:56.838000",
+        "00:05:01.217000",
+        "Perform'd to point the tempest that I bade thee?"
+      ],
+      [
+        557,
+        "01:19:44.484000",
+        "01:19:47.529000",
+        "I did say so, When first I rais'd the tempest."
+      ]
+    ],
+    "regex": "\\b((?!\\bTempest:)Tempest)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

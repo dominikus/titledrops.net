@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt5238240",
+    "title": "The Stronghold",
+    "year": 2017,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 5,
+    "all_lines": 1060,
+    "occurrences": [
+      [
+        119,
+        "00:13:39.870000",
+        "00:13:43.110000",
+        "What... have you left the stronghold?"
+      ],
+      [
+        121,
+        "00:13:45.540000",
+        "00:13:47.940000",
+        "I forbid you to leave the stronghold on your own. Heard me?"
+      ],
+      [
+        176,
+        "00:16:42.390000",
+        "00:16:44.190000",
+        "This is the name of our stronghold"
+      ],
+      [
+        880,
+        "01:21:57.830000",
+        "01:22:00.780000",
+        "And now go to the stronghold."
+      ],
+      [
+        930,
+        "01:27:13.140000",
+        "01:27:17.190000",
+        "To the stronghold!"
+      ]
+    ],
+    "regex": "\\b((?!\\bStronghold:)Stronghold)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

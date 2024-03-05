@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0141399",
+    "title": "Isn't She Great",
+    "year": 2000,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1257,
+    "occurrences": [
+      [
+        180,
+        "00:12:01.720000",
+        "00:12:04.200000",
+        "Excuse me? Isn't she great?"
+      ],
+      [
+        258,
+        "00:16:53",
+        "00:16:55.520000",
+        "Isn't she great?"
+      ],
+      [
+        584,
+        "00:40:49.960000",
+        "00:40:55.160000",
+        "Where's she going? Isn't she great? She's so excited. DOORBELL RINGS"
+      ],
+      [
+        931,
+        "01:03:26.800000",
+        "01:03:30.360000",
+        "IRVING LAUGHS Isn't she great? Yeah, she's happening."
+      ]
+    ],
+    "regex": "\\b((?!\\bIsn't\\ She\\ Great:)Isn't\\ She\\ Great)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

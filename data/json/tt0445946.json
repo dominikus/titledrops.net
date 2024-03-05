@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0445946",
+    "title": "The Contract",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 925,
+    "occurrences": [
+      [
+        0,
+        "00:01:33.750000",
+        "00:01:36.787000",
+        "The CONTRACT"
+      ],
+      [
+        15,
+        "00:04:23.430000",
+        "00:04:25.182000",
+        "And a contract in two steps"
+      ],
+      [
+        735,
+        "01:04:50.270000",
+        "01:04:53.979000",
+        "If we don't find Carden it ties tomorrow, we will lose the contract."
+      ],
+      [
+        819,
+        "01:13:48.696000",
+        "01:13:50.493000",
+        "He has the contract, it had tried to accomplish him/it."
+      ]
+    ],
+    "regex": "\\b((?!\\bContract:)Contract)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

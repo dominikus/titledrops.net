@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0256432",
+    "title": "The Third Visitor",
+    "year": 1951,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 2,
+    "all_lines": 1403,
+    "occurrences": [
+      [
+        0,
+        "00:00:12.716000",
+        "00:00:13.849000",
+        "The Third Visitor"
+      ],
+      [
+        1213,
+        "01:08:02.429000",
+        "01:08:04.775000",
+        "Did Carling say he was expecting a third visitor?"
+      ]
+    ],
+    "regex": "\\b((?!\\bThird\\ Visitor:)Third\\ Visitor)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

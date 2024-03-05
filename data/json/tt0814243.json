@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0814243",
+    "title": "One Piece: The Movie",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 4,
+    "all_lines": 885,
+    "occurrences": [
+      [
+        20,
+        "00:02:00.010000",
+        "00:02:03.409000",
+        "to find the great treasure he left behind, the One Piece."
+      ],
+      [
+        28,
+        "00:02:29.110000",
+        "00:02:30.310000",
+        "ONE PIECE! ONE PIECE!"
+      ],
+      [
+        188,
+        "00:10:46.731000",
+        "00:10:51.069000",
+        "I'm going to the Grand Line to find the great treasure, One Piece."
+      ]
+    ],
+    "regex": "\\b((?!\\bOne\\ Piece:)One\\ Piece|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 51,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

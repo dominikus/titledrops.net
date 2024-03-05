@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt6007398",
+    "title": "Tiger Milk",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1017,
+    "occurrences": [
+      [
+        9,
+        "00:02:56.667000",
+        "00:02:59.042000",
+        "Jameelah and I drink Tiger Milk."
+      ],
+      [
+        17,
+        "00:03:29.583000",
+        "00:03:32.750000",
+        "Imagine they filled up with tiger milk once a month."
+      ],
+      [
+        20,
+        "00:03:41.583000",
+        "00:03:44.333000",
+        "Tiger milk days once a month, like your period."
+      ],
+      [
+        21,
+        "00:03:44.667000",
+        "00:03:47.792000",
+        "-Tiger milk days? -Tiger milk days and nights."
+      ]
+    ],
+    "regex": "\\b((?!\\bTiger\\ Milk:)Tiger\\ Milk)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

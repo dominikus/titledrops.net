@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0398982",
+    "title": "Duane Hopwood",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1306,
+    "occurrences": [
+      [
+        157,
+        "00:10:33.720000",
+        "00:10:36.374000",
+        "My name's Duane Hopwood. I work for the casino."
+      ],
+      [
+        925,
+        "00:52:58.175000",
+        "00:53:00.568000",
+        "I'm Duane. Duane Hopwood."
+      ]
+    ],
+    "regex": "\\b((?!\\bDuane\\ Hopwood:)Duane\\ Hopwood)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt16900304",
+    "title": "Reroute",
+    "year": 2022,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1140,
+    "occurrences": [
+      [
+        168,
+        "00:11:52.718000",
+        "00:11:54.470000",
+        "There's a reroute you could take, sir."
+      ],
+      [
+        334,
+        "00:27:45.570000",
+        "00:27:47.358000",
+        "and the reroute was too far."
+      ]
+    ],
+    "regex": "\\b((?!\\bReroute:)Reroute)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

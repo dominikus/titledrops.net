@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0438427",
+    "title": "Side Effects",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 804,
+    "occurrences": [
+      [
+        261,
+        "00:22:47.632000",
+        "00:22:49.065000",
+        "Side effects?."
+      ],
+      [
+        701,
+        "01:12:32.448000",
+        "01:12:35.440000",
+        "Did you take a look at the section on side effects and safety?."
+      ],
+      [
+        799,
+        "01:26:58.613000",
+        "01:27:00.376000",
+        "And what about side effects?."
+      ]
+    ],
+    "regex": "\\b((?!\\bSide\\ Effects:)Side\\ Effects)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

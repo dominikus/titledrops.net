@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0038499",
+    "title": "Duel in the Sun",
+    "year": 1946,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Western"
+    ],
+    "count": 4,
+    "all_lines": 880,
+    "occurrences": [
+      [
+        1,
+        "00:09:38.777000",
+        "00:09:41.769000",
+        "The overture to \"Duel In The Sun.\""
+      ],
+      [
+        2,
+        "00:10:10.309000",
+        "00:10:13.767000",
+        "\"Duel In The Sun,\" two years in the making..."
+      ],
+      [
+        11,
+        "00:10:49.348000",
+        "00:10:52.317000",
+        "The characters in \"Duel In The Sun\"..."
+      ],
+      [
+        20,
+        "00:11:31.323000",
+        "00:11:34.315000",
+        "\"Duel In The Sun.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bDuel\\ in\\ the\\ Sun:)Duel\\ in\\ the\\ Sun)(?!\\:)(?!'t)\\b",
+    "runtime": 146,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt3555036",
+    "title": "Legend",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1324,
+    "occurrences": [
+      [
+        1,
+        "00:01:52.360000",
+        "00:01:54.330000",
+        "the one and only real 'Legend',"
+      ],
+      [
+        106,
+        "00:12:24.920000",
+        "00:12:26.320000",
+        "A legend is born!"
+      ],
+      [
+        798,
+        "01:32:08.520000",
+        "01:32:24.040000",
+        "He is a legend..."
+      ],
+      [
+        807,
+        "01:33:47.460000",
+        "01:34:02.980000",
+        "He is a legend..."
+      ],
+      [
+        1324,
+        "02:35:57.300000",
+        "02:36:06.220000",
+        "He is a legend..."
+      ]
+    ],
+    "regex": "\\b((?!\\bLegend:)Legend)(?!\\:)(?!'t)\\b",
+    "runtime": 168,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

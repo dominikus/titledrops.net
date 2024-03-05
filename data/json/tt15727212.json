@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt15727212",
+    "title": "Night Train",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1802,
+    "occurrences": [
+      [
+        76,
+        "00:03:45.598000",
+        "00:03:47.565000",
+        "You just got smoked by the Night Train, son."
+      ],
+      [
+        607,
+        "00:27:03.830000",
+        "00:27:05.962000",
+        "On the streets, they call her the Night Train."
+      ],
+      [
+        1244,
+        "01:02:08.867000",
+        "01:02:11.835000",
+        "It's the girl who drives that stupid truck, the Night Train."
+      ],
+      [
+        1594,
+        "01:20:03.633000",
+        "01:20:05.138000",
+        "Night Train, bitch (laughs)."
+      ]
+    ],
+    "regex": "\\b((?!\\bNight\\ Train:)Night\\ Train)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

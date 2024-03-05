@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0417046",
+    "title": "Pedersen: High-School Teacher",
+    "year": 2006,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 272,
+    "occurrences": [
+      [
+        0,
+        "00:01:58.880000",
+        "00:02:05.115000",
+        "COMRADE PEDERSEN"
+      ],
+      [
+        29,
+        "00:06:44.200000",
+        "00:06:47.795000",
+        "That sure went well, Pedersen."
+      ],
+      [
+        54,
+        "00:11:59.360000",
+        "00:12:01.351000",
+        "Pedersen?"
+      ],
+      [
+        58,
+        "00:12:10.360000",
+        "00:12:15.115000",
+        "He didn't vote. Do you know why not, Pedersen?"
+      ],
+      [
+        76,
+        "00:15:20.440000",
+        "00:15:23.318000",
+        "Don't get up, Pedersen."
+      ],
+      [
+        227,
+        "00:40:52.240000",
+        "00:40:55.869000",
+        "Compose yourself, Pedersen."
+      ]
+    ],
+    "regex": "\\b((?!\\bPedersen:)Pedersen|(?!\\bHigh\\-School\\ Teacher:)High\\-School\\ Teacher)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

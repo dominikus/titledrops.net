@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0222293",
+    "title": "Possible Worlds",
+    "year": 2000,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 969,
+    "occurrences": [
+      [
+        226,
+        "00:19:58.880000",
+        "00:20:00.632000",
+        "possible worlds."
+      ],
+      [
+        227,
+        "00:20:02.640000",
+        "00:20:08.397000",
+        "Each of us exist in an infinite number of possible worlds."
+      ]
+    ],
+    "regex": "\\b((?!\\bPossible\\ Worlds:)Possible\\ Worlds)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

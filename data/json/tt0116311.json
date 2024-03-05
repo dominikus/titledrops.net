@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0116311",
+    "title": "First Kid",
+    "year": 1996,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 2310,
+    "occurrences": [
+      [
+        255,
+        "00:12:10.731000",
+        "00:12:14.299000",
+        "As the personal agent to the first kid..."
+      ],
+      [
+        647,
+        "00:29:30.903000",
+        "00:29:34.037000",
+        "\"First kid\"? Ha ha! Come on! Come on!"
+      ],
+      [
+        783,
+        "00:35:29.695000",
+        "00:35:30.861000",
+        "You're the first kid."
+      ]
+    ],
+    "regex": "\\b((?!\\bFirst\\ Kid:)First\\ Kid)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

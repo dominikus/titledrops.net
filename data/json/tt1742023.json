@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1742023",
+    "title": "Americano",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 477,
+    "occurrences": [
+      [
+        178,
+        "00:50:33.360000",
+        "00:50:35.954000",
+        "For Now, to Americano"
+      ],
+      [
+        256,
+        "01:04:16.560000",
+        "01:04:19.010000",
+        "You're not  americano"
+      ]
+    ],
+    "regex": "\\b((?!\\bAmericano:)Americano)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0036316",
+    "title": "Romance in a Minor Key",
+    "year": 1943,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 829,
+    "occurrences": [
+      [
+        0,
+        "00:00:15.570000",
+        "00:00:20.068000",
+        "\"Romance in a Minor Key\""
+      ],
+      [
+        325,
+        "00:33:47.514000",
+        "00:33:49.514000",
+        "Romance in a minor key."
+      ],
+      [
+        344,
+        "00:35:14.247000",
+        "00:35:17.248000",
+        "of a romance in a minor key?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRomance\\ in\\ a\\ Minor\\ Key:)Romance\\ in\\ a\\ Minor\\ Key)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

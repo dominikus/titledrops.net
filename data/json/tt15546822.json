@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt15546822",
+    "title": "Mukundan Unni Associates",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 2290,
+    "occurrences": [
+      [
+        903,
+        "00:47:39.434000",
+        "00:47:41.976000",
+        "-The initials of our names-- -Mukundan Unni Associates."
+      ],
+      [
+        2175,
+        "01:59:09.856000",
+        "01:59:12.295000",
+        "I started the office of Mukundan Unni Associates"
+      ],
+      [
+        2215,
+        "02:00:56.353000",
+        "02:00:58.103000",
+        "Welcome to Mukundan Unni Associates."
+      ]
+    ],
+    "regex": "\\b((?!\\bMukundan\\ Unni\\ Associates:)Mukundan\\ Unni\\ Associates)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

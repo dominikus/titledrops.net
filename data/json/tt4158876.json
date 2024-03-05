@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt4158876",
+    "title": "Other People",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1570,
+    "occurrences": [
+      [
+        410,
+        "00:21:27.954000",
+        "00:21:31.123000",
+        "something that happens to other people."
+      ],
+      [
+        411,
+        "00:21:31.157000",
+        "00:21:34.827000",
+        "Yeah, well, now you're other people to other people."
+      ],
+      [
+        859,
+        "00:47:37.688000",
+        "00:47:41.726000",
+        "Also, having sex with other people would be healthy."
+      ],
+      [
+        1222,
+        "01:09:54.458000",
+        "01:09:59.463000",
+        "Other people are sad, too."
+      ]
+    ],
+    "regex": "\\b((?!\\bOther\\ People:)Other\\ People)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

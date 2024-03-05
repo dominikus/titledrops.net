@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt10239320",
+    "title": "The Surrogate",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1286,
+    "occurrences": [
+      [
+        128,
+        "00:08:23.109000",
+        "00:08:27.746000",
+        "I'm a surrogate for my two best friends."
+      ],
+      [
+        365,
+        "00:25:32.571000",
+        "00:25:35.341000",
+        "I'm a surrogate for my two best friends."
+      ]
+    ],
+    "regex": "\\b((?!\\bSurrogate:)Surrogate)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

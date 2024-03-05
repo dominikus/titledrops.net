@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0077573",
+    "title": "The Foreigner",
+    "year": 1978,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 735,
+    "occurrences": [
+      [
+        27,
+        "00:05:23.756000",
+        "00:05:26.526000",
+        "Now, Dave, not a word about this foreigner, all right?"
+      ],
+      [
+        157,
+        "00:16:20.312000",
+        "00:16:22.880000",
+        "This foreigner is for the birds."
+      ],
+      [
+        196,
+        "00:18:33.245000",
+        "00:18:34.812000",
+        "-  Are you talking about the foreigner?"
+      ]
+    ],
+    "regex": "\\b((?!\\bForeigner:)Foreigner)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

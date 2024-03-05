@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0108358",
+    "title": "Tombstone",
+    "year": 1993,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 5,
+    "all_lines": 1272,
+    "occurrences": [
+      [
+        12,
+        "00:01:19.462000",
+        "00:01:22.295000",
+        "Tombstone becomes queen of the boomtowns,"
+      ],
+      [
+        72,
+        "00:08:30.710000",
+        "00:08:33.338000",
+        "- I'm going to Tombstone. Easy on the grain, Butch. - I see."
+      ],
+      [
+        186,
+        "00:17:51.869000",
+        "00:17:54.929000",
+        "Oh, that's the real mother lode here in Tombstone."
+      ],
+      [
+        918,
+        "01:21:13.800000",
+        "01:21:17.395000",
+        "Now after tonight, there'll be one man in charge of Tombstone."
+      ],
+      [
+        1262,
+        "02:01:20.002000",
+        "02:01:24.837000",
+        "Mattie died of a drug overdose shortly after she left Tombstone."
+      ]
+    ],
+    "regex": "\\b((?!\\bTombstone:)Tombstone)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

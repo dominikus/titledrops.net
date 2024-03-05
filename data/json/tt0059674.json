@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0059674",
+    "title": "The Sandpiper",
+    "year": 1965,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1486,
+    "occurrences": [
+      [
+        236,
+        "00:19:36.404000",
+        "00:19:38.748000",
+        "It's a baby sandpiper."
+      ],
+      [
+        255,
+        "00:21:29.785000",
+        "00:21:32.573000",
+        "There, little sandpiper."
+      ],
+      [
+        400,
+        "00:30:50.168000",
+        "00:30:54.624000",
+        "The sandpiper appears to be doing rather well, I see."
+      ],
+      [
+        940,
+        "01:11:35.007000",
+        "01:11:37.882000",
+        "Come on, little sandpiper."
+      ]
+    ],
+    "regex": "\\b((?!\\bSandpiper:)Sandpiper)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

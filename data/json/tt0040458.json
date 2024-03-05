@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0040458",
+    "title": "I Remember Mama",
+    "year": 1948,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1633,
+    "occurrences": [
+      [
+        16,
+        "00:03:09.539000",
+        "00:03:12.030000",
+        "...I remember Mama."
+      ],
+      [
+        1622,
+        "02:12:58.065000",
+        "02:13:03.527000",
+        "But first and foremost, I remember Mama."
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Remember\\ Mama:)I\\ Remember\\ Mama)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

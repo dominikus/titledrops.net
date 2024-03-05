@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0120533",
+    "title": "Celebrity",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1672,
+    "occurrences": [
+      [
+        1372,
+        "01:29:37.555000",
+        "01:29:40.889000",
+        "We're here for the celebrity golf tournament."
+      ],
+      [
+        1472,
+        "01:36:01.689000",
+        "01:36:05.734000",
+        "She just lays there in a coma but she's a celebrity."
+      ]
+    ],
+    "regex": "\\b((?!\\bCelebrity:)Celebrity)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

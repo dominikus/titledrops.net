@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0102368",
+    "title": "Madame Bovary",
+    "year": 1991,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 879,
+    "occurrences": [
+      [
+        166,
+        "00:16:35.860000",
+        "00:16:37.578000",
+        "Monsieur and Madame Bovary."
+      ],
+      [
+        259,
+        "00:26:27.220000",
+        "00:26:31.054000",
+        "When they left Tostes in March, Madame Bovary was pregnant."
+      ],
+      [
+        388,
+        "00:33:34.780000",
+        "00:33:37.578000",
+        "Madame Bovary was compromising herself."
+      ],
+      [
+        478,
+        "00:39:06.260000",
+        "00:39:08.899000",
+        "Well, good-bye, Madame Bovary."
+      ],
+      [
+        501,
+        "00:40:24.420000",
+        "00:40:28.129000",
+        "Madame Bovary undressed the child to show her limbs."
+      ],
+      [
+        676,
+        "00:51:24.620000",
+        "00:51:28.215000",
+        "Madame Bovary, you're quite pretty and fresh!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMadame\\ Bovary:)Madame\\ Bovary)(?!\\:)(?!'t)\\b",
+    "runtime": 143,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

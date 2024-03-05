@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt2073672",
+    "title": "The Crumbles",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 6,
+    "all_lines": 1234,
+    "occurrences": [
+      [
+        219,
+        "00:11:12.130000",
+        "00:11:14.047000",
+        "Elisa: The Crumbles!"
+      ],
+      [
+        222,
+        "00:11:16.967000",
+        "00:11:18.885000",
+        "Elisa: So what do you see for The Crumbles?"
+      ],
+      [
+        997,
+        "00:53:38.632000",
+        "00:53:41.091000",
+        "Elisa: Hey, guys! We're The Crumbles!"
+      ],
+      [
+        1000,
+        "00:53:48.558000",
+        "00:53:52.187000",
+        "(\"The Crumbles\")"
+      ],
+      [
+        1062,
+        "00:57:13.973000",
+        "00:57:16.682000",
+        "It's gonna be Crumbles craziness worldwide!"
+      ],
+      [
+        1234,
+        "01:11:46.135000",
+        "01:11:49.930000",
+        "(\"The Crumbles\" instrumental)"
+      ]
+    ],
+    "regex": "\\b((?!\\bCrumbles:)Crumbles)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

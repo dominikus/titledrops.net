@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2293750",
+    "title": "Scorned",
+    "year": 2013,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1201,
+    "occurrences": [
+      [
+        56,
+        "00:04:16.463000",
+        "00:04:20.800000",
+        "You scorned me, Kevin."
+      ],
+      [
+        245,
+        "00:15:32.388000",
+        "00:15:35.849000",
+        "You scorned me, Kevin."
+      ],
+      [
+        529,
+        "00:31:11.535000",
+        "00:31:15.371000",
+        "I told you, Kevin, you scorned me."
+      ],
+      [
+        622,
+        "00:36:37.861000",
+        "00:36:40.529000",
+        "Hell hath no fury like a woman scorned."
+      ]
+    ],
+    "regex": "\\b((?!\\bScorned:)Scorned)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

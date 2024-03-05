@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1149582",
+    "title": "Brave",
+    "year": 2007,
+    "genres": [
+      "Action"
+    ],
+    "count": 3,
+    "all_lines": 667,
+    "occurrences": [
+      [
+        626,
+        "01:22:42.960000",
+        "01:22:47.112000",
+        "I think you are quite brave."
+      ],
+      [
+        628,
+        "01:22:54.400000",
+        "01:22:55.435000",
+        "You are brave about what?"
+      ],
+      [
+        630,
+        "01:23:25",
+        "01:23:26.194000",
+        "I'm just brave enough"
+      ]
+    ],
+    "regex": "\\b((?!\\bBrave:)Brave)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

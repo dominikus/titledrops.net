@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0050085",
+    "title": "The 27th Day",
+    "year": 1957,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1112,
+    "occurrences": [
+      [
+        1,
+        "00:00:12.845000",
+        "00:00:16.542000",
+        "The 27th Day"
+      ],
+      [
+        112,
+        "00:09:18.023000",
+        "00:09:20.958000",
+        "Midnight of the 27th day, Greenwich time,"
+      ]
+    ],
+    "regex": "\\b((?!\\b27th\\ Day:)27th\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

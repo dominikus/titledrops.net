@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1699128",
+    "title": "Drifters",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1020,
+    "occurrences": [
+      [
+        311,
+        "00:32:04.167000",
+        "00:32:07.200000",
+        "I call them \"drifters\"."
+      ],
+      [
+        322,
+        "00:32:47.917000",
+        "00:32:52.076000",
+        "Drifters can experience wonderful or terrible things,"
+      ],
+      [
+        332,
+        "00:33:30",
+        "00:33:33.330000",
+        "Or we could end up as drifters too."
+      ]
+    ],
+    "regex": "\\b((?!\\bDrifters:)Drifters)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

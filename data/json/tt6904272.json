@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt6904272",
+    "title": "The Negotiation",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1441,
+    "occurrences": [
+      [
+        68,
+        "00:04:18.791000",
+        "00:04:21.377000",
+        "Inspector Ha Chae-youn begins Negotiation"
+      ],
+      [
+        177,
+        "00:16:10.586000",
+        "00:16:14.757000",
+        "Inspector Ha Chae-youn, Seoul Police Crisis Negotiation Team."
+      ],
+      [
+        445,
+        "00:33:28.499000",
+        "00:33:30.084000",
+        "Ha Chae-youn, Crisis negotiation Team."
+      ]
+    ],
+    "regex": "\\b((?!\\bNegotiation:)Negotiation)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

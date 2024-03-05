@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt14292086",
+    "title": "Nix",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 1513,
+    "occurrences": [
+      [
+        911,
+        "00:56:03.843000",
+        "00:56:05.223000",
+        "What if this thing is Nix?"
+      ],
+      [
+        912,
+        "00:56:06.949000",
+        "00:56:08.882000",
+        "Do you know what nix means in German?"
+      ],
+      [
+        1020,
+        "01:03:37.675000",
+        "01:03:38.504000",
+        "Like the Nix?"
+      ],
+      [
+        1159,
+        "01:12:24.478000",
+        "01:12:26.134000",
+        "Brought Nix here to drown."
+      ],
+      [
+        1332,
+        "01:25:09.345000",
+        "01:25:11.347000",
+        "Neither can the Nix."
+      ]
+    ],
+    "regex": "\\b((?!\\bNix:)Nix)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

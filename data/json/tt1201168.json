@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1201168",
+    "title": "Our Town",
+    "year": 2007,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 478,
+    "occurrences": [
+      [
+        11,
+        "00:03:57.654000",
+        "00:04:06.496000",
+        "Our Town"
+      ],
+      [
+        359,
+        "00:41:53.931000",
+        "00:41:57.059000",
+        "Our town really doesn't change."
+      ]
+    ],
+    "regex": "\\b((?!\\bOur\\ Town:)Our\\ Town)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

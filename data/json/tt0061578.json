@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0061578",
+    "title": "The Dirty Dozen",
+    "year": 1967,
+    "genres": [
+      "Action",
+      "Adventure",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1695,
+    "occurrences": [
+      [
+        765,
+        "00:54:04.449000",
+        "00:54:08.202000",
+        "You \"dirty dozen\" have no objections..."
+      ],
+      [
+        1673,
+        "02:28:03.248000",
+        "02:28:05.834000",
+        "...as 'The Dirty Dozen' who survived this operation..."
+      ]
+    ],
+    "regex": "\\b((?!\\bDirty\\ Dozen:)Dirty\\ Dozen)(?!\\:)(?!'t)\\b",
+    "runtime": 150,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

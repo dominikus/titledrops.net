@@ -1,0 +1,53 @@
+[
+  {
+    "imdb": "tt0058275",
+    "title": "Lemonade Joe",
+    "year": 1964,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Musical"
+    ],
+    "count": 5,
+    "all_lines": 714,
+    "occurrences": [
+      [
+        71,
+        "00:11:15.880000",
+        "00:11:19.440000",
+        "Then you are - Lemonade Joe!"
+      ],
+      [
+        85,
+        "00:13:20.760000",
+        "00:13:24.040000",
+        "They call me Lemonade Joe."
+      ],
+      [
+        127,
+        "00:18:48.360000",
+        "00:18:52.320000",
+        "and Lemonade Joe, such a softy!"
+      ],
+      [
+        450,
+        "01:04:02.720000",
+        "01:04:05.400000",
+        "My name's Lemonade Joe."
+      ],
+      [
+        464,
+        "01:04:58.680000",
+        "01:05:04.240000",
+        "Lemonade Joe, any idea what a fool you are?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLemonade\\ Joe:)Lemonade\\ Joe)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [
+      "Lemonade Joe - Salesman fy Kolalok & Son"
+    ],
+    "title_is_name": true,
+    "rating": 7.4
+  }
+]

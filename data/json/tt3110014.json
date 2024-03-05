@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3110014",
+    "title": "Silver Spoon",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1211,
+    "occurrences": [
+      [
+        843,
+        "01:05:03.966000",
+        "01:05:07.072000",
+        "I'd prefer it was called \"silver spoon\""
+      ],
+      [
+        844,
+        "01:05:07.336000",
+        "01:05:13.580000",
+        "In foreign folklore a child born with a silver spoon won't ever go hungry"
+      ],
+      [
+        846,
+        "01:05:19.448000",
+        "01:05:23.830000",
+        "then surely farmers' kids are born with a silver spoon, maybe"
+      ],
+      [
+        1211,
+        "01:46:07.861000",
+        "01:46:10.171000",
+        "Go, Silver Spoon!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSilver\\ Spoon:)Silver\\ Spoon)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt9228892",
+    "title": "Reside",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 700,
+    "occurrences": [
+      [
+        169,
+        "00:28:12.643000",
+        "00:28:14.643000",
+        "It'll look for another body to reside."
+      ],
+      [
+        351,
+        "00:46:40.905000",
+        "00:46:45.072000",
+        "take over the body and reside there forever."
+      ],
+      [
+        363,
+        "00:47:19.971000",
+        "00:47:24.096000",
+        "they'll still reside in our minds,"
+      ],
+      [
+        668,
+        "01:30:04.651000",
+        "01:30:08.651000",
+        "they'll still reside in our minds,"
+      ]
+    ],
+    "regex": "\\b((?!\\bReside:)Reside)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

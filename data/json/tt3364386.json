@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt3364386",
+    "title": "Caps",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 778,
+    "occurrences": [
+      [
+        239,
+        "00:22:56.791000",
+        "00:22:59.208000",
+        "Do you remember when we played caps?"
+      ],
+      [
+        240,
+        "00:22:59.708000",
+        "00:23:00.791000",
+        "What caps?"
+      ],
+      [
+        241,
+        "00:23:01.333000",
+        "00:23:03.750000",
+        "We were kids and we played caps."
+      ],
+      [
+        244,
+        "00:23:07.416000",
+        "00:23:10.208000",
+        "Bebe was cool. He had loads of red bottle caps."
+      ]
+    ],
+    "regex": "\\b((?!\\bCaps:)Caps)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

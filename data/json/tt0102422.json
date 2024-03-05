@@ -1,0 +1,53 @@
+[
+  {
+    "imdb": "tt0102422",
+    "title": "McBain",
+    "year": 1991,
+    "genres": [
+      "Crime",
+      "Drama",
+      "War"
+    ],
+    "count": 5,
+    "all_lines": 887,
+    "occurrences": [
+      [
+        51,
+        "00:09:03.071000",
+        "00:09:04.071000",
+        "- McBain."
+      ],
+      [
+        65,
+        "00:10:50.734000",
+        "00:10:52.735000",
+        "by the name of Bobby McBain in New York."
+      ],
+      [
+        178,
+        "00:24:45.057000",
+        "00:24:47.322000",
+        "- Excuse me, Mr. Bobby McBain?"
+      ],
+      [
+        316,
+        "00:34:15.642000",
+        "00:34:17.421000",
+        "- I know you think I'm an asshole McBain,"
+      ],
+      [
+        531,
+        "00:53:54.560000",
+        "00:53:57.621000",
+        "- Red Dog Two, this is Lieutenant Robert McBain,"
+      ]
+    ],
+    "regex": "\\b((?!\\bMcBain:)McBain)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [
+      "Robert McBain"
+    ],
+    "title_is_name": true,
+    "rating": 4.8
+  }
+]

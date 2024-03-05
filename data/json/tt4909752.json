@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4909752",
+    "title": "Rangoon",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 1346,
+    "occurrences": [
+      [
+        288,
+        "00:24:36.107000",
+        "00:24:37.745000",
+        "Captured in Rangoon."
+      ],
+      [
+        456,
+        "00:43:57.835000",
+        "00:44:01.442000",
+        "Where? - First in Rangoon, then Singapore."
+      ],
+      [
+        577,
+        "01:07:38.154000",
+        "01:07:42.159000",
+        "Why haven't you informed your family you survived Rangoon?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRangoon:)Rangoon)(?!\\:)(?!'t)\\b",
+    "runtime": 170,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

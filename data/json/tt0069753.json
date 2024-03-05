@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0069753",
+    "title": "Baba Yaga",
+    "year": 1973,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 661,
+    "occurrences": [
+      [
+        485,
+        "00:58:37.180000",
+        "00:58:38.265000",
+        "Baba Yaga..."
+      ],
+      [
+        499,
+        "00:59:16.845000",
+        "00:59:19.014000",
+        "and that your Baba Yaga is the witch at the entrance."
+      ]
+    ],
+    "regex": "\\b((?!\\bBaba\\ Yaga:)Baba\\ Yaga)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [
+      "Baba Yaga"
+    ],
+    "title_is_name": true,
+    "rating": 5.7
+  }
+]

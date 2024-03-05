@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0123964",
+    "title": "Life",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 8,
+    "all_lines": 1429,
+    "occurrences": [
+      [
+        378,
+        "00:26:35.234000",
+        "00:26:37.907000",
+        "-I saved your life. -They think we killed somebody."
+      ],
+      [
+        420,
+        "00:28:56.234000",
+        "00:28:57.223000",
+        "Life!"
+      ],
+      [
+        421,
+        "00:28:57.514000",
+        "00:29:00.472000",
+        "What do you mean, \"life\"? I ain't doin' no life."
+      ],
+      [
+        488,
+        "00:34:03.714000",
+        "00:34:04.988000",
+        "Life, huh?"
+      ],
+      [
+        1033,
+        "01:12:10.634000",
+        "01:12:14.422000",
+        "-What concept is that? -They threw us in this shithole for life."
+      ],
+      [
+        1044,
+        "01:12:46.994000",
+        "01:12:50.111000",
+        "...thinkin' what my life could've been if I never bumped into you."
+      ],
+      [
+        1188,
+        "01:23:45.034000",
+        "01:23:47.264000",
+        "He know you're takin' his life into your hands?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLife:)Life)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

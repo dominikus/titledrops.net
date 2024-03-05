@@ -1,0 +1,74 @@
+[
+  {
+    "imdb": "tt0494834",
+    "title": "Silk",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 9,
+    "all_lines": 777,
+    "occurrences": [
+      [
+        42,
+        "00:04:56.562000",
+        "00:04:59.498000",
+        "I'm going to repair the silk mill."
+      ],
+      [
+        46,
+        "00:05:09.375000",
+        "00:05:12.678000",
+        "Baldabiou repaired the old silk mill in six months."
+      ],
+      [
+        104,
+        "00:09:34.707000",
+        "00:09:39.444000",
+        "I knew nothing about silk or how it was made."
+      ],
+      [
+        129,
+        "00:11:36.028000",
+        "00:11:38.730000",
+        "They make the most perfect silk there."
+      ],
+      [
+        132,
+        "00:11:42.301000",
+        "00:11:44.769000",
+        "They've been making silk for over a thousand years"
+      ],
+      [
+        147,
+        "00:12:27.780000",
+        "00:12:30.915000",
+        "That the Japanese are trading their silk on the black market."
+      ],
+      [
+        148,
+        "00:12:30.916000",
+        "00:12:33.885000",
+        "We're interested in making silk, not buying it."
+      ],
+      [
+        149,
+        "00:12:33.886000",
+        "00:12:37.222000",
+        "I want to send Herve to trade for eggs, not silk."
+      ],
+      [
+        344,
+        "00:45:38.635000",
+        "00:45:42.638000",
+        "I'm here to buy silk eggs. And you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSilk:)Silk)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

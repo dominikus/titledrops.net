@@ -1,0 +1,26 @@
+[
+  {
+    "imdb": "tt2769184",
+    "title": "Debug",
+    "year": 2014,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 1,
+    "all_lines": 829,
+    "occurrences": [
+      [
+        9,
+        "00:04:54.924000",
+        "00:04:59.492000",
+        "Shutdown all programs. Debug. Reboot."
+      ]
+    ],
+    "regex": "\\b((?!\\bDebug:)Debug)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

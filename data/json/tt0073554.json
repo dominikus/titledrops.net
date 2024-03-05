@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0073554",
+    "title": "The Police Are Blundering in the Dark",
+    "year": 1975,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 405,
+    "occurrences": [
+      [
+        0,
+        "00:00:10.096000",
+        "00:00:15.623000",
+        "\"The Police are Blundering in the Dark\""
+      ],
+      [
+        9,
+        "00:06:10.357000",
+        "00:06:16.118000",
+        "\"Another photo-model missing. Four in eighteen months. The Police are blundering in the dark\""
+      ]
+    ],
+    "regex": "\\b((?!\\bPolice\\ Are\\ Blundering\\ in\\ the\\ Dark:)Police\\ Are\\ Blundering\\ in\\ the\\ Dark)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

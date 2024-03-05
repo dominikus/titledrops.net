@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0433035",
+    "title": "Real Steel",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 1485,
+    "occurrences": [
+      [
+        641,
+        "00:53:01.611000",
+        "00:53:04.739000",
+        "The champ puts his Real Steel world championship belt on the line tonight."
+      ],
+      [
+        967,
+        "01:18:37.412000",
+        "01:18:42.179000",
+        "the march towards the Real Steel Championship"
+      ],
+      [
+        1049,
+        "01:25:08.703000",
+        "01:25:10.728000",
+        "get a shot at the Real Steel Championship?"
+      ],
+      [
+        1205,
+        "01:39:20.287000",
+        "01:39:24.621000",
+        "Welcome to New York's Bing Arena and the Real Steel Championship Bout."
+      ],
+      [
+        1275,
+        "01:44:29.095000",
+        "01:44:34.089000",
+        "for Real Steel!"
+      ]
+    ],
+    "regex": "\\b((?!\\bReal\\ Steel:)Real\\ Steel)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0239695",
+    "title": "Nationale 7",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1210,
+    "occurrences": [
+      [
+        2,
+        "00:00:55.905000",
+        "00:00:59.289000",
+        "The Nationale 7 (N7) was a famous road in France because of its length (996 km)."
+      ],
+      [
+        186,
+        "00:14:27.870000",
+        "00:14:29.572000",
+        "You were again on the Nationale?"
+      ],
+      [
+        467,
+        "00:33:53.406000",
+        "00:33:58.149000",
+        "I'm on the Nationale. I'm searching someone to take care of..."
+      ],
+      [
+        557,
+        "00:40:01.370000",
+        "00:40:04.094000",
+        "I was on the Nationale 7, searching someone for Rene."
+      ],
+      [
+        1143,
+        "01:20:51.189000",
+        "01:20:52.189000",
+        "Block the N7 (Nationale 7)."
+      ],
+      [
+        1190,
+        "01:25:32.910000",
+        "01:25:34.967000",
+        "I can't bring you on the Nationale."
+      ]
+    ],
+    "regex": "\\b((?!\\bNationale:)Nationale)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

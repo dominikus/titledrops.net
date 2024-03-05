@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0039871",
+    "title": "One Wonderful Sunday",
+    "year": 1947,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 624,
+    "occurrences": [
+      [
+        0,
+        "00:00:07.500000",
+        "00:00:17.100000",
+        "One Wonderful Sunday"
+      ],
+      [
+        624,
+        "01:47:11.900000",
+        "01:47:17.200000",
+        "One Wonderful Sunday End"
+      ]
+    ],
+    "regex": "\\b((?!\\bOne\\ Wonderful\\ Sunday:)One\\ Wonderful\\ Sunday)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

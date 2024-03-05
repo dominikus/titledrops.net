@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0125664",
+    "title": "Man on the Moon",
+    "year": 1999,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1868,
+    "occurrences": [
+      [
+        1796,
+        "01:52:53.340000",
+        "01:52:56.104000",
+        "They put a man on the moon"
+      ],
+      [
+        1797,
+        "01:52:56.209000",
+        "01:52:59.144000",
+        "Man on the moon"
+      ],
+      [
+        1802,
+        "01:53:23.770000",
+        "01:53:26.534000",
+        "They put a man on the moon"
+      ],
+      [
+        1803,
+        "01:53:26.640000",
+        "01:53:29.575000",
+        "Man on the moon"
+      ],
+      [
+        1808,
+        "01:53:39.920000",
+        "01:53:42.684000",
+        "They put a man on the moon"
+      ],
+      [
+        1809,
+        "01:53:42.789000",
+        "01:53:45.724000",
+        "Man on the moon"
+      ]
+    ],
+    "regex": "\\b((?!\\bMan\\ on\\ the\\ Moon:)Man\\ on\\ the\\ Moon)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

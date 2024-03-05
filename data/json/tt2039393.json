@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt2039393",
+    "title": "The Gambler",
+    "year": 2014,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1334,
+    "occurrences": [
+      [
+        43,
+        "00:08:37.720000",
+        "00:08:40.080000",
+        "This place is just a dream. You a gambler?"
+      ],
+      [
+        377,
+        "00:32:11.600000",
+        "00:32:14.800000",
+        "\"I need this money because I am a scumbag gambler."
+      ],
+      [
+        378,
+        "00:32:15.360000",
+        "00:32:18.600000",
+        "I am a scumbag gambler who is drowning in his own shit."
+      ],
+      [
+        651,
+        "00:50:43.120000",
+        "00:50:44.880000",
+        "What if I told you that I'm not a gambler?"
+      ],
+      [
+        1323,
+        "01:38:31.040000",
+        "01:38:32.560000",
+        "I'm not actually a gambler."
+      ]
+    ],
+    "regex": "\\b((?!\\bGambler:)Gambler)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

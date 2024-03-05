@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3533254",
+    "title": "A Dozen Summers",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 1272,
+    "occurrences": [
+      [
+        1236,
+        "01:17:43.388000",
+        "01:17:47.315000",
+        "A dozen summers have gone by,"
+      ],
+      [
+        1243,
+        "01:18:16.129000",
+        "01:18:19.890000",
+        "A dozen summers have gone by,"
+      ],
+      [
+        1252,
+        "01:19:24.781000",
+        "01:19:28.293000",
+        "A dozen summers have gone by,"
+      ],
+      [
+        1259,
+        "01:19:56.604000",
+        "01:20:00.199000",
+        "A dozen summers have gone by,"
+      ]
+    ],
+    "regex": "\\b((?!\\bDozen\\ Summers:)Dozen\\ Summers)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

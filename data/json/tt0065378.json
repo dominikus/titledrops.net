@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0065378",
+    "title": "May Morning",
+    "year": 1970,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 654,
+    "occurrences": [
+      [
+        9,
+        "00:02:44.520000",
+        "00:02:49.496000",
+        "\"A month before May Morning.\""
+      ],
+      [
+        197,
+        "00:25:12.874000",
+        "00:25:15.893000",
+        "\"The morning of May Morning\""
+      ],
+      [
+        226,
+        "00:33:16.376000",
+        "00:33:20.067000",
+        "I have to choose a dress for the May Morning."
+      ],
+      [
+        462,
+        "01:00:38.318000",
+        "01:00:40.646000",
+        "\"The evening of May Morning\""
+      ],
+      [
+        650,
+        "01:34:18.194000",
+        "01:34:21.535000",
+        "Let's go and listen to the May Morning."
+      ]
+    ],
+    "regex": "\\b((?!\\bMay\\ Morning:)May\\ Morning)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

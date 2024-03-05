@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1707392",
+    "title": "Lovely Molly",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 713,
+    "occurrences": [
+      [
+        328,
+        "00:40:16.497000",
+        "00:40:20.115000",
+        "Molly, Lovely Molly..."
+      ],
+      [
+        342,
+        "00:42:17.827000",
+        "00:42:22.571000",
+        "Molly, lovely Molly"
+      ]
+    ],
+    "regex": "\\b((?!\\bLovely\\ Molly:)Lovely\\ Molly)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

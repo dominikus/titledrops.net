@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0472268",
+    "title": "The Flying Scotsman",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 3,
+    "all_lines": 957,
+    "occurrences": [
+      [
+        609,
+        "00:59:38.508000",
+        "00:59:42.740000",
+        "- The Flying Scotsman rides again. - No, I'm gonna go for the worlds."
+      ],
+      [
+        938,
+        "01:33:52.960000",
+        "01:33:57.363000",
+        "Has Colinelli got anything left? Has the Flying Scotsman?"
+      ],
+      [
+        945,
+        "01:35:13.708000",
+        "01:35:17.735000",
+        "The Flying Scotsman has won the World Championship for the second..."
+      ]
+    ],
+    "regex": "\\b((?!\\bFlying\\ Scotsman:)Flying\\ Scotsman)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

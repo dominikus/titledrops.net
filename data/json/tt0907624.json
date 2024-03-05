@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0907624",
+    "title": "Bizan",
+    "year": 2007,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 760,
+    "occurrences": [
+      [
+        47,
+        "00:06:04.794000",
+        "00:06:06.955000",
+        "Mt. Bizan welcomes you."
+      ],
+      [
+        378,
+        "00:39:33.701000",
+        "00:39:38.263000",
+        "\"Bizan, June 15, 1971\""
+      ],
+      [
+        497,
+        "00:58:10.984000",
+        "00:58:14.545000",
+        "\"I can't forget Mt. Bizan when we saw it together.\""
+      ],
+      [
+        656,
+        "01:27:10.837000",
+        "01:27:13.067000",
+        "\"Mt. Bizan is my husband.\""
+      ],
+      [
+        760,
+        "01:54:30.541000",
+        "01:54:37.072000",
+        "She lived a life with Mt. Bizan."
+      ]
+    ],
+    "regex": "\\b((?!\\bBizan:)Bizan)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

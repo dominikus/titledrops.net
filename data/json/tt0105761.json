@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0105761",
+    "title": "Virgina",
+    "year": 1991,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 351,
+    "occurrences": [
+      [
+        3,
+        "00:01:17.160000",
+        "00:01:20.160000",
+        "a family would pick one of the girls to be a 'Virgina'."
+      ],
+      [
+        21,
+        "00:10:18.080000",
+        "00:10:22.720000",
+        "- It'll be a he. - Virgina."
+      ],
+      [
+        22,
+        "00:10:24.320000",
+        "00:10:27.520000",
+        "Virgina, until you get it right."
+      ],
+      [
+        44,
+        "00:16:38.400000",
+        "00:16:42.440000",
+        "for these gifts and for aknowledging of our son Virgina."
+      ],
+      [
+        51,
+        "00:21:05.360000",
+        "00:21:11.760000",
+        "You won't be allowed outside of these walls, Virgina."
+      ]
+    ],
+    "regex": "\\b((?!\\bVirgina:)Virgina)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0113080",
+    "title": "Flirt",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 219,
+    "occurrences": [
+      [
+        40,
+        "00:31:21.360000",
+        "00:31:23.920000",
+        "Yes, he's a flirt."
+      ],
+      [
+        42,
+        "00:31:26.640000",
+        "00:31:30.553000",
+        "To flirt is to exist in ambiguity."
+      ],
+      [
+        47,
+        "00:31:46.198000",
+        "00:31:48.993000",
+        "Dwight is a flirt."
+      ],
+      [
+        117,
+        "00:51:33.186000",
+        "00:51:35.323000",
+        "with an aimless flirt like you."
+      ]
+    ],
+    "regex": "\\b((?!\\bFlirt:)Flirt)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

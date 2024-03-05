@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2027091",
+    "title": "Druid Peak",
+    "year": 2014,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1075,
+    "occurrences": [
+      [
+        192,
+        "00:28:14.394000",
+        "00:28:15.662000",
+        "Here's Druid Peak, most of the packs"
+      ],
+      [
+        698,
+        "01:14:44.390000",
+        "01:14:45.983000",
+        "It's wolf Four Six One from the Druid Peak pack"
+      ],
+      [
+        963,
+        "01:39:25.912000",
+        "01:39:27.629000",
+        "- Yeah it's Druid Peak."
+      ]
+    ],
+    "regex": "\\b((?!\\bDruid\\ Peak:)Druid\\ Peak)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

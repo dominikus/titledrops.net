@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0087072",
+    "title": "Comfort and Joy",
+    "year": 1984,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 1405,
+    "occurrences": [
+      [
+        17,
+        "00:01:12.166000",
+        "00:01:17.082000",
+        "O tidings of comfort and joy, comfort and joy"
+      ],
+      [
+        18,
+        "00:01:17.208000",
+        "00:01:21.332000",
+        "O tidings of comfort and joy"
+      ],
+      [
+        22,
+        "00:01:40.375000",
+        "00:01:45.957000",
+        "O tidings of comfort and joy, comfort and Joy"
+      ],
+      [
+        23,
+        "00:01:46.083000",
+        "00:01:50.040000",
+        "O tidings of comfort and joy"
+      ]
+    ],
+    "regex": "\\b((?!\\bComfort\\ and\\ Joy:)Comfort\\ and\\ Joy)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

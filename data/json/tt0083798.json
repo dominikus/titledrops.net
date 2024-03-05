@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0083798",
+    "title": "Dead Men Don't Wear Plaid",
+    "year": 1982,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 990,
+    "occurrences": [
+      [
+        735,
+        "01:03:18.395000",
+        "01:03:20.625000",
+        "\"Dead men don't wear plaid. \""
+      ],
+      [
+        737,
+        "01:03:23.035000",
+        "01:03:25.265000",
+        "Dead men don't wear plaid."
+      ]
+    ],
+    "regex": "\\b((?!\\bDead\\ Men\\ Don't\\ Wear\\ Plaid:)Dead\\ Men\\ Don't\\ Wear\\ Plaid)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt18115780",
+    "title": "The Portrait",
+    "year": 2023,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 641,
+    "occurrences": [
+      [
+        97,
+        "00:16:29.757000",
+        "00:16:34.627000",
+        "and on the back it says \"\"Calvin DuBose Self-Portrait\"."
+      ],
+      [
+        256,
+        "00:37:02.456000",
+        "00:37:04.826000",
+        "The self-portrait, you found it."
+      ],
+      [
+        313,
+        "00:39:57.497000",
+        "00:40:00.568000",
+        "Except in that portrait."
+      ],
+      [
+        617,
+        "01:21:25.787000",
+        "01:21:29.822000",
+        "Our next item up for bid is this magnificent portrait."
+      ],
+      [
+        621,
+        "01:21:36.463000",
+        "01:21:40.833000",
+        "this is a very nice early 20th century self-portrait"
+      ]
+    ],
+    "regex": "\\b((?!\\bPortrait:)Portrait)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

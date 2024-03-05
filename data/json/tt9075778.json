@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt9075778",
+    "title": "The Fighting Preacher",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1183,
+    "occurrences": [
+      [
+        800,
+        "01:02:15.358000",
+        "01:02:17.527000",
+        "but I am also known as The Fighting Preacher."
+      ],
+      [
+        842,
+        "01:06:17.058000",
+        "01:06:19.185000",
+        "I hope you enjoyed The Fighting Preacher show."
+      ]
+    ],
+    "regex": "\\b((?!\\bFighting\\ Preacher:)Fighting\\ Preacher)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

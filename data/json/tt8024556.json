@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt8024556",
+    "title": "Laung Laachi",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 2264,
+    "occurrences": [
+      [
+        1717,
+        "01:36:48.069000",
+        "01:36:50.663000",
+        "Your album should be called Laung Laachi."
+      ],
+      [
+        1742,
+        "01:39:17.919000",
+        "01:39:19.944000",
+        "The pair of Laung Laachi is a hit in the music world."
+      ],
+      [
+        1886,
+        "01:50:39.867000",
+        "01:50:42.632000",
+        "Laung Laachi! Laung Laachi! Everyone from Englishmen to Japanese."
+      ]
+    ],
+    "regex": "\\b((?!\\bLaung\\ Laachi:)Laung\\ Laachi)(?!\\:)(?!'t)\\b",
+    "runtime": 138,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

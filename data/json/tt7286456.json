@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt7286456",
+    "title": "Joker",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1325,
+    "occurrences": [
+      [
+        732,
+        "00:59:46.784000",
+        "00:59:48.819000",
+        "Check out this joker."
+      ],
+      [
+        1128,
+        "01:36:22.277000",
+        "01:36:24.179000",
+        "can you introduce me as Joker?"
+      ],
+      [
+        1131,
+        "01:36:29.317000",
+        "01:36:30.418000",
+        "A joker."
+      ],
+      [
+        1134,
+        "01:36:33.789000",
+        "01:36:36.258000",
+        "Well, if you say so, kid, you know, Joker it is."
+      ],
+      [
+        1159,
+        "01:38:11.153000",
+        "01:38:14.323000",
+        "So, please welcome, Joker."
+      ],
+      [
+        1287,
+        "01:46:02.057000",
+        "01:46:04.960000",
+        "as \"Joker\" is currently under arrest."
+      ]
+    ],
+    "regex": "\\b((?!\\bJoker:)Joker)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.4
+  }
+]

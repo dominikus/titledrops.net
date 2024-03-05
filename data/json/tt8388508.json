@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt8388508",
+    "title": "Dear Comrade",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 2214,
+    "occurrences": [
+      [
+        444,
+        "00:31:57.700000",
+        "00:31:59.150000",
+        "Dear Comrade."
+      ],
+      [
+        465,
+        "00:33:14.110000",
+        "00:33:15.262000",
+        "Dear Comrade."
+      ],
+      [
+        1363,
+        "01:44:53.750000",
+        "01:44:56.436000",
+        "Dear Comrade. Our childhood will not return to us. I can not forget..."
+      ],
+      [
+        2214,
+        "02:44:53.050000",
+        "02:44:55.090000",
+        "With love, Team 'Dear Comrade.'"
+      ]
+    ],
+    "regex": "\\b((?!\\bDear\\ Comrade:)Dear\\ Comrade)(?!\\:)(?!'t)\\b",
+    "runtime": 169,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

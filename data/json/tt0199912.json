@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0199912",
+    "title": "The Order of the Black Eagle",
+    "year": 1987,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 534,
+    "occurrences": [
+      [
+        35,
+        "00:08:09.060000",
+        "00:08:15.220000",
+        "\"The Order of the Black Eagle\""
+      ],
+      [
+        55,
+        "00:12:44.660000",
+        "00:12:46.500000",
+        "What do you know about \"The Order of the Black Eagle\""
+      ],
+      [
+        251,
+        "00:30:18.780000",
+        "00:30:23.180000",
+        "\"The Order of the Black Eagle\" has signed a declaration of war"
+      ],
+      [
+        267,
+        "00:31:54.820000",
+        "00:31:59.660000",
+        "After tomorrow night it will be \"The Order of the Black Eagle\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bOrder\\ of\\ the\\ Black\\ Eagle:)Order\\ of\\ the\\ Black\\ Eagle)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

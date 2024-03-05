@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt0090251",
+    "title": "Variety",
+    "year": 1983,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 1251,
+    "occurrences": [
+      [
+        299,
+        "00:17:52.030000",
+        "00:17:54.616000",
+        "- My job. - What, Variety?"
+      ],
+      [
+        310,
+        "00:18:18.181000",
+        "00:18:20.243000",
+        "She's got a job down the street selling tickets at Variety,"
+      ],
+      [
+        619,
+        "00:37:14.775000",
+        "00:37:16.736000",
+        "- Variety? - Yeah."
+      ],
+      [
+        767,
+        "00:55:52.267000",
+        "00:55:54.352000",
+        "Uh, Variety."
+      ],
+      [
+        768,
+        "00:55:54.435000",
+        "00:55:56.521000",
+        "He comes by Variety sometimes."
+      ],
+      [
+        948,
+        "01:08:05.541000",
+        "01:08:07.084000",
+        "Ladies and gentlemen, Variety,"
+      ],
+      [
+        949,
+        "01:08:07.167000",
+        "01:08:09.920000",
+        "Variety Theater presents to you the most beautiful,"
+      ]
+    ],
+    "regex": "\\b((?!\\bVariety:)Variety)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

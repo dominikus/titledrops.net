@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0060288",
+    "title": "Deadlier Than the Male",
+    "year": 1967,
+    "genres": [
+      "Adventure",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1262,
+    "occurrences": [
+      [
+        14,
+        "00:04:23.727000",
+        "00:04:30.684000",
+        "\"For the female of the species is deadlier than the male.\""
+      ],
+      [
+        21,
+        "00:04:57.935000",
+        "00:05:05.226000",
+        "\"For the female of the species is deadlier than the male.\""
+      ],
+      [
+        28,
+        "00:05:31.893000",
+        "00:05:39.642000",
+        "\"For the female of the species is deadlier than the male.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bDeadlier\\ Than\\ the\\ Male:)Deadlier\\ Than\\ the\\ Male)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

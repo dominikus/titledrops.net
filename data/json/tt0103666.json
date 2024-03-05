@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0103666",
+    "title": "Amazon",
+    "year": 1990,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 685,
+    "occurrences": [
+      [
+        193,
+        "00:23:41.570000",
+        "00:23:45.570000",
+        "The Indians say that the Amazon is as long as your life."
+      ],
+      [
+        242,
+        "00:30:59.940000",
+        "00:31:02.600000",
+        "was a luxury nobody could afford in the Amazon."
+      ]
+    ],
+    "regex": "\\b((?!\\bAmazon:)Amazon)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

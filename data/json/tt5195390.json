@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5195390",
+    "title": "Grand Hotel",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 883,
+    "occurrences": [
+      [
+        104,
+        "00:16:07.567000",
+        "00:16:12.925000",
+        "I'm back, writing at the Grand Hotel, just like the old days."
+      ],
+      [
+        242,
+        "00:27:59.767000",
+        "00:28:03.806000",
+        "-Send the bill to the Grand Hotel. -Of course."
+      ]
+    ],
+    "regex": "\\b((?!\\bGrand\\ Hotel:)Grand\\ Hotel)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

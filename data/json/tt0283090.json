@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0283090",
+    "title": "29 Palms",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1043,
+    "occurrences": [
+      [
+        222,
+        "00:15:55.171000",
+        "00:15:56.042000",
+        "29 Palms."
+      ],
+      [
+        223,
+        "00:15:56.172000",
+        "00:15:58.261000",
+        "I wanna send it to 29 Palms."
+      ],
+      [
+        276,
+        "00:23:54.607000",
+        "00:23:56.435000",
+        "Can you send this to 29 Palms, please?"
+      ]
+    ],
+    "regex": "\\b((?!\\b29\\ Palms:)29\\ Palms)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

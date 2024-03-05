@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt12575636",
+    "title": "The New Corporation: The Unfortunately Necessary Sequel",
+    "year": 2020,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 2286,
+    "occurrences": [
+      [
+        139,
+        "00:07:16.903000",
+        "00:07:19.071000",
+        "to promote the story of the new corporation..."
+      ],
+      [
+        282,
+        "00:13:59.238000",
+        "00:14:01.240000",
+        "new corporation movement."
+      ],
+      [
+        491,
+        "00:22:48.734000",
+        "00:22:51.570000",
+        "If the new corporation had a playbook,"
+      ],
+      [
+        626,
+        "00:28:03.281000",
+        "00:28:06.885000",
+        "It's a defining idea of the new corporation,"
+      ]
+    ],
+    "regex": "\\b((?!\\bNew\\ Corporation:)New\\ Corporation|(?!\\bUnfortunately\\ Necessary\\ Sequel:)Unfortunately\\ Necessary\\ Sequel)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

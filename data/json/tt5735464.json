@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5735464",
+    "title": "Master",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 1993,
+    "occurrences": [
+      [
+        1055,
+        "01:12:52.860000",
+        "01:12:54.860000",
+        "Master, they're in the kitchen."
+      ],
+      [
+        1343,
+        "01:29:35.530000",
+        "01:29:38.020000",
+        "=He's called the Money- Washing Machine. He's a master of money laundering.="
+      ],
+      [
+        1414,
+        "01:33:06.920000",
+        "01:33:08.910000",
+        "A master indeed."
+      ]
+    ],
+    "regex": "\\b((?!\\bMaster:)Master)(?!\\:)(?!'t)\\b",
+    "runtime": 143,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

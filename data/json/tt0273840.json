@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0273840",
+    "title": "Moscow Square",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 919,
+    "occurrences": [
+      [
+        0,
+        "00:00:11.380000",
+        "00:00:13.980000",
+        "We used to wait for the party addresses at the Moscow Square every Saturday night."
+      ],
+      [
+        310,
+        "00:25:04.660000",
+        "00:25:06.660000",
+        "What's up, angel? Moscow Square?"
+      ],
+      [
+        337,
+        "00:27:42.140000",
+        "00:27:45",
+        "We'll cover the Moscow Square with carpet."
+      ]
+    ],
+    "regex": "\\b((?!\\bMoscow\\ Square:)Moscow\\ Square)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

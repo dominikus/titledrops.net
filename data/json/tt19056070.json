@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt19056070",
+    "title": "Quicksand",
+    "year": 2023,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1054,
+    "occurrences": [
+      [
+        394,
+        "00:30:54.104000",
+        "00:30:56.440000",
+        "I think this is like quicksand."
+      ],
+      [
+        413,
+        "00:32:15.936000",
+        "00:32:20.691000",
+        "I've never heard of anybody fucking dying in quicksand."
+      ],
+      [
+        685,
+        "00:50:11.552000",
+        "00:50:13.596000",
+        "It can't come on this quicksand, right?"
+      ],
+      [
+        751,
+        "00:53:47.142000",
+        "00:53:52.147000",
+        "There's no quicksand in this country; that's bullshit."
+      ],
+      [
+        765,
+        "00:54:43.532000",
+        "00:54:49.371000",
+        "And now we're stuck in fucking... Fucking quicksand!"
+      ]
+    ],
+    "regex": "\\b((?!\\bQuicksand:)Quicksand)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

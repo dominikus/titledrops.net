@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3681414",
+    "title": "Purani Jeans",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 2391,
+    "occurrences": [
+      [
+        215,
+        0,
+        0,
+        "Always wear 'Purani Jeans' (Old Jeans)."
+      ],
+      [
+        2356,
+        0,
+        0,
+        "Now I understood the real meaning Of 'Purani Jeans' (old jeans)."
+      ]
+    ],
+    "regex": "\\b((?!\\bPurani\\ Jeans:)Purani\\ Jeans)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

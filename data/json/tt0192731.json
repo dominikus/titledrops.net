@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0192731",
+    "title": "Urban Legends: Final Cut",
+    "year": 2000,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 916,
+    "occurrences": [
+      [
+        136,
+        "00:12:38.160000",
+        "00:12:41.119000",
+        "whose murders are all based on urban legends."
+      ],
+      [
+        344,
+        "00:32:34.920000",
+        "00:32:37.230000",
+        "- She sucks. - Urban Legends, scene 3, take 28."
+      ],
+      [
+        914,
+        "01:33:19.920000",
+        "01:33:23.391000",
+        "Urban Legends scene six, take two. Mark it."
+      ]
+    ],
+    "regex": "\\b((?!\\bUrban\\ Legends:)Urban\\ Legends|(?!\\bFinal\\ Cut:)Final\\ Cut)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0969325",
+    "title": "Riza",
+    "year": 2007,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 492,
+    "occurrences": [
+      [
+        180,
+        "00:34:34.880000",
+        "00:34:39.249000",
+        "- Brother Riza, come to drink tea. - Friend. Come."
+      ],
+      [
+        187,
+        "00:35:31.960000",
+        "00:35:32.847000",
+        "Riza."
+      ],
+      [
+        325,
+        "01:11:00.600000",
+        "01:11:01.840000",
+        "My name is Riza."
+      ],
+      [
+        402,
+        "01:25:16.520000",
+        "01:25:17.282000",
+        "Brother Riza."
+      ],
+      [
+        467,
+        "01:31:49.840000",
+        "01:31:51.729000",
+        "Brother Riza, come."
+      ]
+    ],
+    "regex": "\\b((?!\\bRiza:)Riza)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

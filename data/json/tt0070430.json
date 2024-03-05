@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0070430",
+    "title": "Naked Over the Fence",
+    "year": 1973,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 666,
+    "occurrences": [
+      [
+        188,
+        "00:25:40.778000",
+        "00:25:45.291000",
+        "Karate Champ And Famous Singer Naked Over The Fence"
+      ],
+      [
+        424,
+        "00:56:34.842000",
+        "00:56:38.786000",
+        "They got upset and Ed and Lilly climb naked over the fence."
+      ]
+    ],
+    "regex": "\\b((?!\\bNaked\\ Over\\ the\\ Fence:)Naked\\ Over\\ the\\ Fence)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

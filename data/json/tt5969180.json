@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt5969180",
+    "title": "I Hate Kids",
+    "year": 2019,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1951,
+    "occurrences": [
+      [
+        82,
+        "00:04:05.309000",
+        "00:04:07.310000",
+        "Hey, it's the I Hate Kids guy!"
+      ],
+      [
+        128,
+        "00:05:39.304000",
+        "00:05:41.271000",
+        "I Hate Kids thing."
+      ],
+      [
+        174,
+        "00:07:43.160000",
+        "00:07:44.593000",
+        "I hate kids."
+      ],
+      [
+        1754,
+        "01:13:20.194000",
+        "01:13:24.031000",
+        "these three precious words to me, I hate kids."
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Hate\\ Kids:)I\\ Hate\\ Kids)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

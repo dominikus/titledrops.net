@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0325655",
+    "title": "The Eye",
+    "year": 2002,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 583,
+    "occurrences": [
+      [
+        9,
+        "00:04:55.529000",
+        "00:04:58.397000",
+        "I heard that you just had an eye operation."
+      ],
+      [
+        35,
+        "00:07:34.087000",
+        "00:07:37.956000",
+        "It takes time for the eye and brain to work together."
+      ],
+      [
+        53,
+        "00:09:39.279000",
+        "00:09:41.510000",
+        "Only when your eye muscles are able to adapt"
+      ]
+    ],
+    "regex": "\\b((?!\\bEye:)Eye)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

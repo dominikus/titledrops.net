@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1666299",
+    "title": "Room 304",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 452,
+    "occurrences": [
+      [
+        47,
+        "00:07:27.368000",
+        "00:07:30.121000",
+        "- My wife? - Yes, in the laundry room."
+      ],
+      [
+        210,
+        "00:37:45.168000",
+        "00:37:50.242000",
+        "- but he didn't say what room he's in."
+      ]
+    ],
+    "regex": "\\b((?!\\bRoom:)Room)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

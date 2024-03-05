@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt0095800",
+    "title": "The Bear",
+    "year": 1988,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 86,
+    "occurrences": [
+      [
+        0,
+        "00:00:32.800000",
+        "00:00:36.713000",
+        "The Bear"
+      ],
+      [
+        12,
+        "00:20:26.120000",
+        "00:20:31.240000",
+        "A bear always turns into his wounds. You spooked him son."
+      ]
+    ],
+    "regex": "\\b((?!\\bBear:)Bear)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [
+      "The Bear Cub"
+    ],
+    "title_is_name": true,
+    "rating": 7.7
+  }
+]

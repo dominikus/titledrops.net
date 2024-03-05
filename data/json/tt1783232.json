@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1783232",
+    "title": "Conquest 1453",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1351,
+    "occurrences": [
+      [
+        20,
+        "00:03:15.764000",
+        "00:03:19.724000",
+        "SURA Of CONQUEST"
+      ],
+      [
+        1155,
+        "01:58:09.484000",
+        "01:58:11.244000",
+        "You have personal interest on this conquest."
+      ]
+    ],
+    "regex": "\\b((?!\\bConquest:)Conquest)(?!\\:)(?!'t)\\b",
+    "runtime": 162,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

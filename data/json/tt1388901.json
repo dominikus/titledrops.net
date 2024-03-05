@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1388901",
+    "title": "Wheat",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 552,
+    "occurrences": [
+      [
+        3,
+        "00:02:52.600000",
+        "00:02:55.876000",
+        "Otherwise, if it rains like last year, the wheat will..."
+      ],
+      [
+        60,
+        "00:12:15.800000",
+        "00:12:17.711000",
+        "is pressing against the wheat."
+      ],
+      [
+        71,
+        "00:13:26.680000",
+        "00:13:28.272000",
+        "Don't press against the wheat."
+      ]
+    ],
+    "regex": "\\b((?!\\bWheat:)Wheat)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt14735160",
+    "title": "Mom Is Pregnant",
+    "year": 2021,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1734,
+    "occurrences": [
+      [
+        502,
+        "00:32:55.166000",
+        "00:32:56.916000",
+        "Mom is pregnant."
+      ],
+      [
+        528,
+        "00:34:11.833000",
+        "00:34:13.958000",
+        "- Your mom is pregnant. - Whatever!"
+      ],
+      [
+        557,
+        "00:35:38.541000",
+        "00:35:40.500000",
+        "Your mom is pregnant!"
+      ],
+      [
+        564,
+        "00:35:56.333000",
+        "00:35:58.833000",
+        "When Mom is pregnant at this age"
+      ],
+      [
+        887,
+        "00:53:48.583000",
+        "00:53:52.208000",
+        "Mervat told us your mom is pregnant."
+      ]
+    ],
+    "regex": "\\b((?!\\bMom\\ Is\\ Pregnant:)Mom\\ Is\\ Pregnant)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

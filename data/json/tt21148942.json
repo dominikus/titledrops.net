@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt21148942",
+    "title": "King Shakir: Recycle",
+    "year": 2022,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1231,
+    "occurrences": [
+      [
+        34,
+        "00:02:05.958000",
+        "00:02:08.500000",
+        "and save the planet as we recycle all our garbage."
+      ],
+      [
+        729,
+        "00:50:25.583000",
+        "00:50:27.666000",
+        "Nobody cared to recycle plastic"
+      ]
+    ],
+    "regex": "\\b((?!\\bKing\\ Shakir:)King\\ Shakir|(?!\\bRecycle:)Recycle)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

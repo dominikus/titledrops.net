@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1943696",
+    "title": "Elizabeth's Gift",
+    "year": 2012,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1566,
+    "occurrences": [
+      [
+        1308,
+        "01:08:46.540000",
+        "01:08:50.918000",
+        "But Elizabeth's gift is what's shone through."
+      ],
+      [
+        1312,
+        "01:09:04.975000",
+        "01:09:07.560000",
+        "But it was Elizabeth's gift that gave new"
+      ]
+    ],
+    "regex": "\\b((?!\\bElizabeth's\\ Gift:)Elizabeth's\\ Gift)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

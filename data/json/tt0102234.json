@@ -1,0 +1,74 @@
+[
+  {
+    "imdb": "tt0102234",
+    "title": "The Smoke",
+    "year": 1991,
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "count": 9,
+    "all_lines": 952,
+    "occurrences": [
+      [
+        1,
+        "00:01:12.080000",
+        "00:01:16.676000",
+        "SMOKE"
+      ],
+      [
+        124,
+        "00:11:17.357000",
+        "00:11:18.610000",
+        "Do you smoke?"
+      ],
+      [
+        150,
+        "00:12:44.240000",
+        "00:12:46.834000",
+        "The factories are belching out smoke."
+      ],
+      [
+        152,
+        "00:12:50.280000",
+        "00:12:52.589000",
+        "I have to work and smoke."
+      ],
+      [
+        407,
+        "00:34:18.720000",
+        "00:34:20.438000",
+        "You smoke?"
+      ],
+      [
+        438,
+        "00:36:31.594000",
+        "00:36:33.437000",
+        "I don't smoke."
+      ],
+      [
+        608,
+        "00:51:12.280000",
+        "00:51:14.919000",
+        "I'm some Ludva. Do you smoke?"
+      ],
+      [
+        824,
+        "01:08:02.560000",
+        "01:08:05.757000",
+        "- What do you smoke beauty? - You know I don't."
+      ],
+      [
+        879,
+        "01:14:28.386000",
+        "01:14:30.217000",
+        "You smoke?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSmoke:)Smoke)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

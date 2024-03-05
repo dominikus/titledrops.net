@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt9176600",
+    "title": "Wonder Boy",
+    "year": 2019,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1135,
+    "occurrences": [
+      [
+        1112,
+        "01:18:48.760000",
+        "01:18:51.240000",
+        "It was about me, and the title was The Wonder Boy."
+      ],
+      [
+        1113,
+        "01:18:51.880000",
+        "01:18:54.040000",
+        "- \"The Wonder Boy\"? -Yeah."
+      ],
+      [
+        1115,
+        "01:18:57.560000",
+        "01:18:59.880000",
+        "A wonder boy is a boy"
+      ],
+      [
+        1124,
+        "01:19:29.880000",
+        "01:19:31.400000",
+        "Do you think I'm a wonder boy?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWonder\\ Boy:)Wonder\\ Boy)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

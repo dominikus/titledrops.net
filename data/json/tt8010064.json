@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt8010064",
+    "title": "Bunker",
+    "year": 2022,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 879,
+    "occurrences": [
+      [
+        391,
+        "00:45:59.276000",
+        "00:46:00.144000",
+        "It's a German bunker,"
+      ],
+      [
+        679,
+        "01:12:58.462000",
+        "01:13:01.566000",
+        "for the enemy awaiting us outside the bunker."
+      ]
+    ],
+    "regex": "\\b((?!\\bBunker:)Bunker)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

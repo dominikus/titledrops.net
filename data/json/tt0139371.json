@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0139371",
+    "title": "Hu-Man",
+    "year": 1975,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 417,
+    "occurrences": [
+      [
+        20,
+        "00:02:55.429000",
+        "00:02:57.825000",
+        "he's also an exceptional human being."
+      ],
+      [
+        125,
+        "00:14:59.803000",
+        "00:15:03.270000",
+        "That energy is provided by human emotion, right? - That's it."
+      ],
+      [
+        207,
+        "00:20:57.048000",
+        "00:21:00.368000",
+        "in the most audacious and exciting experiment in human history:"
+      ]
+    ],
+    "regex": "\\b((?!\\bHuMan:)HuMan)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

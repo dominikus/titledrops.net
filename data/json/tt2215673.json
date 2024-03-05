@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2215673",
+    "title": "The Timber",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 472,
+    "occurrences": [
+      [
+        115,
+        "00:12:59.240000",
+        "00:13:01.925000",
+        "Forced to turn back, we ran across him in the timber."
+      ],
+      [
+        203,
+        "00:24:51.800000",
+        "00:24:53.484000",
+        "What's the Timber like, Colonel?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTimber:)Timber)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

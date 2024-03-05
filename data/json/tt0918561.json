@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0918561",
+    "title": "Rule Number One",
+    "year": 2008,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 929,
+    "occurrences": [
+      [
+        179,
+        "00:22:12.197000",
+        "00:22:13.129000",
+        "Rule number one"
+      ],
+      [
+        292,
+        "00:33:56",
+        "00:33:56.932000",
+        "Rule number one"
+      ],
+      [
+        381,
+        "00:42:36.053000",
+        "00:42:37.543000",
+        "What actually is \" Rule Number One\"?"
+      ],
+      [
+        400,
+        "00:43:31.208000",
+        "00:43:33.768000",
+        "\"Rule Number One' is very important"
+      ],
+      [
+        401,
+        "00:43:35.145000",
+        "00:43:36.612000",
+        "If we don't have \"Rule Number One\""
+      ],
+      [
+        901,
+        "01:26:12.300000",
+        "01:26:13.392000",
+        "Remember \"Rule Number One\""
+      ]
+    ],
+    "regex": "\\b((?!\\bRule\\ Number\\ One:)Rule\\ Number\\ One)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

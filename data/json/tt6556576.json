@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt6556576",
+    "title": "Monster Party",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1058,
+    "occurrences": [
+      [
+        118,
+        "00:09:20.592000",
+        "00:09:23.426000",
+        "Monster party, counting bodies, yeah, I'm that guy"
+      ],
+      [
+        1004,
+        "01:25:02.229000",
+        "01:25:05.130000",
+        "Monster party, counting bodies, yeah, I'm that guy"
+      ],
+      [
+        1027,
+        "01:25:43.669000",
+        "01:25:47.538000",
+        "Monster party, counting bodies, yeah, I'm that guy"
+      ]
+    ],
+    "regex": "\\b((?!\\bMonster\\ Party:)Monster\\ Party)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

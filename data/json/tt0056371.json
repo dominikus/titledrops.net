@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0056371",
+    "title": "Before the Revolution",
+    "year": 1964,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1088,
+    "occurrences": [
+      [
+        8,
+        "00:02:00.040000",
+        "00:02:01.632000",
+        "before the revolution"
+      ],
+      [
+        1005,
+        "01:30:38.280000",
+        "01:30:40.999000",
+        "and instead I was living the years before the revolution."
+      ],
+      [
+        1006,
+        "01:30:41.600000",
+        "01:30:43.989000",
+        "Because it is always before the revolution,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBefore\\ the\\ Revolution:)Before\\ the\\ Revolution)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

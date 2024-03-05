@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt0039157",
+    "title": "Apache Rose",
+    "year": 1947,
+    "genres": [
+      "Western"
+    ],
+    "count": 7,
+    "all_lines": 1189,
+    "occurrences": [
+      [
+        2,
+        "00:00:27.327000",
+        "00:00:31.031000",
+        "Apache Rose,"
+      ],
+      [
+        6,
+        "00:00:44.236000",
+        "00:00:48.570000",
+        "Apache Rose,"
+      ],
+      [
+        29,
+        "00:02:40.147000",
+        "00:02:42.731000",
+        "but I can't sail the Apache Rose on a mudflat!"
+      ],
+      [
+        1003,
+        "00:58:49.483000",
+        "00:58:54.962000",
+        "Apache Rose"
+      ],
+      [
+        1007,
+        "00:59:11.832000",
+        "00:59:17.612000",
+        "Apache Rose"
+      ],
+      [
+        1015,
+        "00:59:57.299000",
+        "01:00:03.437000",
+        "Apache Rose"
+      ],
+      [
+        1185,
+        "01:14:47.783000",
+        "01:14:52.095000",
+        "Apache Rose,"
+      ]
+    ],
+    "regex": "\\b((?!\\bApache\\ Rose:)Apache\\ Rose)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

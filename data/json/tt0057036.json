@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0057036",
+    "title": "Hercules, Samson & Ulysses",
+    "year": 1963,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 1045,
+    "occurrences": [
+      [
+        14,
+        "00:01:13.200000",
+        "00:01:16",
+        "\"Hercules, Samson & Ulysses.\""
+      ],
+      [
+        42,
+        "00:02:30.400000",
+        "00:02:33.600000",
+        "This is \"Hercules, Samson & Ulysses.\""
+      ],
+      [
+        1025,
+        "01:28:27.200000",
+        "01:28:29.200000",
+        "\"Hercules, Samson & Ulysses\" was written"
+      ],
+      [
+        1034,
+        "01:28:49.200000",
+        "01:28:51.400000",
+        "in \"Hercules, Samson & Ulysses,\""
+      ]
+    ],
+    "regex": "\\b((?!\\bHercules,\\ Samson\\ \\&\\ Ulysses:)Hercules,\\ Samson\\ \\&\\ Ulysses)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

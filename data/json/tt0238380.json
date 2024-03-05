@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0238380",
+    "title": "Equilibrium",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 967,
+    "occurrences": [
+      [
+        229,
+        "00:23:32.600000",
+        "00:23:35.800000",
+        "Then you'll go by Equilibrium, log the loss,"
+      ],
+      [
+        237,
+        "00:24:11.200000",
+        "00:24:13.600000",
+        "you would be at Equilibrium, replacing your dose."
+      ],
+      [
+        243,
+        "00:24:36.900000",
+        "00:24:40.900000",
+        "Proceed to the Equilibrium Center in Sector 8A."
+      ],
+      [
+        247,
+        "00:24:50.800000",
+        "00:24:54",
+        "Proceed to the Equilibrium Center in Sector 8A."
+      ]
+    ],
+    "regex": "\\b((?!\\bEquilibrium:)Equilibrium)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

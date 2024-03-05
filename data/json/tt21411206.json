@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt21411206",
+    "title": "The Picture of Dorian Gray",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 994,
+    "occurrences": [
+      [
+        493,
+        "00:47:57.460000",
+        "00:48:00.429000",
+        "The picture of Dorian Gray."
+      ],
+      [
+        813,
+        "01:19:24.173000",
+        "01:19:29.178000",
+        "The story of Evie and the picture of Dorian Gray."
+      ]
+    ],
+    "regex": "\\b((?!\\bPicture\\ of\\ Dorian\\ Gray:)Picture\\ of\\ Dorian\\ Gray)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

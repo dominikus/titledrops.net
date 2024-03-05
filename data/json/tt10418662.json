@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt10418662",
+    "title": "Awake",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1536,
+    "occurrences": [
+      [
+        151,
+        "00:09:25.250000",
+        "00:09:26.541000",
+        "He's awake."
+      ],
+      [
+        191,
+        "00:12:39.291000",
+        "00:12:43.083000",
+        "Well, I guess you really aren't using if you're awake too."
+      ],
+      [
+        301,
+        "00:19:25.291000",
+        "00:19:27.833000",
+        "Maybe we are meant to be awake."
+      ],
+      [
+        390,
+        "00:24:12.208000",
+        "00:24:14.250000",
+        "So, as all mankind lays awake,"
+      ],
+      [
+        422,
+        "00:25:47",
+        "00:25:48",
+        "She's awake."
+      ],
+      [
+        585,
+        "00:34:16.625000",
+        "00:34:18.916000",
+        "He's, like, still awake."
+      ]
+    ],
+    "regex": "\\b((?!\\bAwake:)Awake)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

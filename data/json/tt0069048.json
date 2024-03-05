@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0069048",
+    "title": "Baron Blood",
+    "year": 1972,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 753,
+    "occurrences": [
+      [
+        44,
+        "00:07:04.011000",
+        "00:07:06.138000",
+        "They called him Baron Blood."
+      ],
+      [
+        582,
+        "01:14:33.306000",
+        "01:14:36.268000",
+        "Von Kleist? Baron Blood?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBaron\\ Blood:)Baron\\ Blood)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt7069210",
+    "title": "The Conjuring: The Devil Made Me Do It",
+    "year": 2021,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 1,
+    "all_lines": 1240,
+    "occurrences": [
+      [
+        1204,
+        "01:45:23.117000",
+        "01:45:24.367000",
+        "\"The devil made me do it\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bConjuring:)Conjuring|(?!\\bDevil\\ Made\\ Me\\ Do\\ It:)Devil\\ Made\\ Me\\ Do\\ It)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3343136",
+    "title": "Sleeping Beauty",
+    "year": 2014,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1030,
+    "occurrences": [
+      [
+        84,
+        "00:05:30.167000",
+        "00:05:33.042000",
+        "Sleeping Beauty"
+      ],
+      [
+        239,
+        "00:20:49.125000",
+        "00:20:52.083000",
+        "This can only be the word of the sleeping beauty."
+      ],
+      [
+        282,
+        "00:22:46.083000",
+        "00:22:49",
+        "It means My Lord, that the sleeping beauty."
+      ],
+      [
+        1002,
+        "01:20:37.083000",
+        "01:20:42.083000",
+        "Liege, if you don't pick up that sword and stab that sleeping beauty in the heart,"
+      ]
+    ],
+    "regex": "\\b((?!\\bSleeping\\ Beauty:)Sleeping\\ Beauty)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.8
+  }
+]

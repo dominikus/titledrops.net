@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2404980",
+    "title": "Deal",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 747,
+    "occurrences": [
+      [
+        42,
+        "00:03:51.654000",
+        "00:03:53.325000",
+        "Deal."
+      ],
+      [
+        46,
+        "00:04:07.688000",
+        "00:04:09.400000",
+        "Well, deal then."
+      ],
+      [
+        58,
+        "00:04:52.309000",
+        "00:04:55.254000",
+        "and I'd have to deal with the fact that you know how I am in bed."
+      ]
+    ],
+    "regex": "\\b((?!\\bDeal:)Deal)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

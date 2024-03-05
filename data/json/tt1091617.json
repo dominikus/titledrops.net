@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1091617",
+    "title": "Expelled: No Intelligence Allowed",
+    "year": 2008,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 2065,
+    "occurrences": [
+      [
+        1715,
+        "01:21:23.800000",
+        "01:21:26.800000",
+        "It wasn't just scientists who were being expelled."
+      ],
+      [
+        1719,
+        "01:21:34.100000",
+        "01:21:36.500000",
+        "If we allowed freedom to be expelled in science,"
+      ],
+      [
+        1726,
+        "01:21:48.900000",
+        "01:21:51",
+        "Those who'd expelled the scientists i'd met."
+      ]
+    ],
+    "regex": "\\b((?!\\bExpelled:)Expelled|(?!\\bNo\\ Intelligence\\ Allowed:)No\\ Intelligence\\ Allowed)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

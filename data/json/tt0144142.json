@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0144142",
+    "title": "Committed",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 773,
+    "occurrences": [
+      [
+        715,
+        "01:24:53.089000",
+        "01:24:56.007000",
+        "I may be someone who is committed."
+      ],
+      [
+        724,
+        "01:26:26.182000",
+        "01:26:28.756000",
+        "I'm still committed."
+      ]
+    ],
+    "regex": "\\b((?!\\bCommitted:)Committed)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2638048",
+    "title": "Dominion",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 636,
+    "occurrences": [
+      [
+        105,
+        "00:11:57.560000",
+        "00:12:00.420000",
+        "Their army is coming here to establish complete dominion."
+      ],
+      [
+        315,
+        "00:35:09.400000",
+        "00:35:12.650000",
+        "Our army is coming here to establish complete dominion."
+      ]
+    ],
+    "regex": "\\b((?!\\bDominion:)Dominion)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt0437484",
+    "title": "Spooked: The Ghosts of Waverly Hills Sanatorium",
+    "year": 2006,
+    "genres": [
+      "Documentary",
+      "History",
+      "Horror"
+    ],
+    "count": 1,
+    "all_lines": 629,
+    "occurrences": [
+      [
+        25,
+        "0",
+        "0",
+        "SPOOKED. The Ghosts Waverly Hills Sanatorium."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpooked:)Spooked|(?!\\bGhosts\\ of\\ Waverly\\ Hills\\ Sanatorium:)Ghosts\\ of\\ Waverly\\ Hills\\ Sanatorium)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

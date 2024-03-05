@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0099073",
+    "title": "Avalon",
+    "year": 1990,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 945,
+    "occurrences": [
+      [
+        26,
+        "00:03:21.467000",
+        "00:03:23.992000",
+        "And then we came to Avalon."
+      ],
+      [
+        491,
+        "00:34:37.308000",
+        "00:34:41.039000",
+        "We're getting farther and farther away from Avalon."
+      ],
+      [
+        657,
+        "00:43:53.964000",
+        "00:43:55.898000",
+        "It was hotter at Avalon."
+      ]
+    ],
+    "regex": "\\b((?!\\bAvalon:)Avalon)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

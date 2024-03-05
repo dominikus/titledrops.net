@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0211938",
+    "title": "Bait",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 1487,
+    "occurrences": [
+      [
+        389,
+        "00:34:48.548000",
+        "00:34:50.015000",
+        "And the bait. .."
+      ],
+      [
+        611,
+        "00:47:43.622000",
+        "00:47:45.681000",
+        "Alvin Sanders is bait."
+      ],
+      [
+        615,
+        "00:47:57.936000",
+        "00:48:00.063000",
+        "Well, you know what happens to bait."
+      ]
+    ],
+    "regex": "\\b((?!\\bBait:)Bait)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

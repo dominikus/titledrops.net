@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt7248884",
+    "title": "The Ideal Palace",
+    "year": 2018,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 662,
+    "occurrences": [
+      [
+        578,
+        "01:23:26.350000",
+        "01:23:30.683000",
+        "The Story of the Ideal Palace."
+      ],
+      [
+        656,
+        "01:40:37.225000",
+        "01:40:41.433000",
+        "He devoted 33 years of his life to building the \"Ideal Palace\","
+      ],
+      [
+        659,
+        "01:40:48.558000",
+        "01:40:51.725000",
+        "declared Postman Cheval's Ideal Palace an historic monument,"
+      ]
+    ],
+    "regex": "\\b((?!\\bIdeal\\ Palace:)Ideal\\ Palace)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

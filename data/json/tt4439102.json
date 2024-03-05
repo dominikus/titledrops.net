@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt4439102",
+    "title": "Officer Downe",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 982,
+    "occurrences": [
+      [
+        187,
+        "00:17:11.964000",
+        "00:17:14.198000",
+        "Officer Downe reporting for duty."
+      ],
+      [
+        617,
+        "00:53:05.916000",
+        "00:53:09.018000",
+        "Center, this is officer Downe responding, I'm on my way."
+      ]
+    ],
+    "regex": "\\b((?!\\bOfficer\\ Downe:)Officer\\ Downe)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [
+      "Officer Downe"
+    ],
+    "title_is_name": true,
+    "rating": 4.2
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0113850",
+    "title": "Moondance",
+    "year": 1994,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 793,
+    "occurrences": [
+      [
+        326,
+        "00:41:16.026000",
+        "00:41:20.623000",
+        "Can I just have one more moondance"
+      ],
+      [
+        342,
+        "00:42:26.338000",
+        "00:42:31.002000",
+        "Can I just have one more moondance"
+      ]
+    ],
+    "regex": "\\b((?!\\bMoondance:)Moondance)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

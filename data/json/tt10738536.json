@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt10738536",
+    "title": "Delicious",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "History"
+    ],
+    "count": 6,
+    "all_lines": 1265,
+    "occurrences": [
+      [
+        60,
+        "00:05:58.597000",
+        "00:06:00.555000",
+        "Delicious!"
+      ],
+      [
+        61,
+        "00:06:00.597000",
+        "00:06:02.013000",
+        "It's delicious."
+      ],
+      [
+        117,
+        "00:09:08.805000",
+        "00:09:10.097000",
+        "The Delicious."
+      ],
+      [
+        1180,
+        "01:39:11.430000",
+        "01:39:12.888000",
+        "The Delicious."
+      ],
+      [
+        1254,
+        "01:44:09.972000",
+        "01:44:11.055000",
+        "A Delicious?"
+      ],
+      [
+        1263,
+        "01:44:57.722000",
+        "01:44:59.722000",
+        "You'll love it, it's called a \"Delicious\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bDelicious:)Delicious)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

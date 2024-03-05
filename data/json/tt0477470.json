@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0477470",
+    "title": "The Embassy in the Building",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1492,
+    "occurrences": [
+      [
+        367,
+        "00:28:46.400000",
+        "00:28:50",
+        "- An embassy in the building - What?"
+      ],
+      [
+        368,
+        "00:28:50.300000",
+        "00:28:52.800000",
+        "An embassy in the building and the ambassador in the elevator"
+      ]
+    ],
+    "regex": "\\b((?!\\bEmbassy\\ in\\ the\\ Building:)Embassy\\ in\\ the\\ Building)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

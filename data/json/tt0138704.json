@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0138704",
+    "title": "Pi",
+    "year": 1998,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 677,
+    "occurrences": [
+      [
+        106,
+        "00:11:45.680000",
+        "00:11:49.400000",
+        "I spent 40 years searching for patterns in Pi."
+      ],
+      [
+        112,
+        "00:12:10.080000",
+        "00:12:13.400000",
+        "'Sol died a little when he stopped research on Pi."
+      ],
+      [
+        116,
+        "00:12:24.960000",
+        "00:12:29.240000",
+        "'when he was so close to seeing Pi for what it really is?"
+      ],
+      [
+        222,
+        "00:21:45.960000",
+        "00:21:49.480000",
+        "I dealt with some bugs back in my Pi days."
+      ],
+      [
+        296,
+        "00:28:32.240000",
+        "00:28:35.080000",
+        "I ran into it working on Pi."
+      ]
+    ],
+    "regex": "\\b((?!\\bPi:)Pi)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

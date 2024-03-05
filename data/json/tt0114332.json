@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0114332",
+    "title": "Salón México",
+    "year": 1996,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 835,
+    "occurrences": [
+      [
+        747,
+        "01:19:18.053000",
+        "01:19:20.783000",
+        "Aaron copland, the composer of Salon Mexico."
+      ],
+      [
+        752,
+        "01:19:32.400000",
+        "01:19:36.338000",
+        "...to compose the Salon Mexico Suite."
+      ]
+    ],
+    "regex": "\\b((?!\\bSalon\\ Mexico:)Salon\\ Mexico)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

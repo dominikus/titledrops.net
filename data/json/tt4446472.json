@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt4446472",
+    "title": "Porto",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 506,
+    "occurrences": [
+      [
+        85,
+        "00:10:48.691000",
+        "00:10:51.319000",
+        "happened to be on leave from Porto University"
+      ],
+      [
+        200,
+        "00:30:55.355000",
+        "00:30:56.940000",
+        "No, I'm fine in Porto."
+      ],
+      [
+        318,
+        "00:43:49.378000",
+        "00:43:52.131000",
+        "Porto's... small."
+      ]
+    ],
+    "regex": "\\b((?!\\bPorto:)Porto)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

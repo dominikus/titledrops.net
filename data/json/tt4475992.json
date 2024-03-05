@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4475992",
+    "title": "Tank 432",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1101,
+    "occurrences": [
+      [
+        575,
+        "00:41:09.592000",
+        "00:41:12.766000",
+        "are in the access hatch on the outside of the tank."
+      ],
+      [
+        1010,
+        "01:13:16.684000",
+        "01:13:18.982000",
+        "Up yours. Stuck in a fucking tank."
+      ]
+    ],
+    "regex": "\\b((?!\\bTank:)Tank)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

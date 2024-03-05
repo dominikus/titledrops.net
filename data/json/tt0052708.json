@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0052708",
+    "title": "The Cousins",
+    "year": 1959,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1307,
+    "occurrences": [
+      [
+        236,
+        "00:21:11.840000",
+        "00:21:13.432000",
+        "We're cousins, not twins."
+      ],
+      [
+        742,
+        "00:55:51.400000",
+        "00:55:54.233000",
+        "Aren't you ashamed, coming between cousins like that?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCousins:)Cousins)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

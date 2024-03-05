@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt1665799",
+    "title": "Videotape",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1617,
+    "occurrences": [
+      [
+        86,
+        "00:06:28.038000",
+        "00:06:29.531000",
+        "And he's going to give me the videotape,"
+      ],
+      [
+        119,
+        "00:08:54.311000",
+        "00:08:55.782000",
+        "OK, so along with the videotape"
+      ],
+      [
+        1561,
+        "01:27:43.605000",
+        "01:27:48.052000",
+        "They received Daniel's videotape and cleared it as evidence."
+      ],
+      [
+        1569,
+        "01:28:12.672000",
+        "01:28:15.188000",
+        "The videotape confirmed Daniel's original testimony"
+      ],
+      [
+        1578,
+        "01:28:42.186000",
+        "01:28:44.543000",
+        "With the evidence of Ty's confession on videotape,"
+      ],
+      [
+        1584,
+        "01:28:59.968000",
+        "01:29:01.407000",
+        "But he kept the videotape hidden from the police"
+      ]
+    ],
+    "regex": "\\b((?!\\bVideotape:)Videotape)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

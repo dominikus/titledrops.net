@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt7691572",
+    "title": "Cyborgs: Heroes Never Die",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 1003,
+    "occurrences": [
+      [
+        7,
+        "00:00:30.030000",
+        "00:00:32.950000",
+        "For their courage and their seeming invulnerability they were called \"cyborgs\"."
+      ],
+      [
+        25,
+        "00:01:35.637000",
+        "00:01:37.055000",
+        "Cyborgs."
+      ],
+      [
+        823,
+        "01:11:47.845000",
+        "01:11:51.641000",
+        "You are not men. You are ... cyborgs."
+      ],
+      [
+        949,
+        "01:20:53.640000",
+        "01:20:56.393000",
+        "Hello, cyborgs, honor to Ukraine!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCyborgs:)Cyborgs|(?!\\bHeroes\\ Never\\ Die:)Heroes\\ Never\\ Die)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

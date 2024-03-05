@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt10199664",
+    "title": "Adam",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 660,
+    "occurrences": [
+      [
+        643,
+        "01:28:28.959000",
+        "01:28:30.374000",
+        "His name is Adam."
+      ],
+      [
+        644,
+        "01:28:39.292000",
+        "01:28:40.249000",
+        "Adam..."
+      ],
+      [
+        645,
+        "01:28:53.417000",
+        "01:28:54.583000",
+        "It's beautiful, Adam."
+      ]
+    ],
+    "regex": "\\b((?!\\bAdam:)Adam)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

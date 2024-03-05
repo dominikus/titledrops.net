@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1438486",
+    "title": "Chal Chala Chal",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 4,
+    "all_lines": 2496,
+    "occurrences": [
+      [
+        310,
+        "00:17:08.494000",
+        "00:17:13.397000",
+        "So the bus's name will be Chal Chala Chal ( Keep Moving )."
+      ],
+      [
+        1077,
+        "00:56:30.387000",
+        "00:56:31.376000",
+        "Chal Chala Chal Company."
+      ],
+      [
+        1525,
+        "01:20:08.370000",
+        "01:20:11.237000",
+        "The Chal Chala Chal company has been cheated."
+      ],
+      [
+        2096,
+        "01:48:10.283000",
+        "01:48:11.375000",
+        "So, you are the owner of Chal Chala Chal."
+      ]
+    ],
+    "regex": "\\b((?!\\bChal\\ Chala\\ Chal:)Chal\\ Chala\\ Chal)(?!\\:)(?!'t)\\b",
+    "runtime": 138,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

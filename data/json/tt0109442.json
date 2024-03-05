@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0109442",
+    "title": "Class of 1999 II: The Substitute",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1217,
+    "occurrences": [
+      [
+        1,
+        "00:00:29.507000",
+        "00:00:30.682000",
+        "I'm the new substitute."
+      ],
+      [
+        62,
+        "00:03:18.981000",
+        "00:03:20.243000",
+        "You're a substitute,"
+      ],
+      [
+        118,
+        "00:07:08.558000",
+        "00:07:11.169000",
+        "For that substitute fuck!"
+      ],
+      [
+        211,
+        "00:14:30.913000",
+        "00:14:33.698000",
+        "I'm a substitute teacher for Mr. Reese."
+      ]
+    ],
+    "regex": "\\b((?!\\bClass\\ of\\ 1999:)Class\\ of\\ 1999|(?!\\bSubstitute:)Substitute)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

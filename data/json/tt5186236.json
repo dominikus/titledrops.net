@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5186236",
+    "title": "Afterimage",
+    "year": 2016,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 868,
+    "occurrences": [
+      [
+        27,
+        "00:03:00.126000",
+        "00:03:02.542000",
+        "an afterimage of the object remains in the eye."
+      ],
+      [
+        29,
+        "00:03:08.084000",
+        "00:03:09.542000",
+        "An afterimage."
+      ]
+    ],
+    "regex": "\\b((?!\\bAfterimage:)Afterimage)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

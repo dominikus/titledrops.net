@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1533085",
+    "title": "Parallel Life",
+    "year": 2010,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 561,
+    "occurrences": [
+      [
+        12,
+        "00:02:24.043000",
+        "00:02:27.672000",
+        "Do you think the idea of \"Parallel Life\" makes any sense?"
+      ],
+      [
+        21,
+        "00:03:47.327000",
+        "00:03:53.857000",
+        "Parallel Life"
+      ]
+    ],
+    "regex": "\\b((?!\\bParallel\\ Life:)Parallel\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0106339",
+    "title": "Backbeat",
+    "year": 1994,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 1197,
+    "occurrences": [
+      [
+        364,
+        "00:26:08.567000",
+        "00:26:11.468000",
+        "# It's got a backbeat you can't lose it"
+      ],
+      [
+        375,
+        "00:26:37.796000",
+        "00:26:40.856000",
+        "# It's got a backbeat you can't lose it"
+      ],
+      [
+        384,
+        "00:27:07.192000",
+        "00:27:09.922000",
+        "# It's got a backbeat you can't lose it"
+      ],
+      [
+        921,
+        "01:13:59.902000",
+        "01:14:02.962000",
+        "# It's got a backbeat, you can't lose it"
+      ]
+    ],
+    "regex": "\\b((?!\\bBackbeat:)Backbeat)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

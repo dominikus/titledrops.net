@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0380510",
+    "title": "The Lovely Bones",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 815,
+    "occurrences": [
+      [
+        1,
+        "00:00:06.616000",
+        "00:00:11.116000",
+        "The Lovely Bones"
+      ],
+      [
+        9,
+        "00:01:15.599000",
+        "00:01:19.568000",
+        "The Lovely Bones"
+      ],
+      [
+        780,
+        "01:56:56.075000",
+        "01:57:00.992000",
+        "These were the lovely bones, that had grown around my absence"
+      ]
+    ],
+    "regex": "\\b((?!\\bLovely\\ Bones:)Lovely\\ Bones)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

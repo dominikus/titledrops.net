@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0384495",
+    "title": "Samurai",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Drama",
+      "Musical"
+    ],
+    "count": 3,
+    "all_lines": 1866,
+    "occurrences": [
+      [
+        1006,
+        "01:39:33.867000",
+        "01:39:36.165000",
+        "Kavitha told that Samurai's don't cry."
+      ],
+      [
+        1345,
+        "02:04:53.552000",
+        "02:04:57.682000",
+        "A great warrior who can't even act like a coward is called as Samurai."
+      ],
+      [
+        1390,
+        "02:10:26.385000",
+        "02:10:28.785000",
+        "You're a Samurai."
+      ]
+    ],
+    "regex": "\\b((?!\\bSamurai:)Samurai)(?!\\:)(?!'t)\\b",
+    "runtime": 176,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

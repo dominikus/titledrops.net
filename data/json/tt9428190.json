@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt9428190",
+    "title": "Norm of the North: King Sized Adventure",
+    "year": 2019,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1320,
+    "occurrences": [
+      [
+        195,
+        "00:12:40.057000",
+        "00:12:43.194000",
+        "You must be Norm of the North."
+      ],
+      [
+        198,
+        "00:12:47.065000",
+        "00:12:49.635000",
+        "But I'm now King Norm of the North."
+      ]
+    ],
+    "regex": "\\b((?!\\bNorm\\ of\\ the\\ North:)Norm\\ of\\ the\\ North|(?!\\bKing\\ Sized\\ Adventure:)King\\ Sized\\ Adventure)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

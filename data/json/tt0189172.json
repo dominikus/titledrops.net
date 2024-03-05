@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0189172",
+    "title": "The Specialist",
+    "year": 1999,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1750,
+    "occurrences": [
+      [
+        134,
+        "00:12:16.435000",
+        "00:12:18.232000",
+        "a qualified specialist?"
+      ],
+      [
+        140,
+        "00:12:39.325000",
+        "00:12:40.451000",
+        "\"the specialist\"?"
+      ],
+      [
+        149,
+        "00:13:16.428000",
+        "00:13:19.056000",
+        "and defines you as a qualified specialist."
+      ],
+      [
+        162,
+        "00:13:53.065000",
+        "00:13:55.124000",
+        "as specialist in this field."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpecialist:)Specialist)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

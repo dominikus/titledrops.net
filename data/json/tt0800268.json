@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0800268",
+    "title": "Wieners",
+    "year": 2008,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1360,
+    "occurrences": [
+      [
+        133,
+        "00:07:11.947000",
+        "00:07:15.940000",
+        "...to distribute wieners across these, as you put it, great Estados Unidos..."
+      ],
+      [
+        268,
+        "00:14:26.987000",
+        "00:14:29.262000",
+        "- Wieners. - Wieners."
+      ],
+      [
+        606,
+        "00:37:45.307000",
+        "00:37:48.140000",
+        "Don't forget. Wyatt's Wieners, you can't beat them."
+      ],
+      [
+        1245,
+        "01:20:06.107000",
+        "01:20:08.416000",
+        "I wanna finance Wyatt's Wieners."
+      ]
+    ],
+    "regex": "\\b((?!\\bWieners:)Wieners)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

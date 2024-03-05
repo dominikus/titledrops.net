@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1073143",
+    "title": "The Search for Weng Weng",
+    "year": 2007,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1097,
+    "occurrences": [
+      [
+        4,
+        "00:04:55.407000",
+        "00:05:03.387000",
+        "The search for Weng Weng"
+      ],
+      [
+        162,
+        "00:17:19.840000",
+        "00:17:23.119000",
+        "You know the reason I came to Manila is the search for Weng Weng."
+      ]
+    ],
+    "regex": "\\b((?!\\bSearch\\ for\\ Weng\\ Weng:)Search\\ for\\ Weng\\ Weng)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

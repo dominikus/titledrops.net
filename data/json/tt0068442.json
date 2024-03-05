@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt0068442",
+    "title": "The Pirate",
+    "year": 1973,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 749,
+    "occurrences": [
+      [
+        3,
+        "00:01:57.451000",
+        "00:01:59.568000",
+        "That's the pirate country over there"
+      ],
+      [
+        75,
+        "00:13:04.367000",
+        "00:13:08.327000",
+        "once a pirate is caught, he must be executed right away"
+      ],
+      [
+        114,
+        "00:17:17.495000",
+        "00:17:19.737000",
+        "Since you say such a thing, you are a pirate"
+      ],
+      [
+        124,
+        "00:18:06.961000",
+        "00:18:10.875000",
+        "Rubbish, if not a pirate, how do you have foreign money"
+      ],
+      [
+        125,
+        "00:18:11.173000",
+        "00:18:12.880000",
+        "You are the pirate"
+      ],
+      [
+        539,
+        "00:59:22.476000",
+        "00:59:25.389000",
+        "Is he a pirate?"
+      ],
+      [
+        709,
+        "01:29:25.861000",
+        "01:29:30.276000",
+        "I am a pirate, you are a general"
+      ]
+    ],
+    "regex": "\\b((?!\\bPirate:)Pirate)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

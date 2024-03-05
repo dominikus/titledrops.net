@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1597028",
+    "title": "Blue Gold: American Jeans",
+    "year": 2014,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "count": 5,
+    "all_lines": 1912,
+    "occurrences": [
+      [
+        597,
+        "00:32:11.163000",
+        "00:32:14.200000",
+        "THE BLUE GOLD.\""
+      ],
+      [
+        669,
+        "00:36:12.704000",
+        "00:36:14.806000",
+        "-WHAT'S THE MATTER WITH AMERICAN JEANS? -I DON'T LIKE THEM."
+      ],
+      [
+        1293,
+        "01:07:01.718000",
+        "01:07:05.122000",
+        "SO THE BLUE GOLD FOR THE JEANS"
+      ],
+      [
+        1294,
+        "01:07:05.155000",
+        "01:07:08.458000",
+        "WAS BLUE GOLD EVEN BEFORE JEANS."
+      ],
+      [
+        1303,
+        "01:07:38.288000",
+        "01:07:41.225000",
+        "A DYE THAT WAS KNOWN FOR CENTURIES AS BLUE GOLD."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Gold:)Blue\\ Gold|(?!\\bAmerican\\ Jeans:)American\\ Jeans)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

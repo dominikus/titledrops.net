@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0375104",
+    "title": "Bobby Jones: Stroke of Genius",
+    "year": 2004,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 492,
+    "occurrences": [
+      [
+        1,
+        "00:03:18.239000",
+        "00:03:21.037000",
+        "ls that really you, Bobby Jones?"
+      ],
+      [
+        179,
+        "00:24:02.482000",
+        "00:24:07.078000",
+        "I'm going on record. Bobby Jones is destined for greatness."
+      ],
+      [
+        184,
+        "00:24:28.508000",
+        "00:24:30.476000",
+        "is Mr. Bobby Jones."
+      ],
+      [
+        217,
+        "00:28:09.229000",
+        "00:28:10.662000",
+        "Bobby Jones."
+      ],
+      [
+        409,
+        "00:49:41.186000",
+        "00:49:43.814000",
+        "That was Bobby Jones on the telephone?"
+      ],
+      [
+        465,
+        "00:54:12.957000",
+        "00:54:14.584000",
+        "Bobby Jones!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBobby\\ Jones:)Bobby\\ Jones|(?!\\bStroke\\ of\\ Genius:)Stroke\\ of\\ Genius)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

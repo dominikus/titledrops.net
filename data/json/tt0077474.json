@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt0077474",
+    "title": "The Driver",
+    "year": 1978,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 508,
+    "occurrences": [
+      [
+        111,
+        "00:24:59.206000",
+        "00:25:04.211000",
+        "You're gonna hire a new driver, that's all. A good one."
+      ],
+      [
+        221,
+        "00:35:53.401000",
+        "00:35:55.487000",
+        "You already have a driver."
+      ],
+      [
+        334,
+        "00:48:39.041000",
+        "00:48:41.001000",
+        "How about it, driver?"
+      ],
+      [
+        503,
+        "01:29:05.715000",
+        "01:29:07.551000",
+        "Driver?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDriver:)Driver)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [
+      "The Driver"
+    ],
+    "title_is_name": true,
+    "rating": 7.1
+  }
+]

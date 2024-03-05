@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3845670",
+    "title": "Seoul Station",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Animation",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 856,
+    "occurrences": [
+      [
+        110,
+        "00:08:20",
+        "00:08:23.290000",
+        "F/19, approaching Seoul Station"
+      ],
+      [
+        209,
+        "00:14:08.870000",
+        "00:14:10.910000",
+        "Pharmacy of Seoul Station"
+      ]
+    ],
+    "regex": "\\b((?!\\bSeoul\\ Station:)Seoul\\ Station)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

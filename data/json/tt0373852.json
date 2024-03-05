@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0373852",
+    "title": "Owl",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1285,
+    "occurrences": [
+      [
+        20,
+        "00:03:59.640000",
+        "00:04:02.510000",
+        "The owl hoots."
+      ],
+      [
+        108,
+        "00:14:51.400000",
+        "00:14:53.400000",
+        "Seems like an owl."
+      ],
+      [
+        109,
+        "00:14:54.680000",
+        "00:14:56.980000",
+        "Yes, an owl."
+      ],
+      [
+        112,
+        "00:15:02.480000",
+        "00:15:04.360000",
+        "And what kind of owl?"
+      ]
+    ],
+    "regex": "\\b((?!\\bOwl:)Owl)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

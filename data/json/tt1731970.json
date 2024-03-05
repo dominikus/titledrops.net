@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1731970",
+    "title": "Excuse Me",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 702,
+    "occurrences": [
+      [
+        59,
+        "00:05:59.400000",
+        "00:06:01.277000",
+        "Excuse me ..."
+      ],
+      [
+        130,
+        "00:12:52.480000",
+        "00:12:57.508000",
+        "Hi, excuse me ... It's my dog."
+      ]
+    ],
+    "regex": "\\b((?!\\bExcuse\\ Me:)Excuse\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

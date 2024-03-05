@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0315327",
+    "title": "Bruce Almighty",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1189,
+    "occurrences": [
+      [
+        542,
+        "00:39:22.687000",
+        "00:39:24.996000",
+        "I am Bruce Almighty."
+      ],
+      [
+        988,
+        "01:14:15.927000",
+        "01:14:18.395000",
+        "Well, hello there, Bruce Almighty."
+      ]
+    ],
+    "regex": "\\b((?!\\bBruce\\ Almighty:)Bruce\\ Almighty)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

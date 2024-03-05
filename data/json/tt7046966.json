@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt7046966",
+    "title": "The Waiting",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Romance"
+    ],
+    "count": 7,
+    "all_lines": 1128,
+    "occurrences": [
+      [
+        483,
+        "00:33:21.235000",
+        "00:33:22.637000",
+        "Who are you waiting on?"
+      ],
+      [
+        485,
+        "00:33:24.839000",
+        "00:33:27.407000",
+        "Yeah, I'm just... Just waiting on someone."
+      ],
+      [
+        503,
+        "00:34:07.882000",
+        "00:34:10.618000",
+        "She was waiting for some married man to run off with her."
+      ],
+      [
+        526,
+        "00:36:10.470000",
+        "00:36:13.541000",
+        "So she's still waiting and that's the tragic part."
+      ],
+      [
+        947,
+        "01:04:50.023000",
+        "01:04:52.192000",
+        "There's no more waiting. And everyone..."
+      ],
+      [
+        1038,
+        "01:10:18.786000",
+        "01:10:20.688000",
+        "I've been waiting for 15 years."
+      ],
+      [
+        1125,
+        "01:17:44.398000",
+        "01:17:45.966000",
+        "The waiting."
+      ]
+    ],
+    "regex": "\\b((?!\\bWaiting:)Waiting)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

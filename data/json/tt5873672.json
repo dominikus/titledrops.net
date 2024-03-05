@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5873672",
+    "title": "The Student",
+    "year": 2017,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1125,
+    "occurrences": [
+      [
+        461,
+        "00:30:19.018000",
+        "00:30:21.419000",
+        "Hey, can you pull up McDeere's grades on a particular student?"
+      ],
+      [
+        530,
+        "00:35:14.313000",
+        "00:35:17.816000",
+        "The student that I was telling you about last night..."
+      ]
+    ],
+    "regex": "\\b((?!\\bStudent:)Student)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

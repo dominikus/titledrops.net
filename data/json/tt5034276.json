@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt5034276",
+    "title": "The Phone",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 1142,
+    "occurrences": [
+      [
+        150,
+        "00:11:41.801000",
+        "00:11:44.805000",
+        "Did you have phone problems since yesterday?"
+      ],
+      [
+        311,
+        "00:25:22.821000",
+        "00:25:25.563000",
+        "Cell phone calls may be interrupted,"
+      ],
+      [
+        609,
+        "00:51:58.482000",
+        "00:52:00.257000",
+        "wanted to charge his cell phone."
+      ],
+      [
+        613,
+        "00:52:08.825000",
+        "00:52:11.806000",
+        "A murder suspect walks in and asks to charge his phone?"
+      ],
+      [
+        937,
+        "01:21:12.667000",
+        "01:21:17.946000",
+        "The thing about this phone is, the police locked it up,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPhone:)Phone)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

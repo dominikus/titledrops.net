@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt4365506",
+    "title": "Open Tee Bioscope",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1305,
+    "occurrences": [
+      [
+        5,
+        "00:02:43.730000",
+        "00:02:47.166000",
+        "''Open tee bioscope..''"
+      ],
+      [
+        6,
+        "00:02:51.070000",
+        "00:02:54.471000",
+        "''Open tee bioscope..''"
+      ],
+      [
+        236,
+        "00:24:37.943000",
+        "00:24:39.774000",
+        "Open tee bioscope"
+      ],
+      [
+        1237,
+        "02:08:54.660000",
+        "02:08:56.127000",
+        "Open tee bioscope"
+      ]
+    ],
+    "regex": "\\b((?!\\bOpen\\ Tee\\ Bioscope:)Open\\ Tee\\ Bioscope)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

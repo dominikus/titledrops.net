@@ -1,0 +1,46 @@
+[
+  {
+    "imdb": "tt0110689",
+    "title": "Nostradamus",
+    "year": 1994,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1052,
+    "occurrences": [
+      [
+        221,
+        "00:20:36.943000",
+        "00:20:40.015000",
+        "Dr. Scalinger? Dr. Nostradamus."
+      ],
+      [
+        229,
+        "00:21:03.463000",
+        "00:21:07.217000",
+        "This is Dr. Nostradamus. He is here at last."
+      ],
+      [
+        479,
+        "00:43:29.543000",
+        "00:43:30.771000",
+        "Where is Nostradamus?"
+      ],
+      [
+        907,
+        "01:32:23.983000",
+        "01:32:26.451000",
+        "Doctor Nostradamus, so good to see you, sir."
+      ]
+    ],
+    "regex": "\\b((?!\\bNostradamus:)Nostradamus)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [
+      "Nostradamus"
+    ],
+    "title_is_name": true,
+    "rating": 5.8
+  }
+]

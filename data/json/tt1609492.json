@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1609492",
+    "title": "Superclásico",
+    "year": 2011,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 899,
+    "occurrences": [
+      [
+        74,
+        "00:06:39.270000",
+        "00:06:44.109000",
+        "With what? - An interview. And with the Superclasico."
+      ],
+      [
+        94,
+        "00:08:16.960000",
+        "00:08:20.423000",
+        "Football? - The Superclasico."
+      ],
+      [
+        169,
+        "00:15:00.544000",
+        "00:15:04.389000",
+        "The Superclasico. About an hour. - Oh, the big game?"
+      ],
+      [
+        252,
+        "00:23:49.197000",
+        "00:23:52.692000",
+        "Juan Diaz scored two goals in the Superclasico."
+      ]
+    ],
+    "regex": "\\b((?!\\bSuperclasico:)Superclasico)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

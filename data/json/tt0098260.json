@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0098260",
+    "title": "Scandal",
+    "year": 1989,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 1069,
+    "occurrences": [
+      [
+        79,
+        "00:10:09.208000",
+        "00:10:12.336000",
+        "And the bathroom is a scandal."
+      ],
+      [
+        835,
+        "01:28:34.942000",
+        "01:28:40.107000",
+        "A scandal can arise in one party and it can arise in another."
+      ],
+      [
+        836,
+        "01:28:40.315000",
+        "01:28:44.217000",
+        "Let's recognise it for what it is. A scandal."
+      ]
+    ],
+    "regex": "\\b((?!\\bScandal:)Scandal)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

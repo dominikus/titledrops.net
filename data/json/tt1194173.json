@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1194173",
+    "title": "The Bourne Legacy",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 32,
+    "occurrences": [
+      [
+        0,
+        "00:00:00.440000",
+        "00:00:05.536000",
+        "The Bourne Legacy (2012) Trailer 2"
+      ],
+      [
+        30,
+        "00:02:36.613000",
+        "00:02:37.575000",
+        "The Bourne Legacy"
+      ],
+      [
+        32,
+        "00:02:38.577000",
+        "00:02:39.577000",
+        "The Bourne Legacy Official Trailer #2"
+      ]
+    ],
+    "regex": "\\b((?!\\bBourne\\ Legacy:)Bourne\\ Legacy)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt5610554",
+    "title": "Tully",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1840,
+    "occurrences": [
+      [
+        658,
+        "00:31:28.204000",
+        "00:31:29.807000",
+        "I'm Tully."
+      ],
+      [
+        740,
+        "00:35:42.025000",
+        "00:35:43.691000",
+        "- Tully. - What?"
+      ],
+      [
+        1380,
+        "01:07:10.844000",
+        "01:07:13.045000",
+        "Tully, take the night off."
+      ],
+      [
+        1716,
+        "01:22:59.659000",
+        "01:23:01.558000",
+        "So I think... Uh, Tully."
+      ]
+    ],
+    "regex": "\\b((?!\\bTully:)Tully)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [
+      "Tully"
+    ],
+    "title_is_name": true,
+    "rating": 6.9
+  }
+]

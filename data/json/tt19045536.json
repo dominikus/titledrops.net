@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt19045536",
+    "title": "Moonlight Butterfly",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1548,
+    "occurrences": [
+      [
+        68,
+        "00:04:08.349000",
+        "00:04:09.861000",
+        "A moonlight butterfly?"
+      ],
+      [
+        104,
+        "00:10:23.609000",
+        "00:10:25.237000",
+        "Moonlight butterfly."
+      ],
+      [
+        725,
+        "00:42:47.470000",
+        "00:42:48.721000",
+        "my moonlight butterfly."
+      ],
+      [
+        1132,
+        "01:13:11.961000",
+        "01:13:13.505000",
+        "my moonlight butterfly."
+      ]
+    ],
+    "regex": "\\b((?!\\bMoonlight\\ Butterfly:)Moonlight\\ Butterfly)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt10187378",
+    "title": "Lamb of God",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 922,
+    "occurrences": [
+      [
+        311,
+        "00:36:39.922000",
+        "00:36:44.427000",
+        "'Lamb of God, Lamb of God'..."
+      ],
+      [
+        364,
+        "00:41:30.613000",
+        "00:41:35.619000",
+        "Lamb of God, that takes away the sins of the world"
+      ],
+      [
+        397,
+        "00:45:59.088000",
+        "00:46:03.293000",
+        "'Lamb of God, that takes away the sins of the world'"
+      ]
+    ],
+    "regex": "\\b((?!\\bLamb\\ of\\ God:)Lamb\\ of\\ God)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

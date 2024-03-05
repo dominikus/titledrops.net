@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt12372438",
+    "title": "The Hit",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 2591,
+    "occurrences": [
+      [
+        647,
+        "00:27:37.985000",
+        "00:27:40.779000",
+        "You know, hit me up if you wanna play some golf sometime."
+      ],
+      [
+        718,
+        "00:30:57.568000",
+        "00:30:59.184000",
+        "- Hit it!"
+      ],
+      [
+        847,
+        "00:36:28.769000",
+        "00:36:30.293000",
+        "I can't get hit again!"
+      ],
+      [
+        2400,
+        "01:36:31.073000",
+        "01:36:32.723000",
+        "You gonna hit me?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHit:)Hit)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

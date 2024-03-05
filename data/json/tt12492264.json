@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt12492264",
+    "title": "Open Your Eyes",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1122,
+    "occurrences": [
+      [
+        864,
+        "01:11:02.755000",
+        "01:11:04.522000",
+        "It's time to open your eyes."
+      ],
+      [
+        898,
+        "01:16:11.063000",
+        "01:16:16.035000",
+        "It's time to open your eyes."
+      ]
+    ],
+    "regex": "\\b((?!\\bOpen\\ Your\\ Eyes:)Open\\ Your\\ Eyes)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

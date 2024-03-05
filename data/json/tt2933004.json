@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2933004",
+    "title": "Panama",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 701,
+    "occurrences": [
+      [
+        677,
+        "01:26:33",
+        "01:26:35.674000",
+        "He said Maja moved to Panama."
+      ],
+      [
+        678,
+        "01:26:40.667000",
+        "01:26:43.339000",
+        "- Panama? - Yes"
+      ],
+      [
+        679,
+        "01:26:47.083000",
+        "01:26:50.417000",
+        "Wait a minute, what she does in Panama ?"
+      ],
+      [
+        680,
+        "01:26:51.875000",
+        "01:26:53.877000",
+        "Who you are in Panama?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPanama:)Panama)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

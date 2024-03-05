@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt6593054",
+    "title": "Drive",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1220,
+    "occurrences": [
+      [
+        2,
+        "00:01:25",
+        "00:01:27.666000",
+        "Hey guys, welcome to Big Boy Toyz: Drive Nights."
+      ],
+      [
+        243,
+        "00:21:58.916000",
+        "00:22:03.166000",
+        "I heard that you drive these toys fast and call it racing,"
+      ],
+      [
+        487,
+        "00:42:02.416000",
+        "00:42:04",
+        "However fast they drive today,"
+      ]
+    ],
+    "regex": "\\b((?!\\bDrive:)Drive)(?!\\:)(?!'t)\\b",
+    "runtime": 147,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

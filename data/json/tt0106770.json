@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0106770",
+    "title": "Dragon: The Bruce Lee Story",
+    "year": 1993,
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1341,
+    "occurrences": [
+      [
+        1193,
+        "01:43:18.188000",
+        "01:43:20.689000",
+        "It's called Enter the Dragon. We're gonna shoot it here..."
+      ],
+      [
+        1253,
+        "01:46:52.861000",
+        "01:46:54.862000",
+        " Weintraub's script is called Enter the Dragon."
+      ],
+      [
+        1334,
+        "01:56:00.788000",
+        "01:56:02.580000",
+        "of Enter the Dragon,"
+      ]
+    ],
+    "regex": "\\b((?!\\bDragon:)Dragon|(?!\\bBruce\\ Lee\\ Story:)Bruce\\ Lee\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

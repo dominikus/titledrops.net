@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt3245656",
+    "title": "Hangar 10",
+    "year": 2014,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 1,
+    "all_lines": 688,
+    "occurrences": [
+      [
+        640,
+        "01:10:52.253000",
+        "01:10:55.513000",
+        "- He's in hangar 10. - How do you get there?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHangar:)Hangar)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

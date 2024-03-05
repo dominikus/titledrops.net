@@ -1,0 +1,59 @@
+[
+  {
+    "imdb": "tt17308130",
+    "title": "Coma",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 933,
+    "occurrences": [
+      [
+        55,
+        "00:05:44.320000",
+        "00:05:48.920000",
+        "Hello and welcome to my channel, Patricia Coma's channel."
+      ],
+      [
+        63,
+        "00:06:09.200000",
+        "00:06:11.600000",
+        "The weather with Patricia Coma"
+      ],
+      [
+        120,
+        "00:10:18.560000",
+        "00:10:20.040000",
+        "Patricia Coma's channel,"
+      ],
+      [
+        853,
+        "01:06:13.720000",
+        "01:06:15.720000",
+        "The weather with Patricia Coma"
+      ],
+      [
+        865,
+        "01:06:52.880000",
+        "01:06:56.840000",
+        "Hello and welcome to my channel, Patricia Coma's channel."
+      ],
+      [
+        867,
+        "01:07:01.240000",
+        "01:07:06",
+        "Coma comes from the Greek, koma, which means \"deep sleep\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bComa:)Coma)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [
+      "Patricia Coma"
+    ],
+    "title_is_name": true,
+    "rating": 6.2
+  }
+]

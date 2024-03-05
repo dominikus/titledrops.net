@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4964788",
+    "title": "Everybody Knows",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1346,
+    "occurrences": [
+      [
+        241,
+        "00:20:33.066000",
+        "00:20:34.902000",
+        "Everybody knows."
+      ],
+      [
+        1169,
+        "01:41:00.347000",
+        "01:41:01.849000",
+        "everybody knows."
+      ]
+    ],
+    "regex": "\\b((?!\\bEverybody\\ Knows:)Everybody\\ Knows)(?!\\:)(?!'t)\\b",
+    "runtime": 133,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

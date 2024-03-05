@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1641841",
+    "title": "Skin Trade",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 517,
+    "occurrences": [
+      [
+        78,
+        "00:09:54.661000",
+        "00:09:57.128000",
+        "The skin trade's worth billions of dollars."
+      ],
+      [
+        449,
+        "01:15:04.833000",
+        "01:15:07.235000",
+        "You think you two gonna stop the skin trade"
+      ]
+    ],
+    "regex": "\\b((?!\\bSkin\\ Trade:)Skin\\ Trade)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

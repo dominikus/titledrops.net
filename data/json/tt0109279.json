@@ -1,0 +1,42 @@
+[
+  {
+    "imdb": "tt0109279",
+    "title": "Black Beauty",
+    "year": 1994,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 714,
+    "occurrences": [
+      [
+        86,
+        "00:12:51.191000",
+        "00:12:53.026000",
+        "Black Beauty."
+      ],
+      [
+        221,
+        "00:28:53.361000",
+        "00:28:56.615000",
+        "Uncle John! Come and see Black Beauty!"
+      ],
+      [
+        700,
+        "01:22:41.548000",
+        "01:22:43.300000",
+        "Black Beauty."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Beauty:)Black\\ Beauty)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [
+      "Black Beauty",
+      "Black Beauty"
+    ],
+    "title_is_name": true,
+    "rating": 6.6
+  }
+]

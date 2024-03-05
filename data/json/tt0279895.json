@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0279895",
+    "title": "My Best Friend",
+    "year": 2001,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1146,
+    "occurrences": [
+      [
+        85,
+        "00:10:10.860000",
+        "00:10:12.612000",
+        "He was my best friend."
+      ],
+      [
+        215,
+        "00:20:27.060000",
+        "00:20:29.813000",
+        "and that my best friend is screwing my wife."
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Best\\ Friend:)My\\ Best\\ Friend)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

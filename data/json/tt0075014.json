@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0075014",
+    "title": "Dragonfly",
+    "year": 1976,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1306,
+    "occurrences": [
+      [
+        27,
+        "00:05:02.911000",
+        "00:05:04.391000",
+        "I've got to find the dragonfly."
+      ],
+      [
+        28,
+        "00:05:05.522000",
+        "00:05:07.698000",
+        "There isn't any dragonfly."
+      ],
+      [
+        592,
+        "00:38:02.671000",
+        "00:38:04.325000",
+        "The dragonfly."
+      ],
+      [
+        1234,
+        "01:31:34.358000",
+        "01:31:35.751000",
+        "But I call it \"The Dragonfly.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bDragonfly:)Dragonfly)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

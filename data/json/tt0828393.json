@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0828393",
+    "title": "Garden Party",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1059,
+    "occurrences": [
+      [
+        106,
+        "00:10:29.545000",
+        "00:10:31.877000",
+        "I went to a garden party"
+      ],
+      [
+        390,
+        "00:31:08.516000",
+        "00:31:11.041000",
+        "I went to a garden party"
+      ],
+      [
+        394,
+        "00:31:21.396000",
+        "00:31:25.059000",
+        "When I got to the garden party"
+      ]
+    ],
+    "regex": "\\b((?!\\bGarden\\ Party:)Garden\\ Party)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1686821",
+    "title": "Vampire Academy",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1812,
+    "occurrences": [
+      [
+        156,
+        "00:09:56.520000",
+        "00:09:59.159000",
+        "Damn, back to Vampire Academy."
+      ],
+      [
+        157,
+        "00:09:59.160000",
+        "00:10:02.279000",
+        "Please don't say Vampire Academy. You know how I feel about the \"V\" word."
+      ],
+      [
+        621,
+        "00:32:16.680000",
+        "00:32:18.359000",
+        "off the Vampire Academy front page."
+      ],
+      [
+        622,
+        "00:32:18.360000",
+        "00:32:19.599000",
+        "Please don't say \"Vampire Academy.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bVampire\\ Academy:)Vampire\\ Academy)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

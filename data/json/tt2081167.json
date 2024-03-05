@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2081167",
+    "title": "Amazing Love",
+    "year": 2012,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1438,
+    "occurrences": [
+      [
+        1334,
+        "01:07:11.984000",
+        "01:07:14.160000",
+        "I call it \"Amazing Love\"."
+      ],
+      [
+        1336,
+        "01:07:20.471000",
+        "01:07:23.126000",
+        "It's a picture of God's amazing love for us."
+      ]
+    ],
+    "regex": "\\b((?!\\bAmazing\\ Love:)Amazing\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

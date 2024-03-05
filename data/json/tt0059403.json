@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0059403",
+    "title": "Love Has Many Faces",
+    "year": 1965,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1274,
+    "occurrences": [
+      [
+        3,
+        "00:00:55.946000",
+        "00:01:00.517000",
+        "I said, \"Love has many faces"
+      ],
+      [
+        9,
+        "00:01:27.010000",
+        "00:01:33.550000",
+        "\"Remember love has many faces\""
+      ]
+    ],
+    "regex": "\\b((?!\\bLove\\ Has\\ Many\\ Faces:)Love\\ Has\\ Many\\ Faces)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

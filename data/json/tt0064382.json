@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0064382",
+    "title": "Goodbye, Mr. Chips",
+    "year": 1969,
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 2166,
+    "occurrences": [
+      [
+        398,
+        "00:29:07.063000",
+        "00:29:08.508000",
+        "Goodbye, Mr. Chips."
+      ],
+      [
+        2122,
+        "02:28:51.400000",
+        "02:28:53.812000",
+        "- Goodbye, boy. -Goodbye, Mr. Chips."
+      ]
+    ],
+    "regex": "\\b((?!\\bGoodbye,\\ Mr\\.\\ Chips:)Goodbye,\\ Mr\\.\\ Chips)(?!\\:)(?!'t)\\b",
+    "runtime": 155,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

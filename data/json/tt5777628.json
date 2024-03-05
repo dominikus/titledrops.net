@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5777628",
+    "title": "One More Time with Feeling",
+    "year": 2016,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 1405,
+    "occurrences": [
+      [
+        650,
+        "00:46:52.928000",
+        "00:46:56.762000",
+        "* And one more time With feeling"
+      ],
+      [
+        660,
+        "00:47:57.493000",
+        "00:48:03.228000",
+        "* I move, you move And one more time with feeling"
+      ],
+      [
+        671,
+        "00:49:32.288000",
+        "00:49:37.293000",
+        "* I move, you move, you move One more time with feeling"
+      ]
+    ],
+    "regex": "\\b((?!\\bOne\\ More\\ Time\\ with\\ Feeling:)One\\ More\\ Time\\ with\\ Feeling)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.2
+  }
+]

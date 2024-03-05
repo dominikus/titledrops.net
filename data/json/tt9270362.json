@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt9270362",
+    "title": "The Amusement Park",
+    "year": 1975,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 598,
+    "occurrences": [
+      [
+        44,
+        "00:02:52.041000",
+        "00:02:54.459000",
+        "The amusement park which you are about to visit"
+      ],
+      [
+        454,
+        "00:39:47.954000",
+        "00:39:49.331000",
+        "Round an amusement park."
+      ],
+      [
+        577,
+        "00:50:45.549000",
+        "00:50:47.969000",
+        "and you will step into the amusement park."
+      ],
+      [
+        585,
+        "00:51:09.950000",
+        "00:51:13.202000",
+        "consider now that the man in the amusement park"
+      ],
+      [
+        590,
+        "00:51:24.589000",
+        "00:51:27.676000",
+        "It should be obvious to all of you that the amusement park"
+      ]
+    ],
+    "regex": "\\b((?!\\bAmusement\\ Park:)Amusement\\ Park)(?!\\:)(?!'t)\\b",
+    "runtime": 54,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

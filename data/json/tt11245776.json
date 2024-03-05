@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt11245776",
+    "title": "Skin: A History of Nudity in the Movies",
+    "year": 2020,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 2821,
+    "occurrences": [
+      [
+        191,
+        "00:09:58.064000",
+        "00:10:02.194000",
+        "And they said, \"Maybe we could show skin.\""
+      ],
+      [
+        2239,
+        "01:44:08.976000",
+        "01:44:12.002000",
+        "that sort of was comfortable in her own skin and everything."
+      ]
+    ],
+    "regex": "\\b((?!\\bSkin:)Skin|(?!\\bHistory\\ of\\ Nudity\\ in\\ the\\ Movies:)History\\ of\\ Nudity\\ in\\ the\\ Movies)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0366174",
+    "title": "Anacondas: The Hunt for the Blood Orchid",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1011,
+    "occurrences": [
+      [
+        500,
+        "00:43:08.185000",
+        "00:43:10.619000",
+        "Listen. Anacondas are territorial."
+      ],
+      [
+        552,
+        "00:46:25.282000",
+        "00:46:28.376000",
+        "I saw this special on Animal Planet. Anacondas are vicious."
+      ],
+      [
+        703,
+        "01:00:04.067000",
+        "01:00:06.763000",
+        "Anacondas keep growing till they die, right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAnacondas:)Anacondas|(?!\\bHunt\\ for\\ the\\ Blood\\ Orchid:)Hunt\\ for\\ the\\ Blood\\ Orchid)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

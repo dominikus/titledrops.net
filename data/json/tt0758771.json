@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0758771",
+    "title": "Outlaw",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 801,
+    "occurrences": [
+      [
+        560,
+        "01:03:59.806000",
+        "01:04:01.881000",
+        "'said to be provoked by the outlaw gang.'"
+      ],
+      [
+        663,
+        "01:15:47.009000",
+        "01:15:52.848000",
+        "'although they say, without a doubt, this has the stamp of the Outlaw gang.'"
+      ]
+    ],
+    "regex": "\\b((?!\\bOutlaw:)Outlaw)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

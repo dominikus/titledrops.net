@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt15482370",
+    "title": "Missing",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 928,
+    "occurrences": [
+      [
+        134,
+        "00:15:02.528000",
+        "00:15:07.282000",
+        "There are only so many scenarios for missing adults..."
+      ],
+      [
+        135,
+        "00:15:10.118000",
+        "00:15:14.957000",
+        "Samples for missing person fliers are in the hall."
+      ],
+      [
+        922,
+        "02:03:02.841000",
+        "02:03:05.969000",
+        "\"Missing\" Film Partners Asmik Ace, Inc. DOKUSO Theater Inc. NK Contents"
+      ],
+      [
+        928,
+        "02:03:28.200000",
+        "02:03:31.078000",
+        "(c) 2022 \"Missing\" Film Partners"
+      ]
+    ],
+    "regex": "\\b((?!\\bMissing:)Missing)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

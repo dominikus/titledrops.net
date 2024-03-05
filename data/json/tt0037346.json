@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0037346",
+    "title": "Tampico",
+    "year": 1944,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 4,
+    "all_lines": 902,
+    "occurrences": [
+      [
+        30,
+        "00:02:32.280000",
+        "00:02:34.790000",
+        "Just my luck. This time tomorrow we might have been in Tampico."
+      ],
+      [
+        250,
+        "00:18:47.640000",
+        "00:18:49.669000",
+        "Do you know anybody in Tampico?"
+      ],
+      [
+        306,
+        "00:21:27.120000",
+        "00:21:29.510000",
+        "What are your plans in Tampico?"
+      ],
+      [
+        732,
+        "01:00:02.119000",
+        "01:00:05.280000",
+        "At day break, a convoy of 20 tankers will leave Tampico."
+      ]
+    ],
+    "regex": "\\b((?!\\bTampico:)Tampico)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

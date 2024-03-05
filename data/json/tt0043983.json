@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0043983",
+    "title": "Royal Wedding",
+    "year": 1951,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1286,
+    "occurrences": [
+      [
+        60,
+        "00:07:33.480000",
+        "00:07:35.914000",
+        "(Radio) News overseas concerns the Royal Wedding in London."
+      ],
+      [
+        237,
+        "00:15:09.920000",
+        "00:15:11.194000",
+        "- The Royal Wedding? - Yeah."
+      ],
+      [
+        929,
+        "01:02:56.880000",
+        "01:02:58.632000",
+        "It's funny, if it wasn't for this Royal Wedding,"
+      ],
+      [
+        1060,
+        "01:14:07.400000",
+        "01:14:09.231000",
+        "- What's tomorrow? - Why the Royal Wedding."
+      ]
+    ],
+    "regex": "\\b((?!\\bRoyal\\ Wedding:)Royal\\ Wedding)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

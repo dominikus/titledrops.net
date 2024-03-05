@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0037563",
+    "title": "The Bullfighters",
+    "year": 1945,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 639,
+    "occurrences": [
+      [
+        95,
+        "00:10:50.533000",
+        "00:10:52.649000",
+        "...at the Cafe of the Bullfighters..."
+      ],
+      [
+        315,
+        "00:26:50.133000",
+        "00:26:53.170000",
+        "...and attire you in the costume usually worn by bullfighters."
+      ]
+    ],
+    "regex": "\\b((?!\\bBullfighters:)Bullfighters)(?!\\:)(?!'t)\\b",
+    "runtime": 61,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0144782",
+    "title": "The Red Light Bandit",
+    "year": 1968,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 862,
+    "occurrences": [
+      [
+        162,
+        "00:18:27.612000",
+        "00:18:33.380000",
+        "The poIice continues its chase for the Red Light Bandit..."
+      ],
+      [
+        229,
+        "00:26:12.276000",
+        "00:26:15.404000",
+        "was a godson of the Red Light Bandit."
+      ],
+      [
+        332,
+        "00:39:56.333000",
+        "00:39:57.857000",
+        "The Red Light Bandit."
+      ],
+      [
+        571,
+        "01:02:23.012000",
+        "01:02:28.040000",
+        "The Red Light bandit, the popuIar mask man."
+      ]
+    ],
+    "regex": "\\b((?!\\bRed\\ Light\\ Bandit:)Red\\ Light\\ Bandit)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

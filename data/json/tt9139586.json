@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt9139586",
+    "title": "Arkansas",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1834,
+    "occurrences": [
+      [
+        55,
+        "00:03:49.287000",
+        "00:03:50.723000",
+        "You goin' to Arkansas."
+      ],
+      [
+        390,
+        "00:23:17.590000",
+        "00:23:21.692000",
+        "Uh, what, uh, county of Arkansas are you from?"
+      ],
+      [
+        1686,
+        "01:42:18.731000",
+        "01:42:21.834000",
+        "You got ten minutes to pack up and leave Arkansas for good."
+      ],
+      [
+        1766,
+        "01:47:41.821000",
+        "01:47:43.723000",
+        "If Arkansas is what I say it is..."
+      ]
+    ],
+    "regex": "\\b((?!\\bArkansas:)Arkansas)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

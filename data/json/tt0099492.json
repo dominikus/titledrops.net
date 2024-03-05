@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0099492",
+    "title": "The Tenants",
+    "year": 1987,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1570,
+    "occurrences": [
+      [
+        185,
+        "00:12:50.840000",
+        "00:12:53.571000",
+        "The tenants have heard about the heirs."
+      ],
+      [
+        664,
+        "00:48:01.960000",
+        "00:48:06.522000",
+        "Akbar, go tell your dad the tenants have brought workers and they are..."
+      ],
+      [
+        849,
+        "00:59:51.960000",
+        "00:59:55.328000",
+        "We don't need tenants any more."
+      ],
+      [
+        1242,
+        "01:22:46.400000",
+        "01:22:50.769000",
+        "- Didn't the tenants in your house go...? - Where do? They're all here."
+      ]
+    ],
+    "regex": "\\b((?!\\bTenants:)Tenants)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

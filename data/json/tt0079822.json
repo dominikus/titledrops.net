@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0079822",
+    "title": "Roller Boogie",
+    "year": 1979,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 788,
+    "occurrences": [
+      [
+        25,
+        "00:10:30.897000",
+        "00:10:33.992000",
+        "You're looking fantastic for the Roller Boogie contest."
+      ],
+      [
+        286,
+        "00:37:02.387000",
+        "00:37:05.948000",
+        "I wanna win a Roller Boogie contest down at the beach."
+      ],
+      [
+        287,
+        "00:37:06.524000",
+        "00:37:10.324000",
+        "A Roller Boogie contest?"
+      ],
+      [
+        770,
+        "01:37:27.675000",
+        "01:37:30.303000",
+        "the Roller Boogie grand award goes to:"
+      ]
+    ],
+    "regex": "\\b((?!\\bRoller\\ Boogie:)Roller\\ Boogie)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

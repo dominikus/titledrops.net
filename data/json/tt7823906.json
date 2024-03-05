@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7823906",
+    "title": "Politics",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1520,
+    "occurrences": [
+      [
+        156,
+        "00:12:45.457000",
+        "00:12:48",
+        "Polish politics must be different."
+      ],
+      [
+        1443,
+        "02:02:45.917000",
+        "02:02:49.707000",
+        "What he wants to say is that you can't be too honest in politics."
+      ]
+    ],
+    "regex": "\\b((?!\\bPolitics:)Politics)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

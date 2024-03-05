@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0190302",
+    "title": "Children",
+    "year": 1976,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 261,
+    "occurrences": [
+      [
+        0,
+        "00:00:34.228000",
+        "00:00:36.302000",
+        "(Children shouting)"
+      ],
+      [
+        177,
+        "00:30:53.603000",
+        "00:30:55.677000",
+        "(Children hum note)"
+      ],
+      [
+        179,
+        "00:30:58.895000",
+        "00:31:00.969000",
+        "(Children hum note)"
+      ],
+      [
+        181,
+        "00:31:06.978000",
+        "00:31:11.766000",
+        "Children. # Way down upon the Suwannee River"
+      ],
+      [
+        193,
+        "00:32:03.811000",
+        "00:32:06.644000",
+        "Children. I believe in one God"
+      ]
+    ],
+    "regex": "\\b((?!\\bChildren:)Children)(?!\\:)(?!'t)\\b",
+    "runtime": 47,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0051150",
+    "title": "The Vampire",
+    "year": 1957,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1276,
+    "occurrences": [
+      [
+        593,
+        "00:32:59.025000",
+        "00:33:01.569000",
+        "Especially when you consider they were vampire bats."
+      ],
+      [
+        1055,
+        "00:59:09.761000",
+        "00:59:11.554000",
+        "these pills were from vampire bats."
+      ]
+    ],
+    "regex": "\\b((?!\\bVampire:)Vampire)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

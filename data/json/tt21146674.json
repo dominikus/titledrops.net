@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt21146674",
+    "title": "Snake 3",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 7,
+    "all_lines": 800,
+    "occurrences": [
+      [
+        333,
+        "00:30:22.660000",
+        "00:30:23.660000",
+        "Snake."
+      ],
+      [
+        468,
+        "00:44:46.159000",
+        "00:44:47.699000",
+        "What a perfect snake slough."
+      ],
+      [
+        519,
+        "00:53:10.750000",
+        "00:53:12.119000",
+        "Don't we help the snake?"
+      ],
+      [
+        592,
+        "00:57:54.199000",
+        "00:57:56.039000",
+        "Was the giant snake defeated?"
+      ],
+      [
+        594,
+        "00:57:58.250000",
+        "00:57:59.829000",
+        "The snake slough we saw before"
+      ],
+      [
+        653,
+        "01:02:25.159000",
+        "01:02:26.399000",
+        "The giant snake is still alive."
+      ],
+      [
+        772,
+        "01:10:29.869000",
+        "01:10:30.885000",
+        "(Giant snake.)"
+      ]
+    ],
+    "regex": "\\b((?!\\bSnake:)Snake)(?!\\:)(?!'t)\\b",
+    "runtime": 74,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt29867137",
+    "title": "Stavros Halkias: Fat Rascal",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1087,
+    "occurrences": [
+      [
+        11,
+        "00:00:50.050000",
+        "00:00:52.802000",
+        "You fat rascal."
+      ],
+      [
+        13,
+        "00:00:55.221000",
+        "00:00:58.850000",
+        "Without further ado, Stavros Halkias!"
+      ]
+    ],
+    "regex": "\\b((?!\\bStavros\\ Halkias:)Stavros\\ Halkias|(?!\\bFat\\ Rascal:)Fat\\ Rascal)(?!\\:)(?!'t)\\b",
+    "runtime": 55,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt10431572",
+    "title": "Voice of Silence",
+    "year": 2020,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 740,
+    "occurrences": [
+      [
+        9,
+        "00:01:57.745000",
+        "00:02:03.334000",
+        "Voice of Silence"
+      ],
+      [
+        740,
+        "01:35:48.876000",
+        "01:35:56.384000",
+        "Voice of Silence"
+      ]
+    ],
+    "regex": "\\b((?!\\bVoice\\ of\\ Silence:)Voice\\ of\\ Silence)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

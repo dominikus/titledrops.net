@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt11263022",
+    "title": "The Seventh Day",
+    "year": 2021,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1256,
+    "occurrences": [
+      [
+        1162,
+        "01:14:10.596000",
+        "01:14:15.067000",
+        "On the seventh day, God finished his work which he had made;"
+      ],
+      [
+        1163,
+        "01:14:15.100000",
+        "01:14:18.671000",
+        "and he rested on the seventh day from all his work"
+      ]
+    ],
+    "regex": "\\b((?!\\bSeventh\\ Day:)Seventh\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

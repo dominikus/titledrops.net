@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt5339586",
+    "title": "Mike Epps: Don't Take It Personal",
+    "year": 2015,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 842,
+    "occurrences": [
+      [
+        5,
+        "00:01:02.604000",
+        "00:01:06.358000",
+        "Give it up for the baddest man in comedy, Mike Epps!"
+      ],
+      [
+        298,
+        "00:20:30.604000",
+        "00:20:33.357000",
+        "I think, uh, Mike Epps is supposed to be down there."
+      ],
+      [
+        358,
+        "00:24:54.325000",
+        "00:24:56.828000",
+        "Google \"Mike Epps' baby mama\" when you leave here tonight."
+      ],
+      [
+        837,
+        "00:57:15.599000",
+        "00:57:18.101000",
+        "I'm Mike Epps. I love y'all!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMike\\ Epps:)Mike\\ Epps|(?!\\bDon't\\ Take\\ It\\ Personal:)Don't\\ Take\\ It\\ Personal)(?!\\:)(?!'t)\\b",
+    "runtime": 59,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1407049",
+    "title": "Altitude",
+    "year": 2010,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1308,
+    "occurrences": [
+      [
+        472,
+        "00:28:45.990000",
+        "00:28:49.983000",
+        "Altitude unknown, instrument failure, please respond."
+      ],
+      [
+        943,
+        "00:57:03.720000",
+        "00:57:07.019000",
+        "Position and altitude unknown, can anybody read me?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAltitude:)Altitude)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

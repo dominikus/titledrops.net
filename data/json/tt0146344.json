@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0146344",
+    "title": "Rape",
+    "year": 1971,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 760,
+    "occurrences": [
+      [
+        147,
+        "00:20:16.440000",
+        "00:20:20.116000",
+        "Furthermore, you are charged with attempted rape -"
+      ],
+      [
+        170,
+        "00:22:12.960000",
+        "00:22:16.158000",
+        "The rape allegedly took place -"
+      ],
+      [
+        190,
+        "00:23:50.440000",
+        "00:23:53",
+        "- except that on the night of the attempted rape -"
+      ],
+      [
+        332,
+        "00:41:48.200000",
+        "00:41:52.513000",
+        "and attempted to rape Wilhelmine Hansen."
+      ],
+      [
+        395,
+        "00:46:58.960000",
+        "00:47:05.309000",
+        "because of that earlier meeting and not from the attempted rape."
+      ],
+      [
+        542,
+        "01:00:10.160000",
+        "01:00:16.430000",
+        "Mrs. Thoresen, you waited an awfully long time before reporting the rape."
+      ]
+    ],
+    "regex": "\\b((?!\\bRape:)Rape)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt14372240",
+    "title": "The Year Earth Changed",
+    "year": 2021,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 472,
+    "occurrences": [
+      [
+        22,
+        "00:02:43.177000",
+        "00:02:47.473000",
+        "This is the year Earth changed."
+      ],
+      [
+        460,
+        "00:46:14.080000",
+        "00:46:18.417000",
+        "This extraordinary year, the year Earth changed,"
+      ]
+    ],
+    "regex": "\\b((?!\\bYear\\ Earth\\ Changed:)Year\\ Earth\\ Changed)(?!\\:)(?!'t)\\b",
+    "runtime": 48,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.2
+  }
+]

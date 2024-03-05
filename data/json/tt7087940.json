@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt7087940",
+    "title": "Doubtful",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1001,
+    "occurrences": [
+      [
+        2,
+        "00:00:52.850000",
+        "00:00:57.590000",
+        "Doubtful"
+      ],
+      [
+        635,
+        "00:51:05.820000",
+        "00:51:09.030000",
+        "That's why it's doubtful. - I get it. You can't tell until you wake up,"
+      ],
+      [
+        1000,
+        "01:22:40.520000",
+        "01:22:43.690000",
+        "Doubtful"
+      ]
+    ],
+    "regex": "\\b((?!\\bDoubtful:)Doubtful)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

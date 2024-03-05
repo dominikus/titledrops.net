@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2352230",
+    "title": "The Dinner",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1048,
+    "occurrences": [
+      [
+        8,
+        "00:01:37.480000",
+        "00:01:39.599000",
+        "That evening we were asked out to dinner."
+      ],
+      [
+        809,
+        "01:00:30.520000",
+        "01:00:34.279000",
+        "We'll be home in an hour. You had dinner, right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDinner:)Dinner)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

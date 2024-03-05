@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0483577",
+    "title": "The Night Buffalo",
+    "year": 2007,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 640,
+    "occurrences": [
+      [
+        219,
+        "00:32:34.251000",
+        "00:32:36.219000",
+        "The night buffalo dreams of us."
+      ],
+      [
+        267,
+        "00:41:13.237000",
+        "00:41:15.205000",
+        "Now the night buffalo is going to dream of you."
+      ],
+      [
+        268,
+        "00:41:24.248000",
+        "00:41:29.208000",
+        "Now the night buffalo is going to dream of you."
+      ]
+    ],
+    "regex": "\\b((?!\\bNight\\ Buffalo:)Night\\ Buffalo)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

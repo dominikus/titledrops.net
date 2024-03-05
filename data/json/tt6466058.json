@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt6466058",
+    "title": "Ask for Jane",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 2071,
+    "occurrences": [
+      [
+        342,
+        "00:17:25.145000",
+        "00:17:28.913000",
+        "And we can tell them to ask for Jane."
+      ],
+      [
+        1905,
+        "01:37:28.677000",
+        "01:37:30.977000",
+        "and when you call back, you can ask for Jane."
+      ]
+    ],
+    "regex": "\\b((?!\\bAsk\\ for\\ Jane:)Ask\\ for\\ Jane)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

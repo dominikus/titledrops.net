@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0100400",
+    "title": "Farewell to Autumn",
+    "year": 1990,
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 730,
+    "occurrences": [
+      [
+        1,
+        "00:00:23.640000",
+        "00:00:25.384000",
+        "The author of \"Farewell to Autumn\""
+      ],
+      [
+        13,
+        "00:00:55.624000",
+        "00:00:58.957000",
+        "A novel \"Farewell to Autumn\" was written in 1926"
+      ]
+    ],
+    "regex": "\\b((?!\\bFarewell\\ to\\ Autumn:)Farewell\\ to\\ Autumn)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

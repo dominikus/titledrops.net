@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt1784575",
+    "title": "The Parade",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "History"
+    ],
+    "count": 6,
+    "all_lines": 1253,
+    "occurrences": [
+      [
+        37,
+        "00:06:13.738000",
+        "00:06:17.988000",
+        "about the Orthodox Church statement against the Pride parade?"
+      ],
+      [
+        52,
+        "00:07:11.113000",
+        "00:07:15.446000",
+        "Sorry, but I don't think one parade can change anything."
+      ],
+      [
+        163,
+        "00:16:48.738000",
+        "00:16:52.613000",
+        "An official request? For that parade?"
+      ],
+      [
+        449,
+        "00:39:24.113000",
+        "00:39:27.113000",
+        "We'll be at your parade, poofters!"
+      ],
+      [
+        1027,
+        "01:27:57.946000",
+        "01:28:00.821000",
+        "I'm protecting the parade."
+      ],
+      [
+        1245,
+        "01:51:11.321000",
+        "01:51:15.321000",
+        "5600 police guarded the first \"successful\" gay parade."
+      ]
+    ],
+    "regex": "\\b((?!\\bParade:)Parade)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

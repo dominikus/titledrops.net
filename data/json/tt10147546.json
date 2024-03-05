@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt10147546",
+    "title": "Homecoming: A Film by Beyoncé",
+    "year": 2019,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 6,
+    "all_lines": 1935,
+    "occurrences": [
+      [
+        2,
+        "00:00:37.954000",
+        "00:00:41.791000",
+        "welcome to Beyonce Homecoming 2018."
+      ],
+      [
+        468,
+        "00:33:16.119000",
+        "00:33:19.622000",
+        "into my two-hour homecoming performance."
+      ],
+      [
+        644,
+        "00:46:04.845000",
+        "00:46:07.347000",
+        "I'm creating my own homecoming."
+      ],
+      [
+        1404,
+        "01:41:02.556000",
+        "01:41:05.476000",
+        "Homecoming for an HBCU is..."
+      ],
+      [
+        1410,
+        "01:41:17.154000",
+        "01:41:19.740000",
+        "if it's gonna be better than the last homecoming."
+      ],
+      [
+        1915,
+        "02:16:13.290000",
+        "02:16:15.834000",
+        "It is--The theme of the show is homecoming,"
+      ]
+    ],
+    "regex": "\\b((?!\\bHomecoming:)Homecoming|(?!\\bFilm\\ by\\ Beyonce:)Film\\ by\\ Beyonce)(?!\\:)(?!'t)\\b",
+    "runtime": 138,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

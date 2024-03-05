@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0102721",
+    "title": "Proof",
+    "year": 1991,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 809,
+    "occurrences": [
+      [
+        119,
+        "00:16:37.112000",
+        "00:16:39.979000",
+        "-Why? -Proof."
+      ],
+      [
+        139,
+        "00:17:46.615000",
+        "00:17:52.815000",
+        "But this is proof that what I sensed is what you saw..."
+      ]
+    ],
+    "regex": "\\b((?!\\bProof:)Proof)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

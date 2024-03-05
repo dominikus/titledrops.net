@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0073703",
+    "title": "That's the Way of the World",
+    "year": 1975,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 1464,
+    "occurrences": [
+      [
+        693,
+        "00:44:30.406000",
+        "00:44:32.757000",
+        "That's the way of the world my friend."
+      ],
+      [
+        771,
+        "00:47:42.990000",
+        "00:47:45.340000",
+        "That's the way of the world."
+      ],
+      [
+        772,
+        "00:47:45.384000",
+        "00:47:46.864000",
+        "- That's the way of the world?"
+      ],
+      [
+        1464,
+        "01:33:54.150000",
+        "01:33:56.631000",
+        "- That's the way of the world."
+      ]
+    ],
+    "regex": "\\b((?!\\bThat's\\ the\\ Way\\ of\\ the\\ World:)That's\\ the\\ Way\\ of\\ the\\ World)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

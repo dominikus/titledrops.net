@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt15428768",
+    "title": "The Folks",
+    "year": 2022,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1246,
+    "occurrences": [
+      [
+        396,
+        "00:25:44.612000",
+        "00:25:47.081000",
+        "Can your folks stay with Tony?"
+      ],
+      [
+        742,
+        "00:54:17.925000",
+        "00:54:19.326000",
+        "Where are your folks?"
+      ],
+      [
+        756,
+        "00:55:30.231000",
+        "00:55:33.400000",
+        "And her folks, her poor folks."
+      ]
+    ],
+    "regex": "\\b((?!\\bFolks:)Folks)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

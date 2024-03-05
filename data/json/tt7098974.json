@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt7098974",
+    "title": "Kill All Politicians",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2140,
+    "occurrences": [
+      [
+        920,
+        "00:32:34.435000",
+        "00:32:35.995000",
+        "to kill all politicians."
+      ],
+      [
+        1439,
+        "00:50:51.337000",
+        "00:50:56.337000",
+        "So, Brian, we are looking to kill all politicians"
+      ]
+    ],
+    "regex": "\\b((?!\\bKill\\ All\\ Politicians:)Kill\\ All\\ Politicians)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt7109844",
+    "title": "Neat: The Story of Bourbon",
+    "year": 2018,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 1506,
+    "occurrences": [
+      [
+        15,
+        "00:02:01.287000",
+        "00:02:04.290000",
+        "This is the story of bourbon."
+      ],
+      [
+        540,
+        "00:25:57.954000",
+        "00:26:00.558000",
+        "And this changed the story of bourbon forever."
+      ],
+      [
+        649,
+        "00:31:41.065000",
+        "00:31:43.902000",
+        "But maybe the story of bourbon isn't all glamorous."
+      ],
+      [
+        792,
+        "00:38:09.619000",
+        "00:38:13.121000",
+        "And gradually you get acclimated down to neat."
+      ],
+      [
+        932,
+        "00:43:51.561000",
+        "00:43:53.061000",
+        "When you order a bourbon neat,"
+      ]
+    ],
+    "regex": "\\b((?!\\bNeat:)Neat|(?!\\bStory\\ of\\ Bourbon:)Story\\ of\\ Bourbon)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

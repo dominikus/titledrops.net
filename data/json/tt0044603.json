@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0044603",
+    "title": "Fargo",
+    "year": 1952,
+    "genres": [
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 875,
+    "occurrences": [
+      [
+        0,
+        "00:00:07.004000",
+        "00:00:12.195000",
+        "Fargo (1952)"
+      ],
+      [
+        306,
+        "00:19:11.683000",
+        "00:19:14.853000",
+        "I will take this case to Judge Bruce in Fargo."
+      ]
+    ],
+    "regex": "\\b((?!\\bFargo:)Fargo)(?!\\:)(?!'t)\\b",
+    "runtime": 69,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

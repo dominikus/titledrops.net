@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0092843",
+    "title": "The Dead",
+    "year": 1987,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 994,
+    "occurrences": [
+      [
+        898,
+        "01:07:16.240000",
+        "01:07:17.355000",
+        "He's dead."
+      ],
+      [
+        944,
+        "01:10:50.040000",
+        "01:10:54.511000",
+        "O, the day I heard that, that he was dead!"
+      ],
+      [
+        993,
+        "01:15:31.960000",
+        "01:15:35.316000",
+        "upon all the living and the dead."
+      ]
+    ],
+    "regex": "\\b((?!\\bDead:)Dead)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2324384",
+    "title": "The Notebook",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 738,
+    "occurrences": [
+      [
+        10,
+        "00:04:10.120000",
+        "00:04:13.954000",
+        "Boys, write down everything that happens to you in this notebook."
+      ],
+      [
+        90,
+        "00:13:41.080000",
+        "00:13:44.152000",
+        "And we write down everything in Father's notebook."
+      ]
+    ],
+    "regex": "\\b((?!\\bNotebook:)Notebook)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

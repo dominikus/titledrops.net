@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0118715",
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 2432,
+    "occurrences": [
+      [
+        1345,
+        "00:54:58.674000",
+        "00:55:02.052000",
+        "My only hope is that the big Lebowski kills me"
+      ],
+      [
+        2258,
+        "01:37:58.670000",
+        "01:38:00.422000",
+        "The big Lebowski gave me an empty briefcase,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBig\\ Lebowski:)Big\\ Lebowski)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

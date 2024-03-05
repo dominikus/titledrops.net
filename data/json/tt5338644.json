@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5338644",
+    "title": "Mrs. Hyde",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1054,
+    "occurrences": [
+      [
+        815,
+        "01:06:46.179000",
+        "01:06:49.467000",
+        "Mrs. Hyde."
+      ],
+      [
+        1045,
+        "01:30:57.028000",
+        "01:30:59.404000",
+        "She was also called Mrs. Hyde."
+      ]
+    ],
+    "regex": "\\b((?!\\bMrs\\.\\ Hyde:)Mrs\\.\\ Hyde)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

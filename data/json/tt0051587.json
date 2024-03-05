@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0051587",
+    "title": "Herod the Great",
+    "year": 1959,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1095,
+    "occurrences": [
+      [
+        291,
+        "00:25:24.406000",
+        "00:25:30.616000",
+        "I want to know him, I shall measure the pride of one who calls himself..Herod the Great."
+      ],
+      [
+        298,
+        "00:25:52.409000",
+        "00:25:56.369000",
+        "King of Judea... Herod the Great."
+      ]
+    ],
+    "regex": "\\b((?!\\bHerod\\ the\\ Great:)Herod\\ the\\ Great)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

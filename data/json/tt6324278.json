@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6324278",
+    "title": "Abominable",
+    "year": 2019,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1090,
+    "occurrences": [
+      [
+        198,
+        "00:21:38.505000",
+        "00:21:40.997000",
+        "for that abominable creature's escape."
+      ],
+      [
+        706,
+        "00:52:23.141000",
+        "00:52:26.133000",
+        "Get back, you abominable creature!"
+      ]
+    ],
+    "regex": "\\b((?!\\bAbominable:)Abominable)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

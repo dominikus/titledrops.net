@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0464029",
+    "title": "Grbavica",
+    "year": 2006,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 546,
+    "occurrences": [
+      [
+        146,
+        "00:23:17.669000",
+        "00:23:21.669000",
+        "Where to? - Grbavica. - I live at Grbavica too."
+      ],
+      [
+        150,
+        "00:24:14.761000",
+        "00:24:15.761000",
+        "We are at Grbavica."
+      ],
+      [
+        175,
+        "00:26:02.145000",
+        "00:26:06.445000",
+        "Two more mass graves will be excavated here around Grbavica."
+      ]
+    ],
+    "regex": "\\b((?!\\bGrbavica:)Grbavica)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

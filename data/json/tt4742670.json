@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4742670",
+    "title": "The von Trapp Family: A Life of Music",
+    "year": 2015,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1180,
+    "occurrences": [
+      [
+        0,
+        "00:00:36.829000",
+        "00:00:40.079000",
+        "IN 1938, THE VON TRAPP FAMILY FLED FROM AUSTRIA TO THE US,"
+      ],
+      [
+        5,
+        "00:01:18.787000",
+        "00:01:22.328000",
+        "THE TRAPP FAMILY A LIFE OF MUSIC"
+      ]
+    ],
+    "regex": "\\b((?!\\bvon\\ Trapp\\ Family:)von\\ Trapp\\ Family|(?!\\bLife\\ of\\ Music:)Life\\ of\\ Music)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt8069980",
+    "title": "Solum",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1312,
+    "occurrences": [
+      [
+        59,
+        "00:04:46.158000",
+        "00:04:48.024000",
+        "Welcome to Solum Island."
+      ],
+      [
+        868,
+        "01:01:35.725000",
+        "01:01:37.391000",
+        "Hello, Solum."
+      ],
+      [
+        872,
+        "01:01:51.024000",
+        "01:01:53.224000",
+        "My name is not Solum."
+      ],
+      [
+        873,
+        "01:01:55.725000",
+        "01:01:57.924000",
+        "Solum means exclusive, only,"
+      ]
+    ],
+    "regex": "\\b((?!\\bSolum:)Solum)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0088763",
+    "title": "Back to the Future",
+    "year": 1985,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1728,
+    "occurrences": [
+      [
+        848,
+        "00:54:53.318000",
+        "00:54:55.755000",
+        "we are sending you back to the future!"
+      ],
+      [
+        1710,
+        "01:50:39.759000",
+        "01:50:40.926000",
+        "Back to the future."
+      ]
+    ],
+    "regex": "\\b((?!\\bBack\\ to\\ the\\ Future:)Back\\ to\\ the\\ Future)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.5
+  }
+]

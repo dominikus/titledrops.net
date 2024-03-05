@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0061090",
+    "title": "Thompson 1880",
+    "year": 1966,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 737,
+    "occurrences": [
+      [
+        726,
+        "01:19:48.680000",
+        "01:19:49.954000",
+        "Thompson."
+      ],
+      [
+        727,
+        "01:19:50.040000",
+        "01:19:55.034000",
+        "Engineer Raymond Elvis Thompson from Cincinnati, Ohio."
+      ],
+      [
+        735,
+        "01:20:31.680000",
+        "01:20:35.559000",
+        "- And who is this? - I don't know. Someone named Thompson."
+      ]
+    ],
+    "regex": "\\b((?!\\bThompson:)Thompson)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

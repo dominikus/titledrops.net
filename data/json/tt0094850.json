@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0094850",
+    "title": "Cellar Dweller",
+    "year": 1987,
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 678,
+    "occurrences": [
+      [
+        58,
+        "00:14:30.328000",
+        "00:14:33.623000",
+        "As a child I collected every issue of Cellar Dweller"
+      ],
+      [
+        77,
+        "00:15:21.379000",
+        "00:15:23.924000",
+        "in the tradition of Cellar Dweller."
+      ]
+    ],
+    "regex": "\\b((?!\\bCellar\\ Dweller:)Cellar\\ Dweller)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

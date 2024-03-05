@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt12530402",
+    "title": "Tinnitus",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sport"
+    ],
+    "count": 3,
+    "all_lines": 662,
+    "occurrences": [
+      [
+        50,
+        "00:11:23.240000",
+        "00:11:25.200000",
+        "It's not \"he\". It's called tinnitus."
+      ],
+      [
+        287,
+        "00:42:48.320000",
+        "00:42:52.039000",
+        "-Now that my tinnitus is stable... -Where did you get that idea?"
+      ],
+      [
+        627,
+        "01:24:04.880000",
+        "01:24:06.880000",
+        "and a pulsatile tinnitus."
+      ]
+    ],
+    "regex": "\\b((?!\\bTinnitus:)Tinnitus)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

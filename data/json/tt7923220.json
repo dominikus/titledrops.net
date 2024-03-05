@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt7923220",
+    "title": "Inheritance",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1504,
+    "occurrences": [
+      [
+        131,
+        "00:09:19.815000",
+        "00:09:23.419000",
+        "Don't let the inheritance speak otherwise."
+      ],
+      [
+        305,
+        "00:26:39.889000",
+        "00:26:41.857000",
+        "That's quite the inheritance."
+      ],
+      [
+        567,
+        "00:42:00.676000",
+        "00:42:04.413000",
+        "I'm sure he kept an entirely separate inheritance for her."
+      ],
+      [
+        1265,
+        "01:28:26.929000",
+        "01:28:32.335000",
+        "This, this is my fucking inheritance, Mom!"
+      ]
+    ],
+    "regex": "\\b((?!\\bInheritance:)Inheritance)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

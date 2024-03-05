@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3484800",
+    "title": "Altar",
+    "year": 2014,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 621,
+    "occurrences": [
+      [
+        340,
+        "00:47:00.007000",
+        "00:47:02.171000",
+        "The altar."
+      ],
+      [
+        344,
+        "00:47:16.640000",
+        "00:47:20.528000",
+        "My employer doesn't really have a use for a Rosicrucian altar."
+      ]
+    ],
+    "regex": "\\b((?!\\bAltar:)Altar)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

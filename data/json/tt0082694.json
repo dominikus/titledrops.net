@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0082694",
+    "title": "The Road Warrior",
+    "year": 1981,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 620,
+    "occurrences": [
+      [
+        6,
+        "00:01:47.943000",
+        "00:01:52.114000",
+        "But most of all, I remember the Road Warrior..."
+      ],
+      [
+        618,
+        "01:32:04.896000",
+        "01:32:06.731000",
+        "And the Road Warrior?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRoad\\ Warrior:)Road\\ Warrior)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt3548874",
+    "title": "The Pink Cloud",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1388,
+    "occurrences": [
+      [
+        48,
+        "00:06:14.872000",
+        "00:06:16.774000",
+        "others call it pink cloud."
+      ],
+      [
+        402,
+        "00:28:04.248000",
+        "00:28:08.018000",
+        "Happy birthday, pink cloud"
+      ],
+      [
+        995,
+        "01:11:26.651000",
+        "01:11:28.853000",
+        "Do you like the pink cloud?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPink\\ Cloud:)Pink\\ Cloud)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

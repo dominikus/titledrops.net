@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1422032",
+    "title": "Even the Rain",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1204,
+    "occurrences": [
+      [
+        451,
+        "00:28:42.971000",
+        "00:28:46.515000",
+        "and even the rain that falls on our heads!"
+      ],
+      [
+        456,
+        "00:28:54.149000",
+        "00:28:57.192000",
+        "And who takes even the rain?"
+      ]
+    ],
+    "regex": "\\b((?!\\bEven\\ the\\ Rain:)Even\\ the\\ Rain)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

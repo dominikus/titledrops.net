@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0427089",
+    "title": "Confetti",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Music",
+      "Romance"
+    ],
+    "count": 7,
+    "all_lines": 1172,
+    "occurrences": [
+      [
+        2,
+        "00:01:12.120000",
+        "00:01:15.749000",
+        "Now, I own \"Confetti\" magazine, but Vivien is the editor,"
+      ],
+      [
+        45,
+        "00:03:47.320000",
+        "00:03:49.515000",
+        "Well, it's more... It's more Confetti."
+      ],
+      [
+        943,
+        "01:04:43.360000",
+        "01:04:47.478000",
+        "- Er, so, here's to a wonderful day. - Here's to Confetti."
+      ],
+      [
+        971,
+        "01:06:43.760000",
+        "01:06:49.517000",
+        "Just popped by to say, on behalf of Confetti magazine, the best of British. All right?"
+      ],
+      [
+        995,
+        "01:08:04.360000",
+        "01:08:09.992000",
+        "and we at Confetti magazine are committed to pushing the envelope in weddings."
+      ],
+      [
+        1001,
+        "01:08:31.400000",
+        "01:08:35.393000",
+        "You can probably guess the theme. Ladies and gentlemen, Confetti gives you:"
+      ],
+      [
+        1100,
+        "01:24:33.960000",
+        "01:24:39.193000",
+        "to open up your most precious day to our magazine, Confetti. Thank you so much."
+      ]
+    ],
+    "regex": "\\b((?!\\bConfetti:)Confetti)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

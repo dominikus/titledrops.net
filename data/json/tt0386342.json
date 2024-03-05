@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0386342",
+    "title": "Brothers",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 640,
+    "occurrences": [
+      [
+        41,
+        "00:03:17.600000",
+        "00:03:20.797000",
+        "- who don\"t look like each other to play brothers -"
+      ],
+      [
+        42,
+        "00:03:21",
+        "00:03:24.629000",
+        "- in a film called \"Brothers\"."
+      ],
+      [
+        90,
+        "00:07:25.600000",
+        "00:07:29.229000",
+        "Like you film the brothers saying hello at the door -"
+      ],
+      [
+        454,
+        "00:39:52.520000",
+        "00:39:56.832000",
+        "This story starts with the two brothers in the car -"
+      ]
+    ],
+    "regex": "\\b((?!\\bBrothers:)Brothers)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

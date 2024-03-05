@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt0045591",
+    "title": "Calamity Jane",
+    "year": 1953,
+    "genres": [
+      "Musical",
+      "Romance",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 781,
+    "occurrences": [
+      [
+        150,
+        "00:20:07.653000",
+        "00:20:09.621000",
+        "You've got Calamity Jane's word on it."
+      ],
+      [
+        270,
+        "00:34:22.440000",
+        "00:34:25.932000",
+        "But you needn't worry about Injuns when you travel with Calamity Jane."
+      ]
+    ],
+    "regex": "\\b((?!\\bCalamity\\ Jane:)Calamity\\ Jane)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [
+      "Calamity Jane"
+    ],
+    "title_is_name": true,
+    "rating": 7.2
+  }
+]

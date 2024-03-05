@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt7575778",
+    "title": "Every Day a Good Day",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 803,
+    "occurrences": [
+      [
+        78,
+        "00:07:18.263000",
+        "00:07:22.609000",
+        "'Every day a good day,' it says."
+      ],
+      [
+        439,
+        "00:44:24.420000",
+        "00:44:27.492000",
+        "Every Day a Good Day"
+      ],
+      [
+        477,
+        "00:48:24.226000",
+        "00:48:28.470000",
+        "'Every day a good day?"
+      ],
+      [
+        763,
+        "01:31:07.487000",
+        "01:31:11.902000",
+        "'Every day a good day'. So that's what it means!"
+      ]
+    ],
+    "regex": "\\b((?!\\bEvery\\ Day\\ a\\ Good\\ Day:)Every\\ Day\\ a\\ Good\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

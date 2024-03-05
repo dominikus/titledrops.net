@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3597108",
+    "title": "Plan Z",
+    "year": 2016,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 973,
+    "occurrences": [
+      [
+        11,
+        "00:01:20.514000",
+        "00:01:24.585000",
+        "(and well thought through Plan Z)."
+      ],
+      [
+        30,
+        "00:02:47.134000",
+        "00:02:50.604000",
+        "my Plan Z."
+      ],
+      [
+        61,
+        "00:04:37.811000",
+        "00:04:40.714000",
+        "Rule two, wherever you have planned your Plan Z,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPlan\\ Z:)Plan\\ Z)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

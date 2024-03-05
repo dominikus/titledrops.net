@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0215369",
+    "title": "Shower",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 647,
+    "occurrences": [
+      [
+        1,
+        "00:00:43.343000",
+        "00:00:45.368000",
+        "'' Please choose shower length: 3, 5, or 7 minutes.''"
+      ],
+      [
+        310,
+        "00:41:09.500000",
+        "00:41:10.592000",
+        "''Shower''"
+      ],
+      [
+        381,
+        "00:47:16.266000",
+        "00:47:19.167000",
+        "She went to take a shower at the public bath."
+      ]
+    ],
+    "regex": "\\b((?!\\bShower:)Shower)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

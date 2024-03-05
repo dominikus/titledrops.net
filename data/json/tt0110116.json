@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0110116",
+    "title": "Immortal Beloved",
+    "year": 1994,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 952,
+    "occurrences": [
+      [
+        39,
+        "00:06:55.825000",
+        "00:07:00.421000",
+        "shall go to my sole heir, my immortal beloved.\""
+      ],
+      [
+        46,
+        "00:07:16.545000",
+        "00:07:18.274000",
+        "\"To my immortal beloved.\""
+      ],
+      [
+        820,
+        "01:32:30.788000",
+        "01:32:32.722000",
+        "{y:i}my immortal beloved."
+      ],
+      [
+        937,
+        "01:55:53.155000",
+        "01:55:55.089000",
+        "{y:i}my immortal beloved."
+      ]
+    ],
+    "regex": "\\b((?!\\bImmortal\\ Beloved:)Immortal\\ Beloved)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

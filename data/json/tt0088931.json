@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0088931",
+    "title": "The Coca-Cola Kid",
+    "year": 1985,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1181,
+    "occurrences": [
+      [
+        320,
+        "00:23:21.366000",
+        "00:23:25.803000",
+        "You can call me the Coca-Cola Kid."
+      ],
+      [
+        334,
+        "00:23:58.236000",
+        "00:24:00.295000",
+        "Bye, Coca-Cola Kid!"
+      ],
+      [
+        541,
+        "00:42:00.451000",
+        "00:42:02.544000",
+        "The Coca-Cola Kid."
+      ],
+      [
+        1164,
+        "01:31:34.554000",
+        "01:31:36.021000",
+        "Hi, Coca-Cola Kid."
+      ]
+    ],
+    "regex": "\\b((?!\\bCoca\\-Cola\\ Kid:)Coca\\-Cola\\ Kid)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

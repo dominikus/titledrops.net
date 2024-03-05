@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0103251",
+    "title": "White Palace",
+    "year": 1990,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1351,
+    "occurrences": [
+      [
+        19,
+        "00:04:06.029000",
+        "00:04:08.156000",
+        "White Palace burgers!"
+      ],
+      [
+        923,
+        "01:12:26.425000",
+        "01:12:28.586000",
+        "or should we just eat at White Palace?"
+      ],
+      [
+        1080,
+        "01:20:16.228000",
+        "01:20:18.526000",
+        "White Palace. It's a hamburger restaurant."
+      ]
+    ],
+    "regex": "\\b((?!\\bWhite\\ Palace:)White\\ Palace)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

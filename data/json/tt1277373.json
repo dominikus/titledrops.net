@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1277373",
+    "title": "Umizaru 3: The Last Message",
+    "year": 2010,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1118,
+    "occurrences": [
+      [
+        27,
+        "00:02:17.300000",
+        "00:02:42.410000",
+        "UM IZARU 3 : THE LAST MESSAGE"
+      ],
+      [
+        1099,
+        "02:05:09.830000",
+        "02:05:15.670000",
+        "Conceived by Yoichi Komori \"Umizaru\" (Shogakukan Young Sunday Comics)"
+      ]
+    ],
+    "regex": "\\b((?!\\bUmizaru:)Umizaru|(?!\\bLast\\ Message:)Last\\ Message)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

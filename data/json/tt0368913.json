@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0368913",
+    "title": "Osama",
+    "year": 2003,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 400,
+    "occurrences": [
+      [
+        301,
+        "00:50:08.080000",
+        "00:50:10.040000",
+        "Osama."
+      ],
+      [
+        335,
+        "00:56:03.960000",
+        "00:56:06.320000",
+        "Climb to the tree,Osama."
+      ]
+    ],
+    "regex": "\\b((?!\\bOsama:)Osama)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [
+      "Osama"
+    ],
+    "title_is_name": true,
+    "rating": 7.3
+  }
+]

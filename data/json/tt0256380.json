@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0256380",
+    "title": "Shallow Hal",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 1888,
+    "occurrences": [
+      [
+        1286,
+        "01:12:34.440000",
+        "01:12:36.204000",
+        "MAURICIO: Shallow Hal wants a gal."
+      ],
+      [
+        1288,
+        "01:12:37.520000",
+        "01:12:40.046000",
+        "Shallow Hal wants a gal."
+      ],
+      [
+        1339,
+        "01:15:29.400000",
+        "01:15:34.930000",
+        "When I said, \"Shallow Hal wants a gal,\" you were cured."
+      ]
+    ],
+    "regex": "\\b((?!\\bShallow\\ Hal:)Shallow\\ Hal)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3293138",
+    "title": "Xmoor",
+    "year": 2014,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 798,
+    "occurrences": [
+      [
+        12,
+        "00:05:43.944000",
+        "00:05:46.656000",
+        "There's been over 20 livestock attacks around Xmoor in the last two months"
+      ],
+      [
+        99,
+        "00:13:24.972000",
+        "00:13:26.006000",
+        "Welcome to Xmoor."
+      ]
+    ],
+    "regex": "\\b((?!\\bXmoor:)Xmoor)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

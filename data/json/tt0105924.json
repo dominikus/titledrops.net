@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0105924",
+    "title": "The Last Dive",
+    "year": 1992,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 323,
+    "occurrences": [
+      [
+        0,
+        "00:00:04.760000",
+        "00:00:09.356000",
+        "LAST DIVE"
+      ],
+      [
+        37,
+        "00:03:52.280000",
+        "00:03:55.192000",
+        "it's the right time for our last dive."
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Dive:)Last\\ Dive)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

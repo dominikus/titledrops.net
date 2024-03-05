@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0204527",
+    "title": "Otomo",
+    "year": 1999,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 567,
+    "occurrences": [
+      [
+        383,
+        "00:50:19.217000",
+        "00:50:21.242000",
+        "Frederic Otomo."
+      ],
+      [
+        385,
+        "00:50:24.822000",
+        "00:50:28.986000",
+        "Frederic Otomo, from Cameroon. I have a nice name, too."
+      ],
+      [
+        563,
+        "01:18:41.384000",
+        "01:18:44.876000",
+        "On August 9, 1989, 2 police officers and Frederic Otomo"
+      ],
+      [
+        565,
+        "01:18:49.158000",
+        "01:18:53.060000",
+        "This film is based on facts that are known about Frederic Otomo's life."
+      ]
+    ],
+    "regex": "\\b((?!\\bOtomo:)Otomo)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [
+      "Otomo"
+    ],
+    "title_is_name": true,
+    "rating": 6.6
+  }
+]

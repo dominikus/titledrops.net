@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1714193",
+    "title": "The Gang of Oss",
+    "year": 2011,
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 790,
+    "occurrences": [
+      [
+        12,
+        "00:01:30.720000",
+        "00:01:32.711000",
+        "The Gang of Oss"
+      ],
+      [
+        13,
+        "00:01:32.920000",
+        "00:01:37.118000",
+        "They call them the Gang of Oss, but they're just a bunch of misfits."
+      ]
+    ],
+    "regex": "\\b((?!\\bGang\\ of\\ Oss:)Gang\\ of\\ Oss)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0403420",
+    "title": "Post coitum",
+    "year": 2004,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1254,
+    "occurrences": [
+      [
+        295,
+        "00:21:59.080000",
+        "00:22:01.275000",
+        "Post coitum."
+      ],
+      [
+        1127,
+        "01:29:12.680000",
+        "01:29:17.037000",
+        "Death is really the post coitum of life, its climax,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPost\\ coitum:)Post\\ coitum)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

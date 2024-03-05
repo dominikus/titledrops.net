@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt7117812",
+    "title": "Volta",
+    "year": 2017,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1234,
+    "occurrences": [
+      [
+        440,
+        "00:35:28.960000",
+        "00:35:29.839000",
+        "Bruno Volta."
+      ],
+      [
+        958,
+        "01:15:14.200000",
+        "01:15:15.079000",
+        "Volta."
+      ],
+      [
+        1114,
+        "01:28:11.680000",
+        "01:28:14.959000",
+        "I've got to return the keys before Volta shows up."
+      ],
+      [
+        1139,
+        "01:30:22.720000",
+        "01:30:25.239000",
+        "Too late for a volt, Mr. Volta."
+      ],
+      [
+        1174,
+        "01:33:13",
+        "01:33:14.399000",
+        "We'll cook Mr. Volta."
+      ]
+    ],
+    "regex": "\\b((?!\\bVolta:)Volta)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [
+      "Bruno Volta"
+    ],
+    "title_is_name": true,
+    "rating": 5
+  }
+]

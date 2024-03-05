@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0489682",
+    "title": "Conversations with God",
+    "year": 2006,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 641,
+    "occurrences": [
+      [
+        82,
+        "00:08:02.983000",
+        "00:08:07.988000",
+        "That's why these conversations with God are such a miracle for me."
+      ],
+      [
+        539,
+        "00:48:59.982000",
+        "00:49:01.984000",
+        "and his book Conversations With God."
+      ]
+    ],
+    "regex": "\\b((?!\\bConversations\\ with\\ God:)Conversations\\ with\\ God)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

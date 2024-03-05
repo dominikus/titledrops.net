@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2374144",
+    "title": "Gintama the Movie: The Final Chapter - Be Forever Yorozuya",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1869,
+    "occurrences": [
+      [
+        17,
+        "00:01:21.957000",
+        "00:01:23.726000",
+        "I remember last time during \"Gintama the Movie\","
+      ],
+      [
+        145,
+        "00:07:27.823000",
+        "00:07:30.241000",
+        "Didn't we do so when \"Gintama the Movie\" was on?"
+      ]
+    ],
+    "regex": "\\b((?!\\bGintama\\ the\\ Movie:)Gintama\\ the\\ Movie|(?!\\bFinal\\ Chapter\\ \\-\\ Be\\ Forever\\ Yorozuya:)Final\\ Chapter\\ \\-\\ Be\\ Forever\\ Yorozuya)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.3
+  }
+]

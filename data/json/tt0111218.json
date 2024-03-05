@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0111218",
+    "title": "Sleep with Me",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1509,
+    "occurrences": [
+      [
+        1000,
+        "00:53:17.068000",
+        "00:53:20.902000",
+        "I hope you don't think you're going to sleep with me."
+      ],
+      [
+        1002,
+        "00:53:22.607000",
+        "00:53:26.475000",
+        "I hope you don't think you're going to sleep with me."
+      ],
+      [
+        1327,
+        "01:10:13.918000",
+        "01:10:15.044000",
+        "Then why did you sleep with me?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSleep\\ with\\ Me:)Sleep\\ with\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

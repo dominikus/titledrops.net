@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0056566",
+    "title": "Tender Is the Night",
+    "year": 1962,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 2211,
+    "occurrences": [
+      [
+        0,
+        "00:00:38.339000",
+        "00:00:43.411000",
+        "* tender is the night"
+      ],
+      [
+        1,
+        "00:00:43.444000",
+        "00:00:48.316000",
+        "* so tender is the night"
+      ],
+      [
+        1292,
+        "01:24:28.397000",
+        "01:24:30.766000",
+        "Tender is the night."
+      ],
+      [
+        2208,
+        "02:26:04.556000",
+        "02:26:09.194000",
+        "* how tender is the night"
+      ]
+    ],
+    "regex": "\\b((?!\\bTender\\ Is\\ the\\ Night:)Tender\\ Is\\ the\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 146,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

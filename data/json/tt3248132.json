@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3248132",
+    "title": "Morning Star",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 523,
+    "occurrences": [
+      [
+        193,
+        "00:39:49.233000",
+        "00:39:51.770000",
+        "Morning Star will guide us."
+      ],
+      [
+        505,
+        "01:23:24.913000",
+        "01:23:27.850000",
+        "For days I haven't seen the Morning Star."
+      ]
+    ],
+    "regex": "\\b((?!\\bMorning\\ Star:)Morning\\ Star)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.7
+  }
+]

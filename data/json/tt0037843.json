@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0037843",
+    "title": "Keep Your Powder Dry",
+    "year": 1945,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 2024,
+    "occurrences": [
+      [
+        0,
+        "00:00:11.011000",
+        "00:00:13.014000",
+        "Keep Your Powder Dry (1945)"
+      ],
+      [
+        223,
+        "00:10:19.619000",
+        "00:10:21.621000",
+        "Keep your powder dry!"
+      ]
+    ],
+    "regex": "\\b((?!\\bKeep\\ Your\\ Powder\\ Dry:)Keep\\ Your\\ Powder\\ Dry)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

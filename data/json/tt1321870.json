@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1321870",
+    "title": "Gangster Squad",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1337,
+    "occurrences": [
+      [
+        1030,
+        "01:10:08.146000",
+        "01:10:10.808000",
+        "-To the Gangster Squad. -The Gangster Squad."
+      ],
+      [
+        1320,
+        "01:42:40.581000",
+        "01:42:43.209000",
+        "No one ever spoke of the Gangster Squad."
+      ]
+    ],
+    "regex": "\\b((?!\\bGangster\\ Squad:)Gangster\\ Squad)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

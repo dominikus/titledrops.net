@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1496798",
+    "title": "Mayor Cupcake",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1883,
+    "occurrences": [
+      [
+        1491,
+        "01:06:15.188000",
+        "01:06:17.016000",
+        "Well, they call you Mayor Cupcake."
+      ],
+      [
+        1585,
+        "01:10:41.149000",
+        "01:10:43.456000",
+        "And I'll win, thanks to your TV testimony, Mayor Cupcake."
+      ]
+    ],
+    "regex": "\\b((?!\\bMayor\\ Cupcake:)Mayor\\ Cupcake)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

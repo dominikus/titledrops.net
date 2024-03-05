@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0226693",
+    "title": "Purple Storm",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 558,
+    "occurrences": [
+      [
+        292,
+        "00:44:07.367000",
+        "00:44:09.483000",
+        "This effect is called Purple Storm."
+      ],
+      [
+        453,
+        "01:18:53.127000",
+        "01:18:55.083000",
+        "The Purple Storm is our last hope."
+      ],
+      [
+        485,
+        "01:25:49.167000",
+        "01:25:52.637000",
+        "So the target of Purple Storm is Cambodia, not Hong Kong."
+      ]
+    ],
+    "regex": "\\b((?!\\bPurple\\ Storm:)Purple\\ Storm)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

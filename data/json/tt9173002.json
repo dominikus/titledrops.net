@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt9173002",
+    "title": "The Goya Murders",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 961,
+    "occurrences": [
+      [
+        0,
+        "00:01:12.251000",
+        "00:01:16.793000",
+        "The Goya Murders"
+      ],
+      [
+        657,
+        "01:00:41.959000",
+        "01:00:46.043000",
+        "What have you been able to find regarding the Goya Murders?"
+      ]
+    ],
+    "regex": "\\b((?!\\bGoya\\ Murders:)Goya\\ Murders)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

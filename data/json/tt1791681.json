@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1791681",
+    "title": "Treehouse",
+    "year": 2014,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 906,
+    "occurrences": [
+      [
+        304,
+        "00:24:33.973000",
+        "00:24:35.575000",
+        "A treehouse."
+      ],
+      [
+        615,
+        "00:49:13.084000",
+        "00:49:16.054000",
+        "This treehouse's starting to feel more like a goddamn coffin."
+      ]
+    ],
+    "regex": "\\b((?!\\bTreehouse:)Treehouse)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

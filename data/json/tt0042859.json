@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0042859",
+    "title": "First Communion",
+    "year": 1950,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 1059,
+    "occurrences": [
+      [
+        70,
+        "00:07:00.240000",
+        "00:07:04.510000",
+        "Adele? - That's his daughter, she too does her first communion today."
+      ],
+      [
+        90,
+        "00:08:19.498000",
+        "00:08:24.054000",
+        "On First Communion day you can't trifle. - Oh, sorry, it's a serious thing."
+      ],
+      [
+        386,
+        "00:29:03.966000",
+        "00:29:07.186000",
+        "Be kind, my daughter has her first communion, this is her dress..."
+      ],
+      [
+        505,
+        "00:36:45.465000",
+        "00:36:49.306000",
+        "He stole the first communion dress of my daughter! How do I do?"
+      ],
+      [
+        600,
+        "00:44:53.396000",
+        "00:44:57.096000",
+        "would you mind if your daughter did First Communion another day?"
+      ],
+      [
+        825,
+        "01:00:13.450000",
+        "01:00:17.312000",
+        "And you wait the day of first communion to think about the dress?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFirst\\ Communion:)First\\ Communion)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

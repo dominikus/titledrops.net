@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0069818",
+    "title": "The Boss",
+    "year": 1973,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1107,
+    "occurrences": [
+      [
+        143,
+        "00:16:10.400000",
+        "00:16:12.755000",
+        "and Attardi was a big boss."
+      ],
+      [
+        336,
+        "00:30:43.560000",
+        "00:30:45.118000",
+        "he was my boss."
+      ],
+      [
+        1081,
+        "01:40:07.680000",
+        "01:40:09.910000",
+        "So you're the new boss."
+      ]
+    ],
+    "regex": "\\b((?!\\bBoss:)Boss)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

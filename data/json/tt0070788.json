@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0070788",
+    "title": "That'll Be the Day",
+    "year": 1973,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1066,
+    "occurrences": [
+      [
+        1064,
+        "01:28:35.521000",
+        "01:28:39.891000",
+        "Well, that'll be the day when you say goodbye"
+      ],
+      [
+        1065,
+        "01:28:39.984000",
+        "01:28:43.568000",
+        "That'll be the day when you make me cry"
+      ]
+    ],
+    "regex": "\\b((?!\\bThat'll\\ Be\\ the\\ Day:)That'll\\ Be\\ the\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

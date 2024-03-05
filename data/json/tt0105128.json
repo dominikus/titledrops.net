@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0105128",
+    "title": "Pet Sematary II",
+    "year": 1992,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 392,
+    "occurrences": [
+      [
+        145,
+        "00:17:45.440000",
+        "00:17:48.352000",
+        "What's left of her is back there in the Pet Sematary."
+      ],
+      [
+        321,
+        "00:43:11.360000",
+        "00:43:13.794000",
+        "- Pet Sematary. - What?"
+      ],
+      [
+        322,
+        "00:43:15.440000",
+        "00:43:16.793000",
+        "Pet Sematary."
+      ],
+      [
+        331,
+        "00:43:56.080000",
+        "00:43:58.071000",
+        "Pet Sematary."
+      ]
+    ],
+    "regex": "\\b((?!\\bPet\\ Sematary:)Pet\\ Sematary)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

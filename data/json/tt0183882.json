@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0183882",
+    "title": "Things",
+    "year": 1993,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1032,
+    "occurrences": [
+      [
+        284,
+        "00:15:49.699000",
+        "00:15:52.367000",
+        "- Damn things are gonna kill me."
+      ],
+      [
+        350,
+        "00:20:30.100000",
+        "00:20:32.933000",
+        "Men have always done things to me."
+      ],
+      [
+        538,
+        "00:41:10.500000",
+        "00:41:13.066000",
+        "All you gotta do all day is three things;"
+      ]
+    ],
+    "regex": "\\b((?!\\bThings:)Things)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

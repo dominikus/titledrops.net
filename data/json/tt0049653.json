@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0049653",
+    "title": "The Rainmaker",
+    "year": 1956,
+    "genres": [
+      "Romance",
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 1767,
+    "occurrences": [
+      [
+        626,
+        "00:44:52.523000",
+        "00:44:54.855000",
+        "The name is Starbuck, rainmaker."
+      ],
+      [
+        627,
+        "00:44:55.993000",
+        "00:44:58.484000",
+        "I read about a rainmaker. I think it was Idaho."
+      ],
+      [
+        1499,
+        "01:42:31.211000",
+        "01:42:33.941000",
+        "- What do you think a rainmaker makes? - Rain."
+      ]
+    ],
+    "regex": "\\b((?!\\bRainmaker:)Rainmaker)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

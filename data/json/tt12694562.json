@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt12694562",
+    "title": "Surge",
+    "year": 2020,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 2017,
+    "occurrences": [
+      [
+        97,
+        "00:04:38.361000",
+        "00:04:39.320000",
+        "Seeing a surge of women"
+      ],
+      [
+        99,
+        "00:04:40.822000",
+        "00:04:42.782000",
+        "- What's behind the surge of women?"
+      ],
+      [
+        1973,
+        "01:29:40.917000",
+        "01:29:43.878000",
+        "and um, that this won't be the last surge."
+      ]
+    ],
+    "regex": "\\b((?!\\bSurge:)Surge)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

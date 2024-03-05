@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt3442006",
+    "title": "Cake",
+    "year": 2014,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 933,
+    "occurrences": [
+      [
+        760,
+        "01:13:50.495000",
+        "01:13:53.601000",
+        "You're probably wondering about the cake."
+      ],
+      [
+        767,
+        "01:14:14.154000",
+        "01:14:18.829000",
+        "What's wrong with a mother wanting to make her son a birthday cake from scratch?"
+      ],
+      [
+        897,
+        "01:27:24.411000",
+        "01:27:29.615000",
+        "A homemade yellow cake with fudge frosting."
+      ],
+      [
+        899,
+        "01:27:36.790000",
+        "01:27:39.814000",
+        "I just want you to make me a cake."
+      ]
+    ],
+    "regex": "\\b((?!\\bCake:)Cake)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

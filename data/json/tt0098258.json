@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0098258",
+    "title": "Say Anything",
+    "year": 1989,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1099,
+    "occurrences": [
+      [
+        652,
+        "00:53:31.500000",
+        "00:53:36.300000",
+        "-You can say anything to me, you know. -I know that."
+      ],
+      [
+        998,
+        "01:24:00.500000",
+        "01:24:04.900000",
+        "I won't leave anything out because I can say anything to you."
+      ]
+    ],
+    "regex": "\\b((?!\\bSay\\ Anything:)Say\\ Anything)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

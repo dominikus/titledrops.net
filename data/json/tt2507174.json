@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2507174",
+    "title": "Tiger & Bunny the Movie: The Beginning",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Animation",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1511,
+    "occurrences": [
+      [
+        584,
+        "00:36:12.378000",
+        "00:36:15.923000",
+        "You know? I'm beginning to seriously question your judgement."
+      ],
+      [
+        1157,
+        "01:07:39.513000",
+        "01:07:41.474000",
+        "and take him out, right from the beginning!"
+      ],
+      [
+        1490,
+        "01:25:40.718000",
+        "01:25:43.012000",
+        "-Words beginning with \"C-H\". -I'll meet you all there."
+      ]
+    ],
+    "regex": "\\b((?!\\bTiger\\ \\&\\ Bunny\\ the\\ Movie:)Tiger\\ \\&\\ Bunny\\ the\\ Movie|(?!\\bBeginning:)Beginning)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

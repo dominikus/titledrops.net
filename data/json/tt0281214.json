@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0281214",
+    "title": "Hole in the Sky",
+    "year": 2001,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 649,
+    "occurrences": [
+      [
+        12,
+        "00:02:41.247000",
+        "00:02:47.158000",
+        "Drive-in Hole in the Sky"
+      ],
+      [
+        109,
+        "00:32:59.264000",
+        "00:33:02.299000",
+        "I was just wondering... What does 'Hole in the Sky' mean?"
+      ],
+      [
+        132,
+        "00:34:23.848000",
+        "00:34:26.326000",
+        "So, together, you get... Hole in the Sky."
+      ],
+      [
+        212,
+        "00:42:46.116000",
+        "00:42:49.890000",
+        "He made a 'Hole in the Sky', named after the drive-in."
+      ],
+      [
+        644,
+        "02:03:49.175000",
+        "02:03:54.119000",
+        "Hole in the Sky"
+      ]
+    ],
+    "regex": "\\b((?!\\bHole\\ in\\ the\\ Sky:)Hole\\ in\\ the\\ Sky)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

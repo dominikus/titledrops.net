@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0034116",
+    "title": "Road to Zanzibar",
+    "year": 1941,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 1322,
+    "occurrences": [
+      [
+        642,
+        "00:39:53.457000",
+        "00:39:57.188000",
+        "And the road to Zanzibar"
+      ],
+      [
+        654,
+        "00:40:56.120000",
+        "00:40:59.715000",
+        "On the road to Zanzibar"
+      ]
+    ],
+    "regex": "\\b((?!\\bRoad\\ to\\ Zanzibar:)Road\\ to\\ Zanzibar)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0218378",
+    "title": "The Claim",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 854,
+    "occurrences": [
+      [
+        144,
+        "00:14:48.287000",
+        "00:14:53.458000",
+        "I, Harry Grimes of the Roughwood Claim,"
+      ],
+      [
+        204,
+        "00:23:10.873000",
+        "00:23:12.916000",
+        "The claim."
+      ],
+      [
+        205,
+        "00:23:13.792000",
+        "00:23:15.586000",
+        "I'll give you the claim."
+      ]
+    ],
+    "regex": "\\b((?!\\bClaim:)Claim)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

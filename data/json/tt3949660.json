@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt3949660",
+    "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 1,
+    "all_lines": 1500,
+    "occurrences": [
+      [
+        42,
+        "00:03:50.560000",
+        "00:03:52.680000",
+        "\"Until one day, from out of the shadows..."
+      ]
+    ],
+    "regex": "\\b((?!\\bTeenage\\ Mutant\\ Ninja\\ Turtles:)Teenage\\ Mutant\\ Ninja\\ Turtles|(?!\\bOut\\ of\\ the\\ Shadows:)Out\\ of\\ the\\ Shadows)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

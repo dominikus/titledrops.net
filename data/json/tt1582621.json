@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1582621",
+    "title": "The Holding",
+    "year": 2011,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 804,
+    "occurrences": [
+      [
+        155,
+        "00:18:14.600000",
+        "00:18:16.728000",
+        "Owns the next holding. He's harmless enough."
+      ],
+      [
+        275,
+        "00:32:00.240000",
+        "00:32:04.290000",
+        "You see, Cassie Naylor's not selling her holding."
+      ]
+    ],
+    "regex": "\\b((?!\\bHolding:)Holding)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

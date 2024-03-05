@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5948508",
+    "title": "Limerence",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1828,
+    "occurrences": [
+      [
+        1475,
+        "01:15:03.150000",
+        "01:15:04.282000",
+        "\"Limerence.\""
+      ],
+      [
+        1477,
+        "01:15:07.372000",
+        "01:15:09.505000",
+        "Not limerick, dumb ass. Limerence."
+      ]
+    ],
+    "regex": "\\b((?!\\bLimerence:)Limerence)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

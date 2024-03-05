@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt6039442",
+    "title": "Kati Kati",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 520,
+    "occurrences": [
+      [
+        12,
+        "00:04:10.430000",
+        "00:04:12.550000",
+        "And this is Kati Kati."
+      ],
+      [
+        485,
+        "01:07:09.430000",
+        "01:07:13.390000",
+        "I'm Kaleche, and this is Kati Kati."
+      ]
+    ],
+    "regex": "\\b((?!\\bKati\\ Kati:)Kati\\ Kati)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt6608136",
+    "title": "Bliss",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1182,
+    "occurrences": [
+      [
+        528,
+        "00:39:10.515000",
+        "00:39:12.808000",
+        "Bliss is a story about Abigail."
+      ],
+      [
+        958,
+        "01:19:04.114000",
+        "01:19:06.574000",
+        "Why is the title Bliss?"
+      ],
+      [
+        968,
+        "01:19:37.231000",
+        "01:19:38.356000",
+        "Bliss."
+      ]
+    ],
+    "regex": "\\b((?!\\bBliss:)Bliss)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

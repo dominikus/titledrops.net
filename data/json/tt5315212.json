@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5315212",
+    "title": "Senior Year",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 2298,
+    "occurrences": [
+      [
+        241,
+        "00:12:08.708000",
+        "00:12:10.500000",
+        "and screw up my senior year?"
+      ],
+      [
+        604,
+        "00:30:13.125000",
+        "00:30:14.500000",
+        "and finish my senior year."
+      ],
+      [
+        1447,
+        "01:08:30.916000",
+        "01:08:34.166000",
+        "Just all of my junior, sophomore, and most of my senior year."
+      ]
+    ],
+    "regex": "\\b((?!\\bSenior\\ Year:)Senior\\ Year)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

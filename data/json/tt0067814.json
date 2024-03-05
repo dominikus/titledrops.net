@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0067814",
+    "title": "Love",
+    "year": 1971,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 743,
+    "occurrences": [
+      [
+        0,
+        "00:01:19.520000",
+        "00:01:22.239000",
+        "Love"
+      ],
+      [
+        50,
+        "00:06:57.360000",
+        "00:07:01.114000",
+        "I know you're in love with the professor"
+      ],
+      [
+        54,
+        "00:07:11.360000",
+        "00:07:15.194000",
+        "- What's that? - Don't deny you're in love with him"
+      ],
+      [
+        158,
+        "00:14:25.800000",
+        "00:14:28.837000",
+        "- You love Janos - Nonsense!"
+      ],
+      [
+        510,
+        "00:44:10.400000",
+        "00:44:13.119000",
+        "He's devoted to those who love him"
+      ],
+      [
+        738,
+        "01:23:06.360000",
+        "01:23:08.157000",
+        "I love you"
+      ]
+    ],
+    "regex": "\\b((?!\\bLove:)Love)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

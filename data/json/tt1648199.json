@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1648199",
+    "title": "Fate",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1319,
+    "occurrences": [
+      [
+        670,
+        "00:47:08.126000",
+        "00:47:09.527000",
+        "- We all have our fate Con."
+      ],
+      [
+        1048,
+        "01:13:53.597000",
+        "01:13:54.964000",
+        "she'll continue in her fate,"
+      ]
+    ],
+    "regex": "\\b((?!\\bFate:)Fate)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

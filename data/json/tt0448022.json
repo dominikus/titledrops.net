@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0448022",
+    "title": "A Bird of the Air",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1509,
+    "occurrences": [
+      [
+        356,
+        "00:22:57.743000",
+        "00:23:00.451000",
+        "Fora bird of the air shall carry the word,"
+      ],
+      [
+        617,
+        "00:35:04.836000",
+        "00:35:08.340000",
+        "A bird of the air shall carry the word."
+      ],
+      [
+        1411,
+        "01:24:44.846000",
+        "01:24:47.759000",
+        "'a bird of the air shall carry the word?'"
+      ]
+    ],
+    "regex": "\\b((?!\\bBird\\ of\\ the\\ Air:)Bird\\ of\\ the\\ Air)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

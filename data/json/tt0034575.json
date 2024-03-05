@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0034575",
+    "title": "Captain Fracasse",
+    "year": 1943,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 901,
+    "occurrences": [
+      [
+        0,
+        "00:00:52.113000",
+        "00:00:54.402000",
+        "Captain Fracasse"
+      ],
+      [
+        481,
+        "00:55:05.196000",
+        "00:55:08.217000",
+        "Featuring the divine Isabelle and the mysterious Captain Fracasse."
+      ],
+      [
+        579,
+        "01:03:15.756000",
+        "01:03:17.501000",
+        "- Which one? - Captain Fracasse."
+      ]
+    ],
+    "regex": "\\b((?!\\bCaptain\\ Fracasse:)Captain\\ Fracasse)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt26424569",
+    "title": "Token Taverns",
+    "year": 2023,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 2388,
+    "occurrences": [
+      [
+        25,
+        "00:01:40.317000",
+        "00:01:42.844000",
+        "\"Token Taverns\", boom shakalaka."
+      ],
+      [
+        2353,
+        "01:33:27.260000",
+        "01:33:29.629000",
+        "And that'll do it for \"Token Taverns\" tonight."
+      ]
+    ],
+    "regex": "\\b((?!\\bToken\\ Taverns:)Token\\ Taverns)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

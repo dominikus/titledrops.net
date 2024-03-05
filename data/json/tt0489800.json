@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0489800",
+    "title": "Pitbullterje",
+    "year": 2005,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 560,
+    "occurrences": [
+      [
+        58,
+        "00:09:59.647000",
+        "00:10:02.844000",
+        "You can call me PitbullTerje."
+      ],
+      [
+        362,
+        "00:48:53.527000",
+        "00:48:57.964000",
+        "How do you feel about PitbullTerje? I saw you two in the dressing room."
+      ]
+    ],
+    "regex": "\\b((?!\\bPitbullterje:)Pitbullterje)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

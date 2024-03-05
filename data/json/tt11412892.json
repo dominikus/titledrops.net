@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt11412892",
+    "title": "Autumn Girl",
+    "year": 2021,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 1547,
+    "occurrences": [
+      [
+        448,
+        "00:28:13.750000",
+        "00:28:16.500000",
+        "Oh, the Autumn Girl. How kind of you to join us."
+      ],
+      [
+        1225,
+        "01:17:57.875000",
+        "01:18:01.375000",
+        "But she isn't the new Autumn Girl, is she?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAutumn\\ Girl:)Autumn\\ Girl)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

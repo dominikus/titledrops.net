@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2355601",
+    "title": "Gameplay",
+    "year": 2014,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1409,
+    "occurrences": [
+      [
+        746,
+        "00:45:14.079000",
+        "00:45:16.848000",
+        "within the gameplay."
+      ],
+      [
+        997,
+        "01:01:01.726000",
+        "01:01:05.062000",
+        "The gameplay involves listening to marilyn manson,"
+      ]
+    ],
+    "regex": "\\b((?!\\bGameplay:)Gameplay)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

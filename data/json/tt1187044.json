@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1187044",
+    "title": "The Maid",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 916,
+    "occurrences": [
+      [
+        184,
+        "00:18:27.038000",
+        "00:18:28.630000",
+        "You're just the maid here!"
+      ],
+      [
+        244,
+        "00:27:40.691000",
+        "00:27:44.058000",
+        "With Mercedes, a new maid, she's Peruvian."
+      ],
+      [
+        400,
+        "00:42:41.925000",
+        "00:42:44.450000",
+        "Oh please, maid fights, I've seen millions!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMaid:)Maid)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

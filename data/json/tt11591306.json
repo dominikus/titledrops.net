@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt11591306",
+    "title": "The Priest",
+    "year": 2021,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1535,
+    "occurrences": [
+      [
+        335,
+        "00:26:25.520000",
+        "00:26:27.560000",
+        "The Manager Priest conducted the interview, right?"
+      ],
+      [
+        643,
+        "00:50:32.600000",
+        "00:50:35.100000",
+        "I am not complaining about this, just because you're a priest."
+      ],
+      [
+        649,
+        "00:51:25.150000",
+        "00:51:28.060000",
+        "It does not befit a Priest to show cruelty to a child."
+      ],
+      [
+        922,
+        "01:18:25.350000",
+        "01:18:29.770000",
+        "A Priest who is blessed with the ability to see and listen to deceased souls."
+      ],
+      [
+        1338,
+        "02:01:40",
+        "02:01:42.420000",
+        "Though I'm a Priest, I too have some tricks up my sleeve."
+      ]
+    ],
+    "regex": "\\b((?!\\bPriest:)Priest)(?!\\:)(?!'t)\\b",
+    "runtime": 144,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

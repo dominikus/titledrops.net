@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0401277",
+    "title": "Bolero",
+    "year": 2004,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1040,
+    "occurrences": [
+      [
+        161,
+        "00:15:58.024000",
+        "00:16:01.573000",
+        "She dances samba, flamenco, bolero."
+      ],
+      [
+        428,
+        "00:41:11.144000",
+        "00:41:14.022000",
+        "and you, Renata, will look at Bolero, will you?"
+      ],
+      [
+        490,
+        "00:45:48.024000",
+        "00:45:51.141000",
+        "So you decided to go to Prague and check on the guy from Bolero,"
+      ],
+      [
+        566,
+        "00:53:34.704000",
+        "00:53:37.935000",
+        "ln Bolero you didn't tell my colleague that you used to go swimming"
+      ],
+      [
+        640,
+        "00:58:53.424000",
+        "00:58:56.814000",
+        "Student halls, Bolero, disco, lake, lots of people everywhere"
+      ],
+      [
+        877,
+        "01:18:50.818000",
+        "01:18:55.130000",
+        "- You were seeing Jakub Docekal before you brought Marika to Bolero."
+      ]
+    ],
+    "regex": "\\b((?!\\bBolero:)Bolero)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

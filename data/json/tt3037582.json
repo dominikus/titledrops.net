@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3037582",
+    "title": "The Guide",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1489,
+    "occurrences": [
+      [
+        597,
+        "00:39:36.884000",
+        "00:39:38.749000",
+        "Whose guide are you?"
+      ],
+      [
+        871,
+        "00:57:39.748000",
+        "00:57:41.904000",
+        "It seems the boy is his guide,"
+      ]
+    ],
+    "regex": "\\b((?!\\bGuide:)Guide)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

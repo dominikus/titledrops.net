@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1017460",
+    "title": "Splice",
+    "year": 2009,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1017,
+    "occurrences": [
+      [
+        47,
+        "00:06:57.200000",
+        "00:07:00.161000",
+        "- We could splice a dog and pony. - They can take the meeting for us."
+      ],
+      [
+        559,
+        "00:47:11.946000",
+        "00:47:14.781000",
+        "Splice masters extraordinaire..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSplice:)Splice)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

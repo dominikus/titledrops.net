@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0111653",
+    "title": "Wagons East",
+    "year": 1994,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 1792,
+    "occurrences": [
+      [
+        653,
+        "00:36:37.630000",
+        "00:36:39.414000",
+        "I want that wagons east movement"
+      ],
+      [
+        1261,
+        "01:13:32.886000",
+        "01:13:34.714000",
+        "about this wagons east movement."
+      ],
+      [
+        1707,
+        "01:36:54.025000",
+        "01:36:57.724000",
+        "Wagons east!"
+      ]
+    ],
+    "regex": "\\b((?!\\bWagons\\ East:)Wagons\\ East)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

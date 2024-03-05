@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt8137454",
+    "title": "Paul Dood's Deadly Lunch Break",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1739,
+    "occurrences": [
+      [
+        956,
+        "00:53:53.706000",
+        "00:53:55.838000",
+        "\"Paul Dood's deadly lunch break.\""
+      ],
+      [
+        1021,
+        "00:58:18.674000",
+        "00:58:21.391000",
+        "\"Paul Dood's deadly lunch break."
+      ]
+    ],
+    "regex": "\\b((?!\\bPaul\\ Dood's\\ Deadly\\ Lunch\\ Break:)Paul\\ Dood's\\ Deadly\\ Lunch\\ Break)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

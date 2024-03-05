@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt10701788",
+    "title": "Rucker",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1299,
+    "occurrences": [
+      [
+        22,
+        "00:01:32.777000",
+        "00:01:36.080000",
+        "My name's Rucker. Rhymes with trucker."
+      ],
+      [
+        119,
+        "00:07:01.105000",
+        "00:07:02.373000",
+        "Rucker Trucker."
+      ],
+      [
+        497,
+        "00:29:44.268000",
+        "00:29:46.436000",
+        "Let's hear it for Rucker and Maggie."
+      ]
+    ],
+    "regex": "\\b((?!\\bRucker:)Rucker)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [
+      "Leif Rucker"
+    ],
+    "title_is_name": true,
+    "rating": 2.8
+  }
+]

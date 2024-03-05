@@ -1,0 +1,91 @@
+[
+  {
+    "imdb": "tt0093341",
+    "title": "The Key",
+    "year": 1987,
+    "genres": [
+      "Drama"
+    ],
+    "count": 12,
+    "all_lines": 291,
+    "occurrences": [
+      [
+        0,
+        "00:01:04.485000",
+        "00:01:08.074000",
+        "The Key"
+      ],
+      [
+        66,
+        "00:23:47.720000",
+        "00:23:49.438000",
+        "or at least given me a key!"
+      ],
+      [
+        86,
+        "00:33:51.960000",
+        "00:33:54.190000",
+        "It's locked, and Mum took the key!"
+      ],
+      [
+        172,
+        "00:44:48.960000",
+        "00:44:51.554000",
+        "Hello, I need your key."
+      ],
+      [
+        179,
+        "00:45:09.840000",
+        "00:45:13.276000",
+        "When I stop by, it's always open. I don't have a key."
+      ],
+      [
+        181,
+        "00:45:20.320000",
+        "00:45:23.551000",
+        "I know; it's not the right key."
+      ],
+      [
+        250,
+        "00:50:59.960000",
+        "00:51:02.599000",
+        "Grandma, are you sure you don't have the key?"
+      ],
+      [
+        255,
+        "00:51:25",
+        "00:51:27.878000",
+        "There's a key on the coat rack in the entry."
+      ],
+      [
+        265,
+        "00:51:57.440000",
+        "00:52:00.258000",
+        "The key is hanging underneath the clothes."
+      ],
+      [
+        278,
+        "00:53:44.880000",
+        "00:53:47.519000",
+        "Stay here and play with your key"
+      ],
+      [
+        281,
+        "00:55:43.880000",
+        "00:55:46.792000",
+        "Yes, the key is under the clothes. Throw it here."
+      ],
+      [
+        282,
+        "00:55:47",
+        "00:55:49.833000",
+        "The key is under the clothes. Throw it here."
+      ]
+    ],
+    "regex": "\\b((?!\\bKey:)Key)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

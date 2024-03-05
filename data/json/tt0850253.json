@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0850253",
+    "title": "Battle in Seattle",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 1806,
+    "occurrences": [
+      [
+        919,
+        "00:44:34",
+        "00:44:36.800000",
+        " The battle in Seattle turns into"
+      ],
+      [
+        922,
+        "00:44:40.650000",
+        "00:44:42.800000",
+        "Battle in Seattle?"
+      ],
+      [
+        1216,
+        "00:59:43.950000",
+        "00:59:46.200000",
+        "We're going live to the battle in Seattle"
+      ]
+    ],
+    "regex": "\\b((?!\\bBattle\\ in\\ Seattle:)Battle\\ in\\ Seattle)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

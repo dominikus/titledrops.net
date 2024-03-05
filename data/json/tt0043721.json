@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0043721",
+    "title": "The Lady Says No",
+    "year": 1951,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1449,
+    "occurrences": [
+      [
+        0,
+        "00:00:11.891000",
+        "00:00:14.136000",
+        "The lady says no."
+      ],
+      [
+        6,
+        "00:00:34.969000",
+        "00:00:37.548000",
+        "The lady says no."
+      ],
+      [
+        65,
+        "00:04:21.400000",
+        "00:04:23.479000",
+        "You mean you never heard of \"The Lady Says No, ' the number"
+      ],
+      [
+        92,
+        "00:05:47.630000",
+        "00:05:50.099000",
+        "how you came to write \"The Lady Says No,\" and that sort of thing."
+      ]
+    ],
+    "regex": "\\b((?!\\bLady\\ Says\\ No:)Lady\\ Says\\ No)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

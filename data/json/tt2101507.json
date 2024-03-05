@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2101507",
+    "title": "The Patrol",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 709,
+    "occurrences": [
+      [
+        15,
+        "00:03:12.778000",
+        "00:03:20.778000",
+        "PATROL"
+      ],
+      [
+        140,
+        "00:14:39.847000",
+        "00:14:41.629000",
+        "Three patrol days online."
+      ],
+      [
+        177,
+        "00:16:48.643000",
+        "00:16:51.748000",
+        "And if there are two with the same name is entangled patrol."
+      ],
+      [
+        633,
+        "01:08:04.720000",
+        "01:08:06.912000",
+        "I have new rules for patrol."
+      ]
+    ],
+    "regex": "\\b((?!\\bPatrol:)Patrol)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt4932388",
+    "title": "Let Yourself Go",
+    "year": 2017,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1365,
+    "occurrences": [
+      [
+        272,
+        "00:20:32.185000",
+        "00:20:34.509000",
+        "Like this, let yourself go! More!"
+      ],
+      [
+        332,
+        "00:24:19.538000",
+        "00:24:22.537000",
+        "Anyway, what's wrong with that? It's healthy to let yourself go."
+      ],
+      [
+        762,
+        "00:53:43.112000",
+        "00:53:46.560000",
+        "Stare at a point in the room and let yourself go."
+      ]
+    ],
+    "regex": "\\b((?!\\bLet\\ Yourself\\ Go:)Let\\ Yourself\\ Go)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

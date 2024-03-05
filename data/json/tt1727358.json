@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1727358",
+    "title": "Panic Button",
+    "year": 2011,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 953,
+    "occurrences": [
+      [
+        16,
+        "00:01:41.260000",
+        "00:01:43.940000",
+        "Panic Button"
+      ],
+      [
+        898,
+        "01:26:21.860000",
+        "01:26:25.620000",
+        "All you had to do was press the panic button."
+      ]
+    ],
+    "regex": "\\b((?!\\bPanic\\ Button:)Panic\\ Button)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

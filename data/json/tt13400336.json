@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt13400336",
+    "title": "The Best Man",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 884,
+    "occurrences": [
+      [
+        61,
+        "00:09:02.959000",
+        "00:09:05.695000",
+        "I want you to be my best man."
+      ],
+      [
+        132,
+        "00:13:07.970000",
+        "00:13:10.339000",
+        "Bradley. The best man."
+      ],
+      [
+        251,
+        "00:21:21.731000",
+        "00:21:24.734000",
+        "You think I should have made Anders my best man?"
+      ],
+      [
+        683,
+        "01:09:24.346000",
+        "01:09:27.117000",
+        "And she's with the best man, Bradley."
+      ]
+    ],
+    "regex": "\\b((?!\\bBest\\ Man:)Best\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

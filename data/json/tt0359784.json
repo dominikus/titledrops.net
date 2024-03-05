@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0359784",
+    "title": "Oseam",
+    "year": 2003,
+    "genres": [
+      "Animation",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 590,
+    "occurrences": [
+      [
+        21,
+        "00:02:17.770000",
+        "00:02:22.434000",
+        "Oseam"
+      ],
+      [
+        588,
+        "01:12:44.259000",
+        "01:12:50.198000",
+        "Oseam was called Gwanumlan as one of the hermitage in Baekdamsa."
+      ],
+      [
+        590,
+        "01:12:53.068000",
+        "01:12:58.233000",
+        "the hermitage was reconstructed and changed its name to Oseam."
+      ]
+    ],
+    "regex": "\\b((?!\\bOseam:)Oseam)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

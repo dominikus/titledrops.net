@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt12545262",
+    "title": "Trigger",
+    "year": 2020,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1054,
+    "occurrences": [
+      [
+        676,
+        "00:42:01.827000",
+        "00:42:05.034000",
+        "I don't want some trigger-happy sniper killing my brother."
+      ],
+      [
+        808,
+        "00:49:13.413000",
+        "00:49:14.517000",
+        "Don't make me have to pull this trigger."
+      ],
+      [
+        908,
+        "00:54:56.862000",
+        "00:54:59.551000",
+        "But we don't actually know if he pulled the trigger."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrigger:)Trigger)(?!\\:)(?!'t)\\b",
+    "runtime": 67,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

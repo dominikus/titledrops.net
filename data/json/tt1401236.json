@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1401236",
+    "title": "The Fields",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 581,
+    "occurrences": [
+      [
+        98,
+        "00:20:18.083000",
+        "00:20:21.484000",
+        "those fields of corn, leave those fields. Did you hear me?"
+      ],
+      [
+        157,
+        "00:25:49.047000",
+        "00:25:51.345000",
+        "Well they took some from the fields back back a few nights ago."
+      ],
+      [
+        420,
+        "01:02:00.383000",
+        "01:02:02.374000",
+        "Been to these fields of corn today?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFields:)Fields)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

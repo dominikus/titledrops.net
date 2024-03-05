@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5327410",
+    "title": "One Last Thing",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1286,
+    "occurrences": [
+      [
+        858,
+        "00:55:09.412000",
+        "00:55:13.449000",
+        "Do you have, uh, one last thing?"
+      ],
+      [
+        1152,
+        "01:18:36.483000",
+        "01:18:39.082000",
+        "When you asked me about my one last thing,"
+      ]
+    ],
+    "regex": "\\b((?!\\bOne\\ Last\\ Thing:)One\\ Last\\ Thing)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

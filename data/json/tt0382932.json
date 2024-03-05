@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0382932",
+    "title": "Ratatouille",
+    "year": 2007,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 1300,
+    "occurrences": [
+      [
+        760,
+        "00:56:34.559000",
+        "00:56:38.688000",
+        "Ratatouille. It's like a stew, right? Why do they call it that?"
+      ],
+      [
+        763,
+        "00:56:43.484000",
+        "00:56:48.781000",
+        "Ratatouille doesn't sound delicious. It sounds like \"rat\" and \"patootie.\""
+      ],
+      [
+        1230,
+        "01:35:12.291000",
+        "01:35:14.835000",
+        "Ratatouille? It's a peasant dish."
+      ],
+      [
+        1232,
+        "01:35:36.398000",
+        "01:35:40.986000",
+        "What? I am making ratatouille. Well, how would you prepare it?"
+      ],
+      [
+        1233,
+        "01:36:13.936000",
+        "01:36:17.147000",
+        "Ratatouille? They must be joking."
+      ],
+      [
+        1235,
+        "01:37:10.367000",
+        "01:37:14.037000",
+        "Who cooked the ratatouille? I demand to know!"
+      ]
+    ],
+    "regex": "\\b((?!\\bRatatouille:)Ratatouille)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0232019",
+    "title": "The Coachman",
+    "year": 1961,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 950,
+    "occurrences": [
+      [
+        397,
+        "00:35:05.717000",
+        "00:35:09.676000",
+        "It's better than being despised as a coachman's daughter."
+      ],
+      [
+        900,
+        "01:30:33.141000",
+        "01:30:36.702000",
+        "A coachman... They deserve each other!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCoachman:)Coachman)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

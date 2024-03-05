@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0302361",
+    "title": "Bookies",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1869,
+    "occurrences": [
+      [
+        272,
+        "00:11:54.583000",
+        "00:11:55.845000",
+        "out of this stuff is bookies,"
+      ],
+      [
+        445,
+        "00:17:51.548000",
+        "00:17:53.768000",
+        "we are not the bookies."
+      ],
+      [
+        485,
+        "00:19:05.666000",
+        "00:19:07.494000",
+        "we refer to our old bookies."
+      ],
+      [
+        702,
+        "00:28:16.433000",
+        "00:28:18.566000",
+        "Soon, word of the bookies"
+      ],
+      [
+        737,
+        "00:30:58.813000",
+        "00:30:59.988000",
+        "for the other bookies I gave you."
+      ]
+    ],
+    "regex": "\\b((?!\\bBookies:)Bookies)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

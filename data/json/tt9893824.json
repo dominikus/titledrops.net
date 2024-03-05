@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt9893824",
+    "title": "Bright Hill Road",
+    "year": 2020,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 986,
+    "occurrences": [
+      [
+        99,
+        "00:09:25.174000",
+        "00:09:28.311000",
+        "Bright Hill Road has a long and complicated history,"
+      ],
+      [
+        446,
+        "00:50:30.305000",
+        "00:50:32.074000",
+        "Bright Hill Road has been a way station"
+      ],
+      [
+        451,
+        "00:50:41.684000",
+        "00:50:44.754000",
+        "Bright Hill Road does not pry or judge."
+      ]
+    ],
+    "regex": "\\b((?!\\bBright\\ Hill\\ Road:)Bright\\ Hill\\ Road)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

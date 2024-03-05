@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2998364",
+    "title": "Roommate",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1285,
+    "occurrences": [
+      [
+        692,
+        "00:44:04.170000",
+        "00:44:06.300000",
+        "[Bottles with every roommate's names on them.]"
+      ],
+      [
+        1107,
+        "01:09:26.850000",
+        "01:09:29.960000",
+        "[ Song Ga Yeon, the Amazon of 'Roommate.']"
+      ],
+      [
+        1284,
+        "01:21:33.730000",
+        "01:21:36.710000",
+        "- Roommate loads up on love. - Teacher!"
+      ]
+    ],
+    "regex": "\\b((?!\\bRoommate:)Roommate)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

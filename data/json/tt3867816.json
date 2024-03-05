@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt3867816",
+    "title": "Pikadero",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 771,
+    "occurrences": [
+      [
+        21,
+        "00:01:54.958000",
+        "00:01:57.042000",
+        "Are you going to take her to a pikadero?"
+      ],
+      [
+        129,
+        "00:13:28.750000",
+        "00:13:30.667000",
+        "No pikadero?"
+      ],
+      [
+        244,
+        "00:30:45.375000",
+        "00:30:48.583000",
+        "- And the pikadero? You didn't even get a... - No."
+      ],
+      [
+        344,
+        "00:40:13.125000",
+        "00:40:15.875000",
+        "Then you wouldn't need a pikadero!"
+      ],
+      [
+        530,
+        "01:00:20.167000",
+        "01:00:25.250000",
+        "I thought, maybe we could take the car to a pikadero."
+      ],
+      [
+        679,
+        "01:19:11.500000",
+        "01:19:13.208000",
+        "It says \"Pikadero\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bPikadero:)Pikadero)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

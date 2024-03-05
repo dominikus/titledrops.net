@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt4287350",
+    "title": "The Warning",
+    "year": 2015,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1790,
+    "occurrences": [
+      [
+        1288,
+        "01:00:25.500000",
+        "01:00:27.230000",
+        "- I bet last night was a warning."
+      ],
+      [
+        1289,
+        "01:00:27.433000",
+        "01:00:28.632000",
+        "- A warning for what?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWarning:)Warning)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

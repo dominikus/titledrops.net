@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0431308",
+    "title": "P.S. I Love You",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1531,
+    "occurrences": [
+      [
+        509,
+        "00:39:14.863000",
+        "00:39:17.660000",
+        "P.S. I love you."
+      ],
+      [
+        713,
+        "00:53:42.912000",
+        "00:53:46.643000",
+        "P.S. I love you."
+      ]
+    ],
+    "regex": "\\b((?!\\bP\\.S\\.\\ I\\ Love\\ You:)P\\.S\\.\\ I\\ Love\\ You)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0109770",
+    "title": "The Fantastic Four",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 788,
+    "occurrences": [
+      [
+        120,
+        "00:15:54.598000",
+        "00:15:59.800000",
+        "Look at you ... the Fantastic Four."
+      ],
+      [
+        595,
+        "01:04:11.903000",
+        "01:04:14.703000",
+        "We are \"The Fantastic Four\", remember?"
+      ],
+      [
+        705,
+        "01:15:00.752000",
+        "01:15:06.452000",
+        "Besides ... we are \"The Fantastic Four\" ... right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFantastic\\ Four:)Fantastic\\ Four)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt9694312",
+    "title": "Stardust",
+    "year": 2020,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1885,
+    "occurrences": [
+      [
+        1300,
+        "01:07:35.498000",
+        "01:07:37.467000",
+        "the legendary Stardust Cowboy."
+      ],
+      [
+        1821,
+        "01:38:24.414000",
+        "01:38:28.017000",
+        "Ziggy Stardust and the Spiders from Mars!"
+      ]
+    ],
+    "regex": "\\b((?!\\bStardust:)Stardust)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

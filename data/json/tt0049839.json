@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0049839",
+    "title": "The Roof",
+    "year": 1956,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1093,
+    "occurrences": [
+      [
+        458,
+        "00:41:38.479000",
+        "00:41:41.240000",
+        "Fine, we're outside. But what can you do without a roof?"
+      ],
+      [
+        969,
+        "01:27:14.678000",
+        "01:27:17.953000",
+        "An A-frame take a lot of time. You'll have to settle for a flat roof."
+      ],
+      [
+        979,
+        "01:27:41.445000",
+        "01:27:42.663000",
+        "A flat roof."
+      ],
+      [
+        1021,
+        "01:29:57.647000",
+        "01:30:00.073000",
+        "With the roof on, they can't do anything!"
+      ],
+      [
+        1079,
+        "01:35:43.368000",
+        "01:35:46.052000",
+        "- Will you finish the roof? - Yes, leave it to me."
+      ]
+    ],
+    "regex": "\\b((?!\\bRoof:)Roof)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

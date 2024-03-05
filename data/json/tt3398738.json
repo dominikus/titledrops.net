@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3398738",
+    "title": "Forgiven",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Family",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1220,
+    "occurrences": [
+      [
+        9,
+        "00:01:51",
+        "00:01:55.458000",
+        "\"Forgive as the Lord has forgiven you.\""
+      ],
+      [
+        1062,
+        "01:07:36.959000",
+        "01:07:39.583000",
+        "I need you to know that I've forgiven you for everything"
+      ],
+      [
+        1146,
+        "01:11:36.709000",
+        "01:11:37.875000",
+        "- I've forgiven you for all of that."
+      ]
+    ],
+    "regex": "\\b((?!\\bForgiven:)Forgiven)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

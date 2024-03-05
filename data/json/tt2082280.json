@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2082280",
+    "title": "Für Elise",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 638,
+    "occurrences": [
+      [
+        185,
+        "00:25:02.490000",
+        "00:25:03.790000",
+        "\"Fur Elise\" was my favourite."
+      ],
+      [
+        508,
+        "01:03:35.650000",
+        "01:03:40.230000",
+        "\"Our last one for tonight is Beethoven's timeless masterpiece 'Fur Elise' \"."
+      ],
+      [
+        510,
+        "01:03:55.450000",
+        "01:03:57.780000",
+        "He's playing my favourite... \"Fur Elise\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bFur\\ Elise:)Fur\\ Elise)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

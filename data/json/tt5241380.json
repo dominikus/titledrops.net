@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5241380",
+    "title": "Resurrection",
+    "year": 2015,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 820,
+    "occurrences": [
+      [
+        666,
+        "01:21:28.958000",
+        "01:21:30.792000",
+        "Resurrection Easter."
+      ],
+      [
+        701,
+        "01:25:24.083000",
+        "01:25:26.833000",
+        "This is a resurrection from the flesh."
+      ]
+    ],
+    "regex": "\\b((?!\\bResurrection:)Resurrection)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt7263182",
+    "title": "Bob Rubin: Oddities and Rarities",
+    "year": 2020,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 924,
+    "occurrences": [
+      [
+        2,
+        "00:00:25.892000",
+        "00:00:29.229000",
+        "Bob Rubin, I can't believe it. The last time I saw you was the '80s."
+      ],
+      [
+        6,
+        "00:00:40.206000",
+        "00:00:43.910000",
+        "Wow, Bob Rubin, I saw you at a nightclub 15 years ago."
+      ],
+      [
+        10,
+        "00:00:52.185000",
+        "00:00:55.722000",
+        "Whoa, Bob Rubin, is that you?"
+      ],
+      [
+        412,
+        "00:21:59.584000",
+        "00:22:01.486000",
+        "Bob Rubin, storm chaser!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBob\\ Rubin:)Bob\\ Rubin|(?!\\bOddities\\ and\\ Rarities:)Oddities\\ and\\ Rarities)(?!\\:)(?!'t)\\b",
+    "runtime": 52,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

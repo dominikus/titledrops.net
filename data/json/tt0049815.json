@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0049815",
+    "title": "The Swan",
+    "year": 1956,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1957,
+    "occurrences": [
+      [
+        307,
+        "00:16:47.111000",
+        "00:16:49.061000",
+        "Remember how her poor father used to call her his swan?"
+      ],
+      [
+        309,
+        "00:16:50.749000",
+        "00:16:55.149000",
+        "\"My proud, white swan,\" he used to say, and that's how she is,"
+      ],
+      [
+        1929,
+        "01:45:24.490000",
+        "01:45:27.130000",
+        "Your father used to call you his swan."
+      ],
+      [
+        1932,
+        "01:45:34.367000",
+        "01:45:38.137000",
+        "Think what it means to be a swan..."
+      ],
+      [
+        1937,
+        "01:45:54.220000",
+        "01:45:57.160000",
+        "the swan is awkward..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSwan:)Swan)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

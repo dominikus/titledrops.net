@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0165800",
+    "title": "The Giving Tree",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 2148,
+    "occurrences": [
+      [
+        1482,
+        "00:57:15.780000",
+        "00:57:18.347000",
+        "called The Giving Tree?"
+      ],
+      [
+        1501,
+        "00:58:00.085000",
+        "00:58:02.566000",
+        "as our giving tree."
+      ]
+    ],
+    "regex": "\\b((?!\\bGiving\\ Tree:)Giving\\ Tree)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0066812",
+    "title": "Basic Training",
+    "year": 1971,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 1603,
+    "occurrences": [
+      [
+        74,
+        "00:04:54.532000",
+        "00:04:56.996000",
+        "to other soldiers in basic training centers"
+      ],
+      [
+        95,
+        "00:06:11.554000",
+        "00:06:14.137000",
+        "So good luck in basic training."
+      ],
+      [
+        105,
+        "00:07:17.439000",
+        "00:07:19.201000",
+        "The best way to go through basic training"
+      ],
+      [
+        494,
+        "00:27:17.224000",
+        "00:27:19.842000",
+        "If you want to spend your entire basic training"
+      ],
+      [
+        1563,
+        "01:22:07.573000",
+        "01:22:10.032000",
+        "We are now at the end of our basic training."
+      ]
+    ],
+    "regex": "\\b((?!\\bBasic\\ Training:)Basic\\ Training)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

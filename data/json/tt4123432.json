@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt4123432",
+    "title": "Fantastic Beasts: The Secrets of Dumbledore",
+    "year": 2022,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 1,
+    "all_lines": 1205,
+    "occurrences": [
+      [
+        254,
+        "00:30:09.583000",
+        "00:30:12.457000",
+        "Fantastic Beasts is required reading for all my fifth years."
+      ]
+    ],
+    "regex": "\\b((?!\\bFantastic\\ Beasts:)Fantastic\\ Beasts|(?!\\bSecrets\\ of\\ Dumbledore:)Secrets\\ of\\ Dumbledore)(?!\\:)(?!'t)\\b",
+    "runtime": 142,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

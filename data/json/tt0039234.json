@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0039234",
+    "title": "A Cage of Nightingales",
+    "year": 1945,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 1436,
+    "occurrences": [
+      [
+        200,
+        "00:11:47.227000",
+        "00:11:49.543000",
+        "The Cage of Nightingales..."
+      ],
+      [
+        206,
+        "00:11:58.589000",
+        "00:12:00.410000",
+        "The cage of Nightingales."
+      ],
+      [
+        269,
+        "00:15:56.467000",
+        "00:15:59.588000",
+        "The Cage of Nightingales? What's that?"
+      ],
+      [
+        347,
+        "00:21:00.800000",
+        "00:21:02.792000",
+        "The Cage of Nightingales"
+      ]
+    ],
+    "regex": "\\b((?!\\bCage\\ of\\ Nightingales:)Cage\\ of\\ Nightingales)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt0449851",
+    "title": "The Valet",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 1208,
+    "occurrences": [
+      [
+        5,
+        "00:03:29.200000",
+        "00:03:31.031000",
+        "Valet"
+      ],
+      [
+        390,
+        "00:28:30.760000",
+        "00:28:32.637000",
+        "The other valet, you killed him!"
+      ],
+      [
+        462,
+        "00:32:25.240000",
+        "00:32:27.071000",
+        "- What does he do? - Parking valet."
+      ],
+      [
+        513,
+        "00:35:45.160000",
+        "00:35:47.355000",
+        "and doesn't know he's a valet."
+      ],
+      [
+        754,
+        "00:49:16.720000",
+        "00:49:20.429000",
+        "They all fell for \"The Princess and the Parking Valet\"."
+      ],
+      [
+        765,
+        "00:49:49.600000",
+        "00:49:51.955000",
+        "You'll make him lose his valet job?"
+      ],
+      [
+        1002,
+        "01:05:37.040000",
+        "01:05:39.952000",
+        "He's a parking valet! Elena, with him?"
+      ]
+    ],
+    "regex": "\\b((?!\\bValet:)Valet)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

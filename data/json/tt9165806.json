@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt9165806",
+    "title": "Ittymaani: Made in China",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 2651,
+    "occurrences": [
+      [
+        217,
+        "00:18:20.460000",
+        "00:18:22.790000",
+        "And that's our 'Made in China' man!"
+      ],
+      [
+        856,
+        "00:47:22.240000",
+        "00:47:24.060000",
+        "That it's made in China, and there's no guarantee!"
+      ],
+      [
+        2632,
+        "02:34:24.860000",
+        "02:34:27.030000",
+        "What to do! I am 'Made in China', right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bIttymaani:)Ittymaani|(?!\\bMade\\ in\\ China:)Made\\ in\\ China)(?!\\:)(?!'t)\\b",
+    "runtime": 158,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

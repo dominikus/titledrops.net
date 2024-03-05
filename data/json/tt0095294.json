@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0095294",
+    "title": "Hellbound: Hellraiser II",
+    "year": 1988,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 347,
+    "occurrences": [
+      [
+        1,
+        "00:00:08.689000",
+        "00:00:11.488000",
+        "HELLRAISER"
+      ],
+      [
+        5,
+        "00:01:31.237000",
+        "00:01:35.516000",
+        "HELLBOUND - HELLRAISER II"
+      ]
+    ],
+    "regex": "\\b((?!\\bHellbound:)Hellbound|(?!\\bHellraiser:)Hellraiser)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

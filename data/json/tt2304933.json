@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt2304933",
+    "title": "The 5th Wave",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 1333,
+    "occurrences": [
+      [
+        558,
+        "00:44:16.362000",
+        "00:44:18.406000",
+        "(SIGHS) The 5th Wave."
+      ],
+      [
+        675,
+        "00:53:13.482000",
+        "00:53:15.776000",
+        "he was afraid you'd get him killed when the 5th Wave hits."
+      ],
+      [
+        800,
+        "01:05:05.485000",
+        "01:05:06.778000",
+        "The 5th Wave."
+      ],
+      [
+        1013,
+        "01:21:12.326000",
+        "01:21:14.036000",
+        "We're not fighting the 5th Wave."
+      ],
+      [
+        1014,
+        "01:21:15.579000",
+        "01:21:17.122000",
+        "We are the 5th Wave."
+      ]
+    ],
+    "regex": "\\b((?!\\b5th\\ Wave:)5th\\ Wave)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

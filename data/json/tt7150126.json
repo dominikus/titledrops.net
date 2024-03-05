@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7150126",
+    "title": "One of the Good Ones",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1138,
+    "occurrences": [
+      [
+        889,
+        "00:56:03.898000",
+        "00:56:05.099000",
+        "One of the good ones."
+      ],
+      [
+        987,
+        "01:05:22.355000",
+        "01:05:24.824000",
+        "You were one Of the good ones"
+      ]
+    ],
+    "regex": "\\b((?!\\bOne\\ of\\ the\\ Good\\ Ones:)One\\ of\\ the\\ Good\\ Ones)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

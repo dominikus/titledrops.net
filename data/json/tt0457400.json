@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0457400",
+    "title": "Land of the Lost",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1505,
+    "occurrences": [
+      [
+        685,
+        "00:36:27.060000",
+        "00:36:29.520000",
+        "I am a prisoner in this Land of the Lost."
+      ],
+      [
+        1454,
+        "01:26:18.050000",
+        "01:26:19.210000",
+        "Land of the lost."
+      ]
+    ],
+    "regex": "\\b((?!\\bLand\\ of\\ the\\ Lost:)Land\\ of\\ the\\ Lost)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

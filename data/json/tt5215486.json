@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt5215486",
+    "title": "Dawson City: Frozen Time",
+    "year": 2016,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "count": 5,
+    "all_lines": 535,
+    "occurrences": [
+      [
+        32,
+        "00:03:02.016000",
+        "00:03:05.687000",
+        "at Klondike National Historic Sites in Dawson City."
+      ],
+      [
+        343,
+        "01:44:24.218000",
+        "01:44:26.011000",
+        " Dawson City sprang up overnight."
+      ],
+      [
+        383,
+        "01:48:11.987000",
+        "01:48:15.282000",
+        "because swimming pools and Dawson City"
+      ],
+      [
+        443,
+        "01:51:05.160000",
+        "01:51:07.412000",
+        "So the films would come to Dawson City"
+      ],
+      [
+        444,
+        "01:51:07.621000",
+        "01:51:10.290000",
+        "and for the most part remained in Dawson City,\""
+      ]
+    ],
+    "regex": "\\b((?!\\bDawson\\ City:)Dawson\\ City|(?!\\bFrozen\\ Time:)Frozen\\ Time)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

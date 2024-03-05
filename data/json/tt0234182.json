@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0234182",
+    "title": "The Little Prince",
+    "year": 1966,
+    "genres": [
+      "Family",
+      "Fantasy"
+    ],
+    "count": 5,
+    "all_lines": 485,
+    "occurrences": [
+      [
+        35,
+        "00:03:39.700000",
+        "00:03:42.800000",
+        "The Little Prince"
+      ],
+      [
+        378,
+        "00:46:55.200000",
+        "00:46:57.600000",
+        "You will be a little prince,"
+      ],
+      [
+        381,
+        "00:47:05.500000",
+        "00:47:09.100000",
+        "To me, you are nothing more than a little prince,"
+      ],
+      [
+        472,
+        "01:01:56.700000",
+        "01:02:00.300000",
+        "Little prince hasn't been able to fasten it on his sheep."
+      ],
+      [
+        474,
+        "01:02:04.900000",
+        "01:02:08.200000",
+        "You, who also love the little prince, like me..."
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Prince:)Little\\ Prince)(?!\\:)(?!'t)\\b",
+    "runtime": 68,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

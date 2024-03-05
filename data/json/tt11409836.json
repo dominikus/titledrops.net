@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt11409836",
+    "title": "Buddies from the Neighborhood",
+    "year": 2022,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1348,
+    "occurrences": [
+      [
+        594,
+        "00:42:31.880000",
+        "00:42:34.640000",
+        "Buddies from the neighborhood. They were just leaving."
+      ],
+      [
+        1342,
+        "01:30:51.160000",
+        "01:30:53.520000",
+        "They're my buddies from the neighborhood."
+      ],
+      [
+        1346,
+        "01:31:24.240000",
+        "01:31:28.880000",
+        "Just a few buddies from the neighborhood. You can't buy them. They're a gift."
+      ]
+    ],
+    "regex": "\\b((?!\\bBuddies\\ from\\ the\\ Neighborhood:)Buddies\\ from\\ the\\ Neighborhood)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

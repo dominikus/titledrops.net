@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt0117437",
+    "title": "Raja Hindustani",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 756,
+    "occurrences": [
+      [
+        46,
+        "00:09:21.268000",
+        "00:09:24.396000",
+        "- Raja Hindustani. - Raja Hindustani...?"
+      ],
+      [
+        112,
+        "00:14:24.337000",
+        "00:14:27.306000",
+        "And 3 hours flat in Raja Hindustani's taxi."
+      ],
+      [
+        113,
+        "00:14:27.907000",
+        "00:14:32.571000",
+        "Your name is Raja Hindustani?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRaja\\ Hindustani:)Raja\\ Hindustani)(?!\\:)(?!'t)\\b",
+    "runtime": 177,
+    "characters": [
+      "Raja Hindustani"
+    ],
+    "title_is_name": true,
+    "rating": 6.1
+  }
+]

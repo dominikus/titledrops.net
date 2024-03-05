@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt11827806",
+    "title": "So Much Love to Give",
+    "year": 2020,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 2075,
+    "occurrences": [
+      [
+        1963,
+        "01:37:07.125000",
+        "01:37:09.291000",
+        "Here, there's so much love to give!"
+      ],
+      [
+        1971,
+        "01:37:27.875000",
+        "01:37:29.791000",
+        "So much love to give"
+      ]
+    ],
+    "regex": "\\b((?!\\bSo\\ Much\\ Love\\ to\\ Give:)So\\ Much\\ Love\\ to\\ Give)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

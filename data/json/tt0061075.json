@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0061075",
+    "title": "Ten Little Indians",
+    "year": 1965,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1118,
+    "occurrences": [
+      [
+        103,
+        "00:10:12.328000",
+        "00:10:14.228000",
+        "Ten little Indians went out to dine"
+      ],
+      [
+        140,
+        "00:13:03.732000",
+        "00:13:05.893000",
+        "The old nursery rhyme, \"The Ten Little Indians.\""
+      ],
+      [
+        145,
+        "00:13:19.048000",
+        "00:13:21.209000",
+        "Ten little Indians went out to dine"
+      ],
+      [
+        329,
+        "00:25:51.533000",
+        "00:25:55.799000",
+        "Ten little Indians went out to dine One of them choked himself"
+      ]
+    ],
+    "regex": "\\b((?!\\bTen\\ Little\\ Indians:)Ten\\ Little\\ Indians)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

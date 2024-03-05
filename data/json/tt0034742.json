@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0034742",
+    "title": "Flying Tigers",
+    "year": 1942,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1048,
+    "occurrences": [
+      [
+        217,
+        "00:27:08.217000",
+        "00:27:10.514000",
+        "- Captain Jim Gordon of the Flying Tigers. -How are you?"
+      ],
+      [
+        593,
+        "01:00:57.248000",
+        "01:01:00.254000",
+        "No, for your courage and loyalty as a member of the Flying Tigers."
+      ]
+    ],
+    "regex": "\\b((?!\\bFlying\\ Tigers:)Flying\\ Tigers)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0064296",
+    "title": "Eros + Massacre",
+    "year": 1969,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1352,
+    "occurrences": [
+      [
+        56,
+        "00:04:33.840000",
+        "00:04:43.647000",
+        "Eros + Massacre"
+      ],
+      [
+        1352,
+        "02:45:01.992000",
+        "02:45:14.200000",
+        "Eros + massacre"
+      ]
+    ],
+    "regex": "\\b((?!\\bEros\\ \\+\\ Massacre:)Eros\\ \\+\\ Massacre)(?!\\:)(?!'t)\\b",
+    "runtime": 216,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2466786",
+    "title": "National Security",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1056,
+    "occurrences": [
+      [
+        950,
+        "01:35:34.590000",
+        "01:35:40.230000",
+        "It is a National Security Law issue. How does the party feel about it?"
+      ],
+      [
+        959,
+        "01:36:08.420000",
+        "01:36:11.120000",
+        "\"Let's put this sword called National Security Law"
+      ],
+      [
+        963,
+        "01:36:19.530000",
+        "01:36:21.690000",
+        "You were the victim of this National Security Law, aren't you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bNational\\ Security:)National\\ Security)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

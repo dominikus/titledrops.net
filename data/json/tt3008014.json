@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt3008014",
+    "title": "The Face Reader",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1852,
+    "occurrences": [
+      [
+        24,
+        "00:03:04.618000",
+        "00:03:06.353000",
+        "A face reader told me that."
+      ],
+      [
+        33,
+        "00:03:30.177000",
+        "00:03:35.849000",
+        "the best face reader of Chosun."
+      ],
+      [
+        50,
+        "00:04:57.965000",
+        "00:05:01.668000",
+        "that a famous face reader lives here."
+      ],
+      [
+        1852,
+        "02:16:50.944000",
+        "02:16:58.944000",
+        "(The Face Reader)"
+      ]
+    ],
+    "regex": "\\b((?!\\bFace\\ Reader:)Face\\ Reader)(?!\\:)(?!'t)\\b",
+    "runtime": 140,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

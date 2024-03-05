@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt11897340",
+    "title": "Huda's Salon",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 738,
+    "occurrences": [
+      [
+        0,
+        "00:02:06.126000",
+        "00:02:12.090000",
+        "Huda's salon"
+      ],
+      [
+        493,
+        "00:57:05.631000",
+        "00:57:09.009000",
+        "Did you hear about the scandal at huda's salon?"
+      ],
+      [
+        674,
+        "01:15:23.352000",
+        "01:15:28.149000",
+        "Yesterday I was at huda's salon and she drugged me..."
+      ],
+      [
+        675,
+        "01:15:34.238000",
+        "01:15:36.073000",
+        "Huda's salon?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHuda's\\ Salon:)Huda's\\ Salon)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

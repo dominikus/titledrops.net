@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt15437786",
+    "title": "1-800-Hot-Nite",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1817,
+    "occurrences": [
+      [
+        21,
+        "00:00:44.578000",
+        "00:00:48.481000",
+        "-  It's 1-800-Hot-Nite."
+      ],
+      [
+        922,
+        "00:41:37.898000",
+        "00:41:40.401000",
+        "-  You've called 1-800-Hot-Nite ."
+      ],
+      [
+        1566,
+        "01:12:10.865000",
+        "01:12:13.033000",
+        "-  You've called 1-800-Hot-Nite ."
+      ]
+    ],
+    "regex": "\\b((?!\\b1\\-800\\-Hot\\-Nite:)1\\-800\\-Hot\\-Nite)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

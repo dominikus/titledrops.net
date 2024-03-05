@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3229518",
+    "title": "The Irish Pub",
+    "year": 2013,
+    "genres": [
+      "Documentary",
+      "History",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1206,
+    "occurrences": [
+      [
+        348,
+        "00:18:22.400000",
+        "00:18:25.200000",
+        "I suppose the Irish pub more so than English pubs"
+      ],
+      [
+        1105,
+        "01:07:12.900000",
+        "01:07:15.700000",
+        "The Irish pub is a place where you can talk"
+      ]
+    ],
+    "regex": "\\b((?!\\bIrish\\ Pub:)Irish\\ Pub)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

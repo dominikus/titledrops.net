@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt3568002",
+    "title": "The Witness",
+    "year": 2015,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Documentary"
+    ],
+    "count": 8,
+    "all_lines": 1537,
+    "occurrences": [
+      [
+        371,
+        "00:23:04.783000",
+        "00:23:08.116000",
+        "accounts of witness interviews called DD5's."
+      ],
+      [
+        401,
+        "00:24:33.271000",
+        "00:24:35.865000",
+        "of the witness accounts."
+      ],
+      [
+        490,
+        "00:28:53.631000",
+        "00:28:57.123000",
+        "were they pushing the, you know, the witness story and asking --"
+      ],
+      [
+        503,
+        "00:29:43.515000",
+        "00:29:45.847000",
+        "A witness who doesn't know she's a witness."
+      ],
+      [
+        621,
+        "00:35:56.320000",
+        "00:35:59.255000",
+        "- Did anybody ever challenge the 38 witness"
+      ],
+      [
+        662,
+        "00:38:04.215000",
+        "00:38:05.648000",
+        "as a witness in their reports?"
+      ],
+      [
+        745,
+        "00:41:52.610000",
+        "00:41:54.976000",
+        "- If you're a witness in one of these things, you know what you gotta do?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWitness:)Witness)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

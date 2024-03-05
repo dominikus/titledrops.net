@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2419934",
+    "title": "The Rolling Stones: Charlie Is My Darling - Ireland 1965",
+    "year": 2012,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 552,
+    "occurrences": [
+      [
+        66,
+        "00:05:31.706000",
+        "00:05:33.629000",
+        "The Rolling Stones here in the car,"
+      ],
+      [
+        110,
+        "00:09:43.124000",
+        "00:09:46.503000",
+        "Here they are, The Rolling Stones!"
+      ],
+      [
+        247,
+        "00:27:53.380000",
+        "00:27:55.633000",
+        "What do you think of the Rolling Stones?"
+      ],
+      [
+        422,
+        "00:42:13.990000",
+        "00:42:16.834000",
+        "Here they are, The Rolling Stones!"
+      ]
+    ],
+    "regex": "\\b((?!\\bRolling\\ Stones:)Rolling\\ Stones|(?!\\bCharlie\\ Is\\ My\\ Darling\\ \\-\\ Ireland:)Charlie\\ Is\\ My\\ Darling\\ \\-\\ Ireland)(?!\\:)(?!'t)\\b",
+    "runtime": 63,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt8889716",
+    "title": "The Box",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 950,
+    "occurrences": [
+      [
+        200,
+        "00:14:29.400000",
+        "00:14:32.597000",
+        "- Does it have something to do with \"The Box?\""
+      ],
+      [
+        241,
+        "00:16:48.790000",
+        "00:16:52.120000",
+        "in a feature that I'm casting titled \"The Box.\""
+      ],
+      [
+        369,
+        "00:26:33.510000",
+        "00:26:36.160000",
+        "What if some people are comfortable inside their box?"
+      ],
+      [
+        374,
+        "00:26:51.930000",
+        "00:26:53.503000",
+        "But if you don't like your box?"
+      ],
+      [
+        852,
+        "01:02:34.720000",
+        "01:02:38.300000",
+        "You know, I've been writing \"The Box\" for six years now."
+      ],
+      [
+        923,
+        "01:07:41.040000",
+        "01:07:43.690000",
+        "What if some people are comfortable inside their box?"
+      ],
+      [
+        929,
+        "01:07:59.490000",
+        "01:08:01.290000",
+        "But what if you don't like your box?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBox:)Box)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

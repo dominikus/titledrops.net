@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0038370",
+    "title": "Blue Skies",
+    "year": 1946,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "count": 7,
+    "all_lines": 1261,
+    "occurrences": [
+      [
+        711,
+        "00:56:36.236000",
+        "00:56:42.038000",
+        "( whistling \"Blue Skies\" )"
+      ],
+      [
+        726,
+        "00:58:00.495000",
+        "00:58:04.795000",
+        "Blue skies"
+      ],
+      [
+        728,
+        "00:58:09.504000",
+        "00:58:14.739000",
+        "Nothin' but blue skies"
+      ],
+      [
+        741,
+        "00:59:10.738000",
+        "00:59:16.735000",
+        "Nothing but blue skies"
+      ],
+      [
+        743,
+        "00:59:24.019000",
+        "00:59:30.983000",
+        "Nothing but blue skies"
+      ],
+      [
+        1256,
+        "01:42:35.797000",
+        "01:42:44.001000",
+        "The perfume of roses in May Blue skies smiling at me"
+      ],
+      [
+        1257,
+        "01:42:44.105000",
+        "01:42:51.103000",
+        "Nothing but blue skies Returns to my room"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Skies:)Blue\\ Skies)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

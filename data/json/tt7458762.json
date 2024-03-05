@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt7458762",
+    "title": "The Wolf's Call",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1167,
+    "occurrences": [
+      [
+        196,
+        "00:16:13.963000",
+        "00:16:15.838000",
+        "- The wolf's call. - The Iranian?"
+      ],
+      [
+        218,
+        "00:17:45.713000",
+        "00:17:47.005000",
+        "Wolf's call, bearing 3-5-5."
+      ],
+      [
+        273,
+        "00:26:29.713000",
+        "00:26:31.713000",
+        "Without hearing the wolf's call."
+      ],
+      [
+        275,
+        "00:26:38.005000",
+        "00:26:39.296000",
+        "The wolf's call."
+      ],
+      [
+        1158,
+        "01:42:49.213000",
+        "01:42:50.838000",
+        "I hear the wolf's call."
+      ]
+    ],
+    "regex": "\\b((?!\\bWolf's\\ Call:)Wolf's\\ Call)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

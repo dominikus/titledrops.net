@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2561572",
+    "title": "Get Hard",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 4,
+    "all_lines": 2499,
+    "occurrences": [
+      [
+        1173,
+        "00:46:09.200000",
+        "00:46:10.633000",
+        "Are you ready to get hard?"
+      ],
+      [
+        1174,
+        "00:46:10.635000",
+        "00:46:12.201000",
+        "I am ready. I'm ready to get hard!"
+      ],
+      [
+        1175,
+        "00:46:12.203000",
+        "00:46:14.704000",
+        "You're gonna show me that you can get hard!"
+      ],
+      [
+        1178,
+        "00:46:18.209000",
+        "00:46:19.575000",
+        "Then let's go home and get hard."
+      ]
+    ],
+    "regex": "\\b((?!\\bGet\\ Hard:)Get\\ Hard)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

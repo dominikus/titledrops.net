@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt10442108",
+    "title": "Kinky Boots: The Musical",
+    "year": 2019,
+    "genres": [
+      "Musical"
+    ],
+    "count": 6,
+    "all_lines": 2460,
+    "occurrences": [
+      [
+        917,
+        "00:43:23.393000",
+        "00:43:25.226000",
+        "designing kinky boots."
+      ],
+      [
+        924,
+        "00:43:53.642000",
+        "00:43:57.696000",
+        "I guess I could get used to the name Kinky Boots."
+      ],
+      [
+        927,
+        "00:44:02.016000",
+        "00:44:04.394000",
+        "Lola's Kinky Boots."
+      ],
+      [
+        2259,
+        "01:48:15.421000",
+        "01:48:18.120000",
+        "(speaking Italian) Kinky Boots?"
+      ],
+      [
+        2311,
+        "01:50:57.939000",
+        "01:50:59.522000",
+        "Lola's Kinky Boots!"
+      ],
+      [
+        2412,
+        "01:55:55.511000",
+        "01:55:59.470000",
+        "- As people all over the world clamor for Kinky Boots,"
+      ]
+    ],
+    "regex": "\\b((?!\\bKinky\\ Boots:)Kinky\\ Boots|(?!\\bMusical:)Musical)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

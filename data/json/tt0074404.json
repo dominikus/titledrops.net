@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0074404",
+    "title": "The Devil's Playground",
+    "year": 1976,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1102,
+    "occurrences": [
+      [
+        157,
+        "00:17:23.742000",
+        "00:17:27.785000",
+        "-An undisciplined mind is... -\"The Devil's Playground\"!"
+      ],
+      [
+        186,
+        "00:19:23.467000",
+        "00:19:24.696000",
+        "\"Devil's Playground.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bDevil's\\ Playground:)Devil's\\ Playground)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

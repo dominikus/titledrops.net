@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0052323",
+    "title": "The Truth About Women",
+    "year": 1957,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1724,
+    "occurrences": [
+      [
+        1693,
+        "01:42:06.334000",
+        "01:42:09.376000",
+        "The truth about women today is they don't want to be women at all, they want to be men."
+      ],
+      [
+        1699,
+        "01:42:27.917000",
+        "01:42:29.876000",
+        "I'll tell you the truth about women."
+      ]
+    ],
+    "regex": "\\b((?!\\bTruth\\ About\\ Women:)Truth\\ About\\ Women)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

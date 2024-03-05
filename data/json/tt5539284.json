@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5539284",
+    "title": "Special Unit",
+    "year": 2017,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 2248,
+    "occurrences": [
+      [
+        1206,
+        "00:53:00.242000",
+        "00:53:02.478000",
+        "I'd like to introduce you to the Special Unit"
+      ],
+      [
+        1267,
+        "00:56:33.922000",
+        "00:56:36.958000",
+        "- Guys, give it up for the Special Unit!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpecial\\ Unit:)Special\\ Unit)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

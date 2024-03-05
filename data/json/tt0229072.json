@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0229072",
+    "title": "Zero Woman: Assassin Lovers",
+    "year": 1996,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 384,
+    "occurrences": [
+      [
+        183,
+        "00:41:34.358000",
+        "00:41:35.609000",
+        "You a Zero Woman?"
+      ],
+      [
+        340,
+        "01:18:10.686000",
+        "01:18:15.441000",
+        "You dealt with the Zero Woman? Oh really..."
+      ],
+      [
+        342,
+        "01:18:22.631000",
+        "01:18:24.644000",
+        "We've got the Zero Woman here."
+      ],
+      [
+        374,
+        "01:24:29.431000",
+        "01:24:30.819000",
+        "a Zero Woman."
+      ]
+    ],
+    "regex": "\\b((?!\\bZero\\ Woman:)Zero\\ Woman|(?!\\bAssassin\\ Lovers:)Assassin\\ Lovers)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

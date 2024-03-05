@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0090946",
+    "title": "Wild Wind",
+    "year": 1985,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1210,
+    "occurrences": [
+      [
+        47,
+        "00:03:42.500000",
+        "00:03:46.136000",
+        "In fact, he's in charge of the whole operation, Wild Wind."
+      ],
+      [
+        1126,
+        "01:23:25.350000",
+        "01:23:30.043000",
+        "- Major Keegan, Wild Wind 2 reporting."
+      ]
+    ],
+    "regex": "\\b((?!\\bWild\\ Wind:)Wild\\ Wind)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt4125206",
+    "title": "Lord of the Dance: Dangerous Games",
+    "year": 2014,
+    "genres": [
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 187,
+    "occurrences": [
+      [
+        13,
+        "00:02:31.609000",
+        "00:02:35.613000",
+        "Lord of the Dance is the biggest selling dance show of all time."
+      ],
+      [
+        40,
+        "00:06:22.798000",
+        "00:06:27.970000",
+        "and your Lord of the Dance will be dead."
+      ],
+      [
+        163,
+        "01:39:24.291000",
+        "01:39:26.501000",
+        "James Keegan, the Lord of the Dance."
+      ]
+    ],
+    "regex": "\\b((?!\\bLord\\ of\\ the\\ Dance:)Lord\\ of\\ the\\ Dance|(?!\\bDangerous\\ Games:)Dangerous\\ Games)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

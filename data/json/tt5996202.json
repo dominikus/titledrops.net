@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt5996202",
+    "title": "The Net",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1079,
+    "occurrences": [
+      [
+        55,
+        "00:08:10.111000",
+        "00:08:14.551000",
+        "The Net Translated by: cRosKy"
+      ],
+      [
+        733,
+        "01:09:45.753000",
+        "01:09:49.873000",
+        "- And now the net is around my own neck. - Don't give up."
+      ],
+      [
+        734,
+        "01:09:51.749000",
+        "01:09:54.069000",
+        "Once the fish is caught on the net, its life is over."
+      ],
+      [
+        1057,
+        "01:45:51.882000",
+        "01:45:54.282000",
+        "I have to cast a net."
+      ]
+    ],
+    "regex": "\\b((?!\\bNet:)Net)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

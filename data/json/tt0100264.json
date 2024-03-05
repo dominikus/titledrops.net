@@ -1,0 +1,52 @@
+[
+  {
+    "imdb": "tt0100264",
+    "title": "Nils Karlsson Pyssling",
+    "year": 1990,
+    "genres": [
+      "Family",
+      "Fantasy"
+    ],
+    "count": 5,
+    "all_lines": 350,
+    "occurrences": [
+      [
+        46,
+        "00:11:10.680000",
+        "00:11:14.440000",
+        "My name is Nils Karlsson Pyssling."
+      ],
+      [
+        47,
+        "00:11:14.520000",
+        "00:11:20.230000",
+        "- Nils Karlsson Pyssling? - Yes, what is your name?"
+      ],
+      [
+        91,
+        "00:17:09.360000",
+        "00:17:13.750000",
+        "\"Nils Karlsson Pyssling.\""
+      ],
+      [
+        111,
+        "00:19:28.280000",
+        "00:19:33.830000",
+        "- Nils Karlsson Pyssling, do you believe that? - No."
+      ],
+      [
+        245,
+        "00:47:16.520000",
+        "00:47:21.910000",
+        "- \"and where is that dirty Nils Karlsson Pyssling?\""
+      ]
+    ],
+    "regex": "\\b((?!\\bNils\\ Karlsson\\ Pyssling:)Nils\\ Karlsson\\ Pyssling)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [
+      "Nils Karlsson Pyssling"
+    ],
+    "title_is_name": true,
+    "rating": 5.7
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "imdb": "tt0117496",
+    "title": "Robinson Crusoe",
+    "year": 1997,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1089,
+    "occurrences": [
+      [
+        21,
+        "00:01:05.639000",
+        "00:01:09.075000",
+        "A recently-discovered journal of one Robinson Crusoe."
+      ],
+      [
+        424,
+        "00:34:29.240000",
+        "00:34:31.606000",
+        "I, Robinson Crusoe..."
+      ],
+      [
+        766,
+        "00:57:12.435000",
+        "00:57:14.596000",
+        "My name is Robinson Crusoe."
+      ]
+    ],
+    "regex": "\\b((?!\\bRobinson\\ Crusoe:)Robinson\\ Crusoe)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [
+      "Robinson Crusoe"
+    ],
+    "title_is_name": true,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2185503",
+    "title": "Snackbar",
+    "year": 2012,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 870,
+    "occurrences": [
+      [
+        475,
+        "00:34:56.760000",
+        "00:34:59.832000",
+        "Snackbar Ali International. - Hold this."
+      ],
+      [
+        823,
+        "01:08:24.360000",
+        "01:08:27.716000",
+        "Yeah, you're so rich you're chilling out at the Snackbar."
+      ]
+    ],
+    "regex": "\\b((?!\\bSnackbar:)Snackbar)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

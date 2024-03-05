@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0238895",
+    "title": "The Imp",
+    "year": 1981,
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Musical"
+    ],
+    "count": 4,
+    "all_lines": 402,
+    "occurrences": [
+      [
+        10,
+        "00:02:51.019000",
+        "00:02:54.719000",
+        "IMP"
+      ],
+      [
+        61,
+        "00:14:37",
+        "00:14:43.314000",
+        "Oh, what are you grimy imp!"
+      ],
+      [
+        93,
+        "00:22:45.920000",
+        "00:22:48.673000",
+        "Will not listen, take the rod! What do you spoil this horned imp?"
+      ],
+      [
+        364,
+        "01:06:10.200000",
+        "01:06:15.440000",
+        "Beech! Beech, where are you? Imp! Beech! Ay! Beech, ay! Come back!"
+      ]
+    ],
+    "regex": "\\b((?!\\bImp:)Imp)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt2513092",
+    "title": "The Monkey's Paw",
+    "year": 2013,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1096,
+    "occurrences": [
+      [
+        208,
+        "00:13:38.951000",
+        "00:13:40.485000",
+        "It's a monkey's paw."
+      ],
+      [
+        209,
+        "00:13:40.487000",
+        "00:13:42.320000",
+        "-What? -Monkey's paw."
+      ],
+      [
+        340,
+        "00:20:33.466000",
+        "00:20:36.701000",
+        "Hey man, I'm not the one making wishes on a monkey's paw, am I?"
+      ],
+      [
+        731,
+        "00:53:29.573000",
+        "00:53:32.808000",
+        "And among them was this one little monkey's paw."
+      ],
+      [
+        755,
+        "00:54:52.590000",
+        "00:54:55.658000",
+        "So, look, I... I mean, if I have this monkey's paw"
+      ]
+    ],
+    "regex": "\\b((?!\\bMonkey's\\ Paw:)Monkey's\\ Paw)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2170299",
+    "title": "Bad Words",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1461,
+    "occurrences": [
+      [
+        441,
+        "00:23:11.112000",
+        "00:23:13.906000",
+        "Not me. My father says bad words."
+      ],
+      [
+        443,
+        "00:23:15.996000",
+        "00:23:18.688000",
+        "Never met him. But my mom said bad words, a lot."
+      ],
+      [
+        444,
+        "00:23:18.906000",
+        "00:23:21.039000",
+        "But you can say bad words. Who gives a shit."
+      ]
+    ],
+    "regex": "\\b((?!\\bBad\\ Words:)Bad\\ Words)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

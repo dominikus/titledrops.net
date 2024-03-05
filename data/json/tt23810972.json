@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt23810972",
+    "title": "Died Suddenly",
+    "year": 2022,
+    "genres": [
+      "Documentary",
+      "Musical"
+    ],
+    "count": 6,
+    "all_lines": 1367,
+    "occurrences": [
+      [
+        42,
+        "00:02:41.850000",
+        "00:02:43.820000",
+        ".. school cheerleader who died suddenly .."
+      ],
+      [
+        138,
+        "00:06:58.240000",
+        "00:07:02.290000",
+        "who died suddenly .. wasn't sick .."
+      ],
+      [
+        144,
+        "00:07:17.190000",
+        "00:07:19.110000",
+        "and then type in \"died suddenly\""
+      ],
+      [
+        148,
+        "00:07:38.270000",
+        "00:07:41.060000",
+        "who .. died suddenly .. younger people .."
+      ],
+      [
+        979,
+        "00:47:39.020000",
+        "00:47:40.820000",
+        "A High school cheerleader who died suddenly ..."
+      ],
+      [
+        1018,
+        "00:49:27.120000",
+        "00:49:29.460000",
+        "young person that died suddenly."
+      ]
+    ],
+    "regex": "\\b((?!\\bDied\\ Suddenly:)Died\\ Suddenly)(?!\\:)(?!'t)\\b",
+    "runtime": 69,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt2438860",
+    "title": "100 Yen: The Japanese Arcade Experience",
+    "year": 2012,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 6,
+    "all_lines": 547,
+    "occurrences": [
+      [
+        19,
+        "00:03:59.580000",
+        "00:04:02.580000",
+        "A game of Space Invaders cost a single 100 yen coin per play"
+      ],
+      [
+        23,
+        "00:04:10.080000",
+        "00:04:13.080000",
+        "actually ran out of 100 yen coins."
+      ],
+      [
+        110,
+        "00:12:56.540000",
+        "00:12:58.540000",
+        "you must consider that you put in your 100 yen coin"
+      ],
+      [
+        117,
+        "00:13:18.040000",
+        "00:13:21.040000",
+        "One other thing is, for the person who deposited their 100 yen coin"
+      ],
+      [
+        141,
+        "00:15:17.790000",
+        "00:15:20.790000",
+        "We'll take your 100 yen and give you three minutes of entertainment"
+      ],
+      [
+        144,
+        "00:15:26.790000",
+        "00:15:30.790000",
+        "You and the person beside you each pay 100 yen to fight"
+      ]
+    ],
+    "regex": "\\b((?!\\b100\\ Yen:)100\\ Yen|(?!\\bJapanese\\ Arcade\\ Experience:)Japanese\\ Arcade\\ Experience)(?!\\:)(?!'t)\\b",
+    "runtime": 68,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1778931",
+    "title": "Manny",
+    "year": 2014,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Sport"
+    ],
+    "count": 5,
+    "all_lines": 125,
+    "occurrences": [
+      [
+        31,
+        "00:11:47.240000",
+        "00:11:50.164000",
+        "Manny was the first person I trained"
+      ],
+      [
+        36,
+        "00:12:08.480000",
+        "00:12:12.849000",
+        "These were the first gloves Manny used"
+      ],
+      [
+        42,
+        "00:13:44.440000",
+        "00:13:46.681000",
+        "n was Manny and I"
+      ],
+      [
+        46,
+        "00:13:56.720000",
+        "00:13:59.610000",
+        "But Manny said. \"if I asked for permission to go to Manila"
+      ],
+      [
+        73,
+        "00:18:09.280000",
+        "00:18:12.523000",
+        "Good combination there by Manny Pacquiao and a left"
+      ]
+    ],
+    "regex": "\\b((?!\\bManny:)Manny)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

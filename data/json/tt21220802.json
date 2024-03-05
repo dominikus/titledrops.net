@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt21220802",
+    "title": "Hunt Club",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1341,
+    "occurrences": [
+      [
+        357,
+        "00:22:13.959000",
+        "00:22:16.001000",
+        "What brought you to the hunt club?"
+      ],
+      [
+        413,
+        "00:24:22.087000",
+        "00:24:23.378000",
+        "As head of the hunt club,"
+      ],
+      [
+        476,
+        "00:27:25.938000",
+        "00:27:29.565000",
+        "You men, you men are blessed to be a part of this Hunt Club,"
+      ],
+      [
+        1228,
+        "01:19:37.069000",
+        "01:19:39.736000",
+        "We heard about your little hunt club on the dark web."
+      ],
+      [
+        1276,
+        "01:21:46.865000",
+        "01:21:49.658000",
+        "This is his island, his hunt club."
+      ]
+    ],
+    "regex": "\\b((?!\\bHunt\\ Club:)Hunt\\ Club)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

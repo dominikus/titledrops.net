@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt4966036",
+    "title": "King",
+    "year": 2002,
+    "genres": [
+      "Action"
+    ],
+    "count": 4,
+    "all_lines": 2000,
+    "occurrences": [
+      [
+        5,
+        0,
+        0,
+        "King."
+      ],
+      [
+        6,
+        0,
+        0,
+        "King."
+      ],
+      [
+        414,
+        0,
+        0,
+        "I'm the king of this house."
+      ],
+      [
+        1969,
+        0,
+        0,
+        "Yes. - King!"
+      ]
+    ],
+    "regex": "\\b((?!\\bKing:)King)(?!\\:)(?!'t)\\b",
+    "runtime": 157,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

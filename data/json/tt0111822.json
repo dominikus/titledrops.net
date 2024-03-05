@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0111822",
+    "title": "Zeiram 2",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 845,
+    "occurrences": [
+      [
+        24,
+        "00:05:55.431000",
+        "00:05:58.691000",
+        "Zeiram Unit Attachment: Complete"
+      ],
+      [
+        335,
+        "00:35:20.568000",
+        "00:35:21.585000",
+        "It's Zeiram!"
+      ],
+      [
+        812,
+        "01:29:43.725000",
+        "01:29:46.972000",
+        "One is Iria, the other is Zeiram."
+      ],
+      [
+        842,
+        "01:32:34.763000",
+        "01:32:36.878000",
+        "Zeiram is also trying to reconstruct himself!"
+      ]
+    ],
+    "regex": "\\b((?!\\bZeiram:)Zeiram)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

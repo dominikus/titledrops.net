@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7983844",
+    "title": "Take Your Pills",
+    "year": 2018,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1436,
+    "occurrences": [
+      [
+        665,
+        "00:37:52.979000",
+        "00:37:55.314000",
+        "\"Did you take your pills?\""
+      ],
+      [
+        669,
+        "00:38:13.165000",
+        "00:38:16.669000",
+        "That's when I started writing stuff like \"Take your pills.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bTake\\ Your\\ Pills:)Take\\ Your\\ Pills)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

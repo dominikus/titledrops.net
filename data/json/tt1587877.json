@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1587877",
+    "title": "All That Glitters",
+    "year": 2010,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1910,
+    "occurrences": [
+      [
+        745,
+        "00:33:19.174000",
+        "00:33:21.564000",
+        "'' All that glitters'' (Fantastic Nobody)"
+      ],
+      [
+        1525,
+        "01:12:21.564000",
+        "01:12:24.363000",
+        "'' All that glitters'' (Fantastic Nobody)"
+      ]
+    ],
+    "regex": "\\b((?!\\bAll\\ That\\ Glitters:)All\\ That\\ Glitters)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

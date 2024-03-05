@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0083186",
+    "title": "Texas Lightning",
+    "year": 1981,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1364,
+    "occurrences": [
+      [
+        19,
+        "00:02:13.718000",
+        "00:02:15.753000",
+        "'Cause when Texas lightning strikes a boy"
+      ],
+      [
+        1251,
+        "01:19:43.486000",
+        "01:19:46.597000",
+        "- Texas lightning, ain't that what you boys wanted?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTexas\\ Lightning:)Texas\\ Lightning)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

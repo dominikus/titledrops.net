@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0460012",
+    "title": "Bastards",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 643,
+    "occurrences": [
+      [
+        421,
+        "00:48:54.323000",
+        "00:48:58.023000",
+        "Can't even breathe at this altitude, bastards"
+      ],
+      [
+        541,
+        "01:05:21.023000",
+        "01:05:24.923000",
+        "What are they doing?! What are they doing, those bastards?!"
+      ],
+      [
+        542,
+        "01:05:25.623000",
+        "01:05:29.523000",
+        "And don't you dare call them bastards anymore!"
+      ],
+      [
+        578,
+        "01:12:32.223000",
+        "01:12:38.223000",
+        "-Why aren't you sleeping? -Not sleeping because these bastards are guarding us better than at a camp."
+      ]
+    ],
+    "regex": "\\b((?!\\bBastards:)Bastards)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

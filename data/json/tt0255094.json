@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0255094",
+    "title": "The Circle",
+    "year": 2000,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 710,
+    "occurrences": [
+      [
+        306,
+        "00:39:36.282000",
+        "00:39:37.943000",
+        "- To the circle, Hossein. - Get in."
+      ],
+      [
+        313,
+        "00:40:05.945000",
+        "00:40:09.506000",
+        "I'II drop you at the circle. It's in the area."
+      ]
+    ],
+    "regex": "\\b((?!\\bCircle:)Circle)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

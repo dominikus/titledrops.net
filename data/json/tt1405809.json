@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt1405809",
+    "title": "Lourdes",
+    "year": 2009,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 572,
+    "occurrences": [
+      [
+        26,
+        "00:04:14.679000",
+        "00:04:18.559000",
+        "Information about Lourdes and the apparitions"
+      ],
+      [
+        85,
+        "00:15:05.759000",
+        "00:15:08.838000",
+        "Our Lady of Lourdes, pray for us."
+      ],
+      [
+        121,
+        "00:18:07.918000",
+        "00:18:09.877000",
+        "Do you want some Lourdes water?"
+      ],
+      [
+        262,
+        "00:39:36.157000",
+        "00:39:37.636000",
+        "\"Let's go to Lourdes. \""
+      ],
+      [
+        277,
+        "00:42:30.677000",
+        "00:42:32.796000",
+        "So, is Lourdes better than Rome?"
+      ],
+      [
+        315,
+        "00:46:16.037000",
+        "00:46:18.876000",
+        "- Our Lady of Lourdes. - Pray for us."
+      ]
+    ],
+    "regex": "\\b((?!\\bLourdes:)Lourdes)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

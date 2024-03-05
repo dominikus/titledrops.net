@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0416496",
+    "title": "Bandidas",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 5,
+    "all_lines": 1021,
+    "occurrences": [
+      [
+        602,
+        "00:50:27.395000",
+        "00:50:29.226000",
+        "...he was kidnapped by the bandidas, sir."
+      ],
+      [
+        603,
+        "00:50:29.397000",
+        "00:50:32.332000",
+        "- Excuse me? What? - He was kidnapped by the bandidas."
+      ],
+      [
+        713,
+        "01:00:07.508000",
+        "01:00:11.103000",
+        "Judging by the success you have at stopping these bandidas..."
+      ],
+      [
+        729,
+        "01:01:13.073000",
+        "01:01:15.974000",
+        "You know, these bandidas can strike anywhere, at any time."
+      ],
+      [
+        842,
+        "01:12:22.876000",
+        "01:12:26.175000",
+        "We even had both bandidas in custody."
+      ]
+    ],
+    "regex": "\\b((?!\\bBandidas:)Bandidas)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

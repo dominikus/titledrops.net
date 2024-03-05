@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0287717",
+    "title": "Spy Kids 2: Island of Lost Dreams",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 7,
+    "all_lines": 2409,
+    "occurrences": [
+      [
+        217,
+        "00:08:25.470000",
+        "00:08:27.060000",
+        "ThE Spy Kids organization is still nEw,"
+      ],
+      [
+        387,
+        "00:15:12.770000",
+        "00:15:14.970000",
+        "and thEir nEwly formEd Spy Kids division."
+      ],
+      [
+        420,
+        "00:16:39.790000",
+        "00:16:42.020000",
+        "To our Spy Kids."
+      ],
+      [
+        421,
+        "00:16:42.100000",
+        "00:16:43.760000",
+        "-- To our Spy Kids. -- To our Spy Kids. -- To our Spy Kids."
+      ],
+      [
+        422,
+        "00:16:43.830000",
+        "00:16:45.390000",
+        "To our Spy Kids."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpy\\ Kids:)Spy\\ Kids|(?!\\bIsland\\ of\\ Lost\\ Dreams:)Island\\ of\\ Lost\\ Dreams)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

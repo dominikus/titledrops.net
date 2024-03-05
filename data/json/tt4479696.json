@@ -1,0 +1,52 @@
+[
+  {
+    "imdb": "tt4479696",
+    "title": "Marlene",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 520,
+    "occurrences": [
+      [
+        109,
+        "00:23:30.750000",
+        "00:23:31.750000",
+        "Marlene."
+      ],
+      [
+        195,
+        "00:35:40.435000",
+        "00:35:42.977000",
+        "- Where is Marlene? - She's gone."
+      ],
+      [
+        345,
+        "00:52:22.903000",
+        "00:52:26.195000",
+        "But Marlene ..."
+      ],
+      [
+        378,
+        "00:55:30.082000",
+        "00:55:32.036000",
+        "I'd love to meet Marlene."
+      ],
+      [
+        484,
+        "01:21:42.583000",
+        "01:21:43.792000",
+        ".. Marlene?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMarlene:)Marlene)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [
+      "Marlene"
+    ],
+    "title_is_name": true,
+    "rating": 4.4
+  }
+]

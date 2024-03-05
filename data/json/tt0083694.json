@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0083694",
+    "title": "Britannia Hospital",
+    "year": 1982,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1194,
+    "occurrences": [
+      [
+        218,
+        "00:17:31.403000",
+        "00:17:33.447000",
+        "here in Britannia Hospital."
+      ],
+      [
+        433,
+        "00:35:18.252000",
+        "00:35:22.673000",
+        "This is the 500th anniversary of the foundation of Britannia Hospital"
+      ],
+      [
+        1005,
+        "01:24:50.876000",
+        "01:24:51.670000",
+        "Britannia Hospital"
+      ]
+    ],
+    "regex": "\\b((?!\\bBritannia\\ Hospital:)Britannia\\ Hospital)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

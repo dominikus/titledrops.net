@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1867093",
+    "title": "The Samaritan",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1495,
+    "occurrences": [
+      [
+        384,
+        "00:24:06.312000",
+        "00:24:09.747000",
+        "for the Samaritan."
+      ],
+      [
+        1031,
+        "01:03:17.027000",
+        "01:03:19.803000",
+        "That's why it's called the Samaritan."
+      ]
+    ],
+    "regex": "\\b((?!\\bSamaritan:)Samaritan)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

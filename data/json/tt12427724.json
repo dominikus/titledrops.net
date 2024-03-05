@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt12427724",
+    "title": "Orca",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1237,
+    "occurrences": [
+      [
+        122,
+        "00:08:45.340000",
+        "00:08:46.980000",
+        "The orca."
+      ],
+      [
+        130,
+        "00:09:11.220000",
+        "00:09:15.060000",
+        "Once the young orca reaches maturity, it'll go its own way..."
+      ]
+    ],
+    "regex": "\\b((?!\\bOrca:)Orca)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

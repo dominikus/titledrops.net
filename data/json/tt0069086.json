@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0069086",
+    "title": "The Pied Piper",
+    "year": 1972,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 1228,
+    "occurrences": [
+      [
+        355,
+        "00:24:03.859000",
+        "00:24:09.286000",
+        "and people call me the pied Piper"
+      ],
+      [
+        368,
+        "00:24:46.318000",
+        "00:24:51.290000",
+        "And people call me the pied Piper"
+      ]
+    ],
+    "regex": "\\b((?!\\bPied\\ Piper:)Pied\\ Piper)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

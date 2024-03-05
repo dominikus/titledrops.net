@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0091989",
+    "title": "And Then",
+    "year": 1985,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 559,
+    "occurrences": [
+      [
+        74,
+        "00:09:59.398000",
+        "00:10:01.059000",
+        "and then go out for a drink."
+      ],
+      [
+        393,
+        "00:40:33.431000",
+        "00:40:36.195000",
+        "and then find a job later on ."
+      ],
+      [
+        432,
+        "00:44:38.642000",
+        "00:44:44.808000",
+        "and then get hot tempered !"
+      ]
+    ],
+    "regex": "\\b((?!\\bAnd\\ Then:)And\\ Then)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

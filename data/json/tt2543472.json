@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2543472",
+    "title": "Wonder",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1497,
+    "occurrences": [
+      [
+        794,
+        "00:52:59.361000",
+        "00:53:00.894000",
+        "I wonder what happened."
+      ],
+      [
+        1454,
+        "01:39:57.261000",
+        "01:39:59.760000",
+        "You really are a wonder, Auggie."
+      ],
+      [
+        1455,
+        "01:40:01.027000",
+        "01:40:02.695000",
+        "You are a wonder."
+      ]
+    ],
+    "regex": "\\b((?!\\bWonder:)Wonder)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

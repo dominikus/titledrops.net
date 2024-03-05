@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3401174",
+    "title": "Revengeance",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1362,
+    "occurrences": [
+      [
+        339,
+        "00:19:18.757000",
+        "00:19:21.927000",
+        "- No, Big Papa, this is about Revengeance."
+      ],
+      [
+        825,
+        "00:44:11.281000",
+        "00:44:12.750000",
+        "- Revengeance."
+      ]
+    ],
+    "regex": "\\b((?!\\bRevengeance:)Revengeance)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

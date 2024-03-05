@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5686112",
+    "title": "The Delivered",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1199,
+    "occurrences": [
+      [
+        21,
+        "00:02:53.890000",
+        "00:02:57.435000",
+        "and delivered Fanny Lye from one life..."
+      ],
+      [
+        846,
+        "01:08:19.524000",
+        "01:08:22.735000",
+        "Till thou has acted out thy sin, thou art not delivered from its power,"
+      ]
+    ],
+    "regex": "\\b((?!\\bDelivered:)Delivered)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

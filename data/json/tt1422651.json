@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1422651",
+    "title": "Gurren Lagann the Movie: The Lights in the Sky are Stars",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Animation",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1455,
+    "occurrences": [
+      [
+        74,
+        "00:08:59.810000",
+        "00:09:05.740000",
+        "GURREN LAGANN THE MOVIE"
+      ],
+      [
+        75,
+        "00:09:13.950000",
+        "00:09:17.620000",
+        "THE LIGHTS IN THE SKY ARE STARS"
+      ],
+      [
+        1453,
+        "02:05:16.820000",
+        "02:05:20.660000",
+        "Of course you can. The lights in the sky are stars."
+      ]
+    ],
+    "regex": "\\b((?!\\bGurren\\ Lagann\\ the\\ Movie:)Gurren\\ Lagann\\ the\\ Movie|(?!\\bLights\\ in\\ the\\ Sky\\ are\\ Stars:)Lights\\ in\\ the\\ Sky\\ are\\ Stars)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

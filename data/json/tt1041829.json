@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1041829",
+    "title": "The Proposal",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1460,
+    "occurrences": [
+      [
+        0,
+        "00:00:00",
+        "00:00:03.002000",
+        "The Proposal"
+      ],
+      [
+        508,
+        "00:31:47.321000",
+        "00:31:49.141000",
+        "How did you the proposal."
+      ],
+      [
+        941,
+        "01:00:55.489000",
+        "01:00:58.492000",
+        "Your mother and I came make a proposal"
+      ]
+    ],
+    "regex": "\\b((?!\\bProposal:)Proposal)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

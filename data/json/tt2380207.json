@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2380207",
+    "title": "Stockholm",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1018,
+    "occurrences": [
+      [
+        12,
+        "00:00:36.200000",
+        "00:00:38.043000",
+        "- To Stockholm. Stockholm?"
+      ],
+      [
+        13,
+        "00:00:38.200000",
+        "00:00:39.531000",
+        "- Yeah, Stockholm. -Great, right?"
+      ],
+      [
+        24,
+        "00:00:56.240000",
+        "00:00:59.289000",
+        "- But Laura's a sweetie. -Yeah, but in Stockholm..."
+      ],
+      [
+        57,
+        "00:02:32.560000",
+        "00:02:33.163000",
+        "To Stockholm?"
+      ]
+    ],
+    "regex": "\\b((?!\\bStockholm:)Stockholm)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

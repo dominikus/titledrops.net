@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0119657",
+    "title": "Men with Guns",
+    "year": 1997,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1191,
+    "occurrences": [
+      [
+        211,
+        "00:25:33.398000",
+        "00:25:35.298000",
+        "Those men. The men with guns."
+      ],
+      [
+        231,
+        "00:26:39.998000",
+        "00:26:42.967000",
+        "- Who killed them? - The men with guns."
+      ],
+      [
+        589,
+        "01:01:59.015000",
+        "01:02:01.245000",
+        "Nobody refuses the men with guns."
+      ],
+      [
+        726,
+        "01:12:46.028000",
+        "01:12:50.021000",
+        "The comandante says it is. And he has men with guns."
+      ]
+    ],
+    "regex": "\\b((?!\\bMen\\ with\\ Guns:)Men\\ with\\ Guns)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt7218518",
+    "title": "Pad Man",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 37,
+    "occurrences": [
+      [
+        4,
+        "00:00:18.920000",
+        "00:00:19.840000",
+        "Pad Man!"
+      ],
+      [
+        27,
+        "00:01:27.220000",
+        "00:01:29.800000",
+        "Why is Pad Man not flying high?"
+      ],
+      [
+        28,
+        "00:01:30.040000",
+        "00:01:31.620000",
+        "Salute Pad Man!"
+      ],
+      [
+        29,
+        "00:01:39.220000",
+        "00:01:42.720000",
+        "He is a mad mad mad... Pad Man!"
+      ]
+    ],
+    "regex": "\\b((?!\\bPad\\ Man:)Pad\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 140,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

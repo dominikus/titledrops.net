@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4981636",
+    "title": "Middle School: The Worst Years of My Life",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1714,
+    "occurrences": [
+      [
+        353,
+        "00:17:13.433000",
+        "00:17:15.066000",
+        "a bucket full of acid in a middle school,"
+      ],
+      [
+        1225,
+        "00:57:35.085000",
+        "00:57:36.985000",
+        "I'm trying to make it through middle school."
+      ]
+    ],
+    "regex": "\\b((?!\\bMiddle\\ School:)Middle\\ School|(?!\\bWorst\\ Years\\ of\\ My\\ Life:)Worst\\ Years\\ of\\ My\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

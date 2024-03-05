@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0090583",
+    "title": "About Last Night",
+    "year": 1986,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 938,
+    "occurrences": [
+      [
+        0,
+        "00:00:25.163000",
+        "00:00:27.677000",
+        "So? Tell me about last night."
+      ],
+      [
+        157,
+        "00:16:19.723000",
+        "00:16:22.556000",
+        "I want to talk to you about last night."
+      ],
+      [
+        172,
+        "00:17:17.723000",
+        "00:17:21.238000",
+        "- I'm sorry about last night. - That's okay."
+      ]
+    ],
+    "regex": "\\b((?!\\bAbout\\ Last\\ Night:)About\\ Last\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

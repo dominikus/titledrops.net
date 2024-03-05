@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5747714",
+    "title": "Unbound",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1575,
+    "occurrences": [
+      [
+        1159,
+        "01:02:32.090000",
+        "01:02:33.240000",
+        "- Unbound me."
+      ],
+      [
+        1161,
+        "01:02:34.748000",
+        "01:02:36.733000",
+        "- Unbound me."
+      ],
+      [
+        1163,
+        "01:02:39.270000",
+        "01:02:40.343000",
+        "- Unbound me."
+      ]
+    ],
+    "regex": "\\b((?!\\bUnbound:)Unbound)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0087344",
+    "title": "Godzilla 1985",
+    "year": 1985,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 760,
+    "occurrences": [
+      [
+        0,
+        "00:00:16.993000",
+        "00:00:23.765000",
+        "THE RETURN OF GODZILLA (Gojira 1984)"
+      ],
+      [
+        90,
+        "00:12:56.592000",
+        "00:13:01.222000",
+        "(Chief Secretary' - Takegami Hirotaka Just becuse Godzilla is still out there,"
+      ],
+      [
+        318,
+        "00:29:29.383000",
+        "00:29:31.681000",
+        "(THE GODZILLA EMERGENCY COUNTERMEASURE HEADQUARTERS)''"
+      ]
+    ],
+    "regex": "\\b((?!\\bGodzilla:)Godzilla)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

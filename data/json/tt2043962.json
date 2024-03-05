@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2043962",
+    "title": "Twilight Portrait",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 843,
+    "occurrences": [
+      [
+        560,
+        "01:02:17.853000",
+        "01:02:20.600000",
+        "It has all the functions -- landscape, twilight portrait."
+      ],
+      [
+        573,
+        "01:03:08.781000",
+        "01:03:12.254000",
+        "Landscape, twilight portrait."
+      ],
+      [
+        771,
+        "01:29:58.926000",
+        "01:30:00.455000",
+        "For a twilight portrait."
+      ]
+    ],
+    "regex": "\\b((?!\\bTwilight\\ Portrait:)Twilight\\ Portrait)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

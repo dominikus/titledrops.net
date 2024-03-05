@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt7983712",
+    "title": "Rogue Warfare: The Hunt",
+    "year": 2019,
+    "genres": [
+      "Action"
+    ],
+    "count": 3,
+    "all_lines": 1252,
+    "occurrences": [
+      [
+        160,
+        "00:19:07.942000",
+        "00:19:09.812000",
+        "They continue to hunt for him."
+      ],
+      [
+        210,
+        "00:21:17.038000",
+        "00:21:18.707000",
+        "They will continue to hunt for him."
+      ],
+      [
+        211,
+        "00:21:18.841000",
+        "00:21:21.010000",
+        "They can continue to hunt."
+      ]
+    ],
+    "regex": "\\b((?!\\bRogue\\ Warfare:)Rogue\\ Warfare|(?!\\bHunt:)Hunt)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2715446",
+    "title": "Living Images",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1185,
+    "occurrences": [
+      [
+        43,
+        "00:03:59.042000",
+        "00:04:02.001000",
+        "the \"living images\", as they were called."
+      ],
+      [
+        46,
+        "00:04:07.709000",
+        "00:04:12.709000",
+        "Living Images Ruptured century - Broken hearts."
+      ],
+      [
+        115,
+        "00:14:35.167000",
+        "00:14:37.008000",
+        "and now you want to show living images here."
+      ]
+    ],
+    "regex": "\\b((?!\\bLiving\\ Images:)Living\\ Images)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

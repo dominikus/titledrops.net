@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0301050",
+    "title": "Bolivia",
+    "year": 1999,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 899,
+    "occurrences": [
+      [
+        35,
+        "00:02:19.333000",
+        "00:02:24.263000",
+        "Argentina and Bolivia are competing live in a country-wide broadcast."
+      ],
+      [
+        299,
+        "00:20:47.697000",
+        "00:20:50.435000",
+        "Yes, I'd like to call Bolivia. Can I?"
+      ],
+      [
+        306,
+        "00:21:13.696000",
+        "00:21:15.675000",
+        "No, Bolivia, La Paz."
+      ],
+      [
+        315,
+        "00:21:39.798000",
+        "00:21:41.220000",
+        "Bolivia, La Paz."
+      ],
+      [
+        570,
+        "00:46:42.584000",
+        "00:46:44.907000",
+        "What did you do in Bolivia?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBolivia:)Bolivia)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

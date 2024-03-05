@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0388727",
+    "title": "Accused",
+    "year": 2005,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 750,
+    "occurrences": [
+      [
+        219,
+        "00:28:40.600000",
+        "00:28:43.433000",
+        "I haven't done anything, I'm just being accused of it."
+      ],
+      [
+        313,
+        "00:41:15",
+        "00:41:19.357000",
+        "Are you aware that as the accused you're not obliged to say anything?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAccused:)Accused)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

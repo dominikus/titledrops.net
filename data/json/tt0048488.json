@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0048488",
+    "title": "The Phenix City Story",
+    "year": 1955,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 3,
+    "all_lines": 1416,
+    "occurrences": [
+      [
+        22,
+        "00:01:31.308000",
+        "00:01:34.004000",
+        "...from the people who lived the Phenix City story..."
+      ],
+      [
+        40,
+        "00:02:23.660000",
+        "00:02:25.457000",
+        "...on the Phenix City story?"
+      ],
+      [
+        226,
+        "00:12:26.111000",
+        "00:12:28.944000",
+        "...fact about the Phenix City story."
+      ]
+    ],
+    "regex": "\\b((?!\\bPhenix\\ City\\ Story:)Phenix\\ City\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

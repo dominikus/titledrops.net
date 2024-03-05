@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0038116",
+    "title": "State Fair",
+    "year": 1945,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "count": 3,
+    "all_lines": 1044,
+    "occurrences": [
+      [
+        289,
+        "00:25:32.640000",
+        "00:25:36.679000",
+        "This is the biggest state fair and all the curious...."
+      ],
+      [
+        570,
+        "00:52:13.560000",
+        "00:52:16.393000",
+        "...ever entered in a state fair."
+      ],
+      [
+        763,
+        "01:09:23.400000",
+        "01:09:29.350000",
+        "...Grand Champion Boar of this year's state fair."
+      ]
+    ],
+    "regex": "\\b((?!\\bState\\ Fair:)State\\ Fair)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

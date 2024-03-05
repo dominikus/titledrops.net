@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt8488126",
+    "title": "The Inventor: Out for Blood in Silicon Valley",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Documentary"
+    ],
+    "count": 6,
+    "all_lines": 2502,
+    "occurrences": [
+      [
+        77,
+        "00:04:19.834000",
+        "00:04:23.125000",
+        "was a testament to the imagination of the inventor."
+      ],
+      [
+        178,
+        "00:10:13.333000",
+        "00:10:15.709000",
+        "The world's greatest inventor did both."
+      ],
+      [
+        180,
+        "00:10:17.792000",
+        "00:10:19.583000",
+        "as the inventor of the phonograph,"
+      ],
+      [
+        218,
+        "00:12:12.583000",
+        "00:12:14.583000",
+        "after the great American inventor,"
+      ],
+      [
+        879,
+        "00:44:20.667000",
+        "00:44:25.208000",
+        "\"Elizabeth is the most important inventor of our times.\""
+      ],
+      [
+        1070,
+        "00:52:58.208000",
+        "00:52:59.709000",
+        "the inventor she claimed to be,"
+      ]
+    ],
+    "regex": "\\b((?!\\bInventor:)Inventor|(?!\\bOut\\ for\\ Blood\\ in\\ Silicon\\ Valley:)Out\\ for\\ Blood\\ in\\ Silicon\\ Valley)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

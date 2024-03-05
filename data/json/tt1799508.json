@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1799508",
+    "title": "After",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 1137,
+    "occurrences": [
+      [
+        122,
+        "00:10:29.007000",
+        "00:10:31.760000",
+        "- Watch my tits. - No fighting after midnight."
+      ],
+      [
+        204,
+        "00:15:57.247000",
+        "00:15:58.680000",
+        "Look after him for me."
+      ],
+      [
+        724,
+        "00:59:14.847000",
+        "00:59:17.486000",
+        "It's already after midnight, right? You won't turn"
+      ],
+      [
+        873,
+        "01:17:18.167000",
+        "01:17:19.520000",
+        "What are you after?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAfter:)After)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

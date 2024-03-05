@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0035092",
+    "title": "Mr. Wise Guy",
+    "year": 1942,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 1778,
+    "occurrences": [
+      [
+        226,
+        "00:08:35.206000",
+        "00:08:37.137000",
+        "No, Mr. Wise Guy."
+      ],
+      [
+        377,
+        "00:13:42.758000",
+        "00:13:45.137000",
+        "Look, Mr. Wise Guy, maybe you'll deny"
+      ],
+      [
+        424,
+        "00:16:08.068000",
+        "00:16:10.724000",
+        "That's it, call me Mr. Wise Guy."
+      ],
+      [
+        426,
+        "00:16:12.689000",
+        "00:16:14.310000",
+        "Now, Mr. Wise Guy,"
+      ],
+      [
+        705,
+        "00:27:57.448000",
+        "00:27:59.310000",
+        "Mr. Wise Guy, remember?"
+      ],
+      [
+        984,
+        "00:40:08.068000",
+        "00:40:11.068000",
+        "And, uh, what happens to Mr. Wise Guy?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMr\\.\\ Wise\\ Guy:)Mr\\.\\ Wise\\ Guy)(?!\\:)(?!'t)\\b",
+    "runtime": 70,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

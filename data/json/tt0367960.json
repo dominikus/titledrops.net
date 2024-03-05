@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0367960",
+    "title": "The Legend of Johnny Lingo",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 838,
+    "occurrences": [
+      [
+        535,
+        "00:57:36.386000",
+        "00:57:40.152000",
+        "Here lies the beginning of the legend of Johnny Lingo,"
+      ],
+      [
+        837,
+        "01:25:17.846000",
+        "01:25:20.679000",
+        "I knew that the legend of Johnny Lingo"
+      ]
+    ],
+    "regex": "\\b((?!\\bLegend\\ of\\ Johnny\\ Lingo:)Legend\\ of\\ Johnny\\ Lingo)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

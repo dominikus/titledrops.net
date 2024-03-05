@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0055032",
+    "title": "Jules and Jim",
+    "year": 1962,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1217,
+    "occurrences": [
+      [
+        34,
+        "00:03:07.817000",
+        "00:03:09.749000",
+        "No,Jules and Jim."
+      ],
+      [
+        100,
+        "00:09:14.466000",
+        "00:09:17.694000",
+        "Jules and Jim returned home dazzled."
+      ],
+      [
+        349,
+        "00:32:26.527000",
+        "00:32:29.460000",
+        "Jules and Jim were separated by their uniforms..."
+      ],
+      [
+        455,
+        "00:44:32.642000",
+        "00:44:35.076000",
+        "Jules and Jim carried on their conversation."
+      ],
+      [
+        785,
+        "01:09:25.217000",
+        "01:09:28.588000",
+        "Jules and Jim had never lived so intensely."
+      ],
+      [
+        1210,
+        "01:43:57.376000",
+        "01:44:00.469000",
+        "The friendship of Jules and Jim had no equivalent in love."
+      ]
+    ],
+    "regex": "\\b((?!\\bJules\\ and\\ Jim:)Jules\\ and\\ Jim)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

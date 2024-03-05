@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt11394180",
+    "title": "Dick Johnson Is Dead",
+    "year": 2020,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1278,
+    "occurrences": [
+      [
+        1271,
+        "01:24:52.295000",
+        "01:24:55.256000",
+        "All I know is that Dick Johnson is dead."
+      ],
+      [
+        1272,
+        "01:24:57.383000",
+        "01:24:59.886000",
+        "All I know is that Dick Johnson is dead."
+      ],
+      [
+        1273,
+        "01:25:02.639000",
+        "01:25:05.183000",
+        "All I can say is Dick Johnson is dead."
+      ]
+    ],
+    "regex": "\\b((?!\\bDick\\ Johnson\\ Is\\ Dead:)Dick\\ Johnson\\ Is\\ Dead)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

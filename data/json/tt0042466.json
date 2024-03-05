@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0042466",
+    "title": "Girl with Hyacinths",
+    "year": 1950,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 739,
+    "occurrences": [
+      [
+        93,
+        "00:16:05.710000",
+        "00:16:10.950000",
+        "- How do you mean to work it out? - 'Girl with Hyacinths'."
+      ],
+      [
+        407,
+        "00:51:29.370000",
+        "00:51:37.910000",
+        "Well, it's how I saw her. I called it 'Girl with Hyacinths'."
+      ]
+    ],
+    "regex": "\\b((?!\\bGirl\\ with\\ Hyacinths:)Girl\\ with\\ Hyacinths)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5617312",
+    "title": "The Bay of Silence",
+    "year": 2020,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1099,
+    "occurrences": [
+      [
+        16,
+        "00:02:29.584000",
+        "00:02:31.318000",
+        " We're in the Bay of Silence."
+      ],
+      [
+        1094,
+        "01:25:47.347000",
+        "01:25:48.783000",
+        "We're in the Bay of Silence."
+      ]
+    ],
+    "regex": "\\b((?!\\bBay\\ of\\ Silence:)Bay\\ of\\ Silence)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

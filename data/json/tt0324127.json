@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0324127",
+    "title": "Suspect Zero",
+    "year": 2004,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 745,
+    "occurrences": [
+      [
+        351,
+        "00:42:48.079000",
+        "00:42:51.080000",
+        "He called it \"Suspect Zero.\""
+      ],
+      [
+        352,
+        "00:42:51.249000",
+        "00:42:52.791000",
+        "Suspect Zero?"
+      ],
+      [
+        363,
+        "00:43:21.654000",
+        "00:43:25.105000",
+        "And this Suspect Zero, is that something that you believe in, doctor?"
+      ],
+      [
+        381,
+        "00:44:15.708000",
+        "00:44:18.116000",
+        "...possibly be this Suspect Zero?"
+      ],
+      [
+        578,
+        "01:12:40.745000",
+        "01:12:42.951000",
+        "...and he's using it to track Suspect Zero."
+      ],
+      [
+        597,
+        "01:13:43.349000",
+        "01:13:46.932000",
+        "What if there is a Suspect Zero, and O'Ryan's the one guy who's got a shot?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSuspect\\ Zero:)Suspect\\ Zero)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

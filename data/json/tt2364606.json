@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2364606",
+    "title": "Amorosa: The Revenge",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1045,
+    "occurrences": [
+      [
+        54,
+        "00:05:10.610000",
+        "00:05:13.489000",
+        "Do you know why you're named Amorosa?"
+      ],
+      [
+        308,
+        "00:25:02.434000",
+        "00:25:07.110000",
+        "They say she made a deal with dark forces to seek revenge."
+      ]
+    ],
+    "regex": "\\b((?!\\bAmorosa:)Amorosa|(?!\\bRevenge:)Revenge)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0050986",
+    "title": "Wild Strawberries",
+    "year": 1957,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 940,
+    "occurrences": [
+      [
+        168,
+        "00:19:23.533000",
+        "00:19:26.703000",
+        "The place where wild strawberries grow!"
+      ],
+      [
+        190,
+        "00:21:22.353000",
+        "00:21:25.065000",
+        "So he'll get a basket of wild strawberries instead."
+      ],
+      [
+        252,
+        "00:26:34.463000",
+        "00:26:36.335000",
+        "Who gathered the wild strawberries for me?"
+      ],
+      [
+        936,
+        "01:29:46.948000",
+        "01:29:50.628000",
+        "Isak, there are no wild strawberries left."
+      ]
+    ],
+    "regex": "\\b((?!\\bWild\\ Strawberries:)Wild\\ Strawberries)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0252963",
+    "title": "The Bunker",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 476,
+    "occurrences": [
+      [
+        4,
+        "00:06:34.261000",
+        "00:06:36.013000",
+        "Bunker!"
+      ],
+      [
+        83,
+        "00:15:54.581000",
+        "00:15:57.539000",
+        "What is this place? - An anti tank bunker."
+      ],
+      [
+        270,
+        "00:43:25.381000",
+        "00:43:28.214000",
+        "Quiet. Gun fire. The bunker."
+      ],
+      [
+        304,
+        "00:46:52.181000",
+        "00:46:56.732000",
+        "My orders only cover this bunker. - This shall be interesting."
+      ],
+      [
+        374,
+        "00:59:50.621000",
+        "00:59:54.455000",
+        "What do we do now? - Let's get him to the bunker."
+      ],
+      [
+        414,
+        "01:08:20.181000",
+        "01:08:24.254000",
+        "We're gonna have to blow the bunker door. Ifthey are in there, we'll fight."
+      ]
+    ],
+    "regex": "\\b((?!\\bBunker:)Bunker)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

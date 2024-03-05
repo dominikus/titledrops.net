@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt7957314",
+    "title": "Go Back to China",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1424,
+    "occurrences": [
+      [
+        43,
+        "00:02:29.316000",
+        "00:02:32.818000",
+        "-Excuse me? -Why don't you just go back to China?"
+      ],
+      [
+        77,
+        "00:04:16.457000",
+        "00:04:18.290000",
+        "I don't want to go back to China."
+      ],
+      [
+        1295,
+        "01:24:05.741000",
+        "01:24:09.209000",
+        "I guess I had to go back to China to finally land a job here."
+      ]
+    ],
+    "regex": "\\b((?!\\bGo\\ Back\\ to\\ China:)Go\\ Back\\ to\\ China)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

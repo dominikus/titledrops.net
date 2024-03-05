@@ -1,0 +1,53 @@
+[
+  {
+    "imdb": "tt0070346",
+    "title": "Luther",
+    "year": 1974,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 2082,
+    "occurrences": [
+      [
+        80,
+        "00:08:31.928000",
+        "00:08:35.807000",
+        "Martin Luther, like many another medieval monk,"
+      ],
+      [
+        86,
+        "00:08:50.739000",
+        "00:08:52.699000",
+        "we'd never even heard of Martin Luther."
+      ],
+      [
+        1240,
+        "01:06:11.176000",
+        "01:06:14.262000",
+        "Please stand up, Dr. Luther."
+      ],
+      [
+        1514,
+        "01:19:21.757000",
+        "01:19:26.804000",
+        "and it claims to excommunicate me, Dr. Martin Luther."
+      ],
+      [
+        1576,
+        "01:23:20.787000",
+        "01:23:22.122000",
+        "Martin Luther, you were been brought here"
+      ]
+    ],
+    "regex": "\\b((?!\\bLuther:)Luther)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [
+      "Martin Luther",
+      "Luther`s Father"
+    ],
+    "title_is_name": true,
+    "rating": 6.5
+  }
+]

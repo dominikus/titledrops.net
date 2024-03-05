@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6476140",
+    "title": "Serenity",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1687,
+    "occurrences": [
+      [
+        613,
+        "00:37:01.039000",
+        "00:37:02.771000",
+        "The Serenity needs an overhaul."
+      ],
+      [
+        1672,
+        "01:37:56.556000",
+        "01:37:59.293000",
+        "Come see me, we'll meet at the Serenity."
+      ]
+    ],
+    "regex": "\\b((?!\\bSerenity:)Serenity)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

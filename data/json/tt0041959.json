@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0041959",
+    "title": "The Third Man",
+    "year": 1949,
+    "genres": [
+      "Film-Noir",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1248,
+    "occurrences": [
+      [
+        329,
+        "00:24:20.808000",
+        "00:24:24.039000",
+        "- And ? - There was a third man. He didn't give evidence."
+      ],
+      [
+        395,
+        "00:28:44.404000",
+        "00:28:48.340000",
+        "There was a third man there. l suppose that doesn't sound peculiar to you."
+      ],
+      [
+        564,
+        "00:40:23.070000",
+        "00:40:25.833000",
+        "Who was the third man ?"
+      ],
+      [
+        568,
+        "00:40:33.847000",
+        "00:40:36.782000",
+        "l was told that a third man helped you and Kurtz carry the body."
+      ],
+      [
+        739,
+        "00:52:40.172000",
+        "00:52:44.041000",
+        "Yes. lt's called The Third Man."
+      ],
+      [
+        877,
+        "01:03:30.456000",
+        "01:03:32.889000",
+        "or the third man or--"
+      ]
+    ],
+    "regex": "\\b((?!\\bThird\\ Man:)Third\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

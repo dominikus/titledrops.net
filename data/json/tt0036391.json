@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0036391",
+    "title": "Stormy Weather",
+    "year": 1943,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 6,
+    "all_lines": 950,
+    "occurrences": [
+      [
+        811,
+        "00:58:48.690000",
+        "00:58:52.490000",
+        "Stormy weather"
+      ],
+      [
+        816,
+        "00:59:17.986000",
+        "00:59:20.887000",
+        "Stormy weather"
+      ],
+      [
+        829,
+        "01:00:20.682000",
+        "01:00:24.118000",
+        "Stormy weather"
+      ],
+      [
+        844,
+        "01:01:38.693000",
+        "01:01:41.526000",
+        "Stormy weather"
+      ],
+      [
+        852,
+        "01:05:27.942000",
+        "01:05:34.040000",
+        "- Keeps rainin' all the time - Stormy weather"
+      ],
+      [
+        856,
+        "01:05:56.504000",
+        "01:05:59.371000",
+        "Stormy weather"
+      ]
+    ],
+    "regex": "\\b((?!\\bStormy\\ Weather:)Stormy\\ Weather)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

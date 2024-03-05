@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0803052",
+    "title": "Opium: Diary of a Madwoman",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 682,
+    "occurrences": [
+      [
+        5,
+        "00:00:59.247000",
+        "00:01:05.004000",
+        "Opium: Diary of a Madwoman"
+      ],
+      [
+        130,
+        "00:19:40.607000",
+        "00:19:44.361000",
+        "If you start smoking opium as a strong man"
+      ],
+      [
+        137,
+        "00:20:15.887000",
+        "00:20:19.562000",
+        "If I understand correctly, this story is the confession of an opium-smoker."
+      ]
+    ],
+    "regex": "\\b((?!\\bOpium:)Opium|(?!\\bDiary\\ of\\ a\\ Madwoman:)Diary\\ of\\ a\\ Madwoman)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

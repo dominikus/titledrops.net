@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt3530978",
+    "title": "Correspondence",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1136,
+    "occurrences": [
+      [
+        31,
+        "00:03:50.147000",
+        "00:03:53.400000",
+        "The correspondence"
+      ],
+      [
+        537,
+        "01:04:40.419000",
+        "01:04:43.297000",
+        "If I have cut off your correspondence,"
+      ],
+      [
+        946,
+        "01:40:18.638000",
+        "01:40:23.184000",
+        "I'm confident that one way or another, you'll receive my correspondence."
+      ]
+    ],
+    "regex": "\\b((?!\\bCorrespondence:)Correspondence)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0166707",
+    "title": "Midnight",
+    "year": 1998,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 615,
+    "occurrences": [
+      [
+        316,
+        "00:32:33.650000",
+        "00:32:36.312000",
+        "And until midnight..."
+      ],
+      [
+        547,
+        "00:51:08.597000",
+        "00:51:11.498000",
+        "Let's make a deal. You can kill me at midnight."
+      ]
+    ],
+    "regex": "\\b((?!\\bMidnight:)Midnight)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

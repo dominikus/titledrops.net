@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt10340366",
+    "title": "Fighter",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sport"
+    ],
+    "count": 3,
+    "all_lines": 771,
+    "occurrences": [
+      [
+        22,
+        "00:03:37",
+        "00:03:40.230000",
+        "- He's no MMA fighter. - I have a surprise for you."
+      ],
+      [
+        332,
+        "00:33:18.599000",
+        "00:33:23.548000",
+        "Like in the movies, a washed-up fighter comes to a small town"
+      ],
+      [
+        735,
+        "01:15:40.119000",
+        "01:15:43.636000",
+        "We know it's not his main sport. He's an MMA fighter."
+      ]
+    ],
+    "regex": "\\b((?!\\bFighter:)Fighter)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

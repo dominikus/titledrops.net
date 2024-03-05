@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0158983",
+    "title": "South Park: Bigger, Longer & Uncut",
+    "year": 1999,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1376,
+    "occurrences": [
+      [
+        228,
+        "00:12:11.116000",
+        "00:12:13.949000",
+        "We are now enforcing a new dress code at South Park Elementary."
+      ],
+      [
+        250,
+        "00:13:14.756000",
+        "00:13:17.031000",
+        "The controversy began in the town of South Park..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSouth\\ Park:)South\\ Park|(?!\\bBigger,\\ Longer\\ \\&\\ Uncut:)Bigger,\\ Longer\\ \\&\\ Uncut)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

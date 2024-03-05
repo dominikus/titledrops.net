@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt13117720",
+    "title": "Stay",
+    "year": 2021,
+    "genres": [
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 993,
+    "occurrences": [
+      [
+        210,
+        "00:14:18.270000",
+        "00:14:20.525000",
+        "- We should stay here, from now on."
+      ],
+      [
+        516,
+        "00:29:43.450000",
+        "00:29:44.283000",
+        "If we're gonna stay,"
+      ],
+      [
+        815,
+        "00:54:30.636000",
+        "00:54:32.870000",
+        "Armed stay."
+      ],
+      [
+        862,
+        "00:59:46.230000",
+        "00:59:49.020000",
+        "You need some food or a place to stay? I got you."
+      ],
+      [
+        904,
+        "01:03:20.986000",
+        "01:03:24.251000",
+        "Armed stay."
+      ]
+    ],
+    "regex": "\\b((?!\\bStay:)Stay)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

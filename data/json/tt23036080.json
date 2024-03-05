@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt23036080",
+    "title": "Thank You for Coming",
+    "year": 2023,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 2056,
+    "occurrences": [
+      [
+        947,
+        "00:44:42",
+        "00:44:42.958000",
+        "Thank you for coming."
+      ],
+      [
+        1482,
+        "01:15:57.166000",
+        "01:15:58.375000",
+        "Thank you for coming!"
+      ],
+      [
+        1885,
+        "01:41:29.791000",
+        "01:41:31.166000",
+        "Thank you for coming, Kanika."
+      ]
+    ],
+    "regex": "\\b((?!\\bThank\\ You\\ for\\ Coming:)Thank\\ You\\ for\\ Coming)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

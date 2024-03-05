@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt0144547",
+    "title": "Ozone: The Attack of the Redneck Mutants",
+    "year": 1986,
+    "genres": [
+      "Horror"
+    ],
+    "count": 7,
+    "all_lines": 487,
+    "occurrences": [
+      [
+        0,
+        "00:03:35.128000",
+        "00:03:41.296000",
+        "Ozone: The Attack of the Redneck Mutants"
+      ],
+      [
+        37,
+        "00:12:29.508000",
+        "00:12:33.423000",
+        "We all agree that the destruction of the ozone layer is a problem."
+      ],
+      [
+        174,
+        "00:42:27.306000",
+        "00:42:29.606000",
+        "I have to know more about the ozone layer."
+      ],
+      [
+        187,
+        "00:43:27.098000",
+        "00:43:30.298000",
+        "Say that there was a total depletion of the ozone layer ..."
+      ],
+      [
+        262,
+        "00:57:00.908000",
+        "00:57:05.857000",
+        "I know it sounds crazy, but there's a hole in the ozone layer."
+      ],
+      [
+        398,
+        "01:14:25.948000",
+        "01:14:27.984000",
+        "You're not screwing yourself for the ozone layer!"
+      ],
+      [
+        415,
+        "01:15:19.188000",
+        "01:15:22.498000",
+        "If we lose the ozone layer, we will all be mutants!"
+      ]
+    ],
+    "regex": "\\b((?!\\bOzone:)Ozone|(?!\\bAttack\\ of\\ the\\ Redneck\\ Mutants:)Attack\\ of\\ the\\ Redneck\\ Mutants)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

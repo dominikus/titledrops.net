@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1625346",
+    "title": "Young Adult",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1191,
+    "occurrences": [
+      [
+        174,
+        "00:18:46.834000",
+        "00:18:50.054000",
+        "Y.A- That's industry speak for \"Young Adult-\""
+      ],
+      [
+        567,
+        "00:44:38.634000",
+        "00:44:41.683000",
+        "Yes, I'm an author of a young adult series."
+      ]
+    ],
+    "regex": "\\b((?!\\bYoung\\ Adult:)Young\\ Adult)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

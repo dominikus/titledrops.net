@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5619746",
+    "title": "Princes of the Palace",
+    "year": 2016,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1373,
+    "occurrences": [
+      [
+        1323,
+        "01:23:14.572000",
+        "01:23:18.576000",
+        "Elizabeth II is the matriarch to the princes of the palace."
+      ],
+      [
+        1371,
+        "01:26:07.620000",
+        "01:26:10.832000",
+        "they can be satisfied that the princes of the palace"
+      ]
+    ],
+    "regex": "\\b((?!\\bPrinces\\ of\\ the\\ Palace:)Princes\\ of\\ the\\ Palace)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

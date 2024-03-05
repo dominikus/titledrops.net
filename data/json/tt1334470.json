@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1334470",
+    "title": "Raavan",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 500,
+    "occurrences": [
+      [
+        49,
+        "00:13:04.250000",
+        "00:13:06.718000",
+        "he is Raavan (Devil) for us."
+      ],
+      [
+        54,
+        "00:13:30.943000",
+        "00:13:34.538000",
+        "l will kill this Raavan."
+      ],
+      [
+        121,
+        "00:31:35.393000",
+        "00:31:37.725000",
+        "when he stand infront of anyone so its seems like a Raavan."
+      ]
+    ],
+    "regex": "\\b((?!\\bRaavan:)Raavan)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt6187134",
+    "title": "Cowboys",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1416,
+    "occurrences": [
+      [
+        98,
+        "00:06:57.184000",
+        "00:06:58.986000",
+        "- Cowboys eat beans. - Yeah."
+      ],
+      [
+        204,
+        "00:11:04.498000",
+        "00:11:07.301000",
+        "There's two cowboys, and they're sitting around the fire"
+      ],
+      [
+        210,
+        "00:11:29.857000",
+        "00:11:33.027000",
+        " And then one of the cowboys"
+      ]
+    ],
+    "regex": "\\b((?!\\bCowboys:)Cowboys)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

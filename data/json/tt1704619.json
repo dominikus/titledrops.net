@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1704619",
+    "title": "Tabloid",
+    "year": 2010,
+    "genres": [
+      "Crime",
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1756,
+    "occurrences": [
+      [
+        895,
+        "00:42:09.874000",
+        "00:42:11.967000",
+        "It was a perfect tabloid story."
+      ],
+      [
+        1370,
+        "01:04:06.956000",
+        "01:04:12.826000",
+        "There will be no more tabloid reporters ever to ruin my life.\""
+      ],
+      [
+        1592,
+        "01:15:23.899000",
+        "01:15:25.628000",
+        "with all the tabloid mess."
+      ],
+      [
+        1700,
+        "01:21:10.512000",
+        "01:21:12.571000",
+        "And they don't read tabloid papers."
+      ]
+    ],
+    "regex": "\\b((?!\\bTabloid:)Tabloid)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

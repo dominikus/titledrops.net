@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1185838",
+    "title": "Easy Rider 2: The Ride Home",
+    "year": 2012,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1220,
+    "occurrences": [
+      [
+        863,
+        "01:02:28.778000",
+        "01:02:32.247000",
+        "Not for the easy rider"
+      ],
+      [
+        1178,
+        "01:32:52.233000",
+        "01:32:56.169000",
+        "A ride home. A ride home, Son."
+      ]
+    ],
+    "regex": "\\b((?!\\bEasy\\ Rider:)Easy\\ Rider|(?!\\bRide\\ Home:)Ride\\ Home)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.4
+  }
+]

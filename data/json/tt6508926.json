@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6508926",
+    "title": "The Last Stop",
+    "year": 2017,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1872,
+    "occurrences": [
+      [
+        196,
+        "00:11:16.066000",
+        "00:11:20.462000",
+        "Looked my mother straight dead in the eye and said, \"This is the last stop on the bus.\""
+      ],
+      [
+        452,
+        "00:25:40.016000",
+        "00:25:44.368000",
+        "and Elan truly was their last stop before prison or death."
+      ],
+      [
+        1815,
+        "01:44:26.042000",
+        "01:44:28.740000",
+        "You know, as the name you have now, The Last Stop,"
+      ],
+      [
+        1816,
+        "01:44:28.784000",
+        "01:44:32.875000",
+        "minus jail, it really kind of was the last stop for me."
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Stop:)Last\\ Stop)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

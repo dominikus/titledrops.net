@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1437361",
+    "title": "The Pimp",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 5,
+    "all_lines": 938,
+    "occurrences": [
+      [
+        10,
+        "00:02:10.449000",
+        "00:02:15.191000",
+        "PIMP"
+      ],
+      [
+        123,
+        "00:15:18.627000",
+        "00:15:22.199000",
+        "A pimp never says good day. This hit is called \"whore slap\"."
+      ],
+      [
+        126,
+        "00:15:29.367000",
+        "00:15:32.325000",
+        "This is a slap with other side of hand, the \"pimp stallion\"."
+      ],
+      [
+        133,
+        "00:15:56.809000",
+        "00:15:59.407000",
+        "To be respected, pimp always first uses aggression."
+      ],
+      [
+        152,
+        "00:17:17.227000",
+        "00:17:21.558000",
+        "Another important rule: pimp never scream like a girl."
+      ]
+    ],
+    "regex": "\\b((?!\\bPimp:)Pimp)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

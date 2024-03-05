@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3612126",
+    "title": "The Grudge",
+    "year": 2020,
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1034,
+    "occurrences": [
+      [
+        544,
+        "00:45:08.434000",
+        "00:45:10.167000",
+        "That house's grudge."
+      ],
+      [
+        856,
+        "01:15:18.942000",
+        "01:15:21.109000",
+        "That house's grudge."
+      ]
+    ],
+    "regex": "\\b((?!\\bGrudge:)Grudge)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

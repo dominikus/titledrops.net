@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0093349",
+    "title": "King Lear",
+    "year": 1987,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 894,
+    "occurrences": [
+      [
+        6,
+        "00:00:28.460000",
+        "00:00:32.533000",
+        "the Jean-Luc Godard movie, King Lear."
+      ],
+      [
+        36,
+        "00:03:12.100000",
+        "00:03:14.978000",
+        "I think the mafia is the only way to King Lear."
+      ]
+    ],
+    "regex": "\\b((?!\\bKing\\ Lear:)King\\ Lear)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

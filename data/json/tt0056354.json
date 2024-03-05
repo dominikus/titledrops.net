@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0056354",
+    "title": "The Playboy of the Western World",
+    "year": 1962,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1642,
+    "occurrences": [
+      [
+        1111,
+        "01:03:00.126000",
+        "01:03:04.082000",
+        "Well, you're the walking Playboy of the Western World,"
+      ],
+      [
+        1642,
+        "01:39:31.708000",
+        "01:39:35.708000",
+        "I've lost the only Playboy of the Western World."
+      ]
+    ],
+    "regex": "\\b((?!\\bPlayboy\\ of\\ the\\ Western\\ World:)Playboy\\ of\\ the\\ Western\\ World)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

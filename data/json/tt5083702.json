@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5083702",
+    "title": "The Fear of 13",
+    "year": 2015,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1285,
+    "occurrences": [
+      [
+        475,
+        "00:33:50.240000",
+        "00:33:52.680000",
+        "was the fear of ghosts and I'd like, boo!"
+      ],
+      [
+        482,
+        "00:34:11.360000",
+        "00:34:13",
+        "The fear of 13."
+      ]
+    ],
+    "regex": "\\b((?!\\bFear\\ of:)Fear\\ of)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

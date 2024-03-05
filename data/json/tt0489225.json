@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0489225",
+    "title": "Man in the Chair",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1689,
+    "occurrences": [
+      [
+        788,
+        "00:49:39.906000",
+        "00:49:42.602000",
+        "A director, huh? The man in the chair, huh?"
+      ],
+      [
+        791,
+        "00:49:45.211000",
+        "00:49:47.236000",
+        "The man in the chair can't ever be a guesser."
+      ],
+      [
+        812,
+        "00:50:45.472000",
+        "00:50:47.440000",
+        "To be the man in the chair?"
+      ],
+      [
+        1644,
+        "01:40:32.389000",
+        "01:40:35.085000",
+        "The man in the chair."
+      ]
+    ],
+    "regex": "\\b((?!\\bMan\\ in\\ the\\ Chair:)Man\\ in\\ the\\ Chair)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

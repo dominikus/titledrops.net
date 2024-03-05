@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0069236",
+    "title": "Score",
+    "year": 1973,
+    "genres": [
+      "Adult",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1347,
+    "occurrences": [
+      [
+        93,
+        "00:07:05.683000",
+        "00:07:08.687000",
+        "And what is the score, Jack?"
+      ],
+      [
+        764,
+        "00:42:20.127000",
+        "00:42:22.632000",
+        "And the score will be tied again."
+      ],
+      [
+        766,
+        "00:42:23.634000",
+        "00:42:25.604000",
+        "But as of now, the score is not tied."
+      ],
+      [
+        846,
+        "00:44:58.712000",
+        "00:45:01.249000",
+        "and I'll keep score."
+      ],
+      [
+        1202,
+        "01:16:57.815000",
+        "01:16:59.583000",
+        "- The score remains, two to one."
+      ],
+      [
+        1272,
+        "01:19:49.419000",
+        "01:19:52.423000",
+        "Well, I don't keep score."
+      ]
+    ],
+    "regex": "\\b((?!\\bScore:)Score)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

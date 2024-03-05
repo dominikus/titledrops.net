@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt8353934",
+    "title": "Get Gone",
+    "year": 2019,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1192,
+    "occurrences": [
+      [
+        103,
+        "00:08:33.013000",
+        "00:08:36.014000",
+        "So, now we got to get gone, is that right?"
+      ],
+      [
+        254,
+        "00:16:36.496000",
+        "00:16:38.463000",
+        "Get gone."
+      ],
+      [
+        316,
+        "00:19:35.842000",
+        "00:19:37.441000",
+        "Get gone."
+      ],
+      [
+        720,
+        "00:45:58.456000",
+        "00:45:59.522000",
+        "you'd get gone."
+      ]
+    ],
+    "regex": "\\b((?!\\bGet\\ Gone:)Get\\ Gone)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.7
+  }
+]

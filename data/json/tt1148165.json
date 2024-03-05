@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1148165",
+    "title": "Bran Nue Dae",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "count": 3,
+    "all_lines": 785,
+    "occurrences": [
+      [
+        605,
+        "01:00:11.920000",
+        "01:00:14.460000",
+        "Today is a bran nue dae."
+      ],
+      [
+        772,
+        "01:18:49.800000",
+        "01:18:54.559000",
+        "This song is called 'Millya Rumarra' which means bran nue dae."
+      ],
+      [
+        785,
+        "01:21:16.199000",
+        "01:21:18.119000",
+        "Bran nue dae. Mmm."
+      ]
+    ],
+    "regex": "\\b((?!\\bBran\\ Nue\\ Dae:)Bran\\ Nue\\ Dae)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

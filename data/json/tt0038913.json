@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0038913",
+    "title": "Shoeshine",
+    "year": 1946,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1272,
+    "occurrences": [
+      [
+        1,
+        "00:00:08.475000",
+        "00:00:11.376000",
+        "Shoeshine"
+      ],
+      [
+        16,
+        "00:02:31.017000",
+        "00:02:33.349000",
+        "Everybody thinks since we're shoeshine boys"
+      ],
+      [
+        57,
+        "00:04:38.111000",
+        "00:04:39.772000",
+        "Right, Shoeshine Joe?"
+      ],
+      [
+        72,
+        "00:05:09.142000",
+        "00:05:10.541000",
+        "Shoeshine Joe."
+      ],
+      [
+        104,
+        "00:06:33.993000",
+        "00:06:35.460000",
+        "Shoeshine Joe!"
+      ]
+    ],
+    "regex": "\\b((?!\\bShoeshine:)Shoeshine)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

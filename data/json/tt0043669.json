@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0043669",
+    "title": "I'll See You in My Dreams",
+    "year": 1951,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 1507,
+    "occurrences": [
+      [
+        1416,
+        "01:39:52.802000",
+        "01:39:55.430000",
+        "\"I'll See You in My Dreams.\""
+      ],
+      [
+        1418,
+        "01:40:03.546000",
+        "01:40:10.145000",
+        "I'll see you in my dreams"
+      ]
+    ],
+    "regex": "\\b((?!\\bI'll\\ See\\ You\\ in\\ My\\ Dreams:)I'll\\ See\\ You\\ in\\ My\\ Dreams)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

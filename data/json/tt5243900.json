@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5243900",
+    "title": "Bounty Hunters",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 765,
+    "occurrences": [
+      [
+        151,
+        "00:20:10.460000",
+        "00:20:13.640000",
+        "Sister Katie is a legend of our bounty hunters."
+      ],
+      [
+        437,
+        "00:51:37.260000",
+        "00:51:42.210000",
+        "It's all a stun gun, we are bounty hunters, can be replaced with this."
+      ]
+    ],
+    "regex": "\\b((?!\\bBounty\\ Hunters:)Bounty\\ Hunters)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

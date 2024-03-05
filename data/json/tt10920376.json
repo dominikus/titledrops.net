@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt10920376",
+    "title": "Go Fish",
+    "year": 2019,
+    "genres": [
+      "Adventure",
+      "Animation"
+    ],
+    "count": 5,
+    "all_lines": 1412,
+    "occurrences": [
+      [
+        1373,
+        "01:10:59.789000",
+        "01:11:01.889000",
+        "[Kate Steinberg's \"Go Fish (Side by Side)\" plays]"
+      ],
+      [
+        1383,
+        "01:11:48.338000",
+        "01:11:51.773000",
+        "P Go fish, side by side P"
+      ],
+      [
+        1396,
+        "01:12:46.363000",
+        "01:12:49.731000",
+        "P Go fish, side by side P"
+      ],
+      [
+        1405,
+        "01:13:20.397000",
+        "01:13:23.765000",
+        "P Go fish, side by side P"
+      ],
+      [
+        1409,
+        "01:13:36.479000",
+        "01:13:39.814000",
+        "P Go fish, side by side P"
+      ]
+    ],
+    "regex": "\\b((?!\\bGo\\ Fish:)Go\\ Fish)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

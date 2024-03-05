@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1121801",
+    "title": "Brothers",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1124,
+    "occurrences": [
+      [
+        342,
+        "00:30:53.184000",
+        "00:30:57.120000",
+        "Master told fortune about you brothers."
+      ],
+      [
+        625,
+        "00:50:00.230000",
+        "00:50:02.255000",
+        "You brothers can work together."
+      ],
+      [
+        639,
+        "00:50:48.945000",
+        "00:50:51.778000",
+        "Mom was right. We brothers can work together."
+      ],
+      [
+        814,
+        "01:03:07.416000",
+        "01:03:11.079000",
+        "You brothers are so different from the old days."
+      ],
+      [
+        815,
+        "01:03:12.155000",
+        "01:03:13.588000",
+        "We are still brothers."
+      ]
+    ],
+    "regex": "\\b((?!\\bBrothers:)Brothers)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

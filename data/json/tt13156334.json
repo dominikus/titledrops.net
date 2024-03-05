@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt13156334",
+    "title": "Prototype",
+    "year": 2022,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 1509,
+    "occurrences": [
+      [
+        157,
+        "00:08:33.338000",
+        "00:08:35.943000",
+        "and our earlier prototype Zero"
+      ],
+      [
+        162,
+        "00:08:49.552000",
+        "00:08:51.354000",
+        "Prototype Zero was discontinued."
+      ],
+      [
+        164,
+        "00:08:53.193000",
+        "00:08:57.965000",
+        "So, may I present Prototype 2.0."
+      ],
+      [
+        256,
+        "00:14:30.299000",
+        "00:14:31.694000",
+        "I know it's just a prototype,"
+      ],
+      [
+        274,
+        "00:15:27.884000",
+        "00:15:31.490000",
+        "I am a New World Robotics android prototype."
+      ]
+    ],
+    "regex": "\\b((?!\\bPrototype:)Prototype)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.2
+  }
+]

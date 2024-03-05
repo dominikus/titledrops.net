@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1921149",
+    "title": "Trash",
+    "year": 2014,
+    "genres": [
+      "Adventure",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 790,
+    "occurrences": [
+      [
+        83,
+        "00:15:01.610000",
+        "00:15:04.446000",
+        "Police treat poor people like trash."
+      ],
+      [
+        450,
+        "00:56:03.820000",
+        "00:56:05.780000",
+        "What are you doing with the trash?"
+      ],
+      [
+        500,
+        "01:02:05.306000",
+        "01:02:07.767000",
+        "a gringa and some trash boy were with Clemente."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrash:)Trash)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

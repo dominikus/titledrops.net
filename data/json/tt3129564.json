@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3129564",
+    "title": "Diplomacy",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1156,
+    "occurrences": [
+      [
+        1152,
+        "01:20:24.500000",
+        "01:20:28.165000",
+        "Adapted from the play Diplomacy by Cyril Gely"
+      ],
+      [
+        1154,
+        "01:21:04.833000",
+        "01:21:07.415000",
+        "whose diplomacy ended another war."
+      ]
+    ],
+    "regex": "\\b((?!\\bDiplomacy:)Diplomacy)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

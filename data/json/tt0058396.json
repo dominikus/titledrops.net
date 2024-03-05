@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0058396",
+    "title": "The Enemy",
+    "year": 1965,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 851,
+    "occurrences": [
+      [
+        225,
+        "00:14:54.924000",
+        "00:14:56.808000",
+        "Like everyone's my enemy."
+      ],
+      [
+        348,
+        "00:31:25.170000",
+        "00:31:27.900000",
+        "The only enemy is my reflection in the mirror."
+      ]
+    ],
+    "regex": "\\b((?!\\bEnemy:)Enemy)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

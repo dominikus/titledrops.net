@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt9308390",
+    "title": "Margrete: Queen of the North",
+    "year": 2021,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 7,
+    "all_lines": 1116,
+    "occurrences": [
+      [
+        15,
+        "00:02:52.692000",
+        "00:02:59.942000",
+        "MARGRETE Queen of the North"
+      ],
+      [
+        19,
+        "00:03:28.858000",
+        "00:03:33.775000",
+        "Margrete I has gathered Denmark, Norway and Sweden into a peaceful union"
+      ],
+      [
+        548,
+        "00:53:07.317000",
+        "00:53:09.983000",
+        "- Margrete... - No one saw him dead."
+      ],
+      [
+        766,
+        "01:13:37.942000",
+        "01:13:39.692000",
+        "You know it's true, Margrete."
+      ],
+      [
+        772,
+        "01:14:02.650000",
+        "01:14:05.942000",
+        "- To the church, to confess tonight. - Margrete, please..."
+      ],
+      [
+        1115,
+        "01:55:32.275000",
+        "01:55:36.025000",
+        "is to a great extent thanks to one woman: Queen Margrete I."
+      ]
+    ],
+    "regex": "\\b((?!\\bMargrete:)Margrete|(?!\\bQueen\\ of\\ the\\ North:)Queen\\ of\\ the\\ North)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1517260",
+    "title": "The Host",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 887,
+    "occurrences": [
+      [
+        38,
+        "00:07:11.427000",
+        "00:07:15.794000",
+        "That threatens our peace. Your host was part of that resistance."
+      ],
+      [
+        143,
+        "00:20:15.310000",
+        "00:20:17.169000",
+        "Your host appears to resist that."
+      ],
+      [
+        144,
+        "00:20:17.240000",
+        "00:20:20.732000",
+        "You are going be re-implanted to a more compliant host."
+      ]
+    ],
+    "regex": "\\b((?!\\bHost:)Host)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

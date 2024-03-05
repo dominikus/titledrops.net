@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0073259",
+    "title": "Lady Cocoa",
+    "year": 1975,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1287,
+    "occurrences": [
+      [
+        65,
+        "00:05:15.398000",
+        "00:05:17.492000",
+        "# Lady Cocoa, where have you been"
+      ],
+      [
+        115,
+        "00:08:55.618000",
+        "00:08:57.495000",
+        "# Lady Cocoa, where have you been"
+      ]
+    ],
+    "regex": "\\b((?!\\bLady\\ Cocoa:)Lady\\ Cocoa)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

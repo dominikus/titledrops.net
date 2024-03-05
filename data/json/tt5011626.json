@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5011626",
+    "title": "Good Morning Show",
+    "year": 2016,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1338,
+    "occurrences": [
+      [
+        242,
+        "00:19:48.560000",
+        "00:19:50.770000",
+        "Good Morning Show staff?"
+      ],
+      [
+        262,
+        "00:21:03.650000",
+        "00:21:08.270000",
+        "\"Good Morning Show\""
+      ]
+    ],
+    "regex": "\\b((?!\\bGood\\ Morning\\ Show:)Good\\ Morning\\ Show)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

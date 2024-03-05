@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7294150",
+    "title": "The Eight Hundred",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 2469,
+    "occurrences": [
+      [
+        1855,
+        "01:13:45.414000",
+        "01:13:46.448000",
+        "Eight hundred people"
+      ],
+      [
+        1857,
+        "01:13:49.626000",
+        "01:13:51.460000",
+        "Are there eight hundred strong people here?"
+      ]
+    ],
+    "regex": "\\b((?!\\bEight\\ Hundred:)Eight\\ Hundred)(?!\\:)(?!'t)\\b",
+    "runtime": 149,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

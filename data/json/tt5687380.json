@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5687380",
+    "title": "Parks",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1174,
+    "occurrences": [
+      [
+        956,
+        "01:21:36.683000",
+        "01:21:38.969000",
+        "I seriously support Jurassic Parks."
+      ],
+      [
+        958,
+        "01:21:47.069000",
+        "01:21:48.605000",
+        "Jurassic Parks?"
+      ],
+      [
+        1003,
+        "01:25:59.237000",
+        "01:26:02.229000",
+        "We're Jurassic Parks!"
+      ]
+    ],
+    "regex": "\\b((?!\\bParks:)Parks)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0056940",
+    "title": "Come Blow Your Horn",
+    "year": 1963,
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "count": 4,
+    "all_lines": 1897,
+    "occurrences": [
+      [
+        675,
+        "00:40:01.232000",
+        "00:40:05.771000",
+        "* I tell you son it's time to come blow your horn *"
+      ],
+      [
+        682,
+        "00:40:24.122000",
+        "00:40:28.126000",
+        "* I tell you chum it's time to come blow your horn *"
+      ],
+      [
+        694,
+        "00:41:08.133000",
+        "00:41:12.771000",
+        "* I tell you chum it's time to come blow your horn *"
+      ],
+      [
+        709,
+        "00:42:28.847000",
+        "00:42:37.856000",
+        "* It's time to come blow your horn *"
+      ]
+    ],
+    "regex": "\\b((?!\\bCome\\ Blow\\ Your\\ Horn:)Come\\ Blow\\ Your\\ Horn)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

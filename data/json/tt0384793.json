@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0384793",
+    "title": "Accepted",
+    "year": 2006,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 2097,
+    "occurrences": [
+      [
+        168,
+        "00:06:47.174000",
+        "00:06:49.134000",
+        "I didn't get accepted anywhere."
+      ],
+      [
+        293,
+        "00:12:29.942000",
+        "00:12:32.444000",
+        "\"congratulations, you've been accepted!\""
+      ],
+      [
+        698,
+        "00:28:21.333000",
+        "00:28:23.376000",
+        "because, well, it's the only place I got accepted"
+      ],
+      [
+        701,
+        "00:28:29.925000",
+        "00:28:31.968000",
+        "Did you just say you got accepted here?"
+      ],
+      [
+        856,
+        "00:35:07.999000",
+        "00:35:09.834000",
+        "When I got accepted here,"
+      ]
+    ],
+    "regex": "\\b((?!\\bAccepted:)Accepted)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1160315",
+    "title": "Body",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 743,
+    "occurrences": [
+      [
+        260,
+        "00:35:42.880000",
+        "00:35:45.758000",
+        "A woman is killed and her body is dissected into pieces."
+      ],
+      [
+        446,
+        "01:03:04.920000",
+        "01:03:08.833000",
+        "A body found dead in the hospital museum,"
+      ],
+      [
+        561,
+        "01:25:25.920000",
+        "01:25:29.913000",
+        "And his body was found in a pool of strong acid."
+      ]
+    ],
+    "regex": "\\b((?!\\bBody:)Body)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

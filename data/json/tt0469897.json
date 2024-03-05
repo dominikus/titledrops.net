@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0469897",
+    "title": "Diggers",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1411,
+    "occurrences": [
+      [
+        375,
+        "00:21:49.400000",
+        "00:21:50.734000",
+        "Our regional clam diggers"
+      ],
+      [
+        995,
+        "01:01:18",
+        "01:01:21.767000",
+        "I was, uh, wondering if you're hiring any diggers."
+      ]
+    ],
+    "regex": "\\b((?!\\bDiggers:)Diggers)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

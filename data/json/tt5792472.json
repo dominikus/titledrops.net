@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt5792472",
+    "title": "Take the 10",
+    "year": 2017,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1660,
+    "occurrences": [
+      [
+        182,
+        "00:08:12.531000",
+        "00:08:15",
+        "and we will take the first flight in the morning."
+      ],
+      [
+        839,
+        "00:38:55.005000",
+        "00:38:57.474000",
+        "That's really good, man. I didn't even take the SATs."
+      ],
+      [
+        1544,
+        "01:13:22.637000",
+        "01:13:25.507000",
+        "I didn't take the money. I didn't-- I'm not-- I swear to God."
+      ]
+    ],
+    "regex": "\\b((?!\\bTake\\ the:)Take\\ the)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

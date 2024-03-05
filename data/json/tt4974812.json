@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4974812",
+    "title": "Cryptid",
+    "year": 2022,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1709,
+    "occurrences": [
+      [
+        1132,
+        "01:06:44.171000",
+        "01:06:46.473000",
+        "Otherwise, it's just another crazy story. A Cryptid."
+      ],
+      [
+        1133,
+        "01:06:46.574000",
+        "01:06:47.609000",
+        "- A what? - Cryptid."
+      ]
+    ],
+    "regex": "\\b((?!\\bCryptid:)Cryptid)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

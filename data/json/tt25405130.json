@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt25405130",
+    "title": "Dada",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Family",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1531,
+    "occurrences": [
+      [
+        584,
+        "00:53:31.808000",
+        "00:53:39.808000",
+        "It's always gonna be me and you Best friends forever, you and Dada!"
+      ],
+      [
+        619,
+        "00:56:15.558000",
+        "00:56:23.558000",
+        "It's always gonna be me and you Best friends forever, you and Dada!"
+      ],
+      [
+        876,
+        "01:15:02.850000",
+        "01:15:03.850000",
+        "Dada!"
+      ],
+      [
+        1433,
+        "01:59:03.141000",
+        "01:59:04.501000",
+        "Will you come with dada to office?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDada:)Dada)(?!\\:)(?!'t)\\b",
+    "runtime": 133,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

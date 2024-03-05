@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0051459",
+    "title": "Cat on a Hot Tin Roof",
+    "year": 1958,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1645,
+    "occurrences": [
+      [
+        137,
+        "00:12:24.972000",
+        "00:12:27.532000",
+        "I feel all the time like a cat on a hot tin roof."
+      ],
+      [
+        152,
+        "00:13:17.252000",
+        "00:13:20.801000",
+        "What is the victory of a cat on a hot tin roof?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCat\\ on\\ a\\ Hot\\ Tin\\ Roof:)Cat\\ on\\ a\\ Hot\\ Tin\\ Roof)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0278736",
+    "title": "Stanley Kubrick: A Life in Pictures",
+    "year": 2001,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1029,
+    "occurrences": [
+      [
+        185,
+        "00:12:30.733000",
+        "00:12:33.266000",
+        "...and wanting to do the movies of Stanley Kubrick."
+      ],
+      [
+        755,
+        "00:50:38.062000",
+        "00:50:41.680000",
+        "He'd open the door to somebody looking for Stanley Kubrick and say:"
+      ],
+      [
+        906,
+        "01:01:21.538000",
+        "01:01:26.199000",
+        "Stanley Kubrick understood the dramatics of this moment..."
+      ]
+    ],
+    "regex": "\\b((?!\\bStanley\\ Kubrick:)Stanley\\ Kubrick|(?!\\bLife\\ in\\ Pictures:)Life\\ in\\ Pictures)(?!\\:)(?!'t)\\b",
+    "runtime": 142,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

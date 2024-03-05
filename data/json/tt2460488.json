@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt2460488",
+    "title": "Switch",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "count": 5,
+    "all_lines": 889,
+    "occurrences": [
+      [
+        42,
+        "00:07:59.626000",
+        "00:08:02.501000",
+        "to conduct the \"Switch Operation\" under the leadership of F"
+      ],
+      [
+        206,
+        "00:21:43.751000",
+        "00:21:46.542000",
+        "It's misdirection. That's their so-called \"Switch Operation\""
+      ],
+      [
+        423,
+        "00:47:42.084000",
+        "00:47:43.251000",
+        "\"Current Mission: Switch Operation.\""
+      ],
+      [
+        457,
+        "00:53:52.292000",
+        "00:53:55.959000",
+        "\"F:Commence the Switch operation, but don't alert the enemy.\""
+      ],
+      [
+        784,
+        "01:37:55.584000",
+        "01:37:59.834000",
+        "It's all part of the \"Switch Operation\" plan"
+      ]
+    ],
+    "regex": "\\b((?!\\bSwitch:)Switch)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.2
+  }
+]

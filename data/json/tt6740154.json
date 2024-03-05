@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6740154",
+    "title": "Find Me",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1758,
+    "occurrences": [
+      [
+        1082,
+        "00:57:35.550000",
+        "00:57:37.100000",
+        "I want you to find me at."
+      ],
+      [
+        1090,
+        "00:58:01.320000",
+        "00:58:03.883000",
+        "And then come find me."
+      ]
+    ],
+    "regex": "\\b((?!\\bFind\\ Me:)Find\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

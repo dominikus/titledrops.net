@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3203616",
+    "title": "The Cobbler",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 1243,
+    "occurrences": [
+      [
+        38,
+        "00:08:06.420000",
+        "00:08:08.253000",
+        "You're a cobbler, that's your thing."
+      ],
+      [
+        1065,
+        "01:23:53.529000",
+        "01:23:57.531000",
+        "and then I remembered that I know a badass cobbler."
+      ],
+      [
+        1140,
+        "01:27:56.137000",
+        "01:27:57.504000",
+        "I'm also a cobbler."
+      ],
+      [
+        1189,
+        "01:30:33.895000",
+        "01:30:35.529000",
+        "You are the cobbler."
+      ]
+    ],
+    "regex": "\\b((?!\\bCobbler:)Cobbler)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

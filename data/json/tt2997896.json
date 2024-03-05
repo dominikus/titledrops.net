@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2997896",
+    "title": "Cha cha cha",
+    "year": 2013,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 780,
+    "occurrences": [
+      [
+        506,
+        "00:57:49.480000",
+        "00:57:52.439000",
+        "It's a cha cha cha, we are training."
+      ],
+      [
+        780,
+        "01:23:31.040000",
+        "01:23:35.079000",
+        "This is life. This is the cha cha cha!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCha\\ cha\\ cha:)Cha\\ cha\\ cha)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

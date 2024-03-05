@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0102975",
+    "title": "Star Trek VI: The Undiscovered Country",
+    "year": 1991,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 932,
+    "occurrences": [
+      [
+        193,
+        "00:22:35.721000",
+        "00:22:37.780000",
+        "The undiscovered country."
+      ],
+      [
+        194,
+        "00:22:41.426000",
+        "00:22:44.395000",
+        "- The future. - The undiscovered country."
+      ],
+      [
+        900,
+        "01:43:19.059000",
+        "01:43:21.857000",
+        "...\"the undiscovered country\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bStar\\ Trek:)Star\\ Trek|(?!\\bUndiscovered\\ Country:)Undiscovered\\ Country)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

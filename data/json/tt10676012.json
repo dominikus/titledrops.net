@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt10676012",
+    "title": "To All the Boys: Always and Forever",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1812,
+    "occurrences": [
+      [
+        34,
+        "00:02:22.767000",
+        "00:02:25.145000",
+        "I love you, Peter. Always and forever."
+      ],
+      [
+        1642,
+        "01:38:59.266000",
+        "01:39:03.812000",
+        "I will love you, Lara Jean. Always and forever."
+      ]
+    ],
+    "regex": "\\b((?!\\bTo\\ All\\ the\\ Boys:)To\\ All\\ the\\ Boys|(?!\\bAlways\\ and\\ Forever:)Always\\ and\\ Forever)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

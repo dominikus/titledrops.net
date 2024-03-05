@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0116772",
+    "title": "The Killing Jar",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1721,
+    "occurrences": [
+      [
+        1484,
+        "01:24:34.553000",
+        "01:24:37.513000",
+        "How does it fill to be inside the killing jar?"
+      ],
+      [
+        1652,
+        "01:34:27.589000",
+        "01:34:29.523000",
+        "A killing jar."
+      ]
+    ],
+    "regex": "\\b((?!\\bKilling\\ Jar:)Killing\\ Jar)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

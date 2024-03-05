@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt9826820",
+    "title": "The Connection",
+    "year": 2021,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1567,
+    "occurrences": [
+      [
+        1008,
+        "00:58:59.101000",
+        "00:59:00.603000",
+        "This connection we have,"
+      ],
+      [
+        1198,
+        "01:09:19.253000",
+        "01:09:21.856000",
+        "we have this connection, special bond."
+      ],
+      [
+        1527,
+        "01:23:03.644000",
+        "01:23:05.713000",
+        "We've got the connection, not her."
+      ]
+    ],
+    "regex": "\\b((?!\\bConnection:)Connection)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

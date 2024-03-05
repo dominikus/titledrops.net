@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0053065",
+    "title": "Middle of the Night",
+    "year": 1959,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2174,
+    "occurrences": [
+      [
+        1745,
+        "01:30:31.559000",
+        "01:30:35.256000",
+        "sometimes I wake up in the middle of the night"
+      ],
+      [
+        2051,
+        "01:47:36.149000",
+        "01:47:39.778000",
+        "I'll be waking you up in the middle of the night"
+      ]
+    ],
+    "regex": "\\b((?!\\bMiddle\\ of\\ the\\ Night:)Middle\\ of\\ the\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

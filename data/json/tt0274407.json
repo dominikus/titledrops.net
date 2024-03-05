@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0274407",
+    "title": "Callas Forever",
+    "year": 2002,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 898,
+    "occurrences": [
+      [
+        185,
+        "00:16:33.360000",
+        "00:16:36.160000",
+        "\"Callas Forever\", what a title!"
+      ],
+      [
+        192,
+        "00:17:02.120000",
+        "00:17:05.680000",
+        "\"Callas Forever\"... There is no Callas!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCallas\\ Forever:)Callas\\ Forever)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

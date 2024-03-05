@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0156881",
+    "title": "The Pawn",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1128,
+    "occurrences": [
+      [
+        952,
+        "01:08:33.973000",
+        "01:08:38.688000",
+        "Ray, I'm just a pawn in the king's court."
+      ],
+      [
+        954,
+        "01:08:44.654000",
+        "01:08:46.073000",
+        "- A pawn, you mean like me?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPawn:)Pawn)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

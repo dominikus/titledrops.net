@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0088772",
+    "title": "Boggy Creek II: And the Legend Continues",
+    "year": 1983,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1081,
+    "occurrences": [
+      [
+        73,
+        "00:09:13.300000",
+        "00:09:16.460000",
+        "about the legendary Boggy Creek Creatures attack"
+      ],
+      [
+        87,
+        "00:10:10.310000",
+        "00:10:12.460000",
+        "We're looking for the Boggy Creek Creature."
+      ],
+      [
+        891,
+        "01:14:48.670000",
+        "01:14:50.573000",
+        "Studying the Boggy Creek Creature."
+      ],
+      [
+        892,
+        "01:14:53.900000",
+        "01:14:55.500000",
+        "The Boggy Creek Creature, huh?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBoggy\\ Creek:)Boggy\\ Creek|(?!\\bAnd\\ the\\ Legend\\ Continues:)And\\ the\\ Legend\\ Continues)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.4
+  }
+]

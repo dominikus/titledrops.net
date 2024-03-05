@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt11262098",
+    "title": "Jasper Mall",
+    "year": 2020,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1101,
+    "occurrences": [
+      [
+        367,
+        "00:29:08.224000",
+        "00:29:10.313000",
+        "Held at the Jasper Mall over the weekend."
+      ],
+      [
+        420,
+        "00:33:00.674000",
+        "00:33:03.590000",
+        "and welcome back to the Jasper Mall!"
+      ],
+      [
+        861,
+        "01:03:36.290000",
+        "01:03:38.379000",
+        "Hey, Angelie, this is Mike. Jasper Mall."
+      ]
+    ],
+    "regex": "\\b((?!\\bJasper\\ Mall:)Jasper\\ Mall)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

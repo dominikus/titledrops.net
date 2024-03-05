@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt5140878",
+    "title": "Annabelle: Creation",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 715,
+    "occurrences": [
+      [
+        556,
+        "01:19:12.164000",
+        "01:19:14.087000",
+        "Annabelle?"
+      ],
+      [
+        559,
+        "01:19:32.518000",
+        "01:19:36.443000",
+        "But we soon realized it wasn't our Annabelle at all."
+      ],
+      [
+        563,
+        "01:20:56.977000",
+        "01:20:58.775000",
+        "and it was using our Annabelle"
+      ],
+      [
+        686,
+        "01:41:36.841000",
+        "01:41:37.842000",
+        "Annabelle."
+      ],
+      [
+        687,
+        "01:41:38.009000",
+        "01:41:39.135000",
+        "Annabelle?"
+      ],
+      [
+        696,
+        "01:43:01.050000",
+        "01:43:02.973000",
+        "- Annabelle! - Hi, Mom."
+      ]
+    ],
+    "regex": "\\b((?!\\bAnnabelle:)Annabelle|(?!\\bCreation:)Creation)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

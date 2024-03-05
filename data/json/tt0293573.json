@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0293573",
+    "title": "Say Yes",
+    "year": 2001,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 995,
+    "occurrences": [
+      [
+        6,
+        "00:00:42.189000",
+        "00:00:53.361000",
+        "Say Yes"
+      ],
+      [
+        887,
+        "01:30:36.778000",
+        "01:30:37.710000",
+        "Say yes to me."
+      ],
+      [
+        903,
+        "01:31:51.186000",
+        "01:31:52.153000",
+        "Say yes."
+      ]
+    ],
+    "regex": "\\b((?!\\bSay\\ Yes:)Say\\ Yes)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

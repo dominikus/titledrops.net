@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0314722",
+    "title": "The Stabilizer",
+    "year": 1986,
+    "genres": [
+      "Action"
+    ],
+    "count": 2,
+    "all_lines": 1015,
+    "occurrences": [
+      [
+        75,
+        "00:06:44.505000",
+        "00:06:48.108000",
+        "Be that as it may, I've heard they call you The Stabilizer."
+      ],
+      [
+        84,
+        "00:07:03.457000",
+        "00:07:05.058000",
+        "So you need a stabilizer."
+      ]
+    ],
+    "regex": "\\b((?!\\bStabilizer:)Stabilizer)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [
+      "Peter Goldson, The Stabilizer"
+    ],
+    "title_is_name": true,
+    "rating": 6.2
+  }
+]

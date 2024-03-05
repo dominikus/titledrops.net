@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0054159",
+    "title": "Passenger",
+    "year": 1963,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 346,
+    "occurrences": [
+      [
+        21,
+        "00:02:51.960000",
+        "00:02:54.872000",
+        "A passenger isn't part of a society..."
+      ],
+      [
+        27,
+        "00:03:20.800000",
+        "00:03:24.759000",
+        "We shall give our attention to this passenger"
+      ]
+    ],
+    "regex": "\\b((?!\\bPassenger:)Passenger)(?!\\:)(?!'t)\\b",
+    "runtime": 62,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

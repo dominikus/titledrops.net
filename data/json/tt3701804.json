@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt3701804",
+    "title": "Fat, Sick & Nearly Dead 2",
+    "year": 2014,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 2022,
+    "occurrences": [
+      [
+        83,
+        "00:04:14.088000",
+        "00:04:16.881000",
+        "\"Fat, Sick & Nearly Dead,\" and at the time,"
+      ],
+      [
+        708,
+        "00:29:56.892000",
+        "00:29:58.101000",
+        "\"Fat, Sick & Nearly Dead,\""
+      ],
+      [
+        1157,
+        "00:47:53.905000",
+        "00:47:55.949000",
+        "for the screening of \"Fat, Sick & Nearly Dead.\""
+      ],
+      [
+        1995,
+        "01:24:25.634000",
+        "01:24:27.844000",
+        "after watching Fat, Sick & Nearly Dead."
+      ]
+    ],
+    "regex": "\\b((?!\\bFat,\\ Sick\\ \\&\\ Nearly\\ Dead:)Fat,\\ Sick\\ \\&\\ Nearly\\ Dead)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

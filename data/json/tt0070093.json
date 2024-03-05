@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0070093",
+    "title": "Gawain and the Green Knight",
+    "year": 1973,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 775,
+    "occurrences": [
+      [
+        2,
+        "00:02:17.615000",
+        "00:02:20.749000",
+        "The legend of Gawain and the Green Knight."
+      ],
+      [
+        775,
+        "01:32:18.968000",
+        "01:32:22.493000",
+        "of Gawain and the Green Knight."
+      ]
+    ],
+    "regex": "\\b((?!\\bGawain\\ and\\ the\\ Green\\ Knight:)Gawain\\ and\\ the\\ Green\\ Knight)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

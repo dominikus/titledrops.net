@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt10551420",
+    "title": "Fagara",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1521,
+    "occurrences": [
+      [
+        76,
+        "00:08:09.583000",
+        "00:08:11.619000",
+        "Compare to his fagara hotpot,"
+      ],
+      [
+        265,
+        "00:26:35.792000",
+        "00:26:38.158000",
+        "We must try dad's signature fagara hotpot."
+      ],
+      [
+        1045,
+        "01:11:33.792000",
+        "01:11:36.829000",
+        "We booked ahead for the fagara soup!"
+      ],
+      [
+        1266,
+        "01:27:21.125000",
+        "01:27:22.410000",
+        "Fagara pot."
+      ]
+    ],
+    "regex": "\\b((?!\\bFagara:)Fagara)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

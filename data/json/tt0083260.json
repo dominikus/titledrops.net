@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0083260",
+    "title": "Bolero",
+    "year": 1981,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1074,
+    "occurrences": [
+      [
+        25,
+        "00:03:24.740000",
+        "00:03:28.410000",
+        "That day, a committee had to choose who'd dance Ravel's Bolero..."
+      ],
+      [
+        27,
+        "00:06:05.620000",
+        "00:06:08.930000",
+        "The dancer who will be dancing Ravel's Bolero is ..."
+      ]
+    ],
+    "regex": "\\b((?!\\bBolero:)Bolero)(?!\\:)(?!'t)\\b",
+    "runtime": 184,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

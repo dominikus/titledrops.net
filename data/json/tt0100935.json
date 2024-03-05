@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0100935",
+    "title": "Wild at Heart",
+    "year": 1990,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1035,
+    "occurrences": [
+      [
+        882,
+        "01:34:18.169000",
+        "01:34:23.197000",
+        "This whole world is wild at heart ... and weird on top."
+      ],
+      [
+        1023,
+        "01:53:31.129000",
+        "01:53:34.121000",
+        "But I'm wild at heart."
+      ],
+      [
+        1024,
+        "01:53:34.569000",
+        "01:53:37.163000",
+        "If you are truly wild at heart,"
+      ]
+    ],
+    "regex": "\\b((?!\\bWild\\ at\\ Heart:)Wild\\ at\\ Heart)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

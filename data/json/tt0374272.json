@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0374272",
+    "title": "Terrorists: The Kids They Sentenced",
+    "year": 2003,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 798,
+    "occurrences": [
+      [
+        17,
+        "00:02:32.720000",
+        "00:02:36.076000",
+        "The kids they sentenced"
+      ],
+      [
+        611,
+        "01:05:21.760000",
+        "01:05:26.550000",
+        "They just wanted to paint us as dangerous terrorists."
+      ],
+      [
+        676,
+        "01:11:26.080000",
+        "01:11:31.598000",
+        "''They're hooligans, thugs, terrorists, not politically active!''"
+      ],
+      [
+        787,
+        "01:23:33.360000",
+        "01:23:38.798000",
+        "When we tr, you call us terrorists and beat us with batons."
+      ]
+    ],
+    "regex": "\\b((?!\\bTerrorists:)Terrorists|(?!\\bKids\\ They\\ Sentenced:)Kids\\ They\\ Sentenced)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

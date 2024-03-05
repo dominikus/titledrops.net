@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt6251666",
+    "title": "Followers",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 2026,
+    "occurrences": [
+      [
+        1184,
+        "00:40:23.052000",
+        "00:40:26.220000",
+        "I'm one of your 200 some odd thousand followers."
+      ],
+      [
+        1602,
+        "01:00:19.014000",
+        "01:00:21.380000",
+        "We're not our likes, we're not our followers,"
+      ],
+      [
+        1606,
+        "01:00:29.391000",
+        "01:00:35.162000",
+        "We don't gain anything except for maybe a few followers."
+      ],
+      [
+        1609,
+        "01:00:42.103000",
+        "01:00:46.507000",
+        "Followers that we didn't mind sharing or name, phone number,"
+      ],
+      [
+        2009,
+        "01:18:39.213000",
+        "01:18:45.617000",
+        "Mom, dad, and most of all, my followers."
+      ],
+      [
+        2019,
+        "01:19:31.164000",
+        "01:19:35.433000",
+        "A million followers is not worth it."
+      ]
+    ],
+    "regex": "\\b((?!\\bFollowers:)Followers)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

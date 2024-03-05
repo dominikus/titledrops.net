@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0262699",
+    "title": "The Pornographer",
+    "year": 2001,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 888,
+    "occurrences": [
+      [
+        2,
+        "00:00:40.760000",
+        "00:00:45.356000",
+        "In the early 70s, he becomes a professional pornographer..."
+      ],
+      [
+        596,
+        "01:05:22.800000",
+        "01:05:25.519000",
+        "AIso, I am no longer a pornographer."
+      ],
+      [
+        844,
+        "01:37:19.560000",
+        "01:37:22.996000",
+        "Isn't it strange, a pornographer who is a kept man?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPornographer:)Pornographer)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

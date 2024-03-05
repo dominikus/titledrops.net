@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0225535",
+    "title": "The Debt",
+    "year": 1999,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 814,
+    "occurrences": [
+      [
+        421,
+        "00:39:33.680000",
+        "00:39:36.399000",
+        "The debt overdue $ 6000,"
+      ],
+      [
+        478,
+        "00:46:35.880000",
+        "00:46:39.759000",
+        "I was to pay off the debt but he vanished."
+      ],
+      [
+        567,
+        "00:55:57",
+        "00:55:59.355000",
+        "All I want is the debt."
+      ],
+      [
+        706,
+        "01:16:10.360000",
+        "01:16:14.592000",
+        "He made me do it! You got no debt whatsoever!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDebt:)Debt)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt5540992",
+    "title": "Shock and Awe",
+    "year": 2017,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 5,
+    "all_lines": 1672,
+    "occurrences": [
+      [
+        58,
+        "00:04:57.137000",
+        "00:04:59.537000",
+        "BLITZER: The start of the campaign called Shock and Awe."
+      ],
+      [
+        59,
+        "00:04:59.539000",
+        "00:05:01.005000",
+        "BROKAW: Shock and Awe."
+      ],
+      [
+        60,
+        "00:05:01.007000",
+        "00:05:02.940000",
+        "- RATHER: Shock and Awe. - MAN: Shock and Awe, indeed."
+      ],
+      [
+        76,
+        "00:05:32.673000",
+        "00:05:35.573000",
+        "exactly what the Pentagon means by Shock and Awe."
+      ]
+    ],
+    "regex": "\\b((?!\\bShock\\ and\\ Awe:)Shock\\ and\\ Awe)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

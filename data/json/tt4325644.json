@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt4325644",
+    "title": "Union",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "count": 5,
+    "all_lines": 1306,
+    "occurrences": [
+      [
+        71,
+        "00:09:44.585000",
+        "00:09:47.652000",
+        "Preservation of the union, sir."
+      ],
+      [
+        290,
+        "00:28:58.170000",
+        "00:29:01.405000",
+        "I have been taken prisoner by the Union forces"
+      ],
+      [
+        359,
+        "00:33:48.127000",
+        "00:33:51.595000",
+        "Mosby has cut off almost every Union supply line here."
+      ],
+      [
+        782,
+        "01:18:11.421000",
+        "01:18:14.155000",
+        "Them Union soldiers are lookin' for you, Kieler."
+      ],
+      [
+        1142,
+        "01:59:20.254000",
+        "01:59:24.222000",
+        "Was a Union captain, under Grant."
+      ]
+    ],
+    "regex": "\\b((?!\\bUnion:)Union)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

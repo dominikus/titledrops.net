@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0274626",
+    "title": "Lavender",
+    "year": 2000,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 834,
+    "occurrences": [
+      [
+        121,
+        "00:14:31.537000",
+        "00:14:34.597000",
+        "The essential oil of Lavender."
+      ],
+      [
+        122,
+        "00:14:34.974000",
+        "00:14:38.341000",
+        "Lavender eases pain and tension."
+      ],
+      [
+        123,
+        "00:14:38.477000",
+        "00:14:41.503000",
+        "lf you're unhappy, Lavender can help."
+      ],
+      [
+        735,
+        "01:20:00.462000",
+        "01:20:03.260000",
+        "Oh, Lavender! Stay here!"
+      ],
+      [
+        736,
+        "01:20:18.814000",
+        "01:20:20.247000",
+        "This is our most beautiful Lavender this year."
+      ]
+    ],
+    "regex": "\\b((?!\\bLavender:)Lavender)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

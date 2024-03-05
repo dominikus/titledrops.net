@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0099669",
+    "title": "My Father's Glory",
+    "year": 1990,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1361,
+    "occurrences": [
+      [
+        1014,
+        "01:21:36.861000",
+        "01:21:39.830000",
+        "...I raised my father's glory to the sky..."
+      ],
+      [
+        1360,
+        "01:47:29.913000",
+        "01:47:33.144000",
+        "...I raised my father's glory to the sky..."
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Father's\\ Glory:)My\\ Father's\\ Glory)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

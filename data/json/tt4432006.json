@@ -1,0 +1,59 @@
+[
+  {
+    "imdb": "tt4432006",
+    "title": "Hannah",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 373,
+    "occurrences": [
+      [
+        15,
+        "00:17:44.064000",
+        "00:17:45.148000",
+        "Hello, Hannah."
+      ],
+      [
+        19,
+        "00:18:38.743000",
+        "00:18:40.704000",
+        "Hannah?"
+      ],
+      [
+        171,
+        "00:46:29.287000",
+        "00:46:30.872000",
+        "Thank you, Hannah."
+      ],
+      [
+        242,
+        "01:01:20.219000",
+        "01:01:21.095000",
+        "Hannah?"
+      ],
+      [
+        315,
+        "01:16:27.542000",
+        "01:16:29.461000",
+        "How are you, Hannah?"
+      ],
+      [
+        323,
+        "01:17:05.955000",
+        "01:17:08.958000",
+        "Hannah, I'm sorry. Of course you can."
+      ]
+    ],
+    "regex": "\\b((?!\\bHannah:)Hannah)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [
+      "Hannah",
+      "Hannah`s Husband",
+      "Nicholas, Hannah`s Son"
+    ],
+    "title_is_name": true,
+    "rating": 5.9
+  }
+]

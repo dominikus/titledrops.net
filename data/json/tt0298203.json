@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0298203",
+    "title": "8 Mile",
+    "year": 2002,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 1344,
+    "occurrences": [
+      [
+        373,
+        "00:31:15.547000",
+        "00:31:18.802000",
+        "You need to take that white-ass rap shit of yours back across 8 Mile."
+      ],
+      [
+        500,
+        "00:39:15.680000",
+        "00:39:20.352000",
+        "You better believe that place wouldn't still be standing if it was on the other side of 8 Mile."
+      ],
+      [
+        1137,
+        "01:30:35.012000",
+        "01:30:38.099000",
+        "Take your white ass back across 8 Mile to the trailer park."
+      ],
+      [
+        1158,
+        "01:32:06.792000",
+        "01:32:11.214000",
+        "I'm gonna turn around with a smile and walk my white ass back across 8 Mile."
+      ]
+    ],
+    "regex": "\\b((?!\\b8\\ Mile:)8\\ Mile)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0063493",
+    "title": "Reconstruction",
+    "year": 1968,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 959,
+    "occurrences": [
+      [
+        9,
+        "00:00:33.060000",
+        "00:00:37.053000",
+        "Reconstruction"
+      ],
+      [
+        174,
+        "00:23:35.700000",
+        "00:23:39.056000",
+        "Get back for reconstruction. Do you think we're playing here?"
+      ],
+      [
+        272,
+        "00:30:34.060000",
+        "00:30:36.051000",
+        "They are making the reconstruction now."
+      ],
+      [
+        756,
+        "01:16:03.668000",
+        "01:16:06.546000",
+        "the heart of our reconstruction."
+      ]
+    ],
+    "regex": "\\b((?!\\bReconstruction:)Reconstruction)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

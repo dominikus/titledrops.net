@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1268912",
+    "title": "Tokyo Rendezvous",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 626,
+    "occurrences": [
+      [
+        6,
+        "00:00:41.007000",
+        "00:00:46.013000",
+        "\"Tokyo Rendezvous\""
+      ],
+      [
+        622,
+        "01:41:56.560000",
+        "01:42:01.500000",
+        "\"Tokyo Rendezvous\""
+      ]
+    ],
+    "regex": "\\b((?!\\bTokyo\\ Rendezvous:)Tokyo\\ Rendezvous)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0037461",
+    "title": "The Whistler",
+    "year": 1944,
+    "genres": [
+      "Film-Noir",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 705,
+    "occurrences": [
+      [
+        1,
+        "00:01:05.471000",
+        "00:01:06.703000",
+        "\"I am The Whistler.\""
+      ],
+      [
+        703,
+        "00:59:44.091000",
+        "00:59:46.252000",
+        "\"I am The Whistler.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bWhistler:)Whistler)(?!\\:)(?!'t)\\b",
+    "runtime": 60,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

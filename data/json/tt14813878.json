@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt14813878",
+    "title": "Gameboys: The Movie",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 7,
+    "all_lines": 1388,
+    "occurrences": [
+      [
+        54,
+        "00:02:40.400000",
+        "00:02:45",
+        "(Gameboys The Movie)"
+      ],
+      [
+        274,
+        "00:15:43.891000",
+        "00:15:47.144000",
+        "that's why I wanted our movie date to be special."
+      ],
+      [
+        289,
+        "00:16:41.782000",
+        "00:16:44.368000",
+        "Perhaps a horror movie"
+      ],
+      [
+        293,
+        "00:16:53.043000",
+        "00:16:54.253000",
+        "OK, how about a family movie?"
+      ],
+      [
+        300,
+        "00:17:09.435000",
+        "00:17:11.729000",
+        "Pick a movie first. I'll just take this call."
+      ],
+      [
+        306,
+        "00:17:59.359000",
+        "00:18:01.403000",
+        "Baby! Let's focus on the movie."
+      ]
+    ],
+    "regex": "\\b((?!\\bGameboys:)Gameboys|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

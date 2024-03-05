@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1535492",
+    "title": "The Stool Pigeon",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 889,
+    "occurrences": [
+      [
+        123,
+        "00:14:06.712000",
+        "00:14:08.009000",
+        "Me? A stool pigeon?"
+      ],
+      [
+        821,
+        "01:33:04.979000",
+        "01:33:06.071000",
+        "I'm a stool pigeon"
+      ]
+    ],
+    "regex": "\\b((?!\\bStool\\ Pigeon:)Stool\\ Pigeon)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

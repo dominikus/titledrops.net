@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt3138558",
+    "title": "Preservation",
+    "year": 2014,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 785,
+    "occurrences": [
+      [
+        295,
+        "00:21:05.964000",
+        "00:21:09.367000",
+        "Self-preservation."
+      ],
+      [
+        632,
+        "00:43:45.924000",
+        "00:43:48.057000",
+        "We're at the forest preservation..."
+      ],
+      [
+        749,
+        "01:10:32.394000",
+        "01:10:34.629000",
+        "Here at the County Forest Preservation,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPreservation:)Preservation)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

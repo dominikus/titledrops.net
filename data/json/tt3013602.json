@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3013602",
+    "title": "Babysitting",
+    "year": 2014,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1135,
+    "occurrences": [
+      [
+        117,
+        "00:09:01.435000",
+        "00:09:03.505000",
+        "Thanks for babysitting Remi."
+      ],
+      [
+        492,
+        "00:32:41.752000",
+        "00:32:44.828000",
+        "- While you're babysitting? - Just one glass..."
+      ]
+    ],
+    "regex": "\\b((?!\\bBabysitting:)Babysitting)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

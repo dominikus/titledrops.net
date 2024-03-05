@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0120685",
+    "title": "Godzilla",
+    "year": 1998,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1571,
+    "occurrences": [
+      [
+        754,
+        "01:05:13.368000",
+        "01:05:17.664000",
+        "{\\an8}\"Godzilla.\" That's what Japanese sailors called him in song."
+      ],
+      [
+        758,
+        "01:05:27.048000",
+        "01:05:30.093000",
+        "-I don't believe it! -Who is this Godzilla?"
+      ],
+      [
+        1098,
+        "01:36:36.749000",
+        "01:36:38.876000",
+        "...who are jubilant Godzilla was defeated..."
+      ],
+      [
+        1344,
+        "01:57:50.188000",
+        "01:57:52.983000",
+        "Godzilla is still alive."
+      ],
+      [
+        1415,
+        "02:06:39.801000",
+        "02:06:43.471000",
+        "-The mayor who destroyed Godzilla. -I don't think we should exploit this."
+      ]
+    ],
+    "regex": "\\b((?!\\bGodzilla:)Godzilla)(?!\\:)(?!'t)\\b",
+    "runtime": 139,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

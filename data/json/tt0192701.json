@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0192701",
+    "title": "Turbulence 2: Fear of Flying",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1806,
+    "occurrences": [
+      [
+        19,
+        "00:01:50.910000",
+        "00:01:53.379000",
+        "IT'S JUST A LITTLE TURBULENCE."
+      ],
+      [
+        268,
+        "00:12:53.639000",
+        "00:12:55.908000",
+        "Another fear of flying group."
+      ],
+      [
+        350,
+        "00:17:34.720000",
+        "00:17:39.825000",
+        "P.A.: WE ARE EXPERIENCING SOME SEVERE TURBULENCE."
+      ],
+      [
+        677,
+        "00:34:07.812000",
+        "00:34:10.181000",
+        "ENCOUNTERING SEVERE TURBULENCE."
+      ],
+      [
+        1137,
+        "00:59:47.917000",
+        "00:59:50.353000",
+        "I'M WITH THE FEAR OF FLYING GROUP."
+      ]
+    ],
+    "regex": "\\b((?!\\bTurbulence:)Turbulence|(?!\\bFear\\ of\\ Flying:)Fear\\ of\\ Flying)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1516009",
+    "title": "Alleged",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1452,
+    "occurrences": [
+      [
+        319,
+        "00:16:40.123000",
+        "00:16:43.584000",
+        "Besides, I said \"alleged.\""
+      ],
+      [
+        597,
+        "00:31:52.410000",
+        "00:31:54.035000",
+        "I said \"alleged.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bAlleged:)Alleged)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1701202",
+    "title": "1 Message",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1450,
+    "occurrences": [
+      [
+        1413,
+        "02:23:18.230000",
+        "02:23:22.300000",
+        "Have 1 Message....well,"
+      ],
+      [
+        1437,
+        "02:27:08.860000",
+        "02:27:12.900000",
+        "Center in Seattle, Washington. Her latest book, 1 Message"
+      ],
+      [
+        1443,
+        "02:27:33.140000",
+        "02:27:37.170000",
+        "I have to ask you something right off the bat - now 1 Message is an"
+      ]
+    ],
+    "regex": "\\b((?!\\b1\\ Message:)1\\ Message)(?!\\:)(?!'t)\\b",
+    "runtime": 152,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

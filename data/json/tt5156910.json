@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5156910",
+    "title": "Ouija 3: The Charlie Charlie Challenge",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1062,
+    "occurrences": [
+      [
+        102,
+        "00:09:41.782000",
+        "00:09:43.281000",
+        "- Move over Ouija board,"
+      ],
+      [
+        180,
+        "00:14:33.940000",
+        "00:14:36.174000",
+        "Charlie Charlie challenge!"
+      ],
+      [
+        208,
+        "00:15:59.326000",
+        "00:16:01.392000",
+        "the Charlie Charlie challenge is strictly"
+      ]
+    ],
+    "regex": "\\b((?!\\bOuija:)Ouija|(?!\\bCharlie\\ Charlie\\ Challenge:)Charlie\\ Charlie\\ Challenge)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.3
+  }
+]

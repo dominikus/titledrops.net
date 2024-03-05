@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0475760",
+    "title": "Tokyo Tower",
+    "year": 2005,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1002,
+    "occurrences": [
+      [
+        52,
+        "00:05:31.600000",
+        "00:05:40.400000",
+        "Tokyo Tower"
+      ],
+      [
+        837,
+        "01:37:06.990000",
+        "01:37:09.390000",
+        "Can you see Tokyo Tower from your place?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTokyo\\ Tower:)Tokyo\\ Tower)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3531578",
+    "title": "Traders",
+    "year": 2015,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1159,
+    "occurrences": [
+      [
+        701,
+        "00:45:58.297000",
+        "00:46:00.132000",
+        "You didn't see many repeat traders."
+      ],
+      [
+        779,
+        "00:54:54.208000",
+        "00:54:55.626000",
+        "There are no other losing traders alive."
+      ],
+      [
+        868,
+        "01:03:11.162000",
+        "01:03:13.789000",
+        "It's just not fair to the other traders."
+      ]
+    ],
+    "regex": "\\b((?!\\bTraders:)Traders)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

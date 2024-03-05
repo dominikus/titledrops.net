@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5316540",
+    "title": "Close",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1138,
+    "occurrences": [
+      [
+        173,
+        "00:12:53",
+        "00:12:55.333000",
+        "We need to assign you a new close protection officer."
+      ],
+      [
+        879,
+        "01:13:24.208000",
+        "01:13:25.458000",
+        "and close the deal today."
+      ]
+    ],
+    "regex": "\\b((?!\\bClose:)Close)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt11346000",
+    "title": "King of Cool",
+    "year": 2021,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 2053,
+    "occurrences": [
+      [
+        61,
+        "00:02:48.168000",
+        "00:02:50.198000",
+        "but your dad is the King of Cool.\""
+      ],
+      [
+        63,
+        "00:02:52.539000",
+        "00:02:54.809000",
+        "Elvis Presley thinks my dad's the King of Cool."
+      ]
+    ],
+    "regex": "\\b((?!\\bKing\\ of\\ Cool:)King\\ of\\ Cool)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt6652330",
+    "title": "All In",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 746,
+    "occurrences": [
+      [
+        27,
+        "00:03:20.479000",
+        "00:03:24.360000",
+        "- All in.  Two tiers. - Fy father!"
+      ],
+      [
+        127,
+        "00:15:17.639000",
+        "00:15:20.600000",
+        "- How much do you think? - All in."
+      ],
+      [
+        128,
+        "00:15:20.679000",
+        "00:15:24.279000",
+        "- All in? - Yes, you put everything you have."
+      ]
+    ],
+    "regex": "\\b((?!\\bAll\\ In:)All\\ In)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

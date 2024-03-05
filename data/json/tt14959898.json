@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt14959898",
+    "title": "Strings",
+    "year": 2021,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1388,
+    "occurrences": [
+      [
+        690,
+        "00:39:28.936000",
+        "00:39:32.106000",
+        "for I will always have them tied to the end of my strings."
+      ],
+      [
+        860,
+        "00:50:35.703000",
+        "00:50:39.774000",
+        "\"five of them tied to the end of my strings.\""
+      ],
+      [
+        1077,
+        "01:04:16.123000",
+        "01:04:18.192000",
+        "\"Tied to the ends of my strings.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bStrings:)Strings)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

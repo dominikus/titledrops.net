@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0051011",
+    "title": "Stopover Tokyo",
+    "year": 1957,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1189,
+    "occurrences": [
+      [
+        49,
+        "00:04:56.650000",
+        "00:04:58.880000",
+        "You've got to make stopover Tokyo."
+      ],
+      [
+        50,
+        "00:04:58.986000",
+        "00:05:01.420000",
+        "Stopover Tokyo."
+      ]
+    ],
+    "regex": "\\b((?!\\bStopover\\ Tokyo:)Stopover\\ Tokyo)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

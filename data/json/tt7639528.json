@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt7639528",
+    "title": "Gintama 2: Rules are Made to be Broken",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1983,
+    "occurrences": [
+      [
+        1,
+        "00:00:18.904000",
+        "00:00:21.774000",
+        "(Yorozuya Gin-San) Gintama Live-Action Sales"
+      ],
+      [
+        32,
+        "00:01:39.485000",
+        "00:01:42.221000",
+        "The Gintama won the Golden Palm Award in Kancheng."
+      ],
+      [
+        40,
+        "00:01:58.804000",
+        "00:02:01.273000",
+        "Gintama 2: Rules are made to be Broken"
+      ]
+    ],
+    "regex": "\\b((?!\\bGintama:)Gintama|(?!\\bRules\\ are\\ Made\\ to\\ be\\ Broken:)Rules\\ are\\ Made\\ to\\ be\\ Broken)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

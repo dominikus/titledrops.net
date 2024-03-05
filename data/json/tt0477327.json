@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0477327",
+    "title": "Butterfly Kiss",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Crime",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 852,
+    "occurrences": [
+      [
+        202,
+        "00:21:05.176000",
+        "00:21:08.304000",
+        "She called it the \"Butterfly Kiss.\""
+      ],
+      [
+        203,
+        "00:21:08.576000",
+        "00:21:10.036000",
+        "Butterfly kiss?"
+      ]
+    ],
+    "regex": "\\b((?!\\bButterfly\\ Kiss:)Butterfly\\ Kiss)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

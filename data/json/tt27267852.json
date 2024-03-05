@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt27267852",
+    "title": "Yesterday Once More",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1358,
+    "occurrences": [
+      [
+        436,
+        "00:25:43.840000",
+        "00:25:46.079000",
+        "I'm here for the author of Yesterday Once More."
+      ],
+      [
+        486,
+        "00:28:14.320000",
+        "00:28:15.599000",
+        "Yesterday Once More."
+      ]
+    ],
+    "regex": "\\b((?!\\bYesterday\\ Once\\ More:)Yesterday\\ Once\\ More)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

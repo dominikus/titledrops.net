@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt19753884",
+    "title": "The Kiss List",
+    "year": 2023,
+    "genres": [
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1223,
+    "occurrences": [
+      [
+        292,
+        "00:17:32.518000",
+        "00:17:33.519000",
+        "It's a kiss list."
+      ],
+      [
+        563,
+        "00:36:53.277000",
+        "00:36:54.545000",
+        "I made a kiss list."
+      ],
+      [
+        624,
+        "00:41:01.091000",
+        "00:41:03.093000",
+        "It's fine. Mason was not on the Kiss List anyways."
+      ],
+      [
+        1200,
+        "01:18:21.530000",
+        "01:18:22.964000",
+        "How's the old Kiss List going?"
+      ]
+    ],
+    "regex": "\\b((?!\\bKiss\\ List:)Kiss\\ List)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

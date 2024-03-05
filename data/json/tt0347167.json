@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt0347167",
+    "title": "The Hero: Love Story of a Spy",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 1,
+    "all_lines": 1389,
+    "occurrences": [
+      [
+        167,
+        "00:19:15.301000",
+        "00:19:19.294000",
+        "to let us know the whereabouts of this lndian hero right now..."
+      ]
+    ],
+    "regex": "\\b((?!\\bHero:)Hero|(?!\\bLove\\ Story\\ of\\ a\\ Spy:)Love\\ Story\\ of\\ a\\ Spy)(?!\\:)(?!'t)\\b",
+    "runtime": 181,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

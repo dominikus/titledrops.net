@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7933282",
+    "title": "E-Demon",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1599,
+    "occurrences": [
+      [
+        0,
+        "00:00:03.070000",
+        "00:00:05.623000",
+        "- This is the e-Demon Resistance Network."
+      ],
+      [
+        29,
+        "00:01:26.255000",
+        "00:01:30.369000",
+        "And we need you to help us defeat the e-Demon."
+      ]
+    ],
+    "regex": "\\b((?!\\bE\\-Demon:)E\\-Demon)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

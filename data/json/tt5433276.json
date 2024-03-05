@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5433276",
+    "title": "In Love and War",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 758,
+    "occurrences": [
+      [
+        135,
+        "00:27:48.119000",
+        "00:27:50.999000",
+        "In love and war, my boy."
+      ],
+      [
+        136,
+        "00:27:52.519000",
+        "00:27:54.919000",
+        "In love and war!"
+      ]
+    ],
+    "regex": "\\b((?!\\bIn\\ Love\\ and\\ War:)In\\ Love\\ and\\ War)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

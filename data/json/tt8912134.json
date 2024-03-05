@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt8912134",
+    "title": "Deep Space",
+    "year": 2018,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1145,
+    "occurrences": [
+      [
+        18,
+        "00:02:05.146000",
+        "00:02:08.337000",
+        "We were the first astronauts into deep space."
+      ],
+      [
+        692,
+        "00:36:50.615000",
+        "00:36:53.157000",
+        "taking on Eddie's deep space mission to the satellite"
+      ]
+    ],
+    "regex": "\\b((?!\\bDeep\\ Space:)Deep\\ Space)(?!\\:)(?!'t)\\b",
+    "runtime": 73,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

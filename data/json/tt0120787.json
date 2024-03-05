@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0120787",
+    "title": "A Perfect Murder",
+    "year": 1998,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1097,
+    "occurrences": [
+      [
+        1042,
+        "01:48:21.619000",
+        "01:48:24.338000",
+        "This is Andy Davis, the director of A Perfect Murder."
+      ],
+      [
+        1045,
+        "01:48:31.219000",
+        "01:48:34.256000",
+        "...as an alternative to the perfect murder."
+      ],
+      [
+        1080,
+        "01:51:25.979000",
+        "01:51:28.015000",
+        "She's now committing the perfect murder."
+      ]
+    ],
+    "regex": "\\b((?!\\bPerfect\\ Murder:)Perfect\\ Murder)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

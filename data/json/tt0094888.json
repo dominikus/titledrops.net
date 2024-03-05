@@ -1,0 +1,46 @@
+[
+  {
+    "imdb": "tt0094888",
+    "title": "Cobra Verde",
+    "year": 1987,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 605,
+    "occurrences": [
+      [
+        4,
+        "00:00:20.167000",
+        "00:00:22.601000",
+        "...the bandit of Cobra Verde..."
+      ],
+      [
+        36,
+        "00:06:37.777000",
+        "00:06:42.009000",
+        "It's Cobra Verde, the bandit! Get the children in a safe place!"
+      ],
+      [
+        40,
+        "00:09:02.021000",
+        "00:09:08.051000",
+        "I want something to eat! Tell your parents Cobra Verde is here!"
+      ],
+      [
+        160,
+        "00:28:10.535000",
+        "00:28:16.701000",
+        "Sugarcane planter. I am the bandit Cobra Verde."
+      ]
+    ],
+    "regex": "\\b((?!\\bCobra\\ Verde:)Cobra\\ Verde)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [
+      "Francisco Manoel da Silva `Cobra Verde`"
+    ],
+    "title_is_name": true,
+    "rating": 6.9
+  }
+]

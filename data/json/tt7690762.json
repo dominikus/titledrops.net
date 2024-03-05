@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7690762",
+    "title": "The Pact",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 723,
+    "occurrences": [
+      [
+        281,
+        "00:39:59.458000",
+        "00:40:01.416000",
+        "That's how the pact works."
+      ],
+      [
+        673,
+        "01:33:50.250000",
+        "01:33:53.124000",
+        "So... I made a pact."
+      ]
+    ],
+    "regex": "\\b((?!\\bPact:)Pact)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

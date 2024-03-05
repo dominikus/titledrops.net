@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3041932",
+    "title": "To See the Sea",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 901,
+    "occurrences": [
+      [
+        410,
+        "00:34:13.560000",
+        "00:34:16.279000",
+        "So, will I get to see the sea this year?"
+      ],
+      [
+        900,
+        "01:30:40.088000",
+        "01:30:41.688000",
+        "To See The Sea"
+      ]
+    ],
+    "regex": "\\b((?!\\bTo\\ See\\ the\\ Sea:)To\\ See\\ the\\ Sea)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0086148",
+    "title": "Golgo 13: The Professional",
+    "year": 1983,
+    "genres": [
+      "Action",
+      "Animation",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 44,
+    "occurrences": [
+      [
+        1,
+        "00:01:59.359000",
+        "00:02:05.199000",
+        "Golgo 13... Nationality unknown. Age unknown. Name unknown."
+      ],
+      [
+        2,
+        "00:02:55.999000",
+        "00:03:00.719000",
+        "GOLGO 13"
+      ]
+    ],
+    "regex": "\\b((?!\\bGolgo:)Golgo|(?!\\bProfessional:)Professional)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt4106306",
+    "title": "Sky",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 945,
+    "occurrences": [
+      [
+        817,
+        "01:22:12.125000",
+        "01:22:13.666000",
+        "Your new name will be sky."
+      ],
+      [
+        818,
+        "01:22:16.416000",
+        "01:22:18.041000",
+        "Mapiya, like the sky."
+      ],
+      [
+        819,
+        "01:22:20.708000",
+        "01:22:22.541000",
+        "- Mapiya. Sky. - Mapiya."
+      ],
+      [
+        899,
+        "01:29:47.416000",
+        "01:29:49.958000",
+        "That's why we gave you the name of sky"
+      ],
+      [
+        902,
+        "01:30:02",
+        "01:30:03.916000",
+        "The sky is always changing."
+      ]
+    ],
+    "regex": "\\b((?!\\bSky:)Sky)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

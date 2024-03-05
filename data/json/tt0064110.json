@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0064110",
+    "title": "The Bridge at Remagen",
+    "year": 1969,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 835,
+    "occurrences": [
+      [
+        38,
+        "00:08:47.960000",
+        "00:08:51.714000",
+        "starting to move toward the bridge at Remagen, but we're gonna cut 'em off."
+      ],
+      [
+        760,
+        "01:40:33.560000",
+        "01:40:39.078000",
+        "And you, Herr Major, the bridge at Remagen is no longer your concern."
+      ]
+    ],
+    "regex": "\\b((?!\\bBridge\\ at\\ Remagen:)Bridge\\ at\\ Remagen)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

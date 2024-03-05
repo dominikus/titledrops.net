@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1446151",
+    "title": "Rookies the Movie: Graduation",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 652,
+    "occurrences": [
+      [
+        15,
+        "00:02:02.965000",
+        "00:02:04.899000",
+        "Graduation"
+      ],
+      [
+        33,
+        "00:03:36.826000",
+        "00:03:39.226000",
+        "Congratulations on graduation."
+      ],
+      [
+        39,
+        "00:04:02.318000",
+        "00:04:05.287000",
+        "...at this graduation ceremony."
+      ],
+      [
+        51,
+        "00:05:01.911000",
+        "00:05:04.106000",
+        "...on your graduation."
+      ]
+    ],
+    "regex": "\\b((?!\\bRookies\\ the\\ Movie:)Rookies\\ the\\ Movie|(?!\\bGraduation:)Graduation)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

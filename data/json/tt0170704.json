@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0170704",
+    "title": "Train to Pakistan",
+    "year": 1998,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1167,
+    "occurrences": [
+      [
+        1085,
+        "01:36:21.820000",
+        "01:36:26.020000",
+        "There is talk that they plan to attack some train to Pakistan."
+      ],
+      [
+        1123,
+        "01:39:29.206000",
+        "01:39:32.366000",
+        "It would have been better than putting her on the train to Pakistan."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrain\\ to\\ Pakistan:)Train\\ to\\ Pakistan)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

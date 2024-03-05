@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0377042",
+    "title": "Spring Breeze",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1212,
+    "occurrences": [
+      [
+        59,
+        "00:05:18.084000",
+        "00:05:20.951000",
+        "But, when the warm spring breeze starts to blow,"
+      ],
+      [
+        1054,
+        "01:34:15.049000",
+        "01:34:20.487000",
+        "When the warm spring breeze starts to blow in Serengeti Park,"
+      ],
+      [
+        1058,
+        "01:34:29.397000",
+        "01:34:34.334000",
+        "there's nothing more delightful than a tickle of warm spring breeze."
+      ],
+      [
+        1211,
+        "01:47:03.884000",
+        "01:47:07.012000",
+        "Ah... even after hundreds of years, the spring breeze of Choson Dynasty"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpring\\ Breeze:)Spring\\ Breeze)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

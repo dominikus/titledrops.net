@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt5814592",
+    "title": "The Party",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1005,
+    "occurrences": [
+      [
+        83,
+        "00:07:53.360000",
+        "00:07:56.857000",
+        "At last your ailing party has a person at the helm of Health"
+      ],
+      [
+        236,
+        "00:18:30.958000",
+        "00:18:34.524000",
+        "in your entirely rotten and useless opposition party."
+      ],
+      [
+        503,
+        "00:33:45.692000",
+        "00:33:49.723000",
+        "Neither has anyone at this party, as far as I know, but..."
+      ],
+      [
+        675,
+        "00:43:08.691000",
+        "00:43:12.422000",
+        "I was working day and night for the party."
+      ],
+      [
+        676,
+        "00:43:12.424000",
+        "00:43:14.056000",
+        "For our party."
+      ],
+      [
+        933,
+        "01:00:18.423000",
+        "01:00:21.688000",
+        "Well, it hasn't worked for your party for a while"
+      ]
+    ],
+    "regex": "\\b((?!\\bParty:)Party)(?!\\:)(?!'t)\\b",
+    "runtime": 71,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

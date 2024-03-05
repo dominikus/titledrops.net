@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5710688",
+    "title": "Wait for Your Laugh",
+    "year": 2017,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1796,
+    "occurrences": [
+      [
+        1016,
+        "00:48:19.722000",
+        "00:48:22.401000",
+        "She always had a way of saying, \"Wait for your laugh,"
+      ],
+      [
+        1017,
+        "00:48:22.421000",
+        "00:48:23.750000",
+        "\"wait for your laugh.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bWait\\ for\\ Your\\ Laugh:)Wait\\ for\\ Your\\ Laugh)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.2
+  }
+]

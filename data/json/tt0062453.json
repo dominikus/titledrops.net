@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0062453",
+    "title": "Viy",
+    "year": 1967,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 408,
+    "occurrences": [
+      [
+        2,
+        "00:00:18.061000",
+        "00:00:22.061000",
+        "\"Viy is a colossal creation of the imagination of simple folk."
+      ],
+      [
+        381,
+        "01:06:52.263000",
+        "01:06:54.333000",
+        "I summon Viy!"
+      ],
+      [
+        382,
+        "01:06:56.539000",
+        "01:06:58.819000",
+        "Bring Viy here!"
+      ]
+    ],
+    "regex": "\\b((?!\\bViy:)Viy)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3153582",
+    "title": "Listening",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1255,
+    "occurrences": [
+      [
+        573,
+        "00:42:41.914000",
+        "00:42:44.848000",
+        "Meaning if I was listening to your thoughts"
+      ],
+      [
+        574,
+        "00:42:44.850000",
+        "00:42:47.984000",
+        "listening to my thoughts listening to your thoughts"
+      ],
+      [
+        1197,
+        "01:25:59.748000",
+        "01:26:00.747000",
+        "We'll be listening to every thought"
+      ]
+    ],
+    "regex": "\\b((?!\\bListening:)Listening)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

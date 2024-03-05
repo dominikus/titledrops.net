@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0837562",
+    "title": "Hotel Transylvania",
+    "year": 2012,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 62,
+    "occurrences": [
+      [
+        21,
+        "00:00:52.664000",
+        "00:00:54.583000",
+        "This is Hotel Transylvania."
+      ],
+      [
+        54,
+        "00:02:05.195000",
+        "00:02:06.988000",
+        "Hotel Transylvania"
+      ]
+    ],
+    "regex": "\\b((?!\\bHotel\\ Transylvania:)Hotel\\ Transylvania)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

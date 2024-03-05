@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2345112",
+    "title": "Parkland",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "History",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 969,
+    "occurrences": [
+      [
+        138,
+        "00:11:00.720000",
+        "00:11:02.643000",
+        "We are at Parkland Memorial Hospital. Dallas, Texas."
+      ],
+      [
+        277,
+        "00:23:41.200000",
+        "00:23:42.725000",
+        "Parkland just called."
+      ],
+      [
+        843,
+        "01:10:44.080000",
+        "01:10:45.161000",
+        "Parkland."
+      ]
+    ],
+    "regex": "\\b((?!\\bParkland:)Parkland)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

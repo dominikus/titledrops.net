@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1796607",
+    "title": "Seance: The Summoning",
+    "year": 2011,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1200,
+    "occurrences": [
+      [
+        230,
+        "00:15:24.855000",
+        "00:15:27.316000",
+        "So, boys, where are we doing the seance?"
+      ],
+      [
+        348,
+        "00:22:04.998000",
+        "00:22:07.918000",
+        "To be honest, this whole seance thing is really freaking me out"
+      ]
+    ],
+    "regex": "\\b((?!\\bSeance:)Seance|(?!\\bSummoning:)Summoning)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

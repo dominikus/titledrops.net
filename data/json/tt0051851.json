@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0051851",
+    "title": "The Law Is the Law",
+    "year": 1958,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1205,
+    "occurrences": [
+      [
+        826,
+        "00:57:31.360000",
+        "00:57:34.194000",
+        "It's enough. The law is the law."
+      ],
+      [
+        1205,
+        "01:25:34.120000",
+        "01:25:36.794000",
+        "The law is the law."
+      ]
+    ],
+    "regex": "\\b((?!\\bLaw\\ Is\\ the\\ Law:)Law\\ Is\\ the\\ Law)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

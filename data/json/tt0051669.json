@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0051669",
+    "title": "Going Steady",
+    "year": 1958,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1403,
+    "occurrences": [
+      [
+        0,
+        "00:00:21.192000",
+        "00:00:24.496000",
+        "* I'm going steady"
+      ],
+      [
+        2,
+        "00:00:31.338000",
+        "00:00:36.543000",
+        "* I'm going steady With a dream"
+      ],
+      [
+        19,
+        "00:01:56.590000",
+        "00:02:00.360000",
+        "* And we'll be going steady"
+      ],
+      [
+        66,
+        "00:04:20.867000",
+        "00:04:22.869000",
+        "We're going steady."
+      ],
+      [
+        1402,
+        "01:21:51.377000",
+        "01:21:55.081000",
+        "* And we'll be going steady"
+      ]
+    ],
+    "regex": "\\b((?!\\bGoing\\ Steady:)Going\\ Steady)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

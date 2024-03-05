@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1935902",
+    "title": "The Brass Teapot",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1570,
+    "occurrences": [
+      [
+        564,
+        "00:38:37.315000",
+        "00:38:39.949000",
+        "The legend of the brass teapot."
+      ],
+      [
+        566,
+        "00:38:43.621000",
+        "00:38:46.489000",
+        "The legend of the brass teapot first appeared in folklore..."
+      ]
+    ],
+    "regex": "\\b((?!\\bBrass\\ Teapot:)Brass\\ Teapot)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

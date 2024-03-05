@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt1915581",
+    "title": "Magic Mike",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1595,
+    "occurrences": [
+      [
+        701,
+        "00:42:43.477000",
+        "00:42:47.522000",
+        "...the star of the show, Mr. Magic Mike."
+      ],
+      [
+        1447,
+        "01:34:22.615000",
+        "01:34:24.657000",
+        "Am I Magic Mike right now talking to you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMagic\\ Mike:)Magic\\ Mike)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [
+      "Magic Mike"
+    ],
+    "title_is_name": true,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0119557",
+    "title": "The Locusts",
+    "year": 1997,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1488,
+    "occurrences": [
+      [
+        839,
+        "01:05:08.382000",
+        "01:05:10.906000",
+        "Well, the locusts, um..."
+      ],
+      [
+        855,
+        "01:05:59.564000",
+        "01:06:02.348000",
+        "He said, \"happy are the locusts' lives,"
+      ],
+      [
+        858,
+        "01:06:08.573000",
+        "01:06:11.096000",
+        "\"Happy are the locusts' lives, for...\""
+      ],
+      [
+        943,
+        "01:13:17.523000",
+        "01:13:19.655000",
+        "\"Happy are the locusts' lives...\""
+      ]
+    ],
+    "regex": "\\b((?!\\bLocusts:)Locusts)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

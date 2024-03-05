@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1805412",
+    "title": "Sound It Out",
+    "year": 2011,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 5,
+    "all_lines": 807,
+    "occurrences": [
+      [
+        1,
+        "00:00:56.160000",
+        "00:01:00.020000",
+        "Sound It Out is the only record shop in Teesside,"
+      ],
+      [
+        110,
+        "00:08:01.215000",
+        "00:08:02.925000",
+        "Sound It Out Records."
+      ],
+      [
+        260,
+        "00:18:48.700000",
+        "00:18:51.900000",
+        "So you're a very loyal Sound It Out customer?"
+      ],
+      [
+        545,
+        "00:39:58.220000",
+        "00:40:00.585000",
+        "Sound It Out has everything,"
+      ],
+      [
+        554,
+        "00:40:30.660000",
+        "00:40:35.340000",
+        "Yeah, it was my first record I ever bought, I got it from Sound It Out."
+      ]
+    ],
+    "regex": "\\b((?!\\bSound\\ It\\ Out:)Sound\\ It\\ Out)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt6136188",
+    "title": "9 Fingers",
+    "year": 2017,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 953,
+    "occurrences": [
+      [
+        23,
+        "00:14:13.234000",
+        "00:14:14.901000",
+        "I got this affair from 9 Fingers."
+      ],
+      [
+        33,
+        "00:14:40.318000",
+        "00:14:41.901000",
+        "9 Fingers..."
+      ],
+      [
+        103,
+        "00:25:43.531000",
+        "00:25:45.031000",
+        "9 Fingers again?"
+      ],
+      [
+        875,
+        "01:22:01.056000",
+        "01:22:03.639000",
+        "You know. 9 Fingers is death!"
+      ]
+    ],
+    "regex": "\\b((?!\\b9\\ Fingers:)9\\ Fingers)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

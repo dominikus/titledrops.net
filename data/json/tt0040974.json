@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0040974",
+    "title": "The Woman in White",
+    "year": 1948,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1369,
+    "occurrences": [
+      [
+        300,
+        "00:22:50.491000",
+        "00:22:53.082000",
+        "Like a ghost. A woman in white mind you."
+      ],
+      [
+        423,
+        "00:30:38.505000",
+        "00:30:40.661000",
+        "What interest does Count Fosco have in the woman in white?"
+      ],
+      [
+        690,
+        "00:49:46.207000",
+        "00:49:48.134000",
+        "There she stands! The woman in white!"
+      ],
+      [
+        844,
+        "01:00:40.068000",
+        "01:00:41.941000",
+        "It was called \"The Woman In White\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bWoman\\ in\\ White:)Woman\\ in\\ White)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

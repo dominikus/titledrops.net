@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt11368696",
+    "title": "I Am the Sea",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 332,
+    "occurrences": [
+      [
+        74,
+        "00:20:00.400000",
+        "00:20:01.600000",
+        "And I am the sea."
+      ],
+      [
+        328,
+        "01:11:53.680000",
+        "01:11:57.240000",
+        "I am the sea, overflowing out of its own existence."
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Am\\ the\\ Sea:)I\\ Am\\ the\\ Sea)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1707384",
+    "title": "High School Debut",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1486,
+    "occurrences": [
+      [
+        12,
+        "00:01:11.770000",
+        "00:01:19.340000",
+        "High School Debut"
+      ],
+      [
+        13,
+        "00:01:14.570000",
+        "00:01:19.340000",
+        "High School Debut"
+      ],
+      [
+        120,
+        "00:06:17.930000",
+        "00:06:20.020000",
+        "This type of girl who wants to make a high school debut."
+      ],
+      [
+        122,
+        "00:06:20.020000",
+        "00:06:21.100000",
+        "This type of girl who wants to make a high school debut."
+      ]
+    ],
+    "regex": "\\b((?!\\bHigh\\ School\\ Debut:)High\\ School\\ Debut)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt6246534",
+    "title": "Miss Virginia",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 2069,
+    "occurrences": [
+      [
+        859,
+        "00:41:30.954000",
+        "00:41:33.090000",
+        "I'm Miss Virginia. I have a petition --"
+      ],
+      [
+        1524,
+        "01:12:17.499000",
+        "01:12:18.934000",
+        "This is Miss Virginia!"
+      ],
+      [
+        1526,
+        "01:12:21.736000",
+        "01:12:24.106000",
+        "Hi, Miss Virginia."
+      ],
+      [
+        1975,
+        "01:37:08.388000",
+        "01:37:10.090000",
+        "Hi, Miss Virginia!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMiss\\ Virginia:)Miss\\ Virginia)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0051998",
+    "title": "Nishi Ginza Station",
+    "year": 1958,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 552,
+    "occurrences": [
+      [
+        20,
+        "00:01:55.117000",
+        "00:01:59.557000",
+        "Nishi Ginza Station"
+      ],
+      [
+        21,
+        "00:02:05.557000",
+        "00:02:10.967000",
+        "Nishi Ginza Station"
+      ],
+      [
+        177,
+        "00:14:31.117000",
+        "00:14:35.657000",
+        "Right in front of Nishi Ginza Station"
+      ]
+    ],
+    "regex": "\\b((?!\\bNishi\\ Ginza\\ Station:)Nishi\\ Ginza\\ Station)(?!\\:)(?!'t)\\b",
+    "runtime": 52,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

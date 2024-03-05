@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0280438",
+    "title": "Ash Wednesday",
+    "year": 2002,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1504,
+    "occurrences": [
+      [
+        608,
+        "00:35:30.567000",
+        "00:35:33.414000",
+        "That's right, it was Ash Wednesday."
+      ],
+      [
+        632,
+        "00:36:40.831000",
+        "00:36:43.678000",
+        "Today is what... Ash Wednesday, right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAsh\\ Wednesday:)Ash\\ Wednesday)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

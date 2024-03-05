@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0167752",
+    "title": "The 4th Floor",
+    "year": 1999,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 636,
+    "occurrences": [
+      [
+        85,
+        "00:08:08.802000",
+        "00:08:11.136000",
+        "- The 4th floor? - Yeah."
+      ],
+      [
+        542,
+        "01:10:05.715000",
+        "01:10:08.343000",
+        "I saw the plans in the 4th floor apartment."
+      ]
+    ],
+    "regex": "\\b((?!\\b4th\\ Floor:)4th\\ Floor)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

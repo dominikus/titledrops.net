@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0047803",
+    "title": "The African Lion",
+    "year": 1955,
+    "genres": [
+      "Documentary",
+      "Family"
+    ],
+    "count": 5,
+    "all_lines": 764,
+    "occurrences": [
+      [
+        25,
+        "00:02:47.200000",
+        "00:02:52.880000",
+        "Here in its shadow, our story begins, for this is the realm of the African lion."
+      ],
+      [
+        160,
+        "00:13:37.640000",
+        "00:13:41.200000",
+        "The African lion is nothing more than an overgrown cat,"
+      ],
+      [
+        428,
+        "00:40:49.880000",
+        "00:40:53.840000",
+        "In the kingdom of the African lion, there are birds of many kinds."
+      ],
+      [
+        468,
+        "00:44:19.040000",
+        "00:44:22.640000",
+        "In the kingdom of the African lion, there are only two seasons:"
+      ],
+      [
+        758,
+        "01:11:45.360000",
+        "01:11:49.200000",
+        "All these and many more pay homage to the African lion."
+      ]
+    ],
+    "regex": "\\b((?!\\bAfrican\\ Lion:)African\\ Lion)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

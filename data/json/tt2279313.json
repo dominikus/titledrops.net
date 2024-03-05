@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2279313",
+    "title": "The Brussels Business",
+    "year": 2012,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1006,
+    "occurrences": [
+      [
+        770,
+        "01:04:08.679000",
+        "01:04:12.840000",
+        "... in Brussels business is 1 euro - 1 vote."
+      ],
+      [
+        858,
+        "01:10:46.920000",
+        "01:10:50.439000",
+        "As an outsider to the Brussels business he also had a clear sence ..."
+      ]
+    ],
+    "regex": "\\b((?!\\bBrussels\\ Business:)Brussels\\ Business)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

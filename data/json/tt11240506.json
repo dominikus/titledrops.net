@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt11240506",
+    "title": "Nobody Sleeps in the Woods Tonight",
+    "year": 2020,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 849,
+    "occurrences": [
+      [
+        640,
+        "01:04:55.458000",
+        "01:04:58.458000",
+        "Nobody sleeps in the woods tonight"
+      ],
+      [
+        641,
+        "01:05:00.083000",
+        "01:05:03.708000",
+        "Nobody sleeps in the woods tonight\""
+      ],
+      [
+        644,
+        "01:05:10.041000",
+        "01:05:13.708000",
+        "Nobody sleeps In the woods tonight"
+      ],
+      [
+        645,
+        "01:05:16.458000",
+        "01:05:20.166000",
+        "Nobody sleeps in the woods tonight"
+      ]
+    ],
+    "regex": "\\b((?!\\bNobody\\ Sleeps\\ in\\ the\\ Woods\\ Tonight:)Nobody\\ Sleeps\\ in\\ the\\ Woods\\ Tonight)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

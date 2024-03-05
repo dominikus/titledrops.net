@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0052905",
+    "title": "The Hound of the Baskervilles",
+    "year": 1959,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 1096,
+    "occurrences": [
+      [
+        0,
+        "00:01:14.570000",
+        "00:01:18.340000",
+        "\"Know then the legend of the hound of the Baskervilles."
+      ],
+      [
+        60,
+        "00:10:04.400000",
+        "00:10:06.590000",
+        "\"...the hound of the Baskervilles."
+      ],
+      [
+        222,
+        "00:18:29.170000",
+        "00:18:32.100000",
+        "He has told you of the legend of the hound of the Baskervilles?"
+      ],
+      [
+        364,
+        "00:26:47.570000",
+        "00:26:51.260000",
+        "You know about the legend of the hound of the Baskervilles, don't you?"
+      ],
+      [
+        1049,
+        "01:20:56.280000",
+        "01:20:59.040000",
+        "...in spite of the hound of the Baskervilles."
+      ],
+      [
+        1077,
+        "01:24:35.230000",
+        "01:24:38",
+        "No more will be heard of the hound of the Baskervilles."
+      ]
+    ],
+    "regex": "\\b((?!\\bHound\\ of\\ the\\ Baskervilles:)Hound\\ of\\ the\\ Baskervilles)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0120594",
+    "title": "B. Monkey",
+    "year": 1998,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1084,
+    "occurrences": [
+      [
+        25,
+        "00:02:16.017000",
+        "00:02:18.853000",
+        "My name is B., B. Monkey,"
+      ],
+      [
+        235,
+        "00:18:40.877000",
+        "00:18:42.295000",
+        "B. Monkey."
+      ],
+      [
+        236,
+        "00:18:43.338000",
+        "00:18:46.533000",
+        "Once upon a time you could read \"B. Monkey\" on every tube station."
+      ],
+      [
+        240,
+        "00:18:56.768000",
+        "00:18:58.570000",
+        "Anyway I'm not B. Monkey anymore."
+      ],
+      [
+        243,
+        "00:19:03.400000",
+        "00:19:06.111000",
+        "B. Monkey. Beatrice."
+      ],
+      [
+        246,
+        "00:19:13.627000",
+        "00:19:15.862000",
+        "So who was B. Monkey?"
+      ]
+    ],
+    "regex": "\\b((?!\\bB\\.\\ Monkey:)B\\.\\ Monkey)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

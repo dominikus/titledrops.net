@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0095183",
+    "title": "The Fruit Machine",
+    "year": 1988,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1588,
+    "occurrences": [
+      [
+        357,
+        "00:19:08.920000",
+        "00:19:09.760000",
+        "It's the fruit machine."
+      ],
+      [
+        358,
+        "00:19:09.880000",
+        "00:19:11.560000",
+        "We're in the fruit machine."
+      ],
+      [
+        372,
+        "00:20:10.960000",
+        "00:20:13.280000",
+        "MAN: And tonight, here at the Fruit Machine,"
+      ],
+      [
+        376,
+        "00:20:22",
+        "00:20:25.200000",
+        "And it's famed Fruit Machine"
+      ],
+      [
+        413,
+        "00:21:59.320000",
+        "00:22:02.160000",
+        "Yes, it's Friday night at the Fruit Machine."
+      ]
+    ],
+    "regex": "\\b((?!\\bFruit\\ Machine:)Fruit\\ Machine)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

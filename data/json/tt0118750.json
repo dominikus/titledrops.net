@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0118750",
+    "title": "Booty Call",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1237,
+    "occurrences": [
+      [
+        630,
+        "00:39:40.277000",
+        "00:39:42.336000",
+        "Booty Call, Backdoor Man, Manhandlers."
+      ],
+      [
+        870,
+        "00:53:51.995000",
+        "00:53:54.862000",
+        "i still got time to make my booty call."
+      ]
+    ],
+    "regex": "\\b((?!\\bBooty\\ Call:)Booty\\ Call)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

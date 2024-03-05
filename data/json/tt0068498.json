@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0068498",
+    "title": "Doomwatch",
+    "year": 1972,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1252,
+    "occurrences": [
+      [
+        153,
+        "00:13:17.964000",
+        "00:13:19.966000",
+        "That's right, I work for Doomwatch."
+      ],
+      [
+        202,
+        "00:18:01.163000",
+        "00:18:03.332000",
+        "Hello? It's Doomwatch in London."
+      ],
+      [
+        790,
+        "01:01:07.122000",
+        "01:01:09.791000",
+        "Sir Henry, there's a Dr. Ridge from Doomwatch to see you."
+      ],
+      [
+        1239,
+        "01:29:44.004000",
+        "01:29:46.798000",
+        "Get me Doomwatch in London, please."
+      ]
+    ],
+    "regex": "\\b((?!\\bDoomwatch:)Doomwatch)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

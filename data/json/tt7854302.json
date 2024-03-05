@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7854302",
+    "title": "Tokyo Trial",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1498,
+    "occurrences": [
+      [
+        14,
+        "00:01:55.680000",
+        "00:02:00.294000",
+        "Supreme Commander MacArthur enacts a Charter for the Tokyo trial."
+      ],
+      [
+        16,
+        "00:02:05.342000",
+        "00:02:07.127000",
+        "The Tokyo trial begins."
+      ]
+    ],
+    "regex": "\\b((?!\\bTokyo\\ Trial:)Tokyo\\ Trial)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

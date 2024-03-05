@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0319307",
+    "title": "The Blonds",
+    "year": 2003,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 829,
+    "occurrences": [
+      [
+        203,
+        "00:17:06.887000",
+        "00:17:12.629000",
+        "Well, what they said about \"the blonds\" is not an insult."
+      ],
+      [
+        204,
+        "00:17:12.797000",
+        "00:17:18.294000",
+        "Well it is, but to blonds. Not to anybody else."
+      ],
+      [
+        210,
+        "00:17:36.933000",
+        "00:17:40.866000",
+        "Interview. The Blonds. Take 2."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlonds:)Blonds)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

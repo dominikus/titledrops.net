@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0445506",
+    "title": "Peacock",
+    "year": 2005,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 890,
+    "occurrences": [
+      [
+        866,
+        "02:09:41.320000",
+        "02:09:42.360000",
+        "Peacock, Peacock"
+      ],
+      [
+        867,
+        "02:09:44.400000",
+        "02:09:46.120000",
+        "Peacock, Peacock, please spread your tail!"
+      ],
+      [
+        872,
+        "02:10:33.440000",
+        "02:10:34.600000",
+        "Peacock, Peacock, please spread your tail!"
+      ],
+      [
+        883,
+        "02:11:33.760000",
+        "02:11:35.400000",
+        "The peacock doesn't spreads it tail in winter"
+      ]
+    ],
+    "regex": "\\b((?!\\bPeacock:)Peacock)(?!\\:)(?!'t)\\b",
+    "runtime": 136,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

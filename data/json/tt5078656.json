@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt5078656",
+    "title": "Champion",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Family",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 1429,
+    "occurrences": [
+      [
+        257,
+        "00:18:19.054000",
+        "00:18:21.274000",
+        "and Sean Weathers, last year's points champion"
+      ],
+      [
+        325,
+        "00:24:20.023000",
+        "00:24:23.679000",
+        "but our own local champion, Sean Weathers, was involved."
+      ],
+      [
+        1229,
+        "01:39:05.200000",
+        "01:39:08.116000",
+        "Sean, you worked so hard to become a champion..."
+      ],
+      [
+        1374,
+        "01:49:26.124000",
+        "01:49:28.344000",
+        "I know, Dad. I'm already a champion."
+      ]
+    ],
+    "regex": "\\b((?!\\bChampion:)Champion)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

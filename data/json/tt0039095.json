@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0039095",
+    "title": "Wanted for Murder",
+    "year": 1946,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1415,
+    "occurrences": [
+      [
+        1231,
+        "01:26:27.563000",
+        "01:26:29.831000",
+        "Take this down .. \"Wanted for murder\"."
+      ],
+      [
+        1238,
+        "01:26:46.659000",
+        "01:26:49.147000",
+        "\"Wanted for murder. Victor James Colebrooke.\""
+      ],
+      [
+        1247,
+        "01:27:13.365000",
+        "01:27:15.299000",
+        "He's wanted for murder. - What?"
+      ],
+      [
+        1255,
+        "01:27:52.670000",
+        "01:27:55.130000",
+        "\"Wanted for murder. Victor James Colebrooke.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bWanted\\ for\\ Murder:)Wanted\\ for\\ Murder)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

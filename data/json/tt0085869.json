@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0085869",
+    "title": "Lost",
+    "year": 1983,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 1414,
+    "occurrences": [
+      [
+        750,
+        "00:34:50.547000",
+        "00:34:53.380000",
+        "- I lost my temper. I blew it."
+      ],
+      [
+        967,
+        "00:55:01.256000",
+        "00:55:02.166000",
+        "I guess we're lost."
+      ],
+      [
+        1090,
+        "01:05:31.428000",
+        "01:05:33.010000",
+        "You're liable to get lost yourself."
+      ],
+      [
+        1355,
+        "01:23:32.925000",
+        "01:23:36.919000",
+        "- Skipper, I think we're lost again."
+      ]
+    ],
+    "regex": "\\b((?!\\bLost:)Lost)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

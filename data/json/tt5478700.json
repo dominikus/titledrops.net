@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt5478700",
+    "title": "Dagenham",
+    "year": 2018,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1608,
+    "occurrences": [
+      [
+        65,
+        "00:03:11.192000",
+        "00:03:12.257000",
+        "Dagenham's my community."
+      ],
+      [
+        82,
+        "00:03:44.558000",
+        "00:03:46.959000",
+        "with your fucking ass hanging out on fucking Dagenham."
+      ],
+      [
+        584,
+        "00:31:07.233000",
+        "00:31:10.200000",
+        "What, you're working in Dagenham now, are ya?"
+      ],
+      [
+        1167,
+        "01:08:01.078000",
+        "01:08:05.814000",
+        "It's always get one free in Dagenham, you know that."
+      ]
+    ],
+    "regex": "\\b((?!\\bDagenham:)Dagenham)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

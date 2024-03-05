@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1412386",
+    "title": "The Best Exotic Marigold Hotel",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 929,
+    "occurrences": [
+      [
+        327,
+        "00:20:53.100000",
+        "00:20:57",
+        "Welcome to The Best Exotic Marigold Hotel!"
+      ],
+      [
+        411,
+        "00:26:04.400000",
+        "00:26:08.100000",
+        "and renamed The Best Exotic Marigold Hotel..."
+      ],
+      [
+        663,
+        "00:43:53.600000",
+        "00:43:57.700000",
+        "The Best Exotic Marigold Hotel can rise like a phoenix..."
+      ],
+      [
+        677,
+        "00:44:34.300000",
+        "00:44:36.900000",
+        "of The Best Exotic Marigold Hotel."
+      ]
+    ],
+    "regex": "\\b((?!\\bBest\\ Exotic\\ Marigold\\ Hotel:)Best\\ Exotic\\ Marigold\\ Hotel)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

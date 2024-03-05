@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0062384",
+    "title": "Torture Garden",
+    "year": 1967,
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1139,
+    "occurrences": [
+      [
+        10,
+        "00:02:40.778000",
+        "00:02:44.805000",
+        "Come along to the Torture Garden of Dr. Diabolo."
+      ],
+      [
+        11,
+        "00:02:44.983000",
+        "00:02:49.750000",
+        "Dr. Diabolo's Torture Garden."
+      ],
+      [
+        59,
+        "00:06:29.207000",
+        "00:06:31.402000",
+        "...the real Torture Garden."
+      ]
+    ],
+    "regex": "\\b((?!\\bTorture\\ Garden:)Torture\\ Garden)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3327640",
+    "title": "First Contact",
+    "year": 2016,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1678,
+    "occurrences": [
+      [
+        25,
+        "00:02:57.405000",
+        "00:03:01.516000",
+        "First contact between Earth and extraterrestrials has been"
+      ],
+      [
+        1319,
+        "01:09:41.529000",
+        "01:09:44.794000",
+        "and may be part of a larger plan leading to first contact."
+      ]
+    ],
+    "regex": "\\b((?!\\bFirst\\ Contact:)First\\ Contact)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

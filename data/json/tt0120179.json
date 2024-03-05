@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0120179",
+    "title": "Speed 2: Cruise Control",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1681,
+    "occurrences": [
+      [
+        1320,
+        "01:24:57.960000",
+        "01:24:59.920000",
+        "Speed the engines full power."
+      ],
+      [
+        1589,
+        "01:46:01",
+        "01:46:02.920000",
+        "Almost at speed!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpeed:)Speed|(?!\\bCruise\\ Control:)Cruise\\ Control)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

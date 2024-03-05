@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0064209",
+    "title": "Daddy's Gone A-Hunting",
+    "year": 1969,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1426,
+    "occurrences": [
+      [
+        9,
+        "00:00:58",
+        "00:01:01.133000",
+        "* daddy's gone a-hunting *"
+      ],
+      [
+        25,
+        "00:02:04.333000",
+        "00:02:07.600000",
+        "* daddy's gone a-hunting *"
+      ],
+      [
+        1048,
+        "01:16:29.133000",
+        "01:16:31.200000",
+        "* daddy's gone a-hunting *"
+      ],
+      [
+        1083,
+        "01:18:33.133000",
+        "01:18:34.700000",
+        "[Whistling \"daddy's gone a-hunting\"]"
+      ]
+    ],
+    "regex": "\\b((?!\\bDaddy's\\ Gone\\ A\\-Hunting:)Daddy's\\ Gone\\ A\\-Hunting)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

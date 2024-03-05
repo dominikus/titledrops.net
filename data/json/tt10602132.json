@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt10602132",
+    "title": "Something Is About to Happen",
+    "year": 2023,
+    "genres": [
+      "Horror",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1334,
+    "occurrences": [
+      [
+        1193,
+        "01:42:29.916000",
+        "01:42:32.541000",
+        "- Calaf. - Calaf. Something is about to happen."
+      ],
+      [
+        1217,
+        "01:43:26.208000",
+        "01:43:28.125000",
+        "Something is about to happen,"
+      ],
+      [
+        1218,
+        "01:43:28.708000",
+        "01:43:32",
+        "something is about to happen, something is about to happen,"
+      ],
+      [
+        1219,
+        "01:43:32.750000",
+        "01:43:36.500000",
+        "something is about to happen, something is about to happen..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSomething\\ Is\\ About\\ to\\ Happen:)Something\\ Is\\ About\\ to\\ Happen)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

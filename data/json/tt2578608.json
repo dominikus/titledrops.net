@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2578608",
+    "title": "Krampus: The Christmas Devil",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 834,
+    "occurrences": [
+      [
+        8,
+        "00:00:45.497000",
+        "00:00:50.401000",
+        "there is an all but forgotten tale of the yule Lord, Krampus."
+      ],
+      [
+        9,
+        "00:00:50.435000",
+        "00:00:53.437000",
+        "The Christmas Devil and executioner of the wicked,"
+      ],
+      [
+        15,
+        "00:01:07.820000",
+        "00:01:10.321000",
+        "Krampus only has until the stroke of midnight"
+      ]
+    ],
+    "regex": "\\b((?!\\bKrampus:)Krampus|(?!\\bChristmas\\ Devil:)Christmas\\ Devil)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 1.6
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4513674",
+    "title": "Café Society",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1730,
+    "occurrences": [
+      [
+        1037,
+        "00:54:52.165000",
+        "00:54:55.085000",
+        "He learned the ins and outs of 'The Cafe Society'"
+      ],
+      [
+        1257,
+        "01:05:41.522000",
+        "01:05:46.027000",
+        "Cafe Society was called, when Bobby Dorfman was ridin' the thick of it."
+      ]
+    ],
+    "regex": "\\b((?!\\bCafe\\ Society:)Cafe\\ Society)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

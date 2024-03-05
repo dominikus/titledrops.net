@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2006894",
+    "title": "All Is Silence",
+    "year": 2012,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1286,
+    "occurrences": [
+      [
+        437,
+        "00:41:52.320000",
+        "00:41:54.288000",
+        "\"All is silence,\" remember?"
+      ],
+      [
+        440,
+        "00:42:03",
+        "00:42:04.411000",
+        "\"All is silence.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bAll\\ Is\\ Silence:)All\\ Is\\ Silence)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

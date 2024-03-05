@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0102757",
+    "title": "The Rapture",
+    "year": 1991,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1238,
+    "occurrences": [
+      [
+        662,
+        "00:48:03.647000",
+        "00:48:06.241000",
+        "but the Rapture is coming."
+      ],
+      [
+        698,
+        "00:49:47.150000",
+        "00:49:49.675000",
+        "and the Rapture happens, you get taken up to heaven..."
+      ],
+      [
+        768,
+        "00:54:29.399000",
+        "00:54:33.529000",
+        "When the Rapture comes, does that mean we die?"
+      ],
+      [
+        974,
+        "01:09:55.257000",
+        "01:09:57.384000",
+        "And if we didn't get the Rapture..."
+      ]
+    ],
+    "regex": "\\b((?!\\bRapture:)Rapture)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

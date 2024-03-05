@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0468683",
+    "title": "The Red Shoes",
+    "year": 2005,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 330,
+    "occurrences": [
+      [
+        32,
+        "00:09:04.243000",
+        "00:09:06.302000",
+        "I wanna wear my red shoes!"
+      ],
+      [
+        35,
+        "00:09:12.618000",
+        "00:09:15.587000",
+        "I wanna wear my red shoes!"
+      ],
+      [
+        246,
+        "00:39:10.614000",
+        "00:39:14.380000",
+        "- They're mommy's! - Those red shoes aren't yours!"
+      ]
+    ],
+    "regex": "\\b((?!\\bRed\\ Shoes:)Red\\ Shoes)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

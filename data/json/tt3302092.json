@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3302092",
+    "title": "By Dawn",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1340,
+    "occurrences": [
+      [
+        199,
+        "00:12:46.766000",
+        "00:12:50.030000",
+        "and we are hoping to put that into effect by dawn tomorrow."
+      ],
+      [
+        453,
+        "00:25:42.932000",
+        "00:25:47.110000",
+        "and if we die by dawn at least we'll be together."
+      ]
+    ],
+    "regex": "\\b((?!\\bBy\\ Dawn:)By\\ Dawn)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

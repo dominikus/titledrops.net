@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0443473",
+    "title": "The Condemned",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 805,
+    "occurrences": [
+      [
+        79,
+        "00:08:17.459000",
+        "00:08:18.094000",
+        "Condemned."
+      ],
+      [
+        728,
+        "01:31:16.334000",
+        "01:31:19.240000",
+        "are we the condemned?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCondemned:)Condemned)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

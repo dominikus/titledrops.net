@@ -1,0 +1,69 @@
+[
+  {
+    "imdb": "tt0301083",
+    "title": "Cardcaptor Sakura: The Sealed Card",
+    "year": 2000,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 8,
+    "all_lines": 1203,
+    "occurrences": [
+      [
+        0,
+        "00:01:14.665000",
+        "00:01:23.424000",
+        "Cardcaptor Sakura: The Movie The Sealed Card"
+      ],
+      [
+        1,
+        "00:01:23.424000",
+        "00:01:29.555000",
+        "Cardcaptor Sakura: The Movie The Sealed Card"
+      ],
+      [
+        582,
+        "00:42:01.109000",
+        "00:42:03.945000",
+        "The existence of the Sealed Card..."
+      ],
+      [
+        602,
+        "00:43:06.466000",
+        "00:43:08.635000",
+        "This one Sealed Card..."
+      ],
+      [
+        697,
+        "00:49:44.822000",
+        "00:49:48.618000",
+        "That Sealed Card was also something Clow created."
+      ],
+      [
+        873,
+        "01:01:43.415000",
+        "01:01:45.876000",
+        "Is this the doing of the Sealed Card?"
+      ],
+      [
+        914,
+        "01:05:06.368000",
+        "01:05:09.162000",
+        "I know where the Sealed Card is."
+      ],
+      [
+        931,
+        "01:07:46.194000",
+        "01:07:48.238000",
+        "You're the Sealed Card, right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCardcaptor\\ Sakura:)Cardcaptor\\ Sakura|(?!\\bSealed\\ Card:)Sealed\\ Card)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

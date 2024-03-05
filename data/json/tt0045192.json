@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0045192",
+    "title": "The Stooge",
+    "year": 1951,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 1472,
+    "occurrences": [
+      [
+        127,
+        "00:08:18.077000",
+        "00:08:20.978000",
+        "He's not your partner, he's a stooge!"
+      ],
+      [
+        439,
+        "00:27:52.311000",
+        "00:27:55.474000",
+        "- Who? - The stooge in the box."
+      ],
+      [
+        1134,
+        "01:17:39.517000",
+        "01:17:42.008000",
+        "Like a nobody. A stooge."
+      ],
+      [
+        1341,
+        "01:29:57.855000",
+        "01:30:00.289000",
+        "if the kid was an ordinary stooge. But he's not."
+      ]
+    ],
+    "regex": "\\b((?!\\bStooge:)Stooge)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

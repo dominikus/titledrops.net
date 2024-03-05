@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt8119844",
+    "title": "Hit-and-Run Squad",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 1365,
+    "occurrences": [
+      [
+        193,
+        "00:15:02.039000",
+        "00:15:05.560000",
+        "I'm an insurance investigator, Jang Hyung-gwan. I used to be in a hit-and-run squad."
+      ],
+      [
+        768,
+        "00:58:18.774000",
+        "00:58:20.392000",
+        "... transferred to hit-and-run squad..."
+      ],
+      [
+        776,
+        "00:58:44.346000",
+        "00:58:46.709000",
+        "Incheon's hit-and-run squad is on the case."
+      ]
+    ],
+    "regex": "\\b((?!\\bHit\\-and\\-Run\\ Squad:)Hit\\-and\\-Run\\ Squad)(?!\\:)(?!'t)\\b",
+    "runtime": 133,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

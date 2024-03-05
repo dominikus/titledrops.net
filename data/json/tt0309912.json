@@ -1,0 +1,59 @@
+[
+  {
+    "imdb": "tt0309912",
+    "title": "Nicholas Nickleby",
+    "year": 2002,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1898,
+    "occurrences": [
+      [
+        11,
+        "00:03:22.119000",
+        "00:03:24.997000",
+        "There once lived a man named Nicholas Nickleby."
+      ],
+      [
+        14,
+        "00:03:31.629000",
+        "00:03:35.549000",
+        "But he is not the Nicholas Nickleby you have come to hear about."
+      ],
+      [
+        15,
+        "00:03:36.133000",
+        "00:03:38.969000",
+        "That Nicholas Nickleby is here."
+      ],
+      [
+        39,
+        "00:04:41.407000",
+        "00:04:45.577000",
+        "so Nicholas Nickleby, who had never speculated,"
+      ],
+      [
+        55,
+        "00:05:46.430000",
+        "00:05:49.600000",
+        "Here is Nicholas Nickleby again."
+      ],
+      [
+        1058,
+        "01:08:06.666000",
+        "01:08:10.796000",
+        "My name is Nicholas Nickleby. Miss Nickleby's brother."
+      ]
+    ],
+    "regex": "\\b((?!\\bNicholas\\ Nickleby:)Nicholas\\ Nickleby)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [
+      "Nicholas Nickleby"
+    ],
+    "title_is_name": true,
+    "rating": 7.1
+  }
+]

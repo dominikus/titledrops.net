@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0119769",
+    "title": "The Collector",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 566,
+    "occurrences": [
+      [
+        60,
+        "00:04:45.500000",
+        "00:04:47.500000",
+        "The Collector / Neitoperho"
+      ],
+      [
+        423,
+        "01:03:23.900000",
+        "01:03:27",
+        "Pretty funny I got a butterfly collector as a prisoner."
+      ]
+    ],
+    "regex": "\\b((?!\\bCollector:)Collector)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

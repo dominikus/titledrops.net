@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt0036910",
+    "title": "Henry V",
+    "year": 1944,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1703,
+    "occurrences": [
+      [
+        1023,
+        "01:15:17.104000",
+        "01:15:19.354000",
+        "What is thy name? - Henry le Roy."
+      ],
+      [
+        1644,
+        "02:08:19.264000",
+        "02:08:21.335000",
+        "'And Henry Plantagenet is thine'."
+      ]
+    ],
+    "regex": "\\b((?!\\bHenry:)Henry)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [
+      "King Henry V of England"
+    ],
+    "title_is_name": true,
+    "rating": 7
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0169951",
+    "title": "The Galaxy Express 999: The Eternal Fantasy",
+    "year": 1998,
+    "genres": [
+      "Animation",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 489,
+    "occurrences": [
+      [
+        34,
+        "00:07:16.550000",
+        "00:07:21.112000",
+        "Hey, he was taken away by the Galaxy Express 999!"
+      ],
+      [
+        165,
+        "00:20:01.080000",
+        "00:20:02.980000",
+        "...Upon Galaxy Express?"
+      ]
+    ],
+    "regex": "\\b((?!\\bGalaxy\\ Express:)Galaxy\\ Express|(?!\\bEternal\\ Fantasy:)Eternal\\ Fantasy)(?!\\:)(?!'t)\\b",
+    "runtime": 54,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

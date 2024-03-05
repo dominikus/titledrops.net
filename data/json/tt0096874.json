@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0096874",
+    "title": "Back to the Future Part II",
+    "year": 1989,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "count": 7,
+    "all_lines": 1134,
+    "occurrences": [
+      [
+        11,
+        "00:01:44.518000",
+        "00:01:45.678000",
+        "Back to the future!"
+      ],
+      [
+        724,
+        "00:54:45.495000",
+        "00:54:49.864000",
+        "We go back to the future and stop him from stealing the time machine"
+      ],
+      [
+        827,
+        "01:03:11.134000",
+        "01:03:12.836000",
+        "and bring them all back to the future."
+      ],
+      [
+        1039,
+        "01:25:03.311000",
+        "01:25:06.007000",
+        "You won't get back to the future."
+      ],
+      [
+        1088,
+        "01:36:47.582000",
+        "01:36:51.348000",
+        "Let get the hell back to the future..."
+      ],
+      [
+        1132,
+        "01:42:11.338000",
+        "01:42:13.772000",
+        "It can't be, I'd just send you back to the future"
+      ],
+      [
+        1133,
+        "01:42:14.208000",
+        "01:42:16.768000",
+        "I know you send me back to the future but I'm back."
+      ]
+    ],
+    "regex": "\\b((?!\\bBack\\ to\\ the\\ Future:)Back\\ to\\ the\\ Future)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0113269",
+    "title": "Haunted",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 883,
+    "occurrences": [
+      [
+        401,
+        "00:37:39.852000",
+        "00:37:44.337000",
+        "Try to convince that Edbrook is haunted."
+      ],
+      [
+        456,
+        "00:42:47.166000",
+        "00:42:49.936000",
+        "You will not believe Edbrook This haunted. Truth?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHaunted:)Haunted)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

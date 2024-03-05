@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4721124",
+    "title": "The Exception",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1052,
+    "occurrences": [
+      [
+        600,
+        "00:57:52.218000",
+        "00:57:55.920000",
+        "But they are not the exception, they are the rule."
+      ],
+      [
+        878,
+        "01:20:52.630000",
+        "01:20:57.300000",
+        "Brandt, they are the rule. You are the exception."
+      ]
+    ],
+    "regex": "\\b((?!\\bException:)Exception)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt13918608",
+    "title": "Big Cat Trail",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 796,
+    "occurrences": [
+      [
+        154,
+        "00:13:01.646000",
+        "00:13:03.372000",
+        "Yeah, we're headed up to big cat trail."
+      ],
+      [
+        240,
+        "00:18:48.271000",
+        "00:18:51.271000",
+        "Head up to big cat trail and camp out there for the night."
+      ],
+      [
+        247,
+        "00:19:10.312000",
+        "00:19:12.330000",
+        "Let's do it. Big cat trail."
+      ],
+      [
+        248,
+        "00:19:12.354000",
+        "00:19:14.580000",
+        "I agree, big cat trail. It's up to you."
+      ]
+    ],
+    "regex": "\\b((?!\\bBig\\ Cat\\ Trail:)Big\\ Cat\\ Trail)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

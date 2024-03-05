@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0494224",
+    "title": "End of the Line",
+    "year": 2007,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1038,
+    "occurrences": [
+      [
+        0,
+        "00:00:00",
+        "00:00:00.001000",
+        "<comment title=\"End of the Line (2007)\" imdb=tt0494224 fps=23.976 length=1:34:41 date=2023-jan-18 version=1.0 >"
+      ],
+      [
+        245,
+        "00:24:38.485000",
+        "00:24:41.655000",
+        "No more trouble until we get to the end of the line"
+      ],
+      [
+        271,
+        "00:26:53.641000",
+        "00:26:57.165000",
+        "Oh that's right! It's the end of the line!"
+      ],
+      [
+        982,
+        "01:24:22.190000",
+        "01:24:26.361000",
+        "Well, I guess we're going to know soon if it's the end of the line"
+      ],
+      [
+        1038,
+        "01:34:40.999000",
+        "01:34:41",
+        "<comment title=\"End of the Line (2007)\" imdb=tt0494224 fps=23.976 length=1:34:41 date=2023-jan-18 version=1.0 >"
+      ]
+    ],
+    "regex": "\\b((?!\\bEnd\\ of\\ the\\ Line:)End\\ of\\ the\\ Line)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt7021088",
+    "title": "Before the Dawn",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1867,
+    "occurrences": [
+      [
+        237,
+        "00:12:33.960000",
+        "00:12:38.003000",
+        "remember it's always darkest before the dawn."
+      ],
+      [
+        1851,
+        "01:42:29.210000",
+        "01:42:31.923000",
+        "it's always darkest before the dawn."
+      ]
+    ],
+    "regex": "\\b((?!\\bBefore\\ the\\ Dawn:)Before\\ the\\ Dawn)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

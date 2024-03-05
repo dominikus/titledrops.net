@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6111250",
+    "title": "Ear Buds: The Podcasting Documentary",
+    "year": 2016,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 2285,
+    "occurrences": [
+      [
+        1202,
+        "00:54:58.686000",
+        "00:55:00.079000",
+        "instead of like in the ear buds."
+      ],
+      [
+        1332,
+        "01:01:14.322000",
+        "01:01:15.933000",
+        "Put the ear buds in,"
+      ]
+    ],
+    "regex": "\\b((?!\\bEar\\ Buds:)Ear\\ Buds|(?!\\bPodcasting\\ Documentary:)Podcasting\\ Documentary)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

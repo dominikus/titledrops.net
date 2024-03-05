@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt14030682",
+    "title": "Who We Are: A Chronicle of Racism in America",
+    "year": 2021,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1763,
+    "occurrences": [
+      [
+        926,
+        "01:00:29.755000",
+        "01:00:33.258000",
+        "And this is who we are in America."
+      ],
+      [
+        1021,
+        "01:07:04.316000",
+        "01:07:09.154000",
+        "This is who we are as Americans at the turn of the last century."
+      ],
+      [
+        1177,
+        "01:18:33.005000",
+        "01:18:37.217000",
+        "\"I am going to make America look at who we are.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bWho\\ We\\ Are:)Who\\ We\\ Are|(?!\\bChronicle\\ of\\ Racism\\ in\\ America:)Chronicle\\ of\\ Racism\\ in\\ America)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

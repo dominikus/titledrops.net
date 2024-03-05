@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0066498",
+    "title": "The Ear",
+    "year": 1970,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 886,
+    "occurrences": [
+      [
+        240,
+        "00:21:41.280000",
+        "00:21:44.875000",
+        "Is that classified information too? Can the Ear hear that?"
+      ],
+      [
+        634,
+        "01:03:45.400000",
+        "01:03:49.757000",
+        "Let the Ear hear this"
+      ],
+      [
+        668,
+        "01:07:01.920000",
+        "01:07:04.514000",
+        "No, they won't. The Ear is listening!"
+      ],
+      [
+        776,
+        "01:16:30.880000",
+        "01:16:32.836000",
+        "The Ear!"
+      ],
+      [
+        855,
+        "01:26:13.280000",
+        "01:26:17.558000",
+        "What do you want, Ear?"
+      ],
+      [
+        858,
+        "01:26:56.680000",
+        "01:27:00.355000",
+        "Even you, Ear, can't listen in the toilet!"
+      ]
+    ],
+    "regex": "\\b((?!\\bEar:)Ear)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

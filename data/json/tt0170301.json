@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0170301",
+    "title": "The Saplings",
+    "year": 1972,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 981,
+    "occurrences": [
+      [
+        716,
+        "01:01:41.813000",
+        "01:01:43.687000",
+        "God bless it's saplings"
+      ],
+      [
+        833,
+        "01:11:08.395000",
+        "01:11:10.649000",
+        "Give me couple of saplings"
+      ]
+    ],
+    "regex": "\\b((?!\\bSaplings:)Saplings)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.3
+  }
+]

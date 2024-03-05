@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0049857",
+    "title": "Time Table",
+    "year": 1956,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 5,
+    "all_lines": 1183,
+    "occurrences": [
+      [
+        272,
+        "00:19:01.770000",
+        "00:19:04.500000",
+        "Reads like a freight dispatchers time table."
+      ],
+      [
+        322,
+        "00:21:58.837000",
+        "00:22:01.287000",
+        "The important thing is it was not on the time table."
+      ],
+      [
+        408,
+        "00:26:47.635000",
+        "00:26:49.677000",
+        "- He had an idea-- - I had a time table."
+      ],
+      [
+        442,
+        "00:27:58.785000",
+        "00:28:01.089000",
+        "If you've followed your own time table, you'd have been there."
+      ],
+      [
+        1182,
+        "01:19:50.700000",
+        "01:19:54.070000",
+        "This was not in the time table either, huh?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTime\\ Table:)Time\\ Table)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

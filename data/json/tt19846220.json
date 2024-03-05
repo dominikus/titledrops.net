@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt19846220",
+    "title": "Jacky Caillou",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 407,
+    "occurrences": [
+      [
+        76,
+        "00:13:17.297000",
+        "00:13:20.008000",
+        "- Jacky Caillou? - Yes."
+      ],
+      [
+        77,
+        "00:13:22.553000",
+        "00:13:25.389000",
+        "Jacky Caillou is the healer's grandson."
+      ]
+    ],
+    "regex": "\\b((?!\\bJacky\\ Caillou:)Jacky\\ Caillou)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [
+      "Jacky Caillou"
+    ],
+    "title_is_name": true,
+    "rating": 5.9
+  }
+]

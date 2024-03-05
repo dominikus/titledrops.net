@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt10498810",
+    "title": "Annabellum: The Curse of Salem",
+    "year": 2019,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 438,
+    "occurrences": [
+      [
+        314,
+        "00:48:29.973000",
+        "00:48:32.943000",
+        "Not one day has passed since Annabellum's hanging,"
+      ],
+      [
+        336,
+        "00:49:58.828000",
+        "00:50:01.098000",
+        "that he was under the curse of Annabellum."
+      ]
+    ],
+    "regex": "\\b((?!\\bAnnabellum:)Annabellum|(?!\\bCurse\\ of\\ Salem:)Curse\\ of\\ Salem)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.4
+  }
+]

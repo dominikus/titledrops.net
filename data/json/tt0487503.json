@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0487503",
+    "title": "The Page Turner",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Music",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 524,
+    "occurrences": [
+      [
+        152,
+        "00:26:23.120000",
+        "00:26:25.395000",
+        "l'm still short of a page turner."
+      ],
+      [
+        425,
+        "01:02:24.400000",
+        "01:02:26.356000",
+        "The page turner's gone."
+      ],
+      [
+        433,
+        "01:02:47.240000",
+        "01:02:49.879000",
+        "The page turner makes no difference."
+      ]
+    ],
+    "regex": "\\b((?!\\bPage\\ Turner:)Page\\ Turner)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

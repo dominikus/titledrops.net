@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt8956284",
+    "title": "Rimini",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1353,
+    "occurrences": [
+      [
+        175,
+        "00:18:46.792000",
+        "00:18:48.125000",
+        "Bella Rimini..."
+      ],
+      [
+        337,
+        "00:32:04.417000",
+        "00:32:07.542000",
+        "world-famous in Rimini Richie Bravo Villa."
+      ]
+    ],
+    "regex": "\\b((?!\\bRimini:)Rimini)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

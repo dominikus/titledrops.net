@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2103142",
+    "title": "A Long Journey",
+    "year": 2011,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1150,
+    "occurrences": [
+      [
+        948,
+        "01:15:06.969000",
+        "01:15:09.369000",
+        "after his long journey."
+      ],
+      [
+        1134,
+        "01:29:24.792000",
+        "01:29:30.094000",
+        "lt had been a long journey for each one of them."
+      ]
+    ],
+    "regex": "\\b((?!\\bLong\\ Journey:)Long\\ Journey)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

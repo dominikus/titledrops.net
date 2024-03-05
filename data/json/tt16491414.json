@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt16491414",
+    "title": "The Naughty Nine",
+    "year": 2023,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1264,
+    "occurrences": [
+      [
+        1057,
+        "01:09:05.141000",
+        "01:09:07.059000",
+        "Not even Santa can stop the Naughty Nine."
+      ],
+      [
+        1264,
+        "01:21:19.958000",
+        "01:21:23.086000",
+        "I need the Naughty Nine."
+      ]
+    ],
+    "regex": "\\b((?!\\bNaughty\\ Nine:)Naughty\\ Nine)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

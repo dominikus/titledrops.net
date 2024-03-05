@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2125496",
+    "title": "Manslaughter",
+    "year": 2012,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 653,
+    "occurrences": [
+      [
+        1,
+        "00:00:32.400000",
+        "00:00:36.791000",
+        "Manslaughter"
+      ],
+      [
+        220,
+        "00:26:07.880000",
+        "00:26:11.475000",
+        "Manslaughter. -Manslaughter?"
+      ]
+    ],
+    "regex": "\\b((?!\\bManslaughter:)Manslaughter)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

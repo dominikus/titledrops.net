@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt7521804",
+    "title": "One Fine Day",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1010,
+    "occurrences": [
+      [
+        632,
+        "00:58:05.500000",
+        "00:58:09.750000",
+        "I only dream about one fine day in my life."
+      ],
+      [
+        633,
+        "00:58:12.208000",
+        "00:58:14.211000",
+        "One fine day."
+      ],
+      [
+        1008,
+        "01:38:55.396000",
+        "01:38:57.680000",
+        "The one fine day of my life..."
+      ],
+      [
+        1010,
+        "01:39:06.650000",
+        "01:39:09.521000",
+        "\"One Fine Day\""
+      ]
+    ],
+    "regex": "\\b((?!\\bOne\\ Fine\\ Day:)One\\ Fine\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0308055",
+    "title": "Bobby",
+    "year": 2006,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 1271,
+    "occurrences": [
+      [
+        25,
+        "00:02:06.759000",
+        "00:02:10.126000",
+        "Bobby Kennedys the only white man in America I trust."
+      ],
+      [
+        455,
+        "00:20:14.179000",
+        "00:20:16.977000",
+        "Bobby Kennedy is an inspiration to the Czech people."
+      ],
+      [
+        926,
+        "00:41:31.589000",
+        "00:41:36.492000",
+        "Now that Dr. King is gone... no one left but Bobby."
+      ],
+      [
+        1105,
+        "00:50:25.455000",
+        "00:50:27.923000",
+        "Of course Bobby."
+      ]
+    ],
+    "regex": "\\b((?!\\bBobby:)Bobby)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

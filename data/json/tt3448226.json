@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt3448226",
+    "title": "Rampage: Capital Punishment",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 1,
+    "all_lines": 1028,
+    "occurrences": [
+      [
+        375,
+        "00:38:05.160000",
+        "00:38:08.323000",
+        "The one who has committed the greatest rampage of the United States,"
+      ]
+    ],
+    "regex": "\\b((?!\\bRampage:)Rampage|(?!\\bCapital\\ Punishment:)Capital\\ Punishment)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

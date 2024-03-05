@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt10666454",
+    "title": "Supernova",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 573,
+    "occurrences": [
+      [
+        555,
+        "01:09:33.479000",
+        "01:09:37.632000",
+        "The supernova is, indeed, a powerful destructive force."
+      ],
+      [
+        557,
+        "01:09:42.159000",
+        "01:09:46.869000",
+        "Before the break you told us that a supernova is a dying star."
+      ]
+    ],
+    "regex": "\\b((?!\\bSupernova:)Supernova)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

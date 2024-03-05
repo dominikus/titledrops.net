@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt29491918",
+    "title": "David Holmes: The Boy Who Lived",
+    "year": 2023,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1985,
+    "occurrences": [
+      [
+        125,
+        "00:06:10.954000",
+        "00:06:13.790000",
+        "-This is David, David Holmes. Hi, David. -Hi."
+      ],
+      [
+        1906,
+        "01:25:29.671000",
+        "01:25:31.965000",
+        "Some of these have got names inside-- Oh, David Holmes!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDavid\\ Holmes:)David\\ Holmes|(?!\\bBoy\\ Who\\ Lived:)Boy\\ Who\\ Lived)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

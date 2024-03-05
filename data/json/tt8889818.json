@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt8889818",
+    "title": "Stowaway",
+    "year": 2021,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 851,
+    "occurrences": [
+      [
+        469,
+        "00:47:29.977000",
+        "00:47:31.761000",
+        "We have a stowaway."
+      ],
+      [
+        503,
+        "00:50:49.698000",
+        "00:50:51.048000",
+        "- No. - The stowaway."
+      ],
+      [
+        511,
+        "00:53:01.917000",
+        "00:53:03.658000",
+        "What happens if the stowaway shows up?"
+      ],
+      [
+        563,
+        "01:01:07.533000",
+        "01:01:09.100000",
+        "We'll deal with that stowaway later."
+      ],
+      [
+        578,
+        "01:02:59.471000",
+        "01:03:01.560000",
+        "What about the stowaway?"
+      ]
+    ],
+    "regex": "\\b((?!\\bStowaway:)Stowaway)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

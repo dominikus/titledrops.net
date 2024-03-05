@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0043379",
+    "title": "Captain Horatio Hornblower",
+    "year": 1951,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1182,
+    "occurrences": [
+      [
+        223,
+        "00:20:38.988000",
+        "00:20:41.024000",
+        "Captain Horatio Hornblower, at your service."
+      ],
+      [
+        1146,
+        "01:53:09.157000",
+        "01:53:12.524000",
+        "Captain Horatio Hornblower? If your eyesight's good and I'm sober..."
+      ]
+    ],
+    "regex": "\\b((?!\\bCaptain\\ Horatio\\ Hornblower:)Captain\\ Horatio\\ Hornblower)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

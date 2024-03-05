@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0103213",
+    "title": "Virgin High",
+    "year": 1991,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1603,
+    "occurrences": [
+      [
+        271,
+        "00:14:47.119000",
+        "00:14:49.488000",
+        "to crack the parochial padlock on Virgin High."
+      ],
+      [
+        379,
+        "00:21:00.492000",
+        "00:21:01.760000",
+        "Virgin High?"
+      ],
+      [
+        493,
+        "00:26:49.207000",
+        "00:26:52.277000",
+        "Okay, I've got it! We go up front of Virgin High, see."
+      ],
+      [
+        942,
+        "00:49:45.015000",
+        "00:49:48.552000",
+        "I would like to propose a toast to Virgin High,"
+      ],
+      [
+        987,
+        "00:52:03.753000",
+        "00:52:06.490000",
+        "So, Virgin High isn't bad after all, eh?"
+      ]
+    ],
+    "regex": "\\b((?!\\bVirgin\\ High:)Virgin\\ High)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

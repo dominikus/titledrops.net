@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt1198189",
+    "title": "The Boxer",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sport"
+    ],
+    "count": 6,
+    "all_lines": 1367,
+    "occurrences": [
+      [
+        157,
+        "00:16:56.116000",
+        "00:16:58.983000",
+        "You know, you look like a boxer, but you don't box."
+      ],
+      [
+        269,
+        "00:23:19.999000",
+        "00:23:22.900000",
+        "I'm the best boxer in here, Joe."
+      ],
+      [
+        322,
+        "00:26:05.164000",
+        "00:26:06.529000",
+        "I see why you're not a boxer,"
+      ],
+      [
+        733,
+        "00:46:16.074000",
+        "00:46:17.507000",
+        "He's not a boxer,"
+      ],
+      [
+        939,
+        "00:56:52.076000",
+        "00:56:54.772000",
+        "Yeah, coming from a broken down ex-boxer."
+      ],
+      [
+        984,
+        "01:01:46.537000",
+        "01:01:48.300000",
+        "(Ben) \"Up and coming boxer Joe Miller,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBoxer:)Boxer)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

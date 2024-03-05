@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1103272",
+    "title": "Night Things",
+    "year": 2010,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 815,
+    "occurrences": [
+      [
+        168,
+        "00:15:34.690000",
+        "00:15:37.923000",
+        "keep you there for the night things."
+      ],
+      [
+        170,
+        "00:15:44.790000",
+        "00:15:46.540000",
+        "And when the night things take you,"
+      ],
+      [
+        417,
+        "00:37:18.880000",
+        "00:37:20.430000",
+        "When the night things take you."
+      ],
+      [
+        450,
+        "00:39:02.642000",
+        "00:39:05.103000",
+        "That's where the night things come from."
+      ]
+    ],
+    "regex": "\\b((?!\\bNight\\ Things:)Night\\ Things)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

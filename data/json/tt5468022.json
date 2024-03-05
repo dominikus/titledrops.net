@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt5468022",
+    "title": "Digimon Adventure tri. Part 6: Future",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 5,
+    "all_lines": 1400,
+    "occurrences": [
+      [
+        227,
+        "00:13:30.897000",
+        "00:13:33.029000",
+        "But the future is what's important now."
+      ],
+      [
+        742,
+        "00:41:59.342000",
+        "00:42:01.519000",
+        "You kids are the future."
+      ],
+      [
+        1268,
+        "01:23:03.630000",
+        "01:23:06.894000",
+        "No matter how painful, we have to save our own future."
+      ],
+      [
+        1339,
+        "01:31:41.757000",
+        "01:31:44.020000",
+        "- What future do I want?"
+      ],
+      [
+        1381,
+        "01:33:29.125000",
+        "01:33:30.561000",
+        "- Maybe in the future we should"
+      ]
+    ],
+    "regex": "\\b((?!\\bDigimon\\ Adventure\\ tri\\.:)Digimon\\ Adventure\\ tri\\.|(?!\\bFuture:)Future)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

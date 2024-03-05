@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1384929",
+    "title": "Stormland",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1061,
+    "occurrences": [
+      [
+        7,
+        "00:01:00.946000",
+        "00:01:05.542000",
+        "You have a blog, Stormland"
+      ],
+      [
+        568,
+        "00:47:26.346000",
+        "00:47:30.134000",
+        "We could live together in Stormland."
+      ],
+      [
+        1006,
+        "01:28:20.506000",
+        "01:28:25.102000",
+        "You have a blog, Stormland"
+      ]
+    ],
+    "regex": "\\b((?!\\bStormland:)Stormland)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt4020156",
+    "title": "National Theatre Live: A Streetcar Named Desire",
+    "year": 2014,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2334,
+    "occurrences": [
+      [
+        30,
+        "00:04:38.400000",
+        "00:04:40.880000",
+        "They told me to take a streetcar named Desire,"
+      ],
+      [
+        1254,
+        "01:26:48.720000",
+        "01:26:53.600000",
+        "Is that streetcar named Desire still grinding along the tracks at this hour?"
+      ]
+    ],
+    "regex": "\\b((?!\\bNational\\ Theatre\\ Live:)National\\ Theatre\\ Live|(?!\\bStreetcar\\ Named\\ Desire:)Streetcar\\ Named\\ Desire)(?!\\:)(?!'t)\\b",
+    "runtime": 180,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.3
+  }
+]

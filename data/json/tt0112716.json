@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0112716",
+    "title": "The Convent",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 621,
+    "occurrences": [
+      [
+        6,
+        "00:01:31.791000",
+        "00:01:42.702000",
+        "You who enter this convent neither hear nor see nor speak"
+      ],
+      [
+        115,
+        "00:11:28.221000",
+        "00:11:31.858000",
+        "that the monks wanted to put it in the convent's main church..."
+      ],
+      [
+        305,
+        "00:41:15.108000",
+        "00:41:19.012000",
+        "- Too much work at the convent. - I'm sure that is the case. I am sure."
+      ],
+      [
+        616,
+        "01:28:43.456000",
+        "01:28:49.262000",
+        "were replaced at the convent by Berta and Baltazar."
+      ]
+    ],
+    "regex": "\\b((?!\\bConvent:)Convent)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

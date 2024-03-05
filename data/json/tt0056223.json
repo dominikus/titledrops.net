@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0056223",
+    "title": "The Sea",
+    "year": 1962,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 367,
+    "occurrences": [
+      [
+        76,
+        "00:25:29.112000",
+        "00:25:30.936000",
+        "The sea!"
+      ],
+      [
+        78,
+        "00:25:38.989000",
+        "00:25:40.528000",
+        "The sea!"
+      ],
+      [
+        96,
+        "00:36:05.260000",
+        "00:36:08.703000",
+        "Tomorrow, we shall resume sailing through your sea."
+      ],
+      [
+        253,
+        "01:06:51.005000",
+        "01:06:55.472000",
+        "Or in an house with white walls in the middle of the blue sea."
+      ],
+      [
+        353,
+        "01:26:24.421000",
+        "01:26:25.997000",
+        "We'll go by sea."
+      ]
+    ],
+    "regex": "\\b((?!\\bSea:)Sea)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

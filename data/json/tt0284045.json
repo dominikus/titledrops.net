@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0284045",
+    "title": "Dead Above Ground",
+    "year": 2002,
+    "genres": [
+      "Crime",
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 1827,
+    "occurrences": [
+      [
+        287,
+        "00:17:52.470000",
+        "00:17:54.359000",
+        "Dead above ground."
+      ],
+      [
+        290,
+        "00:18:01.530000",
+        "00:18:03.869000",
+        "Dead above ground, all of you."
+      ],
+      [
+        763,
+        "00:39:06.040000",
+        "00:39:08.499000",
+        "It said \"dead above ground.\""
+      ],
+      [
+        861,
+        "00:43:27.140000",
+        "00:43:31.729000",
+        "Dead above ground."
+      ],
+      [
+        1180,
+        "00:57:16.670000",
+        "00:57:18.169000",
+        "Dead above ground."
+      ]
+    ],
+    "regex": "\\b((?!\\bDead\\ Above\\ Ground:)Dead\\ Above\\ Ground)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt13808364",
+    "title": "Dear Best Friend",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1636,
+    "occurrences": [
+      [
+        1596,
+        "01:37:59.724000",
+        "01:38:01.034000",
+        "Dear best friend."
+      ],
+      [
+        1603,
+        "01:38:10.103000",
+        "01:38:12.137000",
+        "Dear best friend, tell your friend I want to talk."
+      ],
+      [
+        1610,
+        "01:38:20.068000",
+        "01:38:22.482000",
+        "Dear best friend, tell your friend I'm more than average."
+      ]
+    ],
+    "regex": "\\b((?!\\bDear\\ Best\\ Friend:)Dear\\ Best\\ Friend)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

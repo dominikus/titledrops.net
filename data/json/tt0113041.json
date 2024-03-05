@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0113041",
+    "title": "Father of the Bride Part II",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1509,
+    "occurrences": [
+      [
+        31,
+        "00:03:44.748000",
+        "00:03:46.624000",
+        "Father of the bride."
+      ],
+      [
+        624,
+        "00:41:09.514000",
+        "00:41:12.600000",
+        "And my favorite father of the bride."
+      ]
+    ],
+    "regex": "\\b((?!\\bFather\\ of\\ the\\ Bride:)Father\\ of\\ the\\ Bride)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

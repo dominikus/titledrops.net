@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt9778190",
+    "title": "The Journalist",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1210,
+    "occurrences": [
+      [
+        19,
+        "00:01:52.160000",
+        "00:01:54.200000",
+        "Journalist profession"
+      ],
+      [
+        216,
+        "00:13:14.360000",
+        "00:13:18.760000",
+        "I also wanted to be a journalist."
+      ],
+      [
+        247,
+        "00:14:56.340000",
+        "00:15:01.280000",
+        "He was a freelance journalist worked in both the US and Japan, wasn't he?"
+      ],
+      [
+        623,
+        "00:46:18.440000",
+        "00:46:20",
+        "Are you a journalist?"
+      ],
+      [
+        878,
+        "01:06:29.960000",
+        "01:06:32.670000",
+        "My father was also a journalist."
+      ]
+    ],
+    "regex": "\\b((?!\\bJournalist:)Journalist)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

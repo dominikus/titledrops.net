@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0208003",
+    "title": "Big Momma's House",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 1114,
+    "occurrences": [
+      [
+        0,
+        "00:00:00.040000",
+        "00:00:10.040000",
+        "Big Momma's House"
+      ],
+      [
+        253,
+        "00:22:18.280000",
+        "00:22:22.440000",
+        "tell me what brings you to Big Momma's house after all these years."
+      ],
+      [
+        1040,
+        "01:23:16.240000",
+        "01:23:19.240000",
+        "Not in Big Momma's house!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBig\\ Momma's\\ House:)Big\\ Momma's\\ House)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

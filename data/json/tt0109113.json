@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0109113",
+    "title": "I Like You, I Like You Very Much",
+    "year": 1994,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 176,
+    "occurrences": [
+      [
+        0,
+        "00:00:36.803000",
+        "00:00:41.240000",
+        "I Like You, I Like You Very Much"
+      ],
+      [
+        5,
+        "00:04:28.418000",
+        "00:04:31.521000",
+        "...I like you, I like you very much"
+      ],
+      [
+        8,
+        "00:11:46.205000",
+        "00:11:48.640000",
+        "I like you, I like you very much"
+      ],
+      [
+        9,
+        "00:11:57.817000",
+        "00:12:01.237000",
+        "I like you, I like you very much"
+      ],
+      [
+        19,
+        "00:17:51.804000",
+        "00:17:55.440000",
+        "I like you, I like you very much"
+      ],
+      [
+        20,
+        "00:18:18.130000",
+        "00:18:20.398000",
+        "\"I like you, I like you very much\""
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Like\\ You,\\ I\\ Like\\ You\\ Very\\ Much:)I\\ Like\\ You,\\ I\\ Like\\ You\\ Very\\ Much)(?!\\:)(?!'t)\\b",
+    "runtime": 58,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

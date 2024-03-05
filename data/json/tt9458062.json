@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt9458062",
+    "title": "Enhanced",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1057,
+    "occurrences": [
+      [
+        149,
+        "00:13:45.431000",
+        "00:13:48.133000",
+        "So you're saying there's an enhanced serial killer out there?"
+      ],
+      [
+        153,
+        "00:13:56.975000",
+        "00:13:59.945000",
+        "Contain and incarcerate any and all enhanced subjects"
+      ]
+    ],
+    "regex": "\\b((?!\\bEnhanced:)Enhanced)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

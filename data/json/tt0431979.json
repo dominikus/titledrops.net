@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0431979",
+    "title": "The Young Lieutenant",
+    "year": 2005,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1440,
+    "occurrences": [
+      [
+        63,
+        "00:06:04.897000",
+        "00:06:07.457000",
+        "I don't know... The young lieutenant."
+      ],
+      [
+        824,
+        "00:53:15.592000",
+        "00:53:18.083000",
+        "He'd be my young lieutenant's age now."
+      ],
+      [
+        1086,
+        "01:11:07.196000",
+        "01:11:10.165000",
+        "I need to know why the young lieutenant was alone."
+      ]
+    ],
+    "regex": "\\b((?!\\bYoung\\ Lieutenant:)Young\\ Lieutenant)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

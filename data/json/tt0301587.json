@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0301587",
+    "title": "The Chimp",
+    "year": 2001,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 506,
+    "occurrences": [
+      [
+        57,
+        "00:09:08.881000",
+        "00:09:11.179000",
+        "- Maybe you've got some, Chimp? - What?"
+      ],
+      [
+        67,
+        "00:10:24.657000",
+        "00:10:31.995000",
+        "How about you, Chimp... Ever screwed a girl?"
+      ]
+    ],
+    "regex": "\\b((?!\\bChimp:)Chimp)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [
+      "The Chimp"
+    ],
+    "title_is_name": true,
+    "rating": 6.4
+  }
+]

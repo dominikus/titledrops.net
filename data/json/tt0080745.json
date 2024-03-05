@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt0080745",
+    "title": "Flash Gordon",
+    "year": 1980,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 384,
+    "occurrences": [
+      [
+        10,
+        "00:05:35.802000",
+        "00:05:42.644000",
+        "I hope Flash Gordon's had a great vacation after last season."
+      ],
+      [
+        156,
+        "00:25:51.565000",
+        "00:25:57.238000",
+        "- Who are you? - Flash Gordon. Quarterback."
+      ],
+      [
+        191,
+        "00:31:12.681000",
+        "00:31:18.438000",
+        "{y:i}This is a public announcement. {y:i}Flash Gordon is to be executed -{y}"
+      ],
+      [
+        345,
+        "00:53:35.545000",
+        "00:53:41.342000",
+        "- But Flash Gordon is still alive. - He was revived by a traitor."
+      ]
+    ],
+    "regex": "\\b((?!\\bFlash\\ Gordon:)Flash\\ Gordon)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [
+      "Flash Gordon"
+    ],
+    "title_is_name": true,
+    "rating": 6.5
+  }
+]

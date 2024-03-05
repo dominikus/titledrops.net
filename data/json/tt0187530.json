@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0187530",
+    "title": "The Astrologer",
+    "year": 1975,
+    "genres": [
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 1278,
+    "occurrences": [
+      [
+        6,
+        "00:00:40.124000",
+        "00:00:42.752000",
+        "waiting for the astrologer."
+      ],
+      [
+        7,
+        "00:00:48.258000",
+        "00:00:51.386000",
+        "Alexei Abarnel is the astrologer,"
+      ],
+      [
+        13,
+        "00:01:03.523000",
+        "00:01:06.234000",
+        "The astrologer wanted to use these new tools"
+      ],
+      [
+        1013,
+        "00:59:44.540000",
+        "00:59:45.583000",
+        "I'm an astrologer."
+      ],
+      [
+        1014,
+        "00:59:46.501000",
+        "00:59:48.753000",
+        "- You do not look to me like an astrologer."
+      ],
+      [
+        1016,
+        "00:59:49.879000",
+        "00:59:52.173000",
+        "You do not have the eyes or the hands of an astrologer."
+      ]
+    ],
+    "regex": "\\b((?!\\bAstrologer:)Astrologer)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

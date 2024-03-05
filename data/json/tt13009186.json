@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt13009186",
+    "title": "The Boy from Medellín",
+    "year": 2020,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Music"
+    ],
+    "count": 6,
+    "all_lines": 1461,
+    "occurrences": [
+      [
+        140,
+        "00:08:29.635000",
+        "00:08:31.428000",
+        "RADIO ANNOUNCER: The \"Boy from Medellin,\""
+      ],
+      [
+        297,
+        "00:16:41.084000",
+        "00:16:43.002000",
+        "you know, \"The Boy from Medellin.\""
+      ],
+      [
+        371,
+        "00:21:25.743000",
+        "00:21:27.704000",
+        "\"Where is the Boy from Medellin?\""
+      ],
+      [
+        952,
+        "00:55:05.803000",
+        "00:55:08.639000",
+        "I'm the boy from Medellin, I'm like seven!"
+      ],
+      [
+        1053,
+        "01:01:31.772000",
+        "01:01:34.900000",
+        "Here is the Boy from Medellin."
+      ],
+      [
+        1459,
+        "01:31:34.448000",
+        "01:31:37.451000",
+        "FAN #4: The boy from Medellin!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBoy\\ from\\ Medellin:)Boy\\ from\\ Medellin)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

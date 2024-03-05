@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0051087",
+    "title": "The Tin Star",
+    "year": 1957,
+    "genres": [
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 1048,
+    "occurrences": [
+      [
+        159,
+        "00:15:19.788000",
+        "00:15:23.009000",
+        "I only know there's not gonna be any tin star in my life, never."
+      ],
+      [
+        249,
+        "00:21:17.406000",
+        "00:21:20.017000",
+        "Better take off that tin star and stay alive."
+      ],
+      [
+        574,
+        "00:41:41.803000",
+        "00:41:44.414000",
+        "Never had much use for that tin star after that."
+      ]
+    ],
+    "regex": "\\b((?!\\bTin\\ Star:)Tin\\ Star)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

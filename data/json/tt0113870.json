@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0113870",
+    "title": "Murder in the First",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1656,
+    "occurrences": [
+      [
+        264,
+        "00:22:03.201000",
+        "00:22:06.204000",
+        "charged with murder in the first degree. Approach the bench."
+      ],
+      [
+        265,
+        "00:22:08.164000",
+        "00:22:11.417000",
+        "Charged with murder in the first degree."
+      ],
+      [
+        600,
+        "00:44:33.758000",
+        "00:44:39.013000",
+        "the defendant, Henri Young, is accused of murder in the first degree."
+      ],
+      [
+        1574,
+        "01:52:02.386000",
+        "01:52:07.474000",
+        "Or you may find the defendant guilty of murder in the first degree."
+      ],
+      [
+        1581,
+        "01:53:16.877000",
+        "01:53:19.546000",
+        "not guilty of murder in the first degree."
+      ]
+    ],
+    "regex": "\\b((?!\\bMurder\\ in\\ the\\ First:)Murder\\ in\\ the\\ First)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

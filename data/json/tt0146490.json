@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0146490",
+    "title": "Bingo",
+    "year": 1974,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1127,
+    "occurrences": [
+      [
+        531,
+        "00:57:11.410000",
+        "00:57:15.250000",
+        "$1000 at bingo! - She's lending us $500."
+      ],
+      [
+        875,
+        "01:26:11.817000",
+        "01:26:14.527000",
+        "The first round of bingo..."
+      ],
+      [
+        961,
+        "01:32:51.842000",
+        "01:32:55.342000",
+        "Go back to your bingo! - FranASSois!"
+      ],
+      [
+        1072,
+        "01:44:39.258000",
+        "01:44:41.598000",
+        "Bingo!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBingo:)Bingo)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

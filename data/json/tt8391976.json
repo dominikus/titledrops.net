@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt8391976",
+    "title": "Bungo Stray Dogs: Dead Apple",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Animation",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 987,
+    "occurrences": [
+      [
+        55,
+        "00:05:30.010000",
+        "00:05:31.839000",
+        "\"Bungo Stray Dogs: DEAD APPLE\""
+      ],
+      [
+        77,
+        "00:08:35.360000",
+        "00:08:38.700000",
+        "\"Bungo Stray Dogs: DEAD APPLE\""
+      ],
+      [
+        784,
+        "01:10:46.110000",
+        "01:10:50.490000",
+        "turning this world into a fruit of death, a dead apple."
+      ],
+      [
+        987,
+        "01:30:14.120000",
+        "01:30:19.060000",
+        "\"Bungo Stray Dogs: DEAD APPLE\""
+      ]
+    ],
+    "regex": "\\b((?!\\bBungo\\ Stray\\ Dogs:)Bungo\\ Stray\\ Dogs|(?!\\bDead\\ Apple:)Dead\\ Apple)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

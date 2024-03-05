@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1754700",
+    "title": "The Prototype",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1221,
+    "occurrences": [
+      [
+        10,
+        "00:02:26.167000",
+        "00:02:28.970000",
+        "MAN: The prototype has been located."
+      ],
+      [
+        1021,
+        "01:11:46.494000",
+        "01:11:50.865000",
+        "And you... you were the prototype of a new breed,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPrototype:)Prototype)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.3
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "imdb": "tt9379530",
+    "title": "Max Bishop",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 1142,
+    "occurrences": [
+      [
+        714,
+        "00:57:36.391000",
+        "00:57:41.096000",
+        "you will tell them that you have never heard of a Max Bishop."
+      ],
+      [
+        953,
+        "01:11:17.846000",
+        "01:11:20.182000",
+        "By the name of a Mr. Max Bishop?"
+      ],
+      [
+        962,
+        "01:11:37.766000",
+        "01:11:40.468000",
+        "he was in the company of a Mr. Max Bishop."
+      ]
+    ],
+    "regex": "\\b((?!\\bMax\\ Bishop:)Max\\ Bishop)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [
+      "Max Bishop"
+    ],
+    "title_is_name": true,
+    "rating": 4.2
+  }
+]

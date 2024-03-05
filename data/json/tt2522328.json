@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2522328",
+    "title": "Shutter",
+    "year": 2012,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1291,
+    "occurrences": [
+      [
+        891,
+        "01:22:28.744000",
+        "01:22:30.690000",
+        "Ask them to go and open the shutter"
+      ],
+      [
+        992,
+        "01:33:08.750000",
+        "01:33:11.253000",
+        "So how do I raise the shutter and bring them out?"
+      ],
+      [
+        1045,
+        "01:41:12.333000",
+        "01:41:17.715000",
+        "You and your shutter! I was only trying to help you!"
+      ]
+    ],
+    "regex": "\\b((?!\\bShutter:)Shutter)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

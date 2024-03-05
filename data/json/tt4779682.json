@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4779682",
+    "title": "The Meg",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1131,
+    "occurrences": [
+      [
+        575,
+        "00:41:10.400000",
+        "00:41:15.300000",
+        "Meg can bite the whale in two, destroy the bone."
+      ],
+      [
+        1002,
+        "01:23:38.510000",
+        "01:23:41.410000",
+        "Using a tracker from Meg. We killed him."
+      ]
+    ],
+    "regex": "\\b((?!\\bMeg:)Meg)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

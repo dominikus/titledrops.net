@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt9051908",
+    "title": "Living",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1337,
+    "occurrences": [
+      [
+        408,
+        "00:31:59.086000",
+        "00:32:03.173000",
+        "was living a shell of an existence, has sprung to life."
+      ],
+      [
+        610,
+        "00:48:10.057000",
+        "00:48:12.351000",
+        "living in the same household?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLiving:)Living)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

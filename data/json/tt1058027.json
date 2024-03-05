@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1058027",
+    "title": "The Milky Way",
+    "year": 2007,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 552,
+    "occurrences": [
+      [
+        464,
+        "00:59:15.363000",
+        "00:59:18.628000",
+        "For a long time, the Milky Way remained a mystery..."
+      ],
+      [
+        467,
+        "00:59:26.741000",
+        "00:59:29.471000",
+        "The Milky Way sustains the night."
+      ]
+    ],
+    "regex": "\\b((?!\\bMilky\\ Way:)Milky\\ Way)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

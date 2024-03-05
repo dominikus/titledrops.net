@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3661988",
+    "title": "7th Day",
+    "year": 2014,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1530,
+    "occurrences": [
+      [
+        905,
+        "01:15:44.290000",
+        "01:15:52.300000",
+        "But that search which lasted for 6 days, stopped at the general hospital mortuary, on the 7th day"
+      ],
+      [
+        906,
+        "01:15:59.990000",
+        "01:16:04",
+        "The 7th day that the God rested after creation for 6 days"
+      ]
+    ],
+    "regex": "\\b((?!\\b7th\\ Day:)7th\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

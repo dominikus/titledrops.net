@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0089444",
+    "title": "Krush Groove",
+    "year": 1985,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 817,
+    "occurrences": [
+      [
+        9,
+        "00:01:40.012000",
+        "00:01:41.377000",
+        "Krush Groove."
+      ],
+      [
+        29,
+        "00:05:44.756000",
+        "00:05:47.054000",
+        "Krush Groove. Yeah, hold on a second."
+      ],
+      [
+        33,
+        "00:05:57.669000",
+        "00:05:59.933000",
+        "Krush Groove is now rolling."
+      ],
+      [
+        633,
+        "01:07:22.984000",
+        "01:07:25.851000",
+        "Hey, Sal, I got the latest from Krush Groove."
+      ]
+    ],
+    "regex": "\\b((?!\\bKrush\\ Groove:)Krush\\ Groove)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

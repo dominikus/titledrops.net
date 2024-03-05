@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt4196010",
+    "title": "Battery Number One",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1317,
+    "occurrences": [
+      [
+        155,
+        "00:12:06.800000",
+        "00:12:08.400000",
+        "the soldiers of the legendary Battery Number One."
+      ],
+      [
+        942,
+        "01:05:37.480000",
+        "01:05:39.880000",
+        "Can you hear me? It's Battery Number One!"
+      ],
+      [
+        943,
+        "01:05:40.040000",
+        "01:05:42.160000",
+        "It's Battery Number One! Do you copy?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBattery\\ Number\\ One:)Battery\\ Number\\ One)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

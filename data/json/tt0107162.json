@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0107162",
+    "title": "Once Upon a Time in China IV",
+    "year": 1993,
+    "genres": [
+      "Action"
+    ],
+    "count": 2,
+    "all_lines": 1364,
+    "occurrences": [
+      [
+        19,
+        "00:01:59.474000",
+        "00:01:59.588000",
+        "Once Upon A Time In China"
+      ],
+      [
+        20,
+        "00:01:59.612000",
+        "00:02:04.081000",
+        "Once Upon A Time In China IV"
+      ]
+    ],
+    "regex": "\\b((?!\\bOnce\\ Upon\\ a\\ Time\\ in\\ China:)Once\\ Upon\\ a\\ Time\\ in\\ China)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

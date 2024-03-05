@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt5648882",
+    "title": "The Burial",
+    "year": 2023,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 2150,
+    "occurrences": [
+      [
+        132,
+        "00:05:23.700000",
+        "00:05:26.940000",
+        "I have eight funeral homes and one burial insurance company."
+      ],
+      [
+        143,
+        "00:05:59.675000",
+        "00:06:02.204000",
+        "Mr. O'Keeff, as a registered burial insurance"
+      ],
+      [
+        263,
+        "00:12:24.520000",
+        "00:12:27.080000",
+        "I make most of our profits from selling burial insurance."
+      ],
+      [
+        267,
+        "00:12:40.447000",
+        "00:12:42.880000",
+        "longer sell burial insurance in southern Mississippi."
+      ],
+      [
+        1804,
+        "01:29:00.498000",
+        "01:29:05.080000",
+        "headstones and burial insurance straight to their own people."
+      ],
+      [
+        1822,
+        "01:30:20.650000",
+        "01:30:22.610000",
+        "It's an old slave burial ground."
+      ],
+      [
+        1837,
+        "01:31:12.345000",
+        "01:31:16.670000",
+        "All of them is put up right on top of the slave burial field."
+      ]
+    ],
+    "regex": "\\b((?!\\bBurial:)Burial)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

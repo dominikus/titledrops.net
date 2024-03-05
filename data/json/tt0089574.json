@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0089574",
+    "title": "Medium",
+    "year": 1985,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 450,
+    "occurrences": [
+      [
+        35,
+        "00:06:45.695000",
+        "00:06:47.784000",
+        "Does the house belong to the medium"
+      ],
+      [
+        41,
+        "00:07:11.275000",
+        "00:07:13.272000",
+        "The medium won't let me in."
+      ],
+      [
+        64,
+        "00:11:25.926000",
+        "00:11:28.491000",
+        "he is an exceptionally powerful medium."
+      ],
+      [
+        341,
+        "00:34:59.721000",
+        "00:35:02.066000",
+        "He may be one of the people controlled by the medium."
+      ],
+      [
+        369,
+        "00:36:49.935000",
+        "00:36:51.741000",
+        "he's an exceptionally powerful medium."
+      ],
+      [
+        370,
+        "00:36:52.628000",
+        "00:36:54.107000",
+        "Medium?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMedium:)Medium)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

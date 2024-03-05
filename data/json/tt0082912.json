@@ -1,0 +1,64 @@
+[
+  {
+    "imdb": "tt0082912",
+    "title": "Pixote",
+    "year": 1980,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 518,
+    "occurrences": [
+      [
+        23,
+        "00:01:35.562000",
+        "00:01:39.999000",
+        "Fernando, who plays the main character of \"Pixote\"..."
+      ],
+      [
+        72,
+        "00:10:43.976000",
+        "00:10:48.072000",
+        "- Pixote, did you see who did it? - Not me. I was asleep."
+      ],
+      [
+        87,
+        "00:15:25.257000",
+        "00:15:26.622000",
+        "Pixote!"
+      ],
+      [
+        172,
+        "00:24:48.820000",
+        "00:24:52.256000",
+        "Pixote screwed it all up. He blurted out my name!"
+      ],
+      [
+        177,
+        "00:25:19.784000",
+        "00:25:21.012000",
+        "Pixote's blushing."
+      ],
+      [
+        351,
+        "00:43:12.990000",
+        "00:43:18.622000",
+        "Pixote, you're here! Where's Fumaca?"
+      ],
+      [
+        357,
+        "00:43:37.348000",
+        "00:43:39.111000",
+        "So, Pixote, tell us everything."
+      ]
+    ],
+    "regex": "\\b((?!\\bPixote:)Pixote)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [
+      "Pixote"
+    ],
+    "title_is_name": true,
+    "rating": 7.9
+  }
+]

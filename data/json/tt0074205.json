@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0074205",
+    "title": "The Big Bus",
+    "year": 1976,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 883,
+    "occurrences": [
+      [
+        689,
+        "01:08:18.982000",
+        "01:08:21.400000",
+        "Hi, welcome aboard the Big Bus."
+      ],
+      [
+        699,
+        "01:10:11.520000",
+        "01:10:17.736000",
+        "Take a break, a little cause to pause here on the Big Bus."
+      ]
+    ],
+    "regex": "\\b((?!\\bBig\\ Bus:)Big\\ Bus)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

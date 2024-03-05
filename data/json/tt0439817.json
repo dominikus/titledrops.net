@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0439817",
+    "title": "The Sun",
+    "year": 2005,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 323,
+    "occurrences": [
+      [
+        24,
+        "00:06:41.038000",
+        "00:06:49.834000",
+        "that the Emperor is the descendant of the sun goddess,"
+      ],
+      [
+        259,
+        "01:15:02.252000",
+        "01:15:10.966000",
+        "Because the sun will go before the people, entirely covered with gloom."
+      ]
+    ],
+    "regex": "\\b((?!\\bSun:)Sun)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

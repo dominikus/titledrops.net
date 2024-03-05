@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt8685520",
+    "title": "Dauntless: The Battle of Midway",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Adventure",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 1574,
+    "occurrences": [
+      [
+        63,
+        "00:04:32.473000",
+        "00:04:35.307000",
+        "- Well, the Dauntless is no speed demon, but..."
+      ],
+      [
+        956,
+        "00:53:27.371000",
+        "00:53:29.305000",
+        "- Per the specs of the Dauntless,"
+      ],
+      [
+        1192,
+        "01:06:28.719000",
+        "01:06:30.485000",
+        "- Those Dauntless bombers are tough."
+      ]
+    ],
+    "regex": "\\b((?!\\bDauntless:)Dauntless|(?!\\bBattle\\ of\\ Midway:)Battle\\ of\\ Midway)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

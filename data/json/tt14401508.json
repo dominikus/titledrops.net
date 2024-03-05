@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt14401508",
+    "title": "Grand Prix",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1109,
+    "occurrences": [
+      [
+        123,
+        "00:13:18.108000",
+        "00:13:22.388000",
+        "Why is it you who gets fucking tickets to Grand Prix?"
+      ],
+      [
+        146,
+        "00:14:43.868000",
+        "00:14:46.508000",
+        "Grand Prix is a dream come true!"
+      ],
+      [
+        263,
+        "00:26:49.548000",
+        "00:26:52.908000",
+        "-Where to? -To Grand Prix."
+      ],
+      [
+        313,
+        "00:31:03.108000",
+        "00:31:07.428000",
+        "-We're going home, I have a hot tip! -I'm going to Grand Prix, you dumbass!"
+      ],
+      [
+        1035,
+        "01:34:03.868000",
+        "01:34:08.119000",
+        "-So who won? -What? -The Grand Prix. -Dunno."
+      ]
+    ],
+    "regex": "\\b((?!\\bGrand\\ Prix:)Grand\\ Prix)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

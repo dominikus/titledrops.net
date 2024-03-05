@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1286650",
+    "title": "Thomas",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 223,
+    "occurrences": [
+      [
+        18,
+        "00:14:14.627000",
+        "00:14:17.619000",
+        "Thomas, hello."
+      ],
+      [
+        95,
+        "00:35:08.507000",
+        "00:35:10.543000",
+        "Thomas."
+      ],
+      [
+        116,
+        "00:41:20.067000",
+        "00:41:22.945000",
+        "Thomas, I brought your food."
+      ]
+    ],
+    "regex": "\\b((?!\\bThomas:)Thomas)(?!\\:)(?!'t)\\b",
+    "runtime": 70,
+    "characters": [
+      "Thomas"
+    ],
+    "title_is_name": true,
+    "rating": 7
+  }
+]

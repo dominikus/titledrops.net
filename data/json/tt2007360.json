@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt2007360",
+    "title": "Computer Chess",
+    "year": 2013,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1341,
+    "occurrences": [
+      [
+        14,
+        "00:00:43.977000",
+        "00:00:50.007000",
+        "This is the latest iteration of Caltech's computer chess programme."
+      ],
+      [
+        42,
+        "00:02:51.171000",
+        "00:02:54.572000",
+        "But computer chess goes back even further,"
+      ],
+      [
+        50,
+        "00:03:20.233000",
+        "00:03:24.101000",
+        "I greet you for our annual North American Computer Chess Tournament"
+      ],
+      [
+        296,
+        "00:18:35.881000",
+        "00:18:41.410000",
+        "I'm... developing a computer chess programme!"
+      ],
+      [
+        878,
+        "00:54:48.518000",
+        "00:54:51.817000",
+        "played between two wonderful computer chess players"
+      ]
+    ],
+    "regex": "\\b((?!\\bComputer\\ Chess:)Computer\\ Chess)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

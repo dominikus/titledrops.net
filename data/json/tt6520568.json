@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6520568",
+    "title": "Cactus Flower",
+    "year": 2017,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1048,
+    "occurrences": [
+      [
+        427,
+        "00:41:50.240000",
+        "00:41:55.760000",
+        "The cactus flower"
+      ],
+      [
+        1029,
+        "01:34:08.080000",
+        "01:34:09.200000",
+        "The cactus flower bloomed"
+      ]
+    ],
+    "regex": "\\b((?!\\bCactus\\ Flower:)Cactus\\ Flower)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

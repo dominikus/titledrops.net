@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0032840",
+    "title": "New Moon",
+    "year": 1940,
+    "genres": [
+      "Adventure",
+      "Musical",
+      "Romance"
+    ],
+    "count": 7,
+    "all_lines": 1242,
+    "occurrences": [
+      [
+        83,
+        "00:08:24.020000",
+        "00:08:26.476000",
+        "the New Moon, will arrive there."
+      ],
+      [
+        467,
+        "00:37:47.462000",
+        "00:37:50.660000",
+        "the New Moon, she's arrived. We saw her drop anchor in the harbor from our stockade."
+      ],
+      [
+        471,
+        "00:37:57.987000",
+        "00:38:00.140000",
+        "There it was in large letters, New Moon."
+      ],
+      [
+        676,
+        "00:56:57.508000",
+        "00:57:00.606000",
+        "The New Moon is commanded by Ribaud, Comm. Of police and manned by royal marines."
+      ],
+      [
+        702,
+        "00:58:57.940000",
+        "00:59:00.827000",
+        "There are few men left on the New Moon, it's our ship."
+      ],
+      [
+        973,
+        "01:21:09.111000",
+        "01:21:12.416000",
+        "In a few days, a New Moon shall rise on our horizon."
+      ],
+      [
+        974,
+        "01:21:13.432000",
+        "01:21:17.147000",
+        "Before that New Moon has faded, this colony shall have settled down,"
+      ]
+    ],
+    "regex": "\\b((?!\\bNew\\ Moon:)New\\ Moon)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

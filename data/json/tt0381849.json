@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0381849",
+    "title": "3:10 to Yuma",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1233,
+    "occurrences": [
+      [
+        162,
+        "00:22:27.888000",
+        "00:22:29.806000",
+        "Proverbs 13:3."
+      ],
+      [
+        520,
+        "00:50:17.598000",
+        "00:50:20.934000",
+        "Putting you on the 3:10 to Yuma day after tomorrow."
+      ],
+      [
+        618,
+        "00:59:37.324000",
+        "00:59:40.576000",
+        "They're gonna put him on the 3:10 to Yuma Prison tomorrow."
+      ],
+      [
+        991,
+        "01:30:19.581000",
+        "01:30:23.417000",
+        "to put him on the 3:10 to Yuma..."
+      ],
+      [
+        1192,
+        "01:48:05.020000",
+        "01:48:06.604000",
+        "About 10 past 3."
+      ],
+      [
+        1193,
+        "01:48:06.689000",
+        "01:48:08.648000",
+        "Where's the 3:10 to Yuma?"
+      ]
+    ],
+    "regex": "\\b((?!\\b3:)3|(?!\\b10\\ to\\ Yuma:)10\\ to\\ Yuma)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

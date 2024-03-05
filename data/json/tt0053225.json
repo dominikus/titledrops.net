@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0053225",
+    "title": "Room 43",
+    "year": 1958,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 988,
+    "occurrences": [
+      [
+        203,
+        "00:15:03.928000",
+        "00:15:05.021000",
+        "Take the bed from room 43."
+      ],
+      [
+        548,
+        "00:39:56.779000",
+        "00:39:58.310000",
+        "Take her next door. Room 43."
+      ],
+      [
+        676,
+        "00:53:57.591000",
+        "00:54:01.506000",
+        "I've got a spare room that my mother uses when she comes to town."
+      ],
+      [
+        877,
+        "01:08:39.400000",
+        "01:08:41.623000",
+        "There's only one guy guarding her room so all you have to do is..."
+      ],
+      [
+        892,
+        "01:09:36.993000",
+        "01:09:38.365000",
+        "It's on the next floor, room 43."
+      ],
+      [
+        922,
+        "01:12:23.634000",
+        "01:12:24.402000",
+        "Malou's room."
+      ]
+    ],
+    "regex": "\\b((?!\\bRoom:)Room)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

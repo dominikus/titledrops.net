@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt11902980",
+    "title": "The Dalton Gang",
+    "year": 2020,
+    "genres": [
+      "Western"
+    ],
+    "count": 6,
+    "all_lines": 1210,
+    "occurrences": [
+      [
+        439,
+        "00:24:52.759000",
+        "00:24:53.960000",
+        "The Dalton Gang."
+      ],
+      [
+        440,
+        "00:24:55.194000",
+        "00:24:57.029000",
+        "- Hm, the Dalton Gang?"
+      ],
+      [
+        448,
+        "00:25:07.674000",
+        "00:25:09.175000",
+        "- The Dalton Gang."
+      ],
+      [
+        899,
+        "00:49:08.946000",
+        "00:49:12.283000",
+        "- The rumor is that the Dalton Gang is responsible"
+      ],
+      [
+        1064,
+        "00:59:45.515000",
+        "00:59:46.917000",
+        "- I'm with the Dalton Gang."
+      ],
+      [
+        1206,
+        "01:09:59.996000",
+        "01:10:03.166000",
+        "- For closing the book on the Dalton Gang."
+      ]
+    ],
+    "regex": "\\b((?!\\bDalton\\ Gang:)Dalton\\ Gang)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.7
+  }
+]

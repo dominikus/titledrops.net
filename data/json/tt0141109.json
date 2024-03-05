@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt0141109",
+    "title": "Jack Frost",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1669,
+    "occurrences": [
+      [
+        14,
+        "00:02:02.990000",
+        "00:02:04.406000",
+        "It's the Jack Frost Band."
+      ],
+      [
+        29,
+        "00:03:17.240000",
+        "00:03:19.406000",
+        "That was Medford's own Jack Frost Band."
+      ],
+      [
+        800,
+        "00:49:08.657000",
+        "00:49:10.781000",
+        "Is it the name Jack Frost?"
+      ]
+    ],
+    "regex": "\\b((?!\\bJack\\ Frost:)Jack\\ Frost)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [
+      "Jack Frost"
+    ],
+    "title_is_name": true,
+    "rating": 5.4
+  }
+]

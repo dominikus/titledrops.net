@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0118742",
+    "title": "Bliss",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 973,
+    "occurrences": [
+      [
+        307,
+        "00:27:04.249000",
+        "00:27:09.337000",
+        "But, yes, conscious sex that achieves bliss..."
+      ],
+      [
+        459,
+        "00:42:59.203000",
+        "00:43:03.874000",
+        "I want you to practice what I call... \"The Bliss\" Carezza.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bBliss:)Bliss)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

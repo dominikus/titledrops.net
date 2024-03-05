@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2976864",
+    "title": "The Nightingale",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 6,
+    "all_lines": 1000,
+    "occurrences": [
+      [
+        14,
+        "00:03:19.020000",
+        "00:03:24.700000",
+        "Nightingale (Ye Ying, The Nightingale, 2013)"
+      ],
+      [
+        815,
+        "01:18:54.629000",
+        "01:18:57.168000",
+        "The nightingale sounds very good."
+      ],
+      [
+        918,
+        "01:29:32.009000",
+        "01:29:34.470000",
+        "- Nightingale. - Nightingale..."
+      ],
+      [
+        920,
+        "01:29:35.845000",
+        "01:29:38.734000",
+        "Yes, Nightingale is very good at singing."
+      ]
+    ],
+    "regex": "\\b((?!\\bNightingale:)Nightingale)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

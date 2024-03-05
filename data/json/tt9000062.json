@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt9000062",
+    "title": "Maggie",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 915,
+    "occurrences": [
+      [
+        358,
+        "00:32:41.124000",
+        "00:32:43.710000",
+        "My name is Maggie."
+      ],
+      [
+        360,
+        "00:32:54.304000",
+        "00:32:55.764000",
+        "Hey, Maggie!"
+      ],
+      [
+        379,
+        "00:35:02.349000",
+        "00:35:06.269000",
+        "Maggie jumped so high that water splashed onto the floor!"
+      ],
+      [
+        393,
+        "00:35:55.485000",
+        "00:36:00.949000",
+        "Hey, Maggie! When is the earthquake coming?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMaggie:)Maggie)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0362590",
+    "title": "Employee of the Month",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1471,
+    "occurrences": [
+      [
+        165,
+        "00:12:15.400000",
+        "00:12:17.800000",
+        "I won't be surprised if you get Employee Of The Month."
+      ],
+      [
+        217,
+        "00:15:03.700000",
+        "00:15:07.200000",
+        "has been Employee Of The Month four times in the last two years."
+      ],
+      [
+        1445,
+        "01:36:30.400000",
+        "01:36:32.600000",
+        "has been Employee Of The Month four times."
+      ],
+      [
+        1446,
+        "01:36:32.700000",
+        "01:36:36.400000",
+        "I wouldn't be surprised if you get Employee Of The Month."
+      ]
+    ],
+    "regex": "\\b((?!\\bEmployee\\ of\\ the\\ Month:)Employee\\ of\\ the\\ Month)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

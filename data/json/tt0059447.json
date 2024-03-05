@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0059447",
+    "title": "Mickey One",
+    "year": 1965,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 906,
+    "occurrences": [
+      [
+        71,
+        "00:13:49.412000",
+        "00:13:51.831000",
+        "Your name's Mickey One. Garbage."
+      ],
+      [
+        75,
+        "00:15:08.116000",
+        "00:15:09.700000",
+        "Mickey One."
+      ],
+      [
+        173,
+        "00:24:10.824000",
+        "00:24:13.535000",
+        "His name? Mickey One."
+      ],
+      [
+        875,
+        "01:28:23.298000",
+        "01:28:25.592000",
+        "-The one and only Mickey One. -Mickey, if something happened to..."
+      ]
+    ],
+    "regex": "\\b((?!\\bMickey\\ One:)Mickey\\ One)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

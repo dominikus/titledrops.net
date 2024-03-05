@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0108311",
+    "title": "The Temp",
+    "year": 1993,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1422,
+    "occurrences": [
+      [
+        189,
+        "00:09:23.890000",
+        "00:09:24.890000",
+        "The temp."
+      ],
+      [
+        294,
+        "00:15:52.950000",
+        "00:15:54.410000",
+        "No. I have a temp."
+      ],
+      [
+        295,
+        "00:15:54.420000",
+        "00:15:55.950000",
+        "Quite a temp."
+      ],
+      [
+        420,
+        "00:22:24.440000",
+        "00:22:27.410000",
+        "had a temp but couldn't keep her."
+      ],
+      [
+        505,
+        "00:27:22.800000",
+        "00:27:25.970000",
+        "What's a Stanford grad doing working as a temp?"
+      ],
+      [
+        508,
+        "00:27:46.830000",
+        "00:27:48.830000",
+        "so I enter as a temp."
+      ]
+    ],
+    "regex": "\\b((?!\\bTemp:)Temp)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

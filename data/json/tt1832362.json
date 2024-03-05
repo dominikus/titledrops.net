@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1832362",
+    "title": "Glove",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1619,
+    "occurrences": [
+      [
+        681,
+        "00:48:20.240000",
+        "00:48:22.117000",
+        "Just keep your glove where it is"
+      ],
+      [
+        1477,
+        "02:03:32.440000",
+        "02:03:36.991000",
+        "He's hit it! The ball bounces off the pitcher's glove!"
+      ]
+    ],
+    "regex": "\\b((?!\\bGlove:)Glove)(?!\\:)(?!'t)\\b",
+    "runtime": 144,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

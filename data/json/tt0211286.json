@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt0211286",
+    "title": "The Log",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 1333,
+    "occurrences": [
+      [
+        81,
+        "00:06:55.577000",
+        "00:06:57.966000",
+        "...I can't make a chestnut log anymore."
+      ],
+      [
+        83,
+        "00:06:59.817000",
+        "00:07:02.285000",
+        "About the Christmas log, Pierre hates Grand-Marnier..."
+      ],
+      [
+        87,
+        "00:07:09.377000",
+        "00:07:14.007000",
+        "This year, I want to make a designer log."
+      ],
+      [
+        90,
+        "00:07:20.337000",
+        "00:07:22.009000",
+        "You could make a log..."
+      ],
+      [
+        92,
+        "00:07:24.217000",
+        "00:07:27.175000",
+        "A real... designer log, no?"
+      ],
+      [
+        118,
+        "00:09:01.697000",
+        "00:09:05.406000",
+        "And she kept going on about that log."
+      ],
+      [
+        1333,
+        "01:38:55.297000",
+        "01:38:58.528000",
+        "But I don't have a Christmas log. They disgust me."
+      ]
+    ],
+    "regex": "\\b((?!\\bLog:)Log)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

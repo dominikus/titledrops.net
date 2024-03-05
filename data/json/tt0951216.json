@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0951216",
+    "title": "Mad Money",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1902,
+    "occurrences": [
+      [
+        1836,
+        "01:36:14.557000",
+        "01:36:17.226000",
+        "Hey, wait. Did you ever hear that expression \"mad money?\""
+      ],
+      [
+        1838,
+        "01:36:19.312000",
+        "01:36:21.773000",
+        "a little mad money tucked away just in case.\""
+      ],
+      [
+        1839,
+        "01:36:21.773000",
+        "01:36:25.276000",
+        "Do you use mad money when you go mad"
+      ]
+    ],
+    "regex": "\\b((?!\\bMad\\ Money:)Mad\\ Money)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

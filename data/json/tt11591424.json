@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt11591424",
+    "title": "The Stay",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1642,
+    "occurrences": [
+      [
+        172,
+        "00:09:55.921000",
+        "00:09:58.290000",
+        "- Hold on. - Stay here."
+      ],
+      [
+        254,
+        "00:13:57.396000",
+        "00:13:59.331000",
+        "That's where I stay."
+      ],
+      [
+        681,
+        "00:35:39.699000",
+        "00:35:41.500000",
+        "I'm gonna stay back and watch."
+      ]
+    ],
+    "regex": "\\b((?!\\bStay:)Stay)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

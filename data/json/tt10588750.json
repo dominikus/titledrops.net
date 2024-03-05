@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt10588750",
+    "title": "Doraemon the Movie: Nobita's New Dinosaur",
+    "year": 2020,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 1,
+    "all_lines": 1213,
+    "occurrences": [
+      [
+        77,
+        "00:07:37.413000",
+        "00:07:42.330000",
+        "Doraemon the Movie: Nobita's New Dinosaur"
+      ]
+    ],
+    "regex": "\\b((?!\\bDoraemon\\ the\\ Movie:)Doraemon\\ the\\ Movie|(?!\\bNobita's\\ New\\ Dinosaur:)Nobita's\\ New\\ Dinosaur)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

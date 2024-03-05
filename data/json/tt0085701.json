@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0085701",
+    "title": "The Hunger",
+    "year": 1983,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 605,
+    "occurrences": [
+      [
+        501,
+        "01:10:22.066000",
+        "01:10:24.398000",
+        "When the hunger hurts so much you've Iost reason..."
+      ],
+      [
+        514,
+        "01:13:07.164000",
+        "01:13:09.564000",
+        "Someone who can feed your hunger."
+      ]
+    ],
+    "regex": "\\b((?!\\bHunger:)Hunger)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

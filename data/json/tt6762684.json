@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt6762684",
+    "title": "Bill Engvall: Just Sell Him for Parts",
+    "year": 2016,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1628,
+    "occurrences": [
+      [
+        28,
+        "00:01:04.398000",
+        "00:01:07.001000",
+        "Mr. Bill Engvall!"
+      ],
+      [
+        585,
+        "00:23:46.559000",
+        "00:23:48.227000",
+        "There's going to be Bill Engvall dance studios"
+      ],
+      [
+        1187,
+        "00:52:32.283000",
+        "00:52:36.221000",
+        "Ma'am, just sell him for parts. It's just not worth it."
+      ]
+    ],
+    "regex": "\\b((?!\\bBill\\ Engvall:)Bill\\ Engvall|(?!\\bJust\\ Sell\\ Him\\ for\\ Parts:)Just\\ Sell\\ Him\\ for\\ Parts)(?!\\:)(?!'t)\\b",
+    "runtime": 74,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

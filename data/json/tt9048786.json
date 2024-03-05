@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt9048786",
+    "title": "The Immortal",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 721,
+    "occurrences": [
+      [
+        25,
+        "00:06:11.463000",
+        "00:06:14.172000",
+        "No one can kill the Immortal."
+      ],
+      [
+        188,
+        "00:29:17.630000",
+        "00:29:20.297000",
+        "- Not even of dying? - He's the Immortal."
+      ],
+      [
+        189,
+        "00:29:20.505000",
+        "00:29:22.297000",
+        "It's true, he's the Immortal."
+      ]
+    ],
+    "regex": "\\b((?!\\bImmortal:)Immortal)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

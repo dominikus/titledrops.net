@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0074896",
+    "title": "The Message",
+    "year": 1976,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 1807,
+    "occurrences": [
+      [
+        198,
+        "00:18:55.895000",
+        "00:19:00.103000",
+        "I would not renounce my message, which is from God.\""
+      ],
+      [
+        319,
+        "00:27:45.187000",
+        "00:27:47.062000",
+        "When God reveals His message to Muhammad,"
+      ],
+      [
+        1747,
+        "02:50:43.603000",
+        "02:50:47.561000",
+        "his message of surrender to God and humanity to man."
+      ]
+    ],
+    "regex": "\\b((?!\\bMessage:)Message)(?!\\:)(?!'t)\\b",
+    "runtime": 178,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1921043",
+    "title": "The Clown",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 672,
+    "occurrences": [
+      [
+        331,
+        "00:38:39.684000",
+        "00:38:43.518000",
+        "- And the clown, what !s he? - He's a w!ves' th!ef!"
+      ],
+      [
+        422,
+        "00:48:16.927000",
+        "00:48:18.485000",
+        "As a clown."
+      ],
+      [
+        493,
+        "00:56:14.537000",
+        "00:56:17.233000",
+        "That was Mongrel, the clown..."
+      ],
+      [
+        511,
+        "00:58:19.829000",
+        "00:58:21.558000",
+        "and I'm a clown."
+      ],
+      [
+        596,
+        "01:14:11.313000",
+        "01:14:12.541000",
+        "and I'm a clown."
+      ]
+    ],
+    "regex": "\\b((?!\\bClown:)Clown)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

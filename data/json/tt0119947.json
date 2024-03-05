@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt0119947",
+    "title": "Prince Valiant",
+    "year": 1997,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 512,
+    "occurrences": [
+      [
+        486,
+        "01:18:31.440000",
+        "01:18:36.310000",
+        "I'm Prince Valiant, but I'm nothing without my love."
+      ],
+      [
+        499,
+        "01:21:04.560000",
+        "01:21:10.397000",
+        "I, Prince Valiant, the true heir to throne of Thule."
+      ],
+      [
+        508,
+        "01:22:17.480000",
+        "01:22:22.270000",
+        "Prince Valiant! Prince Valiant!"
+      ]
+    ],
+    "regex": "\\b((?!\\bPrince\\ Valiant:)Prince\\ Valiant)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [
+      "Prince Valiant"
+    ],
+    "title_is_name": true,
+    "rating": 5
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt11165716",
+    "title": "North Hollywood",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 1715,
+    "occurrences": [
+      [
+        100,
+        "00:05:20.093000",
+        "00:05:24.331000",
+        "We're here at the 50th annual North Hollywood Skate Park Barbecue."
+      ],
+      [
+        267,
+        "00:13:08.227000",
+        "00:13:09.662000",
+        "Bing Crosby moved into North Hollywood"
+      ],
+      [
+        422,
+        "00:19:20.900000",
+        "00:19:22.567000",
+        "That's what I love about North Hollywood. You know?"
+      ],
+      [
+        683,
+        "00:34:19.797000",
+        "00:34:24.701000",
+        "You see my family moved to North Hollywood from Mississippi in the 1960s."
+      ]
+    ],
+    "regex": "\\b((?!\\bNorth\\ Hollywood:)North\\ Hollywood)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

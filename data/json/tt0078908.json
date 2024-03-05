@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0078908",
+    "title": "The Brood",
+    "year": 1979,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 849,
+    "occurrences": [
+      [
+        759,
+        "01:15:47.342000",
+        "01:15:48.775000",
+        "the brood beat her."
+      ],
+      [
+        776,
+        "01:16:42.264000",
+        "01:16:44.095000",
+        "then the brood's neutral."
+      ]
+    ],
+    "regex": "\\b((?!\\bBrood:)Brood)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0101879",
+    "title": "The Finest Hour",
+    "year": 1991,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1228,
+    "occurrences": [
+      [
+        1207,
+        "01:41:01.978000",
+        "01:41:03.730000",
+        "It was the nation's finest hour,"
+      ],
+      [
+        1228,
+        "01:42:22.415000",
+        "01:42:26.002000",
+        "[\"Our Finest Hour\" by David Allen Morgan playing]"
+      ]
+    ],
+    "regex": "\\b((?!\\bFinest\\ Hour:)Finest\\ Hour)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

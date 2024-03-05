@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt3553378",
+    "title": "Sugar Mountain",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1403,
+    "occurrences": [
+      [
+        68,
+        "00:07:12.533000",
+        "00:07:14.800000",
+        "Notice of possession. Sugar mountain coastal charters"
+      ],
+      [
+        471,
+        "00:32:04.390000",
+        "00:32:06.556000",
+        "Sugar mountain police say rescue is crucial within"
+      ],
+      [
+        577,
+        "00:37:09.928000",
+        "00:37:11.695000",
+        "to sugar mountain."
+      ],
+      [
+        1195,
+        "01:27:59.742000",
+        "01:28:01.608000",
+        "back to the police station in sugar mountain and"
+      ]
+    ],
+    "regex": "\\b((?!\\bSugar\\ Mountain:)Sugar\\ Mountain)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

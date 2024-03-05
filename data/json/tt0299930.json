@@ -1,0 +1,65 @@
+[
+  {
+    "imdb": "tt0299930",
+    "title": "Gigli",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Romance"
+    ],
+    "count": 7,
+    "all_lines": 881,
+    "occurrences": [
+      [
+        58,
+        "00:03:58.197000",
+        "00:04:01.825000",
+        "I'm gonna have to send Gigli over. He's gonna have to settle up with you."
+      ],
+      [
+        67,
+        "00:04:22.179000",
+        "00:04:24.056000",
+        "It's Gigli, by the way."
+      ],
+      [
+        69,
+        "00:04:26.225000",
+        "00:04:28.852000",
+        "pronounced Gigli. It rhymes with really."
+      ],
+      [
+        72,
+        "00:04:34.024000",
+        "00:04:37.486000",
+        "Meanwhile, you got something for me, Gigli? Rhymes with really."
+      ],
+      [
+        220,
+        "00:15:29.179000",
+        "00:15:31.557000",
+        "Larry Gigli, right?"
+      ],
+      [
+        221,
+        "00:15:32.516000",
+        "00:15:36.061000",
+        "- I saw it on the mailbox. - Yeah, it's pronounced Gigli."
+      ],
+      [
+        223,
+        "00:15:38.897000",
+        "00:15:42.317000",
+        "- It's nice to meet you, Larry Gigli. - Nice to meet you, Larry."
+      ]
+    ],
+    "regex": "\\b((?!\\bGigli:)Gigli)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [
+      "Larry Gigli"
+    ],
+    "title_is_name": true,
+    "rating": 2.6
+  }
+]

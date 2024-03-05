@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0069883",
+    "title": "Cinderella Liberty",
+    "year": 1973,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1563,
+    "occurrences": [
+      [
+        58,
+        "00:06:13.906000",
+        "00:06:16.807000",
+        "\"Expires 2400 hour.\" What are you giving me, Cinderella liberty?"
+      ],
+      [
+        59,
+        "00:06:16.876000",
+        "00:06:19.003000",
+        "Well, it's a Cinderella liberty card."
+      ],
+      [
+        150,
+        "00:14:15.454000",
+        "00:14:19.049000",
+        "but I'm on Cinderella liberty, and if I don't get back to the hospital by 12:00..."
+      ]
+    ],
+    "regex": "\\b((?!\\bCinderella\\ Liberty:)Cinderella\\ Liberty)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

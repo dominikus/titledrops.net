@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0097438",
+    "title": "Gleaming the Cube",
+    "year": 1989,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1060,
+    "occurrences": [
+      [
+        1,
+        "00:00:54.057000",
+        "00:00:57.186000",
+        "* janes house: gleaming the cube"
+      ],
+      [
+        9,
+        "00:01:37.434000",
+        "00:01:39.519000",
+        "* gleaming the cube"
+      ],
+      [
+        12,
+        "00:01:50.322000",
+        "00:01:52.407000",
+        "* gleaming the cube"
+      ],
+      [
+        24,
+        "00:02:28.735000",
+        "00:02:30.821000",
+        "* gleaming the cube"
+      ]
+    ],
+    "regex": "\\b((?!\\bGleaming\\ the\\ Cube:)Gleaming\\ the\\ Cube)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

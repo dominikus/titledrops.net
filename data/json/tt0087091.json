@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0087091",
+    "title": "Country",
+    "year": 1984,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1051,
+    "occurrences": [
+      [
+        494,
+        "00:45:08.972000",
+        "00:45:11.964000",
+        "(? Country over car radio)"
+      ],
+      [
+        566,
+        "00:51:48.171000",
+        "00:51:51.607000",
+        "Well, I know your place. There's no better land in this country."
+      ],
+      [
+        665,
+        "01:00:46.909000",
+        "01:00:49.878000",
+        "on the most productive farmland in this country for 100 years"
+      ],
+      [
+        722,
+        "01:07:26.008000",
+        "01:07:29.637000",
+        "They know this country can't get along without farmers."
+      ],
+      [
+        732,
+        "01:08:22.698000",
+        "01:08:25.690000",
+        "(? Country over radio)"
+      ]
+    ],
+    "regex": "\\b((?!\\bCountry:)Country)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

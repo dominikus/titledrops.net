@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt14296268",
+    "title": "2gether: The Movie",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1317,
+    "occurrences": [
+      [
+        14,
+        "00:02:51.532000",
+        "00:02:59.532000",
+        "\"2GETHER MOVIE\""
+      ],
+      [
+        842,
+        "01:08:37.688000",
+        "01:08:41.391000",
+        "But I forgot that this was real life, not a romantic movie"
+      ],
+      [
+        1068,
+        "01:27:18.839000",
+        "01:27:20.581000",
+        "this was like a movie."
+      ],
+      [
+        1072,
+        "01:27:50.981000",
+        "01:27:53.734000",
+        "I am not the protagonist in your movie."
+      ],
+      [
+        1074,
+        "01:28:06.286000",
+        "01:28:09.129000",
+        "If this was a movie about us."
+      ]
+    ],
+    "regex": "\\b((?!\\b2gether:)2gether|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

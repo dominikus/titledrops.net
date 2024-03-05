@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0089613",
+    "title": "My Brother-in-law Killed My Sister",
+    "year": 1986,
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1527,
+    "occurrences": [
+      [
+        135,
+        "00:07:47.920000",
+        "00:07:50.280000",
+        "My brother-in-law killed my sister."
+      ],
+      [
+        256,
+        "00:15:37.360000",
+        "00:15:39.800000",
+        "I'm not mad. My brother-in-law killed my sister."
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Brother\\-in\\-law\\ Killed\\ My\\ Sister:)My\\ Brother\\-in\\-law\\ Killed\\ My\\ Sister)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

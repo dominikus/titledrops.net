@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt5170810",
+    "title": "Inside",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 609,
+    "occurrences": [
+      [
+        180,
+        "00:16:43.577000",
+        "00:16:47.095000",
+        "Please, can you come quickly? I'm inside."
+      ],
+      [
+        184,
+        "00:16:56.794000",
+        "00:16:58.777000",
+        "and she wanted to come inside."
+      ],
+      [
+        192,
+        "00:18:18.202000",
+        "00:18:20.215000",
+        "She wanted to come inside the house."
+      ],
+      [
+        193,
+        "00:18:20.217000",
+        "00:18:21.367000",
+        "Inside the house?"
+      ],
+      [
+        528,
+        "01:11:17.110000",
+        "01:11:20.471000",
+        "babies hear everything when they're inside."
+      ]
+    ],
+    "regex": "\\b((?!\\bInside:)Inside)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

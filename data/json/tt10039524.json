@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt10039524",
+    "title": "Luxor",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 592,
+    "occurrences": [
+      [
+        23,
+        "00:05:16.115000",
+        "00:05:18.985000",
+        "Is that your only Luxor reference?"
+      ],
+      [
+        116,
+        "00:22:26.278000",
+        "00:22:30.951000",
+        "My husband managed the band. When I went to Luxor I just got hooked and kept on coming back."
+      ]
+    ],
+    "regex": "\\b((?!\\bLuxor:)Luxor)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

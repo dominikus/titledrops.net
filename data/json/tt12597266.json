@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt12597266",
+    "title": "Stripped: Los Angeles",
+    "year": 2020,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 6,
+    "all_lines": 1257,
+    "occurrences": [
+      [
+        356,
+        "00:23:13.392000",
+        "00:23:15.263000",
+        "I live in Los Angeles, Chris."
+      ],
+      [
+        374,
+        "00:24:18.674000",
+        "00:24:21.721000",
+        "when I moved to Los Angeles."
+      ],
+      [
+        784,
+        "00:47:22.796000",
+        "00:47:26.452000",
+        "You're literally seeing it raw, pure, uncut, stripped."
+      ],
+      [
+        1126,
+        "01:08:25.144000",
+        "01:08:26.667000",
+        "like I moved to Los Angeles to have a career."
+      ],
+      [
+        1127,
+        "01:08:26.798000",
+        "01:08:29.583000",
+        "I did not move to Los Angeles to get married."
+      ],
+      [
+        1181,
+        "01:11:16.924000",
+        "01:11:20.101000",
+        "- Three years deep in Los Angeles."
+      ]
+    ],
+    "regex": "\\b((?!\\bStripped:)Stripped|(?!\\bLos\\ Angeles:)Los\\ Angeles)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

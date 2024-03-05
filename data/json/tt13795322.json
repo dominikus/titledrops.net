@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt13795322",
+    "title": "The Witch of Kings Cross",
+    "year": 2020,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1377,
+    "occurrences": [
+      [
+        17,
+        "00:01:34.593000",
+        "00:01:37.397000",
+        "She was the Witch of Kings Cross."
+      ],
+      [
+        152,
+        "00:08:55",
+        "00:08:59.939000",
+        "And it was the beginning of the Witch of Kings Cross."
+      ],
+      [
+        828,
+        "00:46:40.729000",
+        "00:46:43.867000",
+        "The Witch of Kings Cross, revealed."
+      ],
+      [
+        1322,
+        "01:11:42.930000",
+        "01:11:45.133000",
+        "Here she was, the great witch of Kings Cross"
+      ]
+    ],
+    "regex": "\\b((?!\\bWitch\\ of\\ Kings\\ Cross:)Witch\\ of\\ Kings\\ Cross)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

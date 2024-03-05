@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt0950749",
+    "title": "Flick",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1850,
+    "occurrences": [
+      [
+        580,
+        "00:29:54.550000",
+        "00:29:56.920000",
+        "Apparently, the locals used to call him Flick,"
+      ],
+      [
+        582,
+        "00:29:59.260000",
+        "00:30:00.390000",
+        "-Flick? -Yeah."
+      ],
+      [
+        610,
+        "00:31:14.850000",
+        "00:31:17.560000",
+        "What we call a flick knife around these parts."
+      ]
+    ],
+    "regex": "\\b((?!\\bFlick:)Flick)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [
+      "Johnny `Flick` Taylor"
+    ],
+    "title_is_name": true,
+    "rating": 4.7
+  }
+]

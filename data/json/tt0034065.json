@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0034065",
+    "title": "The Prime Minister",
+    "year": 1941,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 6,
+    "all_lines": 1482,
+    "occurrences": [
+      [
+        103,
+        "00:05:34.587000",
+        "00:05:36.007000",
+        "Mr Prime Minister, sir."
+      ],
+      [
+        306,
+        "00:16:54.670000",
+        "00:16:57.859000",
+        "The whole speech of the Prime Minister to which we have just listened."
+      ],
+      [
+        842,
+        "00:51:08.536000",
+        "00:51:09.859000",
+        "To the next Prime Minister."
+      ],
+      [
+        954,
+        "00:57:26.711000",
+        "00:57:29.267000",
+        "He wanted to be Prime Minister of England."
+      ],
+      [
+        986,
+        "00:59:42.372000",
+        "00:59:45.342000",
+        "For a Prime Minister to lead the government from the House Of Lords."
+      ],
+      [
+        1255,
+        "01:17:30.551000",
+        "01:17:33.394000",
+        "Excuse me, but the Turkish Ambassador is waiting to see the Prime Minister."
+      ]
+    ],
+    "regex": "\\b((?!\\bPrime\\ Minister:)Prime\\ Minister)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

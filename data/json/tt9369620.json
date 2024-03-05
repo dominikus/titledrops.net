@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt9369620",
+    "title": "A Brother",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1023,
+    "occurrences": [
+      [
+        21,
+        "00:00:54.980000",
+        "00:00:58.360000",
+        "Can you imagine? You could have had a big brother, or a big sister."
+      ],
+      [
+        90,
+        "00:06:09.420000",
+        "00:06:10.740000",
+        "Let go of my brother!"
+      ],
+      [
+        186,
+        "00:13:45.640000",
+        "00:13:48.439000",
+        "Do you have any brother or sister?"
+      ],
+      [
+        544,
+        "00:36:24.720000",
+        "00:36:26.200000",
+        "Come on, be nice to your big brother."
+      ],
+      [
+        725,
+        "00:52:05.740000",
+        "00:52:08.120000",
+        "I always wanted to have a little brother or sister."
+      ],
+      [
+        978,
+        "01:13:26.020000",
+        "01:13:27.980000",
+        "Leave me alone, you're not my big brother!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBrother:)Brother)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

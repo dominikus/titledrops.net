@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt9288776",
+    "title": "White Snake",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 3,
+    "all_lines": 1035,
+    "occurrences": [
+      [
+        243,
+        "00:21:30.825000",
+        "00:21:32.850000",
+        "Thet White Snake must have betrayed us."
+      ],
+      [
+        743,
+        "01:04:38.325000",
+        "01:04:40.075000",
+        "Is White Snake the one who betrayed us?"
+      ],
+      [
+        982,
+        "01:28:22.325000",
+        "01:28:25.400000",
+        "You consumed all your power, and was turned into the white snake"
+      ]
+    ],
+    "regex": "\\b((?!\\bWhite\\ Snake:)White\\ Snake)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

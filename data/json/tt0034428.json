@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0034428",
+    "title": "Across the Pacific",
+    "year": 1942,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1738,
+    "occurrences": [
+      [
+        206,
+        "00:14:38.394000",
+        "00:14:40.039000",
+        "Across the Pacific. The Orient."
+      ],
+      [
+        610,
+        "00:33:18.646000",
+        "00:33:20.291000",
+        "in Panama and across the Pacific."
+      ]
+    ],
+    "regex": "\\b((?!\\bAcross\\ the\\ Pacific:)Across\\ the\\ Pacific)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

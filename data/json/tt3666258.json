@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3666258",
+    "title": "Coffee Bloom",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1072,
+    "occurrences": [
+      [
+        252,
+        "00:22:19.541000",
+        "00:22:25.166000",
+        "But you know what I say, the coffee bloom is just a month away."
+      ],
+      [
+        692,
+        "00:58:03.708000",
+        "00:58:09",
+        "..there is going to be a coffee bloom!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCoffee\\ Bloom:)Coffee\\ Bloom)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

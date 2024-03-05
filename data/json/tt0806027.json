@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0806027",
+    "title": "Blood: The Last Vampire",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 5,
+    "all_lines": 561,
+    "occurrences": [
+      [
+        33,
+        "00:06:50.829000",
+        "00:06:53.792000",
+        "But this time, the blood we'll take. - I was never wrong."
+      ],
+      [
+        168,
+        "00:19:09.908000",
+        "00:19:14.061000",
+        "Something was wrong with them? Linda's blood..."
+      ],
+      [
+        208,
+        "00:22:15.829000",
+        "00:22:19.032000",
+        "...blood will be shed."
+      ],
+      [
+        377,
+        "00:51:30.016000",
+        "00:51:31.640000",
+        "Your blood?"
+      ],
+      [
+        390,
+        "00:52:58.490000",
+        "00:53:02.140000",
+        "Love was gone, replaced by blood."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlood:)Blood|(?!\\bLast\\ Vampire:)Last\\ Vampire)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0111732",
+    "title": "With Honors",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1385,
+    "occurrences": [
+      [
+        1106,
+        "01:13:33.559000",
+        "01:13:37.519000",
+        "Department policy. If I don't have it in on time, I don't graduate with honors."
+      ],
+      [
+        1376,
+        "01:35:12.457000",
+        "01:35:15.450000",
+        "...you have no chance to graduate with honors."
+      ]
+    ],
+    "regex": "\\b((?!\\bWith\\ Honors:)With\\ Honors)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

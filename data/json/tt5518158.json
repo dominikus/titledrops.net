@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt5518158",
+    "title": "Mount Adams",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1358,
+    "occurrences": [
+      [
+        64,
+        "00:04:30.265000",
+        "00:04:33.684000",
+        "This, ladies and gentlemen, is Mount Adams."
+      ],
+      [
+        108,
+        "00:06:18.934000",
+        "00:06:21.560000",
+        "Hey uh, my uncle practically lives on Mount Adams."
+      ],
+      [
+        236,
+        "00:12:50.034000",
+        "00:12:52.745000",
+        "alien phenomenon surrounding Mount Adams."
+      ],
+      [
+        351,
+        "00:18:08.536000",
+        "00:18:11.038000",
+        "what do you think is going on here at Mount Adams?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMount\\ Adams:)Mount\\ Adams)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.5
+  }
+]

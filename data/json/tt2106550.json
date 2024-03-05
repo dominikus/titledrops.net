@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2106550",
+    "title": "Möbius",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 994,
+    "occurrences": [
+      [
+        841,
+        "01:23:35.933000",
+        "01:23:38.333000",
+        "Do you know what a Mobius strip is?"
+      ],
+      [
+        843,
+        "01:23:41.338000",
+        "01:23:46.469000",
+        "The Mobius strip, are you familiar with it? Is that ring any bells?"
+      ],
+      [
+        849,
+        "01:24:13.871000",
+        "01:24:15.736000",
+        "The Mobius strip."
+      ]
+    ],
+    "regex": "\\b((?!\\bMobius:)Mobius)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

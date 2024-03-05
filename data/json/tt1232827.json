@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1232827",
+    "title": "Parking",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1211,
+    "occurrences": [
+      [
+        1,
+        "00:00:21.287000",
+        "00:00:23.152000",
+        "Parking"
+      ],
+      [
+        384,
+        "00:39:29.900000",
+        "00:39:31.492000",
+        "My car is parked on a legal parking space"
+      ]
+    ],
+    "regex": "\\b((?!\\bParking:)Parking)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

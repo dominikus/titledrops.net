@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0116676",
+    "title": "The Jaguar",
+    "year": 1996,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 901,
+    "occurrences": [
+      [
+        428,
+        "00:37:18.070000",
+        "00:37:21.858000",
+        "The Indians call him the Jaguar. He has its power and speed."
+      ],
+      [
+        429,
+        "00:37:22.030000",
+        "00:37:25.181000",
+        "Some claim he can become a jaguar at will."
+      ]
+    ],
+    "regex": "\\b((?!\\bJaguar:)Jaguar)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

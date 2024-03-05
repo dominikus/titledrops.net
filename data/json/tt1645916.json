@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1645916",
+    "title": "Standby",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1002,
+    "occurrences": [
+      [
+        141,
+        "00:10:43.928000",
+        "00:10:47.695000",
+        "I'm on standby for a flight tonight or tomorrow, but I need a room."
+      ],
+      [
+        215,
+        "00:16:22.870000",
+        "00:16:25.025000",
+        "Hi. I'm on standby for a flight to New York."
+      ]
+    ],
+    "regex": "\\b((?!\\bStandby:)Standby)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

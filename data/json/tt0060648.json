@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0060648",
+    "title": "Mademoiselle",
+    "year": 1966,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 75,
+    "occurrences": [
+      [
+        15,
+        "00:17:21.337000",
+        "00:17:22.703000",
+        "We're finished, mademoiselle."
+      ],
+      [
+        35,
+        "00:35:15.635000",
+        "00:35:19.628000",
+        "Now that Bruno's found somebody to help him, this Mademoiselle."
+      ]
+    ],
+    "regex": "\\b((?!\\bMademoiselle:)Mademoiselle)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [
+      "Mademoiselle"
+    ],
+    "title_is_name": true,
+    "rating": 7.1
+  }
+]

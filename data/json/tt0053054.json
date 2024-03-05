@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0053054",
+    "title": "The Mating Game",
+    "year": 1959,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1662,
+    "occurrences": [
+      [
+        37,
+        "00:02:36.105000",
+        "00:02:40.539000",
+        "You've started The Mating Game"
+      ],
+      [
+        41,
+        "00:02:52.001000",
+        "00:02:57.045000",
+        "But no, it's The Mating Game"
+      ],
+      [
+        50,
+        "00:03:28.200000",
+        "00:03:33.045000",
+        "for The Mating Game"
+      ]
+    ],
+    "regex": "\\b((?!\\bMating\\ Game:)Mating\\ Game)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4682266",
+    "title": "The New Mutants",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1343,
+    "occurrences": [
+      [
+        93,
+        "00:07:08.500000",
+        "00:07:11.666000",
+        "The man I work for has a way of recognizing new mutants..."
+      ],
+      [
+        445,
+        "00:31:32.583000",
+        "00:31:35.166000",
+        "That's why new mutants are dangerous."
+      ]
+    ],
+    "regex": "\\b((?!\\bNew\\ Mutants:)New\\ Mutants)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

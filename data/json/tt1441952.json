@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1441952",
+    "title": "Salmon Fishing in the Yemen",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1355,
+    "occurrences": [
+      [
+        97,
+        "00:07:19.690000",
+        "00:07:22.651000",
+        "Salmon fishing. Salmon fishing in the Yemen."
+      ],
+      [
+        118,
+        "00:08:34.640000",
+        "00:08:37.309000",
+        "salmon fishing in the Yemen. Fancy it?"
+      ],
+      [
+        1135,
+        "01:17:54.170000",
+        "01:17:56.381000",
+        "Or salmon fishing in the Yemen."
+      ]
+    ],
+    "regex": "\\b((?!\\bSalmon\\ Fishing\\ in\\ the\\ Yemen:)Salmon\\ Fishing\\ in\\ the\\ Yemen)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0313752",
+    "title": "Sea of Silence",
+    "year": 2003,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 783,
+    "occurrences": [
+      [
+        34,
+        "00:07:07",
+        "00:07:12",
+        "That means the Sea of Silence."
+      ],
+      [
+        615,
+        "01:13:25",
+        "01:13:30",
+        "Armstrong will walk in the Sea of Silence."
+      ]
+    ],
+    "regex": "\\b((?!\\bSea\\ of\\ Silence:)Sea\\ of\\ Silence)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0460890",
+    "title": "The Only Living Boy in New York",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1274,
+    "occurrences": [
+      [
+        870,
+        "00:49:38.308000",
+        "00:49:40.743000",
+        "Am I the only living boy in New York?"
+      ],
+      [
+        1136,
+        "01:11:45.334000",
+        "01:11:48.469000",
+        "Tell me about \"the only living boy in New York.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bOnly\\ Living\\ Boy\\ in\\ New\\ York:)Only\\ Living\\ Boy\\ in\\ New\\ York)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

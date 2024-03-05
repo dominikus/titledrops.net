@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0066886",
+    "title": "Captain Apache",
+    "year": 1971,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 863,
+    "occurrences": [
+      [
+        147,
+        "00:17:26.743000",
+        "00:17:30.190000",
+        "Welcome to Mexico, Captain Apache!"
+      ],
+      [
+        240,
+        "00:27:29.364000",
+        "00:27:31.318000",
+        "It's the Captain Apache."
+      ]
+    ],
+    "regex": "\\b((?!\\bCaptain\\ Apache:)Captain\\ Apache)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

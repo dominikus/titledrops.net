@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0037822",
+    "title": "It's a Pleasure",
+    "year": 1945,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 1143,
+    "occurrences": [
+      [
+        79,
+        "00:05:32.453000",
+        "00:05:33.750000",
+        "It's a pleasure."
+      ],
+      [
+        288,
+        "00:23:11.110000",
+        "00:23:13.670000",
+        "-I'm glad you could come. -It's a pleasure."
+      ]
+    ],
+    "regex": "\\b((?!\\bIt's\\ a\\ Pleasure:)It's\\ a\\ Pleasure)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

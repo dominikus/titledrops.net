@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6048414",
+    "title": "The Enemies Within",
+    "year": 2016,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1816,
+    "occurrences": [
+      [
+        17,
+        "00:00:57.433000",
+        "00:01:00.801000",
+        "had been betrayed by enemies within."
+      ],
+      [
+        64,
+        "00:03:37.568000",
+        "00:03:40",
+        "These are the Enemies Within."
+      ]
+    ],
+    "regex": "\\b((?!\\bEnemies\\ Within:)Enemies\\ Within)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

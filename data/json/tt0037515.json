@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0037515",
+    "title": "And Then There Were None",
+    "year": 1945,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1239,
+    "occurrences": [
+      [
+        121,
+        "00:13:08.100000",
+        "00:13:22.030000",
+        "So he went and hanged himself and then there were none."
+      ],
+      [
+        1167,
+        "01:32:20.650000",
+        "01:32:22.270000",
+        "... and then there were none."
+      ]
+    ],
+    "regex": "\\b((?!\\bAnd\\ Then\\ There\\ Were\\ None:)And\\ Then\\ There\\ Were\\ None)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

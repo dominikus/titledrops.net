@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0109340",
+    "title": "The Browning Version",
+    "year": 1994,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1559,
+    "occurrences": [
+      [
+        1148,
+        "00:57:53.891000",
+        "00:57:56.310000",
+        "The Browning version."
+      ],
+      [
+        1257,
+        "01:03:56.670000",
+        "01:03:58.005000",
+        "with th-the Browning version,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBrowning\\ Version:)Browning\\ Version)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

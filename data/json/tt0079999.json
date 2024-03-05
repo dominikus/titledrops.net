@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0079999",
+    "title": "The Theme",
+    "year": 1979,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1163,
+    "occurrences": [
+      [
+        537,
+        "00:37:22.799000",
+        "00:37:24.798000",
+        "That's his main theme!"
+      ],
+      [
+        538,
+        "00:37:24.918000",
+        "00:37:27.425000",
+        "- It's a worthy theme! - And a necessary one!"
+      ],
+      [
+        880,
+        "01:02:04.024000",
+        "01:02:05.753000",
+        "You've suggested a theme."
+      ],
+      [
+        912,
+        "01:03:53.050000",
+        "01:03:57.049000",
+        "You've given me a theme, Sashenka!"
+      ]
+    ],
+    "regex": "\\b((?!\\bTheme:)Theme)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

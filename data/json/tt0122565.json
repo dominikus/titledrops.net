@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0122565",
+    "title": "The Counterfeit Coin",
+    "year": 1955,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 2005,
+    "occurrences": [
+      [
+        1,
+        "00:02:31.917000",
+        "00:02:34.118000",
+        "A counterfeit coin is never wasted."
+      ],
+      [
+        697,
+        "00:41:17.502000",
+        "00:41:21.280000",
+        "Night certainly is the right time to pass a counterfeit coin..."
+      ],
+      [
+        1010,
+        "00:57:56.114000",
+        "00:57:59.591000",
+        "a counterfeit coin is never wasted."
+      ]
+    ],
+    "regex": "\\b((?!\\bCounterfeit\\ Coin:)Counterfeit\\ Coin)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.6
+  }
+]

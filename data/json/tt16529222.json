@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt16529222",
+    "title": "Special Delivery",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1183,
+    "occurrences": [
+      [
+        25,
+        "00:02:41.441000",
+        "00:02:43.026000",
+        "Well, it's a 'special delivery'."
+      ],
+      [
+        52,
+        "00:04:15.032000",
+        "00:04:16.576000",
+        "Do a special delivery later."
+      ],
+      [
+        611,
+        "00:47:56.443000",
+        "00:47:58.196000",
+        "It's called special delivery."
+      ],
+      [
+        951,
+        "01:19:39.659000",
+        "01:19:42.536000",
+        "What special delivery takes so long?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpecial\\ Delivery:)Special\\ Delivery)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

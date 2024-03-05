@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4076980",
+    "title": "The Throwaways",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1371,
+    "occurrences": [
+      [
+        228,
+        "00:13:12.709000",
+        "00:13:15.836000",
+        "They're throwaways, they're finished, washed up."
+      ],
+      [
+        763,
+        "00:43:38.491000",
+        "00:43:39.284000",
+        "throwaways."
+      ]
+    ],
+    "regex": "\\b((?!\\bThrowaways:)Throwaways)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

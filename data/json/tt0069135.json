@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0069135",
+    "title": "The Punishment",
+    "year": 1973,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 315,
+    "occurrences": [
+      [
+        1,
+        "00:01:58.571000",
+        "00:02:02.396000",
+        "The Punishment"
+      ],
+      [
+        161,
+        "00:46:19.202000",
+        "00:46:24.220000",
+        "I am here for the Biblical Punishment"
+      ],
+      [
+        261,
+        "01:15:19.043000",
+        "01:15:21.220000",
+        "Britt's punishment is finished."
+      ],
+      [
+        313,
+        "01:25:59.297000",
+        "01:26:02.259000",
+        "The punishment... I really wanted it at first."
+      ]
+    ],
+    "regex": "\\b((?!\\bPunishment:)Punishment)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0872202",
+    "title": "Ghosts",
+    "year": 2006,
+    "genres": [
+      "Adventure",
+      "Crime",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 425,
+    "occurrences": [
+      [
+        1,
+        "00:01:04.209000",
+        "00:01:07.724000",
+        "Ghosts won't come out when it's like this."
+      ],
+      [
+        132,
+        "00:24:30.209000",
+        "00:24:34.760000",
+        "[t's all you need. Ghosts don't care."
+      ],
+      [
+        144,
+        "00:25:23.209000",
+        "00:25:26.440000",
+        "-The Ghosts take bribes? -Who doesn't?"
+      ],
+      [
+        244,
+        "00:51:35.648000",
+        "00:51:37.844000",
+        "Ghosts like to be bribed."
+      ],
+      [
+        389,
+        "01:18:09.048000",
+        "01:18:12.485000",
+        "The other area looks better but the Ghosts don't want us th'ere."
+      ],
+      [
+        405,
+        "01:24:23.969000",
+        "01:24:27.757000",
+        "Ghosts won't come out when it's like this."
+      ]
+    ],
+    "regex": "\\b((?!\\bGhosts:)Ghosts)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

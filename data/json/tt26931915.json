@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt26931915",
+    "title": "Wanda Sykes: I'm an Entertainer",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 912,
+    "occurrences": [
+      [
+        247,
+        "00:17:31.717000",
+        "00:17:33.010000",
+        "I'm an entertainer."
+      ],
+      [
+        434,
+        "00:30:50.932000",
+        "00:30:52.517000",
+        "\"'She looks like Wanda Sykes.'\""
+      ],
+      [
+        654,
+        "00:44:00.471000",
+        "00:44:02.973000",
+        "\"How about a hand job? I'm an entertainer!\""
+      ]
+    ],
+    "regex": "\\b((?!\\bWanda\\ Sykes:)Wanda\\ Sykes|(?!\\bI'm\\ an\\ Entertainer:)I'm\\ an\\ Entertainer)(?!\\:)(?!'t)\\b",
+    "runtime": 61,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

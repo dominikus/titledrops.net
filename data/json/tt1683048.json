@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1683048",
+    "title": "De Palma",
+    "year": 2015,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 2078,
+    "occurrences": [
+      [
+        269,
+        "00:13:18.400000",
+        "00:13:20.250000",
+        "I'm trying to call Brian De Palma, New York City."
+      ],
+      [
+        310,
+        "00:15:14.770000",
+        "00:15:17.230000",
+        "Here's Brian De Palma dealing with Orson Welles, you know,"
+      ],
+      [
+        705,
+        "00:35:58.430000",
+        "00:35:59.970000",
+        "A new film by Brian De Palma."
+      ]
+    ],
+    "regex": "\\b((?!\\bDe\\ Palma:)De\\ Palma)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

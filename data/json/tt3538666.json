@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3538666",
+    "title": "Blood Is Blood",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 566,
+    "occurrences": [
+      [
+        115,
+        "00:11:14.907000",
+        "00:11:17.108000",
+        "Right, blood is blood."
+      ],
+      [
+        468,
+        "01:02:13.262000",
+        "01:02:15.364000",
+        "And blood is blood right?"
+      ],
+      [
+        524,
+        "01:09:48.450000",
+        "01:09:50.352000",
+        "Blood is blood Crew."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlood\\ Is\\ Blood:)Blood\\ Is\\ Blood)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

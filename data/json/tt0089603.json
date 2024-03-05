@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt0089603",
+    "title": "Mishima: A Life in Four Chapters",
+    "year": 1985,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 945,
+    "occurrences": [
+      [
+        1,
+        "00:04:17.386000",
+        "00:04:20.848000",
+        "Good morning, Mr. Mishima. Would you like breakfast now?"
+      ],
+      [
+        185,
+        "00:27:24.507000",
+        "00:27:28.428000",
+        "I took the pen name Yukio Mishima."
+      ],
+      [
+        769,
+        "01:33:55.467000",
+        "01:33:57.386000",
+        "Ah, Mishima-sensei!"
+      ],
+      [
+        796,
+        "01:38:15.519000",
+        "01:38:18.063000",
+        "General, Mishima-sensei is here."
+      ],
+      [
+        854,
+        "01:44:02.574000",
+        "01:44:06.911000",
+        "Two: Commander Mishima will address the garrison."
+      ],
+      [
+        867,
+        "01:45:19.526000",
+        "01:45:22.487000",
+        "Two: Commander Mishima will address the garrison."
+      ],
+      [
+        938,
+        "01:53:41.152000",
+        "01:53:42.778000",
+        "Mishima-san, stop!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMishima:)Mishima|(?!\\bLife\\ in\\ Four\\ Chapters:)Life\\ in\\ Four\\ Chapters)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

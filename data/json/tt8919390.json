@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt8919390",
+    "title": "Rustum",
+    "year": 2019,
+    "genres": [
+      "Action"
+    ],
+    "count": 3,
+    "all_lines": 1376,
+    "occurrences": [
+      [
+        609,
+        "00:49:12.800000",
+        "00:49:16.110000",
+        "He is the \"Rustum\" of the police department!"
+      ],
+      [
+        634,
+        "00:53:43.030000",
+        "00:53:46.300000",
+        "He is known as a \"Rustum\" in the department."
+      ],
+      [
+        689,
+        "00:58:11.850000",
+        "00:58:15.730000",
+        "Abhishek or Rustum?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRustum:)Rustum)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [
+      "Abhishek Bhargav (Rustum)"
+    ],
+    "title_is_name": true,
+    "rating": 5
+  }
+]

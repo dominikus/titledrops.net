@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0088258",
+    "title": "This Is Spinal Tap",
+    "year": 1984,
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1176,
+    "occurrences": [
+      [
+        360,
+        "00:22:37.588000",
+        "00:22:39.788000",
+        "- This is Spinal Tap. - Welcome to Memphis."
+      ],
+      [
+        936,
+        "01:01:40.868000",
+        "01:01:45.068000",
+        "- You are Spinal Tarp? - I'm Jeanine and this is Spinal Tap."
+      ]
+    ],
+    "regex": "\\b((?!\\bThis\\ Is\\ Spinal\\ Tap:)This\\ Is\\ Spinal\\ Tap)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

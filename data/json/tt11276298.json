@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt11276298",
+    "title": "The Hidden Life of Trees",
+    "year": 2020,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 905,
+    "occurrences": [
+      [
+        37,
+        "00:03:44.300000",
+        "00:03:46.940000",
+        "That was \"The Hidden Life of Trees\"."
+      ],
+      [
+        902,
+        "01:32:12.500000",
+        "01:32:15.620000",
+        "I knew as much about the hidden life of trees"
+      ]
+    ],
+    "regex": "\\b((?!\\bHidden\\ Life\\ of\\ Trees:)Hidden\\ Life\\ of\\ Trees)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

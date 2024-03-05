@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt18560250",
+    "title": "The Warrant: Breaker's Law",
+    "year": 2023,
+    "genres": [
+      "Thriller",
+      "Western"
+    ],
+    "count": 5,
+    "all_lines": 1282,
+    "occurrences": [
+      [
+        113,
+        "00:09:54.428000",
+        "00:09:56.997000",
+        "He put out a warrant for Henry Bronson."
+      ],
+      [
+        210,
+        "00:14:52.694000",
+        "00:14:54.796000",
+        "We delivered the warrant."
+      ],
+      [
+        546,
+        "00:35:20.955000",
+        "00:35:22.189000",
+        "Serving a warrant."
+      ],
+      [
+        603,
+        "00:37:59.479000",
+        "00:38:00.982000",
+        "So the warrant that I served"
+      ],
+      [
+        885,
+        "00:53:36.416000",
+        "00:53:38.452000",
+        "He had a warrant for my arrest."
+      ]
+    ],
+    "regex": "\\b((?!\\bWarrant:)Warrant|(?!\\bBreaker's\\ Law:)Breaker's\\ Law)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

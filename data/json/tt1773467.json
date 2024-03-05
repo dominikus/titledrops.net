@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1773467",
+    "title": "House of Purgatory",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 950,
+    "occurrences": [
+      [
+        343,
+        "00:17:56.810000",
+        "00:17:59.280000",
+        "- House of Purgatory. -  I told you."
+      ],
+      [
+        462,
+        "00:26:04.700000",
+        "00:26:08.700000",
+        "- Well, that will happen in the House of Purgatory,"
+      ]
+    ],
+    "regex": "\\b((?!\\bHouse\\ of\\ Purgatory:)House\\ of\\ Purgatory)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

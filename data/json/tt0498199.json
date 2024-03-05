@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0498199",
+    "title": "Just Love Me",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 813,
+    "occurrences": [
+      [
+        27,
+        "00:02:20.832000",
+        "00:02:26.548000",
+        "Just Love Me"
+      ],
+      [
+        101,
+        "00:10:42.336000",
+        "00:10:45.980000",
+        "Nothing, just love me."
+      ],
+      [
+        672,
+        "01:13:36.859000",
+        "01:13:39.641000",
+        "-Then what? -Just love me"
+      ],
+      [
+        802,
+        "01:33:28.218000",
+        "01:33:32.975000",
+        "Nothing, just love me"
+      ]
+    ],
+    "regex": "\\b((?!\\bJust\\ Love\\ Me:)Just\\ Love\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

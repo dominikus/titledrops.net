@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt10006006",
+    "title": "A Christmas Prince: The Royal Baby",
+    "year": 2019,
+    "genres": [
+      "Family",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1732,
+    "occurrences": [
+      [
+        199,
+        "00:09:21.102000",
+        "00:09:24.438000",
+        "to the preparations for the birth of the royal baby."
+      ],
+      [
+        369,
+        "00:18:33.320000",
+        "00:18:36.406000",
+        "the most spectacular royal baby shower of all time."
+      ],
+      [
+        866,
+        "00:41:36.035000",
+        "00:41:40.289000",
+        "Hm. An invitation to attend Queen Amber's royal baby shower."
+      ],
+      [
+        1609,
+        "01:15:05.834000",
+        "01:15:08.128000",
+        "The royal baby is ready to make its entrance."
+      ]
+    ],
+    "regex": "\\b((?!\\bChristmas\\ Prince:)Christmas\\ Prince|(?!\\bRoyal\\ Baby:)Royal\\ Baby)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

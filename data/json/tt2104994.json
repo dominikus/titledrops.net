@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2104994",
+    "title": "Steve Jobs: The Lost Interview",
+    "year": 2012,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1295,
+    "occurrences": [
+      [
+        3,
+        "00:00:14.074000",
+        "00:00:16.285000",
+        "I interviewed Steve Jobs."
+      ],
+      [
+        21,
+        "00:00:58.201000",
+        "00:01:00.913000",
+        "There are very few TV interviews with Steve Jobs,"
+      ],
+      [
+        76,
+        "00:03:35.442000",
+        "00:03:37.319000",
+        "and I said, \"Hi. My name's Steve Jobs."
+      ]
+    ],
+    "regex": "\\b((?!\\bSteve\\ Jobs:)Steve\\ Jobs|(?!\\bLost\\ Interview:)Lost\\ Interview)(?!\\:)(?!'t)\\b",
+    "runtime": 70,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

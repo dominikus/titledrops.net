@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt5811182",
+    "title": "The Arbitration",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 1354,
+    "occurrences": [
+      [
+        36,
+        "00:04:17.548000",
+        "00:04:19.760000",
+        "This arbitration shall be conducted"
+      ],
+      [
+        37,
+        "00:04:20.135000",
+        "00:04:24.473000",
+        "in accordance with the Arbitration and Conciliation Act 2004."
+      ],
+      [
+        44,
+        "00:04:45.452000",
+        "00:04:46.745000",
+        "must come to arbitration."
+      ],
+      [
+        51,
+        "00:05:09.893000",
+        "00:05:12.896000",
+        "It is clear that the arbitration panel is the right place for this case."
+      ],
+      [
+        56,
+        "00:05:32.958000",
+        "00:05:35.961000",
+        "She, therefore, cannot be covered under the arbitration clause"
+      ],
+      [
+        83,
+        "00:07:19.814000",
+        "00:07:26.488000",
+        "Well, the purpose of this arbitration is to determine whether Ms. Olujobi"
+      ],
+      [
+        1297,
+        "01:31:57.137000",
+        "01:32:00.682000",
+        "Well, this concludes my arbitration."
+      ]
+    ],
+    "regex": "\\b((?!\\bArbitration:)Arbitration)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

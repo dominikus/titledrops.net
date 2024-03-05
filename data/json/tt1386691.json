@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1386691",
+    "title": "Shimmer Lake",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1170,
+    "occurrences": [
+      [
+        47,
+        "00:05:23.323000",
+        "00:05:28.578000",
+        "Okay, Shimmer Lake? I'll wait for you. Okay."
+      ],
+      [
+        1070,
+        "01:13:21.439000",
+        "01:13:24.400000",
+        "and I'm gonna bury you in a hole out by Shimmer Lake."
+      ]
+    ],
+    "regex": "\\b((?!\\bShimmer\\ Lake:)Shimmer\\ Lake)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

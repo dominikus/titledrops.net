@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1592139",
+    "title": "Meat",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 302,
+    "occurrences": [
+      [
+        36,
+        "00:11:51.400000",
+        "00:11:54.200000",
+        "One finch, is a slavink. (Dutch meat dish)"
+      ],
+      [
+        37,
+        "00:11:54.700000",
+        "00:11:58.300000",
+        "Two finches, make a 'blind finch'. (Dutch/Belgian meat dish)"
+      ],
+      [
+        191,
+        "00:53:12.600000",
+        "00:53:15.300000",
+        "We all want a piece of meat at dinner, or not?"
+      ],
+      [
+        220,
+        "00:55:34.300000",
+        "00:55:38",
+        "and those sharp little teeth embed themselves in the meat."
+      ]
+    ],
+    "regex": "\\b((?!\\bMeat:)Meat)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

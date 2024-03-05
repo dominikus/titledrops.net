@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0338325",
+    "title": "Paparazzi",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1038,
+    "occurrences": [
+      [
+        395,
+        "00:26:44.642000",
+        "00:26:47.425000",
+        "Look, I tracked down those paparazzi guys you told me about."
+      ],
+      [
+        415,
+        "00:27:59.450000",
+        "00:28:01.987000",
+        "Bo, taking these paparazzi to court"
+      ],
+      [
+        700,
+        "00:50:58.028000",
+        "00:51:00.429000",
+        "I've now got two dead paparazzi"
+      ]
+    ],
+    "regex": "\\b((?!\\bPaparazzi:)Paparazzi)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

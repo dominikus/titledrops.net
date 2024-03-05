@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt2200908",
+    "title": "Rat Fever",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 736,
+    "occurrences": [
+      [
+        18,
+        "00:05:19.545000",
+        "00:05:26.280000",
+        "The Newspaper\"Rat Fever\" keeps on serving as a vehicle"
+      ],
+      [
+        91,
+        "00:13:17.089000",
+        "00:13:23.358000",
+        "Hello, hello! People of Asylum Street! Get the \"Rat Fever\"!"
+      ],
+      [
+        569,
+        "01:19:53.398000",
+        "01:19:57.494000",
+        "Today, the Newspaper Rat Fever is going there,"
+      ],
+      [
+        596,
+        "01:22:34.425000",
+        "01:22:42.855000",
+        "The Newspaper Rat Fever is promoting today the cry of the destined!"
+      ]
+    ],
+    "regex": "\\b((?!\\bRat\\ Fever:)Rat\\ Fever)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

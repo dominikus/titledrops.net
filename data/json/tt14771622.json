@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt14771622",
+    "title": "A Cowgirl's Song",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 6,
+    "all_lines": 1557,
+    "occurrences": [
+      [
+        386,
+        "00:21:22.792000",
+        "00:21:26.762000",
+        "and I will be singing an original song called \"A Cowgirl's Song\"."
+      ],
+      [
+        603,
+        "00:34:14.496000",
+        "00:34:17.532000",
+        "I'm Hailey Mays and this is \"A Cowgirl's Song\"."
+      ],
+      [
+        620,
+        "00:35:39.949000",
+        "00:35:43.085000",
+        "It's a cowgirl's song We sing tonight"
+      ],
+      [
+        630,
+        "00:36:19.021000",
+        "00:36:22.124000",
+        "It's a cowgirl's song We sing tonight"
+      ],
+      [
+        1493,
+        "01:28:27.917000",
+        "01:28:31.287000",
+        "\"Chickasha's own,\" Hailey Mays singing Cowgirl's Song."
+      ],
+      [
+        1494,
+        "01:28:31.320000",
+        "01:28:33.889000",
+        "It's a cowgirl's song We sing tonight"
+      ]
+    ],
+    "regex": "\\b((?!\\bCowgirl's\\ Song:)Cowgirl's\\ Song)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

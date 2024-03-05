@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0094274",
+    "title": "The Visitants",
+    "year": 1986,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1257,
+    "occurrences": [
+      [
+        1070,
+        "01:14:00.816000",
+        "01:14:02.234000",
+        "- We are Visitants."
+      ],
+      [
+        1071,
+        "01:14:05.154000",
+        "01:14:07.531000",
+        "- I don't think I've ever met Visitants before."
+      ]
+    ],
+    "regex": "\\b((?!\\bVisitants:)Visitants)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

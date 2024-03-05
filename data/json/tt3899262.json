@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3899262",
+    "title": "Cyborg X",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 874,
+    "occurrences": [
+      [
+        145,
+        "00:13:53.664000",
+        "00:13:56.868000",
+        "a Cyborg pursuing a male and female target."
+      ],
+      [
+        146,
+        "00:13:56.902000",
+        "00:13:59.471000",
+        "The Cyborg killed the female on the spot, but kept the male alive."
+      ]
+    ],
+    "regex": "\\b((?!\\bCyborg:)Cyborg)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

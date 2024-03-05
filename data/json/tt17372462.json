@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt17372462",
+    "title": "The Aviary",
+    "year": 2022,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1248,
+    "occurrences": [
+      [
+        9,
+        "00:01:54.106000",
+        "00:01:59.678000",
+        "Well... The Aviary's right here."
+      ],
+      [
+        75,
+        "00:06:15",
+        "00:06:19.238000",
+        "but The Aviary's filled with trust fund babies just like you, okay?"
+      ],
+      [
+        109,
+        "00:08:31.804000",
+        "00:08:34.406000",
+        "something was changing at The Aviary."
+      ],
+      [
+        1237,
+        "01:33:21.960000",
+        "01:33:25.464000",
+        "Which is why I couldn't be more excited to be opening The Aviary,"
+      ],
+      [
+        1244,
+        "01:33:36.910000",
+        "01:33:38.510000",
+        "Here at The Aviary,"
+      ]
+    ],
+    "regex": "\\b((?!\\bAviary:)Aviary)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

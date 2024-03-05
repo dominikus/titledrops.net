@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt12851130",
+    "title": "The Knocking",
+    "year": 2022,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 499,
+    "occurrences": [
+      [
+        7,
+        "00:03:52.870000",
+        "00:03:56.244000",
+        "DOOR KNOCKING"
+      ],
+      [
+        494,
+        "01:21:04.654000",
+        "01:21:10.680000",
+        "KNOCKING"
+      ]
+    ],
+    "regex": "\\b((?!\\bKnocking:)Knocking)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

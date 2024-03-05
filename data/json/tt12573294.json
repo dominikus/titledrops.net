@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt12573294",
+    "title": "Love",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1071,
+    "occurrences": [
+      [
+        55,
+        "00:16:30.833000",
+        "00:16:34.500000",
+        "For us, the most important thing is the happiness of people we love, right?"
+      ],
+      [
+        319,
+        "00:33:15",
+        "00:33:16.583000",
+        "I still love her very much."
+      ],
+      [
+        674,
+        "00:58:54.417000",
+        "00:58:56.417000",
+        "but deep inside, I love her sincerely."
+      ],
+      [
+        943,
+        "01:15:23.708000",
+        "01:15:25.125000",
+        "Are you in love with her?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLove:)Love)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

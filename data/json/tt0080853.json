@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0080853",
+    "title": "The Hearse",
+    "year": 1980,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1037,
+    "occurrences": [
+      [
+        660,
+        "00:59:27.565000",
+        "00:59:31.527000",
+        "- Then you know about the hearse."
+      ],
+      [
+        663,
+        "00:59:38.033000",
+        "00:59:39.952000",
+        "I'm talking about the hearse"
+      ],
+      [
+        679,
+        "01:00:34.882000",
+        "01:00:36.634000",
+        "and grabbed that hearse"
+      ],
+      [
+        687,
+        "01:01:00.157000",
+        "01:01:01.158000",
+        "that hearse."
+      ],
+      [
+        947,
+        "01:21:00.481000",
+        "01:21:04.360000",
+        "of that silly old hearse of yours and drop dead."
+      ]
+    ],
+    "regex": "\\b((?!\\bHearse:)Hearse)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

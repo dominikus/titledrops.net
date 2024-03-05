@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt10509906",
+    "title": "The Long Night",
+    "year": 2022,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 748,
+    "occurrences": [
+      [
+        589,
+        "00:57:37.825000",
+        "00:57:39.259000",
+        "The Long Night."
+      ],
+      [
+        722,
+        "01:19:32.272000",
+        "01:19:34.341000",
+        "The Long Night begins."
+      ],
+      [
+        724,
+        "01:19:48.855000",
+        "01:19:51.159000",
+        "We, the guardians of The Long Night,"
+      ]
+    ],
+    "regex": "\\b((?!\\bLong\\ Night:)Long\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

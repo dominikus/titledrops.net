@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0262107",
+    "title": "Strike the Whore",
+    "year": 1949,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 5,
+    "all_lines": 832,
+    "occurrences": [
+      [
+        0,
+        "00:00:01.551000",
+        "00:00:05.253000",
+        "Strike The Whore"
+      ],
+      [
+        772,
+        "01:36:34.496000",
+        "01:36:39.275000",
+        "Strike! Strike! Strike the whore!"
+      ],
+      [
+        776,
+        "01:36:59.191000",
+        "01:37:01.567000",
+        "Strike the whore! Strike!"
+      ],
+      [
+        807,
+        "01:42:31.400000",
+        "01:42:33.489000",
+        "Strike the whore! Strike the whore!"
+      ]
+    ],
+    "regex": "\\b((?!\\bStrike\\ the\\ Whore:)Strike\\ the\\ Whore)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

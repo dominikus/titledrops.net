@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt3077214",
+    "title": "Suffragette",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 7,
+    "all_lines": 1197,
+    "occurrences": [
+      [
+        12,
+        "00:02:16.789000",
+        "00:02:20.004000",
+        "In response, Emmeline Pankhurst, leader of the Suffragette movent,"
+      ],
+      [
+        146,
+        "00:11:54.597000",
+        "00:11:56.028000",
+        "You a suffragette, Mrs Ellyn?"
+      ],
+      [
+        335,
+        "00:24:21.059000",
+        "00:24:22.660000",
+        "You a suffragette now,"
+      ],
+      [
+        432,
+        "00:32:14.230000",
+        "00:32:17.830000",
+        "- I picked up a suffragette last week- - Im not a suffragette."
+      ],
+      [
+        440,
+        "00:32:42.201000",
+        "00:32:43.801000",
+        "Im not a suffragette."
+      ],
+      [
+        789,
+        "01:01:53.728000",
+        "01:01:56.429000",
+        "You see I find I am a suffragette after all."
+      ]
+    ],
+    "regex": "\\b((?!\\bSuffragette:)Suffragette)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

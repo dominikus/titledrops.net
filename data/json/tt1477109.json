@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1477109",
+    "title": "Space Battleship Yamato",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1356,
+    "occurrences": [
+      [
+        37,
+        "00:04:12.300000",
+        "00:04:18.900000",
+        "Space Battleship Yamato"
+      ],
+      [
+        636,
+        "00:55:47.900000",
+        "00:55:53.500000",
+        "The space battleship Yamato heads for the large magellanic cloud..."
+      ],
+      [
+        1198,
+        "01:53:21.900000",
+        "01:53:27.300000",
+        "This is space battleship Yamato. Acting Captain Kodai and 36 crew."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpace\\ Battleship\\ Yamato:)Space\\ Battleship\\ Yamato)(?!\\:)(?!'t)\\b",
+    "runtime": 138,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

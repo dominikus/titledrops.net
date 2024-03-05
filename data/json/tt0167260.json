@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0167260",
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1887,
+    "occurrences": [
+      [
+        480,
+        "00:47:31.099000",
+        "00:47:36.938000",
+        "Authority is not given to you to deny the return of the king, steward."
+      ],
+      [
+        1786,
+        "03:51:57.993000",
+        "03:52:01.830000",
+        "And The Lord of the Rings by Frodo Baggins.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bLord\\ of\\ the\\ Rings:)Lord\\ of\\ the\\ Rings|(?!\\bReturn\\ of\\ the\\ King:)Return\\ of\\ the\\ King)(?!\\:)(?!'t)\\b",
+    "runtime": 263,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 9
+  }
+]

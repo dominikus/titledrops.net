@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0489270",
+    "title": "Saw III",
+    "year": 2006,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 747,
+    "occurrences": [
+      [
+        33,
+        "00:09:15.072000",
+        "00:09:19.003000",
+        "...the last time that we saw him/it he/she was to the edge of the death."
+      ],
+      [
+        125,
+        "00:22:08.730000",
+        "00:22:11.828000",
+        "I saw you in television."
+      ],
+      [
+        222,
+        "00:31:00.281000",
+        "00:31:04.717000",
+        "The one that you think the would mom say if she saw us like this?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSaw:)Saw)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

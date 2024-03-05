@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5617916",
+    "title": "Airplane Mode",
+    "year": 2019,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1576,
+    "occurrences": [
+      [
+        32,
+        "00:01:25.809000",
+        "00:01:28.398000",
+        "must be set to airplane mode."
+      ],
+      [
+        480,
+        "00:22:46.675000",
+        "00:22:50.265000",
+        "Everyone knows that you put your phone in Airplane Mode."
+      ]
+    ],
+    "regex": "\\b((?!\\bAirplane\\ Mode:)Airplane\\ Mode)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 1.9
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0060934",
+    "title": "The Sand Pebbles",
+    "year": 1966,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 832,
+    "occurrences": [
+      [
+        123,
+        "00:16:15.533000",
+        "00:16:20.288000",
+        "Welcome aboard the Sand Pebble. That's what we call her. We're Sand Pebbles."
+      ],
+      [
+        358,
+        "00:42:37.133000",
+        "00:42:41.251000",
+        "Collins says that us Sand Pebbles is like machinery, only different."
+      ]
+    ],
+    "regex": "\\b((?!\\bSand\\ Pebbles:)Sand\\ Pebbles)(?!\\:)(?!'t)\\b",
+    "runtime": 182,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

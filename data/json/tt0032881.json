@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0032881",
+    "title": "Our Town",
+    "year": 1940,
+    "genres": [
+      "Drama",
+      "Family",
+      "Romance"
+    ],
+    "count": 7,
+    "all_lines": 1380,
+    "occurrences": [
+      [
+        0,
+        "00:01:51.300000",
+        "00:01:54.200000",
+        "The name of our town is Grover's Corners, New Hampshire."
+      ],
+      [
+        23,
+        "00:03:01.452000",
+        "00:03:04.252000",
+        "First, we'll show you a day in our town."
+      ],
+      [
+        27,
+        "00:03:14.348000",
+        "00:03:18.248000",
+        "Yes, sir, that's the way our town looked back in the year 1901."
+      ],
+      [
+        54,
+        "00:04:49.573000",
+        "00:04:51.295000",
+        "in the cemetery right here in our town..."
+      ],
+      [
+        56,
+        "00:04:55.320000",
+        "00:04:58.220000",
+        "In our town, we like to know the facts about everybody."
+      ],
+      [
+        300,
+        "00:16:27.252000",
+        "00:16:29.752000",
+        "Editor Webb any questions about our town?"
+      ],
+      [
+        932,
+        "00:56:54.372000",
+        "00:56:59.372000",
+        "The day wouldn't come when I wouldn't want to know everything about our town."
+      ]
+    ],
+    "regex": "\\b((?!\\bOur\\ Town:)Our\\ Town)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

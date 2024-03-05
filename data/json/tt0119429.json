@@ -1,0 +1,40 @@
+[
+  {
+    "imdb": "tt0119429",
+    "title": "Julian Po",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1011,
+    "occurrences": [
+      [
+        0,
+        "00:01:01.040000",
+        "00:01:03.200000",
+        "My name is Julian Po."
+      ],
+      [
+        14,
+        "00:01:49",
+        "00:01:50.400000",
+        "I'm Julian Po."
+      ],
+      [
+        999,
+        "01:13:38.920000",
+        "01:13:41.680000",
+        "My name is Julian Po."
+      ]
+    ],
+    "regex": "\\b((?!\\bJulian\\ Po:)Julian\\ Po)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [
+      "Julian Po"
+    ],
+    "title_is_name": true,
+    "rating": 6
+  }
+]

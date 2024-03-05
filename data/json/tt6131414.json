@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6131414",
+    "title": "Spider",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1101,
+    "occurrences": [
+      [
+        184,
+        "00:16:07.667000",
+        "00:16:11.250000",
+        "And these are the spider's legs."
+      ],
+      [
+        343,
+        "00:29:16.083000",
+        "00:29:20.042000",
+        "These are the links of a chain that make the shape of a spider,"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpider:)Spider)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5341056",
+    "title": "The Devil's Scarab",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 925,
+    "occurrences": [
+      [
+        0,
+        "00:02:01.700000",
+        "00:02:12.173000",
+        "- O Escaravelho do Diabo - The Devil's Scarab"
+      ],
+      [
+        481,
+        "00:46:56.026000",
+        "00:47:00.622000",
+        "High alert, Almeida, the devil's scarab..."
+      ]
+    ],
+    "regex": "\\b((?!\\bDevil's\\ Scarab:)Devil's\\ Scarab)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

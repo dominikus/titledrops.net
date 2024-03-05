@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0447907",
+    "title": "The Contestant",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1064,
+    "occurrences": [
+      [
+        272,
+        "00:17:18.467000",
+        "00:17:22.619000",
+        "that will take our lucky contestant's breath away!"
+      ],
+      [
+        921,
+        "01:02:14.347000",
+        "01:02:17.305000",
+        "Your contest has begun: Be a worthy contestant."
+      ]
+    ],
+    "regex": "\\b((?!\\bContestant:)Contestant)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

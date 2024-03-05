@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1869309",
+    "title": "Black Pond",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1411,
+    "occurrences": [
+      [
+        251,
+        "00:12:59.801000",
+        "00:13:01.495000",
+        "Black Pond, it's called. Oh yes ?"
+      ],
+      [
+        348,
+        "00:17:43.385000",
+        "00:17:47.927000",
+        "the police started digging up the land around Black Pond"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Pond:)Black\\ Pond)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

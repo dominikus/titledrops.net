@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt12017738",
+    "title": "Three Minutes: A Lengthening",
+    "year": 2021,
+    "genres": [
+      "Documentary",
+      "History",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 695,
+    "occurrences": [
+      [
+        0,
+        "00:04:39.960000",
+        "00:04:46.720000",
+        "These three minutes of life were taken out of the flow of time by David Kurtz in 1938."
+      ],
+      [
+        623,
+        "01:00:36.680000",
+        "01:00:41.880000",
+        "In one frame of my grandfather's film, at three minutes, 33 seconds,"
+      ],
+      [
+        625,
+        "01:00:50.054000",
+        "01:00:55.400000",
+        "In one frame of my grandfather's film, at three minutes, 33 seconds,"
+      ]
+    ],
+    "regex": "\\b((?!\\bThree\\ Minutes:)Three\\ Minutes|(?!\\bLengthening:)Lengthening)(?!\\:)(?!'t)\\b",
+    "runtime": 69,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

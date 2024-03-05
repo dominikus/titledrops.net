@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2302755",
+    "title": "Olympus Has Fallen",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1242,
+    "occurrences": [
+      [
+        398,
+        "00:36:55.720000",
+        "00:36:58.599000",
+        "Olympus has fallen. Olympus has fallen."
+      ],
+      [
+        399,
+        "00:36:58.600000",
+        "00:37:00.125000",
+        "Olympus has fallen."
+      ]
+    ],
+    "regex": "\\b((?!\\bOlympus\\ Has\\ Fallen:)Olympus\\ Has\\ Fallen)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1524131",
+    "title": "Knucklehead",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Sport"
+    ],
+    "count": 3,
+    "all_lines": 1429,
+    "occurrences": [
+      [
+        191,
+        "00:14:12.718000",
+        "00:14:13.912000",
+        "I'm a knucklehead."
+      ],
+      [
+        821,
+        "00:52:31.515000",
+        "00:52:36.418000",
+        "This knucklehead just choked out a 1600-pound bear."
+      ],
+      [
+        1360,
+        "01:29:43.277000",
+        "01:29:45.268000",
+        "I'm just a knucklehead!"
+      ]
+    ],
+    "regex": "\\b((?!\\bKnucklehead:)Knucklehead)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

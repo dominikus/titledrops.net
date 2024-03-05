@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0045679",
+    "title": "The Desert Rats",
+    "year": 1953,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1099,
+    "occurrences": [
+      [
+        1079,
+        "01:25:58.887000",
+        "01:26:01.185000",
+        "Come out of your holes, you desert rats!"
+      ],
+      [
+        1083,
+        "01:26:11.232000",
+        "01:26:13.723000",
+        "Get out of your holes, you desert rats! Let's go!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDesert\\ Rats:)Desert\\ Rats)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

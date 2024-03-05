@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2132285",
+    "title": "The Bling Ring",
+    "year": 2013,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1185,
+    "occurrences": [
+      [
+        934,
+        "01:09:07.153000",
+        "01:09:10.472000",
+        "Stay tuned for the latest on the Bling Ring."
+      ],
+      [
+        1074,
+        "01:18:47.812000",
+        "01:18:49.938000",
+        "Members of the Bling Ring were sentenced today..."
+      ],
+      [
+        1077,
+        "01:20:29.151000",
+        "01:20:33.868000",
+        "We're here with Nicki Moore, who just served 30 days for her involvement in the Bling Ring..."
+      ]
+    ],
+    "regex": "\\b((?!\\bBling\\ Ring:)Bling\\ Ring)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

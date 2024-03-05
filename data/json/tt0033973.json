@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0033973",
+    "title": "Uncle Kruger",
+    "year": 1941,
+    "genres": [
+      "Biography",
+      "War"
+    ],
+    "count": 6,
+    "all_lines": 1845,
+    "occurrences": [
+      [
+        16,
+        "00:02:28.361000",
+        "00:02:30.727000",
+        "I need a report about how Uncle Kruger is living in exile"
+      ],
+      [
+        281,
+        "00:20:32.344000",
+        "00:20:34.505000",
+        "Hello, Uncle Kruger."
+      ],
+      [
+        610,
+        "00:39:03.655000",
+        "00:39:08.649000",
+        "Uncle Kruger must say that Lobenguela is lying."
+      ],
+      [
+        934,
+        "01:00:43.820000",
+        "01:00:46.345000",
+        "L\"ll fight Uncle Kruger to the finish, that old crook."
+      ],
+      [
+        958,
+        "01:01:53.823000",
+        "01:01:56.553000",
+        "No! Let Uncle Kruger speak!"
+      ],
+      [
+        979,
+        "01:03:07.931000",
+        "01:03:09.865000",
+        "Why is Uncle Kruger not talking?"
+      ]
+    ],
+    "regex": "\\b((?!\\bUncle\\ Kruger:)Uncle\\ Kruger)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

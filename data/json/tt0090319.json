@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0090319",
+    "title": "White Nights",
+    "year": 1985,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 1099,
+    "occurrences": [
+      [
+        15,
+        "00:10:03.723000",
+        "00:10:07.227000",
+        "We're experiencing the Soviet white nights."
+      ],
+      [
+        130,
+        "00:21:51.758000",
+        "00:21:55.595000",
+        "These white nights would drive me crazy."
+      ],
+      [
+        1062,
+        "02:08:43.867000",
+        "02:08:46.027000",
+        "I'm always relieved when the white nights are over."
+      ]
+    ],
+    "regex": "\\b((?!\\bWhite\\ Nights:)White\\ Nights)(?!\\:)(?!'t)\\b",
+    "runtime": 136,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

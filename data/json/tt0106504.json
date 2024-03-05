@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0106504",
+    "title": "Calendar",
+    "year": 1993,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 653,
+    "occurrences": [
+      [
+        45,
+        "00:09:00.191000",
+        "00:09:02.557000",
+        "Well, I finally received the calendar."
+      ],
+      [
+        333,
+        "00:36:07.383000",
+        "00:36:09.943000",
+        "He says if you didn't have the calendar project"
+      ],
+      [
+        359,
+        "00:38:08.838000",
+        "00:38:12.797000",
+        "He says, probably the calendar project was just a-"
+      ],
+      [
+        639,
+        "01:08:25.719000",
+        "01:08:28.517000",
+        "I'm about to take our calendar off the wall."
+      ]
+    ],
+    "regex": "\\b((?!\\bCalendar:)Calendar)(?!\\:)(?!'t)\\b",
+    "runtime": 74,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

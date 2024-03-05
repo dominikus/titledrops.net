@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1730705",
+    "title": "The Mirror Boy",
+    "year": 2011,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 902,
+    "occurrences": [
+      [
+        569,
+        "00:55:06.750000",
+        "00:55:08.583000",
+        "Please, Mirror Boy!"
+      ],
+      [
+        571,
+        "00:55:16.208000",
+        "00:55:17.458000",
+        "Please, Mirror Boy!"
+      ],
+      [
+        769,
+        "01:10:27.041000",
+        "01:10:30.375000",
+        "A dog can't run faster than its tail, as the Mirror Boy would say."
+      ],
+      [
+        770,
+        "01:10:31.875000",
+        "01:10:33.291000",
+        "Who is the Mirror Boy?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMirror\\ Boy:)Mirror\\ Boy)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

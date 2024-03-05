@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0087616",
+    "title": "Monster Dog",
+    "year": 1984,
+    "genres": [
+      "Horror",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 920,
+    "occurrences": [
+      [
+        795,
+        "01:05:40.680000",
+        "01:05:44.080000",
+        "Where was he when that monster dog"
+      ],
+      [
+        801,
+        "01:05:58.900000",
+        "01:06:01",
+        "You are the monster dog."
+      ]
+    ],
+    "regex": "\\b((?!\\bMonster\\ Dog:)Monster\\ Dog)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

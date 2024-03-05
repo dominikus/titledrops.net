@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0105654",
+    "title": "The Tune",
+    "year": 1992,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 378,
+    "occurrences": [
+      [
+        25,
+        "00:02:21.489000",
+        "00:02:24.056000",
+        "I'm working on a real hot tune now."
+      ],
+      [
+        87,
+        "00:10:19.314000",
+        "00:10:20.968000",
+        "What a great tune."
+      ],
+      [
+        138,
+        "00:13:11.747000",
+        "00:13:14.750000",
+        "How else am I going to write that perfect tune?"
+      ],
+      [
+        211,
+        "00:29:24.327000",
+        "00:29:28.070000",
+        "- If I don't get that hit tune, you're fired."
+      ]
+    ],
+    "regex": "\\b((?!\\bTune:)Tune)(?!\\:)(?!'t)\\b",
+    "runtime": 69,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3711622",
+    "title": "Ghosthunters: On Icy Trails",
+    "year": 2015,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1226,
+    "occurrences": [
+      [
+        200,
+        "00:16:49.885000",
+        "00:16:55.766000",
+        "- - This collection of encounter ghostly apparation is intended to serve all Ghosthunters.."
+      ],
+      [
+        569,
+        "00:42:04.316000",
+        "00:42:06.276000",
+        "Ssh! We're in Ghosthunters headquarters."
+      ]
+    ],
+    "regex": "\\b((?!\\bGhosthunters:)Ghosthunters|(?!\\bOn\\ Icy\\ Trails:)On\\ Icy\\ Trails)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

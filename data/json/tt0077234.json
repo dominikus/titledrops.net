@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0077234",
+    "title": "The Big Sleep",
+    "year": 1978,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1096,
+    "occurrences": [
+      [
+        1085,
+        "01:32:17.280000",
+        "01:32:21.200000",
+        "... you were sleeping the big sleep, you were not bothered by things like that."
+      ],
+      [
+        1087,
+        "01:32:22.800000",
+        "01:32:26.400000",
+        "... were the same as wind and air to you. You just slept the big sleep..."
+      ],
+      [
+        1096,
+        "01:32:55.600000",
+        "01:32:59.560000",
+        "... would be sleeping the big sleep."
+      ]
+    ],
+    "regex": "\\b((?!\\bBig\\ Sleep:)Big\\ Sleep)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

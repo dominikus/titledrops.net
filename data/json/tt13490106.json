@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt13490106",
+    "title": "The Meaning of Hitler",
+    "year": 2020,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 6,
+    "all_lines": 1301,
+    "occurrences": [
+      [
+        8,
+        "00:01:05.858000",
+        "00:01:10.415000",
+        "The Meaning Of Hitler by Sebastian Haffner."
+      ],
+      [
+        96,
+        "00:05:54.906000",
+        "00:05:59.151000",
+        "of making a film called The Meaning of Hitler,"
+      ],
+      [
+        97,
+        "00:05:59.186000",
+        "00:06:01.878000",
+        "because you can't begin to understand the meaning of Hitler"
+      ],
+      [
+        187,
+        "00:12:02.376000",
+        "00:12:03.377000",
+        "the meaning of Hitler"
+      ],
+      [
+        250,
+        "00:15:28.306000",
+        "00:15:31.033000",
+        "that people lost the meaning of Hitler"
+      ],
+      [
+        1282,
+        "01:28:37.622000",
+        "01:28:39.452000",
+        "on the meaning of Hitler."
+      ]
+    ],
+    "regex": "\\b((?!\\bMeaning\\ of\\ Hitler:)Meaning\\ of\\ Hitler)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

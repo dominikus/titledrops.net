@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt0184276",
+    "title": "Billy Frankenstein",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 1220,
+    "occurrences": [
+      [
+        210,
+        "00:14:00.460000",
+        "00:14:03.497000",
+        "- Right behind you, Billy, Billy Frankenstein!"
+      ],
+      [
+        397,
+        "00:33:54.170000",
+        "00:33:56.413000",
+        "You don't scare me, Billy Frankenstein."
+      ],
+      [
+        446,
+        "00:39:09.243000",
+        "00:39:12.384000",
+        "- Billy. Billy Frankenstein, you come here"
+      ]
+    ],
+    "regex": "\\b((?!\\bBilly\\ Frankenstein:)Billy\\ Frankenstein)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [
+      "Billy Frankenstein"
+    ],
+    "title_is_name": true,
+    "rating": 4.1
+  }
+]

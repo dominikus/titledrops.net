@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0044098",
+    "title": "The Sinner",
+    "year": 1951,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 987,
+    "occurrences": [
+      [
+        0,
+        "00:00:11.662000",
+        "00:00:14.357000",
+        "The Sinner"
+      ],
+      [
+        857,
+        "01:09:38.850000",
+        "01:09:41.232000",
+        "This painting was titled \" The Sinner\""
+      ],
+      [
+        914,
+        "01:14:44.930000",
+        "01:14:47.260000",
+        "Our \"Sinner\"..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSinner:)Sinner)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

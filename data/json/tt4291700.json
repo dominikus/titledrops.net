@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4291700",
+    "title": "Prey",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 966,
+    "occurrences": [
+      [
+        670,
+        "01:03:26.861000",
+        "01:03:30.737000",
+        "Keep an eye on him. Make sure he hunts the right prey."
+      ],
+      [
+        680,
+        "01:04:02.484000",
+        "01:04:06.360000",
+        "Once they have killed their prey, they'll come back eat it."
+      ]
+    ],
+    "regex": "\\b((?!\\bPrey:)Prey)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

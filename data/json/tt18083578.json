@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt18083578",
+    "title": "57 Seconds",
+    "year": 2023,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1582,
+    "occurrences": [
+      [
+        1234,
+        "01:09:52.660000",
+        "01:09:55.897000",
+        "Yeah, yeah, it takes you back in time 57 seconds."
+      ],
+      [
+        1479,
+        "01:24:07.180000",
+        "01:24:08.683000",
+        "The ring only goes back 57 seconds."
+      ],
+      [
+        1578,
+        "01:30:17.484000",
+        "01:30:20.187000",
+        "Subvert the law, even for 57 seconds,"
+      ]
+    ],
+    "regex": "\\b((?!\\b57\\ Seconds:)57\\ Seconds)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

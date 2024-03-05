@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0101371",
+    "title": "Article 99",
+    "year": 1992,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1760,
+    "occurrences": [
+      [
+        78,
+        "00:06:20.642000",
+        "00:06:22.655000",
+        "There's always article 99."
+      ],
+      [
+        224,
+        "00:13:06.428000",
+        "00:13:08.699000",
+        "I just got myself an article 99."
+      ],
+      [
+        234,
+        "00:13:32.985000",
+        "00:13:36.279000",
+        "\"Article 99.\""
+      ],
+      [
+        401,
+        "00:23:35.439000",
+        "00:23:37.933000",
+        "He got upset because he was issued an article 99."
+      ]
+    ],
+    "regex": "\\b((?!\\bArticle:)Article)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

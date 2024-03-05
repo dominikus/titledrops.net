@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2102496",
+    "title": "Cabin Fever 3: Patient Zero",
+    "year": 2014,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 791,
+    "occurrences": [
+      [
+        0,
+        "00:00:19.074000",
+        "00:00:23.074000",
+        "Cabin Fever 3: Patient Zero (2014)"
+      ],
+      [
+        1,
+        "00:00:26.074000",
+        "00:00:41.726000",
+        "Cabin Fever 3: Patient Zero"
+      ],
+      [
+        28,
+        "00:03:59.940000",
+        "00:04:03.970000",
+        "- It is a patient. - Yes, he is patient zero."
+      ]
+    ],
+    "regex": "\\b((?!\\bCabin\\ Fever:)Cabin\\ Fever|(?!\\bPatient\\ Zero:)Patient\\ Zero)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

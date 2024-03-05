@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt1178640",
+    "title": "Beer for My Horses",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 6,
+    "all_lines": 1893,
+    "occurrences": [
+      [
+        397,
+        "00:20:48.448000",
+        "00:20:49.648000",
+        "ALL: Beer for my horses."
+      ],
+      [
+        1821,
+        "01:25:28.128000",
+        "01:25:29.762000",
+        "ALL: Beer for my horses."
+      ],
+      [
+        1858,
+        "01:27:01.287000",
+        "01:27:05.007000",
+        "( Toby Keith and Willie Nelson's \"Beer for my Horses\" playing )"
+      ],
+      [
+        1877,
+        "01:28:25.271000",
+        "01:28:27.473000",
+        "# Beer for my horses\" #"
+      ],
+      [
+        1891,
+        "01:29:16.690000",
+        "01:29:21.126000",
+        "# \"Whiskey for my men Beer for my horses\" #"
+      ],
+      [
+        1892,
+        "01:29:22.629000",
+        "01:29:28.267000",
+        "# \"Whiskey for my men Beer for my horses\" #"
+      ]
+    ],
+    "regex": "\\b((?!\\bBeer\\ for\\ My\\ Horses:)Beer\\ for\\ My\\ Horses)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

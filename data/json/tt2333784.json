@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2333784",
+    "title": "The Expendables 3",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1206,
+    "occurrences": [
+      [
+        37,
+        "00:07:40.460000",
+        "00:07:42.337000",
+        "So you all that's left of the Expendables?"
+      ],
+      [
+        666,
+        "01:06:32.739000",
+        "01:06:35.200000",
+        "See, we started this whole Expendables thing together."
+      ],
+      [
+        694,
+        "01:07:56.990000",
+        "01:07:59.659000",
+        "-You shut your mouth. -Three Expendables, our brothers."
+      ]
+    ],
+    "regex": "\\b((?!\\bExpendables:)Expendables)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0090325",
+    "title": "Stronghold",
+    "year": 1985,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 555,
+    "occurrences": [
+      [
+        96,
+        "00:21:15.240000",
+        "00:21:18.232000",
+        "There's nothing here. The forest, maybe. Or Stronghold."
+      ],
+      [
+        402,
+        "00:58:28.356000",
+        "00:58:33.066000",
+        "I looked everywhere, the peat huts, Stronghold, the love bunker."
+      ],
+      [
+        506,
+        "01:15:57.256000",
+        "01:16:00.214000",
+        "I know that guy. He's from Stronghold."
+      ]
+    ],
+    "regex": "\\b((?!\\bStronghold:)Stronghold)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

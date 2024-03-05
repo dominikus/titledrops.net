@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt5690244",
+    "title": "Machines",
+    "year": 2016,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 243,
+    "occurrences": [
+      [
+        10,
+        "00:13:34.413000",
+        "00:13:36.188000",
+        "Some work on machines."
+      ],
+      [
+        12,
+        "00:13:39.952000",
+        "00:13:42.330000",
+        "The machines have to be controlled,"
+      ],
+      [
+        82,
+        "00:30:21.152000",
+        "00:30:25.191000",
+        "If you pay attention to the machines when you are young,"
+      ]
+    ],
+    "regex": "\\b((?!\\bMachines:)Machines)(?!\\:)(?!'t)\\b",
+    "runtime": 71,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

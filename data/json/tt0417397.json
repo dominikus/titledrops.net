@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0417397",
+    "title": "9th Company",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 870,
+    "occurrences": [
+      [
+        770,
+        "01:04:03.480000",
+        "01:04:06.600000",
+        "Yor are in the 9th company"
+      ],
+      [
+        776,
+        "01:05:01.800000",
+        "01:05:05.720000",
+        "Warriors, congratulations for coming to the valiant 9th company"
+      ]
+    ],
+    "regex": "\\b((?!\\b9th\\ Company:)9th\\ Company)(?!\\:)(?!'t)\\b",
+    "runtime": 139,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

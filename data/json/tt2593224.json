@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2593224",
+    "title": "In the Courtyard",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1330,
+    "occurrences": [
+      [
+        546,
+        "00:39:53.624000",
+        "00:39:57.834000",
+        "the two built in the courtyard in highly resistant concrete,"
+      ],
+      [
+        821,
+        "00:55:57.520000",
+        "00:56:00.933000",
+        "It's mild, so we'll have it in the courtyard."
+      ]
+    ],
+    "regex": "\\b((?!\\bIn\\ the\\ Courtyard:)In\\ the\\ Courtyard)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

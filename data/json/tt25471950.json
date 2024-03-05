@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt25471950",
+    "title": "Flora and Son",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Music",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1561,
+    "occurrences": [
+      [
+        1430,
+        "01:27:58.071000",
+        "01:28:01.949000",
+        "Now, next up we have \"Flora and Son.\""
+      ],
+      [
+        1432,
+        "01:28:03.952000",
+        "01:28:06.413000",
+        "- Flora and Son. -"
+      ]
+    ],
+    "regex": "\\b((?!\\bFlora\\ and\\ Son:)Flora\\ and\\ Son)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

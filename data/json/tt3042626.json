@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt3042626",
+    "title": "Asthma",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1141,
+    "occurrences": [
+      [
+        238,
+        "00:21:51.461000",
+        "00:21:52.693000",
+        "Since when do you have asthma?"
+      ],
+      [
+        244,
+        "00:22:07.742000",
+        "00:22:11.111000",
+        "That's smart. That seems like a really smart thing to do for your asthma."
+      ],
+      [
+        903,
+        "01:06:03.778000",
+        "01:06:06.545000",
+        "I'm sure that's good for your asthma."
+      ]
+    ],
+    "regex": "\\b((?!\\bAsthma:)Asthma)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

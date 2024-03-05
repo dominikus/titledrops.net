@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1337672",
+    "title": "Nodame Cantabile: The Movie I",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 1064,
+    "occurrences": [
+      [
+        3,
+        "00:02:51.814000",
+        "00:02:59.814000",
+        "(NODAME CANTABILE The Movie 1)"
+      ],
+      [
+        1064,
+        "02:01:05.188000",
+        "02:01:11.023000",
+        "(NODAME CANTABILE The Movie II)"
+      ]
+    ],
+    "regex": "\\b((?!\\bNodame\\ Cantabile:)Nodame\\ Cantabile|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt9134678",
+    "title": "Invincible",
+    "year": 2020,
+    "genres": [
+      "Action"
+    ],
+    "count": 2,
+    "all_lines": 980,
+    "occurrences": [
+      [
+        163,
+        "00:18:00.048000",
+        "00:18:03.584000",
+        "We call it Invincible for a reason."
+      ],
+      [
+        194,
+        "00:22:37.825000",
+        "00:22:39.427000",
+        "You wanted invincible."
+      ]
+    ],
+    "regex": "\\b((?!\\bInvincible:)Invincible)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

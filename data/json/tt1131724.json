@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1131724",
+    "title": "2:22",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 985,
+    "occurrences": [
+      [
+        120,
+        "00:12:00.152000",
+        "00:12:02.854000",
+        "Ya 950, hold short 22 right. You're number two to go."
+      ],
+      [
+        121,
+        "00:12:02.856000",
+        "00:12:05.724000",
+        "Pilot: Ya 950 holding short, 22 right."
+      ],
+      [
+        142,
+        "00:13:13.192000",
+        "00:13:15.727000",
+        "Ga 950, line up runway 22 right. Clear for take-off."
+      ],
+      [
+        143,
+        "00:13:16.195000",
+        "00:13:19.564000",
+        "Pilot: Ga 950, lining up 22 right. Clear for take-off."
+      ]
+    ],
+    "regex": "\\b((?!\\b2:)2|(?!\\b22:)22)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

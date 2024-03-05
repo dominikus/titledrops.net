@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0052352",
+    "title": "Venice, the Moon and You",
+    "year": 1958,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1045,
+    "occurrences": [
+      [
+        240,
+        "00:21:48.180000",
+        "00:21:54.050000",
+        "Venice, the moon and you ..."
+      ],
+      [
+        514,
+        "00:46:17.951000",
+        "00:46:25.505000",
+        "Venice, the moon and you ..."
+      ]
+    ],
+    "regex": "\\b((?!\\bVenice,\\ the\\ Moon\\ and\\ You:)Venice,\\ the\\ Moon\\ and\\ You)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt12703292",
+    "title": "A Man of Action",
+    "year": 2022,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1626,
+    "occurrences": [
+      [
+        257,
+        "00:18:23.880000",
+        "00:18:26.040000",
+        "Like me, you're a man of action. Eh, kiddo?"
+      ],
+      [
+        1285,
+        "01:25:05.560000",
+        "01:25:09.680000",
+        "And a man of action. That was what made me fall in love with you."
+      ]
+    ],
+    "regex": "\\b((?!\\bMan\\ of\\ Action:)Man\\ of\\ Action)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt12712408",
+    "title": "Christmas in Carolina",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1652,
+    "occurrences": [
+      [
+        927,
+        "00:38:04.920000",
+        "00:38:07.370000",
+        "of spending Christmas in Carolina with my family."
+      ],
+      [
+        934,
+        "00:38:19.200000",
+        "00:38:21.850000",
+        "I would love to spend Christmas in Carolina with you."
+      ]
+    ],
+    "regex": "\\b((?!\\bChristmas\\ in\\ Carolina:)Christmas\\ in\\ Carolina)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

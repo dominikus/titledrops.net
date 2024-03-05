@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt4131800",
+    "title": "My Little Pony: The Movie",
+    "year": 2017,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 1,
+    "all_lines": 1443,
+    "occurrences": [
+      [
+        595,
+        "00:33:34.350000",
+        "00:33:39",
+        "What tricks do you know, my little pony wony?!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Little\\ Pony:)My\\ Little\\ Pony|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

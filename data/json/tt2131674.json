@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt2131674",
+    "title": "50 Children: The Rescue Mission of Mr. and Mrs. Kraus",
+    "year": 2013,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "count": 6,
+    "all_lines": 917,
+    "occurrences": [
+      [
+        4,
+        "00:00:58.734000",
+        "00:01:00.201000",
+        "50 children."
+      ],
+      [
+        142,
+        "00:10:09.900000",
+        "00:10:13.301000",
+        "for 50 children."
+      ],
+      [
+        563,
+        "00:35:40.934000",
+        "00:35:43.234000",
+        "50 children."
+      ],
+      [
+        658,
+        "00:41:16.533000",
+        "00:41:19.667000",
+        "for the 50 children from Vienna, but he made"
+      ],
+      [
+        723,
+        "00:45:00.867000",
+        "00:45:03.700000",
+        "and the 50 children were scheduled to leave Vienna."
+      ],
+      [
+        907,
+        "00:58:06.600000",
+        "00:58:12.034000",
+        "Here they've saved 50 children and their families"
+      ]
+    ],
+    "regex": "\\b((?!\\b50\\ Children:)50\\ Children|(?!\\bRescue\\ Mission\\ of\\ Mr\\.\\ and\\ Mrs\\.\\ Kraus:)Rescue\\ Mission\\ of\\ Mr\\.\\ and\\ Mrs\\.\\ Kraus)(?!\\:)(?!'t)\\b",
+    "runtime": 62,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

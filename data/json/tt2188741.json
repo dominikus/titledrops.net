@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2188741",
+    "title": "Faro",
+    "year": 2013,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 286,
+    "occurrences": [
+      [
+        108,
+        "00:31:09.880000",
+        "00:31:14.471000",
+        "I'd intended to buy some land in Faro and build a house."
+      ],
+      [
+        227,
+        "01:07:10.680000",
+        "01:07:16.172000",
+        "- Where will we go? - If only we could get to Faro."
+      ]
+    ],
+    "regex": "\\b((?!\\bFaro:)Faro)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

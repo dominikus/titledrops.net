@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt13201818",
+    "title": "Sonata",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 8,
+    "all_lines": 1127,
+    "occurrences": [
+      [
+        366,
+        "00:37:58.240000",
+        "00:37:59.240000",
+        "Sonata."
+      ],
+      [
+        368,
+        "00:38:03.560000",
+        "00:38:05.720000",
+        "Would you like to learn this Sonata?"
+      ],
+      [
+        384,
+        "00:40:49.880000",
+        "00:40:53.040000",
+        "- Sonata! - No, we'll learn the Sonata later."
+      ],
+      [
+        388,
+        "00:41:07.800000",
+        "00:41:12.200000",
+        "Let's learn all of it, and afterwards we'll learn the Sonata."
+      ],
+      [
+        747,
+        "01:09:36.960000",
+        "01:09:41.480000",
+        "and to practice Beethoven's \"Moonlight Sonata\"."
+      ],
+      [
+        1094,
+        "01:39:26.240000",
+        "01:39:28.240000",
+        "\"The Moonlight Sonata\"!"
+      ],
+      [
+        1122,
+        "01:43:04.600000",
+        "01:43:09.160000",
+        "a part of the first movement of \"the Moonlight Sonata\""
+      ]
+    ],
+    "regex": "\\b((?!\\bSonata:)Sonata)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt12851396",
+    "title": "Trollhunters: Rise of the Titans",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 3,
+    "all_lines": 1615,
+    "occurrences": [
+      [
+        1318,
+        "01:18:33.375000",
+        "01:18:36.002000",
+        "All right, Trollhunters, get ready."
+      ],
+      [
+        1322,
+        "01:18:44.886000",
+        "01:18:47.556000",
+        "- Come on, Trollhunters! -  Yeah!"
+      ],
+      [
+        1345,
+        "01:20:17.854000",
+        "01:20:20.106000",
+        "Trollhunters."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrollhunters:)Trollhunters|(?!\\bRise\\ of\\ the\\ Titans:)Rise\\ of\\ the\\ Titans)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

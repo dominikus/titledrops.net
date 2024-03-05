@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt5884796",
+    "title": "Plane",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 22,
+    "occurrences": [
+      [
+        5,
+        "00:41:03.255000",
+        "00:41:05.966000",
+        "You sure it wasn't an army plane?"
+      ],
+      [
+        9,
+        "00:41:22.482000",
+        "00:41:25.569000",
+        "Find this plane."
+      ],
+      [
+        12,
+        "00:54:12.920000",
+        "00:54:15.339000",
+        "A very big plane."
+      ],
+      [
+        20,
+        "01:21:43.695000",
+        "01:21:46.406000",
+        "Everyone to the plane!"
+      ]
+    ],
+    "regex": "\\b((?!\\bPlane:)Plane)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

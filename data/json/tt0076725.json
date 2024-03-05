@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0076725",
+    "title": "Sleeping Dogs",
+    "year": 1977,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 962,
+    "occurrences": [
+      [
+        940,
+        "01:41:43.556000",
+        "01:41:45.548000",
+        "( ARIEL RAILWAY: \"Sleeping Dogs\")"
+      ],
+      [
+        947,
+        "01:42:35.149000",
+        "01:42:37.516000",
+        "And let sleeping dogs lie"
+      ],
+      [
+        962,
+        "01:43:38.003000",
+        "01:43:40.586000",
+        "And let sleeping dogs lie..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSleeping\\ Dogs:)Sleeping\\ Dogs)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

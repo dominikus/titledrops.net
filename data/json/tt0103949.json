@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0103949",
+    "title": "The Chekist",
+    "year": 1992,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 763,
+    "occurrences": [
+      [
+        153,
+        "00:16:05.327000",
+        "00:16:09.577000",
+        "Citizen chief comrade Chekist, Give me a cigarette."
+      ],
+      [
+        488,
+        "00:49:01.214000",
+        "00:49:03.521000",
+        "Jan-Pepel Karlovic, Chekist. - Verdict?"
+      ],
+      [
+        609,
+        "01:04:51.585000",
+        "01:04:53.685000",
+        "...said that once a Chekist has 50 people shot..."
+      ],
+      [
+        648,
+        "01:10:22.364000",
+        "01:10:27.199000",
+        "Issa, when a simple Chekist, during interrogation, asked a Kolchak:"
+      ],
+      [
+        757,
+        "01:21:26.354000",
+        "01:21:28.354000",
+        "Profession? - Chekist."
+      ]
+    ],
+    "regex": "\\b((?!\\bChekist:)Chekist)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

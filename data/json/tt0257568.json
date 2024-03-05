@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0257568",
+    "title": "Kangaroo Jack",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1195,
+    "occurrences": [
+      [
+        7,
+        "00:01:00.110000",
+        "00:01:03.511000",
+        "And his name is Kangaroo Jack."
+      ],
+      [
+        832,
+        "00:56:23.092000",
+        "00:56:24.684000",
+        "Kangaroo Jack in the flesh."
+      ],
+      [
+        1186,
+        "01:23:13.868000",
+        "01:23:18.066000",
+        "The movie is called Kangaroo Jack! It should end with me!"
+      ]
+    ],
+    "regex": "\\b((?!\\bKangaroo\\ Jack:)Kangaroo\\ Jack)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

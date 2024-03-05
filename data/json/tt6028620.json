@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6028620",
+    "title": "Charlatan",
+    "year": 2020,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 880,
+    "occurrences": [
+      [
+        113,
+        "00:14:59.520000",
+        "00:15:03.070000",
+        "Ten Unbelievable Chapters of a Charlatan."
+      ],
+      [
+        121,
+        "00:15:29.720000",
+        "00:15:34.556000",
+        "How much longer is that charlatan to prescribe his herbs to naive old women?"
+      ],
+      [
+        208,
+        "00:27:51.560000",
+        "00:27:56.839000",
+        "They say you're a conman and a charlatan. Saw it in the paper."
+      ],
+      [
+        729,
+        "01:28:22.080000",
+        "01:28:25.436000",
+        "We have to find out if you're a charlatan or not."
+      ]
+    ],
+    "regex": "\\b((?!\\bCharlatan:)Charlatan)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

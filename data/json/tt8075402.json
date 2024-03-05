@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt8075402",
+    "title": "Room 9",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1250,
+    "occurrences": [
+      [
+        89,
+        "00:08:35.821000",
+        "00:08:40.893000",
+        "Now your father, he just had the rugs cleaned in room nine."
+      ],
+      [
+        348,
+        "00:32:53.644000",
+        "00:32:55.413000",
+        "I think room nine is under construction,"
+      ],
+      [
+        1052,
+        "01:24:57.666000",
+        "01:24:59.535000",
+        "She said they're getting another room for you."
+      ],
+      [
+        1103,
+        "01:27:28.916000",
+        "01:27:31.120000",
+        "You have any idea what room they're moving me to,"
+      ],
+      [
+        1105,
+        "01:27:37.393000",
+        "01:27:40.630000",
+        "Yeah, that, uh, that's... will be room nine."
+      ],
+      [
+        1139,
+        "01:30:26.862000",
+        "01:30:30.666000",
+        "on that fateful night in room nine."
+      ]
+    ],
+    "regex": "\\b((?!\\bRoom:)Room)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2
+  }
+]

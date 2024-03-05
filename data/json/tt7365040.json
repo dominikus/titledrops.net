@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt7365040",
+    "title": "Spiral Farm",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 925,
+    "occurrences": [
+      [
+        159,
+        "00:12:19.806000",
+        "00:12:22.974000",
+        "we didn't know what Spiral Farm was."
+      ],
+      [
+        358,
+        "00:26:39.732000",
+        "00:26:43.167000",
+        "on Spiral Farm, the one that went and watched all"
+      ],
+      [
+        820,
+        "01:10:09.606000",
+        "01:10:12.807000",
+        "You might not be at Spiral Farm anymore, Sash."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpiral\\ Farm:)Spiral\\ Farm)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

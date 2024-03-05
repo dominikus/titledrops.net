@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0969653",
+    "title": "White Wall",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 614,
+    "occurrences": [
+      [
+        38,
+        "00:04:49.604000",
+        "00:05:04.760000",
+        "The White Wall."
+      ],
+      [
+        40,
+        "00:05:20.671000",
+        "00:05:22.214000",
+        "The first time I saw the white wall"
+      ]
+    ],
+    "regex": "\\b((?!\\bWhite\\ Wall:)White\\ Wall)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

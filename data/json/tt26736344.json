@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt26736344",
+    "title": "Butch Cassidy and the Wild Bunch",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 1431,
+    "occurrences": [
+      [
+        180,
+        "00:15:43.350000",
+        "00:15:46.260000",
+        "Butch Cassidy and the Wild Bunch is robbing the Union Flyer."
+      ],
+      [
+        738,
+        "00:51:42.680000",
+        "00:51:47.450000",
+        "You were seen with Butch Cassidy and the Wild Bunch"
+      ]
+    ],
+    "regex": "\\b((?!\\bButch\\ Cassidy\\ and\\ the\\ Wild\\ Bunch:)Butch\\ Cassidy\\ and\\ the\\ Wild\\ Bunch)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

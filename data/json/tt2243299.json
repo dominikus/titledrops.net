@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2243299",
+    "title": "Final Cut: Ladies and Gentlemen",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 258,
+    "occurrences": [
+      [
+        0,
+        "00:01:15.460000",
+        "00:01:21.524000",
+        "- FINAL CUT - LADIES AND GENTLEMEN"
+      ],
+      [
+        3,
+        "00:06:06.340000",
+        "00:06:10.299000",
+        "Ladies and gentlemen, I apologize for the slight delay."
+      ]
+    ],
+    "regex": "\\b((?!\\bFinal\\ Cut:)Final\\ Cut|(?!\\bLadies\\ and\\ Gentlemen:)Ladies\\ and\\ Gentlemen)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

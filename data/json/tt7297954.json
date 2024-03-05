@@ -1,0 +1,64 @@
+[
+  {
+    "imdb": "tt7297954",
+    "title": "Alanis",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 745,
+    "occurrences": [
+      [
+        44,
+        "00:08:04.383000",
+        "00:08:06.624000",
+        "Who named you Alanis?"
+      ],
+      [
+        99,
+        "00:13:35.716000",
+        "00:13:39.707000",
+        "Hello, Jose, it's Alanis."
+      ],
+      [
+        305,
+        "00:30:47.716000",
+        "00:30:49.957000",
+        "It's Alanis, Gigi's friend. How are you?"
+      ],
+      [
+        728,
+        "01:18:30.633000",
+        "01:18:33.074000",
+        "And why \"Alanis\", because of the actress?"
+      ],
+      [
+        731,
+        "01:18:39.300000",
+        "01:18:40.740000",
+        "- Alanis. - No."
+      ],
+      [
+        732,
+        "01:18:40.841000",
+        "01:18:43.949000",
+        "- Your name isn't Alanis. - What's your mommy's name?"
+      ],
+      [
+        734,
+        "01:18:46.925000",
+        "01:18:49.832000",
+        "You don't need to be called Alanis with that name."
+      ]
+    ],
+    "regex": "\\b((?!\\bAlanis:)Alanis)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [
+      "Alanis",
+      "Maria"
+    ],
+    "title_is_name": true,
+    "rating": 6.2
+  }
+]

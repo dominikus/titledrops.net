@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0995747",
+    "title": "Mermaid",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 864,
+    "occurrences": [
+      [
+        1,
+        "00:03:34.351000",
+        "00:03:37.663000",
+        "Mermaid"
+      ],
+      [
+        488,
+        "01:04:18.659000",
+        "01:04:23.448000",
+        "Mermaid Alisa is 18 years, 2 months and 13 days"
+      ]
+    ],
+    "regex": "\\b((?!\\bMermaid:)Mermaid)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

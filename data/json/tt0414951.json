@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0414951",
+    "title": "The Quiet",
+    "year": 2005,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 955,
+    "occurrences": [
+      [
+        79,
+        "00:05:53.520000",
+        "00:05:56.751000",
+        "Your father's had a long day. I'm sure he would like a quiet night."
+      ],
+      [
+        365,
+        "00:31:46.160000",
+        "00:31:49.755000",
+        "I just had a quiet moment at the office. I thought I'd see how you're doing."
+      ],
+      [
+        529,
+        "00:44:45.320000",
+        "00:44:47.072000",
+        "and how quiet you are."
+      ],
+      [
+        581,
+        "00:52:25.960000",
+        "00:52:28.599000",
+        "if we went on a road trip, how quiet it would be."
+      ],
+      [
+        944,
+        "01:25:24.840000",
+        "01:25:27.957000",
+        "People always talk about the quiet before the storm"
+      ],
+      [
+        945,
+        "01:25:30.080000",
+        "01:25:32.640000",
+        "but no one talks about the quiet after."
+      ]
+    ],
+    "regex": "\\b((?!\\bQuiet:)Quiet)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

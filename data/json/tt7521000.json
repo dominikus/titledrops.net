@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt7521000",
+    "title": "Word Is Bond",
+    "year": 2018,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 2318,
+    "occurrences": [
+      [
+        2315,
+        "01:25:16.880000",
+        "01:25:19.006000",
+        "- Word is... - Word is bond."
+      ],
+      [
+        2316,
+        "01:25:19.008000",
+        "01:25:20.966000",
+        "Word is bond."
+      ],
+      [
+        2317,
+        "01:25:20.968000",
+        "01:25:22.968000",
+        "Word is bond!"
+      ]
+    ],
+    "regex": "\\b((?!\\bWord\\ Is\\ Bond:)Word\\ Is\\ Bond)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

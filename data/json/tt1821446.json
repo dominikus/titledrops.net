@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt1821446",
+    "title": "The Cut",
+    "year": 2007,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 1240,
+    "occurrences": [
+      [
+        149,
+        "00:14:17.432000",
+        "00:14:21.051000",
+        "such things determine who is cut out"
+      ],
+      [
+        257,
+        "00:23:20.612000",
+        "00:23:22.783000",
+        "so he cut an arm off a cadaver to take home."
+      ],
+      [
+        371,
+        "00:29:35.082000",
+        "00:29:37.223000",
+        "I have no choice but to cut you up with a scalpel."
+      ],
+      [
+        397,
+        "00:35:57.962000",
+        "00:36:00.072000",
+        "She couldn't have possibly cut her own stomach open."
+      ],
+      [
+        654,
+        "00:56:30.533000",
+        "00:56:32.205000",
+        "Whoever did this cleanly cut through"
+      ],
+      [
+        867,
+        "01:12:58.707000",
+        "01:13:00.553000",
+        "and we cut them open for no reason."
+      ]
+    ],
+    "regex": "\\b((?!\\bCut:)Cut)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "imdb": "tt1337032",
+    "title": "Trailer Park Boys: Countdown to Liquor Day",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 1,
+    "all_lines": 1900,
+    "occurrences": [
+      [
+        819,
+        "00:42:54.185000",
+        "00:42:57.621000",
+        "It's just been a countdown to liquor day. hasn't it?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTrailer\\ Park\\ Boys:)Trailer\\ Park\\ Boys|(?!\\bCountdown\\ to\\ Liquor\\ Day:)Countdown\\ to\\ Liquor\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

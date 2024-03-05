@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0097390",
+    "title": "Fright Night Part 2",
+    "year": 1988,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 580,
+    "occurrences": [
+      [
+        248,
+        "00:48:10.280000",
+        "00:48:13.233000",
+        "Fired? You can't fire me! \"Fright Night\" is my show!"
+      ],
+      [
+        348,
+        "01:03:34.037000",
+        "01:03:37.540000",
+        "- \"Fright Night\"? - Good evening. - Where's Peter?"
+      ],
+      [
+        351,
+        "01:03:46.758000",
+        "01:03:51.304000",
+        "Ladies and gentlemen, I give you the new host of \"Fright Night\": Regine!"
+      ],
+      [
+        380,
+        "01:09:28.732000",
+        "01:09:30.977000",
+        "Welcome to \"Fright Night\""
+      ],
+      [
+        522,
+        "01:26:11.309000",
+        "01:26:14.562000",
+        "Welcome to \"Fright Night\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bFright\\ Night:)Fright\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

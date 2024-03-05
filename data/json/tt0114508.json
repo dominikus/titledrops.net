@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0114508",
+    "title": "Species",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 897,
+    "occurrences": [
+      [
+        483,
+        "00:50:08.664000",
+        "00:50:10.792000",
+        "When a predatory species Is introduced..."
+      ],
+      [
+        485,
+        "00:50:12.794000",
+        "00:50:15.880000",
+        "...the extinction of the weaker species Is inevitable."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpecies:)Species)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

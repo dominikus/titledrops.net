@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt21106970",
+    "title": "Daughter of the Bride",
+    "year": 2023,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1747,
+    "occurrences": [
+      [
+        414,
+        "00:21:13.641000",
+        "00:21:16.644000",
+        "Wow. Daughter of the bride. That's cool."
+      ],
+      [
+        1564,
+        "01:28:50.865000",
+        "01:28:53.801000",
+        "I'm Kate York, daughter of the bride."
+      ]
+    ],
+    "regex": "\\b((?!\\bDaughter\\ of\\ the\\ Bride:)Daughter\\ of\\ the\\ Bride)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0051184",
+    "title": "The Weapon",
+    "year": 1956,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 943,
+    "occurrences": [
+      [
+        39,
+        "00:06:00.460000",
+        "00:06:03.645000",
+        "This is incredible. These bullets were both fired from the same weapon."
+      ],
+      [
+        406,
+        "00:32:09.441000",
+        "00:32:12.242000",
+        "Before we trace the weapon, the murderer would be out the country. Like that."
+      ]
+    ],
+    "regex": "\\b((?!\\bWeapon:)Weapon)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

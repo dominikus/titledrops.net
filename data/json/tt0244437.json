@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0244437",
+    "title": "The Brainiacs.com",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "count": 5,
+    "all_lines": 1796,
+    "occurrences": [
+      [
+        666,
+        "00:32:43.560000",
+        "00:32:46.560000",
+        " The Brainiacs.com. Konichiwa."
+      ],
+      [
+        667,
+        "00:32:47.400000",
+        "00:32:49.560000",
+        "Bienvenidos a los Brainiacs.com."
+      ],
+      [
+        668,
+        "00:32:49.560000",
+        "00:32:52.480000",
+        "Yo, dudettes. Welcome to the Brainiacs.com."
+      ],
+      [
+        670,
+        "00:32:55.120000",
+        "00:32:57.800000",
+        "Aloha. The Brainiacs.com."
+      ],
+      [
+        672,
+        "00:33:00.240000",
+        "00:33:02.360000",
+        "Wilkommen Brainiacs.com."
+      ]
+    ],
+    "regex": "\\b((?!\\bBrainiacs\\.com:)Brainiacs\\.com)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

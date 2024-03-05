@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3091254",
+    "title": "Soul",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 967,
+    "occurrences": [
+      [
+        193,
+        "00:21:53.042000",
+        "00:21:58.042000",
+        "the patient is like a wandering soul"
+      ],
+      [
+        436,
+        "00:57:57.501000",
+        "00:57:59.501000",
+        "And you mentioned the wandering soul?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSoul:)Soul)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt5356260",
+    "title": "My Life with James Dean",
+    "year": 2017,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 992,
+    "occurrences": [
+      [
+        50,
+        "00:05:04.100000",
+        "00:05:05.773000",
+        "A director. My Life With James Dean."
+      ],
+      [
+        52,
+        "00:05:07.340000",
+        "00:05:08.739000",
+        "MY Life With James Dean."
+      ],
+      [
+        664,
+        "01:02:03.100000",
+        "01:02:05.376000",
+        "Meet Geraud, My Life With James Dean."
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Life\\ with\\ James\\ Dean:)My\\ Life\\ with\\ James\\ Dean)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

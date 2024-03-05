@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt0450278",
+    "title": "Hostel",
+    "year": 2005,
+    "genres": [
+      "Horror"
+    ],
+    "count": 7,
+    "all_lines": 722,
+    "occurrences": [
+      [
+        144,
+        "00:11:35.862000",
+        "00:11:38.990000",
+        "These girls l met at this one hostel in Slovakia..."
+      ],
+      [
+        151,
+        "00:11:56.215000",
+        "00:11:58.513000",
+        "You won't find this hostel in any guidebook."
+      ],
+      [
+        155,
+        "00:12:09.662000",
+        "00:12:12.688000",
+        "You go to this hostel, you will have any girl you want."
+      ],
+      [
+        215,
+        "00:18:15.928000",
+        "00:18:19.227000",
+        "-Nice, eh? -This is a fucking hostel?"
+      ],
+      [
+        530,
+        "00:47:22.907000",
+        "00:47:24.534000",
+        "l'm at the hostel."
+      ],
+      [
+        536,
+        "00:48:30.874000",
+        "00:48:32.603000",
+        "Wait at hostel for your friends."
+      ],
+      [
+        549,
+        "00:49:11.115000",
+        "00:49:13.879000",
+        "...we contact you at hostel, yeah?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHostel:)Hostel)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2998118",
+    "title": "SOS: Save Our Skins",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1762,
+    "occurrences": [
+      [
+        0,
+        "00:00:03.503000",
+        "00:00:05.141000",
+        "This is an SOS."
+      ],
+      [
+        274,
+        "00:13:27.673000",
+        "00:13:29.675000",
+        "This is an SOS."
+      ],
+      [
+        1019,
+        "00:48:49.226000",
+        "00:48:51.206000",
+        "- We shouldn't have answered your SOS! - Dwayne!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSOS:)SOS|(?!\\bSave\\ Our\\ Skins:)Save\\ Our\\ Skins)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

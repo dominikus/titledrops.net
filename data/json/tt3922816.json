@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt3922816",
+    "title": "The Daughter",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1225,
+    "occurrences": [
+      [
+        70,
+        "00:07:02.822000",
+        "00:07:06.057000",
+        "no, I mean, she could be your daughter."
+      ],
+      [
+        1109,
+        "01:16:53.809000",
+        "01:16:56.243000",
+        "She's Oliver's daughter."
+      ],
+      [
+        1158,
+        "01:21:14.836000",
+        "01:21:16.370000",
+        "I'm your daughter!"
+      ],
+      [
+        1160,
+        "01:21:19.741000",
+        "01:21:21.976000",
+        "No, you're his daughter."
+      ],
+      [
+        1164,
+        "01:21:29.184000",
+        "01:21:31.185000",
+        "I don't want to be anyone else's daughter."
+      ]
+    ],
+    "regex": "\\b((?!\\bDaughter:)Daughter)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

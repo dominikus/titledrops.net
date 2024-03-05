@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0139669",
+    "title": "True Friends",
+    "year": 1998,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2380,
+    "occurrences": [
+      [
+        31,
+        "00:03:09.423000",
+        "00:03:10.924000",
+        "would become true friends."
+      ],
+      [
+        2328,
+        "01:37:13.862000",
+        "01:37:15.097000",
+        "be true friends."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrue\\ Friends:)True\\ Friends)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

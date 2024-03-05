@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5360232",
+    "title": "The Cat and the Moon",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 2368,
+    "occurrences": [
+      [
+        1714,
+        "01:10:14.578000",
+        "01:10:18.346000",
+        "It's the last few lines in this poem, \"The Cat and the Moon.\""
+      ],
+      [
+        2279,
+        "01:42:18.800000",
+        "01:42:23.669000",
+        "Um, do you know \"The Cat and the Moon\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCat\\ and\\ the\\ Moon:)Cat\\ and\\ the\\ Moon)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

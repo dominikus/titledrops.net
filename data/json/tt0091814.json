@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0091814",
+    "title": "Quicksilver",
+    "year": 1986,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 874,
+    "occurrences": [
+      [
+        108,
+        "00:14:32.312000",
+        "00:14:35.281000",
+        "- Quicksilver. - See over there? That's Apache."
+      ],
+      [
+        334,
+        "00:40:41.280000",
+        "00:40:42.542000",
+        "Yeah, Quicksilver."
+      ]
+    ],
+    "regex": "\\b((?!\\bQuicksilver:)Quicksilver)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

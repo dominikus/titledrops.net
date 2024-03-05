@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0080469",
+    "title": "Breaking Glass",
+    "year": 1980,
+    "genres": [
+      "Drama",
+      "Musical"
+    ],
+    "count": 5,
+    "all_lines": 1545,
+    "occurrences": [
+      [
+        422,
+        "00:25:13.278000",
+        "00:25:16.615000",
+        "Oh, Danny Price, I manage a new group called Breaking Glass."
+      ],
+      [
+        1011,
+        "00:59:16.119000",
+        "00:59:18.221000",
+        "\"Top of the Wheel\" by Breaking Glass."
+      ],
+      [
+        1013,
+        "00:59:21.057000",
+        "00:59:23.293000",
+        "And you'll be able to see Breaking Glass this afternoon"
+      ],
+      [
+        1021,
+        "00:59:52.355000",
+        "00:59:54.791000",
+        "I want Breaking Glass on this..."
+      ],
+      [
+        1461,
+        "01:25:29.290000",
+        "01:25:31.126000",
+        "by Kate and Breaking Glass"
+      ]
+    ],
+    "regex": "\\b((?!\\bBreaking\\ Glass:)Breaking\\ Glass)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

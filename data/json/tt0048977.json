@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0048977",
+    "title": "The Bad Seed",
+    "year": 1956,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 2030,
+    "occurrences": [
+      [
+        1144,
+        "01:08:26.886000",
+        "01:08:30.845000",
+        "Bessie Denker? Was Bessie a bad seed?"
+      ],
+      [
+        1953,
+        "02:00:56.393000",
+        "02:00:59.521000",
+        "Yes. \"A bad seed.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bBad\\ Seed:)Bad\\ Seed)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

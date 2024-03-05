@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0903134",
+    "title": "The Wager",
+    "year": 2007,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1260,
+    "occurrences": [
+      [
+        67,
+        "00:04:08.014000",
+        "00:04:10.216000",
+        "have made a wager for someone s life."
+      ],
+      [
+        68,
+        "00:04:10.216000",
+        "00:04:13.519000",
+        "And the wager is, can you live the Sermon on the Mount"
+      ],
+      [
+        116,
+        "00:07:50.369000",
+        "00:07:52.738000",
+        "God and Satan have made a wager to see ifl can live"
+      ]
+    ],
+    "regex": "\\b((?!\\bWager:)Wager)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

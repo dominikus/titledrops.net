@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0101464",
+    "title": "Black Magic Woman",
+    "year": 1991,
+    "genres": [
+      "Horror",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1218,
+    "occurrences": [
+      [
+        189,
+        "00:15:51",
+        "00:15:52",
+        "( \"Black Magic Woman\" playing )"
+      ],
+      [
+        1179,
+        "01:24:03",
+        "01:24:05",
+        "( \"Black Magic Woman\" playing )"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Magic\\ Woman:)Black\\ Magic\\ Woman)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

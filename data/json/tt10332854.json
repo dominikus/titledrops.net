@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt10332854",
+    "title": "Alone",
+    "year": 2020,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1046,
+    "occurrences": [
+      [
+        213,
+        "00:22:02.555000",
+        "00:22:06.424000",
+        "- I'm just saying, women aren't meant to be alone."
+      ],
+      [
+        605,
+        "00:40:01.400000",
+        "00:40:02.132000",
+        "- Hey, just leave him alone."
+      ]
+    ],
+    "regex": "\\b((?!\\bAlone:)Alone)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

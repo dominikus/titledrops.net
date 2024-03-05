@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt4908254",
+    "title": "The Illegal",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1125,
+    "occurrences": [
+      [
+        1117,
+        "01:22:57.340000",
+        "01:22:58.341000",
+        "we not illegal."
+      ],
+      [
+        1118,
+        "01:23:00.209000",
+        "01:23:01.844000",
+        "No one wants to be illegal,"
+      ]
+    ],
+    "regex": "\\b((?!\\bIllegal:)Illegal)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

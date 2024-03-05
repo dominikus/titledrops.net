@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0048623",
+    "title": "Sincerely Yours",
+    "year": 1955,
+    "genres": [
+      "Drama",
+      "Musical",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1507,
+    "occurrences": [
+      [
+        918,
+        "01:05:11.995000",
+        "01:05:17.565000",
+        "I'll be yours sincerely yours"
+      ],
+      [
+        919,
+        "01:05:19.480000",
+        "01:05:24.616000",
+        "All my life sincerely yours"
+      ],
+      [
+        1108,
+        "01:21:11.127000",
+        "01:21:14.826000",
+        "Sincerely yours"
+      ]
+    ],
+    "regex": "\\b((?!\\bSincerely\\ Yours:)Sincerely\\ Yours)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

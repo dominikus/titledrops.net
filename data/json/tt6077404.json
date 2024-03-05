@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt6077404",
+    "title": "Boris and the Bomb",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 2345,
+    "occurrences": [
+      [
+        462,
+        "00:23:17.270000",
+        "00:23:19.690000",
+        "- You two, get Boris and the bomb,"
+      ],
+      [
+        1155,
+        "00:55:13.060000",
+        "00:55:15.443000",
+        "Boris and the bomb and my phone."
+      ]
+    ],
+    "regex": "\\b((?!\\bBoris\\ and\\ the\\ Bomb:)Boris\\ and\\ the\\ Bomb)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

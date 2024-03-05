@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4161358",
+    "title": "Irrefutable Proof",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 966,
+    "occurrences": [
+      [
+        367,
+        "00:26:33.941000",
+        "00:26:37.737000",
+        "Irrefutable proof, that will once and for all end the god-myth."
+      ],
+      [
+        631,
+        "00:50:54.026000",
+        "00:50:56.696000",
+        "Irrefutable proof..."
+      ]
+    ],
+    "regex": "\\b((?!\\bIrrefutable\\ Proof:)Irrefutable\\ Proof)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

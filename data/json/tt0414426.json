@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0414426",
+    "title": "Quid Pro Quo",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 959,
+    "occurrences": [
+      [
+        353,
+        "00:22:23.877000",
+        "00:22:26.512000",
+        "So, Quid Pro Quo."
+      ],
+      [
+        385,
+        "00:24:03.309000",
+        "00:24:06.378000",
+        "Oh, right. It's always Quid Pro Quo with this girl."
+      ]
+    ],
+    "regex": "\\b((?!\\bQuid\\ Pro\\ Quo:)Quid\\ Pro\\ Quo)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0044672",
+    "title": "The Greatest Show on Earth",
+    "year": 1952,
+    "genres": [
+      "Drama",
+      "Family",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 2091,
+    "occurrences": [
+      [
+        23,
+        "00:03:33.427000",
+        "00:03:37.625000",
+        "and of the men and women who fight to make it the greatest show on earth."
+      ],
+      [
+        515,
+        "00:27:52.467000",
+        "00:27:55.425000",
+        "...one of the featured attractions of the greatest show on earth."
+      ],
+      [
+        1937,
+        "02:18:10.627000",
+        "02:18:12.538000",
+        "The greatest show on earth"
+      ],
+      [
+        2083,
+        "02:25:43.787000",
+        "02:25:49.578000",
+        "The greatest show on earth"
+      ],
+      [
+        2085,
+        "02:25:57.467000",
+        "02:25:59.742000",
+        "Come again to the greatest show on earth."
+      ],
+      [
+        2090,
+        "02:26:08.547000",
+        "02:26:09.900000",
+        "The greatest show on earth!"
+      ]
+    ],
+    "regex": "\\b((?!\\bGreatest\\ Show\\ on\\ Earth:)Greatest\\ Show\\ on\\ Earth)(?!\\:)(?!'t)\\b",
+    "runtime": 152,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

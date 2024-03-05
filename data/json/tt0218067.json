@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0218067",
+    "title": "The Calling",
+    "year": 2000,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1181,
+    "occurrences": [
+      [
+        561,
+        "00:40:52.716000",
+        "00:40:56.153000",
+        "We heard... the calling."
+      ],
+      [
+        666,
+        "00:48:31.675000",
+        "00:48:34.578000",
+        "Leading them who hear the calling."
+      ],
+      [
+        1058,
+        "01:18:53.562000",
+        "01:18:56.965000",
+        "Leading them, we hear the calling."
+      ]
+    ],
+    "regex": "\\b((?!\\bCalling:)Calling)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

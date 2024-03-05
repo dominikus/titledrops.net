@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0078748",
+    "title": "Alien",
+    "year": 1979,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 1129,
+    "occurrences": [
+      [
+        291,
+        "00:29:58.265000",
+        "00:30:00.333000",
+        "(Dallas) Alien life form."
+      ],
+      [
+        916,
+        "01:22:38.706000",
+        "01:22:42.458000",
+        "(Ripley) All I can think of is they must've wanted the alien for their Weapons Division."
+      ],
+      [
+        1005,
+        "01:32:00.725000",
+        "01:32:03.686000",
+        "- (Alien Roaring) - (Lambert Screaming)"
+      ],
+      [
+        1104,
+        "01:49:49.743000",
+        "01:49:55.465000",
+        "- (Alien screeching) -  You are my lucky star"
+      ],
+      [
+        1107,
+        "01:50:04.141000",
+        "01:50:05.794000",
+        "(Alien continues screeching)"
+      ]
+    ],
+    "regex": "\\b((?!\\bAlien:)Alien)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.5
+  }
+]

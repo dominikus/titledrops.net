@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0072157",
+    "title": "Lady Snowblood 2: Love Song of Vengeance",
+    "year": 1974,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 481,
+    "occurrences": [
+      [
+        18,
+        "00:04:04.281000",
+        "00:04:08.680000",
+        "Alias Lady Snowblood."
+      ],
+      [
+        30,
+        "00:10:11.400000",
+        "00:10:13.160000",
+        "Lady Snowblood!"
+      ],
+      [
+        40,
+        "00:11:57.520000",
+        "00:12:06.960000",
+        "LADY SNOWBLOOD: LOVE SONG OF VENGEANCE"
+      ],
+      [
+        57,
+        "00:16:08.640000",
+        "00:16:10.360000",
+        "Lady Snowblood."
+      ],
+      [
+        200,
+        "00:38:16.520000",
+        "00:38:19.880000",
+        "What about your relationship with Lady Snowblood?"
+      ],
+      [
+        362,
+        "01:03:04.440000",
+        "01:03:07.040000",
+        "Lady Snowblood..."
+      ]
+    ],
+    "regex": "\\b((?!\\bLady\\ Snowblood:)Lady\\ Snowblood|(?!\\bLove\\ Song\\ of\\ Vengeance:)Love\\ Song\\ of\\ Vengeance)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1017428",
+    "title": "Captain Abu Raed",
+    "year": 2007,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 682,
+    "occurrences": [
+      [
+        73,
+        "00:14:04.276000",
+        "00:14:06.574000",
+        "... Captain Abu Raed"
+      ],
+      [
+        297,
+        "00:34:45.716000",
+        "00:34:48.583000",
+        "Tareq calls you ''Captain Abu Raed''"
+      ],
+      [
+        682,
+        "01:38:24.431000",
+        "01:38:27.195000",
+        "... Captain Abu Raed"
+      ]
+    ],
+    "regex": "\\b((?!\\bCaptain\\ Abu\\ Raed:)Captain\\ Abu\\ Raed)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

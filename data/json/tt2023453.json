@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2023453",
+    "title": "Diary of a Wimpy Kid: Dog Days",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1439,
+    "occurrences": [
+      [
+        68,
+        "00:05:08.600000",
+        "00:05:10.272000",
+        "(DIARY OF A WIMPY KID THEME PLAYING)"
+      ],
+      [
+        1437,
+        "01:26:09.760000",
+        "01:26:11.637000",
+        "(DIARY OF A WIMPY KID THEME PLAYING)"
+      ]
+    ],
+    "regex": "\\b((?!\\bDiary\\ of\\ a\\ Wimpy\\ Kid:)Diary\\ of\\ a\\ Wimpy\\ Kid|(?!\\bDog\\ Days:)Dog\\ Days)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

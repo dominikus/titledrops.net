@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0795493",
+    "title": "Cassandra's Dream",
+    "year": 2007,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 784,
+    "occurrences": [
+      [
+        74,
+        "00:04:58.340000",
+        "00:05:02.060000",
+        "- Cassandra's Dream. That was the 60-to-1 shot I hit."
+      ],
+      [
+        78,
+        "00:05:09.820000",
+        "00:05:12.660000",
+        "Do you want to come out for a ride on Cassandra's Dream?"
+      ],
+      [
+        79,
+        "00:05:12.740000",
+        "00:05:13.940000",
+        "What's Cassandra's Dream?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCassandra's\\ Dream:)Cassandra's\\ Dream)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

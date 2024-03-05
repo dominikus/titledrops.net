@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0098136",
+    "title": "Prom Night III: The Last Kiss",
+    "year": 1990,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1015,
+    "occurrences": [
+      [
+        320,
+        "00:33:11.360000",
+        "00:33:15.260000",
+        "And the last kiss would be mine"
+      ],
+      [
+        321,
+        "00:33:15.330000",
+        "00:33:20.790000",
+        "The last kiss Will be mine"
+      ],
+      [
+        773,
+        "01:09:28.400000",
+        "01:09:31.040000",
+        "No, at Hamilton High it's prom night."
+      ]
+    ],
+    "regex": "\\b((?!\\bProm\\ Night:)Prom\\ Night|(?!\\bLast\\ Kiss:)Last\\ Kiss)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

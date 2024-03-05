@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6253214",
+    "title": "Scaffolding",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1074,
+    "occurrences": [
+      [
+        775,
+        "01:01:56.126000",
+        "01:01:59.501000",
+        "I wanna do some scaffolding work in the summer."
+      ],
+      [
+        925,
+        "01:14:10.626000",
+        "01:14:15.126000",
+        "\"Lax Scaffolding\" isn't Milo Lax anymore, it's Asher Lax."
+      ]
+    ],
+    "regex": "\\b((?!\\bScaffolding:)Scaffolding)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

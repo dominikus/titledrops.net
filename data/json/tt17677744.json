@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt17677744",
+    "title": "The Seven Deadly Sins: Grudge of Edinburgh Part 1",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 4,
+    "all_lines": 920,
+    "occurrences": [
+      [
+        25,
+        "00:02:31.666000",
+        "00:02:35.625000",
+        "THE SEVEN DEADLY SINS GRUDGE OF EDINBURGH PART 1"
+      ],
+      [
+        42,
+        "00:03:25.500000",
+        "00:03:29.500000",
+        "That's what happens when you've got a dad like Meliodas of the Seven Deadly Sins."
+      ],
+      [
+        608,
+        "00:32:14.375000",
+        "00:32:17.250000",
+        "Father and the Seven Deadly Sins took them down."
+      ]
+    ],
+    "regex": "\\b((?!\\bSeven\\ Deadly\\ Sins:)Seven\\ Deadly\\ Sins|(?!\\bGrudge\\ of\\ Edinburgh:)Grudge\\ of\\ Edinburgh)(?!\\:)(?!'t)\\b",
+    "runtime": 52,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

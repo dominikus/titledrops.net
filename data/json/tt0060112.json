@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0060112",
+    "title": "Any Wednesday",
+    "year": 1966,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 2296,
+    "occurrences": [
+      [
+        6,
+        "00:01:12.758000",
+        "00:01:16.689000",
+        "Any Wednesday"
+      ],
+      [
+        21,
+        "00:02:11.275000",
+        "00:02:16.689000",
+        "any Wednesday will do"
+      ],
+      [
+        23,
+        "00:02:20.931000",
+        "00:02:24.862000",
+        "any Wednesday"
+      ],
+      [
+        2275,
+        "01:47:20.862000",
+        "01:47:22.758000",
+        "Any Wednesday."
+      ],
+      [
+        2291,
+        "01:48:47.275000",
+        "01:48:53.034000",
+        "any Wednesday will do"
+      ],
+      [
+        2293,
+        "01:48:57.103000",
+        "01:49:00.862000",
+        "any Wednesday"
+      ]
+    ],
+    "regex": "\\b((?!\\bAny\\ Wednesday:)Any\\ Wednesday)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

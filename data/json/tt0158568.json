@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0158568",
+    "title": "Crusher Joe: The Movie",
+    "year": 1983,
+    "genres": [
+      "Action",
+      "Animation",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1536,
+    "occurrences": [
+      [
+        185,
+        "00:18:12.044000",
+        "00:18:15.089000",
+        "I'm the team leader... Crusher Joe."
+      ],
+      [
+        685,
+        "00:53:04.052000",
+        "00:53:07.010000",
+        "You must be Crusher Joe and his team."
+      ]
+    ],
+    "regex": "\\b((?!\\bCrusher\\ Joe:)Crusher\\ Joe|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

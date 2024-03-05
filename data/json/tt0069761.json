@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0069761",
+    "title": "Badge 373",
+    "year": 1973,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1357,
+    "occurrences": [
+      [
+        517,
+        "00:37:52.187000",
+        "00:37:55.601000",
+        "But I'm still a cop, badge or no badge. That's the bottom line."
+      ],
+      [
+        693,
+        "00:51:07.982000",
+        "00:51:09.974000",
+        "- Look, I'm a cop, all right? - Badge, please."
+      ],
+      [
+        694,
+        "00:51:10.067000",
+        "00:51:11.433000",
+        "Look I... I haven't got any badge,"
+      ],
+      [
+        696,
+        "00:51:12.945000",
+        "00:51:15.562000",
+        "Regulations say you can't ride free without a badge."
+      ]
+    ],
+    "regex": "\\b((?!\\bBadge:)Badge)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6334354",
+    "title": "The Suicide Squad",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 2171,
+    "occurrences": [
+      [
+        45,
+        "00:02:23.018000",
+        "00:02:25.813000",
+        "- So this is - the famous Suicide Squad."
+      ],
+      [
+        299,
+        "00:15:56.581000",
+        "00:15:59.461000",
+        "- {\\an1}I'm not joining your goddamn - Suicide Squad."
+      ]
+    ],
+    "regex": "\\b((?!\\bSuicide\\ Squad:)Suicide\\ Squad)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

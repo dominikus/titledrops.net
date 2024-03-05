@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1468322",
+    "title": "Oblivion Island: Haruka and the Magic Mirror",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 2,
+    "all_lines": 903,
+    "occurrences": [
+      [
+        43,
+        "00:04:38.558000",
+        "00:04:47.233000",
+        "OBLIVION ISLAND Ha'rkaandtheMagcM''o' Not for sale, rent or auction. -Tx"
+      ],
+      [
+        44,
+        "00:04:47.233000",
+        "00:04:48.791000",
+        "OBLIVION ISLAND"
+      ]
+    ],
+    "regex": "\\b((?!\\bOblivion\\ Island:)Oblivion\\ Island|(?!\\bHaruka\\ and\\ the\\ Magic\\ Mirror:)Haruka\\ and\\ the\\ Magic\\ Mirror)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

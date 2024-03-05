@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt5091014",
+    "title": "Jasper Jones",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1039,
+    "occurrences": [
+      [
+        39,
+        "00:04:06.276000",
+        "00:04:08.557000",
+        "- Who? - Jasper Jones."
+      ],
+      [
+        48,
+        "00:05:03.599000",
+        "00:05:06.573000",
+        "- Why would Jasper Jones ask for my help?"
+      ],
+      [
+        356,
+        "00:28:24.248000",
+        "00:28:26.248000",
+        "that they're looking for Jasper Jones."
+      ],
+      [
+        952,
+        "01:21:55.441000",
+        "01:21:57.107000",
+        "Jasper Jones,"
+      ]
+    ],
+    "regex": "\\b((?!\\bJasper\\ Jones:)Jasper\\ Jones)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [
+      "Jasper Jones"
+    ],
+    "title_is_name": true,
+    "rating": 6.5
+  }
+]

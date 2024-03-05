@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt7807026",
+    "title": "Your Son",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 728,
+    "occurrences": [
+      [
+        132,
+        "00:11:26.713000",
+        "00:11:28.380000",
+        "Your son is progressing well."
+      ],
+      [
+        212,
+        "00:18:55.213000",
+        "00:18:57.547000",
+        "We haven't found your son's cell phone"
+      ],
+      [
+        258,
+        "00:26:27.588000",
+        "00:26:29.713000",
+        "I've very sorry about what happened to your son."
+      ],
+      [
+        498,
+        "00:59:27.630000",
+        "00:59:29.130000",
+        "I saved your son's life."
+      ],
+      [
+        534,
+        "01:03:04.672000",
+        "01:03:06.380000",
+        "You showed me what he did to your son."
+      ]
+    ],
+    "regex": "\\b((?!\\bYour\\ Son:)Your\\ Son)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

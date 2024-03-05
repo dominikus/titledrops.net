@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2403439",
+    "title": "The Canterville Ghost",
+    "year": 2023,
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1753,
+    "occurrences": [
+      [
+        194,
+        "00:12:29.283000",
+        "00:12:31.919000",
+        "So you're the Canterville ghost."
+      ],
+      [
+        725,
+        "00:35:07.775000",
+        "00:35:09.811000",
+        "against the famed Canterville ghost."
+      ]
+    ],
+    "regex": "\\b((?!\\bCanterville\\ Ghost:)Canterville\\ Ghost)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

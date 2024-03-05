@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0055602",
+    "title": "A Difficult Life",
+    "year": 1961,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1146,
+    "occurrences": [
+      [
+        573,
+        "00:56:59.268000",
+        "00:57:04.226000",
+        "The novel is proceeding well, I'd like to call it \"A difficult life\"."
+      ],
+      [
+        865,
+        "01:22:25.476000",
+        "01:22:29.310000",
+        "Did you read my novel \"A difficult life\"?"
+      ],
+      [
+        866,
+        "01:22:29.310000",
+        "01:22:32.893000",
+        "Ah, \"A difficult life\"! Beautiful!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDifficult\\ Life:)Difficult\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

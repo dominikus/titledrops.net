@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt6964554",
+    "title": "Buy Me",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 945,
+    "occurrences": [
+      [
+        186,
+        "00:19:51.429000",
+        "00:19:53.969000",
+        "Garik will buy me this car."
+      ],
+      [
+        188,
+        "00:19:58.719000",
+        "00:20:01.589000",
+        "The guy who will buy me this car."
+      ],
+      [
+        692,
+        "01:12:50.219000",
+        "01:12:53.799000",
+        "\"Buy me!\""
+      ]
+    ],
+    "regex": "\\b((?!\\bBuy\\ Me:)Buy\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

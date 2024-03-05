@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt6068960",
+    "title": "Hatred",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 824,
+    "occurrences": [
+      [
+        4,
+        "00:01:12.334000",
+        "00:01:16.292000",
+        "Hatred"
+      ],
+      [
+        511,
+        "01:16:04.417000",
+        "01:16:08.751000",
+        "With hatred and deceit you'll receive the enemies of your nation."
+      ],
+      [
+        723,
+        "01:51:20.626000",
+        "01:51:24.584000",
+        "is the strength of hatred towards other nations."
+      ],
+      [
+        770,
+        "01:56:03.417000",
+        "01:56:06.334000",
+        "With hatred and deceit"
+      ]
+    ],
+    "regex": "\\b((?!\\bHatred:)Hatred)(?!\\:)(?!'t)\\b",
+    "runtime": 150,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

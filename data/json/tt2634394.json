@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2634394",
+    "title": "Love Battles",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 965,
+    "occurrences": [
+      [
+        555,
+        "00:46:34.488000",
+        "00:46:35.988000",
+        "Love battles!"
+      ],
+      [
+        556,
+        "00:46:38.191000",
+        "00:46:40.291000",
+        "It would be the \"Museum of Love Battles.\""
+      ],
+      [
+        600,
+        "00:49:33.897000",
+        "00:49:35.997000",
+        "For the Museum of Love Battles and all that."
+      ]
+    ],
+    "regex": "\\b((?!\\bLove\\ Battles:)Love\\ Battles)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

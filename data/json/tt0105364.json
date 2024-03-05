@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0105364",
+    "title": "Sevillanas",
+    "year": 1992,
+    "genres": [
+      "Documentary",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 350,
+    "occurrences": [
+      [
+        70,
+        "00:07:42.937000",
+        "00:07:44.877000",
+        "Let's work today on the Boleras Sevillanas"
+      ],
+      [
+        75,
+        "00:07:55.407000",
+        "00:07:57.238000",
+        "...if not, there's no way to do the Boleras Sevillanas"
+      ]
+    ],
+    "regex": "\\b((?!\\bSevillanas:)Sevillanas)(?!\\:)(?!'t)\\b",
+    "runtime": 53,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

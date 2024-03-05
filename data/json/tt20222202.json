@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt20222202",
+    "title": "You're Killing Me",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1317,
+    "occurrences": [
+      [
+        263,
+        "00:14:31.706000",
+        "00:14:33.575000",
+        "Ah, you're killing me."
+      ],
+      [
+        383,
+        "00:20:37.705000",
+        "00:20:38.639000",
+        "You're killing me."
+      ],
+      [
+        384,
+        "00:20:39.439000",
+        "00:20:40.575000",
+        "-You're killing me. -Yes."
+      ],
+      [
+        1314,
+        "01:29:30.838000",
+        "01:29:32.506000",
+        "You're killing me."
+      ]
+    ],
+    "regex": "\\b((?!\\bYou're\\ Killing\\ Me:)You're\\ Killing\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0402115",
+    "title": "Just Sex and Nothing Else",
+    "year": 2005,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1153,
+    "occurrences": [
+      [
+        428,
+        "00:32:02.700000",
+        "00:32:07.296000",
+        "looking for partner with negative AIDS test. Just sex and nothing else."
+      ],
+      [
+        529,
+        "00:39:37.620000",
+        "00:39:40.578000",
+        "\"Just sex and nothing else\"?"
+      ],
+      [
+        639,
+        "00:48:35.180000",
+        "00:48:37.819000",
+        "Listen, this is just sex and nothing else!"
+      ],
+      [
+        693,
+        "00:54:24.020000",
+        "00:54:26.375000",
+        "You said, just sex and nothing else, right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bJust\\ Sex\\ and\\ Nothing\\ Else:)Just\\ Sex\\ and\\ Nothing\\ Else)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

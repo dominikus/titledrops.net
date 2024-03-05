@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt6571636",
+    "title": "Wonderland",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 722,
+    "occurrences": [
+      [
+        150,
+        "00:13:58.360000",
+        "00:14:02.365000",
+        "What brought you to Christmas Wonderland?"
+      ],
+      [
+        151,
+        "00:14:02.440000",
+        "00:14:06.490000",
+        "We call their farm Christmas Wonderland because their ad says, -"
+      ],
+      [
+        154,
+        "00:14:20.320000",
+        "00:14:23.563000",
+        "I came to Christmas Wonderland... Well..."
+      ]
+    ],
+    "regex": "\\b((?!\\bWonderland:)Wonderland)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

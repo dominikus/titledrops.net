@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt8047590",
+    "title": "Frieda: Coming Home",
+    "year": 2020,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1120,
+    "occurrences": [
+      [
+        250,
+        "00:15:51.551000",
+        "00:15:52.616000",
+        "Frieda."
+      ],
+      [
+        251,
+        "00:15:55.688000",
+        "00:15:56.754000",
+        "Frieda?"
+      ],
+      [
+        458,
+        "00:32:15.133000",
+        "00:32:19.102000",
+        "My interest has some to do with great-grandma Frieda."
+      ],
+      [
+        459,
+        "00:32:19.838000",
+        "00:32:21.004000",
+        "Frieda?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFrieda:)Frieda|(?!\\bComing\\ Home:)Coming\\ Home)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

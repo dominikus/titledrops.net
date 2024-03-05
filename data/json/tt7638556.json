@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt7638556",
+    "title": "Come from Away",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "count": 6,
+    "all_lines": 1997,
+    "occurrences": [
+      [
+        11,
+        "00:02:16.345000",
+        "00:02:17.888000",
+        "- If you come from away - Hep!"
+      ],
+      [
+        77,
+        "00:05:29.204000",
+        "00:05:32.833000",
+        "To the ones who have come from away Welcome to the rock"
+      ],
+      [
+        1285,
+        "01:05:13.330000",
+        "01:05:15.249000",
+        "To transition From a come from away"
+      ],
+      [
+        1881,
+        "01:36:12.523000",
+        "01:36:14.942000",
+        "Welcome to the friends Who have come from away"
+      ],
+      [
+        1885,
+        "01:36:21.114000",
+        "01:36:24.660000",
+        "- Because we come from everywhere - We all come from away"
+      ],
+      [
+        1951,
+        "01:39:30.762000",
+        "01:39:32.848000",
+        "To the ones who have come from away"
+      ]
+    ],
+    "regex": "\\b((?!\\bCome\\ from\\ Away:)Come\\ from\\ Away)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.5
+  }
+]

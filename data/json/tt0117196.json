@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0117196",
+    "title": "Nobody's Business",
+    "year": 1996,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1416,
+    "occurrences": [
+      [
+        791,
+        "00:30:55.184000",
+        "00:30:56.256000",
+        "- It's nobody's business."
+      ],
+      [
+        794,
+        "00:31:00.258000",
+        "00:31:02.061000",
+        "It's nobody's business."
+      ]
+    ],
+    "regex": "\\b((?!\\bNobody's\\ Business:)Nobody's\\ Business)(?!\\:)(?!'t)\\b",
+    "runtime": 60,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt6628322",
+    "title": "Shanghai Fortress",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 1051,
+    "occurrences": [
+      [
+        93,
+        "00:06:23.416000",
+        "00:06:26.583000",
+        "was part of the Shanghai Fortress Shield Command Center Logistics Team."
+      ],
+      [
+        497,
+        "00:42:57.333000",
+        "00:43:01.333000",
+        "Shanghai Fortress has turned the situation around and emerged victorious."
+      ],
+      [
+        730,
+        "00:58:36.291000",
+        "00:58:37.875000",
+        "and to defend the Shanghai Fortress."
+      ],
+      [
+        959,
+        "01:24:42.458000",
+        "01:24:45.666000",
+        "This is the latest news from Shanghai Fortress Command Center."
+      ],
+      [
+        1047,
+        "01:36:00.791000",
+        "01:36:01.791000",
+        "Shanghai Fortress."
+      ]
+    ],
+    "regex": "\\b((?!\\bShanghai\\ Fortress:)Shanghai\\ Fortress)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

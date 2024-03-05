@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1587309",
+    "title": "If I Were You",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1976,
+    "occurrences": [
+      [
+        284,
+        "00:16:59.733000",
+        "00:17:01.081000",
+        "I would do everything differently if I were you,"
+      ],
+      [
+        319,
+        "00:18:26.746000",
+        "00:18:28.351000",
+        "I'd go pinker if I were you,"
+      ]
+    ],
+    "regex": "\\b((?!\\bIf\\ I\\ Were\\ You:)If\\ I\\ Were\\ You)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

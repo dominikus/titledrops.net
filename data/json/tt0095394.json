@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0095394",
+    "title": "Jericho",
+    "year": 1991,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 359,
+    "occurrences": [
+      [
+        6,
+        "00:02:56.849000",
+        "00:03:01.152000",
+        "and that Jericho has not fallen, Jericho is in the soul."
+      ],
+      [
+        144,
+        "00:17:43.885000",
+        "00:17:47.888000",
+        "Who said: \"Build Jericho\", so it later can be destroyed?"
+      ],
+      [
+        359,
+        "01:22:43.881000",
+        "01:22:48.585000",
+        "Jericho hasn't fallen, Jericho is in my soul."
+      ]
+    ],
+    "regex": "\\b((?!\\bJericho:)Jericho)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt2122355",
+    "title": "Hickey",
+    "year": 2016,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1370,
+    "occurrences": [
+      [
+        83,
+        "00:06:41.034000",
+        "00:06:42.501000",
+        "Hickey!"
+      ],
+      [
+        215,
+        "00:13:12.424000",
+        "00:13:16.461000",
+        "Hickey! 'Sup big snot?"
+      ],
+      [
+        628,
+        "00:37:35.754000",
+        "00:37:40.423000",
+        "that nickname of yours, \"hickey,\" is it true?"
+      ],
+      [
+        705,
+        "00:41:01.693000",
+        "00:41:03.927000",
+        "Oh! Hello, hickey."
+      ]
+    ],
+    "regex": "\\b((?!\\bHickey:)Hickey)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

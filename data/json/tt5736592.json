@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5736592",
+    "title": "Sam Was Here",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 393,
+    "occurrences": [
+      [
+        108,
+        "00:24:37.280000",
+        "00:24:40.200000",
+        "SAM was here"
+      ],
+      [
+        142,
+        "00:29:38.460000",
+        "00:29:40.370000",
+        "SAM was here"
+      ]
+    ],
+    "regex": "\\b((?!\\bSam\\ Was\\ Here:)Sam\\ Was\\ Here)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

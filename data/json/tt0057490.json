@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt0057490",
+    "title": "The Servant",
+    "year": 1963,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 1069,
+    "occurrences": [
+      [
+        249,
+        "00:27:02.746000",
+        "00:27:05.122000",
+        "I'm sorry I was rude to your servant."
+      ],
+      [
+        250,
+        "00:27:05.248000",
+        "00:27:08.834000",
+        "Look, he may be a servant but he's still a human being."
+      ],
+      [
+        644,
+        "01:08:32.733000",
+        "01:08:34.359000",
+        "I'm the servant, Miss."
+      ],
+      [
+        794,
+        "01:27:09.432000",
+        "01:27:12.351000",
+        "Well, do something about it. You're the bloody servant."
+      ],
+      [
+        868,
+        "01:32:37.218000",
+        "01:32:39.844000",
+        "You're nothing but a servant in this house."
+      ],
+      [
+        869,
+        "01:32:39.971000",
+        "01:32:41.638000",
+        "A servant?"
+      ],
+      [
+        870,
+        "01:32:41.764000",
+        "01:32:43.473000",
+        "I'm nobody's servant."
+      ]
+    ],
+    "regex": "\\b((?!\\bServant:)Servant)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

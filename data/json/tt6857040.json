@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt6857040",
+    "title": "The Appearance",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 976,
+    "occurrences": [
+      [
+        93,
+        "00:10:20.123000",
+        "00:10:22.358000",
+        "Do not let my appearance fool you."
+      ],
+      [
+        854,
+        "01:34:55.310000",
+        "01:34:57.245000",
+        "Do not let my appearance fool you."
+      ]
+    ],
+    "regex": "\\b((?!\\bAppearance:)Appearance)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0372975",
+    "title": "Holla",
+    "year": 2006,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1218,
+    "occurrences": [
+      [
+        329,
+        "00:24:32.671000",
+        "00:24:35.706000",
+        "Look, if you don't scream, I won't holla."
+      ],
+      [
+        1217,
+        "01:21:21.143000",
+        "01:21:24.178000",
+        "( \"Holla Theme Song\" playing )"
+      ]
+    ],
+    "regex": "\\b((?!\\bHolla:)Holla)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

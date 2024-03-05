@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1130884",
+    "title": "Shutter Island",
+    "year": 2010,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1563,
+    "occurrences": [
+      [
+        44,
+        "00:04:49.998000",
+        "00:04:51.164000",
+        "Welcome to Shutter Island."
+      ],
+      [
+        1084,
+        "01:27:34.874000",
+        "01:27:38.335000",
+        "we tested patients on Shutter Island."
+      ]
+    ],
+    "regex": "\\b((?!\\bShutter\\ Island:)Shutter\\ Island)(?!\\:)(?!'t)\\b",
+    "runtime": 138,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.2
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0091322",
+    "title": "Kamikaze",
+    "year": 1986,
+    "genres": [
+      "Crime",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 848,
+    "occurrences": [
+      [
+        667,
+        "01:04:27.750000",
+        "01:04:30.250000",
+        "You're a scientist, not a kamikaze,"
+      ],
+      [
+        668,
+        "01:04:31.709000",
+        "01:04:35.292000",
+        "and the worst is... - You're wrong, I am a kamikaze."
+      ],
+      [
+        697,
+        "01:07:58.334000",
+        "01:08:00.625000",
+        "Kamikaze..."
+      ],
+      [
+        790,
+        "01:19:03.917000",
+        "01:19:07.875000",
+        "- Are you a scientist? - Yes. Not a kamikaze."
+      ]
+    ],
+    "regex": "\\b((?!\\bKamikaze:)Kamikaze)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

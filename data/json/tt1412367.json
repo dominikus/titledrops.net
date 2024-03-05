@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1412367",
+    "title": "Just Another Day",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1335,
+    "occurrences": [
+      [
+        1126,
+        "01:13:08.967000",
+        "01:13:10.718000",
+        "Just another day, man."
+      ],
+      [
+        1245,
+        "01:22:17.849000",
+        "01:22:20.225000",
+        "The new single is Just Another Day On The Block."
+      ]
+    ],
+    "regex": "\\b((?!\\bJust\\ Another\\ Day:)Just\\ Another\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

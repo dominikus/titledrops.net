@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt13131186",
+    "title": "Enemy",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 2478,
+    "occurrences": [
+      [
+        77,
+        "00:03:45.080000",
+        "00:03:46.840000",
+        "And give it back to his enemy."
+      ],
+      [
+        143,
+        "00:06:59.880000",
+        "00:07:02.120000",
+        "if your enemy turned out to be like Chozhan..."
+      ],
+      [
+        1642,
+        "01:29:38.400000",
+        "01:29:40.480000",
+        "When I know I have an enemy..."
+      ]
+    ],
+    "regex": "\\b((?!\\bEnemy:)Enemy)(?!\\:)(?!'t)\\b",
+    "runtime": 159,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

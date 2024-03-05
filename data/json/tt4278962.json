@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt4278962",
+    "title": "All Through the House",
+    "year": 2015,
+    "genres": [
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 923,
+    "occurrences": [
+      [
+        73,
+        "00:08:14.595000",
+        "00:08:15.660000",
+        "all through the house,"
+      ],
+      [
+        75,
+        "00:08:18.098000",
+        "00:08:19.931000",
+        "all through the house look out for Santa"
+      ],
+      [
+        76,
+        "00:08:19.933000",
+        "00:08:22.767000",
+        "all through the house here comes Santa"
+      ],
+      [
+        77,
+        "00:08:22.769000",
+        "00:08:25.270000",
+        "all through the house"
+      ],
+      [
+        78,
+        "00:08:25.272000",
+        "00:08:28.073000",
+        "all through the house here comes Santa"
+      ],
+      [
+        79,
+        "00:08:28.075000",
+        "00:08:31.042000",
+        "all through the house here comes Santa..."
+      ]
+    ],
+    "regex": "\\b((?!\\bAll\\ Through\\ the\\ House:)All\\ Through\\ the\\ House)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

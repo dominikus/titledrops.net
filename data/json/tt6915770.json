@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6915770",
+    "title": "Starfish",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1581,
+    "occurrences": [
+      [
+        1043,
+        "01:13:08.416000",
+        "01:13:10",
+        "Tara, you always wanted a starfish tattoo."
+      ],
+      [
+        1567,
+        "01:54:32.083000",
+        "01:54:35",
+        "Did you know that starfish can heal itself?"
+      ]
+    ],
+    "regex": "\\b((?!\\bStarfish:)Starfish)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

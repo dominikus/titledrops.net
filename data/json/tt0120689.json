@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0120689",
+    "title": "The Green Mile",
+    "year": 1999,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 7,
+    "all_lines": 1783,
+    "occurrences": [
+      [
+        66,
+        "00:08:19.810000",
+        "00:08:22.112000",
+        "We called ours \"The Green Mile.\""
+      ],
+      [
+        371,
+        "00:36:31.852000",
+        "00:36:35.017000",
+        "...walking the Mile, walking the Green Mile."
+      ],
+      [
+        663,
+        "01:06:40.034000",
+        "01:06:41.281000",
+        "The Green Mile."
+      ],
+      [
+        802,
+        "01:15:52.636000",
+        "01:15:56.376000",
+        "You never know what you'll get at work every day on the Green Mile."
+      ],
+      [
+        1737,
+        "02:49:50.858000",
+        "02:49:55.078000",
+        "I was 44 the year that John Coffey walked the Green Mile."
+      ],
+      [
+        1773,
+        "02:52:24.880000",
+        "02:52:29.292000",
+        "And I think about all of us walking our own Green Mile..."
+      ],
+      [
+        1783,
+        "02:53:01.420000",
+        "02:53:04.873000",
+        "...the Green Mile seems so long."
+      ]
+    ],
+    "regex": "\\b((?!\\bGreen\\ Mile:)Green\\ Mile)(?!\\:)(?!'t)\\b",
+    "runtime": 189,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.6
+  }
+]

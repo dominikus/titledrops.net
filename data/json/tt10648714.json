@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt10648714",
+    "title": "Chernobyl: Abyss",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 1035,
+    "occurrences": [
+      [
+        0,
+        "00:00:59.009000",
+        "00:01:02.884000",
+        "ON APRIL 26, 1986, REACTOR NO. 4 OF THE CHERNOBYL NUCLEAR POWER PLANT"
+      ],
+      [
+        198,
+        "00:21:39.842000",
+        "00:21:45.842000",
+        "CHERNOBYL NPP"
+      ],
+      [
+        563,
+        "01:02:38.092000",
+        "01:02:43.134000",
+        "at the Chernobyl Nuclear Power Plant,"
+      ],
+      [
+        1035,
+        "02:08:58.425000",
+        "02:09:05.384000",
+        "DEDICATED TO THE CHERNOBYL LIQUIDATORS"
+      ]
+    ],
+    "regex": "\\b((?!\\bChernobyl:)Chernobyl|(?!\\bAbyss:)Abyss)(?!\\:)(?!'t)\\b",
+    "runtime": 136,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

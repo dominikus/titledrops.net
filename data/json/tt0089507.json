@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0089507",
+    "title": "Louie Bluie",
+    "year": 1985,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 749,
+    "occurrences": [
+      [
+        23,
+        "00:02:11.764000",
+        "00:02:14.392000",
+        "You're just plain ol' Louie Bluie, that's what you are. \""
+      ],
+      [
+        138,
+        "00:11:35.661000",
+        "00:11:38.892000",
+        "You'd say, Here, take it, Louie Bluie. Take it and go. \""
+      ]
+    ],
+    "regex": "\\b((?!\\bLouie\\ Bluie:)Louie\\ Bluie)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

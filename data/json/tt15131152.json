@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt15131152",
+    "title": "Borrowed",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 588,
+    "occurrences": [
+      [
+        339,
+        "00:52:12.131000",
+        "00:52:13.758000",
+        "They're just borrowed."
+      ],
+      [
+        340,
+        "00:52:16.302000",
+        "00:52:18.638000",
+        "Everything is borrowed, don't you think?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBorrowed:)Borrowed)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

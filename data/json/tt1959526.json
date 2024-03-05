@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1959526",
+    "title": "Buttwhistle",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1637,
+    "occurrences": [
+      [
+        307,
+        "00:16:43",
+        "00:16:44.833000",
+        "- He told me to call him Buttwhistle."
+      ],
+      [
+        322,
+        "00:17:23.625000",
+        "00:17:26.958000",
+        "- So did he ever call you to call him Buttwhistle?"
+      ],
+      [
+        326,
+        "00:17:31.917000",
+        "00:17:33.958000",
+        "- You never told me to call you Buttwhistle."
+      ]
+    ],
+    "regex": "\\b((?!\\bButtwhistle:)Buttwhistle)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

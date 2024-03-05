@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0036549",
+    "title": "Yellow Canary",
+    "year": 1943,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1116,
+    "occurrences": [
+      [
+        218,
+        "00:20:55.680000",
+        "00:20:58.360000",
+        "Yellow Canary."
+      ],
+      [
+        1081,
+        "01:30:53.942000",
+        "01:30:57.590000",
+        "that yellow canary, the things you said to her."
+      ]
+    ],
+    "regex": "\\b((?!\\bYellow\\ Canary:)Yellow\\ Canary)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

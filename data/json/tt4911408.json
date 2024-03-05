@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt4911408",
+    "title": "Citizen Soldier",
+    "year": 2016,
+    "genres": [
+      "Documentary",
+      "War"
+    ],
+    "count": 5,
+    "all_lines": 1910,
+    "occurrences": [
+      [
+        125,
+        "00:06:29.356000",
+        "00:06:30.733000",
+        "Being a citizen soldier,"
+      ],
+      [
+        1758,
+        "01:31:21.710000",
+        "01:31:24.748000",
+        "is that term \"citizen soldier\" and what it means."
+      ],
+      [
+        1774,
+        "01:33:09.451000",
+        "01:33:12.557000",
+        "The citizen soldier has been alive since 1636,"
+      ],
+      [
+        1779,
+        "01:34:35.537000",
+        "01:34:37.915000",
+        "to keep the title \"citizen soldier.\""
+      ],
+      [
+        1784,
+        "01:34:48.149000",
+        "01:34:50.891000",
+        "\"citizen soldier,\" with you till the day you die."
+      ]
+    ],
+    "regex": "\\b((?!\\bCitizen\\ Soldier:)Citizen\\ Soldier)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

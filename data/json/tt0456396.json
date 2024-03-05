@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0456396",
+    "title": "The Child",
+    "year": 2005,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 355,
+    "occurrences": [
+      [
+        110,
+        "00:19:50",
+        "00:19:52.958000",
+        "I'm the nurse. Is the mother and the child here?"
+      ],
+      [
+        204,
+        "00:42:45.880000",
+        "00:42:47.518000",
+        "Did you bring the child?"
+      ]
+    ],
+    "regex": "\\b((?!\\bChild:)Child)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

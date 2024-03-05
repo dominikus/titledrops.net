@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0086978",
+    "title": "Blind Date",
+    "year": 1984,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 873,
+    "occurrences": [
+      [
+        123,
+        "00:14:54.148000",
+        "00:14:58.528000",
+        "Always like people on a blind date"
+      ],
+      [
+        127,
+        "00:15:12.667000",
+        "00:15:17.588000",
+        "And not like two kids on a first blind date"
+      ],
+      [
+        133,
+        "00:15:52.165000",
+        "00:15:56.669000",
+        "Always like people on a blind date"
+      ],
+      [
+        137,
+        "00:16:10.850000",
+        "00:16:15.771000",
+        "And not like two kids on a first blind date"
+      ],
+      [
+        138,
+        "00:16:19.400000",
+        "00:16:21.319000",
+        "Blind date"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlind\\ Date:)Blind\\ Date)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

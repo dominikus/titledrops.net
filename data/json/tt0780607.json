@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0780607",
+    "title": "The Signal",
+    "year": 2007,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1139,
+    "occurrences": [
+      [
+        584,
+        "00:47:32.895000",
+        "00:47:35.740000",
+        "For all we know, she might have received this cancerous signal."
+      ],
+      [
+        1007,
+        "01:21:27.293000",
+        "01:21:31.275000",
+        "It's a lie. The signal... it's a trick."
+      ],
+      [
+        1058,
+        "01:28:47.566000",
+        "01:28:50.246000",
+        "It's a trick. The signal..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSignal:)Signal)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2190483",
+    "title": "Living",
+    "year": 2012,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 763,
+    "occurrences": [
+      [
+        512,
+        "01:00:49.160000",
+        "01:00:51.083000",
+        "That's for the dead, not the living..."
+      ],
+      [
+        514,
+        "01:00:53.360000",
+        "01:00:55.362000",
+        "Living. Aren't you?"
+      ],
+      [
+        615,
+        "01:28:07.720000",
+        "01:28:13.568000",
+        "When I was living with him, every day I wanted to kill him..."
+      ]
+    ],
+    "regex": "\\b((?!\\bLiving:)Living)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

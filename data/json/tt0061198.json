@@ -1,0 +1,40 @@
+[
+  {
+    "imdb": "tt0061198",
+    "title": "Old Firehand",
+    "year": 1966,
+    "genres": [
+      "Adventure",
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 742,
+    "occurrences": [
+      [
+        23,
+        "00:06:41.985000",
+        "00:06:44.987000",
+        "They call him Old Firehand."
+      ],
+      [
+        24,
+        "00:06:46.156000",
+        "00:06:50.785000",
+        "Old Firehand. The trapper from the mountains. Now I understand."
+      ],
+      [
+        83,
+        "00:14:51.557000",
+        "00:14:55.642000",
+        "if Firehand hadn't helped us. - You are Old Firehand?"
+      ]
+    ],
+    "regex": "\\b((?!\\bOld\\ Firehand:)Old\\ Firehand)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [
+      "Old Firehand"
+    ],
+    "title_is_name": true,
+    "rating": 5.2
+  }
+]

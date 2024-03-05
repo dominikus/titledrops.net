@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0050481",
+    "title": "The Halliday Brand",
+    "year": 1957,
+    "genres": [
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 806,
+    "occurrences": [
+      [
+        139,
+        "00:12:10.566000",
+        "00:12:12.726000",
+        "But outside of that, you've got the Halliday brand."
+      ],
+      [
+        587,
+        "00:50:15.895000",
+        "00:50:19.426000",
+        "Martha .. the Halliday brand stands for certain things."
+      ]
+    ],
+    "regex": "\\b((?!\\bHalliday\\ Brand:)Halliday\\ Brand)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt2069719",
+    "title": "Attack on the Pin-Up Boys",
+    "year": 2007,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 632,
+    "occurrences": [
+      [
+        70,
+        "00:11:13.472000",
+        "00:11:17.966000",
+        "\"Attack on the pin-up boys\""
+      ],
+      [
+        71,
+        "00:11:18.010000",
+        "00:11:20.478000",
+        "Attack on the pin-up boys"
+      ],
+      [
+        102,
+        "00:14:58.330000",
+        "00:15:03.996000",
+        "you've heard of the Attack on the pin-up boys, right?"
+      ],
+      [
+        119,
+        "00:18:32.344000",
+        "00:18:37.213000",
+        "You know that attack on the pin-up boys? They say our school is next"
+      ]
+    ],
+    "regex": "\\b((?!\\bAttack\\ on\\ the\\ Pin\\-Up\\ Boys:)Attack\\ on\\ the\\ Pin\\-Up\\ Boys)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

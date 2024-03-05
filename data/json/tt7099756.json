@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt7099756",
+    "title": "Hotel Jugoslavija",
+    "year": 2017,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "count": 6,
+    "all_lines": 570,
+    "occurrences": [
+      [
+        163,
+        "00:20:44.520000",
+        "00:20:49.320000",
+        "Hotel Jugoslavija was the biggest hotel of the Balkans,"
+      ],
+      [
+        173,
+        "00:21:30.880000",
+        "00:21:33.480000",
+        "Everyone came to hotel Jugoslavija."
+      ],
+      [
+        175,
+        "00:21:38.120000",
+        "00:21:41.360000",
+        "worked at the hotel Jugoslavija."
+      ],
+      [
+        198,
+        "00:23:14.360000",
+        "00:23:20.400000",
+        "On the 7th of May, 1999, hotel Jugoslavija was bombed."
+      ],
+      [
+        455,
+        "00:58:05.080000",
+        "00:58:08.240000",
+        "and allowed hotel Jugoslavija to run successfully."
+      ],
+      [
+        456,
+        "00:58:26.320000",
+        "00:58:30.680000",
+        "Following the bombings, hotel Jugoslavija,"
+      ]
+    ],
+    "regex": "\\b((?!\\bHotel\\ Jugoslavija:)Hotel\\ Jugoslavija)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

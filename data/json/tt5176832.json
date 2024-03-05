@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt5176832",
+    "title": "The Doll",
+    "year": 2017,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 838,
+    "occurrences": [
+      [
+        170,
+        "00:12:47.515000",
+        "00:12:50.085000",
+        "This, my friend, is the Doll."
+      ],
+      [
+        755,
+        "01:07:37.802000",
+        "01:07:41.903000",
+        "the Doll."
+      ]
+    ],
+    "regex": "\\b((?!\\bDoll:)Doll)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [
+      "The Doll"
+    ],
+    "title_is_name": true,
+    "rating": 2.3
+  }
+]

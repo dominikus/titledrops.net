@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0074720",
+    "title": "The Toy",
+    "year": 1976,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 855,
+    "occurrences": [
+      [
+        191,
+        "00:18:44.820000",
+        "00:18:47.823000",
+        "Look, we're going to choose the best toy in the store."
+      ],
+      [
+        301,
+        "00:28:30.820000",
+        "00:28:33.004000",
+        "I'm not accustomed to being treated like a toy."
+      ],
+      [
+        439,
+        "00:43:14.020000",
+        "00:43:16.716000",
+        "Buying a journalist as a toy..."
+      ],
+      [
+        730,
+        "01:17:12.490000",
+        "01:17:14.253000",
+        "I'm a toy."
+      ]
+    ],
+    "regex": "\\b((?!\\bToy:)Toy)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

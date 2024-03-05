@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0315733",
+    "title": "21 Grams",
+    "year": 2003,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1069,
+    "occurrences": [
+      [
+        1054,
+        "01:56:04.358000",
+        "01:56:07.776000",
+        "They say we all lose 21 grams..."
+      ],
+      [
+        1057,
+        "01:56:15.363000",
+        "01:56:19.452000",
+        "And how much fits into 21 grams?"
+      ],
+      [
+        1059,
+        "01:56:36.455000",
+        "01:56:38.954000",
+        "When do we lose 21 grams?"
+      ],
+      [
+        1063,
+        "01:57:37.120000",
+        "01:57:40.039000",
+        "21 grams."
+      ],
+      [
+        1067,
+        "01:57:51.414000",
+        "01:57:54.633000",
+        "How much did 21 grams weigh?"
+      ]
+    ],
+    "regex": "\\b((?!\\b21\\ Grams:)21\\ Grams)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

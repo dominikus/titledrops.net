@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1307873",
+    "title": "The Big Bang",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1007,
+    "occurrences": [
+      [
+        478,
+        "00:49:09.800000",
+        "00:49:14.400000",
+        "We will recreate conditions 3 tenths of a second after the Big Bang."
+      ],
+      [
+        668,
+        "01:02:32.300000",
+        "01:02:37.400000",
+        "We recreate the existing conditions a tenth of a second after the Big Bang."
+      ]
+    ],
+    "regex": "\\b((?!\\bBig\\ Bang:)Big\\ Bang)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

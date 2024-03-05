@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2186566",
+    "title": "The Little Ghost",
+    "year": 2013,
+    "genres": [
+      "Family",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 882,
+    "occurrences": [
+      [
+        7,
+        "00:01:43.880000",
+        "00:01:49.842000",
+        "when the town clock struck midnight, awakening the little ghost"
+      ],
+      [
+        231,
+        "00:23:19.880000",
+        "00:23:23.043000",
+        "- It was the little ghost - Yes?"
+      ],
+      [
+        296,
+        "00:28:31.720000",
+        "00:28:36.521000",
+        "Yes! There's the ghost! Karl! The little ghost!"
+      ],
+      [
+        745,
+        "01:13:53.640000",
+        "01:13:57.201000",
+        "- The little ghost is awake - Super ..."
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Ghost:)Little\\ Ghost)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

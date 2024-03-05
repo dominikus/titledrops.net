@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1063327",
+    "title": "Bare Knuckles",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1586,
+    "occurrences": [
+      [
+        987,
+        "00:56:24.375000",
+        "00:56:26.206000",
+        "Let me show you what bare knuckles is all about."
+      ],
+      [
+        1034,
+        "00:59:32.855000",
+        "00:59:35.153000",
+        "- Well, now that it's bare knuckles,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBare\\ Knuckles:)Bare\\ Knuckles)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

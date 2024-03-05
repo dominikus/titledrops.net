@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1708534",
+    "title": "The Dragon Pearl",
+    "year": 2011,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 5,
+    "all_lines": 1017,
+    "occurrences": [
+      [
+        639,
+        "00:45:30.436000",
+        "00:45:31.562000",
+        "Dragon pearl? Pearl Dragon what?"
+      ],
+      [
+        643,
+        "00:45:41.530000",
+        "00:45:43.199000",
+        "Dragon pearl you where?"
+      ],
+      [
+        701,
+        "00:52:03.704000",
+        "00:52:06.248000",
+        "You must return to the Dragon Pearl Dragon."
+      ],
+      [
+        737,
+        "00:53:52.688000",
+        "00:53:55.357000",
+        "We must return to the Dragon Pearl Dragon."
+      ],
+      [
+        885,
+        "01:08:44.329000",
+        "01:08:48.708000",
+        "But I know better than anyone else about this Dragon Pearl."
+      ]
+    ],
+    "regex": "\\b((?!\\bDragon\\ Pearl:)Dragon\\ Pearl)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

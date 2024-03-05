@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2461132",
+    "title": "Happy New Year",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 4,
+    "all_lines": 2225,
+    "occurrences": [
+      [
+        659,
+        "00:51:16.691000",
+        "00:51:17.658000",
+        "Happy New Year -"
+      ],
+      [
+        1720,
+        "02:07:35.837000",
+        "02:07:37.637000",
+        "task name Happy New Year - (Happy New Year)"
+      ],
+      [
+        1878,
+        "02:19:46.746000",
+        "02:19:48.180000",
+        "brother Charlie Do Happy New Year -"
+      ]
+    ],
+    "regex": "\\b((?!\\bHappy\\ New\\ Year:)Happy\\ New\\ Year)(?!\\:)(?!'t)\\b",
+    "runtime": 180,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

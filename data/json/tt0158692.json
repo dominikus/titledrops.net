@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt0158692",
+    "title": "Juha",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 49,
+    "occurrences": [
+      [
+        6,
+        "00:08:31.704000",
+        "00:08:33.137000",
+        "Juha is a good man."
+      ],
+      [
+        22,
+        "00:25:13.304000",
+        "00:25:16.057000",
+        "I belong to someone else...Juha."
+      ]
+    ],
+    "regex": "\\b((?!\\bJuha:)Juha)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [
+      "Juha"
+    ],
+    "title_is_name": true,
+    "rating": 6.8
+  }
+]

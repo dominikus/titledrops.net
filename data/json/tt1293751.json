@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1293751",
+    "title": "Casting By",
+    "year": 2012,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1908,
+    "occurrences": [
+      [
+        401,
+        "00:19:07.102000",
+        "00:19:12.194000",
+        "You're casting by, but I do not call them directors,"
+      ],
+      [
+        704,
+        "00:32:23.028000",
+        "00:32:26.770000",
+        "\"Casting by Lynn Stalmaster\""
+      ],
+      [
+        710,
+        "00:32:48.923000",
+        "00:32:52.796000",
+        "You start to see \"Casting by\" as a credit."
+      ]
+    ],
+    "regex": "\\b((?!\\bCasting\\ By:)Casting\\ By)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

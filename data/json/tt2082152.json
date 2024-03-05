@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2082152",
+    "title": "13 Eerie",
+    "year": 2013,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1187,
+    "occurrences": [
+      [
+        57,
+        "00:04:54.560000",
+        "00:04:56.233000",
+        "13 Eerie's the ideal spot."
+      ],
+      [
+        110,
+        "00:07:57.143000",
+        "00:07:59.384000",
+        "Plot 13 Eerie Strait is now uninhabited,"
+      ]
+    ],
+    "regex": "\\b((?!\\b13\\ Eerie:)13\\ Eerie)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

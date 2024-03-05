@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt12802708",
+    "title": "With/in: Volume 1",
+    "year": 2021,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 789,
+    "occurrences": [
+      [
+        0,
+        "00:00:43.640000",
+        "00:00:46.600000",
+        "WITH/IN"
+      ],
+      [
+        1,
+        "00:00:50.600000",
+        "00:00:52.759000",
+        "VOLUME 1"
+      ]
+    ],
+    "regex": "\\b((?!\\bWith/in:)With/in|(?!\\bVolume:)Volume)(?!\\:)(?!'t)\\b",
+    "runtime": 73,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

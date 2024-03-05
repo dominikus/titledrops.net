@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1816561",
+    "title": "Control Tower",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 645,
+    "occurrences": [
+      [
+        6,
+        "00:01:02.190000",
+        "00:01:08.530000",
+        "the control tower (tower)"
+      ],
+      [
+        342,
+        "00:34:23.480000",
+        "00:34:24.220000",
+        "control tower?"
+      ],
+      [
+        350,
+        "00:37:35.870000",
+        "00:37:37.550000",
+        "it really looks like a control tower"
+      ],
+      [
+        351,
+        "00:37:40.080000",
+        "00:37:40.680000",
+        "control tower?"
+      ],
+      [
+        354,
+        "00:37:52.800000",
+        "00:37:55.290000",
+        "only the control tower"
+      ]
+    ],
+    "regex": "\\b((?!\\bControl\\ Tower:)Control\\ Tower)(?!\\:)(?!'t)\\b",
+    "runtime": 68,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "imdb": "tt0493118",
+    "title": "The Deal",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 9,
+    "all_lines": 1096,
+    "occurrences": [
+      [
+        1,
+        "00:01:08.700000",
+        "00:01:12.300000",
+        "Just live up to your part of the deal and this will all be over soon."
+      ],
+      [
+        665,
+        "00:50:12.600000",
+        "00:50:16.470000",
+        "he never cut a deal or mentioned my name."
+      ],
+      [
+        827,
+        "00:58:51.570000",
+        "00:58:54.100000",
+        "He cut the deal to sell out the Colombians in Miami"
+      ],
+      [
+        829,
+        "00:58:56.200000",
+        "00:58:58.600000",
+        "But the deal went bad."
+      ],
+      [
+        981,
+        "01:13:44.330000",
+        "01:13:49.170000",
+        "-I didn't know you could be so mercenary. -I want a deal."
+      ],
+      [
+        990,
+        "01:14:19.470000",
+        "01:14:21.370000",
+        "We have a deal."
+      ],
+      [
+        1063,
+        "01:20:36.100000",
+        "01:20:40.430000",
+        "-No! That wasn't the deal. -I know what the deal was."
+      ],
+      [
+        1064,
+        "01:20:40.470000",
+        "01:20:43.630000",
+        "But there's only one way to deal with a couple of rats."
+      ]
+    ],
+    "regex": "\\b((?!\\bDeal:)Deal)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4041916",
+    "title": "Ditch Party",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1509,
+    "occurrences": [
+      [
+        204,
+        "00:13:01.117000",
+        "00:13:02.696000",
+        "Ditch party with the star quarterback?"
+      ],
+      [
+        1024,
+        "00:57:31.407000",
+        "00:57:33.346000",
+        "- Some ditch party, huh?"
+      ],
+      [
+        1030,
+        "00:57:43.665000",
+        "00:57:45.826000",
+        "I got invited to a ditch party."
+      ]
+    ],
+    "regex": "\\b((?!\\bDitch\\ Party:)Ditch\\ Party)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

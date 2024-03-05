@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1159502",
+    "title": "Eiga: Kurosagi",
+    "year": 2008,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 578,
+    "occurrences": [
+      [
+        0,
+        "00:00:02",
+        "00:00:02.898000",
+        "\"Kurosagi - the movie\" Subtitles by NEWShFAN Please credit me if you use these subtitles for translations/adjustments - Thanks -"
+      ],
+      [
+        50,
+        "00:05:46.050000",
+        "00:05:53.070000",
+        "\"Kurosagi\""
+      ],
+      [
+        402,
+        "00:38:23.990000",
+        "00:38:29.917000",
+        "Because of that... Kurosaki became a kurosagi"
+      ],
+      [
+        458,
+        "00:50:49.640000",
+        "00:50:52.564000",
+        "Stop being a kurosagi"
+      ]
+    ],
+    "regex": "\\b((?!\\bEiga:)Eiga|(?!\\bKurosagi:)Kurosagi)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

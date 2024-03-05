@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0093424",
+    "title": "Lionheart",
+    "year": 1987,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 652,
+    "occurrences": [
+      [
+        16,
+        "00:05:46.580000",
+        "00:05:49.182000",
+        "I am joining the crusade of Richard the Lionheart."
+      ],
+      [
+        111,
+        "00:21:26.619000",
+        "00:21:28.921000",
+        "to join Richard the Lionheart?"
+      ],
+      [
+        363,
+        "00:56:57.081000",
+        "00:57:01.151000",
+        "Not, it seems, if they should join with the Lionheart."
+      ],
+      [
+        364,
+        "00:57:01.218000",
+        "00:57:04.354000",
+        "Richard the Lionheart is a shadow of a man,"
+      ],
+      [
+        487,
+        "01:10:47.076000",
+        "01:10:51.114000",
+        "We are traveling south to join king Richard the Lionheart."
+      ]
+    ],
+    "regex": "\\b((?!\\bLionheart:)Lionheart)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

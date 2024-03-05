@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0290867",
+    "title": "La spagnola",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 518,
+    "occurrences": [
+      [
+        52,
+        "00:09:00.200000",
+        "00:09:02.839000",
+        "Eh! La Spagnola!"
+      ],
+      [
+        149,
+        "00:23:41.280000",
+        "00:23:44.716000",
+        "Renato, give La Spagnola a glass of wine, she needs it."
+      ],
+      [
+        354,
+        "00:53:21.360000",
+        "00:53:22.270000",
+        "La Spagnola!"
+      ]
+    ],
+    "regex": "\\b((?!\\bLa\\ spagnola:)La\\ spagnola)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

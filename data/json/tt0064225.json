@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0064225",
+    "title": "Last Known Address",
+    "year": 1970,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1215,
+    "occurrences": [
+      [
+        240,
+        "00:25:10.679000",
+        "00:25:13.024000",
+        "Last known address, Cite de la Glaciere."
+      ],
+      [
+        251,
+        "00:25:37.899000",
+        "00:25:39.192000",
+        "and last known address."
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Known\\ Address:)Last\\ Known\\ Address)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

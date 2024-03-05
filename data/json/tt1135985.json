@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1135985",
+    "title": "Sex Drive",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1913,
+    "occurrences": [
+      [
+        0,
+        "00:00:04.384000",
+        "00:00:08.821000",
+        "Hello, my name is Sean Anders. Screenwriter and director of Sex Drive."
+      ],
+      [
+        2,
+        "00:00:13.627000",
+        "00:00:18.462000",
+        "- This is John Morris. - Screenwriter and producer of Sex Drive."
+      ],
+      [
+        5,
+        "00:00:22.803000",
+        "00:00:24.703000",
+        "...Sex Drive. - Sex Drive."
+      ],
+      [
+        24,
+        "00:01:21.628000",
+        "00:01:26.156000",
+        "So, if you've never seen Sex Drive before, please, for real,"
+      ]
+    ],
+    "regex": "\\b((?!\\bSex\\ Drive:)Sex\\ Drive)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

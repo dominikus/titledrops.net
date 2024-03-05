@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0089543",
+    "title": "The Man with One Red Shoe",
+    "year": 1985,
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 978,
+    "occurrences": [
+      [
+        146,
+        "00:14:00.339000",
+        "00:14:04.332000",
+        "The man with one red shoe."
+      ],
+      [
+        778,
+        "01:09:36.672000",
+        "01:09:40.676000",
+        "The man with one red shoe is of no use to me anymore."
+      ],
+      [
+        972,
+        "01:27:32.747000",
+        "01:27:36.751000",
+        " And, uh, the man with one red shoe."
+      ]
+    ],
+    "regex": "\\b((?!\\bMan\\ with\\ One\\ Red\\ Shoe:)Man\\ with\\ One\\ Red\\ Shoe)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

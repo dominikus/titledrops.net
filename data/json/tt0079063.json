@@ -1,0 +1,40 @@
+[
+  {
+    "imdb": "tt0079063",
+    "title": "Don Giovanni",
+    "year": 1979,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 1025,
+    "occurrences": [
+      [
+        228,
+        "00:26:08.608000",
+        "00:26:10.166000",
+        "Don Giovanni!"
+      ],
+      [
+        514,
+        "00:48:12.464000",
+        "00:48:13.453000",
+        "Don Giovanni!"
+      ],
+      [
+        719,
+        "01:05:19.323000",
+        "01:05:22.349000",
+        "My dear Don Giovanni, all is rotten."
+      ]
+    ],
+    "regex": "\\b((?!\\bDon\\ Giovanni:)Don\\ Giovanni)(?!\\:)(?!'t)\\b",
+    "runtime": 176,
+    "characters": [
+      "Don Giovanni"
+    ],
+    "title_is_name": true,
+    "rating": 7.6
+  }
+]

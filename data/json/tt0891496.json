@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0891496",
+    "title": "The Fox Family",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 853,
+    "occurrences": [
+      [
+        557,
+        "01:01:16.939000",
+        "01:01:21.706000",
+        "The Fox Family starts their day by making medicine."
+      ],
+      [
+        668,
+        "01:13:56.131000",
+        "01:13:59.294000",
+        "The fox family saved the person who tried to kill herself."
+      ]
+    ],
+    "regex": "\\b((?!\\bFox\\ Family:)Fox\\ Family)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "imdb": "tt4951982",
+    "title": "The Command",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 12,
+    "all_lines": 1153,
+    "occurrences": [
+      [
+        192,
+        "00:18:31.600000",
+        "00:18:33.700000",
+        "- My first command. - Uh-hmm."
+      ],
+      [
+        213,
+        "00:19:40.080000",
+        "00:19:42.959000",
+        "- Is Admiral Grudzinsky on Klite? - At sea and in command."
+      ],
+      [
+        252,
+        "00:22:54.920000",
+        "00:22:57.878000",
+        "Command priority carmady, to speak to the captain."
+      ],
+      [
+        271,
+        "00:24:53.640000",
+        "00:24:56.792000",
+        "Command. Command this is compartment 7, come in."
+      ],
+      [
+        272,
+        "00:24:57.040000",
+        "00:24:59.200000",
+        "Command this is compartment 7, come in."
+      ],
+      [
+        273,
+        "00:24:59.240000",
+        "00:25:01.550000",
+        "- Why isn't command responding? - Because they're dead, that's why."
+      ],
+      [
+        277,
+        "00:25:08.800000",
+        "00:25:11.155000",
+        "Command, this compartment 7, come in."
+      ],
+      [
+        278,
+        "00:25:13",
+        "00:25:15.600000",
+        "Command, this compartment 7, come in."
+      ],
+      [
+        517,
+        "00:46:31.400000",
+        "00:46:32.913000",
+        "Fleet command."
+      ],
+      [
+        960,
+        "01:24:44.720000",
+        "01:24:47",
+        "So you have taken over my command?"
+      ],
+      [
+        962,
+        "01:24:50.280000",
+        "01:24:52.800000",
+        "And pending formal transfer of command,"
+      ]
+    ],
+    "regex": "\\b((?!\\bCommand:)Command)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

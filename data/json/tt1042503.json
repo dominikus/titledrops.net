@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1042503",
+    "title": "The Offerings",
+    "year": 2009,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 70,
+    "occurrences": [
+      [
+        7,
+        "00:13:50.200000",
+        "00:13:54.500000",
+        "Accept our offerings, and travel safe, please."
+      ],
+      [
+        21,
+        "00:30:22.400000",
+        "00:30:28.500000",
+        "kindly accept these offerings before you go travel safely, and leave us in peace."
+      ]
+    ],
+    "regex": "\\b((?!\\bOfferings:)Offerings)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3
+  }
+]

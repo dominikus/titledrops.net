@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3852066",
+    "title": "Manny Lewis",
+    "year": 2015,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1113,
+    "occurrences": [
+      [
+        974,
+        "01:11:37.001000",
+        "01:11:40.042000",
+        "Manny Lewis Live will commence shortly."
+      ],
+      [
+        995,
+        "01:13:16.959000",
+        "01:13:19.917000",
+        "please welcome our very own funnyman, Manny Lewis."
+      ]
+    ],
+    "regex": "\\b((?!\\bManny\\ Lewis:)Manny\\ Lewis)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [
+      "Manny Lewis"
+    ],
+    "title_is_name": true,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt1712192",
+    "title": "Message from the King",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 1,
+    "all_lines": 1037,
+    "occurrences": [
+      [
+        223,
+        "00:21:10.769000",
+        "00:21:15.607000",
+        "Whoever you work for, tell them this was a message from the King."
+      ]
+    ],
+    "regex": "\\b((?!\\bMessage\\ from\\ the\\ King:)Message\\ from\\ the\\ King)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

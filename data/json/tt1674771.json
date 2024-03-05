@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1674771",
+    "title": "Entourage",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2511,
+    "occurrences": [
+      [
+        116,
+        "00:07:30.651000",
+        "00:07:32.751000",
+        "We caught up with Chase and his entourage"
+      ],
+      [
+        118,
+        "00:07:34.822000",
+        "00:07:36.488000",
+        "Who's he callin' an entourage?"
+      ]
+    ],
+    "regex": "\\b((?!\\bEntourage:)Entourage)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

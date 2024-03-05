@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7336410",
+    "title": "Suleiman Mountain",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 732,
+    "occurrences": [
+      [
+        78,
+        "00:09:34.702000",
+        "00:09:38.061000",
+        "Suleiman mountain heard our prayers."
+      ],
+      [
+        653,
+        "01:16:20.382000",
+        "01:16:28.382000",
+        "Let our sister know, the holy spirits of the Suleiman Mountain."
+      ]
+    ],
+    "regex": "\\b((?!\\bSuleiman\\ Mountain:)Suleiman\\ Mountain)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0106333",
+    "title": "Baazigar",
+    "year": 1993,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 617,
+    "occurrences": [
+      [
+        267,
+        "00:34:57.826000",
+        "00:35:01.023000",
+        "And one who wins after losing is known as 'Baazigar'(a juggler)."
+      ],
+      [
+        268,
+        "00:35:07.569000",
+        "00:35:10.367000",
+        "- What is such a person known as? - A 'Baazigar'."
+      ]
+    ],
+    "regex": "\\b((?!\\bBaazigar:)Baazigar)(?!\\:)(?!'t)\\b",
+    "runtime": 175,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

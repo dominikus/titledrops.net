@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3358296",
+    "title": "Nightmare 2: The Nightmare Continues",
+    "year": 2014,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 609,
+    "occurrences": [
+      [
+        4,
+        "00:00:55.534000",
+        "00:00:59.675000",
+        "NIGHTMARE 2 The Nightmare Continues"
+      ],
+      [
+        356,
+        "00:39:00.294000",
+        "00:39:04.276000",
+        "This nightmare will never end if I leave now. - I can't leave you."
+      ]
+    ],
+    "regex": "\\b((?!\\bNightmare:)Nightmare|(?!\\bNightmare\\ Continues:)Nightmare\\ Continues)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

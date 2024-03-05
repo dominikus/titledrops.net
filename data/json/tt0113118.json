@@ -1,0 +1,74 @@
+[
+  {
+    "imdb": "tt0113118",
+    "title": "Friday",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 9,
+    "all_lines": 941,
+    "occurrences": [
+      [
+        3,
+        "00:00:06.480000",
+        "00:00:07.879000",
+        "'cause it's Friday,"
+      ],
+      [
+        45,
+        "00:02:12.760000",
+        "00:02:15.558000",
+        "Friday is just the day before the weekend."
+      ],
+      [
+        46,
+        "00:02:15.640000",
+        "00:02:17.471000",
+        "But after this Friday,"
+      ],
+      [
+        154,
+        "00:47:32.160000",
+        "00:47:34.640000",
+        "\"It's Friday. I'm gonna get you high.\""
+      ],
+      [
+        880,
+        "01:24:50.560000",
+        "01:24:52.920000",
+        "# It's Friday night, so everything is popping"
+      ],
+      [
+        895,
+        "01:25:26.080000",
+        "01:25:28.440000",
+        "# Fool, 'cause it's Friday"
+      ],
+      [
+        900,
+        "01:25:37.080000",
+        "01:25:39",
+        "# Standing outside on the Friday"
+      ],
+      [
+        916,
+        "01:26:15.040000",
+        "01:26:17.400000",
+        "# Getting beat like a smoker, fool, 'cause it's Friday"
+      ],
+      [
+        938,
+        "01:27:14.560000",
+        "01:27:17.358000",
+        "# And that ain't cool, fool, 'cause it's Friday"
+      ]
+    ],
+    "regex": "\\b((?!\\bFriday:)Friday)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

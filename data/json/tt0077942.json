@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0077942",
+    "title": "Moment by Moment",
+    "year": 1978,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1206,
+    "occurrences": [
+      [
+        1187,
+        "01:42:55.770000",
+        "01:42:59.307000",
+        "* Moment by moment"
+      ],
+      [
+        1194,
+        "01:43:24.332000",
+        "01:43:27.869000",
+        "* Moment by moment"
+      ],
+      [
+        1201,
+        "01:43:52.560000",
+        "01:43:56.864000",
+        "* Moment by moment"
+      ]
+    ],
+    "regex": "\\b((?!\\bMoment\\ by\\ Moment:)Moment\\ by\\ Moment)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

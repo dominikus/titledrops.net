@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0073096",
+    "title": "Hearts of the West",
+    "year": 1975,
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 1587,
+    "occurrences": [
+      [
+        989,
+        "01:04:10.380000",
+        "01:04:12.147000",
+        "\"Hearts of the west..."
+      ],
+      [
+        1353,
+        "01:24:50.453000",
+        "01:24:52.286000",
+        "\"Hearts of the west.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bHearts\\ of\\ the\\ West:)Hearts\\ of\\ the\\ West)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

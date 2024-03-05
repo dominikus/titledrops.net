@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0826606",
+    "title": "Police",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 5,
+    "all_lines": 1024,
+    "occurrences": [
+      [
+        700,
+        "01:07:19.040000",
+        "01:07:20.917000",
+        "We could ask our police friends."
+      ],
+      [
+        929,
+        "01:33:30.880000",
+        "01:33:32.393000",
+        "Let's go to the police."
+      ],
+      [
+        933,
+        "01:33:42.680000",
+        "01:33:44.955000",
+        "We can't go to the police, they won't be any help."
+      ],
+      [
+        955,
+        "01:35:59.480000",
+        "01:36:02.597000",
+        "No eye witnesses have reported to the police."
+      ],
+      [
+        956,
+        "01:36:02.840000",
+        "01:36:05.673000",
+        "The police investigation continues."
+      ]
+    ],
+    "regex": "\\b((?!\\bPolice:)Police)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

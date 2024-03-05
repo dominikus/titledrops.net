@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1772264",
+    "title": "Stonehearst Asylum",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1339,
+    "occurrences": [
+      [
+        420,
+        "00:32:36.088000",
+        "00:32:40.357000",
+        "rightful Superintendent of Stonehearst asylum."
+      ],
+      [
+        993,
+        "01:12:24.707000",
+        "01:12:27.342000",
+        "You are a patient at Stonehearst Asylum."
+      ]
+    ],
+    "regex": "\\b((?!\\bStonehearst\\ Asylum:)Stonehearst\\ Asylum)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

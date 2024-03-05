@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0372334",
+    "title": "House of D",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1231,
+    "occurrences": [
+      [
+        163,
+        "00:12:03.060000",
+        "00:12:04.732000",
+        "outside the Women's House of D.,"
+      ],
+      [
+        391,
+        "00:25:51.740000",
+        "00:25:54.334000",
+        "I used to go to the House of D. To count my money."
+      ],
+      [
+        1055,
+        "01:15:16.940000",
+        "01:15:18.771000",
+        "Well, the women's house of detention"
+      ],
+      [
+        1067,
+        "01:16:18.460000",
+        "01:16:20.928000",
+        "and you were in the women's house of detention."
+      ],
+      [
+        1186,
+        "01:26:38.260000",
+        "01:26:40.012000",
+        "Women's House of D."
+      ]
+    ],
+    "regex": "\\b((?!\\bHouse\\ of:)House\\ of)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

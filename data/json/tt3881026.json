@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3881026",
+    "title": "Rendel: Dark Vengeance",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 667,
+    "occurrences": [
+      [
+        126,
+        "00:14:28.541000",
+        "00:14:31.291000",
+        "What the hell does \"Rendel\" mean?"
+      ],
+      [
+        459,
+        "00:52:19.916000",
+        "00:52:23",
+        "He calls himself Rendel."
+      ],
+      [
+        585,
+        "01:18:28.208000",
+        "01:18:31.833000",
+        "Do you know what \"Rendel\" means? I mean the word."
+      ],
+      [
+        666,
+        "01:41:41.833000",
+        "01:41:44.958000",
+        "And I will take care of this Rendel,"
+      ]
+    ],
+    "regex": "\\b((?!\\bRendel:)Rendel|(?!\\bDark\\ Vengeance:)Dark\\ Vengeance)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

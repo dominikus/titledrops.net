@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2298990",
+    "title": "Life Is Beautiful",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1976,
+    "occurrences": [
+      [
+        1508,
+        "02:05:24.829000",
+        "02:05:27.491000",
+        "Life is beautiful only if you've money.- Not like that."
+      ],
+      [
+        1509,
+        "02:05:27.632000",
+        "02:05:30.499000",
+        "lf you've heart, life is beautiful."
+      ],
+      [
+        1545,
+        "02:08:59.043000",
+        "02:09:02.535000",
+        "lf you've money, life is beautiful! Forget her!"
+      ]
+    ],
+    "regex": "\\b((?!\\bLife\\ Is\\ Beautiful:)Life\\ Is\\ Beautiful)(?!\\:)(?!'t)\\b",
+    "runtime": 169,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

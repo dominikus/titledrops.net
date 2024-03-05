@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1124388",
+    "title": "Play the Game",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 2016,
+    "occurrences": [
+      [
+        175,
+        "00:07:45.624000",
+        "00:07:47.123000",
+        "how to play the game."
+      ],
+      [
+        323,
+        "00:13:50.933000",
+        "00:13:52.932000",
+        "But if you have patience and play the game right,"
+      ],
+      [
+        1939,
+        "01:37:49.638000",
+        "01:37:52.138000",
+        "you have to play the game."
+      ],
+      [
+        2004,
+        "01:40:10.743000",
+        "01:40:13.242000",
+        "but if you have patience and you play the game right,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPlay\\ the\\ Game:)Play\\ the\\ Game)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

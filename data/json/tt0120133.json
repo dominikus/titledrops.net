@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0120133",
+    "title": "A Simple Wish",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1431,
+    "occurrences": [
+      [
+        235,
+        "00:15:40.640000",
+        "00:15:44.480000",
+        "Well... Yeah, well, that's what I like. Nice, clean, simple wish."
+      ],
+      [
+        895,
+        "00:50:45.840000",
+        "00:50:47.720000",
+        "There's no such thing as a simple wish."
+      ]
+    ],
+    "regex": "\\b((?!\\bSimple\\ Wish:)Simple\\ Wish)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

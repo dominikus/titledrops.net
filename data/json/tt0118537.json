@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt0118537",
+    "title": "2103: The Deadly Wake",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 1,
+    "all_lines": 1038,
+    "occurrences": [
+      [
+        24,
+        "00:02:54.400000",
+        "00:02:57.600000",
+        "In the year 2103, the Lilith,"
+      ]
+    ],
+    "regex": "\\b((?!\\b2103:)2103|(?!\\bDeadly\\ Wake:)Deadly\\ Wake)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

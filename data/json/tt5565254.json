@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt5565254",
+    "title": "Wetlands",
+    "year": 2017,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1287,
+    "occurrences": [
+      [
+        10,
+        "00:01:19.944000",
+        "00:01:21.580000",
+        "you get the wetlands."
+      ],
+      [
+        98,
+        "00:09:40.277000",
+        "00:09:44.280000",
+        "And that's me, born and bred in the wetlands,"
+      ],
+      [
+        891,
+        "01:07:15.563000",
+        "01:07:17.398000",
+        "In the wetlands?"
+      ],
+      [
+        909,
+        "01:08:58.465000",
+        "01:09:03.004000",
+        "and the next I'm dead, floating in the wetlands."
+      ],
+      [
+        1178,
+        "01:25:49.810000",
+        "01:25:51.609000",
+        " In the wetlands,"
+      ]
+    ],
+    "regex": "\\b((?!\\bWetlands:)Wetlands)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

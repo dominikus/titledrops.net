@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0096932",
+    "title": "The Black Cat",
+    "year": 1989,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1008,
+    "occurrences": [
+      [
+        46,
+        "00:03:45.808000",
+        "00:03:47.328000",
+        "-- The Black Cat 1A, take one."
+      ],
+      [
+        357,
+        "00:28:21.365000",
+        "00:28:23.993000",
+        "-- What does The Black Cat have to do with Levana the Witch?"
+      ],
+      [
+        359,
+        "00:28:27.830000",
+        "00:28:30.875000",
+        "in the story The Black Cat by Edgar Allan Poe,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Cat:)Black\\ Cat)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

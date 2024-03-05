@@ -1,0 +1,86 @@
+[
+  {
+    "imdb": "tt9357050",
+    "title": "Dear Evan Hansen",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Musical"
+    ],
+    "count": 11,
+    "all_lines": 2437,
+    "occurrences": [
+      [
+        3,
+        "00:00:34.885000",
+        "00:00:36.927000",
+        "EVAN: Dear Evan Hansen..."
+      ],
+      [
+        64,
+        "00:03:25.855000",
+        "00:03:27.271000",
+        "\"Dear Evan Hansen.\""
+      ],
+      [
+        233,
+        "00:11:07.217000",
+        "00:11:09.009000",
+        "EVAN: Dear Evan Hansen,"
+      ],
+      [
+        273,
+        "00:13:45.935000",
+        "00:13:47.685000",
+        "Uh, \"Dear Evan Hansen.\" Here you go."
+      ],
+      [
+        371,
+        "00:18:31.953000",
+        "00:18:33.703000",
+        "{\\an1}\"Dear Evan Hansen.\" He addressed it to you."
+      ],
+      [
+        622,
+        "00:31:14.542000",
+        "00:31:16.084000",
+        "Dear Evan Hansen"
+      ],
+      [
+        685,
+        "00:33:42.385000",
+        "00:33:43.885000",
+        "Dear Evan Hansen"
+      ],
+      [
+        1818,
+        "01:34:04.903000",
+        "01:34:07.028000",
+        "\"Dear Evan Hansen...\""
+      ],
+      [
+        1960,
+        "01:41:48.432000",
+        "01:41:50.349000",
+        "\"Evan Hansen, Dear Evan Hansen, today's gonna be a good day."
+      ],
+      [
+        2085,
+        "01:51:21.093000",
+        "01:51:22.968000",
+        "\"Dear Evan Hansen...\""
+      ],
+      [
+        2292,
+        "02:07:11.610000",
+        "02:07:13.820000",
+        "EVAN: Dear Evan Hansen..."
+      ]
+    ],
+    "regex": "\\b((?!\\bDear\\ Evan\\ Hansen:)Dear\\ Evan\\ Hansen)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

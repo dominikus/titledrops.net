@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt2002742",
+    "title": "Nobel Thief",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1204,
+    "occurrences": [
+      [
+        1066,
+        "01:23:33.622000",
+        "01:23:36.147000",
+        "The entire world now knows he is the Nobel Thief"
+      ],
+      [
+        1076,
+        "01:24:07.222000",
+        "01:24:09.690000",
+        "Your father is the Nobel Thief..."
+      ],
+      [
+        1077,
+        "01:24:10.092000",
+        "01:24:12.151000",
+        "Your father is the Nobel Thief..."
+      ],
+      [
+        1123,
+        "01:27:32.627000",
+        "01:27:34.857000",
+        "Everyone is saying that you are the Nobel Thief"
+      ],
+      [
+        1186,
+        "01:31:13.281000",
+        "01:31:16.580000",
+        "...listen I had locked the Nobel thief in my house"
+      ]
+    ],
+    "regex": "\\b((?!\\bNobel\\ Thief:)Nobel\\ Thief)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

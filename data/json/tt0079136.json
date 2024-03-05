@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0079136",
+    "title": "Fast Break",
+    "year": 1979,
+    "genres": [
+      "Comedy",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 2538,
+    "occurrences": [
+      [
+        634,
+        "00:25:43.267000",
+        "00:25:44.467000",
+        "All right, listen, I want a fast break."
+      ],
+      [
+        1342,
+        "00:52:23.700000",
+        "00:52:25.133000",
+        "Get the ball! Fast break!"
+      ],
+      [
+        1343,
+        "00:52:25.167000",
+        "00:52:27.300000",
+        "Fast break! Fast break!"
+      ]
+    ],
+    "regex": "\\b((?!\\bFast\\ Break:)Fast\\ Break)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

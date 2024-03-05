@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0075909",
+    "title": "Damnation Alley",
+    "year": 1977,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 513,
+    "occurrences": [
+      [
+        2,
+        "00:01:33.100000",
+        "00:01:39.600000",
+        "The movie is based on the novel 'Damnation Alley' from Roger ZELAZNIJA"
+      ],
+      [
+        162,
+        "00:27:13.900000",
+        "00:27:17.751000",
+        "Damnation alley, who gave them the name? - Me."
+      ],
+      [
+        195,
+        "00:30:20.400000",
+        "00:30:27.870000",
+        "You can not post a sign that reads: Damnation alley on the road to Albena."
+      ]
+    ],
+    "regex": "\\b((?!\\bDamnation\\ Alley:)Damnation\\ Alley)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

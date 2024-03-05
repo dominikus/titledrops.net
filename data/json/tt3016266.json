@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3016266",
+    "title": "Salvation Army",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 463,
+    "occurrences": [
+      [
+        439,
+        "01:15:57.686000",
+        "01:15:57.985000",
+        "Salvation Army"
+      ],
+      [
+        440,
+        "01:15:57.986000",
+        "01:16:00.660000",
+        "Salvation Army"
+      ],
+      [
+        442,
+        "01:16:32.654000",
+        "01:16:34.998000",
+        "The Salvation Army opens at 7."
+      ]
+    ],
+    "regex": "\\b((?!\\bSalvation\\ Army:)Salvation\\ Army)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

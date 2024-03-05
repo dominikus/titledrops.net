@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0142239",
+    "title": "Dragon Ball Z: Broly - Second Coming",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 2,
+    "all_lines": 367,
+    "occurrences": [
+      [
+        16,
+        "00:03:01.765000",
+        "00:03:07.360000",
+        "Dragon Ball Z!"
+      ],
+      [
+        24,
+        "00:03:27.057000",
+        "00:03:33.428000",
+        "Dragon Ball Z!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDragon\\ Ball\\ Z:)Dragon\\ Ball\\ Z|(?!\\bBroly\\ \\-\\ Second\\ Coming:)Broly\\ \\-\\ Second\\ Coming)(?!\\:)(?!'t)\\b",
+    "runtime": 52,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

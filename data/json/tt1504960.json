@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1504960",
+    "title": "Medal of Honor",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 971,
+    "occurrences": [
+      [
+        110,
+        "00:15:24.599000",
+        "00:15:27.348000",
+        "when we defeated fascism, I've received a medal of honor"
+      ],
+      [
+        138,
+        "00:18:30.863000",
+        "00:18:34.063000",
+        "- Something about some medals, right? - Yes, that Medal of Honor."
+      ],
+      [
+        178,
+        "00:23:02.560000",
+        "00:23:03.810000",
+        "the Medal of Honor by...\""
+      ],
+      [
+        832,
+        "01:23:13.260000",
+        "01:23:15.709000",
+        "It's about this Medal of Honor I've just received."
+      ]
+    ],
+    "regex": "\\b((?!\\bMedal\\ of\\ Honor:)Medal\\ of\\ Honor)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

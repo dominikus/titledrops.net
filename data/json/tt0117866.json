@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0117866",
+    "title": "Taxi",
+    "year": 1996,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "count": 7,
+    "all_lines": 1201,
+    "occurrences": [
+      [
+        383,
+        "00:31:08.600000",
+        "00:31:11.869000",
+        "Yeah, they called next day to say they'd found the taxi."
+      ],
+      [
+        521,
+        "00:45:38.803000",
+        "00:45:40.004000",
+        "I'll give the taxi keys"
+      ],
+      [
+        617,
+        "00:53:42.152000",
+        "00:53:44.782000",
+        "We'll take the taxi at once to a friend's repair shop."
+      ],
+      [
+        625,
+        "00:54:29.201000",
+        "00:54:33.036000",
+        "Nothing happened? And the taxi's nothing?"
+      ],
+      [
+        628,
+        "00:54:37.341000",
+        "00:54:39.176000",
+        "All they know is that it was a taxi."
+      ],
+      [
+        630,
+        "00:54:43.880000",
+        "00:54:47.851000",
+        "They know it was a taxi, God damn it, isn't that enough?"
+      ],
+      [
+        1004,
+        "01:28:15.557000",
+        "01:28:18.093000",
+        "I won't drive the taxi again. I'm quitting."
+      ]
+    ],
+    "regex": "\\b((?!\\bTaxi:)Taxi)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0067903",
+    "title": "A Girl Is a Gun",
+    "year": 1971,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 71,
+    "occurrences": [
+      [
+        0,
+        "00:13:23.816000",
+        "00:13:26.558000",
+        "A girl is a gun"
+      ],
+      [
+        23,
+        "01:00:07.484000",
+        "01:00:10.658000",
+        "A girl is a gun to frighten you, to cheat you"
+      ]
+    ],
+    "regex": "\\b((?!\\bGirl\\ Is\\ a\\ Gun:)Girl\\ Is\\ a\\ Gun)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

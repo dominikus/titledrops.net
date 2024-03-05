@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt4436330",
+    "title": "The Gulls",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 370,
+    "occurrences": [
+      [
+        236,
+        "00:48:10.875000",
+        "00:48:15.291000",
+        "Gulls were flying in circles over the sea."
+      ],
+      [
+        237,
+        "00:48:22.375000",
+        "00:48:23.791000",
+        "Gulls..."
+      ]
+    ],
+    "regex": "\\b((?!\\bGulls:)Gulls)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2956300",
+    "title": "ABCD: American-Born Confused Desi",
+    "year": 2013,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1656,
+    "occurrences": [
+      [
+        66,
+        "00:10:09.633000",
+        "00:10:12.136000",
+        "\"Flashes and speeds in New Yolk, ABCD\""
+      ],
+      [
+        722,
+        "01:27:29.567000",
+        "01:27:33.037000",
+        "So ABCD's have come to probe in to the problem, is it?"
+      ]
+    ],
+    "regex": "\\b((?!\\bABCD:)ABCD|(?!\\bAmerican\\-Born\\ Confused\\ Desi:)American\\-Born\\ Confused\\ Desi)(?!\\:)(?!'t)\\b",
+    "runtime": 166,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

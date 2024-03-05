@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1926992",
+    "title": "Goodbye",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 589,
+    "occurrences": [
+      [
+        288,
+        "00:45:43.440000",
+        "00:45:45.760000",
+        "- Okay, bye. - Goodbye."
+      ],
+      [
+        330,
+        "00:54:25.120000",
+        "00:54:29.040000",
+        "- Goodbye. - Goodbye, then."
+      ]
+    ],
+    "regex": "\\b((?!\\bGoodbye:)Goodbye)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

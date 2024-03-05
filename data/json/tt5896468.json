@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5896468",
+    "title": "Dog Star Man",
+    "year": 1964,
+    "genres": [
+      "Documentary",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 370,
+    "occurrences": [
+      [
+        0,
+        "00:00:00",
+        "00:00:05.255000",
+        "Dog Star Man (a dialogue)"
+      ],
+      [
+        4,
+        "00:00:30.572000",
+        "00:00:32.490000",
+        "A: It's called Dog Star Man."
+      ]
+    ],
+    "regex": "\\b((?!\\bDog\\ Star\\ Man:)Dog\\ Star\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

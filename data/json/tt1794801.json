@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1794801",
+    "title": "Bipolar",
+    "year": 2014,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 889,
+    "occurrences": [
+      [
+        2,
+        "00:00:13.748000",
+        "00:00:19.184000",
+        "Bipolar disorder affects more than five million Americans today."
+      ],
+      [
+        4,
+        "00:00:25.793000",
+        "00:00:29.695000",
+        "If you or someone you know suffers from bipolar disorder,"
+      ],
+      [
+        20,
+        "00:01:43.871000",
+        "00:01:49.875000",
+        ">> Any history of bipolar disorder in your family?"
+      ],
+      [
+        868,
+        "01:15:34.030000",
+        "01:15:39.901000",
+        "I'm so sad! I'm bipolar! I'm bipolar!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBipolar:)Bipolar)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

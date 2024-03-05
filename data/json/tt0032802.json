@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0032802",
+    "title": "Gorky 3: My Universities",
+    "year": 1940,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1067,
+    "occurrences": [
+      [
+        2,
+        "00:00:13.200000",
+        "00:00:20.629000",
+        "But the truth is beyond any commiseration! M. Gorky"
+      ],
+      [
+        3,
+        "00:00:22.160000",
+        "00:00:29.350000",
+        "In memory of the great Russian writer Maxim Gorky"
+      ],
+      [
+        4,
+        "00:00:29.520000",
+        "00:00:33.877000",
+        "MY UNIVERSITIES"
+      ],
+      [
+        6,
+        "00:00:36.160000",
+        "00:00:42.838000",
+        "Based on M. Gorky's works"
+      ],
+      [
+        1066,
+        "01:36:41.680000",
+        "01:36:44.114000",
+        "M. Gorky"
+      ]
+    ],
+    "regex": "\\b((?!\\bGorky:)Gorky|(?!\\bMy\\ Universities:)My\\ Universities)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

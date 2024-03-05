@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0485947",
+    "title": "Mr. Nobody",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 804,
+    "occurrences": [
+      [
+        47,
+        "00:09:16.864000",
+        "00:09:22.234000",
+        "Mr. Nobody has 117 years and has nothing."
+      ],
+      [
+        53,
+        "00:10:06.381000",
+        "00:10:10.647000",
+        "We do not know who is Mr. Nobody No"
+      ],
+      [
+        129,
+        "00:19:05.319000",
+        "00:19:07.446000",
+        "I am Mr. Nobody"
+      ]
+    ],
+    "regex": "\\b((?!\\bMr\\.\\ Nobody:)Mr\\.\\ Nobody)(?!\\:)(?!'t)\\b",
+    "runtime": 141,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

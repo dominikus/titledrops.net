@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0119598",
+    "title": "The Maker",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 1351,
+    "occurrences": [
+      [
+        860,
+        "00:54:32.736000",
+        "00:54:37.040000",
+        "And because you were the maker, Josh, here's your bonus."
+      ],
+      [
+        861,
+        "00:54:37.140000",
+        "00:54:39.943000",
+        "I guess he was the maker."
+      ],
+      [
+        862,
+        "00:54:40.043000",
+        "00:54:41.911000",
+        "Maker?"
+      ],
+      [
+        864,
+        "00:54:46.916000",
+        "00:54:48.885000",
+        "You always want to be the maker, Josh."
+      ],
+      [
+        1081,
+        "01:11:27.549000",
+        "01:11:29.184000",
+        "Always be the maker, huh, Walter?"
+      ],
+      [
+        1285,
+        "01:26:54.475000",
+        "01:26:56.578000",
+        "You're the maker, Josh."
+      ],
+      [
+        1309,
+        "01:31:20.608000",
+        "01:31:22.610000",
+        "How am I going to be the maker, Walter?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMaker:)Maker)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

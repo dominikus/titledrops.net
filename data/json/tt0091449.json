@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0091449",
+    "title": "The Snow Queen",
+    "year": 1986,
+    "genres": [
+      "Family",
+      "Fantasy"
+    ],
+    "count": 6,
+    "all_lines": 322,
+    "occurrences": [
+      [
+        279,
+        "01:10:31.240000",
+        "01:10:35.392000",
+        "North of here is the kingdom of the Snow Queen."
+      ],
+      [
+        285,
+        "01:11:20.320000",
+        "01:11:24.199000",
+        "If the Snow Queen doesn't get the stone back -"
+      ],
+      [
+        288,
+        "01:11:38.640000",
+        "01:11:42.633000",
+        "But the Snow Queen can't retrieve the stone herself -"
+      ],
+      [
+        294,
+        "01:12:06.760000",
+        "01:12:11.231000",
+        "That's why the Snow Queen took Kai as his prince."
+      ],
+      [
+        300,
+        "01:13:02.080000",
+        "01:13:08.519000",
+        "Those buttons have the power of goodness against the Snow Queen."
+      ],
+      [
+        302,
+        "01:13:22.280000",
+        "01:13:26.353000",
+        "I'll give you a cloak to hide you from the Snow Queen."
+      ]
+    ],
+    "regex": "\\b((?!\\bSnow\\ Queen:)Snow\\ Queen)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

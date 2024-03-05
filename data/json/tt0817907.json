@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0817907",
+    "title": "Metrosexual",
+    "year": 2006,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1408,
+    "occurrences": [
+      [
+        248,
+        "00:15:14.863000",
+        "00:15:16.292000",
+        "Haven't you heard of the term 'Metrosexual'?"
+      ],
+      [
+        256,
+        "00:15:38.959000",
+        "00:15:43.181000",
+        "Metrosexual my foot. I wouldn't see the difference between this guy and Beckham."
+      ]
+    ],
+    "regex": "\\b((?!\\bMetrosexual:)Metrosexual)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

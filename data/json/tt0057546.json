@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0057546",
+    "title": "The Sword in the Stone",
+    "year": 1963,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1138,
+    "occurrences": [
+      [
+        1069,
+        "01:14:51.240000",
+        "01:14:53.480000",
+        "It's the sword in the stone."
+      ],
+      [
+        1070,
+        "01:14:53.560000",
+        "01:14:56.960000",
+        "The sword in the stone? It can't be."
+      ]
+    ],
+    "regex": "\\b((?!\\bSword\\ in\\ the\\ Stone:)Sword\\ in\\ the\\ Stone)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

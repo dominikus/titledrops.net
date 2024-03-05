@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt3462896",
+    "title": "Planetary",
+    "year": 2015,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 994,
+    "occurrences": [
+      [
+        121,
+        "00:09:56.430000",
+        "00:10:01.363000",
+        "So in that sense, humans became planetary 40,000 years ago."
+      ],
+      [
+        478,
+        "00:37:55.883000",
+        "00:37:59.250000",
+        "is probably inevitable on any planetary system"
+      ],
+      [
+        755,
+        "00:59:44.472000",
+        "00:59:47.439000",
+        "for this emerging planetary movement"
+      ]
+    ],
+    "regex": "\\b((?!\\bPlanetary:)Planetary)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

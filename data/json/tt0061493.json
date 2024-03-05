@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0061493",
+    "title": "I Am What I Am",
+    "year": 1967,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 624,
+    "occurrences": [
+      [
+        232,
+        "00:32:57.633000",
+        "00:32:58.952000",
+        "I am what I am."
+      ],
+      [
+        233,
+        "00:32:59.713000",
+        "00:33:02.147000",
+        "Yes, I am what I am and that's enough."
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Am\\ What\\ I\\ Am:)I\\ Am\\ What\\ I\\ Am)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

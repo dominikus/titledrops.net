@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0094658",
+    "title": "Firing Squad",
+    "year": 1989,
+    "genres": [
+      "Action"
+    ],
+    "count": 6,
+    "all_lines": 1339,
+    "occurrences": [
+      [
+        226,
+        "00:14:59.266000",
+        "00:15:01.134000",
+        "We have to organize a firing squad,"
+      ],
+      [
+        536,
+        "00:33:32.544000",
+        "00:33:34.280000",
+        "Commanding a firing squad is the most"
+      ],
+      [
+        577,
+        "00:36:34.626000",
+        "00:36:37.629000",
+        "GEORGE: Hey, if it's not Adam to oversee the firing squad,"
+      ],
+      [
+        782,
+        "00:48:38.083000",
+        "00:48:41.519000",
+        "There will be a firing squad."
+      ],
+      [
+        1071,
+        "01:09:54.924000",
+        "01:09:57.961000",
+        "Firing squad-- present and correct, sir."
+      ],
+      [
+        1317,
+        "01:31:59.047000",
+        "01:32:02.718000",
+        "to die by firing squad."
+      ]
+    ],
+    "regex": "\\b((?!\\bFiring\\ Squad:)Firing\\ Squad)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt19785426",
+    "title": "Mediterranean Fever",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1160,
+    "occurrences": [
+      [
+        138,
+        "00:11:38.399000",
+        "00:11:41.960000",
+        "- Which? - For Mediterranean Fever."
+      ],
+      [
+        142,
+        "00:11:52.080000",
+        "00:11:55.879000",
+        "Mediterranean fever is a genetic virus"
+      ]
+    ],
+    "regex": "\\b((?!\\bMediterranean\\ Fever:)Mediterranean\\ Fever)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

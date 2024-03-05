@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3065036",
+    "title": "Modern Love",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1265,
+    "occurrences": [
+      [
+        28,
+        "00:01:45.599000",
+        "00:01:49.439000",
+        "Cheesy to say 'Modern Love' is my favourite track."
+      ],
+      [
+        30,
+        "00:01:52.959000",
+        "00:01:56.319000",
+        "'Modern Love' man, it's a flawless song to me."
+      ],
+      [
+        44,
+        "00:02:47.759000",
+        "00:02:49.960000",
+        "And the track playing is 'Modern Love'."
+      ]
+    ],
+    "regex": "\\b((?!\\bModern\\ Love:)Modern\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

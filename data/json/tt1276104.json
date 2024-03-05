@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1276104",
+    "title": "Looper",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 903,
+    "occurrences": [
+      [
+        10,
+        "00:02:19.185000",
+        "00:02:21.779000",
+        "They zap him back to me, their looper."
+      ],
+      [
+        190,
+        "00:18:00.525000",
+        "00:18:03.449000",
+        "You know, you were the youngest looper I ever hired."
+      ],
+      [
+        371,
+        "00:49:06.898000",
+        "00:49:09.276000",
+        "Word spread through the ex-looper grapevine"
+      ],
+      [
+        502,
+        "01:04:34.250000",
+        "01:04:35.923000",
+        "You're a looper?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLooper:)Looper)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

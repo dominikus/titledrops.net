@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1360826",
+    "title": "Rust",
+    "year": 2010,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1016,
+    "occurrences": [
+      [
+        138,
+        "00:15:57.333000",
+        "00:16:00.417000",
+        "Rust has been real bad the last couple of crops."
+      ],
+      [
+        1014,
+        "01:29:47.774000",
+        "01:29:51.641000",
+        "fighting that rust that works its way into all of our lives,"
+      ]
+    ],
+    "regex": "\\b((?!\\bRust:)Rust)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

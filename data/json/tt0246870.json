@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0246870",
+    "title": "The Prince of the Pacific",
+    "year": 2000,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1078,
+    "occurrences": [
+      [
+        612,
+        "00:49:36.132000",
+        "00:49:39.194000",
+        "My son is the prince of the Pacific."
+      ],
+      [
+        1074,
+        "01:29:48.360000",
+        "01:29:51.807000",
+        "\"The prince of the Pacific must be big now."
+      ]
+    ],
+    "regex": "\\b((?!\\bPrince\\ of\\ the\\ Pacific:)Prince\\ of\\ the\\ Pacific)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

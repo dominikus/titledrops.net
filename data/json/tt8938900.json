@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt8938900",
+    "title": "Fortuner",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Family",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1548,
+    "occurrences": [
+      [
+        739,
+        "01:03:16.029000",
+        "01:03:19.299000",
+        "Everyone knows how expensive Fortuner car is."
+      ],
+      [
+        740,
+        "01:03:19.379000",
+        "01:03:25.010000",
+        "A couple is selling North Karnataka food in the same Fortuner car in full fledge."
+      ],
+      [
+        743,
+        "01:03:29.418000",
+        "01:03:32.043000",
+        "We have come to make your Hotel Fortuner famous."
+      ],
+      [
+        767,
+        "01:04:33.335000",
+        "01:04:36.713000",
+        "Your restaurant name is Fortuner, right? I will change your entire fortune, idiot."
+      ]
+    ],
+    "regex": "\\b((?!\\bFortuner:)Fortuner)(?!\\:)(?!'t)\\b",
+    "runtime": 131,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

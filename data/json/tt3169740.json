@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt3169740",
+    "title": "The Falls: Testament of Love",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1284,
+    "occurrences": [
+      [
+        21,
+        "00:01:37.582000",
+        "00:01:40.254000",
+        "and Chris was allowed to stay in Clackamas Falls."
+      ],
+      [
+        37,
+        "00:02:22.772000",
+        "00:02:25.069000",
+        "And I went home to Idaho Falls."
+      ],
+      [
+        411,
+        "00:41:59.737000",
+        "00:42:02.442000",
+        "RJ and I met, when I was on my mission in Clackamas Falls."
+      ],
+      [
+        481,
+        "00:46:56.119000",
+        "00:46:59.486000",
+        "Yes it is, but going to Clackamas Falls"
+      ]
+    ],
+    "regex": "\\b((?!\\bFalls:)Falls|(?!\\bTestament\\ of\\ Love:)Testament\\ of\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

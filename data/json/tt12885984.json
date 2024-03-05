@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt12885984",
+    "title": "Little White Snowflake",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 2562,
+    "occurrences": [
+      [
+        1898,
+        "01:33:47.730000",
+        "01:33:49.666000",
+        "Little white snowflake."
+      ],
+      [
+        1907,
+        "01:34:36.570000",
+        "01:34:38.213000",
+        "The little white snowflake."
+      ],
+      [
+        2162,
+        "01:46:05.616000",
+        "01:46:07.346000",
+        "The little white snowflake."
+      ],
+      [
+        2356,
+        "01:55:23.890000",
+        "01:55:25.790000",
+        "The little white snowflake."
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ White\\ Snowflake:)Little\\ White\\ Snowflake)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

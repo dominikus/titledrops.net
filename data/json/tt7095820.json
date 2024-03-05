@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7095820",
+    "title": "My lake",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 531,
+    "occurrences": [
+      [
+        0,
+        "00:00:41.720000",
+        "00:00:43.040000",
+        "My lake."
+      ],
+      [
+        2,
+        "00:00:47.560000",
+        "00:00:50.040000",
+        "\"My lake is the most beautiful in the world.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ lake:)My\\ lake)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5105136",
+    "title": "Fog City",
+    "year": 2023,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1246,
+    "occurrences": [
+      [
+        1245,
+        "01:29:01.642000",
+        "01:29:03.110000",
+        "You want Fog City?"
+      ],
+      [
+        1246,
+        "01:29:04.477000",
+        "01:29:05.947000",
+        "I'll give you Fog City."
+      ]
+    ],
+    "regex": "\\b((?!\\bFog\\ City:)Fog\\ City)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

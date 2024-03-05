@@ -1,0 +1,34 @@
+[
+  {
+    "imdb": "tt1382339",
+    "title": "Santhosh Subramaniyam",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 2999,
+    "occurrences": [
+      [
+        367,
+        "00:20:33.232000",
+        "00:20:34.529000",
+        "My name is santhosh subramaniyam.."
+      ],
+      [
+        2271,
+        "02:07:03.983000",
+        "02:07:07.441000",
+        "And the groom's name is printed as santhosh subramaniyam."
+      ]
+    ],
+    "regex": "\\b((?!\\bSanthosh\\ Subramaniyam:)Santhosh\\ Subramaniyam)(?!\\:)(?!'t)\\b",
+    "runtime": 177,
+    "characters": [
+      "Santhosh Subramaniyam"
+    ],
+    "title_is_name": true,
+    "rating": 7.5
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0479204",
+    "title": "Perfect Life",
+    "year": 2010,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1310,
+    "occurrences": [
+      [
+        129,
+        "00:08:36.982000",
+        "00:08:39.884000",
+        "\"The life you were given is the perfect life.\""
+      ],
+      [
+        133,
+        "00:08:45.624000",
+        "00:08:48.059000",
+        "But what happens when this perfect life comes to an end?"
+      ],
+      [
+        686,
+        "00:45:12.842000",
+        "00:45:17.012000",
+        "ready to carry you off to your perfect life."
+      ]
+    ],
+    "regex": "\\b((?!\\bPerfect\\ Life:)Perfect\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt23026530",
+    "title": "Go West",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "count": 5,
+    "all_lines": 1735,
+    "occurrences": [
+      [
+        228,
+        "00:09:59.349000",
+        "00:10:01.226000",
+        "- I have to go west, now."
+      ],
+      [
+        229,
+        "00:10:01.267000",
+        "00:10:03.478000",
+        "- Last coach to go west."
+      ],
+      [
+        245,
+        "00:10:39.514000",
+        "00:10:42.225000",
+        "I need to go west immediately."
+      ],
+      [
+        508,
+        "00:21:02.511000",
+        "00:21:05.181000",
+        "- I'm sorry, maybe it's better that you don't go west."
+      ],
+      [
+        615,
+        "00:26:08.859000",
+        "00:26:12.112000",
+        "- Said I didn't have what it takes to go west."
+      ]
+    ],
+    "regex": "\\b((?!\\bGo\\ West:)Go\\ West)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

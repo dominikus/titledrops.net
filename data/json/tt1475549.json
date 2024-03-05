@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1475549",
+    "title": "The Dogfather",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 2311,
+    "occurrences": [
+      [
+        21,
+        "00:01:42.669000",
+        "00:01:44.904000",
+        "Joey: Dogfather."
+      ],
+      [
+        2194,
+        "01:23:00.709000",
+        "01:23:02.243000",
+        "motion picture \\\"the dogfather\\\""
+      ]
+    ],
+    "regex": "\\b((?!\\bDogfather:)Dogfather)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "imdb": "tt0378647",
+    "title": "Ramana",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 920,
+    "occurrences": [
+      [
+        153,
+        "00:19:35.841000",
+        "00:19:37.468000",
+        "Which is Prof. Ramana's house?"
+      ],
+      [
+        162,
+        "00:20:11.043000",
+        "00:20:12.340000",
+        "l want to meet Prof. Ramana."
+      ]
+    ],
+    "regex": "\\b((?!\\bRamana:)Ramana)(?!\\:)(?!'t)\\b",
+    "runtime": 140,
+    "characters": [
+      "Prof. Ramana"
+    ],
+    "title_is_name": true,
+    "rating": 8.2
+  }
+]

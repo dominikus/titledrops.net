@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0064743",
+    "title": "Number One",
+    "year": 1969,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1074,
+    "occurrences": [
+      [
+        487,
+        "00:41:00.999000",
+        "00:41:02.477000",
+        "Well, number one, you have a math background."
+      ],
+      [
+        495,
+        "00:41:33.198000",
+        "00:41:35.367000",
+        "See him, rookie? He's number one around here."
+      ]
+    ],
+    "regex": "\\b((?!\\bNumber\\ One:)Number\\ One)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

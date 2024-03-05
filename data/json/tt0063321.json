@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0063321",
+    "title": "Mondo Freudo",
+    "year": 1966,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 559,
+    "occurrences": [
+      [
+        17,
+        "00:01:16.366000",
+        "00:01:20.662000",
+        "to peer into Mondo Freudo, a Freudian world."
+      ],
+      [
+        559,
+        "01:14:18.619000",
+        "01:14:23.415000",
+        "up and down Hollywood Boulevard searching for Mondo Freudo."
+      ]
+    ],
+    "regex": "\\b((?!\\bMondo\\ Freudo:)Mondo\\ Freudo)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

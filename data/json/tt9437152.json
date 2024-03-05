@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt9437152",
+    "title": "Miss Osaka",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 613,
+    "occurrences": [
+      [
+        236,
+        "00:28:45.307000",
+        "00:28:46.642000",
+        "Miss Osaka?"
+      ],
+      [
+        237,
+        "00:28:49.061000",
+        "00:28:54.524000",
+        "Miss Osaka. It's over there."
+      ]
+    ],
+    "regex": "\\b((?!\\bMiss\\ Osaka:)Miss\\ Osaka)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

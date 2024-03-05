@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt5178348",
+    "title": "My Little Sister",
+    "year": 2016,
+    "genres": [
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 358,
+    "occurrences": [
+      [
+        86,
+        "00:14:31.972000",
+        "00:14:35.275000",
+        "- Because I have my little sister here."
+      ],
+      [
+        323,
+        "01:13:37.013000",
+        "01:13:41.117000",
+        "* That bitch of my little sister"
+      ],
+      [
+        338,
+        "01:14:16.720000",
+        "01:14:21.390000",
+        "* That bitch of my little sister"
+      ],
+      [
+        346,
+        "01:14:38.074000",
+        "01:14:42.278000",
+        "* As we did to your to my little sister"
+      ],
+      [
+        353,
+        "01:15:06.435000",
+        "01:15:09.372000",
+        "* And you'll be my little sister"
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Little\\ Sister:)My\\ Little\\ Sister)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

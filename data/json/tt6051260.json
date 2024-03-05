@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6051260",
+    "title": "Cruel Peter",
+    "year": 2019,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 701,
+    "occurrences": [
+      [
+        1,
+        "00:00:46.201000",
+        "00:00:49.573000",
+        "Here is cruel Peter Hoffmann, see"
+      ],
+      [
+        144,
+        "00:19:47.642000",
+        "00:19:50.209000",
+        "\"Here is cruel Peter Hoffmann."
+      ]
+    ],
+    "regex": "\\b((?!\\bCruel\\ Peter:)Cruel\\ Peter)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

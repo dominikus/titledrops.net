@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3417854",
+    "title": "Pocket Listing",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1513,
+    "occurrences": [
+      [
+        779,
+        "00:40:37.335000",
+        "00:40:39.771000",
+        "we're going to have to approach this as a pocket listing."
+      ],
+      [
+        781,
+        "00:40:41.304000",
+        "00:40:44.108000",
+        "A pocket listing is every realtor's dream."
+      ],
+      [
+        789,
+        "00:41:02.793000",
+        "00:41:05.062000",
+        "Pocket listing."
+      ]
+    ],
+    "regex": "\\b((?!\\bPocket\\ Listing:)Pocket\\ Listing)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt11897082",
+    "title": "7 Minutes",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 570,
+    "occurrences": [
+      [
+        25,
+        "00:08:47.799000",
+        "00:08:50.960000",
+        "Maxime died 7 minutes after Kevin."
+      ],
+      [
+        27,
+        "00:08:56.080000",
+        "00:09:02.559000",
+        "Lots of things. A lot can happen in 7 minutes."
+      ]
+    ],
+    "regex": "\\b((?!\\b7\\ Minutes:)7\\ Minutes)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

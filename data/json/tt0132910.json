@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0132910",
+    "title": "The Crow: Salvation",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Crime",
+      "Fantasy"
+    ],
+    "count": 7,
+    "all_lines": 1129,
+    "occurrences": [
+      [
+        99,
+        "00:12:51.266000",
+        "00:12:52.767000",
+        "(Crow caws)"
+      ],
+      [
+        107,
+        "00:14:58.559000",
+        "00:14:59.894000",
+        "(Crow cawing)"
+      ],
+      [
+        141,
+        "00:17:44.433000",
+        "00:17:46.269000",
+        "There's nothing under \"crow\"."
+      ],
+      [
+        608,
+        "00:53:39.211000",
+        "00:53:41.630000",
+        "I'm not making this up. He had a crow with him."
+      ],
+      [
+        716,
+        "01:01:39.608000",
+        "01:01:41.651000",
+        "Fucking crow."
+      ],
+      [
+        894,
+        "01:18:55.142000",
+        "01:18:57.436000",
+        "(Door opens, crow caws)"
+      ],
+      [
+        1047,
+        "01:34:20.316000",
+        "01:34:22.360000",
+        "(Crow caws)"
+      ]
+    ],
+    "regex": "\\b((?!\\bCrow:)Crow|(?!\\bSalvation:)Salvation)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

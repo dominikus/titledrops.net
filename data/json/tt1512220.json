@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1512220",
+    "title": "My Friend Pinto",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1544,
+    "occurrences": [
+      [
+        1208,
+        "01:19:29.363000",
+        "01:19:31.490000",
+        "Pam, meet my friend Pinto."
+      ],
+      [
+        1398,
+        "01:31:38.525000",
+        "01:31:43.360000",
+        "I present to you... my friend Pinto."
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Friend\\ Pinto:)My\\ Friend\\ Pinto)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

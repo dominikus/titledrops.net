@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt8356178",
+    "title": "Lola",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 629,
+    "occurrences": [
+      [
+        1,
+        "00:02:32.980000",
+        "00:02:34.980000",
+        "- Hi, Lola. - Hi, Sam."
+      ],
+      [
+        5,
+        "00:03:08.900000",
+        "00:03:10.870000",
+        "- Antoine. - Hi, Lola."
+      ],
+      [
+        140,
+        "00:21:40.740000",
+        "00:21:43.060000",
+        "- Don't you touch that ! - Lola !"
+      ],
+      [
+        180,
+        "00:29:59.380000",
+        "00:30:01.380000",
+        "So you're calling yourself Lola ?"
+      ],
+      [
+        284,
+        "00:45:24.740000",
+        "00:45:26.740000",
+        "She called me Lola."
+      ]
+    ],
+    "regex": "\\b((?!\\bLola:)Lola)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [
+      "Lola"
+    ],
+    "title_is_name": true,
+    "rating": 6.7
+  }
+]

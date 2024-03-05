@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0087262",
+    "title": "Firestarter",
+    "year": 1984,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1007,
+    "occurrences": [
+      [
+        1,
+        "00:00:24.100000",
+        "00:00:28.800000",
+        "Stephen King's Firestarter (1984)"
+      ],
+      [
+        741,
+        "01:13:56.360000",
+        "01:13:59.352000",
+        "and your firestarter just walked out."
+      ]
+    ],
+    "regex": "\\b((?!\\bFirestarter:)Firestarter)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

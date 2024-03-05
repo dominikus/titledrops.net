@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0070432",
+    "title": "No One Heard the Scream",
+    "year": 1973,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 580,
+    "occurrences": [
+      [
+        0,
+        "00:00:10.700000",
+        "00:00:14.500000",
+        "No One Heard the Scream"
+      ],
+      [
+        580,
+        "01:27:54.480000",
+        "01:28:00.179000",
+        "But... No one heard the scream."
+      ]
+    ],
+    "regex": "\\b((?!\\bNo\\ One\\ Heard\\ the\\ Scream:)No\\ One\\ Heard\\ the\\ Scream)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

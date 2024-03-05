@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2493466",
+    "title": "The Complex",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 592,
+    "occurrences": [
+      [
+        62,
+        "00:15:02.160000",
+        "00:15:04.530000",
+        "No, at Kuroyuri Complex. ( Kuroyuri =  Black Lily Flowers )"
+      ],
+      [
+        65,
+        "00:15:12.670000",
+        "00:15:16.040000",
+        "That Kuroyuri Complex?"
+      ],
+      [
+        68,
+        "00:15:26.440000",
+        "00:15:31.930000",
+        "I've heard the complex is haunted. People have seen ghosts there."
+      ],
+      [
+        422,
+        "01:13:49.400000",
+        "01:13:53.270000",
+        "\" Suspicious death at Kuroyuri Complex \""
+      ]
+    ],
+    "regex": "\\b((?!\\bComplex:)Complex)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

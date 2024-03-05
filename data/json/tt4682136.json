@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt4682136",
+    "title": "The Seagull",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 7,
+    "all_lines": 1532,
+    "occurrences": [
+      [
+        634,
+        "00:38:03.362000",
+        "00:38:06.333000",
+        "I sank low enough today to kill this seagull."
+      ],
+      [
+        644,
+        "00:38:34.894000",
+        "00:38:38.729000",
+        "I mean, look at that seagull. What does that mean?"
+      ],
+      [
+        802,
+        "00:49:40.124000",
+        "00:49:41.392000",
+        "like a seagull."
+      ],
+      [
+        1428,
+        "01:26:43.606000",
+        "01:26:45.108000",
+        "I'm the seagull."
+      ],
+      [
+        1441,
+        "01:27:25.415000",
+        "01:27:27.449000",
+        "No, I'm the seagull."
+      ],
+      [
+        1442,
+        "01:27:27.451000",
+        "01:27:30.684000",
+        "I'm the seagull. I'm the seagull!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSeagull:)Seagull)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

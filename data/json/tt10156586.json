@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt10156586",
+    "title": "Snow Black",
+    "year": 2021,
+    "genres": [
+      "Action"
+    ],
+    "count": 3,
+    "all_lines": 803,
+    "occurrences": [
+      [
+        507,
+        "00:42:26.335000",
+        "00:42:29.757000",
+        "My CO even gave me a code name snow black."
+      ],
+      [
+        678,
+        "00:58:21.623000",
+        "00:58:23.627000",
+        "- Snow Black motherfucker"
+      ],
+      [
+        803,
+        "01:16:04.852000",
+        "01:16:06.688000",
+        "I need Snow Black dead."
+      ]
+    ],
+    "regex": "\\b((?!\\bSnow\\ Black:)Snow\\ Black)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.8
+  }
+]

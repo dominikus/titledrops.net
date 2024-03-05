@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt11893676",
+    "title": "Lord of Misrule",
+    "year": 2023,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 917,
+    "occurrences": [
+      [
+        123,
+        "00:13:31.780000",
+        "00:13:34.214000",
+        "Lord of Misrule!"
+      ],
+      [
+        125,
+        "00:13:41.388000",
+        "00:13:44.759000",
+        "The Lord of Misrule has answered your calls."
+      ],
+      [
+        456,
+        "00:49:24.331000",
+        "00:49:29.838000",
+        "\"In 1621, the Lord of Misrule, a man named Tobias Bron,"
+      ],
+      [
+        697,
+        "01:09:13.253000",
+        "01:09:14.656000",
+        "- the Lord of Misrule... - No, no, no, no."
+      ]
+    ],
+    "regex": "\\b((?!\\bLord\\ of\\ Misrule:)Lord\\ of\\ Misrule)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

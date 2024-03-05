@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt7165212",
+    "title": "The Work Wife",
+    "year": 2019,
+    "genres": [
+      "Crime"
+    ],
+    "count": 5,
+    "all_lines": 1469,
+    "occurrences": [
+      [
+        549,
+        "00:26:31.423000",
+        "00:26:34.360000",
+        "I'm the work wife, you're the real wife."
+      ],
+      [
+        619,
+        "00:30:50.616000",
+        "00:30:53.352000",
+        "Sean, I don't wanna be just your work wife."
+      ],
+      [
+        651,
+        "00:33:13.792000",
+        "00:33:15.994000",
+        "Jen is not my work wife."
+      ],
+      [
+        1125,
+        "01:03:33.643000",
+        "01:03:35.445000",
+        "-I'm your work wife. -Okay, you know what?"
+      ],
+      [
+        1461,
+        "01:24:49.852000",
+        "01:24:52.221000",
+        "Your work wife."
+      ]
+    ],
+    "regex": "\\b((?!\\bWork\\ Wife:)Work\\ Wife)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

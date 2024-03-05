@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1359421",
+    "title": "The Wedding Photographer",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1093,
+    "occurrences": [
+      [
+        209,
+        "00:23:56.207000",
+        "00:24:00.207000",
+        "-Who are you? -Hi. I'm Robin, wedding photographer."
+      ],
+      [
+        226,
+        "00:25:54.332000",
+        "00:25:57.665000",
+        "I'm a wedding photographer. I'm Robin from Molkom."
+      ]
+    ],
+    "regex": "\\b((?!\\bWedding\\ Photographer:)Wedding\\ Photographer)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

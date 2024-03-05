@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0228183",
+    "title": "The Dark Power",
+    "year": 1985,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 982,
+    "occurrences": [
+      [
+        66,
+        "00:10:39.097000",
+        "00:10:41.975000",
+        "The skull is a symbol of dark power."
+      ],
+      [
+        67,
+        "00:10:42.058000",
+        "00:10:44.936000",
+        "The dark power! That's scary."
+      ],
+      [
+        69,
+        "00:10:47.981000",
+        "00:10:50.441000",
+        "To control the dark power."
+      ],
+      [
+        937,
+        "01:11:56.854000",
+        "01:11:58.606000",
+        "can control the dark power."
+      ]
+    ],
+    "regex": "\\b((?!\\bDark\\ Power:)Dark\\ Power)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

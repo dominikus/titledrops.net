@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt6186362",
+    "title": "The Witching",
+    "year": 2016,
+    "genres": [
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 944,
+    "occurrences": [
+      [
+        21,
+        "00:01:34.495000",
+        "00:01:37.629000",
+        "And it's all leading up to the witching hour."
+      ],
+      [
+        208,
+        "00:25:14.246000",
+        "00:25:16.146000",
+        "Welcome to the witching hour, I'm here with Mike"
+      ],
+      [
+        764,
+        "01:03:38.882000",
+        "01:03:42.417000",
+        "as time closes in on the witching hour."
+      ],
+      [
+        924,
+        "01:13:49.124000",
+        "01:13:53.528000",
+        "It's 11:58 guys, the witching hour is directly upon us."
+      ],
+      [
+        928,
+        "01:14:05.574000",
+        "01:14:08.910000",
+        "Stick with us through the witching hour."
+      ]
+    ],
+    "regex": "\\b((?!\\bWitching:)Witching)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

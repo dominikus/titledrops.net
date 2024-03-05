@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0043861",
+    "title": "No Questions Asked",
+    "year": 1951,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 5,
+    "all_lines": 1295,
+    "occurrences": [
+      [
+        133,
+        "00:07:41.849000",
+        "00:07:44.673000",
+        "Right now I would pay $10,000 and no questions asked."
+      ],
+      [
+        171,
+        "00:10:07.478000",
+        "00:10:08.522000",
+        "No questions asked."
+      ],
+      [
+        235,
+        "00:13:33.643000",
+        "00:13:36.387000",
+        "You can make a deal with them. $10,000. No questions asked."
+      ],
+      [
+        252,
+        "00:14:41.084000",
+        "00:14:43.638000",
+        "You said $10,000 for the return of the furs, no questions asked."
+      ],
+      [
+        376,
+        "00:22:56.984000",
+        "00:22:58.030000",
+        "No questions asked."
+      ]
+    ],
+    "regex": "\\b((?!\\bNo\\ Questions\\ Asked:)No\\ Questions\\ Asked)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

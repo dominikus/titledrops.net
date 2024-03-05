@@ -1,0 +1,80 @@
+[
+  {
+    "imdb": "tt0188589",
+    "title": "Enclosure",
+    "year": 1961,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 10,
+    "all_lines": 965,
+    "occurrences": [
+      [
+        195,
+        "00:22:48.100000",
+        "00:22:51.456000",
+        "Empty enclosure 3 and put Schongauer in it"
+      ],
+      [
+        203,
+        "00:23:29.700000",
+        "00:23:32.498000",
+        "\"He'll be put in Enclosure 3\""
+      ],
+      [
+        228,
+        "00:25:30.900000",
+        "00:25:32.652000",
+        "He's in the enclosure"
+      ],
+      [
+        255,
+        "00:27:56.340000",
+        "00:27:59.218000",
+        "The man in the enclosure wants to kill you"
+      ],
+      [
+        287,
+        "00:30:18.660000",
+        "00:30:21.732000",
+        "He's in the enclosure to make him talk"
+      ],
+      [
+        300,
+        "00:31:11.700000",
+        "00:31:14.009000",
+        "...Karl in the enclosure"
+      ],
+      [
+        461,
+        "00:43:58.980000",
+        "00:44:00.811000",
+        "...goes near the enclosure"
+      ],
+      [
+        647,
+        "00:59:18.860000",
+        "00:59:22.375000",
+        "Can you go to the enclosure 3's watchtower and see..."
+      ],
+      [
+        869,
+        "01:18:34.300000",
+        "01:18:35.972000",
+        "We electrified the enclosure fence"
+      ],
+      [
+        873,
+        "01:18:42.940000",
+        "01:18:45.010000",
+        "Put the spot on the enclosure"
+      ]
+    ],
+    "regex": "\\b((?!\\bEnclosure:)Enclosure)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

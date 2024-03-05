@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0831386",
+    "title": "The Drummer",
+    "year": 2007,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 523,
+    "occurrences": [
+      [
+        298,
+        "00:32:59.880000",
+        "00:33:00.949000",
+        "I'm a drummer"
+      ],
+      [
+        351,
+        "00:37:26.640000",
+        "00:37:30.474000",
+        "There was a handsome drummer in the band"
+      ],
+      [
+        521,
+        "00:53:00.800000",
+        "00:53:04.873000",
+        "All I know is that Master is a serious drummer"
+      ]
+    ],
+    "regex": "\\b((?!\\bDrummer:)Drummer)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0049034",
+    "title": "Bundle of Joy",
+    "year": 1956,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1303,
+    "occurrences": [
+      [
+        1286,
+        "01:32:27.240000",
+        "01:32:30.320000",
+        "Came a bundle of joy"
+      ],
+      [
+        1289,
+        "01:32:43.440000",
+        "01:32:47.160000",
+        "In a bundle of joy?"
+      ],
+      [
+        1298,
+        "01:33:21.160000",
+        "01:33:24.520000",
+        "To share a bundle of joy"
+      ]
+    ],
+    "regex": "\\b((?!\\bBundle\\ of\\ Joy:)Bundle\\ of\\ Joy)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

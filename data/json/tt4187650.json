@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt4187650",
+    "title": "Trip to Bhangarh: Asia's Most Haunted Place",
+    "year": 2014,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1452,
+    "occurrences": [
+      [
+        263,
+        "00:19:18.937000",
+        "00:19:22.887000",
+        "The tentative title is\"Trip to Bhangarh\""
+      ],
+      [
+        400,
+        "00:29:06.520000",
+        "00:29:07.778000",
+        "Trip to Bhangarh.."
+      ],
+      [
+        474,
+        "00:32:29.219000",
+        "00:32:33.978000",
+        "Ok baby, for you I am cancellingthe trip to Bhangarh."
+      ],
+      [
+        975,
+        "01:08:53.430000",
+        "01:08:57.292000",
+        "-Hello.. -We had alreadycancelled the Trip to Bhangarh.."
+      ],
+      [
+        1138,
+        "01:19:39.194000",
+        "01:19:45.061000",
+        "You were thinking, you allwere planning trip to Bhangarh."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrip\\ to\\ Bhangarh:)Trip\\ to\\ Bhangarh|(?!\\bAsia's\\ Most\\ Haunted\\ Place:)Asia's\\ Most\\ Haunted\\ Place)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.5
+  }
+]

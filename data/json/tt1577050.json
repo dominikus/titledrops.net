@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt1577050",
+    "title": "Fired",
+    "year": 2010,
+    "genres": [
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 712,
+    "occurrences": [
+      [
+        19,
+        "00:05:01.708000",
+        "00:05:03.625000",
+        "Should have fired you as well."
+      ],
+      [
+        58,
+        "00:09:13.208000",
+        "00:09:15.333000",
+        "And I fired 120 others along with her."
+      ],
+      [
+        79,
+        "00:11:53.875000",
+        "00:11:54.958000",
+        "You're fired."
+      ],
+      [
+        171,
+        "00:26:11.542000",
+        "00:26:13.750000",
+        "I should have fired 122 people!"
+      ],
+      [
+        642,
+        "01:15:48.833000",
+        "01:15:51.667000",
+        "Do you know why I fired you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFired:)Fired)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

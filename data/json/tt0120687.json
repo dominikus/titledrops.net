@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0120687",
+    "title": "The Governess",
+    "year": 1998,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 835,
+    "occurrences": [
+      [
+        152,
+        "00:18:16.078000",
+        "00:18:18.080000",
+        "Oh, the governess."
+      ],
+      [
+        774,
+        "01:38:46.110000",
+        "01:38:49.078000",
+        "Ah, Mr Hewlett, this is my daughter's governess."
+      ]
+    ],
+    "regex": "\\b((?!\\bGoverness:)Governess)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

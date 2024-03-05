@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0145401",
+    "title": "Porto das Caixas",
+    "year": 1963,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 382,
+    "occurrences": [
+      [
+        95,
+        "00:20:18.859000",
+        "00:20:21.656000",
+        "If promisses would be money, Porto das Caixas would be rich."
+      ],
+      [
+        345,
+        "01:05:13.579000",
+        "01:05:18.328000",
+        "People in Porto das Caixas, come to the Itaborai meeting!"
+      ]
+    ],
+    "regex": "\\b((?!\\bPorto\\ das\\ Caixas:)Porto\\ das\\ Caixas)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

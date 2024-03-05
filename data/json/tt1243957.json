@@ -1,0 +1,68 @@
+[
+  {
+    "imdb": "tt1243957",
+    "title": "The Tourist",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 8,
+    "all_lines": 724,
+    "occurrences": [
+      [
+        155,
+        "00:21:02.146000",
+        "00:21:03.384000",
+        "He's a tourist"
+      ],
+      [
+        417,
+        "01:02:49.508000",
+        "01:02:51.992000",
+        "It's because of that tourist, isn't it?"
+      ],
+      [
+        650,
+        "01:24:39.928000",
+        "01:24:40.972000",
+        "He's a tourist!"
+      ],
+      [
+        651,
+        "01:24:43.067000",
+        "01:24:44.074000",
+        "A tourist?"
+      ],
+      [
+        653,
+        "01:24:48.118000",
+        "01:24:49.462000",
+        "How would a tourist"
+      ],
+      [
+        656,
+        "01:24:54.056000",
+        "01:24:56.567000",
+        "You told a tourist?"
+      ],
+      [
+        696,
+        "01:30:00.321000",
+        "01:30:01.258000",
+        "I'm just a tourist."
+      ],
+      [
+        697,
+        "01:30:05.241000",
+        "01:30:06.197000",
+        "Just a tourist."
+      ]
+    ],
+    "regex": "\\b((?!\\bTourist:)Tourist)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

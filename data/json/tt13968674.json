@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt13968674",
+    "title": "Fingernails",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1391,
+    "occurrences": [
+      [
+        1137,
+        "01:22:33.593000",
+        "01:22:36.892000",
+        "- Uh, I mean... - I like pulling out people's fingernails."
+      ],
+      [
+        1168,
+        "01:24:28.774000",
+        "01:24:32.469000",
+        "No way. That's not my idea of fun, having my fingernails ripped out."
+      ],
+      [
+        1250,
+        "01:31:41.636000",
+        "01:31:43.736000",
+        "I tested our fingernails."
+      ],
+      [
+        1251,
+        "01:31:46.607000",
+        "01:31:49.214000",
+        "What? Wait, whose fingernails?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFingernails:)Fingernails)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0110066",
+    "title": "Houseguest",
+    "year": 1995,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 2876,
+    "occurrences": [
+      [
+        1257,
+        "00:45:26.874000",
+        "00:45:28.336000",
+        "Be a good houseguest, Mom, you know."
+      ],
+      [
+        1282,
+        "00:46:07.968000",
+        "00:46:09.593000",
+        "He-he's their houseguest."
+      ],
+      [
+        2111,
+        "01:13:04.480000",
+        "01:13:07.676000",
+        "Um, it was gonna be a gift to my hosts from their houseguest."
+      ],
+      [
+        2793,
+        "01:38:16.467000",
+        "01:38:18.955000",
+        "our own Gary Young and his houseguest, Derek Bond!"
+      ]
+    ],
+    "regex": "\\b((?!\\bHouseguest:)Houseguest)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0434424",
+    "title": "Undiscovered",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Music",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1466,
+    "occurrences": [
+      [
+        1016,
+        "01:06:21.260000",
+        "01:06:24.388000",
+        "All the things left undiscovered"
+      ],
+      [
+        1218,
+        "01:18:35.127000",
+        "01:18:38.858000",
+        "Anyways, I hope you guys like this song. It's called Undiscovered."
+      ],
+      [
+        1227,
+        "01:19:23.341000",
+        "01:19:27.334000",
+        "All the things left undiscovered"
+      ]
+    ],
+    "regex": "\\b((?!\\bUndiscovered:)Undiscovered)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

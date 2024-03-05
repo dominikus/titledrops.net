@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0080125",
+    "title": "West Indies",
+    "year": 1979,
+    "genres": [
+      "Drama",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 1179,
+    "occurrences": [
+      [
+        130,
+        "00:18:11.125000",
+        "00:18:14.754000",
+        "from France to the West Indies via Africa!"
+      ],
+      [
+        546,
+        "00:52:20.916000",
+        "00:52:23.908000",
+        "Spain loses her monopoly of the West Indies."
+      ]
+    ],
+    "regex": "\\b((?!\\bWest\\ Indies:)West\\ Indies)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

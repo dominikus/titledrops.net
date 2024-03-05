@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt7689926",
+    "title": "The Sentence",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 1373,
+    "occurrences": [
+      [
+        412,
+        "00:24:07.667000",
+        "00:24:10.166000",
+        "judges had discretion to impose the sentence"
+      ],
+      [
+        416,
+        "00:24:16.834000",
+        "00:24:20.041000",
+        "The judge had to sentence within the guidelines."
+      ],
+      [
+        773,
+        "00:48:48.583000",
+        "00:48:51.250000",
+        "that is in the same sentence of the Constitution"
+      ],
+      [
+        805,
+        "00:50:02.542000",
+        "00:50:04.792000",
+        "is the sentence that she received."
+      ],
+      [
+        1360,
+        "01:26:12.583000",
+        "01:26:14.834000",
+        "When I got the sentence"
+      ]
+    ],
+    "regex": "\\b((?!\\bSentence:)Sentence)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

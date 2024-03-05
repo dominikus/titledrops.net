@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0045991",
+    "title": "Law and Order",
+    "year": 1953,
+    "genres": [
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 1077,
+    "occurrences": [
+      [
+        111,
+        "00:10:05.370000",
+        "00:10:08.305000",
+        "You wanted law and order in this town, you've got it."
+      ],
+      [
+        920,
+        "01:02:36.469000",
+        "01:02:39.836000",
+        "You keep your law and order. I'll take my chances in Mexico."
+      ],
+      [
+        958,
+        "01:05:55.031000",
+        "01:05:56.931000",
+        "that you mean business about law and order."
+      ]
+    ],
+    "regex": "\\b((?!\\bLaw\\ and\\ Order:)Law\\ and\\ Order)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

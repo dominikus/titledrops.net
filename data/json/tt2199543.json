@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2199543",
+    "title": "Futuro Beach",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 393,
+    "occurrences": [
+      [
+        41,
+        "00:08:04.186000",
+        "00:08:07.604000",
+        "They travel all around the world and come die in Futuro Beach."
+      ],
+      [
+        57,
+        "00:10:04.232000",
+        "00:10:07.588000",
+        "Futuro Beach is a very dangerous one."
+      ],
+      [
+        120,
+        "00:21:20.807000",
+        "00:21:22.880000",
+        "Just like Futuro Beach is now."
+      ]
+    ],
+    "regex": "\\b((?!\\bFuturo\\ Beach:)Futuro\\ Beach)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

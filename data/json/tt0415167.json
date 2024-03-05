@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0415167",
+    "title": "Mortuary",
+    "year": 2005,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 122,
+    "occurrences": [
+      [
+        15,
+        "00:01:49.489000",
+        "00:01:50.513000",
+        "To the mortuary."
+      ],
+      [
+        16,
+        "00:01:50.590000",
+        "00:01:51.955000",
+        "What? To the mortuary?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMortuary:)Mortuary)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

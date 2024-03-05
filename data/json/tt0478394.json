@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0478394",
+    "title": "The Substitute",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1315,
+    "occurrences": [
+      [
+        124,
+        "00:09:17.580000",
+        "00:09:20.620000",
+        "They say that when your teacher is sick and you have a substitute,"
+      ],
+      [
+        125,
+        "00:09:20.620000",
+        "00:09:24.800000",
+        "the substitute has to be just as good of a teacher as the real teacher"
+      ],
+      [
+        340,
+        "00:19:48.180000",
+        "00:19:50.320000",
+        "Whatever, she's just a substitute."
+      ],
+      [
+        532,
+        "00:29:13.930000",
+        "00:29:16.860000",
+        "And I think you're the finest substitute..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSubstitute:)Substitute)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt6580050",
+    "title": "On Halloween",
+    "year": 2020,
+    "genres": [
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 1700,
+    "occurrences": [
+      [
+        395,
+        "00:19:40.715000",
+        "00:19:43.550000",
+        "Like, what happened on Halloween last year?"
+      ],
+      [
+        413,
+        "00:20:09.576000",
+        "00:20:11.178000",
+        "on Halloween the last couple of years."
+      ],
+      [
+        603,
+        "00:28:06.653000",
+        "00:28:08.255000",
+        "the last couple of years on Halloween."
+      ],
+      [
+        1011,
+        "00:50:26.761000",
+        "00:50:28.830000",
+        "tonight on Halloween."
+      ],
+      [
+        1093,
+        "00:54:16.223000",
+        "00:54:18.025000",
+        "make a sacrifice on Halloween."
+      ],
+      [
+        1237,
+        "01:01:24.485000",
+        "01:01:27.321000",
+        "On Halloween there are always more,"
+      ]
+    ],
+    "regex": "\\b((?!\\bOn\\ Halloween:)On\\ Halloween)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

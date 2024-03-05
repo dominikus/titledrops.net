@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5369760",
+    "title": "The Watchman's Canoe",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1079,
+    "occurrences": [
+      [
+        25,
+        "00:02:56.205000",
+        "00:03:01.205000",
+        "And drift in the watchman's canoe"
+      ],
+      [
+        1043,
+        "01:37:29.425000",
+        "01:37:32.408000",
+        "It became the legend of the watchman's canoe."
+      ]
+    ],
+    "regex": "\\b((?!\\bWatchman's\\ Canoe:)Watchman's\\ Canoe)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

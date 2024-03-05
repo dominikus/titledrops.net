@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt23159982",
+    "title": "Blue Hour: The Disappearance of Nick Brandreth",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 1201,
+    "occurrences": [
+      [
+        50,
+        "00:06:18.130000",
+        "00:06:21.219000",
+        "Police remain baffled in the disappearance of Nick Brandreth,"
+      ],
+      [
+        277,
+        "00:21:28.783000",
+        "00:21:31.747000",
+        "If you have any information regarding the disappearance of Nick Brandreth..."
+      ],
+      [
+        407,
+        "00:29:29.326000",
+        "00:29:32.706000",
+        "Blue Hour touched on a number of unexplained aspects of the case,"
+      ],
+      [
+        620,
+        "00:42:09.219000",
+        "00:42:10.806000",
+        "Blue Hour?"
+      ],
+      [
+        954,
+        "01:07:18.611000",
+        "01:07:21.533000",
+        "and I'm going to Haddonfield for blue hour."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Hour:)Blue\\ Hour|(?!\\bDisappearance\\ of\\ Nick\\ Brandreth:)Disappearance\\ of\\ Nick\\ Brandreth)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

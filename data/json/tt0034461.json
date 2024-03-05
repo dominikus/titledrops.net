@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0034461",
+    "title": "Aniki Bóbó",
+    "year": 1942,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 458,
+    "occurrences": [
+      [
+        245,
+        "00:34:12.597000",
+        "00:34:16.115000",
+        "Aniki bebe, Aniki bobo birdie, puppy"
+      ],
+      [
+        248,
+        "00:34:22.986000",
+        "00:34:26.424000",
+        "Aniki bebe, Aniki bobo birdie, puppy"
+      ],
+      [
+        251,
+        "00:34:33.793000",
+        "00:34:35.640000",
+        "Aniki bebe, Aniki bobo birdie, puppy"
+      ],
+      [
+        329,
+        "00:48:51.061000",
+        "00:48:54.789000",
+        "I'm afraid of prison Aniki bebe, aniki bobo"
+      ]
+    ],
+    "regex": "\\b((?!\\bAniki\\ Bobo:)Aniki\\ Bobo)(?!\\:)(?!'t)\\b",
+    "runtime": 71,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

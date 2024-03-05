@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0291501",
+    "title": "Rafureshia",
+    "year": 1995,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 383,
+    "occurrences": [
+      [
+        270,
+        "00:47:10.360000",
+        "00:47:13.296000",
+        "Do you know the flower called Rafureshia?"
+      ],
+      [
+        271,
+        "00:47:13.297000",
+        "00:47:16.297000",
+        "Rafureshia?"
+      ],
+      [
+        368,
+        "00:59:33.403000",
+        "00:59:36.403000",
+        "That's good. We're on our way to see the flower called Rafureshia."
+      ]
+    ],
+    "regex": "\\b((?!\\bRafureshia:)Rafureshia)(?!\\:)(?!'t)\\b",
+    "runtime": 63,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

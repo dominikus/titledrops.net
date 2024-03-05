@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0182766",
+    "title": "The Battle of Britain",
+    "year": 1943,
+    "genres": [
+      "Documentary",
+      "History",
+      "War"
+    ],
+    "count": 5,
+    "all_lines": 415,
+    "occurrences": [
+      [
+        19,
+        "00:02:34.700000",
+        "00:02:38.500000",
+        "The preliminaries were over, it was time for the main event. The battle of Britain."
+      ],
+      [
+        157,
+        "00:17:28",
+        "00:17:33",
+        "In the first 10 days of the Battle of Britain, Goring launched 26 major attacks to get command of the air"
+      ],
+      [
+        236,
+        "00:26:05.700000",
+        "00:26:08.600000",
+        "The battle of Britain, became the Battle of London."
+      ],
+      [
+        388,
+        "00:49:10.700000",
+        "00:49:15.400000",
+        "The Battle of Britain was won, but not by Hitler."
+      ],
+      [
+        398,
+        "00:50:09.700000",
+        "00:50:12.600000",
+        "Why did the Nazis lose the Battle of Britain?."
+      ]
+    ],
+    "regex": "\\b((?!\\bBattle\\ of\\ Britain:)Battle\\ of\\ Britain)(?!\\:)(?!'t)\\b",
+    "runtime": 54,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

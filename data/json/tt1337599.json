@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1337599",
+    "title": "Consuming Kids: The Commercialization of Childhood",
+    "year": 2008,
+    "genres": [
+      "Documentary",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1149,
+    "occurrences": [
+      [
+        7,
+        "00:00:46.817000",
+        "00:00:51.927000",
+        "Consuming Kids: The Commercialization of Childhood"
+      ],
+      [
+        669,
+        "00:37:12.480000",
+        "00:37:18.550000",
+        "The commercialization of childhood is permeating their lives."
+      ]
+    ],
+    "regex": "\\b((?!\\bConsuming\\ Kids:)Consuming\\ Kids|(?!\\bCommercialization\\ of\\ Childhood:)Commercialization\\ of\\ Childhood)(?!\\:)(?!'t)\\b",
+    "runtime": 66,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

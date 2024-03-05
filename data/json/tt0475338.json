@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0475338",
+    "title": "Mortuary",
+    "year": 2005,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1526,
+    "occurrences": [
+      [
+        51,
+        "00:04:16.212000",
+        "00:04:17.518000",
+        "Even the mortuary facilities?"
+      ],
+      [
+        359,
+        "00:24:00.569000",
+        "00:24:02.397000",
+        "Hey, mortuary boy don't know who Bobby is."
+      ],
+      [
+        489,
+        "00:32:15.672000",
+        "00:32:18.893000",
+        "The mortuary passed through Zeb's family until 1962."
+      ]
+    ],
+    "regex": "\\b((?!\\bMortuary:)Mortuary)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

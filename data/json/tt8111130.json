@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt8111130",
+    "title": "The Weekend",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1385,
+    "occurrences": [
+      [
+        50,
+        "00:03:48.362000",
+        "00:03:50.229000",
+        "You know that I'm bringing you up this weekend"
+      ],
+      [
+        106,
+        "00:06:49.042000",
+        "00:06:50.742000",
+        "-Get to know her this weekend. -Fine."
+      ],
+      [
+        260,
+        "00:15:08.174000",
+        "00:15:09.540000",
+        "- The weekend. -Alone?"
+      ],
+      [
+        838,
+        "00:48:26.004000",
+        "00:48:28.204000",
+        "and on this particular weekend,"
+      ],
+      [
+        848,
+        "00:48:52.130000",
+        "00:48:55.231000",
+        " She was jockeying for a position with Bradford all weekend."
+      ],
+      [
+        1152,
+        "01:05:15.345000",
+        "01:05:16.611000",
+        "after this weekend."
+      ]
+    ],
+    "regex": "\\b((?!\\bWeekend:)Weekend)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

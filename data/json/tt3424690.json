@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt3424690",
+    "title": "Havenhurst",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 814,
+    "occurrences": [
+      [
+        141,
+        "00:13:55.169000",
+        "00:13:57.801000",
+        "So I figured that I should use Havenhurst"
+      ],
+      [
+        182,
+        "00:15:54.902000",
+        "00:15:59.236000",
+        "Then your stay at Havenhurst would be terminated."
+      ],
+      [
+        194,
+        "00:16:43.002000",
+        "00:16:45.568000",
+        "Welcome to Havenhurst."
+      ],
+      [
+        317,
+        "00:28:08.101000",
+        "00:28:09.435000",
+        "going on at Havenhurst?"
+      ],
+      [
+        567,
+        "00:50:34.234000",
+        "00:50:36.500000",
+        "You still looking at Havenhurst?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHavenhurst:)Havenhurst)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1847541",
+    "title": "Around the Block",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1443,
+    "occurrences": [
+      [
+        788,
+        "00:50:33.298000",
+        "00:50:35.600000",
+        "You should have a little look around the Block in Redfern."
+      ],
+      [
+        1136,
+        "01:12:22.406000",
+        "01:12:24.541000",
+        "Continue to gather in numbers around the block in Redfern."
+      ]
+    ],
+    "regex": "\\b((?!\\bAround\\ the\\ Block:)Around\\ the\\ Block)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

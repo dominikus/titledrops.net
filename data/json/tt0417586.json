@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0417586",
+    "title": "Dangerous Parking",
+    "year": 2007,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 2319,
+    "occurrences": [
+      [
+        993,
+        "00:42:51.292000",
+        "00:42:55.020000",
+        "I'm going to charge you with dangerous parking."
+      ],
+      [
+        994,
+        "00:42:55.055000",
+        "00:42:56.608000",
+        "\"With dangerous parking.\""
+      ],
+      [
+        996,
+        "00:43:02.752000",
+        "00:43:05.134000",
+        "Fucking dangerous parking we got done with."
+      ]
+    ],
+    "regex": "\\b((?!\\bDangerous\\ Parking:)Dangerous\\ Parking)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

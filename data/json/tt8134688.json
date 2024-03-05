@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt8134688",
+    "title": "Marionette",
+    "year": 2017,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 899,
+    "occurrences": [
+      [
+        253,
+        "00:28:27.272000",
+        "00:28:29.297000",
+        "Name of video for marionette."
+      ],
+      [
+        746,
+        "01:24:10.278000",
+        "01:24:18.242000",
+        "Now live marionette broadcasts"
+      ]
+    ],
+    "regex": "\\b((?!\\bMarionette:)Marionette)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

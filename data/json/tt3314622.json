@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3314622",
+    "title": "Escape from Uganda",
+    "year": 2013,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1326,
+    "occurrences": [
+      [
+        797,
+        "01:00:56.419000",
+        "01:01:00.150000",
+        "Escape from Uganda."
+      ],
+      [
+        1205,
+        "01:41:01.522000",
+        "01:41:03.547000",
+        "Youve to escape from Uganda. Right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bEscape\\ from\\ Uganda:)Escape\\ from\\ Uganda)(?!\\:)(?!'t)\\b",
+    "runtime": 173,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

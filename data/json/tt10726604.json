@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt10726604",
+    "title": "The Bad Guys: The Movie",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1238,
+    "occurrences": [
+      [
+        323,
+        "00:28:31.600000",
+        "00:28:34.360000",
+        "We just catch bad guys. There is one rule though."
+      ],
+      [
+        1047,
+        "01:23:11.960000",
+        "01:23:14",
+        "It's all about catching the bad guys."
+      ],
+      [
+        1211,
+        "01:44:32.760000",
+        "01:44:36.160000",
+        "Sorry you had to go through this crap because of those bad guys."
+      ]
+    ],
+    "regex": "\\b((?!\\bBad\\ Guys:)Bad\\ Guys|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

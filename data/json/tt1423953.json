@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1423953",
+    "title": "Liar Game: The Final Stage",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 734,
+    "occurrences": [
+      [
+        37,
+        "00:04:19.158000",
+        "00:04:23.185000",
+        "''Beyond this door... awaits the final stage.''"
+      ],
+      [
+        65,
+        "00:07:23.309000",
+        "00:07:28.576000",
+        "''Let us now begin the final stage of the Liar Game.''"
+      ],
+      [
+        148,
+        "00:14:25.865000",
+        "00:14:27.560000",
+        "This is the final stage."
+      ]
+    ],
+    "regex": "\\b((?!\\bLiar\\ Game:)Liar\\ Game|(?!\\bFinal\\ Stage:)Final\\ Stage)(?!\\:)(?!'t)\\b",
+    "runtime": 133,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

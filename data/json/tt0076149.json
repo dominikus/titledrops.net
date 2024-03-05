@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0076149",
+    "title": "Hollywood High",
+    "year": 1976,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1400,
+    "occurrences": [
+      [
+        10,
+        "00:00:47.214000",
+        "00:00:50.381000",
+        "It's Hollywood High"
+      ],
+      [
+        22,
+        "00:01:29.781000",
+        "00:01:32.948000",
+        "It's Hollywood High"
+      ],
+      [
+        35,
+        "00:02:11.906000",
+        "00:02:15.073000",
+        "It's Hollywood High"
+      ],
+      [
+        1399,
+        "01:20:13.215000",
+        "01:20:16.215000",
+        "In Hollywood High"
+      ],
+      [
+        1400,
+        "01:20:19.338000",
+        "01:20:22.745000",
+        "Hollywood Hollywood Hollywood High"
+      ]
+    ],
+    "regex": "\\b((?!\\bHollywood\\ High:)Hollywood\\ High)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0446476",
+    "title": "Storm",
+    "year": 2005,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "count": 7,
+    "all_lines": 594,
+    "occurrences": [
+      [
+        15,
+        "00:05:03.920000",
+        "00:05:08.118000",
+        "The storm hit Gotland with enormous force three hours ago-"
+      ],
+      [
+        19,
+        "00:05:21.880000",
+        "00:05:25.555000",
+        "The storm now seems to be moving towards Stockholm."
+      ],
+      [
+        79,
+        "00:11:12.920000",
+        "00:11:17.198000",
+        "What if the storm hits here? Stay inside."
+      ],
+      [
+        85,
+        "00:11:35.960000",
+        "00:11:40.670000",
+        "The powerful storm that recently struck Gotland has ended."
+      ],
+      [
+        86,
+        "00:11:40.840000",
+        "00:11:45.595000",
+        "Storm winds ran as high as 110 miles per hour."
+      ],
+      [
+        91,
+        "00:13:44.760000",
+        "00:13:49.754000",
+        "A storm comes and then just disappears, or does it?"
+      ],
+      [
+        140,
+        "00:23:34.640000",
+        "00:23:37.677000",
+        "Storm."
+      ]
+    ],
+    "regex": "\\b((?!\\bStorm:)Storm)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

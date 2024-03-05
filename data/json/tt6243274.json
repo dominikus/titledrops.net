@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6243274",
+    "title": "County Line",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1796,
+    "occurrences": [
+      [
+        373,
+        "00:17:19.538000",
+        "00:17:21.106000",
+        "maddie's at the county line."
+      ],
+      [
+        867,
+        "00:40:54.585000",
+        "00:40:58.122000",
+        " well, maybe the county line was"
+      ],
+      [
+        1422,
+        "01:08:45.387000",
+        "01:08:47.857000",
+        "Sloan had us fake a robbery at the county line."
+      ],
+      [
+        1710,
+        "01:21:57.112000",
+        "01:22:00.048000",
+        "Don't think you're gonna go down to the county line and eat all"
+      ]
+    ],
+    "regex": "\\b((?!\\bCounty\\ Line:)County\\ Line)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

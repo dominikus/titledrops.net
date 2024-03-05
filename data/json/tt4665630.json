@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4665630",
+    "title": "Swinger",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 676,
+    "occurrences": [
+      [
+        403,
+        "00:48:54.680000",
+        "00:49:00.221000",
+        "You have been unfaithful to me, Adam. In a swinger club."
+      ],
+      [
+        589,
+        "01:16:46.697000",
+        "01:16:51.904000",
+        "We lumps, Adam. It's a swinger club this."
+      ]
+    ],
+    "regex": "\\b((?!\\bSwinger:)Swinger)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

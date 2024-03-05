@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3365778",
+    "title": "Breathe",
+    "year": 2014,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 888,
+    "occurrences": [
+      [
+        867,
+        "01:18:38.080000",
+        "01:18:39.560000",
+        "I can't breathe!"
+      ],
+      [
+        878,
+        "01:19:38.840000",
+        "01:19:41.080000",
+        "What is it? Calm down, breathe!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBreathe:)Breathe)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt0121164",
+    "title": "Corpse Bride",
+    "year": 2005,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 840,
+    "occurrences": [
+      [
+        215,
+        "00:20:54.799000",
+        "00:20:58.291000",
+        "Of our own jubiliciously Lovely Corpse Bride"
+      ],
+      [
+        259,
+        "00:23:38.362000",
+        "00:23:42.196000",
+        "And that's the story Of our Corpse Bride"
+      ],
+      [
+        526,
+        "00:45:29.718000",
+        "00:45:31.948000",
+        "He has a corpse bride!"
+      ],
+      [
+        699,
+        "00:58:41.643000",
+        "00:58:44.840000",
+        "Our bride-to-be, our bride-to-be Our lovely Corpse Bride"
+      ]
+    ],
+    "regex": "\\b((?!\\bCorpse\\ Bride:)Corpse\\ Bride)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [
+      "Corpse Bride"
+    ],
+    "title_is_name": true,
+    "rating": 7.4
+  }
+]

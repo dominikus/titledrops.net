@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt9697780",
+    "title": "Slalom",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 685,
+    "occurrences": [
+      [
+        649,
+        "01:23:30.167000",
+        "01:23:34.667000",
+        "of the women's European Cup with this parallel slalom."
+      ],
+      [
+        657,
+        "01:24:20.042000",
+        "01:24:23.542000",
+        "It's the final of the parallel giant slalom."
+      ]
+    ],
+    "regex": "\\b((?!\\bSlalom:)Slalom)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

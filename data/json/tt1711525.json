@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1711525",
+    "title": "Office Christmas Party",
+    "year": 2016,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 2311,
+    "occurrences": [
+      [
+        635,
+        "00:24:55.960000",
+        "00:24:57.952000",
+        "at our office Christmas party tonight."
+      ],
+      [
+        639,
+        "00:25:02.200000",
+        "00:25:03.270000",
+        "an office Christmas party."
+      ]
+    ],
+    "regex": "\\b((?!\\bOffice\\ Christmas\\ Party:)Office\\ Christmas\\ Party)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

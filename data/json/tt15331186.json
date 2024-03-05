@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt15331186",
+    "title": "Good Mourning",
+    "year": 2022,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1666,
+    "occurrences": [
+      [
+        7,
+        "00:01:36.690000",
+        "00:01:39.985000",
+        "'I wish I didn't have to do this through text.' 'Good mourning' with a U?"
+      ],
+      [
+        58,
+        "00:05:28.122000",
+        "00:05:31.751000",
+        "Look, she said 'Good mourning' with a fucking U."
+      ]
+    ],
+    "regex": "\\b((?!\\bGood\\ Mourning:)Good\\ Mourning)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

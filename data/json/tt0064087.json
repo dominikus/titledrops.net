@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0064087",
+    "title": "The Big Bounce",
+    "year": 1969,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1409,
+    "occurrences": [
+      [
+        376,
+        "00:23:31.843000",
+        "00:23:35.847000",
+        "And do the big bounce"
+      ],
+      [
+        385,
+        "00:23:59.137000",
+        "00:24:02.607000",
+        "Just do the big bounce"
+      ]
+    ],
+    "regex": "\\b((?!\\bBig\\ Bounce:)Big\\ Bounce)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

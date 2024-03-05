@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0077357",
+    "title": "The Comeback",
+    "year": 1978,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 816,
+    "occurrences": [
+      [
+        176,
+        "00:24:36.496000",
+        "00:24:40.172000",
+        "- not a singer trying to make a comeback. - Depends where he's been."
+      ],
+      [
+        179,
+        "00:24:46.296000",
+        "00:24:50.083000",
+        "And don't be so hard on yourself. lf Web didn't have faith in your comeback,"
+      ]
+    ],
+    "regex": "\\b((?!\\bComeback:)Comeback)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

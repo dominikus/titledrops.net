@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0160801",
+    "title": "The Little Mermaid",
+    "year": 1976,
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Musical"
+    ],
+    "count": 4,
+    "all_lines": 524,
+    "occurrences": [
+      [
+        12,
+        "00:02:08.899000",
+        "00:02:13.848000",
+        "Vika NOVlKOVA as Little Mermaid Valentin NlKULlN as Sulpitius"
+      ],
+      [
+        485,
+        "01:07:48.219000",
+        "01:07:50.255000",
+        "the Little Mermaid will die?"
+      ],
+      [
+        514,
+        "01:14:24.899000",
+        "01:14:28.858000",
+        "And you have overlooked it. lt is the Little Mermaid!"
+      ],
+      [
+        522,
+        "01:16:49.739000",
+        "01:16:54.859000",
+        "Since then the Little Mermaid has been wandering around the earth,"
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Mermaid:)Little\\ Mermaid)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

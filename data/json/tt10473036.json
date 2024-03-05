@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt10473036",
+    "title": "The Amazing Maurice",
+    "year": 2022,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1539,
+    "occurrences": [
+      [
+        138,
+        "00:08:22.080000",
+        "00:08:25.400000",
+        "Me? The Amazing Maurice?"
+      ],
+      [
+        801,
+        "00:44:35.240000",
+        "00:44:39.520000",
+        "The Amazing Maurice barely escapes with six of his nine lives."
+      ],
+      [
+        1044,
+        "01:00:08.800000",
+        "01:00:11.520000",
+        "(MUFFLED) Amazing Maurice."
+      ],
+      [
+        1303,
+        "01:16:00.160000",
+        "01:16:03.040000",
+        "the Amazing Maurice, that's me,"
+      ],
+      [
+        1418,
+        "01:22:53.920000",
+        "01:22:58.440000",
+        "Due to the efforts of Maurice, the Amazing Maurice,"
+      ]
+    ],
+    "regex": "\\b((?!\\bAmazing\\ Maurice:)Amazing\\ Maurice)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0161010",
+    "title": "The Trench",
+    "year": 1999,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "count": 5,
+    "all_lines": 732,
+    "occurrences": [
+      [
+        117,
+        "00:13:32.799000",
+        "00:13:37.636000",
+        "I do not know where to do it - In the trench, no one will notice."
+      ],
+      [
+        174,
+        "00:19:22.593000",
+        "00:19:26.230000",
+        "I'll do a round And then go to the reserve trench. ."
+      ],
+      [
+        463,
+        "00:50:55.760000",
+        "00:50:59.833000",
+        "The Germans have a trench dug around here... ."
+      ],
+      [
+        540,
+        "01:00:06.280000",
+        "01:00:09.750000",
+        "Maybe it was an integral of the trench"
+      ],
+      [
+        694,
+        "01:22:25.188000",
+        "01:22:29.911000",
+        "Back to the reserve trench - No, I'm with you, sir."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrench:)Trench)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

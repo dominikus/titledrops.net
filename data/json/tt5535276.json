@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt5535276",
+    "title": "Maestro",
+    "year": 2023,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 1623,
+    "occurrences": [
+      [
+        54,
+        "00:06:39.333000",
+        "00:06:44.250000",
+        "And I feel obliged to say that Maestro Bernstein"
+      ],
+      [
+        228,
+        "00:15:52.875000",
+        "00:15:55.291000",
+        "I'm going to read a scene with Maestro Bernstein."
+      ],
+      [
+        230,
+        "00:15:57.125000",
+        "00:15:59.458000",
+        "Maestro Bernstein? That sounds very fancy."
+      ],
+      [
+        428,
+        "00:26:40.250000",
+        "00:26:43.083000",
+        "All the things Maestro Koussevitsky wants you to give up."
+      ]
+    ],
+    "regex": "\\b((?!\\bMaestro:)Maestro)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

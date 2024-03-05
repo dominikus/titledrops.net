@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt6802308",
+    "title": "The 15:17 to Paris",
+    "year": 2018,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 1,
+    "all_lines": 1756,
+    "occurrences": [
+      [
+        22,
+        "00:02:52.798000",
+        "00:02:57.330000",
+        "Oh. I'm sorry, I didn't think we were meeting until 3:15."
+      ]
+    ],
+    "regex": "\\b((?!\\b15:)15|(?!\\b17\\ to\\ Paris:)17\\ to\\ Paris)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

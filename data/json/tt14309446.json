@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt14309446",
+    "title": "Me Time",
+    "year": 2022,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 7,
+    "all_lines": 2297,
+    "occurrences": [
+      [
+        382,
+        "00:15:44.541000",
+        "00:15:47.041000",
+        "Right, you know, talking about \"me time,\""
+      ],
+      [
+        464,
+        "00:18:44.041000",
+        "00:18:45.750000",
+        "- Let's go! - I get some me time."
+      ],
+      [
+        465,
+        "00:18:45.833000",
+        "00:18:47.059000",
+        "- You time. - It's about me time!"
+      ],
+      [
+        466,
+        "00:18:47.083000",
+        "00:18:48.458000",
+        "- Me time! - Me time!"
+      ],
+      [
+        490,
+        "00:19:45.333000",
+        "00:19:47.476000",
+        "- It's me time. Gimme the bags. - Oh, wow, wow, wow, wow."
+      ],
+      [
+        2042,
+        "01:26:47.875000",
+        "01:26:50.250000",
+        "Way to make the most of your \"me time,\" Pops."
+      ]
+    ],
+    "regex": "\\b((?!\\bMe\\ Time:)Me\\ Time)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

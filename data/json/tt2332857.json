@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2332857",
+    "title": "The Zombinator",
+    "year": 2012,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1642,
+    "occurrences": [
+      [
+        1375,
+        "00:58:47.691000",
+        "00:58:50.959000",
+        "Let's go find the Zombinator."
+      ],
+      [
+        1584,
+        "01:09:42.512000",
+        "01:09:44.579000",
+        "Zombinator said he'll protect us."
+      ]
+    ],
+    "regex": "\\b((?!\\bZombinator:)Zombinator)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.2
+  }
+]

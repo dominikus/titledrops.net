@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt6034774",
+    "title": "Loophole",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1337,
+    "occurrences": [
+      [
+        622,
+        "00:35:39.689000",
+        "00:35:41.863000",
+        "- When the loophole was created."
+      ],
+      [
+        623,
+        "00:35:41.898000",
+        "00:35:42.898000",
+        "- Loophole?"
+      ],
+      [
+        931,
+        "00:59:04.920000",
+        "00:59:06.473000",
+        "You'll close the loophole,"
+      ],
+      [
+        1299,
+        "01:23:28.969000",
+        "01:23:31.040000",
+        "And the loophole has been closed."
+      ]
+    ],
+    "regex": "\\b((?!\\bLoophole:)Loophole)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.4
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0073637",
+    "title": "Rosebud",
+    "year": 1975,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 924,
+    "occurrences": [
+      [
+        80,
+        "00:09:54.664000",
+        "00:09:56.666000",
+        "There lies the Rosebud."
+      ],
+      [
+        180,
+        "00:21:36.784000",
+        "00:21:40.504000",
+        "This is a yacht, named Rosebud."
+      ],
+      [
+        199,
+        "00:25:51.064000",
+        "00:25:56.468000",
+        "You are blindfolded, like when you went to the Rosebud."
+      ],
+      [
+        483,
+        "00:56:42.669000",
+        "00:56:47.590000",
+        "I'm the captain and crew my yacht Rosebud bribed..."
+      ],
+      [
+        620,
+        "01:13:56.104000",
+        "01:13:59.964000",
+        "You need help with the Rosebud case. - I do not know anything."
+      ]
+    ],
+    "regex": "\\b((?!\\bRosebud:)Rosebud)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

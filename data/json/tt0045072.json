@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0045072",
+    "title": "Red Ball Express",
+    "year": 1952,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "count": 6,
+    "all_lines": 991,
+    "occurrences": [
+      [
+        91,
+        "00:06:26.607000",
+        "00:06:29.875000",
+        "we'll have a beachhead-to-front Red Ball Express."
+      ],
+      [
+        164,
+        "00:11:27.178000",
+        "00:11:30.279000",
+        "They're gonna call it the Red Ball Express."
+      ],
+      [
+        304,
+        "00:22:06.160000",
+        "00:22:10.096000",
+        "We're supposed to ride this road, serve coffee and doughnuts to the Red Ball Express drivers."
+      ],
+      [
+        726,
+        "00:58:00.742000",
+        "00:58:04.510000",
+        "Sergeant, if I were you, I wouldn't talk about the Red Ball Express that way."
+      ],
+      [
+        727,
+        "00:58:04.912000",
+        "00:58:08.248000",
+        "Oh, the Red Ball Express. We call it the Foul Ball Express."
+      ],
+      [
+        744,
+        "00:59:41.555000",
+        "00:59:45.090000",
+        "If it weren't for the Red Ball Express pushing through supplies,"
+      ]
+    ],
+    "regex": "\\b((?!\\bRed\\ Ball\\ Express:)Red\\ Ball\\ Express)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

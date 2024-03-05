@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6175086",
+    "title": "Right Here Right Now",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1259,
+    "occurrences": [
+      [
+        1205,
+        "01:21:48.542000",
+        "01:21:50.792000",
+        "is right here right now."
+      ],
+      [
+        1206,
+        "01:21:51.917000",
+        "01:21:53.792000",
+        "Right here right now is everything."
+      ]
+    ],
+    "regex": "\\b((?!\\bRight\\ Here\\ Right\\ Now:)Right\\ Here\\ Right\\ Now)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

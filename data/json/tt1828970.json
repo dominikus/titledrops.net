@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1828970",
+    "title": "Evidence",
+    "year": 2013,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1202,
+    "occurrences": [
+      [
+        60,
+        "00:06:03.646000",
+        "00:06:06.049000",
+        "These videos could be the best evidence we've got."
+      ],
+      [
+        551,
+        "00:38:10.671000",
+        "00:38:12.506000",
+        "You find me some indisputable evidence,"
+      ],
+      [
+        1133,
+        "01:23:08.166000",
+        "01:23:12.370000",
+        "that we have just received substantial video evidence"
+      ]
+    ],
+    "regex": "\\b((?!\\bEvidence:)Evidence)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

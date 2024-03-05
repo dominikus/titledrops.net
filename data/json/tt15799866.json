@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt15799866",
+    "title": "Silent Night",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 203,
+    "occurrences": [
+      [
+        0,
+        "00:05:54.754000",
+        "00:05:58.092000",
+        "Silent night"
+      ],
+      [
+        9,
+        "00:06:42.636000",
+        "00:06:44.305000",
+        "Silent night"
+      ]
+    ],
+    "regex": "\\b((?!\\bSilent\\ Night:)Silent\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

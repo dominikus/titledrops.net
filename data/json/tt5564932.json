@@ -1,0 +1,53 @@
+[
+  {
+    "imdb": "tt5564932",
+    "title": "Moss",
+    "year": 2017,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 736,
+    "occurrences": [
+      [
+        199,
+        "00:17:37.021000",
+        "00:17:38.091000",
+        "-  I'm Moss."
+      ],
+      [
+        290,
+        "00:22:37.183000",
+        "00:22:39.875000",
+        "You sure are good lookin', Moss."
+      ],
+      [
+        451,
+        "00:40:27.632000",
+        "00:40:29.427000",
+        "Moss, just go for it."
+      ],
+      [
+        608,
+        "00:52:25.521000",
+        "00:52:26.488000",
+        "- Moss!"
+      ],
+      [
+        610,
+        "00:52:32.528000",
+        "00:52:33.357000",
+        "Moss!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMoss:)Moss)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [
+      "Moss"
+    ],
+    "title_is_name": true,
+    "rating": 5.6
+  }
+]

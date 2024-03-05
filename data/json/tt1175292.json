@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt1175292",
+    "title": "The Imposter",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1593,
+    "occurrences": [
+      [
+        27,
+        "00:01:35.233000",
+        "00:01:37.701000",
+        "# The imposter in me. #"
+      ],
+      [
+        29,
+        "00:01:40.666000",
+        "00:01:45.626000",
+        "# Oh, the imposter is me. ##"
+      ],
+      [
+        1203,
+        "01:11:02.366000",
+        "01:11:04.459000",
+        "You an imposter."
+      ],
+      [
+        1207,
+        "01:11:10.500000",
+        "01:11:12.297000",
+        "Mr. Troubadour Imposter."
+      ],
+      [
+        1209,
+        "01:11:13.199000",
+        "01:11:18.729000",
+        "Here comes your bistro buffet, Mr. Imposter, huh?"
+      ]
+    ],
+    "regex": "\\b((?!\\bImposter:)Imposter)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

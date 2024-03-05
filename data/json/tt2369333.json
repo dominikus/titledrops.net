@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2369333",
+    "title": "Student",
+    "year": 2012,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 340,
+    "occurrences": [
+      [
+        41,
+        "00:08:06.960000",
+        "00:08:13.559000",
+        "Student Based on \"Crime and Punishment\" by Fyodor Dostoevsky"
+      ],
+      [
+        51,
+        "00:10:54.506000",
+        "00:10:58.840000",
+        "- Did your student pay his rent? - He has no money."
+      ],
+      [
+        106,
+        "00:18:15.120000",
+        "00:18:18.040000",
+        "- Where do you work? - I'm a student."
+      ]
+    ],
+    "regex": "\\b((?!\\bStudent:)Student)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [
+      "Student"
+    ],
+    "title_is_name": true,
+    "rating": 5.8
+  }
+]

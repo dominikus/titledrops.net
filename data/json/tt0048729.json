@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0048729",
+    "title": "To Hell and Back",
+    "year": 1955,
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1256,
+    "occurrences": [
+      [
+        322,
+        "00:24:39.486000",
+        "00:24:42.421000",
+        "To hell and back, that's where this outfit's goin'."
+      ],
+      [
+        808,
+        "01:05:14.985000",
+        "01:05:17.579000",
+        "To hell and back, that's where we're jumping off to."
+      ]
+    ],
+    "regex": "\\b((?!\\bTo\\ Hell\\ and\\ Back:)To\\ Hell\\ and\\ Back)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt15676664",
+    "title": "Venus",
+    "year": 2022,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 892,
+    "occurrences": [
+      [
+        443,
+        "00:41:09.833000",
+        "00:41:11.500000",
+        "I'm in the Venus bui..."
+      ],
+      [
+        444,
+        "00:41:11.666000",
+        "00:41:13.541000",
+        "Venus. What Venus?"
+      ],
+      [
+        537,
+        "00:52:59.541000",
+        "00:53:01.625000",
+        "Here, Venus Building."
+      ]
+    ],
+    "regex": "\\b((?!\\bVenus:)Venus)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

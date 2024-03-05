@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5161502",
+    "title": "SOMM: Into the Bottle",
+    "year": 2015,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1840,
+    "occurrences": [
+      [
+        121,
+        "00:07:01.720000",
+        "00:07:04.255000",
+        "that the stuff actually gets made and gets into the bottle."
+      ],
+      [
+        1090,
+        "00:53:27.570000",
+        "00:53:29.237000",
+        "when it's time to go into the bottle."
+      ]
+    ],
+    "regex": "\\b((?!\\bSOMM:)SOMM|(?!\\bInto\\ the\\ Bottle:)Into\\ the\\ Bottle)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

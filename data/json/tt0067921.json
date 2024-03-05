@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0067921",
+    "title": "Valdez Is Coming",
+    "year": 1971,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 5,
+    "all_lines": 501,
+    "occurrences": [
+      [
+        223,
+        "00:38:32.840000",
+        "00:38:38.358000",
+        "I want you to go see Senor Tanner and tell him Valdez is coming."
+      ],
+      [
+        239,
+        "00:40:20.360000",
+        "00:40:24.797000",
+        "Sure you can. Ride to Senor Tanner and tell him Valdez is coming."
+      ],
+      [
+        241,
+        "00:40:28.560000",
+        "00:40:31.393000",
+        "Valdez is coming."
+      ],
+      [
+        244,
+        "00:40:42.600000",
+        "00:40:45.672000",
+        "Just, \"Valdez is coming.\""
+      ],
+      [
+        263,
+        "00:43:03.480000",
+        "00:43:09.032000",
+        "Valdez is coming. That's what bothers me."
+      ]
+    ],
+    "regex": "\\b((?!\\bValdez\\ Is\\ Coming:)Valdez\\ Is\\ Coming)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

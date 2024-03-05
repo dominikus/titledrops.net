@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7798604",
+    "title": "We Have a Ghost",
+    "year": 2023,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1930,
+    "occurrences": [
+      [
+        316,
+        "00:20:35.333000",
+        "00:20:36.625000",
+        "We have a ghost."
+      ],
+      [
+        493,
+        "00:29:27.750000",
+        "00:29:30.083000",
+        "We have a ghost in our attic!"
+      ]
+    ],
+    "regex": "\\b((?!\\bWe\\ Have\\ a\\ Ghost:)We\\ Have\\ a\\ Ghost)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt9054192",
+    "title": "Queenpins",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 4,
+    "all_lines": 2034,
+    "occurrences": [
+      [
+        669,
+        "00:35:04.552000",
+        "00:35:08.556000",
+        "Well, look at you. We got ourselves a couple of queenpins in the making."
+      ],
+      [
+        671,
+        "00:35:11.492000",
+        "00:35:13.661000",
+        "- We queenpins, bitch. -"
+      ],
+      [
+        1163,
+        "00:59:31.985000",
+        "00:59:34.721000",
+        "- We're queenpins. Remember you said? - That's who you're looking at."
+      ],
+      [
+        1164,
+        "00:59:34.787000",
+        "00:59:36.222000",
+        "- You said it. - \"Queenpins.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bQueenpins:)Queenpins)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0246906",
+    "title": "The Season of Men",
+    "year": 2000,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 755,
+    "occurrences": [
+      [
+        114,
+        "02:18:27.398000",
+        "02:18:31.095000",
+        "The season of men is near. I'll talk to Said about it."
+      ],
+      [
+        238,
+        "02:33:48.819000",
+        "02:33:51.447000",
+        "Soon it 's the season of men. He has all the luck!"
+      ],
+      [
+        264,
+        "02:35:46.136000",
+        "02:35:49.572000",
+        "soon it 's the season of men, one never knows..."
+      ],
+      [
+        290,
+        "02:38:30.367000",
+        "02:38:34.804000",
+        "-Thanks to the season of men! -We meet once a year."
+      ],
+      [
+        533,
+        "03:08:06.207000",
+        "03:08:09.768000",
+        "-I wish I could... -Soon it 's the season of men."
+      ]
+    ],
+    "regex": "\\b((?!\\bSeason\\ of\\ Men:)Season\\ of\\ Men)(?!\\:)(?!'t)\\b",
+    "runtime": 236,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

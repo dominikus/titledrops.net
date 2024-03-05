@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt9581172",
+    "title": "Egg",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 440,
+    "occurrences": [
+      [
+        314,
+        "01:09:58.200000",
+        "01:10:00",
+        "This is a fossilized dinosaur egg,"
+      ],
+      [
+        337,
+        "01:11:27.400000",
+        "01:11:29.200000",
+        "I give you this egg."
+      ],
+      [
+        354,
+        "01:12:27.400000",
+        "01:12:29.800000",
+        "But I don't even have my own egg."
+      ],
+      [
+        355,
+        "01:12:30.600000",
+        "01:12:33",
+        "Without an egg, the dinosaurs will disappear,"
+      ],
+      [
+        428,
+        "01:28:06.600000",
+        "01:28:07.800000",
+        "I have an egg in me."
+      ],
+      [
+        435,
+        "01:29:23.800000",
+        "01:29:25.400000",
+        "I have an egg in me."
+      ]
+    ],
+    "regex": "\\b((?!\\bEgg:)Egg)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

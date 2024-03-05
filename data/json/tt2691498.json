@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2691498",
+    "title": "The Price of Sugar",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1098,
+    "occurrences": [
+      [
+        640,
+        "01:04:02.043000",
+        "01:04:06.918000",
+        "One day I'll write what the price of sugar was."
+      ],
+      [
+        644,
+        "01:04:25.376000",
+        "01:04:30.001000",
+        "One day I'll write who paid the price of sugar."
+      ]
+    ],
+    "regex": "\\b((?!\\bPrice\\ of\\ Sugar:)Price\\ of\\ Sugar)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

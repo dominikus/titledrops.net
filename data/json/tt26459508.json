@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt26459508",
+    "title": "Let's Get Married",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 2198,
+    "occurrences": [
+      [
+        489,
+        "00:34:25.859000",
+        "00:34:28.230000",
+        "If I get along with her, then let's get married."
+      ],
+      [
+        2181,
+        "02:14:01.987000",
+        "02:14:03.612000",
+        "Let's get married!"
+      ]
+    ],
+    "regex": "\\b((?!\\bLet's\\ Get\\ Married:)Let's\\ Get\\ Married)(?!\\:)(?!'t)\\b",
+    "runtime": 152,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

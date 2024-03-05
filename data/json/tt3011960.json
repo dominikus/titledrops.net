@@ -1,0 +1,71 @@
+[
+  {
+    "imdb": "tt3011960",
+    "title": "Hangman",
+    "year": 2017,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "count": 8,
+    "all_lines": 1402,
+    "occurrences": [
+      [
+        88,
+        "00:09:53.774000",
+        "00:09:55.643000",
+        "Game of Hangman."
+      ],
+      [
+        589,
+        "00:40:32.711000",
+        "00:40:34.714000",
+        "You see, it's all about the hangman game."
+      ],
+      [
+        618,
+        "00:42:13.812000",
+        "00:42:19.149000",
+        "Hangman is gonna kill someone at eleven p.m. every 24 hours."
+      ],
+      [
+        808,
+        "00:55:51.696000",
+        "00:55:53.395000",
+        "Or the Hangman."
+      ],
+      [
+        847,
+        "00:57:44.742000",
+        "00:57:47.442000",
+        "...carved in the bodies. The public is dubbing the killer the Hangman."
+      ],
+      [
+        879,
+        "00:59:23.508000",
+        "00:59:25.743000",
+        "The Hangman wanted us to see him get hit."
+      ],
+      [
+        960,
+        "01:06:01.205000",
+        "01:06:03.138000",
+        "She's the only one who saw the Hangman."
+      ],
+      [
+        1223,
+        "01:23:49.939000",
+        "01:23:53.006000",
+        "Why the... Why the game? Why the hangman game?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHangman:)Hangman)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [
+      "Hangman"
+    ],
+    "title_is_name": true,
+    "rating": 5.2
+  }
+]

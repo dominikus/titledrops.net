@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt10443794",
+    "title": "The United Way",
+    "year": 2021,
+    "genres": [
+      "Documentary",
+      "History",
+      "Sport"
+    ],
+    "count": 5,
+    "all_lines": 1537,
+    "occurrences": [
+      [
+        49,
+        "00:03:35.731000",
+        "00:03:38.061000",
+        "To understand the United Way"
+      ],
+      [
+        87,
+        "00:05:19.367000",
+        "00:05:22.127000",
+        "The United Way is born."
+      ],
+      [
+        204,
+        "00:12:54.561000",
+        "00:12:57.558000",
+        "That was the Matt Busby way. That was the United way."
+      ],
+      [
+        274,
+        "00:16:51.325000",
+        "00:16:54.030000",
+        "The United Way is established."
+      ],
+      [
+        418,
+        "00:24:44.529000",
+        "00:24:48.190000",
+        "It tells you we weren't playing the Manchester United way."
+      ]
+    ],
+    "regex": "\\b((?!\\bUnited\\ Way:)United\\ Way)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

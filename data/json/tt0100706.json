@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0100706",
+    "title": "Street Hunter",
+    "year": 1990,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1390,
+    "occurrences": [
+      [
+        339,
+        "00:23:18.765000",
+        "00:23:22.535000",
+        "He's a street hunter, man. I mean, he's a bad motherfucker."
+      ],
+      [
+        400,
+        "00:26:29.255000",
+        "00:26:30.322000",
+        "What the fuck is a street hunter?"
+      ],
+      [
+        755,
+        "00:44:52.791000",
+        "00:44:55.126000",
+        "They call him the Street Hunter."
+      ],
+      [
+        1012,
+        "01:04:29.934000",
+        "01:04:32.269000",
+        "Come on, Logan Blade, Street Hunter, hunt this."
+      ]
+    ],
+    "regex": "\\b((?!\\bStreet\\ Hunter:)Street\\ Hunter)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

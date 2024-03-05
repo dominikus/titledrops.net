@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2337292",
+    "title": "Chor Chor Super Chor",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1606,
+    "occurrences": [
+      [
+        1089,
+        "01:03:54.317000",
+        "01:03:56.410000",
+        "Chor Chor Super Chor..the reaI artist"
+      ],
+      [
+        1521,
+        "01:30:44.225000",
+        "01:30:48.525000",
+        "you are weIcome to the show, chor chor super chor"
+      ],
+      [
+        1535,
+        "01:31:30.171000",
+        "01:31:34.699000",
+        "You couId be a Iife winner of Chor Chor Super Chor!!!"
+      ]
+    ],
+    "regex": "\\b((?!\\bChor\\ Chor\\ Super\\ Chor:)Chor\\ Chor\\ Super\\ Chor)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

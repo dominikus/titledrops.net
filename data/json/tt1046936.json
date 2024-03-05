@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1046936",
+    "title": "Hurt",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 918,
+    "occurrences": [
+      [
+        147,
+        "00:15:00.231000",
+        "00:15:02.165000",
+        "You could hurt somebody. Hey."
+      ],
+      [
+        303,
+        "00:25:29.459000",
+        "00:25:32.628000",
+        "- You fell? - You can touch it. It doesn't hurt anymore."
+      ],
+      [
+        631,
+        "00:57:15.597000",
+        "00:57:17.665000",
+        "It must've hurt."
+      ],
+      [
+        874,
+        "01:24:31.965000",
+        "01:24:35.902000",
+        " You can't hurt me."
+      ]
+    ],
+    "regex": "\\b((?!\\bHurt:)Hurt)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

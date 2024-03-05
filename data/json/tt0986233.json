@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0986233",
+    "title": "Hunger",
+    "year": 2008,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 468,
+    "occurrences": [
+      [
+        170,
+        "00:49:23.153000",
+        "00:49:26.094000",
+        "Ten thousand people marched for the seven hunger strikers last October, right?"
+      ],
+      [
+        176,
+        "00:49:37.320000",
+        "00:49:39.586000",
+        "The hunger strike failed."
+      ],
+      [
+        215,
+        "00:51:38.753000",
+        "00:51:41.820000",
+        "I'm starting a hunger strike on the 1st of March."
+      ],
+      [
+        235,
+        "00:53:04.718000",
+        "00:53:07.302000",
+        "You start a hunger strike to protest for for what you believe in."
+      ],
+      [
+        259,
+        "00:54:28.807000",
+        "00:54:33.087000",
+        "I supported the first hunger strike on the basis it was a protest."
+      ],
+      [
+        438,
+        "01:09:47.731000",
+        "01:09:51.876000",
+        "through the prison hunger strike to death"
+      ],
+      [
+        463,
+        "01:27:26.067000",
+        "01:27:32.824000",
+        "Bobby Sands died after 66 days on hunger strike."
+      ]
+    ],
+    "regex": "\\b((?!\\bHunger:)Hunger)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

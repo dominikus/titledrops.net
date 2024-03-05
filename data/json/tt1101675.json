@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1101675",
+    "title": "Lake Tahoe",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 393,
+    "occurrences": [
+      [
+        387,
+        "01:14:48.784000",
+        "01:14:51.947000",
+        "Do you remember Lake Tahoe?"
+      ],
+      [
+        388,
+        "01:14:53.188000",
+        "01:14:57.181000",
+        "We never went to Lake Tahoe."
+      ]
+    ],
+    "regex": "\\b((?!\\bLake\\ Tahoe:)Lake\\ Tahoe)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

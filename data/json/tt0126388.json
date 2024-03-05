@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0126388",
+    "title": "Legionnaire",
+    "year": 1998,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1093,
+    "occurrences": [
+      [
+        357,
+        "00:27:04.580000",
+        "00:27:05.914000",
+        "the Legionnaire's prerogative"
+      ],
+      [
+        548,
+        "00:40:26.798000",
+        "00:40:29.008000",
+        "- Legionnaire, come with me?"
+      ],
+      [
+        707,
+        "00:51:10.358000",
+        "00:51:11.609000",
+        "- I'm a Legionnaire."
+      ],
+      [
+        709,
+        "00:51:13.319000",
+        "00:51:15.529000",
+        "- Don't buy in to that Legionnaire crap."
+      ],
+      [
+        812,
+        "01:01:16.338000",
+        "01:01:19.049000",
+        "- At least he died a Legionnaire."
+      ],
+      [
+        813,
+        "01:01:20.134000",
+        "01:01:23.178000",
+        "- Yes, he proved himself a Legionnaire."
+      ]
+    ],
+    "regex": "\\b((?!\\bLegionnaire:)Legionnaire)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

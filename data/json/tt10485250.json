@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt10485250",
+    "title": "Laurent Garnier: Off the Record",
+    "year": 2021,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 371,
+    "occurrences": [
+      [
+        128,
+        "00:16:55.199000",
+        "00:16:57.159000",
+        "and someone says, \"Laurent Garnier\","
+      ],
+      [
+        216,
+        "00:58:09.399000",
+        "00:58:13.399000",
+        "Then they showed Laurent Garnier which was in the red zone."
+      ],
+      [
+        283,
+        "01:09:57.399000",
+        "01:10:02.919000",
+        "When I met Laurent Garnier, as I said, I was 16 or 17,"
+      ],
+      [
+        359,
+        "01:24:51.759000",
+        "01:24:54.479000",
+        "From Rostropovich to Laurent Garnier..."
+      ]
+    ],
+    "regex": "\\b((?!\\bLaurent\\ Garnier:)Laurent\\ Garnier|(?!\\bOff\\ the\\ Record:)Off\\ the\\ Record)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

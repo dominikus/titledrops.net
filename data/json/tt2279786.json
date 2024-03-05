@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2279786",
+    "title": "Johan Falk: Kodnamn - Lisa",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 939,
+    "occurrences": [
+      [
+        103,
+        "00:15:13.560000",
+        "00:15:16.119000",
+        "POLICE WARRANT PREPARED BY JOHAN FALK"
+      ],
+      [
+        229,
+        "00:27:00.640000",
+        "00:27:06.119000",
+        "Wagner is code-named \"Lisa\". Johan Falk is his handler."
+      ],
+      [
+        247,
+        "00:28:37.360000",
+        "00:28:40.079000",
+        "- Yes? - It's your backup contact, Johan Falk."
+      ],
+      [
+        656,
+        "01:09:15.120000",
+        "01:09:17.719000",
+        "Johan Falk lives simply but nicely."
+      ]
+    ],
+    "regex": "\\b((?!\\bJohan\\ Falk:)Johan\\ Falk|(?!\\bKodnamn\\ \\-\\ Lisa:)Kodnamn\\ \\-\\ Lisa)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

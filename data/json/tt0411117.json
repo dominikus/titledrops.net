@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0411117",
+    "title": "The Ring Finger",
+    "year": 2005,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 496,
+    "occurrences": [
+      [
+        337,
+        "00:59:15.985000",
+        "00:59:19.352000",
+        "That was when I lost the tip of my left ring finger."
+      ],
+      [
+        347,
+        "00:59:47.016000",
+        "00:59:50.349000",
+        "And your ring finger has never been the same since?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRing\\ Finger:)Ring\\ Finger)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0084620",
+    "title": "I Enjoy the World with You",
+    "year": 1983,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 826,
+    "occurrences": [
+      [
+        202,
+        "00:17:40.800000",
+        "00:17:43.792000",
+        "I Enjoy the World with You my sweet Emca"
+      ],
+      [
+        204,
+        "00:17:47.360000",
+        "00:17:50.158000",
+        "I Enjoy the World with You, my sweet Emca,"
+      ],
+      [
+        206,
+        "00:17:54.200000",
+        "00:17:56.919000",
+        "I Enjoy the World with You, my sweet Emca,"
+      ],
+      [
+        208,
+        "00:18:00.360000",
+        "00:18:03.352000",
+        "I Enjoy the World with You, my sweet Emca,"
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Enjoy\\ the\\ World\\ with\\ You:)I\\ Enjoy\\ the\\ World\\ with\\ You)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

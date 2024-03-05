@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt8443592",
+    "title": "Jan Palach",
+    "year": 2018,
+    "genres": [
+      "Biography"
+    ],
+    "count": 3,
+    "all_lines": 971,
+    "occurrences": [
+      [
+        143,
+        "00:17:13.440000",
+        "00:17:17.640000",
+        "-I always feel better when I see you. -This is Jan Palach."
+      ],
+      [
+        816,
+        "01:28:43.160000",
+        "01:28:48.480000",
+        "Hi, Hubert, this is Jan Palach. Will you be in Prague over the holidays?"
+      ],
+      [
+        855,
+        "01:32:45.360000",
+        "01:32:48.440000",
+        "-Excuse me, guys. Did you see Jan Palach? -No."
+      ]
+    ],
+    "regex": "\\b((?!\\bJan\\ Palach:)Jan\\ Palach)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [
+      "Jan Palach"
+    ],
+    "title_is_name": true,
+    "rating": 6.6
+  }
+]

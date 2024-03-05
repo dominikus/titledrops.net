@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0120786",
+    "title": "The Patriot",
+    "year": 1998,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1569,
+    "occurrences": [
+      [
+        64,
+        "00:06:22.033000",
+        "00:06:24.949000",
+        "lies in the hands of Chisholm, the self-described \"patriot"
+      ],
+      [
+        1306,
+        "01:10:23.784000",
+        "01:10:26.570000",
+        "the self-described \"patriot of a new America,\""
+      ]
+    ],
+    "regex": "\\b((?!\\bPatriot:)Patriot)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

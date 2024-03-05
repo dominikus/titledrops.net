@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0060479",
+    "title": "The Group",
+    "year": 1966,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 2910,
+    "occurrences": [
+      [
+        468,
+        "00:22:10.362000",
+        "00:22:12.397000",
+        "(CHUCKLES) I'm the old maid of the group."
+      ],
+      [
+        478,
+        "00:22:42.127000",
+        "00:22:44.463000",
+        "Despite what she said it was Lakey who brought Kay into the group."
+      ],
+      [
+        1220,
+        "01:01:33.156000",
+        "01:01:34.624000",
+        "The tower group."
+      ],
+      [
+        2466,
+        "02:05:29.421000",
+        "02:05:32.524000",
+        "Well, she got me into the group, remember?"
+      ],
+      [
+        2892,
+        "02:29:39.270000",
+        "02:29:41.372000",
+        "You and the group."
+      ]
+    ],
+    "regex": "\\b((?!\\bGroup:)Group)(?!\\:)(?!'t)\\b",
+    "runtime": 151,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

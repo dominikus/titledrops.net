@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0944834",
+    "title": "Dragon Hunters",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 3,
+    "all_lines": 645,
+    "occurrences": [
+      [
+        54,
+        "00:10:20.591000",
+        "00:10:23.897000",
+        "pay the measly sum of 24 Guinneas to the valerous dragon hunters."
+      ],
+      [
+        149,
+        "00:19:11.044000",
+        "00:19:14.459000",
+        "Sir Gwizdo and Knight Lian-chu, the greatest dragon hunters of ..."
+      ],
+      [
+        601,
+        "01:10:01.929000",
+        "01:10:06.689000",
+        "Yeah, Lian-Chu and Gwizdo, ya know, dragon hunters."
+      ]
+    ],
+    "regex": "\\b((?!\\bDragon\\ Hunters:)Dragon\\ Hunters)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

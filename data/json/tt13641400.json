@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt13641400",
+    "title": "The House in Sherwood",
+    "year": 2020,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 668,
+    "occurrences": [
+      [
+        38,
+        "00:03:10.640000",
+        "00:03:17.120000",
+        "something about a house in sherwood she says it's haunted it's in the papers about a year ago"
+      ],
+      [
+        50,
+        "00:04:19.360000",
+        "00:04:23.476000",
+        "Here we are in the house in Sherwood"
+      ]
+    ],
+    "regex": "\\b((?!\\bHouse\\ in\\ Sherwood:)House\\ in\\ Sherwood)(?!\\:)(?!'t)\\b",
+    "runtime": 71,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

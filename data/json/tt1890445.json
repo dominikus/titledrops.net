@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1890445",
+    "title": "Labrador",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 370,
+    "occurrences": [
+      [
+        134,
+        "00:19:22.600000",
+        "00:19:28.118000",
+        "Know what breed she is? - A Labrador? I'm not big on dogs."
+      ],
+      [
+        136,
+        "00:19:32.200000",
+        "00:19:37.797000",
+        "She's a Labrador Retriever. The best dog breed ever bred."
+      ]
+    ],
+    "regex": "\\b((?!\\bLabrador:)Labrador)(?!\\:)(?!'t)\\b",
+    "runtime": 73,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "imdb": "tt22024396",
+    "title": "Malbatt: Misi Bakara",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 8,
+    "all_lines": 1085,
+    "occurrences": [
+      [
+        15,
+        "00:02:06.792000",
+        "00:02:09.417000",
+        "THIS FORCE WAS NAMED THE MALAYSIAN BATTALION, OR MALBATT."
+      ],
+      [
+        17,
+        "00:02:10.500000",
+        "00:02:13.083000",
+        "MALBATT WAS ASSIGNED AS THE QUICK REACTION FORCE (QRF),"
+      ],
+      [
+        174,
+        "00:17:30.667000",
+        "00:17:35.333000",
+        "MALBATT BASE"
+      ],
+      [
+        212,
+        "00:20:29.583000",
+        "00:20:33.167000",
+        "They thanked MALBATT's assault team"
+      ],
+      [
+        463,
+        "00:37:41.792000",
+        "00:37:44.583000",
+        "MALBATT talked it over with UNOSOM HQ."
+      ],
+      [
+        464,
+        "00:37:44.667000",
+        "00:37:47.583000",
+        "MALBATT will bring the commander,"
+      ],
+      [
+        1058,
+        "02:04:37.958000",
+        "02:04:39.893000",
+        "THE MALBATT TEAM HAS RESCUED MORE THAN 70 US RANGERS"
+      ],
+      [
+        1060,
+        "02:04:42.042000",
+        "02:04:44",
+        "THE COURAGEOUS ACT BY THE MEMBERS OF MALBATT"
+      ]
+    ],
+    "regex": "\\b((?!\\bMalbatt:)Malbatt|(?!\\bMisi\\ Bakara:)Misi\\ Bakara)(?!\\:)(?!'t)\\b",
+    "runtime": 131,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

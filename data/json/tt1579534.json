@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1579534",
+    "title": "Bumper Offer",
+    "year": 2009,
+    "genres": [
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1789,
+    "occurrences": [
+      [
+        840,
+        "01:00:52.380000",
+        "01:00:56.248000",
+        "you needn't give me an offer, I'm giving you a bumper offer,"
+      ],
+      [
+        1239,
+        "01:24:48.414000",
+        "01:24:51.383000",
+        "Forget about this silly site, I'm giving you a bumper offer."
+      ]
+    ],
+    "regex": "\\b((?!\\bBumper\\ Offer:)Bumper\\ Offer)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

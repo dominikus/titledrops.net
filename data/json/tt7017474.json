@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7017474",
+    "title": "Ferrari 312B: Where the Revolution Begins",
+    "year": 2017,
+    "genres": [
+      "Documentary",
+      "History",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 611,
+    "occurrences": [
+      [
+        465,
+        "00:55:51.056000",
+        "00:55:54.142000",
+        "and in third place the Ferrari 312B driven by Paolo Barilla."
+      ],
+      [
+        517,
+        "01:00:45.100000",
+        "01:00:47.853000",
+        "and the Ferrari 312B of Paolo Barilla."
+      ]
+    ],
+    "regex": "\\b((?!\\bFerrari\\ 312B:)Ferrari\\ 312B|(?!\\bWhere\\ the\\ Revolution\\ Begins:)Where\\ the\\ Revolution\\ Begins)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

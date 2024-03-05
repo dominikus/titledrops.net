@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0411267",
+    "title": "The Dark",
+    "year": 2005,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1006,
+    "occurrences": [
+      [
+        491,
+        "00:40:17.763000",
+        "00:40:21.288000",
+        "She was pulled into Annwn by a dark spirit."
+      ],
+      [
+        565,
+        "00:46:12.595000",
+        "00:46:15.076000",
+        "But the dark had to come out of it somehow."
+      ],
+      [
+        711,
+        "00:59:04.453000",
+        "00:59:07.108000",
+        "He tried to cut the dark from her,"
+      ],
+      [
+        872,
+        "01:15:53.853000",
+        "01:15:56.073000",
+        "Don't you want the dark to come out of your head?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDark:)Dark)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

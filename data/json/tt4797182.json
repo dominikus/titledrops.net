@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt4797182",
+    "title": "The Wind Walker",
+    "year": 2019,
+    "genres": [
+      "Adventure"
+    ],
+    "count": 5,
+    "all_lines": 1274,
+    "occurrences": [
+      [
+        201,
+        "00:14:33.857000",
+        "00:14:34.755000",
+        "\"The Wind Walker?\""
+      ],
+      [
+        333,
+        "00:19:42.765000",
+        "00:19:44.732000",
+        "\"The Wind Walker.\""
+      ],
+      [
+        702,
+        "00:35:44.092000",
+        "00:35:45.658000",
+        "\"The Wind Walker.\""
+      ],
+      [
+        728,
+        "00:36:35.043000",
+        "00:36:36.576000",
+        "Why \"The Wind Walker?\""
+      ],
+      [
+        849,
+        "00:45:44.425000",
+        "00:45:46.993000",
+        "\"The Wind Walker was here.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bWind\\ Walker:)Wind\\ Walker)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.4
+  }
+]

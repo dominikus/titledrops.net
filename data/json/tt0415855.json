@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0415855",
+    "title": "Hotel",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 319,
+    "occurrences": [
+      [
+        99,
+        "00:21:53.960000",
+        "00:21:57.669000",
+        "Pick them up from Piesting in the hotel bus, Mr Liebig."
+      ],
+      [
+        132,
+        "00:24:15.440000",
+        "00:24:16.953000",
+        "Hotel Waldhaus, hello?"
+      ],
+      [
+        148,
+        "00:26:40.440000",
+        "00:26:44.069000",
+        "l worked on the flyer for the hotel and the cave."
+      ],
+      [
+        203,
+        "00:38:52.680000",
+        "00:38:54.272000",
+        "Hotel Waldhaus, hello."
+      ],
+      [
+        236,
+        "00:51:00.360000",
+        "00:51:02.112000",
+        "Leave the hotel."
+      ],
+      [
+        307,
+        "01:04:00.280000",
+        "01:04:02.271000",
+        "Welcome to the Waldhaus Hotel."
+      ]
+    ],
+    "regex": "\\b((?!\\bHotel:)Hotel)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

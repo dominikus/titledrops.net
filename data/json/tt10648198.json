@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt10648198",
+    "title": "Tell Me When",
+    "year": 2020,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1254,
+    "occurrences": [
+      [
+        1210,
+        "01:29:25.485000",
+        "01:29:28.154000",
+        "Tell me when"
+      ],
+      [
+        1211,
+        "01:29:28.237000",
+        "01:29:30.823000",
+        "Tell me when you're coming back"
+      ],
+      [
+        1212,
+        "01:29:30.907000",
+        "01:29:33.493000",
+        "Tell me when"
+      ],
+      [
+        1213,
+        "01:29:33.576000",
+        "01:29:36.829000",
+        "Tell me when you're coming back"
+      ]
+    ],
+    "regex": "\\b((?!\\bTell\\ Me\\ When:)Tell\\ Me\\ When)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

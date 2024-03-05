@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0134380",
+    "title": "Butter",
+    "year": 1998,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1420,
+    "occurrences": [
+      [
+        59,
+        "00:04:40.628000",
+        "00:04:43.326000",
+        "Butter, baby. Uh-huh."
+      ],
+      [
+        118,
+        "00:08:10.446000",
+        "00:08:14.537000",
+        "Get outta here with that. You know you're lookin' butter!"
+      ],
+      [
+        611,
+        "00:43:01.840000",
+        "00:43:04.538000",
+        "I'm butter every day  All day, what you say"
+      ],
+      [
+        717,
+        "00:50:33.160000",
+        "00:50:36.946000",
+        "- Come on. We gotta get out. Come on. Let's go. - Butter."
+      ],
+      [
+        1388,
+        "01:38:11.450000",
+        "01:38:13.409000",
+        "Butter, baby."
+      ]
+    ],
+    "regex": "\\b((?!\\bButter:)Butter)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

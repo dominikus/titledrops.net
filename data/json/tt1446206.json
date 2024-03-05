@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1446206",
+    "title": "Wolfy",
+    "year": 2009,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 595,
+    "occurrences": [
+      [
+        217,
+        "00:34:11.080000",
+        "00:34:14.095000",
+        "- Your wolfy. - Give it here."
+      ],
+      [
+        314,
+        "00:46:55.200000",
+        "00:46:58.181000",
+        "Not a wolf - a wolfy."
+      ]
+    ],
+    "regex": "\\b((?!\\bWolfy:)Wolfy)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

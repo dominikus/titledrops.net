@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0119508",
+    "title": "Leather Jacket Love Story",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1452,
+    "occurrences": [
+      [
+        1343,
+        0,
+        0,
+        "it's called, Leather Jacket Love Story."
+      ],
+      [
+        1445,
+        0,
+        0,
+        "Cause I'm looking for a leather jacket love story"
+      ],
+      [
+        1447,
+        0,
+        0,
+        "Yeah, I'm looking for a leather jacket love story"
+      ]
+    ],
+    "regex": "\\b((?!\\bLeather\\ Jacket\\ Love\\ Story:)Leather\\ Jacket\\ Love\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

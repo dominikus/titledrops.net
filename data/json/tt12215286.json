@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt12215286",
+    "title": "Dino Dana: The Movie",
+    "year": 2020,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 1394,
+    "occurrences": [
+      [
+        7,
+        "00:01:22.041000",
+        "00:01:23.459000",
+        "Dino Dana!"
+      ],
+      [
+        8,
+        "00:01:25.377000",
+        "00:01:26.462000",
+        "The Movie!"
+      ],
+      [
+        647,
+        "00:33:49.486000",
+        "00:33:51.280000",
+        " Dino Dana."
+      ]
+    ],
+    "regex": "\\b((?!\\bDino\\ Dana:)Dino\\ Dana|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

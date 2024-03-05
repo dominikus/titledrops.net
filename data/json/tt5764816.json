@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5764816",
+    "title": "The Swan",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 536,
+    "occurrences": [
+      [
+        207,
+        "00:32:13.292000",
+        "00:32:17.875000",
+        "It can change itself into a beautiful white swan."
+      ],
+      [
+        516,
+        "01:22:07.958000",
+        "01:22:12.958000",
+        "Aren't you excited to ride up to our swan lake?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSwan:)Swan)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt10065976",
+    "title": "No Longer Human",
+    "year": 2019,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 708,
+    "occurrences": [
+      [
+        7,
+        "00:01:52.250000",
+        "00:01:59.910000",
+        "{\\pos(241,60)}No Longer Human"
+      ],
+      [
+        386,
+        "00:59:52.800000",
+        "00:59:53.970000",
+        "the No Longer Human"
+      ],
+      [
+        388,
+        "01:00:05.250000",
+        "01:00:07.080000",
+        "No Longer Human.."
+      ],
+      [
+        661,
+        "01:45:51.340000",
+        "01:45:56.050000",
+        "and write.. No Longer Human.."
+      ]
+    ],
+    "regex": "\\b((?!\\bNo\\ Longer\\ Human:)No\\ Longer\\ Human)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0032467",
+    "title": "The Fighting 69th",
+    "year": 1940,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Biography"
+    ],
+    "count": 4,
+    "all_lines": 1282,
+    "occurrences": [
+      [
+        16,
+        "00:04:04.494000",
+        "00:04:07.725000",
+        "has earned the nickname, \"The Fighting 69th.\""
+      ],
+      [
+        152,
+        "00:10:33.783000",
+        "00:10:37.116000",
+        "You see, sir, I wanted to go over with the Fighting 69th."
+      ],
+      [
+        297,
+        "00:17:45.748000",
+        "00:17:48.945000",
+        "- What outfit do you all belong to? - Why we're the Fighting 69th."
+      ],
+      [
+        298,
+        "00:17:49.017000",
+        "00:17:51.679000",
+        "The Fighting 69th? Quite a handle. Where'd you get it?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFighting\\ 69th:)Fighting\\ 69th)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1619037",
+    "title": "Nice Guy Johnny",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1608,
+    "occurrences": [
+      [
+        393,
+        "00:18:20.175000",
+        "00:18:23.110000",
+        "- All right, Nice Guy Johnny, let's hit some balls."
+      ],
+      [
+        1516,
+        "01:21:31.031000",
+        "01:21:34.991000",
+        "You're listening to Nice Guy Johnny, and that was your Daily Dose."
+      ],
+      [
+        1577,
+        "01:24:11.801000",
+        "01:24:14.518000",
+        "You're listening to Nice Guy Johnny"
+      ]
+    ],
+    "regex": "\\b((?!\\bNice\\ Guy\\ Johnny:)Nice\\ Guy\\ Johnny)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

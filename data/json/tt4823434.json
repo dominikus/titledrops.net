@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt4823434",
+    "title": "Tigers Are Not Afraid",
+    "year": 2017,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 7,
+    "all_lines": 650,
+    "occurrences": [
+      [
+        24,
+        "00:02:27.640000",
+        "00:02:30.738000",
+        "Tigers are not afraid."
+      ],
+      [
+        395,
+        "00:43:19.438000",
+        "00:43:21.738000",
+        "Tigers are not afraid."
+      ],
+      [
+        501,
+        "00:56:54.942000",
+        "00:56:57.442000",
+        "Tigers are not afraid. Tigers are not afraid. Tigers are not afraid."
+      ],
+      [
+        641,
+        "01:15:15.990000",
+        "01:15:18.190000",
+        "Tigers are not afraid."
+      ],
+      [
+        650,
+        "01:16:15.883000",
+        "01:16:19.683000",
+        "and tigers are not afraid."
+      ]
+    ],
+    "regex": "\\b((?!\\bTigers\\ Are\\ Not\\ Afraid:)Tigers\\ Are\\ Not\\ Afraid)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0109969",
+    "title": "Hail Caesar",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1993,
+    "occurrences": [
+      [
+        72,
+        "00:04:34.800000",
+        "00:04:37.633000",
+        "This is my band, Hail Caesar."
+      ],
+      [
+        1909,
+        "01:31:30.372000",
+        "01:31:32.777000",
+        "-  Look for us, Hail Caesar."
+      ]
+    ],
+    "regex": "\\b((?!\\bHail\\ Caesar:)Hail\\ Caesar)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "imdb": "tt0235608",
+    "title": "The Batwoman",
+    "year": 1968,
+    "genres": [
+      "Adventure",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 8,
+    "all_lines": 391,
+    "occurrences": [
+      [
+        0,
+        "00:00:15.400000",
+        "00:00:18.400000",
+        "BATWOMAN"
+      ],
+      [
+        18,
+        "00:04:03.677000",
+        "00:04:09.016000",
+        "- whom I've solved some cases with before. - Batwoman!"
+      ],
+      [
+        28,
+        "00:06:19.012000",
+        "00:06:26.486000",
+        "- This Batwoman, is a great woman. - It will be a pleasure meet her."
+      ],
+      [
+        37,
+        "00:08:12.493000",
+        "00:08:16.597000",
+        "The case must be complicated because they called Batwoman."
+      ],
+      [
+        77,
+        "00:13:12.259000",
+        "00:13:14.194000",
+        "That Batwoman is a nice girl."
+      ],
+      [
+        97,
+        "00:17:04",
+        "00:17:10.750000",
+        "- Batwoman has arrived in Acapulco. You know that police woman can bring us problems."
+      ],
+      [
+        257,
+        "00:49:17.700000",
+        "00:49:20.200000",
+        "She has to be the Batwoman."
+      ],
+      [
+        345,
+        "01:13:44.100000",
+        "01:13:48.100000",
+        "- We have Batwoman, master. They're bringing her here now."
+      ]
+    ],
+    "regex": "\\b((?!\\bBatwoman:)Batwoman)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

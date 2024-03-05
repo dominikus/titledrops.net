@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0037295",
+    "title": "Something for the Boys",
+    "year": 1944,
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "count": 4,
+    "all_lines": 1251,
+    "occurrences": [
+      [
+        29,
+        "00:03:27.487000",
+        "00:03:31.821000",
+        "# Something for the boys #"
+      ],
+      [
+        34,
+        "00:03:49.176000",
+        "00:03:54.078000",
+        "# 'Cos I'm always doing # # Something for the boys #"
+      ],
+      [
+        39,
+        "00:04:36.922000",
+        "00:04:41.518000",
+        "# 'Cos I'm always doing # # Something for the boys #"
+      ],
+      [
+        118,
+        "00:10:10.149000",
+        "00:10:13.117000",
+        "# Something for the boys #"
+      ]
+    ],
+    "regex": "\\b((?!\\bSomething\\ for\\ the\\ Boys:)Something\\ for\\ the\\ Boys)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

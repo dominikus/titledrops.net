@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0109360",
+    "title": "CIA II: Target Alexa",
+    "year": 1993,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 826,
+    "occurrences": [
+      [
+        19,
+        "00:03:56.383000",
+        "00:03:58.205000",
+        "Graver, CIA."
+      ],
+      [
+        359,
+        "00:33:21.873000",
+        "00:33:23.775000",
+        "You promised me that you would leave the CIA."
+      ],
+      [
+        439,
+        "00:39:44.763000",
+        "00:39:48.927000",
+        "unarmed with one lousy incompetent CIA"
+      ],
+      [
+        531,
+        "00:49:39.383000",
+        "00:49:43.748000",
+        "Wilson's my inside man, Deputy Assistant, CIA station chief."
+      ]
+    ],
+    "regex": "\\b((?!\\bCIA:)CIA|(?!\\bTarget\\ Alexa:)Target\\ Alexa)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

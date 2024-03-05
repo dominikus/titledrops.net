@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2328678",
+    "title": "The King's Daughter",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1385,
+    "occurrences": [
+      [
+        11,
+        "00:01:45.114000",
+        "00:01:48.187000",
+        "for she was the king's daughter."
+      ],
+      [
+        122,
+        "00:07:17.306000",
+        "00:07:20.762000",
+        "that the King's daughter attend the world celebration"
+      ],
+      [
+        1010,
+        "01:03:10.617000",
+        "01:03:13.690000",
+        "but sneaking around the room of the King's daughter..."
+      ]
+    ],
+    "regex": "\\b((?!\\bKing's\\ Daughter:)King's\\ Daughter)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

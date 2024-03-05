@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt17736704",
+    "title": "Mister Mummy",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1550,
+    "occurrences": [
+      [
+        1410,
+        "01:22:40.875000",
+        "01:22:42.333000",
+        "Mister Mummy!"
+      ],
+      [
+        1413,
+        "01:22:48.833000",
+        "01:22:50.625000",
+        "Mister Mummy!"
+      ],
+      [
+        1417,
+        "01:23:04.958000",
+        "01:23:07.250000",
+        "Mister Mummy!"
+      ],
+      [
+        1543,
+        "01:31:19.875000",
+        "01:31:20.958000",
+        "Mister Mummy!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMister\\ Mummy:)Mister\\ Mummy)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.1
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0780622",
+    "title": "Teeth",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 810,
+    "occurrences": [
+      [
+        560,
+        "01:00:50.927000",
+        "01:00:53.995000",
+        "It's Latin for teeth..."
+      ],
+      [
+        602,
+        "01:05:52.428000",
+        "01:05:54.461000",
+        "The teeth."
+      ]
+    ],
+    "regex": "\\b((?!\\bTeeth:)Teeth)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

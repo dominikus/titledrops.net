@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0113533",
+    "title": "Born to Be Wild",
+    "year": 1995,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1520,
+    "occurrences": [
+      [
+        660,
+        "00:42:45.826000",
+        "00:42:48.660000",
+        "We were born, born to be wild"
+      ],
+      [
+        664,
+        "00:42:55.458000",
+        "00:42:59.292000",
+        "Born to be wild"
+      ],
+      [
+        665,
+        "00:43:00.924000",
+        "00:43:03.824000",
+        "born to be wild"
+      ],
+      [
+        678,
+        "00:43:45.817000",
+        "00:43:49.217000",
+        "we were born, born to be wild"
+      ]
+    ],
+    "regex": "\\b((?!\\bBorn\\ to\\ Be\\ Wild:)Born\\ to\\ Be\\ Wild)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0120813",
+    "title": "Safe Men",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1362,
+    "occurrences": [
+      [
+        361,
+        "00:22:02.521000",
+        "00:22:05.456000",
+        "- What? - These are the legendary safe men?"
+      ],
+      [
+        1011,
+        "01:03:45.021000",
+        "01:03:48.787000",
+        "He looks up to you guys, with you guys being safe men and all."
+      ]
+    ],
+    "regex": "\\b((?!\\bSafe\\ Men:)Safe\\ Men)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0254705",
+    "title": "Porno Film",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 701,
+    "occurrences": [
+      [
+        43,
+        "00:08:34.080000",
+        "00:08:38.392000",
+        "Why don't we make a porno film?"
+      ],
+      [
+        56,
+        "00:09:40.720000",
+        "00:09:42.790000",
+        "We'll be the stars of the first porno film in Slovenian."
+      ],
+      [
+        279,
+        "00:32:53.960000",
+        "00:32:57.555000",
+        "I am really glad we're making a pure Slovenian porno film."
+      ],
+      [
+        331,
+        "00:36:43",
+        "00:36:45.560000",
+        "Me, in a porno film? You are out of your minds."
+      ]
+    ],
+    "regex": "\\b((?!\\bPorno\\ Film:)Porno\\ Film)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0454962",
+    "title": "Taking 5",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 1603,
+    "occurrences": [
+      [
+        393,
+        "00:22:25.377000",
+        "00:22:28.835000",
+        "Okay, welcome to Operation Taking 5."
+      ],
+      [
+        1242,
+        "01:06:28.684000",
+        "01:06:30.777000",
+        "Do you have any idea where he's taking him?"
+      ],
+      [
+        1261,
+        "01:07:15.998000",
+        "01:07:19.661000",
+        "Well, my stuff's leaving, and it's taking me with it."
+      ]
+    ],
+    "regex": "\\b((?!\\bTaking:)Taking)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

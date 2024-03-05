@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0092892",
+    "title": "Dirty Laundry",
+    "year": 1987,
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1415,
+    "occurrences": [
+      [
+        266,
+        "00:14:46.244000",
+        "00:14:50.038000",
+        "I care about tonight like I care about this dirty laundry."
+      ],
+      [
+        271,
+        "00:14:58.313000",
+        "00:15:00.872000",
+        "and all I got is somebody's dirty laundry!"
+      ],
+      [
+        537,
+        "00:28:30.123000",
+        "00:28:32.633000",
+        "It's dirty laundry."
+      ]
+    ],
+    "regex": "\\b((?!\\bDirty\\ Laundry:)Dirty\\ Laundry)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

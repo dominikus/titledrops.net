@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt15847828",
+    "title": "Diary of a Wimpy Kid: Rodrick Rules",
+    "year": 2022,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1251,
+    "occurrences": [
+      [
+        451,
+        "00:24:28.416000",
+        "00:24:33.125000",
+        "Oh, I've got loads of stuff like that. I call it my Rodrick Rules."
+      ],
+      [
+        453,
+        "00:24:36.875000",
+        "00:24:41.791000",
+        "No, Rodrick Rules. There's only one Rodrick, me."
+      ],
+      [
+        1183,
+        "01:06:38.083000",
+        "01:06:40.041000",
+        "Rodrick rules!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDiary\\ of\\ a\\ Wimpy\\ Kid:)Diary\\ of\\ a\\ Wimpy\\ Kid|(?!\\bRodrick\\ Rules:)Rodrick\\ Rules)(?!\\:)(?!'t)\\b",
+    "runtime": 74,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

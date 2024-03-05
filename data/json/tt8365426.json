@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt8365426",
+    "title": "Kill Mode",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 923,
+    "occurrences": [
+      [
+        480,
+        "00:34:22.471000",
+        "00:34:23.470000",
+        "Kill mode."
+      ],
+      [
+        862,
+        "01:22:41.604000",
+        "01:22:43.071000",
+        "MAN: Kill mode."
+      ]
+    ],
+    "regex": "\\b((?!\\bKill\\ Mode:)Kill\\ Mode)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3
+  }
+]

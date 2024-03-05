@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0042285",
+    "title": "Bright Leaf",
+    "year": 1950,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1933,
+    "occurrences": [
+      [
+        92,
+        "00:07:28.600000",
+        "00:07:32.100000",
+        "Nobody in the whole valley grew better bright leaf tobacco."
+      ],
+      [
+        784,
+        "00:42:44.333000",
+        "00:42:46.500000",
+        "Select choice, bright leaf and premium dark."
+      ]
+    ],
+    "regex": "\\b((?!\\bBright\\ Leaf:)Bright\\ Leaf)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

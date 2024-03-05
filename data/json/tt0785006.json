@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0785006",
+    "title": "Hotel for Dogs",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 865,
+    "occurrences": [
+      [
+        805,
+        "01:28:17.058000",
+        "01:28:18.787000",
+        "The Hotel for Dogs."
+      ],
+      [
+        837,
+        "01:31:23.478000",
+        "01:31:26.504000",
+        "I'd like to welcome you to the Hotel for Dogs."
+      ]
+    ],
+    "regex": "\\b((?!\\bHotel\\ for\\ Dogs:)Hotel\\ for\\ Dogs)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

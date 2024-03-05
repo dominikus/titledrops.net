@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0097766",
+    "title": "What Happened to Santiago",
+    "year": 1989,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1315,
+    "occurrences": [
+      [
+        66,
+        "00:02:47.900000",
+        "00:02:50.100000",
+        "In the case of \"What happened to Santiago\","
+      ],
+      [
+        101,
+        "00:04:09.480000",
+        "00:04:11.379000",
+        "\"What happened to Santiago\" was for everyone"
+      ],
+      [
+        108,
+        "00:04:35.460000",
+        "00:04:38.060000",
+        "What happened to Santiago"
+      ],
+      [
+        1314,
+        "01:49:48.040000",
+        "01:49:51.130000",
+        "What happened to Santiago."
+      ]
+    ],
+    "regex": "\\b((?!\\bWhat\\ Happened\\ to\\ Santiago:)What\\ Happened\\ to\\ Santiago)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

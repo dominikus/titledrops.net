@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0175803",
+    "title": "If I Had a Gun",
+    "year": 1971,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 700,
+    "occurrences": [
+      [
+        0,
+        "00:00:57.800000",
+        "00:01:03.750000",
+        "If I had a gun, Viktor would stop laughing and ducks would stop flying."
+      ],
+      [
+        542,
+        "01:07:59.040000",
+        "01:08:00.758000",
+        "If I had a gun... Boom..."
+      ]
+    ],
+    "regex": "\\b((?!\\bIf\\ I\\ Had\\ a\\ Gun:)If\\ I\\ Had\\ a\\ Gun)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

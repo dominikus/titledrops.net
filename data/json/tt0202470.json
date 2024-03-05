@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0202470",
+    "title": "Rock Star",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 913,
+    "occurrences": [
+      [
+        111,
+        "00:12:32.516000",
+        "00:12:36.429000",
+        "The rock star fantasy thing is something you grow out of at 14."
+      ],
+      [
+        406,
+        "00:41:57.716000",
+        "00:42:01.231000",
+        "Give me rock star attitude. Hold that. Here we go."
+      ],
+      [
+        577,
+        "01:04:55.957000",
+        "01:05:00.951000",
+        "You know, he's a rock star now. The normal rules don't apply."
+      ]
+    ],
+    "regex": "\\b((?!\\bRock\\ Star:)Rock\\ Star)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

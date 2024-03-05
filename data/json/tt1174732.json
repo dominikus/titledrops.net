@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1174732",
+    "title": "An Education",
+    "year": 2009,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1210,
+    "occurrences": [
+      [
+        438,
+        "00:32:32.752000",
+        "00:32:35.872000",
+        "Oh, because that's the point of an Oxford education, isn't it, Dad?"
+      ],
+      [
+        963,
+        "01:12:16.273000",
+        "01:12:19.392000",
+        "I don't know about nightclubs, I know about education."
+      ]
+    ],
+    "regex": "\\b((?!\\bEducation:)Education)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

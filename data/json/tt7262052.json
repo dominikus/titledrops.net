@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt7262052",
+    "title": "Soldiers: Story from Ferentari",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1088,
+    "occurrences": [
+      [
+        7,
+        "00:01:02.850000",
+        "00:01:07.810000",
+        "SOLDIERS A Story from Ferentari"
+      ],
+      [
+        417,
+        "00:41:45.050000",
+        "00:41:47.770000",
+        "- I called them my soldiers. - Soldiers?"
+      ],
+      [
+        1055,
+        "01:44:28.170000",
+        "01:44:31.730000",
+        "They were my soldiers, only listened to me."
+      ]
+    ],
+    "regex": "\\b((?!\\bSoldiers:)Soldiers|(?!\\bStory\\ from\\ Ferentari:)Story\\ from\\ Ferentari)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

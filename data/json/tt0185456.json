@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0185456",
+    "title": "Marathon",
+    "year": 1993,
+    "genres": [
+      "Documentary",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 160,
+    "occurrences": [
+      [
+        49,
+        "00:22:52.037000",
+        "00:22:54.747000",
+        "for the final of the Olympic marathon."
+      ],
+      [
+        52,
+        "00:23:01.505000",
+        "00:23:03.923000",
+        "the final of the men's marathon."
+      ]
+    ],
+    "regex": "\\b((?!\\bMarathon:)Marathon)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt12748300",
+    "title": "Forever Rich",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1222,
+    "occurrences": [
+      [
+        18,
+        "00:01:04.600000",
+        "00:01:06.160000",
+        "I am forever rich"
+      ],
+      [
+        41,
+        "00:02:15.920000",
+        "00:02:20.200000",
+        "And we're ready. Forever Rich Tour. There are still some tickets, people."
+      ],
+      [
+        1216,
+        "01:27:01.560000",
+        "01:27:03.320000",
+        "I am forever rich"
+      ]
+    ],
+    "regex": "\\b((?!\\bForever\\ Rich:)Forever\\ Rich)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

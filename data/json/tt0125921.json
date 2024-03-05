@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0125921",
+    "title": "Matinee Idol",
+    "year": 1984,
+    "genres": [
+      "Adult",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 707,
+    "occurrences": [
+      [
+        452,
+        "00:58:53.738000",
+        "00:58:56.616000",
+        "- We still have the unfinished Matinee Idol to deal with."
+      ],
+      [
+        549,
+        "01:04:48.634000",
+        "01:04:52.471000",
+        "- We want you to finish Matinee Idol with Linda."
+      ],
+      [
+        554,
+        "01:05:00.771000",
+        "01:05:04.316000",
+        "- But, we've got to recoup our money from Matinee Idol."
+      ],
+      [
+        560,
+        "01:05:22.042000",
+        "01:05:25.212000",
+        "- And then after Matinee Idol is completed, we can drop Linda"
+      ],
+      [
+        707,
+        "01:24:03.663000",
+        "01:24:09.585000",
+        "You, fella. You out there. How about you? You want to be a Matinee Idol?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMatinee\\ Idol:)Matinee\\ Idol)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1502421",
+    "title": "The Lionshare",
+    "year": 2009,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 855,
+    "occurrences": [
+      [
+        60,
+        "00:06:23.610000",
+        "00:06:26.069000",
+        "Eva.. Actually, are you on The Lionshare? Or have you heard of it?"
+      ],
+      [
+        61,
+        "00:06:26.550000",
+        "00:06:30.059000",
+        "Nick.. The Lionshare? No, I'm not on it and I haven't heard of it; both those things."
+      ],
+      [
+        131,
+        "00:10:47.440000",
+        "00:10:49.310000",
+        "Eva.. Lionshare..."
+      ]
+    ],
+    "regex": "\\b((?!\\bLionshare:)Lionshare)(?!\\:)(?!'t)\\b",
+    "runtime": 66,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

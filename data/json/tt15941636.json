@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt15941636",
+    "title": "The Substitute",
+    "year": 2022,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1482,
+    "occurrences": [
+      [
+        139,
+        "00:10:02.310000",
+        "00:10:04.687000",
+        "Thanks. I'm Lucio, literature substitute."
+      ],
+      [
+        146,
+        "00:10:16.324000",
+        "00:10:18.534000",
+        "This is Lucio, Anibal's substitute."
+      ]
+    ],
+    "regex": "\\b((?!\\bSubstitute:)Substitute)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

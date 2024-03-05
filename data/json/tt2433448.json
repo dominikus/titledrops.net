@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2433448",
+    "title": "Best Kept Secret",
+    "year": 2013,
+    "genres": [
+      "Documentary",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1465,
+    "occurrences": [
+      [
+        1,
+        "00:01:00.267000",
+        "00:01:02.407000",
+        "best kept secret in the Newark Public Schools."
+      ],
+      [
+        1381,
+        "01:14:01.126000",
+        "01:14:03.439000",
+        "the best kept secret in Newark."
+      ]
+    ],
+    "regex": "\\b((?!\\bBest\\ Kept\\ Secret:)Best\\ Kept\\ Secret)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

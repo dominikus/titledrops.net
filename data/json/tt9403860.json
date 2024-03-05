@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt9403860",
+    "title": "The House",
+    "year": 2019,
+    "genres": [
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 166,
+    "occurrences": [
+      [
+        35,
+        "00:12:08.937000",
+        "00:12:12.357000",
+        "It's a huge house..."
+      ],
+      [
+        60,
+        "00:15:04.404000",
+        "00:15:08.158000",
+        "I just heard something inside the house,"
+      ],
+      [
+        69,
+        "00:28:08.897000",
+        "00:28:14.027000",
+        "-Control! I'm inside the house, I need reinforcements."
+      ],
+      [
+        86,
+        "00:40:12.829000",
+        "00:40:14.289000",
+        "- I'm inside the house..."
+      ],
+      [
+        145,
+        "01:07:38.267000",
+        "01:07:44.314000",
+        "{\\an8}Inside the cultural center, Dubois house November 2018"
+      ],
+      [
+        157,
+        "01:08:47.127000",
+        "01:08:49.546000",
+        "{\\an8}and in that sense they were in the house recording it."
+      ]
+    ],
+    "regex": "\\b((?!\\bHouse:)House)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

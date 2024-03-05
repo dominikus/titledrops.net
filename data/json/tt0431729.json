@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0431729",
+    "title": "The East is Red",
+    "year": 1965,
+    "genres": [
+      "Musical"
+    ],
+    "count": 5,
+    "all_lines": 869,
+    "occurrences": [
+      [
+        0,
+        "00:00:00.066000",
+        "00:00:05.938000",
+        "The song and dance epic The East is Red is an excellent work..."
+      ],
+      [
+        24,
+        "00:02:23.943000",
+        "00:02:29.948000",
+        "Today the song and dance epic The East is Red is again being publicly screened."
+      ],
+      [
+        27,
+        "00:02:41.961000",
+        "00:02:47.933000",
+        "We again sing loud The East is Red, hear the chapters of our Partys glorious history,"
+      ],
+      [
+        32,
+        "00:05:54.821000",
+        "00:05:58.323000",
+        "The east is red"
+      ],
+      [
+        59,
+        "00:07:52.271000",
+        "00:07:57.342000",
+        "The east is red"
+      ]
+    ],
+    "regex": "\\b((?!\\bEast\\ is\\ Red:)East\\ is\\ Red)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

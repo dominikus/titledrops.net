@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3260524",
+    "title": "A Secret Love",
+    "year": 2020,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1504,
+    "occurrences": [
+      [
+        117,
+        "00:06:43.778000",
+        "00:06:50.744000",
+        "Once, I had a secret love"
+      ],
+      [
+        120,
+        "00:07:00.128000",
+        "00:07:06.176000",
+        "All too soon, my secret love"
+      ],
+      [
+        128,
+        "00:07:48.343000",
+        "00:07:53.932000",
+        "And my secret love's no secret"
+      ]
+    ],
+    "regex": "\\b((?!\\bSecret\\ Love:)Secret\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

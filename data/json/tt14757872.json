@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt14757872",
+    "title": "Midnight",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 885,
+    "occurrences": [
+      [
+        120,
+        "00:08:57.371000",
+        "00:08:58.581000",
+        "No, I'm coming by midnight."
+      ],
+      [
+        134,
+        "00:09:35.826000",
+        "00:09:36.869000",
+        "Midnight it is then!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMidnight:)Midnight)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

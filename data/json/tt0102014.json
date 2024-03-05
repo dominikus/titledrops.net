@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0102014",
+    "title": "Hear My Song",
+    "year": 1991,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1150,
+    "occurrences": [
+      [
+        894,
+        "01:13:37",
+        "01:13:40.800000",
+        "Hear my song"
+      ],
+      [
+        907,
+        "01:14:42.700000",
+        "01:14:47.600000",
+        "Hear my song"
+      ]
+    ],
+    "regex": "\\b((?!\\bHear\\ My\\ Song:)Hear\\ My\\ Song)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0117283",
+    "title": "The Pallbearer",
+    "year": 1996,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1206,
+    "occurrences": [
+      [
+        72,
+        "00:07:30.249000",
+        "00:07:33.218000",
+        "Hello? What have we been talking about? I'm gonna be a pallbearer."
+      ],
+      [
+        319,
+        "00:28:04.649000",
+        "00:28:07.743000",
+        "I never should've asked you to be a pallbearer."
+      ]
+    ],
+    "regex": "\\b((?!\\bPallbearer:)Pallbearer)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

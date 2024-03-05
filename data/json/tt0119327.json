@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0119327",
+    "title": "Hugo Pool",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 978,
+    "occurrences": [
+      [
+        0,
+        "00:01:06.934000",
+        "00:01:09.334000",
+        "You've reached the Hugo Pool Company."
+      ],
+      [
+        18,
+        "00:02:54.534000",
+        "00:02:56.734000",
+        "You've reached the Hugo Pool Company."
+      ],
+      [
+        29,
+        "00:04:27.534000",
+        "00:04:29.654000",
+        "You've reached the Hugo Pool Company."
+      ]
+    ],
+    "regex": "\\b((?!\\bHugo\\ Pool:)Hugo\\ Pool)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

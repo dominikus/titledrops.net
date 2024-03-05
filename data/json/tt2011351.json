@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2011351",
+    "title": "Chips",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 657,
+    "occurrences": [
+      [
+        350,
+        "00:32:08.440000",
+        "00:32:10.908000",
+        "Get some consomme-flavoured chips."
+      ],
+      [
+        352,
+        "00:32:15.080000",
+        "00:32:19.346000",
+        "Okay. You want chips, Mr Kurosawa?"
+      ],
+      [
+        378,
+        "00:34:16.534000",
+        "00:34:19.628000",
+        "Salted chips aren't bad at all."
+      ],
+      [
+        387,
+        "00:35:08.253000",
+        "00:35:10.653000",
+        "You wanted the salted chips?"
+      ]
+    ],
+    "regex": "\\b((?!\\bChips:)Chips)(?!\\:)(?!'t)\\b",
+    "runtime": 68,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

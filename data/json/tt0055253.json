@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0055253",
+    "title": "On the Double",
+    "year": 1961,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1671,
+    "occurrences": [
+      [
+        141,
+        "00:07:00.886000",
+        "00:07:02.789000",
+        "On the double."
+      ],
+      [
+        592,
+        "00:28:02.747000",
+        "00:28:05.160000",
+        "Quickly, dear. On the double."
+      ]
+    ],
+    "regex": "\\b((?!\\bOn\\ the\\ Double:)On\\ the\\ Double)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

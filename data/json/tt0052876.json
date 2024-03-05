@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0052876",
+    "title": "The Hanging Tree",
+    "year": 1959,
+    "genres": [
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 921,
+    "occurrences": [
+      [
+        0,
+        "00:00:12.040000",
+        "00:00:16.716000",
+        "(Music:''The Hanging Tree'' by Marty Robbins)"
+      ],
+      [
+        920,
+        "01:42:00.240000",
+        "01:42:04.074000",
+        "(Music:''The Hanging Tree'' by Marty Robbins)"
+      ]
+    ],
+    "regex": "\\b((?!\\bHanging\\ Tree:)Hanging\\ Tree)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

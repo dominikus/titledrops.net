@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt9822474",
+    "title": "Into the Canyon",
+    "year": 2019,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 896,
+    "occurrences": [
+      [
+        39,
+        "00:03:24.308000",
+        "00:03:28.310000",
+        "That I could basically get off the couch, and, and, and head into the canyon"
+      ],
+      [
+        636,
+        "00:56:04.858000",
+        "00:56:08.910000",
+        "Rich: Water slopes into drainages that feed into the canyon,"
+      ]
+    ],
+    "regex": "\\b((?!\\bInto\\ the\\ Canyon:)Into\\ the\\ Canyon)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1738293",
+    "title": "Khichdi: The Movie",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1778,
+    "occurrences": [
+      [
+        182,
+        "00:12:31.951000",
+        "00:12:34.864000",
+        "Babuji, push it hard or else the movie will end here."
+      ],
+      [
+        183,
+        "00:12:35.354000",
+        "00:12:37.027000",
+        "The movie in the theatre will begin."
+      ],
+      [
+        529,
+        "00:32:30.648000",
+        "00:32:35.597000",
+        "In the movie Dilwale Dulhaniya Le Jayenge', Shahrukh and Kajol faced so many obstacles."
+      ]
+    ],
+    "regex": "\\b((?!\\bKhichdi:)Khichdi|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

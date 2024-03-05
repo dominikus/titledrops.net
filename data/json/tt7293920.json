@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt7293920",
+    "title": "The Fare",
+    "year": 2018,
+    "genres": [
+      "Fantasy",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1434,
+    "occurrences": [
+      [
+        365,
+        "00:16:17.010000",
+        "00:16:18.042000",
+        "I lost my fare."
+      ],
+      [
+        497,
+        "00:22:38.424000",
+        "00:22:39.523000",
+        "I'm just your fare."
+      ],
+      [
+        499,
+        "00:22:41.728000",
+        "00:22:43.894000",
+        "This is my fare, okay."
+      ],
+      [
+        506,
+        "00:22:54.574000",
+        "00:22:55.706000",
+        "DISPATCHER: Drop off your fare,"
+      ]
+    ],
+    "regex": "\\b((?!\\bFare:)Fare)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

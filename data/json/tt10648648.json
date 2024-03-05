@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt10648648",
+    "title": "Extraordinary: The Seeding",
+    "year": 2019,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1784,
+    "occurrences": [
+      [
+        409,
+        "00:24:25.153000",
+        "00:24:27.604000",
+        "have reported extraordinary experiences."
+      ],
+      [
+        1231,
+        "01:10:09.205000",
+        "01:10:13.657000",
+        "tremendous extraordinary experiences that no one believes?"
+      ],
+      [
+        1640,
+        "01:32:09.593000",
+        "01:32:13.562000",
+        "The struggle to understand something so extraordinary"
+      ]
+    ],
+    "regex": "\\b((?!\\bExtraordinary:)Extraordinary|(?!\\bSeeding:)Seeding)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

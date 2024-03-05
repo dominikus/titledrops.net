@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt6708044",
+    "title": "The Tribe",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 1432,
+    "occurrences": [
+      [
+        426,
+        "00:25:21.458000",
+        "00:25:22.916000",
+        "Do you dance at the Tribe?"
+      ],
+      [
+        430,
+        "00:25:31.458000",
+        "00:25:33.125000",
+        "I think he's from the Tribe."
+      ],
+      [
+        437,
+        "00:26:08.666000",
+        "00:26:11.666000",
+        "URBAN TRIBE DANCE SCHOOL"
+      ],
+      [
+        1385,
+        "01:21:32.416000",
+        "01:21:34.458000",
+        "that they accept me in the tribe."
+      ]
+    ],
+    "regex": "\\b((?!\\bTribe:)Tribe)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

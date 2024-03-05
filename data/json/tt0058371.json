@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0058371",
+    "title": "The Moon-Spinners",
+    "year": 1964,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 964,
+    "occurrences": [
+      [
+        116,
+        "00:09:10.082000",
+        "00:09:13.176000",
+        "Look, the Moon-Spinners."
+      ],
+      [
+        314,
+        "00:18:52.064000",
+        "00:18:54.089000",
+        "wwhy this hotel is called the Moon-Spinners."
+      ],
+      [
+        317,
+        "00:18:57.402000",
+        "00:18:58.664000",
+        "W ho are the Moon-Spinners?"
+      ],
+      [
+        419,
+        "00:23:37.048000",
+        "00:23:40.506000",
+        "The Moon-Spinners must be wworking full-time tonight."
+      ]
+    ],
+    "regex": "\\b((?!\\bMoon\\-Spinners:)Moon\\-Spinners)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

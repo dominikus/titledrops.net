@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3816458",
+    "title": "Dead Rising: Watchtower",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1243,
+    "occurrences": [
+      [
+        1216,
+        "01:52:12.455000",
+        "01:52:14.080000",
+        "Project Watchtower ..."
+      ],
+      [
+        1243,
+        "01:55:00.766000",
+        "01:55:56.321000",
+        "Dead Rising:Watchtower (2015) A transcript by D, Robertson"
+      ]
+    ],
+    "regex": "\\b((?!\\bDead\\ Rising:)Dead\\ Rising|(?!\\bWatchtower:)Watchtower)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

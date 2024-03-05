@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0061850",
+    "title": "Journey to the Center of Time",
+    "year": 1967,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1202,
+    "occurrences": [
+      [
+        18,
+        "00:01:04.107000",
+        "00:01:06.196000",
+        "journey to the center of time."
+      ],
+      [
+        261,
+        "00:16:09.707000",
+        "00:16:15.235000",
+        "along that continuum, actually journey to the center of time."
+      ]
+    ],
+    "regex": "\\b((?!\\bJourney\\ to\\ the\\ Center\\ of\\ Time:)Journey\\ to\\ the\\ Center\\ of\\ Time)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

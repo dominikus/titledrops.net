@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt6458228",
+    "title": "Sin",
+    "year": 2019,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 1445,
+    "occurrences": [
+      [
+        99,
+        "00:09:00.700000",
+        "00:09:02.019000",
+        "The world is mired in sin."
+      ],
+      [
+        369,
+        "00:32:20.980000",
+        "00:32:23.019000",
+        "Self-interest is a mortal sin."
+      ],
+      [
+        837,
+        "01:08:49.340000",
+        "01:08:52.459000",
+        "Michelangelo, pride is a great sin."
+      ]
+    ],
+    "regex": "\\b((?!\\bSin:)Sin)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

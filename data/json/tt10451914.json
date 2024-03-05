@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt10451914",
+    "title": "Outside the Wire",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 1650,
+    "occurrences": [
+      [
+        283,
+        "00:15:56",
+        "00:15:57.791000",
+        "Twenty klicks outside the wire."
+      ],
+      [
+        433,
+        "00:24:29.916000",
+        "00:24:32.958000",
+        "We don't control any of the area outside the wire."
+      ],
+      [
+        439,
+        "00:24:48.208000",
+        "00:24:50.416000",
+        "We are proceeding outside the wire."
+      ],
+      [
+        874,
+        "00:50:31.750000",
+        "00:50:33.916000",
+        "It's his first day outside the wire."
+      ]
+    ],
+    "regex": "\\b((?!\\bOutside\\ the\\ Wire:)Outside\\ the\\ Wire)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

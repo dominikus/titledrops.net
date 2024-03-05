@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5947582",
+    "title": "Art Show Bingo",
+    "year": 2017,
+    "genres": [
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1573,
+    "occurrences": [
+      [
+        326,
+        "00:15:39.204000",
+        "00:15:40.472000",
+        "- Art Show Bingo."
+      ],
+      [
+        1555,
+        "01:25:57.252000",
+        "01:26:01.055000",
+        "Art Show Bingo, one, two, three"
+      ]
+    ],
+    "regex": "\\b((?!\\bArt\\ Show\\ Bingo:)Art\\ Show\\ Bingo)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

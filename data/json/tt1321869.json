@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1321869",
+    "title": "The Lovers",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1020,
+    "occurrences": [
+      [
+        19,
+        "00:01:55.049000",
+        "00:01:58.984000",
+        "They are called, \"The Lovers.\""
+      ],
+      [
+        227,
+        "00:16:21.848000",
+        "00:16:23.715000",
+        "they say it brings lovers together"
+      ]
+    ],
+    "regex": "\\b((?!\\bLovers:)Lovers)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

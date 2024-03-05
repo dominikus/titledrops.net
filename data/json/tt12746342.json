@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt12746342",
+    "title": "Knockout",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1788,
+    "occurrences": [
+      [
+        15,
+        "00:02:01.671000",
+        "00:02:03.837000",
+        "to knockout opponents..."
+      ],
+      [
+        66,
+        "00:04:18.671000",
+        "00:04:21.254000",
+        "The winner by way of knockout..."
+      ],
+      [
+        1360,
+        "01:28:21.462000",
+        "01:28:25.879000",
+        "This bout has come to an end due to a knockout."
+      ]
+    ],
+    "regex": "\\b((?!\\bKnockout:)Knockout)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

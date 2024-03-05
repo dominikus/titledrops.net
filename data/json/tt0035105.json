@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0035105",
+    "title": "My Sister Eileen",
+    "year": 1942,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1493,
+    "occurrences": [
+      [
+        0,
+        "00:01:20.914000",
+        "00:01:23.883000",
+        "-Your kid sister? -My sister Eileen."
+      ],
+      [
+        817,
+        "00:54:02.973000",
+        "00:54:05.635000",
+        "-\"My Sister Eileen.\" -Yes, yes, that's it."
+      ],
+      [
+        1385,
+        "01:31:33.788000",
+        "01:31:39.226000",
+        "\"'My Sister Eileen,' by Ruth Sherwood.\" \"My Sister...\" Why, that's me. That's me!"
+      ],
+      [
+        1466,
+        "01:35:11.439000",
+        "01:35:15.102000",
+        "-And who are you? -Why, I'm My Sister Eileen."
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Sister\\ Eileen:)My\\ Sister\\ Eileen)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt2327243",
+    "title": "Clubhouse",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1261,
+    "occurrences": [
+      [
+        19,
+        "00:01:12.053000",
+        "00:01:16.903000",
+        "The Clubhouse is all he's got."
+      ],
+      [
+        141,
+        "00:08:19.453000",
+        "00:08:20.936000",
+        "for the Clubhouse."
+      ],
+      [
+        149,
+        "00:08:46.654000",
+        "00:08:49.270000",
+        "To bring success to the Clubhouse,"
+      ],
+      [
+        1122,
+        "01:22:49.987000",
+        "01:22:53.503000",
+        "- The Clubhouse, it's under the sink."
+      ],
+      [
+        1148,
+        "01:24:24.753000",
+        "01:24:28.837000",
+        "for everyone at the Clubhouse, right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bClubhouse:)Clubhouse)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

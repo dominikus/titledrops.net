@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1615075",
+    "title": "Suing the Devil",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 1631,
+    "occurrences": [
+      [
+        203,
+        "00:14:07.882000",
+        "00:14:10.852000",
+        "They may call it crazy, but Luke O'Brien is suing the devil."
+      ],
+      [
+        343,
+        "00:22:29.350000",
+        "00:22:32.153000",
+        "Luke, Luke, why are you suing the devil?"
+      ],
+      [
+        858,
+        "00:54:07.613000",
+        "00:54:11.450000",
+        "I thought I was doing it. I am suing the devil, if you have not noticed."
+      ],
+      [
+        1059,
+        "01:07:03.622000",
+        "01:07:07.217000",
+        "He is suing the devil when he should sue himself."
+      ]
+    ],
+    "regex": "\\b((?!\\bSuing\\ the\\ Devil:)Suing\\ the\\ Devil)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

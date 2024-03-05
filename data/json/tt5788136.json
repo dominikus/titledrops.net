@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt5788136",
+    "title": "The Institute",
+    "year": 2017,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 1144,
+    "occurrences": [
+      [
+        12,
+        "00:04:07.314000",
+        "00:04:11.049000",
+        "But an institute? That seems so severe."
+      ],
+      [
+        18,
+        "00:04:26.634000",
+        "00:04:29.101000",
+        "The staff at the institute is finely trained"
+      ],
+      [
+        24,
+        "00:05:22.889000",
+        "00:05:24.690000",
+        "At the rosewood institute,"
+      ],
+      [
+        127,
+        "00:11:44.471000",
+        "00:11:47.772000",
+        "The institute is lovely."
+      ],
+      [
+        881,
+        "01:11:04.261000",
+        "01:11:08.730000",
+        "The flow of girls to the society members is the institute's lifeblood,"
+      ],
+      [
+        1135,
+        "01:32:03.285000",
+        "01:32:06.820000",
+        "the institute will emerge stronger than ever before."
+      ],
+      [
+        1140,
+        "01:32:20.535000",
+        "01:32:22.702000",
+        "the institute thanks you."
+      ]
+    ],
+    "regex": "\\b((?!\\bInstitute:)Institute)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

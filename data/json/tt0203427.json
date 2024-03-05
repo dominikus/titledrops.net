@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0203427",
+    "title": "The Creator",
+    "year": 1999,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 966,
+    "occurrences": [
+      [
+        24,
+        "00:03:18.589000",
+        "00:03:21.489000",
+        "The Creator"
+      ],
+      [
+        225,
+        "00:24:23.750000",
+        "00:24:25.741000",
+        "The creator's already here !"
+      ]
+    ],
+    "regex": "\\b((?!\\bCreator:)Creator)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

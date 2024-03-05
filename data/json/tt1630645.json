@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1630645",
+    "title": "Mystification",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 994,
+    "occurrences": [
+      [
+        42,
+        "00:06:06.280000",
+        "00:06:10.512000",
+        "Maybe his death was just a mystification."
+      ],
+      [
+        516,
+        "00:52:29.400000",
+        "00:52:32.233000",
+        "That his death was a mystification."
+      ]
+    ],
+    "regex": "\\b((?!\\bMystification:)Mystification)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

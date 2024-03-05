@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0062978",
+    "title": "A Flea in Her Ear",
+    "year": 1968,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1906,
+    "occurrences": [
+      [
+        4,
+        "00:02:19.874000",
+        "00:02:23.442000",
+        "So there's a flea in her ear"
+      ],
+      [
+        9,
+        "00:02:35.422000",
+        "00:02:38.590000",
+        "So there's a flea in her ear"
+      ],
+      [
+        20,
+        "00:03:18.666000",
+        "00:03:22.868000",
+        "The flea in her ear"
+      ],
+      [
+        1906,
+        "01:33:46.588000",
+        "01:33:53.560000",
+        "The flea in her ear"
+      ]
+    ],
+    "regex": "\\b((?!\\bFlea\\ in\\ Her\\ Ear:)Flea\\ in\\ Her\\ Ear)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

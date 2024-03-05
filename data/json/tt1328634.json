@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1328634",
+    "title": "New York",
+    "year": 2009,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 701,
+    "occurrences": [
+      [
+        26,
+        "00:06:58.351000",
+        "00:06:59.443000",
+        "New York State University."
+      ],
+      [
+        61,
+        "00:08:59.972000",
+        "00:09:01.374000",
+        "My First day in New York university."
+      ],
+      [
+        164,
+        "00:24:15.987000",
+        "00:24:17.422000",
+        "And now he is in New York since 8 years."
+      ],
+      [
+        185,
+        "00:25:08.773000",
+        "00:25:12.978000",
+        "You admit that this person is your friend. this person running cell in new York city."
+      ]
+    ],
+    "regex": "\\b((?!\\bNew\\ York:)New\\ York)(?!\\:)(?!'t)\\b",
+    "runtime": 153,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

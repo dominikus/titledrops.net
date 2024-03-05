@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0475711",
+    "title": "Sad Movie",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 759,
+    "occurrences": [
+      [
+        0,
+        "00:01:22.300000",
+        "00:01:28.100000",
+        "Sad Movie"
+      ],
+      [
+        759,
+        "01:45:01.600000",
+        "01:45:10.800000",
+        "Sad Movie"
+      ]
+    ],
+    "regex": "\\b((?!\\bSad\\ Movie:)Sad\\ Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1176142",
+    "title": "The Class 2",
+    "year": 2008,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1086,
+    "occurrences": [
+      [
+        224,
+        "00:24:36.120000",
+        "00:24:38.085000",
+        "Should we go to town after class?"
+      ],
+      [
+        847,
+        "01:31:07.400000",
+        "01:31:10.760000",
+        "- Who has the first class tomorrow? - Mustafa."
+      ],
+      [
+        962,
+        "01:45:24.320000",
+        "01:45:29.030000",
+        "- The class is finished. - Then let's go for a walk guys."
+      ],
+      [
+        1068,
+        "01:57:16.680000",
+        "01:57:19.125000",
+        "The reason is love, class and fun."
+      ]
+    ],
+    "regex": "\\b((?!\\bClass:)Class)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2
+  }
+]

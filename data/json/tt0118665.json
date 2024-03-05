@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0118665",
+    "title": "Baby Geniuses",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1403,
+    "occurrences": [
+      [
+        63,
+        "00:05:49.012000",
+        "00:05:52.487000",
+        "Baby Geniuses Inc. And its parent company BABYCO"
+      ],
+      [
+        230,
+        "00:14:54.027000",
+        "00:14:57.802000",
+        "Hello, my little baby geniuses."
+      ]
+    ],
+    "regex": "\\b((?!\\bBaby\\ Geniuses:)Baby\\ Geniuses)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.6
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5724948",
+    "title": "Old Boys",
+    "year": 2018,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 934,
+    "occurrences": [
+      [
+        883,
+        "01:25:18.046000",
+        "01:25:21.296000",
+        "Yes, today they face off against the Old Boys, an epic clash"
+      ],
+      [
+        888,
+        "01:25:41.087000",
+        "01:25:44.129000",
+        "Founders Scratch versus the Old Boys XI."
+      ]
+    ],
+    "regex": "\\b((?!\\bOld\\ Boys:)Old\\ Boys)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

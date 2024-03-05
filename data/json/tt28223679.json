@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt28223679",
+    "title": "Project Eerie",
+    "year": 2023,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1483,
+    "occurrences": [
+      [
+        101,
+        "00:04:31.890000",
+        "00:04:34.040000",
+        "-  It's Project Eerie, you dumb ass."
+      ],
+      [
+        106,
+        "00:04:47.190000",
+        "00:04:48.233000",
+        "Project Eerie."
+      ],
+      [
+        111,
+        "00:05:01.126000",
+        "00:05:04.094000",
+        "Project Eerie investigation.\""
+      ],
+      [
+        112,
+        "00:05:04.094000",
+        "00:05:05.792000",
+        "What is this Project Eerie shit?"
+      ]
+    ],
+    "regex": "\\b((?!\\bProject\\ Eerie:)Project\\ Eerie)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

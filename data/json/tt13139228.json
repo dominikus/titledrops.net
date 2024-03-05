@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt13139228",
+    "title": "My Policeman",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1205,
+    "occurrences": [
+      [
+        592,
+        "00:45:56.708000",
+        "00:45:59.666000",
+        "I don't know whether I'll ever see my policeman again."
+      ],
+      [
+        1049,
+        "01:28:32.916000",
+        "01:28:37.416000",
+        "My policeman was magnificently alive in front of me.\""
+      ],
+      [
+        1050,
+        "01:28:38.500000",
+        "01:28:42.541000",
+        "Mrs. Burgess, who is \"my policeman\"?"
+      ],
+      [
+        1062,
+        "01:29:12.916000",
+        "01:29:15.125000",
+        "as my policeman and I...\""
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Policeman:)My\\ Policeman)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

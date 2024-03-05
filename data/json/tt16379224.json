@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt16379224",
+    "title": "137 Shots",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1866,
+    "occurrences": [
+      [
+        96,
+        "00:06:43.569000",
+        "00:06:46.239000",
+        "The 137 shots case,"
+      ],
+      [
+        312,
+        "00:17:38.974000",
+        "00:17:42.478000",
+        "Miraculously, of these 137 shots that we know about,"
+      ],
+      [
+        462,
+        "00:25:56.555000",
+        "00:26:00.141000",
+        "fired 137 shots into that vehicle."
+      ],
+      [
+        1788,
+        "01:36:54.308000",
+        "01:36:57.394000",
+        "fired an astounding 137 shots into a car..."
+      ]
+    ],
+    "regex": "\\b((?!\\b137\\ Shots:)137\\ Shots)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

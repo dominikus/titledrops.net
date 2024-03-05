@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt6203570",
+    "title": "Mountain",
+    "year": 2017,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 691,
+    "occurrences": [
+      [
+        56,
+        "00:06:44.066000",
+        "00:06:45.901000",
+        "setting out to climb a mountain"
+      ],
+      [
+        342,
+        "00:33:42.984000",
+        "00:33:46.555000",
+        "A very modern mountain worship has taken hold..."
+      ],
+      [
+        488,
+        "00:49:46.013000",
+        "00:49:47.879000",
+        " Many who travel to mountain tops"
+      ],
+      [
+        497,
+        "00:50:54.981000",
+        "00:50:56.682000",
+        "Today's mountain mania"
+      ]
+    ],
+    "regex": "\\b((?!\\bMountain:)Mountain)(?!\\:)(?!'t)\\b",
+    "runtime": 74,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

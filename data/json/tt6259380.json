@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6259380",
+    "title": "Code 8",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1458,
+    "occurrences": [
+      [
+        724,
+        "00:37:19.355000",
+        "00:37:20.345000",
+        "code eight."
+      ],
+      [
+        1113,
+        "00:59:14.593000",
+        "00:59:16.545000",
+        "Code eight, I repeat, code eight."
+      ]
+    ],
+    "regex": "\\b((?!\\bCode:)Code)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

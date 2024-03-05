@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3717016",
+    "title": "After the Ball",
+    "year": 2015,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1881,
+    "occurrences": [
+      [
+        1087,
+        "00:55:04.718000",
+        "00:55:06.593000",
+        "...called After The Ball, and we just got..."
+      ],
+      [
+        1622,
+        "01:25:13.308000",
+        "01:25:14.659000",
+        "After The Ball."
+      ]
+    ],
+    "regex": "\\b((?!\\bAfter\\ the\\ Ball:)After\\ the\\ Ball)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

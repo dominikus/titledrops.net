@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt0049944",
+    "title": "The Werewolf",
+    "year": 1956,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 817,
+    "occurrences": [
+      [
+        150,
+        "00:13:58.404000",
+        "00:14:02.670000",
+        "Werewolf? lf you think l'm gonna put that in my medical report..."
+      ],
+      [
+        171,
+        "00:14:58.364000",
+        "00:15:02.858000",
+        "Dead man in the other room and a werewolf running around loose."
+      ]
+    ],
+    "regex": "\\b((?!\\bWerewolf:)Werewolf)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [
+      "The Werewolf",
+      "Duncan Marsh"
+    ],
+    "title_is_name": true,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt12593454",
+    "title": "Cadet 1947",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "count": 7,
+    "all_lines": 949,
+    "occurrences": [
+      [
+        11,
+        "00:01:10.958000",
+        "00:01:11.916000",
+        "ADJI, 23 AIR CADET I"
+      ],
+      [
+        64,
+        "00:06:44.333000",
+        "00:06:47.750000",
+        "A cadet training with Tjureng became Congor Merah's target."
+      ],
+      [
+        293,
+        "00:27:03.583000",
+        "00:27:07.041000",
+        "Aren't you the cadet who was shot down by Congor Merah?"
+      ],
+      [
+        929,
+        "01:46:35.166000",
+        "01:46:36.375000",
+        "CADET SOETARDJO SIGIT"
+      ],
+      [
+        932,
+        "01:46:41.916000",
+        "01:46:42.750000",
+        "CADET MULJONO"
+      ],
+      [
+        935,
+        "01:46:48.166000",
+        "01:46:49.541000",
+        "CADET SUHARNOKO HARBANI"
+      ],
+      [
+        938,
+        "01:46:55.416000",
+        "01:46:57.708000",
+        "CADET BAMBANG SAPTOADJI"
+      ]
+    ],
+    "regex": "\\b((?!\\bCadet:)Cadet)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

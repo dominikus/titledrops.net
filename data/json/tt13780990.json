@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt13780990",
+    "title": "The Mistress",
+    "year": 2022,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1464,
+    "occurrences": [
+      [
+        643,
+        "00:44:18.325000",
+        "00:44:19.489000",
+        "Rebecca, mistress."
+      ],
+      [
+        1288,
+        "01:29:30.672000",
+        "01:29:32.199000",
+        "And that she was the mistress."
+      ]
+    ],
+    "regex": "\\b((?!\\bMistress:)Mistress)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

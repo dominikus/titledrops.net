@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0369672",
+    "title": "A Love Song for Bobby Long",
+    "year": 2004,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1820,
+    "occurrences": [
+      [
+        1801,
+        "01:57:43",
+        "01:57:48",
+        "It's a love song for Bobby Long"
+      ],
+      [
+        1802,
+        "01:57:48.417000",
+        "01:57:52.125000",
+        "A love song for Bobby Long"
+      ],
+      [
+        1811,
+        "01:58:41.750000",
+        "01:58:46.750000",
+        "It's a love song for Bobby Long"
+      ],
+      [
+        1812,
+        "01:58:47.083000",
+        "01:58:52.083000",
+        "A love song for Bobby Long"
+      ]
+    ],
+    "regex": "\\b((?!\\bLove\\ Song\\ for\\ Bobby\\ Long:)Love\\ Song\\ for\\ Bobby\\ Long)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

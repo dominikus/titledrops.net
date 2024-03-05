@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0056673",
+    "title": "Waltz of the Toreadors",
+    "year": 1962,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1320,
+    "occurrences": [
+      [
+        269,
+        "00:23:38.230000",
+        "00:23:40.164000",
+        "The Waltz Of The Toreadors."
+      ],
+      [
+        1071,
+        "01:20:33.423000",
+        "01:20:35.857000",
+        "They were playing the Waltz Of The Toreadors."
+      ],
+      [
+        1102,
+        "01:23:58.776000",
+        "01:24:00.710000",
+        "The Waltz Of The Toreadors."
+      ]
+    ],
+    "regex": "\\b((?!\\bWaltz\\ of\\ the\\ Toreadors:)Waltz\\ of\\ the\\ Toreadors)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

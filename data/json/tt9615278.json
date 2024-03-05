@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt9615278",
+    "title": "Abou Leila",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 745,
+    "occurrences": [
+      [
+        291,
+        "00:38:54.640000",
+        "00:38:58.240000",
+        "There's never been any terrorists in the desert. Abou Leila or anyone."
+      ],
+      [
+        323,
+        "00:44:51.040000",
+        "00:44:54.440000",
+        "You're in cahoots with that fucker Abou Leila."
+      ],
+      [
+        411,
+        "00:51:19.920000",
+        "00:51:21.160000",
+        "Abou Leila."
+      ],
+      [
+        725,
+        "02:00:15.800000",
+        "02:00:17.640000",
+        "also known as \"Abou Leila\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bAbou\\ Leila:)Abou\\ Leila)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

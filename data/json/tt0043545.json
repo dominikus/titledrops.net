@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0043545",
+    "title": "Flight to Mars",
+    "year": 1951,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 964,
+    "occurrences": [
+      [
+        0,
+        "00:00:13.237000",
+        "00:00:17.951000",
+        "Flight to Mars (1951)"
+      ],
+      [
+        294,
+        "00:21:36.323000",
+        "00:21:41.835000",
+        "Flight to Mars The 7th Day"
+      ]
+    ],
+    "regex": "\\b((?!\\bFlight\\ to\\ Mars:)Flight\\ to\\ Mars)(?!\\:)(?!'t)\\b",
+    "runtime": 72,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

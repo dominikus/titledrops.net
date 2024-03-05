@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0090329",
+    "title": "Witness",
+    "year": 1985,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 883,
+    "occurrences": [
+      [
+        114,
+        "00:18:57.178000",
+        "00:18:59.388000",
+        "Your son is a material witness to a homicide."
+      ],
+      [
+        174,
+        "00:23:04.008000",
+        "00:23:06.635000",
+        "- I'm glad? - Because now you have a witness."
+      ],
+      [
+        175,
+        "00:23:06.760000",
+        "00:23:08.304000",
+        "Yeah, now I got a witness."
+      ]
+    ],
+    "regex": "\\b((?!\\bWitness:)Witness)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

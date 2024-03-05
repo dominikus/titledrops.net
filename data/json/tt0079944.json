@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt0079944",
+    "title": "Stalker",
+    "year": 1979,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 383,
+    "occurrences": [
+      [
+        77,
+        "00:14:08.080000",
+        "00:14:10.469000",
+        "Are you really a stalker?"
+      ],
+      [
+        225,
+        "00:40:26.680000",
+        "00:40:29.194000",
+        "A date with the Zone. He's a stalker."
+      ],
+      [
+        227,
+        "00:40:33.840000",
+        "00:40:37.469000",
+        "You see, being a stalker is some sort of calling."
+      ]
+    ],
+    "regex": "\\b((?!\\bStalker:)Stalker)(?!\\:)(?!'t)\\b",
+    "runtime": 162,
+    "characters": [
+      "Zhena Stalkera",
+      "Stalker"
+    ],
+    "title_is_name": true,
+    "rating": 8.1
+  }
+]

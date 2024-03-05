@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0299551",
+    "title": "Blood Lake",
+    "year": 1987,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1506,
+    "occurrences": [
+      [
+        1457,
+        "01:15:24.486000",
+        "01:15:27.289000",
+        "(\"Blood Lake\" by Voyager)"
+      ],
+      [
+        1479,
+        "01:16:56.011000",
+        "01:16:58.046000",
+        "At Blood Lake"
+      ],
+      [
+        1501,
+        "01:18:07.449000",
+        "01:18:11.620000",
+        "I died at Blood Lake"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlood\\ Lake:)Blood\\ Lake)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1855401",
+    "title": "Tim and Eric's Billion Dollar Movie",
+    "year": 2012,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1687,
+    "occurrences": [
+      [
+        1651,
+        "01:26:42.030000",
+        "01:26:46.126000",
+        "\"Tim and Eric's Billion Dollar Movie\" is done"
+      ],
+      [
+        1653,
+        "01:26:49.996000",
+        "01:26:53.626000",
+        "\"Tim and Eric's Billion Dollar Movie\" is done"
+      ]
+    ],
+    "regex": "\\b((?!\\bTim\\ and\\ Eric's\\ Billion\\ Dollar\\ Movie:)Tim\\ and\\ Eric's\\ Billion\\ Dollar\\ Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

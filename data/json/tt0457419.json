@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0457419",
+    "title": "Mr. Magorium's Wonder Emporium",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 1339,
+    "occurrences": [
+      [
+        4,
+        "00:03:09.960000",
+        "00:03:12.360000",
+        "Mr. Magorium's Wonder Emporium."
+      ],
+      [
+        538,
+        "00:36:05.240000",
+        "00:36:08.120000",
+        "It's called \"Mr. Magorium's Wonder Emporium.\""
+      ],
+      [
+        965,
+        "00:58:01.440000",
+        "00:58:03.240000",
+        "Mr. Magorium's Wonder Emporium."
+      ]
+    ],
+    "regex": "\\b((?!\\bMr\\.\\ Magorium's\\ Wonder\\ Emporium:)Mr\\.\\ Magorium's\\ Wonder\\ Emporium)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

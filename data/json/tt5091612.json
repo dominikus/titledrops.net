@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5091612",
+    "title": "A Bag of Marbles",
+    "year": 2017,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1417,
+    "occurrences": [
+      [
+        176,
+        "00:12:51.892000",
+        "00:12:54.850000",
+        "Here. I exchange it against my bag of marbles."
+      ],
+      [
+        179,
+        "00:12:59.975000",
+        "00:13:02.808000",
+        "Against my bag of marbles. - Are you sure, Zerati?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBag\\ of\\ Marbles:)Bag\\ of\\ Marbles)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

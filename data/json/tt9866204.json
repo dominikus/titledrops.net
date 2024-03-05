@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt9866204",
+    "title": "All Those Small Things",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1455,
+    "occurrences": [
+      [
+        926,
+        "00:58:16.280000",
+        "00:58:20.599000",
+        "I keep thinking, all those small things."
+      ],
+      [
+        1389,
+        "01:33:45.079000",
+        "01:33:49.479000",
+        "You said you forgot all those small things in life."
+      ]
+    ],
+    "regex": "\\b((?!\\bAll\\ Those\\ Small\\ Things:)All\\ Those\\ Small\\ Things)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

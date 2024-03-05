@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0036929",
+    "title": "Hotel Reserve",
+    "year": 1944,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 817,
+    "occurrences": [
+      [
+        66,
+        "00:07:09.080000",
+        "00:07:15.880000",
+        "At the Hotel Reserve, one is never late for lunch. I will speak to Mr Vadassy."
+      ],
+      [
+        77,
+        "00:08:20.628000",
+        "00:08:23.080000",
+        "Peter Vadassy. Hotel Reserve."
+      ],
+      [
+        527,
+        "00:53:02",
+        "00:53:06.720000",
+        "I cannot say that I hope to see you again at the Hotel Reserve."
+      ]
+    ],
+    "regex": "\\b((?!\\bHotel\\ Reserve:)Hotel\\ Reserve)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0059711",
+    "title": "Shenandoah",
+    "year": 1965,
+    "genres": [
+      "Drama",
+      "War",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 821,
+    "occurrences": [
+      [
+        150,
+        "00:16:54.323000",
+        "00:16:58.840000",
+        "There's a rumour you have the coldest water this side of the Shenandoah."
+      ],
+      [
+        542,
+        "00:58:34.476000",
+        "00:58:36.944000",
+        "Well, it's Shenandoah Gap."
+      ]
+    ],
+    "regex": "\\b((?!\\bShenandoah:)Shenandoah)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

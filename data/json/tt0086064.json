@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0086064",
+    "title": "Otto Is a Rhino",
+    "year": 1983,
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 506,
+    "occurrences": [
+      [
+        163,
+        "00:28:13.052000",
+        "00:28:17.125000",
+        "No ... Otto is a rhino."
+      ],
+      [
+        181,
+        "00:30:18.934000",
+        "00:30:25.853000",
+        "- Otto is a rhino. - You're nuts, Topper."
+      ]
+    ],
+    "regex": "\\b((?!\\bOtto\\ Is\\ a\\ Rhino:)Otto\\ Is\\ a\\ Rhino)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

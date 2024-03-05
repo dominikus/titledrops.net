@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt9124428",
+    "title": "Champion",
+    "year": 2018,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1384,
+    "occurrences": [
+      [
+        112,
+        "00:08:16.860000",
+        "00:08:18.900000",
+        "This braggart! You'd think he is the champion. Jerk!"
+      ],
+      [
+        762,
+        "01:01:33.820000",
+        "01:01:36.420000",
+        "It says, \"To make our champion full of power\"."
+      ],
+      [
+        862,
+        "01:10:24.020000",
+        "01:10:25.700000",
+        "being a champion means"
+      ],
+      [
+        1150,
+        "01:40:21.860000",
+        "01:40:24.860000",
+        "did that country's champion horses get pulled out of the race"
+      ],
+      [
+        1225,
+        "01:46:08.740000",
+        "01:46:10.060000",
+        "being a champion means..."
+      ],
+      [
+        1246,
+        "01:49:16.220000",
+        "01:49:18.260000",
+        "It was not clear whether our champion horse, Bold Pilot,"
+      ]
+    ],
+    "regex": "\\b((?!\\bChampion:)Champion)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.2
+  }
+]

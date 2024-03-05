@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0489569",
+    "title": "Touch",
+    "year": 2005,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 797,
+    "occurrences": [
+      [
+        499,
+        "01:08:50.693000",
+        "01:08:53.367000",
+        "but my bat couldn't touch his ball."
+      ],
+      [
+        669,
+        "01:34:20.421000",
+        "01:34:26.861000",
+        "How many detours must we take to touch each other?"
+      ],
+      [
+        670,
+        "01:34:27.061000",
+        "01:34:30.873000",
+        "Please touch me. Touch me here."
+      ]
+    ],
+    "regex": "\\b((?!\\bTouch:)Touch)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

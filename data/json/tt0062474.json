@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0062474",
+    "title": "Warrendale",
+    "year": 1967,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1654,
+    "occurrences": [
+      [
+        439,
+        "00:28:13.142000",
+        "00:28:16.908000",
+        "Could you tell us all the things you don't like about Warrendale?"
+      ],
+      [
+        444,
+        "00:28:33.830000",
+        "00:28:37.288000",
+        "Hmm? Do people like you here in Warrendale, Tony?"
+      ],
+      [
+        823,
+        "00:48:52.614000",
+        "00:48:55.105000",
+        "I know I need Warrendale's help..."
+      ],
+      [
+        1054,
+        "01:04:18.038000",
+        "01:04:20.233000",
+        "You know, before they came to Warrendale--"
+      ]
+    ],
+    "regex": "\\b((?!\\bWarrendale:)Warrendale)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

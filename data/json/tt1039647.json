@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt1039647",
+    "title": "The Union: The Business Behind Getting High",
+    "year": 2007,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 6,
+    "all_lines": 2346,
+    "occurrences": [
+      [
+        1148,
+        "00:49:15.100000",
+        "00:49:16.400000",
+        "consider it a union."
+      ],
+      [
+        1149,
+        "00:49:16.700000",
+        "00:49:18.700000",
+        "Union ? Yeah, a union, and you know,"
+      ],
+      [
+        1156,
+        "00:49:34.600000",
+        "00:49:37.400000",
+        "So this is how the so-called union breaks down,"
+      ],
+      [
+        1218,
+        "00:52:07",
+        "00:52:09.700000",
+        "The union embodies a slew of businesses and services,"
+      ],
+      [
+        1239,
+        "00:52:58.400000",
+        "00:53:00.100000",
+        "who are directly involved in the union"
+      ]
+    ],
+    "regex": "\\b((?!\\bUnion:)Union|(?!\\bBusiness\\ Behind\\ Getting\\ High:)Business\\ Behind\\ Getting\\ High)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.2
+  }
+]

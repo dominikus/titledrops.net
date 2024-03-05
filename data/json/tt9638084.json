@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt9638084",
+    "title": "National Theatre Live: Small Island",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1906,
+    "occurrences": [
+      [
+        900,
+        "01:14:49",
+        "01:14:51.480000",
+        "Why? This a small island, you know."
+      ],
+      [
+        1111,
+        "01:32:01.880000",
+        "01:32:03.720000",
+        "I'm done with this small island."
+      ]
+    ],
+    "regex": "\\b((?!\\bNational\\ Theatre\\ Live:)National\\ Theatre\\ Live|(?!\\bSmall\\ Island:)Small\\ Island)(?!\\:)(?!'t)\\b",
+    "runtime": 210,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.6
+  }
+]

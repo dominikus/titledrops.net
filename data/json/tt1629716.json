@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1629716",
+    "title": "Nydenion",
+    "year": 2010,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1184,
+    "occurrences": [
+      [
+        294,
+        "00:24:46.680000",
+        "00:24:49.331000",
+        "Open the gate for a hyper-jump to the Nydenion system."
+      ],
+      [
+        384,
+        "00:29:42.040000",
+        "00:29:43.280000",
+        "Nydenion,"
+      ],
+      [
+        671,
+        "00:51:05.200000",
+        "00:51:07.885000",
+        "Sir, the search party on Nydenion isn't responding."
+      ]
+    ],
+    "regex": "\\b((?!\\bNydenion:)Nydenion)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

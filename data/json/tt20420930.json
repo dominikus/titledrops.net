@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt20420930",
+    "title": "Us or Them",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1328,
+    "occurrences": [
+      [
+        333,
+        "00:26:11.972000",
+        "00:26:15.076000",
+        "we're calling \"Us or Them.\""
+      ],
+      [
+        1299,
+        "01:18:28.142000",
+        "01:18:32.713000",
+        "Blue or red. Us or them?"
+      ]
+    ],
+    "regex": "\\b((?!\\bUs\\ or\\ Them:)Us\\ or\\ Them)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

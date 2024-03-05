@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1639093",
+    "title": "Russendisko",
+    "year": 2012,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 823,
+    "occurrences": [
+      [
+        781,
+        "01:23:27.694000",
+        "01:23:30.695000",
+        "We are organizing the \"Russendisko\" now"
+      ],
+      [
+        793,
+        "01:27:05.975000",
+        "01:27:10.896000",
+        "From that time on, Olga and I hosted the \"Russendisko\" under the motto:"
+      ],
+      [
+        796,
+        "01:27:17.055000",
+        "01:27:22.139000",
+        "The \"Russendisko\" has become a piece of home to the homeless."
+      ]
+    ],
+    "regex": "\\b((?!\\bRussendisko:)Russendisko)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

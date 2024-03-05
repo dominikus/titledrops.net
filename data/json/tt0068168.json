@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0068168",
+    "title": "Across 110th Street",
+    "year": 1972,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 896,
+    "occurrences": [
+      [
+        8,
+        "00:01:31.880000",
+        "00:01:34.758000",
+        "Across 110th Street is a hell of a tester"
+      ],
+      [
+        9,
+        "00:01:35.560000",
+        "00:01:38.358000",
+        "Across 110th Street"
+      ],
+      [
+        11,
+        "00:01:42.560000",
+        "00:01:44.869000",
+        "Across 110th Street"
+      ],
+      [
+        13,
+        "00:01:49.600000",
+        "00:01:52.273000",
+        "Across 110th Street"
+      ],
+      [
+        15,
+        "00:01:56.520000",
+        "00:01:59.557000",
+        "Across 110th Street"
+      ],
+      [
+        726,
+        "01:09:00.960000",
+        "01:09:02.951000",
+        "I'm going across 110th Street."
+      ]
+    ],
+    "regex": "\\b((?!\\bAcross\\ 110th\\ Street:)Across\\ 110th\\ Street)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

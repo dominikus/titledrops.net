@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt11052346",
+    "title": "It Takes a Lunatic",
+    "year": 2019,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2202,
+    "occurrences": [
+      [
+        878,
+        "00:47:48.657000",
+        "00:47:50.367000",
+        "but it takes a lunatic."
+      ],
+      [
+        964,
+        "00:52:41.783000",
+        "00:52:44.244000",
+        "The lawyer said, \"It takes a lunatic.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bIt\\ Takes\\ a\\ Lunatic:)It\\ Takes\\ a\\ Lunatic)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

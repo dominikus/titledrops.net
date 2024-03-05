@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6083230",
+    "title": "Little Forest",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 879,
+    "occurrences": [
+      [
+        842,
+        "01:30:40.230000",
+        "01:30:42.230000",
+        "have been her little forest."
+      ],
+      [
+        843,
+        "01:30:44.940000",
+        "01:30:49.480000",
+        "\"I should find my own little forest too.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Forest:)Little\\ Forest)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

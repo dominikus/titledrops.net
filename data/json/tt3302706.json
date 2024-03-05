@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt3302706",
+    "title": "Boychoir",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 6,
+    "all_lines": 1237,
+    "occurrences": [
+      [
+        87,
+        "00:07:09.083000",
+        "00:07:13.499000",
+        "Please welcome The National Boychoir!"
+      ],
+      [
+        214,
+        "00:18:04.750000",
+        "00:18:08.874000",
+        "this is the premier boychoir school in the nation."
+      ],
+      [
+        561,
+        "00:42:12.583000",
+        "00:42:15.290000",
+        "to join the boychoir without first passing grade five theory."
+      ],
+      [
+        741,
+        "01:01:35.416000",
+        "01:01:37.999000",
+        "Honey, what do you know about the National Boychoir?"
+      ],
+      [
+        811,
+        "01:05:08.833000",
+        "01:05:11.915000",
+        "Ladies and gentlemen, the National Boychoir!"
+      ],
+      [
+        1033,
+        "01:22:13.583000",
+        "01:22:15.082000",
+        "from leading the boychoir"
+      ]
+    ],
+    "regex": "\\b((?!\\bBoychoir:)Boychoir)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

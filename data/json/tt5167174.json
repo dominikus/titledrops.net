@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt5167174",
+    "title": "Rainbow Time",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 2054,
+    "occurrences": [
+      [
+        0,
+        "00:00:50.451000",
+        "00:00:52.885000",
+        "Rainbow time."
+      ],
+      [
+        37,
+        "00:02:58.879000",
+        "00:03:00.245000",
+        "Rainbow time."
+      ],
+      [
+        1119,
+        "00:49:21.559000",
+        "00:49:23.826000",
+        "Hello, and welcome to rainbow time."
+      ],
+      [
+        1162,
+        "00:50:40.038000",
+        "00:50:42.271000",
+        "Thank you for watching rainbow time."
+      ]
+    ],
+    "regex": "\\b((?!\\bRainbow\\ Time:)Rainbow\\ Time)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

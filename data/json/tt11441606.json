@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt11441606",
+    "title": "I Hate New Year's",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1390,
+    "occurrences": [
+      [
+        395,
+        "00:22:40.657000",
+        "00:22:44.294000",
+        "And besides you know how much I hate New Year's."
+      ],
+      [
+        925,
+        "00:47:41.224000",
+        "00:47:42.858000",
+        "That's why I hate New Year's."
+      ],
+      [
+        1109,
+        "01:02:07.155000",
+        "01:02:10.960000",
+        "Yeah, I hate New Year's."
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Hate\\ New\\ Year's:)I\\ Hate\\ New\\ Year's)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

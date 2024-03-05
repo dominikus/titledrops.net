@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0250067",
+    "title": "The Trip",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1196,
+    "occurrences": [
+      [
+        482,
+        "00:35:23.961000",
+        "00:35:26.171000",
+        "Gonna take a trip to visit them."
+      ],
+      [
+        513,
+        "00:37:40.147000",
+        "00:37:43.234000",
+        "How about if we make the trip we talk to mexico?"
+      ],
+      [
+        517,
+        "00:37:52.452000",
+        "00:37:54.204000",
+        "We did not seize the trip alone."
+      ],
+      [
+        778,
+        "00:58:09.370000",
+        "00:58:10.956000",
+        "Father, you should do a trip to China..."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrip:)Trip)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

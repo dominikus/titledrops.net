@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt9421570",
+    "title": "The Guilty",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1463,
+    "occurrences": [
+      [
+        1457,
+        "01:23:16.157000",
+        "01:23:19.619000",
+        "Breaking news. LAPD Detective Joe Baylor has pled guilty..."
+      ],
+      [
+        1458,
+        "01:23:19.703000",
+        "01:23:21.538000",
+        "...pled guilty to manslaughter..."
+      ],
+      [
+        1459,
+        "01:23:21.621000",
+        "01:23:23.832000",
+        "Baylor pled guilty in court this morning"
+      ]
+    ],
+    "regex": "\\b((?!\\bGuilty:)Guilty)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

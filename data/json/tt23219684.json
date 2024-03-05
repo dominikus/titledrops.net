@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt23219684",
+    "title": "Mighty Morphin Power Rangers: Once & Always",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1011,
+    "occurrences": [
+      [
+        31,
+        "00:02:24.978000",
+        "00:02:28.606000",
+        "You Mighty Morphin Power Rangers"
+      ],
+      [
+        1008,
+        "00:55:06.845000",
+        "00:55:11.349000",
+        "You Mighty Morphin Power Rangers"
+      ]
+    ],
+    "regex": "\\b((?!\\bMighty\\ Morphin\\ Power\\ Rangers:)Mighty\\ Morphin\\ Power\\ Rangers|(?!\\bOnce\\ \\&\\ Always:)Once\\ \\&\\ Always)(?!\\:)(?!'t)\\b",
+    "runtime": 56,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt13118012",
+    "title": "You've Got This",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 2178,
+    "occurrences": [
+      [
+        554,
+        "00:26:14.375000",
+        "00:26:17.041000",
+        "Only three days. You've got this."
+      ],
+      [
+        1913,
+        "01:33:00.125000",
+        "01:33:01.833000",
+        "-You've got this. - Of course."
+      ]
+    ],
+    "regex": "\\b((?!\\bYou've\\ Got\\ This:)You've\\ Got\\ This)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0115067",
+    "title": "Little Sister",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 609,
+    "occurrences": [
+      [
+        73,
+        "00:08:16.320000",
+        "00:08:22.236000",
+        "What do you mean? - You know what l mean. Little sister."
+      ],
+      [
+        285,
+        "00:37:05.160000",
+        "00:37:10.518000",
+        "Ramon, l would like to speak to my little sister in private. May l?"
+      ],
+      [
+        435,
+        "00:59:09.320000",
+        "00:59:12.073000",
+        "You can't be my little sister."
+      ],
+      [
+        457,
+        "01:01:44.840000",
+        "01:01:51.439000",
+        "But you are the boss, little sister. Aren't you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Sister:)Little\\ Sister)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

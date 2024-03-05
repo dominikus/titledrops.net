@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt9075612",
+    "title": "The Best Years of a Life",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1243,
+    "occurrences": [
+      [
+        0,
+        "00:00:37.069000",
+        "00:00:42.028000",
+        "\"The best years of a life are those yet to be lived\""
+      ],
+      [
+        46,
+        "00:03:21.927000",
+        "00:03:26.344000",
+        "The best years of a life"
+      ],
+      [
+        51,
+        "00:03:50.802000",
+        "00:03:54.927000",
+        "The best years of a life"
+      ],
+      [
+        71,
+        "00:05:13.802000",
+        "00:05:17.427000",
+        "The best years of a life"
+      ],
+      [
+        76,
+        "00:05:37.677000",
+        "00:05:42.302000",
+        "The best years of a life"
+      ]
+    ],
+    "regex": "\\b((?!\\bBest\\ Years\\ of\\ a\\ Life:)Best\\ Years\\ of\\ a\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

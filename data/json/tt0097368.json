@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0097368",
+    "title": "The Fly II",
+    "year": 1989,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 788,
+    "occurrences": [
+      [
+        219,
+        "00:26:27.773000",
+        "00:26:29.092000",
+        "A fly."
+      ],
+      [
+        220,
+        "00:26:30.373000",
+        "00:26:32.489000",
+        "An artificial fly for fishing."
+      ],
+      [
+        438,
+        "00:52:37.853000",
+        "00:52:39.411000",
+        "SETH: A fly..."
+      ],
+      [
+        445,
+        "00:52:55.253000",
+        "00:52:57.209000",
+        "It mated us, me and the fly."
+      ],
+      [
+        562,
+        "01:03:06.499000",
+        "01:03:09.218000",
+        "Dissolved my hand and my foot with fly vomit."
+      ]
+    ],
+    "regex": "\\b((?!\\bFly:)Fly)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

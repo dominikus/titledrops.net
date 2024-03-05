@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3650484",
+    "title": "Brothers",
+    "year": 2015,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 860,
+    "occurrences": [
+      [
+        46,
+        "00:06:41.680000",
+        "00:06:43.762000",
+        "And brothers."
+      ],
+      [
+        535,
+        "01:02:10.400000",
+        "01:02:15.327000",
+        "- to be interviewed as brothers of the new generation."
+      ],
+      [
+        672,
+        "01:19:23",
+        "01:19:28.928000",
+        "Four decades earlier, my grandmother lost her two brothers at sea."
+      ]
+    ],
+    "regex": "\\b((?!\\bBrothers:)Brothers)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

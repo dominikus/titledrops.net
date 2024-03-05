@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5282006",
+    "title": "The Duelist",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 754,
+    "occurrences": [
+      [
+        141,
+        "00:15:05.410000",
+        "00:15:07.110000",
+        "- To Kill a callous duelist, big deal."
+      ],
+      [
+        423,
+        "00:54:05.758000",
+        "00:54:08.258000",
+        "- Mr. Yakovlev is duelist."
+      ],
+      [
+        691,
+        "01:28:01.714000",
+        "01:28:03.514000",
+        "Mr. Yakovlev is duelist."
+      ]
+    ],
+    "regex": "\\b((?!\\bDuelist:)Duelist)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

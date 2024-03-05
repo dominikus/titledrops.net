@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt11535228",
+    "title": "Emergency Declaration",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1553,
+    "occurrences": [
+      [
+        1124,
+        "01:33:53.319000",
+        "01:33:55.698000",
+        "I'm issuing an emergency declaration."
+      ],
+      [
+        1125,
+        "01:33:59.164000",
+        "01:34:01.919000",
+        "KI501 issued an emergency declaration."
+      ]
+    ],
+    "regex": "\\b((?!\\bEmergency\\ Declaration:)Emergency\\ Declaration)(?!\\:)(?!'t)\\b",
+    "runtime": 141,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

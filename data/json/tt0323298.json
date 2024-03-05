@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt0323298",
+    "title": "The Mother",
+    "year": 2003,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 7,
+    "all_lines": 655,
+    "occurrences": [
+      [
+        158,
+        "00:11:05.998000",
+        "00:11:08.091000",
+        "Mother wore summer dresses..."
+      ],
+      [
+        193,
+        "00:13:08.621000",
+        "00:13:09.849000",
+        "Mother!"
+      ],
+      [
+        195,
+        "00:13:15.828000",
+        "00:13:18.023000",
+        "All right. Mother!"
+      ],
+      [
+        228,
+        "00:17:36.755000",
+        "00:17:40.816000",
+        "Please. Don't be difficult, Mother."
+      ],
+      [
+        294,
+        "00:24:25.864000",
+        "00:24:27.354000",
+        "Shush, Mother."
+      ],
+      [
+        427,
+        "00:35:43.107000",
+        "00:35:47.510000",
+        "It was just a shopping list my mother had written for him in her own handwriting."
+      ],
+      [
+        594,
+        "00:50:04.267000",
+        "00:50:07.600000",
+        "\"Mother, father, brother..."
+      ]
+    ],
+    "regex": "\\b((?!\\bMother:)Mother)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

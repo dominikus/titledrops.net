@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt4447076",
+    "title": "Rosalie Blum",
+    "year": 2015,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1208,
+    "occurrences": [
+      [
+        111,
+        "00:08:53.334000",
+        "00:08:54.959000",
+        "Rosalie Blum?"
+      ],
+      [
+        788,
+        "00:59:42.209000",
+        "00:59:43.334000",
+        "Rosalie Blum."
+      ],
+      [
+        809,
+        "01:01:46.751000",
+        "01:01:48.626000",
+        "I have an appointment at 3 pm, Rosalie Blum."
+      ],
+      [
+        1143,
+        "01:24:45.626000",
+        "01:24:48.126000",
+        "Or maybe the Rosalie Blum case."
+      ]
+    ],
+    "regex": "\\b((?!\\bRosalie\\ Blum:)Rosalie\\ Blum)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [
+      "Rosalie Blum"
+    ],
+    "title_is_name": true,
+    "rating": 6.8
+  }
+]

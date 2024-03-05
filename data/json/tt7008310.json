@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt7008310",
+    "title": "Nemesis 5: The New Model",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 791,
+    "occurrences": [
+      [
+        554,
+        "00:47:16.790000",
+        "00:47:18.400000",
+        "She used to call me the new model."
+      ],
+      [
+        555,
+        "00:47:19.924000",
+        "00:47:22.883000",
+        "She wanted the new model to fully human,"
+      ]
+    ],
+    "regex": "\\b((?!\\bNemesis:)Nemesis|(?!\\bNew\\ Model:)New\\ Model)(?!\\:)(?!'t)\\b",
+    "runtime": 71,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.2
+  }
+]

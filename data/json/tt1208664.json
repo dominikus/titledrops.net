@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1208664",
+    "title": "The Angel",
+    "year": 2009,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 375,
+    "occurrences": [
+      [
+        105,
+        "00:27:49.583000",
+        "00:27:53.415000",
+        "Dear angel. Violet is coming to you now."
+      ],
+      [
+        340,
+        "01:28:31.166000",
+        "01:28:36.790000",
+        "I came to a good place where they called heroin \"the angel\"."
+      ],
+      [
+        341,
+        "01:28:38.250000",
+        "01:28:41.957000",
+        "The angel that comes and lifts you away."
+      ]
+    ],
+    "regex": "\\b((?!\\bAngel:)Angel)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

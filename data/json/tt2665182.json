@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2665182",
+    "title": "Diego Star",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 519,
+    "occurrences": [
+      [
+        150,
+        "00:21:31",
+        "00:21:35.280000",
+        "Serious enough that we won't let the Diego Star leave right now."
+      ],
+      [
+        502,
+        "01:19:35.040000",
+        "01:19:37.800000",
+        "I have to get on my boat, the Diego Star."
+      ]
+    ],
+    "regex": "\\b((?!\\bDiego\\ Star:)Diego\\ Star)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

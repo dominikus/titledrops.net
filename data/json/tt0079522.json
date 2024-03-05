@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0079522",
+    "title": "Manhattan",
+    "year": 1979,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1281,
+    "occurrences": [
+      [
+        8,
+        "00:01:01.600000",
+        "00:01:05.354000",
+        "\"He was too romantic about Manhattan, as he was about everything else. \""
+      ],
+      [
+        944,
+        "01:03:32.800000",
+        "01:03:37.635000",
+        "It's so crazy. They should ban all cars from Manhattan. I mean, this is crazy."
+      ],
+      [
+        1196,
+        "01:20:35.160000",
+        "01:20:39.915000",
+        "An idea for a short story about, um, people in Manhattan"
+      ]
+    ],
+    "regex": "\\b((?!\\bManhattan:)Manhattan)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt6318728",
+    "title": "Angel",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 641,
+    "occurrences": [
+      [
+        316,
+        "00:38:24.680000",
+        "00:38:27.240000",
+        "- People call him \"The Angel\". - People are crazy."
+      ],
+      [
+        451,
+        "01:00:12.200000",
+        "01:00:14.920000",
+        "- Are you all right? - Of course, my angel."
+      ],
+      [
+        548,
+        "01:11:44.600000",
+        "01:11:47.200000",
+        "What do you mean, my angel?"
+      ],
+      [
+        550,
+        "01:11:56.240000",
+        "01:11:58.360000",
+        "Calm down, my angel."
+      ]
+    ],
+    "regex": "\\b((?!\\bAngel:)Angel)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt1105753",
+    "title": "Grapes",
+    "year": 2008,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 710,
+    "occurrences": [
+      [
+        263,
+        "00:30:57.326000",
+        "00:31:01.638000",
+        "I hope he actually uses grapes, our crazy chemist!"
+      ],
+      [
+        490,
+        "00:56:45.926000",
+        "00:56:50.556000",
+        "- What's up? - They were picking our grapes."
+      ],
+      [
+        520,
+        "01:00:16.686000",
+        "01:00:21.077000",
+        "I know. He steals grapes from all and sundry."
+      ],
+      [
+        614,
+        "01:12:32.406000",
+        "01:12:34.397000",
+        "Selection of grapes?"
+      ],
+      [
+        653,
+        "01:18:04.326000",
+        "01:18:06.760000",
+        "Like thieves getting hold of your grapes."
+      ]
+    ],
+    "regex": "\\b((?!\\bGrapes:)Grapes)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

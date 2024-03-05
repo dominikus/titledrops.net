@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0230831",
+    "title": "Sunset Strip",
+    "year": 1985,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1097,
+    "occurrences": [
+      [
+        55,
+        "00:04:17.284000",
+        "00:04:22.111000",
+        "'Cause I'm here coming on the Sunset Strip"
+      ],
+      [
+        58,
+        "00:04:28.560000",
+        "00:04:31.222000",
+        "On the Sunset Strip"
+      ],
+      [
+        75,
+        "00:05:21.484000",
+        "00:05:26.148000",
+        "'Cause I'm here coming on the Sunset Strip"
+      ],
+      [
+        78,
+        "00:05:32.377000",
+        "00:05:35.383000",
+        "On the Sunset Strip"
+      ]
+    ],
+    "regex": "\\b((?!\\bSunset\\ Strip:)Sunset\\ Strip)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

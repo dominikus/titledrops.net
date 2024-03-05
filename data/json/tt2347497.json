@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt2347497",
+    "title": "Silent Night",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 1174,
+    "occurrences": [
+      [
+        1127,
+        "01:30:25.686000",
+        "01:30:29.600000",
+        "Silent night"
+      ],
+      [
+        1132,
+        "01:30:58.186000",
+        "01:31:00.826000",
+        "Silent night"
+      ],
+      [
+        1143,
+        "01:31:24.579000",
+        "01:31:26.889000",
+        "Silent night"
+      ],
+      [
+        1151,
+        "01:32:06.220000",
+        "01:32:08.222000",
+        "Silent night"
+      ],
+      [
+        1161,
+        "01:32:47.595000",
+        "01:32:49.597000",
+        "Silent night"
+      ]
+    ],
+    "regex": "\\b((?!\\bSilent\\ Night:)Silent\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

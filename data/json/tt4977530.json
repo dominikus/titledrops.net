@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt4977530",
+    "title": "Viceroy's House",
+    "year": 2017,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 5,
+    "all_lines": 1440,
+    "occurrences": [
+      [
+        18,
+        "00:04:02.626000",
+        "00:04:05.626000",
+        "It is a great honour to be in Viceroy's House."
+      ],
+      [
+        141,
+        "00:10:58.668000",
+        "00:11:02.835000",
+        "It is always a pleasure to be in the Viceroy's house and not in his jails."
+      ],
+      [
+        527,
+        "00:34:29.793000",
+        "00:34:33.918000",
+        "I'm going to climb to the top of the dome of Viceroy's House"
+      ],
+      [
+        865,
+        "00:55:11.418000",
+        "00:55:14.293000",
+        "The Viceroy's house is not for the likes of this."
+      ],
+      [
+        1071,
+        "01:07:35.751000",
+        "01:07:38.710000",
+        "MOUNTBATTEN: No violence will be tolerated in Viceroy's House."
+      ]
+    ],
+    "regex": "\\b((?!\\bViceroy's\\ House:)Viceroy's\\ House)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

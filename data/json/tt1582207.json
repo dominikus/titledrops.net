@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1582207",
+    "title": "The Jewel",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 874,
+    "occurrences": [
+      [
+        451,
+        "00:55:32",
+        "00:55:33.638000",
+        "Leda is a jewel."
+      ],
+      [
+        458,
+        "00:55:56.960000",
+        "00:56:00.873000",
+        "but it too, could potentially become a jewel."
+      ]
+    ],
+    "regex": "\\b((?!\\bJewel:)Jewel)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0101523",
+    "title": "The Butcher's Wife",
+    "year": 1991,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1300,
+    "occurrences": [
+      [
+        174,
+        "00:15:27.059000",
+        "00:15:29.493000",
+        "The butcher's wife."
+      ],
+      [
+        479,
+        "00:37:20.304000",
+        "00:37:22.465000",
+        "- Believe who? - The butcher's wife."
+      ],
+      [
+        1179,
+        "01:29:01.803000",
+        "01:29:04.397000",
+        "The butcher's wife!"
+      ]
+    ],
+    "regex": "\\b((?!\\bButcher's\\ Wife:)Butcher's\\ Wife)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

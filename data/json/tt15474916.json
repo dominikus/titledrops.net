@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt15474916",
+    "title": "Smile",
+    "year": 2022,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1355,
+    "occurrences": [
+      [
+        138,
+        "00:09:33",
+        "00:09:34.402000",
+        "But not a friendly smile."
+      ],
+      [
+        139,
+        "00:09:34.535000",
+        "00:09:36.303000",
+        "It's the worst smile I've ever seen in my life."
+      ],
+      [
+        465,
+        "00:37:15.196000",
+        "00:37:17.865000",
+        "It's smiling at me, but not a friendly smile."
+      ],
+      [
+        466,
+        "00:37:17.999000",
+        "00:37:20.068000",
+        "It's the worst smile I've ever seen in my life."
+      ]
+    ],
+    "regex": "\\b((?!\\bSmile:)Smile)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

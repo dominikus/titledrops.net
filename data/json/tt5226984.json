@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5226984",
+    "title": "Tom of Finland",
+    "year": 2017,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 745,
+    "occurrences": [
+      [
+        432,
+        "01:07:48.860000",
+        "01:07:51.090000",
+        "Yes, Tom of Finland."
+      ],
+      [
+        742,
+        "01:44:27.260000",
+        "01:44:31.254000",
+        "!Tom of Finland!"
+      ]
+    ],
+    "regex": "\\b((?!\\bTom\\ of\\ Finland:)Tom\\ of\\ Finland)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

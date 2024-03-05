@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt6510634",
+    "title": "Animals",
+    "year": 2017,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 657,
+    "occurrences": [
+      [
+        119,
+        "00:17:22.558000",
+        "00:17:23.671000",
+        "Animals."
+      ],
+      [
+        163,
+        "00:25:28.592000",
+        "00:25:30.287000",
+        "Animals don't commit suicide."
+      ],
+      [
+        621,
+        "01:18:17.062000",
+        "01:18:18.147000",
+        "Animals."
+      ]
+    ],
+    "regex": "\\b((?!\\bAnimals:)Animals)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

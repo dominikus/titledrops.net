@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0316654",
+    "title": "Spider-Man 2",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 8,
+    "all_lines": 591,
+    "occurrences": [
+      [
+        293,
+        "00:26:18.100000",
+        "00:26:21.100000",
+        "Spiderman, Spiderman"
+      ],
+      [
+        334,
+        "00:31:38",
+        "00:31:40",
+        "I am Spiderman..."
+      ],
+      [
+        425,
+        "00:43:06.500000",
+        "00:43:08.500000",
+        "I heard that Spiderman was with him."
+      ],
+      [
+        556,
+        "00:55:58.100000",
+        "00:56:01.100000",
+        "You say that Spiderman is your loyalist better friend."
+      ],
+      [
+        574,
+        "00:59:28.900000",
+        "00:59:31.900000",
+        "I am spiderman and I lose my powers.."
+      ],
+      [
+        576,
+        "00:59:37.900000",
+        "00:59:40.900000",
+        "Then you are Spiderman?"
+      ],
+      [
+        585,
+        "01:00:16",
+        "01:00:19",
+        "Perhaps don't have to be Spiderman ascending for the walls."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpiderMan:)SpiderMan)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

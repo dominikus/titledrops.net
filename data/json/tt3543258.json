@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt3543258",
+    "title": "A Sunday Horse",
+    "year": 2016,
+    "genres": [
+      "Biography",
+      "Family",
+      "Sport"
+    ],
+    "count": 5,
+    "all_lines": 810,
+    "occurrences": [
+      [
+        230,
+        "00:24:34.837000",
+        "00:24:38.799000",
+        "- That we could not afford to buy a Sunday horse for $ 100,000."
+      ],
+      [
+        466,
+        "00:52:50.956000",
+        "00:52:55.585000",
+        "- She may never be a Sunday horse. - You know what, Bonnie?"
+      ],
+      [
+        467,
+        "00:52:55.668000",
+        "00:52:59.672000",
+        "All believe that a Sunday horse wins championships on Sunday."
+      ],
+      [
+        469,
+        "00:53:06.596000",
+        "00:53:10.599000",
+        "I think a Sunday horse proves that miracles can happen."
+      ],
+      [
+        470,
+        "00:53:10.683000",
+        "00:53:15.020000",
+        "A true Sunday horse wins despite all setbacks."
+      ]
+    ],
+    "regex": "\\b((?!\\bSunday\\ Horse:)Sunday\\ Horse)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

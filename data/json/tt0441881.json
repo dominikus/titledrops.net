@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0441881",
+    "title": "Danger Close",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1448,
+    "occurrences": [
+      [
+        1206,
+        "01:26:58.620000",
+        "01:27:00.187000",
+        "Danger close! Over."
+      ],
+      [
+        1210,
+        "01:27:14.235000",
+        "01:27:17.372000",
+        "Drop 50. Danger close. Danger close."
+      ]
+    ],
+    "regex": "\\b((?!\\bDanger\\ Close:)Danger\\ Close)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

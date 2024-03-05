@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7397958",
+    "title": "Those Who Work",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 617,
+    "occurrences": [
+      [
+        43,
+        "00:05:52.763000",
+        "00:05:56.284000",
+        "Which side do you want to be on? Those who work or the others?"
+      ],
+      [
+        44,
+        "00:05:58.724000",
+        "00:06:01.644000",
+        "- Those who work. - Then we agree."
+      ]
+    ],
+    "regex": "\\b((?!\\bThose\\ Who\\ Work:)Those\\ Who\\ Work)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

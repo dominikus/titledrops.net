@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0323998",
+    "title": "Slim Susie",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 746,
+    "occurrences": [
+      [
+        9,
+        "00:02:51.680000",
+        "00:02:56.356000",
+        "Win the red hair, except 1': black now. Slim Susie's gone."
+      ],
+      [
+        11,
+        "00:03:01.680000",
+        "00:03:08.154000",
+        "Slim Susie is my little sister back home. She's very proper."
+      ],
+      [
+        184,
+        "00:20:11.520000",
+        "00:20:16.549000",
+        "Nope, never dated Slim Susie. Not that I noticed."
+      ],
+      [
+        464,
+        "00:56:34.680000",
+        "00:56:41.199000",
+        "Its about Slim Susie. I should just start at the beginning."
+      ]
+    ],
+    "regex": "\\b((?!\\bSlim\\ Susie:)Slim\\ Susie)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

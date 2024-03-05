@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0092577",
+    "title": "Arabella: Black Angel",
+    "year": 1989,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 828,
+    "occurrences": [
+      [
+        409,
+        "00:44:52.286000",
+        "00:44:55.039000",
+        "but I do know that black angel is going to sell millions."
+      ],
+      [
+        554,
+        "00:56:07.461000",
+        "00:56:09.171000",
+        "You're the black angel."
+      ],
+      [
+        557,
+        "00:56:13.300000",
+        "00:56:16.553000",
+        "I'm not the black angel!"
+      ],
+      [
+        574,
+        "00:57:20.868000",
+        "00:57:23.454000",
+        "Show me, show me that you're not the black angel."
+      ],
+      [
+        810,
+        "01:24:53.060000",
+        "01:24:54.700000",
+        "the stands posthumously, the black angel,"
+      ]
+    ],
+    "regex": "\\b((?!\\bArabella:)Arabella|(?!\\bBlack\\ Angel:)Black\\ Angel)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

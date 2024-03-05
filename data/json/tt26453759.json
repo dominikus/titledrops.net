@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt26453759",
+    "title": "Don't Look Away",
+    "year": 2023,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 700,
+    "occurrences": [
+      [
+        513,
+        "00:58:47.395000",
+        "00:58:49.263000",
+        "Whatever you do, don't look away."
+      ],
+      [
+        635,
+        "01:09:04.612000",
+        "01:09:06.714000",
+        "Whatever you don't, don't look away,"
+      ]
+    ],
+    "regex": "\\b((?!\\bDon't\\ Look\\ Away:)Don't\\ Look\\ Away)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

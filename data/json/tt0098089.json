@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0098089",
+    "title": "Phantom of the Mall: Eric's Revenge",
+    "year": 1989,
+    "genres": [
+      "Horror",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 950,
+    "occurrences": [
+      [
+        901,
+        "01:27:25.783000",
+        "01:27:28.410000",
+        "Is he the Phantom of the Mall?"
+      ],
+      [
+        913,
+        "01:28:12.121000",
+        "01:28:14.623000",
+        "Is he the Phantom of the Mall?"
+      ],
+      [
+        925,
+        "01:28:54.371000",
+        "01:28:56.707000",
+        "Is he the Phantom of the Mall?"
+      ],
+      [
+        937,
+        "01:29:26.320000",
+        "01:29:28.864000",
+        "Is he the Phantom of the Mall?"
+      ],
+      [
+        949,
+        "01:30:12.950000",
+        "01:30:15.285000",
+        "Is he the Phantom of the Mall?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPhantom\\ of\\ the\\ Mall:)Phantom\\ of\\ the\\ Mall|(?!\\bEric's\\ Revenge:)Eric's\\ Revenge)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

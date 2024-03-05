@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0113449",
+    "title": "Jack-O",
+    "year": 1995,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1152,
+    "occurrences": [
+      [
+        22,
+        "00:02:06.400000",
+        "00:02:10.933000",
+        "Jack-O, Mr. Jack, the Pumpkin Man."
+      ],
+      [
+        23,
+        "00:02:11.770000",
+        "00:02:15.723000",
+        "That Halloween, Jack-O came back."
+      ]
+    ],
+    "regex": "\\b((?!\\bJack\\-O:)Jack\\-O)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

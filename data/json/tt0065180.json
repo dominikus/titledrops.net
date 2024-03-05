@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0065180",
+    "title": "The Last Relic",
+    "year": 1969,
+    "genres": [
+      "Adventure",
+      "History",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 270,
+    "occurrences": [
+      [
+        10,
+        "00:01:44.080000",
+        "00:01:50.474000",
+        "We are holding the last relic We are keeping the last relic"
+      ],
+      [
+        11,
+        "00:01:51.360000",
+        "00:01:57.230000",
+        "Night is coming, day is setting But we ha ve the last relic"
+      ],
+      [
+        16,
+        "00:02:16.680000",
+        "00:02:23.028000",
+        "Who knows where is the last relic Who is keeping the last relic"
+      ],
+      [
+        17,
+        "00:02:23.960000",
+        "00:02:29.671000",
+        "Night is coming, day is setting But we ha ve the last relic"
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Relic:)Last\\ Relic)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

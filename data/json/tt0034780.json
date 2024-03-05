@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0034780",
+    "title": "George Washington Slept Here",
+    "year": 1942,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1908,
+    "occurrences": [
+      [
+        312,
+        "00:14:45.797000",
+        "00:14:48.278000",
+        "Just think, Bill, George Washington slept here.."
+      ],
+      [
+        397,
+        "00:18:45.494000",
+        "00:18:48.277000",
+        "When George Washington slept here where'd he hang his clothes?"
+      ],
+      [
+        489,
+        "00:22:44.885000",
+        "00:22:47.670000",
+        "That dame told me George Washington slept here."
+      ]
+    ],
+    "regex": "\\b((?!\\bGeorge\\ Washington\\ Slept\\ Here:)George\\ Washington\\ Slept\\ Here)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

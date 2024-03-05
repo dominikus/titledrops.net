@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0055018",
+    "title": "The Innocents",
+    "year": 1961,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1345,
+    "occurrences": [
+      [
+        799,
+        "00:57:00.750000",
+        "00:57:02.668000",
+        "The innocents."
+      ],
+      [
+        800,
+        "00:57:02.836000",
+        "00:57:06.380000",
+        "Innocents, they are, miss. It's not fair. You have no right to accuse them..."
+      ]
+    ],
+    "regex": "\\b((?!\\bInnocents:)Innocents)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

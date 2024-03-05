@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2041487",
+    "title": "Sweet Talk",
+    "year": 2013,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1993,
+    "occurrences": [
+      [
+        769,
+        "00:31:39.198000",
+        "00:31:40.597000",
+        "LET'S REVERSE THE ROLES! You pretend like you're one of the guys calling Sweet Talk!"
+      ],
+      [
+        770,
+        "00:31:40.599000",
+        "00:31:41.498000",
+        "You pretend like you're one of the guys calling Sweet Talk! >> NO. COME ON."
+      ],
+      [
+        771,
+        "00:31:41.500000",
+        "00:31:43.033000",
+        "the guys calling Sweet Talk! >> NO. COME ON. >> Seriously! Just try it!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSweet\\ Talk:)Sweet\\ Talk)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

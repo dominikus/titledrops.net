@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0450345",
+    "title": "The Wicker Man",
+    "year": 2006,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 843,
+    "occurrences": [
+      [
+        257,
+        "00:25:11.600000",
+        "00:25:16.080000",
+        "-Yes. Of the Wicker Man's return. -Yes. Of the Wicker Man's return."
+      ],
+      [
+        763,
+        "01:27:44.040000",
+        "01:27:46.520000",
+        "...to keep this appointment with the Wicker Man."
+      ]
+    ],
+    "regex": "\\b((?!\\bWicker\\ Man:)Wicker\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

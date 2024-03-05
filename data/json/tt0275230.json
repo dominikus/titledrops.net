@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0275230",
+    "title": "Blood: The Last Vampire",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Animation",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 253,
+    "occurrences": [
+      [
+        177,
+        "00:30:13.256000",
+        "00:30:16.593000",
+        "Demons. They live off human blood."
+      ],
+      [
+        183,
+        "00:30:52.681000",
+        "00:30:56.978000",
+        "They won't die unless they lose enough blood in one blow."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlood:)Blood|(?!\\bLast\\ Vampire:)Last\\ Vampire)(?!\\:)(?!'t)\\b",
+    "runtime": 48,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt10126040",
+    "title": "The Exchange",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1801,
+    "occurrences": [
+      [
+        165,
+        "00:08:12.624000",
+        "00:08:16.161000",
+        "this France-Canada exchange program."
+      ],
+      [
+        239,
+        "00:12:15.835000",
+        "00:12:17.469000",
+        "TIM: It suddenly struck me that the French exchange"
+      ],
+      [
+        279,
+        "00:15:43.541000",
+        "00:15:46.545000",
+        "I am your exchange partner, Stephane Belmadi. Eh?"
+      ],
+      [
+        497,
+        "00:25:31.295000",
+        "00:25:36.634000",
+        "Gary, um, this is Stephane, he is the exchange student from France."
+      ]
+    ],
+    "regex": "\\b((?!\\bExchange:)Exchange)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

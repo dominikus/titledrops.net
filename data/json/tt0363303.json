@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0363303",
+    "title": "At Five in the Afternoon",
+    "year": 2003,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 842,
+    "occurrences": [
+      [
+        1,
+        "00:00:32.287000",
+        "00:00:36.280000",
+        "At Five in the Afternoon"
+      ],
+      [
+        688,
+        "01:18:23.287000",
+        "01:18:25.278000",
+        "At five in the afternoon."
+      ]
+    ],
+    "regex": "\\b((?!\\bAt\\ Five\\ in\\ the\\ Afternoon:)At\\ Five\\ in\\ the\\ Afternoon)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

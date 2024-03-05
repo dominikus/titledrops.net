@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt5968274",
+    "title": "The Angel",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1433,
+    "occurrences": [
+      [
+        595,
+        "00:47:02.291000",
+        "00:47:03.583000",
+        "you're known as \"The Angel\"."
+      ],
+      [
+        597,
+        "00:47:07.083000",
+        "00:47:08.375000",
+        "\"The Angel.\""
+      ],
+      [
+        682,
+        "00:53:17.583000",
+        "00:53:20.791000",
+        "The Angel sent an invoice for imminent shipment of chemicals."
+      ],
+      [
+        1077,
+        "01:21:10.416000",
+        "01:21:12.375000",
+        "Are you laughing at me angel?"
+      ],
+      [
+        1191,
+        "01:28:14.416000",
+        "01:28:16.708000",
+        "- It's your Angel. -"
+      ],
+      [
+        1306,
+        "01:36:37.791000",
+        "01:36:41.041000",
+        "The meeting with The Angel convinced me to send this message."
+      ]
+    ],
+    "regex": "\\b((?!\\bAngel:)Angel)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt10756374",
+    "title": "A Night of Horror: Nightmare Radio",
+    "year": 2019,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 709,
+    "occurrences": [
+      [
+        43,
+        "00:03:56.600000",
+        "00:03:59.975000",
+        "I'm Rod Wilson. Welcome to \"Nightmare Radio\""
+      ],
+      [
+        130,
+        "00:16:36.016000",
+        "00:16:39.016000",
+        "And I'd like to remind you that you can call \"Nightmare Radio\"."
+      ],
+      [
+        703,
+        "01:32:49.725000",
+        "01:32:52.391000",
+        "Welcome to \"Nightmare Radio\""
+      ]
+    ],
+    "regex": "\\b((?!\\bNight\\ of\\ Horror:)Night\\ of\\ Horror|(?!\\bNightmare\\ Radio:)Nightmare\\ Radio)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2992252",
+    "title": "Burn",
+    "year": 2022,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1511,
+    "occurrences": [
+      [
+        631,
+        "00:36:31.832000",
+        "00:36:33.301000",
+        "We'll have to burn 'em."
+      ],
+      [
+        1467,
+        "01:30:18.192000",
+        "01:30:22.363000",
+        "This is a burn on me? Why?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBurn:)Burn)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

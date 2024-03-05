@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt14807348",
+    "title": "UFO Sweden",
+    "year": 2022,
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 892,
+    "occurrences": [
+      [
+        82,
+        "00:10:26.375000",
+        "00:10:29.292000",
+        "You're right. Let's call UFO Sweden."
+      ],
+      [
+        324,
+        "00:39:37.958000",
+        "00:39:39.875000",
+        "UFO Sweden."
+      ],
+      [
+        423,
+        "00:48:37.250000",
+        "00:48:39.750000",
+        "My name is Tona, from UFO Sweden."
+      ],
+      [
+        734,
+        "01:25:45.833000",
+        "01:25:50.417000",
+        "I would like to leave an anonymous tip. UFO Sweden..."
+      ],
+      [
+        872,
+        "01:48:15.125000",
+        "01:48:18.625000",
+        "UFO Sweden, you speak with field investigator Karl."
+      ]
+    ],
+    "regex": "\\b((?!\\bUFO\\ Sweden:)UFO\\ Sweden)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

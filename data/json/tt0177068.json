@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0177068",
+    "title": "Once in the Life",
+    "year": 2000,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2489,
+    "occurrences": [
+      [
+        579,
+        "00:30:22.394000",
+        "00:30:24.961000",
+        "Once in the life, always in the life, Mikey."
+      ],
+      [
+        2290,
+        "01:34:20.263000",
+        "01:34:21.846000",
+        "Once in the life, always in the life."
+      ]
+    ],
+    "regex": "\\b((?!\\bOnce\\ in\\ the\\ Life:)Once\\ in\\ the\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0154506",
+    "title": "Following",
+    "year": 1998,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 747,
+    "occurrences": [
+      [
+        0,
+        "00:01:09.179000",
+        "00:01:12.615000",
+        " The following is my explanation--"
+      ],
+      [
+        9,
+        "00:01:37.741000",
+        "00:01:41.142000",
+        "Shadowing. Following. I started to follow people."
+      ],
+      [
+        69,
+        "00:07:04.267000",
+        "00:07:08.135000",
+        "You're obviously not a policeman, so who are you, and why are you following me?"
+      ],
+      [
+        75,
+        "00:07:35.732000",
+        "00:07:39.168000",
+        "No, I wasn't-- I wasn't following you. I-- I--"
+      ],
+      [
+        659,
+        "01:01:41.074000",
+        "01:01:45.272000",
+        "Cobb noticed you following him days before he actually approached you."
+      ]
+    ],
+    "regex": "\\b((?!\\bFollowing:)Following)(?!\\:)(?!'t)\\b",
+    "runtime": 69,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

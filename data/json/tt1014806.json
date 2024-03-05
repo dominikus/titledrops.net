@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1014806",
+    "title": "The Poker House",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1066,
+    "occurrences": [
+      [
+        332,
+        "00:31:12.402000",
+        "00:31:16.505000",
+        "a pimp, the Poker House and the hooker live up in the garage?"
+      ],
+      [
+        585,
+        "00:49:23.124000",
+        "00:49:25.859000",
+        "Don't this little girl live in the Poker House?"
+      ],
+      [
+        586,
+        "00:49:25.994000",
+        "00:49:28.062000",
+        "Little girl, don't you live in the Poker House?"
+      ],
+      [
+        743,
+        "00:59:26.327000",
+        "00:59:28.929000",
+        "You live in the Poker House."
+      ]
+    ],
+    "regex": "\\b((?!\\bPoker\\ House:)Poker\\ House)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt8710596",
+    "title": "Jungleland",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1431,
+    "occurrences": [
+      [
+        200,
+        "00:12:25.013000",
+        "00:12:26.413000",
+        "Jungleland."
+      ],
+      [
+        599,
+        "00:33:42.622000",
+        "00:33:46.726000",
+        "You said you wanted to go to Jungleland."
+      ],
+      [
+        1320,
+        "01:20:01.368000",
+        "01:20:04.504000",
+        "-  Ladies and gentlemen, welcome to Jungleland. - Sky made it."
+      ],
+      [
+        1335,
+        "01:20:51.652000",
+        "01:20:52.954000",
+        "Gentlemen, welcome to Jungleland."
+      ]
+    ],
+    "regex": "\\b((?!\\bJungleland:)Jungleland)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

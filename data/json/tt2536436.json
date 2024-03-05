@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt2536436",
+    "title": "App",
+    "year": 2013,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 672,
+    "occurrences": [
+      [
+        302,
+        "00:29:12.042000",
+        "00:29:14.628000",
+        "I've got this app that I can't get off my phone."
+      ],
+      [
+        304,
+        "00:29:18.924000",
+        "00:29:21.469000",
+        "- Which app is it? - Iris."
+      ],
+      [
+        399,
+        "00:41:35.702000",
+        "00:41:38.538000",
+        "I've got this app on my phone that I can't get rid of."
+      ],
+      [
+        417,
+        "00:42:32.384000",
+        "00:42:34.678000",
+        "But if this is a really advanced app..."
+      ],
+      [
+        566,
+        "01:04:33.245000",
+        "01:04:37.040000",
+        "- But that's very rare. - No, I swear to you, It's that damn app."
+      ]
+    ],
+    "regex": "\\b((?!\\bApp:)App)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

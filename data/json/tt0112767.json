@@ -1,0 +1,52 @@
+[
+  {
+    "imdb": "tt0112767",
+    "title": "Cyclo",
+    "year": 1995,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 296,
+    "occurrences": [
+      [
+        0,
+        "00:00:30.990000",
+        "00:00:35.347000",
+        "My son, our family owes a lot to the cyclo taxi"
+      ],
+      [
+        34,
+        "00:04:22.830000",
+        "00:04:24.309000",
+        "Who rents you the cyclo taxi?"
+      ],
+      [
+        56,
+        "00:08:04.870000",
+        "00:08:05.859000",
+        "Cyclo !"
+      ],
+      [
+        132,
+        "00:25:10.750000",
+        "00:25:12.103000",
+        "He stole my cyclo"
+      ],
+      [
+        256,
+        "00:55:26.150000",
+        "00:55:28.903000",
+        "Sure, you're a cyclo driver"
+      ]
+    ],
+    "regex": "\\b((?!\\bCyclo:)Cyclo)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [
+      "Cyclo"
+    ],
+    "title_is_name": true,
+    "rating": 7.2
+  }
+]

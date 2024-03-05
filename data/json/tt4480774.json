@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt4480774",
+    "title": "Uploaded",
+    "year": 2021,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1122,
+    "occurrences": [
+      [
+        327,
+        "00:33:17.856000",
+        "00:33:21.525000",
+        "This footage just recently got uploaded to Mark Clifton's YouTube channel."
+      ],
+      [
+        329,
+        "00:33:26.331000",
+        "00:33:29.200000",
+        "- can we tell where it was uploaded from? - Yes."
+      ],
+      [
+        841,
+        "01:11:07.158000",
+        "01:11:08.326000",
+        "Uploaded."
+      ]
+    ],
+    "regex": "\\b((?!\\bUploaded:)Uploaded)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

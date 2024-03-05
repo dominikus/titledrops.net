@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0247303",
+    "title": "The Shaft",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1084,
+    "occurrences": [
+      [
+        426,
+        "00:37:37.430000",
+        "00:37:41.340000",
+        "A guy fell down the shaft another one was decapitated. That's nothing?"
+      ],
+      [
+        466,
+        "00:40:22.590000",
+        "00:40:26.500000",
+        "Major overhaul, check the whole shaft, do you have any idea what that costs?"
+      ],
+      [
+        1016,
+        "01:32:50.730000",
+        "01:32:55.640000",
+        "- What? Who turned on the power? - Probably the same in the shaft."
+      ]
+    ],
+    "regex": "\\b((?!\\bShaft:)Shaft)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

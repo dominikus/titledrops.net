@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3070506",
+    "title": "Don't Look",
+    "year": 2018,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1010,
+    "occurrences": [
+      [
+        89,
+        "00:05:46.650000",
+        "00:05:48.348000",
+        "Don't look at me like that."
+      ],
+      [
+        710,
+        "00:46:44.584000",
+        "00:46:46.934000",
+        "- Close your eyes, don't look."
+      ],
+      [
+        958,
+        "01:06:34.599000",
+        "01:06:37.167000",
+        "- Close your eyes, don't look!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDon't\\ Look:)Don't\\ Look)(?!\\:)(?!'t)\\b",
+    "runtime": 71,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.8
+  }
+]

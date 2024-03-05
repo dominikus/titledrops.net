@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0393297",
+    "title": "Forget About It",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1119,
+    "occurrences": [
+      [
+        847,
+        "00:58:31.087000",
+        "00:58:32.577000",
+        "Forget about it."
+      ],
+      [
+        848,
+        "00:58:37.627000",
+        "00:58:39.822000",
+        "What does that mean, ''forget about it''?"
+      ],
+      [
+        1117,
+        "01:19:07.322000",
+        "01:19:08.584000",
+        "Forget about it!"
+      ]
+    ],
+    "regex": "\\b((?!\\bForget\\ About\\ It:)Forget\\ About\\ It)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

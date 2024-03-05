@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt11334312",
+    "title": "The Final Level: Escaping Rancala",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 2488,
+    "occurrences": [
+      [
+        1571,
+        "00:47:51.536000",
+        "00:47:52.452000",
+        "I mean, we're going into the final level."
+      ],
+      [
+        1638,
+        "00:49:39.043000",
+        "00:49:41.277000",
+        "Computer: Final level!"
+      ]
+    ],
+    "regex": "\\b((?!\\bFinal\\ Level:)Final\\ Level|(?!\\bEscaping\\ Rancala:)Escaping\\ Rancala)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

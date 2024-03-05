@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt14402084",
+    "title": "Between Us",
+    "year": 2023,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 941,
+    "occurrences": [
+      [
+        489,
+        "00:39:50.766000",
+        "00:39:52.643000",
+        "There are no secrets between us."
+      ],
+      [
+        837,
+        "01:12:21.175000",
+        "01:12:24.178000",
+        "Laetitia, something strong happened between us."
+      ],
+      [
+        889,
+        "01:27:00.429000",
+        "01:27:01.930000",
+        "Can't you see there's no love between us?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBetween\\ Us:)Between\\ Us)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

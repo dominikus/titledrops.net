@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0120610",
+    "title": "Black Dog",
+    "year": 1998,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 990,
+    "occurrences": [
+      [
+        726,
+        "01:04:54.153000",
+        "01:04:57.088000",
+        "- What dog? - The black dog."
+      ],
+      [
+        748,
+        "01:06:07.927000",
+        "01:06:12.762000",
+        "No, just the black dog."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Dog:)Black\\ Dog)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

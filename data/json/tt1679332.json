@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1679332",
+    "title": "Ultramarines: A Warhammer 40,000 Movie",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Animation",
+      "Fantasy"
+    ],
+    "count": 5,
+    "all_lines": 495,
+    "occurrences": [
+      [
+        15,
+        "00:02:01.735000",
+        "00:02:06.365000",
+        "And the greatest of them all are the Ultramarines."
+      ],
+      [
+        37,
+        "00:04:50.971000",
+        "00:04:56.603000",
+        "of going into combat for the first time as Ultramarines."
+      ],
+      [
+        239,
+        "00:30:35.680000",
+        "00:30:40.413000",
+        "so that the strength of these brave warriors may live on in Ultramarines as yet unborn."
+      ],
+      [
+        400,
+        "00:57:44.341000",
+        "00:57:47.640000",
+        "I am a Captain of the Ultramarines Chapter"
+      ],
+      [
+        487,
+        "01:09:25.341000",
+        "01:09:30.438000",
+        "of going into combat for the first time as Ultramarines."
+      ]
+    ],
+    "regex": "\\b((?!\\bUltramarines:)Ultramarines|(?!\\bWarhammer\\ 40,000\\ Movie:)Warhammer\\ 40,000\\ Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 70,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

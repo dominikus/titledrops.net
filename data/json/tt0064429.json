@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0064429",
+    "title": "High School",
+    "year": 1968,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1115,
+    "occurrences": [
+      [
+        330,
+        "00:21:39.752000",
+        "00:21:42.550000",
+        "Around Northeast High School this is the favorite walk."
+      ],
+      [
+        437,
+        "00:28:22.289000",
+        "00:28:25.268000",
+        "By the time you get to be a high school senior,"
+      ],
+      [
+        1043,
+        "01:07:56.418000",
+        "01:07:59.126000",
+        "Students and faculty of Northeast High School,"
+      ],
+      [
+        1112,
+        "01:14:03.693000",
+        "01:14:08.023000",
+        "that we are very successful at Northeast High School."
+      ]
+    ],
+    "regex": "\\b((?!\\bHigh\\ School:)High\\ School)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

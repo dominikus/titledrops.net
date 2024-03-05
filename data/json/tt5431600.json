@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5431600",
+    "title": "The Black Room",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 903,
+    "occurrences": [
+      [
+        632,
+        "01:05:38.968000",
+        "01:05:41.569000",
+        "Have you seen the black room?"
+      ],
+      [
+        685,
+        "01:10:00.963000",
+        "01:10:04.399000",
+        "She said something about a room in the basement... a black room, maybe that's it."
+      ],
+      [
+        806,
+        "01:19:21.224000",
+        "01:19:24.692000",
+        "I bet you really want to know what's inside that black room in the basement, don't you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Room:)Black\\ Room)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

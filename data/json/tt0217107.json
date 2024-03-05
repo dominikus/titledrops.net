@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0217107",
+    "title": "Trois",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 1505,
+    "occurrences": [
+      [
+        223,
+        "00:11:42.168000",
+        "00:11:45.438000",
+        "What I really want is a menage a trois."
+      ],
+      [
+        224,
+        "00:11:45.471000",
+        "00:11:46.972000",
+        "A menage a trois?"
+      ],
+      [
+        225,
+        "00:11:47.006000",
+        "00:11:48.441000",
+        "Menage a trois."
+      ],
+      [
+        226,
+        "00:11:48.474000",
+        "00:11:50.309000",
+        "Menage a trois."
+      ],
+      [
+        227,
+        "00:11:50.342000",
+        "00:11:54.914000",
+        "Yeah, menage a trois."
+      ],
+      [
+        626,
+        "00:32:47.231000",
+        "00:32:50.601000",
+        "A menage a trois"
+      ],
+      [
+        637,
+        "00:33:47.792000",
+        "00:33:53.297000",
+        "I don't really need a menage a trois"
+      ]
+    ],
+    "regex": "\\b((?!\\bTrois:)Trois)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt15339456",
+    "title": "Marcel the Shell with Shoes On",
+    "year": 2021,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1650,
+    "occurrences": [
+      [
+        482,
+        "00:23:15.629000",
+        "00:23:17.031000",
+        "Marcel the Shell With Shoes On..."
+      ],
+      [
+        484,
+        "00:23:18.132000",
+        "00:23:20.068000",
+        "Marcel the Shell With Shoes On."
+      ]
+    ],
+    "regex": "\\b((?!\\bMarcel\\ the\\ Shell\\ with\\ Shoes\\ On:)Marcel\\ the\\ Shell\\ with\\ Shoes\\ On)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

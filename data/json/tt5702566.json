@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt5702566",
+    "title": "Stasis",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 862,
+    "occurrences": [
+      [
+        54,
+        "00:04:55.239000",
+        "00:04:59.319000",
+        "Others, once they go into stasis they never wake up."
+      ],
+      [
+        61,
+        "00:05:21.041000",
+        "00:05:23.423000",
+        "You can retrieve them when you come out of stasis."
+      ],
+      [
+        177,
+        "00:18:26.184000",
+        "00:18:28.402000",
+        "their stasis chambers underground"
+      ],
+      [
+        374,
+        "00:32:45.567000",
+        "00:32:50.059000",
+        "- Hunter Alpha Charlie 42, report to the stasis chambers immediately."
+      ],
+      [
+        638,
+        "00:56:04.820000",
+        "00:56:06.530000",
+        "-What about the stasis chamber?"
+      ]
+    ],
+    "regex": "\\b((?!\\bStasis:)Stasis)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3
+  }
+]

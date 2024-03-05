@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0052263",
+    "title": "St. Peter's Umbrella",
+    "year": 1958,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1001,
+    "occurrences": [
+      [
+        3,
+        "00:00:22.262000",
+        "00:00:27.859000",
+        "St. Peter's Umbrella"
+      ],
+      [
+        273,
+        "00:26:59.462000",
+        "00:27:03.455000",
+        "St. Peter's umbrella."
+      ],
+      [
+        753,
+        "01:05:39.942000",
+        "01:05:46.336000",
+        "How can I prove it's not St. Peter's umbrella, but mine?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSt\\.\\ Peter's\\ Umbrella:)St\\.\\ Peter's\\ Umbrella)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

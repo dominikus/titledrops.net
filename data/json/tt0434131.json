@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0434131",
+    "title": "Concrete",
+    "year": 2004,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 643,
+    "occurrences": [
+      [
+        226,
+        "00:25:28.660000",
+        "00:25:34.428000",
+        "You try to run, we'll put you in a block of concrete and dump you at the bottom of the fucking ocean!"
+      ],
+      [
+        585,
+        "01:18:50.325000",
+        "01:18:55.661000",
+        "Oh, yeah, well, I, uh, banged my car into the concrete fence at the office and I need to fix it."
+      ],
+      [
+        587,
+        "01:19:00.435000",
+        "01:19:04.769000",
+        "I'd wager you're going to stuff a body in the drum and seal it with concrete."
+      ]
+    ],
+    "regex": "\\b((?!\\bConcrete:)Concrete)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt9101178",
+    "title": "Outlaw",
+    "year": 2019,
+    "genres": [
+      "Adult",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 594,
+    "occurrences": [
+      [
+        3,
+        "00:05:24.100000",
+        "00:05:25.143000",
+        "Outlaw."
+      ],
+      [
+        555,
+        "01:29:22.985000",
+        "01:29:23.985000",
+        "Outlaw!"
+      ],
+      [
+        556,
+        "01:29:26.822000",
+        "01:29:27.822000",
+        "Outlaw!"
+      ]
+    ],
+    "regex": "\\b((?!\\bOutlaw:)Outlaw)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [
+      "Outlaw"
+    ],
+    "title_is_name": true,
+    "rating": 3.8
+  }
+]

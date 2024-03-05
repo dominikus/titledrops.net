@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0059884",
+    "title": "War and Peace, Part I: Andrei Bolkonsky",
+    "year": 1965,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1004,
+    "occurrences": [
+      [
+        12,
+        "00:02:48.962000",
+        "00:02:53.524000",
+        "ANDREI BOLKONSKY"
+      ],
+      [
+        23,
+        "00:04:34.567000",
+        "00:04:36.125000",
+        "Vyacheslav TIKHONOV as Andrei Bolkonsky"
+      ]
+    ],
+    "regex": "\\b((?!\\bWar\\ and\\ Peace,:)War\\ and\\ Peace,|(?!\\bAndrei\\ Bolkonsky:)Andrei\\ Bolkonsky)(?!\\:)(?!'t)\\b",
+    "runtime": 147,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.2
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0043030",
+    "title": "Tea for Two",
+    "year": 1950,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1541,
+    "occurrences": [
+      [
+        208,
+        "00:17:04.440000",
+        "00:17:07.671000",
+        "- ?Que numero quieres oir?. - Quiero que oiga \"Tea For Two\"."
+      ],
+      [
+        209,
+        "00:17:07.840000",
+        "00:17:09.956000",
+        "?\"Tea For Two\"?. Es el mas flojo de la obra."
+      ],
+      [
+        329,
+        "00:24:40.840000",
+        "00:24:43.354000",
+        "Me gustaria que oyera \"Tea for Two\"."
+      ],
+      [
+        365,
+        "00:26:44.160000",
+        "00:26:48.836000",
+        "Tea for two two drinking tea"
+      ],
+      [
+        562,
+        "00:36:39.080000",
+        "00:36:42.755000",
+        "Tea for two two drinking tea"
+      ],
+      [
+        1110,
+        "01:07:19.920000",
+        "01:07:22.036000",
+        "\"Tea for Two\" no habria funcionado sin tu voz."
+      ]
+    ],
+    "regex": "\\b((?!\\bTea\\ for\\ Two:)Tea\\ for\\ Two)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

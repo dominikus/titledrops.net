@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0083033",
+    "title": "Saturday the 14th",
+    "year": 1981,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1399,
+    "occurrences": [
+      [
+        542,
+        "00:30:29.881000",
+        "00:30:31.338000",
+        "Saturday the 14th."
+      ],
+      [
+        819,
+        "00:44:07.506000",
+        "00:44:09.380000",
+        "Saturday the 14th? (ominous synthesizer music)"
+      ]
+    ],
+    "regex": "\\b((?!\\bSaturday\\ the\\ 14th:)Saturday\\ the\\ 14th)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

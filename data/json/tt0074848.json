@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0074848",
+    "title": "Mama, I'm Alive",
+    "year": 1977,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 682,
+    "occurrences": [
+      [
+        362,
+        "00:44:39.880000",
+        "00:44:41.439000",
+        "\"Mama, I'm alive.\""
+      ],
+      [
+        657,
+        "01:35:06.320000",
+        "01:35:07.958000",
+        "\"Mama, I'm alive."
+      ]
+    ],
+    "regex": "\\b((?!\\bMama,\\ I'm\\ Alive:)Mama,\\ I'm\\ Alive)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "imdb": "tt15847826",
+    "title": "The Hive",
+    "year": 2023,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 9,
+    "all_lines": 1397,
+    "occurrences": [
+      [
+        1239,
+        "01:13:18.685000",
+        "01:13:20.310000",
+        "so we can tap into the hive"
+      ],
+      [
+        1248,
+        "01:13:39.665000",
+        "01:13:42.999000",
+        "So tell us how to tap into the hive mind and we won't kill you."
+      ],
+      [
+        1267,
+        "01:14:57.576000",
+        "01:14:59.494000",
+        "access the hive."
+      ],
+      [
+        1321,
+        "01:18:54.938000",
+        "01:18:57.899000",
+        "Tell us how to access the hive."
+      ],
+      [
+        1327,
+        "01:19:11.037000",
+        "01:19:13.788000",
+        "access the hive mind."
+      ],
+      [
+        1330,
+        "01:19:18.920000",
+        "01:19:21.422000",
+        "There is no hive mind!"
+      ],
+      [
+        1341,
+        "01:19:50.911000",
+        "01:19:52.452000",
+        "There is no hive."
+      ],
+      [
+        1342,
+        "01:19:52.454000",
+        "01:19:53.578000",
+        "There is no hive."
+      ],
+      [
+        1343,
+        "01:19:53.580000",
+        "01:19:55.123000",
+        "There is no hive."
+      ]
+    ],
+    "regex": "\\b((?!\\bHive:)Hive)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.9
+  }
+]

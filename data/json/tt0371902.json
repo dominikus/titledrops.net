@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0371902",
+    "title": "The Purifiers",
+    "year": 2004,
+    "genres": [
+      "Action"
+    ],
+    "count": 3,
+    "all_lines": 807,
+    "occurrences": [
+      [
+        86,
+        "00:10:42.208000",
+        "00:10:44.403000",
+        "The Purifiers... yesterday's man."
+      ],
+      [
+        154,
+        "00:14:32.438000",
+        "00:14:35.498000",
+        "And finally, John. John and his Purifiers."
+      ],
+      [
+        261,
+        "00:19:36.308000",
+        "00:19:38.503000",
+        "and that the Purifiers are history."
+      ]
+    ],
+    "regex": "\\b((?!\\bPurifiers:)Purifiers)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

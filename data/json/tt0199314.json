@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0199314",
+    "title": "About Adam",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1811,
+    "occurrences": [
+      [
+        334,
+        "00:17:35.097000",
+        "00:17:37.012000",
+        "Can I tell you all about Adam?"
+      ],
+      [
+        364,
+        "00:19:01.749000",
+        "00:19:03.011000",
+        "No. About Adam."
+      ],
+      [
+        542,
+        "00:27:59.242000",
+        "00:28:01.375000",
+        "And stop talking about Adam, for a start."
+      ],
+      [
+        1522,
+        "01:19:18.318000",
+        "01:19:19.972000",
+        "And what about Adam?"
+      ],
+      [
+        1534,
+        "01:19:44.127000",
+        "01:19:46.346000",
+        "don't you think there's lots about Adam we don't know?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAbout\\ Adam:)About\\ Adam)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

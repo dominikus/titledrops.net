@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0064579",
+    "title": "The Learning Tree",
+    "year": 1969,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1071,
+    "occurrences": [
+      [
+        1,
+        "00:00:25.190000",
+        "00:00:32.180000",
+        "where grows the learning tree"
+      ],
+      [
+        22,
+        "00:02:41.069000",
+        "00:02:48.989000",
+        "there grows the learning tree"
+      ]
+    ],
+    "regex": "\\b((?!\\bLearning\\ Tree:)Learning\\ Tree)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

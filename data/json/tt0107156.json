@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0107156",
+    "title": "The Wedding Banquet",
+    "year": 1993,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1083,
+    "occurrences": [
+      [
+        418,
+        "00:38:07.911000",
+        "00:38:10.246000",
+        "A wedding banquet won't affect how we love each other."
+      ],
+      [
+        506,
+        "00:44:55.043000",
+        "00:44:58.843000",
+        "I'd like to offer my place to the young master for his wedding banquet."
+      ],
+      [
+        513,
+        "00:45:14.170000",
+        "00:45:18.090000",
+        "I want nothing more than to plan your wedding banquet."
+      ],
+      [
+        1041,
+        "01:37:04.523000",
+        "01:37:07.303000",
+        "Don't worry. I couldn't take another wedding banquet."
+      ]
+    ],
+    "regex": "\\b((?!\\bWedding\\ Banquet:)Wedding\\ Banquet)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt12872350",
+    "title": "The Time Guardians",
+    "year": 2020,
+    "genres": [
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1237,
+    "occurrences": [
+      [
+        259,
+        "00:16:29.122000",
+        "00:16:30.521000",
+        "We're the time guardians?"
+      ],
+      [
+        1198,
+        "01:22:57.306000",
+        "01:22:59.506000",
+        "- We're the time guardians? - Correct."
+      ]
+    ],
+    "regex": "\\b((?!\\bTime\\ Guardians:)Time\\ Guardians)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

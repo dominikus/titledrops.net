@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt0802983",
+    "title": "Doraemon the Movie: Nobita's Dinosaur",
+    "year": 2006,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 1,
+    "all_lines": 1494,
+    "occurrences": [
+      [
+        48,
+        "00:01:34.130000",
+        "00:01:38.870000",
+        "Doraemon the Movie dinosaurs Nobita 2006"
+      ]
+    ],
+    "regex": "\\b((?!\\bDoraemon\\ the\\ Movie:)Doraemon\\ the\\ Movie|(?!\\bNobita's\\ Dinosaur:)Nobita's\\ Dinosaur)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

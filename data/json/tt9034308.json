@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt9034308",
+    "title": "Patient 001",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1126,
+    "occurrences": [
+      [
+        42,
+        "00:03:04.015000",
+        "00:03:06.917000",
+        "That's my patient and his wife, Christ."
+      ],
+      [
+        234,
+        "00:17:02.653000",
+        "00:17:04.219000",
+        "Hey, that was something about that Kingman patient"
+      ],
+      [
+        311,
+        "00:24:44.582000",
+        "00:24:48.150000",
+        "Entry 17 for patient 001."
+      ],
+      [
+        920,
+        "01:10:12.073000",
+        "01:10:14.973000",
+        "He's a patient in an irreversible coma."
+      ]
+    ],
+    "regex": "\\b((?!\\bPatient:)Patient)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

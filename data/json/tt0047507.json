@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0047507",
+    "title": "The Snow Creature",
+    "year": 1954,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 643,
+    "occurrences": [
+      [
+        248,
+        "00:31:26.941000",
+        "00:31:29.981000",
+        "I realized that the snow creature was not just a legend."
+      ],
+      [
+        270,
+        "00:34:17.221000",
+        "00:34:21.341000",
+        "We found that the female and child of the snow creature had been killed by the cave-in."
+      ],
+      [
+        378,
+        "00:43:30.341000",
+        "00:43:33.981000",
+        "I see where you classify your import as a snow creature."
+      ]
+    ],
+    "regex": "\\b((?!\\bSnow\\ Creature:)Snow\\ Creature)(?!\\:)(?!'t)\\b",
+    "runtime": 69,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

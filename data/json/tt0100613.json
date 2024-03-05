@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0100613",
+    "title": "Side Out",
+    "year": 1990,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 2402,
+    "occurrences": [
+      [
+        983,
+        "00:40:00.910000",
+        "00:40:02.310000",
+        "Using a side out scoring system..."
+      ],
+      [
+        1144,
+        "00:45:36.780000",
+        "00:45:40.180000",
+        "Side out Timmons and Luyties."
+      ],
+      [
+        2130,
+        "01:26:32.850000",
+        "01:26:35.020000",
+        "side out scoring."
+      ],
+      [
+        2330,
+        "01:35:25.180000",
+        "01:35:28.850000",
+        "Side out, Barnes and Clark."
+      ]
+    ],
+    "regex": "\\b((?!\\bSide\\ Out:)Side\\ Out)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

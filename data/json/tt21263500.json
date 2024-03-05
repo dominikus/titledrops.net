@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt21263500",
+    "title": "Contorted",
+    "year": 2022,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 690,
+    "occurrences": [
+      [
+        218,
+        "00:31:24.390000",
+        "00:31:28.185000",
+        "this house is a bit contorted, not standing straight up."
+      ],
+      [
+        448,
+        "00:55:01.681000",
+        "00:55:03.808000",
+        "They say this house is contorted."
+      ],
+      [
+        449,
+        "00:55:07.311000",
+        "00:55:09.355000",
+        "I said this house is contorted."
+      ]
+    ],
+    "regex": "\\b((?!\\bContorted:)Contorted)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5884434",
+    "title": "Salton Sea",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1104,
+    "occurrences": [
+      [
+        540,
+        "00:33:37.530000",
+        "00:33:39.180000",
+        "- We should go to the Salton Sea."
+      ],
+      [
+        544,
+        "00:33:45.570000",
+        "00:33:47.360000",
+        "To the Salton Sea."
+      ]
+    ],
+    "regex": "\\b((?!\\bSalton\\ Sea:)Salton\\ Sea)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

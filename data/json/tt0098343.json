@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0098343",
+    "title": "Skin Deep",
+    "year": 1989,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1668,
+    "occurrences": [
+      [
+        490,
+        "00:28:27.526000",
+        "00:28:31.704000",
+        "Baby, it's burning Burning skin deep"
+      ],
+      [
+        491,
+        "00:28:32.662000",
+        "00:28:36.709000",
+        "To the bone Skin deep, to the bone"
+      ],
+      [
+        492,
+        "00:28:37.145000",
+        "00:28:38.450000",
+        "Skin deep"
+      ]
+    ],
+    "regex": "\\b((?!\\bSkin\\ Deep:)Skin\\ Deep)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

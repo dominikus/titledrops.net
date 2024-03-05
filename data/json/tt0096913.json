@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0096913",
+    "title": "Best of the Best",
+    "year": 1989,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1317,
+    "occurrences": [
+      [
+        621,
+        "00:42:31.851000",
+        "00:42:35.731000",
+        "Be the best of the best"
+      ],
+      [
+        978,
+        "01:06:41.914000",
+        "01:06:44.854000",
+        "You can be the best of the best."
+      ]
+    ],
+    "regex": "\\b((?!\\bBest\\ of\\ the\\ Best:)Best\\ of\\ the\\ Best)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

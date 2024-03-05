@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1270798",
+    "title": "X-Men: First Class",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1195,
+    "occurrences": [
+      [
+        0,
+        "00:00:00",
+        "00:00:03",
+        "Captions synced to: X-Men.First.Class.2011.TS.XViD.IMAGiNE"
+      ],
+      [
+        25,
+        "00:09:22.952000",
+        "00:09:27.596000",
+        "X-MEN: First Class"
+      ],
+      [
+        1168,
+        "02:01:16.486000",
+        "02:01:18.797000",
+        "You're, \"X-Men\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bX\\-Men:)X\\-Men|(?!\\bFirst\\ Class:)First\\ Class)(?!\\:)(?!'t)\\b",
+    "runtime": 131,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

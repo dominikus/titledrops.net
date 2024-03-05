@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0321473",
+    "title": "Blueprint",
+    "year": 2003,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 720,
+    "occurrences": [
+      [
+        587,
+        "01:19:12.540000",
+        "01:19:14.098000",
+        "\"Blurred Blueprint.\""
+      ],
+      [
+        653,
+        "01:31:30.180000",
+        "01:31:32.011000",
+        "a blueprint."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlueprint:)Blueprint)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

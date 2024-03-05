@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3324852",
+    "title": "District C-11",
+    "year": 2017,
+    "genres": [
+      "Crime",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1773,
+    "occurrences": [
+      [
+        4,
+        "00:00:27.546000",
+        "00:00:28.714000",
+        "District C-11."
+      ],
+      [
+        1643,
+        "01:10:07.421000",
+        "01:10:09.821000",
+        "It's a secure channel that only District C-11"
+      ]
+    ],
+    "regex": "\\b((?!\\bDistrict\\ C\\-11:)District\\ C\\-11)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.2
+  }
+]

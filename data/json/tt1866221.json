@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt1866221",
+    "title": "Polar Bears: Spy on the Ice",
+    "year": 2011,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 6,
+    "all_lines": 415,
+    "occurrences": [
+      [
+        5,
+        "00:01:07.240000",
+        "00:01:09.719000",
+        "-of polar bears. -(GRUNTING)"
+      ],
+      [
+        69,
+        "00:08:28.040000",
+        "00:08:31.040000",
+        "Polar bears spend their lives hunting seals out on this sea ice."
+      ],
+      [
+        143,
+        "00:17:53.840000",
+        "00:17:56.840000",
+        "When there is plenty of food around' polar bears can afford to be picky."
+      ],
+      [
+        242,
+        "00:29:10.080000",
+        "00:29:13.080000",
+        "Polar bears investigate every unfamiliar sight and smell."
+      ],
+      [
+        306,
+        "00:37:36",
+        "00:37:39",
+        "Contrary to their solitary reputation' polar bears are surprisingly social'"
+      ],
+      [
+        402,
+        "00:48:22.880000",
+        "00:48:25.880000",
+        "Next time in Spy On The Ice, we will discover the choice she makes."
+      ]
+    ],
+    "regex": "\\b((?!\\bPolar\\ Bears:)Polar\\ Bears|(?!\\bSpy\\ on\\ the\\ Ice:)Spy\\ on\\ the\\ Ice)(?!\\:)(?!'t)\\b",
+    "runtime": 49,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

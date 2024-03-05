@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0343594",
+    "title": "Ginger and Cinnamon",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1184,
+    "occurrences": [
+      [
+        123,
+        "00:10:45.687000",
+        "00:10:47.648000",
+        "Ginger and cinnamon."
+      ],
+      [
+        985,
+        "01:23:22.878000",
+        "01:23:25.756000",
+        "Chocolate, ginger and cinnamon okay?"
+      ],
+      [
+        1006,
+        "01:25:27.377000",
+        "01:25:29.838000",
+        "Ginger and cinnamon."
+      ],
+      [
+        1036,
+        "01:27:26.246000",
+        "01:27:28.081000",
+        "There are two. Ginger and cinnamon."
+      ]
+    ],
+    "regex": "\\b((?!\\bGinger\\ and\\ Cinnamon:)Ginger\\ and\\ Cinnamon)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

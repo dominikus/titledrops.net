@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1728196",
+    "title": "Hara-Kiri: Death of a Samurai",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 719,
+    "occurrences": [
+      [
+        137,
+        "00:19:05.726000",
+        "00:19:11.648000",
+        "the unique death of a samurai"
+      ],
+      [
+        181,
+        "00:25:52.880000",
+        "00:25:56.407000",
+        "am committing hara-kiri and leaving this world."
+      ],
+      [
+        641,
+        "01:39:03",
+        "01:39:09.121000",
+        "The request to commit Hara-kiri"
+      ],
+      [
+        648,
+        "01:39:38.410000",
+        "01:39:42.610000",
+        "Despite every objection he insisted on committing hara-kiri."
+      ]
+    ],
+    "regex": "\\b((?!\\bHara\\-Kiri:)Hara\\-Kiri|(?!\\bDeath\\ of\\ a\\ Samurai:)Death\\ of\\ a\\ Samurai)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

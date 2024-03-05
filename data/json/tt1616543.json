@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1616543",
+    "title": "Not the Messiah: He's a Very Naughty Boy",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Music",
+      "Musical"
+    ],
+    "count": 3,
+    "all_lines": 1114,
+    "occurrences": [
+      [
+        630,
+        "00:49:08.507000",
+        "00:49:11.010000",
+        "He's not the Messiah"
+      ],
+      [
+        631,
+        "00:49:11.218000",
+        "00:49:14.805000",
+        "He's a very naughty boy"
+      ],
+      [
+        732,
+        "00:57:35.014000",
+        "00:57:38.684000",
+        "I am not the Messiah"
+      ]
+    ],
+    "regex": "\\b((?!\\bNot\\ the\\ Messiah:)Not\\ the\\ Messiah|(?!\\bHe's\\ a\\ Very\\ Naughty\\ Boy:)He's\\ a\\ Very\\ Naughty\\ Boy)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

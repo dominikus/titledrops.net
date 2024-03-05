@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt11272898",
+    "title": "Let It Snow",
+    "year": 2020,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 16,
+    "all_lines": 581,
+    "occurrences": [
+      [
+        16,
+        "00:02:57.835000",
+        "00:03:00.070000",
+        "[jazzy version of \"Let It Snow\" playing]"
+      ],
+      [
+        419,
+        "00:45:18.405000",
+        "00:45:23.211000",
+        "Let it snow, let it snow, let it snow"
+      ],
+      [
+        423,
+        "00:45:37.692000",
+        "00:45:43.364000",
+        "Let it snow, let it snow, let it snow"
+      ],
+      [
+        486,
+        "01:02:03.543000",
+        "01:02:06.213000",
+        "Let it snow, let it snow, let it snow"
+      ],
+      [
+        572,
+        "01:21:52.398000",
+        "01:21:56.101000",
+        "Let it snow, let it snow, let it snow"
+      ],
+      [
+        576,
+        "01:22:03.576000",
+        "01:22:06.311000",
+        "Let it snow, let it snow, let it snow"
+      ]
+    ],
+    "regex": "\\b((?!\\bLet\\ It\\ Snow:)Let\\ It\\ Snow)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

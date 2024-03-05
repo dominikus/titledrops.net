@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0379576",
+    "title": "Vibrator",
+    "year": 2003,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 787,
+    "occurrences": [
+      [
+        0,
+        "00:00:01.001000",
+        "00:00:04.937000",
+        "A Vibrator Production Committee Presents"
+      ],
+      [
+        786,
+        "01:34:10.945000",
+        "01:34:14.312000",
+        "All rights reserved by Vibrator Production Committ ee, 2003"
+      ]
+    ],
+    "regex": "\\b((?!\\bVibrator:)Vibrator)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

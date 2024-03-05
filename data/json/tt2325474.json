@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt2325474",
+    "title": "Shopping Tour",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1054,
+    "occurrences": [
+      [
+        329,
+        "00:16:21.731000",
+        "00:16:23.310000",
+        "So our shopping tour"
+      ],
+      [
+        334,
+        "00:16:31.925000",
+        "00:16:33.923000",
+        "Mom, she said, \"shopping tour\"..."
+      ],
+      [
+        338,
+        "00:16:39.939000",
+        "00:16:41.798000",
+        "What shopping tour, Mom?"
+      ],
+      [
+        339,
+        "00:16:41.978000",
+        "00:16:44.856000",
+        "It's a shopping tour, so what?"
+      ],
+      [
+        344,
+        "00:16:52.571000",
+        "00:16:53.611000",
+        "You didn't mention any shopping tour!"
+      ]
+    ],
+    "regex": "\\b((?!\\bShopping\\ Tour:)Shopping\\ Tour)(?!\\:)(?!'t)\\b",
+    "runtime": 70,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

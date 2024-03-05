@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0883995",
+    "title": "13: Game of Death",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 10,
+    "all_lines": 988,
+    "occurrences": [
+      [
+        233,
+        "00:21:55.080000",
+        "00:21:57.480000",
+        "if you pass all 13 challenges."
+      ],
+      [
+        413,
+        "00:37:57.642000",
+        "00:38:04.605000",
+        "When 13.13 is here,"
+      ],
+      [
+        416,
+        "00:38:29.640000",
+        "00:38:35.272000",
+        "13.13, God is coming..."
+      ],
+      [
+        417,
+        "00:38:36.414000",
+        "00:38:39.008000",
+        "What is 13.13?"
+      ],
+      [
+        418,
+        "00:38:39.150000",
+        "00:38:42.347000",
+        "13.13 is God."
+      ],
+      [
+        836,
+        "01:27:22.904000",
+        "01:27:30.834000",
+        "If you pass, you'll be allowed to continue with challenges 12 and 13."
+      ]
+    ],
+    "regex": "\\b((?!\\b13:)13|(?!\\bGame\\ of\\ Death:)Game\\ of\\ Death)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

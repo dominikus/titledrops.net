@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt8152324",
+    "title": "Wolf",
+    "year": 2019,
+    "genres": [
+      "History",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1386,
+    "occurrences": [
+      [
+        402,
+        "00:24:50.556000",
+        "00:24:52.990000",
+        "Looks like the claws of a wolf."
+      ],
+      [
+        404,
+        "00:24:57.556000",
+        "00:24:59.523000",
+        "It's too big to be a wolf."
+      ],
+      [
+        405,
+        "00:25:00.089000",
+        "00:25:02.556000",
+        "And what wolf walks on two legs?"
+      ],
+      [
+        1003,
+        "00:58:25.957000",
+        "00:58:27.690000",
+        "who killed a baby wolf and shouldn't have."
+      ]
+    ],
+    "regex": "\\b((?!\\bWolf:)Wolf)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1714917",
+    "title": "Gimme Danger",
+    "year": 2016,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 2027,
+    "occurrences": [
+      [
+        153,
+        "00:07:03.748000",
+        "00:07:06.050000",
+        "\"Gimme Danger, Little Stranger.\""
+      ],
+      [
+        157,
+        "00:07:30.441000",
+        "00:07:34.746000",
+        "* Gimme danger little stranger *"
+      ],
+      [
+        1990,
+        "01:44:54.813000",
+        "01:44:58.651000",
+        "* Gimme danger little stranger *"
+      ],
+      [
+        1992,
+        "01:45:02.287000",
+        "01:45:05.791000",
+        "* Gimme danger little stranger *"
+      ]
+    ],
+    "regex": "\\b((?!\\bGimme\\ Danger:)Gimme\\ Danger)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0043072",
+    "title": "Tripoli",
+    "year": 1950,
+    "genres": [
+      "Action",
+      "Adventure",
+      "History"
+    ],
+    "count": 5,
+    "all_lines": 1012,
+    "occurrences": [
+      [
+        63,
+        "00:05:48.020000",
+        "00:05:49.260000",
+        "Here we are off Tripoli."
+      ],
+      [
+        66,
+        "00:05:54.900000",
+        "00:05:58.160000",
+        "We know Tripoli's too strong to attack, but in our hands,"
+      ],
+      [
+        78,
+        "00:06:22.140000",
+        "00:06:25.160000",
+        "When I served in Tripoli, as the President's envoy,"
+      ],
+      [
+        285,
+        "00:19:35.382000",
+        "00:19:37.390000",
+        "minister when I first met them in Tripoli."
+      ],
+      [
+        825,
+        "01:08:41.180000",
+        "01:08:42.381000",
+        "The rightful ruler of Tripoli."
+      ]
+    ],
+    "regex": "\\b((?!\\bTripoli:)Tripoli)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

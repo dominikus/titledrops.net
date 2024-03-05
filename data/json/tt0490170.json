@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0490170",
+    "title": "Love Story 2050",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 2562,
+    "occurrences": [
+      [
+        630,
+        "00:43:49.680000",
+        "00:43:54.413000",
+        "\"Our love story is so strange!\""
+      ],
+      [
+        1181,
+        "01:15:41.023000",
+        "01:15:47.394000",
+        "\"How is our love story?\""
+      ],
+      [
+        1182,
+        "01:15:49.265000",
+        "01:15:55.500000",
+        "\"It's like a dream, our love story.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bLove\\ Story:)Love\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 180,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.6
+  }
+]

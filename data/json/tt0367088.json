@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0367088",
+    "title": "Spymate",
+    "year": 2003,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "count": 5,
+    "all_lines": 782,
+    "occurrences": [
+      [
+        308,
+        "00:26:38.229000",
+        "00:26:41.600000",
+        "Project Spymate, which was training primates..."
+      ],
+      [
+        473,
+        "00:39:51.989000",
+        "00:39:54.859000",
+        "He was part of the top secret Spymate Project."
+      ],
+      [
+        610,
+        "00:57:43.626000",
+        "00:57:45.361000",
+        "Spymate, this is Condor."
+      ],
+      [
+        776,
+        "01:18:41.783000",
+        "01:18:44.086000",
+        "Spymate, do you read me?"
+      ],
+      [
+        777,
+        "01:18:44.086000",
+        "01:18:47.522000",
+        "Spymate? This is the President."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpymate:)Spymate)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

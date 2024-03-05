@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4047752",
+    "title": "Encounters",
+    "year": 2014,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 881,
+    "occurrences": [
+      [
+        105,
+        "00:07:38.560000",
+        "00:07:42.160000",
+        "\"Encounters\". It sounds like a sci-fi."
+      ],
+      [
+        223,
+        "00:18:57.640000",
+        "00:19:00.640000",
+        "- It's in the Encounters folder. - No, I checked."
+      ]
+    ],
+    "regex": "\\b((?!\\bEncounters:)Encounters)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0117731",
+    "title": "Star Trek: First Contact",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 1165,
+    "occurrences": [
+      [
+        0,
+        "00:00:21.814000",
+        "00:00:24.107000",
+        "(STAR TREK THEME PLAYING)"
+      ],
+      [
+        185,
+        "00:16:52.261000",
+        "00:16:56.431000",
+        "- April 4th, the day before first contact. - Precisely."
+      ],
+      [
+        188,
+        "00:17:00.770000",
+        "00:17:03.855000",
+        "That's what they came here to do, stop first contact."
+      ],
+      [
+        487,
+        "00:41:16.432000",
+        "00:41:19.476000",
+        "They make first contact with Earth, right here."
+      ],
+      [
+        490,
+        "00:41:25.567000",
+        "00:41:27.985000",
+        "You get to make first contact with an alien race,"
+      ],
+      [
+        499,
+        "00:41:55.263000",
+        "00:42:01.351000",
+        "And you people, you're all astronauts on some kind of star trek."
+      ],
+      [
+        1165,
+        "01:45:12.974000",
+        "01:45:14.975000",
+        "(STAR TREK THEME PLAYING)"
+      ]
+    ],
+    "regex": "\\b((?!\\bStar\\ Trek:)Star\\ Trek|(?!\\bFirst\\ Contact:)First\\ Contact)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

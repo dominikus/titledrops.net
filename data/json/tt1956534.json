@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1956534",
+    "title": "A Trip",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 482,
+    "occurrences": [
+      [
+        80,
+        "00:11:34.760000",
+        "00:11:39.527000",
+        "Would you dare going on a trip with me alone?"
+      ],
+      [
+        444,
+        "01:07:31.720000",
+        "01:07:36.567000",
+        "I wanted to take this trip, although they advised I don't."
+      ],
+      [
+        446,
+        "01:07:43.160000",
+        "01:07:46.562000",
+        "I wanted to take this trip. Like we used to."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrip:)Trip)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

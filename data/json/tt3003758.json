@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3003758",
+    "title": "Traitors",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 606,
+    "occurrences": [
+      [
+        94,
+        "00:10:39.880000",
+        "00:10:41.640000",
+        "You're The Traitors, right?"
+      ],
+      [
+        95,
+        "00:10:41.720000",
+        "00:10:43.510000",
+        "Just Traitors."
+      ]
+    ],
+    "regex": "\\b((?!\\bTraitors:)Traitors)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt22028678",
+    "title": "Doll Shark",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 652,
+    "occurrences": [
+      [
+        50,
+        "00:07:47.201000",
+        "00:07:49.601000",
+        "Yep, we're talking about the new film Doll Shark,"
+      ],
+      [
+        534,
+        "00:53:28.609000",
+        "00:53:30.910000",
+        "- My doll shark sometimes when I put it down"
+      ]
+    ],
+    "regex": "\\b((?!\\bDoll\\ Shark:)Doll\\ Shark)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

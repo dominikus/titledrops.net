@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0111257",
+    "title": "Speed",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1081,
+    "occurrences": [
+      [
+        319,
+        "00:38:08.369000",
+        "00:38:10.360000",
+        "Speed up!"
+      ],
+      [
+        394,
+        "00:44:21.117000",
+        "00:44:24.951000",
+        "It began picking up speed, swerving, and hasn't slowed down since."
+      ],
+      [
+        1066,
+        "01:46:55.409000",
+        "01:46:58.993000",
+        "I'm gonna speed it up, make it jump the track."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpeed:)Speed)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6857166",
+    "title": "Book Club",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1971,
+    "occurrences": [
+      [
+        206,
+        "00:09:02.272000",
+        "00:09:06.371000",
+        "We started this book club to stimulate our minds."
+      ],
+      [
+        438,
+        "00:19:07.730000",
+        "00:19:09.894000",
+        "I'm gonna call an emergency book club."
+      ],
+      [
+        1596,
+        "01:14:35.348000",
+        "01:14:37.712000",
+        "Oh, my God, this is my last book club!"
+      ],
+      [
+        1903,
+        "01:32:29.264000",
+        "01:32:31.863000",
+        "Nancy in my office, she's in a book club,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBook\\ Club:)Book\\ Club)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

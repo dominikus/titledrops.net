@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt3422462",
+    "title": "Bangistan",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1340,
+    "occurrences": [
+      [
+        16,
+        "00:04:19.558000",
+        "00:04:22.050000",
+        "Behold the icy peaks of North Bangistan."
+      ],
+      [
+        21,
+        "00:04:31.770000",
+        "00:04:34.068000",
+        "Hails from here. South Bangistan."
+      ],
+      [
+        84,
+        "00:10:03.835000",
+        "00:10:06.964000",
+        "Sir, there's been a mis-communication! I'm from Bangistan."
+      ]
+    ],
+    "regex": "\\b((?!\\bBangistan:)Bangistan)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

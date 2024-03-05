@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt9057620",
+    "title": "Easy Land",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1339,
+    "occurrences": [
+      [
+        504,
+        "00:32:49.143000",
+        "00:32:52.644000",
+        "I told you. I have a lot of work to do on Easy Land"
+      ],
+      [
+        1126,
+        "01:11:58.423000",
+        "01:12:01.491000",
+        "- This is that Easy Land. - Yeah, um..."
+      ]
+    ],
+    "regex": "\\b((?!\\bEasy\\ Land:)Easy\\ Land)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

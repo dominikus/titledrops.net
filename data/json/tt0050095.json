@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0050095",
+    "title": "The Abominable Snowman",
+    "year": 1957,
+    "genres": [
+      "Adventure",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1938,
+    "occurrences": [
+      [
+        334,
+        "00:13:33.626000",
+        "00:13:35.336000",
+        "The abominable snowman?"
+      ],
+      [
+        1359,
+        "00:56:54.785000",
+        "00:56:56.702000",
+        "The Abominable Snowman."
+      ]
+    ],
+    "regex": "\\b((?!\\bAbominable\\ Snowman:)Abominable\\ Snowman)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

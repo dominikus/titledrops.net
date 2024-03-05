@@ -1,0 +1,60 @@
+[
+  {
+    "imdb": "tt2674454",
+    "title": "Churchill",
+    "year": 2017,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 6,
+    "all_lines": 1028,
+    "occurrences": [
+      [
+        44,
+        "00:06:56.542000",
+        "00:06:58.408000",
+        "... to meet you, Mr. Churchill, sir."
+      ],
+      [
+        64,
+        "00:09:35.667000",
+        "00:09:38.284000",
+        "General Montgomery. - Mr. Churchill."
+      ],
+      [
+        353,
+        "00:31:28",
+        "00:31:29.866000",
+        "We're landing as we planned, Churchill."
+      ],
+      [
+        637,
+        "00:55:17.958000",
+        "00:55:21.372000",
+        "We'll go tomorrow, Churchill. You can't stop it."
+      ],
+      [
+        934,
+        "01:27:44.958000",
+        "01:27:47.792000",
+        "Thank you. So very much, Mr. Churchill."
+      ],
+      [
+        1027,
+        "01:39:57.075000",
+        "01:40:02.927000",
+        "Winston Churchill continued to lead his Party until he was 80 Years old."
+      ]
+    ],
+    "regex": "\\b((?!\\bChurchill:)Churchill)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [
+      "Winston Churchill",
+      "Clemmie Churchill"
+    ],
+    "title_is_name": true,
+    "rating": 6
+  }
+]

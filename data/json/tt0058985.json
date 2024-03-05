@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0058985",
+    "title": "Happiness",
+    "year": 1965,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 682,
+    "occurrences": [
+      [
+        339,
+        "00:33:45.800000",
+        "00:33:47.233000",
+        "Such happiness!"
+      ],
+      [
+        409,
+        "00:46:03.720000",
+        "00:46:06.439000",
+        "Then, I waited for another happiness."
+      ],
+      [
+        435,
+        "00:47:42.160000",
+        "00:47:44.469000",
+        "Happiness works by addition."
+      ],
+      [
+        556,
+        "00:57:25.080000",
+        "00:57:26.957000",
+        "It's more happiness."
+      ],
+      [
+        674,
+        "01:11:02.200000",
+        "01:11:05.158000",
+        "You're my happiness. You and your life."
+      ]
+    ],
+    "regex": "\\b((?!\\bHappiness:)Happiness)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5011604",
+    "title": "Con Men",
+    "year": 2015,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1302,
+    "occurrences": [
+      [
+        734,
+        "00:48:16.446000",
+        "00:48:18.789000",
+        "Because con men don't trust anyone,"
+      ],
+      [
+        1284,
+        "01:29:51.046000",
+        "01:29:54.056000",
+        "- Two con men, Hooker and Gondorff."
+      ]
+    ],
+    "regex": "\\b((?!\\bCon\\ Men:)Con\\ Men)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

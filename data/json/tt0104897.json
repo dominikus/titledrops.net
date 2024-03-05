@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0104897",
+    "title": "Mo' Money",
+    "year": 1992,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 8,
+    "all_lines": 922,
+    "occurrences": [
+      [
+        52,
+        "00:06:08.033000",
+        "00:06:10.488000",
+        "Mo' money! Mo' money!"
+      ],
+      [
+        609,
+        "00:48:33.853000",
+        "00:48:38.971000",
+        "Mo' Money! Mo' Money! Mo' Money!"
+      ],
+      [
+        922,
+        "01:22:14.651000",
+        "01:22:17.237000",
+        "Mo' money! Mo' money! Mo' money!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMo'\\ Money:)Mo'\\ Money)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

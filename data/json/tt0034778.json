@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0034778",
+    "title": "Gentleman Jim",
+    "year": 1942,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1515,
+    "occurrences": [
+      [
+        1220,
+        "01:16:33.880000",
+        "01:16:37.384000",
+        "Dad, get this gentleman, this gentleman Jim Corbett."
+      ],
+      [
+        1227,
+        "01:16:53.817000",
+        "01:16:58.697000",
+        "\"Gentleman Jim.\" I never really saw the joke until now."
+      ]
+    ],
+    "regex": "\\b((?!\\bGentleman\\ Jim:)Gentleman\\ Jim)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

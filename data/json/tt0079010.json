@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0079010",
+    "title": "Christ Stopped at Eboli",
+    "year": 1979,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 503,
+    "occurrences": [
+      [
+        32,
+        "00:12:08.933000",
+        "00:12:11.527000",
+        "Christ stopped at Eboli."
+      ],
+      [
+        47,
+        "00:13:08.973000",
+        "00:13:11.248000",
+        "Christ stopped at Eboli."
+      ]
+    ],
+    "regex": "\\b((?!\\bChrist\\ Stopped\\ at\\ Eboli:)Christ\\ Stopped\\ at\\ Eboli)(?!\\:)(?!'t)\\b",
+    "runtime": 150,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

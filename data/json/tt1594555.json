@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1594555",
+    "title": "Susa",
+    "year": 2010,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 190,
+    "occurrences": [
+      [
+        3,
+        "00:05:03.440000",
+        "00:05:06.520000",
+        "Hey, Susa, let's go to my house."
+      ],
+      [
+        89,
+        "00:37:42.320000",
+        "00:37:46.040000",
+        "Oh, Susa, hello, how are you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSusa:)Susa)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [
+      "Susa"
+    ],
+    "title_is_name": true,
+    "rating": 6.5
+  }
+]

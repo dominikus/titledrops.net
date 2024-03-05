@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0907619",
+    "title": "Arjun",
+    "year": 2004,
+    "genres": [
+      "Action"
+    ],
+    "count": 2,
+    "all_lines": 1731,
+    "occurrences": [
+      [
+        1730,
+        "02:45:26.520000",
+        "02:45:30.880000",
+        "'I didn't teII you my name. It's Arjun.'"
+      ],
+      [
+        1731,
+        "02:45:32.080000",
+        "02:45:33.840000",
+        "'My name is Arjun.'"
+      ]
+    ],
+    "regex": "\\b((?!\\bArjun:)Arjun)(?!\\:)(?!'t)\\b",
+    "runtime": 174,
+    "characters": [
+      "Arjun"
+    ],
+    "title_is_name": true,
+    "rating": 6.4
+  }
+]

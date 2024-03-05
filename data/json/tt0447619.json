@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0447619",
+    "title": "The Stone Council",
+    "year": 2006,
+    "genres": [
+      "Adventure",
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 734,
+    "occurrences": [
+      [
+        505,
+        "00:52:37.520000",
+        "00:52:38.999000",
+        "\"the stone council\"."
+      ],
+      [
+        576,
+        "01:02:42.080000",
+        "01:02:45.117000",
+        "She needs him for a ceremony, the stone council."
+      ],
+      [
+        594,
+        "01:04:51.240000",
+        "01:04:53.356000",
+        "Have you heard of the \"Stone Council\"?"
+      ],
+      [
+        600,
+        "01:05:11.760000",
+        "01:05:13.478000",
+        "During the Stone Council,"
+      ],
+      [
+        657,
+        "01:12:42.720000",
+        "01:12:45.678000",
+        "His sacrifice will round off the Stone Council."
+      ]
+    ],
+    "regex": "\\b((?!\\bStone\\ Council:)Stone\\ Council)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

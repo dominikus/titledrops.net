@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt10501980",
+    "title": "The Cardinal",
+    "year": 2019,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 1254,
+    "occurrences": [
+      [
+        1225,
+        "01:31:52.292000",
+        "01:31:55.917000",
+        "The Holy Father has decided to make you a cardinal."
+      ],
+      [
+        1234,
+        "01:32:19.375000",
+        "01:32:24.083000",
+        "But if the Holy Father decided to make me a cardinal,"
+      ],
+      [
+        1247,
+        "01:33:07.875000",
+        "01:33:11.708000",
+        "that it was decided to appoint your Eminence as a cardinal."
+      ],
+      [
+        1249,
+        "01:33:12.958000",
+        "01:33:15.708000",
+        "In the country we have nothing to do with a cardinal."
+      ]
+    ],
+    "regex": "\\b((?!\\bCardinal:)Cardinal)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

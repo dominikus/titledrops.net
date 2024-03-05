@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt1525830",
+    "title": "The Experiment",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 6,
+    "all_lines": 635,
+    "occurrences": [
+      [
+        35,
+        "00:03:26.236000",
+        "00:03:28.306000",
+        "This is an experiment."
+      ],
+      [
+        408,
+        "00:51:44.996000",
+        "00:51:47.430000",
+        "You called it an experiment."
+      ],
+      [
+        413,
+        "00:52:11.316000",
+        "00:52:17.107000",
+        "Mr. Omann, let the experiment continue."
+      ],
+      [
+        451,
+        "00:58:48.356000",
+        "00:58:51.792000",
+        "We are seeing the results of the experiment -"
+      ],
+      [
+        547,
+        "01:10:56.596000",
+        "01:11:00.669000",
+        "Their schooling is a failure, and so is the entire experiment."
+      ],
+      [
+        599,
+        "01:18:37.716000",
+        "01:18:42.153000",
+        "Gert. There's no need to call the experiment a failure."
+      ]
+    ],
+    "regex": "\\b((?!\\bExperiment:)Experiment)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

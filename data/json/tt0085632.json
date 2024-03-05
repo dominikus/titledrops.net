@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt0085632",
+    "title": "The Catch",
+    "year": 1983,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 712,
+    "occurrences": [
+      [
+        246,
+        "00:39:25.166000",
+        "00:39:28.435000",
+        "I've got to catch another tuna."
+      ],
+      [
+        352,
+        "01:02:47.962000",
+        "01:02:53.986000",
+        "We can't let you bring your catch to Ibu."
+      ],
+      [
+        354,
+        "01:03:05.344000",
+        "01:03:10.752000",
+        "But you can't unload your catch. All right?"
+      ],
+      [
+        418,
+        "01:19:32.095000",
+        "01:19:34.359000",
+        "No catch lately."
+      ],
+      [
+        426,
+        "01:21:35.273000",
+        "01:21:42.403000",
+        "They catch tuna there even in winter."
+      ],
+      [
+        503,
+        "01:37:14.938000",
+        "01:37:16.972000",
+        "Catch much tuna?"
+      ],
+      [
+        575,
+        "01:46:23.710000",
+        "01:46:28.545000",
+        "Even he couldn't catch tuna in this weather."
+      ]
+    ],
+    "regex": "\\b((?!\\bCatch:)Catch)(?!\\:)(?!'t)\\b",
+    "runtime": 140,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

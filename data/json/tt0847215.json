@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0847215",
+    "title": "Neowolf",
+    "year": 2010,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 953,
+    "occurrences": [
+      [
+        544,
+        "00:45:50.922000",
+        "00:45:54.012000",
+        "- - Here comes Neowolf!"
+      ],
+      [
+        578,
+        "00:49:15.474000",
+        "00:49:20.087000",
+        "Whoo-hoo! Yeah!Tony is a very, very, very special friend of Neowolf."
+      ]
+    ],
+    "regex": "\\b((?!\\bNeowolf:)Neowolf)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.3
+  }
+]

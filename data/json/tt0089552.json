@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt0089552",
+    "title": "Mard",
+    "year": 1985,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 841,
+    "occurrences": [
+      [
+        155,
+        "00:28:44.326000",
+        "00:28:47.625000",
+        "From today We Will call you Mard and not Raju TongaWala."
+      ],
+      [
+        157,
+        "00:29:22.231000",
+        "00:29:31.902000",
+        "I am Mard TongaWala!"
+      ],
+      [
+        161,
+        "00:30:51.687000",
+        "00:31:13.441000",
+        "\"What do you say, Badal and Moti? I am Mard TongaWala.\""
+      ],
+      [
+        164,
+        "00:32:08.330000",
+        "00:32:29.879000",
+        "\"What do you say, Badal and Moti. I am Mard TongaWala.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bMard:)Mard)(?!\\:)(?!'t)\\b",
+    "runtime": 177,
+    "characters": [
+      "Raju Singh (Mard)"
+    ],
+    "title_is_name": true,
+    "rating": 6.2
+  }
+]

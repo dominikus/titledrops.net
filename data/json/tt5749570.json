@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5749570",
+    "title": "Tango One",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1726,
+    "occurrences": [
+      [
+        105,
+        "00:09:22.520000",
+        "00:09:26.104000",
+        "Andy here's the last agent who managed to get even close to Tango One."
+      ],
+      [
+        399,
+        "00:27:57.467000",
+        "00:28:01.802000",
+        "He did say something about this, uh, Tango One status, right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTango\\ One:)Tango\\ One)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

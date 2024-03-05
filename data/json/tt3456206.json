@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt3456206",
+    "title": "The Frontier",
+    "year": 2015,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 997,
+    "occurrences": [
+      [
+        419,
+        "00:35:48.212000",
+        "00:35:51.515000",
+        "King of the wild frontier. Any last words'?"
+      ],
+      [
+        608,
+        "00:46:15.506000",
+        "00:46:17.986000",
+        "LUANNE: Frontier."
+      ],
+      [
+        701,
+        "00:51:47.471000",
+        "00:51:50.111000",
+        "\"The Frontier.\""
+      ],
+      [
+        912,
+        "01:12:36.652000",
+        "01:12:38.654000",
+        "The Frontier."
+      ],
+      [
+        956,
+        "01:20:04.432000",
+        "01:20:08.602000",
+        "Frontier Motel. Old 66. Truxton."
+      ]
+    ],
+    "regex": "\\b((?!\\bFrontier:)Frontier)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

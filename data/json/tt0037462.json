@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0037462",
+    "title": "The White Cliffs of Dover",
+    "year": 1944,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 2248,
+    "occurrences": [
+      [
+        96,
+        "00:08:34.300000",
+        "00:08:37.734000",
+        "Yet when they pointed \"the white cliffs of dover,\""
+      ],
+      [
+        1590,
+        "01:29:12.167000",
+        "01:29:16.868000",
+        "The white cliffs of dover. Little did I know."
+      ]
+    ],
+    "regex": "\\b((?!\\bWhite\\ Cliffs\\ of\\ Dover:)White\\ Cliffs\\ of\\ Dover)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

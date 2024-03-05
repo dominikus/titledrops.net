@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3400932",
+    "title": "The Chair",
+    "year": 2016,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 953,
+    "occurrences": [
+      [
+        272,
+        "00:24:08.055000",
+        "00:24:10.840000",
+        "All the way to the electric chair."
+      ],
+      [
+        792,
+        "01:03:12.527000",
+        "01:03:14.878000",
+        "They should strap you in a chair right next to me."
+      ]
+    ],
+    "regex": "\\b((?!\\bChair:)Chair)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt13845180",
+    "title": "The Witches of the Orient",
+    "year": 2021,
+    "genres": [
+      "Documentary",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 980,
+    "occurrences": [
+      [
+        11,
+        "00:02:16.249000",
+        "00:02:21.169000",
+        "The Witches of the Orient."
+      ],
+      [
+        12,
+        "00:02:27.329000",
+        "00:02:31.529000",
+        "There have been many tales over the years about the Witches of the Orient."
+      ],
+      [
+        276,
+        "00:28:08.289000",
+        "00:28:11.089000",
+        "that we became 'The Witches of the Orient'."
+      ],
+      [
+        401,
+        "00:41:26.329000",
+        "00:41:29.849000",
+        "And for Japan, the Witches of the Orient"
+      ]
+    ],
+    "regex": "\\b((?!\\bWitches\\ of\\ the\\ Orient:)Witches\\ of\\ the\\ Orient)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

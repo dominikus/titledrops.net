@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0428608",
+    "title": "Guernsey",
+    "year": 2005,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 361,
+    "occurrences": [
+      [
+        96,
+        "00:19:09.759000",
+        "00:19:13.759000",
+        "We, Mimi and I, have decided to move to Guernsey."
+      ],
+      [
+        98,
+        "00:19:18.240000",
+        "00:19:21.150000",
+        "Guernsey? -An island near the French coast."
+      ],
+      [
+        99,
+        "00:19:21.720000",
+        "00:19:24.670000",
+        "Yes I know where it is. So, why Guernsey?"
+      ],
+      [
+        104,
+        "00:19:42.829000",
+        "00:19:46.160000",
+        "Guernsey, isn't that some sort of tax evasion paradise?"
+      ]
+    ],
+    "regex": "\\b((?!\\bGuernsey:)Guernsey)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

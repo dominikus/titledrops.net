@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0093607",
+    "title": "An Uncertain Season",
+    "year": 1988,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1709,
+    "occurrences": [
+      [
+        3,
+        "00:00:20.970000",
+        "00:00:21.730000",
+        "UNCERTAIN SEASON Who is that handsome young man?"
+      ],
+      [
+        4,
+        "00:00:21.730000",
+        "00:00:22",
+        "UNCERTAIN SEASON"
+      ],
+      [
+        5,
+        "00:00:22",
+        "00:00:23.850000",
+        "Look, Bobes. It's your dad. UNCERTAIN SEASON"
+      ]
+    ],
+    "regex": "\\b((?!\\bUncertain\\ Season:)Uncertain\\ Season)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

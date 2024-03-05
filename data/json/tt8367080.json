@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt8367080",
+    "title": "Champion",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 5,
+    "all_lines": 1436,
+    "occurrences": [
+      [
+        909,
+        "01:00:47.951000",
+        "01:00:51.053000",
+        "Becoming a champion isn't easy."
+      ],
+      [
+        910,
+        "01:00:51.054000",
+        "01:00:55.658000",
+        "No, my uncle's gonna be a real champion!"
+      ],
+      [
+        1303,
+        "01:31:02.395000",
+        "01:31:04.963000",
+        "Can uncle become a champion?"
+      ],
+      [
+        1402,
+        "01:39:43.645000",
+        "01:39:46.280000",
+        "Rise of a new champion!"
+      ],
+      [
+        1423,
+        "01:42:46.161000",
+        "01:42:48.595000",
+        "Champion trophy please, come back home."
+      ]
+    ],
+    "regex": "\\b((?!\\bChampion:)Champion)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

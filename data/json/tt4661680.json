@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4661680",
+    "title": "Vanished",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1190,
+    "occurrences": [
+      [
+        206,
+        "00:12:30.968000",
+        "00:12:32.948000",
+        "Gabby: They can't all have vanished."
+      ],
+      [
+        483,
+        "00:30:47.898000",
+        "00:30:50.037000",
+        "People you know and love have vanished,"
+      ]
+    ],
+    "regex": "\\b((?!\\bVanished:)Vanished)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2712130",
+    "title": "Tokyo Mighty Guy",
+    "year": 1960,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1220,
+    "occurrences": [
+      [
+        26,
+        "00:02:04.353000",
+        "00:02:10.735000",
+        "I'm the Tokyo Mighty Guy!"
+      ],
+      [
+        1218,
+        "01:18:26.431000",
+        "01:18:33.396000",
+        "I'm the Tokyo Mighty Guy!"
+      ]
+    ],
+    "regex": "\\b((?!\\bTokyo\\ Mighty\\ Guy:)Tokyo\\ Mighty\\ Guy)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

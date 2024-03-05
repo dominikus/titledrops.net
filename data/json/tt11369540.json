@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt11369540",
+    "title": "The Champion",
+    "year": 2020,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 5,
+    "all_lines": 490,
+    "occurrences": [
+      [
+        434,
+        "01:08:29.938000",
+        "01:08:31.607000",
+        "CHAMPION"
+      ],
+      [
+        440,
+        "01:15:41.494000",
+        "01:15:43.079000",
+        "Champion Hammerschlag"
+      ],
+      [
+        455,
+        "01:20:17.729000",
+        "01:20:21.649000",
+        "The multiweight world champion..."
+      ],
+      [
+        467,
+        "01:22:34.490000",
+        "01:22:36.159000",
+        "How it feeis to be a champion?"
+      ],
+      [
+        468,
+        "01:22:37.201000",
+        "01:22:38.870000",
+        "I'm not a champion."
+      ]
+    ],
+    "regex": "\\b((?!\\bChampion:)Champion)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

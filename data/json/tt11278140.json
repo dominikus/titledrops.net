@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt11278140",
+    "title": "Fandango at the Wall",
+    "year": 2020,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 737,
+    "occurrences": [
+      [
+        14,
+        "00:02:18.750000",
+        "00:02:21.375000",
+        "I'm the executive producer of \"Fandango at the Wall.\""
+      ],
+      [
+        98,
+        "00:07:10.333000",
+        "00:07:11.834000",
+        "of \"Fandango at the Wall.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bFandango\\ at\\ the\\ Wall:)Fandango\\ at\\ the\\ Wall)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.7
+  }
+]

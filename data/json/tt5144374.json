@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt5144374",
+    "title": "Liebmann",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 544,
+    "occurrences": [
+      [
+        20,
+        "00:02:34.140000",
+        "00:02:36.381000",
+        "Mr. Liebmann?"
+      ],
+      [
+        341,
+        "00:44:43.300000",
+        "00:44:44.665000",
+        "Liebmann."
+      ],
+      [
+        342,
+        "00:44:45.940000",
+        "00:44:48.147000",
+        "Antek Liebmann? - Yes."
+      ]
+    ],
+    "regex": "\\b((?!\\bLiebmann:)Liebmann)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [
+      "Antek Liebmann"
+    ],
+    "title_is_name": true,
+    "rating": 5.2
+  }
+]

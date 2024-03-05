@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0154421",
+    "title": "The Idiots",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1103,
+    "occurrences": [
+      [
+        225,
+        "00:21:54.080000",
+        "00:21:55.760000",
+        "All the idiots died."
+      ],
+      [
+        229,
+        "00:22:11.680000",
+        "00:22:13.720000",
+        "Idiots are the people of the future."
+      ],
+      [
+        980,
+        "01:29:26.080000",
+        "01:29:30.200000",
+        "Stoffer is mocking us. Mocking \"The Idiots\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bIdiots:)Idiots)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

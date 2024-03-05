@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0834899",
+    "title": "Say Goodnight",
+    "year": 2008,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 2007,
+    "occurrences": [
+      [
+        1975,
+        "01:21:33.481000",
+        "01:21:37.991000",
+        "a(tm)<<I'll say goodnight"
+      ],
+      [
+        1976,
+        "01:21:46.280000",
+        "01:21:50.610000",
+        "a(tm)<<I'll say goodnight"
+      ],
+      [
+        1981,
+        "01:22:24.463000",
+        "01:22:28.573000",
+        "a(tm)<<Just say goodnight"
+      ],
+      [
+        1982,
+        "01:22:37.243000",
+        "01:22:41.623000",
+        "a(tm)<<Just say goodnight"
+      ],
+      [
+        1991,
+        "01:23:41.343000",
+        "01:23:45.553000",
+        "a(tm)<<Please say goodnight"
+      ],
+      [
+        1992,
+        "01:23:54.143000",
+        "01:23:58.753000",
+        "a(tm)<<Please say goodnight"
+      ]
+    ],
+    "regex": "\\b((?!\\bSay\\ Goodnight:)Say\\ Goodnight)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

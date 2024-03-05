@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0163080",
+    "title": "The Magic Pudding",
+    "year": 2000,
+    "genres": [
+      "Animation",
+      "Family",
+      "Musical"
+    ],
+    "count": 4,
+    "all_lines": 1422,
+    "occurrences": [
+      [
+        284,
+        "00:16:25.680000",
+        "00:16:28.900000",
+        "I'm Albert the magic pudding"
+      ],
+      [
+        1076,
+        "00:58:17.232000",
+        "00:58:19.234000",
+        "as a magic pudding."
+      ],
+      [
+        1079,
+        "00:58:22.411000",
+        "00:58:24.936000",
+        "No such thing as a magic pudding."
+      ],
+      [
+        1250,
+        "01:07:56.724000",
+        "01:07:58.465000",
+        "- You call yourself a magic pudding?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMagic\\ Pudding:)Magic\\ Pudding)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

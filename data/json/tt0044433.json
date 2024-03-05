@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0044433",
+    "title": "The Executioner of Lille",
+    "year": 1952,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 832,
+    "occurrences": [
+      [
+        0,
+        "00:01:30.389000",
+        "00:01:32.155000",
+        "The Executioner of Lille!"
+      ],
+      [
+        703,
+        "01:07:49.690000",
+        "01:07:51.907000",
+        "The head of the executioner of Lille."
+      ],
+      [
+        748,
+        "01:12:36.064000",
+        "01:12:40.009000",
+        "And remember: If you don't find the executioner of Lille,"
+      ],
+      [
+        817,
+        "01:20:11.182000",
+        "01:20:13.059000",
+        "The Executioner of Lille!"
+      ]
+    ],
+    "regex": "\\b((?!\\bExecutioner\\ of\\ Lille:)Executioner\\ of\\ Lille)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

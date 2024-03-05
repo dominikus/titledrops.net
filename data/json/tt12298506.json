@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt12298506",
+    "title": "Black Box",
+    "year": 2020,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1531,
+    "occurrences": [
+      [
+        358,
+        "00:20:52.460000",
+        "00:20:55.171000",
+        "We call this headset the Black Box."
+      ],
+      [
+        1005,
+        "01:01:08.582000",
+        "01:01:11.293000",
+        "until I took the Black Box off and you grabbed my hand"
+      ],
+      [
+        1012,
+        "01:01:25.724000",
+        "01:01:29.103000",
+        "and the Black Box would help you tie up the loose ends."
+      ],
+      [
+        1314,
+        "01:21:12.326000",
+        "01:21:14.662000",
+        "It's doing what it did inside the Black Box."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Box:)Black\\ Box)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

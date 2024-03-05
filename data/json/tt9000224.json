@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt9000224",
+    "title": "The Assistant",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 856,
+    "occurrences": [
+      [
+        335,
+        "00:34:51.201000",
+        "00:34:53.136000",
+        "- Hi. -  The new assistant is here."
+      ],
+      [
+        522,
+        "00:49:08.759000",
+        "00:49:10.928000",
+        "and just gave her an assistant job."
+      ],
+      [
+        527,
+        "00:49:34.718000",
+        "00:49:36.820000",
+        "Is she too young to be an assistant?"
+      ],
+      [
+        563,
+        "00:51:38.141000",
+        "00:51:42.846000",
+        "Bear with me here. So, a new assistant arrives from out of town,"
+      ],
+      [
+        628,
+        "00:55:15.191000",
+        "00:55:18.194000",
+        "The company hires a new assistant."
+      ],
+      [
+        646,
+        "00:56:04.341000",
+        "00:56:09.145000",
+        "jealous of some new assistant who's getting more attention than you."
+      ],
+      [
+        717,
+        "01:05:18.862000",
+        "01:05:21.698000",
+        "Six is his wife's assistant."
+      ]
+    ],
+    "regex": "\\b((?!\\bAssistant:)Assistant)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

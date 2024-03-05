@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0050976",
+    "title": "The Seventh Seal",
+    "year": 1957,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 898,
+    "occurrences": [
+      [
+        1,
+        "00:01:55.348000",
+        "00:01:59.512000",
+        "\"And when the Lamb had opened the seventh seal..."
+      ],
+      [
+        837,
+        "01:29:57.458000",
+        "01:30:01.451000",
+        "\"And when the Lamb had opened the seventh seal..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSeventh\\ Seal:)Seventh\\ Seal)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

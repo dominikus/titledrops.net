@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0047495",
+    "title": "Silver Lode",
+    "year": 1954,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 4,
+    "all_lines": 840,
+    "occurrences": [
+      [
+        26,
+        "00:04:40.629000",
+        "00:04:43.189000",
+        "Friendly strangers are welcome in Silver Lode."
+      ],
+      [
+        231,
+        "00:20:49.255000",
+        "00:20:52.850000",
+        "and Ballard cut a cow path from Discovery to Silver Lode."
+      ],
+      [
+        289,
+        "00:25:08.323000",
+        "00:25:11.281000",
+        "\"Fred McCarty here in Silver Lode, claiming to be US Marshal"
+      ],
+      [
+        839,
+        "01:16:35.860000",
+        "01:16:40.058000",
+        "on way to Silver Lode\"!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSilver\\ Lode:)Silver\\ Lode)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

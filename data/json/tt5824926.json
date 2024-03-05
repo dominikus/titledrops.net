@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5824926",
+    "title": "Curtain Call",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1178,
+    "occurrences": [
+      [
+        782,
+        "00:53:53",
+        "00:53:57.800000",
+        "Don't we need our director? At least for the curtain call."
+      ],
+      [
+        1162,
+        "01:27:26.733000",
+        "01:27:32",
+        "Curtain call"
+      ]
+    ],
+    "regex": "\\b((?!\\bCurtain\\ Call:)Curtain\\ Call)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 9.1
+  }
+]

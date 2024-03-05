@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt11615616",
+    "title": "Gatlopp",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1997,
+    "occurrences": [
+      [
+        340,
+        "00:14:19.026000",
+        "00:14:21.028000",
+        "-  What the fuck is Gatlopp?"
+      ],
+      [
+        342,
+        "00:14:22.564000",
+        "00:14:25.999000",
+        "- No, I actually googled it and Gatlopp is Swedish"
+      ]
+    ],
+    "regex": "\\b((?!\\bGatlopp:)Gatlopp)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

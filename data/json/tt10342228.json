@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt10342228",
+    "title": "The Shipment",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1104,
+    "occurrences": [
+      [
+        926,
+        "01:12:11.190000",
+        "01:12:15.210000",
+        "Our source in Medellin says that a shipment is about to arrive."
+      ],
+      [
+        927,
+        "01:12:15.210000",
+        "01:12:16.590000",
+        "What's the shipment's ETA?"
+      ],
+      [
+        944,
+        "01:12:55.610000",
+        "01:12:57.770000",
+        "Shipment's coming in tomorrow."
+      ]
+    ],
+    "regex": "\\b((?!\\bShipment:)Shipment)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

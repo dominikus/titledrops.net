@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0057710",
+    "title": "An Actor's Revenge",
+    "year": 1963,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1122,
+    "occurrences": [
+      [
+        2,
+        "00:00:41.126000",
+        "00:00:49.259000",
+        "An Actor's Revenge"
+      ],
+      [
+        777,
+        "01:14:03.737000",
+        "01:14:07.741000",
+        "An actor's revenge sure is dramatic."
+      ]
+    ],
+    "regex": "\\b((?!\\bActor's\\ Revenge:)Actor's\\ Revenge)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

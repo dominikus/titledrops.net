@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt6061074",
+    "title": "First Match",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1439,
+    "occurrences": [
+      [
+        328,
+        "00:25:18.391000",
+        "00:25:20.077000",
+        "Got our first match in two weeks."
+      ],
+      [
+        415,
+        "00:30:02.884000",
+        "00:30:04.886000",
+        "We got our first match on Saturday."
+      ]
+    ],
+    "regex": "\\b((?!\\bFirst\\ Match:)First\\ Match)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

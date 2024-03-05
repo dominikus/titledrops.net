@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt22410094",
+    "title": "Spirit of Fear",
+    "year": 2023,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 326,
+    "occurrences": [
+      [
+        217,
+        "00:52:15.428000",
+        "00:52:18.384000",
+        "\"For God had not given us a spirit of fear,"
+      ],
+      [
+        220,
+        "00:52:26.045000",
+        "00:52:30.331000",
+        "\"For God had not given us a spirit of fear,"
+      ],
+      [
+        221,
+        "00:52:30.332000",
+        "00:52:31.665000",
+        "spirit of fear.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bSpirit\\ of\\ Fear:)Spirit\\ of\\ Fear)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

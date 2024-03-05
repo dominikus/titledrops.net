@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0228786",
+    "title": "The Crimson Rivers",
+    "year": 2000,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 988,
+    "occurrences": [
+      [
+        0,
+        "00:02:12.500000",
+        "00:02:14.490000",
+        "CRIMSON RIVERS"
+      ],
+      [
+        346,
+        "00:34:06.050000",
+        "00:34:08.450000",
+        "We control the crimson rivers.\""
+      ],
+      [
+        708,
+        "01:12:27.410000",
+        "01:12:30.710000",
+        "\"I will track the source of the crimson rivers.\""
+      ],
+      [
+        825,
+        "01:22:52.140000",
+        "01:22:53.470000",
+        "And crimson rivers?"
+      ],
+      [
+        862,
+        "01:25:44.910000",
+        "01:25:47.780000",
+        "To understand the meaning of the crimson rivers."
+      ]
+    ],
+    "regex": "\\b((?!\\bCrimson\\ Rivers:)Crimson\\ Rivers)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

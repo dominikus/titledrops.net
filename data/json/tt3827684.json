@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3827684",
+    "title": "The Hollow",
+    "year": 2016,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 2205,
+    "occurrences": [
+      [
+        198,
+        "00:10:30.263000",
+        "00:10:32.163000",
+        "- You sent 'em to the hollow?"
+      ],
+      [
+        1515,
+        "01:21:47.103000",
+        "01:21:49.436000",
+        "down in the hollow and you gonna leave him there."
+      ],
+      [
+        1827,
+        "01:39:26.828000",
+        "01:39:29.796000",
+        "I sent that Congressman's daughter down in the hollow."
+      ],
+      [
+        2052,
+        "01:54:31.065000",
+        "01:54:32.564000",
+        "- Get to the hollow."
+      ]
+    ],
+    "regex": "\\b((?!\\bHollow:)Hollow)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0071384",
+    "title": "Daguerreotypes",
+    "year": 1975,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 741,
+    "occurrences": [
+      [
+        19,
+        "00:01:20.540000",
+        "00:01:22.219000",
+        "\"Daguerreotypes\"."
+      ],
+      [
+        732,
+        "01:14:23.850000",
+        "01:14:27.010000",
+        "These colour daguerreotypes, these old images..."
+      ]
+    ],
+    "regex": "\\b((?!\\bDaguerreotypes:)Daguerreotypes)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

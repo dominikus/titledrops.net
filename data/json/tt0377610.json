@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0377610",
+    "title": "The Kite",
+    "year": 2003,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 776,
+    "occurrences": [
+      [
+        5,
+        "00:01:44.600000",
+        "00:01:48.600000",
+        "Yes, the kite's up."
+      ],
+      [
+        168,
+        "00:13:44.600000",
+        "00:13:48.600000",
+        "Because of the kite yesterday?"
+      ],
+      [
+        172,
+        "00:13:53.600000",
+        "00:13:56.600000",
+        "going into Israeli territory to get your kite back..."
+      ],
+      [
+        356,
+        "00:26:17.600000",
+        "00:26:19.600000",
+        "That's enough of your kite!"
+      ],
+      [
+        717,
+        "01:07:42.600000",
+        "01:07:44.600000",
+        "I have a kite over there."
+      ]
+    ],
+    "regex": "\\b((?!\\bKite:)Kite)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0417944",
+    "title": "Manual of Love",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1557,
+    "occurrences": [
+      [
+        14,
+        "00:01:21.400000",
+        "00:01:23.159000",
+        "This manual of love"
+      ],
+      [
+        397,
+        "00:26:05.935000",
+        "00:26:10.654000",
+        "It's a CD. It's called \"Manual of Love\""
+      ]
+    ],
+    "regex": "\\b((?!\\bManual\\ of\\ Love:)Manual\\ of\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

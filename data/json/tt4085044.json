@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4085044",
+    "title": "Game Face",
+    "year": 2015,
+    "genres": [
+      "Documentary",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1500,
+    "occurrences": [
+      [
+        573,
+        "00:34:16.520000",
+        "00:34:18.790000",
+        "Here, you have to have your game face on."
+      ],
+      [
+        1392,
+        "01:26:17.739000",
+        "01:26:22.477000",
+        "I got to let down my guard and not be in game face mode."
+      ]
+    ],
+    "regex": "\\b((?!\\bGame\\ Face:)Game\\ Face)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

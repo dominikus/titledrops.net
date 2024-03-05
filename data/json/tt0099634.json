@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0099634",
+    "title": "The Garden",
+    "year": 1990,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 370,
+    "occurrences": [
+      [
+        332,
+        "01:21:18.539000",
+        "01:21:20.583000",
+        "(Narrator) I walk in this garden,"
+      ],
+      [
+        357,
+        "01:23:05.438000",
+        "01:23:08.608000",
+        "sweet garden of vanished pleasures,"
+      ]
+    ],
+    "regex": "\\b((?!\\bGarden:)Garden)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

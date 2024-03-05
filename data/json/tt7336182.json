@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt7336182",
+    "title": "Outback",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 853,
+    "occurrences": [
+      [
+        163,
+        "00:11:46.448000",
+        "00:11:48.951000",
+        "There's only one Outback."
+      ],
+      [
+        215,
+        "00:15:31.240000",
+        "00:15:34.141000",
+        "- Where you yanks headed? - The Outback."
+      ],
+      [
+        308,
+        "00:24:09.191000",
+        "00:24:11.992000",
+        "The Outback."
+      ]
+    ],
+    "regex": "\\b((?!\\bOutback:)Outback)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

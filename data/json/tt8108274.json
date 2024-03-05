@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt8108274",
+    "title": "Tanhaji: The Unsung Warrior",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 916,
+    "occurrences": [
+      [
+        38,
+        "00:08:44.157000",
+        "00:08:47.045000",
+        "Commander (Tanhaji Malusar)"
+      ],
+      [
+        178,
+        "00:26:42.259000",
+        "00:26:45.521000",
+        "\"Commander\" Tanhaji Malusere"
+      ],
+      [
+        459,
+        "00:55:58.696000",
+        "00:56:02.680000",
+        "From the leader \"Marathi\" means that \"Tanhaji\" will go to the Sherdon Mountains"
+      ],
+      [
+        684,
+        "01:22:26.525000",
+        "01:22:30.096000",
+        "If Tanhaji is here, Shivaji will definitely come here"
+      ],
+      [
+        744,
+        "01:29:30.513000",
+        "01:29:34.497000",
+        "Suddenly, I remembered Tanhaji Shivaji's promise"
+      ],
+      [
+        802,
+        "01:34:29.250000",
+        "01:34:33.416000",
+        "Tonight, \"Tanhaji\" is attacking his people here"
+      ]
+    ],
+    "regex": "\\b((?!\\bTanhaji:)Tanhaji|(?!\\bUnsung\\ Warrior:)Unsung\\ Warrior)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

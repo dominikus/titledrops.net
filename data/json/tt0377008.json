@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0377008",
+    "title": "You're Under Arrest: The Movie",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1160,
+    "occurrences": [
+      [
+        62,
+        "00:05:06.900000",
+        "00:05:14.830000",
+        "YOU'RE UNDER ARREST THE MOVIE"
+      ],
+      [
+        853,
+        "00:58:46.620000",
+        "00:58:50.260000",
+        "Have you seen the movie, \"Stray Dog\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bYou're\\ Under\\ Arrest:)You're\\ Under\\ Arrest|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

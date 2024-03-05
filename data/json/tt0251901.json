@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0251901",
+    "title": "No Place Like Home",
+    "year": 2002,
+    "genres": [
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1308,
+    "occurrences": [
+      [
+        1293,
+        "01:22:59.284000",
+        "01:23:01.459000",
+        "Yeah, that there's no place like home."
+      ],
+      [
+        1304,
+        "01:23:32.007000",
+        "01:23:37.081000",
+        "Yeah, this was probably no place like home for him."
+      ]
+    ],
+    "regex": "\\b((?!\\bNo\\ Place\\ Like\\ Home:)No\\ Place\\ Like\\ Home)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

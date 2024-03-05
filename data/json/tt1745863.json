@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1745863",
+    "title": "Urumi: The Warriors Who Wanted to Kill Vasco Da Gama",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1235,
+    "occurrences": [
+      [
+        185,
+        "00:22:06.224000",
+        "00:22:10.227000",
+        "This sword called the Urumi needs a drop of your life."
+      ],
+      [
+        774,
+        "01:36:29.216000",
+        "01:36:31.856000",
+        "The Urumi-sword is not at your Waist."
+      ],
+      [
+        1017,
+        "02:03:25.264000",
+        "02:03:30.068000",
+        "In the unleashed blade of the urumi-sword..."
+      ],
+      [
+        1234,
+        "02:46:24.574000",
+        "02:46:27.077000",
+        "Be careful, that's an urumi-sword."
+      ]
+    ],
+    "regex": "\\b((?!\\bUrumi:)Urumi|(?!\\bWarriors\\ Who\\ Wanted\\ to\\ Kill\\ Vasco\\ Da\\ Gama:)Warriors\\ Who\\ Wanted\\ to\\ Kill\\ Vasco\\ Da\\ Gama)(?!\\:)(?!'t)\\b",
+    "runtime": 172,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

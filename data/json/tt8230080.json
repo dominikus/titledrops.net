@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt8230080",
+    "title": "The Voice",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 932,
+    "occurrences": [
+      [
+        283,
+        "00:20:39.920000",
+        "00:20:41.640000",
+        "I hear a voice."
+      ],
+      [
+        290,
+        "00:21:02.840000",
+        "00:21:06.040000",
+        "Holy Spirit will come upon you and you will hear a voice."
+      ],
+      [
+        477,
+        "00:33:31.920000",
+        "00:33:34.960000",
+        "You've got a good reading voice. Come on."
+      ],
+      [
+        896,
+        "01:12:40.560000",
+        "01:12:43.920000",
+        "I hear a voice. But I can't see you."
+      ]
+    ],
+    "regex": "\\b((?!\\bVoice:)Voice)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

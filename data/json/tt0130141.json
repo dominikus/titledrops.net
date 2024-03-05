@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0130141",
+    "title": "The Cat Has Nine Lives",
+    "year": 1968,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 647,
+    "occurrences": [
+      [
+        0,
+        "00:00:58.102000",
+        "00:01:05.162000",
+        "The Cat has Nine Lives"
+      ],
+      [
+        378,
+        "00:48:16.100000",
+        "00:48:20.218000",
+        "To emphasize is essential: The cat has NINE lives."
+      ],
+      [
+        379,
+        "00:48:20.380000",
+        "00:48:23.069000",
+        "What about the cat has nine LIVES, people only one."
+      ],
+      [
+        380,
+        "00:48:23.281000",
+        "00:48:26.459000",
+        "The cat has NINE Lives."
+      ]
+    ],
+    "regex": "\\b((?!\\bCat\\ Has\\ Nine\\ Lives:)Cat\\ Has\\ Nine\\ Lives)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

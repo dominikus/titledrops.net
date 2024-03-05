@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0308353",
+    "title": "Happily N'Ever After",
+    "year": 2006,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1035,
+    "occurrences": [
+      [
+        4,
+        "00:03:32.759000",
+        "00:03:37.753000",
+        "I giveyou happily n'ever after!"
+      ],
+      [
+        441,
+        "00:33:18.576000",
+        "00:33:21.545000",
+        "happily n'ever after!"
+      ]
+    ],
+    "regex": "\\b((?!\\bHappily\\ N'Ever\\ After:)Happily\\ N'Ever\\ After)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

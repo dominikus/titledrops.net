@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt11851884",
+    "title": "Hands Up",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1864,
+    "occurrences": [
+      [
+        93,
+        "00:03:50.932000",
+        "00:03:52.265000",
+        "Hey, hands up."
+      ],
+      [
+        94,
+        "00:03:52.299000",
+        "00:03:54.168000",
+        "I said hands up now."
+      ],
+      [
+        109,
+        "00:04:28.468000",
+        "00:04:29.570000",
+        "He had his hands up."
+      ]
+    ],
+    "regex": "\\b((?!\\bHands\\ Up:)Hands\\ Up)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.7
+  }
+]

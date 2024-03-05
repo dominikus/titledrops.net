@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6034454",
+    "title": "CarousHELL",
+    "year": 2016,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1278,
+    "occurrences": [
+      [
+        1171,
+        "00:59:56.240000",
+        "00:59:57.400000",
+        "Hashtag, caroushell."
+      ],
+      [
+        1242,
+        "01:04:33.270000",
+        "01:04:37.390000",
+        "Oh, yeah, who else is going to ride the caroushell?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCarousHELL:)CarousHELL)(?!\\:)(?!'t)\\b",
+    "runtime": 70,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

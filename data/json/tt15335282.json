@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt15335282",
+    "title": "The Festival of Troubadours",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 882,
+    "occurrences": [
+      [
+        175,
+        "00:17:46.333000",
+        "00:17:48.333000",
+        "To the Festival of Troubadours."
+      ],
+      [
+        176,
+        "00:17:49.166000",
+        "00:17:52.166000",
+        "I wanna see my friends at the Festival of Troubadours."
+      ],
+      [
+        177,
+        "00:17:52.250000",
+        "00:17:53.833000",
+        "The Festival of Troubadours?"
+      ],
+      [
+        182,
+        "00:18:08.416000",
+        "00:18:11.375000",
+        "I remember him telling us about the Festival of Troubadours."
+      ]
+    ],
+    "regex": "\\b((?!\\bFestival\\ of\\ Troubadours:)Festival\\ of\\ Troubadours)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

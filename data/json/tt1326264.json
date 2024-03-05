@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1326264",
+    "title": "Sticky: A (Self) Love Story",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1567,
+    "occurrences": [
+      [
+        1086,
+        "00:49:06.277000",
+        "00:49:08.746000",
+        "- I'm wet and sticky. - Oh."
+      ],
+      [
+        1184,
+        "00:53:20.765000",
+        "00:53:23.468000",
+        "It's-- it's sticky."
+      ],
+      [
+        1185,
+        "00:53:23.501000",
+        "00:53:26.371000",
+        "It's a really sticky area."
+      ],
+      [
+        1448,
+        "01:04:52.656000",
+        "01:04:56.160000",
+        "to get out of some other pretty sticky situations."
+      ]
+    ],
+    "regex": "\\b((?!\\bSticky:)Sticky|(?!\\b\\(Self\\)\\ Love\\ Story:)\\(Self\\)\\ Love\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 72,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

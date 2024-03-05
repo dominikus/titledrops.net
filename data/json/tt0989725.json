@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0989725",
+    "title": "Undertrial",
+    "year": 2007,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 2091,
+    "occurrences": [
+      [
+        11,
+        "00:03:19.566000",
+        "00:03:26.472000",
+        "l see! l see! So he is the new undertrial."
+      ],
+      [
+        18,
+        "00:05:35.535000",
+        "00:05:38.800000",
+        "Undertrial prisoner. 307, 376."
+      ],
+      [
+        249,
+        "00:16:52.444000",
+        "00:16:55.345000",
+        "We are not travelling here. We are undertrial."
+      ],
+      [
+        252,
+        "00:17:06.792000",
+        "00:17:08.919000",
+        "We all are undertrial travellers."
+      ]
+    ],
+    "regex": "\\b((?!\\bUndertrial:)Undertrial)(?!\\:)(?!'t)\\b",
+    "runtime": 142,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

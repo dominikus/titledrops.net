@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt2860720",
+    "title": "The Auction",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 669,
+    "occurrences": [
+      [
+        339,
+        "00:50:39.870000",
+        "00:50:42.714000",
+        "the auction notice, the website and the catalogue."
+      ],
+      [
+        346,
+        "00:52:34.784000",
+        "00:52:37.628000",
+        "You went ahead on your own? An auction?"
+      ],
+      [
+        347,
+        "00:52:39.456000",
+        "00:52:44.030000",
+        "\"Gagnon & Sons Farm Auction. Land, home and equipment."
+      ],
+      [
+        606,
+        "01:25:02.130000",
+        "01:25:04.041000",
+        "The auction is tomorrow."
+      ]
+    ],
+    "regex": "\\b((?!\\bAuction:)Auction)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

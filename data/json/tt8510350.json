@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt8510350",
+    "title": "Satanic Panic",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1388,
+    "occurrences": [
+      [
+        19,
+        "00:02:44.331000",
+        "00:02:45.464000",
+        "Satanic panic"
+      ],
+      [
+        20,
+        "00:02:45.466000",
+        "00:02:46.632000",
+        "Satanic panic"
+      ],
+      [
+        21,
+        "00:02:46.634000",
+        "00:02:47.699000",
+        "Satanic panic"
+      ],
+      [
+        22,
+        "00:02:47.701000",
+        "00:02:49.401000",
+        "Satanic panic"
+      ]
+    ],
+    "regex": "\\b((?!\\bSatanic\\ Panic:)Satanic\\ Panic)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

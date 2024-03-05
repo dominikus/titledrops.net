@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt11611650",
+    "title": "The Longest War",
+    "year": 2020,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1661,
+    "occurrences": [
+      [
+        30,
+        "00:01:48.631000",
+        "00:01:52.339000",
+        "of the longest war in American history."
+      ],
+      [
+        31,
+        "00:01:52.422000",
+        "00:01:55.839000",
+        "This year we will bring America's longest war"
+      ]
+    ],
+    "regex": "\\b((?!\\bLongest\\ War:)Longest\\ War)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

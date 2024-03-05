@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0061512",
+    "title": "Cool Hand Luke",
+    "year": 1967,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1216,
+    "occurrences": [
+      [
+        367,
+        "00:36:57.277000",
+        "00:36:58.987000",
+        "Cool Hand Luke."
+      ],
+      [
+        952,
+        "01:36:06.410000",
+        "01:36:07.661000",
+        "Cool Hand Luke."
+      ],
+      [
+        1215,
+        "02:04:56.723000",
+        "02:05:01.770000",
+        "Oh, Luke. He was some boy. Cool Hand Luke, hell!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCool\\ Hand\\ Luke:)Cool\\ Hand\\ Luke)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt10879920",
+    "title": "My Tender Matador",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 920,
+    "occurrences": [
+      [
+        231,
+        "00:18:36.157000",
+        "00:18:38.201000",
+        "My Tender Matador"
+      ],
+      [
+        467,
+        "00:43:55.800000",
+        "00:43:58.511000",
+        "I'm scared, my tender Matador!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Tender\\ Matador:)My\\ Tender\\ Matador)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

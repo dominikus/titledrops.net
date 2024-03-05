@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6230134",
+    "title": "Occidental",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 855,
+    "occurrences": [
+      [
+        62,
+        "00:04:49.800000",
+        "00:04:52",
+        "Hotel Occidental, good evening."
+      ],
+      [
+        89,
+        "00:07:12.640000",
+        "00:07:13.880000",
+        "Occidental."
+      ],
+      [
+        102,
+        "00:08:21.480000",
+        "00:08:24.400000",
+        "Hotel Occidental, hello. I mean good evening."
+      ],
+      [
+        141,
+        "00:11:55.520000",
+        "00:11:57.680000",
+        "Hotel Occidental, good evening."
+      ]
+    ],
+    "regex": "\\b((?!\\bOccidental:)Occidental)(?!\\:)(?!'t)\\b",
+    "runtime": 73,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

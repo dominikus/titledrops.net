@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt1682180",
+    "title": "Stoker",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 719,
+    "occurrences": [
+      [
+        24,
+        "00:04:15.755000",
+        "00:04:18.633000",
+        "-India? -Richard Stoker was taken from us..."
+      ],
+      [
+        109,
+        "00:11:36.154000",
+        "00:11:37.739000",
+        "Stoker sure had the brains."
+      ],
+      [
+        369,
+        "00:39:58.815000",
+        "00:40:00.567000",
+        "Hey, Stoker."
+      ],
+      [
+        370,
+        "00:40:09.743000",
+        "00:40:11.745000",
+        "-Hey, Stoker. -Where you going?"
+      ],
+      [
+        423,
+        "00:50:48.131000",
+        "00:50:52.218000",
+        "India Stoker, Middlebend straight-A student..."
+      ],
+      [
+        504,
+        "01:05:01.067000",
+        "01:05:04.154000",
+        "India Stoker 101 Nicher Hill Road Middlebend, Chayton County CT 06003"
+      ]
+    ],
+    "regex": "\\b((?!\\bStoker:)Stoker)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [
+      "India Stoker",
+      "Evelyn Stoker",
+      "Charles Stoker",
+      "Richard Stoker"
+    ],
+    "title_is_name": true,
+    "rating": 6.7
+  }
+]

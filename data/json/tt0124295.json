@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0124295",
+    "title": "The Big One",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 2058,
+    "occurrences": [
+      [
+        1647,
+        "01:11:11.380000",
+        "01:11:13.575000",
+        "- The Big One. - The Big One?"
+      ],
+      [
+        1649,
+        "01:11:15.151000",
+        "01:11:16.311000",
+        "\"I'm from The Big One.\""
+      ],
+      [
+        1650,
+        "01:11:16.352000",
+        "01:11:18.411000",
+        "And if they don't like it, \"Bite the Big One.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bBig\\ One:)Big\\ One)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

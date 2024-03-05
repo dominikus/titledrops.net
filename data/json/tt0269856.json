@@ -1,0 +1,67 @@
+[
+  {
+    "imdb": "tt0269856",
+    "title": "Ritual",
+    "year": 2000,
+    "genres": [
+      "Drama"
+    ],
+    "count": 8,
+    "all_lines": 701,
+    "occurrences": [
+      [
+        10,
+        "00:01:40.733000",
+        "00:01:41.961000",
+        "Ritual"
+      ],
+      [
+        11,
+        "00:01:43.670000",
+        "00:01:45.160000",
+        "It's a ritual"
+      ],
+      [
+        13,
+        "00:01:52.579000",
+        "00:01:55.776000",
+        "Yes, I was performing a ritual"
+      ],
+      [
+        22,
+        "00:02:26.646000",
+        "00:02:29.444000",
+        "ritual"
+      ],
+      [
+        59,
+        "00:04:56.262000",
+        "00:04:57.957000",
+        "Did you perform your ritual today?"
+      ],
+      [
+        64,
+        "00:05:11.911000",
+        "00:05:15.074000",
+        "That's why I have to keep performing the ritual"
+      ],
+      [
+        541,
+        "00:44:02.439000",
+        "00:44:04.464000",
+        "ritual space"
+      ],
+      [
+        638,
+        "00:52:13.663000",
+        "00:52:16.826000",
+        "Her ritual remained interrupted"
+      ]
+    ],
+    "regex": "\\b((?!\\bRitual:)Ritual)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

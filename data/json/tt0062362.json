@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0062362",
+    "title": "Thoroughly Modern Millie",
+    "year": 1967,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1086,
+    "occurrences": [
+      [
+        19,
+        "00:09:07.489000",
+        "00:09:14.201000",
+        "thoroughly modern Millie now."
+      ],
+      [
+        29,
+        "00:10:48.729000",
+        "00:10:55.123000",
+        "thoroughly modern Millie now."
+      ]
+    ],
+    "regex": "\\b((?!\\bThoroughly\\ Modern\\ Millie:)Thoroughly\\ Modern\\ Millie)(?!\\:)(?!'t)\\b",
+    "runtime": 140,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

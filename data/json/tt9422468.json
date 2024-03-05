@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt9422468",
+    "title": "Bikes",
+    "year": 2018,
+    "genres": [
+      "Animation",
+      "Family",
+      "Sport"
+    ],
+    "count": 7,
+    "all_lines": 910,
+    "occurrences": [
+      [
+        187,
+        "00:17:47.500000",
+        "00:17:49.582000",
+        "Full of miserable bikes..."
+      ],
+      [
+        200,
+        "00:18:23.167000",
+        "00:18:24.167000",
+        "Bikes..."
+      ],
+      [
+        298,
+        "00:24:54.167000",
+        "00:24:55.202000",
+        "Prison bikes!"
+      ],
+      [
+        299,
+        "00:24:55.542000",
+        "00:24:56.542000",
+        "Prison bikes?"
+      ],
+      [
+        479,
+        "00:36:38.917000",
+        "00:36:41.624000",
+        "We have to let the firefighter-bikes do their job."
+      ],
+      [
+        634,
+        "00:52:32.583000",
+        "00:52:36.496000",
+        "Spokesville is nothing more than a city full of purposeless bikes with motors!"
+      ],
+      [
+        711,
+        "00:58:16.833000",
+        "00:58:20.155000",
+        "I am sure we can solve this as civilized bikes."
+      ]
+    ],
+    "regex": "\\b((?!\\bBikes:)Bikes)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

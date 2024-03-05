@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0080934",
+    "title": "The Island",
+    "year": 1980,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1467,
+    "occurrences": [
+      [
+        899,
+        "00:54:31.436000",
+        "00:54:34.231000",
+        "God gave him this island."
+      ],
+      [
+        962,
+        "01:01:28.645000",
+        "01:01:30.688000",
+        "The island is crawling with pirates."
+      ],
+      [
+        1299,
+        "01:27:44.552000",
+        "01:27:46.512000",
+        "- He drowned at sea, he's dead! - Let's set fire to the island!"
+      ],
+      [
+        1351,
+        "01:34:48.768000",
+        "01:34:50.144000",
+        "Been all the way around the island."
+      ]
+    ],
+    "regex": "\\b((?!\\bIsland:)Island)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

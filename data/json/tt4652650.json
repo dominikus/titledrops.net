@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4652650",
+    "title": "Please Stand By",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1178,
+    "occurrences": [
+      [
+        411,
+        "00:21:40.530000",
+        "00:21:41.899000",
+        "Please stand by."
+      ],
+      [
+        419,
+        "00:21:55.445000",
+        "00:21:57.315000",
+        "Scottie: That's it. Please stand by."
+      ]
+    ],
+    "regex": "\\b((?!\\bPlease\\ Stand\\ By:)Please\\ Stand\\ By)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

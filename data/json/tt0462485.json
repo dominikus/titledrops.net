@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0462485",
+    "title": "Poultrygeist: Night of the Chicken Dead",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Musical"
+    ],
+    "count": 3,
+    "all_lines": 1777,
+    "occurrences": [
+      [
+        1717,
+        "01:33:31.127000",
+        "01:33:32.554000",
+        "P Poultrygeist!"
+      ],
+      [
+        1719,
+        "01:33:37.849000",
+        "01:33:39.308000",
+        "P Poultrygeist!"
+      ],
+      [
+        1721,
+        "01:33:41.406000",
+        "01:33:42.404000",
+        "Poultrygeist!"
+      ]
+    ],
+    "regex": "\\b((?!\\bPoultrygeist:)Poultrygeist|(?!\\bNight\\ of\\ the\\ Chicken\\ Dead:)Night\\ of\\ the\\ Chicken\\ Dead)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

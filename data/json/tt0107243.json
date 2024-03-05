@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0107243",
+    "title": "Jack L. Warner: The Last Mogul",
+    "year": 1993,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 2030,
+    "occurrences": [
+      [
+        20,
+        "00:01:03.241000",
+        "00:01:05.586000",
+        "Here is Jack L. Warner, Vice president,"
+      ],
+      [
+        1217,
+        "01:01:10.034000",
+        "01:01:12.034000",
+        "REPORTER: Jack L. Warner, Motion Picture executive,"
+      ]
+    ],
+    "regex": "\\b((?!\\bJack\\ L\\.\\ Warner:)Jack\\ L\\.\\ Warner|(?!\\bLast\\ Mogul:)Last\\ Mogul)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

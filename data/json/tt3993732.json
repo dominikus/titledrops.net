@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3993732",
+    "title": "III: The Ritual",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 441,
+    "occurrences": [
+      [
+        231,
+        "00:38:54.360000",
+        "00:38:59.020000",
+        "There is a ritual that opens a door to the subconscious in each of us."
+      ],
+      [
+        264,
+        "00:42:09.151000",
+        "00:42:12.170000",
+        "\"The Kamlanie is a magic ritual"
+      ]
+    ],
+    "regex": "\\b((?!\\bIII:)III|(?!\\bRitual:)Ritual)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

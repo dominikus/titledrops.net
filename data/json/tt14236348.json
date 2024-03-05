@@ -1,0 +1,103 @@
+[
+  {
+    "imdb": "tt14236348",
+    "title": "The Test",
+    "year": 2021,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 14,
+    "all_lines": 1298,
+    "occurrences": [
+      [
+        61,
+        "00:03:23.167000",
+        "00:03:25.375000",
+        "Yes, of course. But don't you want to look at his ability test report?"
+      ],
+      [
+        70,
+        "00:03:42.625000",
+        "00:03:44.875000",
+        "{\\an8}And I left you the test report."
+      ],
+      [
+        292,
+        "00:13:59.875000",
+        "00:14:02.292000",
+        "Can we do a blood test?"
+      ],
+      [
+        293,
+        "00:14:02.458000",
+        "00:14:04.458000",
+        "- DNA Test? - No, it won't work."
+      ],
+      [
+        303,
+        "00:14:30.708000",
+        "00:14:32.167000",
+        "- You have a test the next day. - Yes but..."
+      ],
+      [
+        328,
+        "00:15:20.417000",
+        "00:15:22.292000",
+        "When was the test done? I need to know."
+      ],
+      [
+        514,
+        "00:23:19.708000",
+        "00:23:21.792000",
+        "I found a positive pregnancy test"
+      ],
+      [
+        534,
+        "00:24:05",
+        "00:24:07.458000",
+        "Why has Annie found a pregnancy test"
+      ],
+      [
+        702,
+        "00:34:10.333000",
+        "00:34:12.208000",
+        "- I said no! - Always a test or something..."
+      ],
+      [
+        703,
+        "00:34:12.375000",
+        "00:34:14.417000",
+        "I've revised for my test! I've done everything!"
+      ],
+      [
+        724,
+        "00:35:55.583000",
+        "00:35:58.083000",
+        "- It's not her test? - No, mom, it's not hers."
+      ],
+      [
+        911,
+        "00:48:29.708000",
+        "00:48:32",
+        "The test belongs to his daughter."
+      ],
+      [
+        1152,
+        "01:02:13.542000",
+        "01:02:15.375000",
+        "The pregnancy test I found."
+      ],
+      [
+        1172,
+        "01:05:34.583000",
+        "01:05:36.083000",
+        "The pregnancy test."
+      ]
+    ],
+    "regex": "\\b((?!\\bTest:)Test)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

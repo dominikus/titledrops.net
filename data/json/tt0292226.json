@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0292226",
+    "title": "Season",
+    "year": 1989,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 988,
+    "occurrences": [
+      [
+        456,
+        "00:45:33.666000",
+        "00:45:35.166000",
+        "Next season you come with a good boy."
+      ],
+      [
+        491,
+        "00:47:37.625000",
+        "00:47:38.916000",
+        ".. last season how did I earn Rs 10,000?"
+      ],
+      [
+        494,
+        "00:47:45.208000",
+        "00:47:47.625000",
+        "This same Rs 10,000 can be Rs one lakh in this season."
+      ],
+      [
+        496,
+        "00:47:51.416000",
+        "00:47:53.708000",
+        "If there is luck and the season is good we might get money.."
+      ],
+      [
+        599,
+        "00:55:18.041000",
+        "00:55:20.625000",
+        "For a chance like this only we keep waiting for a season."
+      ]
+    ],
+    "regex": "\\b((?!\\bSeason:)Season)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

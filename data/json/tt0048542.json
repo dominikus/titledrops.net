@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0048542",
+    "title": "The Rats",
+    "year": 1955,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1221,
+    "occurrences": [
+      [
+        15,
+        "00:02:36.536000",
+        "00:02:42.370000",
+        "The Rats - Based on the play by:"
+      ],
+      [
+        901,
+        "01:07:52.534000",
+        "01:07:54.325000",
+        "Maybe the rats ate it..."
+      ]
+    ],
+    "regex": "\\b((?!\\bRats:)Rats)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

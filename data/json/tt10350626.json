@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt10350626",
+    "title": "Gunjan Saxena: The Kargil Girl",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1387,
+    "occurrences": [
+      [
+        655,
+        "00:48:54.083000",
+        "00:48:57.875000",
+        "The first female officer at Udhampur base. Gunjan Saxena."
+      ],
+      [
+        678,
+        "00:50:18.541000",
+        "00:50:20",
+        "Pilot Officer Gunjan Saxena?"
+      ]
+    ],
+    "regex": "\\b((?!\\bGunjan\\ Saxena:)Gunjan\\ Saxena|(?!\\bKargil\\ Girl:)Kargil\\ Girl)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

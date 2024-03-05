@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1135952",
+    "title": "White Material",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 567,
+    "occurrences": [
+      [
+        95,
+        "00:24:52.041000",
+        "00:24:53.957000",
+        "It's just white material."
+      ],
+      [
+        152,
+        "00:32:04.708000",
+        "00:32:07.915000",
+        "As for the white material, the party's over."
+      ]
+    ],
+    "regex": "\\b((?!\\bWhite\\ Material:)White\\ Material)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

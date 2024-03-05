@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt7383268",
+    "title": "Discarded Things",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1884,
+    "occurrences": [
+      [
+        1511,
+        "01:20:56.808000",
+        "01:21:03.380000",
+        "Beautifully woven from discarded things"
+      ],
+      [
+        1854,
+        "01:44:13.203000",
+        "01:44:19.514000",
+        "Beautifully woven from discarded things"
+      ],
+      [
+        1871,
+        "01:45:34.023000",
+        "01:45:39.158000",
+        "Beautiful woven from discarded things"
+      ],
+      [
+        1883,
+        "01:46:31.515000",
+        "01:46:36.477000",
+        "Beautifully woven from discarded things"
+      ]
+    ],
+    "regex": "\\b((?!\\bDiscarded\\ Things:)Discarded\\ Things)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

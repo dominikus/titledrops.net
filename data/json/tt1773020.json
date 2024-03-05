@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt1773020",
+    "title": "Poongsan",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 997,
+    "occurrences": [
+      [
+        58,
+        "00:10:03.300000",
+        "00:10:05.660000",
+        "He smokes Poongsan cigarettes."
+      ],
+      [
+        59,
+        "00:10:05.800000",
+        "00:10:07.770000",
+        "Poongsan? What about his number?"
+      ],
+      [
+        782,
+        "01:35:51.870000",
+        "01:35:55.040000",
+        "Don't they have a lot of Poongsan dogs there?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPoongsan:)Poongsan)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [
+      "Poongsan"
+    ],
+    "title_is_name": true,
+    "rating": 6.5
+  }
+]

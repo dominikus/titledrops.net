@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0032851",
+    "title": "Northwest Passage",
+    "year": 1940,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "count": 5,
+    "all_lines": 2158,
+    "occurrences": [
+      [
+        329,
+        "00:15:38.123000",
+        "00:15:40.779000",
+        "Oh, thas the northwest passage."
+      ],
+      [
+        330,
+        "00:15:40.844000",
+        "00:15:43.917000",
+        "What do you know about the northwest passage?"
+      ],
+      [
+        595,
+        "00:28:35.387000",
+        "00:28:37.756000",
+        "about a northwest passage?"
+      ],
+      [
+        2090,
+        "01:57:42.688000",
+        "01:57:44.064000",
+        "a northwest passage."
+      ],
+      [
+        2146,
+        "02:00:28.697000",
+        "02:00:31.386000",
+        "Is there a northwest passage?"
+      ]
+    ],
+    "regex": "\\b((?!\\bNorthwest\\ Passage:)Northwest\\ Passage)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

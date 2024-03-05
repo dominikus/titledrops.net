@@ -1,0 +1,59 @@
+[
+  {
+    "imdb": "tt2638144",
+    "title": "Ben-Hur",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1458,
+    "occurrences": [
+      [
+        18,
+        "00:01:49.360000",
+        "00:01:52.194000",
+        "Prince Judah Ben-Hur, a Jew."
+      ],
+      [
+        271,
+        "00:19:48.440000",
+        "00:19:49.440000",
+        "Judah Ben-Hur?"
+      ],
+      [
+        834,
+        "01:00:45.760000",
+        "01:00:47.274000",
+        "Judah Ben-Hur."
+      ],
+      [
+        835,
+        "01:00:49.840000",
+        "01:00:52.514000",
+        "The bargain is this, Judah Ben-Hur."
+      ],
+      [
+        877,
+        "01:03:35.080000",
+        "01:03:36.514000",
+        "Judah Ben-Hur."
+      ],
+      [
+        1211,
+        "01:27:17.760000",
+        "01:27:19.877000",
+        "No, Judah Ben-Hur."
+      ]
+    ],
+    "regex": "\\b((?!\\bBen\\-Hur:)Ben\\-Hur)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [
+      "Judah Ben-Hur"
+    ],
+    "title_is_name": true,
+    "rating": 5.7
+  }
+]

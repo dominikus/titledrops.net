@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0427456",
+    "title": "Soul",
+    "year": 2003,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 997,
+    "occurrences": [
+      [
+        860,
+        "01:25:28.200000",
+        "01:25:34.958000",
+        "Found it... Here it is... evil soul of The Takian tree..."
+      ],
+      [
+        948,
+        "01:37:25.520000",
+        "01:37:29.274000",
+        "And that's where the soul just stayed..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSoul:)Soul)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

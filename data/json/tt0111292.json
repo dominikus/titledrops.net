@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0111292",
+    "title": "Stockholm Marathon",
+    "year": 1994,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 456,
+    "occurrences": [
+      [
+        56,
+        "00:17:46.535000",
+        "00:17:52.405000",
+        "Don't bawl the kid out. He's running the Stockholm Marathon."
+      ],
+      [
+        320,
+        "00:54:34.815000",
+        "00:54:39.730000",
+        "In the lead in the Stockholm marathon in Lidingovagen..."
+      ]
+    ],
+    "regex": "\\b((?!\\bStockholm\\ Marathon:)Stockholm\\ Marathon)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

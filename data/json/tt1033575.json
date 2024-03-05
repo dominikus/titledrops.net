@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1033575",
+    "title": "The Descendants",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1459,
+    "occurrences": [
+      [
+        125,
+        "00:08:07.654000",
+        "00:08:10.529000",
+        "One of the last direct descendants of King Kamehameha."
+      ],
+      [
+        130,
+        "00:08:21.358000",
+        "00:08:24.538000",
+        "generations of their descendants, all of us..."
+      ]
+    ],
+    "regex": "\\b((?!\\bDescendants:)Descendants)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

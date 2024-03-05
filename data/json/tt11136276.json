@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt11136276",
+    "title": "Azor",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 980,
+    "occurrences": [
+      [
+        777,
+        "01:13:15.850000",
+        "01:13:17.050000",
+        "\"Azor\"."
+      ],
+      [
+        778,
+        "01:13:18.580000",
+        "01:13:20.080000",
+        "\"Azor\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAzor:)Azor)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

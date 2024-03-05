@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0057449",
+    "title": "The Raven",
+    "year": 1963,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 7,
+    "all_lines": 940,
+    "occurrences": [
+      [
+        21,
+        "00:02:51.104000",
+        "00:02:54.767000",
+        "In there stepped a stately Raven\""
+      ],
+      [
+        22,
+        "00:02:59.279000",
+        "00:03:01.509000",
+        "Raven is my talisman."
+      ],
+      [
+        515,
+        "00:34:16.254000",
+        "00:34:18.154000",
+        "That poem of Poe's, The Raven."
+      ],
+      [
+        516,
+        "00:34:18.222000",
+        "00:34:19.883000",
+        "I say, what is The Raven?"
+      ],
+      [
+        519,
+        "00:34:30.168000",
+        "00:34:32.728000",
+        "But isn't the raven the symbol of death?"
+      ],
+      [
+        521,
+        "00:34:34.072000",
+        "00:34:36.540000",
+        "What is your interpretation of The Raven?"
+      ],
+      [
+        939,
+        "01:00:31.394000",
+        "01:00:33.294000",
+        "So you're the big, bad raven, huh?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRaven:)Raven)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0351770",
+    "title": "His Brother",
+    "year": 2003,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 600,
+    "occurrences": [
+      [
+        0,
+        "00:00:26",
+        "00:00:29.993000",
+        "His Brother"
+      ],
+      [
+        158,
+        "00:15:41",
+        "00:15:44.993000",
+        "Hi,are you his brother? Yes"
+      ]
+    ],
+    "regex": "\\b((?!\\bHis\\ Brother:)His\\ Brother)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

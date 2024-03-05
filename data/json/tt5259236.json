@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5259236",
+    "title": "In Blue",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 382,
+    "occurrences": [
+      [
+        200,
+        "00:41:49",
+        "00:41:51.880000",
+        "Is she horny, that whore in blue of yours?"
+      ],
+      [
+        236,
+        "00:44:19.600000",
+        "00:44:23.560000",
+        "I met a woman. A woman in blue."
+      ]
+    ],
+    "regex": "\\b((?!\\bIn\\ Blue:)In\\ Blue)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

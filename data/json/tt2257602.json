@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2257602",
+    "title": "The Staircase II: The Last Chance",
+    "year": 2013,
+    "genres": [
+      "Crime",
+      "Documentary",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1579,
+    "occurrences": [
+      [
+        274,
+        "00:21:17.120000",
+        "00:21:19.639000",
+        "dead at the bottom of a staircase in their home."
+      ],
+      [
+        358,
+        "00:27:06.280000",
+        "00:27:09.399000",
+        "I do think that it's Michael's last chance."
+      ],
+      [
+        628,
+        "00:44:42.200000",
+        "00:44:45.799000",
+        "'Ratliff's body was discovered at the bottom of the staircase in 1985"
+      ]
+    ],
+    "regex": "\\b((?!\\bStaircase:)Staircase|(?!\\bLast\\ Chance:)Last\\ Chance)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

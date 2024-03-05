@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0113799",
+    "title": "Memories",
+    "year": 1995,
+    "genres": [
+      "Animation",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 1145,
+    "occurrences": [
+      [
+        44,
+        "00:03:44.160000",
+        "00:03:45.720000",
+        "Sweet memories."
+      ],
+      [
+        301,
+        "00:23:00.160000",
+        "00:23:02.960000",
+        "And came here to live with her memories."
+      ],
+      [
+        425,
+        "00:32:15.680000",
+        "00:32:17.960000",
+        "This is all just her memories!"
+      ],
+      [
+        429,
+        "00:32:53.240000",
+        "00:32:58.520000",
+        "Carlo shall live forever. With me, in my memories."
+      ],
+      [
+        437,
+        "00:33:23.680000",
+        "00:33:27.960000",
+        "In my memories, he will never change his mind."
+      ],
+      [
+        471,
+        "00:37:22.640000",
+        "00:37:24",
+        "Memories..."
+      ],
+      [
+        472,
+        "00:37:24.840000",
+        "00:37:28.560000",
+        "Memories aren't an escape!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMemories:)Memories)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

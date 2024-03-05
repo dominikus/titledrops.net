@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt7701096",
+    "title": "No Man's Land",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 1184,
+    "occurrences": [
+      [
+        929,
+        "01:00:08.781000",
+        "01:00:10.115000",
+        "It's No Man's Land."
+      ],
+      [
+        952,
+        "01:01:42.541000",
+        "01:01:43.406000",
+        "No Man's Land?"
+      ],
+      [
+        990,
+        "01:03:46.165000",
+        "01:03:48.431000",
+        "Tomorrow I'm going to No Man's Land"
+      ]
+    ],
+    "regex": "\\b((?!\\bNo\\ Man's\\ Land:)No\\ Man's\\ Land)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.9
+  }
+]

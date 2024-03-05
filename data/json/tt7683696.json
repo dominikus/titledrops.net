@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7683696",
+    "title": "Die Tomorrow",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 572,
+    "occurrences": [
+      [
+        157,
+        "00:13:55.875000",
+        "00:13:59.083000",
+        "Would you want to know if you're going to die tomorrow?"
+      ],
+      [
+        162,
+        "00:14:10",
+        "00:14:15.125000",
+        "But if I knew I was going to die tomorrow, I'd be really sad"
+      ]
+    ],
+    "regex": "\\b((?!\\bDie\\ Tomorrow:)Die\\ Tomorrow)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

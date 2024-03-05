@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0366621",
+    "title": "InuYasha the Movie 2: The Castle Beyond the Looking Glass",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1231,
+    "occurrences": [
+      [
+        58,
+        "00:05:16.349000",
+        "00:05:17.984000",
+        "THE CASTLE BEYOND THE LOOKING GLASS"
+      ],
+      [
+        916,
+        "01:13:05.113000",
+        "01:13:08.650000",
+        "Illusion... The castle beyond the looking glass."
+      ]
+    ],
+    "regex": "\\b((?!\\bInuYasha\\ the\\ Movie:)InuYasha\\ the\\ Movie|(?!\\bCastle\\ Beyond\\ the\\ Looking\\ Glass:)Castle\\ Beyond\\ the\\ Looking\\ Glass)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

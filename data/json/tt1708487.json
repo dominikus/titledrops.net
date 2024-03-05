@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt1708487",
+    "title": "Kutty",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 911,
+    "occurrences": [
+      [
+        615,
+        "01:31:33.567000",
+        "01:31:38.004000",
+        "Greetings! I'm Kutty I'm Geetha's lover."
+      ],
+      [
+        707,
+        "01:43:37.223000",
+        "01:43:39.851000",
+        "What's your name? - Kutty!"
+      ],
+      [
+        788,
+        "02:11:48.279000",
+        "02:11:50.873000",
+        "It means, you are Kutty and I'm Geetha."
+      ]
+    ],
+    "regex": "\\b((?!\\bKutty:)Kutty)(?!\\:)(?!'t)\\b",
+    "runtime": 157,
+    "characters": [
+      "Kutty"
+    ],
+    "title_is_name": true,
+    "rating": 5.4
+  }
+]

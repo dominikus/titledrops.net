@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0293660",
+    "title": "The Touch",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 742,
+    "occurrences": [
+      [
+        1,
+        "00:02:24.077000",
+        "00:02:25.738000",
+        "The Touch proudly presents"
+      ],
+      [
+        568,
+        "01:02:01.317000",
+        "01:02:04.684000",
+        "The Touch requires"
+      ]
+    ],
+    "regex": "\\b((?!\\bTouch:)Touch)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

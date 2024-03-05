@@ -1,0 +1,48 @@
+[
+  {
+    "imdb": "tt0100263",
+    "title": "Nikita",
+    "year": 1990,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 767,
+    "occurrences": [
+      [
+        39,
+        "00:08:00.913000",
+        "00:08:02.310000",
+        "Nikita."
+      ],
+      [
+        84,
+        "00:15:01.499000",
+        "00:15:02.759000",
+        "Nikita."
+      ],
+      [
+        292,
+        "00:49:19.521000",
+        "00:49:21.213000",
+        "Stop it, Nikita!"
+      ],
+      [
+        299,
+        "00:50:13.342000",
+        "00:50:15.433000",
+        "You've worked well, Nikita."
+      ]
+    ],
+    "regex": "\\b((?!\\bNikita:)Nikita)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [
+      "Nikita",
+      "Marie Clément"
+    ],
+    "title_is_name": true,
+    "rating": 7.3
+  }
+]

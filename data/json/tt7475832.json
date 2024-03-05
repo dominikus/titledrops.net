@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt7475832",
+    "title": "Fall City",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1013,
+    "occurrences": [
+      [
+        27,
+        "00:05:35.752000",
+        "00:05:38.671000",
+        "-  Fall City, River Street."
+      ],
+      [
+        220,
+        "00:21:58.191000",
+        "00:22:01.111000",
+        "No, I'm here, in Fall City."
+      ]
+    ],
+    "regex": "\\b((?!\\bFall\\ City:)Fall\\ City)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

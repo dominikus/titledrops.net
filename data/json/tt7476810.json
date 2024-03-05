@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt7476810",
+    "title": "Dead Pigs",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 5,
+    "all_lines": 1276,
+    "occurrences": [
+      [
+        328,
+        "00:30:55.041000",
+        "00:30:56.708000",
+        "No-one wants dead pigs!"
+      ],
+      [
+        418,
+        "00:38:05.041000",
+        "00:38:07.500000",
+        "She said people are asking about those dead pigs."
+      ],
+      [
+        681,
+        "01:00:04.583000",
+        "01:00:08.750000",
+        "More than 10,000 dead pigs have been found in the rivers,"
+      ],
+      [
+        1047,
+        "01:28:44.666000",
+        "01:28:50.083000",
+        "There are now 16,000 dead pigs in our rivers..."
+      ],
+      [
+        1216,
+        "01:49:03",
+        "01:49:05.250000",
+        "Weeks after dead pigs flooded our rivers,"
+      ]
+    ],
+    "regex": "\\b((?!\\bDead\\ Pigs:)Dead\\ Pigs)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

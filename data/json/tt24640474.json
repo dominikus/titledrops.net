@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt24640474",
+    "title": "Disconnect: The Wedding Planner",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1646,
+    "occurrences": [
+      [
+        73,
+        "00:05:02.541000",
+        "00:05:03.333000",
+        "What's up with the wedding planner?"
+      ],
+      [
+        75,
+        "00:05:05.583000",
+        "00:05:07.958000",
+        "I told you this, I don't trust this wedding planner."
+      ]
+    ],
+    "regex": "\\b((?!\\bDisconnect:)Disconnect|(?!\\bWedding\\ Planner:)Wedding\\ Planner)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

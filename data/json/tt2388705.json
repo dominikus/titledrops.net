@@ -1,0 +1,34 @@
+[
+  {
+    "imdb": "tt2388705",
+    "title": "Molly Maxwell",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 893,
+    "occurrences": [
+      [
+        37,
+        "00:04:04.583000",
+        "00:04:05.542000",
+        "Molly Maxwell."
+      ],
+      [
+        551,
+        "00:50:04.250000",
+        "00:50:06.708000",
+        "You're something else, Molly Maxwell."
+      ]
+    ],
+    "regex": "\\b((?!\\bMolly\\ Maxwell:)Molly\\ Maxwell)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [
+      "Molly Maxwell"
+    ],
+    "title_is_name": true,
+    "rating": 6.2
+  }
+]

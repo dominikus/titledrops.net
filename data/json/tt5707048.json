@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5707048",
+    "title": "Loveling",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1236,
+    "occurrences": [
+      [
+        339,
+        "00:28:46.456000",
+        "00:28:51.208000",
+        "Loveling..."
+      ],
+      [
+        992,
+        "01:08:40.720000",
+        "01:08:45.116000",
+        "- It doesn't fit me anymore. - No? You've grown so much, loveling!"
+      ]
+    ],
+    "regex": "\\b((?!\\bLoveling:)Loveling)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

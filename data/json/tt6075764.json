@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6075764",
+    "title": "My Brother Loves Me Too Much",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Family",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1098,
+    "occurrences": [
+      [
+        36,
+        "00:04:20.888000",
+        "00:04:23.094000",
+        "have difficulty loving because my brother loves me too much."
+      ],
+      [
+        113,
+        "00:08:37.945000",
+        "00:08:44.052000",
+        "I Have Difficulty Loving Because My Brother Loves Me Too Much"
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Brother\\ Loves\\ Me\\ Too\\ Much:)My\\ Brother\\ Loves\\ Me\\ Too\\ Much)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

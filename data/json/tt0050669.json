@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0050669",
+    "title": "Inspector Maigret",
+    "year": 1958,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1693,
+    "occurrences": [
+      [
+        36,
+        "00:06:46.591000",
+        "00:06:49.810000",
+        "Hello? They also asked me to notify Inspector Maigret."
+      ],
+      [
+        169,
+        "00:16:15.183000",
+        "00:16:19.672000",
+        "FROM JACK THE RIPPER TO MR. X What Will the Killer Dare Next? Inspector Maigret starts over again."
+      ],
+      [
+        174,
+        "00:16:39.945000",
+        "00:16:43.503000",
+        "Hello, police? This is Inspector Maigret. Give me headquarters."
+      ],
+      [
+        179,
+        "00:16:56.233000",
+        "00:16:58.734000",
+        "Please connect the 4th district to Inspector Maigret."
+      ],
+      [
+        563,
+        "00:44:48.968000",
+        "00:44:50.310000",
+        "Inspector Maigret."
+      ],
+      [
+        725,
+        "00:56:11.437000",
+        "00:56:14.895000",
+        "Inspector Maigret, Crime Squad. I have a few questions to ask you."
+      ]
+    ],
+    "regex": "\\b((?!\\bInspector\\ Maigret:)Inspector\\ Maigret)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

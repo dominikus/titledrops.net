@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1931466",
+    "title": "Knife Fight",
+    "year": 2012,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1947,
+    "occurrences": [
+      [
+        273,
+        "00:13:49.829000",
+        "00:13:55.043000",
+        "you have got to be the person who's willing to bring a gun to a knife fight."
+      ],
+      [
+        1578,
+        "01:15:19.015000",
+        "01:15:22.143000",
+        "I think it's gonna be a knife fight in a phone booth."
+      ]
+    ],
+    "regex": "\\b((?!\\bKnife\\ Fight:)Knife\\ Fight)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

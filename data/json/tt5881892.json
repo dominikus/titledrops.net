@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5881892",
+    "title": "Elizabeth Blue",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1358,
+    "occurrences": [
+      [
+        561,
+        "00:39:54.348000",
+        "00:39:58.483000",
+        "And that was the day you became my Elizabeth Blue."
+      ],
+      [
+        1322,
+        "01:28:46.538000",
+        "01:28:49.541000",
+        "-  I love you Elizabeth Blue."
+      ]
+    ],
+    "regex": "\\b((?!\\bElizabeth\\ Blue:)Elizabeth\\ Blue)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

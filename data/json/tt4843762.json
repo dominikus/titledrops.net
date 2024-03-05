@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4843762",
+    "title": "Waterboys",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 455,
+    "occurrences": [
+      [
+        278,
+        "00:39:36.480000",
+        "00:39:40.326000",
+        "Was I really conceived during a Waterboys concert?"
+      ],
+      [
+        373,
+        "00:56:33.160000",
+        "00:56:35.367000",
+        "These are your Waterboys."
+      ],
+      [
+        432,
+        "01:07:37.440000",
+        "01:07:41.570000",
+        "you said I was conceived at a Waterboys concert?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWaterboys:)Waterboys)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

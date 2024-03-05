@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3453964",
+    "title": "Jugni",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1392,
+    "occurrences": [
+      [
+        367,
+        "00:23:22.208000",
+        "00:23:24.417000",
+        "Presenting... Jugni."
+      ],
+      [
+        1310,
+        "01:40:57.292000",
+        "01:40:59.625000",
+        "...The 'Jugni' song in your film was great."
+      ]
+    ],
+    "regex": "\\b((?!\\bJugni:)Jugni)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

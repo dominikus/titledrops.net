@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3429014",
+    "title": "Aberdeen",
+    "year": 2014,
+    "genres": [
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1037,
+    "occurrences": [
+      [
+        328,
+        "00:30:17.208000",
+        "00:30:21.374000",
+        "My previous three generations were all fishermen from Aberdeen"
+      ],
+      [
+        905,
+        "01:19:24.875000",
+        "01:19:26.582000",
+        "then don't use the Aberdeen tunnel"
+      ]
+    ],
+    "regex": "\\b((?!\\bAberdeen:)Aberdeen)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0094607",
+    "title": "Accidents",
+    "year": 1989,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1193,
+    "occurrences": [
+      [
+        386,
+        "00:25:31.486000",
+        "00:25:34.097000",
+        "to write Tom and Mark off as accidents, you know?"
+      ],
+      [
+        592,
+        "00:40:49.316000",
+        "00:40:52.319000",
+        "Dead by unusual accidents. You've got a chief of security"
+      ],
+      [
+        867,
+        "01:02:57.774000",
+        "01:02:59.427000",
+        "on the accidents at APT in the newspaper this morning?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAccidents:)Accidents)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt22207786",
+    "title": "Red Rooms",
+    "year": 2023,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 921,
+    "occurrences": [
+      [
+        108,
+        "00:12:59.446000",
+        "00:13:04.952000",
+        "how red rooms work, and the concept of supply and demand."
+      ],
+      [
+        810,
+        "01:17:59.346000",
+        "01:18:01.557000",
+        "And what about red rooms?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRed\\ Rooms:)Red\\ Rooms)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0082133",
+    "title": "Caligula: The Untold Story",
+    "year": 1982,
+    "genres": [
+      "Action",
+      "Adult",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 91,
+    "occurrences": [
+      [
+        2,
+        "00:04:18",
+        "00:04:21.993000",
+        "Spare your irony, Caligula! Save it for your friends..."
+      ],
+      [
+        56,
+        "00:19:15.560000",
+        "00:19:21.954000",
+        "This would cause a civil war. Besides, not everbody in the senate is hostile to Caligula."
+      ]
+    ],
+    "regex": "\\b((?!\\bCaligula:)Caligula|(?!\\bUntold\\ Story:)Untold\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

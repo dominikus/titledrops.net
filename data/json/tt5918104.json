@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5918104",
+    "title": "King of the Dancehall",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 1387,
+    "occurrences": [
+      [
+        1109,
+        "01:35:35.962000",
+        "01:35:38.030000",
+        "How 'bout a real king of the dancehall?"
+      ],
+      [
+        1244,
+        "01:44:56.957000",
+        "01:44:58.792000",
+        "as the King Of The Dancehall."
+      ]
+    ],
+    "regex": "\\b((?!\\bKing\\ of\\ the\\ Dancehall:)King\\ of\\ the\\ Dancehall)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

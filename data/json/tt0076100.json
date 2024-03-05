@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0076100",
+    "title": "Grand Theft Auto",
+    "year": 1977,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 970,
+    "occurrences": [
+      [
+        418,
+        "00:37:23.376000",
+        "00:37:26.882000",
+        "That's grand theft auto on a rather grand scale."
+      ],
+      [
+        854,
+        "01:16:03.615000",
+        "01:16:08.724000",
+        "Call a paddy wagon because all of these people are wanted for grand theft auto"
+      ]
+    ],
+    "regex": "\\b((?!\\bGrand\\ Theft\\ Auto:)Grand\\ Theft\\ Auto)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt5082014",
+    "title": "Charlie",
+    "year": 2015,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1362,
+    "occurrences": [
+      [
+        0,
+        "00:02:51.070000",
+        "00:02:59.102000",
+        "'Charlie'"
+      ],
+      [
+        414,
+        "00:42:43.294000",
+        "00:42:46.229000",
+        "'Demise - Charlie (1981 - 2014)"
+      ],
+      [
+        415,
+        "00:42:49.400000",
+        "00:42:53.393000",
+        "'Demise - Charlie (1981 - 2014)"
+      ],
+      [
+        1347,
+        "02:06:28.280000",
+        "02:06:29.645000",
+        "Charlie!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCharlie:)Charlie)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [
+      "Charlie"
+    ],
+    "title_is_name": true,
+    "rating": 8
+  }
+]

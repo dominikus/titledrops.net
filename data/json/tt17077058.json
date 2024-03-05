@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt17077058",
+    "title": "Homestay",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 1298,
+    "occurrences": [
+      [
+        23,
+        "00:02:00.621000",
+        "00:02:03.749000",
+        "you will homestay in Makoto Kobayashi's body,"
+      ],
+      [
+        939,
+        "01:09:03.598000",
+        "01:09:07.060000",
+        "since Blank is still doing a homestay."
+      ],
+      [
+        1146,
+        "01:29:50.969000",
+        "01:29:53.847000",
+        "Blank is still doing a homestay."
+      ],
+      [
+        1253,
+        "01:42:43.992000",
+        "01:42:46.870000",
+        "Come on, don't worry. You completed your homestay."
+      ],
+      [
+        1261,
+        "01:43:06.639000",
+        "01:43:08.641000",
+        "life is merely a long-term homestay."
+      ],
+      [
+        1298,
+        "01:46:56.077000",
+        "01:46:57.870000",
+        "a long-term homestay."
+      ]
+    ],
+    "regex": "\\b((?!\\bHomestay:)Homestay)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3332308",
+    "title": "Boom Bust Boom",
+    "year": 2015,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1461,
+    "occurrences": [
+      [
+        1428,
+        "01:08:46.055000",
+        "01:08:49.955000",
+        "* Boom bust boom bust"
+      ],
+      [
+        1431,
+        "01:08:54.931000",
+        "01:08:58.601000",
+        "* Boom bust boom bust"
+      ]
+    ],
+    "regex": "\\b((?!\\bBoom\\ Bust\\ Boom:)Boom\\ Bust\\ Boom)(?!\\:)(?!'t)\\b",
+    "runtime": 70,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

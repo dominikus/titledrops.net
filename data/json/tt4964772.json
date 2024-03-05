@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt4964772",
+    "title": "Risk",
+    "year": 2016,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 1319,
+    "occurrences": [
+      [
+        356,
+        "00:23:18.311000",
+        "00:23:21.411000",
+        "Um, sometimes, the risk can be very high,"
+      ],
+      [
+        362,
+        "00:23:32.323000",
+        "00:23:36.093000",
+        "- The risk of inaction is extremely high,"
+      ],
+      [
+        365,
+        "00:23:41.097000",
+        "00:23:44.097000",
+        "What's the risk of just sitting there?"
+      ],
+      [
+        549,
+        "00:35:19.175000",
+        "00:35:22.305000",
+        "How much of your own life are you willing to risk"
+      ],
+      [
+        552,
+        "00:35:26.614000",
+        "00:35:30.784000",
+        "You might be willing to risk rather a lot,"
+      ]
+    ],
+    "regex": "\\b((?!\\bRisk:)Risk)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1379689",
+    "title": "The Interrogation",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1022,
+    "occurrences": [
+      [
+        120,
+        "00:12:16.280000",
+        "00:12:19.875000",
+        "The interrogation is over and will continue when you want to talk."
+      ],
+      [
+        266,
+        "00:27:44.720000",
+        "00:27:47.678000",
+        "The interrogation is conducted at the HQ Surveillance Division."
+      ],
+      [
+        267,
+        "00:27:48.320000",
+        "00:27:52.598000",
+        "The interrogation commenced on September 18, 1942, -"
+      ]
+    ],
+    "regex": "\\b((?!\\bInterrogation:)Interrogation)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

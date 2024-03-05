@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt11386020",
+    "title": "Black Raven",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 787,
+    "occurrences": [
+      [
+        236,
+        "00:27:34.160000",
+        "00:27:37.500000",
+        "Only an old black raven saw him that night."
+      ],
+      [
+        300,
+        "00:36:16.240000",
+        "00:36:18.560000",
+        "Black Raven."
+      ],
+      [
+        587,
+        "01:15:25.960000",
+        "01:15:28.180000",
+        "yet the Black Raven told himself"
+      ],
+      [
+        785,
+        "01:45:49.920000",
+        "01:45:54.020000",
+        "The Black Raven assembled a new squadron from the surviving"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Raven:)Black\\ Raven)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

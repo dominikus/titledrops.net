@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0428212",
+    "title": "All Souls Day: Dia de los Muertos",
+    "year": 2005,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1225,
+    "occurrences": [
+      [
+        353,
+        "00:25:26.568000",
+        "00:25:30.180000",
+        "Joss, it's Dia de los Muertos, the Day of the Dead."
+      ],
+      [
+        1089,
+        "01:14:23.676000",
+        "01:14:26.549000",
+        "to a celebration of Dia de los Muertos"
+      ],
+      [
+        1160,
+        "01:18:51.727000",
+        "01:18:55.731000",
+        "will return to walk again on Dia de los Muertos."
+      ]
+    ],
+    "regex": "\\b((?!\\bAll\\ Souls\\ Day:)All\\ Souls\\ Day|(?!\\bDia\\ de\\ los\\ Muertos:)Dia\\ de\\ los\\ Muertos)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

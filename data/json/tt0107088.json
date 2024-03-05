@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0107088",
+    "title": "The Hawk",
+    "year": 1993,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1114,
+    "occurrences": [
+      [
+        185,
+        "00:13:31.233000",
+        "00:13:34.300000",
+        "now believed to be the sixth killing by the Hawk"
+      ],
+      [
+        473,
+        "00:33:41.833000",
+        "00:33:44.133000",
+        "Don't you know why they call him the Hawk?"
+      ],
+      [
+        795,
+        "00:56:08.400000",
+        "00:56:10.500000",
+        "-Look, see the hawk. -Where?"
+      ],
+      [
+        988,
+        "01:09:41.100000",
+        "01:09:42.200000",
+        "He wasn't The Hawk."
+      ]
+    ],
+    "regex": "\\b((?!\\bHawk:)Hawk)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

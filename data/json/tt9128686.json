@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt9128686",
+    "title": "The Pool",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 469,
+    "occurrences": [
+      [
+        3,
+        "00:04:04.376000",
+        "00:04:05.876000",
+        "Why are the pool lights on?"
+      ],
+      [
+        14,
+        "00:04:25.168000",
+        "00:04:26.564000",
+        "They will close down the pool tomorrow."
+      ],
+      [
+        98,
+        "00:12:10.168000",
+        "00:12:11.481000",
+        "This pool is no longer used."
+      ],
+      [
+        109,
+        "00:12:35.709000",
+        "00:12:38.293000",
+        "\"Caution Pool depth 6 m.\""
+      ],
+      [
+        182,
+        "00:37:49.251000",
+        "00:37:50.626000",
+        "We are stuck in a swimming pool."
+      ]
+    ],
+    "regex": "\\b((?!\\bPool:)Pool)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

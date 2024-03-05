@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt11618536",
+    "title": "Shithouse",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1792,
+    "occurrences": [
+      [
+        43,
+        "00:02:47.199000",
+        "00:02:49.736000",
+        "Yeah, yeah. Shithouse is having a party."
+      ],
+      [
+        44,
+        "00:02:52.004000",
+        "00:02:53.939000",
+        "- Like, the house is called \"Shithouse\"? - Mmmhmm."
+      ],
+      [
+        47,
+        "00:03:01.180000",
+        "00:03:03.748000",
+        "No, no man. It's just-no, it's just Shithouse."
+      ],
+      [
+        124,
+        "00:08:06.485000",
+        "00:08:07.252000",
+        "Having fun in Shithouse?"
+      ]
+    ],
+    "regex": "\\b((?!\\bShithouse:)Shithouse)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

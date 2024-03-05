@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt1437357",
+    "title": "Faust",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 919,
+    "occurrences": [
+      [
+        205,
+        "00:17:01.329000",
+        "00:17:02.409000",
+        "My name is Faust, Doctor Faust."
+      ],
+      [
+        815,
+        "00:59:10.753000",
+        "00:59:13.479000",
+        "- Mr. Faust, this Isn't like you. - No, it isn't like me."
+      ]
+    ],
+    "regex": "\\b((?!\\bFaust:)Faust)(?!\\:)(?!'t)\\b",
+    "runtime": 140,
+    "characters": [
+      "Heinrich Faust"
+    ],
+    "title_is_name": true,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt9612982",
+    "title": "The Assent",
+    "year": 2019,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 978,
+    "occurrences": [
+      [
+        12,
+        "00:01:37.465000",
+        "00:01:40.699000",
+        "Which is known as the Assent."
+      ],
+      [
+        827,
+        "01:08:51.661000",
+        "01:08:55.296000",
+        "Now is the time for the Assent."
+      ],
+      [
+        948,
+        "01:19:03.039000",
+        "01:19:05.840000",
+        "which is known as the Assent."
+      ]
+    ],
+    "regex": "\\b((?!\\bAssent:)Assent)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

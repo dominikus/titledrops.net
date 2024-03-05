@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0056197",
+    "title": "The Longest Day",
+    "year": 1962,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1691,
+    "occurrences": [
+      [
+        35,
+        "00:05:42.593000",
+        "00:05:47.264000",
+        "For the Allies as well as the Germans, it will be the longest day..."
+      ],
+      [
+        36,
+        "00:05:49.266000",
+        "00:05:50.643000",
+        "...the longest day."
+      ]
+    ],
+    "regex": "\\b((?!\\bLongest\\ Day:)Longest\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 178,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

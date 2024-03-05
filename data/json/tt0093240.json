@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0093240",
+    "title": "Me and Him",
+    "year": 1988,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 2072,
+    "occurrences": [
+      [
+        32,
+        "00:03:23.269000",
+        "00:03:27.040000",
+        "Me and him Him and me"
+      ],
+      [
+        42,
+        "00:04:06.512000",
+        "00:04:10.216000",
+        "Him and me Me and him"
+      ],
+      [
+        2069,
+        "01:33:10.117000",
+        "01:33:13.588000",
+        "Me and him Him and me"
+      ]
+    ],
+    "regex": "\\b((?!\\bMe\\ and\\ Him:)Me\\ and\\ Him)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

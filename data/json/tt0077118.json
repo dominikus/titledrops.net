@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0077118",
+    "title": "Acapulco Gold",
+    "year": 1976,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 476,
+    "occurrences": [
+      [
+        326,
+        "00:58:15.760000",
+        "00:58:24.080000",
+        "where would that be we'll find out soon enough what did we bring over on the boat acapulco gold"
+      ],
+      [
+        354,
+        "01:02:00.640000",
+        "01:02:04.960000",
+        "and wait for wang's messenger he'll say the code words acapulco gold then you let him check over"
+      ],
+      [
+        401,
+        "01:10:58.800000",
+        "01:11:05.440000",
+        "galatia have him say acapulco gold to the young lady on board she'll turn the boat over to him"
+      ]
+    ],
+    "regex": "\\b((?!\\bAcapulco\\ Gold:)Acapulco\\ Gold)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

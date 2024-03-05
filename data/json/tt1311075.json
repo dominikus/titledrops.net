@@ -1,0 +1,34 @@
+[
+  {
+    "imdb": "tt1311075",
+    "title": "The Human Resources Manager",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 741,
+    "occurrences": [
+      [
+        94,
+        "00:08:43.360000",
+        "00:08:47.160000",
+        "Sincerely yours, Human Resources Manager"
+      ],
+      [
+        388,
+        "00:35:58.040000",
+        "00:36:00.920000",
+        "Let me explain something, Mr. Human Resources Manager."
+      ]
+    ],
+    "regex": "\\b((?!\\bHuman\\ Resources\\ Manager:)Human\\ Resources\\ Manager)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [
+      "The Human Resources Manager"
+    ],
+    "title_is_name": true,
+    "rating": 6.6
+  }
+]

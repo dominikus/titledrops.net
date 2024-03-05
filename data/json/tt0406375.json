@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0406375",
+    "title": "Zathura: A Space Adventure",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 7,
+    "all_lines": 955,
+    "occurrences": [
+      [
+        216,
+        "00:17:55.540000",
+        "00:17:57.770000",
+        "What's Zathura?"
+      ],
+      [
+        314,
+        "00:27:54.239000",
+        "00:27:56.867000",
+        "''Zathura. Attention, space adventurers."
+      ],
+      [
+        315,
+        "00:27:57.041000",
+        "00:27:58.702000",
+        "Zathura awaits."
+      ],
+      [
+        319,
+        "00:28:05.316000",
+        "00:28:07.614000",
+        "...there's no turning back until Zathura's reached."
+      ],
+      [
+        906,
+        "01:31:58.245000",
+        "01:31:59.906000",
+        "l reached Zathura!"
+      ],
+      [
+        913,
+        "01:33:32.172000",
+        "01:33:35.141000",
+        "Zathura is a black hole!"
+      ],
+      [
+        931,
+        "01:35:16.209000",
+        "01:35:18.575000",
+        "-l won the game. l beat Zathura. -We're home."
+      ]
+    ],
+    "regex": "\\b((?!\\bZathura:)Zathura|(?!\\bSpace\\ Adventure:)Space\\ Adventure)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

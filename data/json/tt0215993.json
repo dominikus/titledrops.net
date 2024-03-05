@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0215993",
+    "title": "Messengers",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1229,
+    "occurrences": [
+      [
+        181,
+        "00:14:37.680000",
+        "00:14:40.945000",
+        "Bicycle messengers are bound to catch on."
+      ],
+      [
+        397,
+        "00:32:57.212000",
+        "00:32:58.736000",
+        "Bike messengers will never catch on."
+      ],
+      [
+        861,
+        "01:17:56.275000",
+        "01:18:00.302000",
+        "I was told only to use bicycle messengers. Sorry."
+      ]
+    ],
+    "regex": "\\b((?!\\bMessengers:)Messengers)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

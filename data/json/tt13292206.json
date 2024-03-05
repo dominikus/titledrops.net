@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt13292206",
+    "title": "Bobbleheads: The Movie",
+    "year": 2020,
+    "genres": [
+      "Animation",
+      "Family"
+    ],
+    "count": 7,
+    "all_lines": 1405,
+    "occurrences": [
+      [
+        306,
+        "00:18:58.805000",
+        "00:19:01.933000",
+        "Come on, sugar. Let's watch a movie till they get back."
+      ],
+      [
+        314,
+        "00:19:21.160000",
+        "00:19:23.121000",
+        "Scared of a little movie."
+      ],
+      [
+        886,
+        "00:54:12.792000",
+        "00:54:14.085000",
+        "Bobbleheads up."
+      ],
+      [
+        1087,
+        "01:06:01.792000",
+        "01:06:03.669000",
+        "There are many other bobbleheads out there"
+      ],
+      [
+        1132,
+        "01:08:41.117000",
+        "01:08:43.745000",
+        "Jimmy built animatronic bobbleheads!"
+      ],
+      [
+        1221,
+        "01:13:32.200000",
+        "01:13:33.701000",
+        "No. These ain't bobbleheads."
+      ],
+      [
+        1245,
+        "01:15:00.830000",
+        "01:15:02.540000",
+        "Two bobbleheads are better than one."
+      ]
+    ],
+    "regex": "\\b((?!\\bBobbleheads:)Bobbleheads|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.3
+  }
+]

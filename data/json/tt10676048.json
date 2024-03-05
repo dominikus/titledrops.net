@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt10676048",
+    "title": "The Marvels",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 1203,
+    "occurrences": [
+      [
+        505,
+        "00:41:49.718000",
+        "00:41:52.971000",
+        "-No, no, she, she will not. But thank you. -The Marvels."
+      ],
+      [
+        802,
+        "00:56:52.788000",
+        "00:56:58.210000",
+        "The Marvels!"
+      ],
+      [
+        803,
+        "00:56:58.293000",
+        "00:56:59.419000",
+        "The Marvels"
+      ],
+      [
+        804,
+        "00:56:59.503000",
+        "00:57:00.295000",
+        "The Marvels?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMarvels:)Marvels)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

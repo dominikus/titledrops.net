@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0073152",
+    "title": "Kings of the Road",
+    "year": 1976,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 618,
+    "occurrences": [
+      [
+        47,
+        "00:04:44.040000",
+        "00:04:53.723000",
+        "In the Course of Time (Kings of the Road)"
+      ],
+      [
+        384,
+        "01:52:51.249000",
+        "01:52:54.614000",
+        "I thought the Kings of the Road didn't like history"
+      ]
+    ],
+    "regex": "\\b((?!\\bKings\\ of\\ the\\ Road:)Kings\\ of\\ the\\ Road)(?!\\:)(?!'t)\\b",
+    "runtime": 175,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

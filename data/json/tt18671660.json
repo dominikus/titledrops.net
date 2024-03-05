@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt18671660",
+    "title": "Fullmetal Alchemist: Final Transmutation",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 1590,
+    "occurrences": [
+      [
+        476,
+        "00:36:27.602000",
+        "00:36:30.146000",
+        "Come in, Fullmetal Alchemist."
+      ],
+      [
+        573,
+        "00:44:27.164000",
+        "00:44:28.415000",
+        "Fullmetal Alchemist."
+      ],
+      [
+        625,
+        "00:47:56.915000",
+        "00:48:00.127000",
+        "What did the Fullmetal Alchemist tell you?"
+      ],
+      [
+        1458,
+        "02:03:35.699000",
+        "02:03:39.829000",
+        "The Fullmetal Alchemist's last transmutation."
+      ]
+    ],
+    "regex": "\\b((?!\\bFullmetal\\ Alchemist:)Fullmetal\\ Alchemist|(?!\\bFinal\\ Transmutation:)Final\\ Transmutation)(?!\\:)(?!'t)\\b",
+    "runtime": 142,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0101636",
+    "title": "Curse III: Blood Sacrifice",
+    "year": 1991,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 639,
+    "occurrences": [
+      [
+        77,
+        "00:14:36.541000",
+        "00:14:38.001000",
+        "It was a curse wasn't it?"
+      ],
+      [
+        81,
+        "00:14:54.017000",
+        "00:14:55.894000",
+        "Doesn't sound like much of a curse."
+      ],
+      [
+        197,
+        "00:26:04.729000",
+        "00:26:06.889000",
+        "- It's the curse of this part of the coast I'm afraid."
+      ],
+      [
+        266,
+        "00:31:07.031000",
+        "00:31:08.741000",
+        "- He put a curse on him."
+      ]
+    ],
+    "regex": "\\b((?!\\bCurse:)Curse|(?!\\bBlood\\ Sacrifice:)Blood\\ Sacrifice)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

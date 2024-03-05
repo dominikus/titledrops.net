@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6052748",
+    "title": "A Chance in the World",
+    "year": 2017,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1617,
+    "occurrences": [
+      [
+        274,
+        "00:18:47.735000",
+        "00:18:49.302000",
+        "You don't have a chance in the world"
+      ],
+      [
+        1610,
+        "01:43:46.307000",
+        "01:43:49.745000",
+        "that I didn't have a chance in the world."
+      ]
+    ],
+    "regex": "\\b((?!\\bChance\\ in\\ the\\ World:)Chance\\ in\\ the\\ World)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

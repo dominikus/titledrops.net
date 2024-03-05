@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0094606",
+    "title": "The Accidental Tourist",
+    "year": 1988,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1268,
+    "occurrences": [
+      [
+        35,
+        "00:03:30.860000",
+        "00:03:33.454000",
+        "Accidental Tourist."
+      ],
+      [
+        44,
+        "00:03:59.222000",
+        "00:04:04.660000",
+        "I tell my wife, \"Going with the Accidental Tourist is like going in a cocoon.\""
+      ],
+      [
+        441,
+        "00:37:46.914000",
+        "00:37:50.247000",
+        "The Accidental Tourist on Crutches."
+      ]
+    ],
+    "regex": "\\b((?!\\bAccidental\\ Tourist:)Accidental\\ Tourist)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

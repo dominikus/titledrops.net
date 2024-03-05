@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0075778",
+    "title": "The Boxer",
+    "year": 1977,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 592,
+    "occurrences": [
+      [
+        281,
+        "00:43:23.930000",
+        "00:43:27.230000",
+        "I want to be a boxer next to no one."
+      ],
+      [
+        307,
+        "00:47:39.610000",
+        "00:47:42.750000",
+        "Another amateur boxer, 21 years old,"
+      ],
+      [
+        310,
+        "00:48:25.610000",
+        "00:48:26.947000",
+        "Arai, another amateur boxer."
+      ],
+      [
+        485,
+        "01:11:43.607000",
+        "01:11:46.980000",
+        "You always hang out with that boxer."
+      ]
+    ],
+    "regex": "\\b((?!\\bBoxer:)Boxer)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

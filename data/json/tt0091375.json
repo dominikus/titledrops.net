@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0091375",
+    "title": "Lamb",
+    "year": 1985,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1403,
+    "occurrences": [
+      [
+        376,
+        "00:31:16.374000",
+        "00:31:18.576000",
+        "The Brother Sebastian or Michael Lamb today?"
+      ],
+      [
+        377,
+        "00:31:18.676000",
+        "00:31:21.446000",
+        "I think Michael Lamb may be best for business."
+      ],
+      [
+        991,
+        "01:13:49.591000",
+        "01:13:50.792000",
+        "This is Michael Lamb."
+      ],
+      [
+        1341,
+        "01:35:44.671000",
+        "01:35:46.173000",
+        "Thank you Mr. Lamb."
+      ]
+    ],
+    "regex": "\\b((?!\\bLamb:)Lamb)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [
+      "Michael Lamb"
+    ],
+    "title_is_name": true,
+    "rating": 6.3
+  }
+]

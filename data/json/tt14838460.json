@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt14838460",
+    "title": "The Red Shoes: Next Step",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 1648,
+    "occurrences": [
+      [
+        31,
+        "00:03:16.949000",
+        "00:03:18.751000",
+        "Red shoes to celebrate."
+      ],
+      [
+        445,
+        "00:25:08.101000",
+        "00:25:10.104000",
+        "This is \"The Red Shoes.\""
+      ],
+      [
+        458,
+        "00:26:17.772000",
+        "00:26:20.140000",
+        "The red shoes want to dance, but she doesn't."
+      ],
+      [
+        589,
+        "00:34:25.829000",
+        "00:34:28.098000",
+        "as Karen in \"The Red Shoes.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bRed\\ Shoes:)Red\\ Shoes|(?!\\bNext\\ Step:)Next\\ Step)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

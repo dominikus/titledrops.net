@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0039211",
+    "title": "Born to Kill",
+    "year": 1947,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 2,
+    "all_lines": 595,
+    "occurrences": [
+      [
+        3,
+        "00:03:44.290000",
+        "00:03:49.751000",
+        "Born to Kill"
+      ],
+      [
+        473,
+        "01:23:26.101000",
+        "01:23:31.767000",
+        "Wake up, bithch! He was born to Kill"
+      ]
+    ],
+    "regex": "\\b((?!\\bBorn\\ to\\ Kill:)Born\\ to\\ Kill)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

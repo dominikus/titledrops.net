@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0991242",
+    "title": "The Graduates",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 609,
+    "occurrences": [
+      [
+        8,
+        "00:01:18.812000",
+        "00:01:28.813000",
+        "The Graduates"
+      ],
+      [
+        609,
+        "01:54:58.543000",
+        "01:55:03.810000",
+        "?007 \"The Graduates\" PRODUCTION COMMITTEE"
+      ]
+    ],
+    "regex": "\\b((?!\\bGraduates:)Graduates)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

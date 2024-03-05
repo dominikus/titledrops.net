@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt2443822",
+    "title": "The Boy",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 487,
+    "occurrences": [
+      [
+        18,
+        "00:08:57.970000",
+        "00:09:00.272000",
+        "Good boy."
+      ],
+      [
+        256,
+        "00:57:36.119000",
+        "00:57:38.987000",
+        "Here, boy."
+      ],
+      [
+        257,
+        "00:57:38.989000",
+        "00:57:41.356000",
+        "- Here, boy. -         Here, boy."
+      ],
+      [
+        295,
+        "01:02:33.683000",
+        "01:02:35.283000",
+        "Boy can't help it."
+      ],
+      [
+        300,
+        "01:03:04.113000",
+        "01:03:05.947000",
+        "Boy's growing like a weed."
+      ]
+    ],
+    "regex": "\\b((?!\\bBoy:)Boy)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "imdb": "tt7246106",
+    "title": "Artik",
+    "year": 2019,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 829,
+    "occurrences": [
+      [
+        429,
+        "00:34:45.150000",
+        "00:34:46.150000",
+        "I'm Artik."
+      ],
+      [
+        480,
+        "00:37:17.269000",
+        "00:37:18.868000",
+        "Goddammit Artik!"
+      ]
+    ],
+    "regex": "\\b((?!\\bArtik:)Artik)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [
+      "Artik"
+    ],
+    "title_is_name": true,
+    "rating": 4.3
+  }
+]

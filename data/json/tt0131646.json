@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0131646",
+    "title": "Wing Commander",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1422,
+    "occurrences": [
+      [
+        308,
+        "00:20:49.200000",
+        "00:20:50.480000",
+        "your wing commander."
+      ],
+      [
+        322,
+        "00:21:32.160000",
+        "00:21:34.240000",
+        "and you're already hitting on our wing commander?"
+      ],
+      [
+        385,
+        "00:24:31.120000",
+        "00:24:32.720000",
+        "of mistaking our wing commander..."
+      ]
+    ],
+    "regex": "\\b((?!\\bWing\\ Commander:)Wing\\ Commander)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

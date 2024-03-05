@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt0090009",
+    "title": "She",
+    "year": 1984,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 399,
+    "occurrences": [
+      [
+        200,
+        "00:46:29.967000",
+        "00:46:31.546000",
+        "She is a unique mortal."
+      ],
+      [
+        222,
+        "00:53:48.765000",
+        "00:53:51.884000",
+        "- What about her? - She is still useful."
+      ],
+      [
+        223,
+        "00:53:52.218000",
+        "00:53:57.470000",
+        "She will serve well as we teach her people a lesson in monotheism."
+      ]
+    ],
+    "regex": "\\b((?!\\bShe:)She)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [
+      "She"
+    ],
+    "title_is_name": true,
+    "rating": 4.8
+  }
+]

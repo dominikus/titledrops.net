@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt6910380",
+    "title": "My Name is Myeisha",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1408,
+    "occurrences": [
+      [
+        359,
+        "00:22:17.870000",
+        "00:22:20.705000",
+        "- My name is Myeisha."
+      ],
+      [
+        420,
+        "00:24:46.686000",
+        "00:24:51.689000",
+        "Tonight, my name is Myeisha, and I'm black."
+      ],
+      [
+        752,
+        "00:43:46.091000",
+        "00:43:49.359000",
+        "P My name is Myeisha and I'm the best P"
+      ],
+      [
+        754,
+        "00:43:53.098000",
+        "00:43:56.833000",
+        "P My name is Myeisha, you know my name, P"
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Name\\ is\\ Myeisha:)My\\ Name\\ is\\ Myeisha)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt8674464",
+    "title": "Escape from Death Block 13",
+    "year": 2021,
+    "genres": [
+      "Action"
+    ],
+    "count": 2,
+    "all_lines": 1616,
+    "occurrences": [
+      [
+        1614,
+        "01:38:38.476000",
+        "01:38:43.271000",
+        "Because there ain't no escape from Death Block 13"
+      ],
+      [
+        1615,
+        "01:38:45.868000",
+        "01:38:50.664000",
+        "No, there ain't no escape from Death Block 13"
+      ]
+    ],
+    "regex": "\\b((?!\\bEscape\\ from\\ Death\\ Block:)Escape\\ from\\ Death\\ Block)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

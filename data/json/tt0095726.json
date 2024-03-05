@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0095726",
+    "title": "A New Life",
+    "year": 1988,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 2114,
+    "occurrences": [
+      [
+        109,
+        "00:07:37.674000",
+        "00:07:39.937000",
+        "Here's to your new life."
+      ],
+      [
+        137,
+        "00:08:44.001000",
+        "00:08:46.613000",
+        "Here's to your new life."
+      ]
+    ],
+    "regex": "\\b((?!\\bNew\\ Life:)New\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

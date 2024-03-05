@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0055312",
+    "title": "Pocketful of Miracles",
+    "year": 1961,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1920,
+    "occurrences": [
+      [
+        39,
+        "00:02:39.840000",
+        "00:02:43.435000",
+        "# I've got a pocketful of miracles"
+      ],
+      [
+        40,
+        "00:02:43.560000",
+        "00:02:47.314000",
+        "# And with my pocketful of miracles"
+      ],
+      [
+        44,
+        "00:03:02.320000",
+        "00:03:05.835000",
+        "# But there's that pocketful of miracles"
+      ],
+      [
+        45,
+        "00:03:05.960000",
+        "00:03:09.635000",
+        "# And with my pocketful of miracles"
+      ]
+    ],
+    "regex": "\\b((?!\\bPocketful\\ of\\ Miracles:)Pocketful\\ of\\ Miracles)(?!\\:)(?!'t)\\b",
+    "runtime": 136,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

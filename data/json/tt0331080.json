@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0331080",
+    "title": "Wheel of Time",
+    "year": 2003,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 312,
+    "occurrences": [
+      [
+        33,
+        "00:03:03.937000",
+        "00:03:07.935000",
+        "Kalachakra literally means \"wheel of time\"."
+      ],
+      [
+        41,
+        "00:03:45.979000",
+        "00:03:48.387000",
+        "which represents the Wheel of Time."
+      ],
+      [
+        98,
+        "00:20:27.939000",
+        "00:20:31.889000",
+        "At the centre of the pattern lies the Wheel of Time."
+      ]
+    ],
+    "regex": "\\b((?!\\bWheel\\ of\\ Time:)Wheel\\ of\\ Time)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

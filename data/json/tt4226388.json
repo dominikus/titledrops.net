@@ -1,0 +1,77 @@
+[
+  {
+    "imdb": "tt4226388",
+    "title": "Victoria",
+    "year": 2015,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "count": 9,
+    "all_lines": 1282,
+    "occurrences": [
+      [
+        42,
+        "00:08:24.921000",
+        "00:08:26.047000",
+        "What's your name? - Victoria."
+      ],
+      [
+        43,
+        "00:08:26.214000",
+        "00:08:28.137000",
+        "Victoria, I'm Sonne. Nice to meet you."
+      ],
+      [
+        61,
+        "00:09:28.777000",
+        "00:09:31.906000",
+        "Nice to meet you. - What's your name? - Victoria."
+      ],
+      [
+        116,
+        "00:12:25.870000",
+        "00:12:29.750000",
+        "Yeah, but hey! It's four o'clock! Victoria, really. It's four o'clock."
+      ],
+      [
+        190,
+        "00:16:48.633000",
+        "00:16:50.180000",
+        "Hey, Victoria! Come here!"
+      ],
+      [
+        353,
+        "00:30:56.521000",
+        "00:30:58.615000",
+        "Victoria, why are you doing this?"
+      ],
+      [
+        605,
+        "00:54:46.992000",
+        "00:54:50.246000",
+        "Victoria. I'm sorry!"
+      ],
+      [
+        743,
+        "01:04:03.381000",
+        "01:04:05.930000",
+        "Victoria, everything OK?"
+      ],
+      [
+        860,
+        "01:14:46.732000",
+        "01:14:52.614000",
+        "Victoria, I'm sorry, yeah. I'm very sorry. - Don't worry. I'm OK. Don't care."
+      ]
+    ],
+    "regex": "\\b((?!\\bVictoria:)Victoria)(?!\\:)(?!'t)\\b",
+    "runtime": 138,
+    "characters": [
+      "Victoria"
+    ],
+    "title_is_name": true,
+    "rating": 7.6
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt11725450",
+    "title": "Basta",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1959,
+    "occurrences": [
+      [
+        408,
+        "00:26:07.120000",
+        "00:26:09.240000",
+        "Basta.. Shopping... we are here for her shopping"
+      ],
+      [
+        871,
+        "00:49:19.640000",
+        "00:49:20.720000",
+        "..the 'basta' (gifts given in marriage)."
+      ],
+      [
+        875,
+        "00:49:32.040000",
+        "00:49:33.480000",
+        "I will shop 'Basta' after two days."
+      ]
+    ],
+    "regex": "\\b((?!\\bBasta:)Basta)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

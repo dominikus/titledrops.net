@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0077707",
+    "title": "The Hypothesis of the Stolen Painting",
+    "year": 1978,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 690,
+    "occurrences": [
+      [
+        560,
+        "00:45:02.969000",
+        "00:45:05.437000",
+        "through the hypothesis of the stolen painting."
+      ],
+      [
+        617,
+        "00:49:55.862000",
+        "00:49:58.888000",
+        "I shall explain through the hypothesis of the stolen painting."
+      ]
+    ],
+    "regex": "\\b((?!\\bHypothesis\\ of\\ the\\ Stolen\\ Painting:)Hypothesis\\ of\\ the\\ Stolen\\ Painting)(?!\\:)(?!'t)\\b",
+    "runtime": 66,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

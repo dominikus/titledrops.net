@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0047595",
+    "title": "Tonight's the Night",
+    "year": 1954,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1974,
+    "occurrences": [
+      [
+        1592,
+        "01:07:33.925000",
+        "01:07:34.961000",
+        "Well tonight's the night."
+      ],
+      [
+        1607,
+        "01:08:07.750000",
+        "01:08:08.750000",
+        "Tonight's the night!"
+      ]
+    ],
+    "regex": "\\b((?!\\bTonight's\\ the\\ Night:)Tonight's\\ the\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

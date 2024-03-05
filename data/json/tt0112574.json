@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0112574",
+    "title": "The Break",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 2346,
+    "occurrences": [
+      [
+        996,
+        "00:38:34.035000",
+        "00:38:36.590000",
+        "You have to learn how to break your opponent down mentally"
+      ],
+      [
+        1093,
+        "00:42:26.474000",
+        "00:42:27.993000",
+        "Break point."
+      ],
+      [
+        1683,
+        "01:08:53.750000",
+        "01:08:55.890000",
+        "- Give me a break, Farley, nobody enforces that rule."
+      ],
+      [
+        1966,
+        "01:20:30.480000",
+        "01:20:31.965000",
+        "Break point for him."
+      ]
+    ],
+    "regex": "\\b((?!\\bBreak:)Break)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

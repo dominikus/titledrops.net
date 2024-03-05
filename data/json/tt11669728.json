@@ -1,0 +1,46 @@
+[
+  {
+    "imdb": "tt11669728",
+    "title": "Toby Dammit",
+    "year": 1968,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 243,
+    "occurrences": [
+      [
+        65,
+        "00:11:32.651000",
+        "00:11:36.489000",
+        "Ladies and gentlemen, here with us today is Toby Dammit!"
+      ],
+      [
+        218,
+        "00:25:48.340000",
+        "00:25:52.928000",
+        "A true star of the stage. Ladies and gentlemen, Toby Dammit!"
+      ],
+      [
+        224,
+        "00:26:49.276000",
+        "00:26:52.120000",
+        "Ladies and gentlemen, Toby Dammit!"
+      ],
+      [
+        230,
+        "00:27:08.545000",
+        "00:27:11.807000",
+        "to Toby Dammit, an unrivaled interpreter"
+      ]
+    ],
+    "regex": "\\b((?!\\bToby\\ Dammit:)Toby\\ Dammit)(?!\\:)(?!'t)\\b",
+    "runtime": 45,
+    "characters": [
+      "Toby Dammit"
+    ],
+    "title_is_name": true,
+    "rating": 7.6
+  }
+]

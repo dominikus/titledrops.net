@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0087580",
+    "title": "King Thrushbeard",
+    "year": 1984,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 806,
+    "occurrences": [
+      [
+        198,
+        "00:16:32.400000",
+        "00:16:35.100000",
+        "...than to marry this King Thrushbeard."
+      ],
+      [
+        805,
+        "01:30:33.300000",
+        "01:30:36.300000",
+        "...my King Thrushbeard."
+      ]
+    ],
+    "regex": "\\b((?!\\bKing\\ Thrushbeard:)King\\ Thrushbeard)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

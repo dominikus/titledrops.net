@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3230092",
+    "title": "Week-ends",
+    "year": 2014,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 927,
+    "occurrences": [
+      [
+        77,
+        "00:05:10.560000",
+        "00:05:15.560000",
+        "WEEKENDS"
+      ],
+      [
+        731,
+        "01:05:55.600000",
+        "01:05:59.080000",
+        "Sylvette and Ulrich spent several weekends in the Poitou."
+      ]
+    ],
+    "regex": "\\b((?!\\bWeekends:)Weekends)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

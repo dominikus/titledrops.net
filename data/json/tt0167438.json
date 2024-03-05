@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0167438",
+    "title": "Talisman",
+    "year": 1998,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1114,
+    "occurrences": [
+      [
+        178,
+        "00:12:41.370000",
+        "00:12:44.610000",
+        "- Right, you hold the talisman,"
+      ],
+      [
+        836,
+        "00:48:53.230000",
+        "00:48:55.990000",
+        "- My parents had an amulet, a talisman"
+      ]
+    ],
+    "regex": "\\b((?!\\bTalisman:)Talisman)(?!\\:)(?!'t)\\b",
+    "runtime": 72,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0073796",
+    "title": "The Terrorists",
+    "year": 1974,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 999,
+    "occurrences": [
+      [
+        28,
+        "00:05:11.791000",
+        "00:05:16.291000",
+        "Now, I understand that you visited with these terrorists and had conversations with them at seven o'clock this morning..."
+      ],
+      [
+        289,
+        "00:23:23.832000",
+        "00:23:28.207000",
+        "The hijackers wish to exchange the passengers for the terrorists in the British Ambassador's house."
+      ],
+      [
+        806,
+        "01:08:50.041000",
+        "01:08:52.832000",
+        "Unless you transfer the terrorists to the aircraft at once,"
+      ]
+    ],
+    "regex": "\\b((?!\\bTerrorists:)Terrorists)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

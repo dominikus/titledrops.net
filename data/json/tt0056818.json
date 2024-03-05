@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0056818",
+    "title": "All the Way Home",
+    "year": 1963,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1328,
+    "occurrences": [
+      [
+        20,
+        "00:03:48.529000",
+        "00:03:51.899000",
+        "* All the way home *"
+      ],
+      [
+        22,
+        "00:04:00.541000",
+        "00:04:03.411000",
+        "* All the way home *"
+      ],
+      [
+        41,
+        "00:05:37.671000",
+        "00:05:44.978000",
+        "* When you're All the way home *"
+      ],
+      [
+        50,
+        "00:06:39.900000",
+        "00:06:42.035000",
+        "we walked all the way home."
+      ]
+    ],
+    "regex": "\\b((?!\\bAll\\ the\\ Way\\ Home:)All\\ the\\ Way\\ Home)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

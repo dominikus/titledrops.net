@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0166813",
+    "title": "Spirit: Stallion of the Cimarron",
+    "year": 2002,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 190,
+    "occurrences": [
+      [
+        0,
+        "00:00:36.883000",
+        "00:00:46.554000",
+        "''Spirit Stallion of the Cimarron''"
+      ],
+      [
+        11,
+        "00:02:23.723000",
+        "00:02:26.089000",
+        "They say the mustang is the spirit of the West."
+      ],
+      [
+        183,
+        "01:12:51.578000",
+        "01:12:54.945000",
+        "Take care of her, Spirit..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpirit:)Spirit|(?!\\bStallion\\ of\\ the\\ Cimarron:)Stallion\\ of\\ the\\ Cimarron)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

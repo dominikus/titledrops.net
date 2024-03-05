@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0064485",
+    "title": "Giacomo Casanova: Childhood and Adolescence",
+    "year": 1969,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "History"
+    ],
+    "count": 6,
+    "all_lines": 1476,
+    "occurrences": [
+      [
+        37,
+        "00:02:55.950000",
+        "00:02:58.638000",
+        "OF GIACOMO CASANOVA, VENETIAN"
+      ],
+      [
+        43,
+        "00:05:43.279000",
+        "00:05:44.928000",
+        "Giacomo Casanova."
+      ],
+      [
+        755,
+        "00:56:39.965000",
+        "00:56:45.233000",
+        "In 1742, according to his own account, Giacomo Casanova returned to Venice."
+      ],
+      [
+        764,
+        "00:57:11.329000",
+        "00:57:13.975000",
+        "What is your name? - Giacomo Casanova."
+      ],
+      [
+        1000,
+        "01:14:50.605000",
+        "01:14:54.412000",
+        "To the young abbot, Giacomo Casanova,"
+      ],
+      [
+        1473,
+        "01:56:19.549000",
+        "01:56:21.870000",
+        "Giacomo Casanova renounced"
+      ]
+    ],
+    "regex": "\\b((?!\\bGiacomo\\ Casanova:)Giacomo\\ Casanova|(?!\\bChildhood\\ and\\ Adolescence:)Childhood\\ and\\ Adolescence)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

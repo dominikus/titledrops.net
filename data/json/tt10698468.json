@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt10698468",
+    "title": "Danur 3: Sunyaruri",
+    "year": 2019,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 574,
+    "occurrences": [
+      [
+        253,
+        "00:30:04",
+        "00:30:08.542000",
+        "Is this what they call \"Sunyaruri\"?"
+      ],
+      [
+        369,
+        "00:43:58.708000",
+        "00:44:04.292000",
+        "I can still smell \"danur\" scent,"
+      ]
+    ],
+    "regex": "\\b((?!\\bDanur:)Danur|(?!\\bSunyaruri:)Sunyaruri)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

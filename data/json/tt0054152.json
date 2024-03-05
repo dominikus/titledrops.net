@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0054152",
+    "title": "Our Man in Havana",
+    "year": 1959,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1367,
+    "occurrences": [
+      [
+        164,
+        "00:14:24.232000",
+        "00:14:25.790000",
+        "We have to have our man in Havana."
+      ],
+      [
+        268,
+        "00:22:06.152000",
+        "00:22:08.347000",
+        "- Who's he? - Our man in Havana, sir."
+      ],
+      [
+        434,
+        "00:34:13.312000",
+        "00:34:16.702000",
+        "Our man in Havana's done a good job. He deserves a bonus."
+      ],
+      [
+        685,
+        "00:50:04.232000",
+        "00:50:07.781000",
+        "You're our man in Havana. The best agent in the western hemisphere."
+      ]
+    ],
+    "regex": "\\b((?!\\bOur\\ Man\\ in\\ Havana:)Our\\ Man\\ in\\ Havana)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

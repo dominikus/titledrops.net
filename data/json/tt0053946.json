@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0053946",
+    "title": "Inherit the Wind",
+    "year": 1960,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 2795,
+    "occurrences": [
+      [
+        1166,
+        "00:53:52.311000",
+        "00:53:54.814000",
+        "shall inherit the wind.\""
+      ],
+      [
+        2718,
+        "02:03:29.217000",
+        "02:03:31.720000",
+        "shall inherit the wind."
+      ]
+    ],
+    "regex": "\\b((?!\\bInherit\\ the\\ Wind:)Inherit\\ the\\ Wind)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

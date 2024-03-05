@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt0086312",
+    "title": "Silkwood",
+    "year": 1983,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 1439,
+    "occurrences": [
+      [
+        0,
+        "00:01:31.524000",
+        "00:01:33.389000",
+        "- Name? - Karen Silkwood."
+      ],
+      [
+        1324,
+        "01:58:30.612000",
+        "01:58:33.273000",
+        "You were exposed to Miss Silkwood and the house..."
+      ],
+      [
+        1326,
+        "01:58:39.586000",
+        "01:58:41.917000",
+        "Miss Silkwood."
+      ]
+    ],
+    "regex": "\\b((?!\\bSilkwood:)Silkwood)(?!\\:)(?!'t)\\b",
+    "runtime": 131,
+    "characters": [
+      "Karen Silkwood"
+    ],
+    "title_is_name": true,
+    "rating": 7.1
+  }
+]

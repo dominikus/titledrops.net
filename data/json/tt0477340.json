@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0477340",
+    "title": "Dead Daughters",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 739,
+    "occurrences": [
+      [
+        72,
+        "00:11:56.879000",
+        "00:12:00.360000",
+        "The dead daughters' ghosts took their revenge on their mother,..."
+      ],
+      [
+        364,
+        "00:49:45.079000",
+        "00:49:48.559000",
+        "The dead daughters, ghosts of three drowned girls."
+      ]
+    ],
+    "regex": "\\b((?!\\bDead\\ Daughters:)Dead\\ Daughters)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

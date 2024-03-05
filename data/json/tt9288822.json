@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt9288822",
+    "title": "The Wonder",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1278,
+    "occurrences": [
+      [
+        3,
+        "00:01:12.875000",
+        "00:01:15.958000",
+        "The beginning of a film called The Wonder."
+      ],
+      [
+        153,
+        "00:10:35.166000",
+        "00:10:36.250000",
+        "A wonder."
+      ],
+      [
+        1247,
+        "01:39:00.708000",
+        "01:39:03.625000",
+        "that's too hungry to see the wonder"
+      ]
+    ],
+    "regex": "\\b((?!\\bWonder:)Wonder)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

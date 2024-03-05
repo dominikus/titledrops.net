@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3534294",
+    "title": "Entanglement",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1218,
+    "occurrences": [
+      [
+        425,
+        "00:25:56.388000",
+        "00:25:59.858000",
+        "Have you ever heard of quantum entanglement."
+      ],
+      [
+        531,
+        "00:31:54.078000",
+        "00:31:58.883000",
+        "So... I've been reading on this quantum entanglement stuff..."
+      ]
+    ],
+    "regex": "\\b((?!\\bEntanglement:)Entanglement)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0116707",
+    "title": "Joe's Apartment",
+    "year": 1996,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Musical"
+    ],
+    "count": 5,
+    "all_lines": 959,
+    "occurrences": [
+      [
+        6,
+        "00:00:57.918000",
+        "00:01:00.193000",
+        "Welcome to Joe's apartment"
+      ],
+      [
+        18,
+        "00:01:35.078000",
+        "00:01:38.832000",
+        "So! Hello from Joe's apartment"
+      ],
+      [
+        23,
+        "00:01:51.038000",
+        "00:01:57.034000",
+        "Joe's apartment, we welcome you!"
+      ],
+      [
+        953,
+        "01:12:34.527000",
+        "01:12:37.677000",
+        "So! So long from Joe's apartment"
+      ],
+      [
+        958,
+        "01:12:49.726000",
+        "01:12:51.285000",
+        "Joe's apartment"
+      ]
+    ],
+    "regex": "\\b((?!\\bJoe's\\ Apartment:)Joe's\\ Apartment)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

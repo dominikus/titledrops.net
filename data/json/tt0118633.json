@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0118633",
+    "title": "The Pharmacist",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 787,
+    "occurrences": [
+      [
+        1,
+        "00:00:35.919000",
+        "00:00:38.824000",
+        "That's why I became a pharmacist."
+      ],
+      [
+        87,
+        "00:10:30.531000",
+        "00:10:33.409000",
+        "Florist? - Pharmacist."
+      ],
+      [
+        96,
+        "00:11:15.251000",
+        "00:11:18.243000",
+        "This is Hella. - Hella is a pharmacist."
+      ],
+      [
+        175,
+        "00:19:46.691000",
+        "00:19:50.127000",
+        "You're a pharmacist! - It's Dorit's pharmacy."
+      ]
+    ],
+    "regex": "\\b((?!\\bPharmacist:)Pharmacist)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

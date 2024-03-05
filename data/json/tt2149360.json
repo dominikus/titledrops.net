@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2149360",
+    "title": "Found",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1008,
+    "occurrences": [
+      [
+        21,
+        "00:02:32.167000",
+        "00:02:36.171000",
+        "If Steve found out I was in his room, he'd probably kill me too."
+      ],
+      [
+        194,
+        "00:17:29.497000",
+        "00:17:32.167000",
+        "if she found out he likes to look at them."
+      ],
+      [
+        1001,
+        "01:36:54.691000",
+        "01:36:56.526000",
+        "wonder when I'll be found."
+      ]
+    ],
+    "regex": "\\b((?!\\bFound:)Found)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

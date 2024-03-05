@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1182345",
+    "title": "Moon",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1032,
+    "occurrences": [
+      [
+        11,
+        "00:00:56.304000",
+        "00:01:00.340000",
+        "harvested by machine from the far side of the moon."
+      ],
+      [
+        17,
+        "00:01:15.556000",
+        "00:01:17.824000",
+        "The power of the moon."
+      ],
+      [
+        522,
+        "00:43:57.416000",
+        "00:43:59.350000",
+        "It's the far side of the moon."
+      ]
+    ],
+    "regex": "\\b((?!\\bMoon:)Moon)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6654268",
+    "title": "My Little Brother",
+    "year": 2017,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1520,
+    "occurrences": [
+      [
+        17,
+        "00:02:03.438000",
+        "00:02:06.976000",
+        "My Little Brother"
+      ],
+      [
+        1328,
+        "01:28:42.959000",
+        "01:28:49.516000",
+        "And I need to take care of my little brother too."
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Little\\ Brother:)My\\ Little\\ Brother)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

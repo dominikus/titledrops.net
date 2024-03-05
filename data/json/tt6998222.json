@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt6998222",
+    "title": "Pre-Crime",
+    "year": 2017,
+    "genres": [
+      "Crime",
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 987,
+    "occurrences": [
+      [
+        0,
+        "00:00:47.600000",
+        "00:00:50",
+        "The term \"pre-crime\" comes from this movie,"
+      ],
+      [
+        25,
+        "00:03:07.080000",
+        "00:03:09.600000",
+        "Pre-crime, they call it."
+      ],
+      [
+        910,
+        "01:20:04.040000",
+        "01:20:06.320000",
+        "That's what I say, like, even with this pre-crime stuff,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPre\\-Crime:)Pre\\-Crime)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

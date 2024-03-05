@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4210080",
+    "title": "The Confirmation",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1644,
+    "occurrences": [
+      [
+        74,
+        "00:05:30.054000",
+        "00:05:31.820000",
+        "and Confirmation."
+      ],
+      [
+        760,
+        "00:50:38.587000",
+        "00:50:40.620000",
+        "What about Confirmation?"
+      ],
+      [
+        1565,
+        "01:33:58.416000",
+        "01:34:01.083000",
+        "is First Communion and Confirmation."
+      ]
+    ],
+    "regex": "\\b((?!\\bConfirmation:)Confirmation)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

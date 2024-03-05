@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0060538",
+    "title": "Misunderstood",
+    "year": 1966,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1497,
+    "occurrences": [
+      [
+        1,
+        "00:00:02.361000",
+        "00:00:04.840000",
+        "Misunderstood"
+      ],
+      [
+        1345,
+        "01:29:39.907000",
+        "01:29:43.491000",
+        "No, no, no. I assure you. You misunderstood."
+      ]
+    ],
+    "regex": "\\b((?!\\bMisunderstood:)Misunderstood)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

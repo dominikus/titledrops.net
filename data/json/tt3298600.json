@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3298600",
+    "title": "The Midwife",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 770,
+    "occurrences": [
+      [
+        0,
+        "00:01:15.750000",
+        "00:01:18.287000",
+        "I am a midwife, by the grace of God -"
+      ],
+      [
+        35,
+        "00:06:29.917000",
+        "00:06:32.579000",
+        "Why can't she midwife the one daughter she has?"
+      ],
+      [
+        49,
+        "00:07:20.667000",
+        "00:07:24.455000",
+        "The midwife, she's a coming to help us."
+      ],
+      [
+        87,
+        "00:11:05.583000",
+        "00:11:09.371000",
+        "You're a midwife, a strong woman of a new era."
+      ]
+    ],
+    "regex": "\\b((?!\\bMidwife:)Midwife)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

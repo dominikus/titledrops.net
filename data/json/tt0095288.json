@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0095288",
+    "title": "Heartbreak Hotel",
+    "year": 1988,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1328,
+    "occurrences": [
+      [
+        1199,
+        "01:30:08.445000",
+        "01:30:10.947000",
+        "At Heartbreak Hotel Well, I"
+      ],
+      [
+        1220,
+        "01:31:36.574000",
+        "01:31:41.955000",
+        "Just take a walk down Lonely Street to Heartbreak Hotel."
+      ]
+    ],
+    "regex": "\\b((?!\\bHeartbreak\\ Hotel:)Heartbreak\\ Hotel)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

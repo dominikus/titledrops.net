@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2780206",
+    "title": "Lucky Star",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1824,
+    "occurrences": [
+      [
+        1284,
+        "01:22:09.991000",
+        "01:22:12.619000",
+        "He is not mere lucky He is a lucky star"
+      ],
+      [
+        1285,
+        "01:22:12.694000",
+        "01:22:14.321000",
+        "Lucky star"
+      ]
+    ],
+    "regex": "\\b((?!\\bLucky\\ Star:)Lucky\\ Star)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

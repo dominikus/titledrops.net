@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1230444",
+    "title": "Words of Devotion",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 717,
+    "occurrences": [
+      [
+        713,
+        "01:08:51.189000",
+        "01:08:54.093000",
+        "The supposed words of devotion, do they really exist?"
+      ],
+      [
+        715,
+        "01:09:01.969000",
+        "01:09:10.888000",
+        "It would be great, if all the words of devotion I say to you would become reality."
+      ]
+    ],
+    "regex": "\\b((?!\\bWords\\ of\\ Devotion:)Words\\ of\\ Devotion)(?!\\:)(?!'t)\\b",
+    "runtime": 72,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

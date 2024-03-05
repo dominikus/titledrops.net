@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1667133",
+    "title": "The Taint",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 586,
+    "occurrences": [
+      [
+        441,
+        "00:48:26.536000",
+        "00:48:29.706000",
+        "It was me, I caused The Taint."
+      ],
+      [
+        450,
+        "00:50:57.120000",
+        "00:51:00.290000",
+        "I caused The Taint"
+      ]
+    ],
+    "regex": "\\b((?!\\bTaint:)Taint)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

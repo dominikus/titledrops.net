@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0314039",
+    "title": "The Event",
+    "year": 2003,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 764,
+    "occurrences": [
+      [
+        115,
+        "00:17:14.920000",
+        "00:17:17.115000",
+        "The Event"
+      ],
+      [
+        617,
+        "01:17:08",
+        "01:17:13.757000",
+        "Welcome viewers to a very special show. We are at Matt Shapiro's \"Event\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bEvent:)Event)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0498311",
+    "title": "Re-cycle",
+    "year": 2006,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 667,
+    "occurrences": [
+      [
+        158,
+        "00:23:17.429000",
+        "00:23:22.457000",
+        "She started writing \"The Recycle\" ."
+      ],
+      [
+        287,
+        "00:42:58.108000",
+        "00:43:02.772000",
+        "Each stair leads to a different world of recycle."
+      ],
+      [
+        308,
+        "00:45:02.666000",
+        "00:45:06.727000",
+        "When we did special effects in \"The Recycle\" ,"
+      ],
+      [
+        617,
+        "01:36:22.810000",
+        "01:36:31.514000",
+        "To me, \"The Recycle\" is a special ghost movie."
+      ]
+    ],
+    "regex": "\\b((?!\\bRecycle:)Recycle)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

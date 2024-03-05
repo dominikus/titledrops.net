@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1225296",
+    "title": "Service",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 607,
+    "occurrences": [
+      [
+        165,
+        "00:28:54.407000",
+        "00:28:55.476000",
+        "A service?"
+      ],
+      [
+        175,
+        "00:29:25.567000",
+        "00:29:27",
+        "Service, sir?"
+      ],
+      [
+        176,
+        "00:29:29.887000",
+        "00:29:31.115000",
+        "A service?"
+      ]
+    ],
+    "regex": "\\b((?!\\bService:)Service)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

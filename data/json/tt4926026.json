@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt4926026",
+    "title": "Cafard",
+    "year": 2015,
+    "genres": [
+      "Animation",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 930,
+    "occurrences": [
+      [
+        291,
+        "00:26:47.320000",
+        "00:26:49.766000",
+        "It's a cafard, a cockroach. Take that."
+      ],
+      [
+        317,
+        "00:28:33.480000",
+        "00:28:35.960000",
+        "Long live the 'Cafard'."
+      ],
+      [
+        397,
+        "00:36:18.960000",
+        "00:36:22.282000",
+        "You must stand closer. - No, 'Cafard' must be in it."
+      ]
+    ],
+    "regex": "\\b((?!\\bCafard:)Cafard)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

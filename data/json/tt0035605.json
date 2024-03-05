@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0035605",
+    "title": "Above Suspicion",
+    "year": 1943,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1609,
+    "occurrences": [
+      [
+        264,
+        "00:11:47.167000",
+        "00:11:49.433000",
+        "Typical tourists, above suspicion."
+      ],
+      [
+        940,
+        "00:43:34.300000",
+        "00:43:36.233000",
+        "But certainly, you and your wife are above suspicion."
+      ],
+      [
+        1098,
+        "00:51:00.500000",
+        "00:51:02.333000",
+        "Like you, we were above suspicion."
+      ]
+    ],
+    "regex": "\\b((?!\\bAbove\\ Suspicion:)Above\\ Suspicion)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

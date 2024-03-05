@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2005153",
+    "title": "Backwards",
+    "year": 2012,
+    "genres": [
+      "Romance",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1329,
+    "occurrences": [
+      [
+        599,
+        "00:39:18.097000",
+        "00:39:21.066000",
+        "Other than it's the only sport you win by going backwards."
+      ],
+      [
+        1258,
+        "01:22:52.654000",
+        "01:22:55.090000",
+        "Life can only be understood backwards."
+      ]
+    ],
+    "regex": "\\b((?!\\bBackwards:)Backwards)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

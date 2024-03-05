@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1071875",
+    "title": "Ghost Rider: Spirit of Vengeance",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1076,
+    "occurrences": [
+      [
+        546,
+        "00:39:57.120000",
+        "00:39:58.645000",
+        "(GHOST RIDER SCREECHES)"
+      ],
+      [
+        742,
+        "00:55:36.680000",
+        "00:55:38.682000",
+        "the Spirit of Vengeance."
+      ],
+      [
+        1076,
+        "01:28:18.840000",
+        "01:28:20.444000",
+        "I'm the Ghost Rider."
+      ]
+    ],
+    "regex": "\\b((?!\\bGhost\\ Rider:)Ghost\\ Rider|(?!\\bSpirit\\ of\\ Vengeance:)Spirit\\ of\\ Vengeance)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt29344984",
+    "title": "Bad Lands",
+    "year": 2023,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1972,
+    "occurrences": [
+      [
+        1435,
+        "01:40:53.178000",
+        "01:40:55.263000",
+        "Pops, wait for me at Bad Lands."
+      ],
+      [
+        1471,
+        "01:43:34.882000",
+        "01:43:36.633000",
+        "I'll see you at Bad Lands."
+      ],
+      [
+        1518,
+        "01:46:05.240000",
+        "01:46:07.117000",
+        "I'll see you at Bad Lands."
+      ],
+      [
+        1519,
+        "01:46:09.077000",
+        "01:46:12.915000",
+        "Takagi is presumed dead. Bad Lands is a pool hall nearby."
+      ]
+    ],
+    "regex": "\\b((?!\\bBad\\ Lands:)Bad\\ Lands)(?!\\:)(?!'t)\\b",
+    "runtime": 143,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

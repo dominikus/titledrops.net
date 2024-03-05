@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3163336",
+    "title": "Uncle Nick",
+    "year": 2015,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1458,
+    "occurrences": [
+      [
+        200,
+        "00:10:08.316000",
+        "00:10:10.103000",
+        "- Uncle Nick!"
+      ],
+      [
+        1010,
+        "00:51:53.861000",
+        "00:51:55.352000",
+        "- Alright, Uncle Nick."
+      ],
+      [
+        1153,
+        "00:59:04.374000",
+        "00:59:09.335000",
+        "What do you want to do to me, Uncle Nick?"
+      ]
+    ],
+    "regex": "\\b((?!\\bUncle\\ Nick:)Uncle\\ Nick)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [
+      "Uncle Nick"
+    ],
+    "title_is_name": true,
+    "rating": 5.9
+  }
+]

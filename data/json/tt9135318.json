@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt9135318",
+    "title": "Moonlight Sonata: Deafness in Three Movements",
+    "year": 2019,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 661,
+    "occurrences": [
+      [
+        148,
+        "00:15:28.920000",
+        "00:15:30.240000",
+        "the Moonlight Sonata."
+      ],
+      [
+        152,
+        "00:15:53.640000",
+        "00:15:55.560000",
+        "Beethoven wrote the Moonlight Sonata"
+      ],
+      [
+        159,
+        "00:16:24.200000",
+        "00:16:26.320000",
+        "and agreed to teach him the Moonlight Sonata."
+      ],
+      [
+        653,
+        "01:20:06.040000",
+        "01:20:08.360000",
+        "the first movement of the Moonlight Sonata."
+      ],
+      [
+        657,
+        "01:21:44.960000",
+        "01:21:48.040000",
+        "when he gave us his Moonlight Sonata."
+      ]
+    ],
+    "regex": "\\b((?!\\bMoonlight\\ Sonata:)Moonlight\\ Sonata|(?!\\bDeafness\\ in\\ Three\\ Movements:)Deafness\\ in\\ Three\\ Movements)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

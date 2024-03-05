@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3242934",
+    "title": "SlingShot",
+    "year": 2014,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "News"
+    ],
+    "count": 4,
+    "all_lines": 1439,
+    "occurrences": [
+      [
+        797,
+        "00:43:28.707000",
+        "00:43:31.076000",
+        "KAMEN: As currently envisioned, the SlingShot"
+      ],
+      [
+        896,
+        "00:48:48.459000",
+        "00:48:51.963000",
+        "I think the reason that the SlingShot problem"
+      ],
+      [
+        1348,
+        "01:19:21.757000",
+        "01:19:24.760000",
+        "Everybody asks me, \"Well, why do we call the box SlingShot?\""
+      ],
+      [
+        1355,
+        "01:19:44.881000",
+        "01:19:47.516000",
+        "\"But he had this little thing called the slingshot."
+      ]
+    ],
+    "regex": "\\b((?!\\bSlingShot:)SlingShot)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt2234155",
+    "title": "The Internship",
+    "year": 2013,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 7,
+    "all_lines": 3347,
+    "occurrences": [
+      [
+        444,
+        "00:17:18.349000",
+        "00:17:20.415000",
+        "Well, it's an interview for an internship that has"
+      ],
+      [
+        448,
+        "00:17:28.760000",
+        "00:17:31.060000",
+        "not for a job but for an internship"
+      ],
+      [
+        519,
+        "00:19:50.311000",
+        "00:19:52.980000",
+        "Now, it says here that the internship"
+      ],
+      [
+        858,
+        "00:30:02.769000",
+        "00:30:03.868000",
+        "He's in the internship program with me and you."
+      ],
+      [
+        879,
+        "00:30:39.809000",
+        "00:30:42.377000",
+        "This will not be your average internship."
+      ],
+      [
+        885,
+        "00:30:54.824000",
+        "00:30:56.692000",
+        "but to excel at this internship,"
+      ],
+      [
+        2291,
+        "01:22:07.756000",
+        "01:22:09.724000",
+        "You finish up with this \"internship,\""
+      ]
+    ],
+    "regex": "\\b((?!\\bInternship:)Internship)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

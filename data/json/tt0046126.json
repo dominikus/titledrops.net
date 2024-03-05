@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0046126",
+    "title": "Niagara",
+    "year": 1953,
+    "genres": [
+      "Film-Noir",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 642,
+    "occurrences": [
+      [
+        12,
+        "00:05:01.493000",
+        "00:05:04.246000",
+        "- What is your destination in Canada? - Niagara Falls."
+      ],
+      [
+        51,
+        "00:07:18.453000",
+        "00:07:21.172000",
+        "No, l'm not speaking from Toledo. l'm here in Niagara."
+      ],
+      [
+        395,
+        "00:43:12.841000",
+        "00:43:17.790000",
+        "Speaking of Niagara, you and l could do with a shower. We've been driving since six."
+      ],
+      [
+        535,
+        "00:59:42.441000",
+        "00:59:45.080000",
+        "(woman sarcastically) \"Let's visit Niagara Falls.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bNiagara:)Niagara)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

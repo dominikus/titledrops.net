@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt6346982",
+    "title": "Jonaki",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 111,
+    "occurrences": [
+      [
+        7,
+        "00:05:16.666000",
+        "00:05:19",
+        "They have found a groom for Jonaki."
+      ],
+      [
+        40,
+        "00:24:26.708000",
+        "00:24:28.333000",
+        "Why is Jonaki not here?"
+      ],
+      [
+        103,
+        "01:17:23",
+        "01:17:24.833000",
+        "Jonaki is very sick."
+      ]
+    ],
+    "regex": "\\b((?!\\bJonaki:)Jonaki)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [
+      "Jonaki"
+    ],
+    "title_is_name": true,
+    "rating": 6.6
+  }
+]

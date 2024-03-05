@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt3158308",
+    "title": "Bestseller",
+    "year": 2015,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1023,
+    "occurrences": [
+      [
+        139,
+        "00:09:29.776000",
+        "00:09:31.709000",
+        "it's sure to be a bestseller."
+      ],
+      [
+        292,
+        "00:22:16.335000",
+        "00:22:18.682000",
+        "\"Bestseller\" by Gerald Morgan."
+      ],
+      [
+        298,
+        "00:22:36.182000",
+        "00:22:38.805000",
+        "\"Bestseller\" is about a beautiful literary agent"
+      ],
+      [
+        827,
+        "01:20:29.652000",
+        "01:20:31.861000",
+        "is the author of \"Bestseller,\" don't you?"
+      ],
+      [
+        979,
+        "01:31:08.635000",
+        "01:31:10.395000",
+        "what did you think of \"Bestseller,\""
+      ],
+      [
+        1017,
+        "01:33:19.628000",
+        "01:33:20.698000",
+        "\"Bestseller.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bBestseller:)Bestseller)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt10329842",
+    "title": "Hero",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 723,
+    "occurrences": [
+      [
+        88,
+        "00:17:49.193000",
+        "00:17:53.152000",
+        "He's a legend, a hero. 1979, Afghanistan."
+      ],
+      [
+        219,
+        "00:38:15.460000",
+        "00:38:16.825000",
+        "There's our hero."
+      ]
+    ],
+    "regex": "\\b((?!\\bHero:)Hero)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

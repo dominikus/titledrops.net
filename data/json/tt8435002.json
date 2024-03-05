@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt8435002",
+    "title": "Great White",
+    "year": 2021,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 769,
+    "occurrences": [
+      [
+        157,
+        "00:13:17.355000",
+        "00:13:19.355000",
+        "- Shark? - Great white."
+      ],
+      [
+        186,
+        "00:14:24.480000",
+        "00:14:26.397000",
+        "...when a three-metre shark, great white"
+      ]
+    ],
+    "regex": "\\b((?!\\bGreat\\ White:)Great\\ White)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

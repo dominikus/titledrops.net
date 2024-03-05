@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt10423120",
+    "title": "Matinee",
+    "year": 2019,
+    "genres": [
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 950,
+    "occurrences": [
+      [
+        6,
+        "00:03:07.126000",
+        "00:03:11.548000",
+        "At the End of the Matinee"
+      ],
+      [
+        403,
+        "00:40:53.643000",
+        "00:40:57.271000",
+        "I'll get you a seat for Saturday's matinee."
+      ],
+      [
+        904,
+        "01:55:24.155000",
+        "01:55:26.783000",
+        "at the end of the matinee..."
+      ],
+      [
+        928,
+        "02:01:48.832000",
+        "02:01:52.836000",
+        "Based on the novel \"At the End of the Matinee\" written by Keiichiro Hirano"
+      ]
+    ],
+    "regex": "\\b((?!\\bMatinee:)Matinee)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

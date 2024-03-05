@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0397065",
+    "title": "House of Wax",
+    "year": 2005,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 829,
+    "occurrences": [
+      [
+        391,
+        "00:43:54.715000",
+        "00:43:58.014000",
+        "Come in, ladies and gentlemen. See the House of Wax."
+      ],
+      [
+        632,
+        "01:02:17.016000",
+        "01:02:18.677000",
+        "Yes, The House of Wax."
+      ]
+    ],
+    "regex": "\\b((?!\\bHouse\\ of\\ Wax:)House\\ of\\ Wax)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

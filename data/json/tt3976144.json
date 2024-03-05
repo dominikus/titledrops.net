@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3976144",
+    "title": "The Monster",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 568,
+    "occurrences": [
+      [
+        360,
+        "00:50:40.637000",
+        "00:50:43.873000",
+        "Was it a monster?"
+      ],
+      [
+        402,
+        "00:55:56.053000",
+        "00:55:57.553000",
+        "The monster, what the fuck?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMonster:)Monster)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

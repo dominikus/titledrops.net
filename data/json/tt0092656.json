@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0092656",
+    "title": "The Big Town",
+    "year": 1987,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1540,
+    "occurrences": [
+      [
+        151,
+        "00:10:30.320000",
+        "00:10:33.855000",
+        "Big town, big town..."
+      ],
+      [
+        156,
+        "00:10:50.341000",
+        "00:10:55.299000",
+        "...the bands are swinging, oh big town."
+      ],
+      [
+        159,
+        "00:11:04.439000",
+        "00:11:06.396000",
+        "Big town woman..."
+      ],
+      [
+        162,
+        "00:11:13.949000",
+        "00:11:19.785000",
+        "...you make it so nice, oh big town."
+      ]
+    ],
+    "regex": "\\b((?!\\bBig\\ Town:)Big\\ Town)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

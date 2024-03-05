@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0052610",
+    "title": "The Beat Generation",
+    "year": 1959,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 1207,
+    "occurrences": [
+      [
+        1,
+        "00:00:31.700000",
+        "00:00:36.700000",
+        "# They call you Beat Generation. #"
+      ],
+      [
+        3,
+        "00:00:41.802000",
+        "00:00:47.002000",
+        "# Oh, you Beat Generation, #"
+      ],
+      [
+        11,
+        "00:01:11.810000",
+        "00:01:16.210000",
+        "# You Beat Generation, #"
+      ],
+      [
+        13,
+        "00:01:21.202000",
+        "00:01:25.702000",
+        "# Oh, you Beat Generation, #"
+      ],
+      [
+        16,
+        "00:01:56.105000",
+        "00:02:00.705000",
+        "# Yes, you Beat Generation, #"
+      ],
+      [
+        18,
+        "00:02:06.707000",
+        "00:02:11.907000",
+        "# Oh, you Beat Generation, #"
+      ],
+      [
+        540,
+        "00:40:28.102000",
+        "00:40:30.802000",
+        "Let's cut out the phony beat generation route, huh?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBeat\\ Generation:)Beat\\ Generation)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

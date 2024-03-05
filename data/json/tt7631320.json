@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt7631320",
+    "title": "Aura",
+    "year": 2018,
+    "genres": [
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 1255,
+    "occurrences": [
+      [
+        141,
+        "00:10:54.305000",
+        "00:10:56.307000",
+        "that could photograph your aura."
+      ],
+      [
+        145,
+        "00:11:02.357000",
+        "00:11:04.881000",
+        "The aura is supposed to represent your personality"
+      ],
+      [
+        297,
+        "00:22:38.095000",
+        "00:22:39.183000",
+        "That's your aura?"
+      ],
+      [
+        323,
+        "00:23:56.435000",
+        "00:23:59.481000",
+        "DIANE: Is that--? Is that pink my aura?"
+      ],
+      [
+        326,
+        "00:24:07.707000",
+        "00:24:10.536000",
+        "It's that--? Is that the baby's aura?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAura:)Aura)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

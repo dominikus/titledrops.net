@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0294939",
+    "title": "The Bomber",
+    "year": 2001,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1416,
+    "occurrences": [
+      [
+        57,
+        "00:06:08.160000",
+        "00:06:12.165000",
+        "Three pieces: the police hunt for the bomber, the scene of..."
+      ],
+      [
+        881,
+        "01:11:28.360000",
+        "01:11:33.241000",
+        "OK, we've got four things: The hunt for the bomber."
+      ],
+      [
+        1055,
+        "01:25:04.040000",
+        "01:25:06.407000",
+        "Who's the bomber? I can't tell you."
+      ],
+      [
+        1305,
+        "01:48:03.880000",
+        "01:48:06.201000",
+        "Not \"The Bomber\"!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBomber:)Bomber)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

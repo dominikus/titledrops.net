@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt7174660",
+    "title": "She's in Portland",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1686,
+    "occurrences": [
+      [
+        264,
+        "00:13:12.826000",
+        "00:13:15.960000",
+        "- (Claps hands together) She's in Portland."
+      ],
+      [
+        977,
+        "00:48:27.171000",
+        "00:48:29.772000",
+        "- Maybe he hasn't found the one? Maybe she's in Portland?"
+      ]
+    ],
+    "regex": "\\b((?!\\bShe's\\ in\\ Portland:)She's\\ in\\ Portland)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

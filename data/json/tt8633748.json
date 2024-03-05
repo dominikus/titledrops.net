@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt8633748",
+    "title": "The Opening Act",
+    "year": 2020,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1935,
+    "occurrences": [
+      [
+        406,
+        "00:18:47.920000",
+        "00:18:52.859000",
+        "Hi, I'm Will Chu. I'm your opening act."
+      ],
+      [
+        569,
+        "00:26:25.010000",
+        "00:26:27.880000",
+        "You know your opening act from clubs and colleges,"
+      ],
+      [
+        1881,
+        "01:25:45.037000",
+        "01:25:48.007000",
+        "Deejay: You know your opening act from the Pennsylvania Improv"
+      ]
+    ],
+    "regex": "\\b((?!\\bOpening\\ Act:)Opening\\ Act)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

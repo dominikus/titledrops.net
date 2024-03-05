@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0090887",
+    "title": "Critters",
+    "year": 1986,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 689,
+    "occurrences": [
+      [
+        569,
+        "01:04:21.801000",
+        "01:04:24.702000",
+        "Go, just go. These things... these critters."
+      ],
+      [
+        585,
+        "01:05:07.682000",
+        "01:05:10.243000",
+        "Critters, Crites."
+      ]
+    ],
+    "regex": "\\b((?!\\bCritters:)Critters)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

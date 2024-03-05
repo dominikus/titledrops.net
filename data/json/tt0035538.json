@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0035538",
+    "title": "We'll Meet Again",
+    "year": 1943,
+    "genres": [
+      "Musical"
+    ],
+    "count": 4,
+    "all_lines": 1176,
+    "occurrences": [
+      [
+        1160,
+        "01:19:50.440000",
+        "01:19:54.116000",
+        "We'll meet again"
+      ],
+      [
+        1163,
+        "01:19:59.080000",
+        "01:20:02.676000",
+        "But I know we'll meet again"
+      ],
+      [
+        1172,
+        "01:20:45.280000",
+        "01:20:48.557000",
+        "We'll meet again"
+      ],
+      [
+        1175,
+        "01:20:53.840000",
+        "01:20:57.754000",
+        "But I know we'll meet again"
+      ]
+    ],
+    "regex": "\\b((?!\\bWe'll\\ Meet\\ Again:)We'll\\ Meet\\ Again)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

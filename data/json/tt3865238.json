@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3865238",
+    "title": "ChickLit",
+    "year": 2016,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1653,
+    "occurrences": [
+      [
+        260,
+        "00:13:20.400000",
+        "00:13:22.967000",
+        "of what is termed \"chicklit.\""
+      ],
+      [
+        343,
+        "00:16:50.110000",
+        "00:16:52.510000",
+        "I have to do something on this chicklit"
+      ]
+    ],
+    "regex": "\\b((?!\\bChickLit:)ChickLit)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

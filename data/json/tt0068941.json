@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0068941",
+    "title": "Peeping Toms",
+    "year": 1972,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 691,
+    "occurrences": [
+      [
+        312,
+        "00:44:48.080000",
+        "00:44:52.925000",
+        "M'am, it's not Fatah, it's Peeping Toms, rubbing, rubbing."
+      ],
+      [
+        315,
+        "00:45:03.800000",
+        "00:45:08.560000",
+        "What's wrong? -Peeping Toms. - Nonsense, it's a sickness."
+      ],
+      [
+        691,
+        "01:24:18.840000",
+        "01:24:23.160000",
+        "'Peeping Toms'"
+      ]
+    ],
+    "regex": "\\b((?!\\bPeeping\\ Toms:)Peeping\\ Toms)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

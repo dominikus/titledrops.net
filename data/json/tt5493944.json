@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt5493944",
+    "title": "The Little Mermaid",
+    "year": 2018,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 6,
+    "all_lines": 1017,
+    "occurrences": [
+      [
+        17,
+        "00:01:15.820000",
+        "00:01:18.353000",
+        "When the prince fell the little mermaid found herself"
+      ],
+      [
+        32,
+        "00:02:01.933000",
+        "00:02:03.869000",
+        "The little mermaid was so sad."
+      ],
+      [
+        44,
+        "00:02:44.509000",
+        "00:02:46.045000",
+        "The little mermaid agreed."
+      ],
+      [
+        48,
+        "00:03:00.159000",
+        "00:03:02.092000",
+        "The little mermaid was visited by the wizard"
+      ],
+      [
+        274,
+        "00:18:05.272000",
+        "00:18:07.842000",
+        "The Little Mermaid of the Mississippi!"
+      ],
+      [
+        836,
+        "01:04:42.398000",
+        "01:04:44.935000",
+        "The Little Mermaid of the Mississippi!"
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Mermaid:)Little\\ Mermaid)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

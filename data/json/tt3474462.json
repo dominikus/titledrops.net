@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt3474462",
+    "title": "The Distance",
+    "year": 2014,
+    "genres": [
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 246,
+    "occurrences": [
+      [
+        44,
+        "00:16:44.880000",
+        "00:16:48.327000",
+        "I want you to rob \"The Distance\"."
+      ],
+      [
+        45,
+        "00:16:49.880000",
+        "00:16:52.042000",
+        "What's \"The Distance\"?"
+      ],
+      [
+        46,
+        "00:16:53.600000",
+        "00:16:57.207000",
+        "\"The Distance\" is in the plant's Turbine Room."
+      ],
+      [
+        56,
+        "00:22:18.640000",
+        "00:22:22.440000",
+        "Stop guarding The Distance and take me to the chimney."
+      ],
+      [
+        241,
+        "01:16:31.080000",
+        "01:16:33.208000",
+        "They've got The Distance."
+      ]
+    ],
+    "regex": "\\b((?!\\bDistance:)Distance)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

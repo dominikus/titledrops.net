@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1468727",
+    "title": "Monster Mutt",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1451,
+    "occurrences": [
+      [
+        1105,
+        "01:08:33.342000",
+        "01:08:34.639000",
+        "gave it a serum, turned a monster mutt,"
+      ],
+      [
+        1109,
+        "01:08:40.316000",
+        "01:08:42.284000",
+        "- Well, we thought we'd sound crazy. - Monster mutt, oh, my gosh."
+      ]
+    ],
+    "regex": "\\b((?!\\bMonster\\ Mutt:)Monster\\ Mutt)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

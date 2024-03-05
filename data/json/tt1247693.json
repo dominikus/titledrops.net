@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt1247693",
+    "title": "Sister Mary",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "count": 7,
+    "all_lines": 1709,
+    "occurrences": [
+      [
+        1442,
+        "01:20:39.299000",
+        "01:20:41.467000",
+        "Her name is Sister Mary. She's insane."
+      ],
+      [
+        1531,
+        "01:25:55.448000",
+        "01:25:57.717000",
+        "- Who? - Sister Mary?"
+      ],
+      [
+        1564,
+        "01:27:43.689000",
+        "01:27:45.291000",
+        "- It's not Mary. - It's Sister Mary."
+      ],
+      [
+        1566,
+        "01:27:46.326000",
+        "01:27:47.927000",
+        "- Sister Mary? - Shh."
+      ],
+      [
+        1596,
+        "01:28:51.791000",
+        "01:28:55.628000",
+        "Or rather his split personality Sister Mary is."
+      ],
+      [
+        1628,
+        "01:30:10.503000",
+        "01:30:12.472000",
+        "Sister Mary's online blog right now."
+      ],
+      [
+        1688,
+        "01:33:40.880000",
+        "01:33:43.248000",
+        "and Sister Mary..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSister\\ Mary:)Sister\\ Mary)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

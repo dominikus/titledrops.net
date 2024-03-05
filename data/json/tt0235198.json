@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0235198",
+    "title": "Audition",
+    "year": 1999,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 930,
+    "occurrences": [
+      [
+        112,
+        "00:12:40.486000",
+        "00:12:41.475000",
+        "Let's hold an audition"
+      ],
+      [
+        118,
+        "00:13:00.206000",
+        "00:13:05.337000",
+        "No, but do you really hold an audition?"
+      ],
+      [
+        147,
+        "00:14:46.111000",
+        "00:14:48.204000",
+        "l'm good at holding audition"
+      ],
+      [
+        482,
+        "00:41:50.701000",
+        "00:41:55.764000",
+        "Thanks for holding this audition"
+      ],
+      [
+        825,
+        "01:32:40.414000",
+        "01:32:44.350000",
+        "Let us hold an audition"
+      ],
+      [
+        835,
+        "01:36:39.887000",
+        "01:36:41.878000",
+        "You don't really hold an audition"
+      ]
+    ],
+    "regex": "\\b((?!\\bAudition:)Audition)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt1068652",
+    "title": "I Want to See",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 356,
+    "occurrences": [
+      [
+        9,
+        "00:01:16.940000",
+        "00:01:18.500000",
+        "I want to see."
+      ],
+      [
+        18,
+        "00:01:47.940000",
+        "00:01:49.896000",
+        "I want to see."
+      ],
+      [
+        19,
+        "00:02:06.180000",
+        "00:02:09.809000",
+        "I want to see"
+      ],
+      [
+        87,
+        "00:08:16.540000",
+        "00:08:18.496000",
+        "I want to see."
+      ],
+      [
+        88,
+        "00:08:20.940000",
+        "00:08:23.215000",
+        "Me too, I want to see."
+      ],
+      [
+        94,
+        "00:08:43.820000",
+        "00:08:47.290000",
+        "I'm not sure I'll understand much, but I want to see."
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Want\\ to\\ See:)I\\ Want\\ to\\ See)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

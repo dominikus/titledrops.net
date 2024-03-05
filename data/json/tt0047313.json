@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0047313",
+    "title": "The Gold of Naples",
+    "year": 1954,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 903,
+    "occurrences": [
+      [
+        0,
+        "00:00:12",
+        "00:00:13.991000",
+        "The Gold of Naples"
+      ],
+      [
+        4,
+        "00:01:48.080000",
+        "00:01:54.963000",
+        "...the patience and the never-ending hope that are the Gold of Naples."
+      ]
+    ],
+    "regex": "\\b((?!\\bGold\\ of\\ Naples:)Gold\\ of\\ Naples)(?!\\:)(?!'t)\\b",
+    "runtime": 138,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "imdb": "tt1342378",
+    "title": "The Girl",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 269,
+    "occurrences": [
+      [
+        5,
+        "00:00:57.640000",
+        "00:01:00.518000",
+        "Good girl..."
+      ],
+      [
+        188,
+        "00:30:49.840000",
+        "00:30:53.594000",
+        "''A baby girl. Height: 48 cm.''"
+      ],
+      [
+        191,
+        "00:33:23.720000",
+        "00:33:29.955000",
+        "Pink might be prettier on a little girl like you. Don't you think so?"
+      ]
+    ],
+    "regex": "\\b((?!\\bGirl:)Girl)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [
+      "The Girl"
+    ],
+    "title_is_name": true,
+    "rating": 6.7
+  }
+]

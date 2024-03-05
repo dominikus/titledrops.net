@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0989757",
+    "title": "Dear John",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 5,
+    "all_lines": 1173,
+    "occurrences": [
+      [
+        444,
+        "00:33:50.820000",
+        "00:33:52.279000",
+        "Dear John..."
+      ],
+      [
+        506,
+        "00:38:50.244000",
+        "00:38:54.372000",
+        "Dear John, L'm back at my parents' farm for the weekend."
+      ],
+      [
+        538,
+        "00:40:38.602000",
+        "00:40:40.645000",
+        "Dear John..."
+      ],
+      [
+        835,
+        "01:06:55.803000",
+        "01:07:01.766000",
+        "Dear John, I know it's been way too long since L last wrote you."
+      ],
+      [
+        1152,
+        "01:40:01.912000",
+        "01:40:03.538000",
+        "Dear John..."
+      ]
+    ],
+    "regex": "\\b((?!\\bDear\\ John:)Dear\\ John)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

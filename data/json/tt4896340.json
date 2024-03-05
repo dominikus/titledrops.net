@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt4896340",
+    "title": "James Bond",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1937,
+    "occurrences": [
+      [
+        1058,
+        "01:13:45.247000",
+        "01:13:48.307000",
+        "People get wife in marriage but you got a James Bond."
+      ],
+      [
+        1722,
+        "01:54:20.513000",
+        "01:54:26.816000",
+        "She's not wife but James Bond... She's aiming to knock me down..."
+      ],
+      [
+        1894,
+        "02:10:25.043000",
+        "02:10:27.841000",
+        "James Bond Not me my husband"
+      ]
+    ],
+    "regex": "\\b((?!\\bJames\\ Bond:)James\\ Bond)(?!\\:)(?!'t)\\b",
+    "runtime": 142,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

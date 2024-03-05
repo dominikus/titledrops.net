@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1206488",
+    "title": "The Milk of Sorrow",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 661,
+    "occurrences": [
+      [
+        104,
+        "00:08:55.752000",
+        "00:09:01.174000",
+        "The \"milk of sorrow\", as we call anyone born that way, without a soul..."
+      ],
+      [
+        119,
+        "00:09:56.642000",
+        "00:10:01.124000",
+        "She bleeds because of the illness, because of the \"milk of sorrow\"."
+      ],
+      [
+        122,
+        "00:10:06.337000",
+        "00:10:11.759000",
+        "The illness of the \"milk of sorrow\", or whatever, doesn't exist."
+      ]
+    ],
+    "regex": "\\b((?!\\bMilk\\ of\\ Sorrow:)Milk\\ of\\ Sorrow)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

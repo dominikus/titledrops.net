@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0100234",
+    "title": "Close-Up",
+    "year": 1990,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1137,
+    "occurrences": [
+      [
+        331,
+        "00:27:30.999000",
+        "00:27:34.435000",
+        "We have two cameras, one with a close-up lens."
+      ],
+      [
+        332,
+        "00:27:34.519000",
+        "00:27:37.272000",
+        "- Know what a close-up is? - Yes."
+      ]
+    ],
+    "regex": "\\b((?!\\bClose\\-Up:)Close\\-Up)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.2
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt5447140",
+    "title": "Musudan",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 683,
+    "occurrences": [
+      [
+        525,
+        "01:01:12.728000",
+        "01:01:14.269000",
+        "'Musudan', you mean?"
+      ],
+      [
+        534,
+        "01:03:08.767000",
+        "01:03:11.392000",
+        "Why did the North create Musudan?"
+      ],
+      [
+        539,
+        "01:03:33.912000",
+        "01:03:40.412000",
+        "you and your team will become Musudan! Got it?!"
+      ],
+      [
+        571,
+        "01:07:26.493000",
+        "01:07:31.951000",
+        "can you promise that there'll never be another Musudan?"
+      ],
+      [
+        594,
+        "01:10:34.045000",
+        "01:10:38.254000",
+        "you must inform the others and eliminate Musudan."
+      ]
+    ],
+    "regex": "\\b((?!\\bMusudan:)Musudan)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

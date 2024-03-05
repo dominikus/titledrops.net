@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt1650453",
+    "title": "I Wish",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1342,
+    "occurrences": [
+      [
+        45,
+        "00:05:14.523000",
+        "00:05:17.686000",
+        "I wish she was our home room teacher"
+      ],
+      [
+        453,
+        "00:40:38.728000",
+        "00:40:43.438000",
+        "I wish Sakurajima goes ba-boom, rumble-rumble"
+      ],
+      [
+        493,
+        "00:42:49.275000",
+        "00:42:52.938000",
+        "I wish I could paint beautiful pictures"
+      ],
+      [
+        953,
+        "01:22:07.798000",
+        "01:22:11.461000",
+        "I wish we could have pulled this off all on our own..."
+      ],
+      [
+        1243,
+        "01:52:14.519000",
+        "01:52:18.728000",
+        "I wish Dad's... All works out!"
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Wish:)I\\ Wish)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

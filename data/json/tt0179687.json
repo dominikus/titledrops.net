@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0179687",
+    "title": "Bomb at 10:10",
+    "year": 1967,
+    "genres": [
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1072,
+    "occurrences": [
+      [
+        623,
+        "00:48:50.061000",
+        "00:48:54.232000",
+        "Hassler's car goes from headquarters at 10 o'clock."
+      ],
+      [
+        624,
+        "00:48:55.500000",
+        "00:48:59.237000",
+        "It takes him maybe 10 minutes to reach here."
+      ],
+      [
+        673,
+        "00:51:26.984000",
+        "00:51:29.154000",
+        "Well, maybe, uh, maybe 10 minutes."
+      ]
+    ],
+    "regex": "\\b((?!\\bBomb\\ at:)Bomb\\ at|(?!\\b10:)10)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

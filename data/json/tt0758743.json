@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0758743",
+    "title": "Dirty Sanchez: The Movie",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 6,
+    "all_lines": 1757,
+    "occurrences": [
+      [
+        5,
+        "00:01:12.719000",
+        "00:01:14.414000",
+        "We are filming the \"Sanchez\" movie."
+      ],
+      [
+        795,
+        "00:39:04.756000",
+        "00:39:08.624000",
+        "Welcome to \"Dirty Sanchez.\" I've just eaten a man."
+      ],
+      [
+        991,
+        "00:49:25.542000",
+        "00:49:27.510000",
+        "- You movie star! - ( speaks Japanese )"
+      ],
+      [
+        1105,
+        "00:55:43.920000",
+        "00:55:47.014000",
+        "and the first one to fall out gets a Dirty Sanchez."
+      ],
+      [
+        1680,
+        "01:29:57.138000",
+        "01:29:59.470000",
+        "you've been watching \"Dirty Sanchez - Live\" !"
+      ],
+      [
+        1715,
+        "01:31:25.460000",
+        "01:31:27.189000",
+        "What did he say all the way through the movie?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDirty\\ Sanchez:)Dirty\\ Sanchez|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

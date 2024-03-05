@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0040210",
+    "title": "Canon City",
+    "year": 1948,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1754,
+    "occurrences": [
+      [
+        20,
+        "00:01:57.600000",
+        "00:02:01.267000",
+        "Canon City, population 7,000."
+      ],
+      [
+        26,
+        "00:02:17.667000",
+        "00:02:20.500000",
+        "But within Canon City, there is another city,"
+      ],
+      [
+        748,
+        "00:36:11.833000",
+        "00:36:14.267000",
+        "announcing a break, warning Canon City."
+      ],
+      [
+        754,
+        "00:36:25.067000",
+        "00:36:27.633000",
+        "Canon City can never forget the last time it blew--"
+      ],
+      [
+        777,
+        "00:37:22.133000",
+        "00:37:24.633000",
+        "All of Canon City is stirring like a nest of hornets."
+      ],
+      [
+        1700,
+        "01:19:07.467000",
+        "01:19:10.300000",
+        "in Canon City, Colorado, are two brave women"
+      ]
+    ],
+    "regex": "\\b((?!\\bCanon\\ City:)Canon\\ City)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

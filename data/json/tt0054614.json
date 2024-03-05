@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0054614",
+    "title": "All Night Long",
+    "year": 1962,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 1461,
+    "occurrences": [
+      [
+        1020,
+        "01:01:24.431000",
+        "01:01:25.762000",
+        "\"All Night Long.\""
+      ],
+      [
+        1024,
+        "01:01:37.194000",
+        "01:01:40.437000",
+        "\"All night long.\""
+      ],
+      [
+        1029,
+        "01:02:06.139000",
+        "01:02:09.552000",
+        "\"All night long.\""
+      ],
+      [
+        1053,
+        "01:04:33.411000",
+        "01:04:41.705000",
+        "\"All night long.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bAll\\ Night\\ Long:)All\\ Night\\ Long)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

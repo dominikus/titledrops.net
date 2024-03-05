@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt13757540",
+    "title": "The Door Into Summer",
+    "year": 2021,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1039,
+    "occurrences": [
+      [
+        77,
+        "00:07:13.099000",
+        "00:07:19.939000",
+        "Pete firmly believes that one of them is the door into summer."
+      ],
+      [
+        82,
+        "00:07:46.757000",
+        "00:07:51.762000",
+        "Pete won't give up his search for the door into summer."
+      ],
+      [
+        1038,
+        "01:54:31.155000",
+        "01:54:36.119000",
+        "Pete is still looking for the door into summer."
+      ]
+    ],
+    "regex": "\\b((?!\\bDoor\\ Into\\ Summer:)Door\\ Into\\ Summer)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

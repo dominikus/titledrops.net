@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt13622204",
+    "title": "Wildcat",
+    "year": 2022,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1573,
+    "occurrences": [
+      [
+        29,
+        "00:03:38.969000",
+        "00:03:42.180000",
+        "That was to put a wildcat back into the wild again."
+      ],
+      [
+        169,
+        "00:12:02.764000",
+        "00:12:05.725000",
+        "They've never actively spent time with a wildcat for a year,"
+      ],
+      [
+        315,
+        "00:23:15.645000",
+        "00:23:19.982000",
+        "and he will be a very aggressive wildcat."
+      ],
+      [
+        1573,
+        "01:45:39.250000",
+        "01:45:41.252000",
+        "(wildcat purring)"
+      ]
+    ],
+    "regex": "\\b((?!\\bWildcat:)Wildcat)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0212408",
+    "title": "The Bus",
+    "year": 1975,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 197,
+    "occurrences": [
+      [
+        96,
+        "00:36:53.575000",
+        "00:36:55.983000",
+        "Did you see the bus, brother?"
+      ],
+      [
+        116,
+        "00:43:51.763000",
+        "00:43:54.500000",
+        "Look at this bus. It's older than my granma."
+      ],
+      [
+        118,
+        "00:43:58.987000",
+        "00:44:01.721000",
+        "I'll never get on the bus like this."
+      ],
+      [
+        189,
+        "01:08:42.598000",
+        "01:08:44.573000",
+        "This bus is still here."
+      ]
+    ],
+    "regex": "\\b((?!\\bBus:)Bus)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

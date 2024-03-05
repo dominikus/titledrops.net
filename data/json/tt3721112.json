@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3721112",
+    "title": "The Shadow People",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 729,
+    "occurrences": [
+      [
+        470,
+        "00:53:21.532000",
+        "00:53:25.334000",
+        "Yeah, Shadow People."
+      ],
+      [
+        507,
+        "00:55:37.768000",
+        "00:55:40.803000",
+        "If there are Shadow People here, they can't hurt you, right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bShadow\\ People:)Shadow\\ People)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

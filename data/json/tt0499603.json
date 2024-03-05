@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0499603",
+    "title": "10 Items or Less",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1238,
+    "occurrences": [
+      [
+        252,
+        "00:18:30.309000",
+        "00:18:33.142000",
+        "being done by our employee in the 10 items or less lane."
+      ],
+      [
+        929,
+        "00:54:39.442000",
+        "00:54:43.208000",
+        "Right, then. 10 items or less."
+      ]
+    ],
+    "regex": "\\b((?!\\b10\\ Items\\ or\\ Less:)10\\ Items\\ or\\ Less)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

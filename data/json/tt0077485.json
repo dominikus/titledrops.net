@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0077485",
+    "title": "Effects",
+    "year": 1979,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 934,
+    "occurrences": [
+      [
+        481,
+        "00:37:36.601000",
+        "00:37:38.495000",
+        "But I think it's gonna be your special effects"
+      ],
+      [
+        580,
+        "00:45:50.499000",
+        "00:45:51.850000",
+        "and photographing special effects."
+      ],
+      [
+        581,
+        "00:45:51.874000",
+        "00:45:53.725000",
+        "Couldn't those of been special effects?"
+      ],
+      [
+        602,
+        "00:46:40.098000",
+        "00:46:43.324000",
+        "to do the special effects on this film if he could do that."
+      ]
+    ],
+    "regex": "\\b((?!\\bEffects:)Effects)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

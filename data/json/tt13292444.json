@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt13292444",
+    "title": "Awake",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 901,
+    "occurrences": [
+      [
+        247,
+        "00:35:45.601000",
+        "00:35:47.477000",
+        "Oh... you're awake."
+      ],
+      [
+        372,
+        "00:49:13.909000",
+        "00:49:15.326000",
+        "\"I'm awake.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bAwake:)Awake)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

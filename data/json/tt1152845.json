@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1152845",
+    "title": "Showbiz",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 584,
+    "occurrences": [
+      [
+        17,
+        "00:08:04.317000",
+        "00:08:06.409000",
+        "Here, a showbiz party is going on."
+      ],
+      [
+        84,
+        "00:13:22.268000",
+        "00:13:25.294000",
+        "The office of Showbiz opens at 10 in the morning."
+      ],
+      [
+        93,
+        "00:14:23.829000",
+        "00:14:28.391000",
+        "Showbiz channel's creative head... Ms. Shikha Verma."
+      ]
+    ],
+    "regex": "\\b((?!\\bShowbiz:)Showbiz)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

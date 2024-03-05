@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0052363",
+    "title": "Life as a Couple",
+    "year": 1958,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1703,
+    "occurrences": [
+      [
+        26,
+        "00:03:54.909000",
+        "00:03:57.589000",
+        "My book \"Life As A Couple\"."
+      ],
+      [
+        58,
+        "00:05:59.669000",
+        "00:06:03.469000",
+        "Mr Carreau has written a book called \"Life As A Couple\"."
+      ],
+      [
+        179,
+        "00:13:36.152000",
+        "00:13:41.112000",
+        "He wrote Life As A Couple in Nice, which is where the couples live."
+      ],
+      [
+        248,
+        "00:18:58.193000",
+        "00:19:00.753000",
+        "\"Life As A Couple\", that's more or less us."
+      ]
+    ],
+    "regex": "\\b((?!\\bLife\\ as\\ a\\ Couple:)Life\\ as\\ a\\ Couple)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

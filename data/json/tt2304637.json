@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2304637",
+    "title": "Flag Day",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1596,
+    "occurrences": [
+      [
+        346,
+        "00:24:13.274000",
+        "00:24:15.874000",
+        "You never trust a bastard born on Flag Day."
+      ],
+      [
+        823,
+        "00:53:41.714000",
+        "00:53:44.680000",
+        "For Dad, Flag Day was all of America"
+      ]
+    ],
+    "regex": "\\b((?!\\bFlag\\ Day:)Flag\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

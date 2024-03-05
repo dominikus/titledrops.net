@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt8006374",
+    "title": "Baba Yaga: Terror of the Dark Forest",
+    "year": 2020,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 650,
+    "occurrences": [
+      [
+        381,
+        "00:48:37.958000",
+        "00:48:39.877000",
+        "the living and the dead - Baba Yaga."
+      ],
+      [
+        586,
+        "01:21:35.767000",
+        "01:21:38.436000",
+        "- We need to figure out how to kill Baba Yaga."
+      ]
+    ],
+    "regex": "\\b((?!\\bBaba\\ Yaga:)Baba\\ Yaga|(?!\\bTerror\\ of\\ the\\ Dark\\ Forest:)Terror\\ of\\ the\\ Dark\\ Forest)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0044552",
+    "title": "Diplomatic Courier",
+    "year": 1952,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 4,
+    "all_lines": 1048,
+    "occurrences": [
+      [
+        68,
+        "00:08:43.687000",
+        "00:08:49.080000",
+        "At this moment while diplomatic courier Mike Kells is on the plain bound for Salzsburg,"
+      ],
+      [
+        246,
+        "00:29:21.007000",
+        "00:29:23.557000",
+        "I'm a diplomatic courier. Could you give me a lift to the airport?"
+      ],
+      [
+        294,
+        "00:33:43.487000",
+        "00:33:45.523000",
+        "I am Mike Kells, diplomatic courier."
+      ],
+      [
+        996,
+        "01:28:42.127000",
+        "01:28:43.560000",
+        "a diplomatic courier."
+      ]
+    ],
+    "regex": "\\b((?!\\bDiplomatic\\ Courier:)Diplomatic\\ Courier)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

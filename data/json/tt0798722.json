@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0798722",
+    "title": "Hazard",
+    "year": 2005,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 392,
+    "occurrences": [
+      [
+        37,
+        "00:08:28.191000",
+        "00:08:32.230000",
+        "Hazard. That's where I want to go. Take me there."
+      ],
+      [
+        106,
+        "00:27:34.275000",
+        "00:27:39.224000",
+        "Hazard fascinates as a blue ocean, seen from a cliff."
+      ],
+      [
+        131,
+        "00:30:58.835000",
+        "00:31:03.272000",
+        "All ways lead to Hazard."
+      ],
+      [
+        135,
+        "00:31:20.795000",
+        "00:31:25.744000",
+        "Step by step, day by day... So that's Hazard..."
+      ],
+      [
+        345,
+        "01:32:24.081000",
+        "01:32:29.030000",
+        "When I fist saw you, you were wearing a Hazard t-shirt."
+      ]
+    ],
+    "regex": "\\b((?!\\bHazard:)Hazard)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

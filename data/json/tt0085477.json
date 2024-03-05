@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0085477",
+    "title": "Edith and Marcel",
+    "year": 1983,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1210,
+    "occurrences": [
+      [
+        208,
+        "00:30:41.458000",
+        "00:30:44.792000",
+        "As for Edith and Marcel, 3 or 4 years still separated them."
+      ],
+      [
+        552,
+        "01:08:38.792000",
+        "01:08:42.042000",
+        "Six months later, when Edith and Marcel..."
+      ],
+      [
+        826,
+        "01:36:41.542000",
+        "01:36:45.667000",
+        "Edith and Marcel had 15 wonderful days in New York..."
+      ],
+      [
+        982,
+        "01:58:45.750000",
+        "01:58:48.500000",
+        "All those who love Edith and Marcel."
+      ]
+    ],
+    "regex": "\\b((?!\\bEdith\\ and\\ Marcel:)Edith\\ and\\ Marcel)(?!\\:)(?!'t)\\b",
+    "runtime": 162,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

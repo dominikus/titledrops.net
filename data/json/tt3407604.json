@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3407604",
+    "title": "Will You Marry Me",
+    "year": 2012,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 2082,
+    "occurrences": [
+      [
+        68,
+        "00:04:25.812000",
+        "00:04:27.074000",
+        "Will you marry me?"
+      ],
+      [
+        251,
+        "00:13:54.080000",
+        "00:13:55.206000",
+        "Will you marry me?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWill\\ You\\ Marry\\ Me:)Will\\ You\\ Marry\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0077326",
+    "title": "The Children of Sanchez",
+    "year": 1978,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1382,
+    "occurrences": [
+      [
+        25,
+        "00:02:26.841000",
+        "00:02:31.841000",
+        "# I will always hear the children of Sanchez #"
+      ],
+      [
+        1090,
+        "01:32:02.591000",
+        "01:32:07.591000",
+        "# I will always hear the Children of Sanchez #"
+      ],
+      [
+        1382,
+        "01:56:05.050000",
+        "01:56:10.091000",
+        "# I will always hear the Children of Sanchez #"
+      ]
+    ],
+    "regex": "\\b((?!\\bChildren\\ of\\ Sanchez:)Children\\ of\\ Sanchez)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

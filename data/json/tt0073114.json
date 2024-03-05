@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0073114",
+    "title": "The Story of Adele H",
+    "year": 1975,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 774,
+    "occurrences": [
+      [
+        1,
+        "00:01:38.681000",
+        "00:01:42.441000",
+        "\"The story of Adele H. is true."
+      ],
+      [
+        774,
+        "01:32:35.420000",
+        "01:32:38.101000",
+        "\"This was the story of Adele H. \""
+      ]
+    ],
+    "regex": "\\b((?!\\bStory\\ of\\ Adele\\ H:)Story\\ of\\ Adele\\ H)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

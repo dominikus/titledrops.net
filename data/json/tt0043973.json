@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0043973",
+    "title": "Roadblock",
+    "year": 1951,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 3,
+    "all_lines": 1080,
+    "occurrences": [
+      [
+        1016,
+        "01:05:37.519000",
+        "01:05:40.918000",
+        "Set up a general roadblock covering all transportation embarkation points."
+      ],
+      [
+        1027,
+        "01:06:23.614000",
+        "01:06:26.962000",
+        "This roadblock at Malibu cuts off the coast highway to the north."
+      ],
+      [
+        1030,
+        "01:06:32.926000",
+        "01:06:35.472000",
+        "If he's heading east, he'll be stopped by a roadblock here."
+      ]
+    ],
+    "regex": "\\b((?!\\bRoadblock:)Roadblock)(?!\\:)(?!'t)\\b",
+    "runtime": 73,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3613314",
+    "title": "The Ghoul",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 762,
+    "occurrences": [
+      [
+        72,
+        "00:07:44.417000",
+        "00:07:46.500000",
+        "Means he's a ghoul."
+      ],
+      [
+        560,
+        "00:51:28.125000",
+        "00:51:29.583000",
+        "'The ghoul.'"
+      ]
+    ],
+    "regex": "\\b((?!\\bGhoul:)Ghoul)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

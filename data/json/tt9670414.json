@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt9670414",
+    "title": "Flinch",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1167,
+    "occurrences": [
+      [
+        310,
+        "00:26:24.583000",
+        "00:26:25.758000",
+        "She didn't flinch."
+      ],
+      [
+        318,
+        "00:27:07.364000",
+        "00:27:08.496000",
+        "Because he didn't flinch."
+      ],
+      [
+        759,
+        "01:01:36.431000",
+        "01:01:37.694000",
+        "She didn't flinch, Dad."
+      ],
+      [
+        761,
+        "01:01:43.090000",
+        "01:01:45.005000",
+        "She didn't flinch."
+      ]
+    ],
+    "regex": "\\b((?!\\bFlinch:)Flinch)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

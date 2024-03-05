@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0778749",
+    "title": "Jasminum",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 707,
+    "occurrences": [
+      [
+        554,
+        "01:20:53.720000",
+        "01:20:57.880000",
+        "Couldnt the film be called Jasminum?"
+      ],
+      [
+        581,
+        "01:23:39.720000",
+        "01:23:46.280000",
+        "Jasminum. Scent of Love."
+      ]
+    ],
+    "regex": "\\b((?!\\bJasminum:)Jasminum)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

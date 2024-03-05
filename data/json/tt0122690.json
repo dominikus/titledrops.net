@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0122690",
+    "title": "Ronin",
+    "year": 1998,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 888,
+    "occurrences": [
+      [
+        677,
+        "01:21:58.875000",
+        "01:22:01.167000",
+        "The 47 ronin, do you know it?"
+      ],
+      [
+        679,
+        "01:22:08.833000",
+        "01:22:11.833000",
+        "They became ronin, masterless samurai,"
+      ],
+      [
+        701,
+        "01:23:17.625000",
+        "01:23:20.667000",
+        "The ronin could have hired themselves to new masters."
+      ]
+    ],
+    "regex": "\\b((?!\\bRonin:)Ronin)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

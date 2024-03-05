@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt11777738",
+    "title": "A Hero",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2166,
+    "occurrences": [
+      [
+        1020,
+        "00:56:30.346000",
+        "00:56:32.431000",
+        "Now, he's a hero"
+      ],
+      [
+        1575,
+        "01:27:36.710000",
+        "01:27:39.380000",
+        "Poor people whose hero is you."
+      ]
+    ],
+    "regex": "\\b((?!\\bHero:)Hero)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

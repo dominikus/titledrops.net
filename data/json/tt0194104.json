@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0194104",
+    "title": "Leak",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 871,
+    "occurrences": [
+      [
+        301,
+        "00:30:26.440000",
+        "00:30:29.800000",
+        "There has been a leak. Has to be."
+      ],
+      [
+        334,
+        "00:33:05.080000",
+        "00:33:09.880000",
+        "The leak is with the police. One of your buddies is corrupt."
+      ],
+      [
+        365,
+        "00:38:21.280000",
+        "00:38:24.280000",
+        "I think we have a leak."
+      ],
+      [
+        368,
+        "00:38:31.400000",
+        "00:38:35.160000",
+        "I think we have a leak."
+      ],
+      [
+        476,
+        "00:48:18.800000",
+        "00:48:22.680000",
+        "Did you find out who it is? The leak?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLeak:)Leak)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

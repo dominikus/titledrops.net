@@ -1,0 +1,46 @@
+[
+  {
+    "imdb": "tt0060095",
+    "title": "Alvarez Kelly",
+    "year": 1966,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 4,
+    "all_lines": 699,
+    "occurrences": [
+      [
+        105,
+        "00:10:22.160000",
+        "00:10:25.120000",
+        "This is Alvarez Kelly, who brought the cattle here."
+      ],
+      [
+        204,
+        "00:16:18.760000",
+        "00:16:20.920000",
+        "So I say, \"Alvarez Kelly..."
+      ],
+      [
+        273,
+        "00:21:27.960000",
+        "00:21:30.920000",
+        "Alvarez Kelly hijacked by rebels."
+      ],
+      [
+        503,
+        "00:37:55.720000",
+        "00:37:57.240000",
+        "I'm Alvarez Kelly."
+      ]
+    ],
+    "regex": "\\b((?!\\bAlvarez\\ Kelly:)Alvarez\\ Kelly)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [
+      "Alvarez Kelly"
+    ],
+    "title_is_name": true,
+    "rating": 6.3
+  }
+]

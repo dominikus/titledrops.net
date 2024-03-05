@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt3266724",
+    "title": "Black Rose",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1052,
+    "occurrences": [
+      [
+        9,
+        "00:04:42.490000",
+        "00:04:46.035000",
+        "Black rose, this is our guy."
+      ],
+      [
+        223,
+        "00:24:33.513000",
+        "00:24:38.476000",
+        "and also a, well a black rose as his calling card."
+      ],
+      [
+        296,
+        "00:29:45.450000",
+        "00:29:49.537000",
+        "and labeled the Black Rose Killer, has struck again."
+      ],
+      [
+        419,
+        "00:37:53.020000",
+        "00:37:54.522000",
+        "And why the black rose?"
+      ],
+      [
+        928,
+        "01:11:32.454000",
+        "01:11:36.083000",
+        "- Did you know that you can create false black rose,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Rose:)Black\\ Rose)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.8
+  }
+]

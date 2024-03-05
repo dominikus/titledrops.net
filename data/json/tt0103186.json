@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0103186",
+    "title": "Cows",
+    "year": 1992,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 475,
+    "occurrences": [
+      [
+        320,
+        "01:03:46.400000",
+        "01:03:49.358000",
+        "At least father left us the cows."
+      ],
+      [
+        342,
+        "01:05:17.160000",
+        "01:05:20.470000",
+        "Grandpa only paints cows that bleed."
+      ]
+    ],
+    "regex": "\\b((?!\\bCows:)Cows)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

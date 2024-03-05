@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt15165236",
+    "title": "The Hand",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 450,
+    "occurrences": [
+      [
+        23,
+        "00:02:09.381000",
+        "00:02:11.008000",
+        "And do you remember my hand?"
+      ],
+      [
+        55,
+        "00:06:10.580000",
+        "00:06:12.123000",
+        "Give me your hand."
+      ],
+      [
+        414,
+        "00:47:29.515000",
+        "00:47:31.183000",
+        "And do you remember my hand?"
+      ],
+      [
+        419,
+        "00:47:51.537000",
+        "00:47:53.706000",
+        "If it hadn't been for your hand,"
+      ]
+    ],
+    "regex": "\\b((?!\\bHand:)Hand)(?!\\:)(?!'t)\\b",
+    "runtime": 56,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

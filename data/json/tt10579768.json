@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt10579768",
+    "title": "Fully Realized Humans",
+    "year": 2020,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1850,
+    "occurrences": [
+      [
+        502,
+        "00:20:25.793000",
+        "00:20:29.429000",
+        "to become fully realized humans."
+      ],
+      [
+        911,
+        "00:38:07.989000",
+        "00:38:09.489000",
+        "fully realized humans."
+      ]
+    ],
+    "regex": "\\b((?!\\bFully\\ Realized\\ Humans:)Fully\\ Realized\\ Humans)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

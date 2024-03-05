@@ -1,0 +1,67 @@
+[
+  {
+    "imdb": "tt0155588",
+    "title": "Casino",
+    "year": 1998,
+    "genres": [
+      "Crime"
+    ],
+    "count": 8,
+    "all_lines": 1135,
+    "occurrences": [
+      [
+        60,
+        "00:06:48.207000",
+        "00:06:50.505000",
+        "He will gamble even though he isn't allowed to enter the casino."
+      ],
+      [
+        347,
+        "00:28:53.765000",
+        "00:28:57.462000",
+        "Giant, are you interested in working in my casino?"
+      ],
+      [
+        408,
+        "00:31:58.349000",
+        "00:32:00.044000",
+        "I will take 20% from the net profit of the casino."
+      ],
+      [
+        515,
+        "00:43:08.385000",
+        "00:43:10.080000",
+        "Boss, three of our buddies got hurt in the casino."
+      ],
+      [
+        727,
+        "00:58:07.650000",
+        "00:58:09.345000",
+        "they always mess up in my casino."
+      ],
+      [
+        759,
+        "00:59:26.296000",
+        "00:59:28.594000",
+        "Someone reported a bomb found in the casino."
+      ],
+      [
+        763,
+        "00:59:40.877000",
+        "00:59:42.276000",
+        "A bomb is found in the Casino, this is a very serious case."
+      ],
+      [
+        851,
+        "01:11:10.065000",
+        "01:11:11.965000",
+        "He loaned 100 million to open a new hotel and casino,"
+      ]
+    ],
+    "regex": "\\b((?!\\bCasino:)Casino)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

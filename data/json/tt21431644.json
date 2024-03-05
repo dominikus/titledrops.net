@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt21431644",
+    "title": "Zombie Town",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 1230,
+    "occurrences": [
+      [
+        156,
+        "00:08:23.921000",
+        "00:08:27.174000",
+        "Tomorrow is Len Carver's, \"Zombie Town\" premier."
+      ],
+      [
+        203,
+        "00:11:36.780000",
+        "00:11:38.949000",
+        "You coming to my zombie town party tonight?"
+      ],
+      [
+        301,
+        "00:17:23.668000",
+        "00:17:25.378000",
+        "And we are here to see, \"Zombie Town\" and pay respect"
+      ],
+      [
+        1219,
+        "01:30:00.316000",
+        "01:30:05.404000",
+        "- Oh my, this is turning into a zombie town"
+      ],
+      [
+        1220,
+        "01:30:30.847000",
+        "01:30:34.934000",
+        "- Oh no, it's like zombie town around here."
+      ],
+      [
+        1229,
+        "01:31:06.382000",
+        "01:31:07.341000",
+        "of, \"Zombie Town.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bZombie\\ Town:)Zombie\\ Town)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

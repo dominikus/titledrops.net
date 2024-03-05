@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0060177",
+    "title": "The Blue Max",
+    "year": 1966,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 760,
+    "occurrences": [
+      [
+        156,
+        "00:17:48.808000",
+        "00:17:52.938000",
+        "Hmm! A pretty medal, the Blue Max!"
+      ],
+      [
+        245,
+        "00:30:40.219000",
+        "00:30:43.211000",
+        "- He's being awarded the Blue Max! - Uh-huh!"
+      ],
+      [
+        249,
+        "00:30:59.538000",
+        "00:31:01.529000",
+        "To your Blue Max!"
+      ],
+      [
+        250,
+        "00:31:01.607000",
+        "00:31:04.337000",
+        "- Blue Max! - Willi!"
+      ],
+      [
+        364,
+        "00:45:49.796000",
+        "00:45:52.424000",
+        "The Blue Max will go so well with his eyes!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Max:)Blue\\ Max)(?!\\:)(?!'t)\\b",
+    "runtime": 156,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

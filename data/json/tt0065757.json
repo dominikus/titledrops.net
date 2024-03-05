@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt0065757",
+    "title": "The Games",
+    "year": 1970,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 7,
+    "all_lines": 1955,
+    "occurrences": [
+      [
+        526,
+        "00:27:54.440000",
+        "00:27:57.143000",
+        "An old man running at the Games?"
+      ],
+      [
+        527,
+        "00:27:57.176000",
+        "00:27:59.478000",
+        "You are not an old man, and they are not games."
+      ],
+      [
+        1200,
+        "00:56:09.434000",
+        "00:56:12.603000",
+        "The Olympic games are three months away."
+      ],
+      [
+        1230,
+        "00:58:00.177000",
+        "00:58:02.613000",
+        "It's the final event of the games, the climax."
+      ],
+      [
+        1402,
+        "01:06:21.078000",
+        "01:06:24.214000",
+        "when he revived the games in 1896:"
+      ],
+      [
+        1407,
+        "01:06:35.325000",
+        "01:06:38.128000",
+        "officially to open the games."
+      ],
+      [
+        1673,
+        "01:20:30.593000",
+        "01:20:35.498000",
+        "Whatever happens it's worth it to be at the Games again."
+      ]
+    ],
+    "regex": "\\b((?!\\bGames:)Games)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt3548978",
+    "title": "West of Her",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1105,
+    "occurrences": [
+      [
+        890,
+        "01:05:54.076000",
+        "01:05:58.038000",
+        "West of her there's a place I know"
+      ],
+      [
+        894,
+        "01:06:12.386000",
+        "01:06:14.180000",
+        "And west of her is where I'd like to see"
+      ],
+      [
+        896,
+        "01:06:18.767000",
+        "01:06:22.313000",
+        "West of her there's another place"
+      ]
+    ],
+    "regex": "\\b((?!\\bWest\\ of\\ Her:)West\\ of\\ Her)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

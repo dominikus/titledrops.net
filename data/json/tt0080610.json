@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0080610",
+    "title": "The Last Metro",
+    "year": 1980,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1039,
+    "occurrences": [
+      [
+        7,
+        "00:02:19.200000",
+        "00:02:22",
+        "No one can afford to miss the last metro."
+      ],
+      [
+        443,
+        "00:29:51.800000",
+        "00:29:54.200000",
+        "I heard it yesterday, in the last metro."
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Metro:)Last\\ Metro)(?!\\:)(?!'t)\\b",
+    "runtime": 131,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

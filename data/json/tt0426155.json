@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0426155",
+    "title": "Ushpizin",
+    "year": 2004,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1342,
+    "occurrences": [
+      [
+        4,
+        "00:01:13.740000",
+        "00:01:16.608000",
+        "Ushpizin"
+      ],
+      [
+        533,
+        "00:35:38.536000",
+        "00:35:41.870000",
+        "Eliyahu, Yossef. Our Ushpizin."
+      ],
+      [
+        617,
+        "00:41:17.976000",
+        "00:41:21.344000",
+        "So they aren't exactly the Holy Ushpizin. So what?"
+      ],
+      [
+        723,
+        "00:48:06.384000",
+        "00:48:10.879000",
+        "It's good. Succoth is a holiday of guests: The Holy Ushpizin!"
+      ]
+    ],
+    "regex": "\\b((?!\\bUshpizin:)Ushpizin)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

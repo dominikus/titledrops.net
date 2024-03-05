@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0060742",
+    "title": "The Hero",
+    "year": 1966,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 729,
+    "occurrences": [
+      [
+        250,
+        "00:17:36.188000",
+        "00:17:39.123000",
+        "The hero should also not be equal to a god."
+      ],
+      [
+        396,
+        "00:26:17.814000",
+        "00:26:20.367000",
+        "as the hero you portray in your celluloid life."
+      ],
+      [
+        562,
+        "00:44:49.286000",
+        "00:44:51.618000",
+        "The hero's role was always for me."
+      ],
+      [
+        586,
+        "00:46:08.401000",
+        "00:46:11.862000",
+        "What role? - The hero."
+      ]
+    ],
+    "regex": "\\b((?!\\bHero:)Hero)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.3
+  }
+]

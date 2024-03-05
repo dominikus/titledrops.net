@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1450332",
+    "title": "Surely Someday",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1634,
+    "occurrences": [
+      [
+        1367,
+        "01:36:35.240000",
+        "01:36:36.580000",
+        "\"Surely someday...\""
+      ],
+      [
+        1447,
+        "01:44:06.010000",
+        "01:44:07.280000",
+        "Surely Someday."
+      ],
+      [
+        1470,
+        "01:47:02.780000",
+        "01:47:08.960000",
+        "La la la, surely someday"
+      ],
+      [
+        1472,
+        "01:47:15.270000",
+        "01:47:22.130000",
+        "La la la, surely someday"
+      ],
+      [
+        1560,
+        "01:55:52.540000",
+        "01:55:55.150000",
+        "Surely Someday!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSurely\\ Someday:)Surely\\ Someday)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

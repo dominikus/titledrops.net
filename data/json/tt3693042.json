@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3693042",
+    "title": "Grey Lady",
+    "year": 2017,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1408,
+    "occurrences": [
+      [
+        96,
+        "00:08:53.166000",
+        "00:08:55.700000",
+        "The Grey lady is."
+      ],
+      [
+        122,
+        "00:10:21.788000",
+        "00:10:24.956000",
+        "Oh, yeah. It's the Grey lady."
+      ],
+      [
+        270,
+        "00:23:01.381000",
+        "00:23:02.646000",
+        "Is the Grey lady treating you well?"
+      ],
+      [
+        801,
+        "00:55:25.489000",
+        "00:55:28.023000",
+        "The duchess called the island the Grey lady."
+      ]
+    ],
+    "regex": "\\b((?!\\bGrey\\ Lady:)Grey\\ Lady)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

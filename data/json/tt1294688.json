@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1294688",
+    "title": "Last Night",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 798,
+    "occurrences": [
+      [
+        218,
+        "00:17:44.463000",
+        "00:17:47.330000",
+        "Breakfast yesterday morning. Dinner last night."
+      ],
+      [
+        485,
+        "00:41:00.524000",
+        "00:41:06.360000",
+        "First wife and when I work. which together with you last night? Yes."
+      ],
+      [
+        535,
+        "00:45:24.521000",
+        "00:45:30.221000",
+        "Ok, so last night night. It's a trap. I know that."
+      ],
+      [
+        712,
+        "01:08:49.291000",
+        "01:08:53.227000",
+        "Michael was working last night"
+      ],
+      [
+        779,
+        "01:24:50.318000",
+        "01:24:52.286000",
+        "Last night when I..."
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Night:)Last\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

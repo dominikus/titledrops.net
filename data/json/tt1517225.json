@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1517225",
+    "title": "The Enemy",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 630,
+    "occurrences": [
+      [
+        0,
+        "00:01:27.360000",
+        "00:01:31.001000",
+        "The enemy"
+      ],
+      [
+        62,
+        "00:08:39.320000",
+        "00:08:41.687000",
+        "And who walled him in? - He says it was the enemy."
+      ],
+      [
+        167,
+        "00:14:39.320000",
+        "00:14:45.009000",
+        "and beans are not the enemy. No more killing, man."
+      ],
+      [
+        555,
+        "00:47:48.800000",
+        "00:47:53.408000",
+        "It's not the enemy. Our explosive and our mines."
+      ]
+    ],
+    "regex": "\\b((?!\\bEnemy:)Enemy)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

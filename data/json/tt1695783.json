@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1695783",
+    "title": "Hot Water",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 2285,
+    "occurrences": [
+      [
+        577,
+        "00:23:19.901000",
+        "00:23:22.837000",
+        "and Hot Water Champion from what I hear."
+      ],
+      [
+        1415,
+        "00:59:41.215000",
+        "00:59:43.951000",
+        "They gave me the Pound Foolish Hot Water Watch, waterproof."
+      ]
+    ],
+    "regex": "\\b((?!\\bHot\\ Water:)Hot\\ Water)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

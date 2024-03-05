@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt21073326",
+    "title": "Bury the Bride",
+    "year": 2023,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1715,
+    "occurrences": [
+      [
+        876,
+        "00:33:24.666000",
+        "00:33:26.916000",
+        "Bury the bride!"
+      ],
+      [
+        878,
+        "00:33:28.375000",
+        "00:33:30.541000",
+        "-Bury the bride! -Bury the bride!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBury\\ the\\ Bride:)Bury\\ the\\ Bride)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

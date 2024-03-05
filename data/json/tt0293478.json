@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0293478",
+    "title": "St. John's Wort",
+    "year": 2001,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 517,
+    "occurrences": [
+      [
+        91,
+        "00:10:40.933000",
+        "00:10:43.600000",
+        "Well, \"St. John's wort\"..."
+      ],
+      [
+        414,
+        "01:00:54.800000",
+        "01:00:58.733000",
+        "Is that St. John's wort?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSt\\.\\ John's\\ Wort:)St\\.\\ John's\\ Wort)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

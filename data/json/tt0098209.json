@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0098209",
+    "title": "Roadkill",
+    "year": 1989,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1270,
+    "occurrences": [
+      [
+        530,
+        "00:30:07.266000",
+        "00:30:08.766000",
+        "Cause we all are roadkill in a way."
+      ],
+      [
+        563,
+        "00:31:30.475000",
+        "00:31:31.891000",
+        "Roadkill!"
+      ],
+      [
+        1246,
+        "01:20:16.266000",
+        "01:20:19.576000",
+        "of animal carcasses known as roadkill, from our highways,"
+      ]
+    ],
+    "regex": "\\b((?!\\bRoadkill:)Roadkill)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

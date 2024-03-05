@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0820158",
+    "title": "Tokyo Tower: Mom and Me, and Sometimes Dad",
+    "year": 2007,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 577,
+    "occurrences": [
+      [
+        28,
+        "00:03:50.797000",
+        "00:03:52.594000",
+        "The Tokyo Tower, behind him,"
+      ],
+      [
+        35,
+        "00:04:26.566000",
+        "00:04:30.832000",
+        "I find myself staring at Tokyo Tower from very close by"
+      ],
+      [
+        42,
+        "00:04:57.964000",
+        "00:05:01.593000",
+        "found her eternal rest at the foot of Tokyo Tower"
+      ]
+    ],
+    "regex": "\\b((?!\\bTokyo\\ Tower:)Tokyo\\ Tower|(?!\\bMom\\ and\\ Me,\\ and\\ Sometimes\\ Dad:)Mom\\ and\\ Me,\\ and\\ Sometimes\\ Dad)(?!\\:)(?!'t)\\b",
+    "runtime": 142,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

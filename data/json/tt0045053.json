@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt0045053",
+    "title": "The Prisoner of Zenda",
+    "year": 1952,
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 1,
+    "all_lines": 1068,
+    "occurrences": [
+      [
+        799,
+        "01:08:39.773000",
+        "01:08:44.801000",
+        "...on the condition that you yourself return the prisoner of Zenda to me alive."
+      ]
+    ],
+    "regex": "\\b((?!\\bPrisoner\\ of\\ Zenda:)Prisoner\\ of\\ Zenda)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

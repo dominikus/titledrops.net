@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0413879",
+    "title": "Cake",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1424,
+    "occurrences": [
+      [
+        147,
+        "00:09:58.297000",
+        "00:10:00.265000",
+        "You would have baked a cake?"
+      ],
+      [
+        519,
+        "00:29:18.089000",
+        "00:29:21.616000",
+        "I was thinking of a shirtless groom, popping out of a wedding cake."
+      ]
+    ],
+    "regex": "\\b((?!\\bCake:)Cake)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

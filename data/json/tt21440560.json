@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt21440560",
+    "title": "Viking",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1119,
+    "occurrences": [
+      [
+        45,
+        "00:04:58.924000",
+        "00:05:00.384000",
+        "from Viking Society."
+      ],
+      [
+        68,
+        "00:07:05.676000",
+        "00:07:09.263000",
+        "I release and exonerate Viking Society,"
+      ],
+      [
+        160,
+        "00:14:46.970000",
+        "00:14:50.974000",
+        "This is a replica of Viking Landers I and II,"
+      ],
+      [
+        556,
+        "00:47:08.287000",
+        "00:47:11.790000",
+        "It's for people like you that we created Viking."
+      ]
+    ],
+    "regex": "\\b((?!\\bViking:)Viking)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

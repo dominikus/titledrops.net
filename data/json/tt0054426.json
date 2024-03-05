@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0054426",
+    "title": "The Long Absence",
+    "year": 1961,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 681,
+    "occurrences": [
+      [
+        1,
+        "00:02:02.580000",
+        "00:02:05.586000",
+        "The Long Absence"
+      ],
+      [
+        383,
+        "01:00:55.486000",
+        "01:00:57.490000",
+        "after such a long absence..."
+      ]
+    ],
+    "regex": "\\b((?!\\bLong\\ Absence:)Long\\ Absence)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

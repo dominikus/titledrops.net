@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0105616",
+    "title": "Tom and Jerry: The Movie",
+    "year": 1992,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1002,
+    "occurrences": [
+      [
+        1,
+        "00:00:28",
+        "00:00:33.200000",
+        "Tom and Jerry: The Movie (1992)"
+      ],
+      [
+        512,
+        "00:39:01.640000",
+        "00:39:04.520000",
+        "First my daddy and now Tom and Jerry?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTom\\ and\\ Jerry:)Tom\\ and\\ Jerry|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

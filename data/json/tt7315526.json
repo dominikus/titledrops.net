@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt7315526",
+    "title": "Devil's Tree: Rooted Evil",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1279,
+    "occurrences": [
+      [
+        51,
+        "00:04:43.056000",
+        "00:04:45.390000",
+        "Deep in the woods there's this devil's tree."
+      ],
+      [
+        174,
+        "00:13:30.850000",
+        "00:13:33.216000",
+        "The devil's tree."
+      ]
+    ],
+    "regex": "\\b((?!\\bDevil's\\ Tree:)Devil's\\ Tree|(?!\\bRooted\\ Evil:)Rooted\\ Evil)(?!\\:)(?!'t)\\b",
+    "runtime": 74,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

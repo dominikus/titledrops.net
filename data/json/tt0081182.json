@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0081182",
+    "title": "Death Watch",
+    "year": 1980,
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 2077,
+    "occurrences": [
+      [
+        1168,
+        "01:10:58.169000",
+        "01:10:59.475000",
+        "Sure as hell ain't Death Watch."
+      ],
+      [
+        1360,
+        "01:21:05.329000",
+        "01:21:07.678000",
+        "Death Watch."
+      ]
+    ],
+    "regex": "\\b((?!\\bDeath\\ Watch:)Death\\ Watch)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

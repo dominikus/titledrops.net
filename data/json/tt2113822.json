@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2113822",
+    "title": "Back to 1942",
+    "year": 2012,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1640,
+    "occurrences": [
+      [
+        238,
+        "00:18:28.416000",
+        "00:18:31.166000",
+        "Then I'll go back to school and guard it with the others!"
+      ],
+      [
+        252,
+        "00:19:13.541000",
+        "00:19:14.874000",
+        "and then you can go back to school."
+      ],
+      [
+        1546,
+        "02:10:53.332000",
+        "02:10:55.749000",
+        "Give it back to me."
+      ]
+    ],
+    "regex": "\\b((?!\\bBack\\ to:)Back\\ to)(?!\\:)(?!'t)\\b",
+    "runtime": 145,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

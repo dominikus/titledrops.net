@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0095583",
+    "title": "Maniac Cop",
+    "year": 1988,
+    "genres": [
+      "Action",
+      "Crime",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 790,
+    "occurrences": [
+      [
+        115,
+        "00:16:32.499000",
+        "00:16:37.020000",
+        "Jesus! Maniac cop, how's that for a tag?"
+      ],
+      [
+        675,
+        "01:09:55.321000",
+        "01:09:59.547000",
+        "Public outrage over continued killings, by the so-called Maniac Cop"
+      ],
+      [
+        767,
+        "01:17:49.308000",
+        "01:17:53.808000",
+        "Somebody inform his honor that this maniac cop has been recaptured."
+      ]
+    ],
+    "regex": "\\b((?!\\bManiac\\ Cop:)Maniac\\ Cop)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

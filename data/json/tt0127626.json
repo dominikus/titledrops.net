@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt0127626",
+    "title": "Kiler",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 4,
+    "all_lines": 1043,
+    "occurrences": [
+      [
+        80,
+        "00:09:33.240000",
+        "00:09:35.560000",
+        "Jurek Kiler, ti driver."
+      ],
+      [
+        91,
+        "00:10:33.240000",
+        "00:10:35.520000",
+        "My name's Jurek Kiler."
+      ],
+      [
+        474,
+        "00:47:36.720000",
+        "00:47:38.440000",
+        "- Who? - Kiler."
+      ],
+      [
+        998,
+        "01:35:56.400000",
+        "01:36:02.400000",
+        "Our routine operation, as such, posed no harm to Mr. Kiler."
+      ]
+    ],
+    "regex": "\\b((?!\\bKiler:)Kiler)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [
+      "Jurek Kiler"
+    ],
+    "title_is_name": true,
+    "rating": 7.5
+  }
+]

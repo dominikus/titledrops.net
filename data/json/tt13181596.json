@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt13181596",
+    "title": "Food Luck",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1129,
+    "occurrences": [
+      [
+        127,
+        "00:10:15.249000",
+        "00:10:18.416000",
+        "This guy here has \"Food Luck.\""
+      ],
+      [
+        128,
+        "00:10:18.541000",
+        "00:10:21.666000",
+        "\"Food Luck?\" What does that mean?"
+      ],
+      [
+        963,
+        "01:24:24.707000",
+        "01:24:30.457000",
+        "You're always eating fancy meat. Perhaps you've lost your food luck?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFood\\ Luck:)Food\\ Luck)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

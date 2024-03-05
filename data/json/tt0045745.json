@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0045745",
+    "title": "The Fake",
+    "year": 1953,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 7,
+    "all_lines": 904,
+    "occurrences": [
+      [
+        0,
+        "00:00:32.358000",
+        "00:00:33.358000",
+        "The Fake"
+      ],
+      [
+        89,
+        "00:09:08.535000",
+        "00:09:12.629000",
+        "from the galleries in Florence and New York substituted fake copies"
+      ],
+      [
+        90,
+        "00:09:12.629000",
+        "00:09:15.596000",
+        "these fake were so good that they were not discovered for months"
+      ],
+      [
+        354,
+        "00:27:17.498000",
+        "00:27:21.738000",
+        "Say how do you fellows tell the difference between an original like this  and a fake?"
+      ],
+      [
+        358,
+        "00:27:34.335000",
+        "00:27:38.214000",
+        "In a copy,a fake,the details go straight on to the canvas"
+      ],
+      [
+        512,
+        "00:44:02.107000",
+        "00:44:03.764000",
+        "It's a copy,a fake"
+      ],
+      [
+        608,
+        "00:49:10.004000",
+        "00:49:13.922000",
+        "Mason's painting,Cartwright's analyses,the Leonardo fake"
+      ]
+    ],
+    "regex": "\\b((?!\\bFake:)Fake)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0039966",
+    "title": "To Live in Peace",
+    "year": 1947,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1052,
+    "occurrences": [
+      [
+        184,
+        "00:14:40.433000",
+        "00:14:42.560000",
+        "You know, I want to live in peace."
+      ],
+      [
+        185,
+        "00:14:42.560000",
+        "00:14:44.395000",
+        "To live in peace? How can anyone relax with a man like you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTo\\ Live\\ in\\ Peace:)To\\ Live\\ in\\ Peace)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

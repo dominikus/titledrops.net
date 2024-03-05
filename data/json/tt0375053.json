@@ -1,0 +1,69 @@
+[
+  {
+    "imdb": "tt0375053",
+    "title": "Sergeant Pepper",
+    "year": 2004,
+    "genres": [
+      "Family"
+    ],
+    "count": 8,
+    "all_lines": 815,
+    "occurrences": [
+      [
+        55,
+        "00:07:35.700000",
+        "00:07:39.534000",
+        "To my beloved Sergeant Pepper."
+      ],
+      [
+        72,
+        "00:09:02.940000",
+        "00:09:07.855000",
+        "When Sergeant Pepper follows me in death hopefully at a high age..."
+      ],
+      [
+        305,
+        "00:34:24.660000",
+        "00:34:30.178000",
+        "- He has to go to the vet. - He said his name is Sergeant Pepper."
+      ],
+      [
+        314,
+        "00:35:10.580000",
+        "00:35:13.538000",
+        "- In your bed. - He's called Sergeant Pepper."
+      ],
+      [
+        401,
+        "00:44:26.940000",
+        "00:44:31.092000",
+        "- That's right. - Sergeant Pepper needs your help."
+      ],
+      [
+        446,
+        "00:49:19.460000",
+        "00:49:22.955000",
+        "Tell me the truth. Where is Sergeant Pepper?"
+      ],
+      [
+        729,
+        "01:19:35.100000",
+        "01:19:39.810000",
+        "You only need to look after Sergeant Pepper's well-being."
+      ],
+      [
+        736,
+        "01:20:01.100000",
+        "01:20:04.172000",
+        "What'll happen with Sergeant Pepper?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSergeant\\ Pepper:)Sergeant\\ Pepper)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [
+      "Sergeant Pepper"
+    ],
+    "title_is_name": true,
+    "rating": 5.1
+  }
+]

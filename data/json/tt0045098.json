@@ -1,0 +1,67 @@
+[
+  {
+    "imdb": "tt0045098",
+    "title": "Rome 11:00",
+    "year": 1952,
+    "genres": [
+      "Drama"
+    ],
+    "count": 8,
+    "all_lines": 1513,
+    "occurrences": [
+      [
+        0,
+        "00:00:25.036000",
+        "00:00:29.932000",
+        "ROME, 11 O'CLOCK"
+      ],
+      [
+        2,
+        "00:00:38.936000",
+        "00:00:43.591000",
+        "... in an actual event that took place on Via Savoia, Rome, in January of 1951."
+      ],
+      [
+        9,
+        "00:01:21.991000",
+        "00:01:25.094000",
+        "Thank you to the authorities; The Rome Fire Department..."
+      ],
+      [
+        329,
+        "00:25:18.205000",
+        "00:25:20.708000",
+        "Two months ago I pack my suitcase and come to Rome"
+      ],
+      [
+        347,
+        "00:26:30.102000",
+        "00:26:31.547000",
+        "Are you not from Rome?"
+      ],
+      [
+        377,
+        "00:28:30.317000",
+        "00:28:34.018000",
+        "I've been taking the train to Rome every morning for 2 months."
+      ],
+      [
+        378,
+        "00:28:34.019000",
+        "00:28:35.771000",
+        "They call me \"Rome and Back\"."
+      ],
+      [
+        1275,
+        "01:25:54.688000",
+        "01:25:57.671000",
+        "Any job, even outside Rome."
+      ]
+    ],
+    "regex": "\\b((?!\\bRome:)Rome|(?!\\b00:)00)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0317919",
+    "title": "Mission: Impossible III",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 719,
+    "occurrences": [
+      [
+        154,
+        "00:10:42.742000",
+        "00:10:45.438000",
+        "Your mission, should you choose to accept it,"
+      ],
+      [
+        506,
+        "00:39:37.141000",
+        "00:39:40.133000",
+        "Our mission is to get in and kidnap Davian."
+      ]
+    ],
+    "regex": "\\b((?!\\bMission:)Mission|(?!\\bImpossible:)Impossible)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

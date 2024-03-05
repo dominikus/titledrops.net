@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt8563452",
+    "title": "Crypto",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1393,
+    "occurrences": [
+      [
+        183,
+        "00:13:16.176000",
+        "00:13:19.144000",
+        "Plus the crypto day-trading, I average like 500 a day."
+      ],
+      [
+        449,
+        "00:33:37.263000",
+        "00:33:40.164000",
+        "Banks, hedge funds, they're buying up crypto."
+      ],
+      [
+        1180,
+        "01:24:07.690000",
+        "01:24:09.657000",
+        "I know you don't know jack shit about crypto,"
+      ]
+    ],
+    "regex": "\\b((?!\\bCrypto:)Crypto)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

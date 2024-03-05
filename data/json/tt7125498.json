@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt7125498",
+    "title": "Elephants",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1773,
+    "occurrences": [
+      [
+        394,
+        "00:21:25.240000",
+        "00:21:27.575000",
+        "- Elephants can use their trunks to paint."
+      ],
+      [
+        413,
+        "00:22:04.254000",
+        "00:22:06.621000",
+        "Actually, you know, elephants can paint too?"
+      ],
+      [
+        907,
+        "00:44:50.504000",
+        "00:44:52.171000",
+        "- Elephants can produce up to 300 pounds"
+      ],
+      [
+        1257,
+        "01:00:14.088000",
+        "01:00:16.975000",
+        "- Elephants can feel a range of human emotions,"
+      ]
+    ],
+    "regex": "\\b((?!\\bElephants:)Elephants)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0115909",
+    "title": "Saint Clara",
+    "year": 1996,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 900,
+    "occurrences": [
+      [
+        0,
+        "00:00:24.254000",
+        "00:00:27.254000",
+        "Saint Clara"
+      ],
+      [
+        667,
+        "00:55:45.751000",
+        "00:55:49.751000",
+        "(Carving \"Saint Clara\")"
+      ],
+      [
+        802,
+        "01:12:02.180000",
+        "01:12:06.180000",
+        "They're running away from fear of saint Clara's vision."
+      ],
+      [
+        804,
+        "01:12:09.980000",
+        "01:12:13.499000",
+        "when everybody started calling her saint Clara."
+      ]
+    ],
+    "regex": "\\b((?!\\bSaint\\ Clara:)Saint\\ Clara)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

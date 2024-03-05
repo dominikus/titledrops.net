@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1592876",
+    "title": "Score: A Hockey Musical",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 1806,
+    "occurrences": [
+      [
+        187,
+        "00:08:47.242000",
+        "00:08:50.427000",
+        "P Where's your Farley? He loves to skate and score. P"
+      ],
+      [
+        815,
+        "00:38:09.803000",
+        "00:38:12.538000",
+        "P but he's starting to grow on us and he can score. P"
+      ]
+    ],
+    "regex": "\\b((?!\\bScore:)Score|(?!\\bHockey\\ Musical:)Hockey\\ Musical)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

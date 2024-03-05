@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt11967116",
+    "title": "The Night Doctor",
+    "year": 2020,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 932,
+    "occurrences": [
+      [
+        271,
+        "00:19:34.125000",
+        "00:19:37.083000",
+        "Dr. Kourtchine, the night doctor. Did you call?"
+      ],
+      [
+        505,
+        "00:35:08.125000",
+        "00:35:10.042000",
+        "Night doctor and benefactor of mankind."
+      ],
+      [
+        671,
+        "00:50:28.292000",
+        "00:50:30.250000",
+        "Night doctor and gigolo."
+      ]
+    ],
+    "regex": "\\b((?!\\bNight\\ Doctor:)Night\\ Doctor)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

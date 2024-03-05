@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1758576",
+    "title": "Bombay Beach",
+    "year": 2011,
+    "genres": [
+      "Documentary",
+      "Drama",
+      "Musical"
+    ],
+    "count": 3,
+    "all_lines": 1063,
+    "occurrences": [
+      [
+        790,
+        "00:54:21.057000",
+        "00:54:23.560000",
+        "There's no hospital in Bombay Beach, there's no doctor."
+      ],
+      [
+        811,
+        "00:55:18.014000",
+        "00:55:20.585000",
+        "Because we live in Bombay Beach, 'cause--"
+      ],
+      [
+        1061,
+        "01:16:22.144000",
+        "01:16:25.717000",
+        "I love Bombay Beach, bye-bye!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBombay\\ Beach:)Bombay\\ Beach)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

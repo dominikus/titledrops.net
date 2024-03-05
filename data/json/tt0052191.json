@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0052191",
+    "title": "The Sheriff of Fractured Jaw",
+    "year": 1958,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 1472,
+    "occurrences": [
+      [
+        550,
+        "00:38:28.840000",
+        "00:38:32.310000",
+        ". . .and l make you sheriff of Fractured Jaw."
+      ],
+      [
+        1386,
+        "01:32:36.800000",
+        "01:32:40.031000",
+        ". . .on the appointed sheriff of Fractured Jaw."
+      ]
+    ],
+    "regex": "\\b((?!\\bSheriff\\ of\\ Fractured\\ Jaw:)Sheriff\\ of\\ Fractured\\ Jaw)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

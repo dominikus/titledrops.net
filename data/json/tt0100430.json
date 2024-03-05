@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0100430",
+    "title": "The Psychic",
+    "year": 1991,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1158,
+    "occurrences": [
+      [
+        395,
+        "00:31:44.436000",
+        "00:31:48.140000",
+        "- I'm a psychic. - A psychic?"
+      ],
+      [
+        399,
+        "00:31:59.218000",
+        "00:32:02.054000",
+        "Oh, Child Psychic, yes."
+      ],
+      [
+        593,
+        "00:49:57.462000",
+        "00:49:59.130000",
+        "I'm psychic."
+      ],
+      [
+        834,
+        "01:06:01.158000",
+        "01:06:05.162000",
+        "Now I don't believe in so-called psychic phenomena per se,"
+      ],
+      [
+        885,
+        "01:09:16.886000",
+        "01:09:21.358000",
+        "He said that he had some kind of psychic powers."
+      ]
+    ],
+    "regex": "\\b((?!\\bPsychic:)Psychic)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0097035",
+    "title": "Cha Cha Cha",
+    "year": 1989,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 634,
+    "occurrences": [
+      [
+        549,
+        "01:29:29.737000",
+        "01:29:34.049000",
+        "My films were Cha Cha Cha and Paperstar -"
+      ],
+      [
+        608,
+        "01:36:28.137000",
+        "01:36:36.215000",
+        "We started Cha Cha Cha right a fter Helsinki Napoli, -"
+      ],
+      [
+        625,
+        "01:38:42.577000",
+        "01:38:46.331000",
+        "The name o f the film is Cha Cha Cha..."
+      ],
+      [
+        631,
+        "01:39:15.337000",
+        "01:39:25.770000",
+        "The teacher, Esko Salminen was famous also for his cha cha cha skills."
+      ],
+      [
+        633,
+        "01:39:35.857000",
+        "01:39:45.926000",
+        "and from then on the film was called Cha Cha Cha."
+      ]
+    ],
+    "regex": "\\b((?!\\bCha\\ Cha\\ Cha:)Cha\\ Cha\\ Cha)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

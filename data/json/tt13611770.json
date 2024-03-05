@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt13611770",
+    "title": "Seoul Vibe",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 1698,
+    "occurrences": [
+      [
+        1470,
+        "01:48:54.069000",
+        "01:48:56.238000",
+        "This is the Seoul Vibe Plan, sir."
+      ],
+      [
+        1471,
+        "01:48:56.321000",
+        "01:48:57.572000",
+        "\"Seoul Vibe.\""
+      ],
+      [
+        1566,
+        "01:59:49.557000",
+        "01:59:51.142000",
+        "This is the Seoul Vibe."
+      ]
+    ],
+    "regex": "\\b((?!\\bSeoul\\ Vibe:)Seoul\\ Vibe)(?!\\:)(?!'t)\\b",
+    "runtime": 138,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

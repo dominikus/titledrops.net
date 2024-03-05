@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt12444642",
+    "title": "Red Soil",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1044,
+    "occurrences": [
+      [
+        435,
+        "00:30:46.708000",
+        "00:30:49.375000",
+        "over 6 million tons of red soil is stocked"
+      ],
+      [
+        441,
+        "00:31:06.958000",
+        "00:31:08.292000",
+        "on the red soil"
+      ],
+      [
+        444,
+        "00:31:13.792000",
+        "00:31:16.250000",
+        "If dust from the red soil spreads..."
+      ],
+      [
+        1036,
+        "01:22:54.500000",
+        "01:22:57.583000",
+        "You're following the red soil case closely..."
+      ]
+    ],
+    "regex": "\\b((?!\\bRed\\ Soil:)Red\\ Soil)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

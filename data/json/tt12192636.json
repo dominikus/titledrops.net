@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt12192636",
+    "title": "Doll Face",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 838,
+    "occurrences": [
+      [
+        313,
+        "00:25:33.326000",
+        "00:25:35.228000",
+        "Now, come on inside here, doll face."
+      ],
+      [
+        333,
+        "00:26:35.388000",
+        "00:26:37.692000",
+        "Tell me what's your name, doll face?"
+      ],
+      [
+        336,
+        "00:26:55.141000",
+        "00:26:57.377000",
+        "Doll face, go down the block."
+      ],
+      [
+        347,
+        "00:27:15.562000",
+        "00:27:19.734000",
+        "Two lattes for me, doll face, and with soy milk."
+      ]
+    ],
+    "regex": "\\b((?!\\bDoll\\ Face:)Doll\\ Face)(?!\\:)(?!'t)\\b",
+    "runtime": 74,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2
+  }
+]

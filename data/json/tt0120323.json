@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0120323",
+    "title": "A Thousand Acres",
+    "year": 1997,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1218,
+    "occurrences": [
+      [
+        0,
+        "00:01:03.680000",
+        "00:01:06.752000",
+        "The land my father owned, a thousand acres..."
+      ],
+      [
+        1073,
+        "01:23:12",
+        "01:23:13.592000",
+        "on this thousand acres."
+      ],
+      [
+        1211,
+        "01:36:44.240000",
+        "01:36:48.392000",
+        "Our thousand acres were taken over by a giant agricultural corporation."
+      ]
+    ],
+    "regex": "\\b((?!\\bThousand\\ Acres:)Thousand\\ Acres)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

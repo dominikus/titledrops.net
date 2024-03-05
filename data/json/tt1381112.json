@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1381112",
+    "title": "Sister Smile",
+    "year": 2009,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 498,
+    "occurrences": [
+      [
+        384,
+        "00:49:50.800000",
+        "00:49:52.233000",
+        "Sister Smile,"
+      ],
+      [
+        391,
+        "00:50:23.679000",
+        "00:50:27.274000",
+        "What are you doing, my child? - I am Sister Smile, I practice,"
+      ]
+    ],
+    "regex": "\\b((?!\\bSister\\ Smile:)Sister\\ Smile)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

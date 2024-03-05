@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1517471",
+    "title": "Dough",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1224,
+    "occurrences": [
+      [
+        852,
+        "01:01:55.010000",
+        "01:02:01.116000",
+        "I don't want it covered in dough."
+      ],
+      [
+        920,
+        "01:07:40.222000",
+        "01:07:42.357000",
+        "-It's in the dough. -I can explain."
+      ],
+      [
+        921,
+        "01:07:42.358000",
+        "01:07:45.359000",
+        "-It's in all the dough. -I'm sorry, I..."
+      ]
+    ],
+    "regex": "\\b((?!\\bDough:)Dough)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

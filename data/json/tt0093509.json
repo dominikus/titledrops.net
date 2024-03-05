@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0093509",
+    "title": "Matewan",
+    "year": 1987,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1412,
+    "occurrences": [
+      [
+        32,
+        "00:05:52.094000",
+        "00:05:54.262000",
+        "In the town of matewan"
+      ],
+      [
+        48,
+        "00:09:01.313000",
+        "00:09:04.115000",
+        "When do we get to matewan? -You don't want to go there"
+      ]
+    ],
+    "regex": "\\b((?!\\bMatewan:)Matewan)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5986246",
+    "title": "Ladies",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1233,
+    "occurrences": [
+      [
+        350,
+        "00:23:59.381000",
+        "00:24:02.465000",
+        "Ladies, I'm just like you."
+      ],
+      [
+        440,
+        "00:29:12.465000",
+        "00:29:14.090000",
+        "They're ladies. You're gentlemen."
+      ]
+    ],
+    "regex": "\\b((?!\\bLadies:)Ladies)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

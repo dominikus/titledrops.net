@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt3652526",
+    "title": "Fire at Sea",
+    "year": 2016,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 612,
+    "occurrences": [
+      [
+        204,
+        "00:42:18.203000",
+        "00:42:20.580000",
+        "It was like there was fire at sea."
+      ],
+      [
+        205,
+        "00:42:20.830000",
+        "00:42:22.332000",
+        "Fire at sea?"
+      ],
+      [
+        214,
+        "00:44:17.572000",
+        "00:44:19.908000",
+        "\"Fire at Sea\","
+      ],
+      [
+        225,
+        "00:45:09.749000",
+        "00:45:11.876000",
+        "the song \"Fire at Sea\"."
+      ],
+      [
+        227,
+        "00:45:18.341000",
+        "00:45:21.720000",
+        "So, by request, \"Fire at Sea\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bFire\\ at\\ Sea:)Fire\\ at\\ Sea)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

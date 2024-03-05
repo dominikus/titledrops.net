@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0490234",
+    "title": "A Secret",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 913,
+    "occurrences": [
+      [
+        156,
+        "00:16:51.760000",
+        "00:16:56",
+        "'Search the forest carefully. A secret is hidden there."
+      ],
+      [
+        200,
+        "00:21:56.650000",
+        "00:21:59.760000",
+        "They kept it from me like a shameful secret."
+      ],
+      [
+        269,
+        "00:31:57",
+        "00:32:01.400000",
+        "Since she revealed part of the secret, she had to tell me more."
+      ],
+      [
+        872,
+        "01:39:40.640000",
+        "01:39:43.240000",
+        "I hoped I'd freed them of their secret."
+      ]
+    ],
+    "regex": "\\b((?!\\bSecret:)Secret)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

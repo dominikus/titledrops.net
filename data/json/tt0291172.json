@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0291172",
+    "title": "The Son",
+    "year": 2002,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 432,
+    "occurrences": [
+      [
+        149,
+        "00:32:52.160000",
+        "00:32:54.151000",
+        "He killed our son, and you want to teach him how to be a carpenter."
+      ],
+      [
+        421,
+        "01:28:36.920000",
+        "01:28:39.354000",
+        "That boy you killed was my son."
+      ]
+    ],
+    "regex": "\\b((?!\\bSon:)Son)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

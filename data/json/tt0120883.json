@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0120883",
+    "title": "Full Moon",
+    "year": 1998,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1322,
+    "occurrences": [
+      [
+        4,
+        "00:00:11.697000",
+        "00:00:13.435000",
+        "in my film Full Moon from 1998."
+      ],
+      [
+        528,
+        "00:48:47.968000",
+        "00:48:51.756000",
+        "The children actually did disappear when it was full moon."
+      ],
+      [
+        529,
+        "00:48:51.843000",
+        "00:48:55.297000",
+        "It's 18 days until the next full moon."
+      ],
+      [
+        1320,
+        "01:52:52.693000",
+        "01:52:54.814000",
+        "During this night of a full moon"
+      ]
+    ],
+    "regex": "\\b((?!\\bFull\\ Moon:)Full\\ Moon)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

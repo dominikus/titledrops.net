@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt6805938",
+    "title": "The Ledge",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 681,
+    "occurrences": [
+      [
+        31,
+        "00:03:46.942000",
+        "00:03:50.746000",
+        "Hey, the locals, they just tried to climb the face but couldn't get past the ledge."
+      ],
+      [
+        606,
+        "01:07:56.488000",
+        "01:07:58.623000",
+        "It was his idea to throw her off that ledge"
+      ],
+      [
+        619,
+        "01:08:31.256000",
+        "01:08:33.325000",
+        "I saw his body drop from that ledge."
+      ]
+    ],
+    "regex": "\\b((?!\\bLedge:)Ledge)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

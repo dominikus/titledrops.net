@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt10413566",
+    "title": "Tolo Tolo",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1087,
+    "occurrences": [
+      [
+        417,
+        "00:30:51.125000",
+        "00:30:53.958000",
+        "Tolo tolo!"
+      ],
+      [
+        418,
+        "00:30:54.833000",
+        "00:30:56.573000",
+        "- Tolo tolo! - Good for you!"
+      ],
+      [
+        922,
+        "01:13:24",
+        "01:13:26.537000",
+        "tolo tolo!"
+      ]
+    ],
+    "regex": "\\b((?!\\bTolo\\ Tolo:)Tolo\\ Tolo)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

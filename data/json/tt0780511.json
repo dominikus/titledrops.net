@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0780511",
+    "title": "Everybody's Fine",
+    "year": 2009,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1373,
+    "occurrences": [
+      [
+        1332,
+        "01:34:20.788000",
+        "01:34:23.256000",
+        "-everybody's fine. -JACK: Are you hungry?"
+      ],
+      [
+        1333,
+        "01:34:25.126000",
+        "01:34:26.525000",
+        "FRANK: Everybody's fine."
+      ]
+    ],
+    "regex": "\\b((?!\\bEverybody's\\ Fine:)Everybody's\\ Fine)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

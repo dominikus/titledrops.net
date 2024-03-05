@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2375318",
+    "title": "Baby Blues",
+    "year": 2013,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1006,
+    "occurrences": [
+      [
+        612,
+        "00:46:42.867000",
+        "00:46:44.471000",
+        "or Baby Blues."
+      ],
+      [
+        976,
+        "01:25:06.234000",
+        "01:25:08.612000",
+        "My baby blues is getting better."
+      ],
+      [
+        988,
+        "01:25:28.790000",
+        "01:25:30.599000",
+        "Sister is suffering from baby blues."
+      ]
+    ],
+    "regex": "\\b((?!\\bBaby\\ Blues:)Baby\\ Blues)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0095450",
+    "title": "King of Chess",
+    "year": 1991,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1543,
+    "occurrences": [
+      [
+        146,
+        "00:10:23.456000",
+        "00:10:26.892000",
+        "Yes, I want to see if he's really the King of Chess."
+      ],
+      [
+        148,
+        "00:10:29.562000",
+        "00:10:31.996000",
+        "Because I met a King of Chess once when I was in China."
+      ],
+      [
+        1370,
+        "01:23:11.319000",
+        "01:23:13.651000",
+        "and 9. My master is the King of Chess."
+      ],
+      [
+        1375,
+        "01:23:37.412000",
+        "01:23:39.846000",
+        "He's the King of Chess. He's excellent."
+      ],
+      [
+        1475,
+        "01:32:58.172000",
+        "01:32:59.002000",
+        "The old King of Chess is here."
+      ],
+      [
+        1476,
+        "01:33:21.195000",
+        "01:33:24.426000",
+        "You must be the young King of Chess."
+      ]
+    ],
+    "regex": "\\b((?!\\bKing\\ of\\ Chess:)King\\ of\\ Chess)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

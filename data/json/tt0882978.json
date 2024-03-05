@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0882978",
+    "title": "Three Kingdoms",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 646,
+    "occurrences": [
+      [
+        1,
+        "00:02:17.960000",
+        "00:02:20.474000",
+        "It was a time when China was divided between three kingdoms, Wei, Wu and Shu"
+      ],
+      [
+        640,
+        "01:33:37.520000",
+        "01:33:39.192000",
+        "Years later, the three Kingdoms were finally united"
+      ]
+    ],
+    "regex": "\\b((?!\\bThree\\ Kingdoms:)Three\\ Kingdoms)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

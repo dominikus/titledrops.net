@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0039486",
+    "title": "If Winter Comes",
+    "year": 1947,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1896,
+    "occurrences": [
+      [
+        0,
+        "00:00:22.800000",
+        "00:00:26.520000",
+        "# if winter comes and skies turn gray #"
+      ],
+      [
+        6,
+        "00:00:45.720000",
+        "00:00:48.080000",
+        "# If winter comes #"
+      ],
+      [
+        9,
+        "00:01:07.080000",
+        "00:01:09.680000",
+        "# If winter comes #"
+      ],
+      [
+        914,
+        "00:44:14.342000",
+        "00:44:16.800000",
+        "Oh wind, if Winter comes"
+      ],
+      [
+        918,
+        "00:44:25.542000",
+        "00:44:27.714000",
+        "Oh Wind, if Winter comes"
+      ]
+    ],
+    "regex": "\\b((?!\\bIf\\ Winter\\ Comes:)If\\ Winter\\ Comes)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

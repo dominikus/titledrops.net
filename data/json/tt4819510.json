@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4819510",
+    "title": "Chicken People",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Documentary",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1528,
+    "occurrences": [
+      [
+        383,
+        "00:21:28.805000",
+        "00:21:32.706000",
+        "My parents are not chicken people."
+      ],
+      [
+        384,
+        "00:21:32.708000",
+        "00:21:34.707000",
+        "I'm chicken people."
+      ]
+    ],
+    "regex": "\\b((?!\\bChicken\\ People:)Chicken\\ People)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

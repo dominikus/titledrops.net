@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt8922118",
+    "title": "Low Low",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1062,
+    "occurrences": [
+      [
+        1043,
+        "01:26:51.574000",
+        "01:26:55.709000",
+        "Only it's not low, it's like low low."
+      ],
+      [
+        1057,
+        "01:28:27.469000",
+        "01:28:29.469000",
+        "[\"Low Low\" by Aron Michael Marderosian and Robert J. Marderosian]"
+      ],
+      [
+        1059,
+        "01:30:40.002000",
+        "01:30:43.804000",
+        "[\"Low Low\" by Aron Michael Marderosian and Robert J. Marderosian]"
+      ]
+    ],
+    "regex": "\\b((?!\\bLow\\ Low:)Low\\ Low)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0052036",
+    "title": "The Eighth Day of the Week",
+    "year": 1958,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 775,
+    "occurrences": [
+      [
+        3,
+        "00:00:20.926000",
+        "00:00:26.465000",
+        "The Eighth Day Of The Week"
+      ],
+      [
+        363,
+        "00:37:24.071000",
+        "00:37:26.575000",
+        "Probably in the eighth day of the week!"
+      ]
+    ],
+    "regex": "\\b((?!\\bEighth\\ Day\\ of\\ the\\ Week:)Eighth\\ Day\\ of\\ the\\ Week)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

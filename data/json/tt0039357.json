@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0039357",
+    "title": "Escape Me Never",
+    "year": 1947,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1872,
+    "occurrences": [
+      [
+        333,
+        "00:16:40.403000",
+        "00:16:41.404000",
+        "\"Escape Me Never.\""
+      ],
+      [
+        336,
+        "00:16:47.410000",
+        "00:16:49.912000",
+        "Escape me never."
+      ]
+    ],
+    "regex": "\\b((?!\\bEscape\\ Me\\ Never:)Escape\\ Me\\ Never)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

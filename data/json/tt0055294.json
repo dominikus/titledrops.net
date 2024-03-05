@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0055294",
+    "title": "The Phantom Planet",
+    "year": 1961,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1271,
+    "occurrences": [
+      [
+        107,
+        "00:06:56.934000",
+        "00:06:59.392000",
+        "A phantom planet, Lansfield?"
+      ],
+      [
+        116,
+        "00:07:16.184000",
+        "00:07:18.059000",
+        "If this phantom planet thing isn't cleared up,"
+      ],
+      [
+        406,
+        "00:29:22.683000",
+        "00:29:24.017000",
+        "Phantom planet."
+      ],
+      [
+        1149,
+        "01:15:07.683000",
+        "01:15:08.934000",
+        "The phantom planet."
+      ]
+    ],
+    "regex": "\\b((?!\\bPhantom\\ Planet:)Phantom\\ Planet)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

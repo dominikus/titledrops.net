@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0036142",
+    "title": "Margin for Error",
+    "year": 1943,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1081,
+    "occurrences": [
+      [
+        493,
+        "00:35:09.607000",
+        "00:35:12.235000",
+        "The Third Reich allows no margin for error."
+      ],
+      [
+        738,
+        "00:51:04.594000",
+        "00:51:06.892000",
+        "The 3rd Reich allows no margin for error."
+      ],
+      [
+        1067,
+        "01:13:24.500000",
+        "01:13:27.367000",
+        "And he always said there was no margin for error."
+      ]
+    ],
+    "regex": "\\b((?!\\bMargin\\ for\\ Error:)Margin\\ for\\ Error)(?!\\:)(?!'t)\\b",
+    "runtime": 74,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

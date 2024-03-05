@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0827181",
+    "title": "Hide",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 868,
+    "occurrences": [
+      [
+        442,
+        "00:46:53.251000",
+        "00:46:55.106000",
+        "We can hide here forever."
+      ],
+      [
+        621,
+        "01:10:18.468000",
+        "01:10:21.085000",
+        "Enough of this hide, and I got tired."
+      ],
+      [
+        718,
+        "01:19:48.195000",
+        "01:19:49.682000",
+        "We have to hide Betty."
+      ]
+    ],
+    "regex": "\\b((?!\\bHide:)Hide)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

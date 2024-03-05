@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0094900",
+    "title": "Committed",
+    "year": 1991,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1041,
+    "occurrences": [
+      [
+        213,
+        "00:17:57.577000",
+        "00:18:00.945000",
+        "Don't forget you have just committed yourself."
+      ],
+      [
+        214,
+        "00:18:00.947000",
+        "00:18:04.248000",
+        "I beg your pardon? Did you say committed?"
+      ],
+      [
+        219,
+        "00:18:16.696000",
+        "00:18:21.365000",
+        "I meant committed in an entirely different context."
+      ],
+      [
+        234,
+        "00:20:05.471000",
+        "00:20:09.140000",
+        "Don't forget you have just committed yourself."
+      ],
+      [
+        280,
+        "00:25:17.817000",
+        "00:25:20.117000",
+        "Once committed,"
+      ],
+      [
+        410,
+        "00:36:37.896000",
+        "00:36:40.297000",
+        "Therapy. And you committed yourself."
+      ]
+    ],
+    "regex": "\\b((?!\\bCommitted:)Committed)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

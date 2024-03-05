@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0089461",
+    "title": "The Last Dragon",
+    "year": 1985,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1256,
+    "occurrences": [
+      [
+        24,
+        "00:04:34.382000",
+        "00:04:37.146000",
+        "This is the Last Dragon."
+      ],
+      [
+        83,
+        "00:11:04.238000",
+        "00:11:07.696000",
+        "...and skinny lizards like you, thinkin' they're the Last Dragon..."
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Dragon:)Last\\ Dragon)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

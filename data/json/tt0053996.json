@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0053996",
+    "title": "The Fair",
+    "year": 1960,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1156,
+    "occurrences": [
+      [
+        52,
+        "00:06:36.102000",
+        "00:06:38.102000",
+        "Why? - Mamma. - Go to the fair."
+      ],
+      [
+        192,
+        "00:16:07.989000",
+        "00:16:10.689000",
+        "Maybe you think that what happened was fair."
+      ],
+      [
+        361,
+        "00:29:43.996000",
+        "00:29:47.696000",
+        "It must have been long ago. - I've done a fair bit since."
+      ]
+    ],
+    "regex": "\\b((?!\\bFair:)Fair)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

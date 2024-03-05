@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0395216",
+    "title": "Slugs",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1105,
+    "occurrences": [
+      [
+        375,
+        "00:26:40.600000",
+        "00:26:42.636000",
+        "They're only slugs. - Garden slugs."
+      ],
+      [
+        381,
+        "00:26:56.560000",
+        "00:26:59.279000",
+        "Get a bucket and collect the slugs."
+      ],
+      [
+        387,
+        "00:27:09.280000",
+        "00:27:12.431000",
+        "Yeah, selective breeding. Now all they do is eat slugs."
+      ]
+    ],
+    "regex": "\\b((?!\\bSlugs:)Slugs)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

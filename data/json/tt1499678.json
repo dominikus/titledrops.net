@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1499678",
+    "title": "Disquiet",
+    "year": 2010,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1090,
+    "occurrences": [
+      [
+        18,
+        "00:02:10.840000",
+        "00:02:12.956000",
+        "It was in the silence of my disquiet,"
+      ],
+      [
+        506,
+        "00:58:33.560000",
+        "00:58:39.430000",
+        "Clouds... Such disquiet when I feel, such discomfort when I think,"
+      ],
+      [
+        883,
+        "01:35:18.680000",
+        "01:35:21.513000",
+        "And an exquisite exhaustion tinged with disquiet"
+      ],
+      [
+        1090,
+        "01:55:17.080000",
+        "01:55:19.116000",
+        "Excerpts from \"The Book of Disquiet\" according to Richard Zenith's translation"
+      ]
+    ],
+    "regex": "\\b((?!\\bDisquiet:)Disquiet)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

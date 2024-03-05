@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0112712",
+    "title": "Condition Red",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1295,
+    "occurrences": [
+      [
+        20,
+        "00:03:13.889000",
+        "00:03:16.021000",
+        "It's called Condition Red."
+      ],
+      [
+        95,
+        "00:06:22.991000",
+        "00:06:26.211000",
+        "INTERCOM: Condition red."
+      ]
+    ],
+    "regex": "\\b((?!\\bCondition\\ Red:)Condition\\ Red)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

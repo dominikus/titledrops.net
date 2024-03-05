@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0333701",
+    "title": "Cheese and Jam",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 787,
+    "occurrences": [
+      [
+        28,
+        "00:05:32.080000",
+        "00:05:35.834000",
+        "What are you eating? - Cheese and jam."
+      ],
+      [
+        29,
+        "00:05:36.240000",
+        "00:05:41.030000",
+        "Cheese and jam, together? - Yeah, you said it was OK."
+      ],
+      [
+        32,
+        "00:05:49",
+        "00:05:51.195000",
+        "Cheese and jam!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCheese\\ and\\ Jam:)Cheese\\ and\\ Jam)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

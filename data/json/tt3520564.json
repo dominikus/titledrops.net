@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3520564",
+    "title": "Melbourne",
+    "year": 2014,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 932,
+    "occurrences": [
+      [
+        39,
+        "00:03:10.800000",
+        "00:03:12.154000",
+        "- Melbourne - Australia"
+      ],
+      [
+        130,
+        "00:09:38.360000",
+        "00:09:41",
+        "Melbourne is number one. It came in first a few years ago too."
+      ],
+      [
+        682,
+        "00:59:42.520000",
+        "00:59:45.080000",
+        "So Melbourne was picked as the best city in the world."
+      ]
+    ],
+    "regex": "\\b((?!\\bMelbourne:)Melbourne)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

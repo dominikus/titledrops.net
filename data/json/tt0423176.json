@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0423176",
+    "title": "The World",
+    "year": 2004,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 527,
+    "occurrences": [
+      [
+        37,
+        "00:05:35.668000",
+        "00:05:38.068000",
+        "Welcome to World Park."
+      ],
+      [
+        44,
+        "00:06:50.843000",
+        "00:06:56.213000",
+        "See the world without ever leaving Beijing."
+      ],
+      [
+        145,
+        "00:16:10.269000",
+        "00:16:12.328000",
+        "A new world every day."
+      ],
+      [
+        147,
+        "00:16:13.572000",
+        "00:16:17.201000",
+        "I see the world \"without ever leaving Beijing.\""
+      ],
+      [
+        423,
+        "00:45:54.084000",
+        "00:45:58.043000",
+        "\"Give us a day, we'll show you the world.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bWorld:)World)(?!\\:)(?!'t)\\b",
+    "runtime": 143,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

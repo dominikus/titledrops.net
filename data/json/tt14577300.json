@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt14577300",
+    "title": "Fortress",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 1324,
+    "occurrences": [
+      [
+        499,
+        "00:34:03.861000",
+        "00:34:05.595000",
+        "Get to the fortress."
+      ],
+      [
+        503,
+        "00:34:10.567000",
+        "00:34:12.203000",
+        "We have to get to the fortress. Code black."
+      ],
+      [
+        504,
+        "00:34:12.236000",
+        "00:34:14.071000",
+        "Code black? What's the fortress?"
+      ],
+      [
+        575,
+        "00:39:49.106000",
+        "00:39:51.375000",
+        "Get to the fortress."
+      ],
+      [
+        584,
+        "00:40:13.164000",
+        "00:40:17.101000",
+        "next stop, the fortress!"
+      ],
+      [
+        609,
+        "00:42:09.046000",
+        "00:42:11.415000",
+        "Welcome to the fortress."
+      ],
+      [
+        866,
+        "01:00:04.254000",
+        "01:00:09.126000",
+        "The fortress was build 70 years ago."
+      ]
+    ],
+    "regex": "\\b((?!\\bFortress:)Fortress)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

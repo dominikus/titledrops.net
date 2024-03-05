@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0807707",
+    "title": "Breakout",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 635,
+    "occurrences": [
+      [
+        589,
+        "01:18:08.052000",
+        "01:18:12.489000",
+        "I had no idea that you are able to make up such difficult breakout-plan."
+      ],
+      [
+        596,
+        "01:18:51.892000",
+        "01:18:56.044000",
+        "Missis Frei, for someone, who can be accused of helping by a breakout,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBreakout:)Breakout)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

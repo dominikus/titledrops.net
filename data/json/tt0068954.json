@@ -1,0 +1,36 @@
+[
+  {
+    "imdb": "tt0068954",
+    "title": "Shanghai Joe",
+    "year": 1973,
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 1031,
+    "occurrences": [
+      [
+        89,
+        "00:06:49",
+        "00:06:51.400000",
+        "Get off, Shanghai Joe, you've arrived."
+      ],
+      [
+        781,
+        "01:04:16.400000",
+        "01:04:17.200000",
+        "Shanghai Joe."
+      ]
+    ],
+    "regex": "\\b((?!\\bShanghai\\ Joe:)Shanghai\\ Joe)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [
+      "Shanghai Joe",
+      "Chin Hao"
+    ],
+    "title_is_name": true,
+    "rating": 5.8
+  }
+]

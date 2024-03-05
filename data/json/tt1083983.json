@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1083983",
+    "title": "The White Silk Dress",
+    "year": 2006,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 575,
+    "occurrences": [
+      [
+        70,
+        "00:09:54.694000",
+        "00:09:57.694000",
+        "This white silk dress is somehow linked closely to my life."
+      ],
+      [
+        78,
+        "00:10:29.395000",
+        "00:10:32.395000",
+        "But I've kept this white silk dress for the past twenty years."
+      ],
+      [
+        202,
+        "00:29:50.554000",
+        "00:29:53.555000",
+        "Your white silk dress."
+      ],
+      [
+        530,
+        "01:13:03.478000",
+        "01:13:06.479000",
+        "...please help me re-cut my white silk dress."
+      ]
+    ],
+    "regex": "\\b((?!\\bWhite\\ Silk\\ Dress:)White\\ Silk\\ Dress)(?!\\:)(?!'t)\\b",
+    "runtime": 142,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

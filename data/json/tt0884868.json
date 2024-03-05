@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0884868",
+    "title": "The Tokyo Trial",
+    "year": 2006,
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 1304,
+    "occurrences": [
+      [
+        399,
+        "00:35:47.845000",
+        "00:35:50.439000",
+        "On China in the Tokyo trial"
+      ],
+      [
+        497,
+        "00:43:01.845000",
+        "00:43:03.870000",
+        "in the period of Tokyo trial."
+      ],
+      [
+        540,
+        "00:45:28.325000",
+        "00:45:30.486000",
+        "Puyi made it in the Tokyo trial."
+      ]
+    ],
+    "regex": "\\b((?!\\bTokyo\\ Trial:)Tokyo\\ Trial)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

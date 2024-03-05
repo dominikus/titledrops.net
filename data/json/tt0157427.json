@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0157427",
+    "title": "Lima: Breaking the Silence",
+    "year": 1999,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1395,
+    "occurrences": [
+      [
+        85,
+        "00:05:05.392000",
+        "00:05:07.524000",
+        "Just take me down to Lima, give me a gun."
+      ],
+      [
+        477,
+        "00:31:00.249000",
+        "00:31:01.642000",
+        "the next few days in Lima?"
+      ],
+      [
+        599,
+        "00:37:42.782000",
+        "00:37:46.829000",
+        "We have named this operation Breaking the Silence."
+      ],
+      [
+        944,
+        "00:57:48.552000",
+        "00:57:54.035000",
+        "Jeff is the press attach to the American Embassy in Lima."
+      ],
+      [
+        1211,
+        "01:14:03.047000",
+        "01:14:06.093000",
+        "The crisis has become part of routine life in Lima."
+      ],
+      [
+        1248,
+        "01:15:43.451000",
+        "01:15:46.193000",
+        "The operation's called Breaking the Silence."
+      ]
+    ],
+    "regex": "\\b((?!\\bLima:)Lima|(?!\\bBreaking\\ the\\ Silence:)Breaking\\ the\\ Silence)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

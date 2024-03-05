@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt0051762",
+    "title": "The Idiot",
+    "year": 1958,
+    "genres": [
+      "Drama"
+    ],
+    "count": 8,
+    "all_lines": 1535,
+    "occurrences": [
+      [
+        0,
+        "00:00:11.374000",
+        "00:00:14.418000",
+        "IDIOT"
+      ],
+      [
+        399,
+        "00:31:02.271000",
+        "00:31:03.533000",
+        "Idiot!"
+      ],
+      [
+        707,
+        "00:54:15.705000",
+        "00:54:20.023000",
+        "Idiot! They ought to kick you out."
+      ],
+      [
+        717,
+        "00:54:56.887000",
+        "00:54:59.092000",
+        "Why are you mumbling like an idiot?"
+      ],
+      [
+        772,
+        "00:58:02.565000",
+        "00:58:04.572000",
+        "Myshkin. He's an idiot."
+      ],
+      [
+        921,
+        "01:08:13.697000",
+        "01:08:19.158000",
+        "For how long will you be interfering? You idiot!"
+      ],
+      [
+        1529,
+        "01:55:04.510000",
+        "01:55:06.399000",
+        "Idiot! Idiot!"
+      ]
+    ],
+    "regex": "\\b((?!\\bIdiot:)Idiot)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0079413",
+    "title": "Crew Cut",
+    "year": 1979,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 908,
+    "occurrences": [
+      [
+        861,
+        "01:23:59.416000",
+        "01:24:01.700000",
+        "Crew cut."
+      ],
+      [
+        869,
+        "01:24:23.679000",
+        "01:24:26.561000",
+        "\"Tell him 'crew cut'. He'll understand.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bCrew\\ Cut:)Crew\\ Cut)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0059422",
+    "title": "The Man from Button Willow",
+    "year": 1965,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 782,
+    "occurrences": [
+      [
+        22,
+        "00:01:19.679000",
+        "00:01:22.091000",
+        "Who was known as the man from Button Willow."
+      ],
+      [
+        27,
+        "00:01:53.331000",
+        "00:01:58.139000",
+        "He's the man from Button Willow."
+      ]
+    ],
+    "regex": "\\b((?!\\bMan\\ from\\ Button\\ Willow:)Man\\ from\\ Button\\ Willow)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

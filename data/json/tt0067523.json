@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0067523",
+    "title": "Battle of Okinawa",
+    "year": 1971,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 908,
+    "occurrences": [
+      [
+        49,
+        "00:03:41.120000",
+        "00:03:49.027000",
+        "Battle of Okinawa A Tempestuous Annal of the Showa Period"
+      ],
+      [
+        597,
+        "00:47:42.125000",
+        "00:47:47.256000",
+        "\"\"...a fundamental goal of the Battle of Okinawa but also..."
+      ]
+    ],
+    "regex": "\\b((?!\\bBattle\\ of\\ Okinawa:)Battle\\ of\\ Okinawa)(?!\\:)(?!'t)\\b",
+    "runtime": 149,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

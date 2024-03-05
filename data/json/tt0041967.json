@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0041967",
+    "title": "Tokyo Joe",
+    "year": 1949,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 3,
+    "all_lines": 828,
+    "occurrences": [
+      [
+        17,
+        "00:04:01.274000",
+        "00:04:03.799000",
+        "Joint. Gambling. Tokyo Joe's."
+      ],
+      [
+        25,
+        "00:04:31.037000",
+        "00:04:35.667000",
+        "Tokyo Joe's is off-limits at the moment. It's operated by a Japanese."
+      ],
+      [
+        45,
+        "00:07:35.021000",
+        "00:07:37.353000",
+        "That's not a bar, this isn't Tokyo Joe's..."
+      ]
+    ],
+    "regex": "\\b((?!\\bTokyo\\ Joe:)Tokyo\\ Joe)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

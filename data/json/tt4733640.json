@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt4733640",
+    "title": "The Limehouse Golem",
+    "year": 2016,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1635,
+    "occurrences": [
+      [
+        35,
+        "00:03:39.453000",
+        "00:03:45.257000",
+        "with the fearsome limehouse Golem."
+      ],
+      [
+        114,
+        "00:08:22.870000",
+        "00:08:24.503000",
+        "First the limehouse Golem, now this."
+      ],
+      [
+        367,
+        "00:22:30.016000",
+        "00:22:32.016000",
+        "They're calling them the \"limehouse Golem\" murders."
+      ],
+      [
+        491,
+        "00:32:13.632000",
+        "00:32:17.334000",
+        "in connection with the \"limehouse Golem\" murders."
+      ],
+      [
+        1566,
+        "01:32:37.753000",
+        "01:32:42.322000",
+        "I came to know that my husband was the limehouse Golem.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bLimehouse\\ Golem:)Limehouse\\ Golem)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

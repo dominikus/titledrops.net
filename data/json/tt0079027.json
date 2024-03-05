@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0079027",
+    "title": "The Dark",
+    "year": 1979,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 1075,
+    "occurrences": [
+      [
+        18,
+        "00:01:45.210000",
+        "00:01:46.960000",
+        "-  Dark."
+      ],
+      [
+        461,
+        "00:32:39.919000",
+        "00:32:41.277000",
+        "Okay it's starting to get dark"
+      ],
+      [
+        557,
+        "00:37:43.778000",
+        "00:37:46.434000",
+        "- What's a matter, afraid of the dark?"
+      ],
+      [
+        687,
+        "00:50:47.837000",
+        "00:50:49.686000",
+        "can't you understand the city's not safe after dark!"
+      ],
+      [
+        939,
+        "01:12:29.901000",
+        "01:12:32.022000",
+        "- And I say to you that it's already dark"
+      ],
+      [
+        969,
+        "01:13:51.892000",
+        "01:13:55.948000",
+        "- Times running out, it's getting dark."
+      ],
+      [
+        1072,
+        "01:28:12.536000",
+        "01:28:16.703000",
+        "forever in darkness, will have nothing to fear in the dark."
+      ]
+    ],
+    "regex": "\\b((?!\\bDark:)Dark)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

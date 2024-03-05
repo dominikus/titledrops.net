@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0162035",
+    "title": "A Very Unlucky Leprechaun",
+    "year": 1998,
+    "genres": [
+      "Family",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 1497,
+    "occurrences": [
+      [
+        716,
+        "00:40:49.413000",
+        "00:40:52.149000",
+        "- Just admit it, you're a very unlucky leprechaun!"
+      ],
+      [
+        1329,
+        "01:15:55.951000",
+        "01:15:57.753000",
+        "- It's called A Very Unlucky Leprechaun."
+      ],
+      [
+        1387,
+        "01:18:47.422000",
+        "01:18:49.524000",
+        "A Very Unlucky Leprechaun!"
+      ]
+    ],
+    "regex": "\\b((?!\\bVery\\ Unlucky\\ Leprechaun:)Very\\ Unlucky\\ Leprechaun)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.6
+  }
+]

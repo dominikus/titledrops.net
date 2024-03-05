@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1068242",
+    "title": "Footloose",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 667,
+    "occurrences": [
+      [
+        18,
+        "00:01:14.943000",
+        "00:01:18.450000",
+        "footloose _ck off your Sunday shoes"
+      ],
+      [
+        24,
+        "00:01:33.262000",
+        "00:01:35.800000",
+        "Eveybody cut footloose"
+      ]
+    ],
+    "regex": "\\b((?!\\bFootloose:)Footloose)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

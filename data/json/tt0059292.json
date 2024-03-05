@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0059292",
+    "title": "The Twin Swords",
+    "year": 1965,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 934,
+    "occurrences": [
+      [
+        36,
+        "00:03:50.897000",
+        "00:03:56.733000",
+        "armed with twin swords, going on an adventure."
+      ],
+      [
+        45,
+        "00:04:44.250000",
+        "00:04:50.280000",
+        "they can conquer it when the twin swords come together."
+      ],
+      [
+        934,
+        "01:28:12.453000",
+        "01:28:19.655000",
+        "armed with their Twin Swords."
+      ]
+    ],
+    "regex": "\\b((?!\\bTwin\\ Swords:)Twin\\ Swords)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

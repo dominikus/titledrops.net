@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0053455",
+    "title": "The Wreck of the Mary Deare",
+    "year": 1959,
+    "genres": [
+      "Adventure",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1051,
+    "occurrences": [
+      [
+        402,
+        "00:53:58.735000",
+        "00:54:02.831000",
+        "or if you have any idea of searching for the wreck of the Mary Deare yourself,"
+      ],
+      [
+        819,
+        "01:18:45.421000",
+        "01:18:49.756000",
+        "a French salvage company has located the wreck of the Mary Deare."
+      ]
+    ],
+    "regex": "\\b((?!\\bWreck\\ of\\ the\\ Mary\\ Deare:)Wreck\\ of\\ the\\ Mary\\ Deare)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

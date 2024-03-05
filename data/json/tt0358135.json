@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0358135",
+    "title": "Shall We Dance",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 6,
+    "all_lines": 1196,
+    "occurrences": [
+      [
+        424,
+        "00:33:08.987000",
+        "00:33:13.240000",
+        "Shall we dance, shall we dance, shall we dance?"
+      ],
+      [
+        1111,
+        "01:36:15.520000",
+        "01:36:18.230000",
+        "( \"Shall We Dance\")"
+      ],
+      [
+        1113,
+        "01:36:35.707000",
+        "01:36:37.874000",
+        "Shall we dance, Mr Clark?"
+      ],
+      [
+        1196,
+        "01:44:00.568000",
+        "01:44:05.488000",
+        "( \"I Wanna (Shall We Dance)\" by Gizelle D'Cole and Pilar Montenegro)"
+      ]
+    ],
+    "regex": "\\b((?!\\bShall\\ We\\ Dance:)Shall\\ We\\ Dance)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

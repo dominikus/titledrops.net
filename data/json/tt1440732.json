@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt1440732",
+    "title": "Bel Ami",
+    "year": 2012,
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "count": 6,
+    "all_lines": 911,
+    "occurrences": [
+      [
+        195,
+        "00:18:51.170000",
+        "00:18:54.228000",
+        "Come soon, Bel Ami."
+      ],
+      [
+        197,
+        "00:19:02.929000",
+        "00:19:06.100000",
+        "Bel Ami! She never hugs anyone."
+      ],
+      [
+        306,
+        "00:33:49.240000",
+        "00:33:51.630000",
+        "Well, Bel Ami."
+      ],
+      [
+        311,
+        "00:34:10.865000",
+        "00:34:12.265000",
+        "Bel Ami."
+      ],
+      [
+        507,
+        "00:55:47.122000",
+        "00:55:49.057000",
+        "And another for Bel Ami."
+      ],
+      [
+        567,
+        "01:01:07.326000",
+        "01:01:08.727000",
+        "Bel Ami."
+      ]
+    ],
+    "regex": "\\b((?!\\bBel\\ Ami:)Bel\\ Ami)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2141761",
+    "title": "The Blackout",
+    "year": 2013,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1863,
+    "occurrences": [
+      [
+        388,
+        "00:19:51.658000",
+        "00:19:54.425000",
+        "The only way to remember a blackout,"
+      ],
+      [
+        390,
+        "00:19:55.695000",
+        "00:19:58.362000",
+        "is to blackout again."
+      ],
+      [
+        815,
+        "00:41:58.282000",
+        "00:42:01.317000",
+        "I'm already halfway to a blackout."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlackout:)Blackout)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.6
+  }
+]

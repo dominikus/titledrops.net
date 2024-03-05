@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0111181",
+    "title": "Sicario",
+    "year": 1994,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 935,
+    "occurrences": [
+      [
+        134,
+        "00:17:09.209000",
+        "00:17:13.209000",
+        "According to police information, the 13 year old \"Sicario...\""
+      ],
+      [
+        472,
+        "00:53:45.542000",
+        "00:53:49.209000",
+        "Dr. Raimundo Calcedo was murdered by a \"Sicario.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bSicario:)Sicario)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

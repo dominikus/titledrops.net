@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt14442328",
+    "title": "Jurassic Hunt",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1070,
+    "occurrences": [
+      [
+        42,
+        "00:03:12.889000",
+        "00:03:15.590000",
+        "Welcome to Jurassic Hunt."
+      ],
+      [
+        1059,
+        "01:20:29.658000",
+        "01:20:33.662000",
+        "- Okay, okay. - Welcome to Jurassic Hunt, you son of a bitch."
+      ]
+    ],
+    "regex": "\\b((?!\\bJurassic\\ Hunt:)Jurassic\\ Hunt)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.5
+  }
+]

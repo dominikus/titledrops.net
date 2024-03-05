@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt7126776",
+    "title": "Stillwater",
+    "year": 2018,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1734,
+    "occurrences": [
+      [
+        574,
+        "00:24:53.107000",
+        "00:24:57.142000",
+        "or Stillwater, or wherever the north woods fuck we are."
+      ],
+      [
+        1403,
+        "01:14:40.458000",
+        "01:14:44.059000",
+        "that we're coming to Stillwater for the reunion."
+      ]
+    ],
+    "regex": "\\b((?!\\bStillwater:)Stillwater)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

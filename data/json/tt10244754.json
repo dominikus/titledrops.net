@@ -1,0 +1,34 @@
+[
+  {
+    "imdb": "tt10244754",
+    "title": "Lillian",
+    "year": 2019,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 533,
+    "occurrences": [
+      [
+        0,
+        "00:02:05.542000",
+        "00:02:06.625000",
+        "Lillian."
+      ],
+      [
+        530,
+        "02:04:11.583000",
+        "02:04:13.500000",
+        "To Lillian Alling,"
+      ]
+    ],
+    "regex": "\\b((?!\\bLillian:)Lillian)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [
+      "Lillian"
+    ],
+    "title_is_name": true,
+    "rating": 6.8
+  }
+]

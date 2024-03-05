@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1325773",
+    "title": "New Terminal Hotel",
+    "year": 2010,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1294,
+    "occurrences": [
+      [
+        815,
+        "00:50:01.760000",
+        "00:50:04.570000",
+        "The new terminal hotel."
+      ],
+      [
+        816,
+        "00:50:04.570000",
+        "00:50:06.700000",
+        "New terminal hotel."
+      ]
+    ],
+    "regex": "\\b((?!\\bNew\\ Terminal\\ Hotel:)New\\ Terminal\\ Hotel)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

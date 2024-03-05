@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt8976608",
+    "title": "Rootwood",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1174,
+    "occurrences": [
+      [
+        353,
+        "00:22:03.566000",
+        "00:22:05.732000",
+        "I'm here in Rootwood Forest,"
+      ],
+      [
+        611,
+        "00:38:28.150000",
+        "00:38:30.152000",
+        "here in Rootwood Forest."
+      ]
+    ],
+    "regex": "\\b((?!\\bRootwood:)Rootwood)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

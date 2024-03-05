@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0452608",
+    "title": "Death Race",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 793,
+    "occurrences": [
+      [
+        129,
+        "00:19:38.990000",
+        "00:19:43.710000",
+        "You're familiar with the Death Race, and the driver the fans call Frankenstein?"
+      ],
+      [
+        289,
+        "00:34:40.340000",
+        "00:34:42.050000",
+        "Welcome to Death Race!"
+      ],
+      [
+        486,
+        "00:59:59.360000",
+        "01:00:02.400000",
+        "Welcome to the next installment of Death Race."
+      ],
+      [
+        597,
+        "01:15:44.890000",
+        "01:15:47.810000",
+        "Tonight is the final leg of the Death Race."
+      ],
+      [
+        636,
+        "01:19:52.420000",
+        "01:19:56.760000",
+        "Welcome to the final installment of Death Race."
+      ]
+    ],
+    "regex": "\\b((?!\\bDeath\\ Race:)Death\\ Race)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

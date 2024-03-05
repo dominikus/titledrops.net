@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1623777",
+    "title": "Honest Man: The Life of R. Budd Dwyer",
+    "year": 2010,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1823,
+    "occurrences": [
+      [
+        3,
+        "00:00:24.770000",
+        "00:00:27.368000",
+        "was praised today as an honest man"
+      ],
+      [
+        67,
+        "00:02:51.222000",
+        "00:02:52.810000",
+        "- He was a very honest man."
+      ]
+    ],
+    "regex": "\\b((?!\\bHonest\\ Man:)Honest\\ Man|(?!\\bLife\\ of\\ R\\.\\ Budd\\ Dwyer:)Life\\ of\\ R\\.\\ Budd\\ Dwyer)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

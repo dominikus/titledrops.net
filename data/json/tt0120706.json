@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0120706",
+    "title": "The General",
+    "year": 1998,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 653,
+    "occurrences": [
+      [
+        2,
+        "00:01:22.649000",
+        "00:01:24.583000",
+        "They got the General!"
+      ],
+      [
+        10,
+        "00:01:45.605000",
+        "00:01:48.438000",
+        "Congratulations, sir. They got the General."
+      ],
+      [
+        454,
+        "00:41:23.914000",
+        "00:41:27.850000",
+        "You're the General. You should get more than us."
+      ]
+    ],
+    "regex": "\\b((?!\\bGeneral:)General)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

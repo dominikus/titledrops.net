@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0044030",
+    "title": "Show Boat",
+    "year": 1951,
+    "genres": [
+      "Drama",
+      "Family",
+      "Musical"
+    ],
+    "count": 7,
+    "all_lines": 1105,
+    "occurrences": [
+      [
+        4,
+        "00:01:31.200000",
+        "00:01:33.111000",
+        "Hey, the show boat's coming."
+      ],
+      [
+        6,
+        "00:01:54.440000",
+        "00:01:56.670000",
+        "Show boat. Show boat."
+      ],
+      [
+        7,
+        "00:02:01.400000",
+        "00:02:02.833000",
+        "Here comes the show boat."
+      ],
+      [
+        8,
+        "00:02:03",
+        "00:02:04.672000",
+        "Show boat."
+      ],
+      [
+        9,
+        "00:03:09.600000",
+        "00:03:11.716000",
+        "See the show boat"
+      ],
+      [
+        966,
+        "01:32:21.520000",
+        "01:32:25.832000",
+        "Thought maybe Natchez, seeing as there's a show boat tied up there."
+      ]
+    ],
+    "regex": "\\b((?!\\bShow\\ Boat:)Show\\ Boat)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

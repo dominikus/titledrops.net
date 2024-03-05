@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0075278",
+    "title": "The Student Body",
+    "year": 1976,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1517,
+    "occurrences": [
+      [
+        100,
+        "00:07:08.048000",
+        "00:07:09.881000",
+        "into the student body."
+      ],
+      [
+        1068,
+        "00:50:19.282000",
+        "00:50:21.622000",
+        "I am the student body!"
+      ]
+    ],
+    "regex": "\\b((?!\\bStudent\\ Body:)Student\\ Body)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

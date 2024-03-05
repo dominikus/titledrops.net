@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt14028890",
+    "title": "Stop-Zemlia",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1020,
+    "occurrences": [
+      [
+        23,
+        "00:05:12.691000",
+        "00:05:14.947000",
+        "Stop-Zemlia!"
+      ],
+      [
+        618,
+        "00:58:59.993000",
+        "00:59:02.249000",
+        "Stop-Zemlia!"
+      ],
+      [
+        656,
+        "01:01:12.100000",
+        "01:01:14.581000",
+        "Stop-Zemlia!"
+      ],
+      [
+        663,
+        "01:01:43.589000",
+        "01:01:45.681000",
+        "Stop-Zemlia!"
+      ]
+    ],
+    "regex": "\\b((?!\\bStop\\-Zemlia:)Stop\\-Zemlia)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

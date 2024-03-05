@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1185431",
+    "title": "My One and Only",
+    "year": 2009,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 935,
+    "occurrences": [
+      [
+        69,
+        "00:03:41.521000",
+        "00:03:44.319000",
+        "# My one and only #"
+      ],
+      [
+        691,
+        "00:40:11.609000",
+        "00:40:16.546000",
+        "#With my one and only ##"
+      ],
+      [
+        694,
+        "00:40:26.490000",
+        "00:40:30.950000",
+        "Folks, that was \"My One and Only\"hit."
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ One\\ and\\ Only:)My\\ One\\ and\\ Only)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

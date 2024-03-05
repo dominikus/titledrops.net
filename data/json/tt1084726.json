@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1084726",
+    "title": "Panic",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 902,
+    "occurrences": [
+      [
+        452,
+        "02:12:58.366000",
+        "02:13:00.482000",
+        "And I wont have any panic attacks if I shout?"
+      ],
+      [
+        454,
+        "02:13:04.046000",
+        "02:13:07.834000",
+        "The only way to cure panic is to learn to deal with it,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPanic:)Panic)(?!\\:)(?!'t)\\b",
+    "runtime": 176,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6509862",
+    "title": "Mr. Long",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 517,
+    "occurrences": [
+      [
+        135,
+        "00:40:41.760000",
+        "00:40:43.762000",
+        "Are you in trouble, Mr. Long?"
+      ],
+      [
+        502,
+        "01:54:57.280000",
+        "01:54:59.282000",
+        "Isn't that Mr. Long?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMr\\.\\ Long:)Mr\\.\\ Long)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

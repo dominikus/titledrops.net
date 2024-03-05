@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt8863066",
+    "title": "Recorder: The Marion Stokes Project",
+    "year": 2019,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "History"
+    ],
+    "count": 1,
+    "all_lines": 1590,
+    "occurrences": [
+      [
+        145,
+        "00:11:24.248000",
+        "00:11:28.296000",
+        "The first Betamax recorder I remember was in late ''75."
+      ]
+    ],
+    "regex": "\\b((?!\\bRecorder:)Recorder|(?!\\bMarion\\ Stokes\\ Project:)Marion\\ Stokes\\ Project)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

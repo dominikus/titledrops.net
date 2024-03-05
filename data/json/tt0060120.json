@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0060120",
+    "title": "The Appaloosa",
+    "year": 1966,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 977,
+    "occurrences": [
+      [
+        97,
+        "00:12:16.035000",
+        "00:12:18.868000",
+        "I, too, have always admired the appaloosa."
+      ],
+      [
+        188,
+        "00:19:05.444000",
+        "00:19:07.275000",
+        "(Paco) What a beautiful appaloosa."
+      ],
+      [
+        324,
+        "00:27:27.078000",
+        "00:27:30.673000",
+        "Lazaro, how is my appaloosa?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAppaloosa:)Appaloosa)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

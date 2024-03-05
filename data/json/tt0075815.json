@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0075815",
+    "title": "Beach House",
+    "year": 1977,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1040,
+    "occurrences": [
+      [
+        64,
+        "00:11:27.235000",
+        "00:11:33.310000",
+        "- \"We're at beach house number...\" - 19. - 19. \"Waiting for you...\""
+      ],
+      [
+        73,
+        "00:12:26.315000",
+        "00:12:27.794000",
+        "\"We're at beach house number 19...\""
+      ],
+      [
+        161,
+        "00:19:58.515000",
+        "00:20:02.110000",
+        "They got us costumes, rented the beach house..."
+      ],
+      [
+        430,
+        "00:43:02.915000",
+        "00:43:05.554000",
+        "My husband had a heart as big as this beach house."
+      ]
+    ],
+    "regex": "\\b((?!\\bBeach\\ House:)Beach\\ House)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1491044",
+    "title": "The Iceman",
+    "year": 2012,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1481,
+    "occurrences": [
+      [
+        1213,
+        "01:22:58.633000",
+        "01:23:00.305000",
+        "I know, they're looking for the Iceman."
+      ],
+      [
+        1269,
+        "01:26:21.298000",
+        "01:26:25.370000",
+        "It's fucking crazy. They're calling him the Iceman."
+      ],
+      [
+        1431,
+        "01:36:40.810000",
+        "01:36:45.247000",
+        "He is such a cold-blooded killer, they call him The Iceman."
+      ],
+      [
+        1446,
+        "01:38:22.323000",
+        "01:38:24.517000",
+        "You see the Iceman crying?"
+      ]
+    ],
+    "regex": "\\b((?!\\bIceman:)Iceman)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

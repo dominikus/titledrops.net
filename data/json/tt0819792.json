@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0819792",
+    "title": "Onni von Sopanen",
+    "year": 2006,
+    "genres": [
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 852,
+    "occurrences": [
+      [
+        799,
+        "01:22:46.159000",
+        "01:22:50.800000",
+        "Poor Onni von Sopanen, you're a funny little spy."
+      ],
+      [
+        816,
+        "01:25:02.680000",
+        "01:25:05.160000",
+        "Editor-in-chief Onni von Sopanen!"
+      ],
+      [
+        817,
+        "01:25:05.399000",
+        "01:25:10.880000",
+        "Why \"von\", Mr. Literature Editor? - His sister says Onni von Sopanen."
+      ]
+    ],
+    "regex": "\\b((?!\\bOnni\\ von\\ Sopanen:)Onni\\ von\\ Sopanen)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

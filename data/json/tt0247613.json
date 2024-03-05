@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0247613",
+    "title": "Peppermint Candy",
+    "year": 1999,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 384,
+    "occurrences": [
+      [
+        174,
+        "00:30:38.625000",
+        "00:30:47.829000",
+        "Want one? It's a peppermint candy. Really delicious."
+      ],
+      [
+        181,
+        "00:33:39.273000",
+        "00:33:46.406000",
+        "Do you remember this? Peppermint candy. When I was in the army,"
+      ],
+      [
+        272,
+        "00:50:23.677000",
+        "00:50:28.670000",
+        "- What's this? - Peppermint candy from the restaurant."
+      ]
+    ],
+    "regex": "\\b((?!\\bPeppermint\\ Candy:)Peppermint\\ Candy)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

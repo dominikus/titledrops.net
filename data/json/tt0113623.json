@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0113623",
+    "title": "The Graduates",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 925,
+    "occurrences": [
+      [
+        12,
+        "00:02:31.047000",
+        "00:02:36.041000",
+        "... who will leave the ceramics firm - to Bruno only if he graduates."
+      ],
+      [
+        56,
+        "00:06:04.287000",
+        "00:06:08.280000",
+        "The graduates are like the shepherds of the christmas crib ..."
+      ],
+      [
+        59,
+        "00:06:16.007000",
+        "00:06:21.001000",
+        "If graduates are the shepherds, then who are the ox and the donkey?"
+      ]
+    ],
+    "regex": "\\b((?!\\bGraduates:)Graduates)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

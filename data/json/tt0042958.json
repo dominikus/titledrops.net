@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0042958",
+    "title": "Scandal",
+    "year": 1950,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 556,
+    "occurrences": [
+      [
+        225,
+        "00:21:24",
+        "00:21:25.600000",
+        "That scandal?"
+      ],
+      [
+        229,
+        "00:21:38",
+        "00:21:41",
+        "I meant the scandal . Do you thi nk it's true?"
+      ],
+      [
+        374,
+        "00:35:24",
+        "00:35:26.700000",
+        "That scandal was publicity It helped you"
+      ]
+    ],
+    "regex": "\\b((?!\\bScandal:)Scandal)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

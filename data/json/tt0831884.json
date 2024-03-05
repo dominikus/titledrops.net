@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0831884",
+    "title": "Reservation Road",
+    "year": 2007,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1232,
+    "occurrences": [
+      [
+        203,
+        "00:13:44.214000",
+        "00:13:47.802000",
+        "on Reservation Road outside Windham Harbor last night."
+      ],
+      [
+        206,
+        "00:13:54.171000",
+        "00:13:56.998000",
+        "And they appeal to anyone who may have been on Reservation Road"
+      ],
+      [
+        700,
+        "00:51:01.694000",
+        "00:51:04.278000",
+        "The boy that was killed on Reservation Road."
+      ]
+    ],
+    "regex": "\\b((?!\\bReservation\\ Road:)Reservation\\ Road)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

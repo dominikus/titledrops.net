@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt11916278",
+    "title": "The Scheme",
+    "year": 2020,
+    "genres": [
+      "Crime",
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 2513,
+    "occurrences": [
+      [
+        902,
+        "00:41:45.083000",
+        "00:41:47.542000",
+        "- I didn't know he was, like, having a Ponzi scheme"
+      ],
+      [
+        915,
+        "00:42:16.291000",
+        "00:42:18.542000",
+        "- \"I know about this whole scheme"
+      ],
+      [
+        1996,
+        "01:33:30.667000",
+        "01:33:33.208000",
+        "In the broader scheme of things, it just--"
+      ]
+    ],
+    "regex": "\\b((?!\\bScheme:)Scheme)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

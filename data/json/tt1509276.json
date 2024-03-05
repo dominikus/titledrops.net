@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1509276",
+    "title": "The Wildest Dream",
+    "year": 2010,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1002,
+    "occurrences": [
+      [
+        10,
+        "00:03:43.181000",
+        "00:03:45.684000",
+        "The wildest dream.\""
+      ],
+      [
+        988,
+        "01:28:39.815000",
+        "01:28:43.318000",
+        "I know you can achieve your wildest dream.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bWildest\\ Dream:)Wildest\\ Dream)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

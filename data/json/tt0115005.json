@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0115005",
+    "title": "Xiu Xiu: The Sent-Down Girl",
+    "year": 1998,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 662,
+    "occurrences": [
+      [
+        16,
+        "00:01:58.618000",
+        "00:02:01.781000",
+        "the girl whom everyone nicknamed Xiu Xiu"
+      ],
+      [
+        37,
+        "00:03:14.127000",
+        "00:03:16.095000",
+        "Xiu Xiu! Xiu Xiu!"
+      ],
+      [
+        108,
+        "00:10:11.777000",
+        "00:10:15.645000",
+        "Xiu Xiu, I'll wait for you at Headquarters!"
+      ],
+      [
+        314,
+        "00:35:46.777000",
+        "00:35:49.905000",
+        "Xiu Xiu"
+      ]
+    ],
+    "regex": "\\b((?!\\bXiu\\ Xiu:)Xiu\\ Xiu|(?!\\bSent\\-Down\\ Girl:)Sent\\-Down\\ Girl)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0101324",
+    "title": "American Friends",
+    "year": 1991,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1313,
+    "occurrences": [
+      [
+        1003,
+        "01:09:44.547000",
+        "01:09:47.816000",
+        "never to see these American friends of yours again."
+      ],
+      [
+        1175,
+        "01:21:42.397000",
+        "01:21:45",
+        "available to your American friends."
+      ]
+    ],
+    "regex": "\\b((?!\\bAmerican\\ Friends:)American\\ Friends)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

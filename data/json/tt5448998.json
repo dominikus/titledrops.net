@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt5448998",
+    "title": "Amityville: No Escape",
+    "year": 2016,
+    "genres": [
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 1318,
+    "occurrences": [
+      [
+        18,
+        "00:01:23.717000",
+        "00:01:26.018000",
+        "The, they wanna go to Amityville,"
+      ],
+      [
+        33,
+        "00:02:27.281000",
+        "00:02:30.718000",
+        "This is the original '97 Amityville tape."
+      ],
+      [
+        183,
+        "00:11:21.749000",
+        "00:11:26.085000",
+        "It's a little bit different in Amityville, I think."
+      ],
+      [
+        184,
+        "00:11:26.086000",
+        "00:11:28.687000",
+        "Like, Amityville, Amityville?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAmityville:)Amityville|(?!\\bNo\\ Escape:)No\\ Escape)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.8
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt16527824",
+    "title": "Warhorse One",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "count": 7,
+    "all_lines": 658,
+    "occurrences": [
+      [
+        102,
+        "00:08:57.304000",
+        "00:09:00.708000",
+        "Team Warhorse, this is Warhorse One."
+      ],
+      [
+        104,
+        "00:09:22.997000",
+        "00:09:27.601000",
+        "Team Warhorse, I say again, this is Warhorse One."
+      ],
+      [
+        110,
+        "00:10:28.597000",
+        "00:10:30.931000",
+        "Castle, this is Warhorse One."
+      ],
+      [
+        304,
+        "00:50:41.375000",
+        "00:50:42.977000",
+        "Castle, this is Warhorse One, do you copy?"
+      ],
+      [
+        306,
+        "00:50:48.883000",
+        "00:50:52.754000",
+        "Castle, this is Warhorse One. Do you read me? Over."
+      ],
+      [
+        338,
+        "00:52:29.717000",
+        "00:52:30.618000",
+        "Warhorse One out."
+      ],
+      [
+        590,
+        "01:46:45.539000",
+        "01:46:48.309000",
+        "-Warhorse One, this is Castle. Over."
+      ]
+    ],
+    "regex": "\\b((?!\\bWarhorse\\ One:)Warhorse\\ One)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

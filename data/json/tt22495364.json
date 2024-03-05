@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt22495364",
+    "title": "Handyman",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1140,
+    "occurrences": [
+      [
+        563,
+        "00:58:24.636000",
+        "00:58:28.878000",
+        "Maybe you would like to look for an all-around handyman"
+      ],
+      [
+        586,
+        "01:00:33.356000",
+        "01:00:34.987000",
+        "As an all-around house handyman."
+      ],
+      [
+        598,
+        "01:01:06.419000",
+        "01:01:08.480000",
+        "I need a stay-in handyman here."
+      ],
+      [
+        622,
+        "01:02:25.723000",
+        "01:02:27.499000",
+        "We are just in need of a handyman."
+      ]
+    ],
+    "regex": "\\b((?!\\bHandyman:)Handyman)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

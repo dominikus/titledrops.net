@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0200071",
+    "title": "Rosetta",
+    "year": 1999,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 362,
+    "occurrences": [
+      [
+        203,
+        "00:44:55.680000",
+        "00:44:57.159000",
+        "Your name is Rosetta."
+      ],
+      [
+        204,
+        "00:44:59.280000",
+        "00:45:00.793000",
+        "My name is Rosetta."
+      ],
+      [
+        274,
+        "00:55:33.600000",
+        "00:55:34.510000",
+        "Rosetta!"
+      ],
+      [
+        360,
+        "01:19:58.920000",
+        "01:19:59.955000",
+        "It's Rosetta."
+      ]
+    ],
+    "regex": "\\b((?!\\bRosetta:)Rosetta)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [
+      "Rosetta"
+    ],
+    "title_is_name": true,
+    "rating": 7.4
+  }
+]

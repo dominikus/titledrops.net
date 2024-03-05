@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0115907",
+    "title": "City Hall",
+    "year": 1996,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1748,
+    "occurrences": [
+      [
+        7,
+        "00:01:02.225000",
+        "00:01:05.558000",
+        "I had an apartment downtown, but home was City Hall."
+      ],
+      [
+        490,
+        "00:27:08.190000",
+        "00:27:10.283000",
+        "Results: 150 demonstrators at City Hall."
+      ]
+    ],
+    "regex": "\\b((?!\\bCity\\ Hall:)City\\ Hall)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

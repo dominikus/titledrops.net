@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1290393",
+    "title": "The Clockwork Girl",
+    "year": 2014,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Fantasy"
+    ],
+    "count": 5,
+    "all_lines": 1265,
+    "occurrences": [
+      [
+        315,
+        "00:19:55.518000",
+        "00:19:57.453000",
+        "The Clockwork Girl."
+      ],
+      [
+        392,
+        "00:24:45.141000",
+        "00:24:47.711000",
+        "MAN: Is that the Clockwork Girl we've been hearing about?"
+      ],
+      [
+        394,
+        "00:25:02.357000",
+        "00:25:05.662000",
+        "HUXLEY: Can you believe she was the Clockwork Girl?"
+      ],
+      [
+        549,
+        "00:34:45.907000",
+        "00:34:48.344000",
+        "And thank you for rescuing my Clockwork Girl."
+      ],
+      [
+        574,
+        "00:35:53.708000",
+        "00:35:56.644000",
+        "Keep in mind, that your Clockwork Girl"
+      ]
+    ],
+    "regex": "\\b((?!\\bClockwork\\ Girl:)Clockwork\\ Girl)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

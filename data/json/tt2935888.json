@@ -1,0 +1,34 @@
+[
+  {
+    "imdb": "tt2935888",
+    "title": "Billy the Kid",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 990,
+    "occurrences": [
+      [
+        952,
+        "01:16:29.672000",
+        "01:16:32.457000",
+        "Billy the kid."
+      ],
+      [
+        973,
+        "01:18:03.287000",
+        "01:18:05.550000",
+        "Billy the kid?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBilly\\ the\\ Kid:)Billy\\ the\\ Kid)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [
+      "William Bonney (Billy the Kid)"
+    ],
+    "title_is_name": true,
+    "rating": 2.1
+  }
+]

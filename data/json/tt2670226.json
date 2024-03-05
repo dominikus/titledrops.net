@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2670226",
+    "title": "Jîn",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 297,
+    "occurrences": [
+      [
+        123,
+        "00:53:39.080000",
+        "00:53:41.799000",
+        "- (Kurdish) What's your name? - Jin. Yours?"
+      ],
+      [
+        296,
+        "01:46:46.440000",
+        "01:46:48.590000",
+        "My name is, Jin!"
+      ]
+    ],
+    "regex": "\\b((?!\\bJin:)Jin)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [
+      "Jîn"
+    ],
+    "title_is_name": true,
+    "rating": 7.2
+  }
+]

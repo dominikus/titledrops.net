@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt21959422",
+    "title": "Retrograde",
+    "year": 2022,
+    "genres": [
+      "Documentary",
+      "History",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 1300,
+    "occurrences": [
+      [
+        374,
+        "00:22:33.894000",
+        "00:22:39.566000",
+        "So... the plan we came up with, ten-day retrograde plan for us,"
+      ],
+      [
+        375,
+        "00:22:39.941000",
+        "00:22:42.569000",
+        "uh, it's gonna be a very quick retrograde."
+      ],
+      [
+        408,
+        "00:25:14.095000",
+        "00:25:17.307000",
+        "Destroy and retrograde all computers in accordance with JPBO."
+      ],
+      [
+        416,
+        "00:25:32.781000",
+        "00:25:34.783000",
+        "US SOLDIER 3: Retrograde means you're shitting in the trench."
+      ]
+    ],
+    "regex": "\\b((?!\\bRetrograde:)Retrograde)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

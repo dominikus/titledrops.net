@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0367677",
+    "title": "Dracula 3000",
+    "year": 2004,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1158,
+    "occurrences": [
+      [
+        785,
+        "00:55:26.650000",
+        "00:55:28.585000",
+        "\"Dracula."
+      ],
+      [
+        786,
+        "00:55:29.753000",
+        "00:55:30",
+        "\"Count Dracula,"
+      ],
+      [
+        787,
+        "00:55:30.001000",
+        "00:55:32.221000",
+        "\"count Dracula,"
+      ]
+    ],
+    "regex": "\\b((?!\\bDracula:)Dracula)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.1
+  }
+]

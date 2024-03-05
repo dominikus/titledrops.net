@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0360887",
+    "title": "The Treasure Planet",
+    "year": 1982,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 687,
+    "occurrences": [
+      [
+        156,
+        "00:11:20.230000",
+        "00:11:22.780000",
+        "And you have the treasure planet map?"
+      ],
+      [
+        167,
+        "00:12:14.069000",
+        "00:12:16.649000",
+        "It's about treasure planet. I have the"
+      ],
+      [
+        219,
+        "00:16:44.170000",
+        "00:16:48.640000",
+        "loot on a secret treasure planet!"
+      ],
+      [
+        273,
+        "00:20:25.590000",
+        "00:20:28.760000",
+        "to five. Destination Treasure Planet."
+      ],
+      [
+        386,
+        "00:32:32.909000",
+        "00:32:35.980000",
+        "safely on Treasure Planet. Wish us luck."
+      ],
+      [
+        659,
+        "00:56:28.950000",
+        "00:56:30.660000",
+        "you behind on Treasure Planet you"
+      ]
+    ],
+    "regex": "\\b((?!\\bTreasure\\ Planet:)Treasure\\ Planet)(?!\\:)(?!'t)\\b",
+    "runtime": 72,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt15123120",
+    "title": "Divas",
+    "year": 2021,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 995,
+    "occurrences": [
+      [
+        144,
+        "00:10:43.268000",
+        "00:10:45.979000",
+        "I knew that together, they are the Divas."
+      ],
+      [
+        151,
+        "00:11:11.629000",
+        "00:11:14.215000",
+        "Hello Divas!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDivas:)Divas)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

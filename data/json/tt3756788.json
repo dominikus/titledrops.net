@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3756788",
+    "title": "Our Little Sister",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1572,
+    "occurrences": [
+      [
+        33,
+        "00:03:58.150000",
+        "00:04:00.190000",
+        "So... she's our little sister?"
+      ],
+      [
+        1561,
+        "02:01:22.070000",
+        "02:01:25.160000",
+        "He left us our little sister."
+      ]
+    ],
+    "regex": "\\b((?!\\bOur\\ Little\\ Sister:)Our\\ Little\\ Sister)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

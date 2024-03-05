@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0074661",
+    "title": "In the Sign of the Lion",
+    "year": 1976,
+    "genres": [
+      "Adult",
+      "Comedy",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 836,
+    "occurrences": [
+      [
+        0,
+        "00:00:08.009000",
+        "00:00:12",
+        "In the Sign of the Lion"
+      ],
+      [
+        193,
+        "00:17:59.680000",
+        "00:18:03.440000",
+        "\"In the Sign of the Lion\" But what about the writer's name?"
+      ],
+      [
+        310,
+        "00:27:45.119000",
+        "00:27:48.029000",
+        "I was thinking of buying \"In the Sign of the Lion\"."
+      ],
+      [
+        359,
+        "00:32:47.839000",
+        "00:32:51.950000",
+        "That's not its name anymore, it's \"In the Sign of the Lion\"."
+      ],
+      [
+        584,
+        "01:06:46.599000",
+        "01:06:49.480000",
+        "August 22nd. In the Sign of the Lion."
+      ],
+      [
+        651,
+        "01:12:03.399000",
+        "01:12:05.960000",
+        "We're confiscating \"In the Sign of the Lion\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bIn\\ the\\ Sign\\ of\\ the\\ Lion:)In\\ the\\ Sign\\ of\\ the\\ Lion)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

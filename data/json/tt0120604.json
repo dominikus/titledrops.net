@@ -1,0 +1,65 @@
+[
+  {
+    "imdb": "tt0120604",
+    "title": "Beowulf",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 8,
+    "all_lines": 763,
+    "occurrences": [
+      [
+        105,
+        "00:10:10.792000",
+        "00:10:14.248000",
+        "I'm Beowulf, and I need some food and rest."
+      ],
+      [
+        123,
+        "00:12:53.832000",
+        "00:12:56.232000",
+        "Beowulf. I've heard that name before."
+      ],
+      [
+        260,
+        "00:22:47.848000",
+        "00:22:50.152000",
+        "Do you have family, Beowulf?"
+      ],
+      [
+        504,
+        "00:55:17",
+        "00:55:18.824000",
+        "Beowulf."
+      ],
+      [
+        585,
+        "01:07:06.888000",
+        "01:07:09",
+        "- To Beowulf. -  To Beowulf."
+      ],
+      [
+        630,
+        "01:11:13.096000",
+        "01:11:16.232000",
+        "- and she was to name the child-- - Beowulf."
+      ],
+      [
+        739,
+        "01:20:32.200000",
+        "01:20:33.928000",
+        " Beowulf!."
+      ]
+    ],
+    "regex": "\\b((?!\\bBeowulf:)Beowulf)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [
+      "Beowulf"
+    ],
+    "title_is_name": true,
+    "rating": 4.1
+  }
+]

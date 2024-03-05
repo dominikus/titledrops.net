@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0112760",
+    "title": "Cutthroat Island",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1065,
+    "occurrences": [
+      [
+        134,
+        "00:14:09.104000",
+        "00:14:12.231000",
+        "It's a map to Cutthroat Island."
+      ],
+      [
+        401,
+        "00:35:38.310000",
+        "00:35:41.395000",
+        "- Prove me wrong. - I've heard of Cutthroat Island."
+      ],
+      [
+        589,
+        "00:55:22.119000",
+        "00:55:26.497000",
+        "Success, Mr. Blair. My slave has found Cutthroat Island."
+      ],
+      [
+        645,
+        "01:03:02.746000",
+        "01:03:05.289000",
+        "We found it. We found Cutthroat Island."
+      ]
+    ],
+    "regex": "\\b((?!\\bCutthroat\\ Island:)Cutthroat\\ Island)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

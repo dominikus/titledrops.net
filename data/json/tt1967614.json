@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1967614",
+    "title": "The Comedian",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 2355,
+    "occurrences": [
+      [
+        1374,
+        "01:04:34.570000",
+        "01:04:36.882000",
+        "I'm a comedian. I make a joke about"
+      ],
+      [
+        1393,
+        "01:05:17.647000",
+        "01:05:20.415000",
+        "who had sex with a 67-year-old comedian?"
+      ],
+      [
+        2085,
+        "01:39:18.052000",
+        "01:39:20.753000",
+        "The comedian slithering out?"
+      ],
+      [
+        2258,
+        "01:48:58.465000",
+        "01:49:00.710000",
+        "Are you guys ready for your next comedian?"
+      ]
+    ],
+    "regex": "\\b((?!\\bComedian:)Comedian)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

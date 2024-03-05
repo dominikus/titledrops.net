@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0390136",
+    "title": "Isi/Disi: Amor a lo bestia",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 935,
+    "occurrences": [
+      [
+        15,
+        "00:01:24.860000",
+        "00:01:28.723000",
+        "and as everyone knows the spanish for the english pronunciation is Isi/Disi"
+      ],
+      [
+        32,
+        "00:04:06.595000",
+        "00:04:11.749000",
+        "ISI/DISI Wild love"
+      ]
+    ],
+    "regex": "\\b((?!\\bIsi/Disi:)Isi/Disi|(?!\\bAmor\\ a\\ lo\\ bestia:)Amor\\ a\\ lo\\ bestia)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

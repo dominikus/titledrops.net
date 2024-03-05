@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt0048665",
+    "title": "Strange Lady in Town",
+    "year": 1955,
+    "genres": [
+      "Western"
+    ],
+    "count": 9,
+    "all_lines": 2004,
+    "occurrences": [
+      [
+        0,
+        "00:00:09.109000",
+        "00:00:12.014000",
+        "Strange lady in town"
+      ],
+      [
+        1,
+        "00:00:12.081000",
+        "00:00:14.417000",
+        "Strange lady in town"
+      ],
+      [
+        5,
+        "00:00:23.866000",
+        "00:00:28.306000",
+        "For that strange, strange lady in town"
+      ],
+      [
+        7,
+        "00:00:33.314000",
+        "00:00:37.454000",
+        "There's a strange lady in town"
+      ],
+      [
+        14,
+        "00:01:05.132000",
+        "00:01:07.836000",
+        "Strange lady in town Strange lady in town"
+      ],
+      [
+        15,
+        "00:01:07.903000",
+        "00:01:09.938000",
+        "Strange lady in town Strange lady in town"
+      ],
+      [
+        19,
+        "00:01:19.655000",
+        "00:01:24.129000",
+        "For that strange, strange lady in town"
+      ]
+    ],
+    "regex": "\\b((?!\\bStrange\\ Lady\\ in\\ Town:)Strange\\ Lady\\ in\\ Town)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

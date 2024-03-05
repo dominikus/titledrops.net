@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0036881",
+    "title": "Greenwich Village",
+    "year": 1944,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1116,
+    "occurrences": [
+      [
+        1,
+        "00:01:50.290000",
+        "00:01:55.092000",
+        "You are now in the heart of New York's famous art colony, Greenwich Village..."
+      ],
+      [
+        146,
+        "00:12:20.153000",
+        "00:12:22.088000",
+        "I'm callin' it the Greenwich Village Gaieties..."
+      ]
+    ],
+    "regex": "\\b((?!\\bGreenwich\\ Village:)Greenwich\\ Village)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

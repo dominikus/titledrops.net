@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt11905922",
+    "title": "Stray",
+    "year": 2020,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 239,
+    "occurrences": [
+      [
+        74,
+        "00:23:48.459000",
+        "00:23:53.543000",
+        "The stray that gave birth to four babies."
+      ],
+      [
+        218,
+        "00:58:33.042000",
+        "00:58:36.042000",
+        "If you'd wanted to give them a stray, you should've given one of the other ones."
+      ]
+    ],
+    "regex": "\\b((?!\\bStray:)Stray)(?!\\:)(?!'t)\\b",
+    "runtime": 72,
+    "characters": [
+      "Self - Stray Dog in Istanbul",
+      "Self - Stray Dog in Istanbul",
+      "Self - Stray Dog in Istanbul"
+    ],
+    "title_is_name": true,
+    "rating": 6.9
+  }
+]

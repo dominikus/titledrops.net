@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1094275",
+    "title": "Under the Bombs",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1090,
+    "occurrences": [
+      [
+        798,
+        "01:09:42.080000",
+        "01:09:44.036000",
+        "His son is under the bombs,"
+      ],
+      [
+        1088,
+        "01:32:34.640000",
+        "01:32:37.393000",
+        "He stayed under the bombs."
+      ],
+      [
+        1089,
+        "01:33:25.360000",
+        "01:33:27.590000",
+        "Under the bombs, most were crushed to death."
+      ]
+    ],
+    "regex": "\\b((?!\\bUnder\\ the\\ Bombs:)Under\\ the\\ Bombs)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

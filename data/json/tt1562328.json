@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1562328",
+    "title": "Hear Me",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 404,
+    "occurrences": [
+      [
+        114,
+        "00:14:46.485000",
+        "00:14:47.474000",
+        "She can't hear me anyway."
+      ],
+      [
+        209,
+        "00:20:53.885000",
+        "00:20:54.874000",
+        "Did you hear me?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHear\\ Me:)Hear\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0453560",
+    "title": "Toxic",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1256,
+    "occurrences": [
+      [
+        286,
+        "00:16:16.275000",
+        "00:16:21.144000",
+        "They call it Toxic. I've been called worse."
+      ],
+      [
+        1039,
+        "01:12:11.460000",
+        "01:12:12.358000",
+        "Toxic."
+      ],
+      [
+        1083,
+        "01:15:07.970000",
+        "01:15:08.527000",
+        "Toxic."
+      ]
+    ],
+    "regex": "\\b((?!\\bToxic:)Toxic)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

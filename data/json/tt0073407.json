@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0073407",
+    "title": "Spanish Fly",
+    "year": 1976,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1283,
+    "occurrences": [
+      [
+        772,
+        "00:43:52.175000",
+        "00:43:57.175000",
+        "Cantharus vesicatoria, or Spanish fly."
+      ],
+      [
+        773,
+        "00:43:58.217000",
+        "00:44:00.068000",
+        "Spanish fly?"
+      ],
+      [
+        1192,
+        "01:20:25.343000",
+        "01:20:26.734000",
+        "It's got Spanish fly in it."
+      ],
+      [
+        1193,
+        "01:20:26.758000",
+        "01:20:28.526000",
+        "Spanish fly?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpanish\\ Fly:)Spanish\\ Fly)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

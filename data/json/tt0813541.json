@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0813541",
+    "title": "Piter FM",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 565,
+    "occurrences": [
+      [
+        20,
+        "00:03:25.264000",
+        "00:03:26.264000",
+        "Piter FM on air."
+      ],
+      [
+        357,
+        "00:44:07.439000",
+        "00:44:14.561000",
+        "And I have super news! According to folk superstitions, If somebody got to you through the window the day promises to be excellent, and this is true. Proven on people. You are listening to Piter FM, everything will be alright"
+      ]
+    ],
+    "regex": "\\b((?!\\bPiter\\ FM:)Piter\\ FM)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

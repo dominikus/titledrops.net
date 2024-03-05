@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0105121",
+    "title": "The People Under the Stairs",
+    "year": 1991,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 948,
+    "occurrences": [
+      [
+        389,
+        "00:34:56.995000",
+        "00:35:00.123000",
+        "The people under the stairs got the so-called gasman."
+      ],
+      [
+        564,
+        "00:54:04.308000",
+        "00:54:09.313000",
+        "I could've killed him, but I let the people under the stairs do it."
+      ]
+    ],
+    "regex": "\\b((?!\\bPeople\\ Under\\ the\\ Stairs:)People\\ Under\\ the\\ Stairs)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

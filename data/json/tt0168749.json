@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0168749",
+    "title": "The Lighthouse",
+    "year": 1998,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 2217,
+    "occurrences": [
+      [
+        1077,
+        "01:42:39.607000",
+        "01:42:42.599000",
+        "You were my lighthouse, my real lighthouse."
+      ],
+      [
+        2186,
+        "01:42:39.607000",
+        "01:42:42.599000",
+        "You were my lighthouse, my real lighthouse."
+      ]
+    ],
+    "regex": "\\b((?!\\bLighthouse:)Lighthouse)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0338188",
+    "title": "The Missing",
+    "year": 2003,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 999,
+    "occurrences": [
+      [
+        1,
+        "00:01:10.600000",
+        "00:01:14.600000",
+        "The Missing (2003)"
+      ],
+      [
+        281,
+        "00:37:25.028000",
+        "00:37:28.823000",
+        "Two dead, one girl missing."
+      ]
+    ],
+    "regex": "\\b((?!\\bMissing:)Missing)(?!\\:)(?!'t)\\b",
+    "runtime": 147,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

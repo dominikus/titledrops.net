@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7403614",
+    "title": "The Big Trip",
+    "year": 2019,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1236,
+    "occurrences": [
+      [
+        295,
+        "00:19:58.911000",
+        "00:20:01.943000",
+        "Huh. Sounds like a big trip."
+      ],
+      [
+        1197,
+        "01:16:54.708000",
+        "01:16:58.207000",
+        "That was a big trip."
+      ]
+    ],
+    "regex": "\\b((?!\\bBig\\ Trip:)Big\\ Trip)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

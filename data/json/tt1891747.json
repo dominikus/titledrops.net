@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1891747",
+    "title": "Another",
+    "year": 2012,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 905,
+    "occurrences": [
+      [
+        16,
+        "00:02:44.996000",
+        "00:02:45.985000",
+        "Another"
+      ],
+      [
+        604,
+        "01:10:30.857000",
+        "01:10:34.918000",
+        "We'll take another measurement."
+      ]
+    ],
+    "regex": "\\b((?!\\bAnother:)Another)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

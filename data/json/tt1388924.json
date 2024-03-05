@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1388924",
+    "title": "I Am",
+    "year": 2009,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 819,
+    "occurrences": [
+      [
+        14,
+        "00:04:21.680000",
+        "00:04:25.468000",
+        "I am"
+      ],
+      [
+        196,
+        "00:18:18.720000",
+        "00:18:20.199000",
+        "I need to tell my parents where I am."
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Am:)I\\ Am)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

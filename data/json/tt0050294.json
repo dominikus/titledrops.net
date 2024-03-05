@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0050294",
+    "title": "The Deadly Mantis",
+    "year": 1957,
+    "genres": [
+      "Family",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 762,
+    "occurrences": [
+      [
+        541,
+        "00:48:02.660000",
+        "00:48:05.260000",
+        "the so called deadly Mantis is no imaginary scare."
+      ],
+      [
+        567,
+        "00:49:27.780000",
+        "00:49:32.080000",
+        "Here, to scale, is the deadly Mantis,"
+      ]
+    ],
+    "regex": "\\b((?!\\bDeadly\\ Mantis:)Deadly\\ Mantis)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

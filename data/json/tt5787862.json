@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5787862",
+    "title": "UFO: It Is Here",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 582,
+    "occurrences": [
+      [
+        27,
+        "00:04:05.080000",
+        "00:04:08.402000",
+        "Looks almost like a UFO."
+      ],
+      [
+        206,
+        "00:16:43.920000",
+        "00:16:47.279000",
+        "I'm not sure if I've seen a UFO..."
+      ],
+      [
+        492,
+        "00:54:41.320000",
+        "00:54:43.679000",
+        "Are you saying it was a UFO?"
+      ]
+    ],
+    "regex": "\\b((?!\\bUFO:)UFO|(?!\\bIt\\ Is\\ Here:)It\\ Is\\ Here)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

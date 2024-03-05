@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt7468616",
+    "title": "The Boat",
+    "year": 2018,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 266,
+    "occurrences": [
+      [
+        62,
+        "00:23:54.880000",
+        "00:23:57.111000",
+        "MAN OVER RADIO: Sailing boat bearing a 38-degrees course,"
+      ],
+      [
+        242,
+        "01:14:50.376000",
+        "01:14:52.510000",
+        "Stop the boat! Stop the boat!"
+      ],
+      [
+        243,
+        "01:14:58.343000",
+        "01:15:00.507000",
+        "Hey! Hey! Stop the boat!"
+      ],
+      [
+        247,
+        "01:15:07.910000",
+        "01:15:11.274000",
+        "Anybody! Stop the boat! Please stop the boat"
+      ]
+    ],
+    "regex": "\\b((?!\\bBoat:)Boat)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt12971802",
+    "title": "Lucy and Desi",
+    "year": 2022,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1983,
+    "occurrences": [
+      [
+        714,
+        "00:35:34.675000",
+        "00:35:38.262000",
+        "CBS made a deal with Lucy and Desi to make a pilot."
+      ],
+      [
+        718,
+        "00:35:46.854000",
+        "00:35:49.898000",
+        "Lucy and Desi were going to play movie stars,"
+      ],
+      [
+        954,
+        "00:45:58.256000",
+        "00:46:01.342000",
+        "LEAR: We fell in love with Lucy and Desi."
+      ]
+    ],
+    "regex": "\\b((?!\\bLucy\\ and\\ Desi:)Lucy\\ and\\ Desi)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

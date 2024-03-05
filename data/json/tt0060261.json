@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0060261",
+    "title": "The Hellbenders",
+    "year": 1967,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1050,
+    "occurrences": [
+      [
+        76,
+        "00:12:19.030000",
+        "00:12:22.864000",
+        "they weren't counting on me or any of us hellbenders."
+      ],
+      [
+        848,
+        "01:15:41.162000",
+        "01:15:43.323000",
+        "Not us, not the hellbenders, the regiment I command"
+      ]
+    ],
+    "regex": "\\b((?!\\bHellbenders:)Hellbenders)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

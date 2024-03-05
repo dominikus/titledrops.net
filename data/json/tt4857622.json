@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt4857622",
+    "title": "France",
+    "year": 2016,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1277,
+    "occurrences": [
+      [
+        547,
+        "00:34:44.668000",
+        "00:34:47.793000",
+        "France was the worst. Top of the top."
+      ],
+      [
+        559,
+        "00:35:16.824000",
+        "00:35:19.376000",
+        "And France is not a top model!"
+      ],
+      [
+        1234,
+        "01:19:19.668000",
+        "01:19:23.501000",
+        "\"But my parents learnt me that in France, you speak French.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bFrance:)France)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

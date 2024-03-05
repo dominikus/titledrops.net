@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0113186",
+    "title": "A Last Note",
+    "year": 1995,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 985,
+    "occurrences": [
+      [
+        1,
+        "00:00:08.575000",
+        "00:00:16.710000",
+        "a last note"
+      ],
+      [
+        72,
+        "00:05:17.750000",
+        "00:05:19.445000",
+        "His last note."
+      ],
+      [
+        92,
+        "00:06:12.605000",
+        "00:06:16.541000",
+        "He left his last note on the coffin."
+      ],
+      [
+        852,
+        "01:27:30.044000",
+        "01:27:33.502000",
+        "They left their last note for you."
+      ],
+      [
+        855,
+        "01:27:41.022000",
+        "01:27:44.355000",
+        "I read about their last note."
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Note:)Last\\ Note)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

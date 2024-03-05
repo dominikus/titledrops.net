@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0073627",
+    "title": "Rikki-Tikki-Tavi",
+    "year": 1976,
+    "genres": [
+      "Family"
+    ],
+    "count": 5,
+    "all_lines": 723,
+    "occurrences": [
+      [
+        16,
+        "00:00:59.080000",
+        "00:01:01.799000",
+        "Rikki-Tikki-Tavi"
+      ],
+      [
+        32,
+        "00:02:28.040000",
+        "00:02:31.157000",
+        "A. MIRONOV as Rikki-Tikki-Tavi Yu. PUZYRYOV as Nag"
+      ],
+      [
+        306,
+        "00:34:09.360000",
+        "00:34:11.874000",
+        "Look, what if we call him Rikki-Tikki-Tavi?"
+      ],
+      [
+        332,
+        "00:36:30.920000",
+        "00:36:33.354000",
+        "My name is Rikki-Tikki-Tavi."
+      ],
+      [
+        375,
+        "00:39:01.400000",
+        "00:39:04.198000",
+        "Chill it, Rikki-Tikki-Tavi."
+      ]
+    ],
+    "regex": "\\b((?!\\bRikki\\-Tikki\\-Tavi:)Rikki\\-Tikki\\-Tavi)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

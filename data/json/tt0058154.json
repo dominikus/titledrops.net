@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0058154",
+    "title": "Goodbye Charlie",
+    "year": 1964,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1518,
+    "occurrences": [
+      [
+        953,
+        "01:08:07.928000",
+        "01:08:09.791000",
+        "Well, goodbye Charlie."
+      ],
+      [
+        1010,
+        "01:12:46.241000",
+        "01:12:47.617000",
+        "Goodbye Charlie."
+      ]
+    ],
+    "regex": "\\b((?!\\bGoodbye\\ Charlie:)Goodbye\\ Charlie)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

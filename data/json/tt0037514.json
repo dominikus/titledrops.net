@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0037514",
+    "title": "Anchors Aweigh",
+    "year": 1945,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Musical"
+    ],
+    "count": 3,
+    "all_lines": 974,
+    "occurrences": [
+      [
+        126,
+        "00:10:24.280000",
+        "00:10:27.556000",
+        "Anchors Aweigh"
+      ],
+      [
+        362,
+        "00:25:59.160000",
+        "00:26:02.152000",
+        "Anchors aweigh, my boy"
+      ],
+      [
+        363,
+        "00:26:02.680000",
+        "00:26:04.875000",
+        "Anchors aweigh"
+      ]
+    ],
+    "regex": "\\b((?!\\bAnchors\\ Aweigh:)Anchors\\ Aweigh)(?!\\:)(?!'t)\\b",
+    "runtime": 140,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

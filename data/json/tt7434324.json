@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt7434324",
+    "title": "Low Tide",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1225,
+    "occurrences": [
+      [
+        617,
+        "00:37:50.291000",
+        "00:37:52.660000",
+        "I didn't know low tide was so bad here."
+      ],
+      [
+        1137,
+        "01:10:03.210000",
+        "01:10:04.945000",
+        "Low tide is coming in."
+      ]
+    ],
+    "regex": "\\b((?!\\bLow\\ Tide:)Low\\ Tide)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

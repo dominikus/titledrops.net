@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0044963",
+    "title": "New Faces",
+    "year": 1954,
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 1346,
+    "occurrences": [
+      [
+        84,
+        "00:03:55.667000",
+        "00:04:01.233000",
+        "hope before our musical ends that New Faces"
+      ],
+      [
+        1345,
+        "01:36:01.167000",
+        "01:36:07.967000",
+        "And we're hoping as our musical ends that new faces"
+      ]
+    ],
+    "regex": "\\b((?!\\bNew\\ Faces:)New\\ Faces)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

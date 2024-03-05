@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt11214972",
+    "title": "A1 Express",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 2440,
+    "occurrences": [
+      [
+        2253,
+        "02:03:43.426000",
+        "02:03:46.066000",
+        "The entire crowd in the stadium has started chanting 'A1 express'."
+      ],
+      [
+        2254,
+        "02:04:33.009000",
+        "02:04:34.634000",
+        "Meet my A1 Express, Sir."
+      ],
+      [
+        2264,
+        "02:05:43.352000",
+        "02:05:46.384000",
+        "called A1 express, It must be clarified by now."
+      ]
+    ],
+    "regex": "\\b((?!\\bA1\\ Express:)A1\\ Express)(?!\\:)(?!'t)\\b",
+    "runtime": 138,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

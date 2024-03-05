@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0042256",
+    "title": "The Black Rose",
+    "year": 1950,
+    "genres": [
+      "Adventure",
+      "History",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1526,
+    "occurrences": [
+      [
+        679,
+        "00:53:01.587000",
+        "00:53:04.579000",
+        "I have a message for you, from the Black Rose."
+      ],
+      [
+        680,
+        "00:53:04.657000",
+        "00:53:06.591000",
+        "And who would the Black Rose be?"
+      ],
+      [
+        688,
+        "00:53:25.511000",
+        "00:53:28.480000",
+        "- Well, why is she called the Black Rose? - That's the name..."
+      ],
+      [
+        701,
+        "00:54:10.556000",
+        "00:54:15.323000",
+        "Oh, that's good. I'll tell that to the Black Rose."
+      ],
+      [
+        708,
+        "00:54:51.063000",
+        "00:54:54.760000",
+        "They have to take a time for the search. The Black Rose is missing."
+      ],
+      [
+        718,
+        "00:55:33.732000",
+        "00:55:36.997000",
+        "the Black Rose tried to escape on it and was hurt."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Rose:)Black\\ Rose)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

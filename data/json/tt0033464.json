@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0033464",
+    "title": "The Chocolate Soldier",
+    "year": 1941,
+    "genres": [
+      "Musical"
+    ],
+    "count": 3,
+    "all_lines": 1415,
+    "occurrences": [
+      [
+        1316,
+        "01:31:04.038000",
+        "01:31:07.694000",
+        "I AM JUST A CHOCOLATE SOLDIER MAN."
+      ],
+      [
+        1318,
+        "01:31:10.495000",
+        "01:31:13.144000",
+        "JUST A FUNNY CHOCOLATE SOLDIER MAN,"
+      ],
+      [
+        1320,
+        "01:31:15.795000",
+        "01:31:19.345000",
+        "OH YOU SILLY CHOCOLATE SOLDIER MAN,"
+      ]
+    ],
+    "regex": "\\b((?!\\bChocolate\\ Soldier:)Chocolate\\ Soldier)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

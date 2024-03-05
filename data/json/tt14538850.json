@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt14538850",
+    "title": "Ted Bundy: American Boogeyman",
+    "year": 2021,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1244,
+    "occurrences": [
+      [
+        999,
+        "01:03:16.333000",
+        "01:03:18.456000",
+        "Ted Bundy, a Washington State resident,"
+      ],
+      [
+        1042,
+        "01:04:46.417000",
+        "01:04:47.540000",
+        "Ted Bundy, according to Mike Fisher,"
+      ],
+      [
+        1051,
+        "01:05:03.250000",
+        "01:05:05.081000",
+        "that Ted Bundy is a chief suspect"
+      ]
+    ],
+    "regex": "\\b((?!\\bTed\\ Bundy:)Ted\\ Bundy|(?!\\bAmerican\\ Boogeyman:)American\\ Boogeyman)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt15690934",
+    "title": "The Bounty Men",
+    "year": 2022,
+    "genres": [
+      "Western"
+    ],
+    "count": 5,
+    "all_lines": 989,
+    "occurrences": [
+      [
+        55,
+        "00:07:28.990000",
+        "00:07:30.923000",
+        "- You're one of those bounty men."
+      ],
+      [
+        331,
+        "00:27:24.880000",
+        "00:27:26.185000",
+        "The bounty men you know nothing about."
+      ],
+      [
+        375,
+        "00:30:27.170000",
+        "00:30:29.120000",
+        "- Oh, we know all about you bounty men."
+      ],
+      [
+        388,
+        "00:31:08.070000",
+        "00:31:10.220000",
+        "You bounty men don't seem to count so good."
+      ],
+      [
+        589,
+        "00:43:51.320000",
+        "00:43:52.870000",
+        "and met up with a group of bounty men"
+      ]
+    ],
+    "regex": "\\b((?!\\bBounty\\ Men:)Bounty\\ Men)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.8
+  }
+]

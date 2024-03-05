@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt8042248",
+    "title": "Kanchana 3",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1956,
+    "occurrences": [
+      [
+        193,
+        "00:14:02.492000",
+        "00:14:05.326000",
+        "Before we find out, let's check out Kanchana."
+      ],
+      [
+        1018,
+        "01:18:49.819000",
+        "01:18:51.069000",
+        "\"Kanchana's game begins!\""
+      ]
+    ],
+    "regex": "\\b((?!\\bKanchana:)Kanchana)(?!\\:)(?!'t)\\b",
+    "runtime": 164,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0379217",
+    "title": "Coffee and Cigarettes",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 1082,
+    "occurrences": [
+      [
+        81,
+        "00:07:49.099000",
+        "00:07:51.400000",
+        "- Give me a light. - Just coffee and cigarettes?"
+      ],
+      [
+        301,
+        "00:23:48.511000",
+        "00:23:50.420000",
+        "So, coffee and cigarettes?"
+      ],
+      [
+        319,
+        "00:25:10.329000",
+        "00:25:13.841000",
+        "Yeah, just like him. Get some coffee and cigarettes."
+      ],
+      [
+        363,
+        "00:31:16.924000",
+        "00:31:20.535000",
+        "It's not a very healthy lunch, just the coffee and cigarettes."
+      ]
+    ],
+    "regex": "\\b((?!\\bCoffee\\ and\\ Cigarettes:)Coffee\\ and\\ Cigarettes)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2249221",
+    "title": "Zulu",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 178,
+    "occurrences": [
+      [
+        131,
+        "00:41:36.542000",
+        "00:41:37.249000",
+        "small Zulu!"
+      ],
+      [
+        164,
+        "01:11:29.500000",
+        "01:11:31.291000",
+        "Do not worry, I am a true Zulu."
+      ],
+      [
+        167,
+        "01:12:02.709000",
+        "01:12:06.874000",
+        "Do not forget that I, too, I am Zulu."
+      ]
+    ],
+    "regex": "\\b((?!\\bZulu:)Zulu)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

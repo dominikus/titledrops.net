@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2788228",
+    "title": "Marry Me",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 871,
+    "occurrences": [
+      [
+        185,
+        "00:17:35.080000",
+        "00:17:39.073000",
+        "lf you marry me, you marry my family. It has nothing to do with the Middle Ages."
+      ],
+      [
+        869,
+        "01:25:17.440000",
+        "01:25:18.589000",
+        "Marry me."
+      ]
+    ],
+    "regex": "\\b((?!\\bMarry\\ Me:)Marry\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

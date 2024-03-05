@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0070888",
+    "title": "Voices",
+    "year": 1973,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1134,
+    "occurrences": [
+      [
+        613,
+        "00:50:35.742000",
+        "00:50:38.161000",
+        "I was talking about the other voices."
+      ],
+      [
+        620,
+        "00:51:03.519000",
+        "00:51:06.939000",
+        "Before I knew that those voices were unreal,"
+      ],
+      [
+        717,
+        "00:56:24.840000",
+        "00:56:27.510000",
+        "You hear voices? I believe that."
+      ],
+      [
+        728,
+        "00:56:58.165000",
+        "00:57:02.670000",
+        "By hearing voices, and ghosts, and all that psychic crap."
+      ]
+    ],
+    "regex": "\\b((?!\\bVoices:)Voices)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

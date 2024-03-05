@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0156524",
+    "title": "The Eternal Jew",
+    "year": 1940,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 499,
+    "occurrences": [
+      [
+        80,
+        "00:12:29.035000",
+        "00:12:34.157000",
+        "Their faces bear the age-old features of the perpetual sponger: the eternal Jew,"
+      ],
+      [
+        487,
+        "01:02:44.645000",
+        "01:02:47.726000",
+        "Germany has raised the battle flag aganist the eternal Jew."
+      ]
+    ],
+    "regex": "\\b((?!\\bEternal\\ Jew:)Eternal\\ Jew)(?!\\:)(?!'t)\\b",
+    "runtime": 65,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

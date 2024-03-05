@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt21308736",
+    "title": "In Your Dreams",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1205,
+    "occurrences": [
+      [
+        285,
+        "00:19:32.755000",
+        "00:19:35.717000",
+        "We are married... in your dreams."
+      ],
+      [
+        287,
+        "00:19:40.221000",
+        "00:19:43.057000",
+        "Arsehole. It's in your dreams."
+      ]
+    ],
+    "regex": "\\b((?!\\bIn\\ Your\\ Dreams:)In\\ Your\\ Dreams)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt3913244",
+    "title": "The Carer",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 1281,
+    "occurrences": [
+      [
+        106,
+        "00:06:11.705000",
+        "00:06:14.808000",
+        "My father refuses to have you as his carer."
+      ],
+      [
+        212,
+        "00:12:01.722000",
+        "00:12:03.356000",
+        "- Carer. - \"Carer.\""
+      ],
+      [
+        213,
+        "00:12:03.390000",
+        "00:12:06.026000",
+        "- The word is pronounced \"carer.\" - Carer."
+      ],
+      [
+        390,
+        "00:24:44.184000",
+        "00:24:45.853000",
+        "I don't know what you mean. I'm your carer."
+      ],
+      [
+        391,
+        "00:24:45.886000",
+        "00:24:48.088000",
+        "Carer, my arse."
+      ]
+    ],
+    "regex": "\\b((?!\\bCarer:)Carer)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

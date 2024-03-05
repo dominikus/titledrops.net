@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt15850662",
+    "title": "The Whole Truth",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1247,
+    "occurrences": [
+      [
+        1140,
+        "01:47:53.625000",
+        "01:47:55.833000",
+        "is not the whole truth?"
+      ],
+      [
+        1144,
+        "01:48:16.250000",
+        "01:48:18.333000",
+        "Not the whole truth."
+      ]
+    ],
+    "regex": "\\b((?!\\bWhole\\ Truth:)Whole\\ Truth)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

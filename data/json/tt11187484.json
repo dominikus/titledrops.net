@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt11187484",
+    "title": "The Thief of Baghdad",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1342,
+    "occurrences": [
+      [
+        20,
+        "00:01:21.194000",
+        "00:01:24.034000",
+        "\"Thief of Baghdad\""
+      ],
+      [
+        21,
+        "00:01:24.034000",
+        "00:01:24.594000",
+        "\"Thief of Baghdad\""
+      ],
+      [
+        689,
+        "00:48:12.994000",
+        "00:48:14.914000",
+        "So, you're the thief of Baghdad"
+      ]
+    ],
+    "regex": "\\b((?!\\bThief\\ of\\ Baghdad:)Thief\\ of\\ Baghdad)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

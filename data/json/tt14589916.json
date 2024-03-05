@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt14589916",
+    "title": "The Hummingbird",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1047,
+    "occurrences": [
+      [
+        90,
+        "00:14:01.560000",
+        "00:14:04.279000",
+        "Was your nickname \"The Hummingbird\"?"
+      ],
+      [
+        370,
+        "00:41:59.920000",
+        "00:42:02.079000",
+        "Hummingbird."
+      ],
+      [
+        449,
+        "00:53:00.640000",
+        "00:53:06.199000",
+        "You know what the Aztecs thought transforms into a hummingbird?"
+      ],
+      [
+        702,
+        "01:19:37.400000",
+        "01:19:39.479000",
+        "You really are the hummingbird."
+      ]
+    ],
+    "regex": "\\b((?!\\bHummingbird:)Hummingbird)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

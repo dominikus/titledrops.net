@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0287111",
+    "title": "Wajood",
+    "year": 1998,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 2537,
+    "occurrences": [
+      [
+        1154,
+        "01:21:05.875000",
+        "01:21:08",
+        "Didn't you see my show on the TV? 'Wajood'"
+      ],
+      [
+        1305,
+        "01:32:54.958000",
+        "01:32:59.042000",
+        "I Apoorva Chaudhary welcome you all to this program 'Wajood'"
+      ],
+      [
+        1346,
+        "01:36:18.083000",
+        "01:36:20.375000",
+        "..in your favorite program 'Wajood'"
+      ]
+    ],
+    "regex": "\\b((?!\\bWajood:)Wajood)(?!\\:)(?!'t)\\b",
+    "runtime": 181,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

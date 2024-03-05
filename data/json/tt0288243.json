@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0288243",
+    "title": "Taboo",
+    "year": 2002,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 875,
+    "occurrences": [
+      [
+        5,
+        "00:00:33.107000",
+        "00:00:36.338000",
+        "The game will test whether we succumb to the taboo."
+      ],
+      [
+        8,
+        "00:00:41.082000",
+        "00:00:45.781000",
+        "That's taboo? I thought that was considered good country-club etiquette."
+      ],
+      [
+        38,
+        "00:03:01.022000",
+        "00:03:04.583000",
+        "- Fuck Taboo. Let's have an orgy. - Or enroll in group therapy."
+      ],
+      [
+        169,
+        "00:13:38.325000",
+        "00:13:41.453000",
+        "They're the answers to that Taboo game we played."
+      ],
+      [
+        531,
+        "00:44:58.270000",
+        "00:45:02.639000",
+        "- But why...? - Taboo. They found out about Taboo."
+      ]
+    ],
+    "regex": "\\b((?!\\bTaboo:)Taboo)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

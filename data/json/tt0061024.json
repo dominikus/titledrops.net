@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0061024",
+    "title": "Stagecoach",
+    "year": 1966,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 1599,
+    "occurrences": [
+      [
+        257,
+        "00:18:20.104000",
+        "00:18:22.607000",
+        "Will you be traveling with us on the stagecoach, Doctor?"
+      ],
+      [
+        1193,
+        "01:16:14.033000",
+        "01:16:17.369000",
+        "not the same as bouncing around the mountains in a stagecoach."
+      ],
+      [
+        1591,
+        "01:53:09.621000",
+        "01:53:14.626000",
+        "I'm taking the stagecoach That's leaving for Cheyenne"
+      ]
+    ],
+    "regex": "\\b((?!\\bStagecoach:)Stagecoach)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

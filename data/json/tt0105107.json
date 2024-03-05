@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0105107",
+    "title": "Passion Fish",
+    "year": 1992,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1581,
+    "occurrences": [
+      [
+        1254,
+        "01:42:20.667000",
+        "01:42:23.465000",
+        "Passion fish."
+      ],
+      [
+        1260,
+        "01:42:46.994000",
+        "01:42:50.555000",
+        "Ever since there been Cajuns, they been squeezing the passion fish."
+      ],
+      [
+        1308,
+        "01:47:47.394000",
+        "01:47:49.328000",
+        "Passion fish."
+      ]
+    ],
+    "regex": "\\b((?!\\bPassion\\ Fish:)Passion\\ Fish)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

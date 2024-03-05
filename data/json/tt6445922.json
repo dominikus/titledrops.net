@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt6445922",
+    "title": "Cleek",
+    "year": 2017,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1362,
+    "occurrences": [
+      [
+        281,
+        "00:23:03.586000",
+        "00:23:04.620000",
+        "Jacob Cleek?"
+      ],
+      [
+        1240,
+        "01:37:29.310000",
+        "01:37:31.172000",
+        "- Hey Cleek, I've told you before"
+      ],
+      [
+        1274,
+        "01:40:26.931000",
+        "01:40:28.137000",
+        "- Yeah, Cleek."
+      ]
+    ],
+    "regex": "\\b((?!\\bCleek:)Cleek)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [
+      "Jacob Cleek"
+    ],
+    "title_is_name": true,
+    "rating": 4
+  }
+]

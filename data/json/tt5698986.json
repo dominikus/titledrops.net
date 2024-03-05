@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5698986",
+    "title": "Darling",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 566,
+    "occurrences": [
+      [
+        21,
+        "00:03:24.680000",
+        "00:03:28",
+        "Darling Melander and Frans Tibling. All yours."
+      ],
+      [
+        451,
+        "01:07:17.039000",
+        "01:07:20.159000",
+        "\"You're no Diana. You're a Darling.\""
+      ],
+      [
+        452,
+        "01:07:30.800000",
+        "01:07:33.159000",
+        "I was your Darling more than anyone else's."
+      ]
+    ],
+    "regex": "\\b((?!\\bDarling:)Darling)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [
+      "Darling"
+    ],
+    "title_is_name": true,
+    "rating": 6
+  }
+]

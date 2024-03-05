@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt12998268",
+    "title": "Watching",
+    "year": 2019,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 736,
+    "occurrences": [
+      [
+        175,
+        "00:21:49.080000",
+        "00:21:51.700000",
+        "You would've been in big trouble if I hadn't been watching you."
+      ],
+      [
+        374,
+        "00:41:30.800000",
+        "00:41:36.200000",
+        "The only thing I've been watching all this time is these two people who bullied you."
+      ],
+      [
+        599,
+        "01:11:37.690000",
+        "01:11:42.520000",
+        "I've been watching you for a while. Who the hell are you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWatching:)Watching)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

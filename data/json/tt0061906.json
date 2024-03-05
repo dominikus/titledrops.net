@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0061906",
+    "title": "Libido",
+    "year": 1965,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 506,
+    "occurrences": [
+      [
+        0,
+        "00:00:22.021000",
+        "00:00:25.190000",
+        "\"What I intend with the term 'libido' is the quantitative expression of the"
+      ],
+      [
+        8,
+        "00:00:45.253000",
+        "00:00:49.090000",
+        "as childhood traumas can easily alter an adult individual's 'libido',"
+      ]
+    ],
+    "regex": "\\b((?!\\bLibido:)Libido)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

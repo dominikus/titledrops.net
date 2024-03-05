@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0038714",
+    "title": "The Madonna's Secret",
+    "year": 1946,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 2,
+    "all_lines": 1096,
+    "occurrences": [
+      [
+        0,
+        "00:00:18.319000",
+        "00:00:19.653000",
+        "The Madonna's Secret"
+      ],
+      [
+        135,
+        "00:13:01.333000",
+        "00:13:05.225000",
+        "The Madonna's Secret I think you called it you would to have married her the next day"
+      ]
+    ],
+    "regex": "\\b((?!\\bMadonna's\\ Secret:)Madonna's\\ Secret)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

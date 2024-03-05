@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0070016",
+    "title": "Charlotte's Web",
+    "year": 1973,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1815,
+    "occurrences": [
+      [
+        1,
+        "00:00:36",
+        "00:00:43",
+        "Charlotte's Web (1973)"
+      ],
+      [
+        750,
+        "00:38:52.056000",
+        "00:38:57.688000",
+        "P Charlotte's web P"
+      ],
+      [
+        754,
+        "00:39:16.647000",
+        "00:39:22.779000",
+        "P Of Charlotte's web P"
+      ],
+      [
+        770,
+        "00:40:42.466000",
+        "00:40:52.933000",
+        "P Charlotte's web P"
+      ],
+      [
+        1468,
+        "01:16:12.794000",
+        "01:16:16.286000",
+        "Oh, look at Charlotte's web."
+      ]
+    ],
+    "regex": "\\b((?!\\bCharlotte's\\ Web:)Charlotte's\\ Web)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0144814",
+    "title": "The Rage: Carrie 2",
+    "year": 1999,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1030,
+    "occurrences": [
+      [
+        590,
+        "00:54:55.900000",
+        "00:54:58.800000",
+        "aren't so fond of Carrie White 'cause of what she did."
+      ],
+      [
+        608,
+        "00:56:17.900000",
+        "00:56:20",
+        "You've heard of Carrie White, haven't you?"
+      ],
+      [
+        617,
+        "00:56:53.400000",
+        "00:56:56.800000",
+        "l know everything there is to know about Carrie White."
+      ],
+      [
+        632,
+        "00:57:43.600000",
+        "00:57:46.500000",
+        "You mother told me your father is Carrie's father."
+      ]
+    ],
+    "regex": "\\b((?!\\bRage:)Rage|(?!\\bCarrie:)Carrie)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

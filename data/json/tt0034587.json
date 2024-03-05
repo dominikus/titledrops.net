@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0034587",
+    "title": "Cat People",
+    "year": 1942,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 736,
+    "occurrences": [
+      [
+        165,
+        "00:15:32.548000",
+        "00:15:34.448000",
+        "...and the cat people descended from them."
+      ],
+      [
+        198,
+        "00:18:16.712000",
+        "00:18:19.476000",
+        "- You saw what she looked like. - Oh, the cat people."
+      ],
+      [
+        199,
+        "00:18:19.648000",
+        "00:18:24.017000",
+        "She looks like a cat, so she must be one of the cat people. One of King John's pets."
+      ],
+      [
+        540,
+        "00:53:56.783000",
+        "00:53:59.081000",
+        "How much do you believe about the cat people?"
+      ],
+      [
+        541,
+        "00:53:59.252000",
+        "00:54:00.480000",
+        "The cat people?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCat\\ People:)Cat\\ People)(?!\\:)(?!'t)\\b",
+    "runtime": 73,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

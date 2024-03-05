@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt11906392",
+    "title": "Low Season",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1576,
+    "occurrences": [
+      [
+        23,
+        "00:02:47.120000",
+        "00:02:49.560000",
+        "It's good you came in the low season."
+      ],
+      [
+        355,
+        "00:27:47.440000",
+        "00:27:51",
+        "Only the heartbroken go on a trip alone in the low season."
+      ]
+    ],
+    "regex": "\\b((?!\\bLow\\ Season:)Low\\ Season)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

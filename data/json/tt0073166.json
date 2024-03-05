@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0073166",
+    "title": "India Song",
+    "year": 1975,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 899,
+    "occurrences": [
+      [
+        321,
+        "00:44:31.409000",
+        "00:44:33.556000",
+        "I'm listening to \"India Song\"."
+      ],
+      [
+        322,
+        "00:44:41.623000",
+        "00:44:44.355000",
+        "I came to India because of \"India Song\"."
+      ],
+      [
+        599,
+        "01:09:30.716000",
+        "01:09:32.829000",
+        "India Song..."
+      ],
+      [
+        600,
+        "01:09:35.182000",
+        "01:09:39.259000",
+        "On his way to the office, he whistled India Song."
+      ],
+      [
+        603,
+        "01:09:51.554000",
+        "01:09:54.356000",
+        "\"India Song is on the music-rest.\""
+      ],
+      [
+        815,
+        "01:40:56.220000",
+        "01:40:59.122000",
+        "- India Song. - Yes."
+      ]
+    ],
+    "regex": "\\b((?!\\bIndia\\ Song:)India\\ Song)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

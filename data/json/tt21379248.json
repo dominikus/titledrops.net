@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt21379248",
+    "title": "Freeze",
+    "year": 2022,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1096,
+    "occurrences": [
+      [
+        122,
+        "00:08:07.755000",
+        "00:08:10.925000",
+        "or the Innsmouth will freeze into the ice sheet,"
+      ],
+      [
+        142,
+        "00:09:00.808000",
+        "00:09:03.244000",
+        "and how to freeze the very life from us."
+      ],
+      [
+        391,
+        "00:23:55.435000",
+        "00:23:57.104000",
+        "or you'll freeze the tip off."
+      ],
+      [
+        406,
+        "00:24:32.273000",
+        "00:24:35.710000",
+        "No doubt we'll either starve or freeze out here."
+      ],
+      [
+        417,
+        "00:25:06.340000",
+        "00:25:08.442000",
+        "She was to freeze into the ice"
+      ]
+    ],
+    "regex": "\\b((?!\\bFreeze:)Freeze)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0078732",
+    "title": "Action",
+    "year": 1980,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1030,
+    "occurrences": [
+      [
+        318,
+        "00:29:50.360000",
+        "00:29:54.911000",
+        "Stop ! Action ! I shouId say it."
+      ],
+      [
+        363,
+        "00:34:13.560000",
+        "00:34:17.712000",
+        "- There. Action ! - Stop ! I say action !"
+      ],
+      [
+        506,
+        "00:48:33.390000",
+        "00:48:34.356000",
+        "An action fiIm."
+      ],
+      [
+        507,
+        "00:48:34.356000",
+        "00:48:38.274000",
+        "Action fiIms disgust me. They are uneducationaI."
+      ]
+    ],
+    "regex": "\\b((?!\\bAction:)Action)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

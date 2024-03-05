@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0051866",
+    "title": "The Lineup",
+    "year": 1958,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 6,
+    "all_lines": 1359,
+    "occurrences": [
+      [
+        189,
+        "00:10:04.602000",
+        "00:10:06.535000",
+        "Who work the ansonia dock in the lineup."
+      ],
+      [
+        224,
+        "00:11:24.169000",
+        "00:11:25.802000",
+        "See you at the lineup tomorrow morning."
+      ],
+      [
+        244,
+        "00:12:15.235000",
+        "00:12:17.936000",
+        "Brought in tomorrow morning for the lineup."
+      ],
+      [
+        325,
+        "00:15:48.002000",
+        "00:15:50.669000",
+        "Now, we hope this lineup Will show up the porter"
+      ],
+      [
+        426,
+        "00:21:55.068000",
+        "00:21:58.168000",
+        "He's one of the porters we saw in the lineup, all right."
+      ],
+      [
+        512,
+        "00:26:27.867000",
+        "00:26:32.268000",
+        "It's your mug in the lineup, Not ours, if you get caught."
+      ]
+    ],
+    "regex": "\\b((?!\\bLineup:)Lineup)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

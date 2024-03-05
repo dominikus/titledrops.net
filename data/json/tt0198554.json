@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0198554",
+    "title": "Miyamoto Musashi IV: Duel at Ichijyo-ji Temple",
+    "year": 1964,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 522,
+    "occurrences": [
+      [
+        2,
+        "00:00:15.100000",
+        "00:00:21.800000",
+        "MIYAMOTO MUSASHI part-4"
+      ],
+      [
+        36,
+        "00:03:32.900000",
+        "00:03:36.300000",
+        "He then changed his name to \"Miyamoto Musashi\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bMiyamoto\\ Musashi:)Miyamoto\\ Musashi|(?!\\bDuel\\ at\\ Ichijyo\\-ji\\ Temple:)Duel\\ at\\ Ichijyo\\-ji\\ Temple)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

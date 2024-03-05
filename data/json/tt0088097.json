@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0088097",
+    "title": "Shanghai Blues",
+    "year": 1984,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1310,
+    "occurrences": [
+      [
+        1248,
+        "01:31:06.680000",
+        "01:31:08.944000",
+        "Shanghai Blues sung by Zhou Xiao Xian!"
+      ],
+      [
+        1280,
+        "01:33:20.520000",
+        "01:33:22.101000",
+        "Shanghai Blues."
+      ]
+    ],
+    "regex": "\\b((?!\\bShanghai\\ Blues:)Shanghai\\ Blues)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

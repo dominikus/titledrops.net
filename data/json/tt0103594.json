@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0103594",
+    "title": "1492: Conquest of Paradise",
+    "year": 1992,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 945,
+    "occurrences": [
+      [
+        435,
+        "01:02:45.654000",
+        "01:02:49.283000",
+        "October 21st, 1492."
+      ],
+      [
+        911,
+        "02:26:18.900000",
+        "02:26:22.926000",
+        "...in the year 1492."
+      ]
+    ],
+    "regex": "\\b((?!\\b1492:)1492|(?!\\bConquest\\ of\\ Paradise:)Conquest\\ of\\ Paradise)(?!\\:)(?!'t)\\b",
+    "runtime": 154,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt10102402",
+    "title": "The Campaign",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 919,
+    "occurrences": [
+      [
+        153,
+        "00:19:07",
+        "00:19:11.083000",
+        "- What's this? - Our campaign product."
+      ],
+      [
+        250,
+        "00:26:11.791000",
+        "00:26:14.291000",
+        "In the middle of the election campaign for the EU Parliament,"
+      ],
+      [
+        346,
+        "00:32:27.458000",
+        "00:32:30.581000",
+        "For that matter, you've chosen to live right here during the campaign."
+      ],
+      [
+        385,
+        "00:35:17.750000",
+        "00:35:21.125000",
+        "No comments during the campaign. \"The moon does not heed barking of dogs.\""
+      ],
+      [
+        396,
+        "00:35:52.500000",
+        "00:35:54.875000",
+        "So, you are going to carry on the campaign from here, from Salonta?"
+      ],
+      [
+        834,
+        "01:18:48.291000",
+        "01:18:51.750000",
+        "Ladies and gentlemen, tonight the election campaign ends."
+      ],
+      [
+        841,
+        "01:19:09.708000",
+        "01:19:13.583000",
+        "I'd like Mr. Mocanu to stop this smear campaign!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCampaign:)Campaign)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

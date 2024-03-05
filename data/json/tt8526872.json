@@ -1,0 +1,69 @@
+[
+  {
+    "imdb": "tt8526872",
+    "title": "Dolemite Is My Name",
+    "year": 2019,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 8,
+    "all_lines": 2048,
+    "occurrences": [
+      [
+        288,
+        "00:14:52.791000",
+        "00:14:54.791000",
+        "Dolemite is my name."
+      ],
+      [
+        293,
+        "00:15:11.333000",
+        "00:15:15.958000",
+        "Dolemite is my name, and fucking up motherfuckers is my game!"
+      ],
+      [
+        469,
+        "00:26:40.708000",
+        "00:26:45.291000",
+        "'Cause Dolemite is my name, and fucking up motherfuckers is my game."
+      ],
+      [
+        1042,
+        "00:56:21.541000",
+        "00:56:24.875000",
+        "Dolemite is my name, and fuckin' up motherfuckers is my game."
+      ],
+      [
+        1143,
+        "01:02:15.916000",
+        "01:02:20.333000",
+        "Dolemite is my name, and fucking up motherfuckers is my game,"
+      ],
+      [
+        1145,
+        "01:02:34.958000",
+        "01:02:39",
+        "Dolemite is my name, and fucking up motherfuckers is my game."
+      ],
+      [
+        1941,
+        "01:51:14.041000",
+        "01:51:17.041000",
+        "'Cause like I always say, Dolemite is my name,"
+      ],
+      [
+        1957,
+        "01:52:24.791000",
+        "01:52:29.250000",
+        "that Dolemite is my name, and fucking up motherfuckers is my name."
+      ]
+    ],
+    "regex": "\\b((?!\\bDolemite\\ Is\\ My\\ Name:)Dolemite\\ Is\\ My\\ Name)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt4393514",
+    "title": "Bitter Lake",
+    "year": 2015,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1566,
+    "occurrences": [
+      [
+        104,
+        "00:12:58.960000",
+        "00:13:01.640000",
+        "the Great Bitter Lake in the middle of the Suez Canal."
+      ],
+      [
+        154,
+        "00:16:26.880000",
+        "00:16:29.680000",
+        "And the deal made that day on the Great Bitter Lake"
+      ]
+    ],
+    "regex": "\\b((?!\\bBitter\\ Lake:)Bitter\\ Lake)(?!\\:)(?!'t)\\b",
+    "runtime": 136,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

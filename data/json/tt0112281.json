@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0112281",
+    "title": "Ace Ventura: When Nature Calls",
+    "year": 1995,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 5,
+    "all_lines": 915,
+    "occurrences": [
+      [
+        15,
+        "00:04:33.085000",
+        "00:04:38.266000",
+        "Do not fret, my little woodland friend, for your life is in the hands of Ace Ventura..."
+      ],
+      [
+        28,
+        "00:07:13.847000",
+        "00:07:20.253000",
+        "Now, my name is Fulton Greenwall, and I am looking for an Ace Ventura."
+      ],
+      [
+        179,
+        "00:19:28.312000",
+        "00:19:32.684000",
+        "Quinn. I'd like you to meet Ace Ventura."
+      ],
+      [
+        190,
+        "00:20:12.557000",
+        "00:20:15.066000",
+        "Ace Ventura, Pet Detective. And..."
+      ],
+      [
+        269,
+        "00:27:15.580000",
+        "00:27:17.282000",
+        "Ace Ventura, Pet Detective."
+      ]
+    ],
+    "regex": "\\b((?!\\bAce\\ Ventura:)Ace\\ Ventura|(?!\\bWhen\\ Nature\\ Calls:)When\\ Nature\\ Calls)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

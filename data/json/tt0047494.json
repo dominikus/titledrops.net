@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0047494",
+    "title": "The Silver Chalice",
+    "year": 1954,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1510,
+    "occurrences": [
+      [
+        572,
+        "00:42:35.932000",
+        "00:42:40.232000",
+        "I want you to design a silver chalice..."
+      ],
+      [
+        1479,
+        "02:10:35.931000",
+        "02:10:38.729000",
+        "I just placed it in your silver chalice..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSilver\\ Chalice:)Silver\\ Chalice)(?!\\:)(?!'t)\\b",
+    "runtime": 142,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

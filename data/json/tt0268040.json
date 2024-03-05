@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0268040",
+    "title": "Wooly Boys",
+    "year": 2001,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1536,
+    "occurrences": [
+      [
+        152,
+        "00:11:39.472000",
+        "00:11:41.374000",
+        "Old wooly boys dying in their wagons,"
+      ],
+      [
+        1259,
+        "01:16:29.996000",
+        "01:16:30",
+        "Those wooly boys know the draws up there"
+      ],
+      [
+        1260,
+        "01:16:30.001000",
+        "01:16:31.865000",
+        "those wooly boys know the draws up there"
+      ]
+    ],
+    "regex": "\\b((?!\\bWooly\\ Boys:)Wooly\\ Boys)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

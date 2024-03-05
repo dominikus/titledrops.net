@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0089346",
+    "title": "Into the Night",
+    "year": 1985,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 4,
+    "all_lines": 721,
+    "occurrences": [
+      [
+        4,
+        "00:00:52.552000",
+        "00:00:57.455000",
+        "(\"Into the Night\" Performed By B.B. King)"
+      ],
+      [
+        15,
+        "00:01:46.406000",
+        "00:01:49.637000",
+        "Or into the night"
+      ],
+      [
+        27,
+        "00:02:42.061000",
+        "00:02:45.622000",
+        "Or into the night"
+      ],
+      [
+        28,
+        "00:02:51.571000",
+        "00:02:55.974000",
+        "Into the night"
+      ]
+    ],
+    "regex": "\\b((?!\\bInto\\ the\\ Night:)Into\\ the\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

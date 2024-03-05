@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0258242",
+    "title": "Far",
+    "year": 2001,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1159,
+    "occurrences": [
+      [
+        451,
+        "00:38:40.880000",
+        "00:38:42.460000",
+        "- How far gone? - Nine months."
+      ],
+      [
+        642,
+        "00:51:23.400000",
+        "00:51:25.789000",
+        "As far as we're concerned you can go."
+      ],
+      [
+        813,
+        "01:07:12.480000",
+        "01:07:15.710000",
+        "It can see so far that it finds things that are no longer there."
+      ],
+      [
+        890,
+        "01:16:34.920000",
+        "01:16:36.710000",
+        "- Is it far now? - Almost there."
+      ]
+    ],
+    "regex": "\\b((?!\\bFar:)Far)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0057360",
+    "title": "A New Kind of Love",
+    "year": 1963,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1547,
+    "occurrences": [
+      [
+        618,
+        "00:46:22.785000",
+        "00:46:28.018000",
+        "For you brought A new kind of love to me."
+      ],
+      [
+        621,
+        "00:46:36.766000",
+        "00:46:41.931000",
+        "For you've brought A new kind of love to me"
+      ],
+      [
+        627,
+        "00:47:05.127000",
+        "00:47:10.861000",
+        "Oh, you've brought A new kind of love to me"
+      ],
+      [
+        1445,
+        "01:40:01.834000",
+        "01:40:05.930000",
+        "It must be a new kind of love. Ought to bottle it and sell it for Instant Stupid."
+      ]
+    ],
+    "regex": "\\b((?!\\bNew\\ Kind\\ of\\ Love:)New\\ Kind\\ of\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

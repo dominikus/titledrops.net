@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1489889",
+    "title": "Central Intelligence",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 2513,
+    "occurrences": [
+      [
+        758,
+        "00:33:06.548000",
+        "00:33:08.842000",
+        "I'm with the Central Intelligence Agency."
+      ],
+      [
+        2461,
+        "01:48:35.300000",
+        "01:48:37.052000",
+        "BOTH: Here we are shooting Central Intelligence."
+      ]
+    ],
+    "regex": "\\b((?!\\bCentral\\ Intelligence:)Central\\ Intelligence)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

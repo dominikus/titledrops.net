@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0259744",
+    "title": "Fleeing by Night",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 882,
+    "occurrences": [
+      [
+        53,
+        "00:05:44.468000",
+        "00:05:45.593000",
+        "\"Fleeing By Night.\""
+      ],
+      [
+        141,
+        "00:14:53.141000",
+        "00:14:55.977000",
+        "To perform \"Fleeing By Night\"."
+      ],
+      [
+        412,
+        "00:40:51.990000",
+        "00:40:53.991000",
+        "We will then be \"Fleeing by Night\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bFleeing\\ by\\ Night:)Fleeing\\ by\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0070663",
+    "title": "Anno Domini 1573",
+    "year": 1975,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1033,
+    "occurrences": [
+      [
+        0,
+        "00:00:04.219000",
+        "00:00:10.559000",
+        "Anno Domini 1573., arose the peasants of Croatia and Slovenia against their lords, but they slash them,  kill"
+      ],
+      [
+        959,
+        "01:51:24.119000",
+        "01:51:26.800000",
+        "Anno Domini 1573."
+      ],
+      [
+        987,
+        "01:56:28.180000",
+        "01:56:36.760000",
+        "Anno Domini 1573., some bandits and bums, hereticly disowed almighty God"
+      ]
+    ],
+    "regex": "\\b((?!\\bAnno\\ Domini:)Anno\\ Domini)(?!\\:)(?!'t)\\b",
+    "runtime": 145,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0346887",
+    "title": "A Little Monk",
+    "year": 2002,
+    "genres": [
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 270,
+    "occurrences": [
+      [
+        91,
+        "00:18:13.642000",
+        "00:18:17.738000",
+        "What do you think of that little monk?"
+      ],
+      [
+        115,
+        "00:22:22.423000",
+        "00:22:24.015000",
+        "Hey! Little monk!"
+      ],
+      [
+        131,
+        "00:27:08.175000",
+        "00:27:11.770000",
+        "- Little monk, come play with us! - Play with us!"
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Monk:)Little\\ Monk)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

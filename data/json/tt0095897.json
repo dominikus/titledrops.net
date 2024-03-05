@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0095897",
+    "title": "The Presidio",
+    "year": 1988,
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 574,
+    "occurrences": [
+      [
+        20,
+        "00:06:17.600000",
+        "00:06:21.080000",
+        "Presidio, this is Unit One Bravo. I've had an accident."
+      ],
+      [
+        22,
+        "00:06:23.680000",
+        "00:06:26.200000",
+        "heading southbound on Bernard from Presidio."
+      ],
+      [
+        56,
+        "00:10:29.640000",
+        "00:10:31.960000",
+        "weren't you stationed at the Presidio?"
+      ],
+      [
+        288,
+        "00:25:32.600000",
+        "00:25:35.160000",
+        "There was an incident at the Presidio."
+      ],
+      [
+        350,
+        "00:34:27.240000",
+        "00:34:31.160000",
+        "When you leave the Presidio you'll be on my turf,"
+      ],
+      [
+        461,
+        "00:40:58.160000",
+        "00:41:00.320000",
+        "Colonel Caldwell, Presidio Provost Marshal."
+      ]
+    ],
+    "regex": "\\b((?!\\bPresidio:)Presidio)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

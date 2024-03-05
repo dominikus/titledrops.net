@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0089081",
+    "title": "She Spent So Many Hours Under the Sun Lamps",
+    "year": 1985,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 645,
+    "occurrences": [
+      [
+        461,
+        "01:18:02.917000",
+        "01:18:06.542000",
+        "She Spent So Many Hours under the Sun Lamps, take one."
+      ],
+      [
+        480,
+        "01:19:40.542000",
+        "01:19:44.376000",
+        "She spent so many hours under the sun lamps... Excuse me."
+      ],
+      [
+        535,
+        "01:25:58.042000",
+        "01:26:02.126000",
+        "Because \"She spent so many hours under the sun lamps,\" well, she died from it!"
+      ]
+    ],
+    "regex": "\\b((?!\\bShe\\ Spent\\ So\\ Many\\ Hours\\ Under\\ the\\ Sun\\ Lamps:)She\\ Spent\\ So\\ Many\\ Hours\\ Under\\ the\\ Sun\\ Lamps)(?!\\:)(?!'t)\\b",
+    "runtime": 138,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

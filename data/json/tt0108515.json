@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0108515",
+    "title": "The War Room",
+    "year": 1993,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1706,
+    "occurrences": [
+      [
+        335,
+        "00:20:23.014000",
+        "00:20:27.976000",
+        "Can you all have Marla come up to the war room on the 13th floor? Thanks."
+      ],
+      [
+        1234,
+        "01:09:03.973000",
+        "01:09:07.643000",
+        "Tonight at 6:45 will be the final war room meeting."
+      ]
+    ],
+    "regex": "\\b((?!\\bWar\\ Room:)War\\ Room)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

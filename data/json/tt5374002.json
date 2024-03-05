@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt5374002",
+    "title": "The Job",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1498,
+    "occurrences": [
+      [
+        176,
+        "00:08:18.594000",
+        "00:08:20.594000",
+        "I'm here because of a job."
+      ],
+      [
+        331,
+        "00:14:52.815000",
+        "00:14:54.815000",
+        "Congratulations on completing the first part of the job."
+      ],
+      [
+        495,
+        "00:21:43.074000",
+        "00:21:44.840000",
+        "Unless he does his job and tracks those cases."
+      ],
+      [
+        765,
+        "00:35:26.053000",
+        "00:35:28.053000",
+        "They say airline pilots have the most  stressful job."
+      ],
+      [
+        993,
+        "00:45:00.537000",
+        "00:45:01.993000",
+        "You wouldn't take  on a job like this"
+      ]
+    ],
+    "regex": "\\b((?!\\bJob:)Job)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5720490",
+    "title": "72 Hours",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 959,
+    "occurrences": [
+      [
+        41,
+        "00:05:50.362000",
+        "00:05:53.442000",
+        "visual memory! - We have 72 hours with you,"
+      ],
+      [
+        186,
+        "00:18:04.588000",
+        "00:18:07.509000",
+        "- For the next 72 hours, you are considered detained on suspicion"
+      ]
+    ],
+    "regex": "\\b((?!\\b72\\ Hours:)72\\ Hours)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

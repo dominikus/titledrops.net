@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt8667828",
+    "title": "Outlaw Johnny Black",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "count": 4,
+    "all_lines": 1863,
+    "occurrences": [
+      [
+        27,
+        "00:08:06.887000",
+        "00:08:09.056000",
+        "Outlaw Johnny Black, plain as day,"
+      ],
+      [
+        1399,
+        "01:39:47.120000",
+        "01:39:48.489000",
+        "Outlaw Johnny Black."
+      ],
+      [
+        1402,
+        "01:39:54.495000",
+        "01:39:58.933000",
+        "It's right here. It says it on the poster. The Outlaw Johnny Black!"
+      ],
+      [
+        1760,
+        "02:02:38.759000",
+        "02:02:41.128000",
+        "So you're the Outlaw Johnny Black."
+      ]
+    ],
+    "regex": "\\b((?!\\bOutlaw\\ Johnny\\ Black:)Outlaw\\ Johnny\\ Black)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [
+      "Outlaw Johnny Black"
+    ],
+    "title_is_name": true,
+    "rating": 5.5
+  }
+]

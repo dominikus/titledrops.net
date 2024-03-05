@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0084897",
+    "title": "The White Rose",
+    "year": 1982,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1140,
+    "occurrences": [
+      [
+        4,
+        "00:00:22.205000",
+        "00:00:23.805000",
+        "(Second flyer of the WHITE ROSE)"
+      ],
+      [
+        202,
+        "00:18:40.490000",
+        "00:18:41.890000",
+        "Flyer from the White Rose."
+      ],
+      [
+        1129,
+        "01:58:20.395000",
+        "01:58:23.395000",
+        "the conviction of members of the WHITE ROSE,"
+      ],
+      [
+        1131,
+        "01:58:27.435000",
+        "01:58:30.435000",
+        "2. Resistance fighters like the WHITE ROSE were violating"
+      ]
+    ],
+    "regex": "\\b((?!\\bWhite\\ Rose:)White\\ Rose)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

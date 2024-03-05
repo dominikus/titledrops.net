@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1204977",
+    "title": "Ouija",
+    "year": 2014,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 655,
+    "occurrences": [
+      [
+        35,
+        "00:04:15.120000",
+        "00:04:17.592000",
+        "- The Ouija board. - Yeah."
+      ],
+      [
+        412,
+        "00:47:40.523000",
+        "00:47:43.103000",
+        "When Debbie played the Ouija, did she make contact with you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bOuija:)Ouija)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

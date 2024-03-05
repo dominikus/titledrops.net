@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0449018",
+    "title": "The Final Season",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 854,
+    "occurrences": [
+      [
+        673,
+        "00:52:07.324000",
+        "00:52:10.987000",
+        "We've decided our boys from Norway deserve one final season."
+      ],
+      [
+        784,
+        "00:59:37.407000",
+        "00:59:40.672000",
+        "Coach Van Scoyoc took one for the team so we could all play one final season."
+      ]
+    ],
+    "regex": "\\b((?!\\bFinal\\ Season:)Final\\ Season)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

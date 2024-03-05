@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt9286670",
+    "title": "Allan the Dog",
+    "year": 2020,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 2450,
+    "occurrences": [
+      [
+        1932,
+        "01:12:47.101000",
+        "01:12:47.902000",
+        "MAN: Dude, is that Allan the dog?"
+      ],
+      [
+        1950,
+        "01:13:15.428000",
+        "01:13:18.465000",
+        "that Allan the dog is the long lost brother"
+      ],
+      [
+        2083,
+        "01:19:22.963000",
+        "01:19:24.666000",
+        "Hey, isn't that Allan the dog?"
+      ],
+      [
+        2304,
+        "01:27:31.552000",
+        "01:27:34.522000",
+        "Well then, I give you Allan the dog."
+      ]
+    ],
+    "regex": "\\b((?!\\bAllan\\ the\\ Dog:)Allan\\ the\\ Dog)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt21222434",
+    "title": "Sniper: Rogue Mission",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1076,
+    "occurrences": [
+      [
+        390,
+        "00:29:51.123000",
+        "00:29:54.126000",
+        "Best sniper in the world, right here at our table."
+      ],
+      [
+        391,
+        "00:29:54.210000",
+        "00:29:56.837000",
+        "Well, I'm not the best sniper in the world."
+      ],
+      [
+        816,
+        "00:59:21.392000",
+        "00:59:23.728000",
+        "and the world's best sniper watching your back."
+      ],
+      [
+        852,
+        "01:03:23.092000",
+        "01:03:26.178000",
+        "You fucking moron! I thought you were our ace sniper."
+      ],
+      [
+        953,
+        "01:20:36.249000",
+        "01:20:38.876000",
+        "There's a sniper. Find him. I've got company."
+      ]
+    ],
+    "regex": "\\b((?!\\bSniper:)Sniper|(?!\\bRogue\\ Mission:)Rogue\\ Mission)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

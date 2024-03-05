@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0357413",
+    "title": "Anchorman: The Legend of Ron Burgundy",
+    "year": 2004,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1793,
+    "occurrences": [
+      [
+        1,
+        "00:00:53.019000",
+        "00:00:56.079000",
+        "when the local anchorman reigned supreme,"
+      ],
+      [
+        4,
+        "00:01:08.968000",
+        "00:01:13.632000",
+        "And in San Diego, one anchorman was more man than the rest."
+      ],
+      [
+        285,
+        "00:15:29.061000",
+        "00:15:32.394000",
+        "It is anchorman, not anchorlady!"
+      ],
+      [
+        1275,
+        "01:07:29.211000",
+        "01:07:32.942000",
+        "I'm not a baby, I am a man. I am an anchorman!"
+      ],
+      [
+        1520,
+        "01:20:47.442000",
+        "01:20:50.411000",
+        "- Is there an anchorman there? - Hold on."
+      ]
+    ],
+    "regex": "\\b((?!\\bAnchorman:)Anchorman|(?!\\bLegend\\ of\\ Ron\\ Burgundy:)Legend\\ of\\ Ron\\ Burgundy)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt8595016",
+    "title": "My Old School",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Documentary",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 2412,
+    "occurrences": [
+      [
+        2374,
+        "01:43:31.546000",
+        "01:43:35.683000",
+        "(\"My Old School\" playing)"
+      ],
+      [
+        2389,
+        "01:44:34.575000",
+        "01:44:39.379000",
+        "To my old school"
+      ],
+      [
+        2401,
+        "01:45:50.350000",
+        "01:45:54.956000",
+        "To my old school"
+      ],
+      [
+        2412,
+        "01:47:24.779000",
+        "01:47:30.985000",
+        "To my old school"
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Old\\ School:)My\\ Old\\ School)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

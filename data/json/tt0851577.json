@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0851577",
+    "title": "The Island",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 647,
+    "occurrences": [
+      [
+        52,
+        "00:17:07.760000",
+        "00:17:11.719000",
+        "Now get out of my island!"
+      ],
+      [
+        563,
+        "01:27:39.280000",
+        "01:27:41.350000",
+        "And your island is nasty."
+      ]
+    ],
+    "regex": "\\b((?!\\bIsland:)Island)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

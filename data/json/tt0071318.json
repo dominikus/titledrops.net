@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0071318",
+    "title": "Chosen Survivors",
+    "year": 1974,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 832,
+    "occurrences": [
+      [
+        47,
+        "00:09:47.856000",
+        "00:09:51.485000",
+        "and the 1 68 chosen survivors like you..."
+      ],
+      [
+        175,
+        "00:23:48.262000",
+        "00:23:50.890000",
+        "Good morning, chosen survivors."
+      ],
+      [
+        719,
+        "01:16:35.293000",
+        "01:16:37.625000",
+        "Good morning, chosen survivors."
+      ],
+      [
+        803,
+        "01:34:56.293000",
+        "01:34:59.626000",
+        "- - Good morning, chosen survivors..."
+      ]
+    ],
+    "regex": "\\b((?!\\bChosen\\ Survivors:)Chosen\\ Survivors)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

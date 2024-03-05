@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6584902",
+    "title": "Wallay",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 626,
+    "occurrences": [
+      [
+        29,
+        "00:07:46.640000",
+        "00:07:49.600000",
+        "Wallay! The motherland... I'm so happy."
+      ],
+      [
+        445,
+        "00:50:26.960000",
+        "00:50:29.640000",
+        "Wallay! I swear! You can beat me! I don't care."
+      ]
+    ],
+    "regex": "\\b((?!\\bWallay:)Wallay)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

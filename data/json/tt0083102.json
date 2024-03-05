@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0083102",
+    "title": "Sweet Dreams",
+    "year": 1981,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1040,
+    "occurrences": [
+      [
+        834,
+        "01:15:40.207000",
+        "01:15:42.243000",
+        "#Sweet dreams. #"
+      ],
+      [
+        835,
+        "01:15:42.607000",
+        "01:15:44.837000",
+        "#Sweet dreams. #"
+      ],
+      [
+        836,
+        "01:15:45.127000",
+        "01:15:51.566000",
+        "#Sweet dreams. Sweet dreams. Sweet... #"
+      ]
+    ],
+    "regex": "\\b((?!\\bSweet\\ Dreams:)Sweet\\ Dreams)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

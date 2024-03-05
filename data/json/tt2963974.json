@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2963974",
+    "title": "M Cream",
+    "year": 2014,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1412,
+    "occurrences": [
+      [
+        336,
+        "00:22:31.166000",
+        "00:22:33.166000",
+        "M Cream."
+      ],
+      [
+        337,
+        "00:22:33.333000",
+        "00:22:36.583000",
+        "M Cream. The best hash in the world."
+      ],
+      [
+        460,
+        "00:29:32.250000",
+        "00:29:35.291000",
+        "The source of M Cream, this mythical magical hash."
+      ]
+    ],
+    "regex": "\\b((?!\\bM\\ Cream:)M\\ Cream)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

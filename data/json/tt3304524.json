@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3304524",
+    "title": "Landfill Harmonic",
+    "year": 2015,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1008,
+    "occurrences": [
+      [
+        743,
+        "01:00:10.357000",
+        "01:00:13.026000",
+        "the Landfill Harmonic Orchestra."
+      ],
+      [
+        771,
+        "01:01:38.486000",
+        "01:01:42.157000",
+        "Landfill Harmonic Orchestra from Paraguay."
+      ]
+    ],
+    "regex": "\\b((?!\\bLandfill\\ Harmonic:)Landfill\\ Harmonic)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

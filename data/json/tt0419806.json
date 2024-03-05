@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0419806",
+    "title": "Hijacking Catastrophe: 9/11, Fear & the Selling of American Empire",
+    "year": 2004,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 977,
+    "occurrences": [
+      [
+        22,
+        "00:02:03.100000",
+        "00:02:07.377000",
+        "Hijacking Catastrophe"
+      ],
+      [
+        23,
+        "00:02:07.378000",
+        "00:02:13.602000",
+        "Hijacking Catastrophe 9/11,Fear & the Selling of American Empire"
+      ]
+    ],
+    "regex": "\\b((?!\\bHijacking\\ Catastrophe:)Hijacking\\ Catastrophe|(?!\\b9/11,\\ Fear\\ \\&\\ the\\ Selling\\ of\\ American\\ Empire:)9/11,\\ Fear\\ \\&\\ the\\ Selling\\ of\\ American\\ Empire)(?!\\:)(?!'t)\\b",
+    "runtime": 68,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

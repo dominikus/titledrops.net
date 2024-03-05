@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1756384",
+    "title": "The Exam",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 860,
+    "occurrences": [
+      [
+        805,
+        "01:20:55.560000",
+        "01:20:59.560000",
+        "We gathered here to evaluate the results of today's exam."
+      ],
+      [
+        813,
+        "01:21:32.560000",
+        "01:21:33.457000",
+        "In the course of the exam,"
+      ],
+      [
+        817,
+        "01:21:40.570000",
+        "01:21:43.560000",
+        "did not compromise himself, and achieved the best grade on his exam."
+      ],
+      [
+        840,
+        "01:23:35.560000",
+        "01:23:38.560000",
+        "You passed the exam, congratulations."
+      ],
+      [
+        843,
+        "01:23:41.860000",
+        "01:23:44.560000",
+        "You also passed the exam, congratulations."
+      ]
+    ],
+    "regex": "\\b((?!\\bExam:)Exam)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

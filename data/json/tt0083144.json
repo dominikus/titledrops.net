@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0083144",
+    "title": "The Survivor",
+    "year": 1981,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 700,
+    "occurrences": [
+      [
+        181,
+        "00:24:26.590000",
+        "00:24:28.133000",
+        "Wife's lover sole survivor."
+      ],
+      [
+        420,
+        "00:57:52.594000",
+        "00:57:54.914000",
+        "considering I am the sole survivor of a major air disaster,"
+      ]
+    ],
+    "regex": "\\b((?!\\bSurvivor:)Survivor)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

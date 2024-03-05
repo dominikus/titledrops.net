@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0196708",
+    "title": "Lockdown",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1011,
+    "occurrences": [
+      [
+        428,
+        "00:35:55.089000",
+        "00:35:57.922000",
+        "Lockdown is over! Les move it!"
+      ],
+      [
+        438,
+        "00:36:42.209000",
+        "00:36:44.769000",
+        "The prices went up when we was in lockdown."
+      ],
+      [
+        587,
+        "00:51:43.729000",
+        "00:51:46.562000",
+        "Lockdown's over! Rise and shine!"
+      ]
+    ],
+    "regex": "\\b((?!\\bLockdown:)Lockdown)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

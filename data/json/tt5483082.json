@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt5483082",
+    "title": "Daughter",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1119,
+    "occurrences": [
+      [
+        521,
+        "00:41:06.480000",
+        "00:41:08.779000",
+        "He's just being a father. He's worried about her daughter."
+      ],
+      [
+        562,
+        "00:45:27.520000",
+        "00:45:34.420000",
+        "But now he only expects a daughter to do as her father says."
+      ],
+      [
+        684,
+        "00:57:51.360000",
+        "00:57:53.299000",
+        "Your daughter's condition is optimal."
+      ],
+      [
+        1097,
+        "01:34:16.680000",
+        "01:34:20.140000",
+        "You're here for your daughter, not for me."
+      ]
+    ],
+    "regex": "\\b((?!\\bDaughter:)Daughter)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

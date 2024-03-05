@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1806975",
+    "title": "Never Open the Door",
+    "year": 2014,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1262,
+    "occurrences": [
+      [
+        351,
+        "00:13:48.242000",
+        "00:13:49.952000",
+        "Never open the door!"
+      ],
+      [
+        373,
+        "00:14:36.915000",
+        "00:14:37.458000",
+        "never open the door?"
+      ],
+      [
+        1247,
+        "00:59:14.006000",
+        "00:59:16.134000",
+        "Never open the door!"
+      ],
+      [
+        1256,
+        "00:59:46.831000",
+        "00:59:48.475000",
+        "never open the door Tess are you all right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bNever\\ Open\\ the\\ Door:)Never\\ Open\\ the\\ Door)(?!\\:)(?!'t)\\b",
+    "runtime": 64,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

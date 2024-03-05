@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt13130400",
+    "title": "Maestro",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Music"
+    ],
+    "count": 12,
+    "all_lines": 1849,
+    "occurrences": [
+      [
+        1822,
+        "02:12:20.958000",
+        "02:12:24.500000",
+        "Maestro, maestro I am a maestro"
+      ],
+      [
+        1824,
+        "02:12:28.125000",
+        "02:12:31.750000",
+        "Maestro, maestro I am a maestro"
+      ],
+      [
+        1842,
+        "02:14:27.083000",
+        "02:14:30.625000",
+        "Maestro, maestro I am a maestro"
+      ],
+      [
+        1844,
+        "02:14:34.250000",
+        "02:14:37.750000",
+        "Maestro, maestro I am a maestro"
+      ]
+    ],
+    "regex": "\\b((?!\\bMaestro:)Maestro)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

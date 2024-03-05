@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0452128",
+    "title": "The Lover",
+    "year": 2004,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 453,
+    "occurrences": [
+      [
+        15,
+        "00:06:03.786000",
+        "00:06:06.732000",
+        "For the next year, you're our lover."
+      ],
+      [
+        410,
+        "01:21:40.553000",
+        "01:21:46.306000",
+        "A dead man, who said he wanted to make you his lover."
+      ]
+    ],
+    "regex": "\\b((?!\\bLover:)Lover)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0338998",
+    "title": "Horse Fever: The Mandrake Sting",
+    "year": 2002,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1749,
+    "occurrences": [
+      [
+        1487,
+        "01:24:13.762000",
+        "01:24:15.912000",
+        "You have horse fever too now?"
+      ],
+      [
+        1698,
+        "01:35:17.242000",
+        "01:35:19.437000",
+        "Looks like l've caught horse fever too."
+      ]
+    ],
+    "regex": "\\b((?!\\bHorse\\ Fever:)Horse\\ Fever|(?!\\bMandrake\\ Sting:)Mandrake\\ Sting)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

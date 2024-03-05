@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0113133",
+    "title": "Funny Bones",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1152,
+    "occurrences": [
+      [
+        1002,
+        "01:37:53.875000",
+        "01:37:58.253000",
+        "We were funny. We had funny bones."
+      ],
+      [
+        1008,
+        "01:38:21.945000",
+        "01:38:25.906000",
+        "There's a funny bones comedian and a nonfunny bones comedian."
+      ]
+    ],
+    "regex": "\\b((?!\\bFunny\\ Bones:)Funny\\ Bones)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

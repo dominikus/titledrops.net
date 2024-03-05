@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1859603",
+    "title": "The Guest House",
+    "year": 2012,
+    "genres": [
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1293,
+    "occurrences": [
+      [
+        78,
+        "00:04:31.525000",
+        "00:04:33.493000",
+        "and she's going be staying at the guest house,"
+      ],
+      [
+        90,
+        "00:06:16.263000",
+        "00:06:19.533000",
+        "Mr. Richmond said I'm supposed to stay in the guest house."
+      ],
+      [
+        352,
+        "00:20:23.509000",
+        "00:20:25.444000",
+        "in the guest house whatever she wants."
+      ]
+    ],
+    "regex": "\\b((?!\\bGuest\\ House:)Guest\\ House)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0067683",
+    "title": "Workers '71: Nothing About Us Without Us",
+    "year": 1972,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 755,
+    "occurrences": [
+      [
+        14,
+        "00:01:59.428000",
+        "00:02:07.323000",
+        "WORKERS 1971: NOTHING ABOUT US WITHOUT US"
+      ],
+      [
+        516,
+        "00:30:45.517000",
+        "00:30:48.130000",
+        "Nothing about us without us, nothing about us without us, right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWorkers\\ '71:)Workers\\ '71|(?!\\bNothing\\ About\\ Us\\ Without\\ Us:)Nothing\\ About\\ Us\\ Without\\ Us)(?!\\:)(?!'t)\\b",
+    "runtime": 47,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

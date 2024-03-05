@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt2917336",
+    "title": "The Dead 2: India",
+    "year": 2013,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 840,
+    "occurrences": [
+      [
+        340,
+        "00:35:22.253000",
+        "00:35:24.722000",
+        "I'll come with you. I'm the best guide in India."
+      ],
+      [
+        343,
+        "00:35:29.160000",
+        "00:35:33.230000",
+        "Passenger? I know India like I know the back of my hand."
+      ],
+      [
+        351,
+        "00:35:54.019000",
+        "00:35:58.288000",
+        "Ask me where something is, any single thing in India."
+      ],
+      [
+        569,
+        "01:00:47.744000",
+        "01:00:49.411000",
+        "...why did you come to India?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDead:)Dead|(?!\\bIndia:)India)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

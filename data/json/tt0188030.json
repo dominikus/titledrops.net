@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0188030",
+    "title": "Butterfly",
+    "year": 1999,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 930,
+    "occurrences": [
+      [
+        377,
+        "00:33:50.740000",
+        "00:33:52.776000",
+        "The tongue of a butterfly..."
+      ],
+      [
+        470,
+        "00:40:51.660000",
+        "00:40:55.619000",
+        "Remember what I said about a butterfly's tongue?"
+      ],
+      [
+        485,
+        "00:41:40.580000",
+        "00:41:41.217000",
+        "The tongue of a butterfly is like that."
+      ],
+      [
+        487,
+        "00:41:45.740000",
+        "00:41:48.493000",
+        "the butterfly unrolls its tongue..."
+      ]
+    ],
+    "regex": "\\b((?!\\bButterfly:)Butterfly)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

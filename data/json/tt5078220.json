@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5078220",
+    "title": "Back to Berlin",
+    "year": 2018,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 622,
+    "occurrences": [
+      [
+        25,
+        "00:02:11.903000",
+        "00:02:16.331000",
+        "a journey that will take them \"Back to Berlin.\""
+      ],
+      [
+        112,
+        "00:08:15.151000",
+        "00:08:17.195000",
+        "Carrying the torch back to Berlin"
+      ]
+    ],
+    "regex": "\\b((?!\\bBack\\ to\\ Berlin:)Back\\ to\\ Berlin)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

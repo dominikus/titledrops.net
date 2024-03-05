@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0078386",
+    "title": "Third Base",
+    "year": 1978,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 640,
+    "occurrences": [
+      [
+        21,
+        "00:03:44.100000",
+        "00:03:46.800000",
+        "He used to play third base."
+      ],
+      [
+        61,
+        "00:10:02.800000",
+        "00:10:04.300000",
+        "I'm Third Base..."
+      ]
+    ],
+    "regex": "\\b((?!\\bThird\\ Base:)Third\\ Base)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

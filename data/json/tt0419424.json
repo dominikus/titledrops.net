@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0419424",
+    "title": "To the Other Side",
+    "year": 2004,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 648,
+    "occurrences": [
+      [
+        147,
+        "00:13:50.812000",
+        "00:13:52.780000",
+        "He went to the other side, son."
+      ],
+      [
+        274,
+        "00:32:36.937000",
+        "00:32:39.906000",
+        "My mom said that he went to work to the other side."
+      ],
+      [
+        310,
+        "00:35:40.120000",
+        "00:35:42.088000",
+        "...to the other side?"
+      ],
+      [
+        314,
+        "00:35:53.166000",
+        "00:35:55.225000",
+        "He wants to go with his dad to the other side."
+      ],
+      [
+        359,
+        "00:38:10.270000",
+        "00:38:12.238000",
+        "Can't you see he'll go to the other side?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTo\\ the\\ Other\\ Side:)To\\ the\\ Other\\ Side)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

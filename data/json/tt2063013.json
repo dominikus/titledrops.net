@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2063013",
+    "title": "The Assassins",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 838,
+    "occurrences": [
+      [
+        185,
+        "00:27:23.675000",
+        "00:27:25.177000",
+        "There are assassins!"
+      ],
+      [
+        186,
+        "00:27:46.931000",
+        "00:27:48.239000",
+        "There are assassins!"
+      ],
+      [
+        331,
+        "00:47:10.460000",
+        "00:47:13.066000",
+        "Did you see the fate of those assassins?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAssassins:)Assassins)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

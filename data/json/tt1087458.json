@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt1087458",
+    "title": "The Subtenant",
+    "year": 2008,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 1059,
+    "occurrences": [
+      [
+        264,
+        "00:26:47.720000",
+        "00:26:49.950000",
+        "Get a subtenant."
+      ],
+      [
+        272,
+        "00:27:31.160000",
+        "00:27:33.628000",
+        "why are we looking for a subtenant?"
+      ],
+      [
+        281,
+        "00:28:12.440000",
+        "00:28:15.432000",
+        "and aunt are looking for a subtenant.''"
+      ],
+      [
+        454,
+        "00:42:47.840000",
+        "00:42:52.356000",
+        "why are you here again? -l'm your new subtenant."
+      ],
+      [
+        463,
+        "00:43:27.120000",
+        "00:43:30.556000",
+        "You were supposed to be our subtenant."
+      ],
+      [
+        835,
+        "01:15:15.240000",
+        "01:15:19.199000",
+        "The subtenant, count Baton, redecorated a little."
+      ]
+    ],
+    "regex": "\\b((?!\\bSubtenant:)Subtenant)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

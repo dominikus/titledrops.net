@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0059643",
+    "title": "The Saragossa Manuscript",
+    "year": 1965,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 735,
+    "occurrences": [
+      [
+        0,
+        "00:00:11.678000",
+        "00:00:14.579000",
+        "The Saragossa Manuscript"
+      ],
+      [
+        681,
+        "01:20:46.842000",
+        "01:20:53.805000",
+        "The Saragossa Manuscript, Part Two"
+      ]
+    ],
+    "regex": "\\b((?!\\bSaragossa\\ Manuscript:)Saragossa\\ Manuscript)(?!\\:)(?!'t)\\b",
+    "runtime": 182,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

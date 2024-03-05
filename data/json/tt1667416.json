@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1667416",
+    "title": "Coffin",
+    "year": 2011,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1397,
+    "occurrences": [
+      [
+        57,
+        "00:02:35.501000",
+        "00:02:37.128000",
+        "there's no escape from your coffin."
+      ],
+      [
+        126,
+        "00:06:42.998000",
+        "00:06:45.330000",
+        "that I've placed in your wife's coffin"
+      ]
+    ],
+    "regex": "\\b((?!\\bCoffin:)Coffin)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

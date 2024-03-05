@@ -1,0 +1,79 @@
+[
+  {
+    "imdb": "tt14412524",
+    "title": "Infected",
+    "year": 2021,
+    "genres": [
+      "Horror"
+    ],
+    "count": 10,
+    "all_lines": 682,
+    "occurrences": [
+      [
+        6,
+        "00:03:41.180000",
+        "00:03:43.220000",
+        "He's not infected."
+      ],
+      [
+        30,
+        "00:06:05.490000",
+        "00:06:08.500000",
+        "He could be infected. We don't even know who this guy is."
+      ],
+      [
+        31,
+        "00:06:08.550000",
+        "00:06:09.499000",
+        "He doesn't look infected."
+      ],
+      [
+        238,
+        "00:20:52.121000",
+        "00:20:54.099000",
+        "She's infected."
+      ],
+      [
+        450,
+        "00:51:26.870000",
+        "00:51:29.603000",
+        "We need to flush all infected out of the city area."
+      ],
+      [
+        647,
+        "01:08:45.780000",
+        "01:08:47.233000",
+        "- He was infected, all right?"
+      ],
+      [
+        648,
+        "01:08:50.590000",
+        "01:08:51.943000",
+        "- He was infected?"
+      ],
+      [
+        657,
+        "01:09:18.950000",
+        "01:09:21.210000",
+        "Now, even the immune can be infected now."
+      ],
+      [
+        658,
+        "01:09:21.260000",
+        "01:09:23.833000",
+        "And you, you're still infected with it."
+      ],
+      [
+        660,
+        "01:09:42.190000",
+        "01:09:43.990000",
+        "- How do we know we're not infected?"
+      ]
+    ],
+    "regex": "\\b((?!\\bInfected:)Infected)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.7
+  }
+]

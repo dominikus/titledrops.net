@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt4594124",
+    "title": "The Forest",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 452,
+    "occurrences": [
+      [
+        109,
+        "00:26:29.115000",
+        "00:26:32.545000",
+        "Behind the swamp, the forest was broken by a hurricane. Like matches."
+      ],
+      [
+        412,
+        "01:26:53.479000",
+        "01:26:56.732000",
+        "Yes, what will be, it will overgrow, the forest will be. Breadwinner."
+      ]
+    ],
+    "regex": "\\b((?!\\bForest:)Forest)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

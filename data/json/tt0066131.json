@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0066131",
+    "title": "The Most Beautiful Age",
+    "year": 1969,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 885,
+    "occurrences": [
+      [
+        1,
+        "00:00:25.198000",
+        "00:00:28.359000",
+        "The Most Beautiful Age"
+      ],
+      [
+        127,
+        "00:13:32.367000",
+        "00:13:38.442000",
+        "I wish I was as young as you. That's the most beautiful age."
+      ],
+      [
+        484,
+        "00:45:34.007000",
+        "00:45:38.797000",
+        "You can do many things, you're in the most beautiful age."
+      ],
+      [
+        485,
+        "00:45:39.127000",
+        "00:45:41.687000",
+        "Most beautiful age?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMost\\ Beautiful\\ Age:)Most\\ Beautiful\\ Age)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1515091",
+    "title": "Sherlock Holmes: A Game of Shadows",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1180,
+    "occurrences": [
+      [
+        7,
+        "00:00:54.638000",
+        "00:00:58.016000",
+        "...my friend Sherlock Holmes..."
+      ],
+      [
+        184,
+        "00:17:14.951000",
+        "00:17:17.578000",
+        "-Except the great Sherlock Holmes... -Correct."
+      ]
+    ],
+    "regex": "\\b((?!\\bSherlock\\ Holmes:)Sherlock\\ Holmes|(?!\\bGame\\ of\\ Shadows:)Game\\ of\\ Shadows)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

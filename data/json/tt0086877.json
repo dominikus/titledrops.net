@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0086877",
+    "title": "Alphabet City",
+    "year": 1984,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 888,
+    "occurrences": [
+      [
+        171,
+        "00:13:59.172000",
+        "00:14:00.941000",
+        "When you sell your ass for Alphabet City, you're a whore."
+      ],
+      [
+        371,
+        "00:24:10.908000",
+        "00:24:12.493000",
+        "I want Alphabet City!"
+      ]
+    ],
+    "regex": "\\b((?!\\bAlphabet\\ City:)Alphabet\\ City)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

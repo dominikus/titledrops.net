@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0059927",
+    "title": "The Yellow Rolls-Royce",
+    "year": 1964,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1817,
+    "occurrences": [
+      [
+        277,
+        "00:16:06.491000",
+        "00:16:09.130000",
+        "A yellow Rolls-Royce."
+      ],
+      [
+        380,
+        "00:22:05.011000",
+        "00:22:06.808000",
+        "The yellow Rolls-Royce."
+      ],
+      [
+        381,
+        "00:22:06.971000",
+        "00:22:09.121000",
+        "- The yellow Rolls-Royce? - The yellow Rolls-Royce."
+      ]
+    ],
+    "regex": "\\b((?!\\bYellow\\ Rolls\\-Royce:)Yellow\\ Rolls\\-Royce)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

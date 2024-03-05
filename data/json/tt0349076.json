@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0349076",
+    "title": "South from Granada",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1159,
+    "occurrences": [
+      [
+        0,
+        "00:02:11.868000",
+        "00:02:16.343000",
+        "SOUTH from GRANADA"
+      ],
+      [
+        1157,
+        "01:43:46.274000",
+        "01:43:48.763000",
+        "\"The Literature of the Spanish People,\" and \"South from Granada.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bSouth\\ from\\ Granada:)South\\ from\\ Granada)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

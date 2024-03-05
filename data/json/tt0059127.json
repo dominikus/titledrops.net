@@ -1,0 +1,67 @@
+[
+  {
+    "imdb": "tt0059127",
+    "title": "Dracula: Prince of Darkness",
+    "year": 1966,
+    "genres": [
+      "Horror"
+    ],
+    "count": 9,
+    "all_lines": 659,
+    "occurrences": [
+      [
+        315,
+        "00:29:32.883000",
+        "00:29:34.856000",
+        "His name was Count Dracula."
+      ],
+      [
+        344,
+        "00:31:27.197000",
+        "00:31:28.693000",
+        "Count Dracula!"
+      ],
+      [
+        345,
+        "00:31:29.417000",
+        "00:31:30.818000",
+        "- Count Dracula! - Count Dracula!"
+      ],
+      [
+        463,
+        "01:03:03.511000",
+        "01:03:07.587000",
+        "And the fountainhead of this obscene cult... was Dracula himself."
+      ],
+      [
+        498,
+        "01:05:29.565000",
+        "01:05:31.947000",
+        "I found him one night near Castle Dracula."
+      ],
+      [
+        535,
+        "01:09:14.566000",
+        "01:09:18.310000",
+        "Last night Dracula was robbed of his prey, your wife."
+      ],
+      [
+        602,
+        "01:16:42.980000",
+        "01:16:44.692000",
+        "- Dracula? - No."
+      ],
+      [
+        604,
+        "01:16:48.253000",
+        "01:16:52",
+        "If you wish to see the destruction of the horror spawned by Count Dracula..."
+      ]
+    ],
+    "regex": "\\b((?!\\bDracula:)Dracula|(?!\\bPrince\\ of\\ Darkness:)Prince\\ of\\ Darkness)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

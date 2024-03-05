@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1059817",
+    "title": "Oh Happy Day",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1570,
+    "occurrences": [
+      [
+        1186,
+        "01:06:40.246000",
+        "01:06:42.165000",
+        "Oh happy day"
+      ],
+      [
+        1541,
+        "01:32:04.693000",
+        "01:32:06.131000",
+        "Oh Happy Day"
+      ],
+      [
+        1542,
+        "01:32:07.516000",
+        "01:32:08.899000",
+        "Oh Happy Day"
+      ]
+    ],
+    "regex": "\\b((?!\\bOh\\ Happy\\ Day:)Oh\\ Happy\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

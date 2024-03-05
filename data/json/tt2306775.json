@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2306775",
+    "title": "The Better Half",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1665,
+    "occurrences": [
+      [
+        178,
+        "00:08:31.660000",
+        "00:08:34.327000",
+        "Cali is your better half, Calista,"
+      ],
+      [
+        517,
+        "00:23:55.149000",
+        "00:23:58.919000",
+        "my better half, but he is so wrong."
+      ]
+    ],
+    "regex": "\\b((?!\\bBetter\\ Half:)Better\\ Half)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0199000",
+    "title": "Gripsholm",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1037,
+    "occurrences": [
+      [
+        165,
+        "00:14:27.700000",
+        "00:14:29.133000",
+        "Gripsholm Castle."
+      ],
+      [
+        1031,
+        "01:33:30.209000",
+        "01:33:32.973000",
+        "\"Gripsholm Castle\" was his last major work."
+      ],
+      [
+        1035,
+        "01:33:40.485000",
+        "01:33:43.545000",
+        "His grave is in Mariefred, near Gripsholm."
+      ],
+      [
+        1036,
+        "01:33:43.655000",
+        "01:33:46.055000",
+        "This movie combines ideas from the novel \"Gripsholm Castle\""
+      ]
+    ],
+    "regex": "\\b((?!\\bGripsholm:)Gripsholm)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

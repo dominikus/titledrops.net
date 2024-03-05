@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3398252",
+    "title": "Samurai Cop 2: Deadly Vengeance",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 978,
+    "occurrences": [
+      [
+        308,
+        "00:24:14.453000",
+        "00:24:17.391000",
+        "your deadly vengeance."
+      ],
+      [
+        799,
+        "01:07:56.667000",
+        "01:08:00.739000",
+        "Samurai cop, it is I..."
+      ],
+      [
+        804,
+        "01:08:17.292000",
+        "01:08:21.298000",
+        "of my enemies. Do you hear me samurai cop?"
+      ],
+      [
+        812,
+        "01:08:49.700000",
+        "01:08:53.639000",
+        "Samurai cop, don't fail me!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSamurai\\ Cop:)Samurai\\ Cop|(?!\\bDeadly\\ Vengeance:)Deadly\\ Vengeance)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0094035",
+    "title": "The Stepfather",
+    "year": 1987,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 840,
+    "occurrences": [
+      [
+        48,
+        "00:09:54.659000",
+        "00:09:56.575000",
+        "Sorry, I meant your stepfather."
+      ],
+      [
+        50,
+        "00:09:59.359000",
+        "00:10:00.868000",
+        "there wouldn't be a stepfather."
+      ],
+      [
+        111,
+        "00:13:34.403000",
+        "00:13:36.712000",
+        "What's your stepfather gonna do when he finds out?"
+      ]
+    ],
+    "regex": "\\b((?!\\bStepfather:)Stepfather)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

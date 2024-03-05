@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0055097",
+    "title": "Look in Any Window",
+    "year": 1961,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1186,
+    "occurrences": [
+      [
+        0,
+        "00:00:02.139000",
+        "00:00:06.109000",
+        "I look in any window"
+      ],
+      [
+        420,
+        "00:26:26.324000",
+        "00:26:30.493000",
+        "I look in any window"
+      ],
+      [
+        573,
+        "00:36:23.788000",
+        "00:36:25.921000",
+        "Walk down any street, look in any window,"
+      ]
+    ],
+    "regex": "\\b((?!\\bLook\\ in\\ Any\\ Window:)Look\\ in\\ Any\\ Window)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

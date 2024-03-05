@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0290823",
+    "title": "Secret Ballot",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 723,
+    "occurrences": [
+      [
+        145,
+        "00:24:41.880000",
+        "00:24:44.542000",
+        "Voting is by secret ballot!"
+      ],
+      [
+        319,
+        "00:45:23.587000",
+        "00:45:25.452000",
+        "Voting is by secret ballot."
+      ],
+      [
+        705,
+        "01:34:07.642000",
+        "01:34:10.133000",
+        "I thought voting was by secret ballot!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSecret\\ Ballot:)Secret\\ Ballot)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

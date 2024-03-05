@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0032961",
+    "title": "Quiet Wedding",
+    "year": 1941,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1337,
+    "occurrences": [
+      [
+        149,
+        "00:09:46.302000",
+        "00:09:49.523000",
+        "Mummy, I want you to understand that Dallas and I only want a very quiet wedding."
+      ],
+      [
+        441,
+        "00:24:08.917000",
+        "00:24:10.733000",
+        "When you were married, did you have a quiet wedding?"
+      ]
+    ],
+    "regex": "\\b((?!\\bQuiet\\ Wedding:)Quiet\\ Wedding)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

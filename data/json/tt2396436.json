@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2396436",
+    "title": "Lemon Tree Passage",
+    "year": 2014,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 946,
+    "occurrences": [
+      [
+        140,
+        "00:10:27.703000",
+        "00:10:31.673000",
+        "And he gets to the intersection at Lemon Tree Passage Road."
+      ],
+      [
+        161,
+        "00:11:19.121000",
+        "00:11:21.623000",
+        "haunts Lemon Tree Passage Road."
+      ],
+      [
+        356,
+        "00:22:46.141000",
+        "00:22:48.009000",
+        "in the middle of Lemon Tree Passage Road."
+      ]
+    ],
+    "regex": "\\b((?!\\bLemon\\ Tree\\ Passage:)Lemon\\ Tree\\ Passage)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

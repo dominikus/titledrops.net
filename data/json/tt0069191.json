@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0069191",
+    "title": "Roma",
+    "year": 1972,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 930,
+    "occurrences": [
+      [
+        512,
+        "01:03:55.300000",
+        "01:03:59.300000",
+        "I been to Roma, Milano, Bergamo, Como."
+      ],
+      [
+        531,
+        "01:06:10.900000",
+        "01:06:14.300000",
+        "We discovered it during construction ofthe Piazza Re di Roma station."
+      ]
+    ],
+    "regex": "\\b((?!\\bRoma:)Roma)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0043873",
+    "title": "Has Anybody Seen My Gal",
+    "year": 1952,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1185,
+    "occurrences": [
+      [
+        62,
+        "00:06:32.320000",
+        "00:06:34.880000",
+        "- # Has anybody seen my gal? - Hi, Millie."
+      ],
+      [
+        65,
+        "00:06:40.760000",
+        "00:06:44.150000",
+        "# Has anybody seen my gal?"
+      ],
+      [
+        69,
+        "00:06:57.200000",
+        "00:07:00.351000",
+        "# Has anybody seen my gal?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHas\\ Anybody\\ Seen\\ My\\ Gal:)Has\\ Anybody\\ Seen\\ My\\ Gal)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

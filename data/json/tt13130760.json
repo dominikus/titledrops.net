@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt13130760",
+    "title": "Hit: The First Case",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 1,
+    "all_lines": 1850,
+    "occurrences": [
+      [
+        1788,
+        "02:03:45.833000",
+        "02:03:49.583000",
+        "After some days, Preeti's case was transferred in HIT."
+      ]
+    ],
+    "regex": "\\b((?!\\bHit:)Hit|(?!\\bFirst\\ Case:)First\\ Case)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

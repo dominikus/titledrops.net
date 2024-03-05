@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt5572720",
+    "title": "Insane",
+    "year": 2016,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 921,
+    "occurrences": [
+      [
+        79,
+        "00:08:21.083000",
+        "00:08:24.082000",
+        "I'm not sure anymore if I'm insane or not."
+      ],
+      [
+        311,
+        "00:28:17.208000",
+        "00:28:19.375000",
+        "Help me this once. I'm really not insane."
+      ],
+      [
+        348,
+        "00:31:01.542000",
+        "00:31:03.708000",
+        "I'm not insane. I'm not."
+      ],
+      [
+        906,
+        "01:25:46.292000",
+        "01:25:49.208000",
+        "I'm not insane. I'm not."
+      ]
+    ],
+    "regex": "\\b((?!\\bInsane:)Insane)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

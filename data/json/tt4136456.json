@@ -1,0 +1,34 @@
+[
+  {
+    "imdb": "tt4136456",
+    "title": "The Virtuoso",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1044,
+    "occurrences": [
+      [
+        46,
+        "00:03:54.735000",
+        "00:03:56.195000",
+        "A virtuoso."
+      ],
+      [
+        1036,
+        "01:43:20.737000",
+        "01:43:24.574000",
+        "Some might even say... a virtuoso."
+      ]
+    ],
+    "regex": "\\b((?!\\bVirtuoso:)Virtuoso)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [
+      "The Virtuoso"
+    ],
+    "title_is_name": true,
+    "rating": 5
+  }
+]

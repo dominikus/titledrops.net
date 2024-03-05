@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt8857368",
+    "title": "Gooseboy",
+    "year": 2019,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "count": 6,
+    "all_lines": 688,
+    "occurrences": [
+      [
+        22,
+        "00:03:01.250000",
+        "00:03:06.417000",
+        "- What are you doing? - Playing Gooseboy, a super cool game."
+      ],
+      [
+        43,
+        "00:04:41.375000",
+        "00:04:45.792000",
+        "Well.  See you tomorrow, Gooseboy."
+      ],
+      [
+        319,
+        "00:35:42.292000",
+        "00:35:48",
+        "- Has he had anything to do with geese? - He plays that Gooseboy."
+      ],
+      [
+        320,
+        "00:35:48.167000",
+        "00:35:53.833000",
+        "- Gooseboy? - You have goose mask on and play goose."
+      ],
+      [
+        323,
+        "00:36:08.292000",
+        "00:36:13.167000",
+        "So the boy plays the game Gooseboy, where he is a goose -"
+      ],
+      [
+        583,
+        "01:05:44.417000",
+        "01:05:50.333000",
+        "- Try to see. It's the Gooseboy Mountain. - Wild weather. That's my mountain."
+      ]
+    ],
+    "regex": "\\b((?!\\bGooseboy:)Gooseboy)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

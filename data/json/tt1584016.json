@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1584016",
+    "title": "Catfish",
+    "year": 2010,
+    "genres": [
+      "Documentary",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1155,
+    "occurrences": [
+      [
+        1147,
+        "01:22:23.518000",
+        "01:22:29.150000",
+        "put some catfish in with them, and the catfish will keep the cod agile."
+      ],
+      [
+        1148,
+        "01:22:36.798000",
+        "01:22:40.097000",
+        "And there are those people who are catfish in life,"
+      ],
+      [
+        1152,
+        "01:23:00.389000",
+        "01:23:05.224000",
+        "And l thank God for the catfish, because we'd be droll,"
+      ]
+    ],
+    "regex": "\\b((?!\\bCatfish:)Catfish)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

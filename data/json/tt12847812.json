@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt12847812",
+    "title": "Everything Went Fine",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1348,
+    "occurrences": [
+      [
+        1337,
+        "01:48:57.464000",
+        "01:49:00.046000",
+        "Yes. Everything went fine."
+      ],
+      [
+        1346,
+        "01:49:34.222000",
+        "01:49:36.786000",
+        "She said, \"Everything went fine.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bEverything\\ Went\\ Fine:)Everything\\ Went\\ Fine)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

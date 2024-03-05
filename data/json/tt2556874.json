@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2556874",
+    "title": "Plastic",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 4,
+    "all_lines": 1342,
+    "occurrences": [
+      [
+        73,
+        "00:05:41.083000",
+        "00:05:44.165000",
+        "Get a mop and a plastic bag. It's like Baghdad in there."
+      ],
+      [
+        335,
+        "00:22:00.250000",
+        "00:22:04.499000",
+        "It's a long list. We're gonna need nearly all the plastic we've got stockpiled."
+      ],
+      [
+        365,
+        "00:25:00.416000",
+        "00:25:04.832000",
+        "If you can't convert plastic to cash, I can take merchandise off your hands."
+      ],
+      [
+        780,
+        "00:50:37.791000",
+        "00:50:39.957000",
+        "So let the plastic take the hit."
+      ]
+    ],
+    "regex": "\\b((?!\\bPlastic:)Plastic)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0108394",
+    "title": "Three Colors: Blue",
+    "year": 1993,
+    "genres": [
+      "Drama",
+      "Music",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 585,
+    "occurrences": [
+      [
+        1,
+        "00:01:11.655000",
+        "00:01:13.906000",
+        "THREE COLORS BLUE"
+      ],
+      [
+        64,
+        "00:14:05.595000",
+        "00:14:08.430000",
+        "You emptied out the blue room? - Entirely."
+      ]
+    ],
+    "regex": "\\b((?!\\bThree\\ Colors:)Three\\ Colors|(?!\\bBlue:)Blue)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

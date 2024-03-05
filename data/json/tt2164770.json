@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2164770",
+    "title": "Jake Shimabukuro: Life on Four Strings",
+    "year": 2012,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 663,
+    "occurrences": [
+      [
+        272,
+        "00:18:51.264000",
+        "00:18:53.466000",
+        "MAN: Jake Shimabukuro!"
+      ],
+      [
+        278,
+        "00:19:12.719000",
+        "00:19:15.355000",
+        "We have Jake Shimabukuro."
+      ],
+      [
+        500,
+        "00:37:03.722000",
+        "00:37:04.556000",
+        "Jake Shimabukuro."
+      ],
+      [
+        657,
+        "00:51:52.210000",
+        "00:51:57.615000",
+        "I'm Jake Shimabukuro, and this is my ukulele, Belle."
+      ]
+    ],
+    "regex": "\\b((?!\\bJake\\ Shimabukuro:)Jake\\ Shimabukuro|(?!\\bLife\\ on\\ Four\\ Strings:)Life\\ on\\ Four\\ Strings)(?!\\:)(?!'t)\\b",
+    "runtime": 54,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

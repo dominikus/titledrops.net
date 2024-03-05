@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt8747548",
+    "title": "Axone",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 881,
+    "occurrences": [
+      [
+        2,
+        "00:03:29.708000",
+        "00:03:31.541000",
+        "- Anything else? - Axone."
+      ],
+      [
+        312,
+        "00:31:10.625000",
+        "00:31:12.425000",
+        "- Why did you invite him? - Where's the axone?"
+      ],
+      [
+        509,
+        "00:52:38.583000",
+        "00:52:40.833000",
+        "You're the one who said that the axone is not important."
+      ],
+      [
+        538,
+        "00:58:53.416000",
+        "00:58:54.666000",
+        "So, what about axone?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAxone:)Axone)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

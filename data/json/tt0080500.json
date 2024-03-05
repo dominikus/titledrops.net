@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0080500",
+    "title": "Carny",
+    "year": 1980,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1865,
+    "occurrences": [
+      [
+        402,
+        "00:21:22.767000",
+        "00:21:24.667000",
+        "Easy there, carny."
+      ],
+      [
+        403,
+        "00:21:24.733000",
+        "00:21:27.600000",
+        "Oh, easy, carny. Easy."
+      ],
+      [
+        843,
+        "00:43:01.667000",
+        "00:43:07.233000",
+        "and I hope you'll come visit me in carny land."
+      ],
+      [
+        902,
+        "00:48:04.967000",
+        "00:48:08.233000",
+        "My old man was a carny."
+      ]
+    ],
+    "regex": "\\b((?!\\bCarny:)Carny)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

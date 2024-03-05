@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0197675",
+    "title": "Mean Mother",
+    "year": 1973,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1035,
+    "occurrences": [
+      [
+        61,
+        "00:06:54.962000",
+        "00:06:59.508000",
+        "(Music playing) You're a mean mother"
+      ],
+      [
+        62,
+        "00:06:59.800000",
+        "00:07:04.096000",
+        "(Music playing) You're a mean mother"
+      ],
+      [
+        68,
+        "00:07:32.291000",
+        "00:07:35.336000",
+        "(Music playing) You're a mean mother"
+      ],
+      [
+        72,
+        "00:08:08.744000",
+        "00:08:11.163000",
+        "(Music playing) Mean mother"
+      ]
+    ],
+    "regex": "\\b((?!\\bMean\\ Mother:)Mean\\ Mother)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

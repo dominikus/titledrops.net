@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0207198",
+    "title": "What to Do in Case of Fire",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1009,
+    "occurrences": [
+      [
+        54,
+        "00:05:28.870000",
+        "00:05:30.788000",
+        "What to do in case of fire?"
+      ],
+      [
+        1000,
+        "01:35:02.321000",
+        "01:35:04.865000",
+        "- What to do in case of fire? - Let it burn!"
+      ]
+    ],
+    "regex": "\\b((?!\\bWhat\\ to\\ Do\\ in\\ Case\\ of\\ Fire:)What\\ to\\ Do\\ in\\ Case\\ of\\ Fire)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

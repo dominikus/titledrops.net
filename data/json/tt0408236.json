@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0408236",
+    "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Musical"
+    ],
+    "count": 3,
+    "all_lines": 616,
+    "occurrences": [
+      [
+        169,
+        "00:16:06.935000",
+        "00:16:10.314000",
+        "It's Todd now. Sweeney Todd..."
+      ],
+      [
+        328,
+        "00:33:34.895000",
+        "00:33:37.769000",
+        "I am Mr. Sweeney Todd of Fleet Street."
+      ],
+      [
+        376,
+        "00:38:34.463000",
+        "00:38:38.806000",
+        "Sweeney Todd's Tonsorial Parlor - above my meat pie emporium in Fleet Street."
+      ]
+    ],
+    "regex": "\\b((?!\\bSweeney\\ Todd:)Sweeney\\ Todd|(?!\\bDemon\\ Barber\\ of\\ Fleet\\ Street:)Demon\\ Barber\\ of\\ Fleet\\ Street)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

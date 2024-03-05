@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0110719",
+    "title": "Window to Paris",
+    "year": 1993,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 878,
+    "occurrences": [
+      [
+        797,
+        "01:35:14.327000",
+        "01:35:17.160000",
+        "\"a window to Paris\"?"
+      ],
+      [
+        798,
+        "01:35:17.927000",
+        "01:35:21.044000",
+        "\"A window to Paris\"? Let's see..."
+      ]
+    ],
+    "regex": "\\b((?!\\bWindow\\ to\\ Paris:)Window\\ to\\ Paris)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

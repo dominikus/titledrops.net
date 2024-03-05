@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1934458",
+    "title": "Under the Bed",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1168,
+    "occurrences": [
+      [
+        668,
+        "00:50:19.229000",
+        "00:50:21.731000",
+        "so she could see what was under the bed."
+      ],
+      [
+        752,
+        "00:56:37.107000",
+        "00:56:39.692000",
+        "So I started taking pictures under the bed,"
+      ]
+    ],
+    "regex": "\\b((?!\\bUnder\\ the\\ Bed:)Under\\ the\\ Bed)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

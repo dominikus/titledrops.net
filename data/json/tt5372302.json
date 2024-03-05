@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt5372302",
+    "title": "Ghastlies",
+    "year": 2016,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 883,
+    "occurrences": [
+      [
+        855,
+        "01:13:39.649000",
+        "01:13:43.820000",
+        "* Anyway they're here to stay, they're Ghastlies"
+      ],
+      [
+        874,
+        "01:14:57.426000",
+        "01:15:01.898000",
+        "* Anyway they're here to stay, they're Ghastlies"
+      ],
+      [
+        883,
+        "01:15:33.797000",
+        "01:15:37.967000",
+        "* Anyway they're here to stay, they're Ghastlies"
+      ]
+    ],
+    "regex": "\\b((?!\\bGhastlies:)Ghastlies)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.3
+  }
+]

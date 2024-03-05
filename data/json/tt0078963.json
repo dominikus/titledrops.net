@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0078963",
+    "title": "Seeking Asylum",
+    "year": 1979,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1348,
+    "occurrences": [
+      [
+        877,
+        "01:09:06.160000",
+        "01:09:08.680000",
+        "Basically, he's seeking asylum."
+      ],
+      [
+        912,
+        "01:11:02.160000",
+        "01:11:04.400000",
+        "Basically, he's seeking asylum. Understand?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSeeking\\ Asylum:)Seeking\\ Asylum)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

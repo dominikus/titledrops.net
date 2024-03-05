@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0839773",
+    "title": "Daisy Diamond",
+    "year": 2007,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 706,
+    "occurrences": [
+      [
+        522,
+        "01:08:28.120000",
+        "01:08:30.554000",
+        "I want to be called Daisy Diamond."
+      ],
+      [
+        523,
+        "01:08:45.680000",
+        "01:08:51.312000",
+        "Daisy Diamond. \"Born to please\"."
+      ],
+      [
+        529,
+        "01:09:21.560000",
+        "01:09:25.348000",
+        "Daisy Diamond."
+      ],
+      [
+        629,
+        "01:21:57.320000",
+        "01:22:00.915000",
+        "You're not Daisy Diamond anymore."
+      ]
+    ],
+    "regex": "\\b((?!\\bDaisy\\ Diamond:)Daisy\\ Diamond)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

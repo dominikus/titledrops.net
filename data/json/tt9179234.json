@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt9179234",
+    "title": "Vrithra",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1184,
+    "occurrences": [
+      [
+        800,
+        "01:12:57.083000",
+        "01:12:59.958000",
+        "Its not a dragon, Mom. This is Vrithra, a demon."
+      ],
+      [
+        804,
+        "01:13:11.541000",
+        "01:13:14.625000",
+        "There is only drought and famine wherever Vrithra goes."
+      ],
+      [
+        1103,
+        "01:38:58.916000",
+        "01:39:01.916000",
+        "Its not a dragon, Ma. It's a demon called Vrithra"
+      ]
+    ],
+    "regex": "\\b((?!\\bVrithra:)Vrithra)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

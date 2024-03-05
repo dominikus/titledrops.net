@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0086112",
+    "title": "The Pirates of Penzance",
+    "year": 1983,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1566,
+    "occurrences": [
+      [
+        612,
+        "00:45:23.220000",
+        "00:45:25.313000",
+        "The famous Pirates of Penzance."
+      ],
+      [
+        614,
+        "00:45:27.357000",
+        "00:45:32.420000",
+        "The Pirates of Penzance! Yes, I've often heard of them."
+      ]
+    ],
+    "regex": "\\b((?!\\bPirates\\ of\\ Penzance:)Pirates\\ of\\ Penzance)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt15655826",
+    "title": "Elephant",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 510,
+    "occurrences": [
+      [
+        283,
+        "00:47:45.500000",
+        "00:47:46.999000",
+        "I don't know, an elephant"
+      ],
+      [
+        284,
+        "00:47:48.667000",
+        "00:47:50.374000",
+        "- An elephant? -Yes."
+      ],
+      [
+        286,
+        "00:47:53.917000",
+        "00:47:55.582000",
+        "I'll never be an elephant"
+      ],
+      [
+        289,
+        "00:48:09.375000",
+        "00:48:13.207000",
+        "Why is she calling you an elephant?"
+      ]
+    ],
+    "regex": "\\b((?!\\bElephant:)Elephant)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt16433236",
+    "title": "The Sound of 007",
+    "year": 2022,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 1357,
+    "occurrences": [
+      [
+        526,
+        "00:33:33.887000",
+        "00:33:36.724000",
+        "John Barry created the sound of James Bond."
+      ],
+      [
+        682,
+        "00:42:35.095000",
+        "00:42:39.432000",
+        "When Marvin Hamlisch does it, it brings the sound of disco and Studio 54"
+      ],
+      [
+        1019,
+        "01:04:46.425000",
+        "01:04:49.928000",
+        "He always would be the man who created the sound of Bond."
+      ]
+    ],
+    "regex": "\\b((?!\\bSound\\ of:)Sound\\ of)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

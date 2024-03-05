@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0101463",
+    "title": "Black Cat",
+    "year": 1991,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 454,
+    "occurrences": [
+      [
+        14,
+        "00:23:45.258000",
+        "00:23:49.178000",
+        "We have implanted a microchip known as the 'Black Cat' into your brain."
+      ],
+      [
+        17,
+        "00:23:54.225000",
+        "00:23:55.893000",
+        "Your codename shall be 'Black Cat'."
+      ],
+      [
+        37,
+        "00:35:42.182000",
+        "00:35:44.434000",
+        "Black Cat, prepare to accept your mission."
+      ],
+      [
+        328,
+        "01:22:50.633000",
+        "01:22:52.510000",
+        "Black Cat, prepare for your mission."
+      ],
+      [
+        356,
+        "01:26:31.228000",
+        "01:26:33.063000",
+        "Black Cat, the plans have changed."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Cat:)Black\\ Cat)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

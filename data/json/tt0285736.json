@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0285736",
+    "title": "Milky Way",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 756,
+    "occurrences": [
+      [
+        545,
+        "00:58:27.070000",
+        "00:58:30.665000",
+        "The Milky Way."
+      ],
+      [
+        554,
+        "00:59:15.051000",
+        "00:59:23.720000",
+        "There, under the Milky Way, is New Zealand. You know?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMilky\\ Way:)Milky\\ Way)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

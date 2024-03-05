@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1966566",
+    "title": "Stalingrad",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 972,
+    "occurrences": [
+      [
+        56,
+        "00:07:00.750000",
+        "00:07:03.192000",
+        "This happened in Stalingrad."
+      ],
+      [
+        413,
+        "00:49:56.785000",
+        "00:50:00.692000",
+        "to which it belonged, the known throughout Stalingrad, Palace of Culture."
+      ],
+      [
+        637,
+        "01:11:22.286000",
+        "01:11:25.166000",
+        "In Stalingrad they throw and on damaged tanks!"
+      ],
+      [
+        953,
+        "01:56:57.971000",
+        "01:57:00.292000",
+        "This happened in Stalingrad..."
+      ]
+    ],
+    "regex": "\\b((?!\\bStalingrad:)Stalingrad)(?!\\:)(?!'t)\\b",
+    "runtime": 131,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

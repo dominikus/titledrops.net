@@ -1,0 +1,59 @@
+[
+  {
+    "imdb": "tt0062898",
+    "title": "Doctor Faustus",
+    "year": 1967,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 902,
+    "occurrences": [
+      [
+        460,
+        "00:51:13.170000",
+        "00:51:15.195000",
+        "Let Doctor Faustus appear."
+      ],
+      [
+        461,
+        "00:51:19.943000",
+        "00:51:21.808000",
+        "Master Doctor Faustus..."
+      ],
+      [
+        470,
+        "00:52:16.600000",
+        "00:52:19.535000",
+        "Then, Doctor Faustus, mark what I shall say."
+      ],
+      [
+        614,
+        "01:06:53.809000",
+        "01:06:57.040000",
+        "Master Doctor Faustus, wake up and listen."
+      ],
+      [
+        655,
+        "01:09:30.533000",
+        "01:09:32.330000",
+        "Master Doctor Faustus..."
+      ],
+      [
+        683,
+        "01:12:41.924000",
+        "01:12:43.551000",
+        "Doctor Faustus..."
+      ]
+    ],
+    "regex": "\\b((?!\\bDoctor\\ Faustus:)Doctor\\ Faustus)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [
+      "Doctor Faustus"
+    ],
+    "title_is_name": true,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0060424",
+    "title": "The Fortune Cookie",
+    "year": 1966,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1584,
+    "occurrences": [
+      [
+        610,
+        "00:44:22.360000",
+        "00:44:24.828000",
+        "Don't you even want the fortune cookie? Come on."
+      ],
+      [
+        611,
+        "00:44:24.960000",
+        "00:44:27.713000",
+        "You've got to open your fortune cookie."
+      ]
+    ],
+    "regex": "\\b((?!\\bFortune\\ Cookie:)Fortune\\ Cookie)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

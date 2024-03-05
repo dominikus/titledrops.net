@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0085764",
+    "title": "Joysticks",
+    "year": 1983,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1970,
+    "occurrences": [
+      [
+        1277,
+        "00:56:37.031000",
+        "00:56:39.866000",
+        "- Kids play with their joysticks day in and day out."
+      ],
+      [
+        1282,
+        "00:56:46.081000",
+        "00:56:49.168000",
+        "Their joysticks are a hotbed of germs!"
+      ]
+    ],
+    "regex": "\\b((?!\\bJoysticks:)Joysticks)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

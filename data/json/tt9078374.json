@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt9078374",
+    "title": "Last Letter",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1426,
+    "occurrences": [
+      [
+        23,
+        "00:06:11.590000",
+        "00:06:13.300000",
+        "Mom's last letter?"
+      ],
+      [
+        1398,
+        "01:45:32.880000",
+        "01:45:34.380000",
+        "It's mom's last letter"
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Letter:)Last\\ Letter)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0118804",
+    "title": "The Butcher Boy",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1631,
+    "occurrences": [
+      [
+        226,
+        "00:15:20.719000",
+        "00:15:23.942000",
+        "Well, if I heard that \"Butcher Boy\" once, I heard it a hundred times."
+      ],
+      [
+        995,
+        "01:00:28.681000",
+        "01:00:30.715000",
+        "Francie Brady, the butcher boy."
+      ],
+      [
+        1606,
+        "01:39:38.797000",
+        "01:39:43.287000",
+        "So there it is, Francie Brady, butcher boy, the end."
+      ]
+    ],
+    "regex": "\\b((?!\\bButcher\\ Boy:)Butcher\\ Boy)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

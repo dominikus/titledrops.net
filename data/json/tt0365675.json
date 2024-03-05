@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0365675",
+    "title": "The Red Baron",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Biography"
+    ],
+    "count": 2,
+    "all_lines": 1050,
+    "occurrences": [
+      [
+        385,
+        "00:38:40.628000",
+        "00:38:42.384000",
+        "or \"The Red Baron\""
+      ],
+      [
+        505,
+        "00:56:13.409000",
+        "00:56:15.438000",
+        "Notorious Red Baron, I presume?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRed\\ Baron:)Red\\ Baron)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

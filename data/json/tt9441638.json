@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt9441638",
+    "title": "The Big Ugly",
+    "year": 2020,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1391,
+    "occurrences": [
+      [
+        384,
+        "00:23:16.838000",
+        "00:23:17.940000",
+        "past the Big Ugly."
+      ],
+      [
+        385,
+        "00:23:18.474000",
+        "00:23:19.541000",
+        "The Big Ugly?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBig\\ Ugly:)Big\\ Ugly)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

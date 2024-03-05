@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0068230",
+    "title": "Asylum",
+    "year": 1972,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1111,
+    "occurrences": [
+      [
+        39,
+        "00:04:06.219000",
+        "00:04:07.191000",
+        "an asylum"
+      ],
+      [
+        276,
+        "00:29:29.668000",
+        "00:29:30.935000",
+        "How did she come to the asylum?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAsylum:)Asylum)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

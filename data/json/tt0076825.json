@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0076825",
+    "title": "Tintorera: Killer Shark",
+    "year": 1977,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 259,
+    "occurrences": [
+      [
+        44,
+        "00:12:55.455000",
+        "00:12:57.787000",
+        "The one that bit you, Blondie. Tintorera."
+      ],
+      [
+        45,
+        "00:12:57.857000",
+        "00:12:59.290000",
+        "-What do you say the name was? -Tintorera."
+      ]
+    ],
+    "regex": "\\b((?!\\bTintorera:)Tintorera|(?!\\bKiller\\ Shark:)Killer\\ Shark)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

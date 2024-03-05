@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt9448932",
+    "title": "Love Sarah",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1663,
+    "occurrences": [
+      [
+        613,
+        "00:37:03.443000",
+        "00:37:04.980000",
+        "Love Sarah."
+      ],
+      [
+        656,
+        "00:39:54.949000",
+        "00:39:57.719000",
+        "Hi, welcome to Love Sarah's."
+      ],
+      [
+        682,
+        "00:41:08.021000",
+        "00:41:10.657000",
+        "Yes, it's Isabella. I'm calling from Love Sarah."
+      ]
+    ],
+    "regex": "\\b((?!\\bLove\\ Sarah:)Love\\ Sarah)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

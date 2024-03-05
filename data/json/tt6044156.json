@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt6044156",
+    "title": "The Crescent",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 967,
+    "occurrences": [
+      [
+        473,
+        "00:45:16.247000",
+        "00:45:17.947000",
+        "Are you living in the Crescent House now?"
+      ],
+      [
+        475,
+        "00:45:25.422000",
+        "00:45:28.173000",
+        "Why do you call it the Crescent House?"
+      ],
+      [
+        476,
+        "00:45:28.175000",
+        "00:45:28.924000",
+        "That's the Crescent, way out there."
+      ]
+    ],
+    "regex": "\\b((?!\\bCrescent:)Crescent)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

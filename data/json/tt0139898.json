@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0139898",
+    "title": "The Boys",
+    "year": 1998,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1213,
+    "occurrences": [
+      [
+        481,
+        "00:30:30.250000",
+        "00:30:33.750000",
+        "Hello. Are you the mother of those boys that went to gaol?"
+      ],
+      [
+        509,
+        "00:32:58.875000",
+        "00:33:00.375000",
+        "Oh... what are the boys doing?"
+      ],
+      [
+        681,
+        "00:42:51.167000",
+        "00:42:53.592000",
+        "There are worse things in this world, Michelle, than my boys."
+      ],
+      [
+        956,
+        "00:57:59.125000",
+        "00:58:01",
+        "three boys, two different fathers."
+      ]
+    ],
+    "regex": "\\b((?!\\bBoys:)Boys)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

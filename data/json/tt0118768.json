@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0118768",
+    "title": "The Brave",
+    "year": 1997,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 783,
+    "occurrences": [
+      [
+        746,
+        "01:38:46.214000",
+        "01:38:48.011000",
+        "You were very brave."
+      ],
+      [
+        747,
+        "01:38:48.734000",
+        "01:38:52.204000",
+        "Very brave. I'm proud of you."
+      ]
+    ],
+    "regex": "\\b((?!\\bBrave:)Brave)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "imdb": "tt0032321",
+    "title": "Chad Hanna",
+    "year": 1940,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1187,
+    "occurrences": [
+      [
+        40,
+        "00:04:51.905000",
+        "00:04:53.232000",
+        "Hanna... Chad Hanna."
+      ],
+      [
+        125,
+        "00:10:32.934000",
+        "00:10:34.482000",
+        "My name is Hanna... Chad Hanna..."
+      ],
+      [
+        691,
+        "00:50:55.689000",
+        "00:50:57.808000",
+        "Mr and Mrs Chad Hanna!"
+      ]
+    ],
+    "regex": "\\b((?!\\bChad\\ Hanna:)Chad\\ Hanna)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [
+      "Chad Hanna"
+    ],
+    "title_is_name": true,
+    "rating": 6.2
+  }
+]

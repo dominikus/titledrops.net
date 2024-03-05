@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt10151054",
+    "title": "The Quarry",
+    "year": 2020,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 973,
+    "occurrences": [
+      [
+        210,
+        "00:27:22.893000",
+        "00:27:24.269000",
+        " At the quarry."
+      ],
+      [
+        220,
+        "00:28:35.883000",
+        "00:28:37.624000",
+        "I don't like going to the quarry."
+      ],
+      [
+        424,
+        "00:49:06.588000",
+        "00:49:08.657000",
+        "Why were you at the quarry?"
+      ],
+      [
+        572,
+        "01:01:19.689000",
+        "01:01:21.323000",
+        "In the quarry?"
+      ],
+      [
+        583,
+        "01:02:01.471000",
+        "01:02:03.348000",
+        "and ask him about the quarry."
+      ],
+      [
+        616,
+        "01:06:01.336000",
+        "01:06:05.674000",
+        "I guess you heard what we found out at the quarry."
+      ],
+      [
+        911,
+        "01:34:11.593000",
+        "01:34:14.263000",
+        "the body at the quarry, you were right."
+      ]
+    ],
+    "regex": "\\b((?!\\bQuarry:)Quarry)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

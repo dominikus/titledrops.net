@@ -1,0 +1,46 @@
+[
+  {
+    "imdb": "tt6522982",
+    "title": "Molly",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "count": 7,
+    "all_lines": 820,
+    "occurrences": [
+      [
+        305,
+        "00:34:44.473000",
+        "00:34:45.473000",
+        "- I'm Molly."
+      ],
+      [
+        538,
+        "00:54:28.787000",
+        "00:54:29.787000",
+        "- Molly!"
+      ],
+      [
+        543,
+        "00:54:47.371000",
+        "00:54:49.024000",
+        "-  Molly!"
+      ],
+      [
+        546,
+        "00:55:07.956000",
+        "00:55:10.219000",
+        "Molly, Molly, Molly, Molly!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMolly:)Molly)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [
+      "Molly"
+    ],
+    "title_is_name": true,
+    "rating": 4.2
+  }
+]

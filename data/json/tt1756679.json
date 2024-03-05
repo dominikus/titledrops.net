@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1756679",
+    "title": "Perfect Wedding",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1740,
+    "occurrences": [
+      [
+        406,
+        "00:20:14.246000",
+        "00:20:17.246000",
+        "l spent all my effort to organize the most perfect wedding for us."
+      ],
+      [
+        1089,
+        "00:56:39.596000",
+        "00:56:41.096000",
+        "This is the ''Perfect Wedding'' ring..."
+      ],
+      [
+        1097,
+        "00:56:55.445000",
+        "00:56:58.147000",
+        "This ''Perfect Wedding'' ring is very meaningful."
+      ],
+      [
+        1555,
+        "01:21:14.369000",
+        "01:21:17.369000",
+        "...is the ring that l designed, the ''Perfect Wedding''."
+      ]
+    ],
+    "regex": "\\b((?!\\bPerfect\\ Wedding:)Perfect\\ Wedding)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

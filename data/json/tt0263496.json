@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0263496",
+    "title": "Pretty Things",
+    "year": 2001,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1112,
+    "occurrences": [
+      [
+        983,
+        "01:23:41.260000",
+        "01:23:44.100000",
+        "There you don't need pretty things"
+      ],
+      [
+        999,
+        "01:24:43.660000",
+        "01:24:46.590000",
+        "They know pretty things don't last"
+      ],
+      [
+        1001,
+        "01:24:49.860000",
+        "01:24:54.860000",
+        "But pretty things mean so much"
+      ],
+      [
+        1007,
+        "01:25:46.520000",
+        "01:25:52.190000",
+        "Their pretty things, that's who we were"
+      ]
+    ],
+    "regex": "\\b((?!\\bPretty\\ Things:)Pretty\\ Things)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

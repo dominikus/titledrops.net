@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt11138512",
+    "title": "The Northman",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 853,
+    "occurrences": [
+      [
+        231,
+        "00:38:00.745000",
+        "00:38:05.300000",
+        "Your sheeps' clothing does not disguise you, Northman."
+      ],
+      [
+        853,
+        "02:09:21.691000",
+        "02:09:29.218000",
+        "{ The Northman }"
+      ]
+    ],
+    "regex": "\\b((?!\\bNorthman:)Northman)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

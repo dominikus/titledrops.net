@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0424095",
+    "title": "Flushed Away",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 3,
+    "all_lines": 1112,
+    "occurrences": [
+      [
+        708,
+        "00:49:33.582000",
+        "00:49:37.916000",
+        "I know, I know. You were flushed away down the loo, right?"
+      ],
+      [
+        956,
+        "01:05:46.250000",
+        "01:05:49.617000",
+        "When everyone goes to the toilet, the city will be flushed away!"
+      ],
+      [
+        1023,
+        "01:09:49.827000",
+        "01:09:54.059000",
+        "when every last revolting rat is flushed away!"
+      ]
+    ],
+    "regex": "\\b((?!\\bFlushed\\ Away:)Flushed\\ Away)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0451829",
+    "title": "Funky Forest: The First Contact",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 1691,
+    "occurrences": [
+      [
+        97,
+        "00:04:50.682000",
+        "00:05:00.353000",
+        "FUNKY FOREST - THE FIRST CONTACT"
+      ],
+      [
+        726,
+        "01:10:19.073000",
+        "01:10:21.837000",
+        "Funky Forest!"
+      ],
+      [
+        730,
+        "01:13:25.026000",
+        "01:13:27.586000",
+        "Funky Forest!"
+      ]
+    ],
+    "regex": "\\b((?!\\bFunky\\ Forest:)Funky\\ Forest|(?!\\bFirst\\ Contact:)First\\ Contact)(?!\\:)(?!'t)\\b",
+    "runtime": 150,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt13074150",
+    "title": "The Execution",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1602,
+    "occurrences": [
+      [
+        360,
+        "00:28:21.083000",
+        "00:28:24.457000",
+        "- Ever heard of the Etruscan execution? - No."
+      ],
+      [
+        1363,
+        "01:47:32.083000",
+        "01:47:38.082000",
+        "CHAPTER VII EXECUTION"
+      ],
+      [
+        1433,
+        "01:53:12.083000",
+        "01:53:14.166000",
+        "The Etruscan execution."
+      ],
+      [
+        1434,
+        "01:53:16.583000",
+        "01:53:18.624000",
+        "They had this poetic execution."
+      ]
+    ],
+    "regex": "\\b((?!\\bExecution:)Execution)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

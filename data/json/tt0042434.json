@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0042434",
+    "title": "In the Palm of Your Hand",
+    "year": 1951,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1257,
+    "occurrences": [
+      [
+        427,
+        "00:31:35.865000",
+        "00:31:38.561000",
+        "May I look in the palm of your hand?"
+      ],
+      [
+        537,
+        "00:40:22.422000",
+        "00:40:25.473000",
+        "and today I forgot to tell you something I read in the palm of your hand."
+      ],
+      [
+        579,
+        "00:43:23.700000",
+        "00:43:28.339000",
+        "A lot of money, soon, here! In the palm of your hand!"
+      ]
+    ],
+    "regex": "\\b((?!\\bIn\\ the\\ Palm\\ of\\ Your\\ Hand:)In\\ the\\ Palm\\ of\\ Your\\ Hand)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

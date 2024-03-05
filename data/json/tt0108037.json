@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0108037",
+    "title": "The Sandlot",
+    "year": 1993,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 742,
+    "occurrences": [
+      [
+        57,
+        "00:05:24.223000",
+        "00:05:27.519000",
+        "I'd followed them to the sandlot once after school."
+      ],
+      [
+        231,
+        "00:16:09.017000",
+        "00:16:12.313000",
+        "Now we've got a whole team. We're wasting time. Let's go to the sandlot."
+      ],
+      [
+        525,
+        "00:34:05.079000",
+        "00:34:07.666000",
+        "- We gotta get to the sandlot. Let's go. - # Did she really love me #"
+      ]
+    ],
+    "regex": "\\b((?!\\bSandlot:)Sandlot)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

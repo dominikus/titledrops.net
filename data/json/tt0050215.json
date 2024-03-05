@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0050215",
+    "title": "The Buckskin Lady",
+    "year": 1957,
+    "genres": [
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 902,
+    "occurrences": [
+      [
+        501,
+        "00:34:31.950000",
+        "00:34:38.550000",
+        "-(SINGING) The buckskin lady is always longing to see"
+      ],
+      [
+        539,
+        "00:36:54.760000",
+        "00:36:57.690000",
+        "The buckskin lady?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBuckskin\\ Lady:)Buckskin\\ Lady)(?!\\:)(?!'t)\\b",
+    "runtime": 66,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0097938",
+    "title": "My Mom's a Werewolf",
+    "year": 1989,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1271,
+    "occurrences": [
+      [
+        781,
+        "00:55:47.427000",
+        "00:55:50.055000",
+        "- Help me, my mom's a werewolf."
+      ],
+      [
+        881,
+        "01:01:33.147000",
+        "01:01:35.483000",
+        "- My mom's a werewolf. - Get out of here!"
+      ],
+      [
+        886,
+        "01:02:10.518000",
+        "01:02:13.271000",
+        "My mom's a werewolf. - Call the zoo."
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Mom's\\ a\\ Werewolf:)My\\ Mom's\\ a\\ Werewolf)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

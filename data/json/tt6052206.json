@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt6052206",
+    "title": "Professor Mack",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1805,
+    "occurrences": [
+      [
+        632,
+        "00:29:12.878000",
+        "00:29:16.256000",
+        "- Oh, come on now, Professor Mack. - Okay, okay."
+      ],
+      [
+        812,
+        "00:37:35.255000",
+        "00:37:37.883000",
+        "Miss, Doctor, Professor Mack."
+      ],
+      [
+        1191,
+        "00:54:41.949000",
+        "00:54:44.743000",
+        "Oh. Professor Mack. Come on in."
+      ],
+      [
+        1200,
+        "00:55:02.719000",
+        "00:55:05.472000",
+        "I don't know, Professor Mack. You seem like the real MVP to me."
+      ],
+      [
+        1285,
+        "00:58:40.979000",
+        "00:58:42.856000",
+        "I don't know, Professor Mack."
+      ]
+    ],
+    "regex": "\\b((?!\\bProfessor\\ Mack:)Professor\\ Mack)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

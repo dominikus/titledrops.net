@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt5606132",
+    "title": "IDI: Inspector Dawood Ibrahim",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 866,
+    "occurrences": [
+      [
+        795,
+        "01:45:05.534000",
+        "01:45:10.677000",
+        "Dawood Ibrahim, Inspector Dawood Ibrahim"
+      ],
+      [
+        801,
+        "01:45:40.267000",
+        "01:45:43.612000",
+        "This is Kerala Police and I am inspector Dawood Ibrahim"
+      ],
+      [
+        854,
+        "02:03:02.467000",
+        "02:03:07.473000",
+        "This is the Kerala Police and I'm Inspector Dawood Ibrahim"
+      ],
+      [
+        866,
+        "02:05:31.634000",
+        "02:05:36.447000",
+        "I am Inspector Dawood Ibrahim"
+      ]
+    ],
+    "regex": "\\b((?!\\bIDI:)IDI|(?!\\bInspector\\ Dawood\\ Ibrahim:)Inspector\\ Dawood\\ Ibrahim)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

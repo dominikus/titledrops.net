@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0035575",
+    "title": "Yankee Doodle Dandy",
+    "year": 1942,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 655,
+    "occurrences": [
+      [
+        75,
+        "00:05:57.800000",
+        "00:06:00.800000",
+        "A regular Yankee Doodle Dandy. Always carrying a flag in a parade."
+      ],
+      [
+        591,
+        "00:44:44.300000",
+        "00:44:47.200000",
+        "- Yankee Doodle Candy. - Dandy. \"Yankee Doodle Dandy.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bYankee\\ Doodle\\ Dandy:)Yankee\\ Doodle\\ Dandy)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4088268",
+    "title": "Department Q: A Conspiracy of Faith",
+    "year": 2016,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 815,
+    "occurrences": [
+      [
+        12,
+        "00:03:38.592000",
+        "00:03:40.840000",
+        "I have a new case for Department Q."
+      ],
+      [
+        237,
+        "00:29:11.968000",
+        "00:29:13.800000",
+        "Department Q, this is Rose."
+      ]
+    ],
+    "regex": "\\b((?!\\bDepartment\\ Q:)Department\\ Q|(?!\\bConspiracy\\ of\\ Faith:)Conspiracy\\ of\\ Faith)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

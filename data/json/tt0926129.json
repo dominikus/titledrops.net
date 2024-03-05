@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0926129",
+    "title": "Prom Night",
+    "year": 2008,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1227,
+    "occurrences": [
+      [
+        110,
+        "00:08:09.073000",
+        "00:08:12.201000",
+        "It's prom night. That boy's planning on getting laid."
+      ],
+      [
+        464,
+        "00:26:36.095000",
+        "00:26:39.056000",
+        "Don't let a stupid argument ruin your prom night, okay?"
+      ]
+    ],
+    "regex": "\\b((?!\\bProm\\ Night:)Prom\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

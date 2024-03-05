@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1756799",
+    "title": "The Day",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 595,
+    "occurrences": [
+      [
+        21,
+        "00:04:29.060000",
+        "00:04:33.761000",
+        "for averaging 20 miles a day.. 20 miles? You think we could do 20 miles a day?"
+      ],
+      [
+        313,
+        "00:44:43.615000",
+        "00:44:47.208000",
+        "There's nothing around here for miles. They track us less than a day. You're already dead."
+      ],
+      [
+        435,
+        "00:57:50.417000",
+        "00:57:53.976000",
+        "Look to this day. Yesterday has been a dream."
+      ],
+      [
+        444,
+        "00:58:36.809000",
+        "00:58:39.302000",
+        "And one day you will lead."
+      ],
+      [
+        446,
+        "00:58:41.874000",
+        "00:58:44.834000",
+        "Your brother is gonna be very strong one day."
+      ]
+    ],
+    "regex": "\\b((?!\\bDay:)Day)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

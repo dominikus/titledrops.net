@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt8550054",
+    "title": "Pleasure",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1244,
+    "occurrences": [
+      [
+        16,
+        "00:02:08.266000",
+        "00:02:10.237000",
+        "You here for business or pleasure?"
+      ],
+      [
+        17,
+        "00:02:10.435000",
+        "00:02:12.302000",
+        "Pleasure."
+      ]
+    ],
+    "regex": "\\b((?!\\bPleasure:)Pleasure)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

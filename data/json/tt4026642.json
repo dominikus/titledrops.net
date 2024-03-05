@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4026642",
+    "title": "Home Care",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 529,
+    "occurrences": [
+      [
+        102,
+        "00:15:19.680000",
+        "00:15:21.489000",
+        "For home care."
+      ],
+      [
+        350,
+        "00:52:27.760000",
+        "00:52:32.322000",
+        "- There's no money for home care anyway. - So I'll pay for the bus myself."
+      ]
+    ],
+    "regex": "\\b((?!\\bHome\\ Care:)Home\\ Care)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

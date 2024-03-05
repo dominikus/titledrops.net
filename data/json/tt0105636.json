@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0105636",
+    "title": "Trespass",
+    "year": 1992,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1169,
+    "occurrences": [
+      [
+        1137,
+        "01:38:47.087000",
+        "01:38:50.853000",
+        "#To blast the greedy little suckers that trespass #"
+      ],
+      [
+        1153,
+        "01:39:43.310000",
+        "01:39:45.710000",
+        "#Don't trespass #"
+      ],
+      [
+        1168,
+        "01:40:26.120000",
+        "01:40:28.782000",
+        "#My homeboy ain't home so now I trespass #"
+      ],
+      [
+        1169,
+        "01:40:28.856000",
+        "01:40:31.586000",
+        "#Trespass ##"
+      ]
+    ],
+    "regex": "\\b((?!\\bTrespass:)Trespass)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt4823592",
+    "title": "The Competition",
+    "year": 2016,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1739,
+    "occurrences": [
+      [
+        14,
+        "00:02:37.860000",
+        "00:02:41.420000",
+        "The Competition"
+      ],
+      [
+        625,
+        "00:45:51.980000",
+        "00:45:55.260000",
+        "Yes, but it is a competition after all and others are dealing with it better."
+      ]
+    ],
+    "regex": "\\b((?!\\bCompetition:)Competition)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

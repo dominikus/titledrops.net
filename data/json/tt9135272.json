@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt9135272",
+    "title": "Eminence Hill",
+    "year": 2019,
+    "genres": [
+      "Western"
+    ],
+    "count": 5,
+    "all_lines": 1521,
+    "occurrences": [
+      [
+        119,
+        "00:07:39.827000",
+        "00:07:44.896000",
+        "But you'll never make it back from Eminence Hill"
+      ],
+      [
+        430,
+        "00:25:37.703000",
+        "00:25:39.670000",
+        "Welcome to Eminence Hill."
+      ],
+      [
+        926,
+        "00:56:23.247000",
+        "00:56:25.481000",
+        "Eminence Hill is safe."
+      ],
+      [
+        1191,
+        "01:13:20.997000",
+        "01:13:25.400000",
+        "We call this place Eminence Hill."
+      ],
+      [
+        1226,
+        "01:15:47.810000",
+        "01:15:52.880000",
+        "to offer a spirit but we in Eminence Hill never partake."
+      ]
+    ],
+    "regex": "\\b((?!\\bEminence\\ Hill:)Eminence\\ Hill)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

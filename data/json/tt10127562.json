@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt10127562",
+    "title": "Dragon Quest: Your Story",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 3,
+    "all_lines": 1303,
+    "occurrences": [
+      [
+        1185,
+        "01:29:56.265000",
+        "01:30:00.978000",
+        "Long ago, a game called Dragon Quest took the world by storm."
+      ],
+      [
+        1189,
+        "01:30:09.904000",
+        "01:30:15.034000",
+        "that same Dragon Quest game was remade for this new platform."
+      ],
+      [
+        1235,
+        "01:32:56.445000",
+        "01:32:59.073000",
+        "Dragon Quest V! Sweet!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDragon\\ Quest:)Dragon\\ Quest|(?!\\bYour\\ Story:)Your\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

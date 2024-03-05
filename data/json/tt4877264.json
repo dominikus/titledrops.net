@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt4877264",
+    "title": "The Projects",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1300,
+    "occurrences": [
+      [
+        146,
+        "00:14:11.220000",
+        "00:14:12.880000",
+        "He's from the projects."
+      ],
+      [
+        442,
+        "00:34:04.540000",
+        "00:34:07",
+        "Projects are intense."
+      ],
+      [
+        794,
+        "01:03:26.890000",
+        "01:03:30.100000",
+        "It'll lower our projects reputation."
+      ]
+    ],
+    "regex": "\\b((?!\\bProjects:)Projects)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

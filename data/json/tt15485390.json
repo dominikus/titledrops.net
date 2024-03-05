@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt15485390",
+    "title": "Operation Napoleon",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 909,
+    "occurrences": [
+      [
+        138,
+        "00:29:06.581000",
+        "00:29:09.416000",
+        "You're talking about Operation Napoleon."
+      ],
+      [
+        141,
+        "00:29:13.722000",
+        "00:29:17.659000",
+        "Operation Napoleon is an echo of an echo, but..."
+      ],
+      [
+        161,
+        "00:30:10.679000",
+        "00:30:13.013000",
+        "Where did you hear about Operation Napoleon?"
+      ]
+    ],
+    "regex": "\\b((?!\\bOperation\\ Napoleon:)Operation\\ Napoleon)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

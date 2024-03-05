@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0032220",
+    "title": "Arise, My Love",
+    "year": 1940,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1473,
+    "occurrences": [
+      [
+        1215,
+        "01:25:58.040000",
+        "01:26:00.873000",
+        "\"Arise, my love and come away with me\"."
+      ],
+      [
+        1470,
+        "01:45:08.400000",
+        "01:45:11.597000",
+        "\"Arise, my love. Be strong so you can stand"
+      ]
+    ],
+    "regex": "\\b((?!\\bArise,\\ My\\ Love:)Arise,\\ My\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2016303",
+    "title": "The Bricklayer",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1067,
+    "occurrences": [
+      [
+        74,
+        "00:06:08.603000",
+        "00:06:10.605000",
+        "I'm the bricklayer."
+      ],
+      [
+        141,
+        "00:09:50.224000",
+        "00:09:53.360000",
+        "This is a bricklayer's most important tool."
+      ],
+      [
+        985,
+        "01:30:31.232000",
+        "01:30:33.801000",
+        "Well, so long, bricklayer."
+      ]
+    ],
+    "regex": "\\b((?!\\bBricklayer:)Bricklayer)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

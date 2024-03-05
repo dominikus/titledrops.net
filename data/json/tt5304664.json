@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt5304664",
+    "title": "The Islands",
+    "year": 2019,
+    "genres": [
+      "Adventure"
+    ],
+    "count": 7,
+    "all_lines": 1235,
+    "occurrences": [
+      [
+        2,
+        "00:00:18.510000",
+        "00:00:20.847000",
+        "CHIEFESS: The islands have always been a mystery."
+      ],
+      [
+        7,
+        "00:00:38.665000",
+        "00:00:42.735000",
+        "2,000 miles in canoes to migrate to the islands"
+      ],
+      [
+        15,
+        "00:01:09.461000",
+        "00:01:12.865000",
+        "came to the islands to bring us the good news."
+      ],
+      [
+        44,
+        "00:02:26.338000",
+        "00:02:29.976000",
+        "in the islands, Reverend Thornton, not age."
+      ],
+      [
+        85,
+        "00:04:15.848000",
+        "00:04:17.884000",
+        "You brought guns to our islands, remember?"
+      ],
+      [
+        300,
+        "00:16:37.189000",
+        "00:16:39.558000",
+        "He brought mosquitoes to the islands."
+      ],
+      [
+        643,
+        "00:40:17.643000",
+        "00:40:19.211000",
+        "CHIEFESS VOICEOVER: Kanoa has the entire islands"
+      ]
+    ],
+    "regex": "\\b((?!\\bIslands:)Islands)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

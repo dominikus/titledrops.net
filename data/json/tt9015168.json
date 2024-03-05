@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt9015168",
+    "title": "River Road",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1779,
+    "occurrences": [
+      [
+        161,
+        "00:09:27",
+        "00:09:28.466000",
+        "I live three houses up River Road."
+      ],
+      [
+        545,
+        "00:25:16.115000",
+        "00:25:19.083000",
+        "I'm back in Delta at my aunt's place on River Road."
+      ]
+    ],
+    "regex": "\\b((?!\\bRiver\\ Road:)River\\ Road)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

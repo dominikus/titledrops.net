@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4943218",
+    "title": "The Worthy",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 777,
+    "occurrences": [
+      [
+        250,
+        "00:22:18.795000",
+        "00:22:25.802000",
+        "who decided he wasn't worthy of living."
+      ],
+      [
+        355,
+        "00:33:52.947000",
+        "00:33:55.074000",
+        "The worthy..."
+      ],
+      [
+        764,
+        "01:29:46.756000",
+        "01:29:49.550000",
+        "\"The worthy.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bWorthy:)Worthy)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

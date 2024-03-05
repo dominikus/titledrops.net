@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0112619",
+    "title": "Midaq Alley",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1597,
+    "occurrences": [
+      [
+        233,
+        "00:20:57.549000",
+        "00:21:02.020000",
+        "It's the \"Reyes Antiguos\". It's nearby, in Midaq Alley."
+      ],
+      [
+        246,
+        "00:21:31.682000",
+        "00:21:34.685000",
+        "...\"Los Reyes Antiguos\" Here in Midaq Alley."
+      ]
+    ],
+    "regex": "\\b((?!\\bMidaq\\ Alley:)Midaq\\ Alley)(?!\\:)(?!'t)\\b",
+    "runtime": 142,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt14902008",
+    "title": "Oh My Ghost",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 12,
+    "all_lines": 1574,
+    "occurrences": [
+      [
+        1538,
+        "01:57:07.081000",
+        "01:57:10.373000",
+        "\"Oh my ghost! Oh my ghost!\""
+      ],
+      [
+        1539,
+        "01:57:10.415000",
+        "01:57:13.206000",
+        "\"Oh my ghost! Oh my ghost!\""
+      ],
+      [
+        1540,
+        "01:57:13.665000",
+        "01:57:17.123000",
+        "\"Oh my ghost! Oh my ghost!\""
+      ],
+      [
+        1541,
+        "01:57:17.165000",
+        "01:57:19.831000",
+        "\"Oh my ghost! Oh my ghost!\""
+      ],
+      [
+        1569,
+        "01:59:12.035000",
+        "01:59:15.334000",
+        "\"Oh my ghost! Oh my ghost!\""
+      ],
+      [
+        1570,
+        "01:59:15.359000",
+        "01:59:18.525000",
+        "\"Oh my ghost! Oh my ghost!\""
+      ]
+    ],
+    "regex": "\\b((?!\\bOh\\ My\\ Ghost:)Oh\\ My\\ Ghost)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.2
+  }
+]

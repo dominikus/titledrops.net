@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt2123294",
+    "title": "Solo",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1917,
+    "occurrences": [
+      [
+        38,
+        "00:05:41",
+        "00:05:43.874000",
+        "God, I'm vexed with this solo life,"
+      ],
+      [
+        1109,
+        "01:26:40.750000",
+        "01:26:46.332000",
+        "Why did so much light come into my solo dark life and then vanish?"
+      ],
+      [
+        1604,
+        "02:02:46.333000",
+        "02:02:48.582000",
+        "Anyway I'm used to solo life!"
+      ],
+      [
+        1758,
+        "02:15:53.416000",
+        "02:15:56.999000",
+        "I was born to be solo..."
+      ],
+      [
+        1886,
+        "02:26:58.083000",
+        "02:27:01.040000",
+        "He's not solo from now onwards..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSolo:)Solo)(?!\\:)(?!'t)\\b",
+    "runtime": 152,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

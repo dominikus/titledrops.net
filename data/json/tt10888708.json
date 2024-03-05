@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt10888708",
+    "title": "The Sleepover",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 2024,
+    "occurrences": [
+      [
+        264,
+        "00:12:11.125000",
+        "00:12:13.875000",
+        "Kevin's is very excited about tonight's sleepover."
+      ],
+      [
+        1950,
+        "01:32:09.708000",
+        "01:32:10.625000",
+        "Awesome sleepover."
+      ]
+    ],
+    "regex": "\\b((?!\\bSleepover:)Sleepover)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

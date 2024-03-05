@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1202522",
+    "title": "The Escape",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 534,
+    "occurrences": [
+      [
+        14,
+        "00:04:26.481000",
+        "00:04:30.113000",
+        "Nazir, she's your responsibility. She musn't escape."
+      ],
+      [
+        75,
+        "00:26:58.061000",
+        "00:27:01.055000",
+        "Don't you think I know you cannot escape without help?"
+      ],
+      [
+        84,
+        "00:28:54.606000",
+        "00:28:57.122000",
+        "How did you manage to escape?"
+      ],
+      [
+        102,
+        "00:31:30.627000",
+        "00:31:33.268000",
+        "Rikke, how did you escape?"
+      ],
+      [
+        446,
+        "01:29:59.034000",
+        "01:30:02.154000",
+        "- and that is why I lied to the media about my escape-"
+      ]
+    ],
+    "regex": "\\b((?!\\bEscape:)Escape)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0050957",
+    "title": "The She-Creature",
+    "year": 1956,
+    "genres": [
+      "Crime",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1105,
+    "occurrences": [
+      [
+        355,
+        "00:23:15.928000",
+        "00:23:18.670000",
+        "Some more of this she-creature stuff,"
+      ],
+      [
+        671,
+        "00:45:06.324000",
+        "00:45:10.110000",
+        "That she-creature stuff was a stroke of sheer genius."
+      ],
+      [
+        752,
+        "00:49:39.249000",
+        "00:49:41.947000",
+        "the she-creature was the primitive life body"
+      ]
+    ],
+    "regex": "\\b((?!\\bShe\\-Creature:)She\\-Creature)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

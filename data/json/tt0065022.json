@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0065022",
+    "title": "The Sisters",
+    "year": 1969,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 900,
+    "occurrences": [
+      [
+        5,
+        "00:01:22.960000",
+        "00:01:27.470000",
+        "SISTERS"
+      ],
+      [
+        280,
+        "00:45:14.280000",
+        "00:45:16.470000",
+        "But they were sisters. And it is true!"
+      ],
+      [
+        285,
+        "00:45:28.040000",
+        "00:45:31.430000",
+        "Hey, hey. And you do absolutely It does not look like sisters."
+      ]
+    ],
+    "regex": "\\b((?!\\bSisters:)Sisters)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

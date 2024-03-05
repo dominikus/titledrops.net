@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt5446858",
+    "title": "Zero Days",
+    "year": 2016,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 7,
+    "all_lines": 2208,
+    "occurrences": [
+      [
+        220,
+        "00:12:28.115000",
+        "00:12:30.415000",
+        "There's been zero days protection,"
+      ],
+      [
+        230,
+        "00:12:46.967000",
+        "00:12:49.033000",
+        "because immediately we discovered more zero days."
+      ],
+      [
+        231,
+        "00:12:49.035000",
+        "00:12:51.770000",
+        "And again, these zero days are extremely rare."
+      ],
+      [
+        232,
+        "00:12:51.772000",
+        "00:12:54.072000",
+        "Inside STUXnet we had, you know, four zero days,"
+      ],
+      [
+        234,
+        "00:12:55.809000",
+        "00:12:58.376000",
+        "we only saw 12 zero days used."
+      ],
+      [
+        242,
+        "00:13:11.391000",
+        "00:13:13.758000",
+        "but seeing four zero days, could be worth"
+      ],
+      [
+        1493,
+        "01:17:06.089000",
+        "01:17:08.289000",
+        "Had the four zero days inside of it, for example,"
+      ]
+    ],
+    "regex": "\\b((?!\\bZero\\ Days:)Zero\\ Days)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

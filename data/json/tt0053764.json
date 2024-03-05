@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0053764",
+    "title": "The Ninth Circle",
+    "year": 1960,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 554,
+    "occurrences": [
+      [
+        467,
+        "01:14:52.742000",
+        "01:14:55.806000",
+        "Then she's maybe in... - Where? - In the ninth circle?"
+      ],
+      [
+        476,
+        "01:15:55.173000",
+        "01:16:00.148000",
+        "That's all fresh stuff, from today. - Do you know where ninth circle is?"
+      ]
+    ],
+    "regex": "\\b((?!\\bNinth\\ Circle:)Ninth\\ Circle)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

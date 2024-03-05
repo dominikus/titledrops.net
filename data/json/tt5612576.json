@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5612576",
+    "title": "There Is a Light: Il padre d'Italia",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 757,
+    "occurrences": [
+      [
+        653,
+        "01:12:08.960000",
+        "01:12:18.950000",
+        "(\"THERE IS A LIGHT THAT NEVER GOES OUT\" BY THE SMITHS)"
+      ],
+      [
+        666,
+        "01:14:17.630000",
+        "01:14:40.440000",
+        "(repeats) # There is a light that never goes out #"
+      ]
+    ],
+    "regex": "\\b((?!\\bThere\\ Is\\ a\\ Light:)There\\ Is\\ a\\ Light|(?!\\bIl\\ padre\\ d'Italia:)Il\\ padre\\ d'Italia)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

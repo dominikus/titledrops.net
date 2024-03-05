@@ -1,0 +1,48 @@
+[
+  {
+    "imdb": "tt1234559",
+    "title": "Chico Xavier",
+    "year": 2010,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1627,
+    "occurrences": [
+      [
+        55,
+        "00:06:32.959000",
+        "00:06:36.929000",
+        "-Our Chico Xavier. -Cut to 1, cut to 1."
+      ],
+      [
+        857,
+        "01:06:19.875000",
+        "01:06:21.877000",
+        "-Alias, Chico Xavier? -Yes?!"
+      ],
+      [
+        1108,
+        "01:22:56.871000",
+        "01:23:00.942000",
+        "Yes. And who can say that Chico Xavier isn't a sham too?''"
+      ],
+      [
+        1121,
+        "01:24:09.878000",
+        "01:24:12.947000",
+        "''Is Chico Xavier a fraud or not?''"
+      ]
+    ],
+    "regex": "\\b((?!\\bChico\\ Xavier:)Chico\\ Xavier)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [
+      "Chico Xavier 1969 - 1975",
+      "Chico Xavier 1931 - 1959",
+      "Chico Xavier 1918 - 1922"
+    ],
+    "title_is_name": true,
+    "rating": 7.1
+  }
+]

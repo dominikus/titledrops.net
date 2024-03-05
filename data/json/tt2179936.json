@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt2179936",
+    "title": "School Dance",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 6,
+    "all_lines": 1581,
+    "occurrences": [
+      [
+        4,
+        "00:00:35.669000",
+        "00:00:38.604000",
+        "where students were gathered for the annual school dance."
+      ],
+      [
+        29,
+        "00:01:36.230000",
+        "00:01:39.631000",
+        "It's Power 106's annual \"Unity in the Community\" school dance"
+      ],
+      [
+        112,
+        "00:06:05.065000",
+        "00:06:08.433000",
+        "A while ago he got sent to prison for burning down a school dance"
+      ],
+      [
+        198,
+        "00:10:46.313000",
+        "00:10:49.147000",
+        "Tonight is the \"Unity in the Community\" school dance, fool."
+      ],
+      [
+        309,
+        "00:15:38.672000",
+        "00:15:41.606000",
+        "Are you going to the school dance tonight?"
+      ],
+      [
+        636,
+        "00:33:58.270000",
+        "00:34:00.037000",
+        "The school dance is tonight."
+      ]
+    ],
+    "regex": "\\b((?!\\bSchool\\ Dance:)School\\ Dance)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt2321626",
+    "title": "The Reunion",
+    "year": 2012,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1073,
+    "occurrences": [
+      [
+        48,
+        "00:03:40.253000",
+        "00:03:43.063000",
+        "Did you receive the e-mail invite for the reunion?"
+      ],
+      [
+        61,
+        "00:04:27.567000",
+        "00:04:29.308000",
+        "- Where? In the reunion? - Yes."
+      ],
+      [
+        99,
+        "00:06:56.149000",
+        "00:06:58.561000",
+        "Why are you not going with us to the reunion?"
+      ],
+      [
+        348,
+        "00:29:13.985000",
+        "00:29:17.364000",
+        "No one wants to stay in the Reunion. You started a riot."
+      ],
+      [
+        983,
+        "01:30:11.939000",
+        "01:30:14.351000",
+        "I was supposed to go to the Reunion..."
+      ]
+    ],
+    "regex": "\\b((?!\\bReunion:)Reunion)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

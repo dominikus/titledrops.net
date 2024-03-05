@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt0043408",
+    "title": "The Cimarron Kid",
+    "year": 1952,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 1124,
+    "occurrences": [
+      [
+        0,
+        "00:00:12.967000",
+        "00:00:17.300000",
+        "CIMARRON KID"
+      ],
+      [
+        414,
+        "00:30:25.904000",
+        "00:30:29.203000",
+        "One of them answers to the name of the Cimarron Kid."
+      ],
+      [
+        767,
+        "00:56:02.906000",
+        "00:56:04.567000",
+        "The Cimarron Kid."
+      ]
+    ],
+    "regex": "\\b((?!\\bCimarron\\ Kid:)Cimarron\\ Kid)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [
+      "Bill Doolin",
+      "The Cimarron Kid"
+    ],
+    "title_is_name": true,
+    "rating": 6.3
+  }
+]

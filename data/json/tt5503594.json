@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5503594",
+    "title": "The Redeemed and the Dominant: Fittest on Earth",
+    "year": 2016,
+    "genres": [
+      "Documentary",
+      "Sport"
+    ],
+    "count": 3,
+    "all_lines": 2113,
+    "occurrences": [
+      [
+        267,
+        "00:12:35.804000",
+        "00:12:38.264000",
+        "I want to be \"The Fittest on Earth.\" That..."
+      ],
+      [
+        2009,
+        "01:37:54.417000",
+        "01:37:56.002000",
+        "to be the \"Fittest on Earth?\""
+      ],
+      [
+        2018,
+        "01:38:23.905000",
+        "01:38:31.037000",
+        "in showing athletes and the world who truly is \"The Fittest on Earth.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bRedeemed\\ and\\ the\\ Dominant:)Redeemed\\ and\\ the\\ Dominant|(?!\\bFittest\\ on\\ Earth:)Fittest\\ on\\ Earth)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

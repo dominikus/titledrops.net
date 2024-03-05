@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt11217036",
+    "title": "The Gardener",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 938,
+    "occurrences": [
+      [
+        643,
+        "00:56:18.877000",
+        "00:56:20.779000",
+        "It's the gardener."
+      ],
+      [
+        644,
+        "00:56:20.813000",
+        "00:56:24.049000",
+        "Hey! Where are you going? Who's this gardener?"
+      ],
+      [
+        723,
+        "01:07:46.164000",
+        "01:07:48.734000",
+        "It's the gardener, he's military."
+      ],
+      [
+        742,
+        "01:09:13.485000",
+        "01:09:16.187000",
+        "I'm gonna kill that gardener."
+      ]
+    ],
+    "regex": "\\b((?!\\bGardener:)Gardener)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

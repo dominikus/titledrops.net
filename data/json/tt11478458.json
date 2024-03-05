@@ -1,0 +1,71 @@
+[
+  {
+    "imdb": "tt11478458",
+    "title": "Berenshtein",
+    "year": 2021,
+    "genres": [
+      "Biography",
+      "History",
+      "War"
+    ],
+    "count": 8,
+    "all_lines": 1015,
+    "occurrences": [
+      [
+        28,
+        "00:08:21.065000",
+        "00:08:22.865000",
+        "Lieutenant Berenshtein,"
+      ],
+      [
+        265,
+        "00:28:59.065000",
+        "00:29:00.865000",
+        "Leonid Berenshtein."
+      ],
+      [
+        591,
+        "00:56:48.385000",
+        "00:56:50.505000",
+        "Comrade Berenshtein."
+      ],
+      [
+        653,
+        "01:03:04.625000",
+        "01:03:06.185000",
+        "Berenshtein."
+      ],
+      [
+        659,
+        "01:03:36.665000",
+        "01:03:38.145000",
+        "about Berenshtein?"
+      ],
+      [
+        669,
+        "01:04:25.425000",
+        "01:04:27.545000",
+        "I'll introduce you to Berenshtein."
+      ],
+      [
+        671,
+        "01:04:41.025000",
+        "01:04:44.865000",
+        "Berenshtein. It's a pleasure."
+      ],
+      [
+        1006,
+        "01:42:12.105000",
+        "01:42:14.345000",
+        "My name is Leonid Berenshtein."
+      ]
+    ],
+    "regex": "\\b((?!\\bBerenshtein:)Berenshtein)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [
+      "Leonid Berenshtein"
+    ],
+    "title_is_name": true,
+    "rating": 6.4
+  }
+]

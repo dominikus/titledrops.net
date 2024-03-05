@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0095278",
+    "title": "Hard Rock Nightmare",
+    "year": 1988,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1492,
+    "occurrences": [
+      [
+        80,
+        "00:05:02.733000",
+        "00:05:06.004000",
+        "* A hard rock nightmare"
+      ],
+      [
+        85,
+        "00:05:24.288000",
+        "00:05:29.293000",
+        "* I got a hard rock nightmare in my mind *"
+      ],
+      [
+        86,
+        "00:05:31.329000",
+        "00:05:36.334000",
+        "* It's a nightmare, a hard rock nightmare *"
+      ],
+      [
+        1112,
+        "01:04:45.057000",
+        "01:04:48.694000",
+        "* It's a hard rock nightmare, ow *"
+      ]
+    ],
+    "regex": "\\b((?!\\bHard\\ Rock\\ Nightmare:)Hard\\ Rock\\ Nightmare)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

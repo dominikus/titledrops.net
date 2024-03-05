@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt10711648",
+    "title": "Comali",
+    "year": 2019,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 2358,
+    "occurrences": [
+      [
+        1232,
+        "01:15:44.581000",
+        "01:15:47.789000",
+        "I'm creating a channel 'Comali' on You Tube, I'm uploading everything"
+      ],
+      [
+        1441,
+        "01:25:33.330000",
+        "01:25:35.080000",
+        "- Which channel? - 'Comali'"
+      ],
+      [
+        2345,
+        "02:16:50.919000",
+        "02:16:53.627000",
+        "'Comali' will give content at all odd hours, be alert"
+      ]
+    ],
+    "regex": "\\b((?!\\bComali:)Comali)(?!\\:)(?!'t)\\b",
+    "runtime": 143,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

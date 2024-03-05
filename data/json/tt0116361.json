@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0116361",
+    "title": "Freeway",
+    "year": 1996,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1968,
+    "occurrences": [
+      [
+        103,
+        "00:07:16.607000",
+        "00:07:18.943000",
+        "along San Diego freeway in Torrance."
+      ],
+      [
+        823,
+        "00:40:15.584000",
+        "00:40:16.427000",
+        "on the freeway, Bob?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFreeway:)Freeway)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0117666",
+    "title": "Sling Blade",
+    "year": 1996,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1072,
+    "occurrences": [
+      [
+        142,
+        "00:13:15.910000",
+        "00:13:20.006000",
+        "Some folks called it a sling blade. I called it a Kaiser blade."
+      ],
+      [
+        159,
+        "00:14:22.309000",
+        "00:14:25.574000",
+        "some folks called it a sling blade, I called it a Kaiser blade--"
+      ]
+    ],
+    "regex": "\\b((?!\\bSling\\ Blade:)Sling\\ Blade)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

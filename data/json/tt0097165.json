@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0097165",
+    "title": "Dead Poets Society",
+    "year": 1989,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 875,
+    "occurrences": [
+      [
+        401,
+        "00:28:14.360000",
+        "00:28:17.570000",
+        "Thigh man and the Dead Poets Society."
+      ],
+      [
+        404,
+        "00:28:23.870000",
+        "00:28:26.580000",
+        "- What's the Dead Poets Society ?"
+      ],
+      [
+        417,
+        "00:29:03.990000",
+        "00:29:07.660000",
+        "- God. - What was the Dead Poets Society ?"
+      ],
+      [
+        437,
+        "00:30:20.900000",
+        "00:30:26.320000",
+        "- Dead Poets Society."
+      ],
+      [
+        503,
+        "00:36:29.180000",
+        "00:36:33.230000",
+        "- I hereby reconvene the Dead Poets Society,"
+      ]
+    ],
+    "regex": "\\b((?!\\bDead\\ Poets\\ Society:)Dead\\ Poets\\ Society)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

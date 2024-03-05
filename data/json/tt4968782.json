@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt4968782",
+    "title": "Rondo",
+    "year": 2018,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1033,
+    "occurrences": [
+      [
+        151,
+        "00:10:45.879000",
+        "00:10:46.879000",
+        "Rondo?"
+      ],
+      [
+        535,
+        "00:48:27.372000",
+        "00:48:28.372000",
+        "Rondo?"
+      ],
+      [
+        610,
+        "00:53:45.823000",
+        "00:53:49.658000",
+        "but, uh, you don't by any chance know a Mr. Rondo, do ya?"
+      ],
+      [
+        669,
+        "01:01:24.148000",
+        "01:01:25.148000",
+        "Rondo."
+      ]
+    ],
+    "regex": "\\b((?!\\bRondo:)Rondo)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

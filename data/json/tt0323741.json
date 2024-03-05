@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0323741",
+    "title": "Purgatory Flats",
+    "year": 2003,
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1817,
+    "occurrences": [
+      [
+        71,
+        "00:05:39.038000",
+        "00:05:40.973000",
+        "Purgatory Flats, about 20 miles down the road."
+      ],
+      [
+        1658,
+        "01:31:56.277000",
+        "01:32:00.781000",
+        "I know that if we could just get out of Purgatory Flats,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPurgatory\\ Flats:)Purgatory\\ Flats)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

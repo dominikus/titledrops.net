@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0283003",
+    "title": "Spun",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1311,
+    "occurrences": [
+      [
+        675,
+        "00:53:01.783000",
+        "00:53:05.495000",
+        "She'll split for a day or two, then she'll come back. She's just spun."
+      ],
+      [
+        1228,
+        "01:31:18.828000",
+        "01:31:21.580000",
+        "- You're spun, aren't you? - No! I'm working hard on my new job."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpun:)Spun)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt5049636",
+    "title": "Karbala",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 498,
+    "occurrences": [
+      [
+        184,
+        "00:28:03.570000",
+        "00:28:05.254000",
+        "Calm like in Karbala."
+      ],
+      [
+        319,
+        "00:54:50.130000",
+        "00:54:54.579000",
+        "We'll go towards Bagdad, then turn back to Karbala in AI-lskandariyah."
+      ],
+      [
+        327,
+        "00:55:21.010000",
+        "00:55:24.901000",
+        "It was taken by As-Sadr militants this morning. Karbala is cut off."
+      ],
+      [
+        355,
+        "01:01:56.450000",
+        "01:02:01.217000",
+        "Those are the times when many homes in Karbala will be in mourning."
+      ]
+    ],
+    "regex": "\\b((?!\\bKarbala:)Karbala)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

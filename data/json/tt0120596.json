@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0120596",
+    "title": "The Bachelor",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1374,
+    "occurrences": [
+      [
+        568,
+        "00:36:35.446000",
+        "00:36:36.656000",
+        "A bachelor."
+      ],
+      [
+        578,
+        "00:37:27.084000",
+        "00:37:29.587000",
+        "He was wallowing in bachelor memories again."
+      ]
+    ],
+    "regex": "\\b((?!\\bBachelor:)Bachelor)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

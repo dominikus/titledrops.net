@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0964516",
+    "title": "Fashion",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 575,
+    "occurrences": [
+      [
+        106,
+        "00:13:15.194000",
+        "00:13:17.253000",
+        "Tomorrow we are going in fashion show Fashion show?"
+      ],
+      [
+        262,
+        "00:35:27.725000",
+        "00:35:33.925000",
+        "Meghna, in fashion industry no matter you have Iess taIent"
+      ],
+      [
+        329,
+        "00:43:40.918000",
+        "00:43:44.081000",
+        "Maybe he is doing research. because he make movie on fashion topic."
+      ],
+      [
+        330,
+        "00:43:44.154000",
+        "00:43:47.920000",
+        "He is reaIistic fiIm maker. he didnt Ieave fashion worId."
+      ]
+    ],
+    "regex": "\\b((?!\\bFashion:)Fashion)(?!\\:)(?!'t)\\b",
+    "runtime": 167,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0473360",
+    "title": "Goal II: Living the Dream",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 82,
+    "occurrences": [
+      [
+        33,
+        "00:27:37.067000",
+        "00:27:38.216000",
+        "Really good goal, eh?"
+      ],
+      [
+        64,
+        "00:51:17.467000",
+        "00:51:21.540000",
+        "Gavin, this was your first goal in 17 games. How do you feel?"
+      ]
+    ],
+    "regex": "\\b((?!\\bGoal:)Goal|(?!\\bLiving\\ the\\ Dream:)Living\\ the\\ Dream)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

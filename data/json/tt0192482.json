@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0192482",
+    "title": "The Way Home",
+    "year": 1981,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 528,
+    "occurrences": [
+      [
+        4,
+        "00:00:42.468000",
+        "00:00:43.974000",
+        "The Way Home"
+      ],
+      [
+        137,
+        "00:21:17.323000",
+        "00:21:19.811000",
+        "I'm lost, and looking for the way home."
+      ]
+    ],
+    "regex": "\\b((?!\\bWay\\ Home:)Way\\ Home)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

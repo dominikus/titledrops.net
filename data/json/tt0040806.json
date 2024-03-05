@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0040806",
+    "title": "The Snake Pit",
+    "year": 1948,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1566,
+    "occurrences": [
+      [
+        1256,
+        "01:28:13.755000",
+        "01:28:17.816000",
+        "Yes. As though... As though I were in a snake pit."
+      ],
+      [
+        1257,
+        "01:28:17.959000",
+        "01:28:19.756000",
+        "A snake pit?"
+      ],
+      [
+        1264,
+        "01:28:37.879000",
+        "01:28:41.178000",
+        "Well, it was just as though they'd thrown me into a snake pit..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSnake\\ Pit:)Snake\\ Pit)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

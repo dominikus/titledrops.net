@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0061854",
+    "title": "The Morning",
+    "year": 1967,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 6,
+    "all_lines": 687,
+    "occurrences": [
+      [
+        366,
+        "00:36:44.723000",
+        "00:36:50.255000",
+        "I met your mother this morning. Yes, she told me that"
+      ],
+      [
+        367,
+        "00:36:50.301000",
+        "00:36:53.157000",
+        "you read Dickens on English whole morning."
+      ],
+      [
+        371,
+        "00:37:01.918000",
+        "00:37:04.631000",
+        "I met your mother this morning when I was coming back from the front."
+      ],
+      [
+        498,
+        "00:49:13.233000",
+        "00:49:16.016000",
+        "They've just told me that mother was shot this morning."
+      ],
+      [
+        501,
+        "00:50:15.191000",
+        "00:50:19.547000",
+        "You'll play the effect of the waking morning on my sign. Do you hear me?"
+      ],
+      [
+        536,
+        "00:56:26.064000",
+        "00:56:30.244000",
+        "Tomorrow morning at 7 you'll come to tell me that Aleksandra is liquidated."
+      ]
+    ],
+    "regex": "\\b((?!\\bMorning:)Morning)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

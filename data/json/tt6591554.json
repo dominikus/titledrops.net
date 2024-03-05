@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt6591554",
+    "title": "The Storage 2",
+    "year": 2018,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1016,
+    "occurrences": [
+      [
+        46,
+        "00:04:43.242000",
+        "00:04:47.329000",
+        "This is so damn embarrassing. Then put me back in the storage."
+      ],
+      [
+        98,
+        "00:09:34.491000",
+        "00:09:38.203000",
+        "Then he graduated as a storage worker."
+      ],
+      [
+        142,
+        "00:14:09.349000",
+        "00:14:14.145000",
+        "Raninen, dammit! Every unemployed storage worker seems to be here."
+      ]
+    ],
+    "regex": "\\b((?!\\bStorage:)Storage)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

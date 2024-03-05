@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0088944",
+    "title": "Commando",
+    "year": 1985,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 691,
+    "occurrences": [
+      [
+        539,
+        "01:05:49.435000",
+        "01:05:51.130000",
+        "Commando. Kirby."
+      ],
+      [
+        560,
+        "01:12:37.583000",
+        "01:12:40.984000",
+        "CINDY: Commando! I say again, Commando!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCommando:)Commando)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

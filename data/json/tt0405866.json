@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0405866",
+    "title": "The Bridesmaid",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1401,
+    "occurrences": [
+      [
+        141,
+        "00:10:41.687000",
+        "00:10:44.155000",
+        "Then I can't have her as a bridesmaid."
+      ],
+      [
+        142,
+        "00:10:44.327000",
+        "00:10:46.761000",
+        "What's this bridesmaid nonsense?"
+      ],
+      [
+        208,
+        "00:14:38.487000",
+        "00:14:40.955000",
+        "I'm sewing a bow on the bridesmaid's."
+      ],
+      [
+        728,
+        "00:56:19.687000",
+        "00:56:22.679000",
+        "-What gown? -The bridesmaid's gown."
+      ]
+    ],
+    "regex": "\\b((?!\\bBridesmaid:)Bridesmaid)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

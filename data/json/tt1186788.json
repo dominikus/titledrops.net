@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1186788",
+    "title": "Baby on Board",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1629,
+    "occurrences": [
+      [
+        183,
+        "00:09:01.554000",
+        "00:09:06.048000",
+        "we present the allure of \"Baby on Board\" perfume"
+      ],
+      [
+        301,
+        "00:16:24.730000",
+        "00:16:28.598000",
+        "since this \"Baby on Board\" thing is such a big deal,"
+      ],
+      [
+        1201,
+        "01:11:28.164000",
+        "01:11:29.131000",
+        "Baby on Board."
+      ]
+    ],
+    "regex": "\\b((?!\\bBaby\\ on\\ Board:)Baby\\ on\\ Board)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

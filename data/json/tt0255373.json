@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0255373",
+    "title": "Midhunam",
+    "year": 1993,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "count": 3,
+    "all_lines": 2379,
+    "occurrences": [
+      [
+        13,
+        "00:03:46.200000",
+        "00:03:49.120000",
+        "This is 'Midhunam'. - 'Midhunam' it is."
+      ],
+      [
+        510,
+        "00:33:45.120000",
+        "00:33:46.360000",
+        "Isn't this the month of 'Midhunam'?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMidhunam:)Midhunam)(?!\\:)(?!'t)\\b",
+    "runtime": 147,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

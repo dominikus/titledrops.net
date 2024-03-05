@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0094082",
+    "title": "Suspect",
+    "year": 1987,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1133,
+    "occurrences": [
+      [
+        726,
+        "01:10:09.747000",
+        "01:10:14.013000",
+        "...that convinced me that if he isn't the real suspect, then he saw who is."
+      ],
+      [
+        729,
+        "01:10:17.554000",
+        "01:10:22.048000",
+        "Why is it whenever defense is in trouble, there always seems to be a ''reaI'' suspect?"
+      ],
+      [
+        764,
+        "01:12:38.562000",
+        "01:12:42.760000",
+        "...that homicides are usually committed by the most obvious suspect."
+      ],
+      [
+        767,
+        "01:12:48.272000",
+        "01:12:51.241000",
+        "...that Mr. Anderson was the most obvious suspect."
+      ]
+    ],
+    "regex": "\\b((?!\\bSuspect:)Suspect)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

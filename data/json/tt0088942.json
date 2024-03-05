@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0088942",
+    "title": "The Comic",
+    "year": 1985,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 666,
+    "occurrences": [
+      [
+        43,
+        "00:06:58.293000",
+        "00:07:02.332000",
+        "I told you before. I only need one comic and that's Joey Myers."
+      ],
+      [
+        62,
+        "00:07:51.012000",
+        "00:07:54.300000",
+        "- 85-year-old man wanted to marry this... - Oi! Oi, comic."
+      ],
+      [
+        355,
+        "00:43:36.322000",
+        "00:43:39.985000",
+        "Well, you take the comic spot, she slots in as the stripper."
+      ]
+    ],
+    "regex": "\\b((?!\\bComic:)Comic)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

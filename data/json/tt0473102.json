@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0473102",
+    "title": "The Perfect Game",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 2059,
+    "occurrences": [
+      [
+        105,
+        "00:09:10.180000",
+        "00:09:12.210000",
+        "You call Don Larson's perfect game, lucky?"
+      ],
+      [
+        106,
+        "00:09:12.250000",
+        "00:09:13.980000",
+        "What's a perfect game?"
+      ],
+      [
+        1870,
+        "01:41:54.740000",
+        "01:41:56.670000",
+        "There goes the perfect game!"
+      ],
+      [
+        1961,
+        "01:47:18.790000",
+        "01:47:21.600000",
+        "A perfect game. The little tykes from Mexico"
+      ]
+    ],
+    "regex": "\\b((?!\\bPerfect\\ Game:)Perfect\\ Game)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0405266",
+    "title": "Raincoat",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 888,
+    "occurrences": [
+      [
+        238,
+        "00:16:07.146000",
+        "00:16:08.977000",
+        "Didn't I have a raincoat?"
+      ],
+      [
+        262,
+        "00:17:10.409000",
+        "00:17:12.240000",
+        "Here's your raincoat"
+      ],
+      [
+        356,
+        "00:24:28.280000",
+        "00:24:30.009000",
+        "Won't you take that raincoat off?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRaincoat:)Raincoat)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5910344",
+    "title": "The House of Tomorrow",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1130,
+    "occurrences": [
+      [
+        12,
+        "00:03:36.547000",
+        "00:03:40.250000",
+        "the House of Tomorrow, here in North Branch, Minnesota."
+      ],
+      [
+        68,
+        "00:07:09.769000",
+        "00:07:13.307000",
+        "I'm at the geodesic dome, Bridge Road, the House of Tomorrow."
+      ],
+      [
+        539,
+        "00:39:10.736000",
+        "00:39:13.404000",
+        "called the House of Tomorrow."
+      ]
+    ],
+    "regex": "\\b((?!\\bHouse\\ of\\ Tomorrow:)House\\ of\\ Tomorrow)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

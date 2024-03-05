@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1666335",
+    "title": "The Calling",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1230,
+    "occurrences": [
+      [
+        388,
+        "00:30:59.924000",
+        "00:31:02.026000",
+        "Thank you. I was just calling to see if there'd been"
+      ],
+      [
+        423,
+        "00:32:44.529000",
+        "00:32:46.831000",
+        "Serial killers leave calling cards."
+      ],
+      [
+        549,
+        "00:41:16.006000",
+        "00:41:17.174000",
+        "You been calling your mother?"
+      ],
+      [
+        1110,
+        "01:30:29.925000",
+        "01:30:32.660000",
+        "You heard the calling"
+      ]
+    ],
+    "regex": "\\b((?!\\bCalling:)Calling)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

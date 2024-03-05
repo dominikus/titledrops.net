@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7042024",
+    "title": "Kilian Jornet: Path to Everest",
+    "year": 2018,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 746,
+    "occurrences": [
+      [
+        159,
+        "00:16:16.750000",
+        "00:16:22.500000",
+        "I'd come to hate my name. I hated 'Kilian Jornet', and my photo."
+      ],
+      [
+        675,
+        "01:15:53.167000",
+        "01:15:57.667000",
+        "Kilian Jornet has set a new record, climbing Everest twice in a week..."
+      ]
+    ],
+    "regex": "\\b((?!\\bKilian\\ Jornet:)Kilian\\ Jornet|(?!\\bPath\\ to\\ Everest:)Path\\ to\\ Everest)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

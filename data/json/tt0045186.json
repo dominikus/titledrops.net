@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0045186",
+    "title": "The Star",
+    "year": 1952,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 733,
+    "occurrences": [
+      [
+        601,
+        "01:14:10.448000",
+        "01:14:12.973000",
+        "Feels like we're trapped inside a star"
+      ],
+      [
+        724,
+        "01:37:46.562000",
+        "01:37:48.496000",
+        "Look at that star!"
+      ]
+    ],
+    "regex": "\\b((?!\\bStar:)Star)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

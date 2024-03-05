@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5134254",
+    "title": "Drunk Bus",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1813,
+    "occurrences": [
+      [
+        74,
+        "00:06:50.975000",
+        "00:06:52.511000",
+        "My last college didn't have a drunk bus."
+      ],
+      [
+        1130,
+        "00:56:22.811000",
+        "00:56:24.746000",
+        "Drunk bus."
+      ],
+      [
+        1139,
+        "00:57:06.054000",
+        "00:57:07.556000",
+        "ALL: (CHEERING) Drunk bus!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDrunk\\ Bus:)Drunk\\ Bus)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

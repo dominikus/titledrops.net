@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0032788",
+    "title": "Michael Shayne: Private Detective",
+    "year": 1940,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 1226,
+    "occurrences": [
+      [
+        470,
+        "00:29:38.341000",
+        "00:29:41.333000",
+        "I'm holding Michael Shayne on suspicion of murder."
+      ],
+      [
+        471,
+        "00:29:41.410000",
+        "00:29:43.002000",
+        "- What? - Michael Shayne?"
+      ],
+      [
+        695,
+        "00:44:52.521000",
+        "00:44:55.422000",
+        "- To the Michael Shayne home for Michael Shayne. -"
+      ],
+      [
+        735,
+        "00:47:22.437000",
+        "00:47:25.838000",
+        "Thanks, Benny. And when I build the Michael Shayne Home..."
+      ],
+      [
+        830,
+        "00:53:04.211000",
+        "00:53:07.112000",
+        "You see, my brother hired Michael Shayne..."
+      ],
+      [
+        897,
+        "00:56:51.671000",
+        "00:56:53.605000",
+        "Is Michael Shayne still here?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMichael\\ Shayne:)Michael\\ Shayne|(?!\\bPrivate\\ Detective:)Private\\ Detective)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

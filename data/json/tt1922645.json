@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1922645",
+    "title": "The Fairy",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 310,
+    "occurrences": [
+      [
+        14,
+        "00:06:30.231000",
+        "00:06:32.586000",
+        "My name is Fiona, I'm a fairy."
+      ],
+      [
+        61,
+        "00:19:12.991000",
+        "00:19:14.868000",
+        "I am a fairy."
+      ],
+      [
+        232,
+        "01:09:29.271000",
+        "01:09:31.831000",
+        "a fairy lived there."
+      ]
+    ],
+    "regex": "\\b((?!\\bFairy:)Fairy)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

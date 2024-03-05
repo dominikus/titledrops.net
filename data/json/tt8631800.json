@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt8631800",
+    "title": "Up North",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1392,
+    "occurrences": [
+      [
+        617,
+        "00:40:56.360000",
+        "00:40:58.560000",
+        "Reporting live all the way from up north,"
+      ],
+      [
+        728,
+        "00:47:20.280000",
+        "00:47:23.800000",
+        "Signing out, broadcasting live all the way from up north in Bauchi."
+      ],
+      [
+        881,
+        "00:57:12.920000",
+        "00:57:15.960000",
+        "I'm Bassey, all the way from up north. Let's go."
+      ],
+      [
+        1092,
+        "01:13:19.400000",
+        "01:13:22.360000",
+        "It is very commendable what you did with the girls up north."
+      ]
+    ],
+    "regex": "\\b((?!\\bUp\\ North:)Up\\ North)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

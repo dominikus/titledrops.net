@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3626440",
+    "title": "Mr. Dynamite: The Rise of James Brown",
+    "year": 2014,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1683,
+    "occurrences": [
+      [
+        239,
+        "00:18:13.510000",
+        "00:18:16.805000",
+        "\"Mr. Dynamite,\" the amazing \"Mr. Please, Please\" himself,"
+      ],
+      [
+        541,
+        "00:43:09.630000",
+        "00:43:12.132000",
+        "The living legend, the fantastic, Mr. Dynamite,"
+      ]
+    ],
+    "regex": "\\b((?!\\bMr\\.\\ Dynamite:)Mr\\.\\ Dynamite|(?!\\bRise\\ of\\ James\\ Brown:)Rise\\ of\\ James\\ Brown)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

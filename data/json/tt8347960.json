@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt8347960",
+    "title": "Breath",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 543,
+    "occurrences": [
+      [
+        14,
+        "00:03:42.842000",
+        "00:03:47.841000",
+        "It's life, a breath, a moment."
+      ],
+      [
+        391,
+        "01:10:27.967000",
+        "01:10:32.466000",
+        "so I can rest up there, catch my breath,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBreath:)Breath)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0088006",
+    "title": "The River Rat",
+    "year": 1984,
+    "genres": [
+      "Adventure",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1132,
+    "occurrences": [
+      [
+        197,
+        "00:19:19.491000",
+        "00:19:21.527000",
+        "Could you give me a hand on the River Rat?"
+      ],
+      [
+        353,
+        "00:29:56.227000",
+        "00:29:57.896000",
+        "I'm going to check the River Rat."
+      ]
+    ],
+    "regex": "\\b((?!\\bRiver\\ Rat:)River\\ Rat)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

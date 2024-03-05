@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1270114",
+    "title": "Saints and Soldiers: The Void",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1097,
+    "occurrences": [
+      [
+        30,
+        "00:02:11.998000",
+        "00:02:15.736000",
+        "our GI's have nicknamed, \"The Void,\""
+      ],
+      [
+        305,
+        "00:21:05.886000",
+        "00:21:08.308000",
+        "through St. Andreasberg so into the void we go."
+      ],
+      [
+        344,
+        "00:23:51.897000",
+        "00:23:55.466000",
+        "welcome to the Void 100 miles of debris and carnage after our"
+      ]
+    ],
+    "regex": "\\b((?!\\bSaints\\ and\\ Soldiers:)Saints\\ and\\ Soldiers|(?!\\bVoid:)Void)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

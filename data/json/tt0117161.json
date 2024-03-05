@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0117161",
+    "title": "Sleeping Man",
+    "year": 1996,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 627,
+    "occurrences": [
+      [
+        1,
+        "00:00:26.640000",
+        "00:00:32.795000",
+        "Produkcions Commission \"Sleeping Man\""
+      ],
+      [
+        419,
+        "00:58:53.520000",
+        "00:58:56.193000",
+        "The sleeping man."
+      ],
+      [
+        420,
+        "00:58:57.920000",
+        "00:58:59.990000",
+        "The sleeping man?"
+      ],
+      [
+        423,
+        "00:59:12.080000",
+        "00:59:14.116000",
+        "Is the sleeping man."
+      ]
+    ],
+    "regex": "\\b((?!\\bSleeping\\ Man:)Sleeping\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

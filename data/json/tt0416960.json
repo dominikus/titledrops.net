@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt0416960",
+    "title": "The Lizard",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 1547,
+    "occurrences": [
+      [
+        3,
+        "00:00:25.280000",
+        "00:00:28.955000",
+        "Lizard"
+      ],
+      [
+        732,
+        "00:53:41.040000",
+        "00:53:45.352000",
+        "At your service, Reza the Lizard I missed you so much"
+      ],
+      [
+        739,
+        "00:54:50.428000",
+        "00:54:51.430000",
+        "Are you Reza the Lizard?"
+      ],
+      [
+        1003,
+        "01:14:19.680000",
+        "01:14:21.716000",
+        "What brings you this way, Mr. Reza the lizard?"
+      ],
+      [
+        1136,
+        "01:22:02.560000",
+        "01:22:06.792000",
+        "I wasn't facing him, but the teahouse owner called him the Lizard"
+      ],
+      [
+        1437,
+        "01:40:18.345000",
+        "01:40:19.470000",
+        "Reza the lizard"
+      ],
+      [
+        1527,
+        "01:44:48.320000",
+        "01:44:49.799000",
+        "Reza the lizard"
+      ]
+    ],
+    "regex": "\\b((?!\\bLizard:)Lizard)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.4
+  }
+]

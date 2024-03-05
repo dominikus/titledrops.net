@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0061474",
+    "title": "The Zoo",
+    "year": 1967,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 1523,
+    "occurrences": [
+      [
+        317,
+        "00:22:42.961000",
+        "00:22:44.258000",
+        "Will the sirs go to the zoo?"
+      ],
+      [
+        320,
+        "00:22:48.567000",
+        "00:22:51.092000",
+        "What you call as Rose Colony... We say the zoo..."
+      ],
+      [
+        326,
+        "00:23:07.819000",
+        "00:23:10.083000",
+        "Why the sirs wished to see the zoo?"
+      ],
+      [
+        398,
+        "00:29:44.682000",
+        "00:29:49.119000",
+        "No, sir, no photo. I am no inmate of a zoo. Tell him Nishanath."
+      ],
+      [
+        695,
+        "00:55:56.886000",
+        "00:55:59.616000",
+        "It would not be easy to find the truth of the zoo."
+      ]
+    ],
+    "regex": "\\b((?!\\bZoo:)Zoo)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

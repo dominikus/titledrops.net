@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0090570",
+    "title": "84 Charing Cross Road",
+    "year": 1987,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1052,
+    "occurrences": [
+      [
+        14,
+        "00:03:20.329000",
+        "00:03:22.445000",
+        "84 Charing Cross Road."
+      ],
+      [
+        30,
+        "00:05:27.489000",
+        "00:05:30.925000",
+        "To Marks & Co., 84 Charing Cross Road."
+      ],
+      [
+        504,
+        "00:40:57.409000",
+        "00:41:02.403000",
+        "...from all at 84 Charing Cross Road. London, April, 1951."
+      ],
+      [
+        1045,
+        "01:29:29.369000",
+        "01:29:32.202000",
+        "If you happen to pass by 84 Charing Cross Road..."
+      ]
+    ],
+    "regex": "\\b((?!\\b84\\ Charing\\ Cross\\ Road:)84\\ Charing\\ Cross\\ Road)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

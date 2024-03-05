@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt5201934",
+    "title": "Secret Santa",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 1094,
+    "occurrences": [
+      [
+        32,
+        "00:02:57.211000",
+        "00:03:00.448000",
+        "Merry Christmas from your secret santa."
+      ],
+      [
+        34,
+        "00:03:06.987000",
+        "00:03:11.158000",
+        "We're not suppose to do secret santa until tomorrow."
+      ],
+      [
+        579,
+        "00:40:17.583000",
+        "00:40:21.119000",
+        "- All right, let's get this secret santa party started."
+      ],
+      [
+        591,
+        "00:40:50.248000",
+        "00:40:52.818000",
+        "- To Brian, from secret santa."
+      ],
+      [
+        599,
+        "00:41:18.276000",
+        "00:41:19.645000",
+        "- The whole point of secret santa is that"
+      ],
+      [
+        721,
+        "00:49:04.375000",
+        "00:49:07.778000",
+        "- Ah, to Carissa, from your secret santa."
+      ]
+    ],
+    "regex": "\\b((?!\\bSecret\\ Santa:)Secret\\ Santa)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

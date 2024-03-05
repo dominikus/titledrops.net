@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0050903",
+    "title": "The River's Edge",
+    "year": 1957,
+    "genres": [
+      "Adventure",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1054,
+    "occurrences": [
+      [
+        1,
+        "00:00:07.607000",
+        "00:00:12.044000",
+        "~ The river's edge ~"
+      ],
+      [
+        5,
+        "00:00:24.457000",
+        "00:00:28.791000",
+        "~ The river's edge ~"
+      ],
+      [
+        16,
+        "00:01:10.370000",
+        "00:01:15.535000",
+        "~ At the river's edge ~~"
+      ]
+    ],
+    "regex": "\\b((?!\\bRiver's\\ Edge:)River's\\ Edge)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

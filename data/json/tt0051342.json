@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0051342",
+    "title": "Aphrodite, Goddess of Love",
+    "year": 1958,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1163,
+    "occurrences": [
+      [
+        271,
+        "00:21:04.440000",
+        "00:21:06.158000",
+        "That's how I see Aphrodite, goddess of love."
+      ],
+      [
+        664,
+        "00:54:54.360000",
+        "00:54:56.590000",
+        "To Aphrodite, goddess of love!"
+      ]
+    ],
+    "regex": "\\b((?!\\bAphrodite,\\ Goddess\\ of\\ Love:)Aphrodite,\\ Goddess\\ of\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

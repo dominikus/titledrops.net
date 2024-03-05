@@ -1,0 +1,75 @@
+[
+  {
+    "imdb": "tt5963066",
+    "title": "The Cabin",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 9,
+    "all_lines": 563,
+    "occurrences": [
+      [
+        102,
+        "00:14:55.979000",
+        "00:14:58.478000",
+        "Uh, we are almost to the cabin."
+      ],
+      [
+        131,
+        "00:17:11.155000",
+        "00:17:13.407000",
+        "That's the cabin right there, across the lake."
+      ],
+      [
+        138,
+        "00:17:32.051000",
+        "00:17:34.384000",
+        "We're looking for a boat to cross the lake to the cabin."
+      ],
+      [
+        139,
+        "00:17:34.386000",
+        "00:17:35.678000",
+        "Our cabin's on the other side."
+      ],
+      [
+        152,
+        "00:18:09.798000",
+        "00:18:11.588000",
+        "to get to the cabin."
+      ],
+      [
+        156,
+        "00:18:20.599000",
+        "00:18:22.475000",
+        "Do you see the cabin on the other side of the lake?"
+      ],
+      [
+        157,
+        "00:18:22.477000",
+        "00:18:24.267000",
+        "That is my parent's cabin."
+      ],
+      [
+        296,
+        "00:30:05.763000",
+        "00:30:07.889000",
+        "HARRY: Rose, let's just go back to the cabin."
+      ],
+      [
+        298,
+        "00:30:10.684000",
+        "00:30:14.187000",
+        "Do you have a guest cabin or room?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCabin:)Cabin)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.8
+  }
+]

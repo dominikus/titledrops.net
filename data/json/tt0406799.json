@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0406799",
+    "title": "Through the Fire",
+    "year": 1988,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1206,
+    "occurrences": [
+      [
+        514,
+        "00:32:51.987000",
+        "00:32:55.290000",
+        "They were passed through the fire to Moloch."
+      ],
+      [
+        1199,
+        "01:26:03.634000",
+        "01:26:08.689000",
+        "No please don't take me through the fire"
+      ],
+      [
+        1201,
+        "01:26:19.942000",
+        "01:26:25.122000",
+        "You'll see reality through the fire"
+      ],
+      [
+        1205,
+        "01:26:53.267000",
+        "01:26:58.363000",
+        "You know you'll take me through the fire"
+      ]
+    ],
+    "regex": "\\b((?!\\bThrough\\ the\\ Fire:)Through\\ the\\ Fire)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

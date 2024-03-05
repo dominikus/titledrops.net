@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0300028",
+    "title": "Indian",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1579,
+    "occurrences": [
+      [
+        42,
+        "00:05:26.913000",
+        "00:05:30.273000",
+        "of the Indian Airlines aircraft VTED W300."
+      ],
+      [
+        1493,
+        "02:35:00.953000",
+        "02:35:06.633000",
+        "I'm not merely a police officer. I'm also an Indian. An Indian!"
+      ],
+      [
+        1502,
+        "02:35:39.553000",
+        "02:35:45.513000",
+        "Every Indian has it. And nobody can take away that right from us!"
+      ]
+    ],
+    "regex": "\\b((?!\\bIndian:)Indian)(?!\\:)(?!'t)\\b",
+    "runtime": 178,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

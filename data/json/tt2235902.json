@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt2235902",
+    "title": "Geography Club",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 835,
+    "occurrences": [
+      [
+        9,
+        "00:01:38.276000",
+        "00:01:42.274000",
+        "Geography club"
+      ],
+      [
+        195,
+        "00:18:14.669000",
+        "00:18:16.965000",
+        "Because the sign on the door says 'Geography club'..."
+      ],
+      [
+        198,
+        "00:18:21.833000",
+        "00:18:26.729000",
+        "- He knew what? - This is not a geography club."
+      ],
+      [
+        424,
+        "00:37:02.327000",
+        "00:37:04.147000",
+        "I'd like to join the Geography club."
+      ],
+      [
+        496,
+        "00:41:05.944000",
+        "00:41:07.452000",
+        "So why you guys named it Geography club?"
+      ],
+      [
+        727,
+        "01:03:14.253000",
+        "01:03:15.353000",
+        "With the Geography Club?"
+      ]
+    ],
+    "regex": "\\b((?!\\bGeography\\ Club:)Geography\\ Club)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

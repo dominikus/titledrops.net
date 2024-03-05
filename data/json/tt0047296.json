@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0047296",
+    "title": "On the Waterfront",
+    "year": 1954,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1249,
+    "occurrences": [
+      [
+        705,
+        "00:50:02.299000",
+        "00:50:04.494000",
+        "We got the best muscle on the waterfront."
+      ],
+      [
+        752,
+        "00:53:56.933000",
+        "00:54:00.096000",
+        "If you don't think Christ is here on the waterfront, you've another guess coming!"
+      ],
+      [
+        1150,
+        "01:33:41.282000",
+        "01:33:45.412000",
+        "There's no place that's safe for you now on the waterfront."
+      ]
+    ],
+    "regex": "\\b((?!\\bOn\\ the\\ Waterfront:)On\\ the\\ Waterfront)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

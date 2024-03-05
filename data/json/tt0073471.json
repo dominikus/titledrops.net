@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0073471",
+    "title": "Number Two",
+    "year": 1975,
+    "genres": [
+      "Documentary",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1225,
+    "occurrences": [
+      [
+        270,
+        "00:15:39.040000",
+        "00:15:40.075000",
+        "and number two."
+      ],
+      [
+        277,
+        "00:15:56.440000",
+        "00:15:57.555000",
+        "\"Number Two\""
+      ],
+      [
+        1169,
+        "01:19:33.280000",
+        "01:19:35.794000",
+        "Number one and number two."
+      ]
+    ],
+    "regex": "\\b((?!\\bNumber\\ Two:)Number\\ Two)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

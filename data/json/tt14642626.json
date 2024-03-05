@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt14642626",
+    "title": "Sick",
+    "year": 2022,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 601,
+    "occurrences": [
+      [
+        71,
+        "00:13:09.320000",
+        "00:13:11.320000",
+        "Sick. Disgusting."
+      ],
+      [
+        201,
+        "00:23:32.160000",
+        "00:23:33.880000",
+        "Literally how people get sick."
+      ],
+      [
+        202,
+        "00:23:36.480000",
+        "00:23:39.800000",
+        "We're too young to get sick. You should know that, Dr. Miri."
+      ],
+      [
+        525,
+        "01:05:00.200000",
+        "01:05:01.320000",
+        "I'm not sick. I have..."
+      ],
+      [
+        531,
+        "01:05:15.200000",
+        "01:05:19.120000",
+        "I'm not sick! I don't have COVID!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSick:)Sick)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

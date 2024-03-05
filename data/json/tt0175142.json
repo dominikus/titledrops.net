@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0175142",
+    "title": "Scary Movie",
+    "year": 2000,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1161,
+    "occurrences": [
+      [
+        6,
+        "00:00:58.225000",
+        "00:01:01.812000",
+        "- Ooh! What is it? - It's just a scary movie."
+      ],
+      [
+        979,
+        "01:07:22.330000",
+        "01:07:26.960000",
+        "- Hello? - Hello. What's your favourite scary movie?"
+      ]
+    ],
+    "regex": "\\b((?!\\bScary\\ Movie:)Scary\\ Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt8526344",
+    "title": "Juvenile Delinquents",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 2340,
+    "occurrences": [
+      [
+        956,
+        "00:49:01.271000",
+        "00:49:03.106000",
+        "a bunch of juvenile delinquents"
+      ],
+      [
+        1091,
+        "00:55:31.202000",
+        "00:55:33.246000",
+        "- Fucking juvenile delinquents."
+      ],
+      [
+        1097,
+        "00:55:44.758000",
+        "00:55:46.092000",
+        "- Juvenile Delinquents."
+      ],
+      [
+        1100,
+        "00:55:56.186000",
+        "00:55:59.272000",
+        "I've decided to join the Juvenile Delinquents."
+      ]
+    ],
+    "regex": "\\b((?!\\bJuvenile\\ Delinquents:)Juvenile\\ Delinquents)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

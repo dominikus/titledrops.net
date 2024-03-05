@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0439848",
+    "title": "These Foolish Things",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1525,
+    "occurrences": [
+      [
+        736,
+        "00:44:03.280000",
+        "00:44:08.827000",
+        "These foolish things remind me of you"
+      ],
+      [
+        1476,
+        "01:41:36.688000",
+        "01:41:40.192000",
+        "These foolish things"
+      ],
+      [
+        1483,
+        "01:42:17.145000",
+        "01:42:20.399000",
+        "These foolish things"
+      ],
+      [
+        1497,
+        "01:43:40.312000",
+        "01:43:45.609000",
+        "These foolish things"
+      ]
+    ],
+    "regex": "\\b((?!\\bThese\\ Foolish\\ Things:)These\\ Foolish\\ Things)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

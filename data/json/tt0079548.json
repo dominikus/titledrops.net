@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0079548",
+    "title": "Messidor",
+    "year": 1979,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 857,
+    "occurrences": [
+      [
+        173,
+        "00:21:45.700000",
+        "00:21:47.500000",
+        "The family's name is Messidor."
+      ],
+      [
+        181,
+        "00:22:24.300000",
+        "00:22:26.800000",
+        "Messidor was a summer month"
+      ]
+    ],
+    "regex": "\\b((?!\\bMessidor:)Messidor)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt15392020",
+    "title": "26th Street Garage: The FBI's Untold Story of 9/11",
+    "year": 2021,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 939,
+    "occurrences": [
+      [
+        176,
+        "00:14:25.098000",
+        "00:14:29.002000",
+        "\"Well, we could go to the 26th Street Garage.\""
+      ],
+      [
+        181,
+        "00:14:35.808000",
+        "00:14:40.380000",
+        "The 26th Street Garage is the greatest untold story of 9/11."
+      ],
+      [
+        183,
+        "00:14:49.122000",
+        "00:14:51.858000",
+        "We made the decision to walk to the 26th Street Garage"
+      ],
+      [
+        225,
+        "00:17:12.899000",
+        "00:17:17.637000",
+        "As were now seeing the 26th Street Garage take its form,"
+      ],
+      [
+        878,
+        "00:53:38.649000",
+        "00:53:41.886000",
+        "The structure that evolved in the 26th Street Garage"
+      ]
+    ],
+    "regex": "\\b((?!\\b26th\\ Street\\ Garage:)26th\\ Street\\ Garage|(?!\\bFBI's\\ Untold\\ Story\\ of\\ 9/11:)FBI's\\ Untold\\ Story\\ of\\ 9/11)(?!\\:)(?!'t)\\b",
+    "runtime": 58,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

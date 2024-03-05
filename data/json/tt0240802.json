@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0240802",
+    "title": "The Photographer",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1370,
+    "occurrences": [
+      [
+        28,
+        "00:01:59.286000",
+        "00:02:03.905000",
+        "It's really great that I can call myself a photographer"
+      ],
+      [
+        268,
+        "00:17:39.475000",
+        "00:17:42.009000",
+        "You're the best photographer I've ever seen."
+      ],
+      [
+        542,
+        "00:37:08.410000",
+        "00:37:10.142000",
+        "You're the artist, the photographer."
+      ],
+      [
+        690,
+        "00:45:28.543000",
+        "00:45:30.709000",
+        "So, you're a photographer ?"
+      ],
+      [
+        758,
+        "00:48:51.629000",
+        "00:48:54.330000",
+        "God, a writer and a photographer."
+      ],
+      [
+        1280,
+        "01:21:08.597000",
+        "01:21:09.879000",
+        "You must be the photographer."
+      ]
+    ],
+    "regex": "\\b((?!\\bPhotographer:)Photographer)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

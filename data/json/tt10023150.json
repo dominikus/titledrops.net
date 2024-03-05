@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt10023150",
+    "title": "My Cousin",
+    "year": 2020,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 7,
+    "all_lines": 1471,
+    "occurrences": [
+      [
+        1,
+        "00:00:08.500000",
+        "00:00:13.500000",
+        "Mon Cousin AKA My Cousin"
+      ],
+      [
+        384,
+        "00:25:37.321000",
+        "00:25:39.156000",
+        "Adrien, my cousin."
+      ],
+      [
+        781,
+        "00:50:54.755000",
+        "00:50:55.881000",
+        "He is my cousin."
+      ],
+      [
+        1057,
+        "01:09:52.684000",
+        "01:09:54.853000",
+        "He is my cousin, we are together, he is like my brother."
+      ],
+      [
+        1180,
+        "01:17:40.527000",
+        "01:17:42.613000",
+        "- Adrien, my cousin. - Pleasure."
+      ],
+      [
+        1199,
+        "01:18:31.995000",
+        "01:18:33.664000",
+        "My cousin, Adrien Pastie."
+      ],
+      [
+        1296,
+        "01:24:33.065000",
+        "01:24:35.317000",
+        "Instead my cousin is a prince."
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Cousin:)My\\ Cousin)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

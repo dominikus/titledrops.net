@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0075024",
+    "title": "The Punishment",
+    "year": 1976,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 802,
+    "occurrences": [
+      [
+        281,
+        "00:36:33.880000",
+        "00:36:36.599000",
+        "Whatever my punishment..."
+      ],
+      [
+        355,
+        "00:50:15.040000",
+        "00:50:17.190000",
+        "If that's my punishment..."
+      ],
+      [
+        356,
+        "00:50:19.560000",
+        "00:50:22.393000",
+        "If that's your punishment, why don't you surrender ?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPunishment:)Punishment)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

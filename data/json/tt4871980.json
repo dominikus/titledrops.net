@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4871980",
+    "title": "The Perfect Match",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1962,
+    "occurrences": [
+      [
+        1784,
+        "01:23:29.600000",
+        "01:23:31.204000",
+        "the perfect match."
+      ],
+      [
+        1785,
+        "01:23:31.280000",
+        "01:23:33.009000",
+        "The perfect match!"
+      ]
+    ],
+    "regex": "\\b((?!\\bPerfect\\ Match:)Perfect\\ Match)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

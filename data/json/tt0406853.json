@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt0406853",
+    "title": "The President's Barber",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 1245,
+    "occurrences": [
+      [
+        1,
+        "00:01:20.349000",
+        "00:01:26.582000",
+        "(The President's Barber)"
+      ],
+      [
+        693,
+        "00:53:06.034000",
+        "00:53:09.561000",
+        "But as the president's barber,"
+      ],
+      [
+        699,
+        "00:53:47.867000",
+        "00:53:51.967000",
+        "And found out that he was the president's barber."
+      ],
+      [
+        899,
+        "01:09:37.712000",
+        "01:09:39.345000",
+        "I am the president's barber!"
+      ],
+      [
+        1065,
+        "01:24:12.878000",
+        "01:24:16.178000",
+        "I am the president's barber!"
+      ],
+      [
+        1066,
+        "01:24:25.945000",
+        "01:24:27.578000",
+        "I am the president's barber!"
+      ],
+      [
+        1218,
+        "01:47:16.678000",
+        "01:47:19.678000",
+        "Who used to be the president's barber?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPresident's\\ Barber:)President's\\ Barber)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

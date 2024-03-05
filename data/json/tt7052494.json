@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7052494",
+    "title": "Trading Paint",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1205,
+    "occurrences": [
+      [
+        418,
+        "00:31:03.438000",
+        "00:31:06.405000",
+        "These two old veterans are trading paint now"
+      ],
+      [
+        491,
+        "00:35:49.326000",
+        "00:35:51.060000",
+        "Welcome back to Trading Paint."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrading\\ Paint:)Trading\\ Paint)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

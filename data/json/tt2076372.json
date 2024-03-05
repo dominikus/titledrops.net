@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt2076372",
+    "title": "Toad Road",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 813,
+    "occurrences": [
+      [
+        162,
+        "00:17:47.634000",
+        "00:17:50.435000",
+        "It's like a walk down Toad Road for Christ's sake."
+      ],
+      [
+        164,
+        "00:17:53.106000",
+        "00:17:55.440000",
+        "What's Toad Road?"
+      ],
+      [
+        165,
+        "00:17:55.442000",
+        "00:18:00.578000",
+        "Oh yeah! You're a city girl. You don't know about Toad Road."
+      ],
+      [
+        167,
+        "00:18:04.551000",
+        "00:18:09.087000",
+        "Toad Road is uh, like the local high school local legend."
+      ],
+      [
+        203,
+        "00:19:47.587000",
+        "00:19:49.954000",
+        "It'd be better than Toad Road, though."
+      ]
+    ],
+    "regex": "\\b((?!\\bToad\\ Road:)Toad\\ Road)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

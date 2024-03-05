@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3593120",
+    "title": "The Device",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 866,
+    "occurrences": [
+      [
+        722,
+        "01:11:57.113000",
+        "01:12:00.317000",
+        "Tracking device. Who knows?"
+      ],
+      [
+        775,
+        "01:18:35.243000",
+        "01:18:38.245000",
+        "And I know  you have the device."
+      ],
+      [
+        805,
+        "01:21:21.810000",
+        "01:21:23.757000",
+        "For the device."
+      ]
+    ],
+    "regex": "\\b((?!\\bDevice:)Device)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

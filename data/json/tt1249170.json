@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1249170",
+    "title": "Fighting Fish",
+    "year": 2010,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1295,
+    "occurrences": [
+      [
+        1,
+        "00:00:38.551000",
+        "00:00:40.070000",
+        "- All right, remember these are Fighting Fish,"
+      ],
+      [
+        971,
+        "00:57:58.352000",
+        "00:57:59.796000",
+        "-  That's a fighting fish."
+      ],
+      [
+        975,
+        "00:58:05.750000",
+        "00:58:08.218000",
+        "If a fighting fish sees its own reflection, it just,"
+      ],
+      [
+        1229,
+        "01:18:59.999000",
+        "01:19:02.066000",
+        "- I need another fighting fish."
+      ]
+    ],
+    "regex": "\\b((?!\\bFighting\\ Fish:)Fighting\\ Fish)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

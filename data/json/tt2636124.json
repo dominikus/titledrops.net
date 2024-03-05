@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt2636124",
+    "title": "Ghost in the Shell: Arise - Border 1: Ghost Pain",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Animation",
+      "Sci-Fi"
+    ],
+    "count": 1,
+    "all_lines": 538,
+    "occurrences": [
+      [
+        330,
+        "00:33:51.489000",
+        "00:33:57.286000",
+        "So perhaps you could call this \"ghost pain,\" created by false memories."
+      ]
+    ],
+    "regex": "\\b((?!\\bGhost\\ in\\ the\\ Shell:)Ghost\\ in\\ the\\ Shell|(?!\\bArise\\ \\-\\ Border:)Arise\\ \\-\\ Border|(?!\\bGhost\\ Pain:)Ghost\\ Pain)(?!\\:)(?!'t)\\b",
+    "runtime": 58,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

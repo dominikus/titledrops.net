@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0119164",
+    "title": "The Full Monty",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1597,
+    "occurrences": [
+      [
+        926,
+        "00:51:20.579000",
+        "00:51:23.013000",
+        "SHERYL: The full monty? you lot?"
+      ],
+      [
+        933,
+        "00:51:36.895000",
+        "00:51:39.830000",
+        "No one said anything to me about the full monty."
+      ],
+      [
+        1439,
+        "01:23:39.865000",
+        "01:23:41.457000",
+        "we're going for the full monty!"
+      ]
+    ],
+    "regex": "\\b((?!\\bFull\\ Monty:)Full\\ Monty)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

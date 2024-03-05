@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0198506",
+    "title": "Miyamoto Musashi V: Duel at Ganryu Island",
+    "year": 1965,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 405,
+    "occurrences": [
+      [
+        170,
+        "00:33:09.588000",
+        "00:33:12.048000",
+        "Miyamoto Musashi."
+      ],
+      [
+        174,
+        "00:33:27.035000",
+        "00:33:34.037000",
+        "Yoshioka Dojo all alone. Miyamoto Musashi is a man I'd like,"
+      ],
+      [
+        235,
+        "00:39:01.175000",
+        "00:39:06.955000",
+        "Could you be... Miyamoto Musashi-sama ?"
+      ],
+      [
+        290,
+        "00:46:37.688000",
+        "00:46:42.969000",
+        "That man you are seeking, Miyamoto Musashi, is in Edo now."
+      ]
+    ],
+    "regex": "\\b((?!\\bMiyamoto\\ Musashi:)Miyamoto\\ Musashi|(?!\\bDuel\\ at\\ Ganryu\\ Island:)Duel\\ at\\ Ganryu\\ Island)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

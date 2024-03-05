@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt6285404",
+    "title": "Feel Rich: Health Is the New Wealth",
+    "year": 2017,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1675,
+    "occurrences": [
+      [
+        532,
+        "00:23:17.980000",
+        "00:23:19.023000",
+        "I feel rich."
+      ],
+      [
+        1172,
+        "00:50:04.543000",
+        "00:50:05.962000",
+        "Feel rich."
+      ],
+      [
+        1568,
+        "01:05:41.522000",
+        "01:05:46.902000",
+        "mentally, physically, all of that, you wanna feel rich."
+      ]
+    ],
+    "regex": "\\b((?!\\bFeel\\ Rich:)Feel\\ Rich|(?!\\bHealth\\ Is\\ the\\ New\\ Wealth:)Health\\ Is\\ the\\ New\\ Wealth)(?!\\:)(?!'t)\\b",
+    "runtime": 70,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

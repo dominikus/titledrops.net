@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0227445",
+    "title": "The Score",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1061,
+    "occurrences": [
+      [
+        155,
+        "00:21:14.491000",
+        "00:21:16.886000",
+        "You're never going to get another chance at a score like this..."
+      ],
+      [
+        594,
+        "00:59:14.936000",
+        "00:59:16.288000",
+        "And when this whole score is done,"
+      ],
+      [
+        988,
+        "01:48:14.122000",
+        "01:48:17.209000",
+        "on a score that I set up from the beginning!"
+      ]
+    ],
+    "regex": "\\b((?!\\bScore:)Score)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

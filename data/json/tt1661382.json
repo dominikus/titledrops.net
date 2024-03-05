@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1661382",
+    "title": "Grudge Match",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sport"
+    ],
+    "count": 3,
+    "all_lines": 1972,
+    "occurrences": [
+      [
+        31,
+        "00:01:48.480000",
+        "00:01:52.471000",
+        "What lay ahead was the grudge match that would've brought each fighter millions."
+      ],
+      [
+        1523,
+        "01:18:25.320000",
+        "01:18:28.390000",
+        "There was no grudge match. You never beat me."
+      ],
+      [
+        1652,
+        "01:27:28.440000",
+        "01:27:33.102000",
+        "...where a raucous sold-out crowd has assembled for this unique grudge match."
+      ]
+    ],
+    "regex": "\\b((?!\\bGrudge\\ Match:)Grudge\\ Match)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

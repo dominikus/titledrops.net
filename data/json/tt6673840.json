@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt6673840",
+    "title": "Spacewalk",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 1916,
+    "occurrences": [
+      [
+        501,
+        "00:32:54.038000",
+        "00:32:56.421000",
+        "Simulated spacewalk completed."
+      ],
+      [
+        533,
+        "00:34:35.842000",
+        "00:34:39.414000",
+        "The simulation of the spacewalk was successful."
+      ],
+      [
+        539,
+        "00:34:52.712000",
+        "00:34:54.429000",
+        "Was there a spacewalk?"
+      ],
+      [
+        755,
+        "00:49:46.454000",
+        "00:49:51.358000",
+        "Almaz-2, your spacewalk is a go."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpacewalk:)Spacewalk)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

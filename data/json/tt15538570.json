@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt15538570",
+    "title": "Johnny",
+    "year": 2022,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1213,
+    "occurrences": [
+      [
+        857,
+        "01:11:48.083000",
+        "01:11:50.208000",
+        "But it's best if you called me Johnny."
+      ],
+      [
+        1021,
+        "01:28:38.750000",
+        "01:28:42.208000",
+        "And Johnny did what Johnny does best."
+      ]
+    ],
+    "regex": "\\b((?!\\bJohnny:)Johnny)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

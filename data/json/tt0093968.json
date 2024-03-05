@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0093968",
+    "title": "Axiliad",
+    "year": 1986,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 732,
+    "occurrences": [
+      [
+        149,
+        "00:20:38.761000",
+        "00:20:41.227000",
+        "I came back knackered from the axiliad."
+      ],
+      [
+        576,
+        "01:02:46.922000",
+        "01:02:50.478000",
+        "-I got this from Peresada. The one who took on Kaziuk's axiliad."
+      ]
+    ],
+    "regex": "\\b((?!\\bAxiliad:)Axiliad)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

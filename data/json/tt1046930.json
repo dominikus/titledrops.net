@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1046930",
+    "title": "Headless Horseman",
+    "year": 2007,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 972,
+    "occurrences": [
+      [
+        176,
+        "00:15:38",
+        "00:15:41.925000",
+        "You're just in time for the Headless Horseman celebration."
+      ],
+      [
+        328,
+        "00:29:25.575000",
+        "00:29:29.300000",
+        "Someone is taking this Headless Horseman celebration too far."
+      ],
+      [
+        360,
+        "00:31:51.400000",
+        "00:31:55.400000",
+        "The Headless Horseman. He's the one that killed your friend."
+      ],
+      [
+        363,
+        "00:31:58.900000",
+        "00:32:01.700000",
+        "Enough with the Headless Horseman crap."
+      ]
+    ],
+    "regex": "\\b((?!\\bHeadless\\ Horseman:)Headless\\ Horseman)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1397511",
+    "title": "RiP: A Remix Manifesto",
+    "year": 2008,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 1413,
+    "occurrences": [
+      [
+        1325,
+        "01:22:16.055000",
+        "01:22:18.448000",
+        "Enter orkut community Rip!"
+      ],
+      [
+        1413,
+        "01:26:22.904000",
+        "01:26:28.580000",
+        "Thanks for watching! Among the community Rip! A remix manifesto;)"
+      ]
+    ],
+    "regex": "\\b((?!\\bRiP:)RiP|(?!\\bRemix\\ Manifesto:)Remix\\ Manifesto)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

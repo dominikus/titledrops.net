@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt8466482",
+    "title": "Before I Go",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1707,
+    "occurrences": [
+      [
+        430,
+        "00:24:01.520000",
+        "00:24:06.291000",
+        "Yeah, I mean, look harder one more time before I go."
+      ],
+      [
+        464,
+        "00:27:49.102000",
+        "00:27:53.268000",
+        "Before I go."
+      ],
+      [
+        1142,
+        "01:02:27.631000",
+        "01:02:32.975000",
+        "Before I go I don't know much but I'm alive right now"
+      ],
+      [
+        1693,
+        "01:37:13.541000",
+        "01:37:18.445000",
+        "Before I go I don't know much but I'm alive right now"
+      ],
+      [
+        1706,
+        "01:38:11.265000",
+        "01:38:16.333000",
+        "Before I go I don't know much but I'm alive right now"
+      ]
+    ],
+    "regex": "\\b((?!\\bBefore\\ I\\ Go:)Before\\ I\\ Go)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

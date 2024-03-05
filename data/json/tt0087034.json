@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt0087034",
+    "title": "Carmen",
+    "year": 1984,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 399,
+    "occurrences": [
+      [
+        104,
+        "00:24:56.469000",
+        "00:24:59.370000",
+        "Carmen, we follow you"
+      ],
+      [
+        333,
+        "00:52:31.656000",
+        "00:52:35.217000",
+        "Carmen, my head is whirling"
+      ],
+      [
+        336,
+        "00:52:45.637000",
+        "00:52:49.505000",
+        "If I love you, Carmen"
+      ],
+      [
+        391,
+        "01:03:54.038000",
+        "01:03:56.404000",
+        "Carmen, I'm sure you won't refuse."
+      ]
+    ],
+    "regex": "\\b((?!\\bCarmen:)Carmen)(?!\\:)(?!'t)\\b",
+    "runtime": 152,
+    "characters": [
+      "Carmen"
+    ],
+    "title_is_name": true,
+    "rating": 7.4
+  }
+]

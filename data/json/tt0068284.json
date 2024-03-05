@@ -1,0 +1,36 @@
+[
+  {
+    "imdb": "tt0068284",
+    "title": "Blacula",
+    "year": 1972,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 799,
+    "occurrences": [
+      [
+        56,
+        "00:05:31.130000",
+        "00:05:33.030000",
+        "...Blacula!"
+      ],
+      [
+        145,
+        "00:17:48.434000",
+        "00:17:50.095000",
+        "...Blacula!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlacula:)Blacula)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [
+      "Blacula",
+      "Mamuwalde"
+    ],
+    "title_is_name": true,
+    "rating": 5.7
+  }
+]

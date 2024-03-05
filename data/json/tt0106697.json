@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0106697",
+    "title": "Demolition Man",
+    "year": 1993,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1466,
+    "occurrences": [
+      [
+        390,
+        "00:30:19.932000",
+        "00:30:22.321000",
+        "They called him the \"Demolition Man.\""
+      ],
+      [
+        404,
+        "00:31:00.052000",
+        "00:31:02.202000",
+        "The Demolition Man's an animal."
+      ],
+      [
+        723,
+        "00:51:35.892000",
+        "00:51:38.406000",
+        "Yes, of course. The Demolition Man."
+      ]
+    ],
+    "regex": "\\b((?!\\bDemolition\\ Man:)Demolition\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

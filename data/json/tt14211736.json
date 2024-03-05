@@ -1,0 +1,52 @@
+[
+  {
+    "imdb": "tt14211736",
+    "title": "Caveman",
+    "year": 2023,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1504,
+    "occurrences": [
+      [
+        298,
+        "00:19:21.249000",
+        "00:19:23.541000",
+        "when I first met the caveman."
+      ],
+      [
+        327,
+        "00:21:27.082000",
+        "00:21:28.999000",
+        "Hi, nice to meet you. I'm Caveman."
+      ],
+      [
+        992,
+        "01:03:07.707000",
+        "01:03:10.124000",
+        "- What's got into you? - The caveman!"
+      ],
+      [
+        994,
+        "01:03:12.916000",
+        "01:03:14.416000",
+        "Caveman."
+      ],
+      [
+        996,
+        "01:03:16.749000",
+        "01:03:20.374000",
+        "Listen, I'm a caveman."
+      ]
+    ],
+    "regex": "\\b((?!\\bCaveman:)Caveman)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [
+      "Robert Müller",
+      "Caveman"
+    ],
+    "title_is_name": true,
+    "rating": 4.3
+  }
+]

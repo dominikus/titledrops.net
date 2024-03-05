@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0036972",
+    "title": "Johnny Doesn't Live Here Anymore",
+    "year": 1944,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 811,
+    "occurrences": [
+      [
+        0,
+        "00:00:17.750000",
+        "00:00:21.850000",
+        "Johnny doesn't live here anymore"
+      ],
+      [
+        127,
+        "00:14:51.165000",
+        "00:14:53.975000",
+        "Johnny doesn't live here anymore"
+      ]
+    ],
+    "regex": "\\b((?!\\bJohnny\\ Doesn't\\ Live\\ Here\\ Anymore:)Johnny\\ Doesn't\\ Live\\ Here\\ Anymore)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

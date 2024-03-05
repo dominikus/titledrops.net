@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt21445686",
+    "title": "Batman: The Long Halloween",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Animation",
+      "Crime"
+    ],
+    "count": 5,
+    "all_lines": 2098,
+    "occurrences": [
+      [
+        822,
+        "01:00:52.732000",
+        "01:00:56.194000",
+        "I never thought that Batman was going to have to be a detective."
+      ],
+      [
+        827,
+        "01:01:08.456000",
+        "01:01:11.543000",
+        "the Batman will be what the world needs him to be."
+      ],
+      [
+        1052,
+        "01:16:27.124000",
+        "01:16:29.126000",
+        "Bruce Wayne is the Batman?"
+      ],
+      [
+        1823,
+        "02:22:44.681000",
+        "02:22:46.099000",
+        "The long Halloween."
+      ],
+      [
+        2005,
+        "02:38:43.431000",
+        "02:38:45.224000",
+        "The long Halloween..."
+      ]
+    ],
+    "regex": "\\b((?!\\bBatman:)Batman|(?!\\bLong\\ Halloween:)Long\\ Halloween)(?!\\:)(?!'t)\\b",
+    "runtime": 168,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

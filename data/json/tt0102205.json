@@ -1,0 +1,34 @@
+[
+  {
+    "imdb": "tt0102205",
+    "title": "Kid",
+    "year": 1990,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1235,
+    "occurrences": [
+      [
+        70,
+        "00:08:49.060000",
+        "00:08:52.450000",
+        "I don't like this kid..."
+      ],
+      [
+        872,
+        "01:01:58.210000",
+        "01:02:03.710000",
+        "Compared to ``God'' I feel like a computer-loving little kid..."
+      ]
+    ],
+    "regex": "\\b((?!\\bKid:)Kid)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [
+      "Kid"
+    ],
+    "title_is_name": true,
+    "rating": 6.2
+  }
+]

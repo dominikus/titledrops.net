@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0258000",
+    "title": "Panic Room",
+    "year": 2002,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 968,
+    "occurrences": [
+      [
+        80,
+        "00:06:43.237000",
+        "00:06:45.030000",
+        "lt's called a panic room."
+      ],
+      [
+        237,
+        "00:28:07.229000",
+        "00:28:08.730000",
+        "The panic room."
+      ],
+      [
+        327,
+        "00:35:36.470000",
+        "00:35:38.180000",
+        "You can't get in the panic room."
+      ]
+    ],
+    "regex": "\\b((?!\\bPanic\\ Room:)Panic\\ Room)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

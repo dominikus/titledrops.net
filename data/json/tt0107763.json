@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0107763",
+    "title": "The Outfit",
+    "year": 1993,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1480,
+    "occurrences": [
+      [
+        939,
+        "01:09:27.200000",
+        "01:09:31",
+        "We're gonna run this outfit like U.S. Steel,"
+      ],
+      [
+        943,
+        "01:09:45.800000",
+        "01:09:47.800000",
+        "Nobody messes with the outfit."
+      ],
+      [
+        1108,
+        "01:21:17",
+        "01:21:19.800000",
+        "This outfit has got to be..."
+      ]
+    ],
+    "regex": "\\b((?!\\bOutfit:)Outfit)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

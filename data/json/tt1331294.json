@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1331294",
+    "title": "The Apostle",
+    "year": 2012,
+    "genres": [
+      "Animation",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 725,
+    "occurrences": [
+      [
+        212,
+        "00:24:21.050000",
+        "00:24:24.293000",
+        "On which you have all bequeathed me with the medal of the Saint Apostle..."
+      ],
+      [
+        228,
+        "00:25:04.450000",
+        "00:25:06.691000",
+        "For the blasted pilgrims of the Apostle's medal."
+      ]
+    ],
+    "regex": "\\b((?!\\bApostle:)Apostle)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

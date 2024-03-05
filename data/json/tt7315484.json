@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7315484",
+    "title": "The Silence",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 920,
+    "occurrences": [
+      [
+        567,
+        "00:35:57.530000",
+        "00:36:01.280000",
+        "I know how to live in silence."
+      ],
+      [
+        916,
+        "01:24:23.224000",
+        "01:24:26.101000",
+        "Will we adapt to this new world of silence"
+      ]
+    ],
+    "regex": "\\b((?!\\bSilence:)Silence)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5028822",
+    "title": "What Happened Last Night",
+    "year": 2016,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1975,
+    "occurrences": [
+      [
+        32,
+        "00:02:06.327000",
+        "00:02:07.893000",
+        "Then what happened last night?"
+      ],
+      [
+        1919,
+        "01:23:23.099000",
+        "01:23:25.699000",
+        "Then what happened last night?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWhat\\ Happened\\ Last\\ Night:)What\\ Happened\\ Last\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

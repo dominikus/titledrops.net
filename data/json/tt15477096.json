@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt15477096",
+    "title": "Night Drive",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1732,
+    "occurrences": [
+      [
+        467,
+        "00:28:08.166000",
+        "00:28:09.583000",
+        "A night drive."
+      ],
+      [
+        579,
+        "00:36:42.625000",
+        "00:36:45.125000",
+        "Sir, we just came out for a night drive."
+      ]
+    ],
+    "regex": "\\b((?!\\bNight\\ Drive:)Night\\ Drive)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

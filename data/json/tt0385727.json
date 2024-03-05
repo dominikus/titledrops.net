@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0385727",
+    "title": "The Godfather of Green Bay",
+    "year": 2005,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 2094,
+    "occurrences": [
+      [
+        249,
+        "00:10:04.255000",
+        "00:10:07.694000",
+        "He calls himself \"the Godfather of Green Bay.\""
+      ],
+      [
+        1255,
+        "00:51:10.241000",
+        "00:51:12.156000",
+        "-Oh, yeah, he's the Godfather of Green Bay."
+      ],
+      [
+        1775,
+        "01:15:10.418000",
+        "01:15:12.377000",
+        "the Godfather of Green Bay."
+      ]
+    ],
+    "regex": "\\b((?!\\bGodfather\\ of\\ Green\\ Bay:)Godfather\\ of\\ Green\\ Bay)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

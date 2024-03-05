@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0065152",
+    "title": "A Gentle Woman",
+    "year": 1969,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 334,
+    "occurrences": [
+      [
+        0,
+        "00:00:22.079000",
+        "00:00:27.200000",
+        "A Gentle Woman"
+      ],
+      [
+        193,
+        "00:37:24.833000",
+        "00:37:28.892000",
+        "Do you know what it is to suffer with such a gentle woman?"
+      ]
+    ],
+    "regex": "\\b((?!\\bGentle\\ Woman:)Gentle\\ Woman)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

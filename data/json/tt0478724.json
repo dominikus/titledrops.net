@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0478724",
+    "title": "I Do: How to Get Married and Stay Single",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1432,
+    "occurrences": [
+      [
+        796,
+        "00:41:45.880000",
+        "00:41:48.314000",
+        "- What did I do ?"
+      ],
+      [
+        957,
+        "00:51:32.760000",
+        "00:51:35.274000",
+        "- What did i do to deserve this ?"
+      ],
+      [
+        982,
+        "00:52:43.920000",
+        "00:52:44.875000",
+        "- What do i do ?"
+      ],
+      [
+        1333,
+        "01:15:37.880000",
+        "01:15:39.518000",
+        "- What do i do with this ? Garbage ?"
+      ],
+      [
+        1397,
+        "01:19:55.720000",
+        "01:19:58.473000",
+        "I like Emma, I do. Like she is."
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Do:)I\\ Do|(?!\\bHow\\ to\\ Get\\ Married\\ and\\ Stay\\ Single:)How\\ to\\ Get\\ Married\\ and\\ Stay\\ Single)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

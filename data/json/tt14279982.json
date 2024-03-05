@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt14279982",
+    "title": "HIT: The 2nd Case",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1387,
+    "occurrences": [
+      [
+        266,
+        "00:20:16.047000",
+        "00:20:18.672000",
+        "Vizag! Does Hyderabad HIT need help again?"
+      ],
+      [
+        734,
+        "00:52:22.672000",
+        "00:52:24.463000",
+        "Hello brother, It's me KD from HIT."
+      ],
+      [
+        1354,
+        "01:51:22.880000",
+        "01:51:25.422000",
+        "I will take care of HIT."
+      ],
+      [
+        1355,
+        "01:51:30.755000",
+        "01:51:32.422000",
+        "Only God can save HIT now."
+      ]
+    ],
+    "regex": "\\b((?!\\bHIT:)HIT|(?!\\b2nd\\ Case:)2nd\\ Case)(?!\\:)(?!'t)\\b",
+    "runtime": 150,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

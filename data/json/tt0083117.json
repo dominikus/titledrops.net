@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt0083117",
+    "title": "St. Helens",
+    "year": 1981,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 1232,
+    "occurrences": [
+      [
+        4,
+        "00:03:20.718000",
+        "00:03:24.620000",
+        "{University of Washington Geophysical Station, Spirit Lake - Mt. St. Helens}."
+      ],
+      [
+        448,
+        "00:36:41.068000",
+        "00:36:45.461000",
+        "Mount St. Helens became the first active volcano on the North American continent"
+      ],
+      [
+        526,
+        "00:41:51.803000",
+        "00:41:55.914000",
+        "And so we say goodbye to beautiful Mount St. Helens."
+      ],
+      [
+        761,
+        "00:55:45.112000",
+        "00:55:46.820000",
+        "Mount St. Helens I believe?"
+      ],
+      [
+        878,
+        "01:01:36.132000",
+        "01:01:38.530000",
+        "You know what would happen if mount St. Helens..."
+      ],
+      [
+        1185,
+        "01:32:40.126000",
+        "01:32:43.109000",
+        "The eruption of Mount St. Helens was equivalent"
+      ],
+      [
+        1195,
+        "01:33:12.837000",
+        "01:33:15.728000",
+        "According to scientists, Mount St. Helens"
+      ]
+    ],
+    "regex": "\\b((?!\\bSt\\.\\ Helens:)St\\.\\ Helens)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

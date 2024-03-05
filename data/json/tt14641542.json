@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt14641542",
+    "title": "The Eight Mountains",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1279,
+    "occurrences": [
+      [
+        967,
+        "01:36:39.770000",
+        "01:36:42.819000",
+        "He told me: \"Are you doing the tour of the eight mountains?\""
+      ],
+      [
+        974,
+        "01:37:02.689000",
+        "01:37:06.069000",
+        "\"There are eight mountains and eight seas\""
+      ],
+      [
+        983,
+        "01:37:35.689000",
+        "01:37:38.939000",
+        "\"who has seen the eight mountains and the eight seas\""
+      ],
+      [
+        1277,
+        "02:20:01.361000",
+        "02:20:04.611000",
+        "All that remains is to wander the eight mountains,"
+      ]
+    ],
+    "regex": "\\b((?!\\bEight\\ Mountains:)Eight\\ Mountains)(?!\\:)(?!'t)\\b",
+    "runtime": 147,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

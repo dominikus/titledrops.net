@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0112744",
+    "title": "The Crossing Guard",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 876,
+    "occurrences": [
+      [
+        659,
+        "01:19:43.055000",
+        "01:19:46.820000",
+        "h-helped across by a crossing guard."
+      ],
+      [
+        660,
+        "01:19:47.959000",
+        "01:19:51.086000",
+        "The crossing guard is John Booth."
+      ]
+    ],
+    "regex": "\\b((?!\\bCrossing\\ Guard:)Crossing\\ Guard)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

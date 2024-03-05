@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1687247",
+    "title": "Life in a Day",
+    "year": 2011,
+    "genres": [
+      "Documentary",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 688,
+    "occurrences": [
+      [
+        259,
+        "00:32:45.480000",
+        "00:32:47.914000",
+        "And this is my life in a day."
+      ],
+      [
+        390,
+        "00:52:25.040000",
+        "00:52:29.397000",
+        "Hello, life in a day. I'm still with Emily and we're still hanging out in Chicago."
+      ]
+    ],
+    "regex": "\\b((?!\\bLife\\ in\\ a\\ Day:)Life\\ in\\ a\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0130236",
+    "title": "Samurai Cop",
+    "year": 1991,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 652,
+    "occurrences": [
+      [
+        427,
+        "00:54:06.120000",
+        "00:54:11.120000",
+        "and this kid they call the samurai cop, Joe Marshall."
+      ],
+      [
+        442,
+        "00:55:15.750000",
+        "00:55:19.720000",
+        "And get somebody to break both of those samurai cop's legs."
+      ]
+    ],
+    "regex": "\\b((?!\\bSamurai\\ Cop:)Samurai\\ Cop)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

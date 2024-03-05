@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1967545",
+    "title": "Labor Day",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1136,
+    "occurrences": [
+      [
+        535,
+        "00:54:12.880000",
+        "00:54:15.039000",
+        "Leaving Labor Day motorists with more than the usual delays."
+      ],
+      [
+        1114,
+        "01:44:09.680000",
+        "01:44:12.479000",
+        "We once spent Labor Day weekend together."
+      ]
+    ],
+    "regex": "\\b((?!\\bLabor\\ Day:)Labor\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

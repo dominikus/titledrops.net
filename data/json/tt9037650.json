@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt9037650",
+    "title": "A Piece of Cake",
+    "year": 2019,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1014,
+    "occurrences": [
+      [
+        391,
+        "00:26:11.111000",
+        "00:26:13.030000",
+        "Piece of cake. The Elfie way."
+      ],
+      [
+        565,
+        "00:39:11.975000",
+        "00:39:13.810000",
+        "Piece of cake."
+      ]
+    ],
+    "regex": "\\b((?!\\bPiece\\ of\\ Cake:)Piece\\ of\\ Cake)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

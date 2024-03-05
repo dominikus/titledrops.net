@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0058159",
+    "title": "The Big Scare",
+    "year": 1964,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1289,
+    "occurrences": [
+      [
+        1,
+        "00:00:28.242000",
+        "00:00:32.031000",
+        "It's the big scare, it's the big fear. Beware the inspector is here,"
+      ],
+      [
+        1279,
+        "01:27:00.811000",
+        "01:27:05.144000",
+        "It's the big scare, it's the big fear. Beware the inspector is here,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBig\\ Scare:)Big\\ Scare)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

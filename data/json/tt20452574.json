@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt20452574",
+    "title": "Melchior the Apothecary: The Executioner's Daughter",
+    "year": 2022,
+    "genres": [
+      "Crime",
+      "History",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 690,
+    "occurrences": [
+      [
+        29,
+        "00:04:45.040000",
+        "00:04:53",
+        "MELCHIOR THE APOTHECARY THE EXECUTIONER'S DAUGHTER"
+      ],
+      [
+        143,
+        "00:15:10.120000",
+        "00:15:13.640000",
+        "But he's alive and under the care of Melchior the Apothecary."
+      ],
+      [
+        406,
+        "00:45:37.080000",
+        "00:45:38.680000",
+        "To the executioner's daughter."
+      ],
+      [
+        478,
+        "00:54:40.640000",
+        "00:54:43.120000",
+        "Melchior the Apothecary! Come with me!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMelchior\\ the\\ Apothecary:)Melchior\\ the\\ Apothecary|(?!\\bExecutioner's\\ Daughter:)Executioner's\\ Daughter)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

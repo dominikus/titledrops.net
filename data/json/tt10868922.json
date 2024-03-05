@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt10868922",
+    "title": "The Influencer",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1593,
+    "occurrences": [
+      [
+        114,
+        "00:07:35.963000",
+        "00:07:38.265000",
+        "not just some influencer vlogger."
+      ],
+      [
+        1303,
+        "01:01:18.782000",
+        "01:01:21.251000",
+        "mega popular social media influencer, Abbie Rose,"
+      ]
+    ],
+    "regex": "\\b((?!\\bInfluencer:)Influencer)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1784499",
+    "title": "Valley of the Wolves: Palestine",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 481,
+    "occurrences": [
+      [
+        28,
+        "00:06:53.023000",
+        "00:06:54.138000",
+        ". . . I came to Palestine."
+      ],
+      [
+        303,
+        "00:56:46.423000",
+        "00:56:50.416000",
+        "Now, where's Palestine, where is Israel?"
+      ],
+      [
+        305,
+        "00:56:54.383000",
+        "00:56:57.500000",
+        "Buddy, isn't Palestine an independent nation?"
+      ]
+    ],
+    "regex": "\\b((?!\\bValley\\ of\\ the\\ Wolves:)Valley\\ of\\ the\\ Wolves|(?!\\bPalestine:)Palestine)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

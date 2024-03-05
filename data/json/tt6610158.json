@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6610158",
+    "title": "Rust Creek",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1016,
+    "occurrences": [
+      [
+        149,
+        "00:22:11.559000",
+        "00:22:13.859000",
+        "at the bend, down by Rust Creek."
+      ],
+      [
+        171,
+        "00:23:10.449000",
+        "00:23:12.817000",
+        "Did you get that scratch up by Rust Creek?"
+      ],
+      [
+        711,
+        "01:14:44.356000",
+        "01:14:47.425000",
+        "of those woods up by Rust Creek all the way through to Blackridge."
+      ],
+      [
+        1005,
+        "01:39:17.368000",
+        "01:39:20.402000",
+        "They call this Rust Creek.."
+      ]
+    ],
+    "regex": "\\b((?!\\bRust\\ Creek:)Rust\\ Creek)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

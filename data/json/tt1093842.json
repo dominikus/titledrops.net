@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1093842",
+    "title": "My Winnipeg",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Documentary",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1157,
+    "occurrences": [
+      [
+        698,
+        "00:49:57.827000",
+        "00:49:59.818000",
+        "My Winnipeg."
+      ],
+      [
+        1114,
+        "01:15:55.082000",
+        "01:15:59.143000",
+        "She wouId Iook after this city, my city, my Winnipeg."
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Winnipeg:)My\\ Winnipeg)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

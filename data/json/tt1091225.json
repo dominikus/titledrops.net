@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt1091225",
+    "title": "Emma Smith: My Story",
+    "year": 2008,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 1,
+    "all_lines": 1025,
+    "occurrences": [
+      [
+        764,
+        "01:07:24.073000",
+        "01:07:27.201000",
+        "the Lord has chosen Emma Smith."
+      ]
+    ],
+    "regex": "\\b((?!\\bEmma\\ Smith:)Emma\\ Smith|(?!\\bMy\\ Story:)My\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

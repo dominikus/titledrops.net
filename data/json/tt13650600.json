@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt13650600",
+    "title": "Emergency",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 2407,
+    "occurrences": [
+      [
+        1155,
+        "00:44:11.858000",
+        "00:44:13.860000",
+        "It's an emergency, all right?"
+      ],
+      [
+        1356,
+        "00:52:30.147000",
+        "00:52:33.693000",
+        "- She's 17. - Ma'am, I'm just trying to understand your emergency."
+      ],
+      [
+        1635,
+        "01:04:04.508000",
+        "01:04:07.386000",
+        "DISPATCHER: 911. What is the nature of your emergency?"
+      ]
+    ],
+    "regex": "\\b((?!\\bEmergency:)Emergency)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

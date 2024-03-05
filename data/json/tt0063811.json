@@ -1,0 +1,53 @@
+[
+  {
+    "imdb": "tt0063811",
+    "title": "Will Penny",
+    "year": 1967,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Western"
+    ],
+    "count": 5,
+    "all_lines": 885,
+    "occurrences": [
+      [
+        0,
+        "00:01:03.313000",
+        "00:01:05.057000",
+        "Damn you, Will Penny!"
+      ],
+      [
+        65,
+        "00:11:30.014000",
+        "00:11:34.890000",
+        "- What's your whole name, Will? - Penny. Will Penny."
+      ],
+      [
+        76,
+        "00:12:21.652000",
+        "00:12:24.855000",
+        "I already got Will Penny."
+      ],
+      [
+        343,
+        "00:43:38.001000",
+        "00:43:41.500000",
+        "This here gentleman calls himself Will Penny."
+      ],
+      [
+        381,
+        "00:48:06.658000",
+        "00:48:10.526000",
+        "My name's Will Penny. You remember me, ma'am, from the..."
+      ]
+    ],
+    "regex": "\\b((?!\\bWill\\ Penny:)Will\\ Penny)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [
+      "Will Penny"
+    ],
+    "title_is_name": true,
+    "rating": 7.1
+  }
+]

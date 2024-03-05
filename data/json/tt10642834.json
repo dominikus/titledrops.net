@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt10642834",
+    "title": "The Forty-Year-Old Version",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2239,
+    "occurrences": [
+      [
+        2116,
+        "01:54:29.208000",
+        "01:54:32",
+        "Forty-year-old version, indubitably"
+      ],
+      [
+        2126,
+        "01:54:54.291000",
+        "01:54:55.916000",
+        "Forty-year-old version"
+      ]
+    ],
+    "regex": "\\b((?!\\bForty\\-Year\\-Old\\ Version:)Forty\\-Year\\-Old\\ Version)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

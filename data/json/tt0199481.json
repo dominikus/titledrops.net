@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0199481",
+    "title": "Druids",
+    "year": 2001,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 807,
+    "occurrences": [
+      [
+        398,
+        "00:38:32.447000",
+        "00:38:37.237000",
+        "They massacred all of the druids. But l came back to wait."
+      ],
+      [
+        653,
+        "01:22:55.047000",
+        "01:23:00.201000",
+        "Druids. l have to establish an absolute place to stand..."
+      ],
+      [
+        698,
+        "01:27:03.367000",
+        "01:27:05.164000",
+        "The druids will help you."
+      ]
+    ],
+    "regex": "\\b((?!\\bDruids:)Druids)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.7
+  }
+]

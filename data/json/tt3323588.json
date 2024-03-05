@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3323588",
+    "title": "Bunni",
+    "year": 2013,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 865,
+    "occurrences": [
+      [
+        29,
+        "00:04:36.586000",
+        "00:04:38.485000",
+        "Who's Bunni?"
+      ],
+      [
+        33,
+        "00:04:46.596000",
+        "00:04:48.874000",
+        "- How should I know who the fuck Bunni is?"
+      ],
+      [
+        531,
+        "00:38:47.739000",
+        "00:39:00.338000",
+        "- I paid your precious little Bunni a visit the other day."
+      ]
+    ],
+    "regex": "\\b((?!\\bBunni:)Bunni)(?!\\:)(?!'t)\\b",
+    "runtime": 71,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3
+  }
+]

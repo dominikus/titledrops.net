@@ -1,0 +1,59 @@
+[
+  {
+    "imdb": "tt0073326",
+    "title": "Marco Polo",
+    "year": 1975,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Biography"
+    ],
+    "count": 6,
+    "all_lines": 576,
+    "occurrences": [
+      [
+        45,
+        "00:13:14.426000",
+        "00:13:15.723000",
+        "Marco Polo."
+      ],
+      [
+        78,
+        "00:19:18.624000",
+        "00:19:20.751000",
+        "Listen for lmperial order, Marco Polo."
+      ],
+      [
+        204,
+        "00:39:40.311000",
+        "00:39:43.508000",
+        "I'm Chief of Yangzhou, welcome, Mr. Marco Polo."
+      ],
+      [
+        444,
+        "01:10:22.251000",
+        "01:10:24.151000",
+        "And besides, that Marco Polo"
+      ],
+      [
+        446,
+        "01:10:26.188000",
+        "01:10:28.748000",
+        "I think that Marco Polo guy"
+      ],
+      [
+        456,
+        "01:10:56.885000",
+        "01:10:58.580000",
+        "Send a royal decree to Marco Polo."
+      ]
+    ],
+    "regex": "\\b((?!\\bMarco\\ Polo:)Marco\\ Polo)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [
+      "Marco Polo"
+    ],
+    "title_is_name": true,
+    "rating": 6.3
+  }
+]

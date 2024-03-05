@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt12093604",
+    "title": "Companion",
+    "year": 2021,
+    "genres": [
+      "Horror"
+    ],
+    "count": 7,
+    "all_lines": 1421,
+    "occurrences": [
+      [
+        65,
+        "00:05:43.660000",
+        "00:05:44.762000",
+        "from your companion."
+      ],
+      [
+        129,
+        "00:10:32.182000",
+        "00:10:34.318000",
+        "Her companion maybe?"
+      ],
+      [
+        209,
+        "00:15:23.007000",
+        "00:15:24.474000",
+        "There's a companion."
+      ],
+      [
+        453,
+        "00:32:10.480000",
+        "00:32:12.582000",
+        "Is he gonna turn into a companion?"
+      ],
+      [
+        734,
+        "00:52:43.814000",
+        "00:52:45.682000",
+        "But his companion?"
+      ],
+      [
+        805,
+        "00:57:17.221000",
+        "00:57:19.390000",
+        "Have you ever seen somebody's companion?"
+      ],
+      [
+        807,
+        "00:57:22.860000",
+        "00:57:27.464000",
+        "Have you ever seen somebody's companion who's still alive?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCompanion:)Companion)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

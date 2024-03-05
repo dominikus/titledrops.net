@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0120390",
+    "title": "Turbulence",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1163,
+    "occurrences": [
+      [
+        255,
+        "00:21:18.044000",
+        "00:21:21.844000",
+        "Yeah. Three heavies in front of us reported serious turbulence."
+      ],
+      [
+        1059,
+        "01:24:21.590000",
+        "01:24:24.525000",
+        "You've got a 747, beat to hell by turbulence..."
+      ]
+    ],
+    "regex": "\\b((?!\\bTurbulence:)Turbulence)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

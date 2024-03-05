@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt12041084",
+    "title": "Kill Chain: The Cyber War on America's Elections",
+    "year": 2020,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 1527,
+    "occurrences": [
+      [
+        43,
+        "00:02:34.709000",
+        "00:02:37.918000",
+        "In cyberwarfare, it's called a \"kill chain.\""
+      ],
+      [
+        1484,
+        "01:26:03.292000",
+        "01:26:05.751000",
+        "It's called kill chain."
+      ],
+      [
+        1485,
+        "01:26:05.834000",
+        "01:26:08.334000",
+        "Kill chain is a 2,000-year-old concept,"
+      ],
+      [
+        1489,
+        "01:26:16.834000",
+        "01:26:19.876000",
+        "And in kill chain, you move,"
+      ],
+      [
+        1498,
+        "01:26:48.834000",
+        "01:26:52.042000",
+        "I think the most important part of the kill chain"
+      ]
+    ],
+    "regex": "\\b((?!\\bKill\\ Chain:)Kill\\ Chain|(?!\\bCyber\\ War\\ on\\ America's\\ Elections:)Cyber\\ War\\ on\\ America's\\ Elections)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

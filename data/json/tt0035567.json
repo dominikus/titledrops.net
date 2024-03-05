@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0035567",
+    "title": "Woman of the Year",
+    "year": 1942,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1222,
+    "occurrences": [
+      [
+        923,
+        "01:16:19.306000",
+        "01:16:22.025000",
+        "Do I look like the husband of the Woman of the Year?"
+      ],
+      [
+        963,
+        "01:18:31.546000",
+        "01:18:34.982000",
+        "The Outstanding Woman of the Year isn't a woman at all."
+      ],
+      [
+        984,
+        "01:20:39.106000",
+        "01:20:42.985000",
+        "... bestow this plaque on America 's Outstanding Woman of the Year."
+      ]
+    ],
+    "regex": "\\b((?!\\bWoman\\ of\\ the\\ Year:)Woman\\ of\\ the\\ Year)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

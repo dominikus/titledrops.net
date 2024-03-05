@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt10530720",
+    "title": "Overseas",
+    "year": 2019,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 898,
+    "occurrences": [
+      [
+        227,
+        "00:24:19.466000",
+        "00:24:23.216000",
+        "This is the OFW's life. (Overseas Filipino Worker)"
+      ],
+      [
+        454,
+        "00:43:13.258000",
+        "00:43:19.050000",
+        "Why do Overseas Filipino Workers jump out of a building?"
+      ],
+      [
+        483,
+        "00:44:58.675000",
+        "00:45:03.216000",
+        "You did Overseas Employment Administration, Welfare Administration and PDOS seminars."
+      ],
+      [
+        493,
+        "00:45:37.008000",
+        "00:45:39.675000",
+        "You are Overseas Filipino Workers."
+      ]
+    ],
+    "regex": "\\b((?!\\bOverseas:)Overseas)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

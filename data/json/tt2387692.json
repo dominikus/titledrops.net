@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2387692",
+    "title": "Souvenir",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 743,
+    "occurrences": [
+      [
+        41,
+        "00:08:46.838000",
+        "00:08:48.828000",
+        "with this song \"Souvenir\"."
+      ],
+      [
+        707,
+        "01:18:53.914000",
+        "01:18:57.743000",
+        "30 years ago, Laura entered the contest with \"Souvenir\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bSouvenir:)Souvenir)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

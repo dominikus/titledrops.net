@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt10342730",
+    "title": "Spiral",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1260,
+    "occurrences": [
+      [
+        232,
+        "00:17:36.725000",
+        "00:17:38.412000",
+        "If that spiral is what I think it is..."
+      ],
+      [
+        1112,
+        "01:19:33.123000",
+        "01:19:36.561000",
+        "John Kramer was right, the spiral."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpiral:)Spiral)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

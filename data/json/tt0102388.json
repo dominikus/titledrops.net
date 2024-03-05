@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0102388",
+    "title": "The Man in the Moon",
+    "year": 1991,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1171,
+    "occurrences": [
+      [
+        82,
+        "00:05:03.635000",
+        "00:05:05.602000",
+        "is tell the man in the moon?"
+      ],
+      [
+        1165,
+        "01:36:12.571000",
+        "01:36:14.288000",
+        "to the man in the moon..."
+      ]
+    ],
+    "regex": "\\b((?!\\bMan\\ in\\ the\\ Moon:)Man\\ in\\ the\\ Moon)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

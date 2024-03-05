@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt7998848",
+    "title": "Play",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1989,
+    "occurrences": [
+      [
+        778,
+        "00:42:10.958000",
+        "00:42:12.250000",
+        "-Come, let's play a game."
+      ],
+      [
+        970,
+        "00:52:13.208000",
+        "00:52:16.333000",
+        "-Euh yes, yes. I can even play this one."
+      ],
+      [
+        1343,
+        "01:13:06.875000",
+        "01:13:08.583000",
+        "-Are you talking about the play ?"
+      ],
+      [
+        1352,
+        "01:13:30.708000",
+        "01:13:32.208000",
+        "-The play must not dissapoint."
+      ]
+    ],
+    "regex": "\\b((?!\\bPlay:)Play)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1763305",
+    "title": "The Forbidden Girl",
+    "year": 2013,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1264,
+    "occurrences": [
+      [
+        40,
+        "00:03:06.620000",
+        "00:03:09.357000",
+        "Your forbidden girl.\" "
+      ],
+      [
+        67,
+        "00:05:07.841000",
+        "00:05:11.645000",
+        "So... forbidden girl..."
+      ]
+    ],
+    "regex": "\\b((?!\\bForbidden\\ Girl:)Forbidden\\ Girl)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

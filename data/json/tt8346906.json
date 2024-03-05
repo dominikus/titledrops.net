@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt8346906",
+    "title": "Devil's Daughter",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 821,
+    "occurrences": [
+      [
+        160,
+        "00:15:34.525000",
+        "00:15:36.233000",
+        "I am the devil's daughter."
+      ],
+      [
+        216,
+        "00:19:46.858000",
+        "00:19:50.733000",
+        "This lady, I don't know, the devil's daughter!"
+      ],
+      [
+        403,
+        "00:35:19.025000",
+        "00:35:20.566000",
+        "She's the devil's daughter."
+      ],
+      [
+        411,
+        "00:35:37.275000",
+        "00:35:42.650000",
+        "Lobini is the devil's daughter and only I can se her. Is it that hard to get?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDevil's\\ Daughter:)Devil's\\ Daughter)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.5
+  }
+]

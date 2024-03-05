@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt13308316",
+    "title": "Babysitter",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1090,
+    "occurrences": [
+      [
+        555,
+        "00:36:57.021000",
+        "00:36:58.521000",
+        "Amy, the babysitter."
+      ],
+      [
+        731,
+        "00:50:03.163000",
+        "00:50:06.288000",
+        "But if you'd seen the babysitter costume I found,"
+      ],
+      [
+        829,
+        "00:56:22.243000",
+        "00:56:25.077000",
+        "She finds the term \"babysitter\" more gratifying."
+      ]
+    ],
+    "regex": "\\b((?!\\bBabysitter:)Babysitter)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt13437988",
+    "title": "Christmas at Cattle Hill",
+    "year": 2020,
+    "genres": [
+      "Animation",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1299,
+    "occurrences": [
+      [
+        69,
+        "00:03:41.967000",
+        "00:03:43.934000",
+        "But even if it is your first Christmas at Cattle Hill,"
+      ],
+      [
+        517,
+        "00:23:57.016000",
+        "00:23:59.753000",
+        "We can make Christmas at Cattle Hill!"
+      ]
+    ],
+    "regex": "\\b((?!\\bChristmas\\ at\\ Cattle\\ Hill:)Christmas\\ at\\ Cattle\\ Hill)(?!\\:)(?!'t)\\b",
+    "runtime": 68,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

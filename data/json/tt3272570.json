@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3272570",
+    "title": "All Things Must Pass",
+    "year": 2015,
+    "genres": [
+      "Documentary",
+      "History",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 2137,
+    "occurrences": [
+      [
+        2062,
+        "01:27:43.675000",
+        "01:27:47.463000",
+        "all things must pass. thanks, sacramento."
+      ],
+      [
+        2069,
+        "01:28:01.401000",
+        "01:28:03.733000",
+        "covered up our sign that said \"all things must pass\","
+      ],
+      [
+        2131,
+        "01:31:40.954000",
+        "01:31:44.538000",
+        "i all things must pass i"
+      ],
+      [
+        2132,
+        "01:31:48.128000",
+        "01:31:52.792000",
+        "i all things must pass away... i"
+      ]
+    ],
+    "regex": "\\b((?!\\bAll\\ Things\\ Must\\ Pass:)All\\ Things\\ Must\\ Pass)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

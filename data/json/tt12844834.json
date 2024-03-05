@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt12844834",
+    "title": "The Funeral Home",
+    "year": 2020,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 510,
+    "occurrences": [
+      [
+        82,
+        "00:20:20.083000",
+        "00:20:22.208000",
+        "Where should I hold his wake if I own a funeral home?"
+      ],
+      [
+        148,
+        "00:23:17.542000",
+        "00:23:21.184000",
+        "How can we not have presences, if we have a funeral home in the house?"
+      ],
+      [
+        398,
+        "01:02:26.667000",
+        "01:02:30.125000",
+        "and started dragging spirits from the funeral home to stop him,"
+      ],
+      [
+        449,
+        "01:07:37.958000",
+        "01:07:39.917000",
+        "The buzzer from the funeral home."
+      ]
+    ],
+    "regex": "\\b((?!\\bFuneral\\ Home:)Funeral\\ Home)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

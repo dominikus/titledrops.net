@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0833540",
+    "title": "All for Free",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 791,
+    "occurrences": [
+      [
+        323,
+        "00:33:35.040000",
+        "00:33:38.794000",
+        "All For Free I figured like this..."
+      ],
+      [
+        379,
+        "00:39:04.720000",
+        "00:39:07.553000",
+        "And this one is for free? - All for free."
+      ]
+    ],
+    "regex": "\\b((?!\\bAll\\ for\\ Free:)All\\ for\\ Free)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0482603",
+    "title": "Space Chimps",
+    "year": 2008,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1054,
+    "occurrences": [
+      [
+        289,
+        "00:20:44.239000",
+        "00:20:46.944000",
+        "We are now officially \"Space Chimps.\""
+      ],
+      [
+        465,
+        "00:32:10.448000",
+        "00:32:13.343000",
+        "Trained astronaut? 'Space Chimps' are a joke."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpace\\ Chimps:)Space\\ Chimps)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

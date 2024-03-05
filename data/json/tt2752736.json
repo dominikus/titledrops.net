@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt2752736",
+    "title": "The Stream",
+    "year": 2013,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "count": 5,
+    "all_lines": 1215,
+    "occurrences": [
+      [
+        17,
+        "00:01:07.283000",
+        "00:01:08.337000",
+        "the stream."
+      ],
+      [
+        168,
+        "00:09:57.880000",
+        "00:10:00.199000",
+        "We could walk it. Just follow the stream."
+      ],
+      [
+        618,
+        "00:39:47.160000",
+        "00:39:50.300000",
+        "Devil's Jump, a treacherous part of the stream,"
+      ],
+      [
+        763,
+        "00:49:28.880000",
+        "00:49:32.115000",
+        "but we had to find a way to cross the stream to get Paxton."
+      ],
+      [
+        941,
+        "01:02:00.749000",
+        "01:02:03.449000",
+        "And hey. Don't you dare go near that stream."
+      ]
+    ],
+    "regex": "\\b((?!\\bStream:)Stream)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

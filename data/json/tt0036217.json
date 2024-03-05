@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0036217",
+    "title": "The North Star",
+    "year": 1943,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1175,
+    "occurrences": [
+      [
+        0,
+        "00:00:01.510000",
+        "00:00:03.010000",
+        "The North Star (1943) 1hr 48min"
+      ],
+      [
+        735,
+        "00:54:54.358000",
+        "00:54:57.360000",
+        "We are ordered to occupy the North Star village."
+      ],
+      [
+        740,
+        "00:55:07.371000",
+        "00:55:09.872000",
+        "in the village North Star ahead."
+      ]
+    ],
+    "regex": "\\b((?!\\bNorth\\ Star:)North\\ Star)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

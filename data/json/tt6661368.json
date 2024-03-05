@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6661368",
+    "title": "Isaac",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 518,
+    "occurrences": [
+      [
+        140,
+        "00:20:29.767000",
+        "00:20:37.017000",
+        "Denis, Isaac and Nacho. Inseparable. Isaac? You never mentioned him."
+      ],
+      [
+        371,
+        "00:55:58.017000",
+        "00:56:02.017000",
+        "Isaac, you and me."
+      ],
+      [
+        375,
+        "00:56:32.683000",
+        "00:56:35.308000",
+        "You still haven't told me how you found out about Isaac."
+      ],
+      [
+        517,
+        "01:18:45.725000",
+        "01:18:46.725000",
+        "Isaac!"
+      ]
+    ],
+    "regex": "\\b((?!\\bIsaac:)Isaac)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

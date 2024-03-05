@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0067052",
+    "title": "Endless Night",
+    "year": 1972,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1500,
+    "occurrences": [
+      [
+        1071,
+        "01:09:19.930000",
+        "01:09:30.030000",
+        "# Some are born to endless night."
+      ],
+      [
+        1437,
+        "01:32:49.726000",
+        "01:33:00.726000",
+        "# Some are born to endless night."
+      ]
+    ],
+    "regex": "\\b((?!\\bEndless\\ Night:)Endless\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

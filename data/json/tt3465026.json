@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3465026",
+    "title": "Palm Swings",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1495,
+    "occurrences": [
+      [
+        626,
+        "00:36:33.703000",
+        "00:36:37.607000",
+        "Welcome to the 17th annual Palm Swings weekend!"
+      ],
+      [
+        785,
+        "00:44:44.726000",
+        "00:44:47.159000",
+        "In true Palm Swings fashion,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPalm\\ Swings:)Palm\\ Swings)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

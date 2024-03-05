@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0099235",
+    "title": "The Cellar",
+    "year": 1988,
+    "genres": [
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 945,
+    "occurrences": [
+      [
+        480,
+        "00:36:19.844000",
+        "00:36:22.138000",
+        "Tomorrow morning I'll check the cellar for snakes."
+      ],
+      [
+        600,
+        "00:48:06.842000",
+        "00:48:08.511000",
+        "- The thing in the cellar."
+      ],
+      [
+        601,
+        "00:48:08.844000",
+        "00:48:09.678000",
+        "- Did Wart get in the cellar?"
+      ],
+      [
+        616,
+        "00:48:57.351000",
+        "00:48:59.437000",
+        "- A monster in the cellar?"
+      ],
+      [
+        840,
+        "01:09:31.834000",
+        "01:09:34.545000",
+        "- Flying snakes, creatures in the cellar,"
+      ]
+    ],
+    "regex": "\\b((?!\\bCellar:)Cellar)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

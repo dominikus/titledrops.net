@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0245120",
+    "title": "The Forsaken",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 807,
+    "occurrences": [
+      [
+        365,
+        "00:38:11.497000",
+        "00:38:14.591000",
+        "Because you can only kill the Forsaken on hallowed ground."
+      ],
+      [
+        366,
+        "00:38:14.667000",
+        "00:38:17.795000",
+        "What the hell's the Forsaken?"
+      ],
+      [
+        426,
+        "00:43:57.976000",
+        "00:44:01.639000",
+        "You never answered me from before. Why do you call them the Forsaken?"
+      ],
+      [
+        449,
+        "00:45:11.984000",
+        "00:45:15.112000",
+        "And as it spread, people started calling them the Forsaken."
+      ]
+    ],
+    "regex": "\\b((?!\\bForsaken:)Forsaken)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0068892",
+    "title": "The Mad Bomber",
+    "year": 1973,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1044,
+    "occurrences": [
+      [
+        769,
+        "01:04:50.177000",
+        "01:04:52.471000",
+        "because you cooperated in identifying the Mad Bomber?"
+      ],
+      [
+        786,
+        "01:05:17.788000",
+        "01:05:18.956000",
+        "of the Mad Bomber, Mr. Fromley?"
+      ],
+      [
+        791,
+        "01:05:24.587000",
+        "01:05:26.797000",
+        "- The Mad Bomber's sick, he should be locked up."
+      ],
+      [
+        953,
+        "01:18:06.014000",
+        "01:18:09.142000",
+        "Man identified as the Mad Bomber is driving."
+      ]
+    ],
+    "regex": "\\b((?!\\bMad\\ Bomber:)Mad\\ Bomber)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

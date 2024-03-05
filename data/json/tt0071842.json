@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0071842",
+    "title": "The Middle of the World",
+    "year": 1974,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1292,
+    "occurrences": [
+      [
+        5,
+        "00:01:57.640000",
+        "00:01:59.358000",
+        "middle of the world."
+      ],
+      [
+        492,
+        "00:41:32.080000",
+        "00:41:33.718000",
+        "Middle of the world?"
+      ],
+      [
+        550,
+        "00:44:50.520000",
+        "00:44:52.511000",
+        "''Do you want to see the ''''Middle of the world''''?''"
+      ],
+      [
+        557,
+        "00:46:03.240000",
+        "00:46:05.629000",
+        "Here's the middle of the world."
+      ]
+    ],
+    "regex": "\\b((?!\\bMiddle\\ of\\ the\\ World:)Middle\\ of\\ the\\ World)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

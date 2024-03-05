@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2078523",
+    "title": "009 Re: Cyborg",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Animation",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 740,
+    "occurrences": [
+      [
+        554,
+        "01:07:10.485000",
+        "01:07:17.195000",
+        "You could say a cyborg like Joe with a tuned-up brain is like those."
+      ],
+      [
+        740,
+        "01:43:16.232000",
+        "01:43:24.162000",
+        "(c) 2012009 RE:CYBORG Production Committee"
+      ]
+    ],
+    "regex": "\\b((?!\\b009\\ Re:)009\\ Re|(?!\\bCyborg:)Cyborg)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

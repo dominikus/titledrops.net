@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0063599",
+    "title": "The Shoes of the Fisherman",
+    "year": 1968,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1530,
+    "occurrences": [
+      [
+        585,
+        "00:53:51.053000",
+        "00:53:54.170000",
+        "Who will stand in the shoes of the fisherman?"
+      ],
+      [
+        1080,
+        "01:50:08.741000",
+        "01:50:12.177000",
+        "How wouId you answer Kamenev, if you stood in the shoes of the fisherman?"
+      ]
+    ],
+    "regex": "\\b((?!\\bShoes\\ of\\ the\\ Fisherman:)Shoes\\ of\\ the\\ Fisherman)(?!\\:)(?!'t)\\b",
+    "runtime": 162,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

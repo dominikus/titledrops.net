@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0120481",
+    "title": "Washington Square",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1276,
+    "occurrences": [
+      [
+        525,
+        "00:48:38.769000",
+        "00:48:41.881000",
+        "A position in the parlor of 21 Washington Square"
+      ],
+      [
+        865,
+        "01:20:41.504000",
+        "01:20:46.876000",
+        "I thought she'd end her days at Washington Square in the best of comfort."
+      ],
+      [
+        1151,
+        "01:42:18.904000",
+        "01:42:23.039000",
+        "as long as she remains an employee at 21 Washington Square."
+      ],
+      [
+        1161,
+        "01:42:52.110000",
+        "01:42:55.848000",
+        "\"her portion has been reduced to this house on Washington Square."
+      ]
+    ],
+    "regex": "\\b((?!\\bWashington\\ Square:)Washington\\ Square)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

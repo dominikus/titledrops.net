@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt4488744",
+    "title": "A Translator",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 794,
+    "occurrences": [
+      [
+        114,
+        "00:14:18.123000",
+        "00:14:19.421000",
+        "Translator?"
+      ],
+      [
+        250,
+        "00:26:54.646000",
+        "00:26:55.978000",
+        "A translator."
+      ],
+      [
+        262,
+        "00:27:56.741000",
+        "00:27:57.765000",
+        "Translator."
+      ]
+    ],
+    "regex": "\\b((?!\\bTranslator:)Translator)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

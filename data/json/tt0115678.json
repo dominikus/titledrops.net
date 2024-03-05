@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0115678",
+    "title": "Big Night",
+    "year": 1996,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1090,
+    "occurrences": [
+      [
+        498,
+        "00:40:27.494000",
+        "00:40:29.427000",
+        "I mean... Seco, you tell me this is a big night."
+      ],
+      [
+        639,
+        "00:53:12.460000",
+        "00:53:16.394000",
+        "So this is to tonight, the big night..."
+      ]
+    ],
+    "regex": "\\b((?!\\bBig\\ Night:)Big\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

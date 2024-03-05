@@ -1,0 +1,34 @@
+[
+  {
+    "imdb": "tt9278074",
+    "title": "The Crescent Moon Clown",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 509,
+    "occurrences": [
+      [
+        404,
+        "01:22:05.766000",
+        "01:22:09.300000",
+        "- All right, that is the Crescent Moon Clown,"
+      ],
+      [
+        433,
+        "01:23:09.340000",
+        "01:23:12.480000",
+        "According to this, the way the Crescent Moon Clown"
+      ]
+    ],
+    "regex": "\\b((?!\\bCrescent\\ Moon\\ Clown:)Crescent\\ Moon\\ Clown)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [
+      "The Crescent Moon Clown"
+    ],
+    "title_is_name": true,
+    "rating": 3.2
+  }
+]

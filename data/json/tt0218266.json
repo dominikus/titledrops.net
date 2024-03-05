@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt0218266",
+    "title": "The Forbidden",
+    "year": 1966,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 7,
+    "all_lines": 894,
+    "occurrences": [
+      [
+        6,
+        "00:00:38.540000",
+        "00:00:42.293000",
+        "You will indulge yourselves in a forbidden experience."
+      ],
+      [
+        8,
+        "00:00:48.925000",
+        "00:00:53.721000",
+        "but to the average businessman, a forbidden delicacy."
+      ],
+      [
+        12,
+        "00:01:03.606000",
+        "00:01:06.067000",
+        "a forbidden treasure of filth."
+      ],
+      [
+        16,
+        "00:01:15.368000",
+        "00:01:19.122000",
+        "a forbidden dream of concealed lust."
+      ],
+      [
+        52,
+        "00:04:13.004000",
+        "00:04:16.549000",
+        "men were forbidden to attend these performances."
+      ],
+      [
+        882,
+        "01:04:19.690000",
+        "01:04:22.151000",
+        "To many, it is a forbidden world where ones thoughts"
+      ],
+      [
+        891,
+        "01:04:47.510000",
+        "01:04:51.889000",
+        "and leave forever forbidden, those pleasures"
+      ]
+    ],
+    "regex": "\\b((?!\\bForbidden:)Forbidden)(?!\\:)(?!'t)\\b",
+    "runtime": 66,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

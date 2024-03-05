@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt5151716",
+    "title": "Tony Robbins: I Am Not Your Guru",
+    "year": 2016,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 2102,
+    "occurrences": [
+      [
+        71,
+        "00:05:06.640000",
+        "00:05:10.185000",
+        "And so, I constructed this fucking Tony Robbins guy."
+      ],
+      [
+        2089,
+        "01:54:46.505000",
+        "01:54:48.090000",
+        "of who Tony Robbins is?"
+      ],
+      [
+        2102,
+        "01:55:19.663000",
+        "01:55:19.580000",
+        "I think that's a hell of a lot more interesting than, you know, Tony Robbins."
+      ]
+    ],
+    "regex": "\\b((?!\\bTony\\ Robbins:)Tony\\ Robbins|(?!\\bI\\ Am\\ Not\\ Your\\ Guru:)I\\ Am\\ Not\\ Your\\ Guru)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

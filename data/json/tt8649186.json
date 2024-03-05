@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt8649186",
+    "title": "Corpus Christi",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 974,
+    "occurrences": [
+      [
+        426,
+        "00:50:16.166000",
+        "00:50:19.458000",
+        "I'm going to open a new wing before the Feast of Corpus Christi."
+      ],
+      [
+        590,
+        "01:02:47.583000",
+        "01:02:49.458000",
+        "The Feast of Corpus Christi is coming."
+      ]
+    ],
+    "regex": "\\b((?!\\bCorpus\\ Christi:)Corpus\\ Christi)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

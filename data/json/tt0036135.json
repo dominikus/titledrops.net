@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0036135",
+    "title": "The Man in Grey",
+    "year": 1943,
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 2386,
+    "occurrences": [
+      [
+        7,
+        "00:01:59.501000",
+        "00:02:01.126000",
+        "known as The Man In Grey."
+      ],
+      [
+        25,
+        "00:02:54.376000",
+        "00:02:55.209000",
+        "- Yes, she married the man in grey."
+      ],
+      [
+        537,
+        "00:25:47.793000",
+        "00:25:48.626000",
+        "- The man in grey."
+      ],
+      [
+        547,
+        "00:26:08.001000",
+        "00:26:09.584000",
+        "- That's Rohan, the man in grey."
+      ],
+      [
+        563,
+        "00:26:39.543000",
+        "00:26:40.751000",
+        "- The man in grey."
+      ],
+      [
+        1416,
+        "01:07:05.501000",
+        "01:07:07.293000",
+        "You said I'd marry a man in grey."
+      ]
+    ],
+    "regex": "\\b((?!\\bMan\\ in\\ Grey:)Man\\ in\\ Grey)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

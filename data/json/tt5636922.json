@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt5636922",
+    "title": "The Second",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 925,
+    "occurrences": [
+      [
+        23,
+        "00:01:45.520000",
+        "00:01:48.880000",
+        "Your second, something entirely different..."
+      ],
+      [
+        62,
+        "00:05:21.520000",
+        "00:05:23.660000",
+        "- Ok, it's my second... - Yes."
+      ],
+      [
+        266,
+        "00:25:13.280000",
+        "00:25:16.540000",
+        "- Second novel syndrome. - Is that what it is?"
+      ],
+      [
+        435,
+        "00:39:47.160000",
+        "00:39:50.300000",
+        "- Second novel syndrome. - So how does it end?"
+      ],
+      [
+        757,
+        "01:12:22.360000",
+        "01:12:25.220000",
+        "Could you hold it there for just one second?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSecond:)Second)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

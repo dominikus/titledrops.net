@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0117658",
+    "title": "The Stendhal Syndrome",
+    "year": 1996,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 357,
+    "occurrences": [
+      [
+        168,
+        "00:34:36.040000",
+        "00:34:41.717000",
+        "What happened to you in the Uffizi is known as Stendhal Syndrome."
+      ],
+      [
+        217,
+        "00:39:31.960000",
+        "00:39:36.670000",
+        "a shock followed by hallucinations, the Stendhal Syndrome."
+      ]
+    ],
+    "regex": "\\b((?!\\bStendhal\\ Syndrome:)Stendhal\\ Syndrome)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

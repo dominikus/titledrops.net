@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0038239",
+    "title": "Week-End at the Waldorf",
+    "year": 1945,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 2143,
+    "occurrences": [
+      [
+        0,
+        "00:01:00.160000",
+        "00:01:04.300000",
+        "WEEK-END at the WALDORF"
+      ],
+      [
+        2143,
+        "02:08:21.460000",
+        "02:08:25.200000",
+        "anything can happen on a week-end at the Waldorf."
+      ]
+    ],
+    "regex": "\\b((?!\\bWeek\\-End\\ at\\ the\\ Waldorf:)Week\\-End\\ at\\ the\\ Waldorf)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

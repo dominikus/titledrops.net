@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt11377298",
+    "title": "Castle Falls",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1354,
+    "occurrences": [
+      [
+        340,
+        "00:20:41.140000",
+        "00:20:44.542000",
+        "This Sunday, the Castle falls!"
+      ],
+      [
+        439,
+        "00:26:31.023000",
+        "00:26:32.356000",
+        "Castle Falls Hospital."
+      ]
+    ],
+    "regex": "\\b((?!\\bCastle\\ Falls:)Castle\\ Falls)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt10793644",
+    "title": "The Vigil",
+    "year": 2019,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 164,
+    "occurrences": [
+      [
+        0,
+        "00:01:03.818000",
+        "00:01:11.826000",
+        "For thousands of years, religious Jews have praticed the ritual of \"the vigil\"-"
+      ],
+      [
+        6,
+        "00:01:30.970000",
+        "00:01:38.978000",
+        "Hired to sit the vigil when no one else can."
+      ],
+      [
+        49,
+        "00:11:31.945000",
+        "00:11:35.532000",
+        "vigil, it brings you closer to the community."
+      ],
+      [
+        52,
+        "00:11:45.876000",
+        "00:11:50.922000",
+        "It's just that when you sit the vigil, it's holy. It brings you back to us."
+      ],
+      [
+        76,
+        "00:14:13.690000",
+        "00:14:17.361000",
+        "He's an experienced Shomer. He sat the vigil for Moshe Kellner, Chaim Sturman..."
+      ]
+    ],
+    "regex": "\\b((?!\\bVigil:)Vigil)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

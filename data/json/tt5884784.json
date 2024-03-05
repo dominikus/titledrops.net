@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt5884784",
+    "title": "The Super",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 937,
+    "occurrences": [
+      [
+        38,
+        "00:04:47.068000",
+        "00:04:49.102000",
+        "Threw up on my shoes, that was super fun."
+      ],
+      [
+        208,
+        "00:18:42.769000",
+        "00:18:45.571000",
+        "Now, Walter's our most senior super."
+      ],
+      [
+        250,
+        "00:20:35.850000",
+        "00:20:37.616000",
+        "Actually, I got a job here as the super."
+      ],
+      [
+        292,
+        "00:25:38.119000",
+        "00:25:40.351000",
+        "So, is this your first gig as a super?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSuper:)Super)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

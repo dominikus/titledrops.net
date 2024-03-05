@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0098273",
+    "title": "Sea of Love",
+    "year": 1989,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1153,
+    "occurrences": [
+      [
+        138,
+        "00:10:28.527000",
+        "00:10:31.394000",
+        "The sea of love"
+      ],
+      [
+        348,
+        "00:20:32.631000",
+        "00:20:34.360000",
+        "Sea of Love."
+      ],
+      [
+        350,
+        "00:20:35.934000",
+        "00:20:38.334000",
+        "Sea of Love. Jesus."
+      ],
+      [
+        353,
+        "00:20:43.575000",
+        "00:20:46.043000",
+        "The sea of love"
+      ]
+    ],
+    "regex": "\\b((?!\\bSea\\ of\\ Love:)Sea\\ of\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt26733635",
+    "title": "Sulaikha Manzil",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 2037,
+    "occurrences": [
+      [
+        1163,
+        "00:58:36.250000",
+        "00:58:38.250000",
+        "The sunshine of our Sulaikha Manzil!"
+      ],
+      [
+        1827,
+        "01:33:30.375000",
+        "01:33:32",
+        "Sulaikha Manzil special! Drink up!"
+      ],
+      [
+        1852,
+        "01:34:32",
+        "01:34:33.958000",
+        "Fireworks have begun at Sulaikha Manzil."
+      ]
+    ],
+    "regex": "\\b((?!\\bSulaikha\\ Manzil:)Sulaikha\\ Manzil)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2763668",
+    "title": "Marjoram",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 466,
+    "occurrences": [
+      [
+        451,
+        "01:20:23.120000",
+        "01:20:25.009000",
+        "Marjoram."
+      ],
+      [
+        459,
+        "01:22:03",
+        "01:22:04.968000",
+        "I picked oregano instead of marjoram."
+      ]
+    ],
+    "regex": "\\b((?!\\bMarjoram:)Marjoram)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

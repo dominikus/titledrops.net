@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0085823",
+    "title": "Last Plane Out",
+    "year": 1983,
+    "genres": [
+      "Action",
+      "Thriller",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1428,
+    "occurrences": [
+      [
+        863,
+        "00:57:15.399000",
+        "00:57:16.601000",
+        "It's the last plane out."
+      ],
+      [
+        1417,
+        "01:30:59.822000",
+        "01:31:01.189000",
+        "- Well, this is the last plane out for me."
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Plane\\ Out:)Last\\ Plane\\ Out)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

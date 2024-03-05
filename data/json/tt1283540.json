@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1283540",
+    "title": "The Brotherhood V: Alumni",
+    "year": 2009,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 819,
+    "occurrences": [
+      [
+        84,
+        "00:19:50.255000",
+        "00:19:54.089000",
+        "Well, if this is a full-blown reunion, we're missing three of our alumni."
+      ],
+      [
+        134,
+        "00:22:59.644000",
+        "00:23:02.477000",
+        "\"Welcome Sunnydale High School Alumni.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bBrotherhood:)Brotherhood|(?!\\bAlumni:)Alumni)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.8
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4404474",
+    "title": "Potato Salad",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1107,
+    "occurrences": [
+      [
+        804,
+        "01:03:15.666000",
+        "01:03:17.542000",
+        "- Thank you, Mark! - Potato salad!"
+      ],
+      [
+        822,
+        "01:04:24.443000",
+        "01:04:28.697000",
+        "Potato salad!"
+      ]
+    ],
+    "regex": "\\b((?!\\bPotato\\ Salad:)Potato\\ Salad)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 1.3
+  }
+]

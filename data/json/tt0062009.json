@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0062009",
+    "title": "Double Suicide: Japanese Summer",
+    "year": 1967,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 775,
+    "occurrences": [
+      [
+        13,
+        "00:01:23.960000",
+        "00:01:33.870000",
+        "Japanese Summer - Double Suicide"
+      ],
+      [
+        602,
+        "01:08:20.880000",
+        "01:08:24.395000",
+        "How can we call this Japanese summer?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDouble\\ Suicide:)Double\\ Suicide|(?!\\bJapanese\\ Summer:)Japanese\\ Summer)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

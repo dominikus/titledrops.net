@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0097690",
+    "title": "Kuduz",
+    "year": 1989,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 831,
+    "occurrences": [
+      [
+        0,
+        "00:00:19.080000",
+        "00:00:21.753000",
+        "Nobody knew Becir Kuduz."
+      ],
+      [
+        3,
+        "00:00:32.440000",
+        "00:00:36.228000",
+        "He says Becir Kuduz never existed."
+      ],
+      [
+        817,
+        "01:37:28.440000",
+        "01:37:30.908000",
+        "...in the case against the accused Becir Kuduz..."
+      ],
+      [
+        819,
+        "01:38:22.280000",
+        "01:38:25.716000",
+        "The accused Becir Kuduz is guilty."
+      ]
+    ],
+    "regex": "\\b((?!\\bKuduz:)Kuduz)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [
+      "Becir Kuduz"
+    ],
+    "title_is_name": true,
+    "rating": 7.9
+  }
+]

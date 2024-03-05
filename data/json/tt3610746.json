@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt3610746",
+    "title": "Don't Hang Up",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1087,
+    "occurrences": [
+      [
+        34,
+        "00:02:13.334000",
+        "00:02:14.868000",
+        "And don't hang up!"
+      ],
+      [
+        377,
+        "00:18:27.607000",
+        "00:18:30.742000",
+        "don't hang up."
+      ],
+      [
+        541,
+        "00:28:11.257000",
+        "00:28:13.324000",
+        "What the fuck are you doing? He said don't hang up!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDon't\\ Hang\\ Up:)Don't\\ Hang\\ Up)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

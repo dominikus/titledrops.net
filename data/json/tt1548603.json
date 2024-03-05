@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1548603",
+    "title": "Jo's Boy",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1282,
+    "occurrences": [
+      [
+        33,
+        "00:02:47.459000",
+        "00:02:50.666000",
+        "Guys, the red number 10 is Jo's boy."
+      ],
+      [
+        611,
+        "00:38:39.459000",
+        "00:38:41.291000",
+        "All that for Jo's boy."
+      ]
+    ],
+    "regex": "\\b((?!\\bJo's\\ Boy:)Jo's\\ Boy)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

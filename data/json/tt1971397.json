@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt1971397",
+    "title": "Favor",
+    "year": 2013,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1720,
+    "occurrences": [
+      [
+        567,
+        "00:39:42.875000",
+        "00:39:46.276000",
+        "I need a favor."
+      ],
+      [
+        713,
+        "00:46:51.942000",
+        "00:46:55.310000",
+        "You mean, it's a favor... a big one."
+      ],
+      [
+        716,
+        "00:47:05.789000",
+        "00:47:09.282000",
+        "And that was a really big favor, too."
+      ],
+      [
+        1000,
+        "00:59:46.658000",
+        "00:59:48.850000",
+        "That's why they call it a favor."
+      ],
+      [
+        1285,
+        "01:15:52.567000",
+        "01:15:54.893000",
+        "Oh, after what you did for me... the big favor."
+      ],
+      [
+        1286,
+        "01:15:54.903000",
+        "01:15:56.729000",
+        "You know, it's not much of a favor"
+      ]
+    ],
+    "regex": "\\b((?!\\bFavor:)Favor)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

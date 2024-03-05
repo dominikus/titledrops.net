@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3509796",
+    "title": "Today",
+    "year": 2014,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 717,
+    "occurrences": [
+      [
+        275,
+        "00:29:47.480000",
+        "00:29:50.916000",
+        "-Today. - l doubted her."
+      ],
+      [
+        288,
+        "00:31:19.160000",
+        "00:31:25.633000",
+        "Today"
+      ],
+      [
+        717,
+        "01:23:17.920000",
+        "01:23:23.552000",
+        "Today"
+      ]
+    ],
+    "regex": "\\b((?!\\bToday:)Today)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

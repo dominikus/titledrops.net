@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2118775",
+    "title": "Special ID",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "count": 4,
+    "all_lines": 1154,
+    "occurrences": [
+      [
+        61,
+        "00:04:51.820000",
+        "00:04:53.820000",
+        "Special ID"
+      ],
+      [
+        227,
+        "00:17:51.340000",
+        "00:17:54.180000",
+        "This time  special I came here for a haircut mother."
+      ],
+      [
+        322,
+        "00:23:57.020000",
+        "00:23:59.060000",
+        "Special identity."
+      ],
+      [
+        871,
+        "01:06:07.470000",
+        "01:06:09.110000",
+        "I do special for my mother."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpecial:)Special)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

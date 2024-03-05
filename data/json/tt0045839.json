@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0045839",
+    "title": "Gilbert and Sullivan",
+    "year": 1953,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Musical"
+    ],
+    "count": 3,
+    "all_lines": 938,
+    "occurrences": [
+      [
+        174,
+        "00:21:23.030000",
+        "00:21:24.683000",
+        "It is proposed that Gilbert and Sullivan"
+      ],
+      [
+        750,
+        "01:19:21.178000",
+        "01:19:24.833000",
+        "Gilbert and Sullivan are as much a national institution as Westminster Abbey"
+      ],
+      [
+        816,
+        "01:25:26.901000",
+        "01:25:27.836000",
+        "Gilbert and Sullivan"
+      ]
+    ],
+    "regex": "\\b((?!\\bGilbert\\ and\\ Sullivan:)Gilbert\\ and\\ Sullivan)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

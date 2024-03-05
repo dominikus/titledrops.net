@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0109307",
+    "title": "Blue Tiger",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 968,
+    "occurrences": [
+      [
+        278,
+        "00:20:36.088000",
+        "00:20:41.746000",
+        "There's a little legend thatgoes along with the blue tiger."
+      ],
+      [
+        280,
+        "00:20:47.055000",
+        "00:20:51.407000",
+        "It says that the blue tiger is always"
+      ],
+      [
+        749,
+        "01:04:18.925000",
+        "01:04:21.754000",
+        "I just wanted to let you know, blue tiger's dead."
+      ],
+      [
+        861,
+        "01:14:54.865000",
+        "01:14:56.649000",
+        "The blue tiger, red tiger--"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Tiger:)Blue\\ Tiger)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

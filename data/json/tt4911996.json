@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4911996",
+    "title": "Goldstone",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 841,
+    "occurrences": [
+      [
+        40,
+        "00:06:55.849000",
+        "00:06:58.016000",
+        "Well, the whole Goldstone catchment, anyway."
+      ],
+      [
+        82,
+        "00:10:27.661000",
+        "00:10:33.531000",
+        "with no mine, there is no pub, there's no Josh, there's no fuckin' Goldstone."
+      ],
+      [
+        286,
+        "00:34:42.581000",
+        "00:34:44.581000",
+        "when it comes to Goldstone."
+      ]
+    ],
+    "regex": "\\b((?!\\bGoldstone:)Goldstone)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

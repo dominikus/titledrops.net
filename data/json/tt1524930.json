@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1524930",
+    "title": "Vacation",
+    "year": 2015,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 2018,
+    "occurrences": [
+      [
+        288,
+        "00:13:54.357000",
+        "00:13:58.825000",
+        "So you just wanna redo your vacation from 30 years ago?"
+      ],
+      [
+        292,
+        "00:14:04.998000",
+        "00:14:07.198000",
+        "For one thing, the original vacation had a boy and a girl."
+      ],
+      [
+        295,
+        "00:14:13.038000",
+        "00:14:14.971000",
+        "I've never even heard of the original vacation."
+      ],
+      [
+        297,
+        "00:14:16.274000",
+        "00:14:18.107000",
+        "The new vacation will stand on its own."
+      ],
+      [
+        908,
+        "00:43:01.888000",
+        "00:43:03.520000",
+        "We're on vacation. Right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bVacation:)Vacation)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

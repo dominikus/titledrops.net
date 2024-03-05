@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0273822",
+    "title": "Mockingbird Don't Sing",
+    "year": 2001,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 997,
+    "occurrences": [
+      [
+        210,
+        "00:25:18.947000",
+        "00:25:21.652000",
+        "And if that mockingbird don't sing..."
+      ],
+      [
+        983,
+        "01:32:08.230000",
+        "01:32:11.801000",
+        "And if that mockingbird don't sing..."
+      ]
+    ],
+    "regex": "\\b((?!\\bMockingbird\\ Don't\\ Sing:)Mockingbird\\ Don't\\ Sing)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

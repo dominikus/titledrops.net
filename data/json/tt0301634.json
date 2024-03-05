@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0301634",
+    "title": "Frozen Stiff",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1352,
+    "occurrences": [
+      [
+        263,
+        "00:19:09.320000",
+        "00:19:15.509000",
+        "Two guys drag him around, but he's still a frozen stiff."
+      ],
+      [
+        879,
+        "01:06:49.880000",
+        "01:06:54.590000",
+        "whatever... You just act like you're frozen stiff, get it?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFrozen\\ Stiff:)Frozen\\ Stiff)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.3
+  }
+]

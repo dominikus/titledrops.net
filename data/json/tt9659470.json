@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt9659470",
+    "title": "Night",
+    "year": 2019,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 485,
+    "occurrences": [
+      [
+        104,
+        "00:25:59.172000",
+        "00:26:01.034000",
+        "What a great way to start off the night."
+      ],
+      [
+        248,
+        "00:38:11.965000",
+        "00:38:14.586000",
+        "- I go out every single night"
+      ],
+      [
+        288,
+        "00:40:23.172000",
+        "00:40:26.965000",
+        "They're always loud at this time of night."
+      ],
+      [
+        366,
+        "00:47:40.379000",
+        "00:47:42.896000",
+        "the night will be over before you know it,"
+      ]
+    ],
+    "regex": "\\b((?!\\bNight:)Night)(?!\\:)(?!'t)\\b",
+    "runtime": 65,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.1
+  }
+]

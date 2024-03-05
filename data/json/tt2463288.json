@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt2463288",
+    "title": "Walk of Shame",
+    "year": 2014,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1884,
+    "occurrences": [
+      [
+        1012,
+        "00:47:21.305000",
+        "00:47:23.539000",
+        "Hey, look! Meghan Miles on the walk of shame."
+      ],
+      [
+        1741,
+        "01:24:59.261000",
+        "01:25:02.596000",
+        "very long... walk of shame."
+      ],
+      [
+        1745,
+        "01:25:11.340000",
+        "01:25:14.174000",
+        "Also, I'm not ashamed. I shouldn't have called it a walk of shame."
+      ],
+      [
+        1840,
+        "01:30:57.118000",
+        "01:31:00.554000",
+        " Waking up to the walk of shame"
+      ],
+      [
+        1844,
+        "01:31:10.032000",
+        "01:31:13.066000",
+        "Headin' out on the walk of shame"
+      ]
+    ],
+    "regex": "\\b((?!\\bWalk\\ of\\ Shame:)Walk\\ of\\ Shame)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

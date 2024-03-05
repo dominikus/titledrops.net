@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5606616",
+    "title": "Riverhead",
+    "year": 2016,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1083,
+    "occurrences": [
+      [
+        254,
+        "00:17:02.062000",
+        "00:17:04.480000",
+        "We were just over to Riverhead coming back from Kelly's."
+      ],
+      [
+        294,
+        "00:18:45.749000",
+        "00:18:47.917000",
+        "You stay clear this side of Riverhead. You hear me?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRiverhead:)Riverhead)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

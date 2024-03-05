@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt9196658",
+    "title": "The Divided Brain",
+    "year": 2019,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1455,
+    "occurrences": [
+      [
+        11,
+        "00:01:02.140000",
+        "00:01:05.860000",
+        "The Divided Brain and the Making of the Western World,\""
+      ],
+      [
+        379,
+        "00:20:22.710000",
+        "00:20:25.560000",
+        "The divided brain gives us two types"
+      ]
+    ],
+    "regex": "\\b((?!\\bDivided\\ Brain:)Divided\\ Brain)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

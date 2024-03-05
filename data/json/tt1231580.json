@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt1231580",
+    "title": "Alvin and the Chipmunks: The Squeakquel",
+    "year": 2009,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "count": 1,
+    "all_lines": 949,
+    "occurrences": [
+      [
+        1,
+        "00:00:06.742000",
+        "00:00:10.919000",
+        "Alvin and the chipmunk: The Squeakquel"
+      ]
+    ],
+    "regex": "\\b((?!\\bAlvin\\ and\\ the\\ Chipmunks:)Alvin\\ and\\ the\\ Chipmunks|(?!\\bSqueakquel:)Squeakquel)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

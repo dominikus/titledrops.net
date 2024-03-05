@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt4907864",
+    "title": "Mountain",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 151,
+    "occurrences": [
+      [
+        0,
+        "00:00:21.060000",
+        "00:00:25.293000",
+        "Mountain"
+      ],
+      [
+        13,
+        "00:10:08.860000",
+        "00:10:12.012000",
+        "And this damned mountain, cursed by God and by people."
+      ],
+      [
+        19,
+        "00:10:30.300000",
+        "00:10:32.689000",
+        "The mountain's shadow is burying us."
+      ],
+      [
+        65,
+        "00:20:31.900000",
+        "00:20:35.450000",
+        "When will you let go of that damned mountain?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMountain:)Mountain)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1620981",
+    "title": "The Addams Family",
+    "year": 2019,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "count": 5,
+    "all_lines": 1626,
+    "occurrences": [
+      [
+        144,
+        "00:08:29.201000",
+        "00:08:31.667000",
+        "- (PLAYING ADDAMS FAMILY THEME) - (SNAPPING RHYTHMICALLY)"
+      ],
+      [
+        150,
+        "00:08:50.101000",
+        "00:08:52.201000",
+        "(RESUMES PLAYING ADDAMS FAMILY THEME)"
+      ],
+      [
+        599,
+        "00:28:45.584000",
+        "00:28:50.648000",
+        "GOMEZ: Pugsley, this is the Addams family saber."
+      ],
+      [
+        1308,
+        "01:01:23.234000",
+        "01:01:25.498000",
+        "The Addams family!"
+      ],
+      [
+        1623,
+        "01:18:38.567000",
+        "01:18:40.567000",
+        "(ADDAMS FAMILY THEME PLAYING)"
+      ]
+    ],
+    "regex": "\\b((?!\\bAddams\\ Family:)Addams\\ Family)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

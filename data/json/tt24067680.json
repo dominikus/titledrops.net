@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt24067680",
+    "title": "Run Baby Run",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1411,
+    "occurrences": [
+      [
+        1407,
+        "02:06:06.119000",
+        "02:06:08.840000",
+        "Run baby, run baby Run baby, run!"
+      ],
+      [
+        1408,
+        "02:06:09.279000",
+        "02:06:11.800000",
+        "Run baby, run baby Run baby, run!"
+      ],
+      [
+        1409,
+        "02:06:12.399000",
+        "02:06:15.079000",
+        "Run baby, run baby Run baby, run!"
+      ],
+      [
+        1411,
+        "02:06:21.960000",
+        "02:06:24.760000",
+        "Run baby, run baby Run baby, run!"
+      ]
+    ],
+    "regex": "\\b((?!\\bRun\\ Baby\\ Run:)Run\\ Baby\\ Run)(?!\\:)(?!'t)\\b",
+    "runtime": 131,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

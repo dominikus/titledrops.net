@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt3850590",
+    "title": "Krampus",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 1973,
+    "occurrences": [
+      [
+        1118,
+        "00:55:22.249000",
+        "00:55:24.332000",
+        "It was Krampus."
+      ],
+      [
+        1120,
+        "00:55:30.957000",
+        "00:55:33.457000",
+        "- Krampus came not to reward... -"
+      ],
+      [
+        1130,
+        "00:55:57.957000",
+        "00:56:01.624000",
+        "But Krampus didn't take me that night."
+      ],
+      [
+        1911,
+        "01:35:54.374000",
+        "01:35:56.916000",
+        "Krampus came not to reward,"
+      ],
+      [
+        1950,
+        "01:41:07.374000",
+        "01:41:09.332000",
+        "Krampus will come looking for some"
+      ]
+    ],
+    "regex": "\\b((?!\\bKrampus:)Krampus)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

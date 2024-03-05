@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0088933",
+    "title": "Cocoon",
+    "year": 1985,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 880,
+    "occurrences": [
+      [
+        604,
+        "01:09:31.913000",
+        "01:09:34.143000",
+        "Put down the cocoon."
+      ],
+      [
+        605,
+        "01:09:34.553000",
+        "01:09:36.908000",
+        "I said, put down the cocoon!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCocoon:)Cocoon)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

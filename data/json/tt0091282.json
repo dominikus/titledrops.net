@@ -1,0 +1,59 @@
+[
+  {
+    "imdb": "tt0091282",
+    "title": "Jake Speed",
+    "year": 1986,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 1100,
+    "occurrences": [
+      [
+        68,
+        "00:07:47.550000",
+        "00:07:49.803000",
+        "Remo, Mack Bolan, Jake Speed."
+      ],
+      [
+        69,
+        "00:07:49.928000",
+        "00:07:53.478000",
+        "In this case, I think probably Jake Speed's the man for the job."
+      ],
+      [
+        163,
+        "00:13:45.074000",
+        "00:13:46.417000",
+        "Jake Speed's associate."
+      ],
+      [
+        164,
+        "00:13:47.618000",
+        "00:13:49.746000",
+        "- Who? - Jake Speed."
+      ],
+      [
+        246,
+        "00:19:28.668000",
+        "00:19:30.796000",
+        "me, Jake Speed, Batman."
+      ],
+      [
+        282,
+        "00:22:23.968000",
+        "00:22:25.811000",
+        "- Where's Jake Speed? - He's here."
+      ]
+    ],
+    "regex": "\\b((?!\\bJake\\ Speed:)Jake\\ Speed)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [
+      "Jake Speed"
+    ],
+    "title_is_name": true,
+    "rating": 4.9
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1072754",
+    "title": "Messages Deleted",
+    "year": 2010,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1154,
+    "occurrences": [
+      [
+        145,
+        "00:09:53.601000",
+        "00:09:55.784000",
+        "messages deleted."
+      ],
+      [
+        823,
+        "00:58:31.196000",
+        "00:58:34.600000",
+        "\"and wait for your answer My scenario messages deleted. \""
+      ]
+    ],
+    "regex": "\\b((?!\\bMessages\\ Deleted:)Messages\\ Deleted)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

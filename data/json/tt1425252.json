@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1425252",
+    "title": "The Crypt",
+    "year": 2009,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 433,
+    "occurrences": [
+      [
+        45,
+        "00:12:29",
+        "00:12:31",
+        "Ring that was from a crypt"
+      ],
+      [
+        116,
+        "00:20:53",
+        "00:20:57",
+        "I think that I am at the entrance to a crypt."
+      ],
+      [
+        401,
+        "01:09:13",
+        "01:09:14",
+        "I got it from the crypt."
+      ]
+    ],
+    "regex": "\\b((?!\\bCrypt:)Crypt)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

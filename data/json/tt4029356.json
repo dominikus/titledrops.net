@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt4029356",
+    "title": "The Man in the Wall",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1227,
+    "occurrences": [
+      [
+        635,
+        "00:42:18.625000",
+        "00:42:24.708000",
+        "Who knows the man in the wall"
+      ],
+      [
+        638,
+        "00:42:55.125000",
+        "00:43:01.208000",
+        "Who knows the man in the wall"
+      ],
+      [
+        641,
+        "00:43:31.166000",
+        "00:43:37.208000",
+        "Who knows the man in the wall"
+      ]
+    ],
+    "regex": "\\b((?!\\bMan\\ in\\ the\\ Wall:)Man\\ in\\ the\\ Wall)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

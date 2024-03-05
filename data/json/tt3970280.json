@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt3970280",
+    "title": "A Magic Christmas",
+    "year": 2014,
+    "genres": [
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 1595,
+    "occurrences": [
+      [
+        1316,
+        "00:59:41.280000",
+        "00:59:43.760000",
+        "It's... it's a Christmas tree, a magic Christmas tree"
+      ],
+      [
+        1321,
+        "00:59:53.960000",
+        "00:59:56.167000",
+        "Wait, a magic Christmas tree?"
+      ],
+      [
+        1446,
+        "01:06:24.160000",
+        "01:06:26.288000",
+        "to find this magic Christmas tree."
+      ],
+      [
+        1595,
+        "01:14:11.120000",
+        "01:14:16.763000",
+        "And that year was a magic Christmas. And that's the end of our story."
+      ]
+    ],
+    "regex": "\\b((?!\\bMagic\\ Christmas:)Magic\\ Christmas)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

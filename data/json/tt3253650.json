@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt3253650",
+    "title": "Little England",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1292,
+    "occurrences": [
+      [
+        307,
+        "00:26:58.747000",
+        "00:27:02.626000",
+        "Such a tiny place and they went and christened it \"Little England\"!"
+      ],
+      [
+        308,
+        "00:27:02.947000",
+        "00:27:06.337000",
+        "\"Little England\" indeed! No relation to the real England I'm sure."
+      ],
+      [
+        817,
+        "01:28:58.747000",
+        "01:29:00.624000",
+        "\"Little England\"."
+      ],
+      [
+        818,
+        "01:29:04.827000",
+        "01:29:06.579000",
+        "\"Little England\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ England:)Little\\ England)(?!\\:)(?!'t)\\b",
+    "runtime": 149,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

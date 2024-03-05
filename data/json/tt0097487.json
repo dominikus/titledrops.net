@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0097487",
+    "title": "Hawks",
+    "year": 1988,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1501,
+    "occurrences": [
+      [
+        456,
+        "00:32:32.118000",
+        "00:32:34.753000",
+        "We called ourselves \"the Hawks.\""
+      ],
+      [
+        680,
+        "00:48:05.216000",
+        "00:48:07.852000",
+        "And thus, as Hawks accoutered,"
+      ]
+    ],
+    "regex": "\\b((?!\\bHawks:)Hawks)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

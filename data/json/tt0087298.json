@@ -1,0 +1,26 @@
+[
+  {
+    "imdb": "tt0087298",
+    "title": "Friday the 13th: The Final Chapter",
+    "year": 1984,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 1,
+    "all_lines": 719,
+    "occurrences": [
+      [
+        12,
+        "00:00:58.850000",
+        "00:01:00.261000",
+        "that Friday the 13th,"
+      ]
+    ],
+    "regex": "\\b((?!\\bFriday\\ the\\ 13th:)Friday\\ the\\ 13th|(?!\\bFinal\\ Chapter:)Final\\ Chapter)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

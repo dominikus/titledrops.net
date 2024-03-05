@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0875595",
+    "title": "Destiny",
+    "year": 2006,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 781,
+    "occurrences": [
+      [
+        705,
+        "01:33:07.560000",
+        "01:33:10.750000",
+        "Hakan, huh? Destiny."
+      ],
+      [
+        706,
+        "01:33:10.760000",
+        "01:33:13.149000",
+        "Yes, destiny."
+      ],
+      [
+        777,
+        "01:37:27.200000",
+        "01:37:30.830000",
+        "Don't resist! This is your destiny."
+      ]
+    ],
+    "regex": "\\b((?!\\bDestiny:)Destiny)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

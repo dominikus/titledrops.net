@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1772872",
+    "title": "Game",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 424,
+    "occurrences": [
+      [
+        231,
+        "01:13:55.464000",
+        "01:13:56.954000",
+        "3 2 1 game on"
+      ],
+      [
+        413,
+        "02:00:44.303000",
+        "02:00:47.898000",
+        "You're the mastermind of the game"
+      ]
+    ],
+    "regex": "\\b((?!\\bGame:)Game)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt9522080",
+    "title": "Papicha",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1004,
+    "occurrences": [
+      [
+        530,
+        "00:49:03.774000",
+        "00:49:04.616000",
+        "So, Papicha..."
+      ],
+      [
+        589,
+        "00:53:31.041000",
+        "00:53:32.543000",
+        "Papicha..."
+      ],
+      [
+        620,
+        "00:55:35.098000",
+        "00:55:37.669000",
+        "- Party's over, Papicha. - When will it be finished?"
+      ],
+      [
+        879,
+        "01:20:25.854000",
+        "01:20:27.765000",
+        "Bye bye, Papicha's fashion show,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPapicha:)Papicha)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

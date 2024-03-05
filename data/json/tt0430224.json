@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0430224",
+    "title": "Hell",
+    "year": 2005,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 620,
+    "occurrences": [
+      [
+        343,
+        "00:52:55.053000",
+        "00:52:57.565000",
+        "Just get the hell out of here now. Dammit! Get out!"
+      ],
+      [
+        453,
+        "01:05:54.861000",
+        "01:05:55.945000",
+        "- Get the hell out! - Stop."
+      ],
+      [
+        574,
+        "01:25:15.295000",
+        "01:25:16.124000",
+        "Get the hell out!"
+      ],
+      [
+        576,
+        "01:25:20.214000",
+        "01:25:22.365000",
+        "Get the hell out of here!"
+      ]
+    ],
+    "regex": "\\b((?!\\bHell:)Hell)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

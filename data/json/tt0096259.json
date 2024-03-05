@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0096259",
+    "title": "Things Change",
+    "year": 1988,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1011,
+    "occurrences": [
+      [
+        423,
+        "00:37:44.996000",
+        "00:37:46.657000",
+        "Things change."
+      ],
+      [
+        440,
+        "00:39:33.404000",
+        "00:39:37.841000",
+        "Shoots 35 grand in one roll, craps out. He says, \"Things change.\""
+      ],
+      [
+        952,
+        "01:30:17.245000",
+        "01:30:19.008000",
+        "Things change."
+      ]
+    ],
+    "regex": "\\b((?!\\bThings\\ Change:)Things\\ Change)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

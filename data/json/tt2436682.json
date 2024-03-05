@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2436682",
+    "title": "The Duel",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 4,
+    "all_lines": 918,
+    "occurrences": [
+      [
+        19,
+        "00:04:02.810000",
+        "00:04:05.811000",
+        "in the way of a Helena duel,"
+      ],
+      [
+        784,
+        "01:20:34.263000",
+        "01:20:36.964000",
+        "in a Helena duel."
+      ],
+      [
+        795,
+        "01:21:56.579000",
+        "01:22:01.181000",
+        "you're about to witness a Helena duel."
+      ],
+      [
+        802,
+        "01:22:27.176000",
+        "01:22:30.144000",
+        "from that same duel"
+      ]
+    ],
+    "regex": "\\b((?!\\bDuel:)Duel)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0054387",
+    "title": "The Time Machine",
+    "year": 1960,
+    "genres": [
+      "Adventure",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 713,
+    "occurrences": [
+      [
+        95,
+        "00:10:31.892000",
+        "00:10:33.644000",
+        "This is a time machine."
+      ],
+      [
+        136,
+        "00:13:52.132000",
+        "00:13:55.329000",
+        "But the time machine occupies the same space. . ."
+      ],
+      [
+        157,
+        "00:15:06.972000",
+        "00:15:11.011000",
+        "Even if you had invented a time machine, what of it?"
+      ],
+      [
+        479,
+        "01:03:16.841000",
+        "01:03:18.672000",
+        ". . .the time machine."
+      ]
+    ],
+    "regex": "\\b((?!\\bTime\\ Machine:)Time\\ Machine)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

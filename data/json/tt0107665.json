@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0107665",
+    "title": "Needful Things",
+    "year": 1993,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 2593,
+    "occurrences": [
+      [
+        185,
+        "00:19:04.101000",
+        "00:19:05.978000",
+        "Needful things.\""
+      ],
+      [
+        605,
+        "00:41:32.115000",
+        "00:41:34.701000",
+        "Welcome to Needful Things."
+      ],
+      [
+        1667,
+        "01:54:36.370000",
+        "01:54:37.621000",
+        "Needful Things?"
+      ],
+      [
+        1745,
+        "01:59:05.555000",
+        "01:59:08.433000",
+        "He's the guy who runs that Needful Things store."
+      ]
+    ],
+    "regex": "\\b((?!\\bNeedful\\ Things:)Needful\\ Things)(?!\\:)(?!'t)\\b",
+    "runtime": 184,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

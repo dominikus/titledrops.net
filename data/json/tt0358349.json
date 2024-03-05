@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0358349",
+    "title": "Agent Cody Banks 2: Destination London",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1599,
+    "occurrences": [
+      [
+        262,
+        "00:15:47.813000",
+        "00:15:50.338000",
+        "Destination London"
+      ],
+      [
+        264,
+        "00:15:54.420000",
+        "00:15:56.513000",
+        "Destination London"
+      ]
+    ],
+    "regex": "\\b((?!\\bAgent\\ Cody\\ Banks:)Agent\\ Cody\\ Banks|(?!\\bDestination\\ London:)Destination\\ London)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

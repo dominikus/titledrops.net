@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt2638456",
+    "title": "Ghost Day",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 7,
+    "all_lines": 1507,
+    "occurrences": [
+      [
+        40,
+        "00:04:17.172000",
+        "00:04:19.238000",
+        "Ghost Day"
+      ],
+      [
+        94,
+        "00:07:41.589000",
+        "00:07:45.596000",
+        "There won't be Ghost Day anymore."
+      ],
+      [
+        212,
+        "00:14:42.602000",
+        "00:14:45.370000",
+        "The owner of \"Ghost Day\","
+      ],
+      [
+        248,
+        "00:16:14.425000",
+        "00:16:16.977000",
+        "The next episode will be the best of Ghost Day."
+      ],
+      [
+        639,
+        "00:36:51.525000",
+        "00:36:53.935000",
+        "Ghost Day, Live!"
+      ],
+      [
+        784,
+        "00:45:17.060000",
+        "00:45:22.193000",
+        "Welcome back to \"Ghost Day, Live, part 2\""
+      ],
+      [
+        980,
+        "00:57:45.342000",
+        "00:57:47.758000",
+        "Welcome back to Ghost Day, Live."
+      ]
+    ],
+    "regex": "\\b((?!\\bGhost\\ Day:)Ghost\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

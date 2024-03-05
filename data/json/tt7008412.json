@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt7008412",
+    "title": "Expiry",
+    "year": 2021,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1134,
+    "occurrences": [
+      [
+        424,
+        "00:28:19.750000",
+        "00:28:22.152000",
+        "I'm trying to find a clause about expiry"
+      ],
+      [
+        558,
+        "00:36:36.680000",
+        "00:36:40.117000",
+        "I'm just wondering why no one told us about this expiry."
+      ],
+      [
+        863,
+        "00:58:09.406000",
+        "00:58:11.408000",
+        "Before it is given an expiry date."
+      ],
+      [
+        900,
+        "01:02:44.381000",
+        "01:02:46.216000",
+        "What are the consequences of expiry?"
+      ]
+    ],
+    "regex": "\\b((?!\\bExpiry:)Expiry)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

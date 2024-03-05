@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt5156746",
+    "title": "Force 2",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1171,
+    "occurrences": [
+      [
+        858,
+        "01:36:11.599000",
+        "01:36:14.102000",
+        "In fact, we even joined the force together."
+      ],
+      [
+        1138,
+        "02:01:06.459000",
+        "02:01:09.406000",
+        "\"We promise you...our force promises you.\""
+      ],
+      [
+        1160,
+        "02:02:10.423000",
+        "02:02:12.096000",
+        "\"Force is a tenacious.\""
+      ],
+      [
+        1163,
+        "02:02:17.330000",
+        "02:02:18.741000",
+        "\"Force is an retaliation.\""
+      ],
+      [
+        1166,
+        "02:02:25.237000",
+        "02:02:26.739000",
+        "\"Force is a voice...\""
+      ]
+    ],
+    "regex": "\\b((?!\\bForce:)Force)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

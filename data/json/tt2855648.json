@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2855648",
+    "title": "Madras Cafe",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1699,
+    "occurrences": [
+      [
+        1126,
+        "01:24:21.723000",
+        "01:24:23.361000",
+        "Rajsekharan at Madras Cafe!"
+      ],
+      [
+        1411,
+        "01:40:24.852000",
+        "01:40:27.924000",
+        "So in London, he did have a crucial meeting in Madras cafe."
+      ],
+      [
+        1466,
+        "01:43:09.883000",
+        "01:43:13.023000",
+        "That's Rajsekharan, at Madras Cafe, London."
+      ],
+      [
+        1480,
+        "01:43:51.425000",
+        "01:43:54.031000",
+        "Then Rajsekharan goes to Madras Cafe, London."
+      ]
+    ],
+    "regex": "\\b((?!\\bMadras\\ Cafe:)Madras\\ Cafe)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

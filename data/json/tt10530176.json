@@ -1,0 +1,69 @@
+[
+  {
+    "imdb": "tt10530176",
+    "title": "The Call",
+    "year": 2020,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 8,
+    "all_lines": 1274,
+    "occurrences": [
+      [
+        10,
+        "00:01:49.442000",
+        "00:01:51.736000",
+        "I lost my phone. Can I use yours to call it?"
+      ],
+      [
+        43,
+        "00:03:54.567000",
+        "00:03:55.777000",
+        "We'll call you back."
+      ],
+      [
+        216,
+        "00:18:01.205000",
+        "00:18:03.916000",
+        "You call this food? Fuck."
+      ],
+      [
+        297,
+        "00:23:10.472000",
+        "00:23:13.141000",
+        "- I'll call you back in a bit. -Hey, wait."
+      ],
+      [
+        466,
+        "00:38:09.662000",
+        "00:38:11.580000",
+        "I'm sorry, but I can you call back a little later?"
+      ],
+      [
+        491,
+        "00:39:47.051000",
+        "00:39:49.053000",
+        "I thought you wanted me to call you back."
+      ],
+      [
+        518,
+        "00:41:17.683000",
+        "00:41:21.020000",
+        "Don't ever call her again, or you'll get hurt."
+      ],
+      [
+        1098,
+        "01:32:34.590000",
+        "01:32:35.800000",
+        "Call him?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCall:)Call)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

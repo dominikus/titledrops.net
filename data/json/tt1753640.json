@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1753640",
+    "title": "Crook: It's Good to Be Bad",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1539,
+    "occurrences": [
+      [
+        83,
+        "00:05:10.323000",
+        "00:05:12.018000",
+        "It's good to be bad, you know."
+      ],
+      [
+        402,
+        "00:24:28.180000",
+        "00:24:30.444000",
+        "yes, it's good to be bad."
+      ]
+    ],
+    "regex": "\\b((?!\\bCrook:)Crook|(?!\\bIt's\\ Good\\ to\\ Be\\ Bad:)It's\\ Good\\ to\\ Be\\ Bad)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

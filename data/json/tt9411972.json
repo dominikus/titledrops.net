@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt9411972",
+    "title": "Where the Crawdads Sing",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1287,
+    "occurrences": [
+      [
+        130,
+        "00:14:55.595000",
+        "00:14:59.057000",
+        "run and hide deep in the marsh way out where the crawdads sing."
+      ],
+      [
+        1287,
+        "02:00:49.616000",
+        "02:00:51.117000",
+        "Where the crawdads sing."
+      ]
+    ],
+    "regex": "\\b((?!\\bWhere\\ the\\ Crawdads\\ Sing:)Where\\ the\\ Crawdads\\ Sing)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

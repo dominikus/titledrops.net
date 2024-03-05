@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt6851066",
+    "title": "Filmworker",
+    "year": 2017,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1660,
+    "occurrences": [
+      [
+        770,
+        "00:42:10.270000",
+        "00:42:12.168000",
+        "And I always used to write \"filmworker\"."
+      ],
+      [
+        771,
+        "00:42:12.337000",
+        "00:42:14.303000",
+        "I mean, I'm a filmworker."
+      ]
+    ],
+    "regex": "\\b((?!\\bFilmworker:)Filmworker)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

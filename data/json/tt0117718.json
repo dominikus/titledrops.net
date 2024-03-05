@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0117718",
+    "title": "The Spitfire Grill",
+    "year": 1996,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1182,
+    "occurrences": [
+      [
+        507,
+        "00:46:34.817000",
+        "00:46:39.379000",
+        "I want all the entries to go to Hannah Ferguson, care of the Spitfire grill."
+      ],
+      [
+        544,
+        "00:49:31.493000",
+        "00:49:34.257000",
+        "\"Restaurant Raffle. want the Spitfire grill?"
+      ],
+      [
+        653,
+        "01:00:23.978000",
+        "01:00:26.674000",
+        "\"Hannah Ferguson, care of the Spitfire grill.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bSpitfire\\ Grill:)Spitfire\\ Grill)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

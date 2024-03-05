@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt3233548",
+    "title": "The Rolling Stones: Sweet Summer Sun - Hyde Park Live",
+    "year": 2013,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 5,
+    "all_lines": 1176,
+    "occurrences": [
+      [
+        8,
+        "00:00:28.020000",
+        "00:00:30.750000",
+        "\"Let's Spend The Night Together\" by The Rolling Stones"
+      ],
+      [
+        9,
+        "00:00:41.370000",
+        "00:00:43.090000",
+        "The rock icons The Rolling Stones ..."
+      ],
+      [
+        10,
+        "00:00:43.330000",
+        "00:00:45.610000",
+        "The Rolling Stones have announced to play at the Hyde Park ..."
+      ],
+      [
+        34,
+        "00:02:00.120000",
+        "00:02:02.430000",
+        "\"Moonlight Mile\" by The Rolling Stones"
+      ],
+      [
+        83,
+        "00:04:43.300000",
+        "00:04:45.430000",
+        "The Rolling Stones!"
+      ]
+    ],
+    "regex": "\\b((?!\\bRolling\\ Stones:)Rolling\\ Stones|(?!\\bSweet\\ Summer\\ Sun\\ \\-\\ Hyde\\ Park\\ Live:)Sweet\\ Summer\\ Sun\\ \\-\\ Hyde\\ Park\\ Live)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

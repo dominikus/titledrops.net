@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0099593",
+    "title": "The Fool",
+    "year": 1990,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 2595,
+    "occurrences": [
+      [
+        1112,
+        "00:59:15.320000",
+        "00:59:18.200000",
+        "Oh, noble fool."
+      ],
+      [
+        1113,
+        "00:59:18.320000",
+        "00:59:20.360000",
+        "Oh, worthy fool."
+      ],
+      [
+        1115,
+        "00:59:25.280000",
+        "00:59:29.640000",
+        "Oh, worthy fool."
+      ],
+      [
+        1133,
+        "01:00:27.520000",
+        "01:00:31.560000",
+        "Frederick, what a fool you are."
+      ],
+      [
+        2363,
+        "01:59:30.120000",
+        "01:59:31",
+        "You are a fool."
+      ]
+    ],
+    "regex": "\\b((?!\\bFool:)Fool)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

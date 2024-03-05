@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt3778644",
+    "title": "Solo: A Star Wars Story",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 6,
+    "all_lines": 2233,
+    "occurrences": [
+      [
+        249,
+        "00:14:01.513000",
+        "00:14:02.632000",
+        "Solo."
+      ],
+      [
+        252,
+        "00:14:10.142000",
+        "00:14:12.029000",
+        "Good luck, Han Solo."
+      ],
+      [
+        258,
+        "00:14:30.920000",
+        "00:14:32.814000",
+        "Solo, get up! We're almost there!"
+      ],
+      [
+        834,
+        "00:47:15.984000",
+        "00:47:19.029000",
+        "Yeah. This is Han Solo and Chewbacca."
+      ],
+      [
+        1001,
+        "00:53:50.042000",
+        "00:53:51.859000",
+        "Han Solo."
+      ],
+      [
+        1880,
+        "01:43:13.136000",
+        "01:43:15.147000",
+        "BECKETT: Joining the cause, Han Solo?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSolo:)Solo|(?!\\bStar\\ Wars\\ Story:)Star\\ Wars\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0337909",
+    "title": "Calendar Girls",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1075,
+    "occurrences": [
+      [
+        964,
+        "01:26:27.760000",
+        "01:26:29.910000",
+        "to becoming nude calendar girls."
+      ],
+      [
+        966,
+        "01:26:33.240000",
+        "01:26:38.997000",
+        "Please welcome, from Knapely, England, the Calendar Girls. Let's bring them out."
+      ]
+    ],
+    "regex": "\\b((?!\\bCalendar\\ Girls:)Calendar\\ Girls)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt10037934",
+    "title": "One Moment",
+    "year": 2021,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 2289,
+    "occurrences": [
+      [
+        42,
+        "00:02:17.105000",
+        "00:02:19.306000",
+        "Just give me one moment."
+      ],
+      [
+        1372,
+        "01:03:52.833000",
+        "01:03:55.135000",
+        "Excuse me one moment."
+      ],
+      [
+        1442,
+        "01:08:12.292000",
+        "01:08:14.394000",
+        "just for one moment."
+      ],
+      [
+        1445,
+        "01:08:20.702000",
+        "01:08:24.204000",
+        "One moment would never be enough."
+      ]
+    ],
+    "regex": "\\b((?!\\bOne\\ Moment:)One\\ Moment)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

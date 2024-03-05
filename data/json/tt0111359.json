@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0111359",
+    "title": "Tall Tale",
+    "year": 1995,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 741,
+    "occurrences": [
+      [
+        42,
+        "00:07:00.320000",
+        "00:07:04.950000",
+        "- Pa, it's just a tall tale. - That don't mean it ain't true."
+      ],
+      [
+        264,
+        "00:34:58.800000",
+        "00:35:02.759000",
+        "You're telling me a tall tale! No Voice can carry that far!"
+      ],
+      [
+        542,
+        "01:02:59",
+        "01:03:02.072000",
+        "If you ask me, I think he's telling us a tall tale!"
+      ],
+      [
+        543,
+        "01:03:02.280000",
+        "01:03:05.078000",
+        "Yeah, that's a tall tale for sure."
+      ]
+    ],
+    "regex": "\\b((?!\\bTall\\ Tale:)Tall\\ Tale)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

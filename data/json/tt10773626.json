@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt10773626",
+    "title": "The Pebble and the Boy",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1509,
+    "occurrences": [
+      [
+        1054,
+        "01:08:25.961000",
+        "01:08:32.332000",
+        "Between the pebble and the boy"
+      ],
+      [
+        1068,
+        "01:09:47.342000",
+        "01:09:53.380000",
+        "Between the pebble and the boy"
+      ]
+    ],
+    "regex": "\\b((?!\\bPebble\\ and\\ the\\ Boy:)Pebble\\ and\\ the\\ Boy)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

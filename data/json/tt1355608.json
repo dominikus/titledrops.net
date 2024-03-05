@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1355608",
+    "title": "Prank",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 808,
+    "occurrences": [
+      [
+        172,
+        "00:18:03.960000",
+        "00:18:11.435000",
+        "lt's not a string, Father Zoltan. lt's a prank. Mischief."
+      ],
+      [
+        249,
+        "00:26:08.680000",
+        "00:26:13.708000",
+        "...would that too be just a prank? A falter?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPrank:)Prank)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

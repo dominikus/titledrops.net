@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0055471",
+    "title": "Splendor in the Grass",
+    "year": 1961,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1406,
+    "occurrences": [
+      [
+        700,
+        "00:58:38.360000",
+        "00:58:42.230000",
+        "\"Though nothing can bring back the hour Of splendor in the grass..."
+      ],
+      [
+        719,
+        "01:00:19.130000",
+        "01:00:21.030000",
+        "\"Of splendor in the grass..."
+      ],
+      [
+        724,
+        "01:00:37.210000",
+        "01:00:39.700000",
+        "...by such expressions as \"splendor in the grass\"..."
+      ],
+      [
+        1404,
+        "02:03:19.240000",
+        "02:03:23.830000",
+        "\"Though nothing can bring back the hour Of splendor in the grass..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSplendor\\ in\\ the\\ Grass:)Splendor\\ in\\ the\\ Grass)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

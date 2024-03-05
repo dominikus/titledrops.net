@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0083652",
+    "title": "Bill Cosby: Himself",
+    "year": 1983,
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1365,
+    "occurrences": [
+      [
+        0,
+        "00:00:18.539000",
+        "00:00:21.133000",
+        "(d intro to ''Just the Slew Of Us'' by Bill Cosby)"
+      ],
+      [
+        1199,
+        "01:31:15.024000",
+        "01:31:17.492000",
+        "because he forgot to dry himself."
+      ],
+      [
+        1351,
+        "01:42:27.929000",
+        "01:42:31.057000",
+        "(d intro to ''Just the Slew Of Us'' by Bill Cosby)"
+      ]
+    ],
+    "regex": "\\b((?!\\bBill\\ Cosby:)Bill\\ Cosby|(?!\\bHimself:)Himself)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

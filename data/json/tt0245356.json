@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0245356",
+    "title": "Perfume",
+    "year": 2001,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1853,
+    "occurrences": [
+      [
+        1698,
+        "01:30:27.166000",
+        "01:30:30.136000",
+        "it's a perfume bottle,"
+      ],
+      [
+        1700,
+        "01:30:31.570000",
+        "01:30:33.372000",
+        "Nice. A lot of money in perfume."
+      ],
+      [
+        1717,
+        "01:31:31.297000",
+        "01:31:35.266000",
+        "He is going to make a Camille perfume."
+      ]
+    ],
+    "regex": "\\b((?!\\bPerfume:)Perfume)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

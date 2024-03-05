@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0043849",
+    "title": "New Mexico",
+    "year": 1951,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 998,
+    "occurrences": [
+      [
+        16,
+        "00:03:31.103000",
+        "00:03:34.103000",
+        "on the Indian situation here in New Mexico territory."
+      ],
+      [
+        32,
+        "00:04:25.034000",
+        "00:04:29.206000",
+        "war chief of the Indian nations of the New Mexico territory."
+      ]
+    ],
+    "regex": "\\b((?!\\bNew\\ Mexico:)New\\ Mexico)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

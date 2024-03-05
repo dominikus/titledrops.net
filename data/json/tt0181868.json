@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0181868",
+    "title": "Treasure Island",
+    "year": 1999,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1288,
+    "occurrences": [
+      [
+        87,
+        "00:11:01.903000",
+        "00:11:04.565000",
+        "the map of Flint's treasure island!"
+      ],
+      [
+        391,
+        "00:27:15.609000",
+        "00:27:17.907000",
+        "is saying that we're headed for a treasure island"
+      ]
+    ],
+    "regex": "\\b((?!\\bTreasure\\ Island:)Treasure\\ Island)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

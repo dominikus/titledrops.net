@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2633666",
+    "title": "The Dramatics: A Comedy",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1313,
+    "occurrences": [
+      [
+        757,
+        "00:43:17.161000",
+        "00:43:19.963000",
+        "Yeah, I act. You know, a lot of comedy stuff."
+      ],
+      [
+        763,
+        "00:43:28.940000",
+        "00:43:31.007000",
+        "- The improv... - The comedy thing..."
+      ],
+      [
+        764,
+        "00:43:31.009000",
+        "00:43:33.242000",
+        "- No I don't... - Yeah it's a comedy club. It's real big."
+      ]
+    ],
+    "regex": "\\b((?!\\bDramatics:)Dramatics|(?!\\bComedy:)Comedy)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

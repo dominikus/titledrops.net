@@ -1,0 +1,52 @@
+[
+  {
+    "imdb": "tt0064539",
+    "title": "Kenner",
+    "year": 1968,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 739,
+    "occurrences": [
+      [
+        30,
+        "00:05:32.599000",
+        "00:05:35.534000",
+        "Mr. Kenner, will you check the cargo list?"
+      ],
+      [
+        31,
+        "00:05:45.979000",
+        "00:05:49.514000",
+        "- See you later, Mr. Kenner. - Wait a minute, please."
+      ],
+      [
+        186,
+        "00:18:26.206000",
+        "00:18:28.172000",
+        "That's Kenner, alright."
+      ],
+      [
+        196,
+        "00:19:39.946000",
+        "00:19:41.913000",
+        "Is that your man, Kenner?"
+      ],
+      [
+        727,
+        "01:29:30.599000",
+        "01:29:31.832000",
+        "Mr. Kenner."
+      ]
+    ],
+    "regex": "\\b((?!\\bKenner:)Kenner)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [
+      "RoyKenner"
+    ],
+    "title_is_name": true,
+    "rating": 5.1
+  }
+]

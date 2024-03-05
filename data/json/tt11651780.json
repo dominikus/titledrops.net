@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt11651780",
+    "title": "Choked",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1280,
+    "occurrences": [
+      [
+        378,
+        "00:23:36.875000",
+        "00:23:38.292000",
+        "I just choked."
+      ],
+      [
+        1155,
+        "01:39:42.792000",
+        "01:39:44.417000",
+        "I choked on stage."
+      ]
+    ],
+    "regex": "\\b((?!\\bChoked:)Choked)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

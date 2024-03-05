@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt7831358",
+    "title": "Harpoon",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1420,
+    "occurrences": [
+      [
+        133,
+        "00:07:20.112000",
+        "00:07:23.381000",
+        "that was just us talking about buying you a damn harpoon,"
+      ],
+      [
+        364,
+        "00:19:30.743000",
+        "00:19:32.842000",
+        "He was gonna shoot you with the harpoon."
+      ],
+      [
+        454,
+        "00:24:34.413000",
+        "00:24:35.712000",
+        "You had the harpoon aimed at him."
+      ],
+      [
+        734,
+        "00:37:47.839000",
+        "00:37:50.973000",
+        "If only we had, say, a harpoon."
+      ]
+    ],
+    "regex": "\\b((?!\\bHarpoon:)Harpoon)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

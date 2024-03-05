@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt5026484",
+    "title": "Needhi Singh",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1122,
+    "occurrences": [
+      [
+        1104,
+        "01:38:16.440000",
+        "01:38:23.176000",
+        "Villagers, this is the Needhi Singh who killed her parents."
+      ],
+      [
+        1105,
+        "01:38:24.248000",
+        "01:38:27.183000",
+        "This is the Needhi Singh who has terrorized villagers and police alike."
+      ],
+      [
+        1110,
+        "01:38:37.361000",
+        "01:38:38.419000",
+        "She is the same Needhi Singh."
+      ]
+    ],
+    "regex": "\\b((?!\\bNeedhi\\ Singh:)Needhi\\ Singh)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [
+      "Needhi Singh"
+    ],
+    "title_is_name": true,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt14074936",
+    "title": "Fire Island",
+    "year": 2023,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 2925,
+    "occurrences": [
+      [
+        150,
+        "00:09:47.144000",
+        "00:09:51.648000",
+        "- Fire Island bitches! (cheers)"
+      ],
+      [
+        284,
+        "00:19:15.462000",
+        "00:19:17.339000",
+        "- Girl, it's Fire Island."
+      ],
+      [
+        1608,
+        "00:09:47.144000",
+        "00:09:51.648000",
+        "- Fire Island bitches! (cheers)"
+      ],
+      [
+        1742,
+        "00:19:15.462000",
+        "00:19:17.339000",
+        "- Girl, it's Fire Island."
+      ]
+    ],
+    "regex": "\\b((?!\\bFire\\ Island:)Fire\\ Island)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.7
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt5801302",
+    "title": "Santa Stole Our Dog: A Merry Doggone Christmas!",
+    "year": 2017,
+    "genres": [
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1721,
+    "occurrences": [
+      [
+        485,
+        "00:29:11.532000",
+        "00:29:13.534000",
+        "Santa stole our dog!"
+      ],
+      [
+        570,
+        "00:33:29.442000",
+        "00:33:31.357000",
+        "Santa stole our dog."
+      ],
+      [
+        646,
+        "00:37:29.812000",
+        "00:37:31.423000",
+        "\"Santa Stole Our Dog\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSanta\\ Stole\\ Our\\ Dog:)Santa\\ Stole\\ Our\\ Dog|(?!\\bMerry\\ Doggone\\ Christmas!:)Merry\\ Doggone\\ Christmas!)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

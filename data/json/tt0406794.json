@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0406794",
+    "title": "A Family",
+    "year": 2004,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 766,
+    "occurrences": [
+      [
+        2,
+        "00:00:20.020000",
+        "00:00:27.688000",
+        "family"
+      ],
+      [
+        698,
+        "01:14:07.042000",
+        "01:14:09.704000",
+        "Cheers! For our family!"
+      ]
+    ],
+    "regex": "\\b((?!\\bFamily:)Family)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

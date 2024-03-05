@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt11892482",
+    "title": "All the Moons",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 455,
+    "occurrences": [
+      [
+        89,
+        "00:12:20.917000",
+        "00:12:23.459000",
+        "You'll see all the moons there are."
+      ],
+      [
+        421,
+        "01:29:39.876000",
+        "01:29:43.876000",
+        "I don't want to, I don't want to see all the moons."
+      ]
+    ],
+    "regex": "\\b((?!\\bAll\\ the\\ Moons:)All\\ the\\ Moons)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

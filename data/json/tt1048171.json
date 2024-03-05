@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1048171",
+    "title": "Seraphine",
+    "year": 2008,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 345,
+    "occurrences": [
+      [
+        27,
+        "00:10:08.741000",
+        "00:10:10.106000",
+        "Seraphine, sir."
+      ],
+      [
+        58,
+        "00:15:11.911000",
+        "00:15:14.209000",
+        "You owe me two months' rent. Seraphine!"
+      ],
+      [
+        61,
+        "00:15:28.327000",
+        "00:15:30.852000",
+        "Mademoiselle Seraphine is not receiving visitors"
+      ],
+      [
+        170,
+        "00:35:54.418000",
+        "00:35:55.544000",
+        "Seraphine."
+      ]
+    ],
+    "regex": "\\b((?!\\bSeraphine:)Seraphine)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

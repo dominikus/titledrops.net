@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt24670346",
+    "title": "Gentleman",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1521,
+    "occurrences": [
+      [
+        28,
+        "00:02:50.245000",
+        "00:02:52.956000",
+        "He could do it nicely. Like a gentleman."
+      ],
+      [
+        37,
+        "00:03:18.565000",
+        "00:03:19.942000",
+        "Like a gentleman."
+      ]
+    ],
+    "regex": "\\b((?!\\bGentleman:)Gentleman)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

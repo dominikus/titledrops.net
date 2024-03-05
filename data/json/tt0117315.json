@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0117315",
+    "title": "The Father",
+    "year": 1996,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 365,
+    "occurrences": [
+      [
+        222,
+        "00:47:41.992000",
+        "00:47:44.051000",
+        "Cry out that I want to be his father?"
+      ],
+      [
+        224,
+        "00:47:46.163000",
+        "00:47:51.328000",
+        "right now. I'm not a father nor a husband."
+      ]
+    ],
+    "regex": "\\b((?!\\bFather:)Father)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

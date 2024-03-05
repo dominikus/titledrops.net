@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0039112",
+    "title": "The Years Between",
+    "year": 1946,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1447,
+    "occurrences": [
+      [
+        1062,
+        "01:11:16.100000",
+        "01:11:19.658000",
+        "But it's all the years between"
+      ],
+      [
+        1063,
+        "01:11:21.905000",
+        "01:11:23.932000",
+        "The years between"
+      ]
+    ],
+    "regex": "\\b((?!\\bYears\\ Between:)Years\\ Between)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

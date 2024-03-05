@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0063093",
+    "title": "Hostile Witness",
+    "year": 1969,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1625,
+    "occurrences": [
+      [
+        730,
+        "00:50:59.374000",
+        "00:51:02.738000",
+        "as a hostile witness, then? - That was my intention, my Lord."
+      ],
+      [
+        1544,
+        "01:37:21.176000",
+        "01:37:22.776000",
+        "was accused of being a hostile witness,"
+      ]
+    ],
+    "regex": "\\b((?!\\bHostile\\ Witness:)Hostile\\ Witness)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

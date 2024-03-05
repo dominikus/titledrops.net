@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0219327",
+    "title": "Strictly Sinatra",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1214,
+    "occurrences": [
+      [
+        56,
+        "00:04:51.416000",
+        "00:04:55.670000",
+        "\"Toni Cocozza is Strictly Sinatra,\" right? Strictly Sinatra."
+      ],
+      [
+        100,
+        "00:07:49.051000",
+        "00:07:53.639000",
+        "Toni Cocozza. \"Strictly Sinatra.\""
+      ],
+      [
+        469,
+        "00:34:54.467000",
+        "00:34:57.345000",
+        "And what I do is strictly Sinatra."
+      ]
+    ],
+    "regex": "\\b((?!\\bStrictly\\ Sinatra:)Strictly\\ Sinatra)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1785385",
+    "title": "Fright Flick",
+    "year": 2011,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1671,
+    "occurrences": [
+      [
+        507,
+        "00:23:47.392000",
+        "00:23:50.896000",
+        "It's called Fright Flick."
+      ],
+      [
+        508,
+        "00:23:50.996000",
+        "00:23:54.332000",
+        "Actually it's called \"Fright Flick Part Three.\""
+      ],
+      [
+        671,
+        "00:35:09.841000",
+        "00:35:13.311000",
+        "The first Fright Flick wasn't written by you-know-who."
+      ],
+      [
+        681,
+        "00:35:40.171000",
+        "00:35:46.844000",
+        "is interested in funding a movie he wrote called \"Fright Flick.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bFright\\ Flick:)Fright\\ Flick)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

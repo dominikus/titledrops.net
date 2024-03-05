@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt5297256",
+    "title": "Pulimurugan",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1875,
+    "occurrences": [
+      [
+        21,
+        "00:06:06.441000",
+        "00:06:08.932000",
+        "...about Puliyur Wild Hunter Pulimurugan!"
+      ],
+      [
+        95,
+        "00:20:08.883000",
+        "00:20:11.647000",
+        "Pulimurugan became the protector of this Puliyur!"
+      ],
+      [
+        724,
+        "00:54:57.569000",
+        "00:55:00.402000",
+        "You are Puliyur's Hero, Pulimurugan, aren't you?"
+      ],
+      [
+        1496,
+        "01:51:45.202000",
+        "01:51:47.033000",
+        "..Puliyur forest Pulimurugan!"
+      ]
+    ],
+    "regex": "\\b((?!\\bPulimurugan:)Pulimurugan)(?!\\:)(?!'t)\\b",
+    "runtime": 161,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

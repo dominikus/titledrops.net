@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt17495872",
+    "title": "Ashgrove",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1870,
+    "occurrences": [
+      [
+        2,
+        "00:00:03.303000",
+        "00:00:04.572000",
+        "Dr. Jennifer Ashgrove,"
+      ],
+      [
+        5,
+        "00:00:09.978000",
+        "00:00:13.581000",
+        "Dr. Ashgrove, we know it's too late now to create a vaccine"
+      ]
+    ],
+    "regex": "\\b((?!\\bAshgrove:)Ashgrove)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

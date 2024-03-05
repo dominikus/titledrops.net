@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt3720788",
+    "title": "The Disappearance of Eleanor Rigby: Her",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1241,
+    "occurrences": [
+      [
+        75,
+        "00:07:50.240000",
+        "00:07:53.050000",
+        "Um, let's, let's give her some time to get settled in, OK, babe?"
+      ],
+      [
+        223,
+        "00:17:54",
+        "00:17:55.923000",
+        "She wants you to come to dinner with her and Aldy"
+      ],
+      [
+        225,
+        "00:17:58.840000",
+        "00:18:00.001000",
+        "What'd you tell her?"
+      ],
+      [
+        1166,
+        "01:31:21",
+        "01:31:23.765000",
+        "Your mother and I used to go there when we visited her parents."
+      ]
+    ],
+    "regex": "\\b((?!\\bDisappearance\\ of\\ Eleanor\\ Rigby:)Disappearance\\ of\\ Eleanor\\ Rigby|(?!\\bHer:)Her)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0456014",
+    "title": "Surf School",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Sport"
+    ],
+    "count": 5,
+    "all_lines": 1497,
+    "occurrences": [
+      [
+        114,
+        "00:06:05.616000",
+        "00:06:07.659000",
+        "Surf school?"
+      ],
+      [
+        309,
+        "00:16:28.780000",
+        "00:16:30.741000",
+        "This is surf school?"
+      ],
+      [
+        329,
+        "00:17:20.290000",
+        "00:17:22.376000",
+        "We're the guys who sent you the deposit for surf school."
+      ],
+      [
+        414,
+        "00:21:59.278000",
+        "00:22:00.654000",
+        "It's time for surf school."
+      ],
+      [
+        416,
+        "00:22:06.451000",
+        "00:22:08.328000",
+        "Surf school is open, hairdo."
+      ]
+    ],
+    "regex": "\\b((?!\\bSurf\\ School:)Surf\\ School)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.2
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0079400",
+    "title": "The Kids Are Alright",
+    "year": 1979,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1243,
+    "occurrences": [
+      [
+        1234,
+        "01:48:20.393000",
+        "01:48:23.419000",
+        "The kids are alright"
+      ],
+      [
+        1243,
+        "01:48:52.959000",
+        "01:48:56.224000",
+        "The kids are alright"
+      ]
+    ],
+    "regex": "\\b((?!\\bKids\\ Are\\ Alright:)Kids\\ Are\\ Alright)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

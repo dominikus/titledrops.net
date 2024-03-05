@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt16360006",
+    "title": "Bubble",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 5,
+    "all_lines": 1257,
+    "occurrences": [
+      [
+        60,
+        "00:06:35.812000",
+        "00:06:38.022000",
+        "Stray bubble challenge!"
+      ],
+      [
+        207,
+        "00:14:15.896000",
+        "00:14:18.440000",
+        "and was enclosed in a gigantic bubble."
+      ],
+      [
+        214,
+        "00:14:48.762000",
+        "00:14:52.850000",
+        "but none were able to determine the cause of the Bubble-fall Phenomenon."
+      ],
+      [
+        225,
+        "00:15:37.978000",
+        "00:15:42.232000",
+        "They're orphans who lost their loved ones due to the Bubble-fall Phenomenon."
+      ],
+      [
+        878,
+        "01:05:12.992000",
+        "01:05:15.161000",
+        "A second Bubble-fall Phenomenon!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBubble:)Bubble)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

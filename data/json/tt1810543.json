@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1810543",
+    "title": "Baby Shower",
+    "year": 2011,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 651,
+    "occurrences": [
+      [
+        89,
+        "00:08:48.895000",
+        "00:08:51.125000",
+        "Say Baby shower."
+      ],
+      [
+        90,
+        "00:08:52.231000",
+        "00:08:55.564000",
+        "Baby shower."
+      ],
+      [
+        94,
+        "00:09:06.913000",
+        "00:09:09.143000",
+        "I never thought I'd ever have a baby shower."
+      ]
+    ],
+    "regex": "\\b((?!\\bBaby\\ Shower:)Baby\\ Shower)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

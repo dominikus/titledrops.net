@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0120121",
+    "title": "The Shooter",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 1316,
+    "occurrences": [
+      [
+        419,
+        "00:27:33.869000",
+        "00:27:35.218000",
+        "THEMSELVES A SHOOTER, HUH?"
+      ],
+      [
+        1275,
+        "01:24:39.291000",
+        "01:24:40.249000",
+        "EVEN THE BEST SHOOTER CAN'T"
+      ]
+    ],
+    "regex": "\\b((?!\\bShooter:)Shooter)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

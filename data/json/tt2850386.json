@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt2850386",
+    "title": "The Croods: A New Age",
+    "year": 2020,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1998,
+    "occurrences": [
+      [
+        71,
+        "00:04:15.547000",
+        "00:04:17.591000",
+        "but it's nothing us Croods can't handle."
+      ],
+      [
+        361,
+        "00:17:43.397000",
+        "00:17:45.482000",
+        "- Well, we're the Croods. -"
+      ],
+      [
+        437,
+        "00:20:38.238000",
+        "00:20:40.157000",
+        "Oh, oh! These are the Croods."
+      ],
+      [
+        478,
+        "00:22:04.116000",
+        "00:22:08.412000",
+        "Well, we Croods believe that the pack sticks together no matter..."
+      ],
+      [
+        1821,
+        "01:25:23.749000",
+        "01:25:26.627000",
+        "the Croods and the Bettermans made it back together."
+      ]
+    ],
+    "regex": "\\b((?!\\bCroods:)Croods|(?!\\bNew\\ Age:)New\\ Age)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

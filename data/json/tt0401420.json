@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0401420",
+    "title": "Fierce People",
+    "year": 2005,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1089,
+    "occurrences": [
+      [
+        1,
+        "00:00:39.773000",
+        "00:00:41.263000",
+        "That means ''Fierce People''."
+      ],
+      [
+        12,
+        "00:01:21.181000",
+        "00:01:24.947000",
+        "and an invitation to spend the summer with him and the Fierce People."
+      ],
+      [
+        70,
+        "00:05:39.572000",
+        "00:05:43.343000",
+        "This is the story of my time amongst the Fierce People..."
+      ],
+      [
+        115,
+        "00:13:46.425000",
+        "00:13:49.728000",
+        "''Dear dad, since I can't be with you and the Fierce People..."
+      ]
+    ],
+    "regex": "\\b((?!\\bFierce\\ People:)Fierce\\ People)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0273435",
+    "title": "Ararat",
+    "year": 2002,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 6,
+    "all_lines": 1445,
+    "occurrences": [
+      [
+        297,
+        "00:27:04.057000",
+        "00:27:06.189000",
+        "Mount Ararat."
+      ],
+      [
+        383,
+        "00:32:56.278000",
+        "00:32:59.673000",
+        "You wouldn't be able to see Mount Ararat from Van."
+      ],
+      [
+        392,
+        "00:33:16.907000",
+        "00:33:21.216000",
+        "Rouben, Ani's confused about the mountain Ararat."
+      ],
+      [
+        1298,
+        "01:36:45.277000",
+        "01:36:47.845000",
+        "DAVID: To Ararat?They were shooting a commercial."
+      ],
+      [
+        1302,
+        "01:36:54.460000",
+        "01:36:56.245000",
+        "I wanted to get a shot of Ararat in the picture."
+      ],
+      [
+        1320,
+        "01:37:57.175000",
+        "01:38:00.135000",
+        "and then drove you up Mount Ararat."
+      ]
+    ],
+    "regex": "\\b((?!\\bArarat:)Ararat)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

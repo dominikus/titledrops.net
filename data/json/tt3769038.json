@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt3769038",
+    "title": "Body Keepers",
+    "year": 2018,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 1144,
+    "occurrences": [
+      [
+        430,
+        "00:26:09.793000",
+        "00:26:11.344000",
+        "- Oh, The Body Keepers."
+      ],
+      [
+        432,
+        "00:26:13.586000",
+        "00:26:14.862000",
+        "- Body keepers?"
+      ],
+      [
+        898,
+        "00:57:31.551000",
+        "00:57:32.965000",
+        "- The body keepers, Mom."
+      ],
+      [
+        903,
+        "00:57:43.275000",
+        "00:57:45.241000",
+        "- The body keepers, Mom."
+      ],
+      [
+        1102,
+        "01:14:32.586000",
+        "01:14:34.148000",
+        "kept saying body keepers, they kept saying"
+      ],
+      [
+        1103,
+        "01:14:34.172000",
+        "01:14:35.379000",
+        "body keepers, body keepers--"
+      ]
+    ],
+    "regex": "\\b((?!\\bBody\\ Keepers:)Body\\ Keepers)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.6
+  }
+]

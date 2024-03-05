@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1242843",
+    "title": "Contract",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1342,
+    "occurrences": [
+      [
+        117,
+        "00:10:49.429000",
+        "00:10:54.366000",
+        "In a way, you are giving me a contract to kill Sultan."
+      ],
+      [
+        418,
+        "00:35:11.389000",
+        "00:35:18.818000",
+        "It's a contract."
+      ],
+      [
+        419,
+        "00:35:19.631000",
+        "00:35:20.689000",
+        "Contract!"
+      ],
+      [
+        435,
+        "00:36:14.118000",
+        "00:36:21.547000",
+        "This is a contract! Do anything."
+      ],
+      [
+        1320,
+        "01:58:44.948000",
+        "01:58:46.677000",
+        "Only then will my contract end."
+      ]
+    ],
+    "regex": "\\b((?!\\bContract:)Contract)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

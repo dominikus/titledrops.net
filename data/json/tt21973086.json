@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt21973086",
+    "title": "Carbide",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 962,
+    "occurrences": [
+      [
+        25,
+        "00:03:56.252000",
+        "00:03:59.335000",
+        "You said you'd used up the carbide I'd brought you from the shipyard."
+      ],
+      [
+        450,
+        "00:38:38.419000",
+        "00:38:41.124000",
+        "That would get us views, unlike the carbide stuff."
+      ],
+      [
+        451,
+        "00:38:41.256000",
+        "00:38:44.669000",
+        "Carbide stuff is great. -Where would people get carbide?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCarbide:)Carbide)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

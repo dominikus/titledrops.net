@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt2330933",
+    "title": "Village People",
+    "year": 2013,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 622,
+    "occurrences": [
+      [
+        8,
+        "00:02:25.960000",
+        "00:02:29.009000",
+        "They're not different from the village people."
+      ],
+      [
+        118,
+        "00:12:52.960000",
+        "00:12:56.043000",
+        "I want some respect from the village people."
+      ],
+      [
+        157,
+        "00:17:56.920000",
+        "00:18:00.811000",
+        "The village people call her The Nurse from Hell' behind her back."
+      ],
+      [
+        376,
+        "00:41:29",
+        "00:41:31.844000",
+        "I want to see the reaction of the village people."
+      ]
+    ],
+    "regex": "\\b((?!\\bVillage\\ People:)Village\\ People)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

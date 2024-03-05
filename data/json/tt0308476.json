@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0308476",
+    "title": "The Cuckoo",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 463,
+    "occurrences": [
+      [
+        82,
+        "00:38:03.800000",
+        "00:38:08.700000",
+        "A cuckoo - a condemned sniper, for crying out loud..."
+      ],
+      [
+        344,
+        "01:12:29.900000",
+        "01:12:33.500000",
+        "I thought you were a cuckoo - a condemned sniper..."
+      ],
+      [
+        429,
+        "01:33:05",
+        "01:33:07.800000",
+        "My parents called me Cuckoo."
+      ],
+      [
+        432,
+        "01:33:13.700000",
+        "01:33:17.200000",
+        "But my real name's Cuckoo."
+      ]
+    ],
+    "regex": "\\b((?!\\bCuckoo:)Cuckoo)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

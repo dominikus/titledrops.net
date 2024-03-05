@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5013688",
+    "title": "Shelley",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 573,
+    "occurrences": [
+      [
+        342,
+        "00:40:38.167000",
+        "00:40:41.707000",
+        "- Shelley. Isn't she amazing?"
+      ],
+      [
+        532,
+        "01:14:00.958000",
+        "01:14:04.578000",
+        "He... in relation to shelley he..."
+      ],
+      [
+        536,
+        "01:14:27.750000",
+        "01:14:31.500000",
+        "- How is shelley? - Amazing."
+      ]
+    ],
+    "regex": "\\b((?!\\bShelley:)Shelley)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

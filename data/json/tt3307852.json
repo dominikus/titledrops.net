@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3307852",
+    "title": "Deeper: The Retribution of Beth",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1505,
+    "occurrences": [
+      [
+        681,
+        "00:27:50.902000",
+        "00:27:53.938000",
+        "is to go deeper, but that is not the answer."
+      ],
+      [
+        910,
+        "00:40:00.630000",
+        "00:40:01.632000",
+        "-  Deeper."
+      ],
+      [
+        911,
+        "00:40:01.731000",
+        "00:40:02.766000",
+        "- Deeper?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDeeper:)Deeper|(?!\\bRetribution\\ of\\ Beth:)Retribution\\ of\\ Beth)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

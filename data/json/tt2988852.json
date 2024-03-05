@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2988852",
+    "title": "The Scarehouse",
+    "year": 2014,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1224,
+    "occurrences": [
+      [
+        67,
+        "00:03:24.338000",
+        "00:03:26.738000",
+        "Welcome to The Scarehouse!"
+      ],
+      [
+        94,
+        "00:04:29.069000",
+        "00:04:31.937000",
+        "inside the Scarehouse."
+      ],
+      [
+        1013,
+        "01:02:39.556000",
+        "01:02:41.556000",
+        "but that will be all for tonight's Scarehouse."
+      ]
+    ],
+    "regex": "\\b((?!\\bScarehouse:)Scarehouse)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

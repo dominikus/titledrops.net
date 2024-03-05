@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2458106",
+    "title": "Ninja: Shadow of a Tear",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 401,
+    "occurrences": [
+      [
+        9,
+        "00:01:14.621000",
+        "00:01:18.834000",
+        "with the use of the mysterious killing art known as \"Ninja\"."
+      ],
+      [
+        108,
+        "00:26:22.002000",
+        "00:26:23.837000",
+        "A unit of Ninja."
+      ]
+    ],
+    "regex": "\\b((?!\\bNinja:)Ninja|(?!\\bShadow\\ of\\ a\\ Tear:)Shadow\\ of\\ a\\ Tear)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

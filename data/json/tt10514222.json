@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt10514222",
+    "title": "Ma Rainey's Black Bottom",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 7,
+    "all_lines": 1605,
+    "occurrences": [
+      [
+        101,
+        "00:07:38.250000",
+        "00:07:40.583000",
+        "\"Ma Rainey's Black Bottom,\" \"Moonshine Blues.\""
+      ],
+      [
+        214,
+        "00:12:13.958000",
+        "00:12:18.541000",
+        "\"Ma Rainey's Black Bottom.\" One, two, you know what to do."
+      ],
+      [
+        275,
+        "00:15:30.250000",
+        "00:15:32.875000",
+        "\"Ma Rainey's Black Bottom.\" Levee's arrangement."
+      ],
+      [
+        279,
+        "00:15:39.750000",
+        "00:15:42.500000",
+        "All right, \"Ma Rainey's Black Bottom,\" Levee's version."
+      ],
+      [
+        287,
+        "00:16:00.375000",
+        "00:16:01.750000",
+        "\"Ma Rainey's Black Bottom.\""
+      ],
+      [
+        887,
+        "00:46:12.166000",
+        "00:46:14.875000",
+        "- Where's my Coke? - \"Ma Rainey's Black Bottom,\" boys."
+      ],
+      [
+        1076,
+        "00:56:30.041000",
+        "00:56:33.583000",
+        "Okay, boys. \"Ma Rainey's Black Bottom,\" take one."
+      ]
+    ],
+    "regex": "\\b((?!\\bMa\\ Rainey's\\ Black\\ Bottom:)Ma\\ Rainey's\\ Black\\ Bottom)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

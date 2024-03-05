@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5307018",
+    "title": "Spymasters: CIA in the Crosshairs",
+    "year": 2015,
+    "genres": [
+      "Documentary",
+      "Drama",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 3186,
+    "occurrences": [
+      [
+        199,
+        "00:09:51.035000",
+        "00:09:52.704000",
+        "spymasters?"
+      ],
+      [
+        228,
+        "00:10:50.225000",
+        "00:10:56.264000",
+        "the spymasters and their top"
+      ],
+      [
+        2937,
+        "01:47:30.173000",
+        "01:47:31.474000",
+        "narrator: the spymasters are"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpymasters:)Spymasters|(?!\\bCIA\\ in\\ the\\ Crosshairs:)CIA\\ in\\ the\\ Crosshairs)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

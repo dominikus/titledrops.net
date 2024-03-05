@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0091960",
+    "title": "The Sixth Day",
+    "year": 1986,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1134,
+    "occurrences": [
+      [
+        1024,
+        "01:29:01.007000",
+        "01:29:02.406000",
+        "The sixth day..."
+      ],
+      [
+        1110,
+        "01:34:19.487000",
+        "01:34:22.638000",
+        "He hasn't moaned during the night and it's the sixth day."
+      ]
+    ],
+    "regex": "\\b((?!\\bSixth\\ Day:)Sixth\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

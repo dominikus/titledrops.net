@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt2330866",
+    "title": "The Thieves",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 6,
+    "all_lines": 1429,
+    "occurrences": [
+      [
+        211,
+        "00:17:00.624000",
+        "00:17:04.290000",
+        "Us thieves, we steal expensive stuff and sell it cheap."
+      ],
+      [
+        558,
+        "00:43:31.749000",
+        "00:43:36.040000",
+        "Working with you thieves makes me nervous!"
+      ],
+      [
+        735,
+        "00:56:29.416000",
+        "00:56:32.124000",
+        "A long time ago, two thieves stole Tear of the Sun"
+      ],
+      [
+        798,
+        "01:02:28.124000",
+        "01:02:32.332000",
+        "You're wrong. He was crucified with two thieves by his side."
+      ],
+      [
+        1256,
+        "01:48:01.916000",
+        "01:48:05.041000",
+        "There were two thieves here."
+      ],
+      [
+        1309,
+        "01:57:53.249000",
+        "01:57:54.915000",
+        "Can't thieves do that?"
+      ]
+    ],
+    "regex": "\\b((?!\\bThieves:)Thieves)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

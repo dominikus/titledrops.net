@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt2931376",
+    "title": "The Wake",
+    "year": 2017,
+    "genres": [
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 947,
+    "occurrences": [
+      [
+        24,
+        "00:05:10.978000",
+        "00:05:13.045000",
+        "You have a bad feeling about going to a wake?"
+      ],
+      [
+        79,
+        "00:08:38.986000",
+        "00:08:40.252000",
+        "It's a wake."
+      ],
+      [
+        171,
+        "00:14:19.291000",
+        "00:14:21.326000",
+        "You're proposing to me at a wake?"
+      ],
+      [
+        218,
+        "00:20:39.372000",
+        "00:20:41.439000",
+        "Tyler. Tyler, wake up."
+      ],
+      [
+        765,
+        "01:10:24.286000",
+        "01:10:25.687000",
+        "Casey, wake up!"
+      ],
+      [
+        767,
+        "01:10:46.910000",
+        "01:10:48.142000",
+        "Casey, wake up!"
+      ]
+    ],
+    "regex": "\\b((?!\\bWake:)Wake)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.7
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0033648",
+    "title": "A Garibaldian in the Convent",
+    "year": 1942,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 931,
+    "occurrences": [
+      [
+        692,
+        "00:57:08.400000",
+        "00:57:12.791000",
+        "- A Garibaldian in the convent! - A Garibaldian in the convent!"
+      ],
+      [
+        718,
+        "00:59:48.680000",
+        "00:59:54.232000",
+        "No. I'll tell you anyway, it's too juicy. There's... a Garibaldian in the convent!"
+      ]
+    ],
+    "regex": "\\b((?!\\bGaribaldian\\ in\\ the\\ Convent:)Garibaldian\\ in\\ the\\ Convent)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

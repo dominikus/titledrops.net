@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0040746",
+    "title": "Rope",
+    "year": 1948,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1294,
+    "occurrences": [
+      [
+        177,
+        "00:14:34.887000",
+        "00:14:36.957000",
+        "- Notice what? - The rope, of course."
+      ],
+      [
+        180,
+        "00:14:39.847000",
+        "00:14:43.442000",
+        "Yes, why? It's only a piece of rope, an ordinary household article."
+      ],
+      [
+        560,
+        "00:34:14.367000",
+        "00:34:17.837000",
+        "And have you had any difficulty getting into our velvet rope restaurants?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRope:)Rope)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0303353",
+    "title": "The Kid Stays in the Picture",
+    "year": 2002,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1194,
+    "occurrences": [
+      [
+        102,
+        "00:08:54.417000",
+        "00:08:59.855000",
+        "\"The kid stays in the picture. And anybody who doesn't like it can quit.\""
+      ],
+      [
+        106,
+        "00:09:18.641000",
+        "00:09:22.008000",
+        "But the guy who can say, \"The kid stays in the picture.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bKid\\ Stays\\ in\\ the\\ Picture:)Kid\\ Stays\\ in\\ the\\ Picture)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0095900",
+    "title": "Prime Evil",
+    "year": 1988,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1105,
+    "occurrences": [
+      [
+        13,
+        "00:01:47.321000",
+        "00:01:51.283000",
+        "and administer his prime evil throughout the world."
+      ],
+      [
+        1100,
+        "01:24:47.796000",
+        "01:24:50.881000",
+        "It's positively prime evil."
+      ]
+    ],
+    "regex": "\\b((?!\\bPrime\\ Evil:)Prime\\ Evil)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt7398750",
+    "title": "Curse of the Scarecrow",
+    "year": 2018,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1054,
+    "occurrences": [
+      [
+        788,
+        "00:55:21.920000",
+        "00:55:24.280000",
+        "The curse of the scarecrow, it's real."
+      ],
+      [
+        924,
+        "01:08:47.239000",
+        "01:08:48.760000",
+        "It's the curse of the scarecrow."
+      ],
+      [
+        981,
+        "01:13:34.159000",
+        "01:13:38.197000",
+        "This is the curse of the scarecrow."
+      ]
+    ],
+    "regex": "\\b((?!\\bCurse\\ of\\ the\\ Scarecrow:)Curse\\ of\\ the\\ Scarecrow)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.4
+  }
+]

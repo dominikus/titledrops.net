@@ -1,0 +1,84 @@
+[
+  {
+    "imdb": "tt0095715",
+    "title": "Alice",
+    "year": 1988,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Fantasy"
+    ],
+    "count": 11,
+    "all_lines": 161,
+    "occurrences": [
+      [
+        0,
+        "00:01:19.913000",
+        "00:01:21.955000",
+        "Alice thought to herself..."
+      ],
+      [
+        29,
+        "00:25:14.471000",
+        "00:25:19.475000",
+        "\"That's going too far,\" said Alice to herself."
+      ],
+      [
+        51,
+        "00:38:59.378000",
+        "00:39:03.840000",
+        "\"Why, they seem to put everything on Bill,\" thought Alice to herself."
+      ],
+      [
+        53,
+        "00:39:20.066000",
+        "00:39:24.861000",
+        "\"I hope I haven't forgotten how to kick,\" said Alice to herself."
+      ],
+      [
+        55,
+        "00:46:24.615000",
+        "00:46:29.410000",
+        "\"No more cakes or ink this time,\" thought Alice to herself."
+      ],
+      [
+        70,
+        "00:56:54.744000",
+        "00:56:57.079000",
+        "thought Alice to herself."
+      ],
+      [
+        72,
+        "00:59:24.894000",
+        "00:59:28.981000",
+        "\"An invitation for Alice from the Queen,\" said the Fish footman."
+      ],
+      [
+        73,
+        "00:59:31.859000",
+        "00:59:36.405000",
+        "\"An invitation from the Queen for Alice,\" repeated the Frog footman."
+      ],
+      [
+        74,
+        "01:00:02.265000",
+        "01:00:06.643000",
+        "\"Alice? But that's me,\" Alice thought to herself."
+      ],
+      [
+        150,
+        "01:25:03.473000",
+        "01:25:06.600000",
+        "thought Alice to herself."
+      ]
+    ],
+    "regex": "\\b((?!\\bAlice:)Alice)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [
+      "Alice",
+      "Alice"
+    ],
+    "title_is_name": true,
+    "rating": 7.4
+  }
+]

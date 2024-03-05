@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5448338",
+    "title": "Plan A",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1082,
+    "occurrences": [
+      [
+        627,
+        "00:54:28.968000",
+        "00:54:30.535000",
+        "Abba came up with plan A."
+      ],
+      [
+        1049,
+        "01:39:39.835000",
+        "01:39:42.336000",
+        "if plan A had been carried out."
+      ]
+    ],
+    "regex": "\\b((?!\\bPlan\\ A:)Plan\\ A)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

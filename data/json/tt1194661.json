@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1194661",
+    "title": "Ikigami",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 534,
+    "occurrences": [
+      [
+        90,
+        "00:10:55.554000",
+        "00:10:59.490000",
+        "These letters are known as ikigami."
+      ],
+      [
+        464,
+        "00:56:01.290000",
+        "00:56:03.850000",
+        "...was your ikigami."
+      ]
+    ],
+    "regex": "\\b((?!\\bIkigami:)Ikigami)(?!\\:)(?!'t)\\b",
+    "runtime": 133,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

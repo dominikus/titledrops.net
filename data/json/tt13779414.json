@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt13779414",
+    "title": "Frank",
+    "year": 2021,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1383,
+    "occurrences": [
+      [
+        194,
+        "00:21:33.202000",
+        "00:21:34.469000",
+        "Frank."
+      ],
+      [
+        195,
+        "00:21:37.073000",
+        "00:21:39.876000",
+        "- Frank? - I call it Frank."
+      ],
+      [
+        224,
+        "00:23:39.862000",
+        "00:23:43.232000",
+        "Hey, do you think that Frank can see us when we're having sex?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFrank:)Frank)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

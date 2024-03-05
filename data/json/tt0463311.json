@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0463311",
+    "title": "Federal",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 604,
+    "occurrences": [
+      [
+        283,
+        "00:40:12.440000",
+        "00:40:18.368000",
+        "Federal Police. Nobody uses the phone. Nobody moves."
+      ],
+      [
+        323,
+        "00:45:53.960000",
+        "00:46:00.047000",
+        "Federal Police! Everybody down!"
+      ],
+      [
+        468,
+        "01:05:45.080000",
+        "01:05:46.286000",
+        "Federal Police!"
+      ],
+      [
+        590,
+        "01:19:01.120000",
+        "01:19:03.327000",
+        "Federal Police!"
+      ]
+    ],
+    "regex": "\\b((?!\\bFederal:)Federal)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0258013",
+    "title": "Land of Milk and Honey",
+    "year": 1971,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1005,
+    "occurrences": [
+      [
+        1,
+        "00:01:25.335000",
+        "00:01:27.379000",
+        "- Land of Milk and Honey. - An imaginary land?"
+      ],
+      [
+        24,
+        "00:04:10.667000",
+        "00:04:15.088000",
+        "It's long been said France is a land of milk and honey,"
+      ]
+    ],
+    "regex": "\\b((?!\\bLand\\ of\\ Milk\\ and\\ Honey:)Land\\ of\\ Milk\\ and\\ Honey)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

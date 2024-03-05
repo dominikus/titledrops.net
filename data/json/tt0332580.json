@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0332580",
+    "title": "Buddies",
+    "year": 1989,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1277,
+    "occurrences": [
+      [
+        18,
+        "00:01:21.915000",
+        "00:01:28.502000",
+        "A-un - Buddies"
+      ],
+      [
+        222,
+        "00:17:40.726000",
+        "00:17:42.717000",
+        "So you're army buddies."
+      ],
+      [
+        900,
+        "01:09:39.634000",
+        "01:09:44.128000",
+        "It's like in that song called, army buddies."
+      ],
+      [
+        1092,
+        "01:27:52.642000",
+        "01:27:56.260000",
+        "You said, \"let's forget the past and drink like old army buddies.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bBuddies:)Buddies)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

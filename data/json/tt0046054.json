@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0046054",
+    "title": "The Master of Ballantrae",
+    "year": 1953,
+    "genres": [
+      "Action",
+      "Adventure",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 1012,
+    "occurrences": [
+      [
+        45,
+        "00:03:41.877000",
+        "00:03:44.414000",
+        "when they spoke of the Master of Ballantrae."
+      ],
+      [
+        103,
+        "00:06:26.875000",
+        "00:06:29.578000",
+        "If the Stuarts win, the Master of Ballantrae wins with them."
+      ],
+      [
+        557,
+        "00:41:44.323000",
+        "00:41:46.926000",
+        "It came from the Master of Ballantrae..."
+      ]
+    ],
+    "regex": "\\b((?!\\bMaster\\ of\\ Ballantrae:)Master\\ of\\ Ballantrae)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

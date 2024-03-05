@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0096003",
+    "title": "Rocket Gibraltar",
+    "year": 1988,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 2812,
+    "occurrences": [
+      [
+        750,
+        "00:27:59.801000",
+        "00:28:01.599000",
+        "Can we give the Rocket Gibraltar to Grandpa"
+      ],
+      [
+        756,
+        "00:28:07.700000",
+        "00:28:08.899000",
+        "What is the Rocket Gibraltar?"
+      ],
+      [
+        865,
+        "00:31:57.801000",
+        "00:31:59.641000",
+        "Blue says we should fix up the Rocket Gibraltar"
+      ],
+      [
+        1837,
+        "01:04:14.201000",
+        "01:04:15.499000",
+        "How're we gonna get the Rocket Gibraltar here"
+      ],
+      [
+        2356,
+        "01:21:35.700000",
+        "01:21:36.400000",
+        "And put him on the Rocket Gibraltar."
+      ]
+    ],
+    "regex": "\\b((?!\\bRocket\\ Gibraltar:)Rocket\\ Gibraltar)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

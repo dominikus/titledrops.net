@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt6034966",
+    "title": "The Lion Sleeps Tonight",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1246,
+    "occurrences": [
+      [
+        1099,
+        "01:22:12.066000",
+        "01:22:17.065000",
+        "The lion sleeps tonight"
+      ],
+      [
+        1104,
+        "01:22:36.566000",
+        "01:22:41.565000",
+        "The lion sleeps tonight"
+      ],
+      [
+        1106,
+        "01:22:47.525000",
+        "01:22:51.357000",
+        "The lion sleeps tonight"
+      ],
+      [
+        1111,
+        "01:23:05.066000",
+        "01:23:10.274000",
+        "The lion sleeps tonight"
+      ]
+    ],
+    "regex": "\\b((?!\\bLion\\ Sleeps\\ Tonight:)Lion\\ Sleeps\\ Tonight)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

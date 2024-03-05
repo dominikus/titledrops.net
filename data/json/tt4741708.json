@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt4741708",
+    "title": "A Kid",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1153,
+    "occurrences": [
+      [
+        1040,
+        "01:21:42.780000",
+        "01:21:44.240000",
+        "I have to be with my kid."
+      ],
+      [
+        1152,
+        "01:31:48.537000",
+        "01:31:49.788000",
+        "Bye, kid."
+      ]
+    ],
+    "regex": "\\b((?!\\bKid:)Kid)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

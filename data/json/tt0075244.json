@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0075244",
+    "title": "The Song Remains the Same",
+    "year": 1976,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 103,
+    "occurrences": [
+      [
+        13,
+        "00:21:05.591000",
+        "00:21:08.219000",
+        "The Song Remains The Same. It's fucking true!"
+      ],
+      [
+        62,
+        "00:43:37.508000",
+        "00:43:40.568000",
+        "This is called The Song Remains The Same."
+      ]
+    ],
+    "regex": "\\b((?!\\bSong\\ Remains\\ the\\ Same:)Song\\ Remains\\ the\\ Same)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

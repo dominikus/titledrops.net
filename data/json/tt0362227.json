@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0362227",
+    "title": "The Terminal",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 621,
+    "occurrences": [
+      [
+        194,
+        "00:20:27.700000",
+        "00:20:31.600000",
+        "...it has a man of roup? walking for the terminal."
+      ],
+      [
+        341,
+        "00:36:01.100000",
+        "00:36:03.600000",
+        "It has that to break the law leaving this terminal."
+      ]
+    ],
+    "regex": "\\b((?!\\bTerminal:)Terminal)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

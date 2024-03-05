@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0275862",
+    "title": "The First Swallow",
+    "year": 1975,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 611,
+    "occurrences": [
+      [
+        0,
+        "00:00:00.720000",
+        "00:00:04.838000",
+        "FIRST SWALLOW"
+      ],
+      [
+        216,
+        "00:18:28.240000",
+        "00:18:30.595000",
+        "You'll never see your first swallow!"
+      ]
+    ],
+    "regex": "\\b((?!\\bFirst\\ Swallow:)First\\ Swallow)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

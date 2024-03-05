@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3509702",
+    "title": "Feast of Fear",
+    "year": 2019,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1080,
+    "occurrences": [
+      [
+        909,
+        "00:51:59.290000",
+        "00:52:02.330000",
+        "their eternal servant of their feast of fear,"
+      ],
+      [
+        920,
+        "00:52:26.193000",
+        "00:52:30.110000",
+        "- You know what a feast of fear is?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFeast\\ of\\ Fear:)Feast\\ of\\ Fear)(?!\\:)(?!'t)\\b",
+    "runtime": 64,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

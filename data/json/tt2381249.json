@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt2381249",
+    "title": "Mission: Impossible - Rogue Nation",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1187,
+    "occurrences": [
+      [
+        0,
+        "00:00:03.031000",
+        "00:00:08.148000",
+        "Subtitle created by - Aorion - \"Mission: Impossible - Rogue Nation (2015)\" ^ (Run time : 02:04:35)"
+      ],
+      [
+        107,
+        "00:08:42.759000",
+        "00:08:45.059000",
+        "Your mission, should you choose to accept it,"
+      ],
+      [
+        222,
+        "00:19:18.768000",
+        "00:19:21.787000",
+        "This may very well be our last mission, Ethan."
+      ],
+      [
+        929,
+        "01:34:49.502000",
+        "01:34:52.426000",
+        "Your mission, should you choose to accept it,"
+      ],
+      [
+        1031,
+        "01:43:17.272000",
+        "01:43:21.305000",
+        "And he has made you his mission."
+      ],
+      [
+        1079,
+        "01:47:21.554000",
+        "01:47:23.400000",
+        "Your mission is to bring down the Syndicate."
+      ]
+    ],
+    "regex": "\\b((?!\\bMission:)Mission|(?!\\bImpossible\\ \\-\\ Rogue\\ Nation:)Impossible\\ \\-\\ Rogue\\ Nation)(?!\\:)(?!'t)\\b",
+    "runtime": 131,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

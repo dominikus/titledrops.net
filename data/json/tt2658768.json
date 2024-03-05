@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2658768",
+    "title": "The Contest: To the Stars and Back",
+    "year": 2013,
+    "genres": [
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 841,
+    "occurrences": [
+      [
+        788,
+        "01:27:52.920000",
+        "01:27:56.629000",
+        "high up in the sky to the stars and back again"
+      ],
+      [
+        798,
+        "01:28:36.920000",
+        "01:28:40.629000",
+        "High up in the sky to the stars and back again"
+      ],
+      [
+        811,
+        "01:29:39.400000",
+        "01:29:45.350000",
+        "high up in the sky to the stars and back again."
+      ]
+    ],
+    "regex": "\\b((?!\\bContest:)Contest|(?!\\bTo\\ the\\ Stars\\ and\\ Back:)To\\ the\\ Stars\\ and\\ Back)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0100608",
+    "title": "The Shrimp on the Barbie",
+    "year": 1990,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1463,
+    "occurrences": [
+      [
+        978,
+        "00:49:46.751000",
+        "00:49:48.542000",
+        "Throw another shrimp on the barbie."
+      ],
+      [
+        981,
+        "00:49:54.083000",
+        "00:49:57.501000",
+        "Lately I've been thinking that I'm the shrimp on the barbie though."
+      ]
+    ],
+    "regex": "\\b((?!\\bShrimp\\ on\\ the\\ Barbie:)Shrimp\\ on\\ the\\ Barbie)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt5783112",
+    "title": "The Hunt",
+    "year": 2016,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 836,
+    "occurrences": [
+      [
+        37,
+        "00:05:08.475000",
+        "00:05:11.728000",
+        "Yeah, take a day off and come for a hunt."
+      ],
+      [
+        69,
+        "00:08:23.086000",
+        "00:08:24.421000",
+        "Will you hunt today?"
+      ],
+      [
+        310,
+        "00:27:22.057000",
+        "00:27:24.226000",
+        "Do you hunt here often?"
+      ],
+      [
+        639,
+        "00:58:21.999000",
+        "00:58:23.458000",
+        "Let's begin the real hunt now."
+      ],
+      [
+        641,
+        "00:58:52.237000",
+        "00:58:53.739000",
+        "You don't hunt boars anymore?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHunt:)Hunt)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

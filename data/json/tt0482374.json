@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0482374",
+    "title": "Gone",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 564,
+    "occurrences": [
+      [
+        465,
+        "01:03:57.500000",
+        "01:04:00.300000",
+        "- Alex is gone. - Okay. Where?"
+      ],
+      [
+        470,
+        "01:04:14.100000",
+        "01:04:18.300000",
+        "His stuff is gone. He sent me a text message saying, \"Gone. \""
+      ],
+      [
+        471,
+        "01:04:18.600000",
+        "01:04:21.300000",
+        "- Was it \"Gone\" or \"Going\"? - \"Going. \" It was \"Going. \""
+      ]
+    ],
+    "regex": "\\b((?!\\bGone:)Gone)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

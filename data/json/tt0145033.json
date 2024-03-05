@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0145033",
+    "title": "Kingdom of Crooked Mirrors",
+    "year": 1963,
+    "genres": [
+      "Family",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 649,
+    "occurrences": [
+      [
+        114,
+        "00:12:47.433000",
+        "00:12:53.463000",
+        "You're in the most crooked Kingdom of Crooked Mirrors!"
+      ],
+      [
+        115,
+        "00:12:53.639000",
+        "00:12:56.574000",
+        "Is this the Kingdom of Crooked Mirrors?"
+      ]
+    ],
+    "regex": "\\b((?!\\bKingdom\\ of\\ Crooked\\ Mirrors:)Kingdom\\ of\\ Crooked\\ Mirrors)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

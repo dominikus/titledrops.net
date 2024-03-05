@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt13887082",
+    "title": "Grand Jeté",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 257,
+    "occurrences": [
+      [
+        13,
+        "00:05:03.500000",
+        "00:05:06.830000",
+        "Temps leve, passe, and chasse, and step, grand jete."
+      ],
+      [
+        18,
+        "00:05:52.290000",
+        "00:05:53.870000",
+        "That's your grand jete."
+      ]
+    ],
+    "regex": "\\b((?!\\bGrand\\ Jete:)Grand\\ Jete)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

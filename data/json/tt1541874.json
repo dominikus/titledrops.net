@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1541874",
+    "title": "Love",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Music",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 457,
+    "occurrences": [
+      [
+        235,
+        "00:34:06.630000",
+        "00:34:07.910000",
+        "God, I love you smile."
+      ],
+      [
+        457,
+        "01:18:30.230000",
+        "01:18:31.170000",
+        "Love."
+      ]
+    ],
+    "regex": "\\b((?!\\bLove:)Love)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

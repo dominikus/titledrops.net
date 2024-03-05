@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3194590",
+    "title": "Dirty Weekend",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1897,
+    "occurrences": [
+      [
+        801,
+        "00:37:01.200000",
+        "00:37:03.166000",
+        "I-It's called a dirty weekend,"
+      ],
+      [
+        1462,
+        "01:07:11.176000",
+        "01:07:13.943000",
+        "Yeah. A dirty weekend."
+      ]
+    ],
+    "regex": "\\b((?!\\bDirty\\ Weekend:)Dirty\\ Weekend)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

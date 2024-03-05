@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3462696",
+    "title": "Tekken: Kazuya's Revenge",
+    "year": 2014,
+    "genres": [
+      "Action"
+    ],
+    "count": 3,
+    "all_lines": 794,
+    "occurrences": [
+      [
+        28,
+        "00:04:15.506000",
+        "00:04:17.424000",
+        "Tekken City."
+      ],
+      [
+        29,
+        "00:04:17.842000",
+        "00:04:22.888000",
+        "Those who are weak were banished beyond the walls of Tekken City."
+      ],
+      [
+        790,
+        "01:25:19.407000",
+        "01:25:24.495000",
+        "- Tekken... my empire."
+      ]
+    ],
+    "regex": "\\b((?!\\bTekken:)Tekken|(?!\\bKazuya's\\ Revenge:)Kazuya's\\ Revenge)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.8
+  }
+]

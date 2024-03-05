@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0221837",
+    "title": "Borderline Normal",
+    "year": 2001,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1803,
+    "occurrences": [
+      [
+        619,
+        "00:29:21.290000",
+        "00:29:24.040000",
+        "throughout our adult lives, at best, borderline normal."
+      ],
+      [
+        1254,
+        "01:02:31",
+        "01:02:32.980000",
+        "I am not even borderline normal."
+      ]
+    ],
+    "regex": "\\b((?!\\bBorderline\\ Normal:)Borderline\\ Normal)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

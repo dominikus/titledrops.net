@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt1041804",
+    "title": "The Nutcracker: The Untold Story",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 6,
+    "all_lines": 683,
+    "occurrences": [
+      [
+        121,
+        "00:09:03.109000",
+        "00:09:04.576000",
+        "...the Nutcracker."
+      ],
+      [
+        134,
+        "00:10:52.284000",
+        "00:10:54.718000",
+        "I want my Nutcracker first."
+      ],
+      [
+        202,
+        "00:14:19.225000",
+        "00:14:22.126000",
+        "Will you tell us the Nutcracker story?"
+      ],
+      [
+        239,
+        "00:16:45.504000",
+        "00:16:48.871000",
+        "By the way, it's the first time I've seen a Napoleon nutcracker."
+      ],
+      [
+        240,
+        "00:16:49.041000",
+        "00:16:51.703000",
+        "Please don't call me Nutcracker. I hate that name as well."
+      ],
+      [
+        477,
+        "00:34:18.423000",
+        "00:34:21.449000",
+        "His mother turned me into a wooden nutcracker,"
+      ]
+    ],
+    "regex": "\\b((?!\\bNutcracker:)Nutcracker|(?!\\bUntold\\ Story:)Untold\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0088873",
+    "title": "La Cage aux Folles 3: The Wedding",
+    "year": 1985,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1796,
+    "occurrences": [
+      [
+        1277,
+        "00:59:34.093000",
+        "00:59:37.797000",
+        "{\\an1}\"La Cage Aux Folles funded directly with donations from the Moral Order Party.\""
+      ],
+      [
+        1693,
+        "01:24:37.631000",
+        "01:24:40.233000",
+        "{\\an1}Put a few of your wedding flowers on my tomb."
+      ],
+      [
+        1723,
+        "01:25:51.437000",
+        "01:25:53.139000",
+        "you'll be witnesses at the wedding."
+      ],
+      [
+        1744,
+        "01:27:19.992000",
+        "01:27:21.694000",
+        "There's no wedding. It's all off now."
+      ],
+      [
+        1757,
+        "01:27:51.023000",
+        "01:27:54.326000",
+        "{\\an1}The name of the bridegroom's been altered, but you can have your wedding after all."
+      ]
+    ],
+    "regex": "\\b((?!\\bLa\\ Cage\\ aux\\ Folles:)La\\ Cage\\ aux\\ Folles|(?!\\bWedding:)Wedding)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

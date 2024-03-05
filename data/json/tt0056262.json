@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0056262",
+    "title": "The Music Man",
+    "year": 1962,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 2141,
+    "occurrences": [
+      [
+        50,
+        "00:04:53.334000",
+        "00:04:54.585000",
+        "He's a music man"
+      ],
+      [
+        51,
+        "00:04:54.794000",
+        "00:04:56.212000",
+        "- He's a what? - He's a music man"
+      ]
+    ],
+    "regex": "\\b((?!\\bMusic\\ Man:)Music\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 151,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0112537",
+    "title": "Blue Juice",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1430,
+    "occurrences": [
+      [
+        509,
+        "00:32:40.273000",
+        "00:32:41.864000",
+        "but I could use some blue juice."
+      ],
+      [
+        1108,
+        "01:12:11.004000",
+        "01:12:13.299000",
+        "Blue juice, JC, that's what I needed."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Juice:)Blue\\ Juice)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

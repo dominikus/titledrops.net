@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1919090",
+    "title": "Stash House",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 779,
+    "occurrences": [
+      [
+        275,
+        "00:29:03.700000",
+        "00:29:07.500000",
+        "It doesn't make sense, why would drug dealers foreclose on a stash house?"
+      ],
+      [
+        324,
+        "00:34:28.700000",
+        "00:34:30.900000",
+        "It's not a lot of product for a stash house."
+      ]
+    ],
+    "regex": "\\b((?!\\bStash\\ House:)Stash\\ House)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt3315398",
+    "title": "Dirty",
+    "year": 2016,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1633,
+    "occurrences": [
+      [
+        1214,
+        "01:02:33.950000",
+        "01:02:35.918000",
+        "crime or no crime, dirty or not,"
+      ],
+      [
+        1218,
+        "01:02:43.359000",
+        "01:02:45.128000",
+        "is just because you get your hands dirty,"
+      ],
+      [
+        1219,
+        "01:02:45.161000",
+        "01:02:47.563000",
+        "that doesn't always make you dirty."
+      ]
+    ],
+    "regex": "\\b((?!\\bDirty:)Dirty)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt10307724",
+    "title": "Madame Claude",
+    "year": 2021,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1405,
+    "occurrences": [
+      [
+        1358,
+        "01:44:18.500000",
+        "01:44:21.791000",
+        "Madame Claude, 69 years old, real name Fernande Grudet,"
+      ],
+      [
+        1360,
+        "01:44:24.375000",
+        "01:44:28.416000",
+        "\"Because,\" exclaims Madame Claude, \"there's nothing to get worked up about!\""
+      ],
+      [
+        1361,
+        "01:44:31.708000",
+        "01:44:35.291000",
+        "Did Madame Claude reestablish a network of 20 or so girls?"
+      ],
+      [
+        1389,
+        "01:46:01.750000",
+        "01:46:05.125000",
+        "Yet Madame Claude left the court shocked by the harsh conviction."
+      ]
+    ],
+    "regex": "\\b((?!\\bMadame\\ Claude:)Madame\\ Claude)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [
+      "Fernande Grudet dite Madame Claude"
+    ],
+    "title_is_name": true,
+    "rating": 5.4
+  }
+]

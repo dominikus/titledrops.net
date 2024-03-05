@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0102183",
+    "title": "Happy Ghost V",
+    "year": 1991,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 1072,
+    "occurrences": [
+      [
+        142,
+        "00:17:19.238000",
+        "00:17:21.206000",
+        "I'm a happy ghost."
+      ],
+      [
+        145,
+        "00:17:27.846000",
+        "00:17:32.044000",
+        "Happy ghost never remembers bad things."
+      ],
+      [
+        343,
+        "00:33:41.853000",
+        "00:33:43.446000",
+        "Happy Ghost!"
+      ],
+      [
+        798,
+        "01:08:57.299000",
+        "01:08:59.791000",
+        "Happy Ghost, can you help me please?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHappy\\ Ghost:)Happy\\ Ghost)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

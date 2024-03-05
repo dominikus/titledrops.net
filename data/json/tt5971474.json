@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5971474",
+    "title": "The Little Mermaid",
+    "year": 2023,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1995,
+    "occurrences": [
+      [
+        1169,
+        "01:12:51.440000",
+        "01:12:53.475000",
+        "My little mermaid."
+      ],
+      [
+        1911,
+        "02:02:26.549000",
+        "02:02:28.217000",
+        "My little mermaid."
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Mermaid:)Little\\ Mermaid)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

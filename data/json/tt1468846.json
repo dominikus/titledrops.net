@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1468846",
+    "title": "Get a Job",
+    "year": 2016,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1206,
+    "occurrences": [
+      [
+        181,
+        "00:10:44.440000",
+        "00:10:46.488000",
+        "I'm going to get a job!"
+      ],
+      [
+        445,
+        "00:26:27.840000",
+        "00:26:30.241000",
+        "Man, I should get a job more often."
+      ]
+    ],
+    "regex": "\\b((?!\\bGet\\ a\\ Job:)Get\\ a\\ Job)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

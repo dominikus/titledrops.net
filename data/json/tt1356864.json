@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1356864",
+    "title": "I'm Still Here",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1659,
+    "occurrences": [
+      [
+        838,
+        "00:47:47.968000",
+        "00:47:51.300000",
+        "P I'm still here through these years P"
+      ],
+      [
+        1566,
+        "01:30:59.901000",
+        "01:31:02.632000",
+        "P I'm still here, I don't scare P"
+      ]
+    ],
+    "regex": "\\b((?!\\bI'm\\ Still\\ Here:)I'm\\ Still\\ Here)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

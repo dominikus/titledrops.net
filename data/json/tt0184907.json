@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0184907",
+    "title": "Snow Day",
+    "year": 2000,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 575,
+    "occurrences": [
+      [
+        45,
+        "00:02:51.220000",
+        "00:02:55.620000",
+        "*Snow Day*"
+      ],
+      [
+        195,
+        "00:14:01.490000",
+        "00:14:08.130000",
+        "\"We're trading shifts. I got you covered. Enjoy your snow day. D.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bSnow\\ Day:)Snow\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

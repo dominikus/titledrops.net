@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2395343",
+    "title": "Muse of Fire",
+    "year": 2013,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1071,
+    "occurrences": [
+      [
+        33,
+        "00:01:56.680000",
+        "00:02:00.360000",
+        "This is how we roll. This is how the Muse of Fire rolls."
+      ],
+      [
+        1041,
+        "00:56:58.600000",
+        "00:57:02.840000",
+        "'But it was never really about us.' ALL: Muse of Fire!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMuse\\ of\\ Fire:)Muse\\ of\\ Fire)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

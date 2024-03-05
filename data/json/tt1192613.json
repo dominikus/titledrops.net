@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1192613",
+    "title": "Onechanbara: The Movie",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 359,
+    "occurrences": [
+      [
+        46,
+        "00:12:56.142000",
+        "00:12:59.339000",
+        "ONECHANBARA"
+      ],
+      [
+        350,
+        "01:23:00.442000",
+        "01:23:01.534000",
+        "ONECHANBARA"
+      ]
+    ],
+    "regex": "\\b((?!\\bOnechanbara:)Onechanbara|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

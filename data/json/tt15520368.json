@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt15520368",
+    "title": "Rule 34",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 860,
+    "occurrences": [
+      [
+        102,
+        "00:07:05.924000",
+        "00:07:11.434000",
+        "the eradication of the promises made by the democratic Rule of Law."
+      ],
+      [
+        855,
+        "01:31:11.152000",
+        "01:31:12.823000",
+        "THE ONLY RULE..."
+      ],
+      [
+        856,
+        "01:31:24.434000",
+        "01:31:27.688000",
+        "THE ONLY RULE IS THAT THERE ARE NO RULES!"
+      ]
+    ],
+    "regex": "\\b((?!\\bRule:)Rule)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

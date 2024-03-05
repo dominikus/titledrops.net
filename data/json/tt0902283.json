@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0902283",
+    "title": "Father of Four: Living Large",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 941,
+    "occurrences": [
+      [
+        0,
+        "00:00:49.960000",
+        "00:00:55.796000",
+        "FATHER  OF  FOUR Living Large"
+      ],
+      [
+        609,
+        "00:58:56.800000",
+        "00:59:00.270000",
+        "There must be a lot to see to for a father of four."
+      ],
+      [
+        900,
+        "01:27:37.320000",
+        "01:27:41.757000",
+        "We've got a super father of four"
+      ],
+      [
+        941,
+        "01:31:06.920000",
+        "01:31:09.673000",
+        "FATHER OF FOUR Gets the Royal Treatment"
+      ]
+    ],
+    "regex": "\\b((?!\\bFather\\ of\\ Four:)Father\\ of\\ Four|(?!\\bLiving\\ Large:)Living\\ Large)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

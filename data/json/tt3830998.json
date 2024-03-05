@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3830998",
+    "title": "Lupin the Third: The Gravestone of Daisuke Jigen",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Animation",
+      "Crime"
+    ],
+    "count": 4,
+    "all_lines": 512,
+    "occurrences": [
+      [
+        128,
+        "00:13:27.474000",
+        "00:13:30.393000",
+        "Lupin the Third, how did you find this place?"
+      ],
+      [
+        271,
+        "00:29:05.870000",
+        "00:29:10.624000",
+        "But I, Lupin the Third, will be taking this enchanting showgirl now."
+      ],
+      [
+        426,
+        "00:42:14.491000",
+        "00:42:18.870000",
+        "That's enough storytelling, Lupin the Third. Let's get to the point."
+      ],
+      [
+        481,
+        "00:47:35.021000",
+        "00:47:37.105000",
+        "Lupin the Third Super-Genius Thief! Single and looking! What the hell?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLupin\\ the\\ Third:)Lupin\\ the\\ Third|(?!\\bGravestone\\ of\\ Daisuke\\ Jigen:)Gravestone\\ of\\ Daisuke\\ Jigen)(?!\\:)(?!'t)\\b",
+    "runtime": 52,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

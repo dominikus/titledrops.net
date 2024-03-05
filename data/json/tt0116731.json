@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0116731",
+    "title": "The Juror",
+    "year": 1996,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1720,
+    "occurrences": [
+      [
+        775,
+        "00:44:00.040000",
+        "00:44:01.625000",
+        "Yes, you're a juror."
+      ],
+      [
+        780,
+        "00:44:11.844000",
+        "00:44:14.054000",
+        "When a juror visits a judge,"
+      ],
+      [
+        1256,
+        "01:12:34.343000",
+        "01:12:38.598000",
+        "{\\an5}You know, that, uh, juror lady, you know..."
+      ],
+      [
+        1313,
+        "01:16:06.900000",
+        "01:16:09.403000",
+        "{\\an5}\"Juror brings tampering charges against Boffano.\""
+      ],
+      [
+        1549,
+        "01:36:29.770000",
+        "01:36:32.523000",
+        "Yeah, sure. You're the juror lady."
+      ],
+      [
+        1626,
+        "01:41:18.991000",
+        "01:41:23.454000",
+        "Until this woman, I mean, this juror woman,"
+      ]
+    ],
+    "regex": "\\b((?!\\bJuror:)Juror)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

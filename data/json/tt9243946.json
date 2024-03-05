@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt9243946",
+    "title": "El Camino: A Breaking Bad Movie",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1543,
+    "occurrences": [
+      [
+        237,
+        "00:16:13.333000",
+        "00:16:15.333000",
+        "I always wanted me an El Camino."
+      ],
+      [
+        259,
+        "00:17:44.500000",
+        "00:17:47.333000",
+        "Oh, uh, the El Camino, let me see the keys."
+      ]
+    ],
+    "regex": "\\b((?!\\bEl\\ Camino:)El\\ Camino|(?!\\bBreaking\\ Bad\\ Movie:)Breaking\\ Bad\\ Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

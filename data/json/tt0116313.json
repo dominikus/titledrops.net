@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0116313",
+    "title": "The First Wives Club",
+    "year": 1996,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 2062,
+    "occurrences": [
+      [
+        731,
+        "00:37:10.145000",
+        "00:37:12.939000",
+        "All right. First Wives Club will come to order."
+      ],
+      [
+        836,
+        "00:41:48.131000",
+        "00:41:51.384000",
+        "that the First Wives Club got its first big break,"
+      ],
+      [
+        1513,
+        "01:14:19.538000",
+        "01:14:21.999000",
+        "It's just this whole First Wives Club thing, it just..."
+      ]
+    ],
+    "regex": "\\b((?!\\bFirst\\ Wives\\ Club:)First\\ Wives\\ Club)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

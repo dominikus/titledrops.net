@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0087592",
+    "title": "The Last Horror Film",
+    "year": 1982,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 964,
+    "occurrences": [
+      [
+        212,
+        "00:20:20.302000",
+        "00:20:22.972000",
+        "- \"You've played your last horror film. Goodbye.\""
+      ],
+      [
+        407,
+        "00:37:47.640000",
+        "00:37:50.477000",
+        "\"You've made your last horror film.\" Pretty frightening, Bret."
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Horror\\ Film:)Last\\ Horror\\ Film)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

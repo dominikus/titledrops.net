@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0114936",
+    "title": "The Wife",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1969,
+    "occurrences": [
+      [
+        676,
+        "00:28:57.869000",
+        "00:28:59.871000",
+        "Just how to treat your wife disrespect?"
+      ],
+      [
+        707,
+        "00:29:40.945000",
+        "00:29:41.913000",
+        "ARLIE (OFFSCREEN): Put your wife in her place."
+      ]
+    ],
+    "regex": "\\b((?!\\bWife:)Wife)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

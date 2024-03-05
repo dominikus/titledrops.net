@@ -1,0 +1,65 @@
+[
+  {
+    "imdb": "tt0249538",
+    "title": "The Girl",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 7,
+    "all_lines": 398,
+    "occurrences": [
+      [
+        0,
+        "00:02:05",
+        "00:02:09.552000",
+        "\"The Girl has nerve. She lives in a hotel room.\""
+      ],
+      [
+        75,
+        "00:14:49.600000",
+        "00:14:51.557000",
+        "\"The girl gives me a name.\""
+      ],
+      [
+        151,
+        "00:28:06",
+        "00:28:07.753000",
+        "(the girl sings) You can bet your bottom dollar"
+      ],
+      [
+        199,
+        "00:34:41.400000",
+        "00:34:43.357000",
+        "You're rather pretty as a girl."
+      ],
+      [
+        211,
+        "00:36:47.400000",
+        "00:36:49.357000",
+        "(the girl) Do you see him?"
+      ],
+      [
+        212,
+        "00:36:52.400000",
+        "00:36:54.551000",
+        "(the girl) He's the one that's watching us."
+      ],
+      [
+        376,
+        "01:12:23",
+        "01:12:25.356000",
+        "\"I go to the girl's place as usual.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bGirl:)Girl)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [
+      "The Girl"
+    ],
+    "title_is_name": true,
+    "rating": 4.7
+  }
+]

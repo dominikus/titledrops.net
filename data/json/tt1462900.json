@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1462900",
+    "title": "The Grandmaster",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1107,
+    "occurrences": [
+      [
+        9,
+        "00:05:35.050000",
+        "00:05:39.810000",
+        "The Grandmaster"
+      ],
+      [
+        316,
+        "00:30:31.129000",
+        "00:30:32.628000",
+        "He might be a grandmaster,"
+      ]
+    ],
+    "regex": "\\b((?!\\bGrandmaster:)Grandmaster)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

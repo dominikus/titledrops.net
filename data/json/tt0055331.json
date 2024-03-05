@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0055331",
+    "title": "Professor Mamlock",
+    "year": 1961,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1282,
+    "occurrences": [
+      [
+        825,
+        "01:00:00.480000",
+        "01:00:01.811000",
+        "Professor Mamlock will..."
+      ],
+      [
+        911,
+        "01:05:56.702000",
+        "01:05:59.228000",
+        "Hellpach, Professor Mamlock will operate on me."
+      ],
+      [
+        960,
+        "01:09:06.859000",
+        "01:09:08.452000",
+        "Professor Mamlock, of course."
+      ],
+      [
+        1032,
+        "01:15:59.972000",
+        "01:16:01.565000",
+        "\"Professor Mamlock at work.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bProfessor\\ Mamlock:)Professor\\ Mamlock)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [
+      "Professor Mamlock"
+    ],
+    "title_is_name": true,
+    "rating": 7.1
+  }
+]

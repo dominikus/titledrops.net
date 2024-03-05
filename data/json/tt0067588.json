@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0067588",
+    "title": "Play Misty for Me",
+    "year": 1971,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 967,
+    "occurrences": [
+      [
+        39,
+        "00:07:15.200000",
+        "00:07:18.636000",
+        "- Hi, what'll it be? - Play Misty for me."
+      ],
+      [
+        112,
+        "00:12:14.920000",
+        "00:12:16.911000",
+        "Play Misty for me?"
+      ],
+      [
+        441,
+        "00:36:03.280000",
+        "00:36:05.271000",
+        "Weren't you gonna play Misty for me?"
+      ],
+      [
+        810,
+        "01:15:17.400000",
+        "01:15:19.118000",
+        "Play Misty for me."
+      ]
+    ],
+    "regex": "\\b((?!\\bPlay\\ Misty\\ for\\ Me:)Play\\ Misty\\ for\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

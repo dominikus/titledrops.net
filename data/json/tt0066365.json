@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0066365",
+    "title": "Shark",
+    "year": 1969,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 521,
+    "occurrences": [
+      [
+        174,
+        "00:28:17.917000",
+        "00:28:22.270000",
+        "He was a shark, under suspicious circumstances."
+      ],
+      [
+        197,
+        "00:29:45.368000",
+        "00:29:49.236000",
+        "to which a shark killed an assistant under mysterious circumstances."
+      ],
+      [
+        249,
+        "00:38:25.703000",
+        "00:38:29.132000",
+        "Is it a shark that ate a young Arab?"
+      ],
+      [
+        260,
+        "00:39:21.749000",
+        "00:39:24.703000",
+        "Is there a shark down there? -Of course."
+      ],
+      [
+        263,
+        "00:39:31.633000",
+        "00:39:34.398000",
+        "A shark is dangerous only when it smells blood."
+      ],
+      [
+        265,
+        "00:39:36.988000",
+        "00:39:40.522000",
+        "If I hit one shark, all her friends will run."
+      ]
+    ],
+    "regex": "\\b((?!\\bShark:)Shark)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

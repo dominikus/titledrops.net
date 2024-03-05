@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0483812",
+    "title": "Stephanie Daley",
+    "year": 2006,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1129,
+    "occurrences": [
+      [
+        7,
+        "00:02:06.339000",
+        "00:02:08.464000",
+        "- Tamp it. - Her name is Stephanie Daley."
+      ],
+      [
+        290,
+        "00:18:39.714000",
+        "00:18:41.214000",
+        "- Stephanie Daley."
+      ],
+      [
+        391,
+        "00:25:56.006000",
+        "00:25:59.464000",
+        "- Did I tell you I'm evaluating Stephanie Daley?"
+      ]
+    ],
+    "regex": "\\b((?!\\bStephanie\\ Daley:)Stephanie\\ Daley)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [
+      "Stephanie Daley"
+    ],
+    "title_is_name": true,
+    "rating": 6.3
+  }
+]

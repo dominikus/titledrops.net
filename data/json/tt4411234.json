@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4411234",
+    "title": "Slice",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1423,
+    "occurrences": [
+      [
+        1054,
+        "00:58:08.593000",
+        "00:58:09.524000",
+        "What the secret of our jumbo slice?"
+      ],
+      [
+        1400,
+        "01:18:14.295000",
+        "01:18:17.499000",
+        "And eat a slice of Jack's Perfect Pizza."
+      ]
+    ],
+    "regex": "\\b((?!\\bSlice:)Slice)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0150500",
+    "title": "Fallout",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1582,
+    "occurrences": [
+      [
+        765,
+        "00:42:04.478000",
+        "00:42:05.914000",
+        "Any fallout?"
+      ],
+      [
+        775,
+        "00:42:28.720000",
+        "00:42:30.939000",
+        "The fallout would decimate the population."
+      ]
+    ],
+    "regex": "\\b((?!\\bFallout:)Fallout)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

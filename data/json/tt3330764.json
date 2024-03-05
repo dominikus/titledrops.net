@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3330764",
+    "title": "The Neighbor",
+    "year": 2016,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 637,
+    "occurrences": [
+      [
+        164,
+        "00:21:18.910000",
+        "00:21:20.445000",
+        "Hey, neighbor."
+      ],
+      [
+        214,
+        "00:24:30.067000",
+        "00:24:32.069000",
+        "Nighty night, neighbor."
+      ]
+    ],
+    "regex": "\\b((?!\\bNeighbor:)Neighbor)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

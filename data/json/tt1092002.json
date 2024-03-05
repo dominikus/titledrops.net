@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1092002",
+    "title": "Kiss of Life",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 890,
+    "occurrences": [
+      [
+        139,
+        "00:18:11.760000",
+        "00:18:13.751000",
+        "The \"kiss of life?. \" -Yes."
+      ],
+      [
+        199,
+        "00:23:39.240000",
+        "00:23:44.758000",
+        "See what a kiss can do?. -lt was the \"kiss of life.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bKiss\\ of\\ Life:)Kiss\\ of\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

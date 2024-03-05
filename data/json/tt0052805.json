@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0052805",
+    "title": "First Man Into Space",
+    "year": 1959,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 989,
+    "occurrences": [
+      [
+        332,
+        "00:27:19.208000",
+        "00:27:23.137000",
+        "No, sir, I'm going straight up. First man into space !"
+      ],
+      [
+        347,
+        "00:28:20.643000",
+        "00:28:23.163000",
+        "The first man into space."
+      ],
+      [
+        431,
+        "00:34:20.575000",
+        "00:34:23.013000",
+        "He wanted to be the first man into space."
+      ]
+    ],
+    "regex": "\\b((?!\\bFirst\\ Man\\ Into\\ Space:)First\\ Man\\ Into\\ Space)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

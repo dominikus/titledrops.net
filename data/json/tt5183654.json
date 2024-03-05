@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt5183654",
+    "title": "I Love You",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 959,
+    "occurrences": [
+      [
+        10,
+        "00:01:20.841000",
+        "00:01:24.257000",
+        "-I love you. God, no! -Louder! Louder!"
+      ],
+      [
+        11,
+        "00:01:24.424000",
+        "00:01:27.257000",
+        "I love you!"
+      ],
+      [
+        262,
+        "00:19:56.866000",
+        "00:20:00.407000",
+        "Your dad and I love you very much. You are our dearest -"
+      ],
+      [
+        396,
+        "00:33:14.228000",
+        "00:33:19.062000",
+        "-I can't hear you. -I said, I love you."
+      ],
+      [
+        570,
+        "00:49:02.297000",
+        "00:49:05.756000",
+        "Emma, we got to yoga! I love you, girl."
+      ],
+      [
+        571,
+        "00:49:05.922000",
+        "00:49:08.922000",
+        "I love you too."
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Love\\ You:)I\\ Love\\ You)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0129807",
+    "title": "The Shimmering Beast",
+    "year": 1982,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 2030,
+    "occurrences": [
+      [
+        927,
+        "00:59:06.376000",
+        "00:59:08.139000",
+        "Your shimmering beast? - Yes."
+      ],
+      [
+        1014,
+        "01:08:55.331000",
+        "01:08:58.198000",
+        "The mythic creature, the antlers, the shimmering beast."
+      ]
+    ],
+    "regex": "\\b((?!\\bShimmering\\ Beast:)Shimmering\\ Beast)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

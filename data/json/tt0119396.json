@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt0119396",
+    "title": "Jackie Brown",
+    "year": 1997,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 2300,
+    "occurrences": [
+      [
+        634,
+        "00:37:25.234000",
+        "00:37:28.965000",
+        "Brown. Jackie Brown."
+      ],
+      [
+        1418,
+        "01:24:45.938000",
+        "01:24:48.202000",
+        "Jackie Brown, Ordell Robbie."
+      ],
+      [
+        1481,
+        "01:31:32.077000",
+        "01:31:35.638000",
+        "Jackie Brown. (Buzzes)"
+      ],
+      [
+        1904,
+        "02:03:07.371000",
+        "02:03:09.931000",
+        "It's Jackie Brown."
+      ]
+    ],
+    "regex": "\\b((?!\\bJackie\\ Brown:)Jackie\\ Brown)(?!\\:)(?!'t)\\b",
+    "runtime": 154,
+    "characters": [
+      "Jackie Brown"
+    ],
+    "title_is_name": true,
+    "rating": 7.5
+  }
+]

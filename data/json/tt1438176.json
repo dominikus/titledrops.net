@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1438176",
+    "title": "Fright Night",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1169,
+    "occurrences": [
+      [
+        3,
+        "00:01:31.758000",
+        "00:01:34.261000",
+        "Welcome to Fright Night."
+      ],
+      [
+        1063,
+        "01:27:13.854000",
+        "01:27:15.527000",
+        "Welcome to Fright Night,"
+      ]
+    ],
+    "regex": "\\b((?!\\bFright\\ Night:)Fright\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

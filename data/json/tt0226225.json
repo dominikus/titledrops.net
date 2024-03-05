@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0226225",
+    "title": "North Beach",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 846,
+    "occurrences": [
+      [
+        60,
+        "00:05:22.122000",
+        "00:05:25.025000",
+        "-How do you know? How does everybody know about Michelle? -It's North Beach, baby!"
+      ],
+      [
+        259,
+        "00:21:59.119000",
+        "00:22:02.288000",
+        "-Hello beautiful citizens of North Beach!"
+      ],
+      [
+        335,
+        "00:29:03.043000",
+        "00:29:05.412000",
+        "-We jump on the bridge, and then go back to North Beach, and then there we are,"
+      ]
+    ],
+    "regex": "\\b((?!\\bNorth\\ Beach:)North\\ Beach)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

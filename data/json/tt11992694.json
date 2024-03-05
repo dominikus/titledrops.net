@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt11992694",
+    "title": "Corsage",
+    "year": 2022,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 637,
+    "occurrences": [
+      [
+        570,
+        "01:28:19.504000",
+        "01:28:22.046000",
+        "Quick. We have to unlace the corsage."
+      ],
+      [
+        615,
+        "01:39:32.796000",
+        "01:39:35.671000",
+        "Expect him in your bed, without your corsage."
+      ]
+    ],
+    "regex": "\\b((?!\\bCorsage:)Corsage)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

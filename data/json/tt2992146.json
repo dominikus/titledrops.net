@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2992146",
+    "title": "Young Detective Dee: Rise of the Sea Dragon",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1655,
+    "occurrences": [
+      [
+        61,
+        "00:06:13.491000",
+        "00:06:15.459000",
+        "Young Detective Dee"
+      ],
+      [
+        62,
+        "00:06:17.428000",
+        "00:06:20.397000",
+        "Rise of the Sea Dragon"
+      ]
+    ],
+    "regex": "\\b((?!\\bYoung\\ Detective\\ Dee:)Young\\ Detective\\ Dee|(?!\\bRise\\ of\\ the\\ Sea\\ Dragon:)Rise\\ of\\ the\\ Sea\\ Dragon)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

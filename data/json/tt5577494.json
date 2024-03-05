@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt5577494",
+    "title": "Clemency",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1049,
+    "occurrences": [
+      [
+        279,
+        "00:28:50.424000",
+        "00:28:54.036000",
+        "Ultimately, the governor has the power to grant Mr. Woods clemency,"
+      ],
+      [
+        705,
+        "01:09:06.620000",
+        "01:09:08.448000",
+        "Then you don't think they'll give me clemency?"
+      ],
+      [
+        938,
+        "01:30:23.287000",
+        "01:30:29.249000",
+        "Clemency has hap... has happened right up until the last minutes,"
+      ]
+    ],
+    "regex": "\\b((?!\\bClemency:)Clemency)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

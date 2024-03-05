@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt11812338",
+    "title": "Honest Candidate",
+    "year": 2020,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1669,
+    "occurrences": [
+      [
+        1050,
+        "00:59:59.387000",
+        "01:00:01.264000",
+        "Honest candidate"
+      ],
+      [
+        1052,
+        "01:00:06.186000",
+        "01:00:08.772000",
+        "Honest candidate"
+      ]
+    ],
+    "regex": "\\b((?!\\bHonest\\ Candidate:)Honest\\ Candidate)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2375585",
+    "title": "Demon Hunter",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1130,
+    "occurrences": [
+      [
+        910,
+        "01:09:17.654000",
+        "01:09:21.129000",
+        "I am the demon hunter"
+      ],
+      [
+        1071,
+        "01:23:34.246000",
+        "01:23:35.606000",
+        "A demon hunter."
+      ],
+      [
+        1073,
+        "01:24:30.542000",
+        "01:24:31.845000",
+        "A demon hunter."
+      ]
+    ],
+    "regex": "\\b((?!\\bDemon\\ Hunter:)Demon\\ Hunter)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0083109",
+    "title": "The Cabbage Soup",
+    "year": 1981,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 6,
+    "all_lines": 1082,
+    "occurrences": [
+      [
+        0,
+        "00:00:00",
+        "00:00:04.854000",
+        "Cabbage Soup"
+      ],
+      [
+        167,
+        "00:15:15.710000",
+        "00:15:17.590000",
+        "Look! This is cabbage soup!"
+      ],
+      [
+        177,
+        "00:16:28.030000",
+        "00:16:31.270000",
+        "My cabbage soup, laddie, perfumes your innards..."
+      ],
+      [
+        186,
+        "00:17:59.350000",
+        "00:18:00.830000",
+        "Cabbage soup!"
+      ],
+      [
+        187,
+        "00:18:01.750000",
+        "00:18:04.390000",
+        "Cabbage soup, my laddie!"
+      ],
+      [
+        587,
+        "00:49:24.510000",
+        "00:49:26.790000",
+        "and then they ate... cabbage soup!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCabbage\\ Soup:)Cabbage\\ Soup)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

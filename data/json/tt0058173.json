@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0058173",
+    "title": "Day-Dream",
+    "year": 1964,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 153,
+    "occurrences": [
+      [
+        2,
+        "00:00:16.216000",
+        "00:00:18.980000",
+        "About the movie adapted from \"Daydream\":"
+      ],
+      [
+        4,
+        "00:00:22.155000",
+        "00:00:25.989000",
+        "to ask for my permission to adapt my novel \"Daydream \" into a play."
+      ],
+      [
+        19,
+        "00:01:13.206000",
+        "00:01:15.071000",
+        "Director's Statement: In this work, \"Daydream, \""
+      ],
+      [
+        24,
+        "00:01:31.057000",
+        "00:01:37.223000",
+        "DAYDREAM"
+      ]
+    ],
+    "regex": "\\b((?!\\bDayDream:)DayDream)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

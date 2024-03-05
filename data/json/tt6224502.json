@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt6224502",
+    "title": "Boarding School",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1328,
+    "occurrences": [
+      [
+        229,
+        "00:20:04.001000",
+        "00:20:06.936000",
+        "I am also the principal of the boarding school you'll be attending"
+      ],
+      [
+        1123,
+        "01:28:37.743000",
+        "01:28:41.381000",
+        "that burned down Sherman's Boarding School and everyone in it."
+      ],
+      [
+        1168,
+        "01:31:51.637000",
+        "01:31:55.275000",
+        "Did... did my mom think this was a real boarding school?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBoarding\\ School:)Boarding\\ School)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

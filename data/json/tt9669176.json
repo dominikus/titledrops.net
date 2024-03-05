@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt9669176",
+    "title": "Accident Man: Hitman's Holiday",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 4,
+    "all_lines": 1882,
+    "occurrences": [
+      [
+        577,
+        "00:27:16.310000",
+        "00:27:17.842000",
+        "Accident Man?"
+      ],
+      [
+        990,
+        "00:48:48.331000",
+        "00:48:51.398000",
+        "Do we have a deal, Mr. Accident Man?"
+      ],
+      [
+        1514,
+        "01:16:20.345000",
+        "01:16:23.984000",
+        "The famous Accident Man, once a great hunter..."
+      ],
+      [
+        1577,
+        "01:21:39.537000",
+        "01:21:40.563000",
+        "Accident Man."
+      ]
+    ],
+    "regex": "\\b((?!\\bAccident\\ Man:)Accident\\ Man|(?!\\bHitman's\\ Holiday:)Hitman's\\ Holiday)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

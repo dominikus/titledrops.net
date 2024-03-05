@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt4394104",
+    "title": "Comfort",
+    "year": 2016,
+    "genres": [
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1624,
+    "occurrences": [
+      [
+        24,
+        "00:04:16.757000",
+        "00:04:19.725000",
+        "- Hey, what are you, craving some Canadian comfort food"
+      ],
+      [
+        668,
+        "00:37:16.868000",
+        "00:37:19.936000",
+        "- The idea is to serve comfort food."
+      ],
+      [
+        1487,
+        "01:31:29.651000",
+        "01:31:32.552000",
+        "for chef Cameron's comfort burger."
+      ]
+    ],
+    "regex": "\\b((?!\\bComfort:)Comfort)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

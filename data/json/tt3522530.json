@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3522530",
+    "title": "Daddy",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1578,
+    "occurrences": [
+      [
+        23,
+        "00:01:37.298000",
+        "00:01:38.932000",
+        "Who's your daddy?"
+      ],
+      [
+        257,
+        "00:12:05.325000",
+        "00:12:08.128000",
+        "- Mmm, who's your daddy?"
+      ],
+      [
+        916,
+        "00:43:58.837000",
+        "00:44:00.471000",
+        "Who's your daddy?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDaddy:)Daddy)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0056417",
+    "title": "The Road to Hong Kong",
+    "year": 1962,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1580,
+    "occurrences": [
+      [
+        650,
+        "00:34:50.955000",
+        "00:34:53.719000",
+        "''On the road to Hong Kong?"
+      ],
+      [
+        656,
+        "00:35:08.706000",
+        "00:35:10.139000",
+        "''On the road to Hong Kong"
+      ],
+      [
+        680,
+        "00:36:33.291000",
+        "00:36:37.057000",
+        "''We'll be on the happy road to Hong Kong"
+      ]
+    ],
+    "regex": "\\b((?!\\bRoad\\ to\\ Hong\\ Kong:)Road\\ to\\ Hong\\ Kong)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

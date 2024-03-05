@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2557478",
+    "title": "Pacific Rim: Uprising",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1542,
+    "occurrences": [
+      [
+        1073,
+        "01:04:32.120000",
+        "01:04:33.555000",
+        "across the Pacific Rim."
+      ],
+      [
+        1207,
+        "01:12:32.132000",
+        "01:12:36.001000",
+        "igniting the Ring of Fire around the Pacific Rim."
+      ]
+    ],
+    "regex": "\\b((?!\\bPacific\\ Rim:)Pacific\\ Rim|(?!\\bUprising:)Uprising)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

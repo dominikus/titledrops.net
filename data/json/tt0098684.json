@@ -1,0 +1,58 @@
+[
+  {
+    "imdb": "tt0098684",
+    "title": "Yaaba",
+    "year": 1989,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 508,
+    "occurrences": [
+      [
+        133,
+        "00:19:02.400000",
+        "00:19:03.799000",
+        "Yaaba!"
+      ],
+      [
+        373,
+        "00:59:40.600000",
+        "00:59:43.194000",
+        "Yaaba, greetings."
+      ],
+      [
+        396,
+        "01:02:19.840000",
+        "01:02:21.068000",
+        "Yaaba,"
+      ],
+      [
+        492,
+        "01:20:57.880000",
+        "01:21:00.235000",
+        "You promised me you'd talk about Yaaba..."
+      ],
+      [
+        493,
+        "01:21:05.840000",
+        "01:21:07.990000",
+        "Yaaba never knew her parents..."
+      ],
+      [
+        498,
+        "01:21:26.880000",
+        "01:21:29.155000",
+        "Yaaba told it to me."
+      ]
+    ],
+    "regex": "\\b((?!\\bYaaba:)Yaaba)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [
+      "Yaaba"
+    ],
+    "title_is_name": true,
+    "rating": 7.1
+  }
+]

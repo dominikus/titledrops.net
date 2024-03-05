@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0133751",
+    "title": "The Faculty",
+    "year": 1998,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 7,
+    "all_lines": 1380,
+    "occurrences": [
+      [
+        459,
+        "00:31:10.361000",
+        "00:31:13.448000",
+        "Has the entire faculty been commuted?"
+      ],
+      [
+        484,
+        "00:33:39.881000",
+        "00:33:41.216000",
+        "and then we found her body in the faculty closet."
+      ],
+      [
+        485,
+        "00:33:41.299000",
+        "00:33:42.676000",
+        "What were you doing in the faculty closet?"
+      ],
+      [
+        585,
+        "00:39:50.115000",
+        "00:39:51.533000",
+        "The faculty."
+      ],
+      [
+        754,
+        "00:49:51.073000",
+        "00:49:52.240000",
+        "especially the faculty."
+      ],
+      [
+        870,
+        "00:55:26.481000",
+        "00:55:28.817000",
+        "The whole faculty, actually."
+      ],
+      [
+        1355,
+        "01:37:10.283000",
+        "01:37:13.870000",
+        "after the mysterious disappearance of several faculty members..."
+      ]
+    ],
+    "regex": "\\b((?!\\bFaculty:)Faculty)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

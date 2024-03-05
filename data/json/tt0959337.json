@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0959337",
+    "title": "Revolutionary Road",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 899,
+    "occurrences": [
+      [
+        162,
+        "00:12:33.420000",
+        "00:12:35.880000",
+        "Eventually it leads up to Revolutionary Road,"
+      ],
+      [
+        696,
+        "00:45:42.900000",
+        "00:45:45.710000",
+        "The nice young Wheelers on Revolutionary Road,"
+      ]
+    ],
+    "regex": "\\b((?!\\bRevolutionary\\ Road:)Revolutionary\\ Road)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

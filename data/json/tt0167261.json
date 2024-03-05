@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt0167261",
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 1,
+    "all_lines": 2127,
+    "occurrences": [
+      [
+        176,
+        "00:19:44.226000",
+        "00:19:47.896000",
+        "and the union of the two towers?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLord\\ of\\ the\\ Rings:)Lord\\ of\\ the\\ Rings|(?!\\bTwo\\ Towers:)Two\\ Towers)(?!\\:)(?!'t)\\b",
+    "runtime": 235,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.8
+  }
+]

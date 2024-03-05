@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0195232",
+    "title": "The Saviour",
+    "year": 1971,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1074,
+    "occurrences": [
+      [
+        401,
+        "00:31:12.800000",
+        "00:31:13.525000",
+        "She was the saviour"
+      ],
+      [
+        640,
+        "00:47:24.280000",
+        "00:47:25.584000",
+        "I know the saviour of France"
+      ],
+      [
+        642,
+        "00:47:27.800000",
+        "00:47:29.483000",
+        "I know you're the saviour."
+      ]
+    ],
+    "regex": "\\b((?!\\bSaviour:)Saviour)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

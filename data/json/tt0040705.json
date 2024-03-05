@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0040705",
+    "title": "Portrait of Jennie",
+    "year": 1948,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 1204,
+    "occurrences": [
+      [
+        9,
+        "00:01:08.001000",
+        "00:01:10.731000",
+        "The tender and haunting legend of a portrait of Jennie"
+      ],
+      [
+        23,
+        "00:02:06.326000",
+        "00:02:09.420000",
+        "And now, Portrait of Jennie."
+      ],
+      [
+        657,
+        "00:39:43.280000",
+        "00:39:45.339000",
+        "- A portrait of Jennie ? - Yes."
+      ],
+      [
+        864,
+        "00:56:36.926000",
+        "00:56:38.791000",
+        "Portrait of Jennie."
+      ],
+      [
+        1040,
+        "01:09:02.738000",
+        "01:09:05.730000",
+        "Heres my portrait of Jennie. Will you store it for me till I come back ?"
+      ],
+      [
+        1196,
+        "01:24:27.195000",
+        "01:24:29.026000",
+        "\"Portrait of Jennie.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bPortrait\\ of\\ Jennie:)Portrait\\ of\\ Jennie)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

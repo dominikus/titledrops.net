@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0102216",
+    "title": "King Ralph",
+    "year": 1991,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1445,
+    "occurrences": [
+      [
+        712,
+        "00:43:25.216000",
+        "00:43:27.081000",
+        "King Ralph seems to have passed..."
+      ],
+      [
+        1005,
+        "01:01:26.463000",
+        "01:01:30.763000",
+        "MAN: His Britannic Majesty King Ralph I..."
+      ],
+      [
+        1156,
+        "01:13:30.419000",
+        "01:13:32.887000",
+        "King Ralph not only shocked his guests..."
+      ],
+      [
+        1194,
+        "01:16:16.485000",
+        "01:16:18.112000",
+        "King Ralph the Chickenhearted."
+      ]
+    ],
+    "regex": "\\b((?!\\bKing\\ Ralph:)King\\ Ralph)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

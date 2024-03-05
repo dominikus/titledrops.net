@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt21932256",
+    "title": "Time Pirates",
+    "year": 2022,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1900,
+    "occurrences": [
+      [
+        356,
+        "00:17:27.139000",
+        "00:17:28.906000",
+        "I guess that would make us Time Pirates!"
+      ],
+      [
+        389,
+        "00:19:13.779000",
+        "00:19:16.347000",
+        "- Which would make us-- - Time Pirates, I know."
+      ],
+      [
+        560,
+        "00:26:41.026000",
+        "00:26:43.994000",
+        "We're Time Pirates."
+      ],
+      [
+        1099,
+        "00:51:20.737000",
+        "00:51:23.139000",
+        "Ahoy, Time Pirates."
+      ],
+      [
+        1101,
+        "00:51:24.975000",
+        "00:51:28.544000",
+        "Time Pirates! See, she gets it!"
+      ]
+    ],
+    "regex": "\\b((?!\\bTime\\ Pirates:)Time\\ Pirates)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1634286",
+    "title": "Grassroots",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1759,
+    "occurrences": [
+      [
+        432,
+        "00:22:48.968000",
+        "00:22:50.835000",
+        "This is grassroots, folks."
+      ],
+      [
+        1039,
+        "00:54:14.352000",
+        "00:54:18.020000",
+        "'Cause it's grassroots politics, folks. Grassroots!"
+      ],
+      [
+        1390,
+        "01:12:31.014000",
+        "01:12:34.349000",
+        "I'm a grassroots activist."
+      ]
+    ],
+    "regex": "\\b((?!\\bGrassroots:)Grassroots)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

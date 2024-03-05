@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0218839",
+    "title": "Best in Show",
+    "year": 2000,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1591,
+    "occurrences": [
+      [
+        937,
+        "00:48:34.256000",
+        "00:48:38.192000",
+        "...as the dogs progress towards the Best in Show title."
+      ],
+      [
+        1054,
+        "00:55:11.620000",
+        "00:55:15.920000",
+        "-The Poodle, right? The Standard? -Yeah. Two-time Best in Show."
+      ],
+      [
+        1093,
+        "00:57:37.933000",
+        "00:57:40.527000",
+        "First in group. Best in Show coming up."
+      ],
+      [
+        1292,
+        "01:07:34.996000",
+        "01:07:38.159000",
+        "They're going for all the marbles. The Best in Show."
+      ]
+    ],
+    "regex": "\\b((?!\\bBest\\ in\\ Show:)Best\\ in\\ Show)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

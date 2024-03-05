@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0871975",
+    "title": "The Battery",
+    "year": 2007,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1256,
+    "occurrences": [
+      [
+        977,
+        "01:23:07.524000",
+        "01:23:09.609000",
+        "The battery itself."
+      ],
+      [
+        1015,
+        "01:27:26.324000",
+        "01:27:28.159000",
+        "That's the end of this battery."
+      ]
+    ],
+    "regex": "\\b((?!\\bBattery:)Battery)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

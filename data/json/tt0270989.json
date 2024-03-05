@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0270989",
+    "title": "Highway 395",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "count": 5,
+    "all_lines": 1267,
+    "occurrences": [
+      [
+        128,
+        "00:16:10.316000",
+        "00:16:11.149000",
+        "You ain't shipping on this highway no more."
+      ],
+      [
+        505,
+        "00:39:25.510000",
+        "00:39:26.780000",
+        "is the scourge of my highway."
+      ],
+      [
+        946,
+        "01:09:48.780000",
+        "01:09:49.923000",
+        "just down the highway."
+      ],
+      [
+        950,
+        "01:09:59.370000",
+        "01:10:02.480000",
+        "Make sure you don't venture too far up the highway 385."
+      ],
+      [
+        1261,
+        "01:37:51.470000",
+        "01:37:53.873000",
+        "this highway brings it all right to us."
+      ]
+    ],
+    "regex": "\\b((?!\\bHighway:)Highway)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

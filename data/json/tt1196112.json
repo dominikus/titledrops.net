@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1196112",
+    "title": "Witch Hunt",
+    "year": 2008,
+    "genres": [
+      "Crime",
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1508,
+    "occurrences": [
+      [
+        1387,
+        "01:18:41.204000",
+        "01:18:43.025000",
+        "- I don't think there was a deliberate witch hunt,"
+      ],
+      [
+        1398,
+        "01:19:23.670000",
+        "01:19:25.755000",
+        "- The witch hunt happened and when the witch hunt went,"
+      ]
+    ],
+    "regex": "\\b((?!\\bWitch\\ Hunt:)Witch\\ Hunt)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

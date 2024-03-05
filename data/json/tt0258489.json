@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0258489",
+    "title": "Double Tap",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 983,
+    "occurrences": [
+      [
+        22,
+        "00:02:48.640000",
+        "00:02:50.080000",
+        "Is called Double Tap"
+      ],
+      [
+        776,
+        "01:01:31.960000",
+        "01:01:33.120000",
+        "Double Tap!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDouble\\ Tap:)Double\\ Tap)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

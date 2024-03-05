@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt21923640",
+    "title": "Vikings: Blood Lust",
+    "year": 2023,
+    "genres": [
+      "Action"
+    ],
+    "count": 5,
+    "all_lines": 1398,
+    "occurrences": [
+      [
+        65,
+        "00:05:03.371000",
+        "00:05:05.372000",
+        "and we can just leave this blood lust for the circle."
+      ],
+      [
+        649,
+        "00:37:18.036000",
+        "00:37:21.739000",
+        "when the Vikings stormed into my land, my village,"
+      ],
+      [
+        657,
+        "00:37:48.434000",
+        "00:37:53.505000",
+        "He found me with three supposedly noble vikings"
+      ],
+      [
+        1076,
+        "01:02:35.219000",
+        "01:02:37.054000",
+        "Vikings will be Vikings, right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bVikings:)Vikings|(?!\\bBlood\\ Lust:)Blood\\ Lust)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

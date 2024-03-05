@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt9893084",
+    "title": "Italian Studies",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 918,
+    "occurrences": [
+      [
+        388,
+        "00:32:39.837000",
+        "00:32:41.973000",
+        "- for, um, Italian Studies. - God, yes."
+      ],
+      [
+        425,
+        "00:34:10.062000",
+        "00:34:13.631000",
+        "and I gave her my copy of Italian Studies."
+      ],
+      [
+        661,
+        "00:47:55.853000",
+        "00:47:58.756000",
+        "- What was it called? - Italian Studies."
+      ],
+      [
+        887,
+        "01:06:18.256000",
+        "01:06:21.993000",
+        "- Annika: Uh, Italian Studies - Alina: That's really sweet."
+      ]
+    ],
+    "regex": "\\b((?!\\bItalian\\ Studies:)Italian\\ Studies)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

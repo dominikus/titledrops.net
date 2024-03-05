@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0100943",
+    "title": "Witchcraft II: The Temptress",
+    "year": 1989,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 834,
+    "occurrences": [
+      [
+        299,
+        "00:29:51.757000",
+        "00:29:55.427000",
+        "And I found it in an old manuscript on witchcraft."
+      ],
+      [
+        300,
+        "00:29:55.527000",
+        "00:29:56.595000",
+        "Witchcraft?"
+      ],
+      [
+        441,
+        "00:41:49.941000",
+        "00:41:52.578000",
+        "Witchcraft?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWitchcraft:)Witchcraft|(?!\\bTemptress:)Temptress)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

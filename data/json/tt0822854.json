@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0822854",
+    "title": "Shooter",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1552,
+    "occurrences": [
+      [
+        172,
+        "00:14:11.936000",
+        "00:14:14.548000",
+        "You believe there's a shooter involved capable of making this shot?"
+      ],
+      [
+        174,
+        "00:14:16.040000",
+        "00:14:18.352000",
+        "Well, then you got a real problem. You need to find the shooter."
+      ],
+      [
+        243,
+        "00:21:14.950000",
+        "00:21:17.361000",
+        "I mean, unless you're sure your shooter's interested in 70 virgins"
+      ],
+      [
+        688,
+        "00:53:34.846000",
+        "00:53:36.815000",
+        "You need to find the shooter."
+      ],
+      [
+        872,
+        "01:10:32.207000",
+        "01:10:36.244000",
+        "Not bad with a poodle shooter and a makeshift silencer, huh?"
+      ],
+      [
+        1011,
+        "01:18:32.844000",
+        "01:18:34.712000",
+        "He'll try to track the shooter."
+      ]
+    ],
+    "regex": "\\b((?!\\bShooter:)Shooter)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

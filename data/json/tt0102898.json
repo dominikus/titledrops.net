@@ -1,0 +1,59 @@
+[
+  {
+    "imdb": "tt0102898",
+    "title": "Shakes the Clown",
+    "year": 1991,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1193,
+    "occurrences": [
+      [
+        33,
+        "00:03:39.586000",
+        "00:03:42.953000",
+        "Shakes. Shakes the clown."
+      ],
+      [
+        93,
+        "00:10:08.140000",
+        "00:10:10.404000",
+        "Hi, kids. It's your friend, Shakes the clown."
+      ],
+      [
+        353,
+        "00:29:21.359000",
+        "00:29:24.260000",
+        "Duh, hi, kids. I'm Shakes the clown."
+      ],
+      [
+        438,
+        "00:34:54.358000",
+        "00:34:56.383000",
+        "Ah, Shakes the clown."
+      ],
+      [
+        574,
+        "00:45:32.663000",
+        "00:45:36.292000",
+        "Hi, boys and girls. I'm Shakes the clown."
+      ],
+      [
+        1130,
+        "01:22:14.529000",
+        "01:22:17.692000",
+        "Hi, kids, it's me, your friend, Shakes the clown."
+      ]
+    ],
+    "regex": "\\b((?!\\bShakes\\ the\\ Clown:)Shakes\\ the\\ Clown)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [
+      "Shakes the Clown"
+    ],
+    "title_is_name": true,
+    "rating": 5.6
+  }
+]

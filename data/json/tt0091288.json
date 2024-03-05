@@ -1,0 +1,34 @@
+[
+  {
+    "imdb": "tt0091288",
+    "title": "Jean de Florette",
+    "year": 1986,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1091,
+    "occurrences": [
+      [
+        326,
+        "00:33:17.261000",
+        "00:33:19.752000",
+        "Are you Jean de Florette?"
+      ],
+      [
+        329,
+        "00:33:26.304000",
+        "00:33:30.070000",
+        "If you'd been born here, we'd call you Jean de Florette."
+      ]
+    ],
+    "regex": "\\b((?!\\bJean\\ de\\ Florette:)Jean\\ de\\ Florette)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [
+      "Jean de Florette"
+    ],
+    "title_is_name": true,
+    "rating": 8.1
+  }
+]

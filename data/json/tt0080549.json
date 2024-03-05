@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0080549",
+    "title": "Coal Miner's Daughter",
+    "year": 1980,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 1603,
+    "occurrences": [
+      [
+        1514,
+        "01:53:20.520000",
+        "01:53:23.920000",
+        "the first lady of country music, the coal miner's daughter,"
+      ],
+      [
+        1517,
+        "01:53:29.720000",
+        "01:53:32.920000",
+        "* The coal miner's daughter *"
+      ],
+      [
+        1534,
+        "01:54:50.200000",
+        "01:54:55.760000",
+        "* Yeah I'm proud to be a coal miner's daughter *"
+      ],
+      [
+        1545,
+        "01:55:42.080000",
+        "01:55:46.040000",
+        "*A coal miner's daughter **"
+      ]
+    ],
+    "regex": "\\b((?!\\bCoal\\ Miner's\\ Daughter:)Coal\\ Miner's\\ Daughter)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0455988",
+    "title": "The Elder Son",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1261,
+    "occurrences": [
+      [
+        269,
+        "00:18:03.638000",
+        "00:18:05.201000",
+        "Your elder son."
+      ],
+      [
+        450,
+        "00:28:03.752000",
+        "00:28:06.585000",
+        "this ashtray has always belonged to the elder son."
+      ],
+      [
+        477,
+        "00:30:01.462000",
+        "00:30:03.428000",
+        "To my elder son,"
+      ]
+    ],
+    "regex": "\\b((?!\\bElder\\ Son:)Elder\\ Son)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

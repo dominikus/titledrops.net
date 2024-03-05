@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0035679",
+    "title": "The Black Raven",
+    "year": 1943,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 632,
+    "occurrences": [
+      [
+        13,
+        "00:03:39.757000",
+        "00:03:42.031000",
+        "While the Black Raven has been doing pretty good for himself."
+      ],
+      [
+        49,
+        "00:06:45.075000",
+        "00:06:46.262000",
+        "You are the Black Raven."
+      ],
+      [
+        94,
+        "00:09:56.937000",
+        "00:10:00.191000",
+        "Then turn back about a mile to a place called The Black Raven."
+      ],
+      [
+        103,
+        "00:10:39.354000",
+        "00:10:42.140000",
+        "A mile back down the road is a place called The Black Raven."
+      ],
+      [
+        105,
+        "00:10:44.811000",
+        "00:10:46.049000",
+        "The black Raven? - Yes."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Raven:)Black\\ Raven)(?!\\:)(?!'t)\\b",
+    "runtime": 61,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

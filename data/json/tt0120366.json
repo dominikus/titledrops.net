@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0120366",
+    "title": "Traveller",
+    "year": 1997,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1463,
+    "occurrences": [
+      [
+        162,
+        "00:11:26.990000",
+        "00:11:30.428000",
+        "if he come from the belly of a real traveller woman,"
+      ],
+      [
+        163,
+        "00:11:31.821000",
+        "00:11:35.651000",
+        "isn't that man yet a traveller on the day he dies?"
+      ],
+      [
+        164,
+        "00:11:35.695000",
+        "00:11:38.132000",
+        "Well, he was born a traveller and buried a traveller,"
+      ]
+    ],
+    "regex": "\\b((?!\\bTraveller:)Traveller)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

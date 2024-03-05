@@ -1,0 +1,68 @@
+[
+  {
+    "imdb": "tt5822148",
+    "title": "Miami",
+    "year": 2017,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 8,
+    "all_lines": 604,
+    "occurrences": [
+      [
+        112,
+        "00:18:33.279000",
+        "00:18:37.033000",
+        "Imagine this is a club in a Miami casino."
+      ],
+      [
+        253,
+        "00:39:52.057000",
+        "00:39:54.810000",
+        "What place? - Miami."
+      ],
+      [
+        494,
+        "01:28:45.654000",
+        "01:28:48.324000",
+        "Miami, all airports"
+      ],
+      [
+        518,
+        "01:32:06.396000",
+        "01:32:11.860000",
+        "If you don't get a message from me, take the first flight to Miami."
+      ],
+      [
+        522,
+        "01:32:39.763000",
+        "01:32:43.684000",
+        "You bought a value ticket to Miami. It's more expensive."
+      ],
+      [
+        528,
+        "01:33:16.466000",
+        "01:33:18.719000",
+        "Where'? - To Miami."
+      ],
+      [
+        547,
+        "01:35:16.002000",
+        "01:35:18.839000",
+        "We're going to Miami soon."
+      ],
+      [
+        585,
+        "01:46:05.360000",
+        "01:46:07.779000",
+        "You can come to Miami later."
+      ]
+    ],
+    "regex": "\\b((?!\\bMiami:)Miami)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

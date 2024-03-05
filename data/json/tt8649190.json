@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt8649190",
+    "title": "Here Before",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 964,
+    "occurrences": [
+      [
+        36,
+        "00:04:47.283000",
+        "00:04:48.984000",
+        "Who was here before?"
+      ],
+      [
+        282,
+        "00:22:46.051000",
+        "00:22:49.917000",
+        "She said she's been to school here before."
+      ],
+      [
+        452,
+        "00:38:50.450000",
+        "00:38:51.817000",
+        " When we came here before,"
+      ],
+      [
+        455,
+        "00:38:59.751000",
+        "00:39:00.984000",
+        "You've never been here before."
+      ],
+      [
+        574,
+        "00:50:15.417000",
+        "00:50:18.317000",
+        "Have you been here before, Megan?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHere\\ Before:)Here\\ Before)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

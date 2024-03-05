@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0401383",
+    "title": "The Diving Bell and the Butterfly",
+    "year": 2007,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1104,
+    "occurrences": [
+      [
+        0,
+        "00:00:29.976000",
+        "00:00:34.236000",
+        "The Diving Bell and the Butterfly"
+      ],
+      [
+        1104,
+        "01:42:39.883000",
+        "01:42:44.722000",
+        "ten days after the publication of 'The Diving Bell and the Butterfly'."
+      ]
+    ],
+    "regex": "\\b((?!\\bDiving\\ Bell\\ and\\ the\\ Butterfly:)Diving\\ Bell\\ and\\ the\\ Butterfly)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

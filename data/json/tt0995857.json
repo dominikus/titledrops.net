@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0995857",
+    "title": "Mr. Bones 2: Back from the Past",
+    "year": 2008,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1054,
+    "occurrences": [
+      [
+        335,
+        "00:33:32",
+        "00:33:36",
+        "Finally, let me introduce you Mr. Bones and hekula"
+      ],
+      [
+        465,
+        "00:42:15.500000",
+        "00:42:16.600000",
+        "Mr. Bones ..."
+      ]
+    ],
+    "regex": "\\b((?!\\bMr\\.\\ Bones:)Mr\\.\\ Bones|(?!\\bBack\\ from\\ the\\ Past:)Back\\ from\\ the\\ Past)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

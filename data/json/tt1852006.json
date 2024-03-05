@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1852006",
+    "title": "The Snows of Kilimanjaro",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1444,
+    "occurrences": [
+      [
+        0,
+        "00:00:32.033000",
+        "00:00:36.741000",
+        "The Snows of Kilimanjaro"
+      ],
+      [
+        270,
+        "00:19:08.717000",
+        "00:19:13.125000",
+        "The snows of Kilimanjaro"
+      ]
+    ],
+    "regex": "\\b((?!\\bSnows\\ of\\ Kilimanjaro:)Snows\\ of\\ Kilimanjaro)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

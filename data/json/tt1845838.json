@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1845838",
+    "title": "Metro Manila",
+    "year": 2013,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 886,
+    "occurrences": [
+      [
+        117,
+        "00:21:33.800000",
+        "00:21:35.358000",
+        "Quezon City , Metro Manila."
+      ],
+      [
+        214,
+        "00:28:21.720000",
+        "00:28:23.472000",
+        "Metro Manila?"
+      ],
+      [
+        543,
+        "01:01:32.360000",
+        "01:01:34.271000",
+        "It looks all Metro Manila."
+      ],
+      [
+        674,
+        "01:12:48.160000",
+        "01:12:51.675000",
+        "They are the problem Metro Manila."
+      ]
+    ],
+    "regex": "\\b((?!\\bMetro\\ Manila:)Metro\\ Manila)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

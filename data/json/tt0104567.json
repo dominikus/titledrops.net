@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt0104567",
+    "title": "Johnny Suede",
+    "year": 1991,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 689,
+    "occurrences": [
+      [
+        69,
+        "00:12:57.069000",
+        "00:12:59.988000",
+        "Johnny? Johnny Suede?"
+      ],
+      [
+        256,
+        "00:38:12.084000",
+        "00:38:15.963000",
+        "- Johnny Suede. - You're kidding me, right?"
+      ],
+      [
+        447,
+        "01:00:18.035000",
+        "01:00:20.913000",
+        "John. Johnny Suede."
+      ]
+    ],
+    "regex": "\\b((?!\\bJohnny\\ Suede:)Johnny\\ Suede)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [
+      "Johnny Suede"
+    ],
+    "title_is_name": true,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt14137416",
+    "title": "Kidnapped",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1110,
+    "occurrences": [
+      [
+        953,
+        "01:38:22.208000",
+        "01:38:24.292000",
+        "hadn't yet turned seven when he was kidnapped."
+      ],
+      [
+        1040,
+        "01:52:46.458000",
+        "01:52:50.458000",
+        "How can you be on the side of those criminals who kidnapped you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bKidnapped:)Kidnapped)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

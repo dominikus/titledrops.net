@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0214878",
+    "title": "The Libertine",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1011,
+    "occurrences": [
+      [
+        565,
+        "00:50:17",
+        "00:50:18.555000",
+        "You are a libertine!"
+      ],
+      [
+        568,
+        "00:50:27.360000",
+        "00:50:30.838000",
+        "To be a libertine means to feel nuance and to be exact"
+      ]
+    ],
+    "regex": "\\b((?!\\bLibertine:)Libertine)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

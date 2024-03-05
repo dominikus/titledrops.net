@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0054763",
+    "title": "The Connection",
+    "year": 1961,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1524,
+    "occurrences": [
+      [
+        330,
+        "00:24:59.540000",
+        "00:25:01.860000",
+        "I was even hoping that the big connection"
+      ],
+      [
+        333,
+        "00:25:06.820000",
+        "00:25:09.060000",
+        "Hey, baby, you want to see the big connection,"
+      ],
+      [
+        361,
+        "00:26:20.260000",
+        "00:26:22.100000",
+        "You are your own connection."
+      ],
+      [
+        425,
+        "00:29:20.260000",
+        "00:29:24.140000",
+        "We've waited before- the connection is coming."
+      ]
+    ],
+    "regex": "\\b((?!\\bConnection:)Connection)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

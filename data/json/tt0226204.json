@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0226204",
+    "title": "The Dimension Travelers",
+    "year": 1998,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 928,
+    "occurrences": [
+      [
+        299,
+        "00:31:27.051000",
+        "00:31:30.532000",
+        "In a way, we're like dimension travelers."
+      ],
+      [
+        300,
+        "00:31:33.625000",
+        "00:31:35.225000",
+        "Dimension travelers..."
+      ]
+    ],
+    "regex": "\\b((?!\\bDimension\\ Travelers:)Dimension\\ Travelers)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt13623880",
+    "title": "Night at the Museum: Kahmunrah Rises Again",
+    "year": 2022,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 1,
+    "all_lines": 1238,
+    "occurrences": [
+      [
+        371,
+        "00:21:46",
+        "00:21:48.875000",
+        "In honor of your first night at the museum, we all got you gifts."
+      ]
+    ],
+    "regex": "\\b((?!\\bNight\\ at\\ the\\ Museum:)Night\\ at\\ the\\ Museum|(?!\\bKahmunrah\\ Rises\\ Again:)Kahmunrah\\ Rises\\ Again)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0072650",
+    "title": "The Clown",
+    "year": 1976,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 759,
+    "occurrences": [
+      [
+        1,
+        "00:04:09.768000",
+        "00:04:10.768000",
+        "As clown."
+      ],
+      [
+        76,
+        "00:14:43.686000",
+        "00:14:46.354000",
+        "We agreed DM 150 for a clown worth 300."
+      ],
+      [
+        523,
+        "01:08:33.187000",
+        "01:08:34.587000",
+        "I, a clown, comedian."
+      ],
+      [
+        754,
+        "01:40:44.036000",
+        "01:40:46.236000",
+        "I am a clown and collect moments."
+      ]
+    ],
+    "regex": "\\b((?!\\bClown:)Clown)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

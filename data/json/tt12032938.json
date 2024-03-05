@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt12032938",
+    "title": "Muddy",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1618,
+    "occurrences": [
+      [
+        2,
+        "00:01:51.416000",
+        "00:01:55.041000",
+        "'...will commence in this muddy terrain in the most grand manner'"
+      ],
+      [
+        3,
+        "00:01:55.125000",
+        "00:01:57.500000",
+        "'Muddy tracks and boulders along the way as impediments'"
+      ]
+    ],
+    "regex": "\\b((?!\\bMuddy:)Muddy)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

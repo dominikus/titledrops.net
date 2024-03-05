@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt0098219",
+    "title": "Romero",
+    "year": 1989,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 920,
+    "occurrences": [
+      [
+        101,
+        "00:09:20.640000",
+        "00:09:23.006000",
+        "The worst would be Romero."
+      ],
+      [
+        496,
+        "00:52:38.969000",
+        "00:52:42.200000",
+        "I am the Archbishop Romero. and we would like to see the Father."
+      ],
+      [
+        905,
+        "01:40:51.092000",
+        "01:40:54.323000",
+        "Archbishop Romero was murdered March 24, 1980."
+      ]
+    ],
+    "regex": "\\b((?!\\bRomero:)Romero)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [
+      "Archbishop Oscar Romero"
+    ],
+    "title_is_name": true,
+    "rating": 7.1
+  }
+]

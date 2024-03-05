@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt9018570",
+    "title": "Jesus",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 750,
+    "occurrences": [
+      [
+        244,
+        "00:18:38.701000",
+        "00:18:39.994000",
+        "Dear Jesus,"
+      ],
+      [
+        645,
+        "00:56:26.217000",
+        "00:56:27.802000",
+        "Jesus said..."
+      ]
+    ],
+    "regex": "\\b((?!\\bJesus:)Jesus)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [
+      "The Little Jesus"
+    ],
+    "title_is_name": true,
+    "rating": 6.3
+  }
+]

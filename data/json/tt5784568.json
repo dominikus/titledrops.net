@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt5784568",
+    "title": "These Days",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1334,
+    "occurrences": [
+      [
+        1077,
+        "01:24:10.570000",
+        "01:24:13.357000",
+        "A n s, these days."
+      ],
+      [
+        1310,
+        "01:46:33.636000",
+        "01:46:35.724000",
+        "These days have passed"
+      ],
+      [
+        1333,
+        "01:55:01.082000",
+        "01:55:03.480000",
+        "Nothing happened these days,"
+      ]
+    ],
+    "regex": "\\b((?!\\bThese\\ Days:)These\\ Days)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

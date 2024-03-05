@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1059786",
+    "title": "Eagle Eye",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1639,
+    "occurrences": [
+      [
+        910,
+        "00:56:16.320000",
+        "00:56:17.400000",
+        "Welcome to Eagle Eye."
+      ],
+      [
+        1266,
+        "01:18:29.640000",
+        "01:18:31.520000",
+        "\"On a project called Eagle Eye.\""
+      ],
+      [
+        1326,
+        "01:22:40.040000",
+        "01:22:45.480000",
+        "\"Jerry Shaw, Rachel Holloman, welcome to Eagle Eye.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bEagle\\ Eye:)Eagle\\ Eye)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

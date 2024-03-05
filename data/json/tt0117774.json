@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0117774",
+    "title": "The Substitute",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 658,
+    "occurrences": [
+      [
+        216,
+        "00:19:18.907000",
+        "00:19:20.841000",
+        "Tell him he's got to substitute for me."
+      ],
+      [
+        239,
+        "00:22:25.660000",
+        "00:22:27.787000",
+        "My name's Smith. I'm her substitute."
+      ],
+      [
+        256,
+        "00:23:41.803000",
+        "00:23:44.772000",
+        "- Who the fuck are you? - I'm the substitute. Come on."
+      ],
+      [
+        260,
+        "00:24:27.115000",
+        "00:24:30.243000",
+        "I will be Miss Hetzko's substitute for the next few days."
+      ],
+      [
+        385,
+        "00:32:28.062000",
+        "00:32:30.895000",
+        "- Substitute for what? - For Janie."
+      ]
+    ],
+    "regex": "\\b((?!\\bSubstitute:)Substitute)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

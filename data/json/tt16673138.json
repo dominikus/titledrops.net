@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt16673138",
+    "title": "Highway",
+    "year": 2022,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1267,
+    "occurrences": [
+      [
+        15,
+        "00:02:31.750000",
+        "00:02:32.833000",
+        "this Highway!"
+      ],
+      [
+        504,
+        "00:42:17.666000",
+        "00:42:19.166000",
+        "I think he is on the highway, Praveen!"
+      ],
+      [
+        885,
+        "01:13:17.541000",
+        "01:13:20.916000",
+        "Once done , we will be on the highway!"
+      ],
+      [
+        1096,
+        "01:31:37.333000",
+        "01:31:41.083000",
+        "It's presence is in every highway, city and town."
+      ],
+      [
+        1169,
+        "01:45:16.541000",
+        "01:45:18.541000",
+        "Where are you right now? -Bangalore Highway, sir."
+      ],
+      [
+        1180,
+        "01:46:10.041000",
+        "01:46:13.166000",
+        "suspect is fleeing the Bangalore Highway with the abducted girl."
+      ]
+    ],
+    "regex": "\\b((?!\\bHighway:)Highway)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

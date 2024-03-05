@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0073726",
+    "title": "Soldier of Fortune",
+    "year": 1976,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1250,
+    "occurrences": [
+      [
+        56,
+        "00:04:19.600000",
+        "00:04:23.030000",
+        "\"So the army, headed by the best Italian soldier of fortune...\""
+      ],
+      [
+        237,
+        "00:22:54.084000",
+        "00:22:57.292000",
+        "Too bad! One day I'll be a soldier of fortune too."
+      ]
+    ],
+    "regex": "\\b((?!\\bSoldier\\ of\\ Fortune:)Soldier\\ of\\ Fortune)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

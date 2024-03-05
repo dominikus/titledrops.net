@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0107048",
+    "title": "Groundhog Day",
+    "year": 1993,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 7,
+    "all_lines": 1124,
+    "occurrences": [
+      [
+        21,
+        "00:02:01.496000",
+        "00:02:04.761000",
+        "Tomorrow is Groundhog Day, and I'm going out to Punxsutawney..."
+      ],
+      [
+        94,
+        "00:08:30.718000",
+        "00:08:32.811000",
+        "It's Groundhog Day!"
+      ],
+      [
+        240,
+        "00:19:50.564000",
+        "00:19:55.661000",
+        "- What day is this? - It's February 2. Groundhog Day."
+      ],
+      [
+        255,
+        "00:21:11.745000",
+        "00:21:15.181000",
+        "To Gobbler's Knob. It's Groundhog Day."
+      ],
+      [
+        286,
+        "00:23:44.364000",
+        "00:23:48.391000",
+        "It's Groundhog Day again."
+      ],
+      [
+        318,
+        "00:27:21.347000",
+        "00:27:24.282000",
+        "Groundhog Day. Today."
+      ],
+      [
+        710,
+        "00:58:42.960000",
+        "00:58:46.623000",
+        "What a hype. Groundhog Day used to mean something in this town."
+      ]
+    ],
+    "regex": "\\b((?!\\bGroundhog\\ Day:)Groundhog\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

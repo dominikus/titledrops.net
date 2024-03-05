@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1502397",
+    "title": "Bad Boys for Life",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 2226,
+    "occurrences": [
+      [
+        291,
+        "00:15:10.500000",
+        "00:15:13.032000",
+        "- Bad boys for life. - Uh, bad boys"
+      ],
+      [
+        452,
+        "00:23:21.600000",
+        "00:23:23.632000",
+        "ALL: Bad boys for life!"
+      ],
+      [
+        496,
+        "00:25:15.734000",
+        "00:25:19.032000",
+        "Now you reneging? What happened to bad boys for life?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBad\\ Boys\\ for\\ Life:)Bad\\ Boys\\ for\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

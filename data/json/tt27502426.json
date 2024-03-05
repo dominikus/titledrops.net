@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt27502426",
+    "title": "Four Daughters",
+    "year": 2023,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1547,
+    "occurrences": [
+      [
+        3,
+        "00:01:21.917000",
+        "00:01:23.875000",
+        "Olfa has four daughters."
+      ],
+      [
+        25,
+        "00:03:15.292000",
+        "00:03:16.917000",
+        "But in Four Daughters."
+      ],
+      [
+        381,
+        "00:25:01.750000",
+        "00:25:05.708000",
+        "and God gave you four daughters, to you, so full of fear!"
+      ]
+    ],
+    "regex": "\\b((?!\\bFour\\ Daughters:)Four\\ Daughters)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0116282",
+    "title": "Fargo",
+    "year": 1996,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1402,
+    "occurrences": [
+      [
+        75,
+        "00:06:40.271000",
+        "00:06:41.772000",
+        "How was Fargo?"
+      ],
+      [
+        220,
+        "00:13:39.356000",
+        "00:13:41.136000",
+        "you put me in touch with up there in Fargo?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFargo:)Fargo)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

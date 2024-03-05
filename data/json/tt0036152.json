@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0036152",
+    "title": "The Memphis Belle: A Story of a Flying Fortress",
+    "year": 1944,
+    "genres": [
+      "Documentary",
+      "History",
+      "War"
+    ],
+    "count": 7,
+    "all_lines": 515,
+    "occurrences": [
+      [
+        44,
+        "00:05:37.800000",
+        "00:05:41.600000",
+        "And this is the crew of the Memphis Belle."
+      ],
+      [
+        65,
+        "00:06:42.800000",
+        "00:06:46.400000",
+        "And so, if the Memphis Belle comes back this afternoon,"
+      ],
+      [
+        74,
+        "00:09:47.400000",
+        "00:09:49.400000",
+        "The wheels of the Memphis Belle leave"
+      ],
+      [
+        102,
+        "00:11:33.200000",
+        "00:11:36.800000",
+        "like the crew of the Memphis Belle... Pilot Captain Robert"
+      ],
+      [
+        262,
+        "00:21:56.600000",
+        "00:21:58.400000",
+        "Now Evans flies the Memphis Belle,"
+      ],
+      [
+        475,
+        "00:35:30",
+        "00:35:33.600000",
+        "The Memphis Belle."
+      ],
+      [
+        486,
+        "00:36:44.200000",
+        "00:36:46.600000",
+        "The wheels of the Memphis Belle come back"
+      ]
+    ],
+    "regex": "\\b((?!\\bMemphis\\ Belle:)Memphis\\ Belle|(?!\\bStory\\ of\\ a\\ Flying\\ Fortress:)Story\\ of\\ a\\ Flying\\ Fortress)(?!\\:)(?!'t)\\b",
+    "runtime": 45,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

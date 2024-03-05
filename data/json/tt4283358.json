@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt4283358",
+    "title": "Seasons",
+    "year": 2015,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 105,
+    "occurrences": [
+      [
+        24,
+        "00:06:55.293000",
+        "00:06:57.543000",
+        "Thus seasons were born."
+      ],
+      [
+        30,
+        "00:09:35.600000",
+        "00:09:37.700000",
+        "following the rhythm of the seasons."
+      ],
+      [
+        32,
+        "00:23:29.960000",
+        "00:23:32.710000",
+        "life went on, in the course of seasons"
+      ],
+      [
+        90,
+        "01:24:23.085000",
+        "01:24:24.293000",
+        "and seasons."
+      ]
+    ],
+    "regex": "\\b((?!\\bSeasons:)Seasons)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

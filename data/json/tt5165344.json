@@ -1,0 +1,59 @@
+[
+  {
+    "imdb": "tt5165344",
+    "title": "Rustom",
+    "year": 2016,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 39,
+    "occurrences": [
+      [
+        8,
+        "00:00:24.600000",
+        "00:00:28",
+        "I am the leader, \"Rustom Pavra\" Indian Navy"
+      ],
+      [
+        12,
+        "00:01:00.887000",
+        "00:01:03.500000",
+        "Rustom, please I can explain"
+      ],
+      [
+        21,
+        "00:01:39.900000",
+        "00:01:42.622000",
+        "\"I can not do anything to help \" Rustom"
+      ],
+      [
+        26,
+        "00:02:02.500000",
+        "00:02:04.500000",
+        "To honesty and dedication of Rustom"
+      ],
+      [
+        27,
+        "00:02:07.905000",
+        "00:02:13.578000",
+        "If sir, \"Rustom\" shot him, he certainly do the right thingi"
+      ],
+      [
+        29,
+        "00:02:19.056000",
+        "00:02:22.573000",
+        "\"People should continue to sympathize with\" Rustom"
+      ]
+    ],
+    "regex": "\\b((?!\\bRustom:)Rustom)(?!\\:)(?!'t)\\b",
+    "runtime": 148,
+    "characters": [
+      "Rustom Pavri"
+    ],
+    "title_is_name": true,
+    "rating": 7
+  }
+]

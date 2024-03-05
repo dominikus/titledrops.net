@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt11610804",
+    "title": "Haute Couture",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1358,
+    "occurrences": [
+      [
+        425,
+        "00:25:32.940000",
+        "00:25:37.860000",
+        "Silk tulle. That's what we use almost exclusively in haute couture."
+      ],
+      [
+        596,
+        "00:37:21.820000",
+        "00:37:24.980000",
+        "Doesn't Dior do that? Haute Couture Breasts?"
+      ],
+      [
+        1094,
+        "01:12:59.420000",
+        "01:13:02.140000",
+        "That's not haute couture vocabulary."
+      ]
+    ],
+    "regex": "\\b((?!\\bHaute\\ Couture:)Haute\\ Couture)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0878674",
+    "title": "Garage",
+    "year": 2007,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 827,
+    "occurrences": [
+      [
+        231,
+        "00:18:39.800000",
+        "00:18:42.189000",
+        "Get some fucking idiot to look after your garage for ya"
+      ],
+      [
+        287,
+        "00:22:41.560000",
+        "00:22:44.120000",
+        "We're a valet garage. Valet !"
+      ],
+      [
+        724,
+        "01:01:55.080000",
+        "01:01:57.548000",
+        "Right, only I have to open, open the garage..."
+      ],
+      [
+        750,
+        "01:04:25.280000",
+        "01:04:28.272000",
+        "You have a young fella working for you.. with you, in the garage? ?"
+      ],
+      [
+        783,
+        "01:06:27.440000",
+        "01:06:31.115000",
+        "We'll just wait to see if the lads pick up anything at the garage and if not, I'll drop you back."
+      ]
+    ],
+    "regex": "\\b((?!\\bGarage:)Garage)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

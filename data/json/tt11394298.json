@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt11394298",
+    "title": "The Mole Agent",
+    "year": 2020,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1157,
+    "occurrences": [
+      [
+        29,
+        "00:02:57.173000",
+        "00:02:58.674000",
+        "A mole agent."
+      ],
+      [
+        30,
+        "00:02:58.799000",
+        "00:03:01.469000",
+        "Right. Mole agent. Could you please explain that to me?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMole\\ Agent:)Mole\\ Agent)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

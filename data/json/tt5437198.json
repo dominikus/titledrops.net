@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt5437198",
+    "title": "The Cascadia Treasure",
+    "year": 2020,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 1625,
+    "occurrences": [
+      [
+        190,
+        "00:09:23.313000",
+        "00:09:25.357000",
+        "Stuff like the Cascadia treasure."
+      ],
+      [
+        194,
+        "00:09:32.865000",
+        "00:09:34.492000",
+        "- Cascadia treasure?"
+      ],
+      [
+        327,
+        "00:16:22.733000",
+        "00:16:24.777000",
+        "- The Cascadia treasure."
+      ],
+      [
+        798,
+        "00:39:24.322000",
+        "00:39:27.157000",
+        "- We're looking for the Cascadia treasure."
+      ]
+    ],
+    "regex": "\\b((?!\\bCascadia\\ Treasure:)Cascadia\\ Treasure)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

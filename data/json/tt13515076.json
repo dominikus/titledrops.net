@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt13515076",
+    "title": "Love on the Rock",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "count": 2,
+    "all_lines": 1549,
+    "occurrences": [
+      [
+        92,
+        "00:09:36.110000",
+        "00:09:39.313000",
+        "Welcome to Love on the Rock."
+      ],
+      [
+        1312,
+        "01:13:48.996000",
+        "01:13:51.198000",
+        "Let's regroup, meet me back at Love on the Rock."
+      ]
+    ],
+    "regex": "\\b((?!\\bLove\\ on\\ the\\ Rock:)Love\\ on\\ the\\ Rock)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

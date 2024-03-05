@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0261552",
+    "title": "The Foul King",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 369,
+    "occurrences": [
+      [
+        5,
+        "00:01:44.737000",
+        "00:01:46.967000",
+        "The Foul King"
+      ],
+      [
+        242,
+        "00:34:10.014000",
+        "00:34:13.006000",
+        "You're the 'Foul King'! All you have to do is cheat.. and well!"
+      ]
+    ],
+    "regex": "\\b((?!\\bFoul\\ King:)Foul\\ King)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

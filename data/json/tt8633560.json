@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt8633560",
+    "title": "Lazy Susan",
+    "year": 2020,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1906,
+    "occurrences": [
+      [
+        1829,
+        "01:26:50.502000",
+        "01:26:53.403000",
+        "[The Spinners' \"Lazy Susan\"]"
+      ],
+      [
+        1838,
+        "01:27:32.044000",
+        "01:27:35.746000",
+        "Oh lazy Susan"
+      ],
+      [
+        1840,
+        "01:27:38.084000",
+        "01:27:41.118000",
+        "Lazy Susan"
+      ],
+      [
+        1842,
+        "01:27:43.756000",
+        "01:27:47.057000",
+        "Lazy Susan"
+      ]
+    ],
+    "regex": "\\b((?!\\bLazy\\ Susan:)Lazy\\ Susan)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0070289",
+    "title": "The Final Programme",
+    "year": 1973,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1293,
+    "occurrences": [
+      [
+        331,
+        "00:20:36.486000",
+        "00:20:38.296000",
+        "Abort the Final Programme?"
+      ],
+      [
+        1221,
+        "01:20:12.307000",
+        "01:20:13.743000",
+        "For the Final Programme?"
+      ],
+      [
+        1263,
+        "01:22:50.090000",
+        "01:22:53.319000",
+        "I chose you for the Final Programme."
+      ]
+    ],
+    "regex": "\\b((?!\\bFinal\\ Programme:)Final\\ Programme)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

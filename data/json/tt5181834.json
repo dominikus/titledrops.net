@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5181834",
+    "title": "The Rocket",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Family",
+      "Sport"
+    ],
+    "count": 3,
+    "all_lines": 1321,
+    "occurrences": [
+      [
+        1091,
+        "01:02:23.340000",
+        "01:02:24.272000",
+        "The rocket?"
+      ],
+      [
+        1174,
+        "01:09:30.534000",
+        "01:09:31.499000",
+        "The rocket."
+      ],
+      [
+        1176,
+        "01:09:34.237000",
+        "01:09:35.370000",
+        "The rocket."
+      ]
+    ],
+    "regex": "\\b((?!\\bRocket:)Rocket)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

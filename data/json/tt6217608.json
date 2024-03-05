@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt6217608",
+    "title": "The Rider",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 5,
+    "all_lines": 1267,
+    "occurrences": [
+      [
+        288,
+        "00:24:57.453000",
+        "00:24:59.533000",
+        "Best bull rider to come out of South Dakota, for sure."
+      ],
+      [
+        550,
+        "00:39:52.139000",
+        "00:39:55.081000",
+        "BRADY: Yeah, he was a pretty good bull rider."
+      ],
+      [
+        675,
+        "00:49:29.439000",
+        "00:49:31.038000",
+        "Aren't you one hell of a bronc rider?"
+      ],
+      [
+        950,
+        "01:09:59.657000",
+        "01:10:04.585000",
+        "MAN ON TV: This is the reigning world champion saddle bronc rider!"
+      ],
+      [
+        1075,
+        "01:19:38.685000",
+        "01:19:40.218000",
+        "You're gonna be a bronc rider when you grow up?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRider:)Rider)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

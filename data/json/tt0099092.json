@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0099092",
+    "title": "Bad Jim",
+    "year": 1990,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 1336,
+    "occurrences": [
+      [
+        206,
+        "00:14:11.952000",
+        "00:14:14.421000",
+        "Bad Jim."
+      ],
+      [
+        1240,
+        "01:18:23.399000",
+        "01:18:25.201000",
+        "Bad Jim."
+      ]
+    ],
+    "regex": "\\b((?!\\bBad\\ Jim:)Bad\\ Jim)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

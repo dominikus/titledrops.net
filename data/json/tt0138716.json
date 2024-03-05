@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0138716",
+    "title": "The Bed",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 709,
+    "occurrences": [
+      [
+        52,
+        "00:06:06",
+        "00:06:10.960000",
+        "THE  BED"
+      ],
+      [
+        63,
+        "00:07:23.680000",
+        "00:07:27.880000",
+        "It all happened one rainy, summer night in a totally normal bed."
+      ],
+      [
+        283,
+        "00:34:17.920000",
+        "00:34:21.600000",
+        "It's so cold in here. Warm up my bed for me, please!"
+      ],
+      [
+        340,
+        "00:40:15.640000",
+        "00:40:18.360000",
+        "Quick, so you don't mess my bed up again!"
+      ],
+      [
+        550,
+        "01:02:30.560000",
+        "01:02:35.520000",
+        "Get in bed and try to sleep."
+      ],
+      [
+        633,
+        "01:13:45.040000",
+        "01:13:50",
+        "God l want to wake up at home in my bed."
+      ]
+    ],
+    "regex": "\\b((?!\\bBed:)Bed)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

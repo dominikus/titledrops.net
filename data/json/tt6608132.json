@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6608132",
+    "title": "77 Heartbreaks",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1481,
+    "occurrences": [
+      [
+        1061,
+        "01:06:14.292000",
+        "01:06:18.501000",
+        "To someone who cares, a free copy of 77 Heartbreaks"
+      ],
+      [
+        1392,
+        "01:26:16.626000",
+        "01:26:19.584000",
+        "will be more than enough to mend the 77 heartbreaks of yours."
+      ]
+    ],
+    "regex": "\\b((?!\\b77\\ Heartbreaks:)77\\ Heartbreaks)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

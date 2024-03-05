@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt7334352",
+    "title": "The Secret Garden",
+    "year": 2017,
+    "genres": [
+      "Family"
+    ],
+    "count": 5,
+    "all_lines": 1125,
+    "occurrences": [
+      [
+        337,
+        "00:22:28.183000",
+        "00:22:30.933000",
+        "I should like to see this secret garden."
+      ],
+      [
+        718,
+        "00:51:48.853000",
+        "00:51:52.406000",
+        "And we could go and it would just be kept a secret garden."
+      ],
+      [
+        898,
+        "01:02:47.283000",
+        "01:02:49.523000",
+        "the way into the secret garden?"
+      ],
+      [
+        998,
+        "01:12:00.468000",
+        "01:12:03.154000",
+        "We found the missing pieces in the secret garden"
+      ],
+      [
+        1091,
+        "01:21:01.778000",
+        "01:21:04.178000",
+        "If this whole secret garden was built by"
+      ]
+    ],
+    "regex": "\\b((?!\\bSecret\\ Garden:)Secret\\ Garden)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

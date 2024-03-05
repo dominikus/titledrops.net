@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt12728842",
+    "title": "The Hike",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1126,
+    "occurrences": [
+      [
+        37,
+        "00:05:13.466000",
+        "00:05:16.060000",
+        "- So, you want me to hike in shoes"
+      ],
+      [
+        269,
+        "00:17:02.950000",
+        "00:17:04.873000",
+        "- Well, why don't we just hike up there?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHike:)Hike)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.1
+  }
+]

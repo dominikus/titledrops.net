@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0148615",
+    "title": "Play Motel",
+    "year": 1979,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 710,
+    "occurrences": [
+      [
+        144,
+        "00:25:59.430000",
+        "00:26:04.260000",
+        "That sign they've got, 'Play Motel', somehow seemed very exciting."
+      ],
+      [
+        309,
+        "00:46:58.850000",
+        "00:47:01.020000",
+        "So we went and stayed at the Play Motel."
+      ],
+      [
+        469,
+        "01:08:14.130000",
+        "01:08:17.300000",
+        "- Tonight you were with a man at the Play Motel. - So what?"
+      ],
+      [
+        583,
+        "01:19:31.180000",
+        "01:19:34.430000",
+        "Will you answer me? What were you doing at the Play Motel?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPlay\\ Motel:)Play\\ Motel)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

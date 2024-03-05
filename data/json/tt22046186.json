@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt22046186",
+    "title": "When the Rain Falls",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 483,
+    "occurrences": [
+      [
+        0,
+        "00:01:31",
+        "00:01:41",
+        "When the Rain Falls"
+      ],
+      [
+        1,
+        "00:02:14.500000",
+        "00:02:16.500000",
+        "When the rain falls."
+      ]
+    ],
+    "regex": "\\b((?!\\bWhen\\ the\\ Rain\\ Falls:)When\\ the\\ Rain\\ Falls)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

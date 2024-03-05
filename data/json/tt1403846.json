@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1403846",
+    "title": "Everything Will Be Fine",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 568,
+    "occurrences": [
+      [
+        146,
+        "00:24:36.160000",
+        "00:24:41.678000",
+        "Everything will be fine. I promise."
+      ],
+      [
+        568,
+        "01:26:06.960000",
+        "01:26:11.476000",
+        "Everything will be fine. I promise."
+      ]
+    ],
+    "regex": "\\b((?!\\bEverything\\ Will\\ Be\\ Fine:)Everything\\ Will\\ Be\\ Fine)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

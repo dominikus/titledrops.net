@@ -1,0 +1,26 @@
+[
+  {
+    "imdb": "tt0113684",
+    "title": "Lock-Up: The Prisoners of Rikers Island",
+    "year": 1994,
+    "genres": [
+      "Crime",
+      "Documentary"
+    ],
+    "count": 1,
+    "all_lines": 1478,
+    "occurrences": [
+      [
+        1459,
+        "01:13:54.608000",
+        "01:13:58.089000",
+        "It's time for us to go to lock-up."
+      ]
+    ],
+    "regex": "\\b((?!\\bLock\\-Up:)Lock\\-Up|(?!\\bPrisoners\\ of\\ Rikers\\ Island:)Prisoners\\ of\\ Rikers\\ Island)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

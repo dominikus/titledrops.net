@@ -1,0 +1,69 @@
+[
+  {
+    "imdb": "tt0040580",
+    "title": "Melody Time",
+    "year": 1948,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "count": 9,
+    "all_lines": 791,
+    "occurrences": [
+      [
+        0,
+        "00:00:35.120000",
+        "00:00:37.237000",
+        "Melody time"
+      ],
+      [
+        1,
+        "00:00:38.834000",
+        "00:00:40.871000",
+        "melody time"
+      ],
+      [
+        2,
+        "00:00:44.146000",
+        "00:00:46.382000",
+        "Melody time"
+      ],
+      [
+        6,
+        "00:00:59.442000",
+        "00:01:01.998000",
+        "melody time"
+      ],
+      [
+        18,
+        "00:01:39.778000",
+        "00:01:44.731000",
+        "It's melody time It's melody time"
+      ],
+      [
+        19,
+        "00:02:13.486000",
+        "00:02:14.964000",
+        "It's melody time"
+      ],
+      [
+        20,
+        "00:02:15.124000",
+        "00:02:18.997000",
+        "yes, it's melody time. Time to hitch your wagon to a song."
+      ],
+      [
+        29,
+        "00:02:45.277000",
+        "00:02:49.670000",
+        "it's melody time"
+      ]
+    ],
+    "regex": "\\b((?!\\bMelody\\ Time:)Melody\\ Time)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

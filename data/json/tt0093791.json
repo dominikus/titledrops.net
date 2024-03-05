@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0093791",
+    "title": "Morning Patrol",
+    "year": 1987,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 493,
+    "occurrences": [
+      [
+        32,
+        "00:03:23.722000",
+        "00:03:26.375000",
+        "being in dager of stumbling upon the morning patrol"
+      ],
+      [
+        247,
+        "00:56:27.652000",
+        "00:56:32.020000",
+        "The Morning Patrol."
+      ],
+      [
+        251,
+        "00:57:47.827000",
+        "00:57:51.411000",
+        "Morning Patrol, Code 33, Alpha Sector."
+      ],
+      [
+        413,
+        "01:26:41.537000",
+        "01:26:44.106000",
+        "\"Morning Patrol in Emergency mode.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bMorning\\ Patrol:)Morning\\ Patrol)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

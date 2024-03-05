@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt26569323",
+    "title": "The Mill",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1747,
+    "occurrences": [
+      [
+        321,
+        "00:16:29.616000",
+        "00:16:31.910000",
+        "You work consists of pushing the mill."
+      ],
+      [
+        607,
+        "00:32:28.533000",
+        "00:32:30.368000",
+        "What's this fucking mill, huh?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMill:)Mill)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

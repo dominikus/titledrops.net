@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3042408",
+    "title": "Who Am I",
+    "year": 2014,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1014,
+    "occurrences": [
+      [
+        6,
+        "00:01:25.238000",
+        "00:01:25.644000",
+        "Who am I?"
+      ],
+      [
+        980,
+        "01:35:41.181000",
+        "01:35:42.181000",
+        "OK. Who am I?"
+      ],
+      [
+        988,
+        "01:36:04.304000",
+        "01:36:05.504000",
+        "They know who am I, we all gotta get outta here!"
+      ]
+    ],
+    "regex": "\\b((?!\\bWho\\ Am:)Who\\ Am)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

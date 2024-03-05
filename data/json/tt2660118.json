@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2660118",
+    "title": "Split",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1737,
+    "occurrences": [
+      [
+        1446,
+        "01:12:50.731000",
+        "01:12:53.467000",
+        "And the baby split converted."
+      ],
+      [
+        1454,
+        "01:13:28.703000",
+        "01:13:31.940000",
+        "And the famous split. Spare conversion."
+      ]
+    ],
+    "regex": "\\b((?!\\bSplit:)Split)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3
+  }
+]

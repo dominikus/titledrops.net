@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt6495094",
+    "title": "Little Women",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1809,
+    "occurrences": [
+      [
+        325,
+        "00:16:56.763000",
+        "00:17:00.735000",
+        "That way, you can be strong, kind, independent little women"
+      ],
+      [
+        1220,
+        "01:08:26.116000",
+        "01:08:28.020000",
+        "Oh, how I've missed my little women."
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Women:)Little\\ Women)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

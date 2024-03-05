@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0067484",
+    "title": "I Hate Mondays",
+    "year": 1971,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 746,
+    "occurrences": [
+      [
+        17,
+        "00:05:44.400000",
+        "00:05:47.890000",
+        "-You just can't imagine Bolek how I hate mondays"
+      ],
+      [
+        30,
+        "00:09:32.400000",
+        "00:09:34.550000",
+        "\"God damn it, I hate mondays!\""
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Hate\\ Mondays:)I\\ Hate\\ Mondays)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0032655",
+    "title": "June Night",
+    "year": 1940,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1097,
+    "occurrences": [
+      [
+        705,
+        "00:58:32.926000",
+        "00:58:38.270000",
+        "is the aura of a Stockholm June night!"
+      ],
+      [
+        815,
+        "01:08:31.712000",
+        "01:08:35.052000",
+        "Such a June night! Music to my ears, girls."
+      ],
+      [
+        1048,
+        "01:25:30.825000",
+        "01:25:34.624000",
+        "It can happen to anybody on a light June night."
+      ]
+    ],
+    "regex": "\\b((?!\\bJune\\ Night:)June\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

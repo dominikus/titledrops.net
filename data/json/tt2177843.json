@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2177843",
+    "title": "We Are Legion: The Story of the Hacktivists",
+    "year": 2012,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1654,
+    "occurrences": [
+      [
+        60,
+        "00:03:36.150000",
+        "00:03:38",
+        "We are legion."
+      ],
+      [
+        714,
+        "00:37:26.750000",
+        "00:37:30",
+        "\"Knowledge is free. We are Anonymous, we are legion."
+      ],
+      [
+        1648,
+        "01:32:20.319000",
+        "01:32:24.050000",
+        "We are Legion The Story of the Hacktivists"
+      ]
+    ],
+    "regex": "\\b((?!\\bWe\\ Are\\ Legion:)We\\ Are\\ Legion|(?!\\bStory\\ of\\ the\\ Hacktivists:)Story\\ of\\ the\\ Hacktivists)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0090982",
+    "title": "The Wall",
+    "year": 1983,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 974,
+    "occurrences": [
+      [
+        87,
+        "00:11:16.527000",
+        "00:11:19.963000",
+        "Searching. Go to the wall."
+      ],
+      [
+        645,
+        "00:57:25.487000",
+        "00:57:28.407000",
+        "We shall pass the wall of the school."
+      ]
+    ],
+    "regex": "\\b((?!\\bWall:)Wall)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

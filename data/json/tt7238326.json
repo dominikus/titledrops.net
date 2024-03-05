@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt7238326",
+    "title": "He Loves Me",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 621,
+    "occurrences": [
+      [
+        2,
+        "00:01:44.797000",
+        "00:01:46.760000",
+        "He loves me"
+      ],
+      [
+        531,
+        "01:00:39.623000",
+        "01:00:42.680000",
+        "He loves me"
+      ]
+    ],
+    "regex": "\\b((?!\\bHe\\ Loves\\ Me:)He\\ Loves\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 74,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

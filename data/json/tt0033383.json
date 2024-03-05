@@ -1,0 +1,52 @@
+[
+  {
+    "imdb": "tt0033383",
+    "title": "Belle Starr",
+    "year": 1941,
+    "genres": [
+      "Western"
+    ],
+    "count": 5,
+    "all_lines": 1245,
+    "occurrences": [
+      [
+        6,
+        "00:02:02.590000",
+        "00:02:05.193000",
+        "to miss Belle Starr herself."
+      ],
+      [
+        1149,
+        "01:18:52.328000",
+        "01:18:53.963000",
+        "who is said to be Belle Starr."
+      ],
+      [
+        1161,
+        "01:19:23.860000",
+        "01:19:25.895000",
+        "She'll tell you whether this is Belle Starr or not."
+      ],
+      [
+        1215,
+        "01:24:57.493000",
+        "01:25:00.429000",
+        "You're still positive that woman is not Belle Starr?"
+      ],
+      [
+        1218,
+        "01:25:03.199000",
+        "01:25:04.800000",
+        "that miss Belle Starr weren't in yonder."
+      ]
+    ],
+    "regex": "\\b((?!\\bBelle\\ Starr:)Belle\\ Starr)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [
+      "Belle Shirley",
+      "Belle Starr"
+    ],
+    "title_is_name": true,
+    "rating": 5.7
+  }
+]

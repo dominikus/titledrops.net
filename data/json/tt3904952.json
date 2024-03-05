@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt3904952",
+    "title": "Spell",
+    "year": 2014,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 687,
+    "occurrences": [
+      [
+        532,
+        "00:58:53.965000",
+        "00:58:55.459000",
+        "He fell for a spell."
+      ],
+      [
+        533,
+        "00:58:55.597000",
+        "00:58:56.971000",
+        "My spell."
+      ],
+      [
+        619,
+        "01:08:10.189000",
+        "01:08:13.985000",
+        "Some women fall under the spell that's gone wrong,"
+      ],
+      [
+        623,
+        "01:08:37.548000",
+        "01:08:39.304000",
+        "Are there anyways to revoke the spell?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpell:)Spell)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

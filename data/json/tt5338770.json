@@ -1,0 +1,53 @@
+[
+  {
+    "imdb": "tt5338770",
+    "title": "Bender",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 750,
+    "occurrences": [
+      [
+        281,
+        "00:27:18.898000",
+        "00:27:21.117000",
+        "Miss Bender!"
+      ],
+      [
+        284,
+        "00:27:23.511000",
+        "00:27:24.860000",
+        "Miss Bender."
+      ],
+      [
+        467,
+        "00:51:46.581000",
+        "00:51:50.063000",
+        "EDWIN : A bender is a force of nature."
+      ],
+      [
+        565,
+        "01:01:30.774000",
+        "01:01:32.123000",
+        "KATE: Bender."
+      ],
+      [
+        566,
+        "01:01:32.253000",
+        "01:01:33.602000",
+        "EDWIN: Bender."
+      ]
+    ],
+    "regex": "\\b((?!\\bBender:)Bender)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [
+      "Old Man Bender"
+    ],
+    "title_is_name": true,
+    "rating": 4.6
+  }
+]

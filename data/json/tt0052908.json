@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0052908",
+    "title": "The House of the Seven Hawks",
+    "year": 1959,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1011,
+    "occurrences": [
+      [
+        688,
+        "01:01:26.984000",
+        "01:01:29.401000",
+        "But of course, The House Of The Seven Hawks."
+      ],
+      [
+        695,
+        "01:01:52.932000",
+        "01:01:57.191000",
+        "And they did die there .. and that's why it's called The House Of The Seven Hawks."
+      ]
+    ],
+    "regex": "\\b((?!\\bHouse\\ of\\ the\\ Seven\\ Hawks:)House\\ of\\ the\\ Seven\\ Hawks)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt0117238",
+    "title": "Omega Doom",
+    "year": 1996,
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 699,
+    "occurrences": [
+      [
+        13,
+        "00:01:44.351000",
+        "00:01:47.149000",
+        "a robot soldier named Omega Doom..."
+      ],
+      [
+        687,
+        "01:15:56.298000",
+        "01:16:01.099000",
+        "You are Omega Doom model 5.5."
+      ]
+    ],
+    "regex": "\\b((?!\\bOmega\\ Doom:)Omega\\ Doom)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [
+      "Omega Doom"
+    ],
+    "title_is_name": true,
+    "rating": 4
+  }
+]

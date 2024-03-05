@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1057576",
+    "title": "Uncharted",
+    "year": 2009,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1005,
+    "occurrences": [
+      [
+        793,
+        "00:56:55.780000",
+        "00:56:59.049000",
+        "I think we might be uncharted."
+      ],
+      [
+        794,
+        "00:56:59.083000",
+        "00:57:01.151000",
+        "Uncharted?"
+      ]
+    ],
+    "regex": "\\b((?!\\bUncharted:)Uncharted)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.1
+  }
+]

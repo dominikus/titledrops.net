@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5580688",
+    "title": "Hoax",
+    "year": 2019,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1381,
+    "occurrences": [
+      [
+        127,
+        "00:08:00.547000",
+        "00:08:03.181000",
+        "- Every hoax that hits the news plays for weeks."
+      ],
+      [
+        931,
+        "00:57:20.070000",
+        "00:57:21.703000",
+        "- You know this isn't a hoax."
+      ]
+    ],
+    "regex": "\\b((?!\\bHoax:)Hoax)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

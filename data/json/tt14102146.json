@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt14102146",
+    "title": "Haunted Trail",
+    "year": 2021,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 948,
+    "occurrences": [
+      [
+        73,
+        "00:07:41.894000",
+        "00:07:43.687000",
+        "It's a haunted trail."
+      ],
+      [
+        108,
+        "00:09:09.687000",
+        "00:09:11.963000",
+        "What do you mean for what? It's a haunted trail."
+      ]
+    ],
+    "regex": "\\b((?!\\bHaunted\\ Trail:)Haunted\\ Trail)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

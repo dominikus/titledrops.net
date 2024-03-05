@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt13479592",
+    "title": "Centaur",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1015,
+    "occurrences": [
+      [
+        958,
+        "01:22:34.958000",
+        "01:22:37.041000",
+        "Centaur One, what's your location?"
+      ],
+      [
+        963,
+        "01:22:51.083000",
+        "01:22:53.333000",
+        "Copy that, Centaur One. On your trail."
+      ]
+    ],
+    "regex": "\\b((?!\\bCentaur:)Centaur)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt0139877",
+    "title": "The Nanny",
+    "year": 1999,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 732,
+    "occurrences": [
+      [
+        113,
+        "00:18:23.400000",
+        "00:18:26.380000",
+        "Don't worry. We'll hire a nanny."
+      ],
+      [
+        130,
+        "00:21:23.600000",
+        "00:21:27.900000",
+        "She's never been a nanny. She won't know what to do."
+      ],
+      [
+        154,
+        "00:23:48.960000",
+        "00:23:50.587000",
+        "The nanny."
+      ],
+      [
+        160,
+        "00:24:47.080000",
+        "00:24:48.752000",
+        "Are you the nanny?"
+      ],
+      [
+        225,
+        "00:35:42.880000",
+        "00:35:45.292000",
+        "He must be with the nanny."
+      ],
+      [
+        371,
+        "00:55:08.200000",
+        "00:55:09.906000",
+        "Where's the nanny?"
+      ],
+      [
+        376,
+        "00:55:21.480000",
+        "00:55:23.027000",
+        "Where's the nanny?"
+      ]
+    ],
+    "regex": "\\b((?!\\bNanny:)Nanny)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

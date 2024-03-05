@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0103838",
+    "title": "The Inner Circle",
+    "year": 1991,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1467,
+    "occurrences": [
+      [
+        702,
+        "00:58:32.737000",
+        "00:58:36.551000",
+        "I had been taken into the \"Inner Circle\"."
+      ],
+      [
+        1255,
+        "01:48:19.376000",
+        "01:48:21.407000",
+        "Five years.. in the Inner Circle!"
+      ],
+      [
+        1258,
+        "01:48:30.496000",
+        "01:48:33.341000",
+        "when even you, in the Inner Circle"
+      ]
+    ],
+    "regex": "\\b((?!\\bInner\\ Circle:)Inner\\ Circle)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

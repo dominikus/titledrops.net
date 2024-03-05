@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2273641",
+    "title": "Christmas Miracle",
+    "year": 2012,
+    "genres": [
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1391,
+    "occurrences": [
+      [
+        1368,
+        "01:28:37.910000",
+        "01:28:40.980000",
+        "The Christmas miracle"
+      ],
+      [
+        1379,
+        "01:29:51.750000",
+        "01:29:55.450000",
+        "The Christmas miracle"
+      ],
+      [
+        1389,
+        "01:30:58.520000",
+        "01:31:01.720000",
+        "A Christmas miracle"
+      ]
+    ],
+    "regex": "\\b((?!\\bChristmas\\ Miracle:)Christmas\\ Miracle)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

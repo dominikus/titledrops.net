@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0277615",
+    "title": "Bug",
+    "year": 2002,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1262,
+    "occurrences": [
+      [
+        4,
+        "00:03:04.494000",
+        "00:03:06.275000",
+        "What if that bug was a provider?"
+      ],
+      [
+        1261,
+        "01:22:21.342000",
+        "01:22:23.342000",
+        "**The kid that called the bug at the beginning of the movie**"
+      ]
+    ],
+    "regex": "\\b((?!\\bBug:)Bug)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [
+      "Gordon - Guy in Bug Suit"
+    ],
+    "title_is_name": true,
+    "rating": 7.1
+  }
+]

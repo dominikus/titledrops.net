@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2028530",
+    "title": "Paradise Lost 3: Purgatory",
+    "year": 2011,
+    "genres": [
+      "Crime",
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1065,
+    "occurrences": [
+      [
+        12,
+        "00:00:53.801000",
+        "00:00:55.901000",
+        "\"PARADISE LOST.\" THEY EXPECT IT TO AIR ON HBO IN ABOUT A YEAR."
+      ],
+      [
+        15,
+        "00:01:00.868000",
+        "00:01:02.834000",
+        "- THE \"PARADISE LOST\" DOCUMENTARIES... - YES."
+      ],
+      [
+        670,
+        "00:34:08.200000",
+        "00:34:09.767000",
+        "THE HBO DOCUMENTARY \"PARADISE LOST\""
+      ],
+      [
+        674,
+        "00:34:17.901000",
+        "00:34:19.267000",
+        "I SAW THE DOCUMENTARY \"PARADISE LOST.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bParadise\\ Lost:)Paradise\\ Lost|(?!\\bPurgatory:)Purgatory)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

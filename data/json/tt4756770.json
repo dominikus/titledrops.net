@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt4756770",
+    "title": "Witchcraft 14: Angel of Death",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 6,
+    "all_lines": 1419,
+    "occurrences": [
+      [
+        62,
+        "00:09:14.833000",
+        "00:09:15.982000",
+        "- Witchcraft."
+      ],
+      [
+        432,
+        "00:28:29.065000",
+        "00:28:31.595000",
+        "some sort of black witchcraft, then?"
+      ],
+      [
+        699,
+        "00:42:17.446000",
+        "00:42:19.767000",
+        "some sort of witchcraft involved."
+      ],
+      [
+        988,
+        "00:56:03.103000",
+        "00:56:06.852000",
+        "Will said that witchcraft was involved in the murders, but..."
+      ],
+      [
+        1201,
+        "01:07:48.267000",
+        "01:07:49.850000",
+        "The Angel of Death."
+      ],
+      [
+        1339,
+        "01:14:09.976000",
+        "01:14:12.553000",
+        "Samael, Angel of Death,"
+      ]
+    ],
+    "regex": "\\b((?!\\bWitchcraft:)Witchcraft|(?!\\bAngel\\ of\\ Death:)Angel\\ of\\ Death)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.9
+  }
+]

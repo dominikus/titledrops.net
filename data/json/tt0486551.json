@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0486551",
+    "title": "Beerfest",
+    "year": 2006,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 7,
+    "all_lines": 709,
+    "occurrences": [
+      [
+        123,
+        "00:13:38",
+        "00:13:41.458000",
+        "Beerfest, innit!"
+      ],
+      [
+        126,
+        "00:13:46.942000",
+        "00:13:48.876000",
+        "Beerfest is our lives."
+      ],
+      [
+        162,
+        "00:16:41.850000",
+        "00:16:45.581000",
+        "You do not speak of Beerfest outside of Beerfest!"
+      ],
+      [
+        163,
+        "00:16:46.055000",
+        "00:16:48.046000",
+        "You do not bring outsiders to Beerfest."
+      ],
+      [
+        189,
+        "00:18:16.111000",
+        "00:18:20.309000",
+        "Typical Americans. This is why we don't allow you in our Beerfest."
+      ],
+      [
+        256,
+        "00:24:12.467000",
+        "00:24:13.900000",
+        "Beerfest it is."
+      ]
+    ],
+    "regex": "\\b((?!\\bBeerfest:)Beerfest)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

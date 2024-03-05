@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt1241226",
+    "title": "Locker 13",
+    "year": 2014,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 1992,
+    "occurrences": [
+      [
+        525,
+        "00:26:05.664000",
+        "00:26:07.234000",
+        "where each member is assigned a locker"
+      ],
+      [
+        536,
+        "00:26:28.119000",
+        "00:26:30.622000",
+        "Well, well, who gets the fancy locker?"
+      ],
+      [
+        1439,
+        "01:08:38.714000",
+        "01:08:43.857000",
+        "And this key belongs to Harvey's locker,"
+      ],
+      [
+        1553,
+        "01:13:50.959000",
+        "01:13:53.166000",
+        "Don't touch my locker, please?"
+      ],
+      [
+        1567,
+        "01:15:55.317000",
+        "01:15:56.625000",
+        "\"Don't touch my locker.\""
+      ],
+      [
+        1568,
+        "01:15:57.252000",
+        "01:15:58.959000",
+        "\"Don't even look in my locker.\""
+      ],
+      [
+        1569,
+        "01:15:59.721000",
+        "01:16:01.325000",
+        "Can I spit in your locker, Archie?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLocker:)Locker)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

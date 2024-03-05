@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0466561",
+    "title": "The Border Post",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1016,
+    "occurrences": [
+      [
+        8,
+        "00:01:33.080000",
+        "00:01:37.790000",
+        "BORDER POST"
+      ],
+      [
+        157,
+        "00:13:17.920000",
+        "00:13:21.470000",
+        "For as long as this continues no one leaves the border post."
+      ],
+      [
+        233,
+        "00:18:40.960000",
+        "00:18:42.917000",
+        "and no one may leave the border post."
+      ],
+      [
+        665,
+        "00:52:35.280000",
+        "00:52:39.877000",
+        "but our Border Post must repel the first attack."
+      ],
+      [
+        985,
+        "01:21:49.160000",
+        "01:21:50.702000",
+        "they saw this mess at our border post."
+      ]
+    ],
+    "regex": "\\b((?!\\bBorder\\ Post:)Border\\ Post)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

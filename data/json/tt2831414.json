@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt2831414",
+    "title": "Everything Is Copy",
+    "year": 2015,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 6,
+    "all_lines": 1881,
+    "occurrences": [
+      [
+        11,
+        "00:01:15.917000",
+        "00:01:19.166000",
+        "which was, \"Everything is copy.\""
+      ],
+      [
+        18,
+        "00:01:32.500000",
+        "00:01:34.625000",
+        "and my mother would say, \"Everything is copy.\""
+      ],
+      [
+        27,
+        "00:02:04.166000",
+        "00:02:06.542000",
+        "everything is copy."
+      ],
+      [
+        40,
+        "00:02:50.250000",
+        "00:02:53.291000",
+        "What is the cost of \"everything is copy\"?"
+      ],
+      [
+        622,
+        "00:30:36.542000",
+        "00:30:38.500000",
+        "of \"everything is copy.\""
+      ],
+      [
+        1778,
+        "01:23:57",
+        "01:23:58.792000",
+        "She saw \"everything is copy\""
+      ]
+    ],
+    "regex": "\\b((?!\\bEverything\\ Is\\ Copy:)Everything\\ Is\\ Copy)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

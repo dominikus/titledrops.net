@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0059037",
+    "title": "The Cincinnati Kid",
+    "year": 1965,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1121,
+    "occurrences": [
+      [
+        247,
+        "00:21:11.374000",
+        "00:21:13.545000",
+        "This Cincinnati Kid, he wants a game, huh?"
+      ],
+      [
+        270,
+        "00:22:41.611000",
+        "00:22:44.658000",
+        "It's that three-river gambling man, the Cincinnati Kid..."
+      ],
+      [
+        628,
+        "00:56:30.244000",
+        "00:56:32.999000",
+        "- What other reason could there be? - The Cincinnati Kid."
+      ],
+      [
+        641,
+        "00:57:28.384000",
+        "00:57:30.513000",
+        "...this is Eric Stoner, the Cincinnati Kid."
+      ]
+    ],
+    "regex": "\\b((?!\\bCincinnati\\ Kid:)Cincinnati\\ Kid)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [
+      "The Cincinnati Kid"
+    ],
+    "title_is_name": true,
+    "rating": 7.2
+  }
+]

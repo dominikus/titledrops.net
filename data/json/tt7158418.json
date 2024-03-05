@@ -1,0 +1,25 @@
+[
+  {
+    "imdb": "tt7158418",
+    "title": "Cat Nation: A Film About Japan's Crazy Cat Culture",
+    "year": 2017,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 1,
+    "all_lines": 1013,
+    "occurrences": [
+      [
+        38,
+        "00:01:49.263000",
+        "00:01:50.935000",
+        "a cat nation"
+      ]
+    ],
+    "regex": "\\b((?!\\bCat\\ Nation:)Cat\\ Nation|(?!\\bFilm\\ About\\ Japan's\\ Crazy\\ Cat\\ Culture:)Film\\ About\\ Japan's\\ Crazy\\ Cat\\ Culture)(?!\\:)(?!'t)\\b",
+    "runtime": 52,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

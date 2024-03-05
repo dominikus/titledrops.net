@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0092722",
+    "title": "Sweets from a Stranger",
+    "year": 1987,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 659,
+    "occurrences": [
+      [
+        0,
+        "00:00:22.497000",
+        "00:00:25.576000",
+        "'Sweets From a Stranger'"
+      ],
+      [
+        213,
+        "00:27:10.154000",
+        "00:27:14.351000",
+        "If we were children then we could refuse sweets from a stranger..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSweets\\ from\\ a\\ Stranger:)Sweets\\ from\\ a\\ Stranger)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

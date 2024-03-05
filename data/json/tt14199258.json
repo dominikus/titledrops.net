@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt14199258",
+    "title": "Peace",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 2905,
+    "occurrences": [
+      [
+        2368,
+        "01:39:26.130000",
+        "01:39:26.980000",
+        "Peace be unto you."
+      ],
+      [
+        2369,
+        "01:39:27.010000",
+        "01:39:27.910000",
+        "And unto you be peace."
+      ],
+      [
+        2661,
+        "01:51:08.390000",
+        "01:51:09.140000",
+        "peace of mind we have."
+      ]
+    ],
+    "regex": "\\b((?!\\bPeace:)Peace)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

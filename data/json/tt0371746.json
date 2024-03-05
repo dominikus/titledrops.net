@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0371746",
+    "title": "Iron Man",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 6,
+    "all_lines": 1308,
+    "occurrences": [
+      [
+        1238,
+        "01:53:44.380000",
+        "01:53:46.684000",
+        "\"Iron Man\", that's kinda catchy. It's got a nice ring to it"
+      ],
+      [
+        1262,
+        "01:54:59.518000",
+        "01:55:02.431000",
+        "...not that bad... even I don't think I'm Iron Man"
+      ],
+      [
+        1263,
+        "01:55:02.562000",
+        "01:55:04.432000",
+        "- You're not Iron Man. - Yeah I am"
+      ],
+      [
+        1265,
+        "01:55:06.736000",
+        "01:55:09.127000",
+        "If I were Iron Man, I'd have this girlfriend"
+      ],
+      [
+        1300,
+        "01:57:10.314000",
+        "01:57:12.749000",
+        "I am Iron Man"
+      ],
+      [
+        1302,
+        "02:05:21.539000",
+        "02:05:23.375000",
+        "I am Iron Man"
+      ]
+    ],
+    "regex": "\\b((?!\\bIron\\ Man:)Iron\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

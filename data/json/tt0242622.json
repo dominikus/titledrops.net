@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0242622",
+    "title": "Lunch Hour",
+    "year": 1963,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1017,
+    "occurrences": [
+      [
+        353,
+        "00:25:54.094000",
+        "00:25:56.517000",
+        "would you go in your lunch hour?"
+      ],
+      [
+        399,
+        "00:31:10.869000",
+        "00:31:12.412000",
+        "...come here just for the lunch hour?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLunch\\ Hour:)Lunch\\ Hour)(?!\\:)(?!'t)\\b",
+    "runtime": 64,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt0077651",
+    "title": "Halloween",
+    "year": 1978,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 848,
+    "occurrences": [
+      [
+        5,
+        "00:02:20.720000",
+        "00:02:23.439000",
+        "Black cats and goblins on Halloween night."
+      ],
+      [
+        134,
+        "00:17:02.240000",
+        "00:17:04.197000",
+        "Don't you know what happens on Halloween?"
+      ],
+      [
+        239,
+        "00:25:18.440000",
+        "00:25:19.589000",
+        "You know, it's Halloween."
+      ],
+      [
+        290,
+        "00:30:40.080000",
+        "00:30:41.718000",
+        "They'll do anything for Halloween."
+      ],
+      [
+        326,
+        "00:32:27.360000",
+        "00:32:30.239000",
+        "Well, all they took was some Halloween masks, a rope,"
+      ],
+      [
+        497,
+        "00:44:59.480000",
+        "00:45:00.480000",
+        "Tommy, Halloween night,"
+      ],
+      [
+        507,
+        "00:45:20.160000",
+        "00:45:22.913000",
+        "All right. The boogeyman can only come out on Halloween night, right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHalloween:)Halloween)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

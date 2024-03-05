@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt11675788",
+    "title": "Three Day Millionaire",
+    "year": 2022,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1746,
+    "occurrences": [
+      [
+        140,
+        "00:06:24.200000",
+        "00:06:26.728000",
+        "- To the humble three day millionaire,"
+      ],
+      [
+        279,
+        "00:12:51.019000",
+        "00:12:53.590000",
+        "Now, first rule of the three day millionaire."
+      ]
+    ],
+    "regex": "\\b((?!\\bThree\\ Day\\ Millionaire:)Three\\ Day\\ Millionaire)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

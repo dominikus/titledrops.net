@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0091164",
+    "title": "Half Moon Street",
+    "year": 1986,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1145,
+    "occurrences": [
+      [
+        757,
+        "00:48:49.462000",
+        "00:48:51.987000",
+        "Dr. Slaughter lives in Half Moon Street."
+      ],
+      [
+        801,
+        "00:50:40.473000",
+        "00:50:43.203000",
+        "It would be so much easier in Half Moon Street."
+      ],
+      [
+        914,
+        "00:59:13.912000",
+        "00:59:17.075000",
+        "-You mean, Half Moon Street? -Where else?"
+      ],
+      [
+        1018,
+        "01:07:12.424000",
+        "01:07:14.858000",
+        "OK. Half Moon Street."
+      ]
+    ],
+    "regex": "\\b((?!\\bHalf\\ Moon\\ Street:)Half\\ Moon\\ Street)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

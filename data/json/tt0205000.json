@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0205000",
+    "title": "Deuce Bigalow: Male Gigolo",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1117,
+    "occurrences": [
+      [
+        395,
+        "00:33:41.127000",
+        "00:33:43.641000",
+        "I'm Deuce Bigalow, her date."
+      ],
+      [
+        416,
+        "00:35:16.367000",
+        "00:35:19.006000",
+        "Deuce Bigalow? Detective Fowler, LAPD."
+      ],
+      [
+        570,
+        "00:44:50.727000",
+        "00:44:54.037000",
+        "Hi, I'm Deuce Bigalow, your man-whore for this evening."
+      ]
+    ],
+    "regex": "\\b((?!\\bDeuce\\ Bigalow:)Deuce\\ Bigalow|(?!\\bMale\\ Gigolo:)Male\\ Gigolo)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

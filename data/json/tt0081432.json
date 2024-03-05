@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0081432",
+    "title": "Black Candles",
+    "year": 1982,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 795,
+    "occurrences": [
+      [
+        70,
+        "00:06:20.255000",
+        "00:06:22.591000",
+        "And why do you have all these black candles?"
+      ],
+      [
+        130,
+        "00:08:56.161000",
+        "00:08:58.038000",
+        "And what about the black candles?"
+      ],
+      [
+        134,
+        "00:09:05.628000",
+        "00:09:07.672000",
+        "In their gatherings, they always use black candles."
+      ],
+      [
+        145,
+        "00:09:38.369000",
+        "00:09:40.705000",
+        "You mean those reproductions and the black candles?"
+      ],
+      [
+        439,
+        "00:40:37.268000",
+        "00:40:38.548000",
+        "The black candles, my dizziness,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Candles:)Black\\ Candles)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

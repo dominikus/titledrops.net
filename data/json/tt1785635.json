@@ -1,0 +1,75 @@
+[
+  {
+    "imdb": "tt1785635",
+    "title": "The Vault",
+    "year": 2017,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 9,
+    "all_lines": 1150,
+    "occurrences": [
+      [
+        230,
+        "00:15:59.025000",
+        "00:16:00.959000",
+        "Safety deposit vault. Let's go."
+      ],
+      [
+        415,
+        "00:24:30.470000",
+        "00:24:33.137000",
+        "That's where-- that's where the real money is in the old vault."
+      ],
+      [
+        417,
+        "00:24:34.740000",
+        "00:24:36.774000",
+        "It's a private vault. It's part of the old bank."
+      ],
+      [
+        426,
+        "00:24:48.788000",
+        "00:24:52.089000",
+        "Depends on the vault. How old?"
+      ],
+      [
+        731,
+        "00:54:02.506000",
+        "00:54:10.579000",
+        "The vault. We're not alone."
+      ],
+      [
+        756,
+        "00:55:49.647000",
+        "00:55:59.722000",
+        "Some had been burned alive in the vault. They all died."
+      ],
+      [
+        1066,
+        "01:21:20.643000",
+        "01:21:23.043000",
+        "And I saw the vault, and I saw that it"
+      ],
+      [
+        1085,
+        "01:23:47.423000",
+        "01:23:50.324000",
+        "You know this bank inside and out, vault's customers"
+      ],
+      [
+        1108,
+        "01:24:44.580000",
+        "01:24:46.747000",
+        "The vault. And the alarm."
+      ]
+    ],
+    "regex": "\\b((?!\\bVault:)Vault)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

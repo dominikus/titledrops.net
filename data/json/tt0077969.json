@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0077969",
+    "title": "The Stud Farm",
+    "year": 1978,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1170,
+    "occurrences": [
+      [
+        266,
+        "00:26:11.880000",
+        "00:26:13.450000",
+        "to another stud farm."
+      ],
+      [
+        314,
+        "00:29:37.600000",
+        "00:29:40.843000",
+        "Old Mate took him away from me. There is a stud farm there."
+      ],
+      [
+        449,
+        "00:41:42.840000",
+        "00:41:45.366000",
+        "but this stud farm could be a place where..."
+      ],
+      [
+        508,
+        "00:49:28.040000",
+        "00:49:30.088000",
+        "I want to leave the stud farm."
+      ],
+      [
+        536,
+        "00:52:12",
+        "00:52:15.766000",
+        "The stud farm is good business, isn't it'?"
+      ]
+    ],
+    "regex": "\\b((?!\\bStud\\ Farm:)Stud\\ Farm)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

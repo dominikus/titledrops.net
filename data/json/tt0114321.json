@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0114321",
+    "title": "Sacred Cargo",
+    "year": 1995,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1685,
+    "occurrences": [
+      [
+        298,
+        "00:18:13.642000",
+        "00:18:17.539000",
+        "- Father Andrew, we call it our sacred cargo."
+      ],
+      [
+        562,
+        "00:34:05.927000",
+        "00:34:10.520000",
+        "- To bring the sacred cargo out of the country."
+      ]
+    ],
+    "regex": "\\b((?!\\bSacred\\ Cargo:)Sacred\\ Cargo)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0847880",
+    "title": "Cargo 200",
+    "year": 2007,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 668,
+    "occurrences": [
+      [
+        74,
+        "00:04:38.146000",
+        "00:04:39.947000",
+        "Cargo 200 they call them."
+      ],
+      [
+        412,
+        "00:50:21.871000",
+        "00:50:25.271000",
+        "Therere some problems again. Cargo 200 is arriving."
+      ],
+      [
+        415,
+        "00:50:35.471000",
+        "00:50:36.915000",
+        "When is this cargo arriving?"
+      ],
+      [
+        443,
+        "00:52:19.315000",
+        "00:52:21.076000",
+        "Listen, will you take the cargo 200 the day after tomorrow?"
+      ],
+      [
+        532,
+        "01:01:01.900000",
+        "01:01:04.500000",
+        "Whens the cargo? The day after tomorrow."
+      ]
+    ],
+    "regex": "\\b((?!\\bCargo:)Cargo)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

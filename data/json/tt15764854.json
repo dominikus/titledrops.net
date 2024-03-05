@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt15764854",
+    "title": "Fireworks",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1531,
+    "occurrences": [
+      [
+        371,
+        "00:26:38.548000",
+        "00:26:41.131000",
+        "We shoot fireworks, everyone knows us."
+      ],
+      [
+        1199,
+        "01:34:51.769000",
+        "01:34:53.815000",
+        "- But what do you know about fireworks?"
+      ],
+      [
+        1241,
+        "01:37:02.848000",
+        "01:37:05.606000",
+        "the whole village was open-mouthed when they shot the fireworks."
+      ]
+    ],
+    "regex": "\\b((?!\\bFireworks:)Fireworks)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0109306",
+    "title": "Blue Sky",
+    "year": 1994,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1134,
+    "occurrences": [
+      [
+        533,
+        "00:45:42.583000",
+        "00:45:45.185000",
+        "Maybe project blue sky will prevent the next one."
+      ],
+      [
+        534,
+        "00:45:45.252000",
+        "00:45:47.220000",
+        "Do you know why they call it blue sky?"
+      ],
+      [
+        751,
+        "01:05:52.339000",
+        "01:05:54.440000",
+        "It's not personal. It has to do with blue sky."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Sky:)Blue\\ Sky)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

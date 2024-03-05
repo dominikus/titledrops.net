@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt3806576",
+    "title": "Red Rain",
+    "year": 2013,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1004,
+    "occurrences": [
+      [
+        544,
+        "00:51:24.800000",
+        "00:51:27.680000",
+        "Sir, is this in some way related to the red rain"
+      ],
+      [
+        745,
+        "01:09:19.160000",
+        "01:09:22.240000",
+        "The phenomenon of red rain in 2001"
+      ],
+      [
+        759,
+        "01:09:58.720000",
+        "01:10:02.400000",
+        "The bacteria may have settled here through the red rain"
+      ]
+    ],
+    "regex": "\\b((?!\\bRed\\ Rain:)Red\\ Rain)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

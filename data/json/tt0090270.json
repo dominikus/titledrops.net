@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0090270",
+    "title": "Vision Quest",
+    "year": 1985,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sport"
+    ],
+    "count": 3,
+    "all_lines": 1786,
+    "occurrences": [
+      [
+        316,
+        "00:16:28.863000",
+        "00:16:30.155000",
+        "You're on a vision quest, man."
+      ],
+      [
+        1628,
+        "01:31:14.177000",
+        "01:31:15.469000",
+        "Vision quest, man."
+      ],
+      [
+        1762,
+        "01:43:49.557000",
+        "01:43:51.350000",
+        "It was a vision quest."
+      ]
+    ],
+    "regex": "\\b((?!\\bVision\\ Quest:)Vision\\ Quest)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

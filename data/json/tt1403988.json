@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1403988",
+    "title": "The Romantics",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1116,
+    "occurrences": [
+      [
+        262,
+        "00:21:58.883000",
+        "00:22:02.319000",
+        "Our friends got the nickname, \"The Romantics.\""
+      ],
+      [
+        726,
+        "00:52:47.630000",
+        "00:52:49.393000",
+        "The Romantics weren't writing about love,"
+      ]
+    ],
+    "regex": "\\b((?!\\bRomantics:)Romantics)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0892255",
+    "title": "Che: Part One",
+    "year": 2008,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 7,
+    "all_lines": 645,
+    "occurrences": [
+      [
+        68,
+        "00:09:16.640000",
+        "00:09:19.234000",
+        "Get out of Cuba, Che! Murderer!"
+      ],
+      [
+        107,
+        "00:14:13.360000",
+        "00:14:14.873000",
+        "- How are you, Che? - Hello, Celia."
+      ],
+      [
+        196,
+        "00:21:47.240000",
+        "00:21:49.595000",
+        "Che, we have to leave right now."
+      ],
+      [
+        337,
+        "00:34:34.360000",
+        "00:34:35.918000",
+        "It's ready, Che."
+      ],
+      [
+        400,
+        "00:42:18.440000",
+        "00:42:19.668000",
+        "Look, Che."
+      ],
+      [
+        494,
+        "00:49:04.320000",
+        "00:49:06.709000",
+        "Che, they're shooting mortars!"
+      ],
+      [
+        633,
+        "00:59:18.520000",
+        "00:59:21.432000",
+        "Excuse me, Che. He says he needs to talk to you."
+      ]
+    ],
+    "regex": "\\b((?!\\bChe:)Che|(?!\\bPart\\ One:)Part\\ One)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0098993",
+    "title": "Time Off",
+    "year": 1990,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 409,
+    "occurrences": [
+      [
+        245,
+        "00:20:48.741000",
+        "00:20:51.938000",
+        "Hi, Mom. I have time off in Jerusalem."
+      ],
+      [
+        254,
+        "00:21:26.141000",
+        "00:21:28.257000",
+        "For me, time off isn't time off without cream cakes."
+      ]
+    ],
+    "regex": "\\b((?!\\bTime\\ Off:)Time\\ Off)(?!\\:)(?!'t)\\b",
+    "runtime": 45,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

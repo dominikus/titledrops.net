@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0095124",
+    "title": "The Truth",
+    "year": 1988,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1541,
+    "occurrences": [
+      [
+        1003,
+        "01:19:24.499000",
+        "01:19:25.665000",
+        "We only want you to tell the truth"
+      ],
+      [
+        1004,
+        "01:19:25.666000",
+        "01:19:27.832000",
+        "We only want you to tell the truth"
+      ],
+      [
+        1365,
+        "01:39:31.499000",
+        "01:39:34.707000",
+        "What I say is the whole truth and nothing but the truth"
+      ],
+      [
+        1541,
+        "01:54:41.541000",
+        "01:54:43.999000",
+        "I'm sorry, I didn't know the truth"
+      ]
+    ],
+    "regex": "\\b((?!\\bTruth:)Truth)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0113077",
+    "title": "Flamenco",
+    "year": 1995,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 326,
+    "occurrences": [
+      [
+        0,
+        "00:02:42.360000",
+        "00:02:47.229000",
+        "Flamenco surfaced in Andalucia in the middle of the 19th century."
+      ],
+      [
+        5,
+        "00:03:08.960000",
+        "00:03:13.909000",
+        "all blended to create the musical structure we now call Flamenco."
+      ]
+    ],
+    "regex": "\\b((?!\\bFlamenco:)Flamenco)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

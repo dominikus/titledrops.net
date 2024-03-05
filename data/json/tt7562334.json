@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt7562334",
+    "title": "Lady Driver",
+    "year": 2020,
+    "genres": [
+      "Sport"
+    ],
+    "count": 3,
+    "all_lines": 2005,
+    "occurrences": [
+      [
+        1209,
+        "01:00:08.397000",
+        "01:00:09.314000",
+        "- Hey lady driver."
+      ],
+      [
+        1225,
+        "01:00:41.763000",
+        "01:00:44.099000",
+        "- Well you keep plugging away, lady driver."
+      ],
+      [
+        1754,
+        "01:28:02.152000",
+        "01:28:05.072000",
+        "- Lady driver wants to run with the big boys now, huh?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLady\\ Driver:)Lady\\ Driver)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

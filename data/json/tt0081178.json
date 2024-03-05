@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt0081178",
+    "title": "The Monster Club",
+    "year": 1981,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Musical"
+    ],
+    "count": 3,
+    "all_lines": 315,
+    "occurrences": [
+      [
+        22,
+        "00:04:24.160000",
+        "00:04:30.900000",
+        "distance it's called the monster club"
+      ],
+      [
+        292,
+        "01:29:37.820000",
+        "01:29:42.860000",
+        "call this a monster club if we do not boast amongst our membership a single"
+      ],
+      [
+        314,
+        "01:36:19.840000",
+        "01:36:23.190000",
+        "down at the monster club"
+      ]
+    ],
+    "regex": "\\b((?!\\bMonster\\ Club:)Monster\\ Club)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [
+      "\"['Eramus (Segment \"\"The Monster Club\"\")', 'R. Chetwynd-Hayes (Segment \"\"The Monster Club\"\")', 'Lintom Busotsky (Segment \"\"The Monster Club\"\")', 'Club Secretary (Segment \"\"The Monster Club\"\")']\""
+    ],
+    "title_is_name": true,
+    "rating": 5.9
+  }
+]

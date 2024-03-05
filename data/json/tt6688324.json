@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt6688324",
+    "title": "Benjamin the Elephant",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1928,
+    "occurrences": [
+      [
+        15,
+        "00:01:27.870000",
+        "00:01:31.265000",
+        "Benjamin the elephant"
+      ],
+      [
+        1925,
+        "01:32:53.698000",
+        "01:32:57.615000",
+        "Benjamin the Elephant"
+      ]
+    ],
+    "regex": "\\b((?!\\bBenjamin\\ the\\ Elephant:)Benjamin\\ the\\ Elephant)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

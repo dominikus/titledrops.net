@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt2381355",
+    "title": "The Rambler",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 963,
+    "occurrences": [
+      [
+        184,
+        "00:17:38.391000",
+        "00:17:40.058000",
+        "Rambler's voice: \"Dearest brother,"
+      ],
+      [
+        724,
+        "01:10:21.801000",
+        "01:10:26.263000",
+        "- ( woman squealing ) - ( Rambler screams )"
+      ],
+      [
+        731,
+        "01:10:51.539000",
+        "01:10:54.458000",
+        "( Rambler shouting, gagging )"
+      ],
+      [
+        799,
+        "01:21:56.912000",
+        "01:21:59.330000",
+        "Rambler's voice: \"Dearest brother,"
+      ]
+    ],
+    "regex": "\\b((?!\\bRambler:)Rambler)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [
+      "The Rambler"
+    ],
+    "title_is_name": true,
+    "rating": 4.8
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0058672",
+    "title": "Topkapi",
+    "year": 1964,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 917,
+    "occurrences": [
+      [
+        1,
+        "00:00:43.487000",
+        "00:00:50.034000",
+        "For the Topkapi emerald, oh, hallelujah"
+      ],
+      [
+        25,
+        "00:03:21.144000",
+        "00:03:27.316000",
+        "The entire seraglio is now a museum... the fabulous Topkapi Museum."
+      ],
+      [
+        567,
+        "00:50:36.805000",
+        "00:50:40.016000",
+        "The Topkapi treasury is also famous for..."
+      ]
+    ],
+    "regex": "\\b((?!\\bTopkapi:)Topkapi)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

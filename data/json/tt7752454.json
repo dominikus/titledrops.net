@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt7752454",
+    "title": "Detective Chinatown 2",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 2220,
+    "occurrences": [
+      [
+        274,
+        "00:11:59.875000",
+        "00:12:00.874000",
+        "our \"Detective Chinatown\" limelight!"
+      ],
+      [
+        292,
+        "00:12:36.041000",
+        "00:12:38.749000",
+        "They call themselves Detective Chinatown."
+      ],
+      [
+        1083,
+        "00:51:10.458000",
+        "00:51:11.707000",
+        "They don't call me Detective Chinatown"
+      ],
+      [
+        2218,
+        "01:57:38.291000",
+        "01:57:40.665000",
+        "\"'Crimaster' No.2 Detective Chinatown(Tang Ren, Chin Fong)\""
+      ]
+    ],
+    "regex": "\\b((?!\\bDetective\\ Chinatown:)Detective\\ Chinatown)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

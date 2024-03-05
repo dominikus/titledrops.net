@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0057413",
+    "title": "The Pink Panther",
+    "year": 1963,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 567,
+    "occurrences": [
+      [
+        6,
+        "00:00:48.539000",
+        "00:00:50.905000",
+        "Yes. A pink panther."
+      ],
+      [
+        114,
+        "00:18:56.125000",
+        "00:18:58.991000",
+        "- Your company insures the Pink Panther. - Yes, for half a million."
+      ],
+      [
+        116,
+        "00:19:00.864000",
+        "00:19:03.057000",
+        "The Phantom could not resist such a prize as the Pink Panther."
+      ]
+    ],
+    "regex": "\\b((?!\\bPink\\ Panther:)Pink\\ Panther)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

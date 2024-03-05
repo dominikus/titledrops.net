@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt9100028",
+    "title": "The Little Switzerland",
+    "year": 2019,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1460,
+    "occurrences": [
+      [
+        764,
+        "00:39:56.333000",
+        "00:40:01.541000",
+        "Come with me in this incredible journey through the little Switzerland."
+      ],
+      [
+        765,
+        "00:40:03.166000",
+        "00:40:06.708000",
+        "I live in the little Switzerland"
+      ],
+      [
+        775,
+        "00:41:20.500000",
+        "00:41:23.708000",
+        "It may be a little Switzerland,"
+      ],
+      [
+        1365,
+        "01:19:01.583000",
+        "01:19:03.125000",
+        "In the little Switzerland."
+      ],
+      [
+        1410,
+        "01:21:26.041000",
+        "01:21:30.250000",
+        "Telleria was, is, and will always be, the little Switzerland."
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Switzerland:)Little\\ Switzerland)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

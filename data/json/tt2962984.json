@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2962984",
+    "title": "Girlfriend's Day",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1147,
+    "occurrences": [
+      [
+        364,
+        "00:20:45.911000",
+        "00:20:47.913000",
+        "Girlfriend's Day,"
+      ],
+      [
+        699,
+        "00:39:02.549000",
+        "00:39:04.551000",
+        "Girlfriend's Day."
+      ]
+    ],
+    "regex": "\\b((?!\\bGirlfriend's\\ Day:)Girlfriend's\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 66,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

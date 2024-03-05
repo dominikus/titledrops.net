@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt8380776",
+    "title": "Grand Isle",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1108,
+    "occurrences": [
+      [
+        415,
+        "00:32:59.847000",
+        "00:33:03.111000",
+        "Stay tuned to Grand Isle News for updates on all local news."
+      ],
+      [
+        850,
+        "01:14:07.834000",
+        "01:14:11.708000",
+        "You're in Grand Isle, son."
+      ],
+      [
+        996,
+        "01:25:37.393000",
+        "01:25:39.308000",
+        "It's been two weeks since Grand Isle suffered"
+      ]
+    ],
+    "regex": "\\b((?!\\bGrand\\ Isle:)Grand\\ Isle)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

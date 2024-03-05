@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0096918",
+    "title": "Beverly Hills Brats",
+    "year": 1989,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1863,
+    "occurrences": [
+      [
+        19,
+        "00:01:16.933000",
+        "00:01:19.020000",
+        "- \"Beverly Hills Brats.\""
+      ],
+      [
+        1608,
+        "01:09:01.830000",
+        "01:09:04.260000",
+        "- Well, you Beverly Hills brats mortify me."
+      ]
+    ],
+    "regex": "\\b((?!\\bBeverly\\ Hills\\ Brats:)Beverly\\ Hills\\ Brats)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

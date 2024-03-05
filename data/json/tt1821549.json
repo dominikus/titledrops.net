@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1821549",
+    "title": "Nebraska",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1191,
+    "occurrences": [
+      [
+        14,
+        "00:03:37.547000",
+        "00:03:44.316000",
+        "So you told the sheriff you walked to Nebraska."
+      ],
+      [
+        131,
+        "00:13:10.353000",
+        "00:13:13.015000",
+        "I can not just drop everything and take to Lincoln, Nebraska."
+      ]
+    ],
+    "regex": "\\b((?!\\bNebraska:)Nebraska)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

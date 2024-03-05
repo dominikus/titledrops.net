@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2064713",
+    "title": "A Band Called Death",
+    "year": 2012,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1267,
+    "occurrences": [
+      [
+        886,
+        "01:01:44.660000",
+        "01:01:48.205000",
+        "\"Like, Dad and Uncle Dannie and Uncle Dave were in this band called Death.\""
+      ],
+      [
+        1036,
+        "01:12:00.817000",
+        "01:12:05.322000",
+        "So a few songs that you just heard, they're by a band called Death."
+      ]
+    ],
+    "regex": "\\b((?!\\bBand\\ Called\\ Death:)Band\\ Called\\ Death)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

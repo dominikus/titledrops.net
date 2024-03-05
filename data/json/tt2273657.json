@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2273657",
+    "title": "True Story",
+    "year": 2015,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1574,
+    "occurrences": [
+      [
+        770,
+        "00:44:31.969000",
+        "00:44:31.968000",
+        "\"True Story,\" I think."
+      ],
+      [
+        771,
+        "00:44:31.970000",
+        "00:44:34.971000",
+        "True Story, right. And when do you think"
+      ]
+    ],
+    "regex": "\\b((?!\\bTrue\\ Story:)True\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

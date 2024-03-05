@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt9174388",
+    "title": "The Wrath",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 561,
+    "occurrences": [
+      [
+        7,
+        "00:03:27.958000",
+        "00:03:33.954000",
+        "\"The wrath\""
+      ],
+      [
+        561,
+        "01:31:57.833000",
+        "01:32:03.328000",
+        "\"the wrath\""
+      ]
+    ],
+    "regex": "\\b((?!\\bWrath:)Wrath)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

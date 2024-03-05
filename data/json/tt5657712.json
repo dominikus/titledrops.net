@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt5657712",
+    "title": "I'm Not Here",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 660,
+    "occurrences": [
+      [
+        21,
+        "00:05:03.018000",
+        "00:05:06.620000",
+        "-  I'm not here. -"
+      ],
+      [
+        93,
+        "00:13:13.675000",
+        "00:13:14.974000",
+        " I'm not here."
+      ],
+      [
+        393,
+        "00:41:43.249000",
+        "00:41:44.982000",
+        " I'm not here."
+      ]
+    ],
+    "regex": "\\b((?!\\bI'm\\ Not\\ Here:)I'm\\ Not\\ Here)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0880648",
+    "title": "Shuttle",
+    "year": 2008,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 825,
+    "occurrences": [
+      [
+        86,
+        "00:07:29.600000",
+        "00:07:31.600000",
+        "Let's take the shuttle."
+      ],
+      [
+        199,
+        "00:14:21.300000",
+        "00:14:22.600000",
+        "Well, we wait for another shuttle."
+      ],
+      [
+        610,
+        "00:57:49.300000",
+        "00:57:52",
+        "We got on the wrong shuttle."
+      ],
+      [
+        750,
+        "01:23:48",
+        "01:23:51.500000",
+        "Four people have died since we got on that shuttle. I don't think..."
+      ],
+      [
+        762,
+        "01:24:24",
+        "01:24:26.200000",
+        "Everyone who's on that shuttle is either dead or bloodied,"
+      ],
+      [
+        770,
+        "01:24:51.800000",
+        "01:24:54.200000",
+        "That's why he didn't want anybody else in the shuttle."
+      ]
+    ],
+    "regex": "\\b((?!\\bShuttle:)Shuttle)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

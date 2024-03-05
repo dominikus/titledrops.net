@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt10214842",
+    "title": "Billion",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1229,
+    "occurrences": [
+      [
+        58,
+        "00:05:25",
+        "00:05:27.159000",
+        "Half a billion credit, well! Why so, well ?!"
+      ],
+      [
+        268,
+        "00:21:22",
+        "00:21:24.656000",
+        "- Actually, not for the sake of inheritance, but ... \"A billion will be yours.\""
+      ],
+      [
+        277,
+        "00:21:44.120000",
+        "00:21:46.576000",
+        "Do you have a billion right?"
+      ],
+      [
+        943,
+        "01:13:17.240000",
+        "01:13:18.839000",
+        "Not for the sake of a billion, but like that just."
+      ],
+      [
+        1221,
+        "01:31:51.240000",
+        "01:31:53.879000",
+        "but a billion agreement still valid."
+      ]
+    ],
+    "regex": "\\b((?!\\bBillion:)Billion)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

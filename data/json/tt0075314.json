@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0075314",
+    "title": "Taxi Driver",
+    "year": 1976,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1261,
+    "occurrences": [
+      [
+        135,
+        "00:12:37.257000",
+        "00:12:39.544000",
+        "That taxi driver's been staring at us."
+      ],
+      [
+        136,
+        "00:12:49.060000",
+        "00:12:50.095000",
+        "What taxi driver?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTaxi\\ Driver:)Taxi\\ Driver)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.2
+  }
+]

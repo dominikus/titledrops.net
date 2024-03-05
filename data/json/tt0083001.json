@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0083001",
+    "title": "Roar",
+    "year": 1981,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 506,
+    "occurrences": [
+      [
+        51,
+        "00:09:21.285000",
+        "00:09:26.277000",
+        "- Or you run at them, roar - O god... no look"
+      ],
+      [
+        156,
+        "00:20:38.360000",
+        "00:20:44.313000",
+        "Whoa, why didn't you go with ... (roar) Why didn't you go with your friends?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRoar:)Roar)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

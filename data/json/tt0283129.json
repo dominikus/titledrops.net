@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0283129",
+    "title": "Hot Snake",
+    "year": 1978,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 286,
+    "occurrences": [
+      [
+        19,
+        "00:06:59.790000",
+        "00:07:00.666000",
+        "Hot Snake."
+      ],
+      [
+        36,
+        "00:09:01.620000",
+        "00:09:07.293000",
+        "If Jenkins comes into the Hot Snake county, he won't make it out alive."
+      ],
+      [
+        59,
+        "00:11:54.335000",
+        "00:11:55.586000",
+        "Was it here in Hot Snake?"
+      ],
+      [
+        120,
+        "00:23:08.133000",
+        "00:23:09.634000",
+        "What are you doing in Hot Snake?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHot\\ Snake:)Hot\\ Snake)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

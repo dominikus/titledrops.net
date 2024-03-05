@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0055490",
+    "title": "Susan Slade",
+    "year": 1961,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1723,
+    "occurrences": [
+      [
+        758,
+        "00:54:22.893000",
+        "00:54:24.995000",
+        "Woman: Miss Susan Slade?"
+      ],
+      [
+        762,
+        "00:54:32.202000",
+        "00:54:33.871000",
+        "Man: Is this Susan Slade?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSusan\\ Slade:)Susan\\ Slade)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [
+      "Susan Slade"
+    ],
+    "title_is_name": true,
+    "rating": 6.3
+  }
+]

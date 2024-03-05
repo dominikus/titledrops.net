@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5754850",
+    "title": "Cubby",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 1304,
+    "occurrences": [
+      [
+        751,
+        "00:44:15.119000",
+        "00:44:18.322000",
+        "-  He says the kids are making fun of his cubby."
+      ],
+      [
+        859,
+        "00:51:04.027000",
+        "00:51:06.963000",
+        "- My cubby at school."
+      ],
+      [
+        1185,
+        "01:12:16.799000",
+        "01:12:17.700000",
+        "-  My cubby."
+      ]
+    ],
+    "regex": "\\b((?!\\bCubby:)Cubby)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

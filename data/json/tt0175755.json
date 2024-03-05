@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0175755",
+    "title": "The Human Bullet",
+    "year": 1968,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1246,
+    "occurrences": [
+      [
+        351,
+        "00:26:18.843000",
+        "00:26:22.904000",
+        "It's like war. You charge with a human bullet and let the enemy deal with it."
+      ],
+      [
+        612,
+        "00:56:30.620000",
+        "00:56:33.384000",
+        "No, you're great. You're a human bullet."
+      ]
+    ],
+    "regex": "\\b((?!\\bHuman\\ Bullet:)Human\\ Bullet)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

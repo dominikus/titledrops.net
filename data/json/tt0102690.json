@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0102690",
+    "title": "Popcorn",
+    "year": 1991,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 1382,
+    "occurrences": [
+      [
+        180,
+        "00:10:03.520000",
+        "00:10:06.060000",
+        "And the popcorn from the candy stand"
+      ],
+      [
+        193,
+        "00:10:43.893000",
+        "00:10:46.273000",
+        "we buy the popcorn with plenty butter"
+      ],
+      [
+        399,
+        "00:26:04.688000",
+        "00:26:07.148000",
+        "a popcorn can't be beat"
+      ],
+      [
+        423,
+        "00:27:37.030000",
+        "00:27:38.840000",
+        "- I'm gonna get some popcorn. - Stuck a big needle"
+      ],
+      [
+        725,
+        "00:47:23.090000",
+        "00:47:24.930000",
+        "I need some popcorn to calm me down."
+      ],
+      [
+        729,
+        "00:47:31.057000",
+        "00:47:33.057000",
+        "I am not having any butter on my popcorn"
+      ]
+    ],
+    "regex": "\\b((?!\\bPopcorn:)Popcorn)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt12544762",
+    "title": "Marx Can Wait",
+    "year": 2021,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1125,
+    "occurrences": [
+      [
+        676,
+        "00:50:26.460000",
+        "00:50:30.357000",
+        "and he said to me: \"Marx can wait.\""
+      ],
+      [
+        692,
+        "00:51:32.433000",
+        "00:51:35.213000",
+        "\"Marx can wait.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bMarx\\ Can\\ Wait:)Marx\\ Can\\ Wait)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

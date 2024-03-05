@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0120543",
+    "title": "Keep Cool",
+    "year": 1997,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1201,
+    "occurrences": [
+      [
+        374,
+        "00:28:24.703000",
+        "00:28:28.230000",
+        "Just keep cool. Conversation can even be held between countries, how about that between individuals?"
+      ],
+      [
+        375,
+        "00:28:28.373000",
+        "00:28:30.432000",
+        "Just keep cool. Conversation can even be held between countries, how about that between individuals?"
+      ],
+      [
+        635,
+        "00:48:52.296000",
+        "00:48:57.700000",
+        "If so, I can discuss more with him. Let's keep cool."
+      ],
+      [
+        1154,
+        "01:29:13.081000",
+        "01:29:17.541000",
+        "Don't use knifes and guns at random. Keep cool, and be bold."
+      ]
+    ],
+    "regex": "\\b((?!\\bKeep\\ Cool:)Keep\\ Cool)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

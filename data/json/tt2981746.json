@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2981746",
+    "title": "Being Frank: The Chris Sievey Story",
+    "year": 2018,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 1825,
+    "occurrences": [
+      [
+        1138,
+        "01:02:24.960000",
+        "01:02:29.112000",
+        "And there he stayed, hemmed in to being Frank Sidebottom."
+      ],
+      [
+        1243,
+        "01:08:38.240000",
+        "01:08:41.471000",
+        "- Being Frank, I don't know if he wanted that really."
+      ],
+      [
+        1437,
+        "01:19:27.360000",
+        "01:19:30.750000",
+        "Then finally freed of the shackles of being Frank,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBeing\\ Frank:)Being\\ Frank|(?!\\bChris\\ Sievey\\ Story:)Chris\\ Sievey\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

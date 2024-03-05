@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0048971",
+    "title": "Away All Boats",
+    "year": 1956,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1546,
+    "occurrences": [
+      [
+        394,
+        "00:28:46.120000",
+        "00:28:47.120000",
+        "Away all boats."
+      ],
+      [
+        395,
+        "00:28:48.080000",
+        "00:28:49.520000",
+        "Away all boats. Away."
+      ]
+    ],
+    "regex": "\\b((?!\\bAway\\ All\\ Boats:)Away\\ All\\ Boats)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

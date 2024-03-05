@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0047013",
+    "title": "Garden of Evil",
+    "year": 1954,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 652,
+    "occurrences": [
+      [
+        614,
+        "01:29:18.160000",
+        "01:29:20.993000",
+        "The old priest called it, \"The Garden of Evil.\""
+      ],
+      [
+        650,
+        "01:35:07.440000",
+        "01:35:09.396000",
+        "The Garden of Evil."
+      ]
+    ],
+    "regex": "\\b((?!\\bGarden\\ of\\ Evil:)Garden\\ of\\ Evil)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

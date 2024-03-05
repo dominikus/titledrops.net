@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2910814",
+    "title": "The Signal",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 903,
+    "occurrences": [
+      [
+        77,
+        "00:09:00.373000",
+        "00:09:02.974000",
+        "(JONAH SIGHING) Signal sucks out here."
+      ],
+      [
+        287,
+        "00:25:30.495000",
+        "00:25:33.898000",
+        "Can you recall for me the first time you encountered the signal?"
+      ],
+      [
+        341,
+        "00:31:13.805000",
+        "00:31:16.406000",
+        "Now, this signal that you and your friends were pursuing,"
+      ]
+    ],
+    "regex": "\\b((?!\\bSignal:)Signal)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

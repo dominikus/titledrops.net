@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0906752",
+    "title": "Sunday Light",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1188,
+    "occurrences": [
+      [
+        306,
+        "00:26:34.793000",
+        "00:26:37.168000",
+        "there's Sunday light every day of the week."
+      ],
+      [
+        317,
+        "00:27:10.126000",
+        "00:27:11.793000",
+        "Your Sunday light is going,"
+      ],
+      [
+        734,
+        "00:58:07.626000",
+        "00:58:09.501000",
+        "has got a Sunday light?"
+      ],
+      [
+        1187,
+        "01:46:02.126000",
+        "01:46:03.709000",
+        "And that Sunday light"
+      ]
+    ],
+    "regex": "\\b((?!\\bSunday\\ Light:)Sunday\\ Light)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0116277",
+    "title": "The Fan",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sport"
+    ],
+    "count": 3,
+    "all_lines": 725,
+    "occurrences": [
+      [
+        8,
+        "00:01:34.300000",
+        "00:01:36.900000",
+        "{y:i}I'm more entranced {y:i}Than the average fan"
+      ],
+      [
+        22,
+        "00:02:26.900000",
+        "00:02:30",
+        "{y:i}The fan is the one {y:i}Who pays for the game"
+      ],
+      [
+        71,
+        "00:05:58.900000",
+        "00:06:03.700000",
+        "I hope so. I consider myself a baseball fan first and a player second."
+      ]
+    ],
+    "regex": "\\b((?!\\bFan:)Fan)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

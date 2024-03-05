@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1318061",
+    "title": "8 Times Up",
+    "year": 2009,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 924,
+    "occurrences": [
+      [
+        114,
+        "00:12:55.600000",
+        "00:12:58.840000",
+        "7 times down, 8 times up."
+      ],
+      [
+        115,
+        "00:13:01.440000",
+        "00:13:04.160000",
+        "7 times down, 8 times up."
+      ]
+    ],
+    "regex": "\\b((?!\\b8\\ Times\\ Up:)8\\ Times\\ Up)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

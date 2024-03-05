@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0062693",
+    "title": "Baby Love",
+    "year": 1969,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 875,
+    "occurrences": [
+      [
+        409,
+        "00:43:42.542000",
+        "00:43:47.539000",
+        "j baby love j"
+      ],
+      [
+        410,
+        "00:43:50.583000",
+        "00:43:53.323000",
+        "j it's baby love j"
+      ],
+      [
+        411,
+        "00:44:19.875000",
+        "00:44:24.873000",
+        "J baby love j"
+      ],
+      [
+        412,
+        "00:44:28.792000",
+        "00:44:33.789000",
+        "j baby love j"
+      ],
+      [
+        413,
+        "00:44:37.208000",
+        "00:44:39.532000",
+        "j baby love j"
+      ]
+    ],
+    "regex": "\\b((?!\\bBaby\\ Love:)Baby\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

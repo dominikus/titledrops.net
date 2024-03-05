@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt12283036",
+    "title": "Room 203",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 939,
+    "occurrences": [
+      [
+        85,
+        "00:09:42.187000",
+        "00:09:44.557000",
+        "You're moving into room 203, right?"
+      ],
+      [
+        698,
+        "01:09:51.332000",
+        "01:09:53.596000",
+        "In contrast to the window in room 203,"
+      ],
+      [
+        720,
+        "01:12:38.199000",
+        "01:12:39.599000",
+        "You live in room 203."
+      ],
+      [
+        729,
+        "01:13:12.335000",
+        "01:13:14.502000",
+        "Chasing his wife into the boiler room."
+      ],
+      [
+        734,
+        "01:13:28.915000",
+        "01:13:33.813000",
+        "So I ran after them and chased them into the boiler room,"
+      ]
+    ],
+    "regex": "\\b((?!\\bRoom:)Room)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

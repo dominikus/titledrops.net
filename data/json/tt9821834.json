@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt9821834",
+    "title": "Re-Elected",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1463,
+    "occurrences": [
+      [
+        613,
+        "00:31:31.508000",
+        "00:31:32.542000",
+        "re-elected."
+      ],
+      [
+        1386,
+        "01:15:36.220000",
+        "01:15:38.522000",
+        "Looks like we're the ones getting re-elected,"
+      ]
+    ],
+    "regex": "\\b((?!\\bRe\\-Elected:)Re\\-Elected)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]
