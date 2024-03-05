@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt6348138",
+    "title": "Missing Link",
+    "year": 2019,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1574,
+    "occurrences": [
+      [
+        182,
+        "00:10:43.876000",
+        "00:10:47.508000",
+        "Evidence of man's primitive ancestry, the missing link!"
+      ],
+      [
+        400,
+        "00:23:12.905000",
+        "00:23:15.237000",
+        "You know, like... missing link."
+      ],
+      [
+        1423,
+        "01:18:24.111000",
+        "01:18:27.510000",
+        "You can keep your missing link"
+      ]
+    ],
+    "regex": "\\b((?!\\bMissing\\ Link:)Missing\\ Link)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

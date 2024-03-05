@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0108137",
+    "title": "The Silver Brumby",
+    "year": 1993,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 729,
+    "occurrences": [
+      [
+        64,
+        "00:07:41.161000",
+        "00:07:43.329000",
+        "- He's the great silver brumby."
+      ],
+      [
+        127,
+        "00:14:11.218000",
+        "00:14:14.020000",
+        "It's about a silver brumby."
+      ],
+      [
+        536,
+        "01:02:40.724000",
+        "01:02:44.895000",
+        "silver brumby and more tales of his deeds and his daring."
+      ],
+      [
+        703,
+        "01:30:01.764000",
+        "01:30:05.934000",
+        "a great silver brumby seen galloping on windpacked snow."
+      ]
+    ],
+    "regex": "\\b((?!\\bSilver\\ Brumby:)Silver\\ Brumby)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

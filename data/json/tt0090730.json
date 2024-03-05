@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0090730",
+    "title": "Billy Galvin",
+    "year": 1986,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1587,
+    "occurrences": [
+      [
+        150,
+        "00:09:49.890000",
+        "00:09:52.159000",
+        "Yeah, Galvin. Billy Galvin."
+      ],
+      [
+        1245,
+        "01:11:02.058000",
+        "01:11:03.960000",
+        "Hey, this is Billy Galvin saying,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBilly\\ Galvin:)Billy\\ Galvin)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [
+      "Billy Galvin"
+    ],
+    "title_is_name": true,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "imdb": "tt0048310",
+    "title": "The Lone Ranger",
+    "year": 1956,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 4,
+    "all_lines": 878,
+    "occurrences": [
+      [
+        16,
+        "00:01:13.641000",
+        "00:01:18.546000",
+        "His sign was a silver bullet. His name was, The Lone Ranger."
+      ],
+      [
+        187,
+        "00:14:39.046000",
+        "00:14:41.414000",
+        "The sign of the Lone Ranger?"
+      ],
+      [
+        226,
+        "00:17:12.099000",
+        "00:17:15.168000",
+        "Silver? The Lone Ranger's horse."
+      ],
+      [
+        877,
+        "01:26:01.457000",
+        "01:26:04.493000",
+        "And his name is... The Lone Ranger."
+      ]
+    ],
+    "regex": "\\b((?!\\bLone\\ Ranger:)Lone\\ Ranger)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [
+      "The Lone Ranger"
+    ],
+    "title_is_name": true,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2331047",
+    "title": "Rememory",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1292,
+    "occurrences": [
+      [
+        107,
+        "00:08:43.999000",
+        "00:08:47.202000",
+        "The Rememory machine allows people"
+      ],
+      [
+        243,
+        "00:21:07.519000",
+        "00:21:09.855000",
+        "Well, as you know, the final stages of the Rememory machine"
+      ],
+      [
+        405,
+        "00:32:56.171000",
+        "00:32:59.475000",
+        "With the technology of the Rememory machine,"
+      ],
+      [
+        977,
+        "01:16:41.800000",
+        "01:16:44.503000",
+        "he had the Rememory machine with him,"
+      ]
+    ],
+    "regex": "\\b((?!\\bRememory:)Rememory)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

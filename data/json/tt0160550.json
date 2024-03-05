@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0160550",
+    "title": "Moscow",
+    "year": 2000,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 774,
+    "occurrences": [
+      [
+        238,
+        "00:36:49.467000",
+        "00:36:53.235000",
+        "Doesn't it seem to you Moscow should switch to high octane gas by now?"
+      ],
+      [
+        240,
+        "00:37:02.239000",
+        "00:37:11.568000",
+        "When you arrive to Moscow from Berlin, from Paris, from New York, instantly you feel this... smell."
+      ],
+      [
+        284,
+        "00:42:15.616000",
+        "00:42:18.287000",
+        "So how do you like Moscow?"
+      ],
+      [
+        623,
+        "01:31:30.786000",
+        "01:31:32.371000",
+        "I'll show you Moscow."
+      ],
+      [
+        774,
+        "02:14:58.724000",
+        "02:14:59.792000",
+        "In Moscow."
+      ]
+    ],
+    "regex": "\\b((?!\\bMoscow:)Moscow)(?!\\:)(?!'t)\\b",
+    "runtime": 139,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

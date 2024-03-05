@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0062456",
+    "title": "War and Peace, Part IV: Pierre Bezukhov",
+    "year": 1967,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 467,
+    "occurrences": [
+      [
+        3,
+        "00:00:44.537000",
+        "00:00:47.973000",
+        "PIERRE BEZUKHOV"
+      ],
+      [
+        12,
+        "00:01:55.141000",
+        "00:01:58.633000",
+        "Sergei BONDARCHUK as Pierre Bezukhov Liudmila SAVELYEVA as Natasha Rostova"
+      ]
+    ],
+    "regex": "\\b((?!\\bWar\\ and\\ Peace,:)War\\ and\\ Peace,|(?!\\bPierre\\ Bezukhov:)Pierre\\ Bezukhov)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.2
+  }
+]

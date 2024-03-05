@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt14176542",
+    "title": "Bardo: False Chronicle of a Handful of Truths",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 2188,
+    "occurrences": [
+      [
+        53,
+        "00:06:32.791000",
+        "00:06:39.125000",
+        "BARDO, FALSE CHRONICLE OF A HANDFUL OF TRUTHS"
+      ],
+      [
+        363,
+        "00:24:05.750000",
+        "00:24:10.166000",
+        "Hey, I loved your last documentary, False Chronicle of a Handful of Truths."
+      ],
+      [
+        1765,
+        "01:56:06.916000",
+        "01:56:11.375000",
+        "Mateo's not the only one in Bardo, Pa. Sometimes I feel like we're all with him."
+      ]
+    ],
+    "regex": "\\b((?!\\bBardo:)Bardo|(?!\\bFalse\\ Chronicle\\ of\\ a\\ Handful\\ of\\ Truths:)False\\ Chronicle\\ of\\ a\\ Handful\\ of\\ Truths)(?!\\:)(?!'t)\\b",
+    "runtime": 159,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

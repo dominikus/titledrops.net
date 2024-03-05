@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2223990",
+    "title": "Draft Day",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1708,
+    "occurrences": [
+      [
+        79,
+        "00:06:29.514000",
+        "00:06:31.107000",
+        "Well, it is Draft Day."
+      ],
+      [
+        1663,
+        "01:38:14.847000",
+        "01:38:17.691000",
+        "This is the Draft Day Browns fans were waiting for."
+      ]
+    ],
+    "regex": "\\b((?!\\bDraft\\ Day:)Draft\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

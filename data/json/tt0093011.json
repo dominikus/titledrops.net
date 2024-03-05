@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0093011",
+    "title": "Fatal Beauty",
+    "year": 1987,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 5,
+    "all_lines": 1796,
+    "occurrences": [
+      [
+        943,
+        "00:46:55.970000",
+        "00:46:58.010000",
+        "Fatal beauty."
+      ],
+      [
+        944,
+        "00:46:58.010000",
+        "00:46:59.810000",
+        "Fatal beauty? Ha ha ha!"
+      ],
+      [
+        1003,
+        "00:50:13.810000",
+        "00:50:16.470000",
+        "fatal beauty, the hottest bag around."
+      ],
+      [
+        1020,
+        "00:50:50.210000",
+        "00:50:51.840000",
+        "They want fatal beauty!"
+      ],
+      [
+        1443,
+        "01:16:30.780000",
+        "01:16:33.110000",
+        "Dead by fatal beauty."
+      ]
+    ],
+    "regex": "\\b((?!\\bFatal\\ Beauty:)Fatal\\ Beauty)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

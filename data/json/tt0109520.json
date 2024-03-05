@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0109520",
+    "title": "D2: The Mighty Ducks",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 6,
+    "all_lines": 1436,
+    "occurrences": [
+      [
+        7,
+        "00:01:48.021000",
+        "00:01:51.320000",
+        "He went from a legal career to coach the Minneapolis Mighty Ducks..."
+      ],
+      [
+        1416,
+        "01:44:29.706000",
+        "01:44:33.802000",
+        "~ The Mighty Ducks of America ~"
+      ],
+      [
+        1420,
+        "01:44:40.884000",
+        "01:44:44.718000",
+        "~ The Mighty Ducks of America ~"
+      ],
+      [
+        1423,
+        "01:45:43.280000",
+        "01:45:47.011000",
+        "~ The Mighty Ducks of America ~"
+      ],
+      [
+        1427,
+        "01:45:54.157000",
+        "01:45:58.025000",
+        "~ The Mighty Ducks of America ~"
+      ],
+      [
+        1431,
+        "01:46:04.968000",
+        "01:46:08.904000",
+        "~ The Mighty Ducks of America ~"
+      ]
+    ],
+    "regex": "\\b((?!\\bD2:)D2|(?!\\bMighty\\ Ducks:)Mighty\\ Ducks)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

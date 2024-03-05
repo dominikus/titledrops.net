@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1270767",
+    "title": "Higanjima: Escape from Vampire Island",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 566,
+    "occurrences": [
+      [
+        12,
+        "00:04:35.300000",
+        "00:04:41.340000",
+        "HIGANJIMA"
+      ],
+      [
+        297,
+        "00:33:04.200000",
+        "00:33:06.940000",
+        "That is... Higanjima Island."
+      ]
+    ],
+    "regex": "\\b((?!\\bHiganjima:)Higanjima|(?!\\bEscape\\ from\\ Vampire\\ Island:)Escape\\ from\\ Vampire\\ Island)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

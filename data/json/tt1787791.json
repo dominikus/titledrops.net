@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1787791",
+    "title": "Resurrect Dead: The Mystery of the Toynbee Tiles",
+    "year": 2011,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1410,
+    "occurrences": [
+      [
+        5,
+        "00:00:32.022000",
+        "00:00:34.498000",
+        "... Resurrect Dead on Planet Jupiter. \""
+      ],
+      [
+        42,
+        "00:02:55.740000",
+        "00:02:57.909000",
+        "Resurrect Dead on Planet Jupiter.\""
+      ],
+      [
+        157,
+        "00:11:04.562000",
+        "00:11:07.595000",
+        "Resurrect dead, obviously, is the idea that"
+      ],
+      [
+        1236,
+        "01:12:51.958000",
+        "01:12:53.764000",
+        "to resurrect dead on planet Jupiter."
+      ]
+    ],
+    "regex": "\\b((?!\\bResurrect\\ Dead:)Resurrect\\ Dead|(?!\\bMystery\\ of\\ the\\ Toynbee\\ Tiles:)Mystery\\ of\\ the\\ Toynbee\\ Tiles)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

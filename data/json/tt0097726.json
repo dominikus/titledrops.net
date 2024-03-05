@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0097726",
+    "title": "Legion of Iron",
+    "year": 1990,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 857,
+    "occurrences": [
+      [
+        37,
+        "00:06:28.633000",
+        "00:06:31.433000",
+        "Welcome to the Legion of Iron..."
+      ],
+      [
+        189,
+        "00:19:35.100000",
+        "00:19:40.833000",
+        "One of the proud few in the Legion of Iron!"
+      ]
+    ],
+    "regex": "\\b((?!\\bLegion\\ of\\ Iron:)Legion\\ of\\ Iron)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

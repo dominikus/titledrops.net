@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0342512",
+    "title": "Life or Death",
+    "year": 1954,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 519,
+    "occurrences": [
+      [
+        6,
+        "00:01:17.951000",
+        "00:01:20.243000",
+        "What's More Real: Life or Death?"
+      ],
+      [
+        448,
+        "00:53:46.030000",
+        "00:53:50.058000",
+        "\"What's More Real: Life or Death?\""
+      ]
+    ],
+    "regex": "\\b((?!\\bLife\\ or\\ Death:)Life\\ or\\ Death)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt14438348",
+    "title": "The Possessed",
+    "year": 2021,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1480,
+    "occurrences": [
+      [
+        842,
+        "00:55:18.316000",
+        "00:55:20.026000",
+        "Your hubby is possessed by the devil"
+      ],
+      [
+        1134,
+        "01:12:04.029000",
+        "01:12:07.824000",
+        "and I think that's when Aka Manah possessed him,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPossessed:)Possessed)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

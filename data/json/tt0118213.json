@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0118213",
+    "title": "Forgotten Light",
+    "year": 1996,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 634,
+    "occurrences": [
+      [
+        4,
+        "00:01:28.960000",
+        "00:01:34.720000",
+        "based on a motif by Jakub Deml from the book Forgotten Light"
+      ],
+      [
+        13,
+        "00:03:28.400000",
+        "00:03:33.080000",
+        "Forgotten Light"
+      ]
+    ],
+    "regex": "\\b((?!\\bForgotten\\ Light:)Forgotten\\ Light)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

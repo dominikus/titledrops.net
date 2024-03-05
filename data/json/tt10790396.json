@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt10790396",
+    "title": "Reunion",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1137,
+    "occurrences": [
+      [
+        78,
+        "00:05:19.840000",
+        "00:05:22.640000",
+        "- I've organized the reunion. - No, it was him."
+      ],
+      [
+        104,
+        "00:07:32.440000",
+        "00:07:35.840000",
+        "Honestly, I thought no one would remember our reunion."
+      ]
+    ],
+    "regex": "\\b((?!\\bReunion:)Reunion)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

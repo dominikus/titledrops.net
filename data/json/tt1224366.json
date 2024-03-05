@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1224366",
+    "title": "Afterschool",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1185,
+    "occurrences": [
+      [
+        129,
+        "00:09:33.987000",
+        "00:09:37.582000",
+        "either a sport or afterschool club."
+      ],
+      [
+        180,
+        "00:12:51.951000",
+        "00:12:54.215000",
+        "I still haven't signed up for afterschool activities."
+      ]
+    ],
+    "regex": "\\b((?!\\bAfterschool:)Afterschool)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

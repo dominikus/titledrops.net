@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2315596",
+    "title": "Galveston",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1051,
+    "occurrences": [
+      [
+        496,
+        "00:42:03.151000",
+        "00:42:08.324000",
+        "Just... Just leaving Galveston, remembered you were close."
+      ],
+      [
+        531,
+        "00:45:06.301000",
+        "00:45:09.772000",
+        "You remember when we went to Galveston?"
+      ],
+      [
+        913,
+        "01:18:16.757000",
+        "01:18:20.595000",
+        "owner of the Emerald Shores Motel in Galveston, Texas."
+      ],
+      [
+        936,
+        "01:20:53.279000",
+        "01:20:56.982000",
+        "hitting somewhere between Corpus Christi and Galveston."
+      ]
+    ],
+    "regex": "\\b((?!\\bGalveston:)Galveston)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

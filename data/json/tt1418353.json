@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1418353",
+    "title": "George Michael: Live in London",
+    "year": 2009,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 1783,
+    "occurrences": [
+      [
+        9,
+        "00:00:24.837000",
+        "00:00:28.086000",
+        "I know and that is not George Michael."
+      ],
+      [
+        28,
+        "00:00:55.345000",
+        "00:00:56.460000",
+        "that is not George Michael."
+      ],
+      [
+        1739,
+        "02:09:08.217000",
+        "02:09:09.835000",
+        "a mile off, and that is not George Michael."
+      ],
+      [
+        1740,
+        "02:09:09.836000",
+        "02:09:11.315000",
+        "Speaker 1: I know George Michael when I see him."
+      ]
+    ],
+    "regex": "\\b((?!\\bGeorge\\ Michael:)George\\ Michael|(?!\\bLive\\ in\\ London:)Live\\ in\\ London)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.2
+  }
+]

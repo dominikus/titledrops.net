@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1247640",
+    "title": "District 13: Ultimatum",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1003,
+    "occurrences": [
+      [
+        9,
+        "00:01:39.187000",
+        "00:01:41.687000",
+        "DISTRICT 13 ULTIMATUM"
+      ],
+      [
+        229,
+        "00:28:32.353000",
+        "00:28:36.144000",
+        "Suspicious white Peugeot. Shopping centre. District 7."
+      ],
+      [
+        366,
+        "00:38:32.603000",
+        "00:38:35.228000",
+        "Newsflash. Last night in District 13,"
+      ],
+      [
+        391,
+        "00:39:56.812000",
+        "00:39:57.853000",
+        "Which district?"
+      ],
+      [
+        982,
+        "01:31:08.937000",
+        "01:31:10.187000",
+        "A new district."
+      ]
+    ],
+    "regex": "\\b((?!\\bDistrict:)District|(?!\\bUltimatum:)Ultimatum)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

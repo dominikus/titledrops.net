@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0367089",
+    "title": "The Squid and the Whale",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1269,
+    "occurrences": [
+      [
+        1002,
+        "01:01:14.153000",
+        "01:01:16.280000",
+        "I was always afraid of the squid and the whale fighting."
+      ],
+      [
+        1007,
+        "01:01:30.252000",
+        "01:01:33.172000",
+        "And we'd get to the squid and the whale, and she'd describe it for me."
+      ]
+    ],
+    "regex": "\\b((?!\\bSquid\\ and\\ the\\ Whale:)Squid\\ and\\ the\\ Whale)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

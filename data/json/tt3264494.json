@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt3264494",
+    "title": "Friend 2",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 1146,
+    "occurrences": [
+      [
+        10,
+        "00:02:01.337000",
+        "00:02:03.813000",
+        "Yes, He is my friend."
+      ],
+      [
+        53,
+        "00:06:04.830000",
+        "00:06:06.582000",
+        "Don't hit my friend!"
+      ],
+      [
+        75,
+        "00:09:02.424000",
+        "00:09:05.444000",
+        "Can't you eat meat with a friend you met"
+      ],
+      [
+        99,
+        "00:10:47.113000",
+        "00:10:48.421000",
+        "A friend? Never heard the name."
+      ],
+      [
+        160,
+        "00:14:57.362000",
+        "00:15:01.925000",
+        "I'm an old friend of your mom's."
+      ],
+      [
+        769,
+        "01:09:33.388000",
+        "01:09:38.226000",
+        "When I had a hard time over my friend..."
+      ],
+      [
+        1139,
+        "01:54:07.770000",
+        "01:54:12.025000",
+        "My best friend died a while back."
+      ]
+    ],
+    "regex": "\\b((?!\\bFriend:)Friend)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

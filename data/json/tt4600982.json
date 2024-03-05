@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt4600982",
+    "title": "Women",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1304,
+    "occurrences": [
+      [
+        935,
+        "01:00:47.509000",
+        "01:00:50.542000",
+        "He had no time for women, he would always say,"
+      ],
+      [
+        937,
+        "01:00:54.908000",
+        "01:00:58.442000",
+        "Now, there was a deeper reason for his aversion to women."
+      ],
+      [
+        939,
+        "01:01:01.342000",
+        "01:01:04.209000",
+        "the women had failed to pay homage to Aphrodite,"
+      ],
+      [
+        942,
+        "01:01:08.542000",
+        "01:01:10.342000",
+        "so Aphrodite cursed the women"
+      ]
+    ],
+    "regex": "\\b((?!\\bWomen:)Women)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

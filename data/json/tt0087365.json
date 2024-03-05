@@ -1,0 +1,26 @@
+[
+  {
+    "imdb": "tt0087365",
+    "title": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+    "year": 1984,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 1,
+    "all_lines": 140,
+    "occurrences": [
+      [
+        121,
+        "00:37:54.288000",
+        "00:37:58.019000",
+        "John Clayton. It's the Earl of Greystoke's son."
+      ]
+    ],
+    "regex": "\\b((?!\\bGreystoke:)Greystoke|(?!\\bLegend\\ of\\ Tarzan,\\ Lord\\ of\\ the\\ Apes:)Legend\\ of\\ Tarzan,\\ Lord\\ of\\ the\\ Apes)(?!\\:)(?!'t)\\b",
+    "runtime": 143,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

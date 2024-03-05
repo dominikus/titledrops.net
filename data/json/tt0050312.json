@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0050312",
+    "title": "Girl Without an Address",
+    "year": 1958,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 786,
+    "occurrences": [
+      [
+        1,
+        "00:00:20.848000",
+        "00:00:28.721000",
+        "A girl without an address everywhere looking for - and day and night."
+      ],
+      [
+        212,
+        "00:24:47.391000",
+        "00:24:55.391000",
+        "A girl without an address everywhere looking for - and by day and evening sometimes."
+      ]
+    ],
+    "regex": "\\b((?!\\bGirl\\ Without\\ an\\ Address:)Girl\\ Without\\ an\\ Address)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt22297570",
+    "title": "4 Years",
+    "year": 2022,
+    "genres": [
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1297,
+    "occurrences": [
+      [
+        66,
+        "00:10:10.250000",
+        "00:10:12.208000",
+        "these are the best 4 years of my life!"
+      ],
+      [
+        98,
+        "00:12:00.041000",
+        "00:12:02.708000",
+        "It was I who wrote his record for the last 4 years."
+      ],
+      [
+        1295,
+        "01:58:01.291000",
+        "01:58:02.583000",
+        "than those 4 years,"
+      ]
+    ],
+    "regex": "\\b((?!\\b4\\ Years:)4\\ Years)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

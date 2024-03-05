@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2177180",
+    "title": "A Year in Burgundy",
+    "year": 2013,
+    "genres": [
+      "Documentary",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 940,
+    "occurrences": [
+      [
+        27,
+        "00:02:26.479000",
+        "00:02:29.733000",
+        "to spend a year in Burgundy."
+      ],
+      [
+        940,
+        "01:26:41.076000",
+        "01:26:44.500000",
+        "and then, it'll be another year in Burgundy."
+      ]
+    ],
+    "regex": "\\b((?!\\bYear\\ in\\ Burgundy:)Year\\ in\\ Burgundy)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

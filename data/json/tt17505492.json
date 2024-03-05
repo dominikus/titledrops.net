@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt17505492",
+    "title": "The House",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1147,
+    "occurrences": [
+      [
+        67,
+        "00:04:41.181000",
+        "00:04:43.402000",
+        "This is a reputable house."
+      ],
+      [
+        146,
+        "00:11:28.760000",
+        "00:11:31.220000",
+        "You think in this house, the girls are not welcoming?"
+      ],
+      [
+        227,
+        "00:18:19.622000",
+        "00:18:21.770000",
+        "It's forbidden in the house."
+      ]
+    ],
+    "regex": "\\b((?!\\bHouse:)House)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

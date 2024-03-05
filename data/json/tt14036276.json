@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt14036276",
+    "title": "Control",
+    "year": 2022,
+    "genres": [
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1129,
+    "occurrences": [
+      [
+        522,
+        "00:32:54.272000",
+        "00:32:56.141000",
+        "how am I supposed to control it?"
+      ],
+      [
+        671,
+        "00:44:26.597000",
+        "00:44:27.999000",
+        "God, you're such a control freak."
+      ],
+      [
+        674,
+        "00:44:34.972000",
+        "00:44:36.774000",
+        "Help you control this."
+      ],
+      [
+        676,
+        "00:44:46.285000",
+        "00:44:47.985000",
+        "You, an expert on control."
+      ],
+      [
+        1004,
+        "01:17:25.910000",
+        "01:17:28.813000",
+        "Disabling selective memory control."
+      ]
+    ],
+    "regex": "\\b((?!\\bControl:)Control)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

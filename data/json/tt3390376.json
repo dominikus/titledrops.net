@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3390376",
+    "title": "Apartment 407",
+    "year": 2016,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1300,
+    "occurrences": [
+      [
+        922,
+        "01:05:01.723000",
+        "01:05:05.510000",
+        "I can get onto any floor or into any apartment"
+      ],
+      [
+        1209,
+        "01:30:03.746000",
+        "01:30:08.141000",
+        "She'd never come to some stranger's apartment. Twice."
+      ]
+    ],
+    "regex": "\\b((?!\\bApartment:)Apartment)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0131566",
+    "title": "Rogue Trader",
+    "year": 1999,
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1374,
+    "occurrences": [
+      [
+        2,
+        "00:00:22.080000",
+        "00:00:25.959000",
+        "..which he blames on the actions of a rogue trader in Singapore."
+      ],
+      [
+        1244,
+        "01:24:23.160000",
+        "01:24:26.869000",
+        "..which he blames on the actions of a rogue trader in Singapore."
+      ]
+    ],
+    "regex": "\\b((?!\\bRogue\\ Trader:)Rogue\\ Trader)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

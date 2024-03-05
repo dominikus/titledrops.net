@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0075939",
+    "title": "Peppermint Soda",
+    "year": 1977,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 898,
+    "occurrences": [
+      [
+        335,
+        "00:39:28.257000",
+        "00:39:32.009000",
+        "Hot chocolate for me. -A peppermint soda."
+      ],
+      [
+        336,
+        "00:39:32.057000",
+        "00:39:33.885000",
+        "Ladies? -A peppermint soda, please."
+      ]
+    ],
+    "regex": "\\b((?!\\bPeppermint\\ Soda:)Peppermint\\ Soda)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

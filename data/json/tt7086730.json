@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt7086730",
+    "title": "Devil's Night: Dawn of the Nain Rouge",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Crime",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1363,
+    "occurrences": [
+      [
+        699,
+        "00:44:23.289000",
+        "00:44:24.890000",
+        "It's Devil's Night (LAUGHS)."
+      ],
+      [
+        1296,
+        "01:31:39.892000",
+        "01:31:41.794000",
+        "It's Devil's Night, better run for your life"
+      ],
+      [
+        1335,
+        "01:32:44.290000",
+        "01:32:46.458000",
+        "On Devil's Night, the dawn of Nain Rouge"
+      ]
+    ],
+    "regex": "\\b((?!\\bDevil's\\ Night:)Devil's\\ Night|(?!\\bDawn\\ of\\ the\\ Nain\\ Rouge:)Dawn\\ of\\ the\\ Nain\\ Rouge)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

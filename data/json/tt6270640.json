@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt6270640",
+    "title": "The Dare",
+    "year": 2019,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1349,
+    "occurrences": [
+      [
+        694,
+        "00:48:42.587000",
+        "00:48:44.654000",
+        "Just needs to pass the dare."
+      ],
+      [
+        742,
+        "00:53:20.598000",
+        "00:53:22.464000",
+        "this really is the final dare."
+      ],
+      [
+        809,
+        "00:58:30.608000",
+        "00:58:32.708000",
+        "How dare you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDare:)Dare)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

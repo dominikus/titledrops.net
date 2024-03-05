@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt5937296",
+    "title": "Glory",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 936,
+    "occurrences": [
+      [
+        593,
+        "00:59:43.880000",
+        "00:59:48.989000",
+        "And the \"Glory\"... isn't my \"Glory.\""
+      ],
+      [
+        594,
+        "00:59:49.085000",
+        "00:59:50.621000",
+        "Your glory isn't your glory."
+      ],
+      [
+        624,
+        "01:01:11.434000",
+        "01:01:17.874000",
+        "She took my \"Glory\"... and gave me back the fake \"Glory.\""
+      ],
+      [
+        740,
+        "01:10:27.890000",
+        "01:10:31.667000",
+        "and meanwhile Tzanko's own \"Glory\" watch, a family relic,"
+      ]
+    ],
+    "regex": "\\b((?!\\bGlory:)Glory)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0093966",
+    "title": "The Sicilian",
+    "year": 1987,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 551,
+    "occurrences": [
+      [
+        292,
+        "00:39:26.260000",
+        "00:39:28.569000",
+        "He wasn't a Sicilian."
+      ],
+      [
+        350,
+        "00:49:55.660000",
+        "00:49:59.778000",
+        "l am here in Rome as a Sicilian, -"
+      ],
+      [
+        412,
+        "00:56:27.460000",
+        "00:56:34.855000",
+        "And like every Sicilian, you want to open a pizzeria in New Jersey."
+      ],
+      [
+        506,
+        "01:05:45.900000",
+        "01:05:48.778000",
+        "You may be a Sicilian duchess -"
+      ],
+      [
+        508,
+        "01:05:52.540000",
+        "01:05:56.613000",
+        "- who can match any Sicilian man."
+      ],
+      [
+        526,
+        "01:07:41.300000",
+        "01:07:45.691000",
+        "All Sicilian men have a zest for is death."
+      ]
+    ],
+    "regex": "\\b((?!\\bSicilian:)Sicilian)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt12109842",
+    "title": "Trump Card",
+    "year": 2020,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 2083,
+    "occurrences": [
+      [
+        132,
+        "00:07:27.781000",
+        "00:07:29.592000",
+        "And they have a Trump card."
+      ],
+      [
+        504,
+        "00:26:36.386000",
+        "00:26:39.157000",
+        "This is capitalism's trump card."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrump\\ Card:)Trump\\ Card)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

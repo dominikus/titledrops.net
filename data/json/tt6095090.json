@@ -1,0 +1,69 @@
+[
+  {
+    "imdb": "tt6095090",
+    "title": "The Bride",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 8,
+    "all_lines": 396,
+    "occurrences": [
+      [
+        10,
+        "00:04:23.732000",
+        "00:04:28.049000",
+        "My young bride Olga died a few hours ago."
+      ],
+      [
+        42,
+        "00:10:38",
+        "00:10:44.490000",
+        "\"The bride\" Translation"
+      ],
+      [
+        64,
+        "00:12:27.313000",
+        "00:12:30.313000",
+        "-\"May the bride respond.\" - Yes."
+      ],
+      [
+        217,
+        "00:34:23",
+        "00:34:24.176000",
+        "A bride."
+      ],
+      [
+        219,
+        "00:34:28.764000",
+        "00:34:36.336000",
+        "When the bride was delivered, she was considered dead."
+      ],
+      [
+        223,
+        "00:34:46.808000",
+        "00:34:49",
+        "The bride sat down and wept."
+      ],
+      [
+        259,
+        "00:44:01.929000",
+        "00:44:07.108000",
+        "If the bride was a virgin, She had nothing to fear."
+      ],
+      [
+        302,
+        "01:00:51.465000",
+        "01:00:56.429000",
+        "\"And this is your first bride.\" \"She died the day before the wedding.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bBride:)Bride)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

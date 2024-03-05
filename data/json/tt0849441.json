@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0849441",
+    "title": "Ghost Town: The Movie",
+    "year": 2007,
+    "genres": [
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 807,
+    "occurrences": [
+      [
+        1,
+        "00:00:54.054000",
+        "00:00:57.256000",
+        "My deputy, Tuck. Welcome to Ghost Town."
+      ],
+      [
+        586,
+        "00:44:40.880000",
+        "00:44:44.983000",
+        "I mean, he made this town into a ghost town."
+      ]
+    ],
+    "regex": "\\b((?!\\bGhost\\ Town:)Ghost\\ Town|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

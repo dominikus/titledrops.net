@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0462579",
+    "title": "The Treatment",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1612,
+    "occurrences": [
+      [
+        92,
+        "00:06:12.705000",
+        "00:06:14.331000",
+        "You can discontinue the treatment"
+      ],
+      [
+        552,
+        "00:28:14.275000",
+        "00:28:16.819000",
+        "don't stop the treatment."
+      ]
+    ],
+    "regex": "\\b((?!\\bTreatment:)Treatment)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

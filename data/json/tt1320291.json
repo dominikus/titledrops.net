@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1320291",
+    "title": "The Reef",
+    "year": 2010,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 466,
+    "occurrences": [
+      [
+        164,
+        "00:19:27.959000",
+        "00:19:30.921000",
+        "A reef. A whale."
+      ],
+      [
+        187,
+        "00:21:28.462000",
+        "00:21:31.179000",
+        "We will not go straight due to a reef here."
+      ],
+      [
+        438,
+        "01:08:31.759000",
+        "01:08:33.644000",
+        "There is another reef."
+      ]
+    ],
+    "regex": "\\b((?!\\bReef:)Reef)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0099460",
+    "title": "Downtown",
+    "year": 1990,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 5,
+    "all_lines": 1129,
+    "occurrences": [
+      [
+        125,
+        "00:08:28.600000",
+        "00:08:30.600000",
+        "lsn't that downtown?"
+      ],
+      [
+        127,
+        "00:08:32.759000",
+        "00:08:34.600000",
+        "Way downtown."
+      ],
+      [
+        129,
+        "00:08:37.919000",
+        "00:08:41.920000",
+        "We used to pray, Kearney, ''Beirut, Angola, anywhere but downtown.''"
+      ],
+      [
+        983,
+        "01:09:18.479000",
+        "01:09:20.360000",
+        "MAN : Don't you wear uniforms downtown?"
+      ],
+      [
+        989,
+        "01:09:42.319000",
+        "01:09:44.720000",
+        "-What? -Customs guy downtown."
+      ]
+    ],
+    "regex": "\\b((?!\\bDowntown:)Downtown)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

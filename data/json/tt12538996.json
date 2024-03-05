@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt12538996",
+    "title": "On Our Way",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1138,
+    "occurrences": [
+      [
+        18,
+        "00:03:07.454000",
+        "00:03:10.091000",
+        "Oh, we could title it On Our Way."
+      ],
+      [
+        835,
+        "00:52:26.014000",
+        "00:52:30.250000",
+        "All that really matters today is that we're on our way.\""
+      ],
+      [
+        927,
+        "00:58:34.315000",
+        "00:58:37.551000",
+        "but only caring that we're on our way."
+      ],
+      [
+        930,
+        "00:58:43.824000",
+        "00:58:45.259000",
+        "On Our Way."
+      ]
+    ],
+    "regex": "\\b((?!\\bOn\\ Our\\ Way:)On\\ Our\\ Way)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

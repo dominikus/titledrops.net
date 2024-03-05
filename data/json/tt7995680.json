@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt7995680",
+    "title": "True Fiction",
+    "year": 2019,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1067,
+    "occurrences": [
+      [
+        314,
+        "00:33:13.058000",
+        "00:33:14.558000",
+        "True Fiction."
+      ],
+      [
+        1045,
+        "01:30:58.454000",
+        "01:31:01.755000",
+        "Your book, True Fiction, it's awful."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrue\\ Fiction:)True\\ Fiction)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

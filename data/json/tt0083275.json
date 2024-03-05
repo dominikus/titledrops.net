@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0083275",
+    "title": "Variola Vera",
+    "year": 1982,
+    "genres": [
+      "Drama",
+      "History",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 565,
+    "occurrences": [
+      [
+        151,
+        "00:26:45.434000",
+        "00:26:53.296000",
+        "Gentleman, the last case of variola vera, or smallpox..."
+      ],
+      [
+        196,
+        "00:33:16.201000",
+        "00:33:27.501000",
+        "that variola vera was founded."
+      ],
+      [
+        546,
+        "01:39:46.121000",
+        "01:39:52.415000",
+        "One thin is sure. It is not variola vera."
+      ],
+      [
+        564,
+        "01:43:09.182000",
+        "01:43:16.969000",
+        "Please stand up for minute of silence for all victims of variola vera."
+      ]
+    ],
+    "regex": "\\b((?!\\bVariola\\ Vera:)Variola\\ Vera)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

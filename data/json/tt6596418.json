@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6596418",
+    "title": "The Innocent",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 488,
+    "occurrences": [
+      [
+        78,
+        "00:17:52.658000",
+        "00:17:54.533000",
+        "Andi is innocent."
+      ],
+      [
+        83,
+        "00:18:04.992000",
+        "00:18:07.992000",
+        "Because it will come out that he is innocent."
+      ]
+    ],
+    "regex": "\\b((?!\\bInnocent:)Innocent)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

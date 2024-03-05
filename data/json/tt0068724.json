@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0068724",
+    "title": "The Inheritor",
+    "year": 1973,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 725,
+    "occurrences": [
+      [
+        174,
+        "00:23:59.599000",
+        "00:24:01.319000",
+        "You are the inheritor."
+      ],
+      [
+        175,
+        "00:24:12.839000",
+        "00:24:14.869000",
+        "You are the inheritor!"
+      ],
+      [
+        718,
+        "01:40:59.119000",
+        "01:41:02.380000",
+        "You're not a child like any other. You're the inheritor."
+      ]
+    ],
+    "regex": "\\b((?!\\bInheritor:)Inheritor)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

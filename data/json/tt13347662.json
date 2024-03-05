@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt13347662",
+    "title": "Aware: Glimpses of Consciousness",
+    "year": 2021,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1038,
+    "occurrences": [
+      [
+        10,
+        "00:01:44.720000",
+        "00:01:47.520000",
+        "How is it that we are aware that we are aware?"
+      ],
+      [
+        701,
+        "01:02:47.480000",
+        "01:02:53.400000",
+        "and yet you can be fully aware that you're aware."
+      ]
+    ],
+    "regex": "\\b((?!\\bAware:)Aware|(?!\\bGlimpses\\ of\\ Consciousness:)Glimpses\\ of\\ Consciousness)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

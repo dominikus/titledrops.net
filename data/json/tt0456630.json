@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0456630",
+    "title": "Reincarnation",
+    "year": 2005,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 396,
+    "occurrences": [
+      [
+        168,
+        "00:26:31.630000",
+        "00:26:36.710000",
+        "...or 'reincarnation'..."
+      ],
+      [
+        320,
+        "00:44:56.397000",
+        "00:45:01.635000",
+        "That professor's going against all that 'reincarnation' stuff."
+      ]
+    ],
+    "regex": "\\b((?!\\bReincarnation:)Reincarnation)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

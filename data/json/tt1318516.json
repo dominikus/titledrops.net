@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1318516",
+    "title": "The Jailhouse",
+    "year": 2009,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1251,
+    "occurrences": [
+      [
+        172,
+        "00:10:39.551000",
+        "00:10:41.292000",
+        "The fire at the jailhouse, there's just"
+      ],
+      [
+        1036,
+        "01:09:21.940000",
+        "01:09:25.552000",
+        "-  Sorry to break up this little jailhouse romance,"
+      ]
+    ],
+    "regex": "\\b((?!\\bJailhouse:)Jailhouse)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

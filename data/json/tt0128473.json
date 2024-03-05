@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0128473",
+    "title": "Shadow Zone: My Teacher Ate My Homework",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 2030,
+    "occurrences": [
+      [
+        29,
+        "00:01:58.372000",
+        "00:02:02.312000",
+        "THE SHADOW ZONE IS EVERYWHERE--"
+      ],
+      [
+        51,
+        "00:02:56.682000",
+        "00:02:58.973000",
+        "TO THE SHADOW ZONE!"
+      ],
+      [
+        2003,
+        "01:28:18.465000",
+        "01:28:20.864000",
+        "AT THE SHADOW ZONE."
+      ],
+      [
+        2025,
+        "01:29:24.545000",
+        "01:29:27.464000",
+        "IN THE SHADOW ZONE."
+      ]
+    ],
+    "regex": "\\b((?!\\bShadow\\ Zone:)Shadow\\ Zone|(?!\\bMy\\ Teacher\\ Ate\\ My\\ Homework:)My\\ Teacher\\ Ate\\ My\\ Homework)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt21391242",
+    "title": "Confidential Informant",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1188,
+    "occurrences": [
+      [
+        140,
+        "00:10:29.930000",
+        "00:10:32.833000",
+        "Honestly, we got a tip from a confidential informant"
+      ],
+      [
+        155,
+        "00:11:05.199000",
+        "00:11:10.437000",
+        "Boss, CI-4622 has confidential informant status,"
+      ],
+      [
+        810,
+        "01:01:27.688000",
+        "01:01:30.357000",
+        "I'm gonna need to get into the confidential informant files."
+      ]
+    ],
+    "regex": "\\b((?!\\bConfidential\\ Informant:)Confidential\\ Informant)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

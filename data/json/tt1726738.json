@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1726738",
+    "title": "Sacrifice",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 1138,
+    "occurrences": [
+      [
+        417,
+        "00:41:09.960000",
+        "00:41:13.669000",
+        "to save one child... would sacrifice one hundred others?"
+      ],
+      [
+        936,
+        "01:30:01.840000",
+        "01:30:03.796000",
+        "he'd sacrifice his own wife and child?"
+      ],
+      [
+        1094,
+        "01:48:25.960000",
+        "01:48:28.599000",
+        "to sacrifice your own child for him?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSacrifice:)Sacrifice)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

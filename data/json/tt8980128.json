@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt8980128",
+    "title": "Deus",
+    "year": 2022,
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1209,
+    "occurrences": [
+      [
+        206,
+        "00:17:43.792000",
+        "00:17:44.792000",
+        "Deus."
+      ],
+      [
+        1032,
+        "01:16:15.167000",
+        "01:16:17.082000",
+        "No one gets to play deus."
+      ]
+    ],
+    "regex": "\\b((?!\\bDeus:)Deus)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

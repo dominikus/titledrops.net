@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0091934",
+    "title": "Shanghai Surprise",
+    "year": 1986,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1121,
+    "occurrences": [
+      [
+        655,
+        "00:54:28.700000",
+        "00:54:31.833000",
+        "Joe Go call it Shanghai Surprise."
+      ],
+      [
+        964,
+        "01:20:03.333000",
+        "01:20:06.543000",
+        "I was worried about you when you picked up that Shanghai Surprise."
+      ]
+    ],
+    "regex": "\\b((?!\\bShanghai\\ Surprise:)Shanghai\\ Surprise)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

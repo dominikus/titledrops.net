@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt14486678",
+    "title": "Love Tactics",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1328,
+    "occurrences": [
+      [
+        170,
+        "00:08:56.708000",
+        "00:08:59.917000",
+        "knows Asli writes the Love Tactics blog?"
+      ],
+      [
+        901,
+        "00:56:38.708000",
+        "00:56:41.167000",
+        "There's a girl writing this Love Tactics blog."
+      ],
+      [
+        1250,
+        "01:30:03.708000",
+        "01:30:07",
+        "By the way, Love Tactics shared a new post."
+      ]
+    ],
+    "regex": "\\b((?!\\bLove\\ Tactics:)Love\\ Tactics)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

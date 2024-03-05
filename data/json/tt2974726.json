@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2974726",
+    "title": "Atomic Eden",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 609,
+    "occurrences": [
+      [
+        287,
+        "00:38:47.330000",
+        "00:38:51.593000",
+        "This project was called Atomic Eden."
+      ],
+      [
+        575,
+        "01:18:06.680000",
+        "01:18:08.693000",
+        "This is Atomic Eden."
+      ],
+      [
+        590,
+        "01:19:17.660000",
+        "01:19:21.819000",
+        "Atomic Eden is ours."
+      ]
+    ],
+    "regex": "\\b((?!\\bAtomic\\ Eden:)Atomic\\ Eden)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0071999",
+    "title": "Place de la République",
+    "year": 1974,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1174,
+    "occurrences": [
+      [
+        90,
+        "00:09:31.070000",
+        "00:09:34.005000",
+        "Why did you choose the Place de la Republique?"
+      ],
+      [
+        866,
+        "01:09:44.613000",
+        "01:09:47.844000",
+        "So I stay in the Place de la Republique and feed them."
+      ]
+    ],
+    "regex": "\\b((?!\\bPlace\\ de\\ la\\ Republique:)Place\\ de\\ la\\ Republique)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

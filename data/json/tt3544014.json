@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3544014",
+    "title": "Akron",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1208,
+    "occurrences": [
+      [
+        461,
+        "00:31:00.853000",
+        "00:31:02.321000",
+        "Akron, Ohio, huh?"
+      ],
+      [
+        675,
+        "00:44:26.347000",
+        "00:44:27.813000",
+        "I mean Akron."
+      ]
+    ],
+    "regex": "\\b((?!\\bAkron:)Akron)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

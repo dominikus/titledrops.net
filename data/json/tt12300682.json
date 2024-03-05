@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt12300682",
+    "title": "Bernie Blackout",
+    "year": 2020,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1926,
+    "occurrences": [
+      [
+        102,
+        "00:04:25.724000",
+        "00:04:27.434000",
+        "Well, the Bernie blackout was a term"
+      ],
+      [
+        348,
+        "00:15:43.359000",
+        "00:15:45.444000",
+        "-No matter how much there's been a Bernie blackout,"
+      ],
+      [
+        538,
+        "00:24:13.952000",
+        "00:24:20.542000",
+        "-I think the Bernie blackout is an ideological tendency"
+      ]
+    ],
+    "regex": "\\b((?!\\bBernie\\ Blackout:)Bernie\\ Blackout)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

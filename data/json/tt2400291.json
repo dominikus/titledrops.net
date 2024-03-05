@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2400291",
+    "title": "The Barkley Marathons: The Race That Eats Its Young",
+    "year": 2014,
+    "genres": [
+      "Adventure",
+      "Documentary",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1734,
+    "occurrences": [
+      [
+        1715,
+        "01:26:55.543000",
+        "01:26:56.676000",
+        "and it's called the Barkley Marathons"
+      ],
+      [
+        1727,
+        "01:27:34.749000",
+        "01:27:38.619000",
+        "The Barkley Marathons, it has its own ring to it."
+      ]
+    ],
+    "regex": "\\b((?!\\bBarkley\\ Marathons:)Barkley\\ Marathons|(?!\\bRace\\ That\\ Eats\\ Its\\ Young:)Race\\ That\\ Eats\\ Its\\ Young)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

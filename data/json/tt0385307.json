@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0385307",
+    "title": "Miss Congeniality 2: Armed & Fabulous",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1482,
+    "occurrences": [
+      [
+        35,
+        "00:03:41.304000",
+        "00:03:44.967000",
+        "You're that Miss Congeniality lady."
+      ],
+      [
+        229,
+        "00:18:16.044000",
+        "00:18:18.535000",
+        "...From Misdemeanors to Miss Congeniality."
+      ]
+    ],
+    "regex": "\\b((?!\\bMiss\\ Congeniality:)Miss\\ Congeniality|(?!\\bArmed\\ \\&\\ Fabulous:)Armed\\ \\&\\ Fabulous)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

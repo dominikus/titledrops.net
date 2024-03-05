@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0452624",
+    "title": "The Good German",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 934,
+    "occurrences": [
+      [
+        25,
+        "00:04:18.080000",
+        "00:04:20.720000",
+        "Plenty of good German folk|back in Schenectady."
+      ],
+      [
+        785,
+        "01:18:53.560000",
+        "01:18:55.440000",
+        "He's a good German."
+      ],
+      [
+        852,
+        "01:34:42.960000",
+        "01:34:45.160000",
+        "Lots of good German folk."
+      ]
+    ],
+    "regex": "\\b((?!\\bGood\\ German:)Good\\ German)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

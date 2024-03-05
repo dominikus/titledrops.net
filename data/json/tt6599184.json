@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt6599184",
+    "title": "The Delegation",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 603,
+    "occurrences": [
+      [
+        5,
+        "00:04:23.120000",
+        "00:04:27.420000",
+        "This afternoon a European delegation arrived in the land of eagles."
+      ],
+      [
+        6,
+        "00:04:27.500000",
+        "00:04:31.500000",
+        "For two days, the delegation will discuss with our leaders"
+      ],
+      [
+        8,
+        "00:04:34",
+        "00:04:36.460000",
+        "The European delegation arrives in Tirana."
+      ],
+      [
+        16,
+        "00:05:05.840000",
+        "00:05:10.520000",
+        "The European delegation will be received in the Palace of Brigades"
+      ],
+      [
+        442,
+        "00:55:29.300000",
+        "00:55:33.820000",
+        "My chief said you are to meet with a delegation representative."
+      ]
+    ],
+    "regex": "\\b((?!\\bDelegation:)Delegation)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

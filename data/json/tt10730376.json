@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt10730376",
+    "title": "The Penthouse",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1324,
+    "occurrences": [
+      [
+        12,
+        "00:03:18.991000",
+        "00:03:22.394000",
+        "Peter, Amanda, welcome to Penthouse One."
+      ],
+      [
+        482,
+        "00:29:12.611000",
+        "00:29:15.180000",
+        "No, we just watch them from the penthouse."
+      ],
+      [
+        759,
+        "00:44:14.113000",
+        "00:44:17.116000",
+        "Maybe it's not a penthouse view, but I call it home."
+      ],
+      [
+        786,
+        "00:45:59.985000",
+        "00:46:03.656000",
+        "So how long you been watching me from up there, penthouse man?"
+      ],
+      [
+        1312,
+        "01:23:41.446000",
+        "01:23:44.249000",
+        "No, but we're not going back to the penthouse either."
+      ],
+      [
+        1321,
+        "01:24:19.919000",
+        "01:24:21.954000",
+        "welcome to Penthouse One."
+      ]
+    ],
+    "regex": "\\b((?!\\bPenthouse:)Penthouse)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

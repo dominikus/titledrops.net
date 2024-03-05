@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0039463",
+    "title": "High Tide",
+    "year": 1947,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 2,
+    "all_lines": 1387,
+    "occurrences": [
+      [
+        18,
+        "00:03:55.865000",
+        "00:03:57.825000",
+        "What time is high tide, got any idea?"
+      ],
+      [
+        1384,
+        "01:10:49.624000",
+        "01:10:51.084000",
+        "That'll be my high tide."
+      ]
+    ],
+    "regex": "\\b((?!\\bHigh\\ Tide:)High\\ Tide)(?!\\:)(?!'t)\\b",
+    "runtime": 72,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

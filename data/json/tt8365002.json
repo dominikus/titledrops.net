@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt8365002",
+    "title": "Run",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 764,
+    "occurrences": [
+      [
+        571,
+        "00:55:12.370000",
+        "00:55:14.120000",
+        "We didn't run very far, did we?"
+      ],
+      [
+        613,
+        "00:58:09.370000",
+        "00:58:11.370000",
+        "I've run out of ways to help you."
+      ],
+      [
+        626,
+        "00:59:04.828000",
+        "00:59:07.162000",
+        "I remember you used to ask me to run away with you."
+      ],
+      [
+        752,
+        "01:14:42.912000",
+        "01:14:49.162000",
+        "And no matter where you sleep tonight or how far you run"
+      ]
+    ],
+    "regex": "\\b((?!\\bRun:)Run)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

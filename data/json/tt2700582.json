@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2700582",
+    "title": "Another Life",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 948,
+    "occurrences": [
+      [
+        5,
+        "00:03:12.492000",
+        "00:03:15.741000",
+        "Another Life"
+      ],
+      [
+        425,
+        "00:40:40.126000",
+        "00:40:43.751000",
+        "I never thought of another life... before you."
+      ]
+    ],
+    "regex": "\\b((?!\\bAnother\\ Life:)Another\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

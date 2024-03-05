@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3202120",
+    "title": "Barbecue",
+    "year": 2014,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1734,
+    "occurrences": [
+      [
+        18,
+        "00:02:09.333000",
+        "00:02:10.417000",
+        "A barbecue"
+      ],
+      [
+        95,
+        "00:05:41.583000",
+        "00:05:42.958000",
+        "It's just a barbecue."
+      ],
+      [
+        1026,
+        "00:52:42.167000",
+        "00:52:44.083000",
+        "Know what? Forget the barbecue."
+      ]
+    ],
+    "regex": "\\b((?!\\bBarbecue:)Barbecue)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

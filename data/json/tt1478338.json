@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1478338",
+    "title": "Bridesmaids",
+    "year": 2011,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1572,
+    "occurrences": [
+      [
+        759,
+        "00:37:26.406000",
+        "00:37:27.532000",
+        "To my bridesmaids."
+      ],
+      [
+        843,
+        "00:40:52.560000",
+        "00:40:54.187000",
+        "for bridesmaids' fittings is in seven weeks."
+      ],
+      [
+        890,
+        "00:42:37.565000",
+        "00:42:40.591000",
+        "Ladies, let's not decide on this bridesmaids' dress straight away."
+      ]
+    ],
+    "regex": "\\b((?!\\bBridesmaids:)Bridesmaids)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0298228",
+    "title": "Whale Rider",
+    "year": 2002,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 592,
+    "occurrences": [
+      [
+        9,
+        "00:02:20.807000",
+        "00:02:23.002000",
+        "for the descendant of the whale rider..."
+      ],
+      [
+        589,
+        "01:37:36.179000",
+        "01:37:38.613000",
+        "stretching all the way back to the whale rider."
+      ]
+    ],
+    "regex": "\\b((?!\\bWhale\\ Rider:)Whale\\ Rider)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0040090",
+    "title": "The Lovers of Verona",
+    "year": 1949,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1475,
+    "occurrences": [
+      [
+        259,
+        "00:18:52.465000",
+        "00:18:54.341000",
+        "\"Lovers of Verona.\""
+      ],
+      [
+        260,
+        "00:18:54.509000",
+        "00:18:57.427000",
+        "And they come rolling in Venice \"Lovers of Verona\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLovers\\ of\\ Verona:)Lovers\\ of\\ Verona)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1252610",
+    "title": "North",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 313,
+    "occurrences": [
+      [
+        165,
+        "00:37:12.833000",
+        "00:37:17.707000",
+        "- I've got a son up north. - Yes."
+      ],
+      [
+        175,
+        "00:46:11.791000",
+        "00:46:15.374000",
+        "- Where are you headed? - North... preferably."
+      ],
+      [
+        176,
+        "00:46:15.708000",
+        "00:46:18.457000",
+        "- North where? - Tamok Valley."
+      ],
+      [
+        256,
+        "00:58:56.583000",
+        "00:59:00.124000",
+        "- Where are you headed? - North."
+      ],
+      [
+        257,
+        "00:59:00.458000",
+        "00:59:07.124000",
+        "- And when you're not going north? - Then I will consider heading south."
+      ]
+    ],
+    "regex": "\\b((?!\\bNorth:)North)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt10559102",
+    "title": "Supercell",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1348,
+    "occurrences": [
+      [
+        537,
+        "00:40:49.011000",
+        "00:40:53.014000",
+        "You got yourself a classic Supercell right there."
+      ],
+      [
+        809,
+        "00:59:37.965000",
+        "00:59:40.577000",
+        "Welcome to the backside of a Supercell."
+      ],
+      [
+        1079,
+        "01:15:27.435000",
+        "01:15:28.654000",
+        "Supercell."
+      ]
+    ],
+    "regex": "\\b((?!\\bSupercell:)Supercell)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt27727400",
+    "title": "Battlefield: Fall of the World",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 994,
+    "occurrences": [
+      [
+        67,
+        "00:10:35.210000",
+        "00:10:40.050000",
+        "Battlefield: Fall of the World"
+      ],
+      [
+        404,
+        "00:34:46.530000",
+        "00:34:48.010000",
+        "That's why you haven't escaped the battlefield in your entire life."
+      ]
+    ],
+    "regex": "\\b((?!\\bBattlefield:)Battlefield|(?!\\bFall\\ of\\ the\\ World:)Fall\\ of\\ the\\ World)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

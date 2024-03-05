@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1266664",
+    "title": "The Happy Life",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 710,
+    "occurrences": [
+      [
+        3,
+        "00:01:06.533000",
+        "00:01:13.803000",
+        "The Happy Life"
+      ],
+      [
+        582,
+        "00:50:37.934000",
+        "00:50:39.697000",
+        "'Happy Life? '"
+      ]
+    ],
+    "regex": "\\b((?!\\bHappy\\ Life:)Happy\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

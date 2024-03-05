@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0089477",
+    "title": "Letter to Brezhnev",
+    "year": 1985,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1202,
+    "occurrences": [
+      [
+        751,
+        "01:03:41.051000",
+        "01:03:42.471000",
+        "To write a letter to Brezhnev."
+      ],
+      [
+        1190,
+        "01:32:04.051000",
+        "01:32:07.551000",
+        "# Then we sent a letter to Brezhnev"
+      ]
+    ],
+    "regex": "\\b((?!\\bLetter\\ to\\ Brezhnev:)Letter\\ to\\ Brezhnev)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

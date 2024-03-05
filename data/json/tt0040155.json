@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt0040155",
+    "title": "Berlin Express",
+    "year": 1948,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 1,
+    "all_lines": 1037,
+    "occurrences": [
+      [
+        961,
+        "01:15:31.600000",
+        "01:15:37.360000",
+        "'Wannsee is as close as you can bring the Berlin express today.'"
+      ]
+    ],
+    "regex": "\\b((?!\\bBerlin\\ Express:)Berlin\\ Express)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

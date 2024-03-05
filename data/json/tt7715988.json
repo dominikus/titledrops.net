@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7715988",
+    "title": "Cake",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1248,
+    "occurrences": [
+      [
+        793,
+        "01:12:50.917000",
+        "01:12:52.750000",
+        "Have you ordered cake for the party?"
+      ],
+      [
+        797,
+        "01:12:58.583000",
+        "01:13:00.083000",
+        "Zareen, if you don't bake the cake"
+      ]
+    ],
+    "regex": "\\b((?!\\bCake:)Cake)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

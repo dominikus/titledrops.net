@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0040455",
+    "title": "The Hunted",
+    "year": 1948,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 2,
+    "all_lines": 1120,
+    "occurrences": [
+      [
+        482,
+        "00:31:03.786000",
+        "00:31:06.386000",
+        "The only guys I've ever seen with that look were being hunted."
+      ],
+      [
+        1068,
+        "01:19:55.874000",
+        "01:19:57.874000",
+        "You haunted, tormented and hunted me"
+      ]
+    ],
+    "regex": "\\b((?!\\bHunted:)Hunted)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

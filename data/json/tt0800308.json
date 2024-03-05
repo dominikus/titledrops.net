@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0800308",
+    "title": "Appaloosa",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 704,
+    "occurrences": [
+      [
+        20,
+        "00:03:39.335000",
+        "00:03:42.566000",
+        "And as we looked down on a town called Appaloosa..."
+      ],
+      [
+        671,
+        "00:56:57.597000",
+        "00:56:59.531000",
+        "Now, the citizens of Appaloosa..."
+      ]
+    ],
+    "regex": "\\b((?!\\bAppaloosa:)Appaloosa)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

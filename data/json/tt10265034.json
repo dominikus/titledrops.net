@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt10265034",
+    "title": "Land",
+    "year": 2021,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 751,
+    "occurrences": [
+      [
+        77,
+        "00:07:32.392000",
+        "00:07:35.959000",
+        "This is all hunting land here."
+      ],
+      [
+        377,
+        "00:46:04.617000",
+        "00:46:07.150000",
+        "What if aliens land here?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLand:)Land)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

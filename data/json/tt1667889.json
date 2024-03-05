@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt1667889",
+    "title": "Ice Age: Continental Drift",
+    "year": 2012,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 1,
+    "all_lines": 648,
+    "occurrences": [
+      [
+        50,
+        "00:08:10.460000",
+        "00:08:14.670000",
+        "- But we fought dinosaurs in the Ice Age... didn't make sense but sure was exciting."
+      ]
+    ],
+    "regex": "\\b((?!\\bIce\\ Age:)Ice\\ Age|(?!\\bContinental\\ Drift:)Continental\\ Drift)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

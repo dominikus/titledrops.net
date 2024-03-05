@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0040983",
+    "title": "You Were Meant for Me",
+    "year": 1948,
+    "genres": [
+      "Drama",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 1324,
+    "occurrences": [
+      [
+        73,
+        "00:07:33.001000",
+        "00:07:36.001000",
+        "of a little tune titled 'You Were Meant for Me.'"
+      ],
+      [
+        74,
+        "00:07:42.102000",
+        "00:07:47.002000",
+        "# You were meant for me #"
+      ]
+    ],
+    "regex": "\\b((?!\\bYou\\ Were\\ Meant\\ for\\ Me:)You\\ Were\\ Meant\\ for\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

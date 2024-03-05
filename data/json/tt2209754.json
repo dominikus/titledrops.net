@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt2209754",
+    "title": "Signál",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 976,
+    "occurrences": [
+      [
+        59,
+        "00:06:32.880000",
+        "00:06:35.880000",
+        "which carries out signal localization"
+      ],
+      [
+        134,
+        "00:12:49.120000",
+        "00:12:52.680000",
+        "I heard you're going to monitor the signal strength here."
+      ],
+      [
+        275,
+        "00:27:32.440000",
+        "00:27:34.840000",
+        "- What? - The signal of course."
+      ],
+      [
+        713,
+        "01:16:31.120000",
+        "01:16:35.040000",
+        "perhaps like the municipal one, the signal is better?"
+      ],
+      [
+        714,
+        "01:16:36.320000",
+        "01:16:41.080000",
+        "Sir, this is not cheese. The signal is simple here."
+      ],
+      [
+        952,
+        "01:42:50.520000",
+        "01:42:54.480000",
+        "We'll have a cell phone signal here next month so you can call me."
+      ]
+    ],
+    "regex": "\\b((?!\\bSignal:)Signal)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0056703",
+    "title": "The World's Greatest Sinner",
+    "year": 1962,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1122,
+    "occurrences": [
+      [
+        1,
+        "00:00:15.415000",
+        "00:00:17.450000",
+        "Oh, he's the world's greatest sinner"
+      ],
+      [
+        3,
+        "00:00:18.585000",
+        "00:00:21.187000",
+        "I said the world's greatest sinner"
+      ],
+      [
+        10,
+        "00:00:34.267000",
+        "00:00:36.302000",
+        "He's the world's greatest sinner"
+      ],
+      [
+        15,
+        "00:00:45.945000",
+        "00:00:47.947000",
+        "He's the world's greatest sinner"
+      ],
+      [
+        17,
+        "00:00:49.215000",
+        "00:00:51.518000",
+        "I said the world's greatest sinner"
+      ]
+    ],
+    "regex": "\\b((?!\\bWorld's\\ Greatest\\ Sinner:)World's\\ Greatest\\ Sinner)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

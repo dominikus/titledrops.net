@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt5029776",
+    "title": "Rabbit School: Guardians of the Golden Egg",
+    "year": 2017,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 7,
+    "all_lines": 1533,
+    "occurrences": [
+      [
+        176,
+        "00:09:32.068000",
+        "00:09:34.069000",
+        "Oh, the Rabbit School."
+      ],
+      [
+        185,
+        "00:09:48.346000",
+        "00:09:51.580000",
+        "I would so like to go the Rabbit School."
+      ],
+      [
+        296,
+        "00:14:27.356000",
+        "00:14:31.456000",
+        "Is that like supposed to be the rabbit school?"
+      ],
+      [
+        571,
+        "00:27:28.307000",
+        "00:27:30.608000",
+        "Is this the way to the rabbit school?"
+      ],
+      [
+        1231,
+        "01:00:15.046000",
+        "01:00:17.847000",
+        "The Rabbit School is in danger!"
+      ],
+      [
+        1232,
+        "01:00:17.849000",
+        "01:00:19.815000",
+        "Rabbit School?"
+      ],
+      [
+        1279,
+        "01:02:32.117000",
+        "01:02:33.949000",
+        "The foxes are in the Rabbit School!"
+      ]
+    ],
+    "regex": "\\b((?!\\bRabbit\\ School:)Rabbit\\ School|(?!\\bGuardians\\ of\\ the\\ Golden\\ Egg:)Guardians\\ of\\ the\\ Golden\\ Egg)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

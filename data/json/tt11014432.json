@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt11014432",
+    "title": "Agent Toby Barks",
+    "year": 2020,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 1343,
+    "occurrences": [
+      [
+        32,
+        "00:03:18.891000",
+        "00:03:23.461000",
+        "Agent Toby Barks, do you read me?"
+      ],
+      [
+        33,
+        "00:03:23.495000",
+        "00:03:27.099000",
+        "- - Agent Toby Barks, come back."
+      ],
+      [
+        687,
+        "00:43:43.115000",
+        "00:43:44.483000",
+        "This is Agent Toby Barks"
+      ],
+      [
+        1207,
+        "01:12:32.878000",
+        "01:12:35.748000",
+        "Agent Toby Barks."
+      ]
+    ],
+    "regex": "\\b((?!\\bAgent\\ Toby\\ Barks:)Agent\\ Toby\\ Barks)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.4
+  }
+]

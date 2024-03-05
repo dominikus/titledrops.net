@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2420006",
+    "title": "12 O'Clock Boys",
+    "year": 2013,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1086,
+    "occurrences": [
+      [
+        27,
+        "00:02:50.737000",
+        "00:02:52.804000",
+        "They call 'em the 12 O'Clock Boys..."
+      ],
+      [
+        486,
+        "00:32:18.437000",
+        "00:32:21.238000",
+        "For real. They just call us the 12 O'Clock Boys."
+      ]
+    ],
+    "regex": "\\b((?!\\b12\\ O'Clock\\ Boys:)12\\ O'Clock\\ Boys)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

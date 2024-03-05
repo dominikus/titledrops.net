@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0233234",
+    "title": "Land of Fear",
+    "year": 1999,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1221,
+    "occurrences": [
+      [
+        66,
+        "00:08:18.940000",
+        "00:08:23.800000",
+        "Your mission code name is 'Land of Fear'. It will end with your death."
+      ],
+      [
+        86,
+        "00:10:26.410000",
+        "00:10:30.300000",
+        "We will send you to the Land of Fear with a new code name:"
+      ],
+      [
+        495,
+        "01:00:30.700000",
+        "01:00:33.910000",
+        "My isolation in the land of fear had pushed me to ask for help."
+      ],
+      [
+        1160,
+        "02:16:45.340000",
+        "02:16:50.890000",
+        "I realized that my mission was over. It was time to depart the land of fear."
+      ],
+      [
+        1215,
+        "02:22:08.920000",
+        "02:22:10.430000",
+        "in the land of fear."
+      ],
+      [
+        1220,
+        "02:23:51.440000",
+        "02:23:54.790000",
+        "looking back fondly on the land of fear."
+      ]
+    ],
+    "regex": "\\b((?!\\bLand\\ of\\ Fear:)Land\\ of\\ Fear)(?!\\:)(?!'t)\\b",
+    "runtime": 146,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.2
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1972591",
+    "title": "King Arthur: Legend of the Sword",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1264,
+    "occurrences": [
+      [
+        60,
+        "00:10:45.124000",
+        "00:10:50.200000",
+        "King Arthur"
+      ],
+      [
+        61,
+        "00:10:50.301000",
+        "00:10:54.134000",
+        "The legend of the sword"
+      ],
+      [
+        794,
+        "01:05:30.417000",
+        "01:05:33.817000",
+        ".. .to came the legend of the sword..."
+      ],
+      [
+        1261,
+        "01:57:55.447000",
+        "01:57:56.549000",
+        "King Arthur."
+      ]
+    ],
+    "regex": "\\b((?!\\bKing\\ Arthur:)King\\ Arthur|(?!\\bLegend\\ of\\ the\\ Sword:)Legend\\ of\\ the\\ Sword)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

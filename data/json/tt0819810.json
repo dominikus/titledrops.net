@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0819810",
+    "title": "Traffic Signal",
+    "year": 2007,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1051,
+    "occurrences": [
+      [
+        12,
+        "00:03:01.848000",
+        "00:03:05.181000",
+        "All the cars that stop at the traffic signal.."
+      ],
+      [
+        67,
+        "00:05:43.042000",
+        "00:05:46.842000",
+        "And yes! Wait at your traffic signal. I'll dig up the street."
+      ]
+    ],
+    "regex": "\\b((?!\\bTraffic\\ Signal:)Traffic\\ Signal)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

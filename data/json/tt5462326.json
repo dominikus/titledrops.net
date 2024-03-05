@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5462326",
+    "title": "Mom and Dad",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1392,
+    "occurrences": [
+      [
+        724,
+        "00:40:20.519000",
+        "00:40:23.186000",
+        "before Mom and Dad come home."
+      ],
+      [
+        922,
+        "00:49:59.429000",
+        "00:50:01.630000",
+        "Mom and Dad."
+      ],
+      [
+        1111,
+        "01:01:04.360000",
+        "01:01:07.062000",
+        "is that Mom and Dad want to hurt us."
+      ]
+    ],
+    "regex": "\\b((?!\\bMom\\ and\\ Dad:)Mom\\ and\\ Dad)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

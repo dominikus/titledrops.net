@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt11534392",
+    "title": "Malazgirt 1071",
+    "year": 2022,
+    "genres": [
+      "History",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 941,
+    "occurrences": [
+      [
+        730,
+        "01:30:11.960000",
+        "01:30:17.640000",
+        "With Allah's grace, we will establish our camp around Malazgirt."
+      ],
+      [
+        810,
+        "01:39:43.880000",
+        "01:39:47.200000",
+        "MALAZGIRT PLAIN"
+      ],
+      [
+        905,
+        "02:02:31.600000",
+        "02:02:34.240000",
+        "AFTER THE MALAZGIRT VICTORY ON AUGUST 26"
+      ],
+      [
+        931,
+        "02:04:55.640000",
+        "02:04:58.360000",
+        "We stand before Malazgirt, Alp-Arslan"
+      ]
+    ],
+    "regex": "\\b((?!\\bMalazgirt:)Malazgirt)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

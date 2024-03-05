@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt4384186",
+    "title": "A Love You",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1455,
+    "occurrences": [
+      [
+        293,
+        "00:18:03.125000",
+        "00:18:04.458000",
+        "Why \"A love you\"?"
+      ],
+      [
+        294,
+        "00:18:05.500000",
+        "00:18:07.708000",
+        "It means \"I love you\" in English."
+      ],
+      [
+        295,
+        "00:18:08.125000",
+        "00:18:09.125000",
+        "I love you."
+      ]
+    ],
+    "regex": "\\b((?!\\bLove\\ You:)Love\\ You)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

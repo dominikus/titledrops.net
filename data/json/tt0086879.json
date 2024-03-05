@@ -1,0 +1,29 @@
+[
+  {
+    "imdb": "tt0086879",
+    "title": "Amadeus",
+    "year": 1984,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "count": 1,
+    "all_lines": 1641,
+    "occurrences": [
+      [
+        51,
+        "00:09:22.865000",
+        "00:09:26.660000",
+        "Amadeus Mozart."
+      ]
+    ],
+    "regex": "\\b((?!\\bAmadeus:)Amadeus)(?!\\:)(?!'t)\\b",
+    "runtime": 180,
+    "characters": [
+      "Wolfgang Amadeus Mozart"
+    ],
+    "title_is_name": true,
+    "rating": 8.4
+  }
+]

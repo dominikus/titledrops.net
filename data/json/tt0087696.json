@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0087696",
+    "title": "Improper Conduct",
+    "year": 1984,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1479,
+    "occurrences": [
+      [
+        262,
+        "00:20:53.040000",
+        "00:20:55.998000",
+        "A term was invented for them, \"Improper Conduct\"."
+      ],
+      [
+        1460,
+        "01:43:15.560000",
+        "01:43:16.834000",
+        "to have \"improper conduct\","
+      ]
+    ],
+    "regex": "\\b((?!\\bImproper\\ Conduct:)Improper\\ Conduct)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2876428",
+    "title": "Good Day, Ramon",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1027,
+    "occurrences": [
+      [
+        11,
+        "00:04:20.393000",
+        "00:04:25.057000",
+        "Good day, Ramon"
+      ],
+      [
+        648,
+        "01:20:31.411000",
+        "01:20:33.174000",
+        "Good day, Ramon!"
+      ]
+    ],
+    "regex": "\\b((?!\\bGood\\ Day,\\ Ramon:)Good\\ Day,\\ Ramon)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

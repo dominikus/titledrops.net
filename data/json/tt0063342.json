@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0063342",
+    "title": "Innocence Unprotected",
+    "year": 1968,
+    "genres": [
+      "Comedy",
+      "Documentary",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 789,
+    "occurrences": [
+      [
+        30,
+        "00:02:23.943000",
+        "00:02:28.437000",
+        "I brought Innocence Unprotected to the village of Rakovica."
+      ],
+      [
+        788,
+        "01:19:30.465000",
+        "01:19:34.799000",
+        "Innocence Unprotected, completed and shown under the Occupation."
+      ]
+    ],
+    "regex": "\\b((?!\\bInnocence\\ Unprotected:)Innocence\\ Unprotected)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

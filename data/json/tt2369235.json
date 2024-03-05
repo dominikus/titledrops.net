@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2369235",
+    "title": "Dean Slater: Resident Advisor",
+    "year": 2013,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1427,
+    "occurrences": [
+      [
+        1390,
+        "01:15:35.230000",
+        "01:15:40.234000",
+        "-Dean Slater, it's been a long time."
+      ],
+      [
+        1397,
+        "01:16:03.492000",
+        "01:16:07.662000",
+        "Dean Slater, we've read the \"Dopus.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bDean\\ Slater:)Dean\\ Slater|(?!\\bResident\\ Advisor:)Resident\\ Advisor)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

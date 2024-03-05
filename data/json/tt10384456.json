@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt10384456",
+    "title": "Terror Trips",
+    "year": 2021,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1455,
+    "occurrences": [
+      [
+        85,
+        "00:03:15.667000",
+        "00:03:17.271000",
+        "It's called Terror Trips."
+      ],
+      [
+        100,
+        "00:03:44.025000",
+        "00:03:46.630000",
+        "we'll launch it as a new Terror Trips destination."
+      ],
+      [
+        297,
+        "00:13:01.956000",
+        "00:13:06.992000",
+        "Guys, we are expanding Terror Trips to Europe."
+      ]
+    ],
+    "regex": "\\b((?!\\bTerror\\ Trips:)Terror\\ Trips)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

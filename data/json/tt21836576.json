@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt21836576",
+    "title": "Ivy + Bean: Doomed to Dance",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1105,
+    "occurrences": [
+      [
+        412,
+        "00:18:58.595000",
+        "00:19:00.514000",
+        "Doomed to dance."
+      ],
+      [
+        1071,
+        "00:48:15.517000",
+        "00:48:18.645000",
+        "If you're doomed to dance I'm glad you're at the party"
+      ]
+    ],
+    "regex": "\\b((?!\\bIvy\\ \\+\\ Bean:)Ivy\\ \\+\\ Bean|(?!\\bDoomed\\ to\\ Dance:)Doomed\\ to\\ Dance)(?!\\:)(?!'t)\\b",
+    "runtime": 53,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

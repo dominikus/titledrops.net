@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0405312",
+    "title": "The Teacher",
+    "year": 2000,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 853,
+    "occurrences": [
+      [
+        103,
+        "00:09:56.529000",
+        "00:10:01.091000",
+        "Sumiko, a music teacher and daughter of the man who founded the school..."
+      ],
+      [
+        104,
+        "00:10:01.834000",
+        "00:10:07.864000",
+        "fell in love with Eugon Metcalfe, an art teacher brought from Germany."
+      ],
+      [
+        156,
+        "00:16:04.663000",
+        "00:16:07.894000",
+        "We have an English art teacher. Sometimes he helps us out in Paris."
+      ],
+      [
+        256,
+        "00:24:24.095000",
+        "00:24:27.030000",
+        "'No, Sir! We're teacher and student!'"
+      ],
+      [
+        361,
+        "00:37:43.694000",
+        "00:37:46.254000",
+        "I'm his homeroom teacher."
+      ],
+      [
+        577,
+        "01:07:16.399000",
+        "01:07:20.301000",
+        "Metcalfe? The art teacher from years ago?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTeacher:)Teacher)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4431104",
+    "title": "Septet: The Story of Hong Kong",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1246,
+    "occurrences": [
+      [
+        1201,
+        "01:41:01.319000",
+        "01:41:03.194000",
+        "Septet!"
+      ],
+      [
+        1202,
+        "01:41:03.277000",
+        "01:41:06.002000",
+        "Septet?! Are you making films or in a band?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSeptet:)Septet|(?!\\bStory\\ of\\ Hong\\ Kong:)Story\\ of\\ Hong\\ Kong)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

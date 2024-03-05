@@ -1,0 +1,53 @@
+[
+  {
+    "imdb": "tt0106722",
+    "title": "Digger",
+    "year": 1993,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 6,
+    "all_lines": 750,
+    "occurrences": [
+      [
+        11,
+        "00:03:10.060000",
+        "00:03:11.060000",
+        "and I'd show digger"
+      ],
+      [
+        125,
+        "00:16:40.300000",
+        "00:16:42.560000",
+        "because my nephew digger digger this belly"
+      ],
+      [
+        147,
+        "00:20:38.140000",
+        "00:20:39.140000",
+        "Digger"
+      ],
+      [
+        459,
+        "00:51:12.460000",
+        "00:51:13.730000",
+        "Good idea digger"
+      ],
+      [
+        721,
+        "01:18:05.160000",
+        "01:18:06.160000",
+        "digger"
+      ]
+    ],
+    "regex": "\\b((?!\\bDigger:)Digger)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [
+      "Digger"
+    ],
+    "title_is_name": true,
+    "rating": 5.3
+  }
+]

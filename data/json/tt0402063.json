@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0402063",
+    "title": "The Birthday",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 928,
+    "occurrences": [
+      [
+        18,
+        "00:02:35.920000",
+        "00:02:38.605000",
+        "Well, but this is a birthday party, remember?"
+      ],
+      [
+        82,
+        "00:07:18.080000",
+        "00:07:20.039000",
+        "Birthday, so I mean, her father's birthday."
+      ],
+      [
+        376,
+        "00:32:51.920000",
+        "00:32:54.161000",
+        "No, no, it is not birthday gift."
+      ]
+    ],
+    "regex": "\\b((?!\\bBirthday:)Birthday)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

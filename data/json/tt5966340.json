@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt5966340",
+    "title": "Communion",
+    "year": 2016,
+    "genres": [
+      "Documentary",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 721,
+    "occurrences": [
+      [
+        107,
+        "00:10:43.919000",
+        "00:10:46.840000",
+        "The communion is on the 25th. Are you coming?"
+      ],
+      [
+        218,
+        "00:20:05.960000",
+        "00:20:09.400000",
+        "Aren't you ever going to learn? You won't receive communion."
+      ],
+      [
+        246,
+        "00:21:23.440000",
+        "00:21:25.960000",
+        "He won't receive communion if he doesn't pass."
+      ],
+      [
+        250,
+        "00:21:35.440000",
+        "00:21:38.319000",
+        "If he doesn't know the answers there will be no communion for him."
+      ],
+      [
+        358,
+        "00:31:19.880000",
+        "00:31:22.200000",
+        "The communion takes all day tomorrow."
+      ],
+      [
+        359,
+        "00:31:22.279000",
+        "00:31:25.880000",
+        "The communion in the morning, then dinner."
+      ]
+    ],
+    "regex": "\\b((?!\\bCommunion:)Communion)(?!\\:)(?!'t)\\b",
+    "runtime": 72,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt2326574",
+    "title": "The Identical",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 6,
+    "all_lines": 1553,
+    "occurrences": [
+      [
+        1000,
+        "01:05:02.740000",
+        "01:05:04.001000",
+        "for The identical!"
+      ],
+      [
+        1109,
+        "01:11:28.980000",
+        "01:11:33.880000",
+        "I signed Ryan Wade \"The identical.\""
+      ],
+      [
+        1280,
+        "01:22:34.940000",
+        "01:22:37.360000",
+        "You have an identical twin brother"
+      ],
+      [
+        1314,
+        "01:25:34.260000",
+        "01:25:37.280000",
+        "This is none other than The identical."
+      ],
+      [
+        1350,
+        "01:27:23.180000",
+        "01:27:27.205000",
+        "Stick around. You might learn something, identical."
+      ],
+      [
+        1394,
+        "01:31:31.820000",
+        "01:31:34.400000",
+        "He was born with an identical twin."
+      ]
+    ],
+    "regex": "\\b((?!\\bIdentical:)Identical)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

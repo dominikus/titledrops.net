@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0407095",
+    "title": "Our Very Own",
+    "year": 2005,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1415,
+    "occurrences": [
+      [
+        513,
+        "00:34:51.822000",
+        "00:34:56.191000",
+        "Our very own Hollywood movie star, Ms. Sondra Locke,"
+      ],
+      [
+        1366,
+        "01:36:57.111000",
+        "01:36:59.739000",
+        ",,, our very own Sondra Locke!"
+      ],
+      [
+        1415,
+        "01:41:56.710000",
+        "01:41:59.679000",
+        "[Nanci Griffith & Keith Carradine: Our Very Own]"
+      ]
+    ],
+    "regex": "\\b((?!\\bOur\\ Very\\ Own:)Our\\ Very\\ Own)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

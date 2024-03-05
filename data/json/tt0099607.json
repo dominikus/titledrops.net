@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0099607",
+    "title": "Cross My Heart",
+    "year": 1990,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1392,
+    "occurrences": [
+      [
+        702,
+        "00:51:20.141000",
+        "00:51:23.006000",
+        "You won't tell him. -Cross my heart."
+      ],
+      [
+        824,
+        "00:59:13.225000",
+        "00:59:15.225000",
+        "I cross my heart not to say anything."
+      ],
+      [
+        1263,
+        "01:28:00.268000",
+        "01:28:01.515000",
+        "Cross my heart!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCross\\ My\\ Heart:)Cross\\ My\\ Heart)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

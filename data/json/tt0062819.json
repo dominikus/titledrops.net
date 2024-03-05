@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0062819",
+    "title": "Commandos",
+    "year": 1968,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 860,
+    "occurrences": [
+      [
+        2,
+        "00:00:05.506000",
+        "00:00:10.091000",
+        "a secret base of commandos in the mediterranean"
+      ],
+      [
+        79,
+        "00:06:07.075000",
+        "00:06:10.158000",
+        "How much combat time have you had with the commandos?"
+      ],
+      [
+        193,
+        "00:23:33.412000",
+        "00:23:35.824000",
+        "- Commandos? How many? - I don't know."
+      ],
+      [
+        777,
+        "01:34:16.860000",
+        "01:34:20.899000",
+        "Valli and the others are American commandos!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCommandos:)Commandos)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

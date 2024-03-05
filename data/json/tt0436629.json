@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0436629",
+    "title": "New York Doll",
+    "year": 2005,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1154,
+    "occurrences": [
+      [
+        330,
+        "00:18:26.695000",
+        "00:18:28.195000",
+        "becoming a New York doll nothing to"
+      ],
+      [
+        1077,
+        "01:08:48.930000",
+        "01:08:50.520000",
+        "New York doll to pass away including"
+      ]
+    ],
+    "regex": "\\b((?!\\bNew\\ York\\ Doll:)New\\ York\\ Doll)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

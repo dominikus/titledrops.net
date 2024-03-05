@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0124869",
+    "title": "Senior Week",
+    "year": 1988,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1548,
+    "occurrences": [
+      [
+        126,
+        "00:07:09.014000",
+        "00:07:11.983000",
+        "And Senior Week can be a start."
+      ],
+      [
+        174,
+        "00:09:14.415000",
+        "00:09:17.039000",
+        "Senior Week."
+      ],
+      [
+        239,
+        "00:11:43.564000",
+        "00:11:45.739000",
+        "And miss Senior Week?"
+      ],
+      [
+        343,
+        "00:16:43.657000",
+        "00:16:46.108000",
+        "This is Senior Week, remember?"
+      ],
+      [
+        813,
+        "00:42:48.358000",
+        "00:42:50.015000",
+        "I mean, it's Senior Week."
+      ]
+    ],
+    "regex": "\\b((?!\\bSenior\\ Week:)Senior\\ Week)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

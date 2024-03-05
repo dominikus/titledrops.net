@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt25274786",
+    "title": "Kannur Squad",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1911,
+    "occurrences": [
+      [
+        395,
+        "00:32:27.583000",
+        "00:32:29.166000",
+        "Kannur Squad."
+      ],
+      [
+        404,
+        "00:32:56.916000",
+        "00:32:59.291000",
+        "He said that the case will be assigned to Kannur squad."
+      ]
+    ],
+    "regex": "\\b((?!\\bKannur\\ Squad:)Kannur\\ Squad)(?!\\:)(?!'t)\\b",
+    "runtime": 161,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

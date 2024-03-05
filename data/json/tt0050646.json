@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0050646",
+    "title": "The Little Hut",
+    "year": 1957,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 680,
+    "occurrences": [
+      [
+        0,
+        "00:00:48.340000",
+        "00:00:54.740000",
+        "The Little Hut"
+      ],
+      [
+        206,
+        "00:26:26.740000",
+        "00:26:28.940000",
+        "The little hut?"
+      ],
+      [
+        454,
+        "00:53:50.620000",
+        "00:53:56.220000",
+        "And then you leave the large hut to the little hut?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Hut:)Little\\ Hut)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

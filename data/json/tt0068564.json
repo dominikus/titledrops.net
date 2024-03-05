@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0068564",
+    "title": "Winter Comes Early",
+    "year": 1971,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 1586,
+    "occurrences": [
+      [
+        1552,
+        "01:38:12.930000",
+        "01:38:16.020000",
+        " But winter comes early"
+      ],
+      [
+        1553,
+        "01:38:20.285000",
+        "01:38:23.898000",
+        "Yes, winter comes early"
+      ],
+      [
+        1560,
+        "01:39:07.680000",
+        "01:39:11.380000",
+        " But winter comes early"
+      ],
+      [
+        1561,
+        "01:39:14.949000",
+        "01:39:18.430000",
+        "Yes, winter comes early"
+      ]
+    ],
+    "regex": "\\b((?!\\bWinter\\ Comes\\ Early:)Winter\\ Comes\\ Early)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

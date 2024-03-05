@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt21287752",
+    "title": "Alluri",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1910,
+    "occurrences": [
+      [
+        404,
+        "00:27:47.991000",
+        "00:27:49.266000",
+        "Alluri Seetharama Raju,"
+      ],
+      [
+        1860,
+        "02:39:36.050000",
+        "02:39:40.841000",
+        "Her name is Alluri Sita Ramaraju and he has led this operation."
+      ]
+    ],
+    "regex": "\\b((?!\\bAlluri:)Alluri)(?!\\:)(?!'t)\\b",
+    "runtime": 165,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

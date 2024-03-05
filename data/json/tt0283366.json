@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0283366",
+    "title": "Gypsy Woman",
+    "year": 2001,
+    "genres": [
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 923,
+    "occurrences": [
+      [
+        26,
+        "00:03:30.240000",
+        "00:03:33.471000",
+        "This old gypsy woman stared him in the eye and said..."
+      ],
+      [
+        793,
+        "01:10:36.440000",
+        "01:10:40.718000",
+        "You think it's such a lark, to rip off some poor gypsy woman."
+      ],
+      [
+        921,
+        "01:20:30.760000",
+        "01:20:34.673000",
+        "l'm left with a gypsy woman, two kids and a couple of horses."
+      ]
+    ],
+    "regex": "\\b((?!\\bGypsy\\ Woman:)Gypsy\\ Woman)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

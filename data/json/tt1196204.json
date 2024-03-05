@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1196204",
+    "title": "Cemetery Junction",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1169,
+    "occurrences": [
+      [
+        5,
+        "00:01:41",
+        "00:01:43.735000",
+        "I see that you grew up in Cemetery Junction."
+      ],
+      [
+        11,
+        "00:01:59.786000",
+        "00:02:02.786000",
+        "Well' l know so because l grew up in Cemetery Junction..."
+      ],
+      [
+        607,
+        "00:40:54.785000",
+        "00:40:57.785000",
+        "You don't want to live in Cemetery Junction all your life."
+      ]
+    ],
+    "regex": "\\b((?!\\bCemetery\\ Junction:)Cemetery\\ Junction)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

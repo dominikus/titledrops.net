@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1047445",
+    "title": "Big Game",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1138,
+    "occurrences": [
+      [
+        23,
+        "00:02:30.250000",
+        "00:02:32.252000",
+        "- Big game, kid, big game (laughing)."
+      ],
+      [
+        180,
+        "00:14:15.521000",
+        "00:14:16.555000",
+        "It's just a big game."
+      ]
+    ],
+    "regex": "\\b((?!\\bBig\\ Game:)Big\\ Game)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

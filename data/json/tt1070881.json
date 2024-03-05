@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1070881",
+    "title": "Video Clip",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 402,
+    "occurrences": [
+      [
+        0,
+        "00:03:31.778000",
+        "00:03:37.410000",
+        "Video Clip"
+      ],
+      [
+        305,
+        "00:44:42.579000",
+        "00:44:46.071000",
+        "The video clip was an important piece of evidence..."
+      ]
+    ],
+    "regex": "\\b((?!\\bVideo\\ Clip:)Video\\ Clip)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

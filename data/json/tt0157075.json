@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0157075",
+    "title": "The Suburbans",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1568,
+    "occurrences": [
+      [
+        431,
+        "00:22:48.868000",
+        "00:22:50.069000",
+        "UH, SUBURBANS."
+      ],
+      [
+        432,
+        "00:22:50.102000",
+        "00:22:51.438000",
+        "SUBURBANS. THAT'S BETTER."
+      ],
+      [
+        434,
+        "00:22:53.940000",
+        "00:22:55.708000",
+        "SUBURBANS."
+      ],
+      [
+        435,
+        "00:22:55.742000",
+        "00:22:57.877000",
+        "HELLO ? I CAN'T HEAR YOU. SUBURBANS."
+      ]
+    ],
+    "regex": "\\b((?!\\bSuburbans:)Suburbans)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

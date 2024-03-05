@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0089652",
+    "title": "My Science Project",
+    "year": 1985,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 898,
+    "occurrences": [
+      [
+        199,
+        "00:18:14.680000",
+        "00:18:18.468000",
+        "l might find something to pass off as my science project."
+      ],
+      [
+        313,
+        "00:30:14.520000",
+        "00:30:17.318000",
+        "Figured l'd pass it off as my science project."
+      ],
+      [
+        413,
+        "00:38:46.280000",
+        "00:38:50.319000",
+        "- Well, what do we do with it? - lt's my science project, remember?"
+      ],
+      [
+        423,
+        "00:39:24.960000",
+        "00:39:29.158000",
+        "- Hey, l'll take it. - l wanted to talk about my science project."
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Science\\ Project:)My\\ Science\\ Project)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

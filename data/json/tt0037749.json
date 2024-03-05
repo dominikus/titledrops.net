@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt0037749",
+    "title": "The Great Flamarion",
+    "year": 1945,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 2,
+    "all_lines": 1103,
+    "occurrences": [
+      [
+        126,
+        "00:10:10.631000",
+        "00:10:11.770000",
+        "The Great Flamarion."
+      ],
+      [
+        127,
+        "00:10:13.776000",
+        "00:10:14.880000",
+        "The Great Flamarion."
+      ]
+    ],
+    "regex": "\\b((?!\\bGreat\\ Flamarion:)Great\\ Flamarion)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [
+      "The Great Flamarion"
+    ],
+    "title_is_name": true,
+    "rating": 6.5
+  }
+]

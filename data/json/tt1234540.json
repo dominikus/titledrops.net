@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1234540",
+    "title": "The Aviatrix of Kazbek",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Musical",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 524,
+    "occurrences": [
+      [
+        9,
+        "00:03:31.720000",
+        "00:03:44.030000",
+        "The Aviatrix of Kazbek"
+      ],
+      [
+        284,
+        "00:50:06.360000",
+        "00:50:09.955000",
+        "fly, aviatrix of Kazbek"
+      ],
+      [
+        292,
+        "00:50:40.760000",
+        "00:50:44.116000",
+        "fly, aviatrix of Kazbek"
+      ],
+      [
+        300,
+        "00:51:15.360000",
+        "00:51:18.830000",
+        "fly, aviatrix of Kazbek"
+      ]
+    ],
+    "regex": "\\b((?!\\bAviatrix\\ of\\ Kazbek:)Aviatrix\\ of\\ Kazbek)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

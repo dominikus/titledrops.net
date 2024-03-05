@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1418712",
+    "title": "Outpost: Black Sun",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 593,
+    "occurrences": [
+      [
+        186,
+        "00:27:35.036000",
+        "00:27:40.874000",
+        "There was a Nazi division with special Weapons, called the Black Sun"
+      ],
+      [
+        538,
+        "01:22:54.978000",
+        "01:22:59.273000",
+        "The Black Sun has built him. Only they have the key."
+      ]
+    ],
+    "regex": "\\b((?!\\bOutpost:)Outpost|(?!\\bBlack\\ Sun:)Black\\ Sun)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

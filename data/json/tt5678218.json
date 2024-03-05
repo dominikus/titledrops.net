@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt5678218",
+    "title": "The Orphanage",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 631,
+    "occurrences": [
+      [
+        97,
+        "00:13:33.083000",
+        "00:13:37.875000",
+        "Louder! The entire orphanage should know your name."
+      ],
+      [
+        350,
+        "00:44:20.125000",
+        "00:44:24.167000",
+        "There are crazy people right next to the orphanage."
+      ],
+      [
+        447,
+        "00:58:58.583000",
+        "00:59:02.667000",
+        "Where in the orphanage did you find money?"
+      ],
+      [
+        619,
+        "01:21:47.625000",
+        "01:21:52.083000",
+        "Mujahideen, this is an orphanage. Young children are..."
+      ]
+    ],
+    "regex": "\\b((?!\\bOrphanage:)Orphanage)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

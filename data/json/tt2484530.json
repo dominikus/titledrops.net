@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2484530",
+    "title": "Amapola",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 628,
+    "occurrences": [
+      [
+        8,
+        "00:06:08.135000",
+        "00:06:09.135000",
+        "Ariel! Amapola!"
+      ],
+      [
+        114,
+        "00:18:07.954000",
+        "00:18:09.894000",
+        "You are Amapola."
+      ],
+      [
+        149,
+        "00:20:12.279000",
+        "00:20:13.559000",
+        "[ Amapola ] Hello."
+      ],
+      [
+        626,
+        "01:19:59.863000",
+        "01:20:05.103000",
+        " Amapola"
+      ]
+    ],
+    "regex": "\\b((?!\\bAmapola:)Amapola)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

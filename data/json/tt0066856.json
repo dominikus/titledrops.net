@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0066856",
+    "title": "Born to Win",
+    "year": 1971,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 686,
+    "occurrences": [
+      [
+        116,
+        "00:15:29.320000",
+        "00:15:30.753000",
+        "\"Born to win. \""
+      ],
+      [
+        117,
+        "00:15:33.160000",
+        "00:15:35.355000",
+        "Are you born to win?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBorn\\ to\\ Win:)Born\\ to\\ Win)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

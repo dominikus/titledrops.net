@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt11388278",
+    "title": "A Week Away",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Family",
+      "Musical"
+    ],
+    "count": 3,
+    "all_lines": 1726,
+    "occurrences": [
+      [
+        3,
+        "00:00:23.773000",
+        "00:00:27.110000",
+        "-  And it's a week away -   I got a feeling"
+      ],
+      [
+        634,
+        "00:31:37.478000",
+        "00:31:40.064000",
+        "You guys are taking a week away to hang out with us."
+      ],
+      [
+        636,
+        "00:31:43.067000",
+        "00:31:47.238000",
+        "And bonus, every once in a while, somebody finds out they're a week away"
+      ]
+    ],
+    "regex": "\\b((?!\\bWeek\\ Away:)Week\\ Away)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

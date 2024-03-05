@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0218112",
+    "title": "American Women",
+    "year": 2000,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1125,
+    "occurrences": [
+      [
+        196,
+        "00:12:00.466000",
+        "00:12:02.474000",
+        "\"invite American women to join them..."
+      ],
+      [
+        283,
+        "00:16:54.557000",
+        "00:16:57.459000",
+        "who are more interested in these American women than they ought to be..."
+      ],
+      [
+        288,
+        "00:17:09.597000",
+        "00:17:12.794000",
+        "What American women want is a bit of style."
+      ],
+      [
+        668,
+        "00:46:45.378000",
+        "00:46:47.233000",
+        "The American women."
+      ]
+    ],
+    "regex": "\\b((?!\\bAmerican\\ Women:)American\\ Women)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

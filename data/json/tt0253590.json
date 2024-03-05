@@ -1,0 +1,65 @@
+[
+  {
+    "imdb": "tt0253590",
+    "title": "Rigoletto",
+    "year": 1987,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 7,
+    "all_lines": 1245,
+    "occurrences": [
+      [
+        4,
+        "00:00:11.861000",
+        "00:00:14.038000",
+        "Rigoletto INGVAR WIXELL"
+      ],
+      [
+        72,
+        "00:08:17.096000",
+        "00:08:18.632000",
+        "Ah! Ah! Rigoletto..."
+      ],
+      [
+        381,
+        "00:32:14.799000",
+        "00:32:15.334000",
+        "Rigoletto!"
+      ],
+      [
+        527,
+        "00:49:30.067000",
+        "00:49:32.843000",
+        "Quiet...Its Rigoletto."
+      ],
+      [
+        532,
+        "00:49:46.750000",
+        "00:49:49.094000",
+        "Eh, Rigoletto?...Is that you?"
+      ],
+      [
+        650,
+        "01:04:20.256000",
+        "01:04:23.237000",
+        "Poor Rigoletto!"
+      ],
+      [
+        653,
+        "01:04:37.406000",
+        "01:04:40.353000",
+        "Good morning, Rigoletto."
+      ]
+    ],
+    "regex": "\\b((?!\\bRigoletto:)Rigoletto)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [
+      "Rigoletto",
+      "Monterone"
+    ],
+    "title_is_name": true,
+    "rating": 8.1
+  }
+]

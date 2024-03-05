@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0209189",
+    "title": "Not One Less",
+    "year": 1999,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1225,
+    "occurrences": [
+      [
+        149,
+        "00:11:35.440000",
+        "00:11:37.895000",
+        "...and not one less, I'll give you an extra 10 yuan!"
+      ],
+      [
+        330,
+        "00:26:04.516000",
+        "00:26:06.473000",
+        "- Not one less. - Who said so?"
+      ]
+    ],
+    "regex": "\\b((?!\\bNot\\ One\\ Less:)Not\\ One\\ Less)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

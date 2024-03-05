@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7124092",
+    "title": "Ghost in the Graveyard",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1312,
+    "occurrences": [
+      [
+        352,
+        "00:23:02.014000",
+        "00:23:04.482000",
+        "Ghost in the graveyard, one, two, three."
+      ],
+      [
+        353,
+        "00:23:04.484000",
+        "00:23:06.384000",
+        "Ghost in the graveyard, can't catch me."
+      ]
+    ],
+    "regex": "\\b((?!\\bGhost\\ in\\ the\\ Graveyard:)Ghost\\ in\\ the\\ Graveyard)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0068280",
+    "title": "Black Girl",
+    "year": 1972,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1505,
+    "occurrences": [
+      [
+        70,
+        "00:06:13.851000",
+        "00:06:16.027000",
+        "Black girl"
+      ],
+      [
+        75,
+        "00:06:37.005000",
+        "00:06:41.226000",
+        "Don't you know what can happen to a black girl"
+      ],
+      [
+        927,
+        "00:58:39.603000",
+        "00:58:41.605000",
+        "Black girl"
+      ],
+      [
+        932,
+        "00:59:02.843000",
+        "00:59:06.717000",
+        "Don't you know what can happen to a black girl"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Girl:)Black\\ Girl)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

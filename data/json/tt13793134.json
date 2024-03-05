@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt13793134",
+    "title": "Nico",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 734,
+    "occurrences": [
+      [
+        421,
+        "00:37:52.125000",
+        "00:37:53.625000",
+        "What's wrong, Nico?"
+      ],
+      [
+        566,
+        "00:49:13.958000",
+        "00:49:15.042000",
+        "Look, Nico."
+      ]
+    ],
+    "regex": "\\b((?!\\bNico:)Nico)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [
+      "Nico"
+    ],
+    "title_is_name": true,
+    "rating": 6.2
+  }
+]

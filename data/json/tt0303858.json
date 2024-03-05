@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0303858",
+    "title": "The Collector",
+    "year": 2002,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1019,
+    "occurrences": [
+      [
+        398,
+        "00:44:01.780000",
+        "00:44:04.840000",
+        "Our collector is getting more and more excited."
+      ],
+      [
+        674,
+        "01:20:06.493000",
+        "01:20:08.859000",
+        "By the Collector."
+      ],
+      [
+        720,
+        "01:24:55.932000",
+        "01:24:58.662000",
+        "I dont if hes your Collector. but thats the Youth Protection guy!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCollector:)Collector)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

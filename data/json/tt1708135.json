@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1708135",
+    "title": "13 Minutes",
+    "year": 2015,
+    "genres": [
+      "Biography",
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 947,
+    "occurrences": [
+      [
+        118,
+        "00:15:44.250000",
+        "00:15:47.667000",
+        "He left the Burgerbraukeller 13 minutes before the explosion"
+      ],
+      [
+        617,
+        "01:10:31.875000",
+        "01:10:33.625000",
+        "All of 13 minutes were missing"
+      ]
+    ],
+    "regex": "\\b((?!\\b13\\ Minutes:)13\\ Minutes)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

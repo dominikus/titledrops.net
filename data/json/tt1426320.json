@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1426320",
+    "title": "BearCity",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1332,
+    "occurrences": [
+      [
+        665,
+        "00:48:57.640000",
+        "00:49:00.154000",
+        "Monday after BearCity."
+      ],
+      [
+        802,
+        "01:00:35.360000",
+        "01:00:39.797000",
+        "Hey, bears! Welcome to Furfest, the official kick off party of BearCity"
+      ]
+    ],
+    "regex": "\\b((?!\\bBearCity:)BearCity)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

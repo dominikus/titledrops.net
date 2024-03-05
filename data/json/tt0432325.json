@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0432325",
+    "title": "The Cave of the Yellow Dog",
+    "year": 2005,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 415,
+    "occurrences": [
+      [
+        229,
+        "00:42:55.052000",
+        "00:42:56.546000",
+        "in ''the cave of the yellow Dog''."
+      ],
+      [
+        230,
+        "00:42:58.668000",
+        "00:43:02.629000",
+        "What's '' the cave of the yellow Dog''?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCave\\ of\\ the\\ Yellow\\ Dog:)Cave\\ of\\ the\\ Yellow\\ Dog)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

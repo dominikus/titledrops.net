@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1166810",
+    "title": "Fat People",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1829,
+    "occurrences": [
+      [
+        529,
+        "00:28:32.847000",
+        "00:28:35.042000",
+        "Because you always hated fat people."
+      ],
+      [
+        1251,
+        "01:09:17.447000",
+        "01:09:21.759000",
+        "The therapist who treats fat people can't stand the sight ofhis fat wife."
+      ]
+    ],
+    "regex": "\\b((?!\\bFat\\ People:)Fat\\ People)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0048967",
+    "title": "Autumn Leaves",
+    "year": 1956,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1190,
+    "occurrences": [
+      [
+        2,
+        "00:00:22.442000",
+        "00:00:24.922000",
+        "# The autumn leaves"
+      ],
+      [
+        14,
+        "00:01:07.322000",
+        "00:01:12.786000",
+        "# When autumn leaves"
+      ],
+      [
+        1190,
+        "01:41:26.275000",
+        "01:41:31.614000",
+        "# When autumn leaves start to fall #"
+      ]
+    ],
+    "regex": "\\b((?!\\bAutumn\\ Leaves:)Autumn\\ Leaves)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

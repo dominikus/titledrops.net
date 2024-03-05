@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0036166",
+    "title": "Mission to Moscow",
+    "year": 1943,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 2599,
+    "occurrences": [
+      [
+        1,
+        "00:00:33.587000",
+        "00:00:36.801000",
+        "i little expected to write \"mission to moscow,\""
+      ],
+      [
+        63,
+        "00:04:03.135000",
+        "00:04:07.267000",
+        "That is why i wrote \"mission to moscow.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bMission\\ to\\ Moscow:)Mission\\ to\\ Moscow)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

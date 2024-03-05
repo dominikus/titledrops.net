@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0357507",
+    "title": "Boogeyman",
+    "year": 2005,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 538,
+    "occurrences": [
+      [
+        309,
+        "00:41:02.593000",
+        "00:41:05.187000",
+        "The Boogeyman took your dad."
+      ],
+      [
+        311,
+        "00:41:19.810000",
+        "00:41:22.506000",
+        "There's no such thing as the Boogeyman."
+      ]
+    ],
+    "regex": "\\b((?!\\bBoogeyman:)Boogeyman)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

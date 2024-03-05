@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt16997558",
+    "title": "The Assistant",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1334,
+    "occurrences": [
+      [
+        96,
+        "00:11:56.583000",
+        "00:11:58.333000",
+        "Her role here is \"a personal assistant.\""
+      ],
+      [
+        456,
+        "00:34:47.375000",
+        "00:34:48.458000",
+        "I have an assistant."
+      ]
+    ],
+    "regex": "\\b((?!\\bAssistant:)Assistant)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

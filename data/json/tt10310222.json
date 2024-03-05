@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt10310222",
+    "title": "Guard",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 553,
+    "occurrences": [
+      [
+        20,
+        "00:09:54.761000",
+        "00:09:57.508000",
+        "I'm a security guard, you fool!"
+      ],
+      [
+        94,
+        "00:23:07.406000",
+        "00:23:10.483000",
+        "I'm on guard - I get it."
+      ],
+      [
+        535,
+        "01:34:41.544000",
+        "01:34:43.554000",
+        "Listen to me, guard."
+      ]
+    ],
+    "regex": "\\b((?!\\bGuard:)Guard)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0092954",
+    "title": "Young Love: Lemon Popsicle 7",
+    "year": 1987,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 871,
+    "occurrences": [
+      [
+        424,
+        "00:41:21.200000",
+        "00:41:24.749000",
+        "Lemon popsicle, lemon popsicle! Chocolate ice cream!"
+      ],
+      [
+        440,
+        "00:43:29.960000",
+        "00:43:32.679000",
+        "Lemon popsicle..."
+      ]
+    ],
+    "regex": "\\b((?!\\bYoung\\ Love:)Young\\ Love|(?!\\bLemon\\ Popsicle:)Lemon\\ Popsicle)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

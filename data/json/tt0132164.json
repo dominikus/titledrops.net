@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0132164",
+    "title": "The Florentine",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1986,
+    "occurrences": [
+      [
+        40,
+        "00:03:24.466000",
+        "00:03:26.032000",
+        "One o'clock, Mondays, The Florentine."
+      ],
+      [
+        913,
+        "00:40:12.976000",
+        "00:40:15.065000",
+        "Florentine's still creeping along."
+      ]
+    ],
+    "regex": "\\b((?!\\bFlorentine:)Florentine)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

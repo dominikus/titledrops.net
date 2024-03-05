@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt12792588",
+    "title": "The Wasteland",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 526,
+    "occurrences": [
+      [
+        0,
+        "00:00:23.959000",
+        "00:00:26.459000",
+        "The Wasteland"
+      ],
+      [
+        378,
+        "00:53:47.959000",
+        "00:53:54.959000",
+        "There were 50 brickworks on this wasteland. They shut down one by one."
+      ]
+    ],
+    "regex": "\\b((?!\\bWasteland:)Wasteland)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

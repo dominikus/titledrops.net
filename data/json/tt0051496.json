@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0051496",
+    "title": "Cowboy",
+    "year": 1958,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 703,
+    "occurrences": [
+      [
+        525,
+        "01:02:54.812000",
+        "01:02:58.475000",
+        "You wanted to play cowboy. Didn't realize it's rough."
+      ],
+      [
+        546,
+        "01:05:44.815000",
+        "01:05:47.215000",
+        "Harris will make a good cowboy."
+      ],
+      [
+        594,
+        "01:12:47.638000",
+        "01:12:50.334000",
+        "He picked a fine time to play cowboy."
+      ]
+    ],
+    "regex": "\\b((?!\\bCowboy:)Cowboy)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

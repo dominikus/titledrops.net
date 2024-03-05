@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1383604",
+    "title": "France",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 842,
+    "occurrences": [
+      [
+        94,
+        "00:10:59.825000",
+        "00:11:02.089000",
+        "That you will never go to France?"
+      ],
+      [
+        112,
+        "00:13:52.998000",
+        "00:13:54.727000",
+        "France -"
+      ]
+    ],
+    "regex": "\\b((?!\\bFrance:)France)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

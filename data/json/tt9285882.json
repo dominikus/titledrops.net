@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt9285882",
+    "title": "Blue Story",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Musical"
+    ],
+    "count": 7,
+    "all_lines": 1639,
+    "occurrences": [
+      [
+        70,
+        "00:02:53.983000",
+        "00:02:55.848000",
+        "Welcome to the Blue Story..."
+      ],
+      [
+        73,
+        "00:02:59.781000",
+        "00:03:02.581000",
+        "Welcome to the Blue Story"
+      ],
+      [
+        1618,
+        "01:27:48.159000",
+        "01:27:49.859000",
+        "That's Blue Story"
+      ],
+      [
+        1623,
+        "01:28:01.760000",
+        "01:28:03.159000",
+        "Yeah, that's the Blue Story"
+      ],
+      [
+        1624,
+        "01:28:03.291000",
+        "01:28:06.227000",
+        "Blue Story, Blue Story Blue Story..."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Story:)Blue\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

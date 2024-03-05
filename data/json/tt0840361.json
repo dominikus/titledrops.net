@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0840361",
+    "title": "The Town",
+    "year": 2010,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 833,
+    "occurrences": [
+      [
+        164,
+        "00:12:56.642000",
+        "00:12:59.202000",
+        "Maybe they make a big drug buy, flip it across town."
+      ],
+      [
+        358,
+        "00:26:07.966000",
+        "00:26:09.957000",
+        "Start with everybody who lives in the town."
+      ]
+    ],
+    "regex": "\\b((?!\\bTown:)Town)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

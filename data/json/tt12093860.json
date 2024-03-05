@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt12093860",
+    "title": "Detective Conan: The Scarlet Bullet",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Animation",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 2644,
+    "occurrences": [
+      [
+        382,
+        "00:15:16.950000",
+        "00:15:19.250000",
+        "Detective Conan: Scarlet Bullet"
+      ],
+      [
+        383,
+        "00:15:22.160000",
+        "00:15:28.330000",
+        "Detective Conan: Scarlet Bullet"
+      ]
+    ],
+    "regex": "\\b((?!\\bDetective\\ Conan:)Detective\\ Conan|(?!\\bScarlet\\ Bullet:)Scarlet\\ Bullet)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

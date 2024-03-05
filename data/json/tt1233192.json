@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1233192",
+    "title": "Brighton Rock",
+    "year": 2010,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1104,
+    "occurrences": [
+      [
+        800,
+        "01:13:25.315000",
+        "01:13:29.145000",
+        "You know, I can't see a stick of Brighton rock without thinking..."
+      ],
+      [
+        833,
+        "01:19:14.715000",
+        "01:19:18.304000",
+        "He choked Frank Spicer to death with a stick of Brighton rock."
+      ]
+    ],
+    "regex": "\\b((?!\\bBrighton\\ Rock:)Brighton\\ Rock)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

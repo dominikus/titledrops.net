@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0047033",
+    "title": "Gog",
+    "year": 1954,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 976,
+    "occurrences": [
+      [
+        501,
+        "00:40:16.217000",
+        "00:40:18.084000",
+        "Gog and Magog!"
+      ],
+      [
+        507,
+        "00:40:32.390000",
+        "00:40:36.735000",
+        "-Yes, sir. -I want you to activate Gog and Magog."
+      ],
+      [
+        517,
+        "00:41:33.485000",
+        "00:41:37.172000",
+        "NOVAC will now give instructions to Gog, to move to that panel,"
+      ],
+      [
+        856,
+        "01:08:08.139000",
+        "01:08:10.912000",
+        "-Doctor Zeitman! Gog has been activated! -Engle, quick!"
+      ],
+      [
+        877,
+        "01:10:15.174000",
+        "01:10:19.540000",
+        "NOVAC's being controlled by an outside source, Gog just killed Zeitman and Engle."
+      ]
+    ],
+    "regex": "\\b((?!\\bGog:)Gog)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1252507",
+    "title": "The Way Home",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1485,
+    "occurrences": [
+      [
+        1463,
+        "01:28:49.558000",
+        "01:28:51.159000",
+        "find its way home again"
+      ],
+      [
+        1475,
+        "01:29:23.125000",
+        "01:29:26.395000",
+        "it's gonna find its way home"
+      ],
+      [
+        1483,
+        "01:29:46.882000",
+        "01:29:51.119000",
+        "find its way home again"
+      ]
+    ],
+    "regex": "\\b((?!\\bWay\\ Home:)Way\\ Home)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

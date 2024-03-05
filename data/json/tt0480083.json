@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0480083",
+    "title": "The Cloud",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1022,
+    "occurrences": [
+      [
+        397,
+        "00:28:43.948000",
+        "00:28:46.681000",
+        "The radio is always talking about a cloud."
+      ],
+      [
+        398,
+        "00:28:46.745000",
+        "00:28:50.186000",
+        "That the cloud is toxic, but I don't understand that."
+      ],
+      [
+        484,
+        "00:36:09.623000",
+        "00:36:11.482000",
+        "Mother, but the cloud is going directly over you."
+      ]
+    ],
+    "regex": "\\b((?!\\bCloud:)Cloud)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

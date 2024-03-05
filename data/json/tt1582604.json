@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1582604",
+    "title": "Simha",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1390,
+    "occurrences": [
+      [
+        821,
+        "01:26:15.917000",
+        "01:26:18.886000",
+        "He's Simha...Narasimha!"
+      ],
+      [
+        1149,
+        "01:57:00.026000",
+        "01:57:06.090000",
+        "but after Simha's arrival, they think we are here to get killed."
+      ],
+      [
+        1166,
+        "01:58:21.474000",
+        "01:58:27.208000",
+        "Once you get killed by Simha, he'll be scared to come back as human,"
+      ],
+      [
+        1222,
+        "02:02:30.289000",
+        "02:02:34.055000",
+        "Furious Simha who demolished evil..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSimha:)Simha)(?!\\:)(?!'t)\\b",
+    "runtime": 155,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

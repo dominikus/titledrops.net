@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0094238",
+    "title": "Valhalla",
+    "year": 1986,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 430,
+    "occurrences": [
+      [
+        6,
+        "00:00:44.505000",
+        "00:00:51.616000",
+        "From all over Asgard, the gods would gather here, in Valhalla -"
+      ],
+      [
+        10,
+        "00:01:03.585000",
+        "00:01:07.624000",
+        "From Valhalla, Odin surveyed the three worlds -"
+      ],
+      [
+        102,
+        "00:13:55.225000",
+        "00:13:58.058000",
+        "To Valhalla."
+      ]
+    ],
+    "regex": "\\b((?!\\bValhalla:)Valhalla)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

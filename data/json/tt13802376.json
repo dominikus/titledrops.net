@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt13802376",
+    "title": "The Power",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 2425,
+    "occurrences": [
+      [
+        1877,
+        "01:45:34.040000",
+        "01:45:36.240000",
+        "...today muscle power isn't everything."
+      ],
+      [
+        1878,
+        "01:45:36.840000",
+        "01:45:37.880000",
+        "Political power is."
+      ],
+      [
+        2408,
+        "02:30:24.960000",
+        "02:30:26.440000",
+        "The power is in our hands, dad."
+      ],
+      [
+        2409,
+        "02:30:27.280000",
+        "02:30:28.880000",
+        "What will we do with so much power, Ranjit?"
+      ],
+      [
+        2410,
+        "02:30:29.520000",
+        "02:30:31.640000",
+        "Despite all the power I yielded,..."
+      ]
+    ],
+    "regex": "\\b((?!\\bPower:)Power)(?!\\:)(?!'t)\\b",
+    "runtime": 153,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

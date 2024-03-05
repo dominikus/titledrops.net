@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0079236",
+    "title": "The Great Gambler",
+    "year": 1979,
+    "genres": [
+      "Action",
+      "Crime",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1205,
+    "occurrences": [
+      [
+        293,
+        "00:35:27.238000",
+        "00:35:30.139000",
+        "Besides, you're such a great gambler. Play one more game."
+      ],
+      [
+        455,
+        "00:56:48.351000",
+        "00:56:51.980000",
+        "What difference does it make, great gambler? Just another gamble!"
+      ]
+    ],
+    "regex": "\\b((?!\\bGreat\\ Gambler:)Great\\ Gambler)(?!\\:)(?!'t)\\b",
+    "runtime": 162,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

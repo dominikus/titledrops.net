@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2046090",
+    "title": "The End",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 813,
+    "occurrences": [
+      [
+        66,
+        "00:07:15.084000",
+        "00:07:18.834000",
+        "With a little wind we'll end up burning down half the forest."
+      ],
+      [
+        359,
+        "00:24:23.042000",
+        "00:24:25.459000",
+        "that this was the end, the end of everything."
+      ],
+      [
+        504,
+        "00:38:11.292000",
+        "00:38:13.084000",
+        "This is the end, right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bEnd:)End)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

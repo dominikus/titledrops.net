@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0036306",
+    "title": "Reveille with Beverly",
+    "year": 1943,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1114,
+    "occurrences": [
+      [
+        429,
+        "00:26:36.953000",
+        "00:26:39.800000",
+        "...and call it \"Reveille with Beverly\"?"
+      ],
+      [
+        485,
+        "00:32:29.601000",
+        "00:32:32.401000",
+        "What is this, um... Reveille with Beverly program?"
+      ],
+      [
+        498,
+        "00:33:03.602000",
+        "00:33:06.202000",
+        "Are all these letters for Reveille with Beverly?"
+      ],
+      [
+        534,
+        "00:34:44.764000",
+        "00:34:46.594000",
+        "Um, Reveille with Beverly."
+      ]
+    ],
+    "regex": "\\b((?!\\bReveille\\ with\\ Beverly:)Reveille\\ with\\ Beverly)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

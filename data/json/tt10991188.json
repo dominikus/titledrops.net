@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt10991188",
+    "title": "World Famous Lover",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 2141,
+    "occurrences": [
+      [
+        1980,
+        "02:13:09.808000",
+        "02:13:13.766000",
+        "The author of the book 'World Famous Lover' is going to be released from prison today."
+      ],
+      [
+        2010,
+        "02:14:48.558000",
+        "02:14:51.141000",
+        "You will have to tell them the conclusion of your book 'World Famous Lover'."
+      ],
+      [
+        2053,
+        "02:17:14.308000",
+        "02:17:16.225000",
+        "The 'world famous lover' himself..."
+      ],
+      [
+        2065,
+        "02:18:29.391000",
+        "02:18:33.308000",
+        "The story of Yamini and Gautham that you guys read in the book 'World Famous Lover',"
+      ],
+      [
+        2107,
+        "02:21:58.183000",
+        "02:22:01.433000",
+        "The title 'World Famous Lover' for this book, isn't for me."
+      ],
+      [
+        2109,
+        "02:22:04.141000",
+        "02:22:06.183000",
+        "My 'world famous lover' is..."
+      ]
+    ],
+    "regex": "\\b((?!\\bWorld\\ Famous\\ Lover:)World\\ Famous\\ Lover)(?!\\:)(?!'t)\\b",
+    "runtime": 154,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

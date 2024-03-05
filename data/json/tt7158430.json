@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt7158430",
+    "title": "Hearts Beat Loud",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 1042,
+    "occurrences": [
+      [
+        163,
+        "00:14:09.850000",
+        "00:14:11.935000",
+        "\"And now our hearts beat loud.\""
+      ],
+      [
+        203,
+        "00:17:15.202000",
+        "00:17:19.790000",
+        "And now our hearts beat loud"
+      ],
+      [
+        206,
+        "00:17:28.423000",
+        "00:17:33.345000",
+        "And now our hearts beat loud"
+      ],
+      [
+        321,
+        "00:28:01.557000",
+        "00:28:03.350000",
+        "That's our song right there. Hearts Beat Loud."
+      ]
+    ],
+    "regex": "\\b((?!\\bHearts\\ Beat\\ Loud:)Hearts\\ Beat\\ Loud)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0081081",
+    "title": "Contraband",
+    "year": 1980,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1038,
+    "occurrences": [
+      [
+        474,
+        "00:38:15.125000",
+        "00:38:16.615000",
+        "The contraband."
+      ],
+      [
+        694,
+        "00:57:20.500000",
+        "00:57:23.743000",
+        "It's absolutely insane to say that I deal in contraband."
+      ],
+      [
+        911,
+        "01:15:57.625000",
+        "01:16:00.743000",
+        "\"Several bosses of contraband have been killed in circumstances.\""
+      ],
+      [
+        928,
+        "01:18:12.250000",
+        "01:18:16.869000",
+        "There are at least 200,000 Neapolitans who live off contraband because they can't find any other work."
+      ]
+    ],
+    "regex": "\\b((?!\\bContraband:)Contraband)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

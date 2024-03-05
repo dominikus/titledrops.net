@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1038919",
+    "title": "The Bounty Hunter",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 826,
+    "occurrences": [
+      [
+        29,
+        "00:03:53.199000",
+        "00:03:56.032000",
+        "Oh, wow, look at this. Bounty hunter."
+      ],
+      [
+        375,
+        "00:25:24.689000",
+        "00:25:27.453000",
+        "- You are a bounty hunter? - Yep."
+      ]
+    ],
+    "regex": "\\b((?!\\bBounty\\ Hunter:)Bounty\\ Hunter)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

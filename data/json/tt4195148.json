@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt4195148",
+    "title": "Family Weekend",
+    "year": 2016,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 825,
+    "occurrences": [
+      [
+        38,
+        "00:04:00.625000",
+        "00:04:03.344000",
+        "The family weekend, remember?"
+      ],
+      [
+        74,
+        "00:07:26.792000",
+        "00:07:28.339000",
+        "Family weekend."
+      ],
+      [
+        75,
+        "00:07:28.500000",
+        "00:07:31.253000",
+        "Did he say family weekend?"
+      ],
+      [
+        76,
+        "00:07:33.583000",
+        "00:07:37.588000",
+        "My clad. He'll help me out. I have a family weekend coming up."
+      ],
+      [
+        604,
+        "00:58:48.167000",
+        "00:58:53.594000",
+        "I thought you were on a family weekend? -Well, work comes first, right?"
+      ],
+      [
+        656,
+        "01:04:00.042000",
+        "01:04:03.125000",
+        "Hey Bennie. How was your family weekend?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFamily\\ Weekend:)Family\\ Weekend)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

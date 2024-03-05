@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0896866",
+    "title": "Standard Operating Procedure",
+    "year": 2008,
+    "genres": [
+      "Crime",
+      "Documentary",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 1372,
+    "occurrences": [
+      [
+        221,
+        "00:17:38.834000",
+        "00:17:43.667000",
+        "of possible abuse or possible standard operating procedure."
+      ],
+      [
+        1145,
+        "01:28:29.434000",
+        "01:28:32.534000",
+        "Standard operating procedure. That's all it is."
+      ],
+      [
+        1146,
+        "01:28:41.100000",
+        "01:28:46",
+        "Does this one actually constitute a crime or is it standard operating procedure?"
+      ],
+      [
+        1147,
+        "01:28:46.067000",
+        "01:28:49.033000",
+        "That's probably standard operating procedure."
+      ]
+    ],
+    "regex": "\\b((?!\\bStandard\\ Operating\\ Procedure:)Standard\\ Operating\\ Procedure)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt8169446",
+    "title": "Wine Country",
+    "year": 2019,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 2264,
+    "occurrences": [
+      [
+        777,
+        "00:32:09.469000",
+        "00:32:11.471000",
+        "It's an amazing day in wine country."
+      ],
+      [
+        1067,
+        "00:45:18.298000",
+        "00:45:21.135000",
+        "Ladies, if cabernet sauvignon is the king of wine country,"
+      ],
+      [
+        1723,
+        "01:14:48.984000",
+        "01:14:51.236000",
+        "Today was not an amazing day in wine country."
+      ]
+    ],
+    "regex": "\\b((?!\\bWine\\ Country:)Wine\\ Country)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

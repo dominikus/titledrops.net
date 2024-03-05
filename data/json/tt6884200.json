@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6884200",
+    "title": "A Kid Like Jake",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1431,
+    "occurrences": [
+      [
+        1115,
+        "01:00:37.323000",
+        "01:00:41.096000",
+        "Frankly, you two are very lucky to be raising a kid like Jake"
+      ],
+      [
+        1117,
+        "01:00:44.226000",
+        "01:00:46.895000",
+        "What exactly does that mean? \"A kid like Jake?\""
+      ]
+    ],
+    "regex": "\\b((?!\\bKid\\ Like\\ Jake:)Kid\\ Like\\ Jake)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

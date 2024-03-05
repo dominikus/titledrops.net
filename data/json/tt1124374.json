@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt1124374",
+    "title": "Gnomes & Trolls: The Secret Chamber",
+    "year": 2009,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 1,
+    "all_lines": 431,
+    "occurrences": [
+      [
+        150,
+        "00:22:08.830000",
+        "00:22:12.789000",
+        "Jalle's offered us extra food from his secret chamber, Sneaks."
+      ]
+    ],
+    "regex": "\\b((?!\\bGnomes\\ \\&\\ Trolls:)Gnomes\\ \\&\\ Trolls|(?!\\bSecret\\ Chamber:)Secret\\ Chamber)(?!\\:)(?!'t)\\b",
+    "runtime": 70,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

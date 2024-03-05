@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0046233",
+    "title": "Rossana",
+    "year": 1953,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 147,
+    "occurrences": [
+      [
+        4,
+        "00:01:51.138000",
+        "00:01:54.042000",
+        "Run away, you have Rossana."
+      ],
+      [
+        70,
+        "00:24:59.333000",
+        "00:25:01.917000",
+        "No, Rossana. The one who leaves is me."
+      ],
+      [
+        93,
+        "00:32:26.333000",
+        "00:32:30.168000",
+        "And we heard him say your name, \"Rossana!... Rossana!\"..."
+      ],
+      [
+        140,
+        "01:14:10.994000",
+        "01:14:12.557000",
+        "Rossana."
+      ],
+      [
+        147,
+        "01:14:31.042000",
+        "01:14:35.208000",
+        "You stay here. Goodbye, Rossana."
+      ]
+    ],
+    "regex": "\\b((?!\\bRossana:)Rossana)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [
+      "Rossana"
+    ],
+    "title_is_name": true,
+    "rating": 6.9
+  }
+]

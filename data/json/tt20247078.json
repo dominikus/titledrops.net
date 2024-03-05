@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt20247078",
+    "title": "Life in Outer Space",
+    "year": 2022,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 811,
+    "occurrences": [
+      [
+        52,
+        "00:03:21.920000",
+        "00:03:25.040000",
+        "whether there is life in outer space."
+      ],
+      [
+        810,
+        "00:51:47.320000",
+        "00:51:51.600000",
+        "the discovery of life in outer space."
+      ]
+    ],
+    "regex": "\\b((?!\\bLife\\ in\\ Outer\\ Space:)Life\\ in\\ Outer\\ Space)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0064272",
+    "title": "Destroy, She Said",
+    "year": 1969,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1235,
+    "occurrences": [
+      [
+        6,
+        "00:00:25.341000",
+        "00:00:28.084000",
+        "Destroy, She Said"
+      ],
+      [
+        1235,
+        "01:32:32.802000",
+        "01:32:35.288000",
+        "Destroy, She Said"
+      ]
+    ],
+    "regex": "\\b((?!\\bDestroy,\\ She\\ Said:)Destroy,\\ She\\ Said)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

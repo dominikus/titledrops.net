@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt9819258",
+    "title": "Texas Red",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "History",
+      "Western"
+    ],
+    "count": 5,
+    "all_lines": 942,
+    "occurrences": [
+      [
+        298,
+        "00:21:32.983000",
+        "00:21:36.241000",
+        "Texas Red"
+      ],
+      [
+        569,
+        "00:44:24.778000",
+        "00:44:26.178000",
+        "- I don't know no Texas Red."
+      ],
+      [
+        871,
+        "01:20:04.370000",
+        "01:20:05.423000",
+        "called him Texas Red."
+      ],
+      [
+        875,
+        "01:20:33.349000",
+        "01:20:36.221000",
+        "Texas Red"
+      ],
+      [
+        914,
+        "01:21:46.925000",
+        "01:21:49.725000",
+        "Texas Red"
+      ]
+    ],
+    "regex": "\\b((?!\\bTexas\\ Red:)Texas\\ Red)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0436343",
+    "title": "The Garden",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 822,
+    "occurrences": [
+      [
+        398,
+        "00:38:33.400000",
+        "00:38:36.040000",
+        "God placed Adam and Eve inside the garden with Satan."
+      ],
+      [
+        405,
+        "00:38:48.480000",
+        "00:38:49.640000",
+        "And it was the only tree in the garden..."
+      ],
+      [
+        618,
+        "00:55:36.360000",
+        "00:55:39.200000",
+        "Your garden is the Garden of Eden."
+      ]
+    ],
+    "regex": "\\b((?!\\bGarden:)Garden)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

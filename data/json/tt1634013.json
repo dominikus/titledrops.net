@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1634013",
+    "title": "Montevideo: Taste of a Dream",
+    "year": 2010,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 843,
+    "occurrences": [
+      [
+        24,
+        "00:02:15.480000",
+        "00:02:21.112000",
+        "MONTEVIDEO Taste of a Dream"
+      ],
+      [
+        166,
+        "00:12:34.400000",
+        "00:12:37.392000",
+        "There, it says here, Montevideo, holy smoke!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMontevideo:)Montevideo|(?!\\bTaste\\ of\\ a\\ Dream:)Taste\\ of\\ a\\ Dream)(?!\\:)(?!'t)\\b",
+    "runtime": 140,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

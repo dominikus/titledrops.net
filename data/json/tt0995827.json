@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0995827",
+    "title": "The Train: Some Lines Should Never Be Crossed...",
+    "year": 2007,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 654,
+    "occurrences": [
+      [
+        102,
+        "00:09:08.020000",
+        "00:09:12.047000",
+        "Some days ago, on the train... - Did Anjali find out about it?"
+      ],
+      [
+        488,
+        "00:43:39.585000",
+        "00:43:41.052000",
+        "Some days ago I had met her in the train."
+      ],
+      [
+        587,
+        "00:59:14.920000",
+        "00:59:16.054000",
+        "She must have met you in the train."
+      ],
+      [
+        650,
+        "01:06:37.495000",
+        "01:06:41.633000",
+        "Life is a train."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrain:)Train|(?!\\bSome\\ Lines\\ Should\\ Never\\ Be\\ Crossed\\.\\.\\.:)Some\\ Lines\\ Should\\ Never\\ Be\\ Crossed\\.\\.\\.)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

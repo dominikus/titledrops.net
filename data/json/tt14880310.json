@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt14880310",
+    "title": "Private Network: Who Killed Manuel Buendía?",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Documentary",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1456,
+    "occurrences": [
+      [
+        10,
+        "00:01:00.060000",
+        "00:01:01.686000",
+        "PRIVATE NETWORK"
+      ],
+      [
+        12,
+        "00:01:06.858000",
+        "00:01:10.153000",
+        "Today is the last day Private Network will be published."
+      ],
+      [
+        28,
+        "00:02:14.801000",
+        "00:02:17.428000",
+        "Private Network by Manuel Buendia."
+      ],
+      [
+        642,
+        "00:42:50.859000",
+        "00:42:54.280000",
+        "Then you'd read Private Network, and it'd be about something else."
+      ]
+    ],
+    "regex": "\\b((?!\\bPrivate\\ Network:)Private\\ Network|(?!\\bWho\\ Killed\\ Manuel\\ Buendia\\?:)Who\\ Killed\\ Manuel\\ Buendia\\?)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

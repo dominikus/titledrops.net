@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0064886",
+    "title": "The Reivers",
+    "year": 1969,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1182,
+    "occurrences": [
+      [
+        229,
+        "00:26:31.012000",
+        "00:26:35.948000",
+        "And so we were three, three reivers, hightailing it for Memphis."
+      ],
+      [
+        230,
+        "00:26:37.518000",
+        "00:26:39.509000",
+        "Oh, \"reivers\"..."
+      ]
+    ],
+    "regex": "\\b((?!\\bReivers:)Reivers)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

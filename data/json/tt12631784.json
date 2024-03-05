@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt12631784",
+    "title": "Rabbit Academy: Mission Eggpossible",
+    "year": 2022,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1178,
+    "occurrences": [
+      [
+        25,
+        "00:02:14.765000",
+        "00:02:16.848000",
+        "I got mail from the Rabbit Academy!"
+      ],
+      [
+        75,
+        "00:04:10.390000",
+        "00:04:12.015000",
+        "So you've been to Rabbit Academy!"
+      ],
+      [
+        255,
+        "00:14:25.890000",
+        "00:14:27.931000",
+        "I even attended The Rabbit Academy."
+      ],
+      [
+        603,
+        "00:33:41.056000",
+        "00:33:44.556000",
+        "I think it all started way before this, here at Rabbit Academy."
+      ]
+    ],
+    "regex": "\\b((?!\\bRabbit\\ Academy:)Rabbit\\ Academy|(?!\\bMission\\ Eggpossible:)Mission\\ Eggpossible)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

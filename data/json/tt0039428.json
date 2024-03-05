@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0039428",
+    "title": "Golden Earrings",
+    "year": 1947,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1067,
+    "occurrences": [
+      [
+        649,
+        "00:55:02.295000",
+        "00:55:05.367000",
+        "# Wears golden earrings #"
+      ],
+      [
+        654,
+        "00:55:17.415000",
+        "00:55:21.169000",
+        "# Golden earrings #"
+      ],
+      [
+        665,
+        "00:55:55.455000",
+        "00:56:00.609000",
+        "# Of golden earrings #"
+      ]
+    ],
+    "regex": "\\b((?!\\bGolden\\ Earrings:)Golden\\ Earrings)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

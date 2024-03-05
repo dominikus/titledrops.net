@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt10516176",
+    "title": "Steel Rain 2",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1814,
+    "occurrences": [
+      [
+        336,
+        "00:25:19.490000",
+        "00:25:20.829000",
+        "U.S. Air Force Weather Agency calls super typhoon 'Steel Rain'"
+      ],
+      [
+        341,
+        "00:25:32.059000",
+        "00:25:33.173000",
+        "WHERE IS TYPHOON STEEL RAIN HEADED?"
+      ],
+      [
+        1773,
+        "02:02:39.450000",
+        "02:02:45.782000",
+        "Typhoon Steel Rain has passed Dokdo and is headed toward Hokkaido, Japan."
+      ],
+      [
+        1790,
+        "02:06:29.742000",
+        "02:06:32.826000",
+        "Steel Rain 2: Summit"
+      ]
+    ],
+    "regex": "\\b((?!\\bSteel\\ Rain:)Steel\\ Rain)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0069973",
+    "title": "Sinner: The Secret Diary of a Nymphomaniac",
+    "year": 1973,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 505,
+    "occurrences": [
+      [
+        0,
+        "00:00:21.876000",
+        "00:00:26.001000",
+        "The Secret Diary of a Nymphomaniac"
+      ],
+      [
+        496,
+        "01:25:55.042000",
+        "01:26:00.626000",
+        "The Secret Diary of a Nymphomaniac"
+      ]
+    ],
+    "regex": "\\b((?!\\bSinner:)Sinner|(?!\\bSecret\\ Diary\\ of\\ a\\ Nymphomaniac:)Secret\\ Diary\\ of\\ a\\ Nymphomaniac)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

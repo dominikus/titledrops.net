@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0033435",
+    "title": "Broadway Limited",
+    "year": 1941,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1728,
+    "occurrences": [
+      [
+        109,
+        "00:04:44.086000",
+        "00:04:46.131000",
+        "We're leaving this afternoon on the Broadway Limited."
+      ],
+      [
+        1559,
+        "01:08:28.124000",
+        "01:08:31.169000",
+        "that Miss April Tremaine got on a Broadway Limited"
+      ]
+    ],
+    "regex": "\\b((?!\\bBroadway\\ Limited:)Broadway\\ Limited)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

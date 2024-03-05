@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1924396",
+    "title": "The Best Offer",
+    "year": 2013,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1593,
+    "occurrences": [
+      [
+        106,
+        "00:08:03.506000",
+        "00:08:05.379000",
+        "This one will go to the best offer."
+      ],
+      [
+        668,
+        "00:44:20.005000",
+        "00:44:22.379000",
+        "This one goes to the best offer."
+      ],
+      [
+        1034,
+        "01:14:02.687000",
+        "01:14:05.854000",
+        "You never know if yours will be the best offer."
+      ]
+    ],
+    "regex": "\\b((?!\\bBest\\ Offer:)Best\\ Offer)(?!\\:)(?!'t)\\b",
+    "runtime": 131,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

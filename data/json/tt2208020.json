@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2208020",
+    "title": "The Brain Man",
+    "year": 2013,
+    "genres": [
+      "Crime",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1227,
+    "occurrences": [
+      [
+        2,
+        "00:00:52.710000",
+        "00:00:53.322000",
+        "brain man"
+      ],
+      [
+        716,
+        "00:57:40.170000",
+        "00:57:42.280000",
+        "Brain man."
+      ],
+      [
+        717,
+        "00:57:43.910000",
+        "00:57:45.280000",
+        "Brain man..."
+      ]
+    ],
+    "regex": "\\b((?!\\bBrain\\ Man:)Brain\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

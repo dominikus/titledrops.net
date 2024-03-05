@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0804522",
+    "title": "Rendition",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1283,
+    "occurrences": [
+      [
+        685,
+        "00:52:18.668000",
+        "00:52:21.228000",
+        "CIA calls it \"extraordinary rendition.\""
+      ],
+      [
+        1000,
+        "01:14:56.185000",
+        "01:14:58.415000",
+        "If we're gonna get into a fight about rendition..."
+      ]
+    ],
+    "regex": "\\b((?!\\bRendition:)Rendition)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

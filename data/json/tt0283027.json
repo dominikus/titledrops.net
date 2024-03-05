@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0283027",
+    "title": "The Pool",
+    "year": 2001,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1114,
+    "occurrences": [
+      [
+        482,
+        "00:38:13.324000",
+        "00:38:15.349000",
+        "Chris-- he was trying to throw Sarah in the pool."
+      ],
+      [
+        732,
+        "00:57:08.825000",
+        "00:57:12.158000",
+        "there has to be a pipe that connects the pool to the unit,"
+      ],
+      [
+        770,
+        "01:00:21.117000",
+        "01:00:23.711000",
+        "Man: A new pool opened out at Barron dock."
+      ],
+      [
+        820,
+        "01:04:48.384000",
+        "01:04:50.579000",
+        "then somebody will open the pool."
+      ]
+    ],
+    "regex": "\\b((?!\\bPool:)Pool)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

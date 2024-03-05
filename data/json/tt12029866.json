@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt12029866",
+    "title": "Doctor Who Am I",
+    "year": 2022,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1644,
+    "occurrences": [
+      [
+        239,
+        "00:12:30.719000",
+        "00:12:32.386000",
+        "\"Doctor Who am I?\" It's like identity."
+      ],
+      [
+        241,
+        "00:12:35.022000",
+        "00:12:38.192000",
+        "\"Doctor Who Am I?\" was the pitch"
+      ],
+      [
+        1614,
+        "01:16:00.795000",
+        "01:16:03.898000",
+        "to make a film called Doctor Who Am I,"
+      ]
+    ],
+    "regex": "\\b((?!\\bDoctor\\ Who\\ Am:)Doctor\\ Who\\ Am)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

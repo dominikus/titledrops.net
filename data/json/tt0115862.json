@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0115862",
+    "title": "The Chamber",
+    "year": 1996,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1340,
+    "occurrences": [
+      [
+        251,
+        "00:20:35.767000",
+        "00:20:39.203000",
+        "If I could take David McAllister into the chamber with me,"
+      ],
+      [
+        401,
+        "00:30:04.669000",
+        "00:30:06.603000",
+        "from the gas chamber to lethal injection."
+      ],
+      [
+        409,
+        "00:30:34.298000",
+        "00:30:36.789000",
+        "that the gas chamber is a cruel method of execution."
+      ],
+      [
+        610,
+        "00:44:22.290000",
+        "00:44:24.224000",
+        "Have you seen the chamber?"
+      ],
+      [
+        633,
+        "00:45:40.201000",
+        "00:45:42.601000",
+        "that runs from the top of the chamber down to the bottom,"
+      ]
+    ],
+    "regex": "\\b((?!\\bChamber:)Chamber)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

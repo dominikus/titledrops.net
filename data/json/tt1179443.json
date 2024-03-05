@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1179443",
+    "title": "The Shame",
+    "year": 2009,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1257,
+    "occurrences": [
+      [
+        406,
+        "00:33:34.040000",
+        "00:33:38.192000",
+        "or hunger, or being eaten by woIves. You die of shame."
+      ],
+      [
+        511,
+        "00:40:50.680000",
+        "00:40:52.716000",
+        "that's a shame. I thought he'd be here."
+      ]
+    ],
+    "regex": "\\b((?!\\bShame:)Shame)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

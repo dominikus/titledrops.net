@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1038685",
+    "title": "The King of Fighters",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1046,
+    "occurrences": [
+      [
+        347,
+        "00:29:53.291000",
+        "00:29:55.584000",
+        "CAN YOU HAVE TWO KING OF FIGHTERS?"
+      ],
+      [
+        462,
+        "00:37:00.968000",
+        "00:37:02.677000",
+        "SO HE CAN BE KING OF FIGHTERS."
+      ],
+      [
+        864,
+        "01:05:23.002000",
+        "01:05:25.253000",
+        "ALL THIS BECAUSE YOU WANT TO BE KING OF FIGHTERS?"
+      ],
+      [
+        865,
+        "01:05:25.338000",
+        "01:05:27.088000",
+        "I AM KING OF FIGHTERS."
+      ]
+    ],
+    "regex": "\\b((?!\\bKing\\ of\\ Fighters:)King\\ of\\ Fighters)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

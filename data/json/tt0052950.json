@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0052950",
+    "title": "The Journey",
+    "year": 1959,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 2207,
+    "occurrences": [
+      [
+        175,
+        "00:10:32.332000",
+        "00:10:33.698000",
+        "Have a good journey!"
+      ],
+      [
+        390,
+        "00:24:33.206000",
+        "00:24:35.739000",
+        "We're rather anxious to resume our journey as soon as possible,"
+      ],
+      [
+        971,
+        "00:54:21.025000",
+        "00:54:22.725000",
+        "but he has a long journey ahead of him,"
+      ],
+      [
+        2200,
+        "02:03:28.468000",
+        "02:03:29.534000",
+        "We heard your journey was"
+      ]
+    ],
+    "regex": "\\b((?!\\bJourney:)Journey)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

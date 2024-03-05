@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt26258634",
+    "title": "7:11 PM",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1441,
+    "occurrences": [
+      [
+        1077,
+        "01:37:52.833000",
+        "01:37:56.333000",
+        "But we can only send you back to 05:11 PM."
+      ],
+      [
+        1081,
+        "01:38:07.500000",
+        "01:38:12.125000",
+        "We'll be using a lightening that struck at 05:11 PM to send you back."
+      ],
+      [
+        1082,
+        "01:38:12.541000",
+        "01:38:15.708000",
+        "So we can only take you back to 05:11 PM."
+      ]
+    ],
+    "regex": "\\b((?!\\b7:)7|(?!\\b11\\ PM:)11\\ PM)(?!\\:)(?!'t)\\b",
+    "runtime": 142,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

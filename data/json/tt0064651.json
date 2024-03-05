@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0064651",
+    "title": "Me, Natalie",
+    "year": 1969,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1319,
+    "occurrences": [
+      [
+        1,
+        "00:00:33.920000",
+        "00:00:37.071000",
+        "- Who is it? - Me, Natalie!"
+      ],
+      [
+        286,
+        "00:22:55.080000",
+        "00:22:56.752000",
+        "No, just me, Natalie."
+      ],
+      [
+        879,
+        "01:08:51.480000",
+        "01:08:56.474000",
+        "Max, Freddie, it's me, Natalie."
+      ],
+      [
+        1130,
+        "01:27:59.320000",
+        "01:28:01.231000",
+        "For me, Natalie!"
+      ],
+      [
+        1318,
+        "01:48:46.960000",
+        "01:48:49.997000",
+        "Me, Natalie."
+      ]
+    ],
+    "regex": "\\b((?!\\bMe,\\ Natalie:)Me,\\ Natalie)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

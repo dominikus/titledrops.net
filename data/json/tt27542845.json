@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt27542845",
+    "title": "Bad Things",
+    "year": 2023,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1290,
+    "occurrences": [
+      [
+        146,
+        "00:08:43.626000",
+        "00:08:46.284000",
+        "Women do bad things, yeah."
+      ],
+      [
+        1007,
+        "01:05:31.410000",
+        "01:05:33.895000",
+        "I do bad things sometimes."
+      ]
+    ],
+    "regex": "\\b((?!\\bBad\\ Things:)Bad\\ Things)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1899353",
+    "title": "The Raid: Redemption",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 491,
+    "occurrences": [
+      [
+        10,
+        "00:02:56.015000",
+        "00:02:59.102000",
+        "THE RAID : REDEMPTION"
+      ],
+      [
+        141,
+        "00:22:07.474000",
+        "00:22:09.674000",
+        "This raid is not.."
+      ],
+      [
+        283,
+        "00:58:27.187000",
+        "00:58:29.687000",
+        "- Who order this raid? - What?!"
+      ],
+      [
+        491,
+        "01:36:33.503000",
+        "01:36:39.502000",
+        "THE RAID : REDEMPTION"
+      ]
+    ],
+    "regex": "\\b((?!\\bRaid:)Raid|(?!\\bRedemption:)Redemption)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

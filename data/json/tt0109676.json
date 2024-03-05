@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0109676",
+    "title": "Drop Zone",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1102,
+    "occurrences": [
+      [
+        330,
+        "00:24:48.195000",
+        "00:24:50.613000",
+        "It's my drop zone, it's my rules."
+      ],
+      [
+        833,
+        "01:07:09.734000",
+        "01:07:11.526000",
+        "I mean, Washington, DC is a drop zone."
+      ],
+      [
+        960,
+        "01:19:37.564000",
+        "01:19:40.524000",
+        "He's going to the DEA building. Right near the drop zone."
+      ]
+    ],
+    "regex": "\\b((?!\\bDrop\\ Zone:)Drop\\ Zone)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

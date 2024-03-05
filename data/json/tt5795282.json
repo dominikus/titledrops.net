@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5795282",
+    "title": "This Changes Everything",
+    "year": 2018,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1690,
+    "occurrences": [
+      [
+        603,
+        "00:31:34.501000",
+        "00:31:38.635000",
+        "- Whenever the press announces: this changes everything,"
+      ],
+      [
+        1628,
+        "01:31:25.131000",
+        "01:31:27.612000",
+        "This changes everything"
+      ]
+    ],
+    "regex": "\\b((?!\\bThis\\ Changes\\ Everything:)This\\ Changes\\ Everything)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

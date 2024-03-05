@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0074312",
+    "title": "Chinese Roulette",
+    "year": 1976,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 593,
+    "occurrences": [
+      [
+        385,
+        "00:55:22.819000",
+        "00:55:25.117000",
+        "Shall we play Chinese roulette?"
+      ],
+      [
+        390,
+        "00:56:14.871000",
+        "00:56:16.236000",
+        "Chinese roulette?"
+      ]
+    ],
+    "regex": "\\b((?!\\bChinese\\ Roulette:)Chinese\\ Roulette)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

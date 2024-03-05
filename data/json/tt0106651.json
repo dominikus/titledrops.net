@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0106651",
+    "title": "The Last Dance",
+    "year": 1993,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 996,
+    "occurrences": [
+      [
+        6,
+        "00:01:26.686000",
+        "00:01:28.210000",
+        "'Save the Last Dance for Me'?"
+      ],
+      [
+        26,
+        "00:03:27.407000",
+        "00:03:35.143000",
+        "And save the last dance..."
+      ],
+      [
+        27,
+        "00:03:37.450000",
+        "00:03:42.911000",
+        "That last dance for me."
+      ],
+      [
+        400,
+        "00:41:48.906000",
+        "00:41:50.931000",
+        "Singing about a 'Last Dance'."
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Dance:)Last\\ Dance)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

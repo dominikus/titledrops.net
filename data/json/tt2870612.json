@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2870612",
+    "title": "As Above, So Below",
+    "year": 2014,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1582,
+    "occurrences": [
+      [
+        1190,
+        "00:58:31.307000",
+        "00:58:35.277000",
+        "This is \"as above, so below.\""
+      ],
+      [
+        1200,
+        "00:59:01.804000",
+        "00:59:04.806000",
+        "As above, so below."
+      ]
+    ],
+    "regex": "\\b((?!\\bAs\\ Above,\\ So\\ Below:)As\\ Above,\\ So\\ Below)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

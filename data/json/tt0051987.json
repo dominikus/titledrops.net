@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0051987",
+    "title": "Never Love a Stranger",
+    "year": 1958,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1500,
+    "occurrences": [
+      [
+        977,
+        "00:56:44.917000",
+        "00:56:49.875000",
+        "Never love a stranger"
+      ],
+      [
+        1006,
+        "00:58:16.468000",
+        "00:58:21.522000",
+        "He'll never love a stranger"
+      ]
+    ],
+    "regex": "\\b((?!\\bNever\\ Love\\ a\\ Stranger:)Never\\ Love\\ a\\ Stranger)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

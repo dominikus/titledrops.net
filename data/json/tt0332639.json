@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0332639",
+    "title": "Together",
+    "year": 2002,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 1192,
+    "occurrences": [
+      [
+        129,
+        "00:14:15.668000",
+        "00:14:18.262000",
+        "Explore a bit of Beijing together."
+      ],
+      [
+        383,
+        "00:33:43.234000",
+        "00:33:47.637000",
+        "We often copied scores together."
+      ],
+      [
+        679,
+        "01:04:20.267000",
+        "01:04:22.098000",
+        "our lessons together..."
+      ]
+    ],
+    "regex": "\\b((?!\\bTogether:)Together)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

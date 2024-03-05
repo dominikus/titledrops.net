@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0375568",
+    "title": "Astro Boy",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 2,
+    "all_lines": 995,
+    "occurrences": [
+      [
+        744,
+        "00:57:52.286000",
+        "00:57:56.494000",
+        "let me propose to you Astro Boy!"
+      ],
+      [
+        773,
+        "01:01:36.024000",
+        "01:01:42.015000",
+        "Astro Boy's see how it brings from against the robot with the same power as him."
+      ]
+    ],
+    "regex": "\\b((?!\\bAstro\\ Boy:)Astro\\ Boy)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

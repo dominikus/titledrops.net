@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt8128188",
+    "title": "High Flying Bird",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1706,
+    "occurrences": [
+      [
+        144,
+        "00:06:53.213000",
+        "00:06:55.338000",
+        "[Richie Havens \"High Flying Bird\" playing]"
+      ],
+      [
+        145,
+        "00:07:12.338000",
+        "00:07:14.630000",
+        "There's a high flying bird"
+      ]
+    ],
+    "regex": "\\b((?!\\bHigh\\ Flying\\ Bird:)High\\ Flying\\ Bird)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

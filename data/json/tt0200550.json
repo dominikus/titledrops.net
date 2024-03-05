@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0200550",
+    "title": "Coyote Ugly",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1551,
+    "occurrences": [
+      [
+        612,
+        "00:40:24.024000",
+        "00:40:28.017000",
+        "What-- What does \"\"Coyote Ugly\"\" mean?"
+      ],
+      [
+        616,
+        "00:40:37.871000",
+        "00:40:40.999000",
+        "- That's coyote ugly. - Let's go, ladies."
+      ]
+    ],
+    "regex": "\\b((?!\\bCoyote\\ Ugly:)Coyote\\ Ugly)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

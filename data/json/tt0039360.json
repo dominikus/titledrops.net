@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt0039360",
+    "title": "The Exile",
+    "year": 1947,
+    "genres": [
+      "Adventure",
+      "Romance"
+    ],
+    "count": 7,
+    "all_lines": 1418,
+    "occurrences": [
+      [
+        192,
+        "00:11:22.180000",
+        "00:11:25.387000",
+        "... was a wise and noble king and should return from his exile!"
+      ],
+      [
+        202,
+        "00:11:45.023000",
+        "00:11:47.668000",
+        "Exile made him slippery as an eel!"
+      ],
+      [
+        290,
+        "00:15:34.721000",
+        "00:15:37.017000",
+        "... endless exile days"
+      ],
+      [
+        311,
+        "00:16:39.235000",
+        "00:16:42.513000",
+        "Except for me this is a voluntary exile"
+      ],
+      [
+        508,
+        "00:28:23.504000",
+        "00:28:25.346000",
+        "A fellow exile, overseer"
+      ],
+      [
+        557,
+        "00:31:30.026000",
+        "00:31:32.665000",
+        "- There is a reward in exile. - What?"
+      ],
+      [
+        1407,
+        "01:32:02.366000",
+        "01:32:05.450000",
+        "For fourteen years the young king lived in poverty stricken exile..."
+      ]
+    ],
+    "regex": "\\b((?!\\bExile:)Exile)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

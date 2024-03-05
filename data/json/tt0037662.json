@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0037662",
+    "title": "Duffy's Tavern",
+    "year": 1945,
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "count": 5,
+    "all_lines": 1954,
+    "occurrences": [
+      [
+        0,
+        "00:01:50.277000",
+        "00:01:52.640000",
+        "Hello, Duffy's Tavern, where the elite meet to eat."
+      ],
+      [
+        154,
+        "00:07:12.076000",
+        "00:07:15.060000",
+        "The policy of Duffy's Tavern is that Duffy takes care of his pals."
+      ],
+      [
+        701,
+        "00:29:40.226000",
+        "00:29:43.390000",
+        "Hello, Duffy's Tavern, where the elite meet to eat."
+      ],
+      [
+        1409,
+        "01:01:16.005000",
+        "01:01:19.786000",
+        "Now the next act comes to you direct from Duffy's Tavern."
+      ],
+      [
+        1420,
+        "01:01:40.048000",
+        "01:01:42.791000",
+        "So as I say, the next act comes from Duffy's Tavern."
+      ]
+    ],
+    "regex": "\\b((?!\\bDuffy's\\ Tavern:)Duffy's\\ Tavern)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

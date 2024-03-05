@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt4350998",
+    "title": "Free State",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Family",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1019,
+    "occurrences": [
+      [
+        10,
+        "00:01:09.663000",
+        "00:01:13.761000",
+        "On the border of the Free State and Natal provinces of South Africa."
+      ],
+      [
+        28,
+        "00:02:07.554000",
+        "00:02:10.943000",
+        "I was told no Indians were allowed in Free State after dark."
+      ],
+      [
+        80,
+        "00:04:33.023000",
+        "00:04:39.185000",
+        "Okay, this is me. Back to the Free State."
+      ],
+      [
+        236,
+        "00:21:13.502000",
+        "00:21:17.006000",
+        "Reverend, you know coolies don't belong in the Free State after sunset."
+      ]
+    ],
+    "regex": "\\b((?!\\bFree\\ State:)Free\\ State)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

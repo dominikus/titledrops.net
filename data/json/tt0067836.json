@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0067836",
+    "title": "Glass Ceiling",
+    "year": 1971,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 685,
+    "occurrences": [
+      [
+        354,
+        "00:33:11.560000",
+        "00:33:14.510000",
+        "What ceiling are you talking about? - The glass ceiling"
+      ],
+      [
+        482,
+        "00:51:17.700000",
+        "00:51:20.650000",
+        "I think we've uncovered new clues regarding the 'glass ceiling'."
+      ]
+    ],
+    "regex": "\\b((?!\\bGlass\\ Ceiling:)Glass\\ Ceiling)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

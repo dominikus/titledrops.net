@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0462590",
+    "title": "Step Up",
+    "year": 2006,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Music"
+    ],
+    "count": 10,
+    "all_lines": 1493,
+    "occurrences": [
+      [
+        498,
+        "00:34:48.507000",
+        "00:34:53.095000",
+        "P Step, step, step up P Step, step, step up"
+      ],
+      [
+        500,
+        "00:34:55.139000",
+        "00:34:57.850000",
+        "P You step up, P I'll step up, boy"
+      ],
+      [
+        503,
+        "00:35:03.147000",
+        "00:35:05.483000",
+        "P You step up, P I'll step up, too"
+      ],
+      [
+        516,
+        "00:35:39.517000",
+        "00:35:42.311000",
+        "P You step up, P I'll step up, too..."
+      ],
+      [
+        533,
+        "00:36:29.150000",
+        "00:36:31.569000",
+        "P You step up, P I'll step up, too"
+      ]
+    ],
+    "regex": "\\b((?!\\bStep\\ Up:)Step\\ Up)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

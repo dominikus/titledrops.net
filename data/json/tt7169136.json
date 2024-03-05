@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt7169136",
+    "title": "Matchbox",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1829,
+    "occurrences": [
+      [
+        272,
+        "00:19:46.840000",
+        "00:19:49.080000",
+        "Koya, give me a matchbox. - Here."
+      ],
+      [
+        695,
+        "00:48:38.720000",
+        "00:48:40.680000",
+        "Okay. - Okay. - Matchbox.."
+      ],
+      [
+        710,
+        "00:49:16",
+        "00:49:18.640000",
+        "We won't even get to see you. - A matchbox?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMatchbox:)Matchbox)(?!\\:)(?!'t)\\b",
+    "runtime": 136,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

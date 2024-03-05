@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0382095",
+    "title": "In Orange",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Family",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 724,
+    "occurrences": [
+      [
+        226,
+        "00:29:54.255000",
+        "00:29:57.452000",
+        "In orange! -I knew that of course."
+      ],
+      [
+        354,
+        "00:43:13.788000",
+        "00:43:17.303000",
+        "The national team. In Orange! -lf you play good enough."
+      ],
+      [
+        596,
+        "01:08:22.433000",
+        "01:08:27.461000",
+        "You'll make the national team alright. You'll be in Orange."
+      ],
+      [
+        703,
+        "01:28:58.493000",
+        "01:29:02.532000",
+        "...in Orange, and now I can't remember the words."
+      ]
+    ],
+    "regex": "\\b((?!\\bIn\\ Orange:)In\\ Orange)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1346629",
+    "title": "The Weather Station",
+    "year": 2011,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 684,
+    "occurrences": [
+      [
+        91,
+        "00:09:52.798000",
+        "00:09:54.746000",
+        "There were two meteorologists in the Weather Station"
+      ],
+      [
+        510,
+        "00:55:31.750000",
+        "00:55:33.431000",
+        "Why did you return to the weather station?"
+      ],
+      [
+        567,
+        "01:05:25.605000",
+        "01:05:28.335000",
+        "- Who's he? - He's from the weather station."
+      ]
+    ],
+    "regex": "\\b((?!\\bWeather\\ Station:)Weather\\ Station)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

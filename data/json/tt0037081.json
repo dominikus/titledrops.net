@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0037081",
+    "title": "Miyamoto Musashi",
+    "year": 1944,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 237,
+    "occurrences": [
+      [
+        2,
+        "00:00:14.447000",
+        "00:00:20.613000",
+        "Miyamoto Musashi"
+      ],
+      [
+        8,
+        "00:01:13.940000",
+        "00:01:14.702000",
+        "Miyamoto Musashi!"
+      ],
+      [
+        130,
+        "00:15:19.485000",
+        "00:15:23.114000",
+        "Miyamoto Musashi is helping them out."
+      ],
+      [
+        148,
+        "00:16:54.480000",
+        "00:16:57.142000",
+        "O-lchi, it's Miyamoto Musashi."
+      ],
+      [
+        149,
+        "00:16:58.650000",
+        "00:17:01.420000",
+        "Miyamoto Musashi is helping the Nonomiya?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMiyamoto\\ Musashi:)Miyamoto\\ Musashi)(?!\\:)(?!'t)\\b",
+    "runtime": 53,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

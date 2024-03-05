@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0038108",
+    "title": "The Spanish Main",
+    "year": 1945,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1226,
+    "occurrences": [
+      [
+        302,
+        "00:27:23.892000",
+        "00:27:26.054000",
+        "If it takes every galleon on the Spanish Main..."
+      ],
+      [
+        611,
+        "00:51:05.379000",
+        "00:51:08.406000",
+        "Your wife, Dutchman. She'll have the Spanish Main upon us."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpanish\\ Main:)Spanish\\ Main)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

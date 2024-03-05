@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt8956324",
+    "title": "Warning",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 10,
+    "all_lines": 1065,
+    "occurrences": [
+      [
+        21,
+        "00:02:57.750000",
+        "00:03:01.588000",
+        "-  Warning! - Mayday. Mayday, mayday!"
+      ],
+      [
+        22,
+        "00:03:01.622000",
+        "00:03:06.093000",
+        "Warning! Warning! Warning! Warning!"
+      ],
+      [
+        24,
+        "00:03:10.531000",
+        "00:03:11.564000",
+        "- Warning! - Hey!"
+      ],
+      [
+        25,
+        "00:03:11.598000",
+        "00:03:12.766000",
+        "Warning!"
+      ],
+      [
+        1005,
+        "01:14:28.237000",
+        "01:14:29.539000",
+        "Warning! Warning!"
+      ],
+      [
+        1010,
+        "01:14:37.146000",
+        "01:14:39.948000",
+        "[alert warning continues indistinct]"
+      ]
+    ],
+    "regex": "\\b((?!\\bWarning:)Warning)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

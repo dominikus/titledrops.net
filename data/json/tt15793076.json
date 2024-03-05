@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt15793076",
+    "title": "Waking Karma",
+    "year": 2023,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1182,
+    "occurrences": [
+      [
+        639,
+        "00:43:06.187000",
+        "00:43:08.956000",
+        "-[Wendell whistling the tune of \"Waking Karma\"]"
+      ],
+      [
+        1062,
+        "01:14:15.589000",
+        "01:14:18.225000",
+        "[Wendell whistling the tune of \"Waking Karma\"]"
+      ],
+      [
+        1153,
+        "01:23:46.293000",
+        "01:23:47.529000",
+        "[\"Waking Karma\" by Shannon Godly, Luis Lara playing]"
+      ]
+    ],
+    "regex": "\\b((?!\\bWaking\\ Karma:)Waking\\ Karma)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.9
+  }
+]

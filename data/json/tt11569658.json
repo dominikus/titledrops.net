@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt11569658",
+    "title": "Snow Falls",
+    "year": 2023,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1011,
+    "occurrences": [
+      [
+        2,
+        "00:01:29.393000",
+        "00:01:33.615000",
+        "here at Snow Falls' top-rated radio station for the past 13 years in a row,"
+      ],
+      [
+        5,
+        "00:01:40.535000",
+        "00:01:45.366000",
+        "for a chance to win tickets to the world-famous Snow Falls Ski Resort."
+      ],
+      [
+        252,
+        "00:16:07.140000",
+        "00:16:11.013000",
+        "in and around the popular skiing destination Snow Falls."
+      ]
+    ],
+    "regex": "\\b((?!\\bSnow\\ Falls:)Snow\\ Falls)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.9
+  }
+]

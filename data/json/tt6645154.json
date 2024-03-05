@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt6645154",
+    "title": "The Brigade",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 1297,
+    "occurrences": [
+      [
+        136,
+        "00:09:01.440000",
+        "00:09:03.635000",
+        "It's the fire brigade. Don't move."
+      ],
+      [
+        143,
+        "00:09:14.920000",
+        "00:09:17.798000",
+        "Sir, it's the fire brigade. Can you move?"
+      ],
+      [
+        155,
+        "00:09:49.120000",
+        "00:09:52.829000",
+        "It's the fire brigade. I'm coming in. Do you hear me?"
+      ],
+      [
+        1093,
+        "01:09:21.600000",
+        "01:09:23.272000",
+        "Open up, fire brigade!"
+      ],
+      [
+        1095,
+        "01:09:38.440000",
+        "01:09:40.078000",
+        "It's the fire brigade!"
+      ],
+      [
+        1118,
+        "01:10:56.920000",
+        "01:10:59.150000",
+        "Can you hear me? It's the fire brigade."
+      ],
+      [
+        1211,
+        "01:19:07.560000",
+        "01:19:09.835000",
+        "Let's go before the brigade arrives."
+      ]
+    ],
+    "regex": "\\b((?!\\bBrigade:)Brigade)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

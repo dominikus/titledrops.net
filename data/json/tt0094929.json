@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0094929",
+    "title": "Curse II: The Bite",
+    "year": 1989,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 938,
+    "occurrences": [
+      [
+        586,
+        "00:51:52.693000",
+        "00:51:55.738000",
+        "It's a snake bite, all right? That's it! It's a snake bite!"
+      ],
+      [
+        668,
+        "00:58:54.239000",
+        "00:58:58.325000",
+        "She thinks it might have something to do with a snake bite."
+      ]
+    ],
+    "regex": "\\b((?!\\bCurse:)Curse|(?!\\bBite:)Bite)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt10799922",
+    "title": "Painkiller",
+    "year": 2021,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1264,
+    "occurrences": [
+      [
+        436,
+        "00:28:23.028000",
+        "00:28:26.532000",
+        "But, as a painkiller, every man, woman and child on Earth"
+      ],
+      [
+        636,
+        "00:41:43.896000",
+        "00:41:47.800000",
+        "He wants to distribute it worldwide, as another painkiller."
+      ]
+    ],
+    "regex": "\\b((?!\\bPainkiller:)Painkiller)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

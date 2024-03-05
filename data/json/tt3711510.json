@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3711510",
+    "title": "The Warning",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 823,
+    "occurrences": [
+      [
+        413,
+        "00:43:15.583000",
+        "00:43:16.833000",
+        "Maybe it's a warning."
+      ],
+      [
+        476,
+        "00:50:10.541000",
+        "00:50:12.666000",
+        "You're not the only one who got the warning."
+      ],
+      [
+        505,
+        "00:52:07.125000",
+        "00:52:09.541000",
+        "Another boy from school got the warning."
+      ],
+      [
+        603,
+        "01:01:38",
+        "01:01:40.416000",
+        "My son received a note, a sort of warning"
+      ]
+    ],
+    "regex": "\\b((?!\\bWarning:)Warning)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

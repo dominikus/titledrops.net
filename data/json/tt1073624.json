@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1073624",
+    "title": "Wild Blood",
+    "year": 2008,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1233,
+    "occurrences": [
+      [
+        696,
+        "01:18:17.999000",
+        "01:18:20.911000",
+        "For ten years I've been shooting a film, \"Wild Blood\"..."
+      ],
+      [
+        1108,
+        "02:02:10.599000",
+        "02:02:12.669000",
+        "...it's entitled \"Wild Blood\""
+      ]
+    ],
+    "regex": "\\b((?!\\bWild\\ Blood:)Wild\\ Blood)(?!\\:)(?!'t)\\b",
+    "runtime": 148,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

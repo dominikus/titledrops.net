@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0036736",
+    "title": "Cecile Is Dead",
+    "year": 1944,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 2,
+    "all_lines": 1481,
+    "occurrences": [
+      [
+        0,
+        "00:00:56.249000",
+        "00:01:01.707000",
+        "Cecile Is Dead!"
+      ],
+      [
+        1074,
+        "01:00:15.332000",
+        "01:00:16.541000",
+        "Cecile is dead?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCecile\\ Is\\ Dead:)Cecile\\ Is\\ Dead)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

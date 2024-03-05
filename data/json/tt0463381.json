@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0463381",
+    "title": "Transylvania",
+    "year": 2006,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 484,
+    "occurrences": [
+      [
+        45,
+        "00:08:06.452000",
+        "00:08:08.511000",
+        "We're all one family in Transylvania."
+      ],
+      [
+        85,
+        "00:14:40.813000",
+        "00:14:44.271000",
+        "What makes a girl like you come to Transylvania?"
+      ],
+      [
+        118,
+        "00:20:10.676000",
+        "00:20:13.474000",
+        "I came all over! I travelled all over Transylvania to see..."
+      ],
+      [
+        160,
+        "00:27:16.301000",
+        "00:27:18.895000",
+        "After crossing all Transylvania looking for Milan?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTransylvania:)Transylvania)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0826559",
+    "title": "The Indian",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Family",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 982,
+    "occurrences": [
+      [
+        438,
+        "00:32:57.989000",
+        "00:32:59.923000",
+        "It's a 16 Indian, or what's left of it."
+      ],
+      [
+        719,
+        "01:02:50.480000",
+        "01:02:51.447000",
+        "On the Indian."
+      ],
+      [
+        750,
+        "01:05:23.900000",
+        "01:05:25.868000",
+        "SKIP: It looks like we got ourselves an Indian."
+      ],
+      [
+        773,
+        "01:07:18.881000",
+        "01:07:25.445000",
+        "My dad, he brought this Indian home so he and I could restore it together."
+      ],
+      [
+        777,
+        "01:07:41.838000",
+        "01:07:43.703000",
+        "To the Indian."
+      ]
+    ],
+    "regex": "\\b((?!\\bIndian:)Indian)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

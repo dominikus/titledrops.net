@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0411118",
+    "title": "Anthony Zimmer",
+    "year": 2005,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 563,
+    "occurrences": [
+      [
+        0,
+        "00:01:26.440000",
+        "00:01:28.440000",
+        "The network headed by Anthony Zimmer"
+      ],
+      [
+        431,
+        "00:57:07.915000",
+        "00:57:09.915000",
+        "I'm not Anthony Zimmer. - I know."
+      ],
+      [
+        462,
+        "01:00:50.824000",
+        "01:00:53.324000",
+        "Except Anthony Zimmer."
+      ],
+      [
+        515,
+        "01:10:00.262000",
+        "01:10:02.309000",
+        "He is not Anthony Zimmer."
+      ]
+    ],
+    "regex": "\\b((?!\\bAnthony\\ Zimmer:)Anthony\\ Zimmer)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

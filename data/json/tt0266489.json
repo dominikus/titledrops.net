@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0266489",
+    "title": "Duplex",
+    "year": 2003,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1474,
+    "occurrences": [
+      [
+        52,
+        "00:02:54.506000",
+        "00:02:57.475000",
+        "l thought you realized . This is a duplex."
+      ],
+      [
+        99,
+        "00:05:06.605000",
+        "00:05:09.096000",
+        "But when you factor in that it's a duplex."
+      ],
+      [
+        100,
+        "00:05:09.174000",
+        "00:05:10.539000",
+        "lt's a duplex?"
+      ],
+      [
+        134,
+        "00:06:23.415000",
+        "00:06:26.475000",
+        "Besides, do you realize how much the duplex is gonna be worth"
+      ]
+    ],
+    "regex": "\\b((?!\\bDuplex:)Duplex)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

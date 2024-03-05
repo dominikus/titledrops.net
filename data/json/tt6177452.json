@@ -1,0 +1,59 @@
+[
+  {
+    "imdb": "tt6177452",
+    "title": "Heckle",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 1422,
+    "occurrences": [
+      [
+        87,
+        "00:04:02.597000",
+        "00:04:04.096000",
+        "A bit late for a Heckle my friend."
+      ],
+      [
+        121,
+        "00:05:06.430000",
+        "00:05:09.222000",
+        "You thought you could come here to Heckle me?"
+      ],
+      [
+        123,
+        "00:05:11.972000",
+        "00:05:14.013000",
+        "You heckle me?"
+      ],
+      [
+        296,
+        "00:12:18.763000",
+        "00:12:21.721000",
+        "And this heckle will never, ever stop."
+      ],
+      [
+        297,
+        "00:12:21.763000",
+        "00:12:24.680000",
+        "I'll take you to hell. And heckle you there too."
+      ],
+      [
+        1213,
+        "01:03:54.930000",
+        "01:03:56.097000",
+        "You call that a heckle?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHeckle:)Heckle)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [
+      "Heckler"
+    ],
+    "title_is_name": true,
+    "rating": 3.7
+  }
+]

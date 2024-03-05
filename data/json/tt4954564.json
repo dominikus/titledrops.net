@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt4954564",
+    "title": "Campo Grande",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 835,
+    "occurrences": [
+      [
+        171,
+        "00:18:13.573000",
+        "00:18:15.743000",
+        "- Where do you live ? - At Campo Grande."
+      ],
+      [
+        172,
+        "00:18:15.910000",
+        "00:18:17.244000",
+        "Campo Grande is huge."
+      ],
+      [
+        456,
+        "00:52:27.686000",
+        "00:52:30.814000",
+        "In Campo Grande. Finally, my grandmother lives there."
+      ],
+      [
+        487,
+        "00:57:37.093000",
+        "00:57:39.471000",
+        "You know if your mother is in Campo Grande?"
+      ],
+      [
+        538,
+        "01:03:38.847000",
+        "01:03:41.100000",
+        "- Which is it? - The Campo Grande."
+      ],
+      [
+        539,
+        "01:03:41.267000",
+        "01:03:44.145000",
+        "- Campo Grande. - There are three there."
+      ],
+      [
+        607,
+        "01:15:40.145000",
+        "01:15:43.023000",
+        "But Maria did not live in Campo Grande."
+      ]
+    ],
+    "regex": "\\b((?!\\bCampo\\ Grande:)Campo\\ Grande)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

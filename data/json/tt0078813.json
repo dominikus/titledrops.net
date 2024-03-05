@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0078813",
+    "title": "The Miser",
+    "year": 1980,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1895,
+    "occurrences": [
+      [
+        809,
+        "00:49:02.359000",
+        "00:49:05.317000",
+        "The miser has held out against all my attacks."
+      ],
+      [
+        1006,
+        "00:59:53.885000",
+        "00:59:56.818000",
+        "...and never does anyone mention you but under the names of miser..."
+      ]
+    ],
+    "regex": "\\b((?!\\bMiser:)Miser)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

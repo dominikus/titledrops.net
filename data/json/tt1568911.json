@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1568911",
+    "title": "War Horse",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1251,
+    "occurrences": [
+      [
+        3,
+        "00:02:17.685000",
+        "00:02:20.989000",
+        "War Horse"
+      ],
+      [
+        1042,
+        "01:57:39.810000",
+        "01:57:41.228000",
+        "- War horse - Yeah."
+      ],
+      [
+        1043,
+        "01:57:42.688000",
+        "01:57:44.231000",
+        "War horse."
+      ],
+      [
+        1251,
+        "02:17:56.861000",
+        "02:18:00.594000",
+        "War Horse"
+      ]
+    ],
+    "regex": "\\b((?!\\bWar\\ Horse:)War\\ Horse)(?!\\:)(?!'t)\\b",
+    "runtime": 146,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

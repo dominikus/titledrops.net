@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3520714",
+    "title": "The Lighthouse",
+    "year": 2016,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 892,
+    "occurrences": [
+      [
+        84,
+        "00:12:48.580000",
+        "00:12:53.293000",
+        "TG, principal lighthouse keeper."
+      ],
+      [
+        102,
+        "00:15:57.102000",
+        "00:16:01.732000",
+        "TG, principal lighthouse keeper."
+      ],
+      [
+        120,
+        "00:18:54.946000",
+        "00:18:59.282000",
+        "TG, principal lighthouse keeper."
+      ]
+    ],
+    "regex": "\\b((?!\\bLighthouse:)Lighthouse)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

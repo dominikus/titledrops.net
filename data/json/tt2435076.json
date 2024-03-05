@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt2435076",
+    "title": "Dead Man Talking",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1066,
+    "occurrences": [
+      [
+        505,
+        "00:46:19.520000",
+        "00:46:22.920000",
+        "I love the concept. This is the \"Dead man talking show\"."
+      ],
+      [
+        506,
+        "00:46:23.120000",
+        "00:46:26.080000",
+        "The dead man talking. Fantastic. - I'm not sure"
+      ],
+      [
+        622,
+        "00:56:15.760000",
+        "00:56:17.040000",
+        "\"Dead man talking\","
+      ],
+      [
+        649,
+        "00:57:38.920000",
+        "00:57:40.720000",
+        "\"Dead man talking\","
+      ],
+      [
+        917,
+        "01:16:51.920000",
+        "01:16:55.280000",
+        "I'm the dead man talking! I'm going to walk on the moon!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDead\\ Man\\ Talking:)Dead\\ Man\\ Talking)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

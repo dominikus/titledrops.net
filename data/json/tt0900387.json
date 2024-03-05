@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0900387",
+    "title": "Suite Française",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 742,
+    "occurrences": [
+      [
+        731,
+        "01:36:32.609000",
+        "01:36:35.388000",
+        "\"Suite francaise\" was written in secret as the Nazies occupied France."
+      ],
+      [
+        737,
+        "01:36:49.309000",
+        "01:36:53.649000",
+        "\"Suite Francaise\" was finally published in 2004 and became a worldwide bestseller."
+      ]
+    ],
+    "regex": "\\b((?!\\bSuite\\ Francaise:)Suite\\ Francaise)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0104573",
+    "title": "Juice",
+    "year": 1992,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 888,
+    "occurrences": [
+      [
+        5,
+        "00:00:41.198000",
+        "00:00:43.132000",
+        "Sip the juice"
+      ],
+      [
+        15,
+        "00:00:59.216000",
+        "00:01:01.116000",
+        "Time to build my juice back up"
+      ],
+      [
+        64,
+        "00:02:29.607000",
+        "00:02:30.699000",
+        "And crazy juice"
+      ],
+      [
+        193,
+        "00:09:59.656000",
+        "00:10:01.886000",
+        "You got that much juice?"
+      ],
+      [
+        593,
+        "00:27:38.102000",
+        "00:27:39.467000",
+        "if you want some juice."
+      ]
+    ],
+    "regex": "\\b((?!\\bJuice:)Juice)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

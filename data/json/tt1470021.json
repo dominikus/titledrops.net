@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1470021",
+    "title": "Beautiful Wave",
+    "year": 2011,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1019,
+    "occurrences": [
+      [
+        199,
+        "00:16:30.489000",
+        "00:16:32.184000",
+        "\"Beautiful Wave\"?"
+      ],
+      [
+        208,
+        "00:16:55.414000",
+        "00:16:58.349000",
+        "Was one beautiful Wave."
+      ],
+      [
+        247,
+        "00:21:42.234000",
+        "00:21:44.532000",
+        "Beautiful Wave."
+      ],
+      [
+        248,
+        "00:21:45.570000",
+        "00:21:48.801000",
+        "Beautiful Wave? But Sue said that Wasn't a real place."
+      ],
+      [
+        918,
+        "01:18:33.208000",
+        "01:18:34.800000",
+        "Beautiful Wave."
+      ]
+    ],
+    "regex": "\\b((?!\\bBeautiful\\ Wave:)Beautiful\\ Wave)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

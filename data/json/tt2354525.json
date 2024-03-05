@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2354525",
+    "title": "Triad",
+    "year": 2012,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1390,
+    "occurrences": [
+      [
+        115,
+        "00:07:02.039000",
+        "00:07:05.038000",
+        "If I join the triad, I can also earn a lot... if I work harder."
+      ],
+      [
+        347,
+        "00:18:01.206000",
+        "00:18:02.788000",
+        "until we alert the anti-triad police force"
+      ],
+      [
+        753,
+        "00:40:20.456000",
+        "00:40:25.456000",
+        "Those triad still treat me like a dog."
+      ],
+      [
+        986,
+        "00:56:09.414000",
+        "00:56:12.247000",
+        "It also meant the old way of operating the triad"
+      ]
+    ],
+    "regex": "\\b((?!\\bTriad:)Triad)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

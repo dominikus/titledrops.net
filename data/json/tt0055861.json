@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0055861",
+    "title": "The Police Commissioner",
+    "year": 1962,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1547,
+    "occurrences": [
+      [
+        633,
+        "00:40:05.131000",
+        "00:40:08.746000",
+        "Since you're a police commissioner, are you taking me to a murderer?"
+      ],
+      [
+        1258,
+        "01:21:18.976000",
+        "01:21:22.430000",
+        "I'm a police commissioner. I made a mistake, and I must fix it."
+      ],
+      [
+        1485,
+        "01:37:18.670000",
+        "01:37:20.569000",
+        "You're a police commissioner"
+      ],
+      [
+        1510,
+        "01:38:48.828000",
+        "01:38:51.373000",
+        "I wasn't meant to be a police commissioner."
+      ],
+      [
+        1523,
+        "01:40:51.003000",
+        "01:40:53.435000",
+        "of Dante Lombardozzi, police commissioner."
+      ]
+    ],
+    "regex": "\\b((?!\\bPolice\\ Commissioner:)Police\\ Commissioner)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

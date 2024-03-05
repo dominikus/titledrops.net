@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2991008",
+    "title": "Kidon",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1197,
+    "occurrences": [
+      [
+        26,
+        "00:04:55.370000",
+        "00:05:00.720000",
+        "Kidon"
+      ],
+      [
+        285,
+        "00:20:30.820000",
+        "00:20:33.270000",
+        "- And, in particular, \"Kidon\". - What is \"Kidon\"?"
+      ],
+      [
+        286,
+        "00:20:33.780000",
+        "00:20:35.660000",
+        "\"Kidon\" - is the elimination of our department."
+      ],
+      [
+        287,
+        "00:20:39.420000",
+        "00:20:42.190000",
+        "\"Kidon\" - a division of \"Mossad\", headed by Ofer."
+      ]
+    ],
+    "regex": "\\b((?!\\bKidon:)Kidon)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

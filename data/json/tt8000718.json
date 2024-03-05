@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt8000718",
+    "title": "The Operative",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1947,
+    "occurrences": [
+      [
+        124,
+        "00:07:39.720000",
+        "00:07:40.982000",
+        "for a Mossad operative."
+      ],
+      [
+        176,
+        "00:09:42.494000",
+        "00:09:45.019000",
+        "For a Mossad operative to enter Iran so early"
+      ],
+      [
+        1814,
+        "01:42:20.351000",
+        "01:42:21.570000",
+        "She's an operative."
+      ]
+    ],
+    "regex": "\\b((?!\\bOperative:)Operative)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6521776",
+    "title": "Open 24 Hours",
+    "year": 2018,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1387,
+    "occurrences": [
+      [
+        512,
+        "00:33:31.307000",
+        "00:33:32.441000",
+        "We're open 24 hours."
+      ],
+      [
+        599,
+        "00:38:55.697000",
+        "00:38:59.668000",
+        "you know, I'm always open 24 hours."
+      ]
+    ],
+    "regex": "\\b((?!\\bOpen\\ 24\\ Hours:)Open\\ 24\\ Hours)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

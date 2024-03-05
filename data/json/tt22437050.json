@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt22437050",
+    "title": "Wild Is the Wind",
+    "year": 2022,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1730,
+    "occurrences": [
+      [
+        109,
+        "00:10:34.720000",
+        "00:10:36.840000",
+        "[\"Wild Is the Wind\" by Nina Simone playing]"
+      ],
+      [
+        118,
+        "00:11:35.640000",
+        "00:11:42.600000",
+        "Wild is the wind"
+      ],
+      [
+        122,
+        "00:12:19.640000",
+        "00:12:25.280000",
+        "For wild is the wind"
+      ]
+    ],
+    "regex": "\\b((?!\\bWild\\ Is\\ the\\ Wind:)Wild\\ Is\\ the\\ Wind)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

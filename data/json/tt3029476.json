@@ -1,0 +1,74 @@
+[
+  {
+    "imdb": "tt3029476",
+    "title": "Pressure",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 9,
+    "all_lines": 959,
+    "occurrences": [
+      [
+        17,
+        "00:03:21.970000",
+        "00:03:24.475000",
+        "We got a low-pressure read on the pipeline and manifold."
+      ],
+      [
+        78,
+        "00:07:02.518000",
+        "00:07:06.476000",
+        "...increasing the pressure to 650 feet, seabed equivalence."
+      ],
+      [
+        79,
+        "00:07:06.875000",
+        "00:07:10.044000",
+        "You'll be at depth pressure in 60 minutes. Over."
+      ],
+      [
+        205,
+        "00:17:41.749000",
+        "00:17:44.556000",
+        "...pressure caught in a tooth cavity, under your filling."
+      ],
+      [
+        208,
+        "00:17:53.830000",
+        "00:17:55.012000",
+        "Internal pressure is stable."
+      ],
+      [
+        220,
+        "00:18:28.098000",
+        "00:18:30.748000",
+        "OB3 pressure reading at 90 percent."
+      ],
+      [
+        322,
+        "00:26:28.349000",
+        "00:26:31.242000",
+        "No, because right now, pressure is equalized inside and out."
+      ],
+      [
+        323,
+        "00:26:31.326000",
+        "00:26:34.072000",
+        "But the bell rises, the pressure drops, the chamber could become compromised..."
+      ],
+      [
+        325,
+        "00:26:36.092000",
+        "00:26:38.356000",
+        "If we lose pressure inside the bell, we're all dead."
+      ]
+    ],
+    "regex": "\\b((?!\\bPressure:)Pressure)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

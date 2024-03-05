@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt4156972",
+    "title": "Opening Night",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "count": 4,
+    "all_lines": 1538,
+    "occurrences": [
+      [
+        256,
+        "00:11:17.144000",
+        "00:11:19.077000",
+        "ends a show's run on opening night."
+      ],
+      [
+        579,
+        "00:25:48.814000",
+        "00:25:50.814000",
+        "-But it's opening night."
+      ],
+      [
+        888,
+        "00:40:08.774000",
+        "00:40:10.607000",
+        "-I know it closed opening night,"
+      ],
+      [
+        1472,
+        "01:11:45.869000",
+        "01:11:49.070000",
+        "-Do you know how many shows close opening night?"
+      ]
+    ],
+    "regex": "\\b((?!\\bOpening\\ Night:)Opening\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

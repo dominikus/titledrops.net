@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5936578",
+    "title": "Saints Rest",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Music",
+      "Musical"
+    ],
+    "count": 3,
+    "all_lines": 1256,
+    "occurrences": [
+      [
+        68,
+        "00:05:22.040000",
+        "00:05:22.711000",
+        "- Saints Rest."
+      ],
+      [
+        479,
+        "00:31:00.589000",
+        "00:31:04.300000",
+        "I think we need a Saints Rest pet, like a mascot."
+      ],
+      [
+        936,
+        "00:56:59.395000",
+        "00:57:02.208000",
+        "I'm not okay with just waking up and going to Saints Rest"
+      ]
+    ],
+    "regex": "\\b((?!\\bSaints\\ Rest:)Saints\\ Rest)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

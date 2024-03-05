@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0988047",
+    "title": "Traitor",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1049,
+    "occurrences": [
+      [
+        84,
+        "00:11:43.830000",
+        "00:11:47.853000",
+        "You are a traitor. You sold us out."
+      ],
+      [
+        980,
+        "01:41:19.097000",
+        "01:41:21.995000",
+        "- I didn't come here to kill you, Omar. - You are a traitor!"
+      ],
+      [
+        981,
+        "01:41:22.064000",
+        "01:41:24.325000",
+        "No! Nathir was the traitor."
+      ],
+      [
+        982,
+        "01:41:24.396000",
+        "01:41:26.760000",
+        "Fareed was the traitor. They betrayed lslam!"
+      ]
+    ],
+    "regex": "\\b((?!\\bTraitor:)Traitor)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

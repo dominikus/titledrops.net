@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0090874",
+    "title": "Family Council",
+    "year": 1986,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1349,
+    "occurrences": [
+      [
+        1235,
+        "01:29:18.520000",
+        "01:29:20.841000",
+        "Come on, family council."
+      ],
+      [
+        1253,
+        "01:30:15.692000",
+        "01:30:19.184000",
+        "This is a family council. If we can not talk..."
+      ]
+    ],
+    "regex": "\\b((?!\\bFamily\\ Council:)Family\\ Council)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

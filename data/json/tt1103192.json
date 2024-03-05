@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1103192",
+    "title": "The Blind Sunflowers",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1143,
+    "occurrences": [
+      [
+        75,
+        "00:07:35.227000",
+        "00:07:37.787000",
+        "... it compares them to the \"blind sunflowers.\""
+      ],
+      [
+        916,
+        "0",
+        "0",
+        "like the \"blind sunflowers\", as the Bible says."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlind\\ Sunflowers:)Blind\\ Sunflowers)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

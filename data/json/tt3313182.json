@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3313182",
+    "title": "White Orchid",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1004,
+    "occurrences": [
+      [
+        814,
+        "01:10:55.729000",
+        "01:10:57.862000",
+        "The white orchid."
+      ],
+      [
+        899,
+        "01:16:16.267000",
+        "01:16:19.966000",
+        "the body known as the White Orchid,"
+      ],
+      [
+        977,
+        "01:22:56.058000",
+        "01:22:59.365000",
+        "Somebody stole the white orchid out of the window."
+      ],
+      [
+        999,
+        "01:24:11.350000",
+        "01:24:13.918000",
+        "The White Orchid is still out there."
+      ]
+    ],
+    "regex": "\\b((?!\\bWhite\\ Orchid:)White\\ Orchid)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

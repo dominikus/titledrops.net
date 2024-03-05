@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0912597",
+    "title": "Death Note: L Change the World",
+    "year": 2008,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 388,
+    "occurrences": [
+      [
+        35,
+        "00:04:49.540000",
+        "00:04:51.531000",
+        "\"Time of death, controlled by Death Note, is 23 days.\""
+      ],
+      [
+        69,
+        "00:13:54.017000",
+        "00:13:55.712000",
+        "in the Death Note."
+      ],
+      [
+        73,
+        "00:14:03.927000",
+        "00:14:09.388000",
+        "Light Yagami will attempt to kill me with the Death Note."
+      ],
+      [
+        118,
+        "00:20:01.985000",
+        "00:20:03.748000",
+        "The Death Note."
+      ]
+    ],
+    "regex": "\\b((?!\\bDeath\\ Note:)Death\\ Note|(?!\\bL\\ Change\\ the\\ World:)L\\ Change\\ the\\ World)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

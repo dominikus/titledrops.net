@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1147520",
+    "title": "Doraemon: Nobita and the Animal Planet",
+    "year": 1990,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 101,
+    "occurrences": [
+      [
+        12,
+        "00:01:20.955000",
+        "00:01:25.209000",
+        "Doraemon!"
+      ],
+      [
+        13,
+        "00:01:40.058000",
+        "00:01:42.974000",
+        "Doraemon and Nobita's Animal Planet"
+      ],
+      [
+        14,
+        "00:02:37.532000",
+        "00:02:39.783000",
+        "Doraemon! Do something!"
+      ],
+      [
+        89,
+        "00:06:21.714000",
+        "00:06:22.881000",
+        "Doraemon!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDoraemon:)Doraemon|(?!\\bNobita\\ and\\ the\\ Animal\\ Planet:)Nobita\\ and\\ the\\ Animal\\ Planet)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

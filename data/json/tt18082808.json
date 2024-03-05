@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt18082808",
+    "title": "Firenado",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1338,
+    "occurrences": [
+      [
+        5,
+        "00:00:50.676000",
+        "00:00:54.595000",
+        "The so-called firenado has left a wake of destruction"
+      ],
+      [
+        9,
+        "00:01:01.436000",
+        "00:01:03.311000",
+        "We're coming up to firenado now."
+      ]
+    ],
+    "regex": "\\b((?!\\bFirenado:)Firenado)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.7
+  }
+]

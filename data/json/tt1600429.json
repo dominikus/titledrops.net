@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt1600429",
+    "title": "Old 37",
+    "year": 2015,
+    "genres": [
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 1015,
+    "occurrences": [
+      [
+        464,
+        "00:29:59.465000",
+        "00:30:01.231000",
+        "- Yeah. - She's like 15 years old."
+      ],
+      [
+        488,
+        "00:30:52.885000",
+        "00:30:54.551000",
+        "The bitch thing is getting kind of old, all right?"
+      ],
+      [
+        495,
+        "00:31:08.367000",
+        "00:31:11.301000",
+        "Tell me you and Jordan didn't leave that little old lady for dead in the woods."
+      ],
+      [
+        505,
+        "00:32:22.942000",
+        "00:32:24.174000",
+        "Look, she's old."
+      ],
+      [
+        616,
+        "00:44:14.285000",
+        "00:44:15.952000",
+        "The old man was."
+      ],
+      [
+        867,
+        "01:05:31.461000",
+        "01:05:34.262000",
+        "When I was away, I read a lot of books, old man."
+      ]
+    ],
+    "regex": "\\b((?!\\bOld:)Old)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

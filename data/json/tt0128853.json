@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0128853",
+    "title": "You've Got Mail",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1934,
+    "occurrences": [
+      [
+        16,
+        "00:04:27.511000",
+        "00:04:29.479000",
+        "You've got mail."
+      ],
+      [
+        49,
+        "00:06:43.947000",
+        "00:06:45.608000",
+        "You've got mail."
+      ],
+      [
+        62,
+        "00:07:25.455000",
+        "00:07:26.649000",
+        "\"You've got mail. \""
+      ]
+    ],
+    "regex": "\\b((?!\\bYou've\\ Got\\ Mail:)You've\\ Got\\ Mail)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

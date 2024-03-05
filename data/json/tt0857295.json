@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0857295",
+    "title": "Timber Falls",
+    "year": 2007,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 807,
+    "occurrences": [
+      [
+        77,
+        "00:10:32.890000",
+        "00:10:36.120000",
+        "But that path, Timber Falls ..."
+      ],
+      [
+        93,
+        "00:11:22.140000",
+        "00:11:23.810000",
+        "We go to Timber Falls."
+      ]
+    ],
+    "regex": "\\b((?!\\bTimber\\ Falls:)Timber\\ Falls)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

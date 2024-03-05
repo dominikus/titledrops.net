@@ -1,0 +1,26 @@
+[
+  {
+    "imdb": "tt0079807",
+    "title": "Richard Pryor: Live in Concert",
+    "year": 1979,
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 1,
+    "all_lines": 1488,
+    "occurrences": [
+      [
+        39,
+        "00:03:58.505000",
+        "00:04:02.468000",
+        "They say, I got a picture of Richard Pryor."
+      ]
+    ],
+    "regex": "\\b((?!\\bRichard\\ Pryor:)Richard\\ Pryor|(?!\\bLive\\ in\\ Concert:)Live\\ in\\ Concert)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

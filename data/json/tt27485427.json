@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt27485427",
+    "title": "The Unbinding",
+    "year": 2023,
+    "genres": [
+      "Documentary",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1471,
+    "occurrences": [
+      [
+        1136,
+        "01:12:31.388000",
+        "01:12:34.183000",
+        "the nails and the noose, which were part of the unbinding ritual."
+      ],
+      [
+        1137,
+        "01:12:36.727000",
+        "01:12:40.481000",
+        "But we couldn't do the unbinding ritual anywhere except"
+      ],
+      [
+        1239,
+        "01:21:21.084000",
+        "01:21:24.337000",
+        "that what we were doing was we were unbinding"
+      ],
+      [
+        1263,
+        "01:23:54.195000",
+        "01:23:57.657000",
+        "After the unbinding ritual, we took the Crone into a tent."
+      ]
+    ],
+    "regex": "\\b((?!\\bUnbinding:)Unbinding)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt14145436",
+    "title": "Pet Sematary: Bloodlines",
+    "year": 2023,
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1061,
+    "occurrences": [
+      [
+        2,
+        "00:00:54.554000",
+        "00:00:57.791000",
+        "Pet Sematary was a place kids like me learned about death."
+      ],
+      [
+        7,
+        "00:01:14.441000",
+        "00:01:17.510000",
+        "It had lived there forever, beyond the Pet Sematary,"
+      ],
+      [
+        559,
+        "00:36:06.797000",
+        "00:36:09.867000",
+        "Grandma told me our people built the Pet Sematary"
+      ]
+    ],
+    "regex": "\\b((?!\\bPet\\ Sematary:)Pet\\ Sematary|(?!\\bBloodlines:)Bloodlines)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

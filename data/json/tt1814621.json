@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1814621",
+    "title": "Admission",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1825,
+    "occurrences": [
+      [
+        949,
+        "00:47:17.100000",
+        "00:47:18.670000",
+        "Admission Matters"
+      ],
+      [
+        1516,
+        "01:18:14.589000",
+        "01:18:17.229000",
+        "All in favor of admission?"
+      ],
+      [
+        1608,
+        "01:25:39.601000",
+        "01:25:44.271000",
+        "We sent Mr. Balakian an offer of admission, which he accepted."
+      ],
+      [
+        1610,
+        "01:25:45.673000",
+        "01:25:48.342000",
+        "I don't remember making him an offer of admission."
+      ]
+    ],
+    "regex": "\\b((?!\\bAdmission:)Admission)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

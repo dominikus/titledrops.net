@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3561236",
+    "title": "Containment",
+    "year": 2015,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 767,
+    "occurrences": [
+      [
+        395,
+        "00:30:51.842000",
+        "00:30:54.511000",
+        "This is an all-unit call. Containment zone four is breached."
+      ],
+      [
+        754,
+        "01:08:46.864000",
+        "01:08:48.575000",
+        " We've expanded the containment zone."
+      ]
+    ],
+    "regex": "\\b((?!\\bContainment:)Containment)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

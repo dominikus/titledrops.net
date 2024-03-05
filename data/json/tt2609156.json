@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2609156",
+    "title": "FrackNation",
+    "year": 2013,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1240,
+    "occurrences": [
+      [
+        1201,
+        "01:07:16.365000",
+        "01:07:20.160000",
+        "Phelim McAleer, the director of FrackNation documentary."
+      ],
+      [
+        1206,
+        "01:07:40.848000",
+        "01:07:45.602000",
+        "Hi, Josh, this is Phelim McAleer, the director of FrackNation."
+      ],
+      [
+        1209,
+        "01:07:53.235000",
+        "01:07:57.197000",
+        "but l really want to do an interview with you for FrackNation."
+      ]
+    ],
+    "regex": "\\b((?!\\bFrackNation:)FrackNation)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

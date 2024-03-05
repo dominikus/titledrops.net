@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt8400584",
+    "title": "The Perfect Find",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1866,
+    "occurrences": [
+      [
+        1230,
+        "00:57:44.041000",
+        "00:57:47.500000",
+        "They wanted details on Perfect Find. I told them that was your brainchild."
+      ],
+      [
+        1862,
+        "01:32:37.833000",
+        "01:32:41.125000",
+        "I'd call it a... a perfect find."
+      ]
+    ],
+    "regex": "\\b((?!\\bPerfect\\ Find:)Perfect\\ Find)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

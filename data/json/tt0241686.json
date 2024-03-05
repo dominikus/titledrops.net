@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0241686",
+    "title": "Lovedolls Superstar",
+    "year": 1986,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1253,
+    "occurrences": [
+      [
+        0,
+        "00:00:01.134000",
+        "00:00:05.138000",
+        "Superstar lovedolls superstar"
+      ],
+      [
+        1,
+        "00:00:07.540000",
+        "00:00:11.544000",
+        "Superstar lovedolls superstar"
+      ]
+    ],
+    "regex": "\\b((?!\\bLovedolls\\ Superstar:)Lovedolls\\ Superstar)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

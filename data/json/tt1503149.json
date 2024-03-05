@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1503149",
+    "title": "Oliver Sherman",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 810,
+    "occurrences": [
+      [
+        160,
+        "00:16:17.025000",
+        "00:16:20.760000",
+        "I thought my name was actually Oliver Sherman."
+      ],
+      [
+        170,
+        "00:16:47.115000",
+        "00:16:49.548000",
+        "Oliver Sherman, almost right,"
+      ]
+    ],
+    "regex": "\\b((?!\\bOliver\\ Sherman:)Oliver\\ Sherman)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

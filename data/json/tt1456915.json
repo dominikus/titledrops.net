@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1456915",
+    "title": "Villa Estrella",
+    "year": 2009,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 905,
+    "occurrences": [
+      [
+        87,
+        "00:10:14.408000",
+        "00:10:16.033000",
+        "At Villa Estrella."
+      ],
+      [
+        319,
+        "00:31:35.506000",
+        "00:31:37.881000",
+        "Just ask for directions to Villa Estrella in Batangas."
+      ]
+    ],
+    "regex": "\\b((?!\\bVilla\\ Estrella:)Villa\\ Estrella)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

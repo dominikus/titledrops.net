@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0118900",
+    "title": "Gang Related",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1476,
+    "occurrences": [
+      [
+        81,
+        "00:10:10.056000",
+        "00:10:11.421000",
+        "Could be gang related."
+      ],
+      [
+        89,
+        "00:10:41.921000",
+        "00:10:45.516000",
+        "Hey, Divinci. Heard you got a gang related, you lucky guy."
+      ],
+      [
+        491,
+        "00:39:46.798000",
+        "00:39:50.029000",
+        "Listen, our shooting was supposed to be gang related and unsolved."
+      ],
+      [
+        1188,
+        "01:21:31.099000",
+        "01:21:32.828000",
+        "We can make it look gang related."
+      ]
+    ],
+    "regex": "\\b((?!\\bGang\\ Related:)Gang\\ Related)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0091038",
+    "title": "The Woman of My Life",
+    "year": 1986,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 756,
+    "occurrences": [
+      [
+        386,
+        "00:51:50.120000",
+        "00:51:53.772000",
+        "You are the woman of my life"
+      ],
+      [
+        389,
+        "00:52:04.120000",
+        "00:52:06.669000",
+        "You are the woman of my life"
+      ]
+    ],
+    "regex": "\\b((?!\\bWoman\\ of\\ My\\ Life:)Woman\\ of\\ My\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

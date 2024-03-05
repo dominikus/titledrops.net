@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt29702876",
+    "title": "JFK: What the Doctors Saw",
+    "year": 2023,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "count": 6,
+    "all_lines": 1650,
+    "occurrences": [
+      [
+        72,
+        "00:03:22.035000",
+        "00:03:23.771000",
+        "about the JFK assassination."
+      ],
+      [
+        676,
+        "00:39:10.281000",
+        "00:39:12.567000",
+        "Everything changed as soon as JFK's body"
+      ],
+      [
+        690,
+        "00:40:07.939000",
+        "00:40:10.291000",
+        "about the JFK assassination."
+      ],
+      [
+        751,
+        "00:42:54.339000",
+        "00:42:58.610000",
+        "on what had happened to JFK in Dealey Plaza."
+      ],
+      [
+        767,
+        "00:43:55.566000",
+        "00:43:57.418000",
+        "At the time JFK was assassinated,"
+      ],
+      [
+        936,
+        "00:53:18.963000",
+        "00:53:22.183000",
+        "By the time JFK's body arrives at Bethesda,"
+      ]
+    ],
+    "regex": "\\b((?!\\bJFK:)JFK|(?!\\bWhat\\ the\\ Doctors\\ Saw:)What\\ the\\ Doctors\\ Saw)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

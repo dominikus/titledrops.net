@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0091419",
+    "title": "Little Shop of Horrors",
+    "year": 1986,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Musical"
+    ],
+    "count": 4,
+    "all_lines": 1100,
+    "occurrences": [
+      [
+        5,
+        "00:01:59.090000",
+        "00:02:02.150000",
+        "''Little Shop Little Shop of Horrors"
+      ],
+      [
+        7,
+        "00:02:05.130000",
+        "00:02:08.031000",
+        "''Watch 'em drop Little Shop of Horrors"
+      ],
+      [
+        25,
+        "00:03:50.668000",
+        "00:03:53.398000",
+        "''Little Shop Little Shop of Horrors"
+      ],
+      [
+        27,
+        "00:03:56.407000",
+        "00:03:59.467000",
+        "''Little Shop Little Shop of Horrors''"
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Shop\\ of\\ Horrors:)Little\\ Shop\\ of\\ Horrors)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1934452",
+    "title": "Realms",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 803,
+    "occurrences": [
+      [
+        6,
+        "00:01:35.804000",
+        "00:01:39.167000",
+        "You're lying there, trapped between two realms,"
+      ],
+      [
+        753,
+        "01:21:45.603000",
+        "01:21:49.602000",
+        "And you're lying there, trapped between two realms..."
+      ]
+    ],
+    "regex": "\\b((?!\\bRealms:)Realms)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

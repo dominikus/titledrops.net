@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0271219",
+    "title": "Tadpole",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1170,
+    "occurrences": [
+      [
+        52,
+        "00:04:20.093000",
+        "00:04:22.562000",
+        "- Hi, Tadpole. - Hey, Jimmy."
+      ],
+      [
+        337,
+        "00:22:31.850000",
+        "00:22:34.152000",
+        "Is she new to the pond, Tadpole?"
+      ],
+      [
+        986,
+        "00:58:08.384000",
+        "00:58:10.653000",
+        "What's on your mind, Tadpole?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTadpole:)Tadpole)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

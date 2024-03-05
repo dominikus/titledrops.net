@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0492967",
+    "title": "I Remember",
+    "year": 2005,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1015,
+    "occurrences": [
+      [
+        103,
+        "00:11:28.454000",
+        "00:11:32.447000",
+        "I remember that I felt real horror at the simple fact that I was alive."
+      ],
+      [
+        348,
+        "00:32:49.267000",
+        "00:32:54.102000",
+        "And on this happy day I remember"
+      ],
+      [
+        536,
+        "00:50:31.061000",
+        "00:50:34.292000",
+        "You forget, I remember"
+      ],
+      [
+        537,
+        "00:50:34.698000",
+        "00:50:39.158000",
+        "I remember I remember"
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Remember:)I\\ Remember)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

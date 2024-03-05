@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt5966990",
+    "title": "California Typewriter",
+    "year": 2016,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 2124,
+    "occurrences": [
+      [
+        276,
+        "00:14:18.360000",
+        "00:14:20.749000",
+        "that said California Typewriter and I looked in the window."
+      ],
+      [
+        1774,
+        "01:26:43.880000",
+        "01:26:46.155000",
+        "It seems funny that the only way that California Typewriter"
+      ],
+      [
+        2081,
+        "01:40:23.520000",
+        "01:40:25.476000",
+        "California Typewriter is here"
+      ]
+    ],
+    "regex": "\\b((?!\\bCalifornia\\ Typewriter:)California\\ Typewriter)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

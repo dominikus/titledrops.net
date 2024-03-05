@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1483735",
+    "title": "The Portuguese Nun",
+    "year": 2009,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 937,
+    "occurrences": [
+      [
+        120,
+        "00:26:24.840000",
+        "00:26:28.435000",
+        "I'm happy to be here to play the Portuguese nun."
+      ],
+      [
+        244,
+        "00:42:11.320000",
+        "00:42:15.029000",
+        "And in Lisbon, I will be the Portuguese nun."
+      ],
+      [
+        434,
+        "00:58:59.040000",
+        "00:59:02.396000",
+        "It'll be like playing The Portuguese Nun again."
+      ],
+      [
+        759,
+        "01:39:19.440000",
+        "01:39:23.399000",
+        "Here, I am the Portuguese nun."
+      ]
+    ],
+    "regex": "\\b((?!\\bPortuguese\\ Nun:)Portuguese\\ Nun)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

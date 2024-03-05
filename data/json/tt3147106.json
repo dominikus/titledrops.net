@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3147106",
+    "title": "Pleasure Island",
+    "year": 2015,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1070,
+    "occurrences": [
+      [
+        462,
+        "00:39:25.431000",
+        "00:39:27.333000",
+        "Old fella, owns Pleasure Island."
+      ],
+      [
+        517,
+        "00:44:19.290000",
+        "00:44:21.993000",
+        "You know, I own Pleasure Island."
+      ],
+      [
+        580,
+        "00:52:11.162000",
+        "00:52:13.264000",
+        "Yeah, in Pleasure Island."
+      ],
+      [
+        845,
+        "01:11:49.473000",
+        "01:11:51.475000",
+        "What with that bitch sending the Pleasure Island deal south,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPleasure\\ Island:)Pleasure\\ Island)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

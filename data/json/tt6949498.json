@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6949498",
+    "title": "SuperGrid",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1149,
+    "occurrences": [
+      [
+        12,
+        "00:02:44.313000",
+        "00:02:46.480000",
+        "Those venturing out onto the SuperGrid"
+      ],
+      [
+        20,
+        "00:03:07.368000",
+        "00:03:09.735000",
+        "Those venturing out onto the SuperGrid"
+      ],
+      [
+        39,
+        "00:04:02.120000",
+        "00:04:03.354000",
+        "a day on the SuperGrid."
+      ],
+      [
+        140,
+        "00:10:41.204000",
+        "00:10:43.771000",
+        "P.A. ANNOUNCER: Those venturing out onto the SuperGrid"
+      ]
+    ],
+    "regex": "\\b((?!\\bSuperGrid:)SuperGrid)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

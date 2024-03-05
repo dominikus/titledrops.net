@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6728390",
+    "title": "Kuroko's Basketball: Last Game",
+    "year": 2017,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1152,
+    "occurrences": [
+      [
+        1085,
+        "01:22:10.090000",
+        "01:22:13.040000",
+        "I'll pay you back for our last game."
+      ],
+      [
+        1087,
+        "01:22:16.090000",
+        "01:22:19.040000",
+        "Last Game, let's go."
+      ]
+    ],
+    "regex": "\\b((?!\\bKuroko's\\ Basketball:)Kuroko's\\ Basketball|(?!\\bLast\\ Game:)Last\\ Game)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4818844",
+    "title": "10: The Secret Mission",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 785,
+    "occurrences": [
+      [
+        97,
+        "00:09:51.880000",
+        "00:09:56.620000",
+        "I'm ready to take part in this secret mission."
+      ],
+      [
+        303,
+        "00:29:41.960000",
+        "00:29:45.970000",
+        "Since I was 10, I was obsessed with becoming a cowboy."
+      ]
+    ],
+    "regex": "\\b((?!\\b10:)10|(?!\\bSecret\\ Mission:)Secret\\ Mission)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

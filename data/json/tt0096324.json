@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0096324",
+    "title": "Two Moon Junction",
+    "year": 1988,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 902,
+    "occurrences": [
+      [
+        330,
+        "00:34:40.077000",
+        "00:34:43.349000",
+        "This house and the property from here to Two Moon Junction."
+      ],
+      [
+        590,
+        "01:02:07.429000",
+        "01:02:11.296000",
+        "and go down to our pavilion at Two Moon Junction and dance all night."
+      ],
+      [
+        591,
+        "01:02:11.396000",
+        "01:02:13.291000",
+        "- Two Moon Junction? - Yeah."
+      ]
+    ],
+    "regex": "\\b((?!\\bTwo\\ Moon\\ Junction:)Two\\ Moon\\ Junction)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

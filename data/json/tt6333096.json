@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt6333096",
+    "title": "The Mars Generation",
+    "year": 2017,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1625,
+    "occurrences": [
+      [
+        792,
+        "00:43:09.629000",
+        "00:43:12.632000",
+        "The Mars Generation, is the generation of today."
+      ],
+      [
+        1340,
+        "01:14:51.988000",
+        "01:14:54.365000",
+        "They keep saying my generation is the Mars Generation,"
+      ],
+      [
+        1608,
+        "01:32:21.536000",
+        "01:32:24.205000",
+        "The Mars Generation is...us."
+      ]
+    ],
+    "regex": "\\b((?!\\bMars\\ Generation:)Mars\\ Generation)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

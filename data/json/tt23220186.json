@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt23220186",
+    "title": "Love Birds",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 3038,
+    "occurrences": [
+      [
+        1568,
+        "01:00:38.595000",
+        "01:00:39.845000",
+        "Oh! Love Birds..."
+      ],
+      [
+        1569,
+        "01:00:41.095000",
+        "01:00:42.512000",
+        "Oh! Love Birds..."
+      ],
+      [
+        1570,
+        "01:00:43.595000",
+        "01:00:44.845000",
+        "Oh! Love Birds..."
+      ],
+      [
+        1571,
+        "01:00:46.137000",
+        "01:00:47.262000",
+        "Oh! Love Birds..."
+      ]
+    ],
+    "regex": "\\b((?!\\bLove\\ Birds:)Love\\ Birds)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

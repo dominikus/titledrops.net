@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6857282",
+    "title": "Ordinary Person",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1391,
+    "occurrences": [
+      [
+        969,
+        "01:07:52.338000",
+        "01:07:53.505000",
+        "An ordinary person."
+      ],
+      [
+        970,
+        "01:07:55.214000",
+        "01:07:58.582000",
+        "An ordinary person wanting to live in a time of common sense."
+      ]
+    ],
+    "regex": "\\b((?!\\bOrdinary\\ Person:)Ordinary\\ Person)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

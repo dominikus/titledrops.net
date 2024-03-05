@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0116000",
+    "title": "D3: The Mighty Ducks",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1527,
+    "occurrences": [
+      [
+        1,
+        "00:01:35.761000",
+        "00:01:38.627000",
+        "the head coach and leader of the Mighty Ducks,"
+      ],
+      [
+        485,
+        "00:30:44.246000",
+        "00:30:48.409000",
+        "You have never heard of the Anaheim Mighty Ducks ?"
+      ],
+      [
+        501,
+        "00:31:52.138000",
+        "00:31:55.733000",
+        "the once Mighty Ducks, I mean, rather, the, um, Eden Hall Warriors..."
+      ],
+      [
+        1354,
+        "01:30:13.613000",
+        "01:30:16.547000",
+        "from the Anaheim Mighty Ducks and visiting friends in the Twin Cities area,"
+      ],
+      [
+        1503,
+        "01:39:25.125000",
+        "01:39:29.959000",
+        "All right! Eden Hall Mighty Ducks! Whoo-hoo!"
+      ]
+    ],
+    "regex": "\\b((?!\\bD3:)D3|(?!\\bMighty\\ Ducks:)Mighty\\ Ducks)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

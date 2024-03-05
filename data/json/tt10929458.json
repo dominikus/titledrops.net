@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt10929458",
+    "title": "The Creeping",
+    "year": 2022,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 713,
+    "occurrences": [
+      [
+        201,
+        "00:27:09.997000",
+        "00:27:12.366000",
+        "creeping around, hidden in the shadows."
+      ],
+      [
+        559,
+        "01:09:41.314000",
+        "01:09:46.788000",
+        "and every creeping thing that creepeth upon the earth.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bCreeping:)Creeping)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

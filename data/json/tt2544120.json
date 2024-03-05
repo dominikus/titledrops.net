@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2544120",
+    "title": "The Concubine",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 760,
+    "occurrences": [
+      [
+        41,
+        "00:04:32.856000",
+        "00:04:36.109000",
+        "With no son and not even a concubine."
+      ],
+      [
+        456,
+        "00:52:20.512000",
+        "00:52:25.017000",
+        "You've gained His Majesty's favor, but have yet to be a concubine."
+      ]
+    ],
+    "regex": "\\b((?!\\bConcubine:)Concubine)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

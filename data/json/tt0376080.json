@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0376080",
+    "title": "Platform",
+    "year": 1993,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 982,
+    "occurrences": [
+      [
+        268,
+        "00:45:32.416000",
+        "00:45:34.680000",
+        "whom Haria found at the platform nine years ago."
+      ],
+      [
+        330,
+        "00:52:44.681000",
+        "00:52:47.775000",
+        "I didn't kill Sir nor did I desert you at the platform."
+      ],
+      [
+        473,
+        "01:16:49.791000",
+        "01:16:53.955000",
+        "the day you left him alone on the platform and ran away."
+      ],
+      [
+        863,
+        "02:01:10.943000",
+        "02:01:12.570000",
+        "He didn't desert you at the platform. . ."
+      ],
+      [
+        903,
+        "02:09:32.344000",
+        "02:09:34.039000",
+        ". . .then within an hour come to the dock's platform. . ."
+      ]
+    ],
+    "regex": "\\b((?!\\bPlatform:)Platform)(?!\\:)(?!'t)\\b",
+    "runtime": 150,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

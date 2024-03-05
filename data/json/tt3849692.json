@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt3849692",
+    "title": "Operator",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 965,
+    "occurrences": [
+      [
+        127,
+        "00:10:41.789000",
+        "00:10:44.018000",
+        "You're a good operator, Pam."
+      ],
+      [
+        180,
+        "00:14:31.085000",
+        "00:14:34.589000",
+        "An emergency dispatch operator can't disconnect"
+      ],
+      [
+        223,
+        "00:17:20.225000",
+        "00:17:24.150000",
+        "Remember that the primary responsibility of an emergency operator"
+      ],
+      [
+        415,
+        "00:31:20.360000",
+        "00:31:25.654000",
+        "Remember, a 911 call operator must remain calm at all times."
+      ],
+      [
+        800,
+        "01:05:58.503000",
+        "01:06:01.999000",
+        "This is dispatch operator Pamela Miller."
+      ]
+    ],
+    "regex": "\\b((?!\\bOperator:)Operator)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

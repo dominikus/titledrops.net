@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1411704",
+    "title": "Hop",
+    "year": 2011,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1602,
+    "occurrences": [
+      [
+        333,
+        "00:23:32.300000",
+        "00:23:36.293000",
+        "Time to hop away out of Fred's life back to the Enchanted Forest."
+      ],
+      [
+        536,
+        "00:34:46.980000",
+        "00:34:47.969000",
+        "Hop in."
+      ],
+      [
+        1428,
+        "01:20:12.060000",
+        "01:20:13.175000",
+        "Hop on."
+      ]
+    ],
+    "regex": "\\b((?!\\bHop:)Hop)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

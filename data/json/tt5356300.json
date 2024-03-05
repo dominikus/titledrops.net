@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt5356300",
+    "title": "James and Alice",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 1386,
+    "occurrences": [
+      [
+        0,
+        "00:01:54.647000",
+        "00:02:08.550000",
+        "'James and Alice'"
+      ],
+      [
+        331,
+        "00:28:27.205000",
+        "00:28:29.969000",
+        "ln the life of James and Alice poverty and hardships will be-"
+      ],
+      [
+        687,
+        "01:14:35.103000",
+        "01:14:39.506000",
+        "The divorce case of James and Alice will be taken for-"
+      ],
+      [
+        1373,
+        "02:42:25.736000",
+        "02:42:27.567000",
+        "Where is James and Alice?"
+      ]
+    ],
+    "regex": "\\b((?!\\bJames\\ and\\ Alice:)James\\ and\\ Alice)(?!\\:)(?!'t)\\b",
+    "runtime": 166,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

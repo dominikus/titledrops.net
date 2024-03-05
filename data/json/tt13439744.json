@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt13439744",
+    "title": "Son of India",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 825,
+    "occurrences": [
+      [
+        0,
+        "00:00:33.166000",
+        "00:00:39.083000",
+        "In the history of Indian cinema, this film called 'Son of India' is an experiment."
+      ],
+      [
+        5,
+        "00:00:57.916000",
+        "00:01:04.125000",
+        "In 'Son of India' in many scenes I have done Mono Action."
+      ]
+    ],
+    "regex": "\\b((?!\\bSon\\ of\\ India:)Son\\ of\\ India)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

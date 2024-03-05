@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0091777",
+    "title": "Police Academy 3: Back in Training",
+    "year": 1986,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 852,
+    "occurrences": [
+      [
+        93,
+        "00:08:10.873000",
+        "00:08:13.990000",
+        "Police Academy to Sgt. Mahoney. Come in, please."
+      ],
+      [
+        138,
+        "00:10:57.393000",
+        "00:11:00.191000",
+        "-You are not going to that police academy. -Wrong!"
+      ],
+      [
+        164,
+        "00:12:29.833000",
+        "00:12:32.063000",
+        "I don't care. I wanna go to the police academy."
+      ],
+      [
+        186,
+        "00:14:40.673000",
+        "00:14:44.666000",
+        "Let me be the first to welcome you to the fabulous Midcity Police Academy."
+      ]
+    ],
+    "regex": "\\b((?!\\bPolice\\ Academy:)Police\\ Academy|(?!\\bBack\\ in\\ Training:)Back\\ in\\ Training)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

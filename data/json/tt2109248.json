@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2109248",
+    "title": "Transformers: Age of Extinction",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 2604,
+    "occurrences": [
+      [
+        124,
+        "00:09:18.992000",
+        "00:09:21.893000",
+        "And the age of the transformers is over."
+      ],
+      [
+        1142,
+        "01:03:12.790000",
+        "01:03:14.790000",
+        "Now we know everything about transformers."
+      ]
+    ],
+    "regex": "\\b((?!\\bTransformers:)Transformers|(?!\\bAge\\ of\\ Extinction:)Age\\ of\\ Extinction)(?!\\:)(?!'t)\\b",
+    "runtime": 165,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

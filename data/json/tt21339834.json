@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt21339834",
+    "title": "Son of a Mother",
+    "year": 2022,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1625,
+    "occurrences": [
+      [
+        34,
+        "00:02:18.597000",
+        "00:02:22.726000",
+        "And ended with Son of a Mother, which is a tribute to me."
+      ],
+      [
+        38,
+        "00:02:39.660000",
+        "00:02:42.538000",
+        "Son of a Mother"
+      ]
+    ],
+    "regex": "\\b((?!\\bSon\\ of\\ a\\ Mother:)Son\\ of\\ a\\ Mother)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.4
+  }
+]

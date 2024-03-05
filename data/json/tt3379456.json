@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3379456",
+    "title": "Redeemer",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 502,
+    "occurrences": [
+      [
+        271,
+        "00:34:24.646000",
+        "00:34:27.399000",
+        "I think it might be The Redeemer."
+      ],
+      [
+        406,
+        "00:57:59.977000",
+        "00:58:02.146000",
+        "but I don't think it was The Redeemer."
+      ]
+    ],
+    "regex": "\\b((?!\\bRedeemer:)Redeemer)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

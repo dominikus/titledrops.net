@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt2071471",
+    "title": "Roland Hassel",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 595,
+    "occurrences": [
+      [
+        45,
+        "00:06:13.727000",
+        "00:06:18.721000",
+        "Roland Hassel is on the line. Hello, Roland!"
+      ],
+      [
+        202,
+        "00:23:24.847000",
+        "00:23:29.079000",
+        "I can read it for you... \"Roland Hassel requests access\"-"
+      ]
+    ],
+    "regex": "\\b((?!\\bRoland\\ Hassel:)Roland\\ Hassel)(?!\\:)(?!'t)\\b",
+    "runtime": 74,
+    "characters": [
+      "Roland Hassel"
+    ],
+    "title_is_name": true,
+    "rating": 4.6
+  }
+]

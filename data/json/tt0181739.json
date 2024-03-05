@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt0181739",
+    "title": "Osmosis Jones",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 4,
+    "all_lines": 2205,
+    "occurrences": [
+      [
+        127,
+        "00:05:37.136000",
+        "00:05:40.106000",
+        "Osmosis jones to dispatch. We got multiple germs."
+      ],
+      [
+        596,
+        "00:23:33.645000",
+        "00:23:34.980000",
+        "Osmosis Jones."
+      ],
+      [
+        1478,
+        "01:00:50.113000",
+        "01:00:51.581000",
+        "Osmosis Jones!"
+      ],
+      [
+        2016,
+        "01:25:59.220000",
+        "01:26:01.523000",
+        "a grateful city salutes Osmosis Jones"
+      ]
+    ],
+    "regex": "\\b((?!\\bOsmosis\\ Jones:)Osmosis\\ Jones)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [
+      "Osmosis Jones"
+    ],
+    "title_is_name": true,
+    "rating": 6.3
+  }
+]

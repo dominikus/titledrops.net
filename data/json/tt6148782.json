@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt6148782",
+    "title": "King of Peking",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 957,
+    "occurrences": [
+      [
+        328,
+        "00:29:31.833000",
+        "00:29:34.375000",
+        "How'd you like to be a partner in King of Peking?"
+      ],
+      [
+        425,
+        "00:40:28.875000",
+        "00:40:31.875000",
+        "Celebrating the day King of Peking was born."
+      ],
+      [
+        482,
+        "00:43:47.083000",
+        "00:43:50.416000",
+        "We're King of Peking! Kings stand for quality!"
+      ],
+      [
+        597,
+        "00:51:25.125000",
+        "00:51:27.125000",
+        "King of Peking doesn't exist."
+      ],
+      [
+        791,
+        "01:08:03.625000",
+        "01:08:07.416000",
+        "King of Peking? You really take the cake."
+      ]
+    ],
+    "regex": "\\b((?!\\bKing\\ of\\ Peking:)King\\ of\\ Peking)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

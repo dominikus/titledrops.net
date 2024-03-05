@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2650642",
+    "title": "In the Name Of",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 579,
+    "occurrences": [
+      [
+        52,
+        "00:04:49.360000",
+        "00:04:50.805000",
+        "In the name of Christ, our Lord."
+      ],
+      [
+        490,
+        "01:10:23.080000",
+        "01:10:25.560000",
+        "in the name of the Father and the Son and the Holy Spirit. Amen."
+      ]
+    ],
+    "regex": "\\b((?!\\bIn\\ the\\ Name\\ Of:)In\\ the\\ Name\\ Of)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

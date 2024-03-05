@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0118865",
+    "title": "The Climb",
+    "year": 1997,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1497,
+    "occurrences": [
+      [
+        786,
+        "00:46:07.280000",
+        "00:46:09.030000",
+        "You're never gonna get to climb it."
+      ],
+      [
+        787,
+        "00:46:12.437000",
+        "00:46:14.380000",
+        "- Why the hell do you want to climb it?"
+      ],
+      [
+        938,
+        "00:57:08.410000",
+        "00:57:12.210000",
+        "Gonna have to climb the last two 10 feet or so on your own."
+      ],
+      [
+        1224,
+        "01:15:27.890000",
+        "01:15:29.303000",
+        "- Go climb stuff."
+      ],
+      [
+        1438,
+        "01:29:09.303000",
+        "01:29:12.386000",
+        "He was a brave man to climb up there,"
+      ]
+    ],
+    "regex": "\\b((?!\\bClimb:)Climb)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

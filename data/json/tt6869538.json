@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6869538",
+    "title": "Detective Dee: The Four Heavenly Kings",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1411,
+    "occurrences": [
+      [
+        12,
+        "00:01:35.536000",
+        "00:01:41.536000",
+        "Detective Dee: The Four Heavenly Kings (2018)"
+      ],
+      [
+        357,
+        "00:32:00.524000",
+        "00:32:02.524000",
+        "\"Four Heavenly Kings bless our kingdom\""
+      ],
+      [
+        548,
+        "00:46:27.568000",
+        "00:46:29.568000",
+        "\"Four Heavenly Kings bless our kingdom\""
+      ],
+      [
+        553,
+        "00:46:48.588000",
+        "00:46:51.588000",
+        "That sentence mentions the Four Heavenly Kings."
+      ]
+    ],
+    "regex": "\\b((?!\\bDetective\\ Dee:)Detective\\ Dee|(?!\\bFour\\ Heavenly\\ Kings:)Four\\ Heavenly\\ Kings)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

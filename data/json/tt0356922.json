@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0356922",
+    "title": "The Mystery of the Yellow Room",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1554,
+    "occurrences": [
+      [
+        0,
+        "00:02:20.567000",
+        "00:02:24.082000",
+        "The Mystery of the Yellow Room"
+      ],
+      [
+        1329,
+        "01:36:41.807000",
+        "01:36:46.085000",
+        "Now, I'll explain the mystery of the Yellow Room itself."
+      ]
+    ],
+    "regex": "\\b((?!\\bMystery\\ of\\ the\\ Yellow\\ Room:)Mystery\\ of\\ the\\ Yellow\\ Room)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0073490",
+    "title": "Operation Lady Marlene",
+    "year": 1975,
+    "genres": [
+      "Comedy",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 885,
+    "occurrences": [
+      [
+        71,
+        "00:07:14.333000",
+        "00:07:16.625000",
+        "Called \"Operation Lady Marlene\"."
+      ],
+      [
+        99,
+        "00:08:56.958000",
+        "00:09:00.875000",
+        "We believe this departure has to do with Operation Lady Marlene."
+      ]
+    ],
+    "regex": "\\b((?!\\bOperation\\ Lady\\ Marlene:)Operation\\ Lady\\ Marlene)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

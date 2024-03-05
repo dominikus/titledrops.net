@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt4284020",
+    "title": "Fleet of Time",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1451,
+    "occurrences": [
+      [
+        454,
+        "00:33:17.083000",
+        "00:33:18.541000",
+        "\"Fleet of Time.\""
+      ],
+      [
+        455,
+        "00:33:19.750000",
+        "00:33:21.583000",
+        "That song is called \"Fleet of Time.\""
+      ],
+      [
+        466,
+        "00:34:23.750000",
+        "00:34:25.375000",
+        "called \"Fleet of Time.\""
+      ],
+      [
+        1043,
+        "01:15:42.666000",
+        "01:15:44.291000",
+        "Is it \"Fleet of Time\"?"
+      ],
+      [
+        1065,
+        "01:17:07.125000",
+        "01:17:08.375000",
+        "\"Fleet of Time,\""
+      ]
+    ],
+    "regex": "\\b((?!\\bFleet\\ of\\ Time:)Fleet\\ of\\ Time)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

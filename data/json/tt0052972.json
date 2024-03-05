@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0052972",
+    "title": "Kiss Her Goodbye",
+    "year": 1959,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1496,
+    "occurrences": [
+      [
+        171,
+        "00:10:55.948000",
+        "00:11:00.953000",
+        "# Just kiss her goodbye #"
+      ],
+      [
+        194,
+        "00:11:58.802000",
+        "00:12:03.514000",
+        "# Kiss her goodbye #"
+      ],
+      [
+        197,
+        "00:12:13.858000",
+        "00:12:17.530000",
+        "# You must kiss her goodbye #"
+      ],
+      [
+        199,
+        "00:12:35.047000",
+        "00:12:38.717000",
+        "# You must kiss her goodbye #"
+      ]
+    ],
+    "regex": "\\b((?!\\bKiss\\ Her\\ Goodbye:)Kiss\\ Her\\ Goodbye)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

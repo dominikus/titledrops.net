@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt10011296",
+    "title": "Nomad: In the Footsteps of Bruce Chatwin",
+    "year": 2019,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1021,
+    "occurrences": [
+      [
+        26,
+        "00:02:25.024000",
+        "00:02:28.008000",
+        "HERZOG:In the footsteps of Bruce Chatwin,"
+      ],
+      [
+        221,
+        "00:20:43",
+        "00:20:47.088000",
+        "Bruce was a nomad, but he was always drawn back"
+      ]
+    ],
+    "regex": "\\b((?!\\bNomad:)Nomad|(?!\\bIn\\ the\\ Footsteps\\ of\\ Bruce\\ Chatwin:)In\\ the\\ Footsteps\\ of\\ Bruce\\ Chatwin)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

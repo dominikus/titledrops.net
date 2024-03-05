@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0053671",
+    "title": "Boulevard",
+    "year": 1960,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1244,
+    "occurrences": [
+      [
+        1,
+        "00:00:15.640000",
+        "00:00:20.236000",
+        "\"To the pigeons of that pretty boulevard..."
+      ],
+      [
+        15,
+        "00:01:23.120000",
+        "00:01:28.114000",
+        "\"To the pigeons of that pretty boulevard."
+      ],
+      [
+        1234,
+        "01:29:53.960000",
+        "01:29:58.636000",
+        "To the pigeons of that pretty boulevard..."
+      ],
+      [
+        1243,
+        "01:30:35.880000",
+        "01:30:39.873000",
+        "On the boulevard"
+      ]
+    ],
+    "regex": "\\b((?!\\bBoulevard:)Boulevard)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

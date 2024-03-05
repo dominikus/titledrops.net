@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0075268",
+    "title": "Stay Hungry",
+    "year": 1976,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1703,
+    "occurrences": [
+      [
+        1492,
+        "01:21:30.627000",
+        "01:21:31.867000",
+        "I'd rather stay hungry."
+      ],
+      [
+        1552,
+        "01:25:13.987000",
+        "01:25:15.267000",
+        "and you're giving me this \"stay hungry\" horseshit?"
+      ]
+    ],
+    "regex": "\\b((?!\\bStay\\ Hungry:)Stay\\ Hungry)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

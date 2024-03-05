@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0071276",
+    "title": "Captain Kronos: Vampire Hunter",
+    "year": 1974,
+    "genres": [
+      "Adventure",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 721,
+    "occurrences": [
+      [
+        47,
+        "00:10:15.314000",
+        "00:10:16.645000",
+        "Captain Kronos,"
+      ],
+      [
+        77,
+        "00:13:47.024000",
+        "00:13:48.787000",
+        "Captain Kronos."
+      ],
+      [
+        611,
+        "01:08:40.947000",
+        "01:08:43.245000",
+        "Captain Kronos, m'lady."
+      ]
+    ],
+    "regex": "\\b((?!\\bCaptain\\ Kronos:)Captain\\ Kronos|(?!\\bVampire\\ Hunter:)Vampire\\ Hunter)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

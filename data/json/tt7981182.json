@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt7981182",
+    "title": "Danur 2: Maddah",
+    "year": 2018,
+    "genres": [
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 391,
+    "occurrences": [
+      [
+        242,
+        "00:58:11.541000",
+        "00:58:14.458000",
+        "This is the smell of danur."
+      ],
+      [
+        245,
+        "00:58:27.333000",
+        "00:58:30.208000",
+        "I smell danur..."
+      ],
+      [
+        247,
+        "00:58:42",
+        "00:58:47.125000",
+        "That flower is strong enough to mask danur's smell."
+      ],
+      [
+        251,
+        "00:59:13",
+        "00:59:15.416000",
+        "even if I smell danur?"
+      ],
+      [
+        255,
+        "00:59:37.041000",
+        "00:59:41.208000",
+        "Maddah means you should read carefully."
+      ]
+    ],
+    "regex": "\\b((?!\\bDanur:)Danur|(?!\\bMaddah:)Maddah)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

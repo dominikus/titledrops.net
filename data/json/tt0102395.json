@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0102395",
+    "title": "Mannequin: On the Move",
+    "year": 1991,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1324,
+    "occurrences": [
+      [
+        111,
+        "00:07:58.350000",
+        "00:08:02.140000",
+        "MANNEQUIN ON THE MOVE"
+      ],
+      [
+        284,
+        "00:19:29.010000",
+        "00:19:31.010000",
+        "She is a mannequin!"
+      ],
+      [
+        296,
+        "00:20:00.750000",
+        "00:20:04.030000",
+        "Jason, let's take the mannequin back to the store."
+      ],
+      [
+        1177,
+        "01:18:59.940000",
+        "01:19:02.820000",
+        "...Mannequin. - Hey. To whom are you talking to?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMannequin:)Mannequin|(?!\\bOn\\ the\\ Move:)On\\ the\\ Move)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

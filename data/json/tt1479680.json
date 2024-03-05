@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1479680",
+    "title": "Grade 3",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1453,
+    "occurrences": [
+      [
+        168,
+        "00:11:47.273000",
+        "00:11:50.573000",
+        "GRADE 1"
+      ],
+      [
+        692,
+        "00:40:06.684000",
+        "00:40:09.684000",
+        "GRADE 2"
+      ]
+    ],
+    "regex": "\\b((?!\\bGrade:)Grade)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

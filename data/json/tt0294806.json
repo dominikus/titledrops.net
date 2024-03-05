@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt0294806",
+    "title": "The Keeper: The Legend of Omar Khayyam",
+    "year": 2005,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "count": 1,
+    "all_lines": 64,
+    "occurrences": [
+      [
+        57,
+        "00:55:17.180000",
+        "00:55:23.608000",
+        "Kamran is the Keeper now."
+      ]
+    ],
+    "regex": "\\b((?!\\bKeeper:)Keeper|(?!\\bLegend\\ of\\ Omar\\ Khayyam:)Legend\\ of\\ Omar\\ Khayyam)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0054044",
+    "title": "Son of Samson",
+    "year": 1960,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 810,
+    "occurrences": [
+      [
+        101,
+        "00:11:53.389000",
+        "00:11:56.734000",
+        "a giant, who many believed to be the son of Samson"
+      ],
+      [
+        108,
+        "00:12:12.010000",
+        "00:12:15.631000",
+        "so would the son of Samson crush the Persians."
+      ]
+    ],
+    "regex": "\\b((?!\\bSon\\ of\\ Samson:)Son\\ of\\ Samson)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

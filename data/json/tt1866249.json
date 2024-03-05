@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1866249",
+    "title": "The Sessions",
+    "year": 2012,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1168,
+    "occurrences": [
+      [
+        400,
+        "00:29:03.798000",
+        "00:29:07.545000",
+        "The other thing is, there's a limit to the number of sessions we can have."
+      ],
+      [
+        1007,
+        "01:15:12.805000",
+        "01:15:15.426000",
+        "We have two sessions left, is that correct?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSessions:)Sessions)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

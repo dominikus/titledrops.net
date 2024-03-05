@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0144935",
+    "title": "The Fear",
+    "year": 1966,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 361,
+    "occurrences": [
+      [
+        4,
+        "00:06:42.891000",
+        "00:06:44.401000",
+        "For fear of thieves?"
+      ],
+      [
+        343,
+        "01:28:51.354000",
+        "01:28:54.676000",
+        "He's crazy with fear that one day she'll give him away."
+      ]
+    ],
+    "regex": "\\b((?!\\bFear:)Fear)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

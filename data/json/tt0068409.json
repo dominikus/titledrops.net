@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0068409",
+    "title": "Cool Breeze",
+    "year": 1972,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1679,
+    "occurrences": [
+      [
+        7,
+        "00:01:46.209000",
+        "00:01:50.110000",
+        "He does it just like a cool cool breeze"
+      ],
+      [
+        8,
+        "00:01:50.972000",
+        "00:01:53.251000",
+        "Cool breeze"
+      ],
+      [
+        14,
+        "00:02:38.537000",
+        "00:02:42.748000",
+        "Oh he moves just like a super cool breeze"
+      ],
+      [
+        15,
+        "00:02:43.646000",
+        "00:02:45.993000",
+        "Cool breeze"
+      ]
+    ],
+    "regex": "\\b((?!\\bCool\\ Breeze:)Cool\\ Breeze)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

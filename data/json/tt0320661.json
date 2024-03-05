@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0320661",
+    "title": "Kingdom of Heaven",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1102,
+    "occurrences": [
+      [
+        183,
+        "00:22:14.695000",
+        "00:22:16.663000",
+        "A kingdom of heaven"
+      ],
+      [
+        362,
+        "00:42:10.190000",
+        "00:42:12.283000",
+        "and the kingdom of heaven has arrived"
+      ],
+      [
+        1062,
+        "02:08:11.267000",
+        "02:08:14.031000",
+        "If this is the kingdom of heaven"
+      ]
+    ],
+    "regex": "\\b((?!\\bKingdom\\ of\\ Heaven:)Kingdom\\ of\\ Heaven)(?!\\:)(?!'t)\\b",
+    "runtime": 145,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

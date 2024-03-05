@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7352942",
+    "title": "The Humorist",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1037,
+    "occurrences": [
+      [
+        998,
+        "01:27:43.720000",
+        "01:27:49.600000",
+        "- The humorist is the only weak link. - Alas, we know what we have to do."
+      ],
+      [
+        1009,
+        "01:28:31.400000",
+        "01:28:35.800000",
+        "Then we do nothing to the humorist, right? Do we let him go?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHumorist:)Humorist)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

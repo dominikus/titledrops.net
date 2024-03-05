@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt10871460",
+    "title": "The 9th Precinct",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 889,
+    "occurrences": [
+      [
+        116,
+        "00:10:15.916000",
+        "00:10:18.125000",
+        "Welcome to the 9th Precinct."
+      ],
+      [
+        125,
+        "00:11:09.041000",
+        "00:11:11.666000",
+        "Since the olden days, the 9th Precinct has been handling"
+      ],
+      [
+        203,
+        "00:16:30.875000",
+        "00:16:33.125000",
+        "This is the badge of the 9th Precinct."
+      ],
+      [
+        316,
+        "00:26:09.583000",
+        "00:26:11.125000",
+        "This is the 9th Precinct."
+      ],
+      [
+        408,
+        "00:39:00.500000",
+        "00:39:02.208000",
+        "We have our rules in the 9th Precinct."
+      ],
+      [
+        591,
+        "00:53:37.375000",
+        "00:53:39.791000",
+        "I really don't know what the 9th Precinct is for."
+      ]
+    ],
+    "regex": "\\b((?!\\b9th\\ Precinct:)9th\\ Precinct)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

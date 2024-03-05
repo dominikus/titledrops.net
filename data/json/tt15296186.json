@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt15296186",
+    "title": "Mira",
+    "year": 2022,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1266,
+    "occurrences": [
+      [
+        636,
+        "00:50:13.744000",
+        "00:50:18.482000",
+        "Mira show me the location of the backup batteries,"
+      ],
+      [
+        851,
+        "01:10:38.901000",
+        "01:10:41.570000",
+        "Mira I'm ready"
+      ],
+      [
+        1126,
+        "01:31:23.711000",
+        "01:31:26.547000",
+        "Do you know why you are called mira?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMira:)Mira)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

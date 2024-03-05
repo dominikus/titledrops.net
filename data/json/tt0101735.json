@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0101735",
+    "title": "Diplomatic Immunity",
+    "year": 1991,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 875,
+    "occurrences": [
+      [
+        144,
+        "00:17:13.368000",
+        "00:17:15.468000",
+        "I claim diplomatic immunity!"
+      ],
+      [
+        168,
+        "00:19:43.634000",
+        "00:19:45.901000",
+        "He's got diplomatic immunity."
+      ],
+      [
+        181,
+        "00:23:09.800000",
+        "00:23:11.734000",
+        "to the principle of diplomatic immunity."
+      ],
+      [
+        873,
+        "01:31:11.867000",
+        "01:31:14.800000",
+        "We invoke the principle of diplomatic immunity."
+      ]
+    ],
+    "regex": "\\b((?!\\bDiplomatic\\ Immunity:)Diplomatic\\ Immunity)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt10464930",
+    "title": "Palindrome",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1531,
+    "occurrences": [
+      [
+        950,
+        "01:04:42.352000",
+        "01:04:43.835000",
+        "- My name is a palindrome."
+      ],
+      [
+        978,
+        "01:06:41.012000",
+        "01:06:42.774000",
+        "Get yourself a nice little palindrome surname"
+      ],
+      [
+        979,
+        "01:06:42.804000",
+        "01:06:45.156000",
+        "to go with that palindrome first name of yours,"
+      ],
+      [
+        1434,
+        "01:36:27.267000",
+        "01:36:30.040000",
+        "- You are a palindrome."
+      ],
+      [
+        1438,
+        "01:36:36.200000",
+        "01:36:38.352000",
+        "Anna, palindrome."
+      ],
+      [
+        1444,
+        "01:36:50.159000",
+        "01:36:50.993000",
+        "Palindrome."
+      ]
+    ],
+    "regex": "\\b((?!\\bPalindrome:)Palindrome)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

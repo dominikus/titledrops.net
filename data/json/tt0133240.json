@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0133240",
+    "title": "Treasure Planet",
+    "year": 2002,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 1539,
+    "occurrences": [
+      [
+        37,
+        "00:02:34.821000",
+        "00:02:37.756000",
+        "JlM AND NARRATOR: Treasure Planet"
+      ],
+      [
+        46,
+        "00:03:03.716000",
+        "00:03:06.446000",
+        "You think somebody'll ever find Treasure Planet?"
+      ],
+      [
+        243,
+        "00:13:17.408000",
+        "00:13:19.239000",
+        "Treasure Planet."
+      ],
+      [
+        245,
+        "00:13:20.678000",
+        "00:13:22.612000",
+        "That's Treasure Planet!"
+      ]
+    ],
+    "regex": "\\b((?!\\bTreasure\\ Planet:)Treasure\\ Planet)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

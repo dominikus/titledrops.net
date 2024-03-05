@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt11725680",
+    "title": "Most Eligible Bachelor",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 2587,
+    "occurrences": [
+      [
+        50,
+        "00:04:06.828000",
+        "00:04:09.828000",
+        "Eligible bachelor is fine, but what do you mean by most eligible bachelor?"
+      ],
+      [
+        1113,
+        "00:52:01.538000",
+        "00:52:03.972000",
+        "They would all proclaim that Harsha is the most eligible bachelor."
+      ],
+      [
+        1419,
+        "01:08:12.697000",
+        "01:08:15.661000",
+        "I got ready for marriage only after I became the most eligible bachelor."
+      ],
+      [
+        1530,
+        "01:14:50.202000",
+        "01:14:53.344000",
+        "Definitely, you have. 100% you are the most eligible bachelor!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMost\\ Eligible\\ Bachelor:)Most\\ Eligible\\ Bachelor)(?!\\:)(?!'t)\\b",
+    "runtime": 170,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

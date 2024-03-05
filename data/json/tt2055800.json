@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2055800",
+    "title": "Body",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 877,
+    "occurrences": [
+      [
+        642,
+        "01:07:25.600000",
+        "01:07:28.600000",
+        "I wish I could get a new body."
+      ],
+      [
+        798,
+        "01:26:10.920000",
+        "01:26:16.520000",
+        "You can sell your own body, but how dare you use mine!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBody:)Body)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0105198",
+    "title": "Autumn Moon",
+    "year": 1992,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 931,
+    "occurrences": [
+      [
+        460,
+        "01:38:19.293000",
+        "01:38:22.660000",
+        "\"When will the spring flower and autumn moon fade?"
+      ],
+      [
+        926,
+        "03:16:57.702000",
+        "03:17:01.069000",
+        "\"When will the spring flower and autumn moon fade?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAutumn\\ Moon:)Autumn\\ Moon)(?!\\:)(?!'t)\\b",
+    "runtime": 197,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

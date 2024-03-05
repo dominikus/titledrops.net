@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0420646",
+    "title": "Springtime",
+    "year": 2004,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1134,
+    "occurrences": [
+      [
+        3,
+        "00:00:24.257000",
+        "00:00:27.852000",
+        "Springtime"
+      ],
+      [
+        1112,
+        "02:03:29.498000",
+        "02:03:32.365000",
+        "You know... it' s springtime."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpringtime:)Springtime)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

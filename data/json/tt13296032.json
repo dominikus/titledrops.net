@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt13296032",
+    "title": "Dinosaur Hotel",
+    "year": 2021,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 6,
+    "all_lines": 1081,
+    "occurrences": [
+      [
+        123,
+        "00:08:02.270000",
+        "00:08:03.337000",
+        "at the Dinosaur Hotel."
+      ],
+      [
+        139,
+        "00:09:05.834000",
+        "00:09:09.537000",
+        "for a brand new game show at the Dinosaur Hotel."
+      ],
+      [
+        228,
+        "00:14:40.468000",
+        "00:14:42.670000",
+        "- Why is it called the Dinosaur Hotel?"
+      ],
+      [
+        255,
+        "00:16:33.547000",
+        "00:16:38.552000",
+        "only one of you will leave the Dinosaur Hotel, a winner."
+      ],
+      [
+        289,
+        "00:19:31.024000",
+        "00:19:33.227000",
+        "Welcome, to Dinosaur Hotel."
+      ],
+      [
+        399,
+        "00:26:50.030000",
+        "00:26:53.233000",
+        "-  Anyone who has walked into the Dinosaur Hotel"
+      ]
+    ],
+    "regex": "\\b((?!\\bDinosaur\\ Hotel:)Dinosaur\\ Hotel)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 1.9
+  }
+]

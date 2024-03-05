@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0446463",
+    "title": "The Secret",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1123,
+    "occurrences": [
+      [
+        383,
+        "00:29:11.550000",
+        "00:29:13.609000",
+        "Until then, we keep this a secret, okay?"
+      ],
+      [
+        1087,
+        "01:23:11.354000",
+        "01:23:15.017000",
+        "Your mother and I have a secret we want to share with you."
+      ]
+    ],
+    "regex": "\\b((?!\\bSecret:)Secret)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

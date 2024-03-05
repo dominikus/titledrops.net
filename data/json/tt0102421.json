@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0102421",
+    "title": "Mother",
+    "year": 1991,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 646,
+    "occurrences": [
+      [
+        338,
+        "00:26:35.390000",
+        "00:26:37.131000",
+        "Come back immediately, tell me mother"
+      ],
+      [
+        641,
+        "00:48:27.028000",
+        "00:48:28.492000",
+        "to the eight buttons of the dress for my mother"
+      ]
+    ],
+    "regex": "\\b((?!\\bMother:)Mother)(?!\\:)(?!'t)\\b",
+    "runtime": 157,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

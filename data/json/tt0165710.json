@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0165710",
+    "title": "Detroit Rock City",
+    "year": 1999,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 1202,
+    "occurrences": [
+      [
+        181,
+        "00:13:03.534000",
+        "00:13:08.080000",
+        "for the three forty-five to Detroit Rock City!"
+      ],
+      [
+        740,
+        "00:48:57.019000",
+        "00:49:00.439000",
+        "You're talkin' about Detroit Rock City, brother."
+      ],
+      [
+        1184,
+        "01:26:56.549000",
+        "01:27:00.219000",
+        "You gotta lose your mind in Detroit Rock City"
+      ]
+    ],
+    "regex": "\\b((?!\\bDetroit\\ Rock\\ City:)Detroit\\ Rock\\ City)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1808587",
+    "title": "The Stig-Helmer Story",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 967,
+    "occurrences": [
+      [
+        176,
+        "00:17:38.040000",
+        "00:17:41.840000",
+        "Tell me the Stig-Helmer story."
+      ],
+      [
+        937,
+        "01:26:52.960000",
+        "01:26:56.640000",
+        "Cheers! And thanks for the Stig-Helmer story."
+      ]
+    ],
+    "regex": "\\b((?!\\bStig\\-Helmer\\ Story:)Stig\\-Helmer\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

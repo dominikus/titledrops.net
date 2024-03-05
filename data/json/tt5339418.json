@@ -1,0 +1,69 @@
+[
+  {
+    "imdb": "tt5339418",
+    "title": "Ryde",
+    "year": 2017,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 9,
+    "all_lines": 933,
+    "occurrences": [
+      [
+        114,
+        "00:09:31.972000",
+        "00:09:34.773000",
+        "- My Ryde car. - Ryde car?"
+      ],
+      [
+        115,
+        "00:09:34.775000",
+        "00:09:37.075000",
+        "Ryde. It's an app."
+      ],
+      [
+        196,
+        "00:19:07.347000",
+        "00:19:10.548000",
+        "- This whole Ryde? - It's been about a year,"
+      ],
+      [
+        455,
+        "00:42:39.057000",
+        "00:42:42.325000",
+        "Um, did Simiko call you a Ryde?"
+      ],
+      [
+        481,
+        "00:43:53.164000",
+        "00:43:54.897000",
+        "I'm just in a Ryde."
+      ],
+      [
+        545,
+        "00:47:51.402000",
+        "00:47:54.103000",
+        "You're that Ryde driver."
+      ],
+      [
+        624,
+        "00:54:12.016000",
+        "00:54:14.616000",
+        "Oh, you're a Ryde driver?"
+      ],
+      [
+        746,
+        "01:07:33.550000",
+        "01:07:37.418000",
+        "Yeah, I'm on my way home now. I'm in a Ryde."
+      ]
+    ],
+    "regex": "\\b((?!\\bRyde:)Ryde)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

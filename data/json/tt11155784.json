@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt11155784",
+    "title": "Fly",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 758,
+    "occurrences": [
+      [
+        2,
+        "00:01:27.416000",
+        "00:01:28.958000",
+        "to fly."
+      ],
+      [
+        4,
+        "00:01:39.375000",
+        "00:01:40.916000",
+        "I fly."
+      ],
+      [
+        755,
+        "01:41:57.916000",
+        "01:41:59.875000",
+        "(Jay) Let's fly, folks. - Be water."
+      ]
+    ],
+    "regex": "\\b((?!\\bFly:)Fly)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

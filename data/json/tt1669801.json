@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt1669801",
+    "title": "Seaside Motel",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 1201,
+    "occurrences": [
+      [
+        31,
+        "00:03:50.463000",
+        "00:03:55.127000",
+        "But this is Room 103 of the Seaside Motel, right?"
+      ],
+      [
+        39,
+        "00:04:21.828000",
+        "00:04:24.524000",
+        "It's Room 103 of the Seaside Motel, right?"
+      ],
+      [
+        85,
+        "00:07:33.820000",
+        "00:07:38.416000",
+        "It's surrounded by mountains but it's named \"Seaside Motel.\""
+      ],
+      [
+        114,
+        "00:10:14.280000",
+        "00:10:17.681000",
+        "Why is it named \"Seaside Motel\" although we're in the mountains?"
+      ],
+      [
+        265,
+        "00:20:35.734000",
+        "00:20:39.170000",
+        "I'm in Room 203 of the Seaside Motel."
+      ],
+      [
+        543,
+        "00:39:20.624000",
+        "00:39:22.956000",
+        "We are at Seaside Motel Room 102."
+      ],
+      [
+        544,
+        "00:39:23.027000",
+        "00:39:25.791000",
+        "Seaside Motel?! No way!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSeaside\\ Motel:)Seaside\\ Motel)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

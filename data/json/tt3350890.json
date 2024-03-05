@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt3350890",
+    "title": "Starve",
+    "year": 2014,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1472,
+    "occurrences": [
+      [
+        559,
+        "00:29:02.173000",
+        "00:29:06.312000",
+        "If I starve a man long enough,"
+      ],
+      [
+        916,
+        "00:54:45.515000",
+        "00:54:47.084000",
+        "now you'll let me starve!"
+      ],
+      [
+        1312,
+        "01:27:43.725000",
+        "01:27:45.260000",
+        "Starve to death,"
+      ]
+    ],
+    "regex": "\\b((?!\\bStarve:)Starve)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

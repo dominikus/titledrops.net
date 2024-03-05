@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0058281",
+    "title": "Dear John",
+    "year": 1964,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 712,
+    "occurrences": [
+      [
+        502,
+        "01:13:25.807000",
+        "01:13:30.597000",
+        "- A beating first, eh? - Dear, dear John, forgive me!"
+      ],
+      [
+        505,
+        "01:13:46.527000",
+        "01:13:51.999000",
+        "Dear, dear John, do what you like with me, but believe me."
+      ],
+      [
+        697,
+        "01:43:56.767000",
+        "01:44:01.283000",
+        "\"Dear John, Thanks for a lovely day with Helena. Anna\""
+      ],
+      [
+        712,
+        "01:45:05.767000",
+        "01:45:08.918000",
+        "Dear, dear John"
+      ]
+    ],
+    "regex": "\\b((?!\\bDear\\ John:)Dear\\ John)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0049051",
+    "title": "Canyon River",
+    "year": 1956,
+    "genres": [
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 1425,
+    "occurrences": [
+      [
+        198,
+        "00:10:49.100000",
+        "00:10:50.800000",
+        "You set up a camp above canyon river."
+      ],
+      [
+        222,
+        "00:11:41.167000",
+        "00:11:42.767000",
+        "We'll meet you above canyon river."
+      ]
+    ],
+    "regex": "\\b((?!\\bCanyon\\ River:)Canyon\\ River)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

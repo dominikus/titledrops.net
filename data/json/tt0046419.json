@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0046419",
+    "title": "There Was a Young Lady",
+    "year": 1953,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1222,
+    "occurrences": [
+      [
+        1,
+        "00:00:18.101000",
+        "00:00:21.701000",
+        "# There was a young lady # # And since time began #"
+      ],
+      [
+        5,
+        "00:01:56.405000",
+        "00:02:00.200000",
+        "# There was a young lady # # The fortunate thing #"
+      ],
+      [
+        210,
+        "00:13:01.405000",
+        "00:13:05.345000",
+        "# There was a young lady # # This was what she said #"
+      ],
+      [
+        1214,
+        "01:20:10.111000",
+        "01:20:14.800000",
+        "# There was a young lady # # T'was three years ago #"
+      ],
+      [
+        1218,
+        "01:20:37.203000",
+        "01:20:41.203000",
+        "# There was a young lady # # What's more to be said #"
+      ]
+    ],
+    "regex": "\\b((?!\\bThere\\ Was\\ a\\ Young\\ Lady:)There\\ Was\\ a\\ Young\\ Lady)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

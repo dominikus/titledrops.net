@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt4834220",
+    "title": "Pork Pie",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 4,
+    "all_lines": 1293,
+    "occurrences": [
+      [
+        597,
+        "00:43:05.875000",
+        "00:43:10.337000",
+        "- Um, OK, to... To pork pie. - Yuck."
+      ],
+      [
+        599,
+        "00:43:13.216000",
+        "00:43:15.176000",
+        "- It's a pork pie hat. - Oh."
+      ],
+      [
+        908,
+        "01:09:09.979000",
+        "01:09:11.772000",
+        "Come on, pork pie."
+      ],
+      [
+        1130,
+        "01:25:58.904000",
+        "01:26:00.238000",
+        "Goodbye, pork pie."
+      ]
+    ],
+    "regex": "\\b((?!\\bPork\\ Pie:)Pork\\ Pie)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0984118",
+    "title": "Snuff 102",
+    "year": 2007,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 227,
+    "occurrences": [
+      [
+        4,
+        "00:07:01.037000",
+        "00:07:15.907000",
+        "SNUFF (definiton): Illegal videotape which records a person's real death."
+      ],
+      [
+        103,
+        "00:35:42.557000",
+        "00:35:46.926000",
+        "- What's your opinion about something called \"snuff\"?"
+      ],
+      [
+        119,
+        "00:40:49.730000",
+        "00:40:53.291000",
+        "- \"Snuff\" is a myth."
+      ],
+      [
+        167,
+        "00:47:08.075000",
+        "00:47:13.240000",
+        "- If someone wants to watch \"snuff\", they have an easy everyday access."
+      ]
+    ],
+    "regex": "\\b((?!\\bSnuff:)Snuff)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

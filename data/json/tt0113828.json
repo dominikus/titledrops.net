@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0113828",
+    "title": "Les Misérables",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 6,
+    "all_lines": 1862,
+    "occurrences": [
+      [
+        671,
+        "00:59:46.525000",
+        "00:59:50.392000",
+        "On the road, I'd have the time to read you \"Les Miserables.\""
+      ],
+      [
+        835,
+        "01:09:32.202000",
+        "01:09:34.731000",
+        "Let's get back to \"Les Miserables.\""
+      ],
+      [
+        1065,
+        "01:31:44.981000",
+        "01:31:46.981000",
+        "Do they have \"Les Miserables\"?"
+      ],
+      [
+        1218,
+        "01:44:29.246000",
+        "01:44:33.404000",
+        "Why do you compare everything to \"Les Miserables\"? It's weird!"
+      ],
+      [
+        1809,
+        "02:37:21.987000",
+        "02:37:25.092000",
+        "\" 'Les Miserables' come knocking at the door.\" Period."
+      ],
+      [
+        1810,
+        "02:37:25.611000",
+        "02:37:30.072000",
+        "\"Victor Hugo was 60 when he finished 'Les Miserables'.\" Period."
+      ]
+    ],
+    "regex": "\\b((?!\\bLes\\ Miserables:)Les\\ Miserables)(?!\\:)(?!'t)\\b",
+    "runtime": 175,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0279779",
+    "title": "Blood Money",
+    "year": 1974,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 902,
+    "occurrences": [
+      [
+        0,
+        "00:00:07.756000",
+        "00:00:12.892000",
+        "Blood Money"
+      ],
+      [
+        894,
+        "01:27:52.668000",
+        "01:27:55.731000",
+        "And who will pay our blood money! Who!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlood\\ Money:)Blood\\ Money)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

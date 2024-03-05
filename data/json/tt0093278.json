@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0093278",
+    "title": "Ishtar",
+    "year": 1987,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1501,
+    "occurrences": [
+      [
+        345,
+        "00:25:53.600000",
+        "00:25:58.172000",
+        "ANNOUNCER: Attention. A military curfew is in effect throughout Ishtar."
+      ],
+      [
+        738,
+        "00:52:12.925000",
+        "00:52:16.838000",
+        "ANNOUNCER: Attention. A military curfew is in effect throughout Ishtar."
+      ],
+      [
+        1283,
+        "01:24:37.394000",
+        "01:24:41.932000",
+        "ANNOUNCER: Attention. Attention. A military curfew is in effect throughout Ishtar."
+      ]
+    ],
+    "regex": "\\b((?!\\bIshtar:)Ishtar)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

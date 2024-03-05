@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2404519",
+    "title": "3G: A Killer Connection",
+    "year": 2013,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 856,
+    "occurrences": [
+      [
+        62,
+        "00:13:19.631000",
+        "00:13:21.372000",
+        "Is this 3G enabled? - Yes, sir."
+      ],
+      [
+        832,
+        "01:49:50.586000",
+        "01:49:52.862000",
+        "...her registered ID is Jasmine in our 3G network."
+      ],
+      [
+        841,
+        "01:50:58.020000",
+        "01:51:00.933000",
+        "Another porn star of 3G.com."
+      ]
+    ],
+    "regex": "\\b((?!\\b3G:)3G|(?!\\bKiller\\ Connection:)Killer\\ Connection)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

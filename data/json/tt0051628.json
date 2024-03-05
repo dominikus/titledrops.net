@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0051628",
+    "title": "Fort Dobbs",
+    "year": 1958,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 6,
+    "all_lines": 623,
+    "occurrences": [
+      [
+        60,
+        "00:15:36.555000",
+        "00:15:38.997000",
+        "A few days will put you in Fort Dobbs."
+      ],
+      [
+        111,
+        "00:26:29.531000",
+        "00:26:31.971000",
+        "- My husband is... - Come to Fort Dobbs, Ms. Grey."
+      ],
+      [
+        184,
+        "00:36:33.993000",
+        "00:36:36.613000",
+        "From what I understand, you are going to Fort Dobbs."
+      ],
+      [
+        199,
+        "00:37:16.269000",
+        "00:37:19.350000",
+        "Maybe you don't want us to get to Fort Dobbs?"
+      ],
+      [
+        360,
+        "00:55:26.697000",
+        "00:55:29.262000",
+        "He said he was gonna take us to Fort Dobbs."
+      ],
+      [
+        402,
+        "00:59:39.551000",
+        "00:59:41.894000",
+        "When we get to Fort Dobbs, who's gonna take care of her?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFort\\ Dobbs:)Fort\\ Dobbs)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

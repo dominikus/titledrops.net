@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0157154",
+    "title": "The Rose Seller",
+    "year": 1998,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2300,
+    "occurrences": [
+      [
+        2288,
+        "01:47:01.600000",
+        "01:47:03.393000",
+        "... the rose seller..."
+      ],
+      [
+        2299,
+        "01:47:31.166000",
+        "01:47:32.862000",
+        "... the rose seller..."
+      ]
+    ],
+    "regex": "\\b((?!\\bRose\\ Seller:)Rose\\ Seller)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

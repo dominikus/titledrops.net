@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0051516",
+    "title": "Damn Yankees",
+    "year": 1958,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1973,
+    "occurrences": [
+      [
+        7,
+        "00:00:49.508000",
+        "00:00:53.092000",
+        "No. Those damn Yankees."
+      ],
+      [
+        192,
+        "00:11:52.253000",
+        "00:11:53.993000",
+        "those damn Yankees win."
+      ]
+    ],
+    "regex": "\\b((?!\\bDamn\\ Yankees:)Damn\\ Yankees)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

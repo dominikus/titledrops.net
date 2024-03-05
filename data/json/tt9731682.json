@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt9731682",
+    "title": "Crisis",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 2016,
+    "occurrences": [
+      [
+        1383,
+        "01:12:22.484000",
+        "01:12:26.751000",
+        "This is the biggest public health crisis since tobacco!"
+      ],
+      [
+        1797,
+        "01:37:45.851000",
+        "01:37:48.918000",
+        "The division takes the opioid crisis very seriously."
+      ]
+    ],
+    "regex": "\\b((?!\\bCrisis:)Crisis)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

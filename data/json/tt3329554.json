@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt3329554",
+    "title": "My Favorite Five",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 2269,
+    "occurrences": [
+      [
+        217,
+        "00:10:25.693000",
+        "00:10:26.994000",
+        "\"My favorite five.\""
+      ],
+      [
+        220,
+        "00:10:29.529000",
+        "00:10:30.898000",
+        "- \"My favorite five\"? - Jonathan: Yeah."
+      ],
+      [
+        1021,
+        "00:40:16.682000",
+        "00:40:18.149000",
+        "- Pamela: \"My favorite five\"? - Jonathan: Hey, hey."
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Favorite\\ Five:)My\\ Favorite\\ Five)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

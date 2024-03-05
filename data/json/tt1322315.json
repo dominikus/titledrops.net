@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1322315",
+    "title": "Headhunter",
+    "year": 2009,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 787,
+    "occurrences": [
+      [
+        70,
+        "00:11:33.381000",
+        "00:11:38.409000",
+        "They say you're the best headhunter in the country. Is that true?"
+      ],
+      [
+        96,
+        "00:14:29.741000",
+        "00:14:34.337000",
+        "and headhunter. Various places of work."
+      ]
+    ],
+    "regex": "\\b((?!\\bHeadhunter:)Headhunter)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1016075",
+    "title": "Fame",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 823,
+    "occurrences": [
+      [
+        5,
+        "00:00:59.360000",
+        "00:01:02.440000",
+        "You want fame? Well, fame costs."
+      ],
+      [
+        9,
+        "00:01:25.520000",
+        "00:01:27.120000",
+        "Fame!"
+      ],
+      [
+        206,
+        "00:16:21.880000",
+        "00:16:23.880000",
+        "if you want fame,"
+      ]
+    ],
+    "regex": "\\b((?!\\bFame:)Fame)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

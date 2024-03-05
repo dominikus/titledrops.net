@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5985672",
+    "title": "The Maestro",
+    "year": 2018,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 1363,
+    "occurrences": [
+      [
+        29,
+        "00:02:57.111000",
+        "00:03:00.145000",
+        "- Oh, Maestro. - It's a real pleasure."
+      ],
+      [
+        31,
+        "00:03:13.694000",
+        "00:03:14.560000",
+        "- Maestro."
+      ],
+      [
+        751,
+        "00:47:59.444000",
+        "00:48:00.343000",
+        "- Maestro."
+      ]
+    ],
+    "regex": "\\b((?!\\bMaestro:)Maestro)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7942736",
+    "title": "Spider in the Web",
+    "year": 2019,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1766,
+    "occurrences": [
+      [
+        1387,
+        "01:21:51.354000",
+        "01:21:53.221000",
+        "the \"Spider In The Web\""
+      ],
+      [
+        1410,
+        "01:23:11.367000",
+        "01:23:12.668000",
+        "The \"Spider In The Web\""
+      ]
+    ],
+    "regex": "\\b((?!\\bSpider\\ in\\ the\\ Web:)Spider\\ in\\ the\\ Web)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

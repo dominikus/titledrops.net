@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2558996",
+    "title": "Dead Billy",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1083,
+    "occurrences": [
+      [
+        109,
+        "00:08:46.393000",
+        "00:08:50.898000",
+        "-  Hey, you wanna know why they call me dead Billy?"
+      ],
+      [
+        148,
+        "00:10:48.048000",
+        "00:10:51.384000",
+        "Anyway, I've been Dead Billy ever since."
+      ],
+      [
+        280,
+        "00:29:43.883000",
+        "00:29:45.351000",
+        "how I got the name Dead Billy?"
+      ],
+      [
+        562,
+        "00:53:32.042000",
+        "00:53:35.079000",
+        "I guess maybe that's why they call me Dead Billy."
+      ]
+    ],
+    "regex": "\\b((?!\\bDead\\ Billy:)Dead\\ Billy)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

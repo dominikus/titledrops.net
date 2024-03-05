@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0339535",
+    "title": "The Professional",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1387,
+    "occurrences": [
+      [
+        192,
+        "00:12:25.725000",
+        "00:12:27.475000",
+        "- You aren't a professional writer? - No."
+      ],
+      [
+        926,
+        "00:57:50.288000",
+        "00:57:52.453000",
+        "I'm just a professional."
+      ],
+      [
+        1343,
+        "01:30:00.767000",
+        "01:30:02.316000",
+        "A professional."
+      ]
+    ],
+    "regex": "\\b((?!\\bProfessional:)Professional)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.4
+  }
+]

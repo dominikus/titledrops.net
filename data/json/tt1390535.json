@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1390535",
+    "title": "The Final",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 761,
+    "occurrences": [
+      [
+        416,
+        "00:42:53.971000",
+        "00:42:57.065000",
+        "Think of this as the final,"
+      ],
+      [
+        758,
+        "01:30:14.009000",
+        "01:30:17.137000",
+        "Think of this as the final,"
+      ]
+    ],
+    "regex": "\\b((?!\\bFinal:)Final)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

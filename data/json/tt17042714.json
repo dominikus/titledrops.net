@@ -1,0 +1,74 @@
+[
+  {
+    "imdb": "tt17042714",
+    "title": "Dracula: The Original Living Vampire",
+    "year": 2022,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 9,
+    "all_lines": 1375,
+    "occurrences": [
+      [
+        215,
+        "00:13:47.703000",
+        "00:13:50.439000",
+        "Amelia, this is Count Dracula."
+      ],
+      [
+        317,
+        "00:18:59.448000",
+        "00:19:02.151000",
+        "Mina, please see Count Dracula out and lock the door."
+      ],
+      [
+        546,
+        "00:30:45.387000",
+        "00:30:47.355000",
+        "Though there was Dracula."
+      ],
+      [
+        547,
+        "00:30:48.891000",
+        "00:30:49.926000",
+        "Dracula?"
+      ],
+      [
+        596,
+        "00:35:09.952000",
+        "00:35:14.057000",
+        "Jonathan Harker, this is Count Dracula."
+      ],
+      [
+        1055,
+        "00:59:50.466000",
+        "00:59:51.600000",
+        "Dracula."
+      ],
+      [
+        1064,
+        "01:00:10.486000",
+        "01:00:11.855000",
+        "Dracula will be much weaker then!"
+      ],
+      [
+        1078,
+        "01:01:01.503000",
+        "01:01:04.373000",
+        "If Dracula is the descendant of the mad aristocrat..."
+      ],
+      [
+        1091,
+        "01:01:57.793000",
+        "01:01:59.861000",
+        "But be ready when we get in Dracula's room."
+      ]
+    ],
+    "regex": "\\b((?!\\bDracula:)Dracula|(?!\\bOriginal\\ Living\\ Vampire:)Original\\ Living\\ Vampire)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.7
+  }
+]

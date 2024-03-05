@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt8191850",
+    "title": "The Catch",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1398,
+    "occurrences": [
+      [
+        151,
+        "00:11:29.957000",
+        "00:11:31.358000",
+        "unless we catch him with a trap in his hand."
+      ],
+      [
+        833,
+        "00:52:11.498000",
+        "00:52:12.634000",
+        "Someone catch him?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCatch:)Catch)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

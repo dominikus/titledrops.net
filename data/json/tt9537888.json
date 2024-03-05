@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt9537888",
+    "title": "Ella Bella Bingo",
+    "year": 2020,
+    "genres": [
+      "Animation",
+      "Family",
+      "Musical"
+    ],
+    "count": 3,
+    "all_lines": 1706,
+    "occurrences": [
+      [
+        1493,
+        "01:07:55.818000",
+        "01:07:58.919000",
+        "Ella Bella Bingo and Henry,"
+      ],
+      [
+        1515,
+        "01:08:57.780000",
+        "01:09:02.051000",
+        "of Henry and Ella Bella Bingo!"
+      ],
+      [
+        1540,
+        "01:10:04.013000",
+        "01:10:08.951000",
+        "Now, it's time for the magical workings of Ella Bella Bingo"
+      ]
+    ],
+    "regex": "\\b((?!\\bElla\\ Bella\\ Bingo:)Ella\\ Bella\\ Bingo)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0060171",
+    "title": "The Black Cat",
+    "year": 1966,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 787,
+    "occurrences": [
+      [
+        523,
+        "00:43:13.129000",
+        "00:43:15.882000",
+        "I've been reading your story about the black cat."
+      ],
+      [
+        526,
+        "00:43:19.135000",
+        "00:43:20.970000",
+        "Do you really think that the black cat"
+      ],
+      [
+        534,
+        "00:43:40.657000",
+        "00:43:44.285000",
+        "By the way, how does your story of the black cat end?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Cat:)Black\\ Cat)(?!\\:)(?!'t)\\b",
+    "runtime": 73,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

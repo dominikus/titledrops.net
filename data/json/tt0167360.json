@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0167360",
+    "title": "Race to Space",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1758,
+    "occurrences": [
+      [
+        149,
+        "00:08:35.114000",
+        "00:08:38.618000",
+        "is the sum total of our race to space."
+      ],
+      [
+        1025,
+        "00:55:49.612000",
+        "00:55:52.916000",
+        "I will win this race to space,"
+      ],
+      [
+        1544,
+        "01:26:53.408000",
+        "01:26:56.344000",
+        "America has now joined the race to space."
+      ]
+    ],
+    "regex": "\\b((?!\\bRace\\ to\\ Space:)Race\\ to\\ Space)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

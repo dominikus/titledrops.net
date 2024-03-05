@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt7608028",
+    "title": "The Open House",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 978,
+    "occurrences": [
+      [
+        213,
+        "00:17:46.649000",
+        "00:17:48.442000",
+        "First open house is tomorrow,"
+      ],
+      [
+        236,
+        "00:22:13.999000",
+        "00:22:17.461000",
+        "You need to get up right now. The open house is starting in 15 minutes."
+      ],
+      [
+        238,
+        "00:22:20.506000",
+        "00:22:23.175000",
+        "-You kidding me? -The open house ends at five."
+      ],
+      [
+        500,
+        "00:44:27.748000",
+        "00:44:29.709000",
+        "We came to the open house yesterday."
+      ],
+      [
+        723,
+        "01:03:40.692000",
+        "01:03:43.486000",
+        "Uh, well, we had an open house here a few days ago,"
+      ]
+    ],
+    "regex": "\\b((?!\\bOpen\\ House:)Open\\ House)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

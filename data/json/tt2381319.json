@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2381319",
+    "title": "Afternoon of a Faun: Tanaquil Le Clercq",
+    "year": 2013,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1039,
+    "occurrences": [
+      [
+        285,
+        "00:25:56.167000",
+        "00:25:59.410000",
+        "Afternoon of a Faun was choreographed for Tanny."
+      ],
+      [
+        289,
+        "00:26:14.061000",
+        "00:26:17.680000",
+        "Afternoon of a Faun from"
+      ],
+      [
+        420,
+        "00:36:27.164000",
+        "00:36:29.622000",
+        "Tanny and I danced the Afternoon of a Faun"
+      ]
+    ],
+    "regex": "\\b((?!\\bAfternoon\\ of\\ a\\ Faun:)Afternoon\\ of\\ a\\ Faun|(?!\\bTanaquil\\ Le\\ Clercq:)Tanaquil\\ Le\\ Clercq)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

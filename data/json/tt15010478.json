@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt15010478",
+    "title": "9/11: Inside the President's War Room",
+    "year": 2021,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 1411,
+    "occurrences": [
+      [
+        31,
+        "00:01:46.064000",
+        "00:01:50.485000",
+        "This is the story of 9/11 as it's never been told before."
+      ],
+      [
+        84,
+        "00:05:23.782000",
+        "00:05:28.871000",
+        "On 9/11, I was in my office at the White House initially,"
+      ],
+      [
+        1188,
+        "01:11:44.513000",
+        "01:11:50.513000",
+        "And so it became a recurring joke about me attempting to OD on Air Force One on 9/11."
+      ],
+      [
+        1274,
+        "01:18:24.371000",
+        "01:18:29.585000",
+        "The changes were necessary to avoid what happened to us on 9/11."
+      ]
+    ],
+    "regex": "\\b((?!\\b9/11:)9/11|(?!\\bInside\\ the\\ President's\\ War\\ Room:)Inside\\ the\\ President's\\ War\\ Room)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

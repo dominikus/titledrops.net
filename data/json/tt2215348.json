@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt2215348",
+    "title": "Best of Luck",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "count": 8,
+    "all_lines": 2412,
+    "occurrences": [
+      [
+        359,
+        "00:24:25.644000",
+        "00:24:26.872000",
+        "Best of luck."
+      ],
+      [
+        1374,
+        "01:14:23.939000",
+        "01:14:25.338000",
+        "Wish me luck. - Best of luck."
+      ],
+      [
+        1387,
+        "01:15:38.947000",
+        "01:15:40.039000",
+        "Best of luck."
+      ],
+      [
+        1450,
+        "01:18:49.037000",
+        "01:18:50.334000",
+        "Best of luck."
+      ],
+      [
+        2367,
+        "02:08:38.924000",
+        "02:08:41.654000",
+        "Best of luck. - Thank you."
+      ],
+      [
+        2369,
+        "02:08:48.467000",
+        "02:08:49.231000",
+        "Best of luck."
+      ],
+      [
+        2370,
+        "02:08:49.257000",
+        "02:08:50.960000",
+        "Best of luck. Best of luck."
+      ]
+    ],
+    "regex": "\\b((?!\\bBest\\ of\\ Luck:)Best\\ of\\ Luck)(?!\\:)(?!'t)\\b",
+    "runtime": 133,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

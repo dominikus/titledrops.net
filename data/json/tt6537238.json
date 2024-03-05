@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt6537238",
+    "title": "Salyut-7",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 7,
+    "all_lines": 940,
+    "occurrences": [
+      [
+        109,
+        "00:11:18.004000",
+        "00:11:22.804000",
+        "Salyut-7 turned into an unmanageable a space object weighing 20 tons."
+      ],
+      [
+        130,
+        "00:12:38.842000",
+        "00:12:44.281000",
+        "This is our station Salyut-7. Weight 20 tons. The size is 15 by 6 meters."
+      ],
+      [
+        136,
+        "00:13:03.001000",
+        "00:13:05.160000",
+        "I flew with Fedorov to Salyut-7."
+      ],
+      [
+        138,
+        "00:13:10.880000",
+        "00:13:15.801000",
+        "Patrick knows Salyut-7 as well as our guys."
+      ],
+      [
+        149,
+        "00:14:11.559000",
+        "00:14:16.919000",
+        "Now a new modification of this station - \"Salyut-7\" successfully works in near-earth orbit."
+      ],
+      [
+        300,
+        "00:28:44.937000",
+        "00:28:48.896000",
+        "The crew of the ship is to be carried out docking with the orbital complex Salyut-7,"
+      ],
+      [
+        390,
+        "00:38:18.201000",
+        "00:38:22.641000",
+        "Docking of the Soyuz-T13 and station Salyut-7 produced successfully."
+      ]
+    ],
+    "regex": "\\b((?!\\bSalyut\\-7:)Salyut\\-7)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

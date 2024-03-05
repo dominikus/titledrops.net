@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0057101",
+    "title": "The Thursday",
+    "year": 1964,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1638,
+    "occurrences": [
+      [
+        487,
+        "00:26:51.240000",
+        "00:26:53.674000",
+        "No, Thursday is his day off."
+      ],
+      [
+        615,
+        "00:35:19.920000",
+        "00:35:22.388000",
+        "\"Thursday, the 23rd of September. \""
+      ],
+      [
+        655,
+        "00:37:23.960000",
+        "00:37:25.518000",
+        "Thursday is her day off."
+      ],
+      [
+        1632,
+        "01:37:05.320000",
+        "01:37:07.629000",
+        "What day is today? Thursday?"
+      ]
+    ],
+    "regex": "\\b((?!\\bThursday:)Thursday)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

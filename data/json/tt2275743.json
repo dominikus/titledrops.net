@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2275743",
+    "title": "Berlin, I Love You",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1659,
+    "occurrences": [
+      [
+        1655,
+        "01:59:28.709000",
+        "01:59:31.377000",
+        "Berlin, I love you"
+      ],
+      [
+        1659,
+        "01:59:43.758000",
+        "01:59:46.695000",
+        "Berlin, I love you"
+      ]
+    ],
+    "regex": "\\b((?!\\bBerlin,\\ I\\ Love\\ You:)Berlin,\\ I\\ Love\\ You)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

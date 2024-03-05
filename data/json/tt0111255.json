@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0111255",
+    "title": "The Specialist",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1014,
+    "occurrences": [
+      [
+        16,
+        "00:04:23.930000",
+        "00:04:26.890000",
+        "You're a specialist, captain. You deserve better."
+      ],
+      [
+        289,
+        "00:34:58.721000",
+        "00:35:00.180000",
+        "Gotta be a specialist."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpecialist:)Specialist)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt12610794",
+    "title": "Blade of the 47 Ronin",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 883,
+    "occurrences": [
+      [
+        88,
+        "00:12:36.798000",
+        "00:12:41.511000",
+        "The Blade of the 47 Ronin, fortified by magic and valor,"
+      ],
+      [
+        341,
+        "00:35:52.985000",
+        "00:35:57.323000",
+        "The Blade of the 47 Ronin, fortified by magic and valor,"
+      ],
+      [
+        854,
+        "01:37:36.059000",
+        "01:37:40.272000",
+        "The Blade of the 47 Ronin will be wielded by a true descendant."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlade\\ of\\ the\\ 47\\ Ronin:)Blade\\ of\\ the\\ 47\\ Ronin)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

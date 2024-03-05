@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1043451",
+    "title": "Delhi-6",
+    "year": 2009,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 701,
+    "occurrences": [
+      [
+        6,
+        "00:02:29.400000",
+        "00:02:34.200000",
+        "Perhaps life would have carried on in Delhi-6 as it had for centuries"
+      ],
+      [
+        153,
+        "00:17:12.600000",
+        "00:17:17.300000",
+        "My star of Delhi-6. When are you heading to Mumbai?"
+      ],
+      [
+        313,
+        "00:32:58.100000",
+        "00:33:02.300000",
+        "You have a Delhi-6 heart. Tangy and spicy! Like a Delhi snack"
+      ]
+    ],
+    "regex": "\\b((?!\\bDelhi\\-6:)Delhi\\-6)(?!\\:)(?!'t)\\b",
+    "runtime": 141,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

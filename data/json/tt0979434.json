@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0979434",
+    "title": "Lottery Ticket",
+    "year": 2010,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1791,
+    "occurrences": [
+      [
+        1032,
+        "00:51:44.401000",
+        "00:51:47.268000",
+        "--right here, is my lottery ticket."
+      ],
+      [
+        1038,
+        "00:52:10.092000",
+        "00:52:12.993000",
+        "Not if you care about that lottery ticket that's in your wallet."
+      ],
+      [
+        1245,
+        "01:03:39.847000",
+        "01:03:42.543000",
+        "-I'm gonna need that lottery ticket now. -Huh?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLottery\\ Ticket:)Lottery\\ Ticket)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

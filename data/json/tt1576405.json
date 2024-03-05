@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1576405",
+    "title": "Together Forever",
+    "year": 2011,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1265,
+    "occurrences": [
+      [
+        616,
+        "00:43:43.843000",
+        "00:43:46.835000",
+        "and what's at stake is whether they'll be together forever."
+      ],
+      [
+        1222,
+        "01:26:08.192000",
+        "01:26:10.217000",
+        "we'll be together forever."
+      ]
+    ],
+    "regex": "\\b((?!\\bTogether\\ Forever:)Together\\ Forever)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

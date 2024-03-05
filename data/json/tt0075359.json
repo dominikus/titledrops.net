@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0075359",
+    "title": "Two-Minute Warning",
+    "year": 1976,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1567,
+    "occurrences": [
+      [
+        1162,
+        "01:19:16.819000",
+        "01:19:18.853000",
+        "We're set to move in at the two-minute warning."
+      ],
+      [
+        1373,
+        "01:34:26.395000",
+        "01:34:27.927000",
+        "That is the two-minute warning."
+      ]
+    ],
+    "regex": "\\b((?!\\bTwo\\-Minute\\ Warning:)Two\\-Minute\\ Warning)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

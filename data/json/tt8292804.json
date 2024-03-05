@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt8292804",
+    "title": "Fearless Faith",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 1869,
+    "occurrences": [
+      [
+        1809,
+        "01:26:49.552000",
+        "01:26:52.119000",
+        "a man, that was filled with fearless faith,"
+      ],
+      [
+        1821,
+        "01:27:21.627000",
+        "01:27:23.412000",
+        "have that kind of fearless faith?"
+      ],
+      [
+        1832,
+        "01:27:58.795000",
+        "01:28:00.623000",
+        "Help us to have that fearless faith."
+      ],
+      [
+        1850,
+        "01:29:22.705000",
+        "01:29:24.359000",
+        "Thank you for his fearless faith."
+      ]
+    ],
+    "regex": "\\b((?!\\bFearless\\ Faith:)Fearless\\ Faith)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5673432",
+    "title": "Get Big",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 2108,
+    "occurrences": [
+      [
+        560,
+        "00:22:13.016000",
+        "00:22:14.753000",
+        "Come on, get big and snap the bowl."
+      ],
+      [
+        1750,
+        "01:08:19.508000",
+        "01:08:21.241000",
+        "Get big, baby."
+      ],
+      [
+        1891,
+        "01:14:02.584000",
+        "01:14:05.452000",
+        "The only way to get big"
+      ]
+    ],
+    "regex": "\\b((?!\\bGet\\ Big:)Get\\ Big)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

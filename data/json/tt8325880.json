@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt8325880",
+    "title": "Nuclear",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 764,
+    "occurrences": [
+      [
+        232,
+        "00:29:11.480000",
+        "00:29:14.073000",
+        "- Swimming in a nuclear lake, that's not so clever."
+      ],
+      [
+        233,
+        "00:29:16.410000",
+        "00:29:19.160000",
+        "- What do you mean, nuclear? - From the power station."
+      ],
+      [
+        326,
+        "00:38:09.210000",
+        "00:38:10.803000",
+        "of the nuclear power station."
+      ],
+      [
+        390,
+        "00:42:39.357000",
+        "00:42:42.420000",
+        "But now we're going nuclear together."
+      ],
+      [
+        403,
+        "00:43:23.380000",
+        "00:43:25.460000",
+        "They've got fucking nuclear fuel in them."
+      ]
+    ],
+    "regex": "\\b((?!\\bNuclear:)Nuclear)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

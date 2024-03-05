@@ -1,0 +1,34 @@
+[
+  {
+    "imdb": "tt3511928",
+    "title": "Gholam",
+    "year": 2017,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 590,
+    "occurrences": [
+      [
+        197,
+        "00:31:42.383000",
+        "00:31:43.751000",
+        "Gholam."
+      ],
+      [
+        561,
+        "01:25:17.729000",
+        "01:25:21.834000",
+        "This is my first ever gig and it goes out to Gholam."
+      ]
+    ],
+    "regex": "\\b((?!\\bGholam:)Gholam)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [
+      "Gholam"
+    ],
+    "title_is_name": true,
+    "rating": 5.5
+  }
+]

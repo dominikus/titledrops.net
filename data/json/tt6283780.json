@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt6283780",
+    "title": "Boy Bye",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1756,
+    "occurrences": [
+      [
+        16,
+        "00:01:18.578000",
+        "00:01:21.331000",
+        "Boy bye, boy bye Boy bye..."
+      ],
+      [
+        42,
+        "00:02:38.700000",
+        "00:02:41.536000",
+        "and I was finally able to tell Leon to \"Boy Bye.\""
+      ],
+      [
+        55,
+        "00:03:08.563000",
+        "00:03:12.567000",
+        "Oh, that is my bestselling book, it's called Boy Bye."
+      ]
+    ],
+    "regex": "\\b((?!\\bBoy\\ Bye:)Boy\\ Bye)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

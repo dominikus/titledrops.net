@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt15694358",
+    "title": "Cave Rescue",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 538,
+    "occurrences": [
+      [
+        87,
+        "00:20:39.173000",
+        "00:20:42.643000",
+        "Thai authorities have now called in cave rescue divers"
+      ],
+      [
+        159,
+        "00:47:56.544000",
+        "00:48:00.247000",
+        "This is Todd Ruiz, live from the Tham Luang Cave rescue site,"
+      ]
+    ],
+    "regex": "\\b((?!\\bCave\\ Rescue:)Cave\\ Rescue)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

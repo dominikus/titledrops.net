@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1039889",
+    "title": "Obituary for Escobar",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 711,
+    "occurrences": [
+      [
+        98,
+        "00:10:20.820000",
+        "00:10:23.500000",
+        "Actually, it all started with the obituary for Escobar."
+      ],
+      [
+        322,
+        "00:35:01.420000",
+        "00:35:04.500000",
+        "Look, someone placed an obituary for Escobar."
+      ],
+      [
+        525,
+        "00:57:49.340000",
+        "00:57:54.060000",
+        "Hello! Who accepted that obituary for Escobar? -Wait in line."
+      ]
+    ],
+    "regex": "\\b((?!\\bObituary\\ for\\ Escobar:)Obituary\\ for\\ Escobar)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

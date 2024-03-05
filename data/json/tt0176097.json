@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0176097",
+    "title": "Rocktober Blood",
+    "year": 1984,
+    "genres": [
+      "Horror",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1300,
+    "occurrences": [
+      [
+        272,
+        "00:16:14.283000",
+        "00:16:18.494000",
+        "all around me here are part of the Rocktober Blood '84 Tour."
+      ],
+      [
+        1112,
+        "01:11:00.739000",
+        "01:11:04.881000",
+        "It's gonna be the ultimate Rocktober blood and gore show."
+      ]
+    ],
+    "regex": "\\b((?!\\bRocktober\\ Blood:)Rocktober\\ Blood)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

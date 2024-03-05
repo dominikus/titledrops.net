@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt20358284",
+    "title": "The Lesson",
+    "year": 2023,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1057,
+    "occurrences": [
+      [
+        18,
+        "00:02:57.477000",
+        "00:02:59.147000",
+        "I'm on my way to a lesson. Can it wait?"
+      ],
+      [
+        59,
+        "00:06:58.119000",
+        "00:07:00.855000",
+        "I usually speak to parents before the first lesson."
+      ],
+      [
+        169,
+        "00:14:02.076000",
+        "00:14:03.344000",
+        "We should have a chat about the lesson."
+      ],
+      [
+        197,
+        "00:15:37.304000",
+        "00:15:40.909000",
+        "You'll report to me at the end of every lesson"
+      ],
+      [
+        304,
+        "00:27:53.207000",
+        "00:27:55.976000",
+        "-Don't you have a lesson? -Bertie's just setting up."
+      ],
+      [
+        375,
+        "00:35:07.575000",
+        "00:35:10.011000",
+        "That's fine. I have tomorrow's lesson planned."
+      ]
+    ],
+    "regex": "\\b((?!\\bLesson:)Lesson)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2966934",
+    "title": "Under the Electric Sky",
+    "year": 2014,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1076,
+    "occurrences": [
+      [
+        803,
+        "00:55:01.030000",
+        "00:55:04.701000",
+        "It's going to be under the super moon under the electric sky."
+      ],
+      [
+        952,
+        "01:08:34.843000",
+        "01:08:37.822000",
+        "Here we are one last time under the electric sky."
+      ]
+    ],
+    "regex": "\\b((?!\\bUnder\\ the\\ Electric\\ Sky:)Under\\ the\\ Electric\\ Sky)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1652379",
+    "title": "Wicked World",
+    "year": 1991,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1125,
+    "occurrences": [
+      [
+        95,
+        "00:08:46.735000",
+        "00:08:49.988000",
+        "- I've had it, I've just had it with this wicked world!"
+      ],
+      [
+        964,
+        "01:23:26.335000",
+        "01:23:29.713000",
+        "Why do we live in such a wicked world?"
+      ],
+      [
+        1014,
+        "01:28:24.925000",
+        "01:28:28.511000",
+        "Wicked world, take me away."
+      ]
+    ],
+    "regex": "\\b((?!\\bWicked\\ World:)Wicked\\ World)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

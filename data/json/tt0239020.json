@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0239020",
+    "title": "The Cave",
+    "year": 2001,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 655,
+    "occurrences": [
+      [
+        62,
+        "00:15:30.360000",
+        "00:15:35.280000",
+        "We visited a cave in the Ardennes. That's why I study geology now."
+      ],
+      [
+        320,
+        "00:41:08.920000",
+        "00:41:11.560000",
+        "It was a wonderful cave, wasn't it?"
+      ],
+      [
+        561,
+        "01:12:37.360000",
+        "01:12:40.200000",
+        "We're waiting for you. We're going to the cave."
+      ]
+    ],
+    "regex": "\\b((?!\\bCave:)Cave)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

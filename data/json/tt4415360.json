@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt4415360",
+    "title": "The Science of Interstellar",
+    "year": 2015,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 555,
+    "occurrences": [
+      [
+        15,
+        "00:01:21.850000",
+        "00:01:27.350000",
+        "Beyond fantasy and fiction, this is the real science of Interstellar."
+      ],
+      [
+        115,
+        "00:08:09.600000",
+        "00:08:13.600000",
+        "The science of Interstellar"
+      ]
+    ],
+    "regex": "\\b((?!\\bScience\\ of\\ Interstellar:)Science\\ of\\ Interstellar)(?!\\:)(?!'t)\\b",
+    "runtime": 51,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

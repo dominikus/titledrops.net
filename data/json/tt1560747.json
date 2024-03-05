@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt1560747",
+    "title": "The Master",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 7,
+    "all_lines": 1448,
+    "occurrences": [
+      [
+        264,
+        "00:29:56.728000",
+        "00:29:58.366000",
+        "- Good night, Master. - Good night."
+      ],
+      [
+        476,
+        "00:43:16.026000",
+        "00:43:17.986000",
+        "Have you ever had bad thoughts about Master Peggy?"
+      ],
+      [
+        581,
+        "00:52:32.782000",
+        "00:52:35.023000",
+        "- Master, hello! - Hello!"
+      ],
+      [
+        800,
+        "01:06:25.014000",
+        "01:06:29.224000",
+        "the Cause Way, the way Master has discovered,"
+      ],
+      [
+        1358,
+        "01:58:30.272000",
+        "01:58:33.981000",
+        "- Can I assist you in help? - I'm here to see Master."
+      ],
+      [
+        1402,
+        "02:04:12.314000",
+        "02:04:17.263000",
+        "For if you figure a way to live without serving a master..."
+      ],
+      [
+        1403,
+        "02:04:19.254000",
+        "02:04:20.824000",
+        "...any master..."
+      ]
+    ],
+    "regex": "\\b((?!\\bMaster:)Master)(?!\\:)(?!'t)\\b",
+    "runtime": 138,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

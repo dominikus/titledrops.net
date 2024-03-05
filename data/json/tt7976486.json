@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7976486",
+    "title": "Sin Island",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1412,
+    "occurrences": [
+      [
+        483,
+        "00:36:23.890000",
+        "00:36:25.600000",
+        "Welcome to Sin Island, sir."
+      ],
+      [
+        484,
+        "00:36:25.683000",
+        "00:36:27.518000",
+        "Thanks. Sin Island?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSin\\ Island:)Sin\\ Island)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

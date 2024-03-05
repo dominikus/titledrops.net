@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3626476",
+    "title": "Vacation Friends",
+    "year": 2021,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 2103,
+    "occurrences": [
+      [
+        1910,
+        "01:27:21.119000",
+        "01:27:25.248000",
+        "We were just vacation friends for one week in Mexico!"
+      ],
+      [
+        2024,
+        "01:33:47.463000",
+        "01:33:49.507000",
+        "Yeah. You guys are not just vacation friends."
+      ]
+    ],
+    "regex": "\\b((?!\\bVacation\\ Friends:)Vacation\\ Friends)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0048393",
+    "title": "Confidential Report",
+    "year": 1955,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 2,
+    "all_lines": 1547,
+    "occurrences": [
+      [
+        364,
+        "00:26:46.504000",
+        "00:26:49.941000",
+        "\"Confidential Report.\" It has my name on it."
+      ],
+      [
+        384,
+        "00:27:58.242000",
+        "00:28:01.446000",
+        "How 'bout if somebody got up a confidential report on the subject of you, huh?"
+      ]
+    ],
+    "regex": "\\b((?!\\bConfidential\\ Report:)Confidential\\ Report)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0036272",
+    "title": "Power of the Press",
+    "year": 1943,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 924,
+    "occurrences": [
+      [
+        4,
+        "00:01:02.442000",
+        "00:01:04.376000",
+        "\"and misusing the power of the press."
+      ],
+      [
+        60,
+        "00:05:07.988000",
+        "00:05:10.582000",
+        "who use, for their own advantage, the power of the press."
+      ],
+      [
+        71,
+        "00:05:52.799000",
+        "00:05:57.702000",
+        "He said my paper was misusing the power of the press, was betraying this country."
+      ],
+      [
+        235,
+        "00:18:14.540000",
+        "00:18:17.031000",
+        "and misuses the power of the press."
+      ],
+      [
+        250,
+        "00:19:12.665000",
+        "00:19:15.657000",
+        "Well, if defending the freedom of the press and not misusing the power of the press"
+      ]
+    ],
+    "regex": "\\b((?!\\bPower\\ of\\ the\\ Press:)Power\\ of\\ the\\ Press)(?!\\:)(?!'t)\\b",
+    "runtime": 64,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

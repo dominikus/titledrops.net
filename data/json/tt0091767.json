@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0091767",
+    "title": "Playing for Keeps",
+    "year": 1986,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1413,
+    "occurrences": [
+      [
+        20,
+        "00:01:44.704000",
+        "00:01:48.140000",
+        "; Keep away from the flames This time we're playing for keeps"
+      ],
+      [
+        1157,
+        "01:20:05.801000",
+        "01:20:08.770000",
+        "Only this time we are playing for keeps."
+      ]
+    ],
+    "regex": "\\b((?!\\bPlaying\\ for\\ Keeps:)Playing\\ for\\ Keeps)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

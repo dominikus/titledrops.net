@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt0078749",
+    "title": "Alien 2: On Earth",
+    "year": 1980,
+    "genres": [
+      "Adventure",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 521,
+    "occurrences": [
+      [
+        29,
+        "00:03:19.279000",
+        "00:03:25.529000",
+        "ALIEN 2: THE TERRA FIRMA ON EARTH"
+      ]
+    ],
+    "regex": "\\b((?!\\bAlien:)Alien|(?!\\bOn\\ Earth:)On\\ Earth)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

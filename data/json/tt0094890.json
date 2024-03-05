@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0094890",
+    "title": "Cocoon: The Return",
+    "year": 1988,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 974,
+    "occurrences": [
+      [
+        219,
+        "00:21:19.453000",
+        "00:21:23.765000",
+        "\"St Petersburg Oceanographic Institute.\" They got a cocoon."
+      ],
+      [
+        262,
+        "00:27:25.373000",
+        "00:27:30.401000",
+        "How could you know an earthquake would knock a cocoon out of its hiding place, huh?"
+      ],
+      [
+        466,
+        "00:45:29.173000",
+        "00:45:31.971000",
+        "They've opened the cocoon, Jack."
+      ]
+    ],
+    "regex": "\\b((?!\\bCocoon:)Cocoon|(?!\\bReturn:)Return)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

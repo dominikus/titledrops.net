@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0235596",
+    "title": "Miracle",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 688,
+    "occurrences": [
+      [
+        0,
+        "00:00:09.800000",
+        "00:00:14.760000",
+        "Miracle"
+      ],
+      [
+        320,
+        "00:37:14",
+        "00:37:18.080000",
+        "- Yes. Life is a miracle. - It's fucking amazing."
+      ]
+    ],
+    "regex": "\\b((?!\\bMiracle:)Miracle)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

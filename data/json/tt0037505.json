@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0037505",
+    "title": "Allotment Wives",
+    "year": 1945,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 2,
+    "all_lines": 1321,
+    "occurrences": [
+      [
+        897,
+        "00:52:17.625000",
+        "00:52:19.875000",
+        "The big cheese of Allotment Wives Incorporated."
+      ],
+      [
+        1045,
+        "01:01:03.022000",
+        "01:01:04.624000",
+        "She's one of the allotment wives."
+      ]
+    ],
+    "regex": "\\b((?!\\bAllotment\\ Wives:)Allotment\\ Wives)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

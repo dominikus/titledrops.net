@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt12685274",
+    "title": "The Sixth Reel",
+    "year": 2021,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 2206,
+    "occurrences": [
+      [
+        999,
+        "00:44:01.909000",
+        "00:44:04.311000",
+        "- Shut up, shut up, shut up! - The sixth reel!"
+      ],
+      [
+        1010,
+        "00:44:28.102000",
+        "00:44:30.437000",
+        "- How do I know that this sixth reel"
+      ],
+      [
+        1481,
+        "01:04:27.502000",
+        "01:04:29.970000",
+        "Gerald retained the sixth reel,"
+      ]
+    ],
+    "regex": "\\b((?!\\bSixth\\ Reel:)Sixth\\ Reel)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

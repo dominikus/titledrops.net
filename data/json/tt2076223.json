@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2076223",
+    "title": "I Am ZoZo",
+    "year": 2012,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1101,
+    "occurrences": [
+      [
+        636,
+        "00:43:37.315000",
+        "00:43:40.750000",
+        "\"I am ZoZo."
+      ],
+      [
+        637,
+        "00:43:40.752000",
+        "00:43:43.119000",
+        "\"I am ZoZo.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Am\\ ZoZo:)I\\ Am\\ ZoZo)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

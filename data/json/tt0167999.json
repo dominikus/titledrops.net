@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0167999",
+    "title": "I Like to Watch",
+    "year": 1982,
+    "genres": [
+      "Adult"
+    ],
+    "count": 2,
+    "all_lines": 489,
+    "occurrences": [
+      [
+        266,
+        "00:28:46.183000",
+        "00:28:48.727000",
+        "- Good, because I like to watch."
+      ],
+      [
+        330,
+        "00:52:00.326000",
+        "00:52:04.747000",
+        "See Montag, I like to watch too."
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Like\\ to\\ Watch:)I\\ Like\\ to\\ Watch)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

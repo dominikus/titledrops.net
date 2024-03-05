@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0084708",
+    "title": "Soup for One",
+    "year": 1982,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1904,
+    "occurrences": [
+      [
+        90,
+        "00:04:38.001000",
+        "00:04:40.797000",
+        "Soup for one"
+      ],
+      [
+        94,
+        "00:04:54.190000",
+        "00:04:56.537000",
+        "Soup for one"
+      ],
+      [
+        463,
+        "00:20:57.635000",
+        "00:20:59.775000",
+        " Soup for one."
+      ]
+    ],
+    "regex": "\\b((?!\\bSoup\\ for\\ One:)Soup\\ for\\ One)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

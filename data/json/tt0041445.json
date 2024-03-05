@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0041445",
+    "title": "The Hasty Heart",
+    "year": 1949,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1537,
+    "occurrences": [
+      [
+        753,
+        "00:46:25.249000",
+        "00:46:29.686000",
+        "They say that sorrow is born in the hasty heart."
+      ],
+      [
+        841,
+        "00:52:38.155000",
+        "00:52:41.056000",
+        "Remember, sorrow is born in the hasty heart."
+      ]
+    ],
+    "regex": "\\b((?!\\bHasty\\ Heart:)Hasty\\ Heart)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

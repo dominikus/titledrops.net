@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt4207196",
+    "title": "Del Playa",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1105,
+    "occurrences": [
+      [
+        918,
+        "01:21:28.927000",
+        "01:21:32.061000",
+        "I don't know, I'm on Del Playa Street."
+      ],
+      [
+        919,
+        "01:21:33.801000",
+        "01:21:35.412000",
+        "Um, 6545 Del Playa,"
+      ],
+      [
+        922,
+        "01:21:46.336000",
+        "01:21:47.598000",
+        "6545 Del Playa."
+      ],
+      [
+        923,
+        "01:21:50.862000",
+        "01:21:52.081000",
+        "6545 Del Playa."
+      ]
+    ],
+    "regex": "\\b((?!\\bDel\\ Playa:)Del\\ Playa)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

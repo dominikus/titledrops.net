@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0116839",
+    "title": "Lawnmower Man 2: Beyond Cyberspace",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1410,
+    "occurrences": [
+      [
+        345,
+        "00:21:37.944000",
+        "00:21:39.112000",
+        "He was a lawnmower man"
+      ],
+      [
+        1336,
+        "01:22:12.653000",
+        "01:22:14.405000",
+        "You're just a lawnmower man, Jobe."
+      ],
+      [
+        1337,
+        "01:22:17.909000",
+        "01:22:19.494000",
+        "Lawnmower man is dead!"
+      ]
+    ],
+    "regex": "\\b((?!\\bLawnmower\\ Man:)Lawnmower\\ Man|(?!\\bBeyond\\ Cyberspace:)Beyond\\ Cyberspace)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.5
+  }
+]

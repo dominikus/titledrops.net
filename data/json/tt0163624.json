@@ -1,0 +1,53 @@
+[
+  {
+    "imdb": "tt0163624",
+    "title": "Faust",
+    "year": 1960,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 5,
+    "all_lines": 1911,
+    "occurrences": [
+      [
+        109,
+        "00:08:59.960000",
+        "00:09:01.510000",
+        "Do you know Faust?"
+      ],
+      [
+        212,
+        "00:15:22.960000",
+        "00:15:27.310000",
+        "Where are you Faust, whose voice I heard?"
+      ],
+      [
+        214,
+        "00:15:30.120000",
+        "00:15:31.170000",
+        "It's me, I'm Faust,"
+      ],
+      [
+        578,
+        "00:38:45.720000",
+        "00:38:49.870000",
+        "Well, Faust, keep on dreaming! Until we meet again."
+      ],
+      [
+        1107,
+        "01:11:26.920000",
+        "01:11:29.590000",
+        "Pathetic Faust, I don't know you anymore."
+      ]
+    ],
+    "regex": "\\b((?!\\bFaust:)Faust)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [
+      "Dr. Heinrich Faust",
+      "Dichter"
+    ],
+    "title_is_name": true,
+    "rating": 7.4
+  }
+]

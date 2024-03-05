@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt6916362",
+    "title": "Journal 64",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 972,
+    "occurrences": [
+      [
+        683,
+        "01:10:35.120000",
+        "01:10:38.910000",
+        "- What is that? - Journal 64."
+      ],
+      [
+        684,
+        "01:10:38.960000",
+        "01:10:42.230000",
+        "Nete   Hermansen's Language Journal."
+      ],
+      [
+        759,
+        "01:21:01.840000",
+        "01:21:05.230000",
+        "I read your journal from Sprogo. It was you, -"
+      ]
+    ],
+    "regex": "\\b((?!\\bJournal:)Journal)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

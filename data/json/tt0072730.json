@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0072730",
+    "title": "A Boy and His Dog",
+    "year": 1975,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1199,
+    "occurrences": [
+      [
+        1182,
+        "01:29:06.700000",
+        "01:29:08.560000",
+        "A boy and his dog"
+      ],
+      [
+        1184,
+        "01:29:13.950000",
+        "01:29:17.340000",
+        "A boy and his dog sometimes"
+      ],
+      [
+        1189,
+        "01:29:35.420000",
+        "01:29:37.270000",
+        "A boy and his dog"
+      ],
+      [
+        1193,
+        "01:29:49.330000",
+        "01:29:51.380000",
+        "A boy and his dog"
+      ]
+    ],
+    "regex": "\\b((?!\\bBoy\\ and\\ His\\ Dog:)Boy\\ and\\ His\\ Dog)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

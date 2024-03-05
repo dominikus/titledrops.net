@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt10261338",
+    "title": "The Promised Land",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1043,
+    "occurrences": [
+      [
+        730,
+        "01:15:08.780000",
+        "01:15:10.560000",
+        "What do you mean? The promised land?"
+      ],
+      [
+        934,
+        "01:44:18.200000",
+        "01:44:21.480000",
+        "It's the promised land."
+      ],
+      [
+        1016,
+        "02:04:34.760000",
+        "02:04:53.200000",
+        "Tsumugi, let's build the promised land for us."
+      ],
+      [
+        1017,
+        "02:05:28.070000",
+        "02:05:37.990000",
+        "(The Promised Land)"
+      ]
+    ],
+    "regex": "\\b((?!\\bPromised\\ Land:)Promised\\ Land)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1161404",
+    "title": "Blood Night: The Legend of Mary Hatchet",
+    "year": 2009,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 652,
+    "occurrences": [
+      [
+        2,
+        "00:00:36.880000",
+        "00:00:52.880000",
+        "Blood Night: The Legend Of Mary Hatchet"
+      ],
+      [
+        43,
+        "00:12:40.250000",
+        "00:12:48.250000",
+        "NIGHT OF BLOOD The Legend of Mary Hatchet"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlood\\ Night:)Blood\\ Night|(?!\\bLegend\\ of\\ Mary\\ Hatchet:)Legend\\ of\\ Mary\\ Hatchet)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

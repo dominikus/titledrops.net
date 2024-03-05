@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0138545",
+    "title": "The Juniper Tree",
+    "year": 1990,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 701,
+    "occurrences": [
+      [
+        297,
+        "00:34:33.201000",
+        "00:34:35.912000",
+        "under a juniper tree."
+      ],
+      [
+        302,
+        "00:34:48.592000",
+        "00:34:52.846000",
+        "And he lay down and slept under a juniper tree."
+      ]
+    ],
+    "regex": "\\b((?!\\bJuniper\\ Tree:)Juniper\\ Tree)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

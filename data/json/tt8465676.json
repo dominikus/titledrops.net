@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt8465676",
+    "title": "Hannah Gadsby: Nanette",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 1123,
+    "occurrences": [
+      [
+        10,
+        "00:01:12.240000",
+        "00:01:14.080000",
+        "My show is called  Nanette."
+      ],
+      [
+        11,
+        "00:01:14.760000",
+        "00:01:17.040000",
+        "And the reason my show is called  Nanette,"
+      ],
+      [
+        13,
+        "00:01:21.520000",
+        "00:01:25.720000",
+        "I named it at around the time I'd met a woman called Nanette..."
+      ],
+      [
+        15,
+        "00:01:29.800000",
+        "00:01:32.840000",
+        "So interesting. \"Nanette,\" I thought, \"I reckon I can squeeze"
+      ],
+      [
+        16,
+        "00:01:32.920000",
+        "00:01:35.640000",
+        "a good hour of laughs out of you, Nanette, I reckon.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bHannah\\ Gadsby:)Hannah\\ Gadsby|(?!\\bNanette:)Nanette)(?!\\:)(?!'t)\\b",
+    "runtime": 70,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0344766",
+    "title": "15: The Movie",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1123,
+    "occurrences": [
+      [
+        340,
+        "00:21:16.760000",
+        "00:21:18.840000",
+        "I've got only $15 to get this small cake."
+      ],
+      [
+        609,
+        "00:39:44.040000",
+        "00:39:46.640000",
+        "This looks like the movie set of X-files"
+      ]
+    ],
+    "regex": "\\b((?!\\b15:)15|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

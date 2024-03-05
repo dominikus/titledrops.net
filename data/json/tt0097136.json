@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0097136",
+    "title": "Cutting Class",
+    "year": 1989,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1483,
+    "occurrences": [
+      [
+        57,
+        "00:02:56.806000",
+        "00:02:59.100000",
+        "no cutting class. - No cutting class."
+      ],
+      [
+        1445,
+        "01:28:36.440000",
+        "01:28:37.775000",
+        "You're not cutting class, I hope?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCutting\\ Class:)Cutting\\ Class)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3138104",
+    "title": "The Hungover Games",
+    "year": 2014,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 1315,
+    "occurrences": [
+      [
+        131,
+        "00:09:08.048000",
+        "00:09:11.425000",
+        "We volunteer for the Hungover Games!"
+      ],
+      [
+        162,
+        "00:10:57.033000",
+        "00:11:00.452000",
+        "and right now, it's time for the Hungover Games!"
+      ],
+      [
+        1192,
+        "01:11:51.479000",
+        "01:11:54.981000",
+        "There's only gonna be one winner of the Hungover Games."
+      ]
+    ],
+    "regex": "\\b((?!\\bHungover\\ Games:)Hungover\\ Games)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

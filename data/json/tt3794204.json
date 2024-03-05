@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3794204",
+    "title": "K: Missing Kings",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Animation",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 795,
+    "occurrences": [
+      [
+        256,
+        "00:22:36.640000",
+        "00:22:39.730000",
+        "Adolf K. Weismann is alive?!"
+      ],
+      [
+        626,
+        "00:52:04.330000",
+        "00:52:08.330000",
+        "the First' King, Adolf K Weismann, as his clansman."
+      ],
+      [
+        633,
+        "00:52:35.020000",
+        "00:52:38.030000",
+        "I am the clansman of the First King Adolf K. Weismann,"
+      ]
+    ],
+    "regex": "\\b((?!\\bK:)K|(?!\\bMissing\\ Kings:)Missing\\ Kings)(?!\\:)(?!'t)\\b",
+    "runtime": 73,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

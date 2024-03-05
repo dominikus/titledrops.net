@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0846308",
+    "title": "Kit Kittredge: An American Girl",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 1415,
+    "occurrences": [
+      [
+        283,
+        "00:20:57.048000",
+        "00:21:00.317000",
+        "Come get your chicken and your eggs from Kit Kittredge. Bock, bock!"
+      ],
+      [
+        450,
+        "00:31:06.966000",
+        "00:31:09.668000",
+        "Kit Kittredge. Well, actually, it's Margaret Mildred..."
+      ],
+      [
+        522,
+        "00:35:45.336000",
+        "00:35:47.637000",
+        "By Kit Kittredge, age 10."
+      ],
+      [
+        642,
+        "00:42:41.857000",
+        "00:42:46.627000",
+        "- Stirling Howard IV. - Kit Kittredge I."
+      ]
+    ],
+    "regex": "\\b((?!\\bKit\\ Kittredge:)Kit\\ Kittredge|(?!\\bAmerican\\ Girl:)American\\ Girl)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

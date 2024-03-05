@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0106761",
+    "title": "Double Dragon",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 912,
+    "occurrences": [
+      [
+        9,
+        "00:01:11.561000",
+        "00:01:15.088000",
+        "This is the legend of the Double Dragon."
+      ],
+      [
+        20,
+        "00:04:07.303000",
+        "00:04:09.567000",
+        "searching for the legendary Double Dragon."
+      ],
+      [
+        247,
+        "00:23:24.760000",
+        "00:23:28.890000",
+        "However, there's only one Double Dragon."
+      ],
+      [
+        368,
+        "00:34:37.999000",
+        "00:34:41.992000",
+        "Satori... or your half of the Double Dragon."
+      ],
+      [
+        610,
+        "00:58:16.449000",
+        "00:58:19.179000",
+        "- It's the Double Dragon. - We look like double dorks."
+      ],
+      [
+        873,
+        "01:27:44.783000",
+        "01:27:47.251000",
+        "- With the Double Dragon... - No, Jimmy."
+      ]
+    ],
+    "regex": "\\b((?!\\bDouble\\ Dragon:)Double\\ Dragon)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

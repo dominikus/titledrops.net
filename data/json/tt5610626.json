@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5610626",
+    "title": "Dragonheart: Battle for the Heartfire",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1173,
+    "occurrences": [
+      [
+        716,
+        "00:55:34.031000",
+        "00:55:37.376000",
+        "a dragonheart's power to bond with another."
+      ],
+      [
+        982,
+        "01:15:54.650000",
+        "01:15:57.756000",
+        "a dragonheart, and someone to share it with,"
+      ],
+      [
+        1152,
+        "01:30:51.980000",
+        "01:30:55.587000",
+        "offer the bond of your dragonheart to your sister."
+      ]
+    ],
+    "regex": "\\b((?!\\bDragonheart:)Dragonheart|(?!\\bBattle\\ for\\ the\\ Heartfire:)Battle\\ for\\ the\\ Heartfire)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

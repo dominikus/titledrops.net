@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3698408",
+    "title": "Coming Soon",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 2276,
+    "occurrences": [
+      [
+        2224,
+        "02:02:07.120000",
+        "02:02:08.156000",
+        "Coming soon."
+      ],
+      [
+        2276,
+        "02:05:14.960000",
+        "02:05:16.474000",
+        "Coming Soon"
+      ]
+    ],
+    "regex": "\\b((?!\\bComing\\ Soon:)Coming\\ Soon)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

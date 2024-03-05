@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt4124980",
+    "title": "Creators: The Past",
+    "year": 2019,
+    "genres": [
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1350,
+    "occurrences": [
+      [
+        375,
+        "00:33:06.560000",
+        "00:33:08.560000",
+        "from the powerful of the past"
+      ],
+      [
+        487,
+        "00:38:51.560000",
+        "00:38:55.560000",
+        "As we are making the creators, Lady Er."
+      ],
+      [
+        960,
+        "01:10:17.780000",
+        "01:10:25.780000",
+        "We had decided to put aside all of us, the companions of the past."
+      ]
+    ],
+    "regex": "\\b((?!\\bCreators:)Creators|(?!\\bPast:)Past)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

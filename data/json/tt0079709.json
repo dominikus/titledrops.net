@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0079709",
+    "title": "Penitentiary",
+    "year": 1979,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1166,
+    "occurrences": [
+      [
+        219,
+        "00:18:44.540000",
+        "00:18:47.009000",
+        "Jesse I'm the baddest in the whole penitentiary."
+      ],
+      [
+        870,
+        "01:09:58.569000",
+        "01:10:00.242000",
+        "You ain't gonna never leave the penitentiary alive."
+      ]
+    ],
+    "regex": "\\b((?!\\bPenitentiary:)Penitentiary)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

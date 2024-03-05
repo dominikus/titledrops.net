@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt2245990",
+    "title": "Genghis: The Legend of the Ten",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "History"
+    ],
+    "count": 6,
+    "all_lines": 520,
+    "occurrences": [
+      [
+        5,
+        "00:00:58.500000",
+        "00:01:00.208000",
+        "During the 13th century, Genghis Khan"
+      ],
+      [
+        27,
+        "00:04:00",
+        "00:04:02.750000",
+        "that has just been recaptured by Genghis Khan"
+      ],
+      [
+        319,
+        "00:44:45.708000",
+        "00:44:49.125000",
+        "with direct orders from Genghis Khan"
+      ],
+      [
+        320,
+        "00:44:53.500000",
+        "00:44:58.042000",
+        "Praise to Genghis Khan"
+      ],
+      [
+        326,
+        "00:46:46.958000",
+        "00:46:54.208000",
+        "I cannot serve Genghis Khan in this life"
+      ],
+      [
+        439,
+        "01:10:16.958000",
+        "01:10:19.458000",
+        "Once I have sent your father to Genghis Khan,"
+      ]
+    ],
+    "regex": "\\b((?!\\bGenghis:)Genghis|(?!\\bLegend\\ of\\ the\\ Ten:)Legend\\ of\\ the\\ Ten)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

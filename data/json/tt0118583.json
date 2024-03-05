@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0118583",
+    "title": "Alien: Resurrection",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 871,
+    "occurrences": [
+      [
+        330,
+        "00:35:13.772000",
+        "00:35:17.765000",
+        "- Ice the goddamn mole! - Listen! He is breeding an alien species."
+      ],
+      [
+        545,
+        "00:55:07.834000",
+        "00:55:10.428000",
+        "And he put an alien inside of you."
+      ]
+    ],
+    "regex": "\\b((?!\\bAlien:)Alien|(?!\\bResurrection:)Resurrection)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

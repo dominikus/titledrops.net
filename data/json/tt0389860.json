@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0389860",
+    "title": "Click",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 5,
+    "all_lines": 1840,
+    "occurrences": [
+      [
+        321,
+        "00:17:34.136000",
+        "00:17:37.723000",
+        "Just point, click."
+      ],
+      [
+        478,
+        "00:26:47.397000",
+        "00:26:50.150000",
+        "- Click it. - Click it."
+      ],
+      [
+        497,
+        "00:27:41.659000",
+        "00:27:45.538000",
+        "- \"Making of\"? - MORTY: Just click."
+      ],
+      [
+        1292,
+        "01:10:04.533000",
+        "01:10:07.578000",
+        "Sometimes, things don't click"
+      ]
+    ],
+    "regex": "\\b((?!\\bClick:)Click)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

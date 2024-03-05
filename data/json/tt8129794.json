@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt8129794",
+    "title": "100 Things",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1531,
+    "occurrences": [
+      [
+        79,
+        "00:04:57.464000",
+        "00:05:00.175000",
+        "-I see. -We live with exactly 100 things."
+      ],
+      [
+        387,
+        "00:23:52.182000",
+        "00:23:54.142000",
+        "-100 days. -100 things."
+      ]
+    ],
+    "regex": "\\b((?!\\b100\\ Things:)100\\ Things)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

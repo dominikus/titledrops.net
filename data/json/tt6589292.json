@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6589292",
+    "title": "Mustang Island",
+    "year": 2017,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 412,
+    "occurrences": [
+      [
+        31,
+        "00:08:56.661000",
+        "00:08:58.163000",
+        "Mustang Island?"
+      ],
+      [
+        34,
+        "00:09:08.840000",
+        "00:09:10.925000",
+        "We're not going to Mustang Island."
+      ]
+    ],
+    "regex": "\\b((?!\\bMustang\\ Island:)Mustang\\ Island)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

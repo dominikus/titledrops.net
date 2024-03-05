@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0068737",
+    "title": "The Burglar",
+    "year": 1972,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 813,
+    "occurrences": [
+      [
+        93,
+        "00:09:18.412000",
+        "00:09:22.720000",
+        "Glimmy is a burglar and that's it. A professional!"
+      ],
+      [
+        708,
+        "01:11:27.947000",
+        "01:11:30.035000",
+        "I'm a burglar."
+      ],
+      [
+        792,
+        "01:32:54.645000",
+        "01:32:58.903000",
+        "A burglar should crack a safe in a hour."
+      ]
+    ],
+    "regex": "\\b((?!\\bBurglar:)Burglar)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

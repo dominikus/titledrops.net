@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0266971",
+    "title": "The Slaughter Rule",
+    "year": 2002,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1700,
+    "occurrences": [
+      [
+        400,
+        "00:26:05.100000",
+        "00:26:06.900000",
+        "The slaughter rule!"
+      ],
+      [
+        1548,
+        "01:40:20",
+        "01:40:23",
+        "They a hack away from the slaughter rule, anyways."
+      ]
+    ],
+    "regex": "\\b((?!\\bSlaughter\\ Rule:)Slaughter\\ Rule)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

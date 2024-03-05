@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0049182",
+    "title": "Plucking the Daisy",
+    "year": 1956,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1185,
+    "occurrences": [
+      [
+        9,
+        "00:03:24.102000",
+        "00:03:27.435000",
+        "Yes. I bet he wants \"Plucking the Daisy.\""
+      ],
+      [
+        14,
+        "00:03:41.653000",
+        "00:03:45.111000",
+        "This book \"Plucking the Daisy\" caused them?"
+      ],
+      [
+        46,
+        "00:05:55.787000",
+        "00:05:57.721000",
+        "\"Plucking the Daisy\" You've read it?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPlucking\\ the\\ Daisy:)Plucking\\ the\\ Daisy)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

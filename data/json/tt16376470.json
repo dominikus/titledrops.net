@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt16376470",
+    "title": "Horror in the High Desert 2: Minerva",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 942,
+    "occurrences": [
+      [
+        40,
+        "00:04:38.430000",
+        "00:04:41.093000",
+        "on what happened to that girl Minerva."
+      ],
+      [
+        119,
+        "00:08:41.040000",
+        "00:08:45.153000",
+        "I found out that Minerva goes by Minnie."
+      ],
+      [
+        150,
+        "00:10:09.180000",
+        "00:10:11.099000",
+        "but she wanted to let Minerva know"
+      ]
+    ],
+    "regex": "\\b((?!\\bHorror\\ in\\ the\\ High\\ Desert:)Horror\\ in\\ the\\ High\\ Desert|(?!\\bMinerva:)Minerva)(?!\\:)(?!'t)\\b",
+    "runtime": 74,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

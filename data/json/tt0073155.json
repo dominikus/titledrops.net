@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0073155",
+    "title": "That Most Important Thing: Love",
+    "year": 1975,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 956,
+    "occurrences": [
+      [
+        2,
+        "00:00:21.689000",
+        "00:00:25.682000",
+        "''THE IMPORTANT THING IS TO LOVE''"
+      ],
+      [
+        12,
+        "00:01:45.873000",
+        "00:01:49.400000",
+        "You hoId his head and say, ''But I love you''."
+      ]
+    ],
+    "regex": "\\b((?!\\bThat\\ Most\\ Important\\ Thing:)That\\ Most\\ Important\\ Thing|(?!\\bLove:)Love)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

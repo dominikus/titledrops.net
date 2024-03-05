@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt13773770",
+    "title": "Pizza 3: The Mummy",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 1,
+    "all_lines": 1326,
+    "occurrences": [
+      [
+        139,
+        "00:10:28.342000",
+        "00:10:31.842000",
+        "There was a mummy idol made by a Queen in Egypt. Have you heard of it?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPizza:)Pizza|(?!\\bMummy:)Mummy)(?!\\:)(?!'t)\\b",
+    "runtime": 139,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

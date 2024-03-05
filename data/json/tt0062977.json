@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0062977",
+    "title": "The Fixer",
+    "year": 1968,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1309,
+    "occurrences": [
+      [
+        659,
+        "01:04:50.290000",
+        "01:04:53.149000",
+        "- I am a fixer. - A confession now can save you."
+      ],
+      [
+        974,
+        "01:40:45.969000",
+        "01:40:48.684000",
+        "Yakov Bok here, the fixer."
+      ]
+    ],
+    "regex": "\\b((?!\\bFixer:)Fixer)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

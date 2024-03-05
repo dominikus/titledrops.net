@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0101412",
+    "title": "Beastmaster 2: Through the Portal of Time",
+    "year": 1991,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 5,
+    "all_lines": 1387,
+    "occurrences": [
+      [
+        7,
+        "00:03:21",
+        "00:03:23.500000",
+        "So this is the Beastmaster."
+      ],
+      [
+        119,
+        "00:20:51.500000",
+        "00:20:54",
+        "the Beastmaster."
+      ],
+      [
+        475,
+        "00:44:07.500000",
+        "00:44:10",
+        "The Beastmaster."
+      ],
+      [
+        480,
+        "00:45:46.500000",
+        "00:45:48.500000",
+        "We encountered the Beastmaster."
+      ],
+      [
+        528,
+        "00:48:21",
+        "00:48:22.500000",
+        "The Beastmaster."
+      ]
+    ],
+    "regex": "\\b((?!\\bBeastmaster:)Beastmaster|(?!\\bThrough\\ the\\ Portal\\ of\\ Time:)Through\\ the\\ Portal\\ of\\ Time)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

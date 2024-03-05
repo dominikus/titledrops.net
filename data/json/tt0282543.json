@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0282543",
+    "title": "Happy Hour",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1833,
+    "occurrences": [
+      [
+        21,
+        "00:01:10.983000",
+        "00:01:12.811000",
+        "Happy hour's over."
+      ],
+      [
+        1016,
+        "00:47:56.090000",
+        "00:47:57.526000",
+        " Happy hour's over."
+      ],
+      [
+        1521,
+        "01:15:24.868000",
+        "01:15:26.130000",
+        "\"Happy Hour\"."
+      ],
+      [
+        1727,
+        "01:26:36.930000",
+        "01:26:38.062000",
+        "It's Happy Hour!"
+      ]
+    ],
+    "regex": "\\b((?!\\bHappy\\ Hour:)Happy\\ Hour)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

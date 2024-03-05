@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt0078253",
+    "title": "Shaolin Handlock",
+    "year": 1978,
+    "genres": [
+      "Action"
+    ],
+    "count": 7,
+    "all_lines": 876,
+    "occurrences": [
+      [
+        1,
+        "00:02:00.453000",
+        "00:02:03.422000",
+        "Dad, you created this Shaolin handlock"
+      ],
+      [
+        16,
+        "00:03:08.621000",
+        "00:03:09.781000",
+        "Then the Shaolin handlock style..."
+      ],
+      [
+        324,
+        "00:31:24.749000",
+        "00:31:26.444000",
+        "...called the Shaolin handlock?"
+      ],
+      [
+        420,
+        "00:42:45.095000",
+        "00:42:48.496000",
+        "They both used the Shaolin handlock"
+      ],
+      [
+        701,
+        "01:07:41.490000",
+        "01:07:42.684000",
+        "Shaolin handlock"
+      ],
+      [
+        841,
+        "01:18:08.483000",
+        "01:18:10.041000",
+        "Shaolin handlock"
+      ],
+      [
+        860,
+        "01:18:53.795000",
+        "01:18:56.525000",
+        "Then you use the Shaolin handlock"
+      ]
+    ],
+    "regex": "\\b((?!\\bShaolin\\ Handlock:)Shaolin\\ Handlock)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

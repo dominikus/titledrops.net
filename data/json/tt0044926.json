@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0044926",
+    "title": "Moulin Rouge",
+    "year": 1952,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 1273,
+    "occurrences": [
+      [
+        639,
+        "00:57:33.300000",
+        "00:57:36.100000",
+        "but he cannot paint my girls of the Moulin Rouge."
+      ],
+      [
+        727,
+        "01:10:04.400000",
+        "01:10:07.700000",
+        "But doesn't it make the Moulin Rouge seem a little small?"
+      ],
+      [
+        803,
+        "01:16:27.700000",
+        "01:16:31.200000",
+        "I know I'm making millions, but I liked the Moulin Rouge as she was:"
+      ],
+      [
+        1130,
+        "01:41:32.700000",
+        "01:41:36.800000",
+        "I was the star of the Moulin Rouge! Wasn't I, Monsieur Lautrec?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMoulin\\ Rouge:)Moulin\\ Rouge)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0102081",
+    "title": "The White Viking",
+    "year": 1991,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 493,
+    "occurrences": [
+      [
+        87,
+        "00:14:15.600000",
+        "00:14:17.636000",
+        "the White Viking"
+      ],
+      [
+        395,
+        "01:07:19.200000",
+        "01:07:22.556000",
+        "yet the White Viking proudly wears it around his neck."
+      ]
+    ],
+    "regex": "\\b((?!\\bWhite\\ Viking:)White\\ Viking)(?!\\:)(?!'t)\\b",
+    "runtime": 131,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

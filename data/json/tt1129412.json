@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1129412",
+    "title": "Circle",
+    "year": 2010,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 936,
+    "occurrences": [
+      [
+        249,
+        "00:22:34.502000",
+        "00:22:38.269000",
+        "It's a circle. Four identical vehicles going in 4 different directions."
+      ],
+      [
+        720,
+        "00:59:46.023000",
+        "00:59:48.549000",
+        "- Half Circle? - Is."
+      ],
+      [
+        884,
+        "01:14:11.871000",
+        "01:14:13.862000",
+        "- Circle! Circle! - Exactly."
+      ]
+    ],
+    "regex": "\\b((?!\\bCircle:)Circle)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0094293",
+    "title": "Wanted: Dead or Alive",
+    "year": 1986,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 806,
+    "occurrences": [
+      [
+        64,
+        "00:08:45.991000",
+        "00:08:48.675000",
+        "An f. B.I. Wanted."
+      ],
+      [
+        492,
+        "00:53:15.608000",
+        "00:53:18.210000",
+        "Who wanted those detonators?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWanted:)Wanted|(?!\\bDead\\ or\\ Alive:)Dead\\ or\\ Alive)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

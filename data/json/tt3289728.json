@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3289728",
+    "title": "Equals",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 776,
+    "occurrences": [
+      [
+        577,
+        "01:04:23.360000",
+        "01:04:26.027000",
+        "...and rejoin the ranks of equals..."
+      ],
+      [
+        713,
+        "01:21:47.470000",
+        "01:21:51.238000",
+        "So that they may return to work as a productive equals in the collective."
+      ]
+    ],
+    "regex": "\\b((?!\\bEquals:)Equals)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

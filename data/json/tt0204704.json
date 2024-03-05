@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0204704",
+    "title": "Space Battleship Yamato",
+    "year": 1977,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 6,
+    "all_lines": 1321,
+    "occurrences": [
+      [
+        2,
+        "00:00:10.749000",
+        "00:00:21.859000",
+        "...for Space Battleship Yamato"
+      ],
+      [
+        8,
+        "00:00:50.321000",
+        "00:01:00.549000",
+        "The Space Battleship Yamato faces the challenge"
+      ],
+      [
+        888,
+        "01:25:46.216000",
+        "01:25:52.557000",
+        "I am Okita, Captain of the Space Battleship Yamato."
+      ],
+      [
+        988,
+        "01:34:02.912000",
+        "01:34:07.030000",
+        "A fitting grave for the Space Battleship Yamato."
+      ],
+      [
+        1312,
+        "02:12:33.361000",
+        "02:12:44.221000",
+        "...for Space Battleship Yamato"
+      ],
+      [
+        1318,
+        "02:13:12.963000",
+        "02:13:23.331000",
+        "The Space Battleship Yamato faces the challenge"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpace\\ Battleship\\ Yamato:)Space\\ Battleship\\ Yamato)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

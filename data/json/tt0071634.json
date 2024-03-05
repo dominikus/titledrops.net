@@ -1,0 +1,53 @@
+[
+  {
+    "imdb": "tt0071634",
+    "title": "Huckleberry Finn",
+    "year": 1974,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Musical"
+    ],
+    "count": 5,
+    "all_lines": 1393,
+    "occurrences": [
+      [
+        46,
+        "00:06:22.847000",
+        "00:06:26.010000",
+        "Say, Huckleberry Finn"
+      ],
+      [
+        47,
+        "00:06:26.084000",
+        "00:06:29.212000",
+        "Say, Huckleberry, Huckleberry Finn"
+      ],
+      [
+        49,
+        "00:06:32.223000",
+        "00:06:34.885000",
+        "Hey, Huckleberry, Huckleberry Finn"
+      ],
+      [
+        55,
+        "00:06:47.238000",
+        "00:06:49.536000",
+        "Hey, Huckleberry, Huckleberry Finn"
+      ],
+      [
+        1375,
+        "01:52:55.764000",
+        "01:52:58.824000",
+        "Say, Huckleberry Finn"
+      ]
+    ],
+    "regex": "\\b((?!\\bHuckleberry\\ Finn:)Huckleberry\\ Finn)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [
+      "Huckleberry Finn"
+    ],
+    "title_is_name": true,
+    "rating": 5.6
+  }
+]

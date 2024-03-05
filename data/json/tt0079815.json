@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0079815",
+    "title": "Rockers",
+    "year": 1978,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 512,
+    "occurrences": [
+      [
+        376,
+        "01:05:08.020000",
+        "01:05:12.240000",
+        "I don't feel too good in this place. Rockers music don't play."
+      ],
+      [
+        403,
+        "01:07:31.330000",
+        "01:07:34",
+        "I- man just dance to the Rockers."
+      ]
+    ],
+    "regex": "\\b((?!\\bRockers:)Rockers)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

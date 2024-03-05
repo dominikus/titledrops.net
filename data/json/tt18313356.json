@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt18313356",
+    "title": "Jericho Ridge",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1256,
+    "occurrences": [
+      [
+        727,
+        "00:40:17.068000",
+        "00:40:19.620000",
+        "This is Deputy Temple, sheriff's office, Jericho Ridge."
+      ],
+      [
+        1154,
+        "01:13:21.655000",
+        "01:13:23.034000",
+        "This is Deputy Temple at Jericho Ridge."
+      ]
+    ],
+    "regex": "\\b((?!\\bJericho\\ Ridge:)Jericho\\ Ridge)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0117420",
+    "title": "The Quest",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 598,
+    "occurrences": [
+      [
+        486,
+        "01:08:07.710000",
+        "01:08:11.590000",
+        "I thought this was your quest, your dream."
+      ],
+      [
+        527,
+        "01:15:25.190000",
+        "01:15:28.310000",
+        "And I never, ever had a quest..."
+      ]
+    ],
+    "regex": "\\b((?!\\bQuest:)Quest)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

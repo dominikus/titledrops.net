@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0119629",
+    "title": "Destiny",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 1324,
+    "occurrences": [
+      [
+        162,
+        "00:22:19.500000",
+        "00:22:22.875000",
+        "And you'll make us masters of our destiny"
+      ],
+      [
+        183,
+        "00:24:07.708000",
+        "00:24:10.541000",
+        "We must remain masters of our destiny."
+      ],
+      [
+        1112,
+        "01:52:06.750000",
+        "01:52:10.250000",
+        "Too bad. Such is my destiny and that of the nation."
+      ]
+    ],
+    "regex": "\\b((?!\\bDestiny:)Destiny)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

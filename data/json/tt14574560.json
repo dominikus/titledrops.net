@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt14574560",
+    "title": "Revealed: The Hunt for Bin Laden",
+    "year": 2021,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1742,
+    "occurrences": [
+      [
+        135,
+        "00:07:50.037000",
+        "00:07:53.004000",
+        "to working Al Qaeda and the hunt for Bin Laden."
+      ],
+      [
+        168,
+        "00:09:40.147000",
+        "00:09:42.747000",
+        "the hunt for Bin Laden becomes part of a deeper effort"
+      ],
+      [
+        346,
+        "00:19:07.147000",
+        "00:19:11.048000",
+        "particularly those involved with the hunt for Bin Laden."
+      ]
+    ],
+    "regex": "\\b((?!\\bRevealed:)Revealed|(?!\\bHunt\\ for\\ Bin\\ Laden:)Hunt\\ for\\ Bin\\ Laden)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0041931",
+    "title": "Stromboli",
+    "year": 1950,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 645,
+    "occurrences": [
+      [
+        107,
+        "00:10:29",
+        "00:10:32",
+        "It was South Africa for me. Going to Stromboli?"
+      ],
+      [
+        184,
+        "00:19:17",
+        "00:19:20",
+        "The lava covered it all. But the people of Stromboli"
+      ],
+      [
+        238,
+        "00:30:58",
+        "00:30:59.965000",
+        "Yes, but we've come back to Stromboli..."
+      ],
+      [
+        245,
+        "00:31:20",
+        "00:31:22",
+        "-... I want to die on Stromboli. -My friend is old,"
+      ],
+      [
+        276,
+        "00:33:28",
+        "00:33:30",
+        "Did you know there are only four boats on Stromboli?"
+      ],
+      [
+        444,
+        "00:50:23",
+        "00:50:27",
+        "He has left 3,000 dollars, all his wealth, to Stromboli."
+      ]
+    ],
+    "regex": "\\b((?!\\bStromboli:)Stromboli)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1409024",
+    "title": "Men in Black 3",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1044,
+    "occurrences": [
+      [
+        27,
+        "00:05:43.483000",
+        "00:05:45.428000",
+        "MEN IN BLACK III"
+      ],
+      [
+        266,
+        "00:27:51.443000",
+        "00:27:54.335000",
+        "Men in black. Incident Report 16 July '69."
+      ],
+      [
+        500,
+        "00:47:34.992000",
+        "00:47:38.116000",
+        "I am an agent of \"Men in Black\" but I'm from the future. We're partners."
+      ],
+      [
+        558,
+        "00:52:18.870000",
+        "00:52:25.638000",
+        "Alright he's in the back But he's not going to talk to any men in black scum like you, now give me back my head."
+      ]
+    ],
+    "regex": "\\b((?!\\bMen\\ in\\ Black:)Men\\ in\\ Black)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

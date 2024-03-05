@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1937339",
+    "title": "Sunny",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 709,
+    "occurrences": [
+      [
+        87,
+        "00:10:52.818000",
+        "00:10:54.149000",
+        "Sunny."
+      ],
+      [
+        476,
+        "00:39:25.763000",
+        "00:39:31.258000",
+        "Geum-ok, how about S- U-N-N-Y, \"Sunny?\""
+      ],
+      [
+        619,
+        "00:52:44.127000",
+        "00:52:44.991000",
+        "Sunny?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSunny:)Sunny)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

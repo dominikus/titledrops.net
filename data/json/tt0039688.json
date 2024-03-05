@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0039688",
+    "title": "Out of the Blue",
+    "year": 1947,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1937,
+    "occurrences": [
+      [
+        677,
+        "00:31:33.393000",
+        "00:31:36.270000",
+        "Out of the blue"
+      ],
+      [
+        701,
+        "00:32:53.347000",
+        "00:32:58.352000",
+        "Out of the blue"
+      ],
+      [
+        706,
+        "00:33:19.373000",
+        "00:33:24.253000",
+        "Not out of the blue"
+      ],
+      [
+        778,
+        "00:36:54.714000",
+        "00:36:55.923000",
+        "Out of the blue"
+      ],
+      [
+        779,
+        "00:36:56.090000",
+        "00:36:57.275000",
+        "? Out of the blue? Olive, stop that!"
+      ]
+    ],
+    "regex": "\\b((?!\\bOut\\ of\\ the\\ Blue:)Out\\ of\\ the\\ Blue)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

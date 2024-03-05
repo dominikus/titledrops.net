@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt11748354",
+    "title": "Perfumes",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1107,
+    "occurrences": [
+      [
+        410,
+        "00:39:36.967000",
+        "00:39:40.092000",
+        "You know the recipe of all perfumes off by heart?"
+      ],
+      [
+        527,
+        "00:51:47.550000",
+        "00:51:50.092000",
+        "Living among her perfumes, never seeing anyone."
+      ],
+      [
+        535,
+        "00:52:19.592000",
+        "00:52:22.342000",
+        "They were offering her fortunes to create perfumes."
+      ],
+      [
+        554,
+        "00:53:31.300000",
+        "00:53:33.508000",
+        "Why did you stop making perfumes?"
+      ],
+      [
+        1087,
+        "01:36:25.842000",
+        "01:36:28.842000",
+        "It's not you they're interested in, it's your perfumes."
+      ]
+    ],
+    "regex": "\\b((?!\\bPerfumes:)Perfumes)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

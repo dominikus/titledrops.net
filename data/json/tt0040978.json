@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0040978",
+    "title": "Yellow Sky",
+    "year": 1948,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 745,
+    "occurrences": [
+      [
+        332,
+        "00:45:57.387000",
+        "00:46:00.958000",
+        "Get out of Yellow Sky and stay out, or we'll shoot the lot of you."
+      ],
+      [
+        385,
+        "00:50:19.082000",
+        "00:50:23.487000",
+        "About 15 years ago, heavy silver was hit here in Yellow Sky."
+      ]
+    ],
+    "regex": "\\b((?!\\bYellow\\ Sky:)Yellow\\ Sky)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

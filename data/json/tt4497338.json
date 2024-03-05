@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt4497338",
+    "title": "Interrogation",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1020,
+    "occurrences": [
+      [
+        22,
+        "00:01:39.641000",
+        "00:01:42.394000",
+        "I'm an interrogation specialist."
+      ],
+      [
+        377,
+        "00:32:42.252000",
+        "00:32:44.800000",
+        "I'm taking over this interrogation."
+      ],
+      [
+        381,
+        "00:32:51.428000",
+        "00:32:56.144000",
+        "He has been toying with you since the minute you walked into that interrogation room."
+      ]
+    ],
+    "regex": "\\b((?!\\bInterrogation:)Interrogation)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

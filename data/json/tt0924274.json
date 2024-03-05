@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0924274",
+    "title": "Rakhi: Highly Inflammable",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1324,
+    "occurrences": [
+      [
+        600,
+        "01:12:56.939000",
+        "01:12:59.931000",
+        "Want to tie Rakhi to you brother?"
+      ],
+      [
+        603,
+        "01:13:06.949000",
+        "01:13:08.940000",
+        "I'll tie Rakhi and return immediately."
+      ],
+      [
+        633,
+        "01:16:50.238000",
+        "01:16:56.177000",
+        "I thought I can't tie Rakhi."
+      ],
+      [
+        648,
+        "01:18:51.093000",
+        "01:18:56.622000",
+        "She is still young. Came to tie rakhi without telling you."
+      ],
+      [
+        1190,
+        "02:29:28.526000",
+        "02:29:31.290000",
+        "They are coming to jail to tie Rakhi to him."
+      ]
+    ],
+    "regex": "\\b((?!\\bRakhi:)Rakhi|(?!\\bHighly\\ Inflammable:)Highly\\ Inflammable)(?!\\:)(?!'t)\\b",
+    "runtime": 173,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

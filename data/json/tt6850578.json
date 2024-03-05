@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt6850578",
+    "title": "Babenco: Tell Me When I Die",
+    "year": 2019,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 521,
+    "occurrences": [
+      [
+        231,
+        "00:30:27.499000",
+        "00:30:31.125000",
+        "Babenco, is it true that before you became successful"
+      ],
+      [
+        444,
+        "00:54:20.632000",
+        "00:54:22.549000",
+        "Hector Babenco."
+      ]
+    ],
+    "regex": "\\b((?!\\bBabenco:)Babenco|(?!\\bTell\\ Me\\ When\\ I\\ Die:)Tell\\ Me\\ When\\ I\\ Die)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

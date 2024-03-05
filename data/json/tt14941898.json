@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt14941898",
+    "title": "The Harrisville Haunting: The Real Conjuring House",
+    "year": 2022,
+    "genres": [
+      "Documentary",
+      "History",
+      "Horror"
+    ],
+    "count": 1,
+    "all_lines": 1929,
+    "occurrences": [
+      [
+        109,
+        "00:10:35.602000",
+        "00:10:38.806000",
+        "to the-- the conjuring house, the real conjuring house."
+      ]
+    ],
+    "regex": "\\b((?!\\bHarrisville\\ Haunting:)Harrisville\\ Haunting|(?!\\bReal\\ Conjuring\\ House:)Real\\ Conjuring\\ House)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

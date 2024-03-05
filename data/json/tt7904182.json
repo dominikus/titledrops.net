@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7904182",
+    "title": "Jurassic Thunder",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1213,
+    "occurrences": [
+      [
+        47,
+        "00:04:18",
+        "00:04:19.800000",
+        "of Borge from \"Jurassic Thunder.\""
+      ],
+      [
+        91,
+        "00:05:44.887000",
+        "00:05:46.753000",
+        "I'm not, this is \"Jurassic Thunder.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bJurassic\\ Thunder:)Jurassic\\ Thunder)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2
+  }
+]

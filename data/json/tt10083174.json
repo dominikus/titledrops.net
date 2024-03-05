@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt10083174",
+    "title": "The Stairs",
+    "year": 2021,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 1422,
+    "occurrences": [
+      [
+        902,
+        "00:54:53.953000",
+        "00:54:55.688000",
+        "What are you, scared of some stairs in the woods?"
+      ],
+      [
+        903,
+        "00:54:55.755000",
+        "00:54:57.622000",
+        "It's not exactly the stairs that are scary."
+      ],
+      [
+        1192,
+        "01:14:13.479000",
+        "01:14:16.082000",
+        "but when I went inside those stairs,"
+      ],
+      [
+        1357,
+        "01:25:20.312000",
+        "01:25:23.015000",
+        "So I take it you didn't find any stairs and monsters?"
+      ],
+      [
+        1358,
+        "01:25:23.082000",
+        "01:25:25.584000",
+        "Yeah, no stairs, no monsters, crop circles,"
+      ]
+    ],
+    "regex": "\\b((?!\\bStairs:)Stairs)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

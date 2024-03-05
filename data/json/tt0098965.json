@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0098965",
+    "title": "Little Ninjas",
+    "year": 1993,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 914,
+    "occurrences": [
+      [
+        660,
+        "00:52:24.010000",
+        "00:52:25.533000",
+        "Little ninjas, you say?"
+      ],
+      [
+        661,
+        "00:52:26.404000",
+        "00:52:28.275000",
+        "Yeah, little ninjas, huh?"
+      ],
+      [
+        850,
+        "01:18:58.690000",
+        "01:18:59.996000",
+        "Little ninjas."
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Ninjas:)Little\\ Ninjas)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.3
+  }
+]

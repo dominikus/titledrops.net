@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt9737798",
+    "title": "Needle Park Baby",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 768,
+    "occurrences": [
+      [
+        17,
+        "00:04:42.877000",
+        "00:04:48.543000",
+        "Needle Park Baby"
+      ],
+      [
+        439,
+        "00:51:41.585000",
+        "00:51:43.335000",
+        "Oh no, it's Needle Park Baby."
+      ]
+    ],
+    "regex": "\\b((?!\\bNeedle\\ Park\\ Baby:)Needle\\ Park\\ Baby)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

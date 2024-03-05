@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0042825",
+    "title": "The Outriders",
+    "year": 1950,
+    "genres": [
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 1028,
+    "occurrences": [
+      [
+        345,
+        "00:24:52.468000",
+        "00:24:54.704000",
+        "but you could use three more outriders."
+      ],
+      [
+        358,
+        "00:25:45.388000",
+        "00:25:47.356000",
+        "three or four outriders,"
+      ]
+    ],
+    "regex": "\\b((?!\\bOutriders:)Outriders)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

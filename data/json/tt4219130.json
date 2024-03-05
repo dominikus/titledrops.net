@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt4219130",
+    "title": "Psycho-Pass: The Movie",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Animation",
+      "Crime"
+    ],
+    "count": 5,
+    "all_lines": 1209,
+    "occurrences": [
+      [
+        112,
+        "00:11:54.500000",
+        "00:12:00",
+        "While all sorts of inclinations are recorded and policed, these measured numbers used to judge people's souls are commonly called \"Psycho-Pass.\""
+      ],
+      [
+        378,
+        "00:33:42.180000",
+        "00:33:44.730000",
+        "but constantly monitors their Psycho-Pass."
+      ],
+      [
+        499,
+        "00:43:44.830000",
+        "00:43:47.160000",
+        "There's no way that anybody's Psycho-Pass would"
+      ],
+      [
+        842,
+        "01:18:34.920000",
+        "01:18:36.500000",
+        "inspect the Psycho-Pass diagnosis"
+      ],
+      [
+        1020,
+        "01:32:43.510000",
+        "01:32:47.220000",
+        "was able to fake their Psycho-Pass using this method."
+      ]
+    ],
+    "regex": "\\b((?!\\bPsycho\\-Pass:)Psycho\\-Pass|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

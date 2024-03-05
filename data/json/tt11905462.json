@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt11905462",
+    "title": "Athlete A",
+    "year": 2020,
+    "genres": [
+      "Crime",
+      "Documentary",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1664,
+    "occurrences": [
+      [
+        1457,
+        "01:26:43.531000",
+        "01:26:47.285000",
+        "Up until now, I was identified as Athlete A"
+      ],
+      [
+        1460,
+        "01:26:52.123000",
+        "01:26:55.376000",
+        "And I want everyone to know that he did not do this to Athlete A."
+      ]
+    ],
+    "regex": "\\b((?!\\bAthlete\\ A:)Athlete\\ A)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

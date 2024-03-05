@@ -1,0 +1,68 @@
+[
+  {
+    "imdb": "tt0492912",
+    "title": "Subject Two",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 8,
+    "all_lines": 833,
+    "occurrences": [
+      [
+        229,
+        "00:19:59.411000",
+        "00:20:02.437000",
+        "Subject Two. Approximate time of death 12:30 PM."
+      ],
+      [
+        233,
+        "00:20:24.904000",
+        "00:20:29.398000",
+        "Current time, 3:21 PM. Subject Two. No change in condition."
+      ],
+      [
+        238,
+        "00:21:40.746000",
+        "00:21:42.213000",
+        "Subject two revived."
+      ],
+      [
+        272,
+        "00:25:17.663000",
+        "00:25:20.860000",
+        "Subject One. You call me Subject Two."
+      ],
+      [
+        334,
+        "00:31:14.386000",
+        "00:31:20.222000",
+        "Subject Two. Faculties stronger. Cognitives skills improved."
+      ],
+      [
+        363,
+        "00:34:28.613000",
+        "00:34:31.207000",
+        "Subject Two, experiencing easy fatigability."
+      ],
+      [
+        421,
+        "00:39:13.965000",
+        "00:39:18.561000",
+        "Subject Two. Time of death, 9: 16 PM."
+      ],
+      [
+        478,
+        "00:46:58.062000",
+        "00:47:01.498000",
+        "Subject Two. Concern over condition"
+      ]
+    ],
+    "regex": "\\b((?!\\bSubject\\ Two:)Subject\\ Two)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

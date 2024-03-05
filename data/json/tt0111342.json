@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0111342",
+    "title": "The Separation",
+    "year": 1994,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 985,
+    "occurrences": [
+      [
+        515,
+        "00:43:43.232000",
+        "00:43:45.663000",
+        "Don't go. I don't want a separation."
+      ],
+      [
+        518,
+        "00:43:51.936000",
+        "00:43:55.711000",
+        "No, I said we had to consider a separation."
+      ],
+      [
+        523,
+        "00:44:04.448000",
+        "00:44:07.807000",
+        "We can talk about separation and not be scared."
+      ],
+      [
+        527,
+        "00:44:19.104000",
+        "00:44:20.575000",
+        "A separation..."
+      ],
+      [
+        528,
+        "00:44:22.881000",
+        "00:44:25.056000",
+        "A short separation..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSeparation:)Separation)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

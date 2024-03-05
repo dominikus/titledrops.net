@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt1220213",
+    "title": "Grace",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 628,
+    "occurrences": [
+      [
+        240,
+        "00:24:14.021000",
+        "00:24:18.481000",
+        "It's Grace."
+      ],
+      [
+        241,
+        "00:24:20.528000",
+        "00:24:22.723000",
+        "Her name is Grace."
+      ],
+      [
+        305,
+        "00:29:17.291000",
+        "00:29:19.191000",
+        "Grace, okay okay."
+      ],
+      [
+        330,
+        "00:33:39.019000",
+        "00:33:42.511000",
+        "Grace has a really bad rash... she smells funny."
+      ],
+      [
+        387,
+        "00:46:12.205000",
+        "00:46:14.605000",
+        "Grace!"
+      ],
+      [
+        585,
+        "01:13:52.497000",
+        "01:13:54.965000",
+        "Grace?"
+      ]
+    ],
+    "regex": "\\b((?!\\bGrace:)Grace)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

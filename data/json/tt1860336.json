@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1860336",
+    "title": "The Lion of Punjab",
+    "year": 2011,
+    "genres": [
+      "Action"
+    ],
+    "count": 2,
+    "all_lines": 2148,
+    "occurrences": [
+      [
+        167,
+        "00:12:06.457000",
+        "00:12:09.358000",
+        "My son is a lion. The lion of Punjab."
+      ],
+      [
+        1796,
+        "02:01:43.758000",
+        "02:01:49.788000",
+        "How are you, my lion of Punjab? -I am fine but.."
+      ]
+    ],
+    "regex": "\\b((?!\\bLion\\ of\\ Punjab:)Lion\\ of\\ Punjab)(?!\\:)(?!'t)\\b",
+    "runtime": 155,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

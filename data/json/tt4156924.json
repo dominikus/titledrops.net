@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4156924",
+    "title": "Big Match",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1206,
+    "occurrences": [
+      [
+        28,
+        "00:02:27.160000",
+        "00:02:29.253000",
+        "Get yourself ready for the big match."
+      ],
+      [
+        880,
+        "01:19:08.557000",
+        "01:19:13.722000",
+        "The big match is going to be a chicken game."
+      ]
+    ],
+    "regex": "\\b((?!\\bBig\\ Match:)Big\\ Match)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

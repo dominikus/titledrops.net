@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt2582802",
+    "title": "Whiplash",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 5,
+    "all_lines": 921,
+    "occurrences": [
+      [
+        154,
+        "00:18:04.041000",
+        "00:18:05.543000",
+        "All right, gang, \"Whiplash.\""
+      ],
+      [
+        222,
+        "00:24:57.830000",
+        "00:24:59.331000",
+        "All right, gang, \"Whiplash.\""
+      ],
+      [
+        301,
+        "00:29:56.962000",
+        "00:30:00.590000",
+        "\"Whiplash,\" bar 125."
+      ],
+      [
+        417,
+        "00:40:43.983000",
+        "00:40:46.653000",
+        "- You know \"Whiplash\" by heart? - Yes. Every measure."
+      ],
+      [
+        857,
+        "01:22:40.330000",
+        "01:22:43.709000",
+        "You know, \"Caravan,\" \"Whiplash.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bWhiplash:)Whiplash)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.5
+  }
+]

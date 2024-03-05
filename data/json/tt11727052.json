@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt11727052",
+    "title": "The Closet",
+    "year": 2020,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 821,
+    "occurrences": [
+      [
+        352,
+        "00:37:39.585000",
+        "00:37:41.752000",
+        "or screaming in front of the closet."
+      ],
+      [
+        573,
+        "01:00:37.418000",
+        "01:00:40.668000",
+        "or talk to herself in front of the closet?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCloset:)Closet)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

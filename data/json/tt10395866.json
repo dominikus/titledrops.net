@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt10395866",
+    "title": "Executive Order",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1141,
+    "occurrences": [
+      [
+        405,
+        "00:30:22.862000",
+        "00:30:26.658000",
+        "Executive Order 1888 determines the return of those citizens"
+      ],
+      [
+        408,
+        "00:30:35.250000",
+        "00:30:40.046000",
+        "Executive Order 1888.\""
+      ],
+      [
+        561,
+        "00:42:03.313000",
+        "00:42:05.565000",
+        "You have to fight against this Executive Order."
+      ],
+      [
+        1036,
+        "01:24:38.994000",
+        "01:24:41.329000",
+        "against the Executive Order, to be heard,"
+      ]
+    ],
+    "regex": "\\b((?!\\bExecutive\\ Order:)Executive\\ Order)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

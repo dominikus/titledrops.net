@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4973806",
+    "title": "Our Father",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1694,
+    "occurrences": [
+      [
+        97,
+        "00:05:07.002000",
+        "00:05:09.483000",
+        "I'm actually getting dinner with my sister and our father."
+      ],
+      [
+        456,
+        "00:22:38.661000",
+        "00:22:39.880000",
+        "- Henry, our father died."
+      ]
+    ],
+    "regex": "\\b((?!\\bOur\\ Father:)Our\\ Father)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

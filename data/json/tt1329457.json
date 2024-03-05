@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1329457",
+    "title": "Gainsbourg: A Heroic Life",
+    "year": 2010,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 854,
+    "occurrences": [
+      [
+        625,
+        "00:47:20.971000",
+        "00:47:22.598000",
+        "...Serge Gainsbourg."
+      ],
+      [
+        706,
+        "00:52:12.462000",
+        "00:52:13.281000",
+        "Mr. Gainsbourg,"
+      ],
+      [
+        802,
+        "01:02:08.224000",
+        "01:02:11.284000",
+        "Mr Gainsbourg, ready to see the eyes?"
+      ]
+    ],
+    "regex": "\\b((?!\\bGainsbourg:)Gainsbourg|(?!\\bHeroic\\ Life:)Heroic\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

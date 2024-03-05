@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0216427",
+    "title": "Yellow: The Cousins",
+    "year": 1969,
+    "genres": [
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 505,
+    "occurrences": [
+      [
+        0,
+        "00:00:19.490000",
+        "00:00:23.430000",
+        "The Mill of the Virgins (Yellow: The Cousins)"
+      ],
+      [
+        197,
+        "00:39:37.760000",
+        "00:39:41.340000",
+        "Go on, continue, it's just a kiss between cousins."
+      ]
+    ],
+    "regex": "\\b((?!\\bYellow:)Yellow|(?!\\bCousins:)Cousins)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

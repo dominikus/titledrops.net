@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt0149893",
+    "title": "Birth",
+    "year": 1984,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 1,
+    "all_lines": 464,
+    "occurrences": [
+      [
+        91,
+        "00:19:57.029000",
+        "00:19:59.926000",
+        "Name and Date of Birth: Nikujirou, 1963, August Permanent Address: Rido Galaxy, Aqualoid 1 -7 -7, Kaname Apartment lssue Date: 1984, July 21 Expires on Date of Birth 1 986 Restrictions: Eye Glasses Driver's License Number: 308051 494220 I'm a goner!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBirth:)Birth)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt6739894",
+    "title": "Coyote: The Mike Plant Story",
+    "year": 2017,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Documentary"
+    ],
+    "count": 6,
+    "all_lines": 1988,
+    "occurrences": [
+      [
+        1522,
+        "01:20:10.702000",
+        "01:20:16.846000",
+        "\"Coyote\" is indicative of one that travels alone"
+      ],
+      [
+        1525,
+        "01:20:21.747000",
+        "01:20:24.026000",
+        "Coyote."
+      ],
+      [
+        1548,
+        "01:21:27.227000",
+        "01:21:30.126000",
+        "Having Concordia build Coyote"
+      ],
+      [
+        1595,
+        "01:23:48.402000",
+        "01:23:52.510000",
+        "Coyote, no pun intended, completely different animal."
+      ],
+      [
+        1626,
+        "01:25:19.321000",
+        "01:25:21.254000",
+        "He only called the boat \"Coyote\""
+      ],
+      [
+        1689,
+        "01:28:29.580000",
+        "01:28:32.237000",
+        "when he left New York on Coyote."
+      ]
+    ],
+    "regex": "\\b((?!\\bCoyote:)Coyote|(?!\\bMike\\ Plant\\ Story:)Mike\\ Plant\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

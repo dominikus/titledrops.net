@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0053729",
+    "title": "Comanche Station",
+    "year": 1960,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 576,
+    "occurrences": [
+      [
+        29,
+        "00:13:50.317000",
+        "00:13:51.978000",
+        "Comanche Station."
+      ],
+      [
+        109,
+        "00:21:37.584000",
+        "00:21:42.749000",
+        "\"Team change Comanche Station, sunset."
+      ],
+      [
+        419,
+        "00:52:05.844000",
+        "00:52:09.439000",
+        "- How long have you known Cody? - Since Comanche Station."
+      ]
+    ],
+    "regex": "\\b((?!\\bComanche\\ Station:)Comanche\\ Station)(?!\\:)(?!'t)\\b",
+    "runtime": 73,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

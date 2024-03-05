@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0086242",
+    "title": "The Makioka Sisters",
+    "year": 1983,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1850,
+    "occurrences": [
+      [
+        291,
+        "00:24:28.180000",
+        "00:24:30.374000",
+        "the Makioka sisters hold the purse strings."
+      ],
+      [
+        728,
+        "00:53:49.543000",
+        "00:53:54.241000",
+        "I'll always care for and protect the Makioka sisters."
+      ]
+    ],
+    "regex": "\\b((?!\\bMakioka\\ Sisters:)Makioka\\ Sisters)(?!\\:)(?!'t)\\b",
+    "runtime": 140,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

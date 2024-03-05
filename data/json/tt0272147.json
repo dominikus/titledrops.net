@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0272147",
+    "title": "Vampires: Los Muertos",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 617,
+    "occurrences": [
+      [
+        177,
+        "00:25:26.854000",
+        "00:25:30.816000",
+        "Vampires believe it gives the power to walk in daylight."
+      ],
+      [
+        375,
+        "00:50:11.213000",
+        "00:50:14.091000",
+        "Today is Dia de los Muertos. Day of the Dead."
+      ],
+      [
+        409,
+        "00:54:06.782000",
+        "00:54:10.786000",
+        "Derek says crosses don't work on vampires anymore."
+      ]
+    ],
+    "regex": "\\b((?!\\bVampires:)Vampires|(?!\\bLos\\ Muertos:)Los\\ Muertos)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

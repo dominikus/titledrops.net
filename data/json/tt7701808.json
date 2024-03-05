@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7701808",
+    "title": "The Steam Engines of Oz",
+    "year": 2018,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1254,
+    "occurrences": [
+      [
+        783,
+        "00:41:19.738000",
+        "00:41:22.392000",
+        "He began to build the steam engines of Oz"
+      ],
+      [
+        1015,
+        "01:01:40.914000",
+        "01:01:43.525000",
+        "- It's the Great Steam Engines of Oz."
+      ]
+    ],
+    "regex": "\\b((?!\\bSteam\\ Engines\\ of\\ Oz:)Steam\\ Engines\\ of\\ Oz)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

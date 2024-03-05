@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1242533",
+    "title": "Boat",
+    "year": 2009,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 421,
+    "occurrences": [
+      [
+        112,
+        "00:18:51.066000",
+        "00:18:56.738000",
+        "A mermaid tried to climb in the boat."
+      ],
+      [
+        246,
+        "00:39:30.233000",
+        "00:39:32.602000",
+        "Why'd he wreck the boat?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBoat:)Boat)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

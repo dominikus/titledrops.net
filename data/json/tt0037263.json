@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0037263",
+    "title": "The Seventh Cross",
+    "year": 1944,
+    "genres": [
+      "Drama",
+      "Film-Noir",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1390,
+    "occurrences": [
+      [
+        5,
+        "00:01:59.823000",
+        "00:02:04.539000",
+        "\"The Seventh Cross will be remembered as the story of a few people who proved ..\""
+      ],
+      [
+        575,
+        "00:53:26.138000",
+        "00:53:29.071000",
+        "\"The seventh cross waited for George Heisler.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bSeventh\\ Cross:)Seventh\\ Cross)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

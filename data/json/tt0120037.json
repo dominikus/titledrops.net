@@ -1,0 +1,75 @@
+[
+  {
+    "imdb": "tt0120037",
+    "title": "Rossini",
+    "year": 1997,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 9,
+    "all_lines": 1519,
+    "occurrences": [
+      [
+        375,
+        "00:24:51.029000",
+        "00:24:54.624000",
+        "Make new contract . He'll sign it in the Rossini."
+      ],
+      [
+        383,
+        "00:25:13.829000",
+        "00:25:15.421000",
+        "Be at the Rossini in an hour"
+      ],
+      [
+        519,
+        "00:34:19.629000",
+        "00:34:22.939000",
+        "to the Rossini last week as usual"
+      ],
+      [
+        819,
+        "00:53:41.789000",
+        "00:53:43.302000",
+        "Rossini , good evening."
+      ],
+      [
+        901,
+        "00:58:57.149000",
+        "00:58:59.504000",
+        "Herr Rossini.. He invited me to dinner."
+      ],
+      [
+        1094,
+        "01:13:07.869000",
+        "01:13:09.427000",
+        "Herr Rossini."
+      ],
+      [
+        1290,
+        "01:27:22.429000",
+        "01:27:25.227000",
+        "I'm sorry , Herr Rossini."
+      ],
+      [
+        1378,
+        "01:33:40.189000",
+        "01:33:41.304000",
+        "In the Rossini?"
+      ],
+      [
+        1379,
+        "01:33:41.669000",
+        "01:33:43.341000",
+        "In the Rossini."
+      ]
+    ],
+    "regex": "\\b((?!\\bRossini:)Rossini)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [
+      "Paolo Rossini"
+    ],
+    "title_is_name": true,
+    "rating": 6.4
+  }
+]

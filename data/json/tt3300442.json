@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3300442",
+    "title": "Paternity Leave",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1286,
+    "occurrences": [
+      [
+        4,
+        "00:00:42.096000",
+        "00:00:45.996000",
+        "... Revolves around maternity leave. What about paternity leave?"
+      ],
+      [
+        8,
+        "00:00:55.368000",
+        "00:00:58.367000",
+        "Workers can take off for maternity and paternity leave."
+      ],
+      [
+        1068,
+        "01:10:01.743000",
+        "01:10:04.543000",
+        "Is paternity leave, it's that an option for you?"
+      ],
+      [
+        1250,
+        "01:24:57.370000",
+        "01:24:59.070000",
+        "Been paid paternity leave"
+      ]
+    ],
+    "regex": "\\b((?!\\bPaternity\\ Leave:)Paternity\\ Leave)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

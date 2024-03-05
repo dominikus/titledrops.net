@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1149405",
+    "title": "Trouble the Water",
+    "year": 2008,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1605,
+    "occurrences": [
+      [
+        1014,
+        "01:01:31.020000",
+        "01:01:36.185000",
+        "# God's gonna trouble the water #"
+      ],
+      [
+        1015,
+        "01:01:36.292000",
+        "01:01:41.320000",
+        "#Don't you know that God's gonna trouble the water #"
+      ],
+      [
+        1017,
+        "01:01:46.936000",
+        "01:01:51.896000",
+        "#Don't you know that God's gonna trouble the water #"
+      ],
+      [
+        1523,
+        "01:31:16.804000",
+        "01:31:21.366000",
+        "# Trouble the water # #Miss T The Ninth Ward in this mother #"
+      ]
+    ],
+    "regex": "\\b((?!\\bTrouble\\ the\\ Water:)Trouble\\ the\\ Water)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

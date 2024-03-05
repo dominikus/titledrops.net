@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0324572",
+    "title": "Winnie the Pooh: A Very Merry Pooh Year",
+    "year": 2002,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 999,
+    "occurrences": [
+      [
+        8,
+        "00:00:45.600000",
+        "00:00:49.047000",
+        "But most of all Winnie the Pooh"
+      ],
+      [
+        298,
+        "00:19:59.840000",
+        "00:20:02.241000",
+        "or my name isn't Winnie the Pooh."
+      ]
+    ],
+    "regex": "\\b((?!\\bWinnie\\ the\\ Pooh:)Winnie\\ the\\ Pooh|(?!\\bVery\\ Merry\\ Pooh\\ Year:)Very\\ Merry\\ Pooh\\ Year)(?!\\:)(?!'t)\\b",
+    "runtime": 65,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

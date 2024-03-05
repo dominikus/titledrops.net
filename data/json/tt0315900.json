@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0315900",
+    "title": "Suspicion",
+    "year": 1982,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1755,
+    "occurrences": [
+      [
+        3,
+        "00:00:33.500000",
+        "00:00:41",
+        "Suspicion"
+      ],
+      [
+        824,
+        "00:58:34.610000",
+        "00:58:37.490000",
+        "The suspicion exists she planned to smooth..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSuspicion:)Suspicion)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

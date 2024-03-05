@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0439668",
+    "title": "Lady Zee",
+    "year": 2005,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 988,
+    "occurrences": [
+      [
+        126,
+        "00:14:45.590000",
+        "00:14:47.467000",
+        "Zlatina. Stop playing Lady Zee."
+      ],
+      [
+        129,
+        "00:14:50.030000",
+        "00:14:52.942000",
+        "Lady Zee, not Lady D!"
+      ]
+    ],
+    "regex": "\\b((?!\\bLady\\ Zee:)Lady\\ Zee)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0085271",
+    "title": "Brainstorm",
+    "year": 1983,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1007,
+    "occurrences": [
+      [
+        766,
+        "01:14:13.599000",
+        "01:14:15.123000",
+        "Try \"Brainstorm.\""
+      ],
+      [
+        768,
+        "01:14:18.670000",
+        "01:14:19.762000",
+        "Brainstorm."
+      ],
+      [
+        808,
+        "01:19:44.596000",
+        "01:19:46.461000",
+        "...called Brainstorm Project."
+      ],
+      [
+        813,
+        "01:19:58.009000",
+        "01:20:00.375000",
+        "And now this can be a code name Brainstorm..."
+      ],
+      [
+        839,
+        "01:21:52.991000",
+        "01:21:55.653000",
+        "What's the Brainstorm Project, Alex?"
+      ],
+      [
+        840,
+        "01:21:56.595000",
+        "01:21:58.495000",
+        "Brainstorm? I don't know."
+      ]
+    ],
+    "regex": "\\b((?!\\bBrainstorm:)Brainstorm)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

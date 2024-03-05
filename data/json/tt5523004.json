@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt5523004",
+    "title": "We Love You",
+    "year": 2016,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1956,
+    "occurrences": [
+      [
+        904,
+        "00:34:12.983000",
+        "00:34:14.885000",
+        "I mean... I mean, we love you."
+      ],
+      [
+        906,
+        "00:34:17.054000",
+        "00:34:18.789000",
+        "we love you."
+      ],
+      [
+        1227,
+        "00:47:07.322000",
+        "00:47:09.025000",
+        "I mean, we say \"we love you\" to her."
+      ]
+    ],
+    "regex": "\\b((?!\\bWe\\ Love\\ You:)We\\ Love\\ You)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

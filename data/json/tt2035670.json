@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt2035670",
+    "title": "The Wedding Video",
+    "year": 2012,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1244,
+    "occurrences": [
+      [
+        49,
+        "00:03:20.083000",
+        "00:03:23.417000",
+        "I'm telling you, this is gonna be a 'warts and all' wedding video."
+      ],
+      [
+        556,
+        "00:38:41.458000",
+        "00:38:44.257000",
+        "Yes, you are officially part of our wedding video."
+      ],
+      [
+        646,
+        "00:44:32.375000",
+        "00:44:37.051000",
+        "This is Luke from Exclusive Videos who's going to be shooting the wedding video,"
+      ],
+      [
+        1209,
+        "01:28:00",
+        "01:28:04.460000",
+        "So, there we are, then. The end of my wedding video."
+      ]
+    ],
+    "regex": "\\b((?!\\bWedding\\ Video:)Wedding\\ Video)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

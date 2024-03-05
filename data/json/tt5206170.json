@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5206170",
+    "title": "The Apostle Peter: Redemption",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1143,
+    "occurrences": [
+      [
+        0,
+        "00:00:44.980000",
+        "00:00:48.367000",
+        "PETER - THE REDEMPTION"
+      ],
+      [
+        1088,
+        "01:22:40.587000",
+        "01:22:46.659000",
+        "It is a message of love, and forgiveness, and redemption."
+      ]
+    ],
+    "regex": "\\b((?!\\bApostle\\ Peter:)Apostle\\ Peter|(?!\\bRedemption:)Redemption)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0047036",
+    "title": "The Golden Idol",
+    "year": 1954,
+    "genres": [
+      "Adventure"
+    ],
+    "count": 3,
+    "all_lines": 841,
+    "occurrences": [
+      [
+        261,
+        "00:19:18.691000",
+        "00:19:20.691000",
+        "to get the Golden Idol."
+      ],
+      [
+        323,
+        "00:22:23.609000",
+        "00:22:26.844000",
+        "It's called the Golden Idol of Watusi."
+      ],
+      [
+        498,
+        "00:33:56.268000",
+        "00:33:59.503000",
+        "'You've heard of the Golden Idol of Watusi, maybe?'"
+      ]
+    ],
+    "regex": "\\b((?!\\bGolden\\ Idol:)Golden\\ Idol)(?!\\:)(?!'t)\\b",
+    "runtime": 71,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

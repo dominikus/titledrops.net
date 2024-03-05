@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt10804210",
+    "title": "Where's Rose",
+    "year": 2021,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 627,
+    "occurrences": [
+      [
+        417,
+        "00:46:41.409000",
+        "00:46:43.645000",
+        "Where's Rose?"
+      ],
+      [
+        419,
+        "00:46:55.090000",
+        "00:46:57.792000",
+        "Anybody? Where's Rose?"
+      ],
+      [
+        420,
+        "00:47:01.096000",
+        "00:47:03.032000",
+        "Where's Rose?"
+      ],
+      [
+        421,
+        "00:47:03.498000",
+        "00:47:05.867000",
+        "Where's Rose?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWhere's\\ Rose:)Where's\\ Rose)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

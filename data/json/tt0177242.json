@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0177242",
+    "title": "Sun Alley",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 794,
+    "occurrences": [
+      [
+        29,
+        "00:03:19.880000",
+        "00:03:24.431000",
+        "He's my friend and he also lives at the Sun Alley."
+      ],
+      [
+        224,
+        "00:18:02.880000",
+        "00:18:05.075000",
+        "Where's the Sun Alley one?."
+      ]
+    ],
+    "regex": "\\b((?!\\bSun\\ Alley:)Sun\\ Alley)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

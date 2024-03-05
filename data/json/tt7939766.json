@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt7939766",
+    "title": "I'm Thinking of Ending Things",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 2403,
+    "occurrences": [
+      [
+        3,
+        "00:00:51.166000",
+        "00:00:53.333000",
+        " I'm thinking of ending things."
+      ],
+      [
+        68,
+        "00:04:19",
+        "00:04:20.666000",
+        " I'm thinking of ending things."
+      ],
+      [
+        74,
+        "00:04:29.958000",
+        "00:04:31.916000",
+        " I'm thinking of ending things."
+      ],
+      [
+        399,
+        "00:19:34.041000",
+        "00:19:36.250000",
+        " I'm thinking of ending things."
+      ]
+    ],
+    "regex": "\\b((?!\\bI'm\\ Thinking\\ of\\ Ending\\ Things:)I'm\\ Thinking\\ of\\ Ending\\ Things)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

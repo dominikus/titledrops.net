@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0040169",
+    "title": "Black Hills",
+    "year": 1947,
+    "genres": [
+      "Drama",
+      "Music",
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 650,
+    "occurrences": [
+      [
+        115,
+        "00:09:52.809000",
+        "00:10:00.164000",
+        "Black hills of south Dakota"
+      ],
+      [
+        129,
+        "00:11:10.017000",
+        "00:11:13.411000",
+        "the black hills"
+      ],
+      [
+        133,
+        "00:11:30.820000",
+        "00:11:35.085000",
+        "the black hills"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Hills:)Black\\ Hills)(?!\\:)(?!'t)\\b",
+    "runtime": 60,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

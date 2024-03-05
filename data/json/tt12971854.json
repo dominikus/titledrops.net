@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt12971854",
+    "title": "Creepypasta",
+    "year": 2023,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 411,
+    "occurrences": [
+      [
+        0,
+        "00:00:29.363000",
+        "00:00:32.132000",
+        "Do you know what a Creepypasta is?"
+      ],
+      [
+        13,
+        "00:01:20.648000",
+        "00:01:24.484000",
+        "of popular online horror stories known as \"Creepypasta.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bCreepypasta:)Creepypasta)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

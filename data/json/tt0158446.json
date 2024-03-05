@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0158446",
+    "title": "2 Seconds",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 825,
+    "occurrences": [
+      [
+        5,
+        "00:09:32.280000",
+        "00:09:34.949000",
+        "You waited, you lost at least 2 seconds"
+      ],
+      [
+        800,
+        "01:33:13.343000",
+        "01:33:14.386000",
+        "2 seconds."
+      ]
+    ],
+    "regex": "\\b((?!\\b2\\ Seconds:)2\\ Seconds)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

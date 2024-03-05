@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3149900",
+    "title": "The Hunted",
+    "year": 2013,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 883,
+    "occurrences": [
+      [
+        119,
+        "00:07:49.336000",
+        "00:07:52.170000",
+        "Nobody's hunted it. We just got the lease on the property."
+      ],
+      [
+        134,
+        "00:08:25.606000",
+        "00:08:28.440000",
+        "Jake tells me you never hunted out of a tree stand before, is that right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHunted:)Hunted)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

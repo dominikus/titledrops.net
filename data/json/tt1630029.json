@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1630029",
+    "title": "Avatar: The Way of Water",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 2402,
+    "occurrences": [
+      [
+        13,
+        "00:02:26.873000",
+        "00:02:28.272000",
+        "Born of Grace's avatar."
+      ],
+      [
+        952,
+        "01:06:41.207000",
+        "01:06:44.644000",
+        "The way of water has no beginning and no end."
+      ],
+      [
+        2316,
+        "02:45:31.823000",
+        "02:45:33.101000",
+        "The way of water has no..."
+      ]
+    ],
+    "regex": "\\b((?!\\bAvatar:)Avatar|(?!\\bWay\\ of\\ Water:)Way\\ of\\ Water)(?!\\:)(?!'t)\\b",
+    "runtime": 192,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

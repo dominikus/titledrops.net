@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt0050155",
+    "title": "Baby Face Nelson",
+    "year": 1957,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 730,
+    "occurrences": [
+      [
+        464,
+        "00:49:42.691000",
+        "00:49:44.591000",
+        "Baby Face Nelson."
+      ],
+      [
+        603,
+        "01:04:00.238000",
+        "01:04:03.966000",
+        "Do you recall doing any business with Baby Face Nelson?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBaby\\ Face\\ Nelson:)Baby\\ Face\\ Nelson)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [
+      "Lester M. `Baby Face Nelson` Gillis"
+    ],
+    "title_is_name": true,
+    "rating": 6.3
+  }
+]

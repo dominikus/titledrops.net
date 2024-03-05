@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt14209916",
+    "title": "Cocaine Bear",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1928,
+    "occurrences": [
+      [
+        910,
+        "00:40:54.994000",
+        "00:40:57.954000",
+        "but didn't know the bear was the cocaine bear."
+      ],
+      [
+        1609,
+        "01:15:32.737000",
+        "01:15:34.822000",
+        "Cocaine bear's back."
+      ]
+    ],
+    "regex": "\\b((?!\\bCocaine\\ Bear:)Cocaine\\ Bear)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

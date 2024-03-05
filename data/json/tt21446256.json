@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt21446256",
+    "title": "Boyz 3",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2231,
+    "occurrences": [
+      [
+        2212,
+        "02:09:29.166000",
+        "02:09:30.916000",
+        "But for that, we need Boyz 4."
+      ],
+      [
+        2231,
+        "02:10:34.583000",
+        "02:10:36.625000",
+        "I will get revenge for this in Boyz 4."
+      ]
+    ],
+    "regex": "\\b((?!\\bBoyz:)Boyz)(?!\\:)(?!'t)\\b",
+    "runtime": 136,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

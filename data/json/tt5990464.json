@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5990464",
+    "title": "Rag Doll",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1345,
+    "occurrences": [
+      [
+        74,
+        "00:07:25.979000",
+        "00:07:27.846000",
+        "Alright, where's my rag doll?"
+      ],
+      [
+        829,
+        "01:01:15.773000",
+        "01:01:19.274000",
+        "-Thank you. -Aight. My little rag doll won't be so raggy!"
+      ]
+    ],
+    "regex": "\\b((?!\\bRag\\ Doll:)Rag\\ Doll)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

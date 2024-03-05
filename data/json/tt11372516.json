@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt11372516",
+    "title": "To the Moon",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 981,
+    "occurrences": [
+      [
+        24,
+        "00:07:13.050000",
+        "00:07:14.084000",
+        "To the moon."
+      ],
+      [
+        601,
+        "00:48:15.445000",
+        "00:48:16.445000",
+        "To the moon."
+      ],
+      [
+        962,
+        "01:17:18.823000",
+        "01:17:20.657000",
+        " To the moon."
+      ],
+      [
+        980,
+        "01:20:02.452000",
+        "01:20:03.452000",
+        "To the moon."
+      ]
+    ],
+    "regex": "\\b((?!\\bTo\\ the\\ Moon:)To\\ the\\ Moon)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

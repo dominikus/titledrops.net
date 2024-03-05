@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0079660",
+    "title": "Old Boyfriends",
+    "year": 1979,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1346,
+    "occurrences": [
+      [
+        6,
+        "00:03:03.225000",
+        "00:03:04.806000",
+        "I first started thinking about my old boyfriends"
+      ],
+      [
+        13,
+        "00:03:18.657000",
+        "00:03:21.069000",
+        "I read about old boyfriends."
+      ]
+    ],
+    "regex": "\\b((?!\\bOld\\ Boyfriends:)Old\\ Boyfriends)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0855822",
+    "title": "Huddersfield",
+    "year": 2007,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1050,
+    "occurrences": [
+      [
+        307,
+        "00:29:41.840000",
+        "00:29:44.752000",
+        "You're in Leeds? - No. In Huddersfield."
+      ],
+      [
+        455,
+        "00:43:11",
+        "00:43:14.788000",
+        "In Leeds? - I work in Leeds, I live in Huddersfield"
+      ],
+      [
+        482,
+        "00:44:49.640000",
+        "00:44:51.471000",
+        "What's Huddersfield like?"
+      ],
+      [
+        911,
+        "01:19:04.160000",
+        "01:19:08.153000",
+        "You know what really fascinated me in Huddersfield? A lion."
+      ]
+    ],
+    "regex": "\\b((?!\\bHuddersfield:)Huddersfield)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.3
+  }
+]

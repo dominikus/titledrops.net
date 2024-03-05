@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0083254",
+    "title": "Under the Rainbow",
+    "year": 1981,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1448,
+    "occurrences": [
+      [
+        336,
+        "00:19:14.305000",
+        "00:19:17.942000",
+        "- Under the Rainbow. - Ah, thank you."
+      ],
+      [
+        1378,
+        "01:32:47.581000",
+        "01:32:50.317000",
+        "There's always room under the rainbow."
+      ]
+    ],
+    "regex": "\\b((?!\\bUnder\\ the\\ Rainbow:)Under\\ the\\ Rainbow)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

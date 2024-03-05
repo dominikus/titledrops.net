@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0118880",
+    "title": "Con Air",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1235,
+    "occurrences": [
+      [
+        347,
+        "00:24:16.160000",
+        "00:24:18.276000",
+        "Welcome to Con Air."
+      ],
+      [
+        857,
+        "01:04:47.560000",
+        "01:04:50.154000",
+        "Thank you for choosing Con Air."
+      ]
+    ],
+    "regex": "\\b((?!\\bCon\\ Air:)Con\\ Air)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

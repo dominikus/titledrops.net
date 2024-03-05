@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0425601",
+    "title": "Trailer Park Boys: The Movie",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 1871,
+    "occurrences": [
+      [
+        302,
+        "00:14:00.940000",
+        "00:14:04.103000",
+        "Movie night is done because of CadiII-ass!"
+      ],
+      [
+        625,
+        "00:28:23.134000",
+        "00:28:24.931000",
+        "How about we go see a movie sometime?"
+      ],
+      [
+        902,
+        "00:41:31.956000",
+        "00:41:35.255000",
+        "-And I think I've found it. I was at the movie theatre,"
+      ]
+    ],
+    "regex": "\\b((?!\\bTrailer\\ Park\\ Boys:)Trailer\\ Park\\ Boys|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

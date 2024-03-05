@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0041482",
+    "title": "Homicide",
+    "year": 1949,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1230,
+    "occurrences": [
+      [
+        15,
+        "00:01:52.710000",
+        "00:01:54.580000",
+        "What's a homicide? Murder."
+      ],
+      [
+        135,
+        "00:12:32.100000",
+        "00:12:34.500000",
+        "Homicide. Lieutenant Meisner."
+      ],
+      [
+        342,
+        "00:23:54.890000",
+        "00:23:58.110000",
+        "This is Lieutenant Landers, Los Angeles Homicide Division."
+      ],
+      [
+        941,
+        "00:56:54.020000",
+        "00:56:57.760000",
+        "Police Department, Homicide Division."
+      ]
+    ],
+    "regex": "\\b((?!\\bHomicide:)Homicide)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

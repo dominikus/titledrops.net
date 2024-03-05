@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt12446902",
+    "title": "Audition",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1057,
+    "occurrences": [
+      [
+        46,
+        "00:08:57.245000",
+        "00:08:59.538000",
+        "You did a good audition. You got yourself two big parts."
+      ],
+      [
+        73,
+        "00:10:58.741000",
+        "00:11:03.204000",
+        "So what did I do? I had her sent out to Milan for an audition."
+      ],
+      [
+        115,
+        "00:12:33.586000",
+        "00:12:36.922000",
+        "They'll read a script a hundred times before they go into an audition."
+      ],
+      [
+        159,
+        "00:17:37.806000",
+        "00:17:39.808000",
+        "Charlie's audition was average."
+      ]
+    ],
+    "regex": "\\b((?!\\bAudition:)Audition)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt1438254",
+    "title": "Charlie St. Cloud",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1093,
+    "occurrences": [
+      [
+        385,
+        "00:28:49.628000",
+        "00:28:51.220000",
+        "Charlie St. Cloud."
+      ],
+      [
+        487,
+        "00:36:19.577000",
+        "00:36:21.408000",
+        "Didn't you used to be Charlie St. Cloud?"
+      ],
+      [
+        1048,
+        "01:27:49.464000",
+        "01:27:52.558000",
+        "It's that you saved my life, Charlie St. Cloud."
+      ]
+    ],
+    "regex": "\\b((?!\\bCharlie\\ St\\.\\ Cloud:)Charlie\\ St\\.\\ Cloud)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [
+      "Charlie St. Cloud"
+    ],
+    "title_is_name": true,
+    "rating": 6.4
+  }
+]

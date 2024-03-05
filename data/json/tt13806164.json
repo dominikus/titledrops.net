@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt13806164",
+    "title": "Dry",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1673,
+    "occurrences": [
+      [
+        160,
+        "00:12:53.641000",
+        "00:12:56.961000",
+        "The company dry washes them, it's trichloroethylene."
+      ],
+      [
+        809,
+        "00:54:23.961000",
+        "00:54:26.761000",
+        "We harvest millet shoots before they dry out."
+      ]
+    ],
+    "regex": "\\b((?!\\bDry:)Dry)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

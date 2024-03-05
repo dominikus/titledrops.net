@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt11382384",
+    "title": "The Dissident",
+    "year": 2020,
+    "genres": [
+      "Crime",
+      "Documentary",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1051,
+    "occurrences": [
+      [
+        211,
+        "00:24:46.223000",
+        "00:24:49.052000",
+        "I mean, I'm a pretty well-known dissident."
+      ],
+      [
+        998,
+        "01:45:24.883000",
+        "01:45:28.365000",
+        "You can cut a dissident into pieces with a bone saw"
+      ]
+    ],
+    "regex": "\\b((?!\\bDissident:)Dissident)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0109440",
+    "title": "Fear City: A Family-Style Comedy",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1227,
+    "occurrences": [
+      [
+        0,
+        "00:00:28.990000",
+        "00:00:30.264000",
+        "FEAR CITY"
+      ],
+      [
+        1,
+        "00:00:30.430000",
+        "00:00:33.308000",
+        "FEAR CITY a famiIy comedy"
+      ]
+    ],
+    "regex": "\\b((?!\\bFear\\ City:)Fear\\ City|(?!\\bFamily\\-Style\\ Comedy:)Family\\-Style\\ Comedy)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

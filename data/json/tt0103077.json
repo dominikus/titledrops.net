@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0103077",
+    "title": "There's Nothing Out There",
+    "year": 1991,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1303,
+    "occurrences": [
+      [
+        31,
+        "00:05:17.817000",
+        "00:05:18.985000",
+        "There's nothing out there."
+      ],
+      [
+        357,
+        "00:24:07.746000",
+        "00:24:08.847000",
+        "There's nothing out there."
+      ]
+    ],
+    "regex": "\\b((?!\\bThere's\\ Nothing\\ Out\\ There:)There's\\ Nothing\\ Out\\ There)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

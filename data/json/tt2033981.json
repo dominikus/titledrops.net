@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt2033981",
+    "title": "Downloaded",
+    "year": 2013,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 2545,
+    "occurrences": [
+      [
+        285,
+        "00:11:27.353000",
+        "00:11:30.088000",
+        "I remember the first MP3 I ever downloaded."
+      ],
+      [
+        790,
+        "00:29:47.753000",
+        "00:29:49.586000",
+        "I never used it, never downloaded."
+      ],
+      [
+        1388,
+        "00:53:15.092000",
+        "00:53:16.659000",
+        "They simply downloaded anyone"
+      ],
+      [
+        2340,
+        "01:31:55.143000",
+        "01:31:57.611000",
+        "last month for all legally downloaded music."
+      ]
+    ],
+    "regex": "\\b((?!\\bDownloaded:)Downloaded)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

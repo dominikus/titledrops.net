@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt8366766",
+    "title": "A or B",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1041,
+    "occurrences": [
+      [
+        242,
+        "00:25:10.333000",
+        "00:25:12.166000",
+        "And I certainly don't want to choose A or B."
+      ],
+      [
+        442,
+        "00:51:43.166000",
+        "00:51:45.416000",
+        "As usual, A or B?"
+      ]
+    ],
+    "regex": "\\b((?!\\bor\\ B:)or\\ B)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

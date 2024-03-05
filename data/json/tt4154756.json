@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt4154756",
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1229,
+    "occurrences": [
+      [
+        157,
+        "00:16:06.075000",
+        "00:16:11.466000",
+        "God, we haven't caught up in a spell, have we? The Avengers broke up. We're toast."
+      ],
+      [
+        330,
+        "00:33:41.885000",
+        "00:33:44.870000",
+        "The Time and Mind Stones are safe on Earth. They're with the Avengers."
+      ],
+      [
+        331,
+        "00:33:44.894000",
+        "00:33:47.216000",
+        "- The Avengers? - They're Earth's Mightiest Heroes."
+      ],
+      [
+        850,
+        "01:20:42.709000",
+        "01:20:46.795000",
+        "- He took my girl. Wait, who are you? - We're the Avengers, man."
+      ]
+    ],
+    "regex": "\\b((?!\\bAvengers:)Avengers|(?!\\bInfinity\\ War:)Infinity\\ War)(?!\\:)(?!'t)\\b",
+    "runtime": 149,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.4
+  }
+]

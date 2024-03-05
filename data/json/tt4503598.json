@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt4503598",
+    "title": "Emelie",
+    "year": 2015,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1014,
+    "occurrences": [
+      [
+        729,
+        "00:47:23.842000",
+        "00:47:26.475000",
+        "- It's emelie."
+      ],
+      [
+        730,
+        "00:47:30.181000",
+        "00:47:32.548000",
+        "- Who's emelie?"
+      ]
+    ],
+    "regex": "\\b((?!\\bEmelie:)Emelie)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [
+      "Emelie"
+    ],
+    "title_is_name": true,
+    "rating": 5.4
+  }
+]

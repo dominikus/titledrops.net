@@ -1,0 +1,53 @@
+[
+  {
+    "imdb": "tt1241195",
+    "title": "Aamir",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 325,
+    "occurrences": [
+      [
+        2,
+        "00:04:00.506000",
+        "00:04:03.600000",
+        "Tell one more time. Aamir Ali, sir."
+      ],
+      [
+        40,
+        "00:10:54.353000",
+        "00:11:01.816000",
+        "Aamir Ali, father's name Rashid Ali and mother's name Tarannum Ali. Father died three years back."
+      ],
+      [
+        210,
+        "00:45:45.442000",
+        "00:45:51.642000",
+        "She is dying to meet you. She keeps asking repeatedly, when will my Aamir come, when?"
+      ],
+      [
+        279,
+        "01:19:18.386000",
+        "01:19:24.882000",
+        "Yourname is Aamir, isn't it? You know what Aamirmeans? Leader."
+      ],
+      [
+        315,
+        "01:25:31.025000",
+        "01:25:33.323000",
+        "Now you have become \"Aamir\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bAamir:)Aamir)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [
+      "Dr. Aamir Ali"
+    ],
+    "title_is_name": true,
+    "rating": 7.6
+  }
+]

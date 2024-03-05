@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1532266",
+    "title": "The Three-Way Wedding",
+    "year": 2010,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1227,
+    "occurrences": [
+      [
+        0,
+        "00:00:09.280000",
+        "00:00:12.795000",
+        "THE THREEWAY WEDDING"
+      ],
+      [
+        703,
+        "00:52:42.600000",
+        "00:52:44.352000",
+        "What about a threeway wedding?"
+      ]
+    ],
+    "regex": "\\b((?!\\bThreeWay\\ Wedding:)ThreeWay\\ Wedding)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

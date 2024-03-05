@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0185431",
+    "title": "Little Nicky",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1255,
+    "occurrences": [
+      [
+        489,
+        "00:31:32.201000",
+        "00:31:33.320000",
+        "Little Nicky."
+      ],
+      [
+        1126,
+        "01:11:28.990000",
+        "01:11:30.648000",
+        "Little Nicky."
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Nicky:)Little\\ Nicky)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

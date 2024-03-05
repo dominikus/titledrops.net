@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0424448",
+    "title": "Some",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 508,
+    "occurrences": [
+      [
+        4,
+        "00:01:15.875000",
+        "00:01:20.175000",
+        "some"
+      ],
+      [
+        273,
+        "00:31:21.312000",
+        "00:31:23.371000",
+        "Are you some kind of hooligan?"
+      ],
+      [
+        282,
+        "00:31:51.075000",
+        "00:31:54.212000",
+        "Very well, please make a report that's worthy of some love."
+      ],
+      [
+        341,
+        "00:37:40.992000",
+        "00:37:42.789000",
+        "Get some sleep while we drive."
+      ]
+    ],
+    "regex": "\\b((?!\\bSome:)Some)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

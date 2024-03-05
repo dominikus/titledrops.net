@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt8593930",
+    "title": "Elves",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 873,
+    "occurrences": [
+      [
+        338,
+        "00:24:56.328000",
+        "00:24:58.664000",
+        "There was elves and cookies."
+      ],
+      [
+        627,
+        "00:48:16.396000",
+        "00:48:18.565000",
+        "You have one of the elves."
+      ],
+      [
+        675,
+        "00:52:33.318000",
+        "00:52:34.153000",
+        "These elves?"
+      ]
+    ],
+    "regex": "\\b((?!\\bElves:)Elves)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 1.9
+  }
+]

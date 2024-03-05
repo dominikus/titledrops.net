@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0115836",
+    "title": "Carpool",
+    "year": 1996,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 1480,
+    "occurrences": [
+      [
+        39,
+        "00:04:02.410000",
+        "00:04:03.478000",
+        "The carpool?"
+      ],
+      [
+        57,
+        "00:04:53.928000",
+        "00:04:55.997000",
+        "He joined the carpool last week."
+      ],
+      [
+        64,
+        "00:05:10.945000",
+        "00:05:15.216000",
+        "-It's the carpool, not an armed robbery. -Okay. I'll do it."
+      ],
+      [
+        211,
+        "00:14:23.197000",
+        "00:14:25.099000",
+        "They want the carpool to be fun."
+      ],
+      [
+        441,
+        "00:27:09.829000",
+        "00:27:12.732000",
+        "It was my day to drive for the carpool."
+      ],
+      [
+        516,
+        "00:31:54.580000",
+        "00:31:58.017000",
+        "I don't have to tell you that. Look at you, driving the neighborhood carpool."
+      ]
+    ],
+    "regex": "\\b((?!\\bCarpool:)Carpool)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0059311",
+    "title": "Incubus",
+    "year": 1966,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 495,
+    "occurrences": [
+      [
+        57,
+        "00:10:18.993000",
+        "00:10:24.332000",
+        "Why can't the Incubus rise up out of the fires and slaughter them like sheep?"
+      ],
+      [
+        326,
+        "00:42:07.819000",
+        "00:42:10.780000",
+        "Unleash the Incubus!"
+      ],
+      [
+        327,
+        "00:42:11.656000",
+        "00:42:12.824000",
+        "Incubus!"
+      ],
+      [
+        368,
+        "00:47:28.682000",
+        "00:47:30.016000",
+        "Incubus!"
+      ]
+    ],
+    "regex": "\\b((?!\\bIncubus:)Incubus)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

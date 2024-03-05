@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt0101516",
+    "title": "Bugsy",
+    "year": 1991,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 584,
+    "occurrences": [
+      [
+        145,
+        "00:16:18.280000",
+        "00:16:24.549000",
+        "- That's beautiful. - Are you related to Bugsy Siegel?"
+      ],
+      [
+        146,
+        "00:16:24.760000",
+        "00:16:27.832000",
+        "- ''Bugsy''? What do you mean? - l beg your pardon."
+      ],
+      [
+        202,
+        "00:21:23.280000",
+        "00:21:29.355000",
+        "Bugsy, if we break off this thing with Transcontinental ..."
+      ]
+    ],
+    "regex": "\\b((?!\\bBugsy:)Bugsy)(?!\\:)(?!'t)\\b",
+    "runtime": 136,
+    "characters": [
+      "Bugsy Siegel"
+    ],
+    "title_is_name": true,
+    "rating": 6.8
+  }
+]

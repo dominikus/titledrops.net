@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt13820428",
+    "title": "Witnesses",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1682,
+    "occurrences": [
+      [
+        671,
+        "00:46:13.646000",
+        "00:46:17.400000",
+        "Please refrain from asking your witnesses to speculate"
+      ],
+      [
+        753,
+        "00:50:06.296000",
+        "00:50:07.714000",
+        "I have other witnesses, Your Honor."
+      ],
+      [
+        772,
+        "00:51:07.857000",
+        "00:51:09.567000",
+        "in the presence of witnesses,"
+      ],
+      [
+        1611,
+        "01:39:23.041000",
+        "01:39:24.542000",
+        "In the testimony of three witnesses"
+      ]
+    ],
+    "regex": "\\b((?!\\bWitnesses:)Witnesses)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

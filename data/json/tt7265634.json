@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7265634",
+    "title": "English Dogs",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1465,
+    "occurrences": [
+      [
+        1154,
+        "01:00:45.729000",
+        "01:00:48.079000",
+        "many of the English Dogs had left the kennels,"
+      ],
+      [
+        1274,
+        "01:05:59.607000",
+        "01:06:01.740000",
+        "English Dogs gang member."
+      ]
+    ],
+    "regex": "\\b((?!\\bEnglish\\ Dogs:)English\\ Dogs)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

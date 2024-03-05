@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt14496854",
+    "title": "Mean Spirited",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 2208,
+    "occurrences": [
+      [
+        30,
+        "00:02:22.175000",
+        "00:02:24.977000",
+        "- Tom just got Mean Spirited!"
+      ],
+      [
+        92,
+        "00:04:34.274000",
+        "00:04:36.175000",
+        "Until then, we are Mean Spirited."
+      ],
+      [
+        2190,
+        "01:34:41.882000",
+        "01:34:44.884000",
+        "Mean Spirited, would you change anything?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMean\\ Spirited:)Mean\\ Spirited)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0105915",
+    "title": "Angel of Fire",
+    "year": 1992,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 434,
+    "occurrences": [
+      [
+        15,
+        "00:04:23.640000",
+        "00:04:25.680000",
+        ". . . the Angel of Fire."
+      ],
+      [
+        396,
+        "01:08:10.720000",
+        "01:08:12.760000",
+        ". . .the Angel of Fire."
+      ]
+    ],
+    "regex": "\\b((?!\\bAngel\\ of\\ Fire:)Angel\\ of\\ Fire)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

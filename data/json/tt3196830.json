@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt3196830",
+    "title": "Just Let Go",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1509,
+    "occurrences": [
+      [
+        391,
+        "00:25:34.620000",
+        "00:25:36.099000",
+        "- She'll be fine! Just let go! - Honey..."
+      ],
+      [
+        1064,
+        "01:10:34.360000",
+        "01:10:36.232000",
+        "Just let go."
+      ],
+      [
+        1497,
+        "01:45:39.985000",
+        "01:45:45.774000",
+        "I found a way to just let go"
+      ],
+      [
+        1498,
+        "01:45:45.817000",
+        "01:45:51.040000",
+        "I found a way to just let go"
+      ]
+    ],
+    "regex": "\\b((?!\\bJust\\ Let\\ Go:)Just\\ Let\\ Go)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

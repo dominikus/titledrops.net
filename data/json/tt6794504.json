@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6794504",
+    "title": "Last Three Days",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1133,
+    "occurrences": [
+      [
+        907,
+        "01:04:43.493000",
+        "01:04:45.961000",
+        "The last three days"
+      ],
+      [
+        908,
+        "01:04:45.994000",
+        "01:04:47.530000",
+        "- drug... - Not just the last three days."
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Three\\ Days:)Last\\ Three\\ Days)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

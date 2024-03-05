@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt21399082",
+    "title": "The Lake",
+    "year": 2022,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 816,
+    "occurrences": [
+      [
+        0,
+        "00:00:19.625000",
+        "00:00:25.333000",
+        "Today, Han the mailman told Man that he saw a giant fish in the lake."
+      ],
+      [
+        321,
+        "00:30:05.250000",
+        "00:30:07.458000",
+        "we found big footprints by the lake."
+      ],
+      [
+        328,
+        "00:30:29.583000",
+        "00:30:30.791000",
+        "At the Baan Nakom Lake,"
+      ]
+    ],
+    "regex": "\\b((?!\\bLake:)Lake)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

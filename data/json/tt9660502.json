@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt9660502",
+    "title": "Close",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 724,
+    "occurrences": [
+      [
+        119,
+        "00:12:48.532000",
+        "00:12:52.115000",
+        "I was just curious, because you look very close as friends."
+      ],
+      [
+        128,
+        "00:13:14.615000",
+        "00:13:18.823000",
+        "When you sit next to each other, you're that close."
+      ]
+    ],
+    "regex": "\\b((?!\\bClose:)Close)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

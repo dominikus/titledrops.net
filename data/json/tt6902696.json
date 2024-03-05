@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6902696",
+    "title": "Gloria Bell",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1324,
+    "occurrences": [
+      [
+        6,
+        "00:02:22.241000",
+        "00:02:23.676000",
+        "- Gloria... - Gloria Bell."
+      ],
+      [
+        342,
+        "00:20:49.346000",
+        "00:20:52.914000",
+        "Gloria Bell. Your tenant in apartment 2."
+      ]
+    ],
+    "regex": "\\b((?!\\bGloria\\ Bell:)Gloria\\ Bell)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

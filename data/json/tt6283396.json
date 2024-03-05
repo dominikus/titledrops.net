@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6283396",
+    "title": "Wekufe",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1131,
+    "occurrences": [
+      [
+        358,
+        "00:19:16.360000",
+        "00:19:17.458000",
+        "The Wekufe is evil."
+      ],
+      [
+        359,
+        "00:19:17.970000",
+        "00:19:20.333000",
+        "In the Mapuche culture, evil is expressed in the Wekufe."
+      ],
+      [
+        364,
+        "00:19:35.630000",
+        "00:19:37.670000",
+        "Wait a second, the Wekufe is back."
+      ],
+      [
+        690,
+        "00:39:06.550000",
+        "00:39:11.210000",
+        "She has the Wekufe inside. Her soul is sick. It's serious."
+      ]
+    ],
+    "regex": "\\b((?!\\bWekufe:)Wekufe)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

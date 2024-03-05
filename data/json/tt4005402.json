@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt4005402",
+    "title": "Colonia",
+    "year": 2015,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 5,
+    "all_lines": 1102,
+    "occurrences": [
+      [
+        171,
+        "00:21:04.264000",
+        "00:21:06.430000",
+        "Colonia dignidad."
+      ],
+      [
+        193,
+        "00:22:59.612000",
+        "00:23:02.413000",
+        "The colonia dignidad is a long established and"
+      ],
+      [
+        671,
+        "01:05:15.979000",
+        "01:05:21.583000",
+        "And you do us the honor of visiting colonia dignidad."
+      ],
+      [
+        788,
+        "01:18:24.167000",
+        "01:18:26.300000",
+        "The tunnels connect the entire colonia."
+      ],
+      [
+        1002,
+        "01:36:34.855000",
+        "01:36:37.857000",
+        "The colonia dignidad is very powerful here in Chile."
+      ]
+    ],
+    "regex": "\\b((?!\\bColonia:)Colonia)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6080158",
+    "title": "Not Alone",
+    "year": 2016,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1669,
+    "occurrences": [
+      [
+        1429,
+        "00:43:58.344000",
+        "00:44:01.264000",
+        "you're not alone"
+      ],
+      [
+        1515,
+        "00:46:15.022000",
+        "00:46:18.192000",
+        "you are not alone."
+      ]
+    ],
+    "regex": "\\b((?!\\bNot\\ Alone:)Not\\ Alone)(?!\\:)(?!'t)\\b",
+    "runtime": 51,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

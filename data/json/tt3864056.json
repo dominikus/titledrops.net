@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3864056",
+    "title": "The Goldfinch",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 2029,
+    "occurrences": [
+      [
+        286,
+        "00:20:44.742000",
+        "00:20:46.476000",
+        "The Goldfinch is one of them."
+      ],
+      [
+        1423,
+        "01:39:06.806000",
+        "01:39:09.576000",
+        "Fabritius' The Goldfinch."
+      ],
+      [
+        1929,
+        "02:13:46.184000",
+        "02:13:50.922000",
+        "and on the panel is painted a goldfinch."
+      ],
+      [
+        1972,
+        "02:17:15.660000",
+        "02:17:17.461000",
+        "Photograph of Goldfinch,"
+      ]
+    ],
+    "regex": "\\b((?!\\bGoldfinch:)Goldfinch)(?!\\:)(?!'t)\\b",
+    "runtime": 149,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

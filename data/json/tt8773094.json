@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt8773094",
+    "title": "Alter Ego",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 973,
+    "occurrences": [
+      [
+        188,
+        "00:16:54.455000",
+        "00:16:58.223000",
+        "I've just finished the trilogy with \"Alter Ego.\""
+      ],
+      [
+        582,
+        "00:40:48.321000",
+        "00:40:51.515000",
+        "Say goodbye to your, alter ego."
+      ],
+      [
+        753,
+        "00:52:02.127000",
+        "00:52:07.490000",
+        "Your alter ego in that book, is much smarter than you."
+      ],
+      [
+        916,
+        "01:03:33.317000",
+        "01:03:37.213000",
+        "The name of the novel is \"Alter Ego.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bAlter\\ Ego:)Alter\\ Ego)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

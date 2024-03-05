@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0220506",
+    "title": "Halloween: Resurrection",
+    "year": 2002,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1059,
+    "occurrences": [
+      [
+        20,
+        "00:03:32.589000",
+        "00:03:34.549000",
+        "Halloween. Three years ago."
+      ],
+      [
+        225,
+        "00:22:06.586000",
+        "00:22:08.254000",
+        "Tomorrow night, Halloween,"
+      ],
+      [
+        728,
+        "00:57:04.198000",
+        "00:57:09.579000",
+        "\"Laurie Strode, sister of Michael Myers, survives Halloween night massacre.\""
+      ],
+      [
+        999,
+        "01:21:06.276000",
+        "01:21:09.488000",
+        "Hey, Mikey! Happy fuckin' Halloween!"
+      ]
+    ],
+    "regex": "\\b((?!\\bHalloween:)Halloween|(?!\\bResurrection:)Resurrection)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

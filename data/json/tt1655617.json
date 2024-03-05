@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1655617",
+    "title": "Bestseller",
+    "year": 2010,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 688,
+    "occurrences": [
+      [
+        16,
+        "00:01:15.809000",
+        "00:01:19.512000",
+        "This new book has been a bestseller for three weeks in a row."
+      ],
+      [
+        475,
+        "00:44:07.244000",
+        "00:44:10.111000",
+        "Her book has been a bestseller for the fourth week."
+      ],
+      [
+        499,
+        "00:46:14.538000",
+        "00:46:17.508000",
+        "The book wasn't a bestseller."
+      ]
+    ],
+    "regex": "\\b((?!\\bBestseller:)Bestseller)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

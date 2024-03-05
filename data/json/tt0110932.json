@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0110932",
+    "title": "Quiz Show",
+    "year": 1994,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 5,
+    "all_lines": 1122,
+    "occurrences": [
+      [
+        389,
+        "00:20:35.840000",
+        "00:20:39.355000",
+        "Uh, why would a guy like that wanna be on a quiz show?"
+      ],
+      [
+        435,
+        "00:22:47.880000",
+        "00:22:49.757000",
+        "- Well-- - Maybe I should get on a quiz show."
+      ],
+      [
+        828,
+        "00:45:15.160000",
+        "00:45:17.310000",
+        "How do you think Honest Abe would do on a quiz show?"
+      ],
+      [
+        862,
+        "00:47:22.360000",
+        "00:47:24.794000",
+        "about the quiz show you're on?"
+      ],
+      [
+        1084,
+        "00:59:22.440000",
+        "00:59:27.150000",
+        "- I'm sure they're all very nice girls. - In that case, perhaps I should appear on a quiz show."
+      ]
+    ],
+    "regex": "\\b((?!\\bQuiz\\ Show:)Quiz\\ Show)(?!\\:)(?!'t)\\b",
+    "runtime": 133,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

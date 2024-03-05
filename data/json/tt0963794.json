@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0963794",
+    "title": "The Ruins",
+    "year": 2008,
+    "genres": [
+      "Adventure",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1437,
+    "occurrences": [
+      [
+        77,
+        "00:05:06.431000",
+        "00:05:08.683000",
+        "Yeah, it's ruins, I think. A Mayan temple."
+      ],
+      [
+        238,
+        "00:12:30.333000",
+        "00:12:33.586000",
+        "People come from all over the world just to see these ruins."
+      ],
+      [
+        510,
+        "00:25:53.969000",
+        "00:25:55.429000",
+        "It has something to do with the ruins."
+      ]
+    ],
+    "regex": "\\b((?!\\bRuins:)Ruins)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

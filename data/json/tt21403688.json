@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt21403688",
+    "title": "Operation Mayfair",
+    "year": 2023,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1579,
+    "occurrences": [
+      [
+        411,
+        "00:32:36.640000",
+        "00:32:40.100000",
+        "Alexa ma'am, will you be solving Operation Mayfair?"
+      ],
+      [
+        473,
+        "00:36:29.730000",
+        "00:36:32.690000",
+        "You need to close the Operation Mayfair case."
+      ],
+      [
+        530,
+        "00:40:00.480000",
+        "00:40:03.310000",
+        "There has been a major breakthrough in the Operation Mayfair case."
+      ],
+      [
+        537,
+        "00:40:21.730000",
+        "00:40:25.980000",
+        "Operation Mayfair case is still not solved yet."
+      ],
+      [
+        1123,
+        "01:20:10.270000",
+        "01:20:12.520000",
+        "I think Operation Mayfair Killer did this."
+      ]
+    ],
+    "regex": "\\b((?!\\bOperation\\ Mayfair:)Operation\\ Mayfair)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.4
+  }
+]

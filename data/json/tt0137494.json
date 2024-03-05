@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0137494",
+    "title": "Entrapment",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Crime",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 917,
+    "occurrences": [
+      [
+        166,
+        "00:20:47.425000",
+        "00:20:50.258000",
+        "- This is entrapment! - What?"
+      ],
+      [
+        167,
+        "00:20:50.342000",
+        "00:20:54.883000",
+        "- This is called entrapment! - Actually, it's called blackmail."
+      ],
+      [
+        168,
+        "00:20:55.550000",
+        "00:20:57.092000",
+        "Entrapment..."
+      ]
+    ],
+    "regex": "\\b((?!\\bEntrapment:)Entrapment)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0295682",
+    "title": "The Warrior",
+    "year": 2001,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 158,
+    "occurrences": [
+      [
+        8,
+        "00:04:45.884000",
+        "00:04:50.659000",
+        "How shall we make you a warrior if you loose your knife all the time?"
+      ],
+      [
+        135,
+        "01:01:47.003000",
+        "01:01:49.459000",
+        "You are a warrior, right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWarrior:)Warrior)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

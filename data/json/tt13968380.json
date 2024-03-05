@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt13968380",
+    "title": "The Elderly",
+    "year": 2022,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 837,
+    "occurrences": [
+      [
+        9,
+        "00:01:06.908000",
+        "00:01:10.367000",
+        "especially for the elderly."
+      ],
+      [
+        681,
+        "01:08:33.359000",
+        "01:08:35.942000",
+        "ELDERLY PEOPLE DIE IN FIRE STARTED BY THEIR SON"
+      ]
+    ],
+    "regex": "\\b((?!\\bElderly:)Elderly)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

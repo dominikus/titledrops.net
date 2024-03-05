@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0073076",
+    "title": "Grey Gardens",
+    "year": 1975,
+    "genres": [
+      "Comedy",
+      "Documentary",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1475,
+    "occurrences": [
+      [
+        480,
+        "00:30:12.756000",
+        "00:30:17.284000",
+        "He did it in the solarium of Grey Gardens."
+      ],
+      [
+        1303,
+        "01:21:20.354000",
+        "01:21:25.519000",
+        "I think my days at Grey Gardens are limited."
+      ],
+      [
+        1304,
+        "01:21:25.593000",
+        "01:21:28.926000",
+        "I think my days at Grey Gardens are limited."
+      ],
+      [
+        1409,
+        "01:27:54.081000",
+        "01:27:57.915000",
+        "Not one person had entered Grey Gardens for many years..."
+      ]
+    ],
+    "regex": "\\b((?!\\bGrey\\ Gardens:)Grey\\ Gardens)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

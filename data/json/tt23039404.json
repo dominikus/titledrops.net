@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt23039404",
+    "title": "The Bigfoot Trap",
+    "year": 2023,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1229,
+    "occurrences": [
+      [
+        29,
+        "00:01:55.206000",
+        "00:01:56.561000",
+        "Bigfoot trap?"
+      ],
+      [
+        393,
+        "00:22:22.110000",
+        "00:22:23.946000",
+        "from a Bigfoot trap, so."
+      ],
+      [
+        762,
+        "00:47:16.230000",
+        "00:47:18.923000",
+        "And I'm being locked in when he calls the Bigfoot trap."
+      ]
+    ],
+    "regex": "\\b((?!\\bBigfoot\\ Trap:)Bigfoot\\ Trap)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

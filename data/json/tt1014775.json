@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1014775",
+    "title": "Beverly Hills Chihuahua",
+    "year": 2008,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1486,
+    "occurrences": [
+      [
+        143,
+        "00:08:23.311000",
+        "00:08:25.952000",
+        "manipulative Beverly Hills Chihuahua."
+      ],
+      [
+        1090,
+        "01:01:27.817000",
+        "01:01:30.097000",
+        "CHLOE: Even a Beverly Hills Chihuahua?"
+      ],
+      [
+        1438,
+        "01:20:34.955000",
+        "01:20:39.037000",
+        "PAPI: So does this mean you're no longer a prissy Beverly Hills Chihuahua?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBeverly\\ Hills\\ Chihuahua:)Beverly\\ Hills\\ Chihuahua)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

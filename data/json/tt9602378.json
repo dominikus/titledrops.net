@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt9602378",
+    "title": "Good Kisser",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1220,
+    "occurrences": [
+      [
+        441,
+        "00:22:28.237000",
+        "00:22:29.506000",
+        "Such a good kisser."
+      ],
+      [
+        1182,
+        "01:11:19.164000",
+        "01:11:21.902000",
+        "She was a real good kisser"
+      ],
+      [
+        1196,
+        "01:12:15.287000",
+        "01:12:18.224000",
+        "She was a real good kisser"
+      ]
+    ],
+    "regex": "\\b((?!\\bGood\\ Kisser:)Good\\ Kisser)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

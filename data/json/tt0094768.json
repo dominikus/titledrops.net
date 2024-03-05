@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0094768",
+    "title": "The Blue Iguana",
+    "year": 1988,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 972,
+    "occurrences": [
+      [
+        599,
+        "00:50:08.042000",
+        "00:50:12.047000",
+        "Let's lock it up and go home, girls. The Blue Iguana is closed for business."
+      ],
+      [
+        937,
+        "01:23:58.873000",
+        "01:23:59.977000",
+        "Blue Iguana."
+      ],
+      [
+        969,
+        "01:25:21.389000",
+        "01:25:22.800000",
+        "The Blue Iguana."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Iguana:)Blue\\ Iguana)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

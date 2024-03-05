@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt11204372",
+    "title": "Goblin",
+    "year": 2020,
+    "genres": [
+      "Horror",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 841,
+    "occurrences": [
+      [
+        392,
+        "00:26:27.836000",
+        "00:26:29.462000",
+        "We call it, Goblin."
+      ],
+      [
+        515,
+        "00:35:46.644000",
+        "00:35:47.645000",
+        "Goblin?"
+      ]
+    ],
+    "regex": "\\b((?!\\bGoblin:)Goblin)(?!\\:)(?!'t)\\b",
+    "runtime": 72,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt15094392",
+    "title": "Happier Than Ever: A Love Letter to Los Angeles",
+    "year": 2021,
+    "genres": [
+      "Music"
+    ],
+    "count": 5,
+    "all_lines": 765,
+    "occurrences": [
+      [
+        0,
+        "00:00:53.875000",
+        "00:00:57.333000",
+        "Welcome, it's Billie, and this is Happier Than Ever,"
+      ],
+      [
+        28,
+        "00:03:22.666000",
+        "00:03:28.541000",
+        "I'm happier than ever At least, that's my endeavor"
+      ],
+      [
+        636,
+        "00:53:52.875000",
+        "00:53:57.083000",
+        "I'm happier than ever"
+      ],
+      [
+        656,
+        "00:55:36.916000",
+        "00:55:41.875000",
+        "-  I'm happier than ever -  Happier than ever"
+      ]
+    ],
+    "regex": "\\b((?!\\bHappier\\ Than\\ Ever:)Happier\\ Than\\ Ever|(?!\\bLove\\ Letter\\ to\\ Los\\ Angeles:)Love\\ Letter\\ to\\ Los\\ Angeles)(?!\\:)(?!'t)\\b",
+    "runtime": 66,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

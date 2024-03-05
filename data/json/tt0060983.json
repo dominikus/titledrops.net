@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0060983",
+    "title": "The Singing Nun",
+    "year": 1966,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1464,
+    "occurrences": [
+      [
+        1121,
+        "01:09:24.005000",
+        "01:09:30.035000",
+        "So now, ladies and gentlemen, here is The Singing Nun, Sister Ann."
+      ],
+      [
+        1262,
+        "01:18:19.073000",
+        "01:18:20.905000",
+        "I came to tell the famous Singing Nun..."
+      ],
+      [
+        1316,
+        "01:22:02.162000",
+        "01:22:06.599000",
+        "I liked being made a fuss over, Father, I like being The Singing Nun..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSinging\\ Nun:)Singing\\ Nun)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

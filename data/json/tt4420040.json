@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt4420040",
+    "title": "Rock, Paper, Scissors",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1109,
+    "occurrences": [
+      [
+        35,
+        "00:04:08.849000",
+        "00:04:12.017000",
+        "Rock, paper, scissors. It's my favorite."
+      ],
+      [
+        397,
+        "00:34:07.513000",
+        "00:34:11.648000",
+        "Let's play my favorite. It's called rock, paper, scissors."
+      ],
+      [
+        400,
+        "00:34:18.524000",
+        "00:34:22.259000",
+        "The loser in rock, paper, scissors..."
+      ],
+      [
+        687,
+        "00:52:32.283000",
+        "00:52:34.283000",
+        "Do you wanna play rock, paper, scissors?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRock,\\ Paper,\\ Scissors:)Rock,\\ Paper,\\ Scissors)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1651143",
+    "title": "No controles",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1386,
+    "occurrences": [
+      [
+        651,
+        "00:41:40.047000",
+        "00:41:44.359000",
+        "(He plays the song\"No controles\" Nacho Cano, fails on some notes)"
+      ],
+      [
+        1307,
+        "01:26:21.927000",
+        "01:26:24.919000",
+        "(Begins to play\"No controles\" Nacho Cano)"
+      ],
+      [
+        1347,
+        "01:30:20.407000",
+        "01:30:23.399000",
+        "(Sounds the song\"No controles\" Nacho Cano played by 0You 0LE)"
+      ]
+    ],
+    "regex": "\\b((?!\\bNo\\ controles:)No\\ controles)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

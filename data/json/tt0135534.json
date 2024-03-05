@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0135534",
+    "title": "The Magic City",
+    "year": 1954,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 476,
+    "occurrences": [
+      [
+        70,
+        "00:10:49.445000",
+        "00:10:51.792000",
+        "Come in the magic city"
+      ],
+      [
+        95,
+        "00:14:04.971000",
+        "00:14:07.680000",
+        "Customers of Magic City"
+      ],
+      [
+        116,
+        "00:16:47.969000",
+        "00:16:50.828000",
+        "Come back to the paradise, Magic City"
+      ]
+    ],
+    "regex": "\\b((?!\\bMagic\\ City:)Magic\\ City)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0097815",
+    "title": "Major League",
+    "year": 1989,
+    "genres": [
+      "Comedy",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 1348,
+    "occurrences": [
+      [
+        10,
+        "00:03:59.740000",
+        "00:04:03.868000",
+        "\"has no business being the owner of a major league baseball team.\""
+      ],
+      [
+        444,
+        "00:36:43.034000",
+        "00:36:44.535000",
+        "in his major league debut."
+      ],
+      [
+        720,
+        "00:53:41.343000",
+        "00:53:44.512000",
+        "one out away from his first major league victory."
+      ],
+      [
+        1009,
+        "01:11:51.349000",
+        "01:11:56.269000",
+        "Hello. Do you know us? We're a major league baseball team."
+      ]
+    ],
+    "regex": "\\b((?!\\bMajor\\ League:)Major\\ League)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

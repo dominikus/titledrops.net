@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt14586176",
+    "title": "A Christmas Number One",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1702,
+    "occurrences": [
+      [
+        323,
+        "00:20:56",
+        "00:20:58.480000",
+        "(ANGELIC MUSIC) A Christmas number one!"
+      ],
+      [
+        1462,
+        "01:32:49.360000",
+        "01:32:53.720000",
+        "It's nearly time to reveal who's gonna be Christmas number one."
+      ],
+      [
+        1489,
+        "01:34:21.160000",
+        "01:34:26.480000",
+        "Who's it gonna be? This year's Christmas number one is..."
+      ]
+    ],
+    "regex": "\\b((?!\\bChristmas\\ Number\\ One:)Christmas\\ Number\\ One)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

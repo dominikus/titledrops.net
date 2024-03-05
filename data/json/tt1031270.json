@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1031270",
+    "title": "Radio Corazón",
+    "year": 2007,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1491,
+    "occurrences": [
+      [
+        2,
+        "00:00:54.328000",
+        "00:00:56.863000",
+        "to the radio Corazon show The Sentimental Teaser,"
+      ],
+      [
+        7,
+        "00:01:13.981000",
+        "00:01:16.149000",
+        "welcome to the Radio Corazon show."
+      ]
+    ],
+    "regex": "\\b((?!\\bRadio\\ Corazon:)Radio\\ Corazon)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

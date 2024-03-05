@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0070217",
+    "title": "The Illumination",
+    "year": 1973,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 648,
+    "occurrences": [
+      [
+        0,
+        "00:00:03.727000",
+        "00:00:07.640000",
+        "Illumination"
+      ],
+      [
+        1,
+        "00:00:35.407000",
+        "00:00:37.398000",
+        "What is the Illumination?"
+      ],
+      [
+        2,
+        "00:00:40.287000",
+        "00:00:44.838000",
+        "Illumination is a term and outlook of Saint Augustines."
+      ],
+      [
+        8,
+        "00:01:17.847000",
+        "00:01:24.525000",
+        "Illumination is thus not a state of ecstasy,"
+      ]
+    ],
+    "regex": "\\b((?!\\bIllumination:)Illumination)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

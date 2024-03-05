@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0055646",
+    "title": "The Important Man",
+    "year": 1961,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 876,
+    "occurrences": [
+      [
+        20,
+        "00:01:03.997000",
+        "00:01:07",
+        "...but this important man..."
+      ],
+      [
+        34,
+        "00:01:44.037000",
+        "00:01:46.005000",
+        "...he was ''The Important Man''."
+      ]
+    ],
+    "regex": "\\b((?!\\bImportant\\ Man:)Important\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

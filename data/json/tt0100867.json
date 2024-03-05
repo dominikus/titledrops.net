@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0100867",
+    "title": "Vice Academy Part 2",
+    "year": 1990,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1526,
+    "occurrences": [
+      [
+        1,
+        "00:00:03.353000",
+        "00:00:06.356000",
+        "Now I understand that in Vice Academy part two"
+      ],
+      [
+        514,
+        "00:26:44.661000",
+        "00:26:45.996000",
+        "Vice Academy students who are about"
+      ]
+    ],
+    "regex": "\\b((?!\\bVice\\ Academy:)Vice\\ Academy)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

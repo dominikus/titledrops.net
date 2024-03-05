@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0192657",
+    "title": "Shiri",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 995,
+    "occurrences": [
+      [
+        259,
+        "00:31:10.109000",
+        "00:31:11.804000",
+        "Shiri, step one, on!"
+      ],
+      [
+        388,
+        "00:43:52.037000",
+        "00:43:53.026000",
+        "Shiri 1 's on line."
+      ],
+      [
+        579,
+        "01:01:13.177000",
+        "01:01:16.112000",
+        "Youknowthe fishnamed ''shiri''?"
+      ]
+    ],
+    "regex": "\\b((?!\\bShiri:)Shiri)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

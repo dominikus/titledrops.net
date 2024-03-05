@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt10712928",
+    "title": "Stars Fell on Alabama",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 2385,
+    "occurrences": [
+      [
+        2127,
+        "01:29:39.706000",
+        "01:29:43.776000",
+        "And stars fell on Alabama"
+      ],
+      [
+        2134,
+        "01:29:58.624000",
+        "01:30:02.327000",
+        "And stars fell on Alabama"
+      ],
+      [
+        2174,
+        "01:31:25.578000",
+        "01:31:30.349000",
+        "And stars fell on Alabama"
+      ]
+    ],
+    "regex": "\\b((?!\\bStars\\ Fell\\ on\\ Alabama:)Stars\\ Fell\\ on\\ Alabama)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

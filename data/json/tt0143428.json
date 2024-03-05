@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0143428",
+    "title": "Lone Wolf and Cub: Baby Cart in the Land of Demons",
+    "year": 1973,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 500,
+    "occurrences": [
+      [
+        2,
+        "00:00:15.740000",
+        "00:00:21.200000",
+        "\"Lone Wolf and Cub\" \"Kozure Ookami\""
+      ],
+      [
+        3,
+        "00:00:21.310000",
+        "00:00:26.770000",
+        "\"Baby Cart in the Land of Demons\" \"Meifumado\" (The Crossroads to Hell)"
+      ],
+      [
+        23,
+        "00:03:00.200000",
+        "00:03:02.600000",
+        "Are you in search of the \"Lone Wolf and Cub?\""
+      ],
+      [
+        26,
+        "00:03:28.830000",
+        "00:03:34.130000",
+        "M... Magnificent... You are indeed the \"Lone Wolf and Cub...\""
+      ],
+      [
+        429,
+        "01:12:36.470000",
+        "01:12:42.780000",
+        "I am the so-called \"Lone Wolf and Cub,\" Ogami Itto."
+      ]
+    ],
+    "regex": "\\b((?!\\bLone\\ Wolf\\ and\\ Cub:)Lone\\ Wolf\\ and\\ Cub|(?!\\bBaby\\ Cart\\ in\\ the\\ Land\\ of\\ Demons:)Baby\\ Cart\\ in\\ the\\ Land\\ of\\ Demons)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0204700",
+    "title": "Trouble Every Day",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 9,
+    "all_lines": 212,
+    "occurrences": [
+      [
+        0,
+        "00:01:04.401000",
+        "00:01:10.582000",
+        "Look into my eyes, You see trouble every day"
+      ],
+      [
+        8,
+        "00:02:40.234000",
+        "00:02:46.134000",
+        "And there's trouble every day, There's trouble every day"
+      ],
+      [
+        9,
+        "00:02:50.521000",
+        "00:02:56.021000",
+        "There's trouble every day, There's trouble every day"
+      ],
+      [
+        209,
+        "01:39:05.391000",
+        "01:39:11.591000",
+        "And there's trouble every day, There's trouble every day..."
+      ],
+      [
+        211,
+        "01:39:36.812000",
+        "01:39:41.312000",
+        "Words that defy, There's trouble every day"
+      ],
+      [
+        212,
+        "01:39:43.888000",
+        "01:39:48.185000",
+        "Yeah, there's trouble every day..."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrouble\\ Every\\ Day:)Trouble\\ Every\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

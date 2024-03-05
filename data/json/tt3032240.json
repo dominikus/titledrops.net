@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3032240",
+    "title": "The Clerics",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 947,
+    "occurrences": [
+      [
+        445,
+        "00:47:45",
+        "00:47:47",
+        "Clerics who were arrested by Japan."
+      ],
+      [
+        927,
+        "01:58:49",
+        "01:58:51",
+        "There are clerics."
+      ]
+    ],
+    "regex": "\\b((?!\\bClerics:)Clerics)(?!\\:)(?!'t)\\b",
+    "runtime": 136,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt15684042",
+    "title": "Azzurri: Road to Wembley",
+    "year": 2021,
+    "genres": [
+      "Documentary",
+      "Sport"
+    ],
+    "count": 6,
+    "all_lines": 916,
+    "occurrences": [
+      [
+        1,
+        "00:00:05.320000",
+        "00:00:08.800000",
+        "when we started thinking about our Azzurri Dream?"
+      ],
+      [
+        37,
+        "00:03:39.880000",
+        "00:03:45.960000",
+        "The tears of the Azzurri, who've achieved the best possible result."
+      ],
+      [
+        45,
+        "00:04:28.600000",
+        "00:04:32.680000",
+        "Roberto Mancini's Azzurri also hope to get there,"
+      ],
+      [
+        228,
+        "00:12:53.680000",
+        "00:12:56.360000",
+        "The Azzurri's goal has not been entered for the tenth consecutive game."
+      ],
+      [
+        369,
+        "00:22:06.560000",
+        "00:22:09.600000",
+        "The Azzurri have done brilliantly in the group stage,"
+      ],
+      [
+        539,
+        "00:32:44.160000",
+        "00:32:48.840000",
+        "Barella! The petrol that fuels the Azzurri's engine, Barella!"
+      ]
+    ],
+    "regex": "\\b((?!\\bAzzurri:)Azzurri|(?!\\bRoad\\ to\\ Wembley:)Road\\ to\\ Wembley)(?!\\:)(?!'t)\\b",
+    "runtime": 61,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

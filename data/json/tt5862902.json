@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5862902",
+    "title": "Yardie",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1248,
+    "occurrences": [
+      [
+        365,
+        "00:28:30.042000",
+        "00:28:33.084000",
+        "Let me talk to the Yardie. Hear what the big man says."
+      ],
+      [
+        1144,
+        "01:26:20.501000",
+        "01:26:23.626000",
+        "Real Yard man, me know about the Yardie"
+      ]
+    ],
+    "regex": "\\b((?!\\bYardie:)Yardie)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

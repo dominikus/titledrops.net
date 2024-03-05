@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4125856",
+    "title": "For Grace",
+    "year": 2015,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1729,
+    "occurrences": [
+      [
+        702,
+        "00:33:01.747000",
+        "00:33:03.349000",
+        "It's one of the first dishes for Grace, too."
+      ],
+      [
+        1287,
+        "01:04:25.395000",
+        "01:04:27.031000",
+        "For Grace restaurant."
+      ],
+      [
+        1711,
+        "01:29:29.632000",
+        "01:29:33.268000",
+        "You are being awarded three Michelin stars for Grace"
+      ]
+    ],
+    "regex": "\\b((?!\\bFor\\ Grace:)For\\ Grace)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

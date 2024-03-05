@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2170228",
+    "title": "Valentino",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 789,
+    "occurrences": [
+      [
+        19,
+        "00:04:00.720000",
+        "00:04:03.951000",
+        "Dino Valentino, we're not in Italy, you know."
+      ],
+      [
+        441,
+        "00:41:28.200000",
+        "00:41:29.633000",
+        "...Valentino."
+      ],
+      [
+        715,
+        "01:12:07.280000",
+        "01:12:08.872000",
+        "Dino Valentino."
+      ]
+    ],
+    "regex": "\\b((?!\\bValentino:)Valentino)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

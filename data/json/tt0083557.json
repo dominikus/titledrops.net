@@ -1,0 +1,67 @@
+[
+  {
+    "imdb": "tt0083557",
+    "title": "Android",
+    "year": 1982,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 9,
+    "all_lines": 693,
+    "occurrences": [
+      [
+        297,
+        "00:25:20.401000",
+        "00:25:24.504000",
+        "MAX Max... it's an android."
+      ],
+      [
+        380,
+        "00:35:59.322000",
+        "00:36:01.124000",
+        "An android."
+      ],
+      [
+        502,
+        "00:49:09.747000",
+        "00:49:10.767000",
+        "Android."
+      ],
+      [
+        505,
+        "00:49:13.670000",
+        "00:49:15.287000",
+        "An android is a robot"
+      ],
+      [
+        508,
+        "00:49:22.582000",
+        "00:49:24.442000",
+        "I've never seen an android before."
+      ],
+      [
+        614,
+        "01:05:15.062000",
+        "01:05:17.664000",
+        "An android can't..."
+      ],
+      [
+        664,
+        "01:14:38.432000",
+        "01:14:43.207000",
+        "You're an android, not me. I'm not an android."
+      ],
+      [
+        666,
+        "01:14:50.536000",
+        "01:14:52.537000",
+        "I'm not an android..."
+      ]
+    ],
+    "regex": "\\b((?!\\bAndroid:)Android)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

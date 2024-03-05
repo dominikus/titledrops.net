@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0074880",
+    "title": "Max Havelaar",
+    "year": 1976,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1173,
+    "occurrences": [
+      [
+        99,
+        "00:14:41.480000",
+        "00:14:44.995000",
+        "l'm Havelaar. Max Havelaar."
+      ],
+      [
+        1105,
+        "02:24:14.680000",
+        "02:24:17.433000",
+        "Max Havelaar."
+      ]
+    ],
+    "regex": "\\b((?!\\bMax\\ Havelaar:)Max\\ Havelaar)(?!\\:)(?!'t)\\b",
+    "runtime": 170,
+    "characters": [
+      "Max Havelaar"
+    ],
+    "title_is_name": true,
+    "rating": 7.1
+  }
+]

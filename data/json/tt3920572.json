@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt3920572",
+    "title": "One Day Since Yesterday: Peter Bogdanovich & the Lost American Film",
+    "year": 2014,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 2213,
+    "occurrences": [
+      [
+        1243,
+        "00:52:45.729000",
+        "00:52:47.470000",
+        "called \"One Day Since Yesterday.\""
+      ],
+      [
+        1261,
+        "00:53:39.816000",
+        "00:53:43.855000",
+        "Was it just one day since yesterday..."
+      ],
+      [
+        1265,
+        "00:53:56.967000",
+        "00:54:00.779000",
+        "And inside, she'd written \"One day since yesterday.\""
+      ],
+      [
+        1266,
+        "00:54:00.904000",
+        "00:54:05.751000",
+        "Was it just one day since yesterday?"
+      ],
+      [
+        1730,
+        "01:14:58.861000",
+        "01:15:00.932000",
+        "\"Just One Day Since Yesterday.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bOne\\ Day\\ Since\\ Yesterday:)One\\ Day\\ Since\\ Yesterday|(?!\\bPeter\\ Bogdanovich\\ \\&\\ the\\ Lost\\ American\\ Film:)Peter\\ Bogdanovich\\ \\&\\ the\\ Lost\\ American\\ Film)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

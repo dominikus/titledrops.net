@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt13913326",
+    "title": "Chernobyl: The Lost Tapes",
+    "year": 2022,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "count": 6,
+    "all_lines": 100,
+    "occurrences": [
+      [
+        5,
+        "00:02:09.640000",
+        "00:02:13.320000",
+        "A zone with a 19 mile radius around Chernobyl remains"
+      ],
+      [
+        8,
+        "00:02:44.520000",
+        "00:02:48.320000",
+        "of spreading slanderous inventions about the Chernobyl accident."
+      ],
+      [
+        12,
+        "00:33:05.840000",
+        "00:33:09.320000",
+        "in an accident at the Chernobyl Power Station in the Ukraine."
+      ],
+      [
+        14,
+        "00:33:12.840000",
+        "00:33:16.560000",
+        "at the Chernobyl Atomic Power Plant in the city of Kyiv was damaged"
+      ],
+      [
+        34,
+        "00:39:37.720000",
+        "00:39:41.560000",
+        "President Reagan have urged the Russians to say more about Chernobyl."
+      ],
+      [
+        91,
+        "01:25:03.280000",
+        "01:25:06.240000",
+        "The Russians say the Chernobyl accident was caused by no fewer"
+      ]
+    ],
+    "regex": "\\b((?!\\bChernobyl:)Chernobyl|(?!\\bLost\\ Tapes:)Lost\\ Tapes)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

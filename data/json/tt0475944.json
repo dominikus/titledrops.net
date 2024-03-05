@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0475944",
+    "title": "The Covenant",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 763,
+    "occurrences": [
+      [
+        504,
+        "00:54:18.003000",
+        "00:54:21.233000",
+        "...then the fifth bloodline in the Covenant didn't end in Salem."
+      ],
+      [
+        568,
+        "01:00:55.428000",
+        "01:00:56.890000",
+        "...on your Covenant."
+      ],
+      [
+        663,
+        "01:11:30.539000",
+        "01:11:33.409000",
+        "It's against the Covenant laws. If it weren't, I wouldn't let them."
+      ],
+      [
+        718,
+        "01:17:29.294000",
+        "01:17:31.367000",
+        "Only the Covenant will know the real truth."
+      ]
+    ],
+    "regex": "\\b((?!\\bCovenant:)Covenant)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

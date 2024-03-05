@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5283288",
+    "title": "Scarecrows",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 394,
+    "occurrences": [
+      [
+        76,
+        "00:12:59.519000",
+        "00:13:06.800000",
+        "what the bird what about it aren't scarecrows supposed to scare off Birds"
+      ],
+      [
+        310,
+        "00:57:06.160000",
+        "00:57:11.920000",
+        "me the scarecrows what about"
+      ]
+    ],
+    "regex": "\\b((?!\\bScarecrows:)Scarecrows)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

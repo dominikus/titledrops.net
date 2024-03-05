@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4653586",
+    "title": "The Drowning",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 697,
+    "occurrences": [
+      [
+        605,
+        "01:21:34.294000",
+        "01:21:40.884000",
+        "- Dad saved him from drowning. - You jumped in and saved me."
+      ],
+      [
+        607,
+        "01:21:46.432000",
+        "01:21:50.686000",
+        "Did I tell you about the drowning sooner?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDrowning:)Drowning)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

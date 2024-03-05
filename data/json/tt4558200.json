@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4558200",
+    "title": "Crown Vic",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2111,
+    "occurrences": [
+      [
+        112,
+        "00:07:46.900000",
+        "00:07:48.700000",
+        "got these new V crown carbon points."
+      ],
+      [
+        1257,
+        "01:02:10.094000",
+        "01:02:12.861000",
+        "They've even been phasing out all the old Crown Vics."
+      ]
+    ],
+    "regex": "\\b((?!\\bCrown:)Crown)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

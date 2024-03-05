@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0038629",
+    "title": "I've Always Loved You",
+    "year": 1946,
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1128,
+    "occurrences": [
+      [
+        686,
+        "01:13:02.601000",
+        "01:13:04.801000",
+        "I've always loved you, Myra."
+      ],
+      [
+        1126,
+        "01:56:22.602000",
+        "01:56:25.502000",
+        "I've always loved you, always."
+      ]
+    ],
+    "regex": "\\b((?!\\bI've\\ Always\\ Loved\\ You:)I've\\ Always\\ Loved\\ You)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

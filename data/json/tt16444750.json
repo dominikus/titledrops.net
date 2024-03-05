@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt16444750",
+    "title": "The Last 10 Years",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1112,
+    "occurrences": [
+      [
+        11,
+        "00:03:53.300000",
+        "00:04:03.780000",
+        "Last 10 Years"
+      ],
+      [
+        889,
+        "01:28:05.700000",
+        "01:28:07.790000",
+        "Last 10 years? How ridiculous."
+      ],
+      [
+        1106,
+        "01:57:13.210000",
+        "01:57:20.180000",
+        "Last 10 Years"
+      ],
+      [
+        1111,
+        "01:59:41.180000",
+        "01:59:49.270000",
+        "Author of the book \"Last 10 years\" from which this movie was adapted from. She died last 2017."
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ 10\\ Years:)Last\\ 10\\ Years)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1435475",
+    "title": "Tambourine, Drum",
+    "year": 2009,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 757,
+    "occurrences": [
+      [
+        398,
+        "00:41:21.655000",
+        "00:41:22.655000",
+        "Tambourine, drum."
+      ],
+      [
+        399,
+        "00:41:23.035000",
+        "00:41:24.035000",
+        "Tambourine, drum."
+      ]
+    ],
+    "regex": "\\b((?!\\bTambourine,\\ Drum:)Tambourine,\\ Drum)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

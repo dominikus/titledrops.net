@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt8974964",
+    "title": "Memory: The Origins of Alien",
+    "year": 2019,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 1790,
+    "occurrences": [
+      [
+        375,
+        "00:21:28.963000",
+        "00:21:34.001000",
+        "In 1971, Dan was working on a story he called \"Memory.\""
+      ],
+      [
+        384,
+        "00:21:52.220000",
+        "00:21:53.588000",
+        "DIANE O'BANNON: Dan called it \"Memory,\""
+      ],
+      [
+        386,
+        "00:21:56.057000",
+        "00:21:59.659000",
+        "gradually made them lose their memory."
+      ]
+    ],
+    "regex": "\\b((?!\\bMemory:)Memory|(?!\\bOrigins\\ of\\ Alien:)Origins\\ of\\ Alien)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

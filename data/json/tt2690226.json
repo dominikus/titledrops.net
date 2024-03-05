@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt2690226",
+    "title": "The Chaperone",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1783,
+    "occurrences": [
+      [
+        21,
+        "00:03:04.356000",
+        "00:03:05.840000",
+        "she can''t go without a chaperone,"
+      ],
+      [
+        101,
+        "00:07:06.218000",
+        "00:07:08.186000",
+        "earlier about looking for a chaperone"
+      ],
+      [
+        378,
+        "00:18:52.200000",
+        "00:18:53.822000",
+        "not without a chaperone."
+      ],
+      [
+        1174,
+        "01:05:44.009000",
+        "01:05:47.322000",
+        "And there''s a chaperone, naturally."
+      ]
+    ],
+    "regex": "\\b((?!\\bChaperone:)Chaperone)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

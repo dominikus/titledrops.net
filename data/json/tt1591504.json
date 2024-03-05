@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1591504",
+    "title": "The Hunters",
+    "year": 2011,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1067,
+    "occurrences": [
+      [
+        653,
+        "00:47:07.891000",
+        "00:47:09.415000",
+        "No hunters?"
+      ],
+      [
+        654,
+        "00:47:10.460000",
+        "00:47:11.859000",
+        "Hunters?"
+      ],
+      [
+        748,
+        "01:11:55.844000",
+        "01:11:58.608000",
+        "I think they are man-hunters."
+      ]
+    ],
+    "regex": "\\b((?!\\bHunters:)Hunters)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

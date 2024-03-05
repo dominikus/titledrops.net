@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt4874206",
+    "title": "The Student",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1681,
+    "occurrences": [
+      [
+        804,
+        "00:56:23.042000",
+        "00:56:25.875000",
+        "A student goes nuts because of religion."
+      ],
+      [
+        1475,
+        "01:42:24.917000",
+        "01:42:27.292000",
+        "- We're discussing a student. - Sorry."
+      ],
+      [
+        1634,
+        "01:50:38.750000",
+        "01:50:41.875000",
+        "A student has died of a cracked skull."
+      ],
+      [
+        1645,
+        "01:51:38.250000",
+        "01:51:40.458000",
+        "Hitting a student in front of every..."
+      ]
+    ],
+    "regex": "\\b((?!\\bStudent:)Student)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

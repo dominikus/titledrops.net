@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt11332484",
+    "title": "The Road Dance",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1119,
+    "occurrences": [
+      [
+        214,
+        "00:19:04.417000",
+        "00:19:07",
+        "When did we last have a road dance?"
+      ],
+      [
+        697,
+        "01:08:49.207000",
+        "01:08:51",
+        "The night of the road dance."
+      ],
+      [
+        873,
+        "01:25:29.917000",
+        "01:25:33",
+        "Old Peg came to see me the day after the road dance."
+      ],
+      [
+        998,
+        "01:37:23.917000",
+        "01:37:27.792000",
+        "Since the night of the road dance, when Murdo brought me to you..."
+      ]
+    ],
+    "regex": "\\b((?!\\bRoad\\ Dance:)Road\\ Dance)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6214084",
+    "title": "Something Useful",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1269,
+    "occurrences": [
+      [
+        770,
+        "01:05:57.100000",
+        "01:06:00.020000",
+        "Me. I wanted to do something useful."
+      ],
+      [
+        909,
+        "01:14:17.620000",
+        "01:14:20.100000",
+        "You want to do something useful tomorrow again?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSomething\\ Useful:)Something\\ Useful)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

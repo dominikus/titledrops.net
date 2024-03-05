@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5269560",
+    "title": "Ten Years",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 988,
+    "occurrences": [
+      [
+        484,
+        "00:57:19.441000",
+        "00:57:23.361000",
+        "Ten years ago, they learnt Cantonese to be here."
+      ],
+      [
+        814,
+        "01:18:50.361000",
+        "01:18:53.721000",
+        "Ten years ago, in the Umbrella Movement, people claim to have seen hope."
+      ]
+    ],
+    "regex": "\\b((?!\\bTen\\ Years:)Ten\\ Years)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

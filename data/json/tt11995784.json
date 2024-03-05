@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt11995784",
+    "title": "The Haunting of Pendle Hill",
+    "year": 2022,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 939,
+    "occurrences": [
+      [
+        103,
+        "00:13:03.483000",
+        "00:13:06.484000",
+        "The Haunting of Pendle Hill."
+      ],
+      [
+        184,
+        "00:18:08.988000",
+        "00:18:11.682000",
+        "This must end, this haunting of Pendle Hill."
+      ],
+      [
+        239,
+        "00:23:14.226000",
+        "00:23:17.394000",
+        "- You believe in it? - The Haunting of Pendle Hill."
+      ],
+      [
+        531,
+        "00:45:19.383000",
+        "00:45:21.417000",
+        "The Haunting of Pendle hill."
+      ]
+    ],
+    "regex": "\\b((?!\\bHaunting\\ of\\ Pendle\\ Hill:)Haunting\\ of\\ Pendle\\ Hill)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.4
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt3018070",
+    "title": "Stonewall",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 7,
+    "all_lines": 1959,
+    "occurrences": [
+      [
+        576,
+        "00:37:19.527000",
+        "00:37:21.995000",
+        "This weekend, I'll go dancing at the Stonewall,"
+      ],
+      [
+        745,
+        "00:48:23.324000",
+        "00:48:25.625000",
+        "I'm writing an article about the Stonewall."
+      ],
+      [
+        750,
+        "00:48:36.570000",
+        "00:48:39.506000",
+        "Take Stonewall, for example."
+      ],
+      [
+        852,
+        "00:52:47.454000",
+        "00:52:49.622000",
+        "Interpol has asked us to look into the Stonewall."
+      ],
+      [
+        877,
+        "00:53:53.487000",
+        "00:53:55.187000",
+        "A frequent customer at the Stonewall"
+      ],
+      [
+        976,
+        "00:59:52.512000",
+        "00:59:53.413000",
+        "who wants to hang out at the Stonewall"
+      ],
+      [
+        1166,
+        "01:10:29.948000",
+        "01:10:33.885000",
+        "Something happened to me when I saw you at the Stonewall."
+      ]
+    ],
+    "regex": "\\b((?!\\bStonewall:)Stonewall)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

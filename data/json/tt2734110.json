@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2734110",
+    "title": "Ghostline",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1279,
+    "occurrences": [
+      [
+        164,
+        "00:12:27.039000",
+        "00:12:28.749000",
+        "What the hell is a ghostline?"
+      ],
+      [
+        219,
+        "00:14:55.395000",
+        "00:14:56.772000",
+        "- Ghostline? -  Right."
+      ],
+      [
+        519,
+        "00:32:13.976000",
+        "00:32:16.645000",
+        "You know, this ghostline thing reminds me of a TV show I saw once as a kid."
+      ]
+    ],
+    "regex": "\\b((?!\\bGhostline:)Ghostline)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0105464",
+    "title": "Star Time",
+    "year": 1992,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 979,
+    "occurrences": [
+      [
+        493,
+        "00:36:43.910000",
+        "00:36:47.372000",
+        "It's star time, Henry."
+      ],
+      [
+        979,
+        "01:23:30.172000",
+        "01:23:35.052000",
+        "I Baby it's star time"
+      ]
+    ],
+    "regex": "\\b((?!\\bStar\\ Time:)Star\\ Time)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

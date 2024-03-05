@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt2190332",
+    "title": "Barbarians",
+    "year": 2014,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 714,
+    "occurrences": [
+      [
+        0,
+        "00:00:00.131000",
+        "00:00:02.709000",
+        "Because night has fallen and the barbarians have not come."
+      ],
+      [
+        1,
+        "00:00:02.829000",
+        "00:00:05.513000",
+        "And some who have returned from the border say there are no barbarians any longer."
+      ],
+      [
+        2,
+        "00:00:05.633000",
+        "00:00:08.318000",
+        "And now, whats going to happen to us without barbarians?"
+      ],
+      [
+        3,
+        "00:00:08.438000",
+        "00:00:11.068000",
+        "They were, those people, a kind of solution. (C.P. Cavafy, Waiting for the Barbarians)"
+      ],
+      [
+        59,
+        "00:05:25.300000",
+        "00:05:29.798000",
+        "We are barbarians! We are the strongest!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBarbarians:)Barbarians)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

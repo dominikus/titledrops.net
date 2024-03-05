@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt18235146",
+    "title": "Club Zero",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 998,
+    "occurrences": [
+      [
+        444,
+        "00:41:20.240000",
+        "00:41:22.720000",
+        "I am a member myself from Club Zero."
+      ],
+      [
+        450,
+        "00:41:41.240000",
+        "00:41:43.400000",
+        "Club Zero?"
+      ],
+      [
+        916,
+        "01:27:59.880000",
+        "01:28:01.960000",
+        "members of Club Zero."
+      ]
+    ],
+    "regex": "\\b((?!\\bClub\\ Zero:)Club\\ Zero)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

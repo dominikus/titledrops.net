@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0120631",
+    "title": "Ever After: A Cinderella Story",
+    "year": 1998,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1579,
+    "occurrences": [
+      [
+        1539,
+        "01:50:49.410000",
+        "01:50:52.641000",
+        "And we, Princess, are supposed to live happily ever after."
+      ],
+      [
+        1547,
+        "01:51:24.330000",
+        "01:51:30.246000",
+        "And while Cinderella and her Prince did live happily ever after..."
+      ]
+    ],
+    "regex": "\\b((?!\\bEver\\ After:)Ever\\ After|(?!\\bCinderella\\ Story:)Cinderella\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

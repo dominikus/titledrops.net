@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0131549",
+    "title": "The Pyramid",
+    "year": 1976,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1487,
+    "occurrences": [
+      [
+        781,
+        "00:53:21.131000",
+        "00:53:21.731000",
+        "- Pyramid."
+      ],
+      [
+        1088,
+        "01:10:40.002000",
+        "01:10:42.404000",
+        "watch the sun go down from inside the pyramid"
+      ],
+      [
+        1455,
+        "01:31:08.062000",
+        "01:31:11.432000",
+        "Secrets of the pyramid"
+      ]
+    ],
+    "regex": "\\b((?!\\bPyramid:)Pyramid)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

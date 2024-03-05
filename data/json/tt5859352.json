@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5859352",
+    "title": "Hellmington",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 738,
+    "occurrences": [
+      [
+        273,
+        "00:31:46.705000",
+        "00:31:48.305000",
+        "at Hellmington General."
+      ],
+      [
+        455,
+        "00:51:45.636000",
+        "00:51:47.903000",
+        "of the Hellmington County Sheriff's department."
+      ]
+    ],
+    "regex": "\\b((?!\\bHellmington:)Hellmington)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

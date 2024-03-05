@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1865505",
+    "title": "Song of the Sea",
+    "year": 2014,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1105,
+    "occurrences": [
+      [
+        37,
+        "00:02:46.208000",
+        "00:02:48.851000",
+        "You'll hear the song of the sea."
+      ],
+      [
+        1090,
+        "01:32:31.296000",
+        "01:32:34.898000",
+        "We'll sing the song of the sea"
+      ],
+      [
+        1105,
+        "01:33:31.439000",
+        "01:33:36.085000",
+        "We'll sing the song of the sea"
+      ]
+    ],
+    "regex": "\\b((?!\\bSong\\ of\\ the\\ Sea:)Song\\ of\\ the\\ Sea)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

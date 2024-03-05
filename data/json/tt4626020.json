@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4626020",
+    "title": "The Bone Box",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1439,
+    "occurrences": [
+      [
+        13,
+        "00:09:06.263000",
+        "00:09:07.065000",
+        "WOMAN: Bone box."
+      ],
+      [
+        21,
+        "00:09:21.546000",
+        "00:09:23.114000",
+        "The bone box."
+      ],
+      [
+        1205,
+        "01:09:05.260000",
+        "01:09:07.796000",
+        "The bone box, what are we gonna do with everything?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBone\\ Box:)Bone\\ Box)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

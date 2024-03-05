@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1738351",
+    "title": "Honour",
+    "year": 2014,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 791,
+    "occurrences": [
+      [
+        467,
+        "00:51:54.960000",
+        "00:51:57.531000",
+        "Girls who know the meaning of honour..."
+      ],
+      [
+        639,
+        "01:18:10.240000",
+        "01:18:13.687000",
+        "Without honour, life is nothing."
+      ],
+      [
+        755,
+        "01:30:38.640000",
+        "01:30:41.610000",
+        "How he preserved his good honour"
+      ]
+    ],
+    "regex": "\\b((?!\\bHonour:)Honour)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5886046",
+    "title": "Escape Room",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1762,
+    "occurrences": [
+      [
+        225,
+        "00:14:43.549000",
+        "00:14:45.280000",
+        "Yeah. I'm here for the escape room."
+      ],
+      [
+        334,
+        "00:19:25.510000",
+        "00:19:27.309000",
+        "and take us to the escape room."
+      ],
+      [
+        350,
+        "00:20:10.211000",
+        "00:20:14.008000",
+        "You guys, you guys, I think this is the escape room."
+      ]
+    ],
+    "regex": "\\b((?!\\bEscape\\ Room:)Escape\\ Room)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

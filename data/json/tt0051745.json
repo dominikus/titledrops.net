@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0051745",
+    "title": "Houseboat",
+    "year": 1958,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1287,
+    "occurrences": [
+      [
+        638,
+        "00:55:41.094000",
+        "00:55:44.795000",
+        "Hi, sweetie. I saw David at the houseboat."
+      ],
+      [
+        1136,
+        "01:34:54.450000",
+        "01:34:58.863000",
+        "- How much for the houseboat? - They will live on it after they are married."
+      ]
+    ],
+    "regex": "\\b((?!\\bHouseboat:)Houseboat)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

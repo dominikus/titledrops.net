@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0246692",
+    "title": "Old Men in New Cars: In China They Eat Dogs II",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 845,
+    "occurrences": [
+      [
+        22,
+        "00:03:16.900000",
+        "00:03:21.178000",
+        "OLD MEN IN NEW CARS"
+      ],
+      [
+        24,
+        "00:03:24.180000",
+        "00:03:26.011000",
+        "OLD MEN IN NEW CARS"
+      ]
+    ],
+    "regex": "\\b((?!\\bOld\\ Men\\ in\\ New\\ Cars:)Old\\ Men\\ in\\ New\\ Cars|(?!\\bIn\\ China\\ They\\ Eat\\ Dogs:)In\\ China\\ They\\ Eat\\ Dogs)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

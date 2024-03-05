@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0044943",
+    "title": "My Wife's Lodger",
+    "year": 1952,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1389,
+    "occurrences": [
+      [
+        617,
+        "00:35:39.082000",
+        "00:35:42.874000",
+        "# Ooh, it's my wife's lodger every morning"
+      ],
+      [
+        619,
+        "00:35:44.082000",
+        "00:35:47.999000",
+        "# It's my wife's lodger every morning"
+      ],
+      [
+        620,
+        "00:35:48.332000",
+        "00:35:50.332000",
+        "# And my wife's lodger every night... #"
+      ],
+      [
+        777,
+        "00:45:36.582000",
+        "00:45:41.207000",
+        "# Because it's my wife's lodger... #"
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Wife's\\ Lodger:)My\\ Wife's\\ Lodger)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

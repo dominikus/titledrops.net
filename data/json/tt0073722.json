@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0073722",
+    "title": "Smile",
+    "year": 1975,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1330,
+    "occurrences": [
+      [
+        31,
+        "00:02:13.399000",
+        "00:02:14.423000",
+        "Smile."
+      ],
+      [
+        838,
+        "01:06:53.608000",
+        "01:06:55.166000",
+        "And you don't smile enough."
+      ]
+    ],
+    "regex": "\\b((?!\\bSmile:)Smile)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

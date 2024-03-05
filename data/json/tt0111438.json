@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0111438",
+    "title": "Timecop",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Crime",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 955,
+    "occurrences": [
+      [
+        324,
+        "00:24:16.388000",
+        "00:24:17.082000",
+        "or Why You Are The Timecop"
+      ],
+      [
+        525,
+        "00:38:44.388000",
+        "00:38:49.325000",
+        "And I Want To See How Does Timecop Look Like"
+      ]
+    ],
+    "regex": "\\b((?!\\bTimecop:)Timecop)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

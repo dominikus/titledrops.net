@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt7832848",
+    "title": "Inside Man: Most Wanted",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 1592,
+    "occurrences": [
+      [
+        443,
+        "00:28:14.526000",
+        "00:28:17.109000",
+        "Call me \"Most Wanted.\""
+      ],
+      [
+        446,
+        "00:28:23.035000",
+        "00:28:24.697000",
+        "So, you're Most Wanted?"
+      ],
+      [
+        518,
+        "00:31:57.916000",
+        "00:31:59.077000",
+        "Most Wanted."
+      ],
+      [
+        585,
+        "00:36:05.246000",
+        "00:36:07.203000",
+        "Maybe our Most Wanted is that smart, huh?"
+      ],
+      [
+        708,
+        "00:42:53.321000",
+        "00:42:55.984000",
+        "Most Wanted said, \"This has got to work, no exceptions.\""
+      ],
+      [
+        883,
+        "00:53:12.606000",
+        "00:53:13.606000",
+        "Most Wanted."
+      ],
+      [
+        947,
+        "00:58:16.034000",
+        "00:58:17.616000",
+        "Most Wanted. How did you get my cell?"
+      ]
+    ],
+    "regex": "\\b((?!\\bInside\\ Man:)Inside\\ Man|(?!\\bMost\\ Wanted:)Most\\ Wanted)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

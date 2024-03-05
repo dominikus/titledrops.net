@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1558250",
+    "title": "GasLand",
+    "year": 2010,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 2118,
+    "occurrences": [
+      [
+        1450,
+        "01:12:19.091000",
+        "01:12:21.406000",
+        "I wanted to get out of Gasland as fast as I could."
+      ],
+      [
+        2114,
+        "01:43:28.417000",
+        "01:43:33.068000",
+        "It's possible that Gasland might stretch"
+      ]
+    ],
+    "regex": "\\b((?!\\bGasLand:)GasLand)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

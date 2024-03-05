@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1037133",
+    "title": "Kill",
+    "year": 2008,
+    "genres": [
+      "Action"
+    ],
+    "count": 3,
+    "all_lines": 469,
+    "occurrences": [
+      [
+        225,
+        "00:34:50.610000",
+        "00:34:52.470000",
+        "\"I won't kill people!\""
+      ],
+      [
+        296,
+        "00:40:51.970000",
+        "00:40:53.560000",
+        "\"I'll kill you!\""
+      ],
+      [
+        345,
+        "00:46:11.120000",
+        "00:46:12.830000",
+        "\"I won't kill you now."
+      ]
+    ],
+    "regex": "\\b((?!\\bKill:)Kill)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

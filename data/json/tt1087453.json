@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1087453",
+    "title": "In Real Life",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 670,
+    "occurrences": [
+      [
+        73,
+        "00:14:20",
+        "00:14:24.280000",
+        "Let it be normal. Not for nothing is the title of the film In real life. Good?"
+      ],
+      [
+        74,
+        "00:14:24.360000",
+        "00:14:29.880000",
+        "I understand, but aren't there talented people in real life too?"
+      ],
+      [
+        326,
+        "00:46:53.120000",
+        "00:46:56.400000",
+        "Even in real life you never know how things will turn out."
+      ],
+      [
+        501,
+        "01:04:47.840000",
+        "01:04:52.160000",
+        "This is Martin Zomer, from the set of In real life."
+      ]
+    ],
+    "regex": "\\b((?!\\bIn\\ Real\\ Life:)In\\ Real\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

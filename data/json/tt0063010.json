@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0063010",
+    "title": "Mafia",
+    "year": 1968,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1162,
+    "occurrences": [
+      [
+        293,
+        "00:30:16.038000",
+        "00:30:18.413000",
+        "This evening I betray the mafia, tomorrow the Carabineri."
+      ],
+      [
+        710,
+        "01:09:24.758000",
+        "01:09:27.591000",
+        "Like an expose of the mafia code."
+      ]
+    ],
+    "regex": "\\b((?!\\bMafia:)Mafia)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

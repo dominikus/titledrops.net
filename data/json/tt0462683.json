@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0462683",
+    "title": "The Man of My Life",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1015,
+    "occurrences": [
+      [
+        0,
+        "00:00:39.272000",
+        "00:00:44.710000",
+        "The Man of My Life"
+      ],
+      [
+        285,
+        "00:20:30.529000",
+        "00:20:34.465000",
+        "I lost the man of my life fifteen years ago."
+      ]
+    ],
+    "regex": "\\b((?!\\bMan\\ of\\ My\\ Life:)Man\\ of\\ My\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

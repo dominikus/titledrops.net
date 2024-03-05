@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0294594",
+    "title": "The Gathering",
+    "year": 2002,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 927,
+    "occurrences": [
+      [
+        694,
+        "00:56:41.732000",
+        "00:56:45.110000",
+        "Aristobulus called them \"The Gathering.\""
+      ],
+      [
+        702,
+        "00:57:11.011000",
+        "00:57:12.929000",
+        "that the Gathering was cursed,"
+      ]
+    ],
+    "regex": "\\b((?!\\bGathering:)Gathering)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt10738906",
+    "title": "The Feast",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 532,
+    "occurrences": [
+      [
+        0,
+        "00:03:05.934000",
+        "00:03:09.396000",
+        "The feast"
+      ],
+      [
+        209,
+        "00:42:05.063000",
+        "00:42:09.275000",
+        "Although, for once, Gwyn has made his contribution to the feast tonight."
+      ],
+      [
+        243,
+        "00:45:16.087000",
+        "00:45:19.608000",
+        "There's a feast awaiting us."
+      ],
+      [
+        280,
+        "00:47:41.690000",
+        "00:47:45.611000",
+        "Come in. There's a feast awaiting us."
+      ],
+      [
+        380,
+        "01:00:17.112000",
+        "01:00:20.866000",
+        "I don't remember when I last had such a feast."
+      ]
+    ],
+    "regex": "\\b((?!\\bFeast:)Feast)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

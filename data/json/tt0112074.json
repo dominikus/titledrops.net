@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0112074",
+    "title": "The Misery Brothers",
+    "year": 1995,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1663,
+    "occurrences": [
+      [
+        185,
+        "00:09:26.817000",
+        "00:09:28.527000",
+        " Yeah, the Misery brothers!"
+      ],
+      [
+        503,
+        "00:26:01.478000",
+        "00:26:03.355000",
+        "Hasta la vista, Misery brothers!"
+      ],
+      [
+        718,
+        "00:35:01.268000",
+        "00:35:03.520000",
+        "As in the Misery brothers?"
+      ],
+      [
+        1119,
+        "00:55:58.358000",
+        "00:55:59.610000",
+        "the Misery brothers!"
+      ],
+      [
+        1157,
+        "00:57:51.889000",
+        "00:57:52.973000",
+        "The Misery brothers."
+      ]
+    ],
+    "regex": "\\b((?!\\bMisery\\ Brothers:)Misery\\ Brothers)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.7
+  }
+]

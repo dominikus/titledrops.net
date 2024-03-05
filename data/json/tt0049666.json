@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0049666",
+    "title": "Rebel in Town",
+    "year": 1956,
+    "genres": [
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 984,
+    "occurrences": [
+      [
+        1,
+        "00:00:57.448000",
+        "00:01:01.235000",
+        "There's a rebel in town"
+      ],
+      [
+        3,
+        "00:01:04.325000",
+        "00:01:07.589000",
+        "I'm a rebel in town"
+      ],
+      [
+        19,
+        "00:01:55.332000",
+        "00:01:59.293000",
+        "Rebel in town"
+      ]
+    ],
+    "regex": "\\b((?!\\bRebel\\ in\\ Town:)Rebel\\ in\\ Town)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

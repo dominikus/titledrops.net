@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt4661276",
+    "title": "Terror 5",
+    "year": 2016,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 764,
+    "occurrences": [
+      [
+        402,
+        "00:33:58.958000",
+        "00:34:01",
+        "\"Total terror in the motel\" is the name of the film."
+      ],
+      [
+        485,
+        "00:42:44.916000",
+        "00:42:47.791000",
+        "Total terror in the motel!"
+      ],
+      [
+        682,
+        "01:02:53.208000",
+        "01:02:56.458000",
+        "Total terror in the motel"
+      ]
+    ],
+    "regex": "\\b((?!\\bTerror:)Terror)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

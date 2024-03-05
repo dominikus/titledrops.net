@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt27715185",
+    "title": "Solo",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 907,
+    "occurrences": [
+      [
+        632,
+        "01:05:00.750000",
+        "01:05:04.875000",
+        "I'd like to do a solo act, a nod to the Paris cabarets of the 40s."
+      ],
+      [
+        635,
+        "01:05:10.500000",
+        "01:05:11.542000",
+        "A solo?"
+      ],
+      [
+        637,
+        "01:05:13.375000",
+        "01:05:14.875000",
+        "What d'you mean, a solo?"
+      ],
+      [
+        643,
+        "01:05:35.958000",
+        "01:05:40.500000",
+        "I'm just saying that I want to do a solo."
+      ]
+    ],
+    "regex": "\\b((?!\\bSolo:)Solo)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

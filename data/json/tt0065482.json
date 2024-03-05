@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0065482",
+    "title": "The Boatniks",
+    "year": 1970,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1691,
+    "occurrences": [
+      [
+        16,
+        "00:01:20.038000",
+        "00:01:21.707000",
+        "Boatniks"
+      ],
+      [
+        17,
+        "00:01:39.182000",
+        "00:01:41.351000",
+        "Boatniks"
+      ],
+      [
+        61,
+        "00:04:39.696000",
+        "00:04:41.865000",
+        "boatniks"
+      ]
+    ],
+    "regex": "\\b((?!\\bBoatniks:)Boatniks)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt8435308",
+    "title": "The Spy",
+    "year": 2019,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 988,
+    "occurrences": [
+      [
+        175,
+        "00:13:49.242000",
+        "00:13:54.117000",
+        "That \"Maria\" is a spy who reports directly to Berlin."
+      ],
+      [
+        692,
+        "01:03:59.533000",
+        "01:04:02.158000",
+        "Can you spy for me in Sweden?"
+      ],
+      [
+        694,
+        "01:04:09.408000",
+        "01:04:11.325000",
+        "My little spy."
+      ],
+      [
+        767,
+        "01:10:33.492000",
+        "01:10:35.325000",
+        "- if you're a spy."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpy:)Spy)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

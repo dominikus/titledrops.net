@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0251910",
+    "title": "Masterpiece",
+    "year": 2000,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1232,
+    "occurrences": [
+      [
+        111,
+        "00:15:42.415000",
+        "00:15:43.484000",
+        "A masterpiece."
+      ],
+      [
+        1123,
+        "01:39:10.415000",
+        "01:39:12.770000",
+        "I think I have a masterpiece in my hands."
+      ],
+      [
+        1124,
+        "01:39:13.295000",
+        "01:39:14.774000",
+        "Masterpiece?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMasterpiece:)Masterpiece)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

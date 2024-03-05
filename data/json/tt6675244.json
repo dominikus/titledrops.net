@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt6675244",
+    "title": "Transit",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 6,
+    "all_lines": 1007,
+    "occurrences": [
+      [
+        275,
+        "00:27:46.490000",
+        "00:27:49.158000",
+        "So I'm stuck here waiting for a Mexican transit"
+      ],
+      [
+        291,
+        "00:28:51.158000",
+        "00:28:53.615000",
+        "-A visa? -A transit visa."
+      ],
+      [
+        588,
+        "00:57:42.950000",
+        "00:57:46.491000",
+        "You didn't need a damn visa or transit back then."
+      ],
+      [
+        750,
+        "01:11:23.407000",
+        "01:11:26.032000",
+        "You should have applied for your wife's transit at once."
+      ],
+      [
+        752,
+        "01:11:30.907000",
+        "01:11:34.491000",
+        "\"Person accompanying the transit-applicant\"."
+      ],
+      [
+        930,
+        "01:30:30.200000",
+        "01:30:32.616000",
+        "This is the transit."
+      ]
+    ],
+    "regex": "\\b((?!\\bTransit:)Transit)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

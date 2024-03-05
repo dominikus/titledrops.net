@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0111094",
+    "title": "The Scout",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sport"
+    ],
+    "count": 6,
+    "all_lines": 2195,
+    "occurrences": [
+      [
+        80,
+        "00:03:42.989000",
+        "00:03:45.924000",
+        "scout with the New YorkYankees."
+      ],
+      [
+        308,
+        "00:12:38.090000",
+        "00:12:41.890000",
+        "You're the first scout we've ever sent this deep into Mexico."
+      ],
+      [
+        402,
+        "00:17:25.444000",
+        "00:17:26.911000",
+        "I'm a scout."
+      ],
+      [
+        861,
+        "00:39:54.959000",
+        "00:39:58.019000",
+        "I'm a scout, not a speaker."
+      ],
+      [
+        2001,
+        "01:28:17.091000",
+        "01:28:19.025000",
+        "the scout who discovered Steve Nebraska,"
+      ],
+      [
+        2048,
+        "01:30:30.591000",
+        "01:30:33.025000",
+        "I'm nothing in this. I'm just a stupid scout"
+      ]
+    ],
+    "regex": "\\b((?!\\bScout:)Scout)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

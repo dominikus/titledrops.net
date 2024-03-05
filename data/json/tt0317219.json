@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0317219",
+    "title": "Cars",
+    "year": 2006,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 825,
+    "occurrences": [
+      [
+        22,
+        "00:03:38.051000",
+        "00:03:40.679000",
+        "Three cars are tied for the season points lead,"
+      ],
+      [
+        39,
+        "00:04:25.965000",
+        "00:04:28.832000",
+        "Three cars, one champion!"
+      ],
+      [
+        152,
+        "00:11:42.935000",
+        "00:11:45.495000",
+        "than a lot of cars has got in their whole body."
+      ],
+      [
+        196,
+        "00:14:29.869000",
+        "00:14:34.101000",
+        "I hate rusty cars. This is not good for my image."
+      ],
+      [
+        783,
+        "00:53:13.390000",
+        "00:53:17.520000",
+        "The motel's made out of caution cones, which, of course, cars try to avoid."
+      ]
+    ],
+    "regex": "\\b((?!\\bCars:)Cars)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0102609",
+    "title": "Other People's Money",
+    "year": 1991,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1274,
+    "occurrences": [
+      [
+        15,
+        "00:01:25.897000",
+        "00:01:29.025000",
+        "Other people's money."
+      ],
+      [
+        474,
+        "00:31:46.817000",
+        "00:31:49.809000",
+        "Other people's money!"
+      ],
+      [
+        1083,
+        "01:21:14.748000",
+        "01:21:17.546000",
+        "...with other people's money."
+      ]
+    ],
+    "regex": "\\b((?!\\bOther\\ People's\\ Money:)Other\\ People's\\ Money)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

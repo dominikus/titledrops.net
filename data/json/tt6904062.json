@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt6904062",
+    "title": "Real",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 799,
+    "occurrences": [
+      [
+        280,
+        "00:37:54.003000",
+        "00:37:55.004000",
+        "feels real"
+      ],
+      [
+        697,
+        "01:42:16.002000",
+        "01:42:18.002000",
+        "i'm the real"
+      ]
+    ],
+    "regex": "\\b((?!\\bReal:)Real)(?!\\:)(?!'t)\\b",
+    "runtime": 138,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

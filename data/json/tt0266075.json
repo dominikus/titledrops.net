@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0266075",
+    "title": "Memento Mori",
+    "year": 1999,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 821,
+    "occurrences": [
+      [
+        601,
+        "00:57:07.540000",
+        "00:57:09.565000",
+        "Memento Mori."
+      ],
+      [
+        602,
+        "00:57:11.711000",
+        "00:57:12.541000",
+        "Memento Mori?"
+      ],
+      [
+        603,
+        "00:57:15.682000",
+        "00:57:16.307000",
+        "Memento Mori.."
+      ],
+      [
+        605,
+        "00:57:21.788000",
+        "00:57:23.779000",
+        "Memento Mori.."
+      ]
+    ],
+    "regex": "\\b((?!\\bMemento\\ Mori:)Memento\\ Mori)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

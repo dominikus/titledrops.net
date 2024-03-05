@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0034379",
+    "title": "Week-End in Havana",
+    "year": 1941,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1240,
+    "occurrences": [
+      [
+        1,
+        "00:02:17.031000",
+        "00:02:20.831000",
+        "How would you like to spend the weekend in Havana"
+      ],
+      [
+        9,
+        "00:02:49.997000",
+        "00:02:55.629000",
+        "If you would like to spend the weekend in Havana"
+      ],
+      [
+        14,
+        "00:03:12.487000",
+        "00:03:18.084000",
+        "How would you like to spend the weekend in Havana"
+      ],
+      [
+        182,
+        "00:11:47.034000",
+        "00:11:51.334000",
+        "Like to spend a weekend in Havana"
+      ],
+      [
+        1224,
+        "01:19:35.465000",
+        "01:19:38.992000",
+        "- Come on along and spend the weekend in Havana -"
+      ],
+      [
+        1228,
+        "01:19:46.776000",
+        "01:19:51.213000",
+        "If you would like to spend the weekend in Havana"
+      ]
+    ],
+    "regex": "\\b((?!\\bWeekEnd\\ in\\ Havana:)WeekEnd\\ in\\ Havana)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

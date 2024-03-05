@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0112722",
+    "title": "Copycat",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1464,
+    "occurrences": [
+      [
+        1299,
+        "01:37:53.870000",
+        "01:37:56.660000",
+        "...known in the media as \"The Copycat Killer\"..."
+      ],
+      [
+        1390,
+        "01:46:46.820000",
+        "01:46:49.530000",
+        "...boring, impotent little copycat."
+      ]
+    ],
+    "regex": "\\b((?!\\bCopycat:)Copycat)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

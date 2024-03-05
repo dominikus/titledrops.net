@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2234457",
+    "title": "Templar Nation",
+    "year": 2013,
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1173,
+    "occurrences": [
+      [
+        1134,
+        "01:09:58.100000",
+        "01:10:04.033000",
+        "the Order developed a radical plan, a Templar nation."
+      ],
+      [
+        1146,
+        "01:10:43.100000",
+        "01:10:45.265000",
+        "Why did Templar nation fail?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTemplar\\ Nation:)Templar\\ Nation)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

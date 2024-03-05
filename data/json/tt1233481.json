@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1233481",
+    "title": "Cafe Isobe",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1756,
+    "occurrences": [
+      [
+        30,
+        "00:02:54.516000",
+        "00:03:02.013000",
+        "Authentic Cafe Isobe"
+      ],
+      [
+        236,
+        "00:16:06.016000",
+        "00:16:09.634000",
+        "What's this \"Authentic Cafe Isobe\"?"
+      ],
+      [
+        571,
+        "00:36:24.224000",
+        "00:36:26.431000",
+        "'Authentic Cafe Isobe.'"
+      ],
+      [
+        1710,
+        "01:47:55.933000",
+        "01:47:59.221000",
+        "What's this \"Authentic Cafe Isobe\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCafe\\ Isobe:)Cafe\\ Isobe)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

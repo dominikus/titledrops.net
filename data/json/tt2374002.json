@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2374002",
+    "title": "Sweet Little Lies",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1514,
+    "occurrences": [
+      [
+        15,
+        "00:01:06.001000",
+        "00:01:12",
+        "Sweet Little Lies"
+      ],
+      [
+        1105,
+        "01:10:04.501000",
+        "01:10:08.800000",
+        "Or tell me sweet little lies."
+      ]
+    ],
+    "regex": "\\b((?!\\bSweet\\ Little\\ Lies:)Sweet\\ Little\\ Lies)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

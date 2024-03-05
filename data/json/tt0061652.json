@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0061652",
+    "title": "The Fastest Guitar Alive",
+    "year": 1967,
+    "genres": [
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 1135,
+    "occurrences": [
+      [
+        0,
+        "00:00:08.909000",
+        "00:00:11.844000",
+        "[Roy Orbison singing \"The Fastest Guitar Alive\"]"
+      ],
+      [
+        9,
+        "00:00:55.423000",
+        "00:00:59.091000",
+        "? The fastest guitar alive ?"
+      ],
+      [
+        1135,
+        "01:26:45.134000",
+        "01:26:50.170000",
+        "? The fastest guitar alive ?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFastest\\ Guitar\\ Alive:)Fastest\\ Guitar\\ Alive)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

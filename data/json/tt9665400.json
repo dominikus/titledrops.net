@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt9665400",
+    "title": "Mehandi Circus",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1228,
+    "occurrences": [
+      [
+        266,
+        "00:20:53.240000",
+        "00:20:56.040000",
+        "-What is the name of the circus? -Mehandi circus."
+      ],
+      [
+        329,
+        "00:25:56.040000",
+        "00:25:57.280000",
+        "...yours' Mehandi circus!"
+      ],
+      [
+        363,
+        "00:28:37.880000",
+        "00:28:40.640000",
+        "Mehandi Circus is going to start in few minutes..."
+      ],
+      [
+        738,
+        "01:00:08.040000",
+        "01:00:12.400000",
+        "\"Mehandi circus starts today evening in your town...\""
+      ]
+    ],
+    "regex": "\\b((?!\\bMehandi\\ Circus:)Mehandi\\ Circus)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

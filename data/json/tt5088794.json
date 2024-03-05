@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5088794",
+    "title": "Dogs",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 710,
+    "occurrences": [
+      [
+        5,
+        "00:04:34",
+        "00:04:35.625000",
+        "People bite, let alone dogs."
+      ],
+      [
+        533,
+        "01:11:43.958000",
+        "01:11:46.250000",
+        "Dogs too. They cross only on green."
+      ],
+      [
+        535,
+        "01:11:50.708000",
+        "01:11:53.625000",
+        "you stay with the dogs, waiting for permission to go."
+      ]
+    ],
+    "regex": "\\b((?!\\bDogs:)Dogs)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

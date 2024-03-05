@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt21738294",
+    "title": "I Don't Expect Anyone to Believe Me",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 2003,
+    "occurrences": [
+      [
+        1290,
+        "01:13:30.250000",
+        "01:13:33.666000",
+        "and his novel titled I Don't Expect Anyone to Believe Me."
+      ],
+      [
+        1323,
+        "01:15:20.875000",
+        "01:15:24.583000",
+        "\"I don't expect anyone to believe me. And I'm not going to the police.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Don't\\ Expect\\ Anyone\\ to\\ Believe\\ Me:)I\\ Don't\\ Expect\\ Anyone\\ to\\ Believe\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

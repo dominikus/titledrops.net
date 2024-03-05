@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0246875",
+    "title": "Purely Belter",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1409,
+    "occurrences": [
+      [
+        505,
+        "00:31:29.090000",
+        "00:31:33",
+        "- What was the tea like? - Belter. Purely belter."
+      ],
+      [
+        1127,
+        "01:12:40.770000",
+        "01:12:43.440000",
+        "Belter, man! It's purely belter!"
+      ],
+      [
+        1269,
+        "01:24:13.690000",
+        "01:24:15.040000",
+        "Purely belter."
+      ],
+      [
+        1378,
+        "01:31:32.730000",
+        "01:31:36.360000",
+        "- Belter, eh? - Aye, purely belter."
+      ]
+    ],
+    "regex": "\\b((?!\\bPurely\\ Belter:)Purely\\ Belter)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

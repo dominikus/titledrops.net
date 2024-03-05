@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1032815",
+    "title": "I Love You, Beth Cooper",
+    "year": 2009,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1308,
+    "occurrences": [
+      [
+        50,
+        "00:04:27.450000",
+        "00:04:29.418000",
+        "I love you, Beth Cooper."
+      ],
+      [
+        61,
+        "00:05:25.341000",
+        "00:05:30.802000",
+        "I love you, Beth Cooper."
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Love\\ You,\\ Beth\\ Cooper:)I\\ Love\\ You,\\ Beth\\ Cooper)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt15469092",
+    "title": "The Plus One",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1783,
+    "occurrences": [
+      [
+        116,
+        "00:05:39.923000",
+        "00:05:41.925000",
+        "You think I should give him a plus one?"
+      ],
+      [
+        119,
+        "00:05:46.763000",
+        "00:05:49.766000",
+        "so you think it's like, insensitive to give him a plus one?"
+      ],
+      [
+        275,
+        "00:13:46.493000",
+        "00:13:49.621000",
+        "So, who did you end up bringing as your plus one?"
+      ],
+      [
+        346,
+        "00:17:08.028000",
+        "00:17:10.405000",
+        "She's just a plus one, okay? We'll barely see her."
+      ],
+      [
+        475,
+        "00:23:33.997000",
+        "00:23:37.167000",
+        "I specifically wrote, \"Marshall Miller plus one,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPlus\\ One:)Plus\\ One)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3
+  }
+]

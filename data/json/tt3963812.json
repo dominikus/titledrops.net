@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3963812",
+    "title": "Dragonfly",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1187,
+    "occurrences": [
+      [
+        328,
+        "00:20:05.057000",
+        "00:20:06.664000",
+        "Dear Dragonfly,"
+      ],
+      [
+        334,
+        "00:20:22.214000",
+        "00:20:24.740000",
+        "your love letter to your Dragonfly."
+      ],
+      [
+        1109,
+        "01:08:41.108000",
+        "01:08:42.976000",
+        "Dear Dragonfly."
+      ]
+    ],
+    "regex": "\\b((?!\\bDragonfly:)Dragonfly)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

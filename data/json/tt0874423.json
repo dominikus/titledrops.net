@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0874423",
+    "title": "Zoo",
+    "year": 2007,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 817,
+    "occurrences": [
+      [
+        43,
+        "00:04:54.169000",
+        "00:04:58.673000",
+        "Coyote: Before I even had the concept of being zoo,"
+      ],
+      [
+        92,
+        "00:08:55.827000",
+        "00:09:01.249000",
+        "Trying to balance religion and being zoo..."
+      ]
+    ],
+    "regex": "\\b((?!\\bZoo:)Zoo)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt4520924",
+    "title": "Beauty Mark",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1343,
+    "occurrences": [
+      [
+        994,
+        "00:58:33.579000",
+        "00:58:34.752000",
+        "Is that beauty mark?"
+      ],
+      [
+        995,
+        "00:58:34.787000",
+        "00:58:36.823000",
+        "Yeah, that's a beauty mark."
+      ]
+    ],
+    "regex": "\\b((?!\\bBeauty\\ Mark:)Beauty\\ Mark)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

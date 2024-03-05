@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0996982",
+    "title": "The Tour",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 619,
+    "occurrences": [
+      [
+        191,
+        "00:15:04.320000",
+        "00:15:06.709000",
+        "Sir... comrade... when we agreed about the tour..."
+      ],
+      [
+        404,
+        "00:33:52.200000",
+        "00:33:55.670000",
+        "Nobody mentioned any of this when we negotiated the details of the tour."
+      ],
+      [
+        504,
+        "00:41:59.520000",
+        "00:42:03.035000",
+        "I don't care. You're the tour manager. You figure it out!"
+      ]
+    ],
+    "regex": "\\b((?!\\bTour:)Tour)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

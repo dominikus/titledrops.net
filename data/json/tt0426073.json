@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0426073",
+    "title": "Bedlam",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 739,
+    "occurrences": [
+      [
+        20,
+        "00:02:07.640000",
+        "00:02:11.553000",
+        "Bedlam"
+      ],
+      [
+        730,
+        "01:08:10.440000",
+        "01:08:14.035000",
+        "I think it would be better for everybody if we could put an end to all this bedlam."
+      ]
+    ],
+    "regex": "\\b((?!\\bBedlam:)Bedlam)(?!\\:)(?!'t)\\b",
+    "runtime": 74,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

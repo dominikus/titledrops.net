@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt7339862",
+    "title": "The Friendship Game",
+    "year": 2022,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 6,
+    "all_lines": 996,
+    "occurrences": [
+      [
+        6,
+        "00:01:29.691000",
+        "00:01:33.327000",
+        "It's a game, a friendship game."
+      ],
+      [
+        499,
+        "00:46:43.037000",
+        "00:46:44.838000",
+        "Friendship game."
+      ],
+      [
+        926,
+        "01:19:28.435000",
+        "01:19:30.070000",
+        "A friendship game."
+      ],
+      [
+        960,
+        "01:21:38.999000",
+        "01:21:40.635000",
+        "It's a friendship game."
+      ],
+      [
+        965,
+        "01:21:48.041000",
+        "01:21:49.243000",
+        "Friendship game."
+      ],
+      [
+        966,
+        "01:21:49.276000",
+        "01:21:51.445000",
+        "What's a friendship game?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFriendship\\ Game:)Friendship\\ Game)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

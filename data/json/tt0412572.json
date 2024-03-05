@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0412572",
+    "title": "Chaos",
+    "year": 2006,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 842,
+    "occurrences": [
+      [
+        318,
+        "00:29:58.440000",
+        "00:30:00.635000",
+        "Do you ever heard of Chaos Theory?"
+      ],
+      [
+        319,
+        "00:30:00.880000",
+        "00:30:04.589000",
+        "Edward Lorenz invented the Chaos Theory in the 1960s"
+      ],
+      [
+        822,
+        "01:36:16.640000",
+        "01:36:19.393000",
+        "That is the Chaos Theory"
+      ]
+    ],
+    "regex": "\\b((?!\\bChaos:)Chaos)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

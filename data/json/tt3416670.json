@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt3416670",
+    "title": "The Independent",
+    "year": 2022,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 1929,
+    "occurrences": [
+      [
+        17,
+        "00:02:02.914000",
+        "00:02:05.625000",
+        "The independent candidate has created a tsunami,"
+      ],
+      [
+        191,
+        "00:09:50.048000",
+        "00:09:51.168000",
+        "for an independent like him."
+      ],
+      [
+        522,
+        "00:24:19.834000",
+        "00:24:21.954000",
+        "Nate Sterling is set to launch an independent campaign"
+      ],
+      [
+        528,
+        "00:24:32.722000",
+        "00:24:35.684000",
+        "While history tells us that an independent bid faces..."
+      ],
+      [
+        1388,
+        "01:09:36.051000",
+        "01:09:38.720000",
+        "The man has been an independent for the last three decades."
+      ],
+      [
+        1915,
+        "01:40:32.198000",
+        "01:40:33.198000",
+        "The Independent."
+      ],
+      [
+        1916,
+        "01:40:36.661000",
+        "01:40:37.787000",
+        "The Independent."
+      ]
+    ],
+    "regex": "\\b((?!\\bIndependent:)Independent)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

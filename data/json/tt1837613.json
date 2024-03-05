@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1837613",
+    "title": "Northern Soul",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1382,
+    "occurrences": [
+      [
+        155,
+        "00:10:14.400000",
+        "00:10:16.402000",
+        "Hey, are you into Northern Soul?"
+      ],
+      [
+        1177,
+        "01:13:12.160000",
+        "01:13:14.208000",
+        "This is Northern Soul, not Northern Arsehole!"
+      ]
+    ],
+    "regex": "\\b((?!\\bNorthern\\ Soul:)Northern\\ Soul)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

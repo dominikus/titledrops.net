@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0039377",
+    "title": "Fiesta",
+    "year": 1947,
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1309,
+    "occurrences": [
+      [
+        1222,
+        "01:37:00.625000",
+        "01:37:02.991000",
+        "He invited all these people for a fiesta for you."
+      ],
+      [
+        1298,
+        "01:41:04.336000",
+        "01:41:05.803000",
+        "I ordered this fiesta for you."
+      ]
+    ],
+    "regex": "\\b((?!\\bFiesta:)Fiesta)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

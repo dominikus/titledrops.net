@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1295905",
+    "title": "Johan Falk: GSI - Gruppen för särskilda insatser",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1125,
+    "occurrences": [
+      [
+        36,
+        "00:05:46.927000",
+        "00:05:49.805000",
+        "Johan Falk. I'll start working here."
+      ],
+      [
+        53,
+        "00:07:05.167000",
+        "00:07:09.718000",
+        "Listen up, everybody. This is Johan Falk, a new liaison officer"
+      ],
+      [
+        241,
+        "00:25:27.207000",
+        "00:25:29.801000",
+        "- Johan Falk? - Yes."
+      ]
+    ],
+    "regex": "\\b((?!\\bJohan\\ Falk:)Johan\\ Falk|(?!\\bGSI\\ \\-\\ Gruppen\\ for\\ sarskilda\\ insatser:)GSI\\ \\-\\ Gruppen\\ for\\ sarskilda\\ insatser)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

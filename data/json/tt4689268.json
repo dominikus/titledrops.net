@@ -1,0 +1,26 @@
+[
+  {
+    "imdb": "tt4689268",
+    "title": "Brothers in Blood: The Lions of Sabi Sand",
+    "year": 2015,
+    "genres": [
+      "Documentary",
+      "Drama"
+    ],
+    "count": 1,
+    "all_lines": 667,
+    "occurrences": [
+      [
+        29,
+        "00:04:00.210000",
+        "00:04:03.610000",
+        "I was with the lions of Sabi Sand during their puppy time."
+      ]
+    ],
+    "regex": "\\b((?!\\bBrothers\\ in\\ Blood:)Brothers\\ in\\ Blood|(?!\\bLions\\ of\\ Sabi\\ Sand:)Lions\\ of\\ Sabi\\ Sand)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.5
+  }
+]

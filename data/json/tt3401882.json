@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt3401882",
+    "title": "Fist Fight",
+    "year": 2017,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 2004,
+    "occurrences": [
+      [
+        497,
+        "00:22:21.800000",
+        "00:22:24.406000",
+        "You really wanna have a fist fight after school,"
+      ],
+      [
+        675,
+        "00:29:55.880000",
+        "00:29:59.202000",
+        "I heard you challenged Mr. Campbell to a fist fight."
+      ],
+      [
+        1009,
+        "00:43:22.480000",
+        "00:43:24.687000",
+        "who wants to have a fist fight with me after school."
+      ],
+      [
+        1636,
+        "01:10:14.600000",
+        "01:10:16.125000",
+        "Daddy's gotta get in a fist fight."
+      ]
+    ],
+    "regex": "\\b((?!\\bFist\\ Fight:)Fist\\ Fight)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

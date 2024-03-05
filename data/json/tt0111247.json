@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0111247",
+    "title": "The Smile",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 824,
+    "occurrences": [
+      [
+        101,
+        "00:09:55",
+        "00:09:57",
+        "even smile I am incapable ..."
+      ],
+      [
+        380,
+        "00:37:35.510000",
+        "00:37:37.750000",
+        "The groove of your buttocks is the smile of my life."
+      ]
+    ],
+    "regex": "\\b((?!\\bSmile:)Smile)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

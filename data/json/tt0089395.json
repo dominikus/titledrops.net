@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0089395",
+    "title": "Happy Ghost II",
+    "year": 1985,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 1460,
+    "occurrences": [
+      [
+        17,
+        "00:01:46.439000",
+        "00:01:49.033000",
+        "This is the happy ghost after reincarnation."
+      ],
+      [
+        26,
+        "00:03:25.838000",
+        "00:03:29.775000",
+        "Although the reborn happy ghost"
+      ],
+      [
+        1178,
+        "01:14:11.313000",
+        "01:14:12.439000",
+        "It's great to see you, Happy Ghost!"
+      ],
+      [
+        1191,
+        "01:14:37.806000",
+        "01:14:39.205000",
+        "Happy Ghost! Please!"
+      ],
+      [
+        1201,
+        "01:15:01.163000",
+        "01:15:03.359000",
+        "Happy Ghost..."
+      ]
+    ],
+    "regex": "\\b((?!\\bHappy\\ Ghost:)Happy\\ Ghost)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

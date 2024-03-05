@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0047336",
+    "title": "Fear",
+    "year": 1954,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 783,
+    "occurrences": [
+      [
+        35,
+        "00:04:22.762000",
+        "00:04:27.734000",
+        "A..a sense of guilt, a terrible fear!"
+      ],
+      [
+        150,
+        "00:16:18.377000",
+        "00:16:22.177000",
+        "As you see, one shouldn't fear the poisons used by doctors ."
+      ]
+    ],
+    "regex": "\\b((?!\\bFear:)Fear)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

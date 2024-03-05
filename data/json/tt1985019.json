@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1985019",
+    "title": "Austenland",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 2599,
+    "occurrences": [
+      [
+        96,
+        "00:03:44.185000",
+        "00:03:46.268000",
+        "at Austenland ends with"
+      ],
+      [
+        2499,
+        "01:32:06.146000",
+        "01:32:09.400000",
+        "Welcome to Austenland."
+      ],
+      [
+        2513,
+        "01:32:38.262000",
+        "01:32:42.475000",
+        "In Austenland"
+      ],
+      [
+        2536,
+        "01:33:42.576000",
+        "01:33:43.703000",
+        "Austenland"
+      ],
+      [
+        2540,
+        "01:33:50",
+        "01:33:52.691000",
+        "Austenland"
+      ]
+    ],
+    "regex": "\\b((?!\\bAustenland:)Austenland)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

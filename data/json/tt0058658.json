@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0058658",
+    "title": "Code Name: Tiger",
+    "year": 1964,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 491,
+    "occurrences": [
+      [
+        46,
+        "00:10:33.440000",
+        "00:10:36.118000",
+        "Being called The Tiger, doesn't allow you to eat everything..."
+      ],
+      [
+        56,
+        "00:11:51.046000",
+        "00:11:53.720000",
+        "Look tiger, all of us cant be heroes every day.."
+      ],
+      [
+        172,
+        "00:27:05.573000",
+        "00:27:06.944000",
+        "Some say a tiger.."
+      ],
+      [
+        178,
+        "00:27:33.398000",
+        "00:27:36.294000",
+        "The tiger riding on the miniature train Amusing, dont you think?"
+      ],
+      [
+        191,
+        "00:28:41.694000",
+        "00:28:47.224000",
+        "when a self-sufficient mother left her daughter in the claws of a tiger"
+      ],
+      [
+        204,
+        "00:30:38.983000",
+        "00:30:42.799000",
+        "After all, now I know the Tiger, I can't stand that weasel anymore."
+      ]
+    ],
+    "regex": "\\b((?!\\bCode\\ Name:)Code\\ Name|(?!\\bTiger:)Tiger)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

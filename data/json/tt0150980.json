@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0150980",
+    "title": "The Housemaid",
+    "year": 1960,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 822,
+    "occurrences": [
+      [
+        13,
+        "00:02:08.862000",
+        "00:02:17.736000",
+        "Original screenplay by Kim Ki-young The Housemaid Kim Ki-young Production"
+      ],
+      [
+        150,
+        "00:16:26.418000",
+        "00:16:29.251000",
+        "I need a housemaid."
+      ],
+      [
+        161,
+        "00:17:47.199000",
+        "00:17:51.659000",
+        "Could you find us a housemaid? I'm tired of the housework."
+      ],
+      [
+        166,
+        "00:18:05.651000",
+        "00:18:09.314000",
+        "- Want me to find him a housemaid. - He asked the wrong person."
+      ],
+      [
+        213,
+        "00:22:26.111000",
+        "00:22:30.377000",
+        "- Your housemaid. - I see."
+      ]
+    ],
+    "regex": "\\b((?!\\bHousemaid:)Housemaid)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

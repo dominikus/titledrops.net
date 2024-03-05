@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1791528",
+    "title": "Inherent Vice",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1887,
+    "occurrences": [
+      [
+        1542,
+        "01:51:38.520000",
+        "01:51:40.820000",
+        "because of inherent vice."
+      ],
+      [
+        1545,
+        "01:52:27.380000",
+        "01:52:29.020000",
+        "Inherent Vice.."
+      ]
+    ],
+    "regex": "\\b((?!\\bInherent\\ Vice:)Inherent\\ Vice)(?!\\:)(?!'t)\\b",
+    "runtime": 148,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

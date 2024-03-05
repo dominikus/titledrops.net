@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt5212808",
+    "title": "Heavy",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1662,
+    "occurrences": [
+      [
+        274,
+        "00:14:26.938000",
+        "00:14:29.975000",
+        "Well, besides the Heavy."
+      ],
+      [
+        534,
+        "00:27:14.271000",
+        "00:27:16.507000",
+        "A whole one. Of Heavy."
+      ],
+      [
+        1035,
+        "00:49:01.877000",
+        "00:49:03.846000",
+        "I need to get into some Heavy."
+      ],
+      [
+        1631,
+        "01:31:31.257000",
+        "01:31:33.461000",
+        "Heavy, I'm lifted"
+      ],
+      [
+        1632,
+        "01:31:33.493000",
+        "01:31:35.162000",
+        "Heavy, she's gifted"
+      ]
+    ],
+    "regex": "\\b((?!\\bHeavy:)Heavy)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

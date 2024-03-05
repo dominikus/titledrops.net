@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt7328154",
+    "title": "Holiday",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 594,
+    "occurrences": [
+      [
+        99,
+        "00:17:18.002000",
+        "00:17:19.072000",
+        "- Yeah, and you, you're on a holiday?"
+      ],
+      [
+        101,
+        "00:17:20.936000",
+        "00:17:23.111000",
+        "we are on holiday, just a bunch of..."
+      ]
+    ],
+    "regex": "\\b((?!\\bHoliday:)Holiday)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

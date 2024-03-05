@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2620490",
+    "title": "Army of Frankensteins",
+    "year": 2013,
+    "genres": [
+      "Adventure",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1263,
+    "occurrences": [
+      [
+        290,
+        "00:21:58.055000",
+        "00:22:00.014000",
+        "And kill an army of Frankensteins."
+      ],
+      [
+        730,
+        "00:55:17.923000",
+        "00:55:20.404000",
+        "Let them face our army of Frankensteins!"
+      ]
+    ],
+    "regex": "\\b((?!\\bArmy\\ of\\ Frankensteins:)Army\\ of\\ Frankensteins)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3
+  }
+]

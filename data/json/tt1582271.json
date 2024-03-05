@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1582271",
+    "title": "The Good Doctor",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 731,
+    "occurrences": [
+      [
+        43,
+        "00:05:22.898000",
+        "00:05:25.765000",
+        "A great candidate is simply a good doctor."
+      ],
+      [
+        45,
+        "00:05:27.703000",
+        "00:05:30.672000",
+        "That means you're a good doctor. Is not Martin?"
+      ],
+      [
+        200,
+        "00:19:39.854000",
+        "00:19:43.381000",
+        "Everyone says you're a good doctor."
+      ]
+    ],
+    "regex": "\\b((?!\\bGood\\ Doctor:)Good\\ Doctor)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

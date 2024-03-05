@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt14992922",
+    "title": "The Tinder Swindler",
+    "year": 2022,
+    "genres": [
+      "Crime",
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1590,
+    "occurrences": [
+      [
+        1230,
+        "01:23:22.520000",
+        "01:23:27.320000",
+        "Everybody wanted to read The Tinder Swindler. It was going viral."
+      ],
+      [
+        1283,
+        "01:26:39.480000",
+        "01:26:40.760000",
+        "\"The Tinder Swindler\"?"
+      ],
+      [
+        1398,
+        "01:34:45.320000",
+        "01:34:50.680000",
+        "That's when I got my idea. I was going to swindle the Tinder Swindler."
+      ]
+    ],
+    "regex": "\\b((?!\\bTinder\\ Swindler:)Tinder\\ Swindler)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

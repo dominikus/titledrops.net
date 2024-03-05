@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt4625324",
+    "title": "Satan Said Dance",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 530,
+    "occurrences": [
+      [
+        0,
+        "00:01:10.520000",
+        "00:01:14.127000",
+        "Satan Said Dance"
+      ],
+      [
+        217,
+        "00:34:19.640000",
+        "00:34:25.170000",
+        "and wears a jacket with \"Satan said dance\" painted on it."
+      ]
+    ],
+    "regex": "\\b((?!\\bSatan\\ Said\\ Dance:)Satan\\ Said\\ Dance)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

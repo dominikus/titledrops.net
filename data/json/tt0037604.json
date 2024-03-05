@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0037604",
+    "title": "The Clock",
+    "year": 1945,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 7,
+    "all_lines": 1126,
+    "occurrences": [
+      [
+        173,
+        "00:13:57.670000",
+        "00:14:00.256000",
+        "wishing that it were 3 o'clock and could get out the old bat."
+      ],
+      [
+        232,
+        "00:17:02.355000",
+        "00:17:04.440000",
+        "- 5 o'clock. - Oh, it's late! I've got to go."
+      ],
+      [
+        267,
+        "00:19:50.648000",
+        "00:19:53.359000",
+        "Under the clock at the Astor at 7:00."
+      ],
+      [
+        268,
+        "00:19:55.194000",
+        "00:19:58.531000",
+        "Under the clock at the Astor at 7:00."
+      ],
+      [
+        872,
+        "01:03:34.936000",
+        "01:03:38.189000",
+        "The clock at the Astor hotel! I had a date with her last night!"
+      ],
+      [
+        987,
+        "01:12:17.792000",
+        "01:12:19.794000",
+        "Well, where did he go? It isn't 4 o'clock yet."
+      ],
+      [
+        993,
+        "01:12:31.222000",
+        "01:12:32.932000",
+        "But, mister, it isn't 4 o'clock yet."
+      ]
+    ],
+    "regex": "\\b((?!\\bClock:)Clock)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt7489816",
+    "title": "Nothing to Hide",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1716,
+    "occurrences": [
+      [
+        415,
+        "00:18:11.380000",
+        "00:18:13.296000",
+        "If you've got nothing to hide..."
+      ],
+      [
+        420,
+        "00:18:21.255000",
+        "00:18:25.546000",
+        "Make up your mind. You just said it's not a problem if you've nothing to hide."
+      ],
+      [
+        440,
+        "00:19:24.463000",
+        "00:19:26.338000",
+        "- A game? - Since we have nothing to hide,"
+      ]
+    ],
+    "regex": "\\b((?!\\bNothing\\ to\\ Hide:)Nothing\\ to\\ Hide)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

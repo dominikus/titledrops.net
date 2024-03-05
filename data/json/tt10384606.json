@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt10384606",
+    "title": "Borderless",
+    "year": 2019,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1009,
+    "occurrences": [
+      [
+        669,
+        "00:56:40.800000",
+        "00:56:46.058000",
+        "And ideologically, they are wedded to the fact that there should be a borderless Europe, and there should be a borderless world."
+      ],
+      [
+        1004,
+        "01:24:30",
+        "01:24:33",
+        "The story of a borderless Europe is one where nobody wins."
+      ]
+    ],
+    "regex": "\\b((?!\\bBorderless:)Borderless)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

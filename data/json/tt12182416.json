@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt12182416",
+    "title": "Bert's Diary",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1049,
+    "occurrences": [
+      [
+        867,
+        "01:09:47.083000",
+        "01:09:51.750000",
+        "Diary Day. A day when we read aloud from Bert's diary."
+      ],
+      [
+        903,
+        "01:12:48.583000",
+        "01:12:50.583000",
+        "Bert's diary?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBert's\\ Diary:)Bert's\\ Diary)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

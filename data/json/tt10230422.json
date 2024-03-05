@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt10230422",
+    "title": "Class of '83",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1191,
+    "occurrences": [
+      [
+        60,
+        "00:04:02.416000",
+        "00:04:04.500000",
+        "almost a back bencher in the class of '83."
+      ],
+      [
+        728,
+        "00:57:04.875000",
+        "00:57:08.375000",
+        "Are you still in touch with your first batch? Class of '83."
+      ]
+    ],
+    "regex": "\\b((?!\\bClass\\ of\\ '83:)Class\\ of\\ '83)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

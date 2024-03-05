@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4591310",
+    "title": "The Monkey King 2",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 916,
+    "occurrences": [
+      [
+        0,
+        "00:00:59.143000",
+        "00:01:01.520000",
+        "It's been 500 years after the Monkey King's havoc in heaven"
+      ],
+      [
+        208,
+        "00:27:37.657000",
+        "00:27:40.576000",
+        "The Handsome Monkey King from the Mountain of Flowers and Fruit"
+      ]
+    ],
+    "regex": "\\b((?!\\bMonkey\\ King:)Monkey\\ King)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0065241",
+    "title": "The Joke",
+    "year": 1969,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 725,
+    "occurrences": [
+      [
+        185,
+        "00:15:54.714000",
+        "00:15:56.909000",
+        "It was just a joke."
+      ],
+      [
+        186,
+        "00:15:57.399000",
+        "00:16:00.392000",
+        "A joke. Interesting."
+      ],
+      [
+        287,
+        "00:26:34.939000",
+        "00:26:37.051000",
+        "They'd have known it was a joke."
+      ]
+    ],
+    "regex": "\\b((?!\\bJoke:)Joke)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

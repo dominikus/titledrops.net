@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0358503",
+    "title": "Garden of Heaven",
+    "year": 2003,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 649,
+    "occurrences": [
+      [
+        18,
+        "00:03:28.708000",
+        "00:03:35.011000",
+        "The Garden of Heaven"
+      ],
+      [
+        240,
+        "00:32:41.159000",
+        "00:32:44.890000",
+        "Come to the Garden of Heaven. I'll help you die gracefully."
+      ]
+    ],
+    "regex": "\\b((?!\\bGarden\\ of\\ Heaven:)Garden\\ of\\ Heaven)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

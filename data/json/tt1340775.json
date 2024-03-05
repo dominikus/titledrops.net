@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1340775",
+    "title": "Forecast",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 342,
+    "occurrences": [
+      [
+        8,
+        "00:07:14.465000",
+        "00:07:17.391000",
+        "I can't wait for any forecast to end!"
+      ],
+      [
+        17,
+        "00:08:02.007000",
+        "00:08:05.079000",
+        "A whole month waiting for them to get together for a forecast,"
+      ],
+      [
+        123,
+        "00:33:39.647000",
+        "00:33:42.923000",
+        "The only one that survived the July forecast -"
+      ]
+    ],
+    "regex": "\\b((?!\\bForecast:)Forecast)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

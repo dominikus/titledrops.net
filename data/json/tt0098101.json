@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0098101",
+    "title": "Play Me Something",
+    "year": 1989,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 942,
+    "occurrences": [
+      [
+        28,
+        "00:04:01.880000",
+        "00:04:03.960000",
+        "Play Me Something, a film by..."
+      ],
+      [
+        817,
+        "00:57:14.920000",
+        "00:57:18.720000",
+        "\"Play me something. Now you must,\" said Marietta."
+      ]
+    ],
+    "regex": "\\b((?!\\bPlay\\ Me\\ Something:)Play\\ Me\\ Something)(?!\\:)(?!'t)\\b",
+    "runtime": 72,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

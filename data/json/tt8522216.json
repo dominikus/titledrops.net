@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt8522216",
+    "title": "Pharma Bro",
+    "year": 2021,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1576,
+    "occurrences": [
+      [
+        61,
+        "00:04:15.210000",
+        "00:04:16.780000",
+        "REPORTER 1: Price gouging Pharma Bro."
+      ],
+      [
+        1177,
+        "01:02:17.304000",
+        "01:02:19.910000",
+        "Sounds like Pharma Bro needs some meds."
+      ],
+      [
+        1518,
+        "01:20:03.670000",
+        "01:20:06.642000",
+        "ANA KASPARIAN: Notorious Pharma Bro is now in jail."
+      ],
+      [
+        1552,
+        "01:21:44.003000",
+        "01:21:47.677000",
+        "of Pharma Bro Martin Shkreli, puts her life on the line for love."
+      ]
+    ],
+    "regex": "\\b((?!\\bPharma\\ Bro:)Pharma\\ Bro)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [
+      "Self - `Pharma Bro`"
+    ],
+    "title_is_name": true,
+    "rating": 5.1
+  }
+]

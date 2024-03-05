@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0061722",
+    "title": "The Graduate",
+    "year": 1967,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1043,
+    "occurrences": [
+      [
+        413,
+        "00:41:14.520000",
+        "00:41:17.080000",
+        "Have you thought about graduate school? No."
+      ],
+      [
+        631,
+        "00:55:39.080000",
+        "00:55:42.360000",
+        "Are you going to graduate school? No."
+      ]
+    ],
+    "regex": "\\b((?!\\bGraduate:)Graduate)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

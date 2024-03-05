@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0072714",
+    "title": "Blue Jeans",
+    "year": 1975,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 808,
+    "occurrences": [
+      [
+        38,
+        "00:06:03.887000",
+        "00:06:06.037000",
+        "What is your name? - Blue Jeans."
+      ],
+      [
+        40,
+        "00:06:09.527000",
+        "00:06:10.926000",
+        "- Blue Jeans. - Stop talking nonsense."
+      ],
+      [
+        687,
+        "01:12:06.367000",
+        "01:12:10.360000",
+        "Listen Blue Jeans. This time we will make great cash."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Jeans:)Blue\\ Jeans)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [
+      "Daniela `Blue Jeans` Anselmi"
+    ],
+    "title_is_name": true,
+    "rating": 5.2
+  }
+]

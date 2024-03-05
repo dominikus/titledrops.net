@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt10644282",
+    "title": "Shylock",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1612,
+    "occurrences": [
+      [
+        284,
+        "00:24:44.830000",
+        "00:24:46.370000",
+        "'Operation Shylock'."
+      ],
+      [
+        286,
+        "00:25:00.950000",
+        "00:25:03.410000",
+        "Though people call him 'Boss' and 'Shylock',"
+      ],
+      [
+        289,
+        "00:25:11.750000",
+        "00:25:13.410000",
+        "Shylock? What's that, sir?"
+      ],
+      [
+        292,
+        "00:25:17.540000",
+        "00:25:20.330000",
+        "That's why the movie industry named him 'Shylock'."
+      ],
+      [
+        477,
+        "00:39:30.080000",
+        "00:39:31.830000",
+        "Operation Shylock!"
+      ],
+      [
+        735,
+        "00:53:37.750000",
+        "00:53:40.830000",
+        "The loan mafia head Boss, who's known as Shylock, has been arrested."
+      ]
+    ],
+    "regex": "\\b((?!\\bShylock:)Shylock)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

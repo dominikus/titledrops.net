@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt10743534",
+    "title": "The Oak Room",
+    "year": 2020,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1540,
+    "occurrences": [
+      [
+        250,
+        "00:16:07.234000",
+        "00:16:10.772000",
+        "The Oak Room. And..."
+      ],
+      [
+        259,
+        "00:16:27.120000",
+        "00:16:31.526000",
+        "You're never gonna believe what happened at The Oak Room."
+      ],
+      [
+        284,
+        "00:17:44.799000",
+        "00:17:48.770000",
+        "Okay, well, The... The Oak Room,"
+      ],
+      [
+        286,
+        "00:17:52.607000",
+        "00:17:54.509000",
+        "- To The Oak Room? - Yeah."
+      ]
+    ],
+    "regex": "\\b((?!\\bOak\\ Room:)Oak\\ Room)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

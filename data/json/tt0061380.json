@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0061380",
+    "title": "The Ballad of Josie",
+    "year": 1967,
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "count": 7,
+    "all_lines": 1122,
+    "occurrences": [
+      [
+        0,
+        "00:00:23.680000",
+        "00:00:28.549000",
+        "The Ballad Of Josie"
+      ],
+      [
+        14,
+        "00:01:17",
+        "00:01:22.757000",
+        "The Ballad Of Josie The Ballad Of Josie"
+      ],
+      [
+        21,
+        "00:01:45.960000",
+        "00:01:51.557000",
+        "The Ballad Of Josie The Ballad Of Josie"
+      ],
+      [
+        23,
+        "00:01:57.600000",
+        "00:02:07.191000",
+        "The Ballad Of Josie The Ballad Of Josie"
+      ]
+    ],
+    "regex": "\\b((?!\\bBallad\\ of\\ Josie:)Ballad\\ of\\ Josie)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

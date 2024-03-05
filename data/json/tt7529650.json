@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt7529650",
+    "title": "Call Boy",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 835,
+    "occurrences": [
+      [
+        14,
+        "00:03:31.834000",
+        "00:03:38.834000",
+        "(Call Boy)"
+      ],
+      [
+        619,
+        "01:19:47.459000",
+        "01:19:50.626000",
+        "You're a call boy to avoid getting a job?"
+      ],
+      [
+        724,
+        "01:32:41.083000",
+        "01:32:44.626000",
+        "As a call boy, you should be better than a host."
+      ]
+    ],
+    "regex": "\\b((?!\\bCall\\ Boy:)Call\\ Boy)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

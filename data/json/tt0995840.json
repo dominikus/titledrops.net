@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0995840",
+    "title": "Joy: The Real Love Story",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 840,
+    "occurrences": [
+      [
+        46,
+        "00:06:27.934000",
+        "00:06:29.697000",
+        "joy or grief,"
+      ],
+      [
+        653,
+        "00:51:19.723000",
+        "00:51:21.816000",
+        "May god give you twice the joy"
+      ]
+    ],
+    "regex": "\\b((?!\\bJoy:)Joy|(?!\\bReal\\ Love\\ Story:)Real\\ Love\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.4
+  }
+]

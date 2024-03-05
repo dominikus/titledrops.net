@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt4084076",
+    "title": "Paradise Trips",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 544,
+    "occurrences": [
+      [
+        57,
+        "00:10:38.560000",
+        "00:10:44.442000",
+        "Good morning, everybody. Paradise Trips welcomes you aboard the bus."
+      ],
+      [
+        440,
+        "01:04:33.200000",
+        "01:04:37.967000",
+        "This is the answering machine of Dockers Paradise Trips."
+      ],
+      [
+        535,
+        "01:23:49.440000",
+        "01:23:54.480000",
+        "This is the answering machine of Dockers Paradise Trips."
+      ]
+    ],
+    "regex": "\\b((?!\\bParadise\\ Trips:)Paradise\\ Trips)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

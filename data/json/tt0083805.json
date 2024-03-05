@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0083805",
+    "title": "Death Valley",
+    "year": 1982,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 861,
+    "occurrences": [
+      [
+        40,
+        "00:04:47.496000",
+        "00:04:49.664000",
+        "Arizona, Death Valley--"
+      ],
+      [
+        65,
+        "00:06:46.406000",
+        "00:06:48.199000",
+        "Are you sure we're going to see Death Valley?"
+      ],
+      [
+        148,
+        "00:11:25.226000",
+        "00:11:26.518000",
+        "here in Death Valley."
+      ]
+    ],
+    "regex": "\\b((?!\\bDeath\\ Valley:)Death\\ Valley)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

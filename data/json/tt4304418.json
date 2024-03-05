@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt4304418",
+    "title": "English Only, Please",
+    "year": 2014,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1214,
+    "occurrences": [
+      [
+        80,
+        "00:07:53.724000",
+        "00:07:54.767000",
+        "English only, please."
+      ],
+      [
+        1188,
+        "01:39:47.988000",
+        "01:39:50.365000",
+        "English only, please. I didn't understand a word."
+      ]
+    ],
+    "regex": "\\b((?!\\bEnglish\\ Only,\\ Please:)English\\ Only,\\ Please)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

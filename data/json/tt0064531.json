@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0064531",
+    "title": "Kaya",
+    "year": 1967,
+    "genres": [
+      "Crime",
+      "Drama",
+      "War"
+    ],
+    "count": 6,
+    "all_lines": 330,
+    "occurrences": [
+      [
+        187,
+        "00:35:26.195000",
+        "00:35:27.734000",
+        "Kaya, sit with us."
+      ],
+      [
+        191,
+        "00:35:41.438000",
+        "00:35:42.645000",
+        "Come, Kaya."
+      ],
+      [
+        199,
+        "00:36:15.117000",
+        "00:36:18.117000",
+        "You eat and drink first. Come to the table, Kaya."
+      ],
+      [
+        201,
+        "00:36:40.253000",
+        "00:36:42.336000",
+        "Come on Kaya, lets have dinner."
+      ],
+      [
+        322,
+        "01:11:47.823000",
+        "01:11:49.628000",
+        "Kaya, I'll kill you."
+      ],
+      [
+        324,
+        "01:11:56.928000",
+        "01:11:58.733000",
+        "Kaya, I'm gonna kill you."
+      ]
+    ],
+    "regex": "\\b((?!\\bKaya:)Kaya)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

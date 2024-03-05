@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0072750",
+    "title": "Bug",
+    "year": 1975,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 748,
+    "occurrences": [
+      [
+        201,
+        "00:23:14.226000",
+        "00:23:15.341000",
+        "A big black bug."
+      ],
+      [
+        573,
+        "01:00:02.307000",
+        "01:00:05.595000",
+        "to determine if copulation with the fire bug is possible."
+      ],
+      [
+        602,
+        "01:03:08.660000",
+        "01:03:13.620000",
+        "The fire bug, I'll keep it alive"
+      ],
+      [
+        606,
+        "01:04:01.171000",
+        "01:04:03.332000",
+        "That fire bug is protecting the egg case"
+      ]
+    ],
+    "regex": "\\b((?!\\bBug:)Bug)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt2759372",
+    "title": "Code Black",
+    "year": 2013,
+    "genres": [
+      "Documentary",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1316,
+    "occurrences": [
+      [
+        772,
+        "00:47:42.139000",
+        "00:47:43.606000",
+        "And that ranges all the way up to Code Black."
+      ],
+      [
+        773,
+        "00:47:43.741000",
+        "00:47:45.606000",
+        "During Code Black,"
+      ],
+      [
+        785,
+        "00:48:34.225000",
+        "00:48:38.389000",
+        "You pass the waiting room, and it's overflowing. We're in Code Black."
+      ],
+      [
+        798,
+        "00:49:34.618000",
+        "00:49:37.416000",
+        "I walk in, I see Code Black. That means, holy shit."
+      ],
+      [
+        1127,
+        "01:06:45.948000",
+        "01:06:47.916000",
+        "we've been in Code Black for six days straight."
+      ],
+      [
+        1128,
+        "01:06:48.051000",
+        "01:06:50.485000",
+        "And even before that, we were in Code Black"
+      ]
+    ],
+    "regex": "\\b((?!\\bCode\\ Black:)Code\\ Black)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

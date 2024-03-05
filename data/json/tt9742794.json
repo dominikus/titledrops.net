@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt9742794",
+    "title": "The Vault",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 237,
+    "occurrences": [
+      [
+        65,
+        "00:43:12.520000",
+        "00:43:13.395000",
+        "The vault."
+      ],
+      [
+        67,
+        "00:43:19.268000",
+        "00:43:20.826000",
+        "You go to the vault."
+      ],
+      [
+        197,
+        "01:31:06.422000",
+        "01:31:08.713000",
+        "- Those bastards are inside. - They are in the vault."
+      ],
+      [
+        202,
+        "01:36:01.130000",
+        "01:36:03.630000",
+        "The vault is filling up, but we still don't see anything."
+      ],
+      [
+        209,
+        "01:39:10.380000",
+        "01:39:13.463000",
+        "Gustavo, the vault is being emptied."
+      ],
+      [
+        210,
+        "01:39:30.172000",
+        "01:39:33.880000",
+        "Watch out, the vault will be unlocked automatically when it's emptied."
+      ]
+    ],
+    "regex": "\\b((?!\\bVault:)Vault)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

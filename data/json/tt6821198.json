@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6821198",
+    "title": "Mid-Century",
+    "year": 2022,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1185,
+    "occurrences": [
+      [
+        216,
+        "00:15:23.625000",
+        "00:15:26.393000",
+        "Look, the mid-century was great."
+      ],
+      [
+        573,
+        "00:43:59.373000",
+        "00:44:03.911000",
+        "The mid-century modern home"
+      ]
+    ],
+    "regex": "\\b((?!\\bMid\\-Century:)Mid\\-Century)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

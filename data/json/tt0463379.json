@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0463379",
+    "title": "Testosterone",
+    "year": 2004,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1155,
+    "occurrences": [
+      [
+        584,
+        "00:45:49.107000",
+        "00:45:50.176000",
+        "Testosterone."
+      ],
+      [
+        585,
+        "00:45:50.867000",
+        "00:45:53.256000",
+        "- What about it? - Testosterone."
+      ],
+      [
+        988,
+        "01:11:53.827000",
+        "01:11:57.297000",
+        "It's spring, you're at your prime and your testosterone level is high.."
+      ]
+    ],
+    "regex": "\\b((?!\\bTestosterone:)Testosterone)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

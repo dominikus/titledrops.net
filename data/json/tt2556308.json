@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2556308",
+    "title": "Holiday",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 2340,
+    "occurrences": [
+      [
+        94,
+        "00:07:16.538000",
+        "00:07:21.014000",
+        "'Jammu to Mumbai, Soldier Holiday Special Express..'"
+      ],
+      [
+        256,
+        "00:15:06.055000",
+        "00:15:07.900000",
+        "Virat, you take a holiday and come here even] year."
+      ],
+      [
+        1419,
+        "01:24:29.576000",
+        "01:24:32.355000",
+        "You came here on a holiday, to get married."
+      ],
+      [
+        2316,
+        "02:33:43.687000",
+        "02:33:46.671000",
+        "Thinking about these 40-days holiday.."
+      ]
+    ],
+    "regex": "\\b((?!\\bHoliday:)Holiday)(?!\\:)(?!'t)\\b",
+    "runtime": 161,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

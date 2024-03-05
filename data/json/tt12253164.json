@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt12253164",
+    "title": "Metronom",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 788,
+    "occurrences": [
+      [
+        356,
+        "00:54:11.833000",
+        "00:54:13.875000",
+        "in order to listen to the Metronom show,"
+      ],
+      [
+        550,
+        "01:11:20.708000",
+        "01:11:23.917000",
+        "addressed to Cornel Chiriac, host of the Metronom show,"
+      ]
+    ],
+    "regex": "\\b((?!\\bMetronom:)Metronom)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

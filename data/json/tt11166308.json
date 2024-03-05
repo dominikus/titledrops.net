@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt11166308",
+    "title": "Tow",
+    "year": 2022,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 984,
+    "occurrences": [
+      [
+        170,
+        "00:10:14.921000",
+        "00:10:17.022000",
+        "Did she mention anything about a tow yard?"
+      ],
+      [
+        306,
+        "00:19:11.221000",
+        "00:19:13.489000",
+        "we have to wait for this tow truck?"
+      ],
+      [
+        381,
+        "00:25:34.805000",
+        "00:25:37.281000",
+        "- Who's going to kill us? - The tow truck driver!"
+      ],
+      [
+        482,
+        "00:35:30.671000",
+        "00:35:33.130000",
+        "Did she mention anything about a tow yard?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTow:)Tow)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0042060",
+    "title": "You're My Everything",
+    "year": 1949,
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "count": 5,
+    "all_lines": 1520,
+    "occurrences": [
+      [
+        216,
+        "00:14:59.501000",
+        "00:15:03.001000",
+        "# You're my everything #"
+      ],
+      [
+        218,
+        "00:15:07.303000",
+        "00:15:10.903000",
+        "# You're my everything #"
+      ],
+      [
+        250,
+        "00:16:41.603000",
+        "00:16:45.600000",
+        "# You're my everything #"
+      ],
+      [
+        640,
+        "00:37:03.501000",
+        "00:37:07.501000",
+        "You're my everything underneath the sun."
+      ],
+      [
+        643,
+        "00:37:11.552000",
+        "00:37:15.102000",
+        "You're my everything... Hi, Papa."
+      ]
+    ],
+    "regex": "\\b((?!\\bYou're\\ My\\ Everything:)You're\\ My\\ Everything)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

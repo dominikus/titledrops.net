@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt5729246",
+    "title": "Seondal: The Man Who Sells the River",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 1196,
+    "occurrences": [
+      [
+        1137,
+        "01:53:08.245000",
+        "01:53:10.412000",
+        "Your title will remain 'Seondal' then."
+      ],
+      [
+        1138,
+        "01:53:12.202000",
+        "01:53:13.574000",
+        "Kim Seondal."
+      ],
+      [
+        1163,
+        "01:54:49.732000",
+        "01:54:55.726000",
+        "You'll hear stories of Kim Seondal soon."
+      ],
+      [
+        1164,
+        "01:55:28.900000",
+        "01:55:34.139000",
+        "KIM SEONDAL"
+      ]
+    ],
+    "regex": "\\b((?!\\bSeondal:)Seondal|(?!\\bMan\\ Who\\ Sells\\ the\\ River:)Man\\ Who\\ Sells\\ the\\ River)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

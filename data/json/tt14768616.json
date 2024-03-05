@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt14768616",
+    "title": "Squealer",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1261,
+    "occurrences": [
+      [
+        373,
+        "00:26:15.865000",
+        "00:26:17.659000",
+        "two Squealer's specials."
+      ],
+      [
+        1022,
+        "01:11:35.958000",
+        "01:11:37.751000",
+        "Most people call me Squealer."
+      ],
+      [
+        1037,
+        "01:13:41.834000",
+        "01:13:43.710000",
+        "called, uh, Squealer's."
+      ],
+      [
+        1066,
+        "01:14:45.564000",
+        "01:14:49.276000",
+        "There is a pig farm and it's called Squealer's, okay?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSquealer:)Squealer)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [
+      "Theodore (`Squealer`)"
+    ],
+    "title_is_name": true,
+    "rating": 3.5
+  }
+]

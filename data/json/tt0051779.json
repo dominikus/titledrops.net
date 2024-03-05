@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0051779",
+    "title": "The Tenant",
+    "year": 1958,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1218,
+    "occurrences": [
+      [
+        89,
+        "00:08:10.992000",
+        "00:08:13.880000",
+        "This way we can start and the tenant's out of the way,"
+      ],
+      [
+        205,
+        "00:15:55.264000",
+        "00:15:57.744000",
+        "You see, I'm a tenant, well, my husband is."
+      ],
+      [
+        211,
+        "00:16:15.984000",
+        "00:16:17.808000",
+        "It's about a tenant,"
+      ],
+      [
+        398,
+        "00:27:35.088000",
+        "00:27:38.064000",
+        "is a gold mine. Lucky you, a tenant!"
+      ],
+      [
+        973,
+        "01:10:32.304000",
+        "01:10:34.608000",
+        "Are you also a tenant?"
+      ],
+      [
+        980,
+        "01:10:49.104000",
+        "01:10:50.448000",
+        "Tenant! - Come here!"
+      ]
+    ],
+    "regex": "\\b((?!\\bTenant:)Tenant)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

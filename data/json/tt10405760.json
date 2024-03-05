@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt10405760",
+    "title": "The Shift",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 724,
+    "occurrences": [
+      [
+        66,
+        "00:06:08.959000",
+        "00:06:10.839000",
+        "Our shift is over."
+      ],
+      [
+        572,
+        "00:56:33.360000",
+        "00:56:36.360000",
+        "- An accomplice? - Her shift ended at 8:00."
+      ],
+      [
+        595,
+        "01:00:00.960000",
+        "01:00:04.960000",
+        "they had the night shift and went to the school before clocking out."
+      ]
+    ],
+    "regex": "\\b((?!\\bShift:)Shift)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0419712",
+    "title": "The Society of Jesus",
+    "year": 2004,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 725,
+    "occurrences": [
+      [
+        36,
+        "00:06:23.792000",
+        "00:06:27.069000",
+        "You Jesu... you, the members of the Society of Jesus"
+      ],
+      [
+        113,
+        "00:12:51.812000",
+        "00:12:54.964000",
+        "The Society of Jesus is a very strict order..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSociety\\ of\\ Jesus:)Society\\ of\\ Jesus)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

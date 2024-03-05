@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0372279",
+    "title": "Festival Express",
+    "year": 2003,
+    "genres": [
+      "Documentary",
+      "History",
+      "Music"
+    ],
+    "count": 5,
+    "all_lines": 2035,
+    "occurrences": [
+      [
+        960,
+        "01:01:22.979000",
+        "01:01:25.243000",
+        "of the rock Festival Express Tour."
+      ],
+      [
+        1105,
+        "01:16:47.269000",
+        "01:16:50.272000",
+        "that's labelled \"Festival Express\" on one car"
+      ],
+      [
+        1106,
+        "01:16:50.272000",
+        "01:16:50.706000",
+        "that's labelled \"Festival Express\" on one car"
+      ],
+      [
+        1564,
+        "01:47:45.926000",
+        "01:47:49.293000",
+        "And that was just... really, prior to Festival Express."
+      ],
+      [
+        1578,
+        "01:48:19.025000",
+        "01:48:22.517000",
+        "And, uh, it just helped make the whole Festival Express"
+      ]
+    ],
+    "regex": "\\b((?!\\bFestival\\ Express:)Festival\\ Express)(?!\\:)(?!'t)\\b",
+    "runtime": 146,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

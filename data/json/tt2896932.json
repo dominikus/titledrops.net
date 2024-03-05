@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2896932",
+    "title": "Repeat Attenders",
+    "year": 2020,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1399,
+    "occurrences": [
+      [
+        231,
+        "00:17:12.867000",
+        "00:17:18.073000",
+        "- The people go back to see shows over and over again. That's the repeat attenders,"
+      ],
+      [
+        350,
+        "00:22:45.420000",
+        "00:22:49.490000",
+        "A lot of people are quite cynical about repeat attenders"
+      ],
+      [
+        603,
+        "00:37:02.950000",
+        "00:37:05.679000",
+        "- I think the repeat attenders are drawn"
+      ]
+    ],
+    "regex": "\\b((?!\\bRepeat\\ Attenders:)Repeat\\ Attenders)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

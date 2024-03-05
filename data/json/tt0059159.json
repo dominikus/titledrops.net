@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0059159",
+    "title": "The Pleasures of the Flesh",
+    "year": 1965,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 836,
+    "occurrences": [
+      [
+        2,
+        "00:00:17.168000",
+        "00:00:23.301000",
+        "PLEASURES OF THE FLESH"
+      ],
+      [
+        168,
+        "00:16:14.725000",
+        "00:16:19.925000",
+        "Tonight, at least, let's enjoy the pleasures of the flesh"
+      ]
+    ],
+    "regex": "\\b((?!\\bPleasures\\ of\\ the\\ Flesh:)Pleasures\\ of\\ the\\ Flesh)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

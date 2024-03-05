@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0758786",
+    "title": "Stuck",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 852,
+    "occurrences": [
+      [
+        239,
+        "00:23:42.387000",
+        "00:23:45.845000",
+        "I know that guy. I do. He's stuck on the car."
+      ],
+      [
+        240,
+        "00:23:45.957000",
+        "00:23:47.720000",
+        "The guy was stuck like a goddamn bug."
+      ],
+      [
+        480,
+        "00:47:34.551000",
+        "00:47:36.451000",
+        "I'm stuck."
+      ],
+      [
+        481,
+        "00:47:36.553000",
+        "00:47:37.986000",
+        "Okay, you're stuck."
+      ]
+    ],
+    "regex": "\\b((?!\\bStuck:)Stuck)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

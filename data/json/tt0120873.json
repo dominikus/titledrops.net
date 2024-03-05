@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0120873",
+    "title": "U.S. Marshals",
+    "year": 1998,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 704,
+    "occurrences": [
+      [
+        89,
+        "00:08:49.720000",
+        "00:08:51.836000",
+        "Ladies and gentlemen, the U.S. Marshals!"
+      ],
+      [
+        623,
+        "00:57:00.520000",
+        "00:57:02.112000",
+        "- Yes? - U.S. Marshals."
+      ],
+      [
+        692,
+        "01:00:38.880000",
+        "01:00:40.393000",
+        "U.S. Marshals."
+      ]
+    ],
+    "regex": "\\b((?!\\bU\\.S\\.\\ Marshals:)U\\.S\\.\\ Marshals)(?!\\:)(?!'t)\\b",
+    "runtime": 131,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

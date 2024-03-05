@@ -1,0 +1,26 @@
+[
+  {
+    "imdb": "tt1386492",
+    "title": "This Is Not a Movie",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 1,
+    "all_lines": 1262,
+    "occurrences": [
+      [
+        1038,
+        "01:12:43.759000",
+        "01:12:45.317000",
+        "This is not a movie, Pete."
+      ]
+    ],
+    "regex": "\\b((?!\\bThis\\ Is\\ Not\\ a\\ Movie:)This\\ Is\\ Not\\ a\\ Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

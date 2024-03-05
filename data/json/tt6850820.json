@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt6850820",
+    "title": "Peppermint",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1106,
+    "occurrences": [
+      [
+        163,
+        "00:14:31.746000",
+        "00:14:33.245000",
+        "Peppermint. Double scoop."
+      ],
+      [
+        164,
+        "00:14:33.247000",
+        "00:14:34.612000",
+        "And a peppermint double scoop."
+      ]
+    ],
+    "regex": "\\b((?!\\bPeppermint:)Peppermint)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

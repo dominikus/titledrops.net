@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt2171902",
+    "title": "Happy Valley",
+    "year": 2014,
+    "genres": [
+      "Documentary",
+      "Drama",
+      "Sport"
+    ],
+    "count": 7,
+    "all_lines": 1914,
+    "occurrences": [
+      [
+        618,
+        "00:29:29.235000",
+        "00:29:30.868000",
+        "Happy Valley, to me,"
+      ],
+      [
+        636,
+        "00:30:09.074000",
+        "00:30:12.209000",
+        "who kept Happy Valley happy."
+      ],
+      [
+        763,
+        "00:35:42.174000",
+        "00:35:44.241000",
+        "That's what we do here in Happy Valley--"
+      ],
+      [
+        1090,
+        "00:51:29.320000",
+        "00:51:30.786000",
+        "in Happy Valley, you know what I mean?"
+      ],
+      [
+        1412,
+        "01:07:15.465000",
+        "01:07:17.799000",
+        "They can call it Happy Valley, but it's--"
+      ],
+      [
+        1413,
+        "01:07:17.801000",
+        "01:07:20.735000",
+        "the Happy Valley we knew no longer exists."
+      ],
+      [
+        1845,
+        "01:30:47.776000",
+        "01:30:49.176000",
+        "Happy Valley was always a place"
+      ]
+    ],
+    "regex": "\\b((?!\\bHappy\\ Valley:)Happy\\ Valley)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0082467",
+    "title": "Graduation Day",
+    "year": 1981,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 387,
+    "occurrences": [
+      [
+        168,
+        "00:35:49.027000",
+        "00:35:51.996000",
+        "There arent anymore real classes. Tomorrow is graduation day."
+      ],
+      [
+        192,
+        "00:38:31.523000",
+        "00:38:34.458000",
+        "Tomorrows graduation day."
+      ],
+      [
+        327,
+        "01:12:46.576000",
+        "01:12:50.512000",
+        "planning a big graduation day surprise. Thats all."
+      ],
+      [
+        352,
+        "01:19:44.493000",
+        "01:19:52.457000",
+        "We were gonna be married the day after graduation day."
+      ]
+    ],
+    "regex": "\\b((?!\\bGraduation\\ Day:)Graduation\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

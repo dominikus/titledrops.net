@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4172746",
+    "title": "The Kids from 62-F",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1918,
+    "occurrences": [
+      [
+        515,
+        "00:29:02.684000",
+        "00:29:05.533000",
+        "We're the kids from 62-F, remember?"
+      ],
+      [
+        948,
+        "00:56:31.434000",
+        "00:56:33.994000",
+        "It's called the Kids from 62-F."
+      ]
+    ],
+    "regex": "\\b((?!\\bKids\\ from\\ 62\\-F:)Kids\\ from\\ 62\\-F)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt21193010",
+    "title": "The Hammer",
+    "year": 2023,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 1812,
+    "occurrences": [
+      [
+        237,
+        "00:11:40.091000",
+        "00:11:43.034000",
+        "-Hey look, it's the hammer. -Oh, my god."
+      ],
+      [
+        245,
+        "00:12:04.115000",
+        "00:12:06.057000",
+        "A hammer's a pretty good nickname for a judge."
+      ],
+      [
+        324,
+        "00:15:51.009000",
+        "00:15:53.693000",
+        "The hammer, right? Congratulations."
+      ],
+      [
+        539,
+        "00:24:43.966000",
+        "00:24:45.724000",
+        "And now they call you the hammer."
+      ],
+      [
+        640,
+        "00:28:40.869000",
+        "00:28:42.052000",
+        "Why? 'cause you're the hammer?"
+      ],
+      [
+        642,
+        "00:28:43.964000",
+        "00:28:46.372000",
+        "Hammer way! I don't care, I don't care."
+      ],
+      [
+        864,
+        "00:40:41.331000",
+        "00:40:43.523000",
+        "Great. You here to hammer me again?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHammer:)Hammer)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

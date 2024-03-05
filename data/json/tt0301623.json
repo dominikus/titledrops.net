@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0301623",
+    "title": "Mission: Monte Carlo",
+    "year": 1974,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1748,
+    "occurrences": [
+      [
+        938,
+        "00:51:28.440000",
+        "00:51:30.197000",
+        "pictured above at the Monte Carlo rally.\""
+      ],
+      [
+        981,
+        "00:53:16.110000",
+        "00:53:18.922000",
+        "one of Monte Carlo's more exclusive jewelers,"
+      ],
+      [
+        1550,
+        "01:24:53.243000",
+        "01:24:54.076000",
+        "- Well, after Monte Carlo,"
+      ]
+    ],
+    "regex": "\\b((?!\\bMission:)Mission|(?!\\bMonte\\ Carlo:)Monte\\ Carlo)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

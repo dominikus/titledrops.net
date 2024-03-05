@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt8897874",
+    "title": "First Date",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1805,
+    "occurrences": [
+      [
+        22,
+        "00:01:10.522000",
+        "00:01:11.790000",
+        "anyone says on the first date?"
+      ],
+      [
+        43,
+        "00:01:51.597000",
+        "00:01:53.033000",
+        "You told me on the first date"
+      ],
+      [
+        828,
+        "00:43:30.930000",
+        "00:43:33.065000",
+        "We came here on our first date."
+      ]
+    ],
+    "regex": "\\b((?!\\bFirst\\ Date:)First\\ Date)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

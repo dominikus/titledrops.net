@@ -1,0 +1,34 @@
+[
+  {
+    "imdb": "tt0074719",
+    "title": "Joshua",
+    "year": 1976,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 600,
+    "occurrences": [
+      [
+        472,
+        "01:02:34.040000",
+        "01:02:35.099000",
+        "- My name's Joshua."
+      ],
+      [
+        474,
+        "01:02:40.312000",
+        "01:02:44.114000",
+        "Well, Joshua, looks like the worst of your troubles"
+      ]
+    ],
+    "regex": "\\b((?!\\bJoshua:)Joshua)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [
+      "Joshua"
+    ],
+    "title_is_name": true,
+    "rating": 4.5
+  }
+]

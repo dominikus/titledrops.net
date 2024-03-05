@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0155711",
+    "title": "Flawless",
+    "year": 1999,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1185,
+    "occurrences": [
+      [
+        196,
+        "00:24:45.335000",
+        "00:24:48.964000",
+        "Look, it's very simple. You sign up for the Flawless contest."
+      ],
+      [
+        609,
+        "00:54:13.455000",
+        "00:54:17.050000",
+        "What do you think, M r My Le ft Foot? You know, for the Flawless contest?"
+      ],
+      [
+        1138,
+        "01:39:09.895000",
+        "01:39:12.807000",
+        "Hi, Mom! I won Miss Flawless for the third time."
+      ]
+    ],
+    "regex": "\\b((?!\\bFlawless:)Flawless)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

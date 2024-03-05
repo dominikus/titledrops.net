@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6893370",
+    "title": "My Little Monster",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 993,
+    "occurrences": [
+      [
+        40,
+        "00:04:45.334000",
+        "00:04:48.166000",
+        "This was how \"my little monster\""
+      ],
+      [
+        42,
+        "00:05:16.666000",
+        "00:05:18.291000",
+        "My Little Monster"
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Little\\ Monster:)My\\ Little\\ Monster)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

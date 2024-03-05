@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1795702",
+    "title": "Wild Bill",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1181,
+    "occurrences": [
+      [
+        97,
+        "00:08:22.360000",
+        "00:08:24.032000",
+        "Look at him. Wild Bill!"
+      ],
+      [
+        413,
+        "00:26:43.920000",
+        "00:26:45.194000",
+        "Wild Bill?"
+      ],
+      [
+        904,
+        "01:05:02.040000",
+        "01:05:03.678000",
+        "- Where's Jimmy? - All right, Wild Bill!"
+      ],
+      [
+        1079,
+        "01:20:57.760000",
+        "01:21:01.070000",
+        "Wild Bill, my arse! It's more like Mild Bill, innit?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWild\\ Bill:)Wild\\ Bill)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [
+      "Wild Bill"
+    ],
+    "title_is_name": true,
+    "rating": 7.2
+  }
+]

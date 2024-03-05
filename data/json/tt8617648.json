@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt8617648",
+    "title": "Santet",
+    "year": 2018,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 744,
+    "occurrences": [
+      [
+        365,
+        "00:42:30.052000",
+        "00:42:33.396000",
+        "...it looks like someone is using santet to hurt you."
+      ],
+      [
+        367,
+        "00:42:37.047000",
+        "00:42:38.288000",
+        "Santet?"
+      ],
+      [
+        372,
+        "00:43:27.398000",
+        "00:43:28.492000",
+        "Santet Practitioner."
+      ]
+    ],
+    "regex": "\\b((?!\\bSantet:)Santet)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

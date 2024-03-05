@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0107889",
+    "title": "The Program",
+    "year": 1993,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 924,
+    "occurrences": [
+      [
+        14,
+        "00:01:42.115000",
+        "00:01:44.811000",
+        "Do you feel your program's in decline?"
+      ],
+      [
+        29,
+        "00:02:30.931000",
+        "00:02:33.422000",
+        "I'm concerned about our program."
+      ],
+      [
+        64,
+        "00:04:11.298000",
+        "00:04:15.735000",
+        "Well, education is the first priority of our program."
+      ],
+      [
+        207,
+        "00:12:41.407000",
+        "00:12:43.773000",
+        "Long as you in the program, they'll get you through."
+      ],
+      [
+        232,
+        "00:14:06.192000",
+        "00:14:08.786000",
+        "Plus, it's a good thing for the program."
+      ],
+      [
+        308,
+        "00:18:00.393000",
+        "00:18:02.588000",
+        "The NCAA has a testing program for this kind of thing."
+      ]
+    ],
+    "regex": "\\b((?!\\bProgram:)Program)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

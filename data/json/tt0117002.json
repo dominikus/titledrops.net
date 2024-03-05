@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt0117002",
+    "title": "Mary Reilly",
+    "year": 1996,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 807,
+    "occurrences": [
+      [
+        401,
+        "00:49:45.123000",
+        "00:49:46.852000",
+        "Mary Reilly."
+      ],
+      [
+        533,
+        "01:06:22.019000",
+        "01:06:24.920000",
+        "Mary Reilly."
+      ],
+      [
+        600,
+        "01:14:11.221000",
+        "01:14:14.520000",
+        "- Areyou the housemaid, Mary Reilly? - Yes."
+      ],
+      [
+        602,
+        "01:14:26.136000",
+        "01:14:30.368000",
+        "- Mary Reilly? - Yes, sir."
+      ]
+    ],
+    "regex": "\\b((?!\\bMary\\ Reilly:)Mary\\ Reilly)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [
+      "Mary Reilly"
+    ],
+    "title_is_name": true,
+    "rating": 5.8
+  }
+]

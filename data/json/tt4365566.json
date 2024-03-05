@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt4365566",
+    "title": "Ghost House",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 917,
+    "occurrences": [
+      [
+        29,
+        "00:03:57.671000",
+        "00:03:59.972000",
+        "- Oh, this a ghost house."
+      ],
+      [
+        305,
+        "00:20:47.847000",
+        "00:20:51.415000",
+        "- It's basically a ghost house graveyard."
+      ],
+      [
+        427,
+        "00:32:07.592000",
+        "00:32:10.427000",
+        "But if you disturb the ghost house,"
+      ],
+      [
+        745,
+        "01:12:22.404000",
+        "01:12:24.839000",
+        "- When did she desecrate the ghost house?"
+      ],
+      [
+        848,
+        "01:24:46.615000",
+        "01:24:50.250000",
+        "- She say you cannot disturb the ghost house of watabe."
+      ]
+    ],
+    "regex": "\\b((?!\\bGhost\\ House:)Ghost\\ House)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

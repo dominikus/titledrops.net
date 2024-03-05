@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt18228142",
+    "title": "The Weapon",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1160,
+    "occurrences": [
+      [
+        1133,
+        "01:19:45.120000",
+        "01:19:46.889000",
+        "He made a weapon."
+      ],
+      [
+        1134,
+        "01:19:47.518000",
+        "01:19:49.155000",
+        "He made a weapon."
+      ],
+      [
+        1156,
+        "01:21:08.368000",
+        "01:21:11.468000",
+        "because we sure as hell don't want that weapon"
+      ]
+    ],
+    "regex": "\\b((?!\\bWeapon:)Weapon)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.4
+  }
+]

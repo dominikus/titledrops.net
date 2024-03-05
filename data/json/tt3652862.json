@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3652862",
+    "title": "Morris from America",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 930,
+    "occurrences": [
+      [
+        78,
+        "00:10:45.512000",
+        "00:10:47.612000",
+        "14-year-old Morris from America?"
+      ],
+      [
+        927,
+        "01:25:42.471000",
+        "01:25:46.240000",
+        "I'm happy I've met you, Morris from America."
+      ]
+    ],
+    "regex": "\\b((?!\\bMorris\\ from\\ America:)Morris\\ from\\ America)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

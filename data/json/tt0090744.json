@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0090744",
+    "title": "Blind",
+    "year": 1987,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 6,
+    "all_lines": 2604,
+    "occurrences": [
+      [
+        7,
+        "00:03:00.769000",
+        "00:03:04.092000",
+        "they have a school of the blind marching band."
+      ],
+      [
+        38,
+        "00:05:18.529000",
+        "00:05:20.893000",
+        "Even as you're blind or whatever,"
+      ],
+      [
+        106,
+        "00:08:14.139000",
+        "00:08:15.691000",
+        "of the Alabama School for the Blind"
+      ],
+      [
+        120,
+        "00:08:47.939000",
+        "00:08:51.772000",
+        "The Alabama School for the Blind Concert Band."
+      ],
+      [
+        2501,
+        "02:02:48.069000",
+        "02:02:49.554000",
+        "when they hear the word blind school"
+      ],
+      [
+        2506,
+        "02:02:56.368000",
+        "02:02:57.405000",
+        "just 'cause they're blind,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlind:)Blind)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

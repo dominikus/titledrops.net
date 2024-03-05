@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt5705058",
+    "title": "Marie Curie: The Courage of Knowledge",
+    "year": 2016,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1043,
+    "occurrences": [
+      [
+        0,
+        "00:02:16.121000",
+        "00:02:19.721000",
+        "MARIE CURIE AND THE BLUE LIGHT"
+      ],
+      [
+        287,
+        "00:27:51.641000",
+        "00:27:53.081000",
+        "I am Marie Curie."
+      ],
+      [
+        574,
+        "00:48:50.921000",
+        "00:48:53.081000",
+        "Albert Einstein, Marie Curie."
+      ],
+      [
+        1040,
+        "01:32:12.721000",
+        "01:32:17.041000",
+        "In 1950, Marie Curie's granddaughter, Helene married Michel Langevin, the grandson of Paul Langevin."
+      ],
+      [
+        1042,
+        "01:32:20.521000",
+        "01:32:25.481000",
+        "Marie Curie died in 1934 at the age of 66. In 1995, her remains were transfered together"
+      ]
+    ],
+    "regex": "\\b((?!\\bMarie\\ Curie:)Marie\\ Curie|(?!\\bCourage\\ of\\ Knowledge:)Courage\\ of\\ Knowledge)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

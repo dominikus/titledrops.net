@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt2841424",
+    "title": "The Freemason",
+    "year": 2013,
+    "genres": [
+      "Crime"
+    ],
+    "count": 4,
+    "all_lines": 1248,
+    "occurrences": [
+      [
+        424,
+        "00:29:37.826000",
+        "00:29:40.990000",
+        "Cyrus: And how does one become a Freemason?"
+      ],
+      [
+        806,
+        "00:58:01.961000",
+        "00:58:04.453000",
+        "He was also a Freemason."
+      ],
+      [
+        832,
+        "00:59:20.039000",
+        "00:59:22.201000",
+        "Cyrus: I wanna become a Freemason."
+      ],
+      [
+        1058,
+        "01:15:22.201000",
+        "01:15:24.500000",
+        "That holier-than-thou Freemason bullshit."
+      ]
+    ],
+    "regex": "\\b((?!\\bFreemason:)Freemason)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt20561114",
+    "title": "Christmas on Mistletoe Farm",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 2146,
+    "occurrences": [
+      [
+        669,
+        "00:32:00.360000",
+        "00:32:04.560000",
+        "- Not even any Christmas lights. - No Christmas on Mistletoe Farm?"
+      ],
+      [
+        784,
+        "00:37:31.440000",
+        "00:37:33.840000",
+        "Is there really no Christmas on Mistletoe Farm?"
+      ]
+    ],
+    "regex": "\\b((?!\\bChristmas\\ on\\ Mistletoe\\ Farm:)Christmas\\ on\\ Mistletoe\\ Farm)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

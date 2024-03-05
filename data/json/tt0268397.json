@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0268397",
+    "title": "Jimmy Neutron: Boy Genius",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 6,
+    "all_lines": 1157,
+    "occurrences": [
+      [
+        385,
+        "00:24:09.282000",
+        "00:24:13.036000",
+        "Greetings from planet Earth I'm Jimmy Neutron,"
+      ],
+      [
+        860,
+        "00:56:45.278000",
+        "00:56:48.281000",
+        "And it's all thanks to Jimmy Neutron"
+      ],
+      [
+        862,
+        "00:56:51.159000",
+        "00:56:55.163000",
+        "I'm Jimmy Neutron, and you're an alien life-form"
+      ],
+      [
+        866,
+        "00:57:02.712000",
+        "00:57:05.840000",
+        "you've been a very big help, Jimmy Neutron"
+      ],
+      [
+        1099,
+        "01:14:10.239000",
+        "01:14:12.199000",
+        "Itsy-bitsy Jimmy Neutron!"
+      ],
+      [
+        1110,
+        "01:14:55.742000",
+        "01:14:57.452000",
+        "Jimmy Neutron!"
+      ]
+    ],
+    "regex": "\\b((?!\\bJimmy\\ Neutron:)Jimmy\\ Neutron|(?!\\bBoy\\ Genius:)Boy\\ Genius)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

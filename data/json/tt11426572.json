@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt11426572",
+    "title": "Wedding Season",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1783,
+    "occurrences": [
+      [
+        442,
+        "00:20:58.048000",
+        "00:21:01.009000",
+        "Not lie, just role-play until wedding season's over."
+      ],
+      [
+        456,
+        "00:21:29.454000",
+        "00:21:31.748000",
+        "At least until wedding season is over."
+      ]
+    ],
+    "regex": "\\b((?!\\bWedding\\ Season:)Wedding\\ Season)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2261719",
+    "title": "The Jungle",
+    "year": 2012,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 776,
+    "occurrences": [
+      [
+        454,
+        "00:39:48.304000",
+        "00:39:49.805000",
+        "See you in the jungle."
+      ],
+      [
+        596,
+        "00:54:41.406000",
+        "00:54:44.617000",
+        "- The spirits of the jungle took her. - There are ghosts?"
+      ]
+    ],
+    "regex": "\\b((?!\\bJungle:)Jungle)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

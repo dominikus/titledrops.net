@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1017464",
+    "title": "The Tortured",
+    "year": 2010,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 719,
+    "occurrences": [
+      [
+        447,
+        "00:46:11.940000",
+        "00:46:14.861000",
+        "He tortured Beniamin to death."
+      ],
+      [
+        678,
+        "01:09:37.060000",
+        "01:09:39.581000",
+        "- 'Say his name' - 'He tortured Benjamin to death'"
+      ]
+    ],
+    "regex": "\\b((?!\\bTortured:)Tortured)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

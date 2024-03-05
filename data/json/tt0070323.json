@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0070323",
+    "title": "Little Cigars",
+    "year": 1973,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1267,
+    "occurrences": [
+      [
+        127,
+        "00:11:28.644000",
+        "00:11:33.693000",
+        "the world-renowned Slick Bender and his Little Cigars."
+      ],
+      [
+        134,
+        "00:12:14.081000",
+        "00:12:18.085000",
+        "for letting me and the Little Cigars appear here in the big time."
+      ],
+      [
+        143,
+        "00:12:41.935000",
+        "00:12:45.808000",
+        "if you will fill the Little Cigars' derbies, we will perform for you a feat"
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Cigars:)Little\\ Cigars)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

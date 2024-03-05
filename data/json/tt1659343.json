@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1659343",
+    "title": "Universal Soldier: Day of Reckoning",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 636,
+    "occurrences": [
+      [
+        183,
+        "00:29:28.365000",
+        "00:29:30.700000",
+        "from phase ii of universal soldier program."
+      ],
+      [
+        258,
+        "00:39:44.713000",
+        "00:39:47.157000",
+        "The day of reckoning!"
+      ]
+    ],
+    "regex": "\\b((?!\\bUniversal\\ Soldier:)Universal\\ Soldier|(?!\\bDay\\ of\\ Reckoning:)Day\\ of\\ Reckoning)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

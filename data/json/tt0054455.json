@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt0054455",
+    "title": "Wake Me When It's Over",
+    "year": 1960,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 7,
+    "all_lines": 2295,
+    "occurrences": [
+      [
+        1,
+        "00:00:26.810000",
+        "00:00:28.826000",
+        "*Wake me when it's over.*"
+      ],
+      [
+        2,
+        "00:00:29.999000",
+        "00:00:32.365000",
+        "*Wake me when it's over.*"
+      ],
+      [
+        6,
+        "00:00:46.702000",
+        "00:00:51.417000",
+        "*Wake me when it's over, then let me go to sleep,*"
+      ],
+      [
+        15,
+        "00:01:26.773000",
+        "00:01:30.765000",
+        "*Then darling, wake me when it's over,*"
+      ],
+      [
+        17,
+        "00:01:42.924000",
+        "00:01:44.916000",
+        "*Wake me when it's over.*"
+      ],
+      [
+        20,
+        "00:01:51.692000",
+        "00:01:56.772000",
+        "*Then, darling, wake me when it's over.*"
+      ],
+      [
+        21,
+        "00:01:57.585000",
+        "00:02:00.124000",
+        "*Wake me when it's over.*"
+      ]
+    ],
+    "regex": "\\b((?!\\bWake\\ Me\\ When\\ It's\\ Over:)Wake\\ Me\\ When\\ It's\\ Over)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

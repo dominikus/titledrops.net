@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0331041",
+    "title": "Handcuff King",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 658,
+    "occurrences": [
+      [
+        10,
+        "00:01:37.760000",
+        "00:01:44.472000",
+        "The manager fired him on the spot. So he became a handcuff king."
+      ],
+      [
+        12,
+        "00:01:51.480000",
+        "00:01:56.429000",
+        "- when it became clear I'd become a handcuff king myself."
+      ],
+      [
+        39,
+        "00:04:55.160000",
+        "00:05:01.599000",
+        "Yeah. That's when it became clear that I'd become a handcuff king."
+      ]
+    ],
+    "regex": "\\b((?!\\bHandcuff\\ King:)Handcuff\\ King)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0122994",
+    "title": "The Bible and Gun Club",
+    "year": 1996,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1737,
+    "occurrences": [
+      [
+        804,
+        "00:40:02.965000",
+        "00:40:05.968000",
+        "My name's, uh, Phil, I'm here with the Bible and Gun Club."
+      ],
+      [
+        1193,
+        "00:58:27.025000",
+        "00:58:29.027000",
+        "- Uh huh? - ...and I represent the Bible and Gun Club."
+      ]
+    ],
+    "regex": "\\b((?!\\bBible\\ and\\ Gun\\ Club:)Bible\\ and\\ Gun\\ Club)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

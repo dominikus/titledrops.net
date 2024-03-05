@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1335975",
+    "title": "47 Ronin",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 679,
+    "occurrences": [
+      [
+        12,
+        "00:01:27.754000",
+        "00:01:30.890000",
+        "And yet, to know the story of the 47 Ronin,"
+      ],
+      [
+        675,
+        "01:48:11.085000",
+        "01:48:13.859000",
+        "The memory of the 47 Ronin"
+      ]
+    ],
+    "regex": "\\b((?!\\b47\\ Ronin:)47\\ Ronin)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

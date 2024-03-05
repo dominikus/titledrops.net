@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1002561",
+    "title": "2:13",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 813,
+    "occurrences": [
+      [
+        534,
+        "00:56:29.439000",
+        "00:56:32.840000",
+        "He is always 02/13."
+      ],
+      [
+        590,
+        "01:03:09.080000",
+        "01:03:15.320000",
+        "D. February 13, 1958 she cut him to pieces in the bathtub -"
+      ],
+      [
+        605,
+        "01:04:12.280000",
+        "01:04:17.320000",
+        "- Kl. 2.13. - 13th. February 19S8."
+      ]
+    ],
+    "regex": "\\b((?!\\b2:)2|(?!\\b13:)13)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

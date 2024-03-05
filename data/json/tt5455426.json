@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5455426",
+    "title": "Trendy",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 987,
+    "occurrences": [
+      [
+        91,
+        "00:07:50.160000",
+        "00:07:51.560000",
+        "That it was trendy..."
+      ],
+      [
+        92,
+        "00:07:51.760000",
+        "00:07:52.840000",
+        "Trendy..."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrendy:)Trendy)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

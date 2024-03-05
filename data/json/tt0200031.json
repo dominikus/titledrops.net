@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0200031",
+    "title": "The Reunion",
+    "year": 1963,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 2180,
+    "occurrences": [
+      [
+        66,
+        "00:04:49.325000",
+        "00:04:51.588000",
+        "I'll organize a nice reunion. All right?"
+      ],
+      [
+        251,
+        "00:13:55.150000",
+        "00:13:57.442000",
+        "then this is a reunion?"
+      ]
+    ],
+    "regex": "\\b((?!\\bReunion:)Reunion)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

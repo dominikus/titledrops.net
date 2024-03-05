@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0051003",
+    "title": "The Spirit of St. Louis",
+    "year": 1957,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1288,
+    "occurrences": [
+      [
+        7,
+        "00:02:59.796000",
+        "00:03:01.821000",
+        "\"in his Spirit of St. Louis, ready to take off on the big hop.\""
+      ],
+      [
+        8,
+        "00:03:01.898000",
+        "00:03:04.298000",
+        "\"After making the final inspection of his plane, The Spirit of St. Louis,"
+      ],
+      [
+        284,
+        "00:22:38.006000",
+        "00:22:40.668000",
+        "The Spirit of St. Louis. I like that fine."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpirit\\ of\\ St\\.\\ Louis:)Spirit\\ of\\ St\\.\\ Louis)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

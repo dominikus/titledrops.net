@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0070704",
+    "title": "The Slams",
+    "year": 1973,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1269,
+    "occurrences": [
+      [
+        102,
+        "00:11:53.881000",
+        "00:11:55.682000",
+        "Not in The Slams, baby."
+      ],
+      [
+        103,
+        "00:11:55.715000",
+        "00:11:59.686000",
+        "Nobody can handle it all by themselves in The Slams."
+      ],
+      [
+        379,
+        "00:29:56.062000",
+        "00:29:57.529000",
+        "'How's he doing in The Slams?'"
+      ],
+      [
+        504,
+        "00:38:05.717000",
+        "00:38:07.886000",
+        "It ain't doin' him no good in The Slams."
+      ]
+    ],
+    "regex": "\\b((?!\\bSlams:)Slams)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

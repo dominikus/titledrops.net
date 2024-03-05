@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt8452136",
+    "title": "Spinster",
+    "year": 2019,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1920,
+    "occurrences": [
+      [
+        417,
+        "00:18:31.984000",
+        "00:18:35.188000",
+        "I'm gonna be a spinster."
+      ],
+      [
+        419,
+        "00:18:37.890000",
+        "00:18:40.059000",
+        "where we can forget the word \"spinster.\""
+      ],
+      [
+        420,
+        "00:18:40.092000",
+        "00:18:41.460000",
+        "My great-aunt Elise was a spinster."
+      ],
+      [
+        435,
+        "00:19:08.353000",
+        "00:19:12.357000",
+        "There's a lady living above me, she's probably a spinster too."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpinster:)Spinster)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

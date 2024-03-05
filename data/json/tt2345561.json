@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2345561",
+    "title": "Grandmaster",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1665,
+    "occurrences": [
+      [
+        74,
+        "00:07:36.422000",
+        "00:07:38.390000",
+        "Haven't you heard about a grandmaster?."
+      ],
+      [
+        75,
+        "00:07:39.425000",
+        "00:07:44.453000",
+        "A grandmaster is one who can predict the next 64 movements of his opponent."
+      ]
+    ],
+    "regex": "\\b((?!\\bGrandmaster:)Grandmaster)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

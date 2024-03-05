@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt28865980",
+    "title": "American Symphony",
+    "year": 2023,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 1182,
+    "occurrences": [
+      [
+        49,
+        "00:05:45.970000",
+        "00:05:50.558000",
+        "because you're gonna be doing American Symphony at Carnegie Hall."
+      ],
+      [
+        173,
+        "00:14:12.518000",
+        "00:14:14.645000",
+        "\"American Symphony\" is the working title."
+      ],
+      [
+        1071,
+        "01:25:48.726000",
+        "01:25:51.813000",
+        "Jon Batiste has \"American Symphony\" at Carnegie..."
+      ],
+      [
+        1089,
+        "01:27:17.774000",
+        "01:27:23.154000",
+        "for Jon Batiste and the American Symphony!"
+      ]
+    ],
+    "regex": "\\b((?!\\bAmerican\\ Symphony:)American\\ Symphony)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

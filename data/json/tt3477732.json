@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3477732",
+    "title": "Full English Breakfast",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 682,
+    "occurrences": [
+      [
+        7,
+        "00:03:22.200000",
+        "00:03:24.640000",
+        "Full English breakfast ?"
+      ],
+      [
+        680,
+        "01:47:02.680000",
+        "01:47:04.240000",
+        "Full English breakfast, Dave ?"
+      ],
+      [
+        682,
+        "01:47:06.440000",
+        "01:47:08.720000",
+        "Full English breakfast, brat !"
+      ]
+    ],
+    "regex": "\\b((?!\\bFull\\ English\\ Breakfast:)Full\\ English\\ Breakfast)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.6
+  }
+]

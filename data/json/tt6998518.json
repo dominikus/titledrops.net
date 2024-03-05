@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt6998518",
+    "title": "Mandy",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 698,
+    "occurrences": [
+      [
+        347,
+        "00:49:00.902000",
+        "00:49:03.906000",
+        "You're a special one, Mandy."
+      ],
+      [
+        597,
+        "01:38:46.452000",
+        "01:38:50.824000",
+        "She... She burned brightly, Mandy."
+      ]
+    ],
+    "regex": "\\b((?!\\bMandy:)Mandy)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [
+      "Mandy Bloom"
+    ],
+    "title_is_name": true,
+    "rating": 6.5
+  }
+]

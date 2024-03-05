@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt23864864",
+    "title": "Joram",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "count": 5,
+    "all_lines": 708,
+    "occurrences": [
+      [
+        79,
+        "00:11:51.660000",
+        "00:11:55.620000",
+        "Who eats raw potatoes, Joram?"
+      ],
+      [
+        197,
+        "00:27:28.460000",
+        "00:27:32.620000",
+        "Yes, Joram, yes, done."
+      ],
+      [
+        284,
+        "00:46:33.700000",
+        "00:46:35.380000",
+        "Aye, Joram."
+      ],
+      [
+        448,
+        "01:10:57.500000",
+        "01:10:58.900000",
+        "Joram."
+      ],
+      [
+        455,
+        "01:11:26.700000",
+        "01:11:30.300000",
+        "If I die, how will Joram survive?"
+      ]
+    ],
+    "regex": "\\b((?!\\bJoram:)Joram)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

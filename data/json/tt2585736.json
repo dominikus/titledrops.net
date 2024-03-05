@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2585736",
+    "title": "American Bistro",
+    "year": 2019,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1172,
+    "occurrences": [
+      [
+        815,
+        "01:01:52.951000",
+        "01:01:54.152000",
+        "American Bistro."
+      ],
+      [
+        1091,
+        "01:27:17.004000",
+        "01:27:18.572000",
+        "American Bistro."
+      ],
+      [
+        1134,
+        "01:31:48.741000",
+        "01:31:52.978000",
+        "I did, last night I visited the American Bistro."
+      ],
+      [
+        1137,
+        "01:31:57.384000",
+        "01:32:01.186000",
+        "But there's something about the American Bistro"
+      ]
+    ],
+    "regex": "\\b((?!\\bAmerican\\ Bistro:)American\\ Bistro)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

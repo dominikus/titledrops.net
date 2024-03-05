@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0479767",
+    "title": "Aziris nuna",
+    "year": 2006,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1007,
+    "occurrences": [
+      [
+        0,
+        "00:01:17.857000",
+        "00:01:19.393000",
+        "Aziris Nuna"
+      ],
+      [
+        124,
+        "00:11:25.632000",
+        "00:11:27.551000",
+        "Aziris nuna, mom."
+      ],
+      [
+        125,
+        "00:11:27.599000",
+        "00:11:29.514000",
+        "Aziris nuna, dad."
+      ],
+      [
+        126,
+        "00:11:29.562000",
+        "00:11:31.430000",
+        "Aziris nuna, kids."
+      ]
+    ],
+    "regex": "\\b((?!\\bAziris\\ nuna:)Aziris\\ nuna)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

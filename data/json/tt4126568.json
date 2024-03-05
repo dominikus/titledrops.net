@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt4126568",
+    "title": "Open Water 3: Cage Dive",
+    "year": 2017,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Horror"
+    ],
+    "count": 7,
+    "all_lines": 1332,
+    "occurrences": [
+      [
+        7,
+        "00:02:15.819000",
+        "00:02:18.136000",
+        "a shark cage dive exhibition was capsized earlier today."
+      ],
+      [
+        22,
+        "00:03:00.915000",
+        "00:03:02.881000",
+        "In the middle of their cage dive"
+      ],
+      [
+        65,
+        "00:05:13.347000",
+        "00:05:16.948000",
+        "Well, the cage dive is, like, it's a surface cage dive."
+      ],
+      [
+        347,
+        "00:20:05.871000",
+        "00:20:07.905000",
+        "with you doing this shark cage dive thing."
+      ],
+      [
+        429,
+        "00:24:39.812000",
+        "00:24:42.213000",
+        "Hey, hey. Shark Cage Dive?"
+      ],
+      [
+        928,
+        "00:53:12.924000",
+        "00:53:15.491000",
+        "We've been on the open water for a few hours now,"
+      ]
+    ],
+    "regex": "\\b((?!\\bOpen\\ Water:)Open\\ Water|(?!\\bCage\\ Dive:)Cage\\ Dive)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1085491",
+    "title": "Postcards from Leningrad",
+    "year": 2007,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 837,
+    "occurrences": [
+      [
+        66,
+        "00:07:20.640000",
+        "00:07:24.098000",
+        "I hope you will keep sending postcards from Leningrad."
+      ],
+      [
+        144,
+        "00:14:35.741000",
+        "00:14:39.040000",
+        "...on the days when postcards from Leningrad arrived."
+      ],
+      [
+        737,
+        "01:12:14.963000",
+        "01:12:18.694000",
+        "...you know postcards from Leningrad will arrive."
+      ],
+      [
+        767,
+        "01:14:48.650000",
+        "01:14:51.312000",
+        "Once again he will receive postcards from Leningrad."
+      ]
+    ],
+    "regex": "\\b((?!\\bPostcards\\ from\\ Leningrad:)Postcards\\ from\\ Leningrad)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

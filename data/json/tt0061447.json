@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0061447",
+    "title": "Caprice",
+    "year": 1967,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1127,
+    "occurrences": [
+      [
+        766,
+        "01:06:25.674000",
+        "01:06:27.642000",
+        "Ah, yes. Caprice."
+      ],
+      [
+        773,
+        "01:06:52.401000",
+        "01:06:55.165000",
+        "Then you will keep this bottle of Caprice."
+      ],
+      [
+        779,
+        "01:07:16.558000",
+        "01:07:20.892000",
+        "In another month, you will be able to purchase Caprice in America."
+      ]
+    ],
+    "regex": "\\b((?!\\bCaprice:)Caprice)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

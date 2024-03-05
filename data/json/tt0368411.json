@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0368411",
+    "title": "Virgin",
+    "year": 2003,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 384,
+    "occurrences": [
+      [
+        68,
+        "00:11:18.377000",
+        "00:11:22.336000",
+        "Pray to the Virgin of Regal."
+      ],
+      [
+        71,
+        "00:11:30.256000",
+        "00:11:33.657000",
+        "We will go home and pray to the Virgin."
+      ]
+    ],
+    "regex": "\\b((?!\\bVirgin:)Virgin)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

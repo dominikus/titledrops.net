@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1200263",
+    "title": "The Color Purple",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 1802,
+    "occurrences": [
+      [
+        785,
+        "00:57:38.759000",
+        "00:57:42.229000",
+        "if you walk past the color purple and not notice it."
+      ],
+      [
+        1737,
+        "02:10:40.107000",
+        "02:10:44.044000",
+        "Like the color purple"
+      ]
+    ],
+    "regex": "\\b((?!\\bColor\\ Purple:)Color\\ Purple)(?!\\:)(?!'t)\\b",
+    "runtime": 141,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

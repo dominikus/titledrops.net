@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0071150",
+    "title": "The Antichrist",
+    "year": 1974,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 766,
+    "occurrences": [
+      [
+        649,
+        "01:29:13.066000",
+        "01:29:17.921000",
+        "- The Antichrist. Bless her and free her from the snake."
+      ],
+      [
+        764,
+        "01:47:50.132000",
+        "01:47:54.692000",
+        "Antichrist will not be born."
+      ]
+    ],
+    "regex": "\\b((?!\\bAntichrist:)Antichrist)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

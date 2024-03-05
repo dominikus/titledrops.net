@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0101956",
+    "title": "The Secret Face",
+    "year": 1991,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 909,
+    "occurrences": [
+      [
+        1,
+        "00:00:13.801000",
+        "00:00:16.747000",
+        "When that secret face reveals itself"
+      ],
+      [
+        17,
+        "00:01:49.453000",
+        "00:01:51.964000",
+        "I am not a lad anymore. SECRET FACE"
+      ]
+    ],
+    "regex": "\\b((?!\\bSecret\\ Face:)Secret\\ Face)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

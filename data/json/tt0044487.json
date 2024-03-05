@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0044487",
+    "title": "The Golden Coach",
+    "year": 1952,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "History"
+    ],
+    "count": 5,
+    "all_lines": 1364,
+    "occurrences": [
+      [
+        501,
+        "00:35:52.725000",
+        "00:35:56.889000",
+        "Ah. Buy a beautiful golden coach."
+      ],
+      [
+        935,
+        "01:07:02.459000",
+        "01:07:05.622000",
+        "You yourself explained the importance of the golden coach..."
+      ],
+      [
+        1307,
+        "01:36:23.686000",
+        "01:36:25.677000",
+        "The golden coach!"
+      ],
+      [
+        1318,
+        "01:38:10.259000",
+        "01:38:12.454000",
+        "a golden coach -"
+      ],
+      [
+        1325,
+        "01:38:40.556000",
+        "01:38:42.717000",
+        "thjs golden coach..."
+      ]
+    ],
+    "regex": "\\b((?!\\bGolden\\ Coach:)Golden\\ Coach)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

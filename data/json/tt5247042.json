@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5247042",
+    "title": "Dark Web",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 894,
+    "occurrences": [
+      [
+        196,
+        "00:20:40.564000",
+        "00:20:42.195000",
+        "the dark web."
+      ],
+      [
+        199,
+        "00:20:45.163000",
+        "00:20:46.930000",
+        "The dark web?"
+      ],
+      [
+        200,
+        "00:20:48.664000",
+        "00:20:49.463000",
+        "The Dark Web."
+      ]
+    ],
+    "regex": "\\b((?!\\bDark\\ Web:)Dark\\ Web)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.7
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0118760",
+    "title": "The Boxer",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1012,
+    "occurrences": [
+      [
+        217,
+        "00:26:59.246000",
+        "00:27:02.443000",
+        "- Your father's a boxer too, isn't he? - Aye."
+      ],
+      [
+        926,
+        "01:35:55.224000",
+        "01:35:57.556000",
+        "That's some boxer you got there, Ike."
+      ]
+    ],
+    "regex": "\\b((?!\\bBoxer:)Boxer)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

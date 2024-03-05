@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0053355",
+    "title": "This Earth Is Mine",
+    "year": 1959,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1647,
+    "occurrences": [
+      [
+        0,
+        "00:01:09.829000",
+        "00:01:14.883000",
+        "{\\an1}# This earth is mine"
+      ],
+      [
+        7,
+        "00:01:50.815000",
+        "00:01:54.415000",
+        "{\\an1}# This earth is mine"
+      ],
+      [
+        8,
+        "00:01:54.528000",
+        "00:01:58.157000",
+        "{\\an1}# This earth is mine"
+      ],
+      [
+        16,
+        "00:02:43.058000",
+        "00:02:49.299000",
+        "{\\an1}# this earth is mine"
+      ]
+    ],
+    "regex": "\\b((?!\\bThis\\ Earth\\ Is\\ Mine:)This\\ Earth\\ Is\\ Mine)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

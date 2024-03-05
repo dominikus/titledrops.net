@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt2710368",
+    "title": "Final: The Rapture",
+    "year": 2013,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 961,
+    "occurrences": [
+      [
+        72,
+        "00:03:21.601000",
+        "00:03:23.068000",
+        "The Rapture happened."
+      ],
+      [
+        73,
+        "00:03:23.203000",
+        "00:03:25.228000",
+        "The Rapture? What is that?"
+      ],
+      [
+        416,
+        "00:47:41.391000",
+        "00:47:42.551000",
+        "The Rapture!"
+      ],
+      [
+        417,
+        "00:47:42.693000",
+        "00:47:44.923000",
+        "The Rapture? "
+      ],
+      [
+        753,
+        "01:13:23.165000",
+        "01:13:25.065000",
+        "...got caught up in the Rapture."
+      ],
+      [
+        865,
+        "01:30:33.027000",
+        "01:30:35.461000",
+        "Yeah, yeah, it's the Rapture."
+      ],
+      [
+        883,
+        "01:31:16.904000",
+        "01:31:18.838000",
+        "If the Rapture is true..."
+      ]
+    ],
+    "regex": "\\b((?!\\bFinal:)Final|(?!\\bRapture:)Rapture)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

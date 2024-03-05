@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0105619",
+    "title": "The Heroic Trio",
+    "year": 1993,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 865,
+    "occurrences": [
+      [
+        861,
+        "01:23:31.373000",
+        "01:23:32.874000",
+        "They are called The Heroic Trio."
+      ],
+      [
+        862,
+        "01:23:32.957000",
+        "01:23:34.291000",
+        "- The Heroic Trio? - The Heroic Trio?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHeroic\\ Trio:)Heroic\\ Trio)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

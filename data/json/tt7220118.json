@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt7220118",
+    "title": "Brotherhood",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1143,
+    "occurrences": [
+      [
+        32,
+        "00:05:30.151000",
+        "00:05:31.484000",
+        "This is the Brotherhood of St. Andrew."
+      ],
+      [
+        700,
+        "00:49:04.163000",
+        "00:49:05.295000",
+        "true brotherhood,"
+      ],
+      [
+        706,
+        "00:49:17.776000",
+        "00:49:20.077000",
+        "Eternal love and brotherhood."
+      ],
+      [
+        820,
+        "00:54:36.495000",
+        "00:54:39.135000",
+        "Robert: Why'd you join the Brotherhood?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBrotherhood:)Brotherhood)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

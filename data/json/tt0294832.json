@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0294832",
+    "title": "Paradise Villa",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 704,
+    "occurrences": [
+      [
+        479,
+        "00:51:14.451000",
+        "00:51:16.681000",
+        "Paradise Villa, Samsung-dong."
+      ],
+      [
+        632,
+        "01:15:58.200000",
+        "01:15:59.963000",
+        "Nothing special, everything is O.K. in Paradise Villa."
+      ]
+    ],
+    "regex": "\\b((?!\\bParadise\\ Villa:)Paradise\\ Villa)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

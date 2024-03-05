@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3204012",
+    "title": "Tiger & Bunny: The Rising",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 2,
+    "all_lines": 1514,
+    "occurrences": [
+      [
+        1370,
+        "01:28:50.993000",
+        "01:28:53.287000",
+        "Tiger & Bunny. Over and Out!"
+      ],
+      [
+        1460,
+        "01:34:40.759000",
+        "01:34:43.554000",
+        "\"Today and tomorrow... The sun is always rising...\""
+      ]
+    ],
+    "regex": "\\b((?!\\bTiger\\ \\&\\ Bunny:)Tiger\\ \\&\\ Bunny|(?!\\bRising:)Rising)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

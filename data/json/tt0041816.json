@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0041816",
+    "title": "Rock Island Trail",
+    "year": 1950,
+    "genres": [
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 1266,
+    "occurrences": [
+      [
+        104,
+        "00:06:43.283000",
+        "00:06:47.766000",
+        "You ought to travel The Rock Island Trail"
+      ],
+      [
+        265,
+        "00:15:46.652000",
+        "00:15:50.613000",
+        "You ought to travel The Rock Island Trail"
+      ]
+    ],
+    "regex": "\\b((?!\\bRock\\ Island\\ Trail:)Rock\\ Island\\ Trail)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

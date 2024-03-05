@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0243493",
+    "title": "The Closet",
+    "year": 2001,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 1183,
+    "occurrences": [
+      [
+        122,
+        "00:11:08.680000",
+        "00:11:09.740000",
+        "And the closet?"
+      ],
+      [
+        129,
+        "00:11:27.720000",
+        "00:11:29.430000",
+        "Come out of the closet."
+      ],
+      [
+        131,
+        "00:11:30.720000",
+        "00:11:33.020000",
+        "Come out of the closet, admit you`re gay."
+      ],
+      [
+        563,
+        "00:39:05",
+        "00:39:07.990000",
+        "I came out of a closet I never went into."
+      ],
+      [
+        677,
+        "00:46:27.360000",
+        "00:46:29.590000",
+        "Is it in your closet? No, I checked."
+      ],
+      [
+        1154,
+        "01:16:23.760000",
+        "01:16:26.870000",
+        "2 months ago you came out of the closet, you agree?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCloset:)Closet)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

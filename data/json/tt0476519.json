@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0476519",
+    "title": "48 Shades",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1347,
+    "occurrences": [
+      [
+        485,
+        "00:32:52.240000",
+        "00:32:55.120000",
+        "# There's more than 48 shades"
+      ],
+      [
+        500,
+        "00:33:37.360000",
+        "00:33:40.200000",
+        "# There's more then 48 shades"
+      ],
+      [
+        564,
+        "00:36:39.040000",
+        "00:36:41.360000",
+        "What are they? The 48 shades."
+      ]
+    ],
+    "regex": "\\b((?!\\b48\\ Shades:)48\\ Shades)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

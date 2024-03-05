@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5340626",
+    "title": "The Trade",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 561,
+    "occurrences": [
+      [
+        20,
+        "00:05:22.583000",
+        "00:05:23.916000",
+        "illegal trade out there."
+      ],
+      [
+        27,
+        "00:05:41.375000",
+        "00:05:44.457000",
+        "And they see what the drug trade has to offer."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrade:)Trade)(?!\\:)(?!'t)\\b",
+    "runtime": 60,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt1215870",
+    "title": "The Gift",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 754,
+    "occurrences": [
+      [
+        153,
+        "00:16:21.120000",
+        "00:16:24.120000",
+        "I just wanted to give Simon a special gift."
+      ],
+      [
+        382,
+        "00:39:45.360000",
+        "00:39:48.360000",
+        "Do you even have a gift for Simon?"
+      ],
+      [
+        500,
+        "00:59:12.240000",
+        "00:59:15.240000",
+        "I'm giving you this gift because I want to give you something."
+      ],
+      [
+        509,
+        "00:59:56.680000",
+        "00:59:59.680000",
+        "- But it's a gift! - I don't need it. Understand?"
+      ],
+      [
+        708,
+        "01:20:55.840000",
+        "01:20:58.840000",
+        "Then you can get your gift, Simon, and you two boys can go for a ride."
+      ]
+    ],
+    "regex": "\\b((?!\\bGift:)Gift)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

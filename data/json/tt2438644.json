@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2438644",
+    "title": "Department Q: The Keeper of Lost Causes",
+    "year": 2013,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 687,
+    "occurrences": [
+      [
+        20,
+        "00:02:52.120000",
+        "00:03:00.120000",
+        "THE KEEPER OF LOST CAUSES"
+      ],
+      [
+        36,
+        "00:05:21.720000",
+        "00:05:24.690000",
+        "Department Q."
+      ],
+      [
+        48,
+        "00:06:32.600000",
+        "00:06:34.887000",
+        "DEPARTMENT Q"
+      ],
+      [
+        682,
+        "01:28:19.200000",
+        "01:28:21.806000",
+        "- Department Q. - Department Q?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDepartment\\ Q:)Department\\ Q|(?!\\bKeeper\\ of\\ Lost\\ Causes:)Keeper\\ of\\ Lost\\ Causes)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

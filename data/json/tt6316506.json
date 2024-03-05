@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6316506",
+    "title": "We Believe in Dinosaurs",
+    "year": 2019,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1748,
+    "occurrences": [
+      [
+        166,
+        "00:09:05.812000",
+        "00:09:07.012000",
+        "We believe in dinosaurs."
+      ],
+      [
+        168,
+        "00:09:09.116000",
+        "00:09:10.482000",
+        "You know, we believe in dinosaurs."
+      ]
+    ],
+    "regex": "\\b((?!\\bWe\\ Believe\\ in\\ Dinosaurs:)We\\ Believe\\ in\\ Dinosaurs)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

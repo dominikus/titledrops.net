@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0422528",
+    "title": "Sarah Silverman: Jesus Is Magic",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Documentary",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 787,
+    "occurrences": [
+      [
+        135,
+        "00:09:11.152000",
+        "00:09:15.670000",
+        "... and daddy believes that Jesus is magic."
+      ],
+      [
+        137,
+        "00:09:22.406000",
+        "00:09:28.949000",
+        "You know Jesus is magic you know because he turn water to wine and he..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSarah\\ Silverman:)Sarah\\ Silverman|(?!\\bJesus\\ Is\\ Magic:)Jesus\\ Is\\ Magic)(?!\\:)(?!'t)\\b",
+    "runtime": 72,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

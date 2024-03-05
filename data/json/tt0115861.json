@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0115861",
+    "title": "Shaman",
+    "year": 1996,
+    "genres": [
+      "Adventure"
+    ],
+    "count": 2,
+    "all_lines": 359,
+    "occurrences": [
+      [
+        101,
+        "00:18:20.204000",
+        "00:18:23.833000",
+        "I'm a shaman."
+      ],
+      [
+        131,
+        "00:29:00.764000",
+        "00:29:02.561000",
+        "He was a shaman."
+      ]
+    ],
+    "regex": "\\b((?!\\bShaman:)Shaman)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1521197",
+    "title": "Anonymous",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 857,
+    "occurrences": [
+      [
+        203,
+        "00:14:36.360000",
+        "00:14:39.603000",
+        "By anonymous, your majesty."
+      ],
+      [
+        204,
+        "00:14:42.120000",
+        "00:14:44.202000",
+        "Anonymous."
+      ],
+      [
+        304,
+        "00:21:33.040000",
+        "00:21:36.203000",
+        "It was an anonymous gift."
+      ],
+      [
+        506,
+        "00:36:19.960000",
+        "00:36:23.123000",
+        "I, for one, wish to see this anonymous colleague of ours."
+      ]
+    ],
+    "regex": "\\b((?!\\bAnonymous:)Anonymous)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

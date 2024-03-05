@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0301799",
+    "title": "Alone",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 100,
+    "occurrences": [
+      [
+        47,
+        "00:47:17.190000",
+        "00:47:20.182000",
+        "I am alone..."
+      ],
+      [
+        70,
+        "01:00:02.990000",
+        "01:00:05.220000",
+        "I`m alone."
+      ],
+      [
+        87,
+        "01:07:26.550000",
+        "01:07:29.781000",
+        "I was alone for a long time."
+      ],
+      [
+        91,
+        "01:07:47.310000",
+        "01:07:50.302000",
+        "to be alone?"
+      ],
+      [
+        92,
+        "01:07:50.430000",
+        "01:07:53.308000",
+        "One shouldn`t be alone."
+      ]
+    ],
+    "regex": "\\b((?!\\bAlone:)Alone)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

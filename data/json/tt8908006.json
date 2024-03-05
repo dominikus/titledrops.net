@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt8908006",
+    "title": "Vault",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "History",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 787,
+    "occurrences": [
+      [
+        40,
+        "00:06:33.690000",
+        "00:06:36.443000",
+        "The vault needs to be hacked again."
+      ],
+      [
+        183,
+        "00:15:38.089000",
+        "00:15:40.262000",
+        "But in the attack vault."
+      ]
+    ],
+    "regex": "\\b((?!\\bVault:)Vault)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

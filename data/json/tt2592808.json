@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2592808",
+    "title": "Love 911",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1650,
+    "occurrences": [
+      [
+        576,
+        "00:31:42.120000",
+        "00:31:43.901000",
+        "Do you think love can be successful just from trying hard?"
+      ],
+      [
+        1392,
+        "01:35:00.022000",
+        "01:35:01.305000",
+        "that I love you."
+      ],
+      [
+        1395,
+        "01:35:15.663000",
+        "01:35:16.974000",
+        "I still love you."
+      ],
+      [
+        1646,
+        "01:56:38.194000",
+        "01:56:39.480000",
+        "Love you. Me too."
+      ]
+    ],
+    "regex": "\\b((?!\\bLove:)Love)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0408976",
+    "title": "Krishna Cottage",
+    "year": 2004,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 928,
+    "occurrences": [
+      [
+        661,
+        "01:31:52.375000",
+        "01:31:58.333000",
+        "To find out.. to find this out. Ill have to go to Krishna Cottage."
+      ],
+      [
+        662,
+        "01:31:59.125000",
+        "01:32:01.207000",
+        "Krishna Cottage? - Yes, Krishna Cottage."
+      ],
+      [
+        667,
+        "01:32:18.166000",
+        "01:32:21.416000",
+        "..to enter into our lives, Ill have to go to Krishna Cottage."
+      ],
+      [
+        678,
+        "01:34:34.292000",
+        "01:34:37.541000",
+        "Didn't l tell you that we'd get some clue in this Krishna Cottage?"
+      ]
+    ],
+    "regex": "\\b((?!\\bKrishna\\ Cottage:)Krishna\\ Cottage)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

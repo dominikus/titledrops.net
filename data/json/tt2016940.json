@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2016940",
+    "title": "Man of Tai Chi",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 935,
+    "occurrences": [
+      [
+        450,
+        "00:41:21.120000",
+        "00:41:22.746000",
+        "where our T Man, Man of Tai Chi,"
+      ],
+      [
+        789,
+        "01:18:38.704000",
+        "01:18:42.666000",
+        "Tiger Chen, Man of Tai Chi."
+      ],
+      [
+        804,
+        "01:19:21.872000",
+        "01:19:26.836000",
+        "We want to see a pure-hearted, good-natured man of Tai Chi"
+      ]
+    ],
+    "regex": "\\b((?!\\bMan\\ of\\ Tai\\ Chi:)Man\\ of\\ Tai\\ Chi)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

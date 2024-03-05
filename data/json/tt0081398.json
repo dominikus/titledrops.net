@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt0081398",
+    "title": "Raging Bull",
+    "year": 1980,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "count": 1,
+    "all_lines": 1202,
+    "occurrences": [
+      [
+        446,
+        "00:47:51.365000",
+        "00:47:56.917000",
+        "The Bronx Bull. The Raging Bull. Let's hear it for Jake La Motta!"
+      ]
+    ],
+    "regex": "\\b((?!\\bRaging\\ Bull:)Raging\\ Bull)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

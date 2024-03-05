@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0039969",
+    "title": "The Voice of the Turtle",
+    "year": 1947,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1864,
+    "occurrences": [
+      [
+        1041,
+        "00:56:18.943000",
+        "00:56:23.946000",
+        "\"And the voice of the turtle is heard in our land.\""
+      ],
+      [
+        1785,
+        "01:37:28.744000",
+        "01:37:31.912000",
+        "And the voice of the turtle is heard in our land."
+      ]
+    ],
+    "regex": "\\b((?!\\bVoice\\ of\\ the\\ Turtle:)Voice\\ of\\ the\\ Turtle)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2231461",
+    "title": "Rampage",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1354,
+    "occurrences": [
+      [
+        244,
+        "00:17:47.076000",
+        "00:17:49.907000",
+        "Because Project Rampage works."
+      ],
+      [
+        466,
+        "00:30:29.776000",
+        "00:30:32.275000",
+        "Rampage-1 is down."
+      ]
+    ],
+    "regex": "\\b((?!\\bRampage:)Rampage)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

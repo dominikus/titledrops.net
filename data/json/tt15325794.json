@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt15325794",
+    "title": "Fall",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1586,
+    "occurrences": [
+      [
+        502,
+        "00:28:10.259000",
+        "00:28:14.162000",
+        "Ashes, ashes We all fall down"
+      ],
+      [
+        797,
+        "00:45:40.275000",
+        "00:45:42.341000",
+        "Well, don't worry, you'll still be famous if you fall,"
+      ],
+      [
+        1121,
+        "01:05:00.434000",
+        "01:05:02.467000",
+        "Maybe you'll get lucky and I'll fall."
+      ],
+      [
+        1169,
+        "01:08:18.434000",
+        "01:08:20.896000",
+        "Humpty Dumpty had a big fall..."
+      ]
+    ],
+    "regex": "\\b((?!\\bFall:)Fall)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

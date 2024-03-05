@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt10516196",
+    "title": "The Getaway King",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 602,
+    "occurrences": [
+      [
+        104,
+        "00:17:30.375000",
+        "00:17:33.458000",
+        "of the infamous Getaway King."
+      ],
+      [
+        485,
+        "01:12:18.583000",
+        "01:12:22.458000",
+        "GETAWAY KING SUCCESSFULLY REHABILITATED"
+      ],
+      [
+        581,
+        "01:28:18.833000",
+        "01:28:20.917000",
+        "He was called the Getaway King,"
+      ]
+    ],
+    "regex": "\\b((?!\\bGetaway\\ King:)Getaway\\ King)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

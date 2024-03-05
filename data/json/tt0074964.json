@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0074964",
+    "title": "Nickelodeon",
+    "year": 1976,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 2326,
+    "occurrences": [
+      [
+        101,
+        "00:07:31.796000",
+        "00:07:33.296000",
+        "Galloping tintypes, Muldoon. Haven't you ever been to a nickelodeon?"
+      ],
+      [
+        102,
+        "00:07:33.297000",
+        "00:07:35.298000",
+        "Harrigan. Nickelodeon."
+      ],
+      [
+        1640,
+        "01:21:56.506000",
+        "01:21:58.507000",
+        "And so today we chance to pass a nickelodeon,"
+      ],
+      [
+        2248,
+        "01:58:12.930000",
+        "01:58:15.932000",
+        "The time of the nickelodeon is over."
+      ]
+    ],
+    "regex": "\\b((?!\\bNickelodeon:)Nickelodeon)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

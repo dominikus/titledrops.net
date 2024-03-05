@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt8802088",
+    "title": "Lost",
+    "year": 2018,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 580,
+    "occurrences": [
+      [
+        171,
+        "00:22:48.143000",
+        "00:22:49.302000",
+        "You'll get lost."
+      ],
+      [
+        221,
+        "00:27:50.346000",
+        "00:27:51.985000",
+        "The village lost its descendants."
+      ],
+      [
+        291,
+        "00:40:19.114000",
+        "00:40:20.354000",
+        "I lost my phone."
+      ],
+      [
+        310,
+        "00:42:15.715000",
+        "00:42:17.115000",
+        "I lost my phone."
+      ]
+    ],
+    "regex": "\\b((?!\\bLost:)Lost)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0047840",
+    "title": "Artists and Models",
+    "year": 1955,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1579,
+    "occurrences": [
+      [
+        1045,
+        "01:08:31.305000",
+        "01:08:33.443000",
+        "You will. She'll be dancing at the Artists and Models Ball."
+      ],
+      [
+        1325,
+        "01:24:39.463000",
+        "01:24:41.635000",
+        "Tonight after the Artists and Models Ball..."
+      ],
+      [
+        1368,
+        "01:27:00.487000",
+        "01:27:03.749000",
+        "Hurry up, girls. Let's go. Step on it. \"Artists and Models\" number."
+      ]
+    ],
+    "regex": "\\b((?!\\bArtists\\ and\\ Models:)Artists\\ and\\ Models)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

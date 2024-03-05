@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1324056",
+    "title": "Together",
+    "year": 2009,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 700,
+    "occurrences": [
+      [
+        105,
+        "00:11:05.360000",
+        "00:11:08.989000",
+        "Together"
+      ],
+      [
+        642,
+        "01:25:57.920000",
+        "01:26:02.550000",
+        "- \"...together.\" - Great. Thank you, Paul."
+      ]
+    ],
+    "regex": "\\b((?!\\bTogether:)Together)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

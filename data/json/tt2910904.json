@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2910904",
+    "title": "The Dressmaker",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 1585,
+    "occurrences": [
+      [
+        702,
+        "00:48:55.017000",
+        "00:48:56.358000",
+        "I'm a dressmaker."
+      ],
+      [
+        814,
+        "00:55:44.781000",
+        "00:55:47.236000",
+        "A fully qualified dressmaker and seamstress would know that."
+      ]
+    ],
+    "regex": "\\b((?!\\bDressmaker:)Dressmaker)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

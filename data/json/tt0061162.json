@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0061162",
+    "title": "War and Peace, Part II: Natasha Rostova",
+    "year": 1965,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 606,
+    "occurrences": [
+      [
+        3,
+        "00:00:38.732000",
+        "00:00:43.260000",
+        "NATASHA ROSTOVA"
+      ],
+      [
+        12,
+        "00:02:07.687000",
+        "00:02:09.655000",
+        "Liudmila SAVELYEVA as Natasha Rostova"
+      ],
+      [
+        108,
+        "00:20:45.070000",
+        "00:20:47.834000",
+        "- With Natasha Rostova? - Yes. Who else?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWar\\ and\\ Peace,:)War\\ and\\ Peace,|(?!\\bNatasha\\ Rostova:)Natasha\\ Rostova)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

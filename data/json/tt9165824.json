@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt9165824",
+    "title": "The Show",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 2179,
+    "occurrences": [
+      [
+        37,
+        "00:03:57.247000",
+        "00:03:59.182000",
+        "he won't show up on any council records"
+      ],
+      [
+        527,
+        "00:29:48.731000",
+        "00:29:49.999000",
+        "I'll show you to her."
+      ],
+      [
+        2089,
+        "01:47:33.963000",
+        "01:47:36.699000",
+        "The show's not really started yet and..."
+      ]
+    ],
+    "regex": "\\b((?!\\bShow:)Show)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

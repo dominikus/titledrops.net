@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0203755",
+    "title": "One Night at McCool's",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 1678,
+    "occurrences": [
+      [
+        93,
+        "00:05:48.890000",
+        "00:05:52.185000",
+        "This whole thing started one night at McCool's"
+      ],
+      [
+        252,
+        "00:14:00.549000",
+        "00:14:05.177000",
+        "It started one night at McCool's..."
+      ],
+      [
+        472,
+        "00:24:06.321000",
+        "00:24:10.325000",
+        "It all started one night at McCool's"
+      ]
+    ],
+    "regex": "\\b((?!\\bOne\\ Night\\ at\\ McCool's:)One\\ Night\\ at\\ McCool's)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

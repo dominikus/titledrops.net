@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0048603",
+    "title": "Seven Cities of Gold",
+    "year": 1955,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1066,
+    "occurrences": [
+      [
+        3,
+        "00:00:28.063000",
+        "00:00:29.799000",
+        "seven cities of gold."
+      ],
+      [
+        69,
+        "00:06:11.774000",
+        "00:06:13.743000",
+        "Well, gentlemen. - To the seven cities of gold!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSeven\\ Cities\\ of\\ Gold:)Seven\\ Cities\\ of\\ Gold)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3526482",
+    "title": "Tales",
+    "year": 2014,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 945,
+    "occurrences": [
+      [
+        0,
+        "00:00:20.380000",
+        "00:00:24.920000",
+        "'Tales' could not have been made in 2012 if not for the help and support of the Iranian cinema family Shirin Dibaj"
+      ],
+      [
+        1,
+        "00:00:26.700000",
+        "00:00:31.740000",
+        "Tales"
+      ]
+    ],
+    "regex": "\\b((?!\\bTales:)Tales)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

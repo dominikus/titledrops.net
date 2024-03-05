@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1081935",
+    "title": "Baaria",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1480,
+    "occurrences": [
+      [
+        63,
+        "00:06:03.211000",
+        "00:06:06.188000",
+        "- Who is that? - Cicco, Baaria."
+      ],
+      [
+        397,
+        "00:39:22.087000",
+        "00:39:24.026000",
+        "Women and Men of Baaria!"
+      ],
+      [
+        1279,
+        "01:58:07.694000",
+        "01:58:10.267000",
+        "Ah, Baaria ..."
+      ],
+      [
+        1425,
+        "02:12:07.729000",
+        "02:12:10.748000",
+        "Viva Baaria!"
+      ],
+      [
+        1471,
+        "02:25:10.868000",
+        "02:25:18.411000",
+        "From Wikipedia: The film seeks to recount life in the Sicilian town of Baaria,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBaaria:)Baaria)(?!\\:)(?!'t)\\b",
+    "runtime": 163,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

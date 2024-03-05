@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt23049270",
+    "title": "Do Not Disturb",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1756,
+    "occurrences": [
+      [
+        1321,
+        "01:19:20.500000",
+        "01:19:22.166000",
+        "Do not disturb me again!"
+      ],
+      [
+        1323,
+        "01:19:39.833000",
+        "01:19:43",
+        "Do not disturb me. You're disturbing me."
+      ],
+      [
+        1334,
+        "01:20:53.291000",
+        "01:20:54.708000",
+        "Do not disturb me!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDo\\ Not\\ Disturb:)Do\\ Not\\ Disturb)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

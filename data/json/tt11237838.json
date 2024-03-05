@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt11237838",
+    "title": "The Furry Fortune",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1320,
+    "occurrences": [
+      [
+        311,
+        "00:18:57.905000",
+        "00:19:02.076000",
+        "Oh, Nuzzles, you're gonna make us a furry fortune!"
+      ],
+      [
+        1224,
+        "01:16:44.071000",
+        "01:16:47.374000",
+        "and the furry fortune that they are hiding out"
+      ]
+    ],
+    "regex": "\\b((?!\\bFurry\\ Fortune:)Furry\\ Fortune)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

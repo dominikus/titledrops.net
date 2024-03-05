@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt10661180",
+    "title": "The Last Shift",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1306,
+    "occurrences": [
+      [
+        36,
+        "00:02:53.375000",
+        "00:02:55.509000",
+        "- You know Monday's my last shift? - SHAZZ: Mm-hm."
+      ],
+      [
+        734,
+        "00:42:47.167000",
+        "00:42:48.968000",
+        "STANLEY: Yeah, Monday's my last shift."
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Shift:)Last\\ Shift)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

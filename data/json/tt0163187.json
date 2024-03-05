@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0163187",
+    "title": "Runaway Bride",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1755,
+    "occurrences": [
+      [
+        74,
+        "00:04:55.087000",
+        "00:04:58.632000",
+        "She likes to dump grooms at the altar. They call her the \"Runaway Bride.\""
+      ],
+      [
+        107,
+        "00:06:47.181000",
+        "00:06:51.852000",
+        "she is known as Miss Maggie Carpenter, a.k.a. the Runaway Bride.\""
+      ],
+      [
+        220,
+        "00:13:18.385000",
+        "00:13:23.097000",
+        "Get up. I can turn this Runaway Bride story around."
+      ],
+      [
+        1449,
+        "01:28:39.764000",
+        "01:28:42.391000",
+        "Get your \"Runaway Bride\" T-shirts here."
+      ]
+    ],
+    "regex": "\\b((?!\\bRunaway\\ Bride:)Runaway\\ Bride)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

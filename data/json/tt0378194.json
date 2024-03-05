@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt0378194",
+    "title": "Kill Bill: Vol. 2",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 1,
+    "all_lines": 1415,
+    "occurrences": [
+      [
+        27,
+        "00:01:41.901000",
+        "00:01:45.171000",
+        "I am gonna kill Bill."
+      ]
+    ],
+    "regex": "\\b((?!\\bKill\\ Bill:)Kill\\ Bill|(?!\\bVol\\.\\ 2:)Vol\\.\\ 2)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

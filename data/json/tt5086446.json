@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5086446",
+    "title": "Violently Happy",
+    "year": 2016,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 710,
+    "occurrences": [
+      [
+        11,
+        "00:04:02.200000",
+        "00:04:09.960000",
+        "\"Violently Happy\""
+      ],
+      [
+        710,
+        "01:29:36.960000",
+        "01:29:41.080000",
+        "\"Violently Happy\""
+      ]
+    ],
+    "regex": "\\b((?!\\bViolently\\ Happy:)Violently\\ Happy)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

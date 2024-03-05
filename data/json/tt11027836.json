@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt11027836",
+    "title": "Outside",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1066,
+    "occurrences": [
+      [
+        24,
+        "00:03:16.464000",
+        "00:03:18.565000",
+        "Uh, I have your food outside your place"
+      ],
+      [
+        728,
+        "00:55:17.585000",
+        "00:55:20.454000",
+        "you go outside here and people barely make eye contact."
+      ],
+      [
+        758,
+        "00:57:10.763000",
+        "00:57:14.101000",
+        "We should wait outside. The normal way."
+      ]
+    ],
+    "regex": "\\b((?!\\bOutside:)Outside)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

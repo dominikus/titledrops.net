@@ -1,0 +1,75 @@
+[
+  {
+    "imdb": "tt1854564",
+    "title": "Percy Jackson: Sea of Monsters",
+    "year": 2013,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 9,
+    "all_lines": 1256,
+    "occurrences": [
+      [
+        5,
+        "00:01:21.815000",
+        "00:01:25.854000",
+        "I'm Percy Jackson. Son of Poseidon, god of the sea."
+      ],
+      [
+        82,
+        "00:07:48.868000",
+        "00:07:50.973000",
+        "Actually, it's Percy Jackson, sir."
+      ],
+      [
+        325,
+        "00:26:13.004000",
+        "00:26:15.678000",
+        "the Golden Fleece was in the Sea of Monsters..."
+      ],
+      [
+        575,
+        "00:40:16.647000",
+        "00:40:20.117000",
+        "What, are we shipping ourselves overnight express to the Sea of Monsters?"
+      ],
+      [
+        756,
+        "00:51:10.333000",
+        "00:51:12.836000",
+        "He should be in the Sea of Monsters right about now."
+      ],
+      [
+        875,
+        "01:03:33.910000",
+        "01:03:35.651000",
+        "It's the Sea of Monsters."
+      ],
+      [
+        887,
+        "01:04:46.782000",
+        "01:04:48.762000",
+        "She guards the Sea of Monsters."
+      ],
+      [
+        890,
+        "01:05:05.768000",
+        "01:05:08.772000",
+        "The Sea of Monsters might not be in Poseidon's domain."
+      ],
+      [
+        1174,
+        "01:28:57.342000",
+        "01:28:58.878000",
+        "Percy Jackson..."
+      ]
+    ],
+    "regex": "\\b((?!\\bPercy\\ Jackson:)Percy\\ Jackson|(?!\\bSea\\ of\\ Monsters:)Sea\\ of\\ Monsters)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

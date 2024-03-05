@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0043892",
+    "title": "Miss Oyu",
+    "year": 1951,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 654,
+    "occurrences": [
+      [
+        14,
+        "00:04:59.720000",
+        "00:05:02.551000",
+        "No! That's Miss Oyu,"
+      ],
+      [
+        117,
+        "00:17:42.607000",
+        "00:17:45.146000",
+        "but nothing compared to you, Miss Oyu."
+      ],
+      [
+        136,
+        "00:19:00.268000",
+        "00:19:02.140000",
+        "Who, Miss Oyu?"
+      ],
+      [
+        151,
+        "00:20:21.847000",
+        "00:20:24.182000",
+        "Is that you, Miss Oyu?"
+      ],
+      [
+        494,
+        "01:04:11.682000",
+        "01:04:13.932000",
+        "Miss Oyu, you must be exhausted."
+      ]
+    ],
+    "regex": "\\b((?!\\bMiss\\ Oyu:)Miss\\ Oyu)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

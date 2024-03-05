@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0041426",
+    "title": "The Great Dan Patch",
+    "year": 1949,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1423,
+    "occurrences": [
+      [
+        1393,
+        "01:32:03.615000",
+        "01:32:06.270000",
+        "of the great Dan Patch."
+      ],
+      [
+        1411,
+        "01:33:25.218000",
+        "01:33:33.618000",
+        "The great Dan Patch will never be seen again on any track!"
+      ]
+    ],
+    "regex": "\\b((?!\\bGreat\\ Dan\\ Patch:)Great\\ Dan\\ Patch)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

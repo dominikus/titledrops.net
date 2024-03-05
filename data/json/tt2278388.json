@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt2278388",
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 6,
+    "all_lines": 1239,
+    "occurrences": [
+      [
+        212,
+        "00:14:28.201000",
+        "00:14:31.121000",
+        "Junior lobby boy in training, Grand Budapest Hotel,"
+      ],
+      [
+        318,
+        "00:21:33.626000",
+        "00:21:36.254000",
+        "The young man works for me at the Grand Budapest Hotel in Nebelsbad."
+      ],
+      [
+        1008,
+        "01:14:11.573000",
+        "01:14:14.701000",
+        "Are you Monsieur Gustave of the Grand Budapest Hotel in Nebelsbad?"
+      ],
+      [
+        1010,
+        "01:14:56.951000",
+        "01:15:00.497000",
+        "Are you Monsieur Gustave of the Grand Budapest Hotel in Nebelsbad?"
+      ],
+      [
+        1013,
+        "01:15:32.445000",
+        "01:15:35.156000",
+        "Are you Monsieur Gustave of the Grand Budapest Hotel in Nebelsbad?"
+      ],
+      [
+        1144,
+        "01:27:39.505000",
+        "01:27:44.510000",
+        "this very institution, the Grand Budapest Hotel."
+      ]
+    ],
+    "regex": "\\b((?!\\bGrand\\ Budapest\\ Hotel:)Grand\\ Budapest\\ Hotel)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

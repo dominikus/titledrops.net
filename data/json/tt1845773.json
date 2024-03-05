@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1845773",
+    "title": "Ai Weiwei: Never Sorry",
+    "year": 2012,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 137,
+    "occurrences": [
+      [
+        22,
+        "00:13:14.544000",
+        "00:13:18.036000",
+        "Did authorities know you were Ai Weiwei's people?"
+      ],
+      [
+        68,
+        "00:39:29.158000",
+        "00:39:34.152000",
+        "Today Mr. Ai Weiwei came here because he was hit."
+      ],
+      [
+        99,
+        "00:57:05.505000",
+        "00:57:07.587000",
+        "I think Ai Weiwei's doing work"
+      ]
+    ],
+    "regex": "\\b((?!\\bAi\\ Weiwei:)Ai\\ Weiwei|(?!\\bNever\\ Sorry:)Never\\ Sorry)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

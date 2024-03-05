@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt11306480",
+    "title": "Don't Suck",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1999,
+    "occurrences": [
+      [
+        153,
+        "00:07:16.329000",
+        "00:07:18.166000",
+        "- Don't suck. - Damn it!"
+      ],
+      [
+        1826,
+        "01:26:11.415000",
+        "01:26:12.583000",
+        "Don't suck."
+      ],
+      [
+        1999,
+        "01:36:24.724000",
+        "01:36:26.143000",
+        "Don't suck."
+      ]
+    ],
+    "regex": "\\b((?!\\bDon't\\ Suck:)Don't\\ Suck)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

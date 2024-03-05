@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt24330464",
+    "title": "Butterfly",
+    "year": 2022,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 2205,
+    "occurrences": [
+      [
+        727,
+        "00:45:23.916000",
+        "00:45:25.541000",
+        "Come to the butterfly's nest."
+      ],
+      [
+        1036,
+        "01:00:43.458000",
+        "01:00:47.250000",
+        "Operation butterfly is about to start."
+      ],
+      [
+        1856,
+        "01:53:13.500000",
+        "01:53:15.500000",
+        "Operation butterfly ends."
+      ],
+      [
+        2039,
+        "02:02:37.666000",
+        "02:02:39.916000",
+        "You are butterfly nest CCTV in charge right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bButterfly:)Butterfly)(?!\\:)(?!'t)\\b",
+    "runtime": 136,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt10659270",
+    "title": "Rehab Cabin",
+    "year": 2021,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1542,
+    "occurrences": [
+      [
+        628,
+        "00:29:22.830000",
+        "00:29:26.333000",
+        "Welcome to the Rehab Cabin, Amanda!"
+      ],
+      [
+        1110,
+        "00:53:14.194000",
+        "00:53:16.396000",
+        "We brought her to the Rehab Cabin."
+      ]
+    ],
+    "regex": "\\b((?!\\bRehab\\ Cabin:)Rehab\\ Cabin)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

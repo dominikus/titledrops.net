@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt5160154",
+    "title": "The Pass",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 7,
+    "all_lines": 1359,
+    "occurrences": [
+      [
+        199,
+        "00:10:18",
+        "00:10:21.333000",
+        "Pass and move. Drop. Pass and move."
+      ],
+      [
+        200,
+        "00:10:24.333000",
+        "00:10:25.541000",
+        "Pass and move."
+      ],
+      [
+        373,
+        "00:19:26.166000",
+        "00:19:29.458000",
+        "and I'm on, will you pass me the ball?"
+      ],
+      [
+        531,
+        "00:30:21.500000",
+        "00:30:24.750000",
+        "And how did your mate feel, the one that you didn't pass to?"
+      ],
+      [
+        791,
+        "00:47:23.458000",
+        "00:47:26.333000",
+        "Erm, pass us them pills, will you?"
+      ],
+      [
+        1053,
+        "01:01:26.416000",
+        "01:01:28.767000",
+        "- You said you'd pass me the ball. - Well, it's not the playground."
+      ]
+    ],
+    "regex": "\\b((?!\\bPass:)Pass)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

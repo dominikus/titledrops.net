@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0059459",
+    "title": "The Moment of Truth",
+    "year": 1965,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 613,
+    "occurrences": [
+      [
+        231,
+        "00:35:36.834000",
+        "00:35:38.665000",
+        "This is the moment of truth."
+      ],
+      [
+        293,
+        "00:43:26.370000",
+        "00:43:28.861000",
+        "Yes, he's big... but in the moment of truth..."
+      ]
+    ],
+    "regex": "\\b((?!\\bMoment\\ of\\ Truth:)Moment\\ of\\ Truth)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

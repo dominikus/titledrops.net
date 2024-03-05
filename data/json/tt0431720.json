@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0431720",
+    "title": "Delivery",
+    "year": 2004,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 474,
+    "occurrences": [
+      [
+        152,
+        "00:24:09.680000",
+        "00:24:10.590000",
+        "Delivery!"
+      ],
+      [
+        153,
+        "00:24:13",
+        "00:24:16.117000",
+        "Are you the man or what! Delivery, boy!"
+      ],
+      [
+        173,
+        "00:28:55.760000",
+        "00:29:01.517000",
+        "What does ''delivery'' mean?"
+      ],
+      [
+        176,
+        "00:29:07.120000",
+        "00:29:10.590000",
+        "Delivery, distribution, liberation, childbirth..."
+      ]
+    ],
+    "regex": "\\b((?!\\bDelivery:)Delivery)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [
+      "Delivery Man"
+    ],
+    "title_is_name": true,
+    "rating": 5.9
+  }
+]

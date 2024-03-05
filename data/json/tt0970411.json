@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0970411",
+    "title": "City of Ember",
+    "year": 2008,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 939,
+    "occurrences": [
+      [
+        55,
+        "00:05:49.459000",
+        "00:05:51.959000",
+        "Produce the Book Of The City Of Ember."
+      ],
+      [
+        771,
+        "01:06:01.667000",
+        "01:06:05.876000",
+        "...that is our city of Ember."
+      ]
+    ],
+    "regex": "\\b((?!\\bCity\\ of\\ Ember:)City\\ of\\ Ember)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

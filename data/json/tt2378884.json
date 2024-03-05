@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2378884",
+    "title": "Cavemen",
+    "year": 2013,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1672,
+    "occurrences": [
+      [
+        148,
+        "00:06:31.446000",
+        "00:06:37.305000",
+        "We were just fulfilling our primal needs, like cavemen."
+      ],
+      [
+        152,
+        "00:06:46.094000",
+        "00:06:48.881000",
+        "between us and cavemen is the evolution of language?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCavemen:)Cavemen)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

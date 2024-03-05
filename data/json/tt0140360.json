@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0140360",
+    "title": "Marriage",
+    "year": 1974,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 923,
+    "occurrences": [
+      [
+        449,
+        "00:50:01.458000",
+        "00:50:04.500000",
+        "Our marriage needs to take sick-leave."
+      ],
+      [
+        451,
+        "00:50:06.417000",
+        "00:50:08.625000",
+        "That our marriage is like being sick."
+      ]
+    ],
+    "regex": "\\b((?!\\bMarriage:)Marriage)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

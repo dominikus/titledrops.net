@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0106968",
+    "title": "Friends",
+    "year": 1993,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 677,
+    "occurrences": [
+      [
+        133,
+        "00:26:46.133000",
+        "00:26:48.333000",
+        "Johan, they're my friends."
+      ],
+      [
+        193,
+        "00:34:52.667000",
+        "00:34:56.600000",
+        "Maybe your white friends can tell you."
+      ],
+      [
+        237,
+        "00:40:08.567000",
+        "00:40:10.767000",
+        "I see you found some new friends."
+      ],
+      [
+        421,
+        "01:04:01.133000",
+        "01:04:02.967000",
+        "was nice to have black friends."
+      ]
+    ],
+    "regex": "\\b((?!\\bFriends:)Friends)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

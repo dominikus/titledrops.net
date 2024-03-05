@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt7361504",
+    "title": "Meeting",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1037,
+    "occurrences": [
+      [
+        507,
+        "00:39:28.800000",
+        "00:39:32.720000",
+        "It's meeting your true self that's so painful and sometimes awkward."
+      ],
+      [
+        515,
+        "00:40:14.200000",
+        "00:40:17.780000",
+        "Am very much left with our last meeting"
+      ],
+      [
+        677,
+        "00:52:00.440000",
+        "00:52:02.776000",
+        "not like our first meeting"
+      ]
+    ],
+    "regex": "\\b((?!\\bMeeting:)Meeting)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

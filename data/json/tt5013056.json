@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5013056",
+    "title": "Dunkirk",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 536,
+    "occurrences": [
+      [
+        126,
+        "00:32:40.350000",
+        "00:32:42.370000",
+        "Dunkirk."
+      ],
+      [
+        128,
+        "00:32:47.460000",
+        "00:32:51.390000",
+        "We have to go to Dunkirk first."
+      ]
+    ],
+    "regex": "\\b((?!\\bDunkirk:)Dunkirk)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

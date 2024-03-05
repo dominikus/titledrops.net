@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0470290",
+    "title": "The Silly Age",
+    "year": 2006,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 596,
+    "occurrences": [
+      [
+        26,
+        "00:02:02.240000",
+        "00:02:04.240000",
+        "The silly age."
+      ],
+      [
+        277,
+        "00:37:59.645000",
+        "00:38:02.112000",
+        "Samuel is going through \"the silly age\"."
+      ],
+      [
+        317,
+        "00:42:09.146000",
+        "00:42:14.479000",
+        "Samuel is going through \"the silly age\", it only takes a good spanking to cure him."
+      ]
+    ],
+    "regex": "\\b((?!\\bSilly\\ Age:)Silly\\ Age)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

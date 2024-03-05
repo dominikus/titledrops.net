@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0810784",
+    "title": "Bright Star",
+    "year": 2009,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1110,
+    "occurrences": [
+      [
+        682,
+        "01:12:53.469000",
+        "01:12:55.096000",
+        "''Bright star,"
+      ],
+      [
+        1016,
+        "01:52:00.213000",
+        "01:52:02.204000",
+        "''Bright star,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBright\\ Star:)Bright\\ Star)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

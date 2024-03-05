@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0923869",
+    "title": "United Red Army",
+    "year": 2007,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 700,
+    "occurrences": [
+      [
+        4,
+        "00:00:20.313000",
+        "00:00:26.466000",
+        "United Red Army"
+      ],
+      [
+        397,
+        "00:41:19.700000",
+        "00:41:28.700000",
+        "the name is changed to United Red Army (URA)."
+      ]
+    ],
+    "regex": "\\b((?!\\bUnited\\ Red\\ Army:)United\\ Red\\ Army)(?!\\:)(?!'t)\\b",
+    "runtime": 190,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

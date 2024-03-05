@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0108211",
+    "title": "Stalingrad",
+    "year": 1993,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 691,
+    "occurrences": [
+      [
+        120,
+        "00:12:13.199000",
+        "00:12:15.360000",
+        "How about Stalingrad, gentlemen?"
+      ],
+      [
+        155,
+        "00:15:58.357000",
+        "00:16:00.825000",
+        "And we're not even in Stalingrad yet."
+      ],
+      [
+        168,
+        "00:18:19.164000",
+        "00:18:20.563000",
+        "Welcome to Stalingrad."
+      ]
+    ],
+    "regex": "\\b((?!\\bStalingrad:)Stalingrad)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

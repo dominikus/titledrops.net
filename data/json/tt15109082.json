@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt15109082",
+    "title": "The Quiet Girl",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 654,
+    "occurrences": [
+      [
+        11,
+        "00:02:59.670000",
+        "00:03:05.542000",
+        "The Quiet Girl"
+      ],
+      [
+        469,
+        "00:58:49",
+        "00:58:51.917000",
+        "A quiet girl, this one."
+      ]
+    ],
+    "regex": "\\b((?!\\bQuiet\\ Girl:)Quiet\\ Girl)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

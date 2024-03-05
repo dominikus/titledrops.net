@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0045935",
+    "title": "Gate of Hell",
+    "year": 1953,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 504,
+    "occurrences": [
+      [
+        54,
+        "00:12:17.848000",
+        "00:12:20.806000",
+        "The head of priest Shinzei hangs outside the Gate of Hell!"
+      ],
+      [
+        59,
+        "00:12:35.328000",
+        "00:12:39.924000",
+        "And the head of priest Shinzei hangs by the Gate of Hell."
+      ],
+      [
+        82,
+        "00:18:12.048000",
+        "00:18:15.085000",
+        "The head of Shinzei hangs by the Gate of Hell?"
+      ]
+    ],
+    "regex": "\\b((?!\\bGate\\ of\\ Hell:)Gate\\ of\\ Hell)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

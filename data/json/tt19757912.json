@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt19757912",
+    "title": "Acidman",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 1103,
+    "occurrences": [
+      [
+        396,
+        "00:30:55.027000",
+        "00:30:56.680000",
+        "- Acidman's kind of funny, though."
+      ],
+      [
+        546,
+        "00:40:36.390000",
+        "00:40:40.089000",
+        " - Acidman, Acidman!"
+      ],
+      [
+        548,
+        "00:40:41.308000",
+        "00:40:42.788000",
+        "-  Acidman!"
+      ],
+      [
+        550,
+        "00:40:47.793000",
+        "00:40:49.055000",
+        "- Acidman! - Dad?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAcidman:)Acidman)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

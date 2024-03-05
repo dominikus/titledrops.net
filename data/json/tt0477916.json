@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0477916",
+    "title": "Viva Cuba",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 816,
+    "occurrences": [
+      [
+        624,
+        "00:52:29.906000",
+        "00:52:31.965000",
+        "- Viva. - Viva Cuba."
+      ],
+      [
+        635,
+        "00:53:34.004000",
+        "00:53:36.564000",
+        "- Viva Cuba. - Viva."
+      ],
+      [
+        636,
+        "00:53:36.640000",
+        "00:53:38.403000",
+        "- Viva Cuba. - Viva."
+      ]
+    ],
+    "regex": "\\b((?!\\bViva\\ Cuba:)Viva\\ Cuba)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

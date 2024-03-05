@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0059742",
+    "title": "The Sound of Music",
+    "year": 1965,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 611,
+    "occurrences": [
+      [
+        1,
+        "00:02:46.100000",
+        "00:02:50.500000",
+        "With the sound of music"
+      ],
+      [
+        5,
+        "00:03:02",
+        "00:03:06.600000",
+        "With the sound of music"
+      ],
+      [
+        20,
+        "00:04:13.500000",
+        "00:04:21.300000",
+        "With the sound of music"
+      ]
+    ],
+    "regex": "\\b((?!\\bSound\\ of\\ Music:)Sound\\ of\\ Music)(?!\\:)(?!'t)\\b",
+    "runtime": 172,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

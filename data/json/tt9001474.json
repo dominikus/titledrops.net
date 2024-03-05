@@ -1,0 +1,48 @@
+[
+  {
+    "imdb": "tt9001474",
+    "title": "Cactus Jack",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1510,
+    "occurrences": [
+      [
+        1029,
+        "00:50:31.801000",
+        "00:50:35.334000",
+        "This is Cactus Jack coming to you live"
+      ],
+      [
+        1187,
+        "00:59:34.499000",
+        "00:59:36.626000",
+        "Yes, the cactus Jack show has been canceled."
+      ],
+      [
+        1320,
+        "01:06:35.421000",
+        "01:06:38.766000",
+        "Cactus Jack, just call yourself what you are,"
+      ],
+      [
+        1322,
+        "01:07:06.895000",
+        "01:07:10.457000",
+        "To the man who calls himself Cactus Jack,"
+      ]
+    ],
+    "regex": "\\b((?!\\bCactus\\ Jack:)Cactus\\ Jack)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [
+      "Cactus Jack",
+      "Ronald"
+    ],
+    "title_is_name": true,
+    "rating": 4.1
+  }
+]

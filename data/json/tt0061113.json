@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0061113",
+    "title": "Trans-Europ-Express",
+    "year": 1966,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 512,
+    "occurrences": [
+      [
+        12,
+        "00:01:40.860000",
+        "00:01:44.560000",
+        "Then he boards the Trans-Europ-Express going to Antwerp."
+      ],
+      [
+        504,
+        "01:29:17.260000",
+        "01:29:19.800000",
+        "'Ladies and gentlemen, the Trans-Europ-Express..."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrans\\-Europ\\-Express:)Trans\\-Europ\\-Express)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

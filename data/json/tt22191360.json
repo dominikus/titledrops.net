@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt22191360",
+    "title": "Semantic Error: The Movie",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1997,
+    "occurrences": [
+      [
+        955,
+        "01:18:09.060000",
+        "01:18:11.796000",
+        "Right, did you buy the movie tickets?"
+      ],
+      [
+        956,
+        "01:18:36.087000",
+        "01:18:38.155000",
+        "You want to go see a movie?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSemantic\\ Error:)Semantic\\ Error|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 178,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

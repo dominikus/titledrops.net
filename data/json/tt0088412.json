@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0088412",
+    "title": "Where the Green Ants Dream",
+    "year": 1984,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 893,
+    "occurrences": [
+      [
+        3,
+        "00:00:13.680000",
+        "00:00:16.911000",
+        "We are watching \"Where the Green Ants Dream\",..."
+      ],
+      [
+        109,
+        "00:08:49.996000",
+        "00:08:54.524000",
+        "For them it's a place where the green ants dream,..."
+      ]
+    ],
+    "regex": "\\b((?!\\bWhere\\ the\\ Green\\ Ants\\ Dream:)Where\\ the\\ Green\\ Ants\\ Dream)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

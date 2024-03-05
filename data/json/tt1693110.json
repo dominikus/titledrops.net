@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1693110",
+    "title": "Showgirls 2: Penny's from Heaven",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1616,
+    "occurrences": [
+      [
+        744,
+        "00:46:45.500000",
+        "00:46:47.300000",
+        "- Where the showgirls sizzle,"
+      ],
+      [
+        748,
+        "00:46:59.500000",
+        "00:47:02.100000",
+        "-  Where the showgirls sizzle,"
+      ]
+    ],
+    "regex": "\\b((?!\\bShowgirls:)Showgirls|(?!\\bPenny's\\ from\\ Heaven:)Penny's\\ from\\ Heaven)(?!\\:)(?!'t)\\b",
+    "runtime": 145,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 1.8
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0233230",
+    "title": "Trilogy: Three",
+    "year": 2002,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 608,
+    "occurrences": [
+      [
+        264,
+        "00:26:37.560000",
+        "00:26:39.437000",
+        "Three speeding offences,"
+      ],
+      [
+        490,
+        "00:53:52.200000",
+        "00:53:54.111000",
+        "Three days? Four days?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTrilogy:)Trilogy|(?!\\bThree:)Three)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

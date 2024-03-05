@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt9074574",
+    "title": "Dogs Don't Wear Pants",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 422,
+    "occurrences": [
+      [
+        6,
+        "00:05:30.750000",
+        "00:05:37.040000",
+        "Dogs Don't Wear Pants"
+      ],
+      [
+        102,
+        "00:22:34.250000",
+        "00:22:37.250000",
+        "Dogs don't wear pants. Take them off."
+      ]
+    ],
+    "regex": "\\b((?!\\bDogs\\ Don't\\ Wear\\ Pants:)Dogs\\ Don't\\ Wear\\ Pants)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

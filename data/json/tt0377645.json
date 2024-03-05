@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0377645",
+    "title": "The Last Witness",
+    "year": 1980,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1801,
+    "occurrences": [
+      [
+        2,
+        "00:00:07.624000",
+        "00:00:08.957000",
+        "The Last Witness"
+      ],
+      [
+        10,
+        "00:01:01.332000",
+        "00:01:03.207000",
+        "The Last Witness"
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Witness:)Last\\ Witness)(?!\\:)(?!'t)\\b",
+    "runtime": 158,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

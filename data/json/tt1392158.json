@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1392158",
+    "title": "Gokusen: The Movie",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1237,
+    "occurrences": [
+      [
+        68,
+        "00:06:47.529000",
+        "00:06:53.195000",
+        "GOKUSEN THE MOVIE"
+      ],
+      [
+        1228,
+        "01:55:54.404000",
+        "01:55:57.703000",
+        "Original Story \"Gokusen\" by Kozueko Morimoto,"
+      ]
+    ],
+    "regex": "\\b((?!\\bGokusen:)Gokusen|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

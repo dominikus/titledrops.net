@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0066374",
+    "title": "The Policeman",
+    "year": 1971,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1155,
+    "occurrences": [
+      [
+        79,
+        "00:05:09.122000",
+        "00:05:14.674000",
+        "\"The Policeman\""
+      ],
+      [
+        494,
+        "00:40:18.722000",
+        "00:40:25.594000",
+        "Why aren't you suitable? I think you're a very good policeman."
+      ],
+      [
+        544,
+        "00:44:18.962000",
+        "00:44:20.998000",
+        "I'm a policeman!"
+      ],
+      [
+        545,
+        "00:44:21.962000",
+        "00:44:24.317000",
+        "I'm a policeman!"
+      ],
+      [
+        903,
+        "01:21:03.642000",
+        "01:21:09.239000",
+        "\"The Policeman\""
+      ]
+    ],
+    "regex": "\\b((?!\\bPoliceman:)Policeman)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

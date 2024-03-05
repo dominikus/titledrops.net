@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2459156",
+    "title": "Copenhagen",
+    "year": 2014,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1122,
+    "occurrences": [
+      [
+        296,
+        "00:24:41.719000",
+        "00:24:47.294000",
+        "Um, it says that he's missing Copenhagen,"
+      ],
+      [
+        1089,
+        "01:27:39.627000",
+        "01:27:43.040000",
+        "not since Mads took me around in Copenhagen"
+      ]
+    ],
+    "regex": "\\b((?!\\bCopenhagen:)Copenhagen)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

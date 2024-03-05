@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0087042",
+    "title": "Cheech & Chong's: The Corsican Brothers",
+    "year": 1984,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1295,
+    "occurrences": [
+      [
+        361,
+        "00:25:54.818000",
+        "00:25:56.649000",
+        "Corsican Brothers!"
+      ],
+      [
+        405,
+        "00:29:23.460000",
+        "00:29:24.688000",
+        "Corsican Brothers."
+      ],
+      [
+        1048,
+        "01:06:34.384000",
+        "01:06:37.547000",
+        "Corsican Brothers!"
+      ],
+      [
+        1238,
+        "01:24:53.216000",
+        "01:24:55.377000",
+        "And so the Corsican Brothers escaped..."
+      ]
+    ],
+    "regex": "\\b((?!\\bCheech\\ \\&\\ Chong's:)Cheech\\ \\&\\ Chong's|(?!\\bCorsican\\ Brothers:)Corsican\\ Brothers)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

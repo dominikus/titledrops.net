@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5278462",
+    "title": "Author: The JT LeRoy Story",
+    "year": 2016,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1290,
+    "occurrences": [
+      [
+        362,
+        "00:28:54.466000",
+        "00:28:56.812000",
+        "JT LeRoy is a very young American author"
+      ],
+      [
+        670,
+        "00:50:11.209000",
+        "00:50:16.057000",
+        "And our host presents JT LeRoy, the best selling author,"
+      ]
+    ],
+    "regex": "\\b((?!\\bAuthor:)Author|(?!\\bJT\\ LeRoy\\ Story:)JT\\ LeRoy\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

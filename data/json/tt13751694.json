@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt13751694",
+    "title": "Animal",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 3083,
+    "occurrences": [
+      [
+        44,
+        "00:03:40.166000",
+        "00:03:42.333000",
+        "{\\an8}Who will define what an animal is?"
+      ],
+      [
+        48,
+        "00:03:53.875000",
+        "00:03:57.250000",
+        "The word \"animal\" comes from the Latin animalis,"
+      ],
+      [
+        1150,
+        "01:07:49.291000",
+        "01:07:52.208000",
+        "A chaotic mind gradually turns you Into a monstrous animal"
+      ],
+      [
+        1180,
+        "01:09:03.541000",
+        "01:09:05.375000",
+        "Into a monstrous animal"
+      ],
+      [
+        2563,
+        "02:42:05.125000",
+        "02:42:06.791000",
+        "Don't just stand there like a dumb animal!"
+      ]
+    ],
+    "regex": "\\b((?!\\bAnimal:)Animal)(?!\\:)(?!'t)\\b",
+    "runtime": 204,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

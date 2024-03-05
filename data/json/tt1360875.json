@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt1360875",
+    "title": "Katalin Varga",
+    "year": 2009,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 463,
+    "occurrences": [
+      [
+        4,
+        "00:00:32.760000",
+        "00:00:36.036000",
+        "We'd like to ask if you have seen a young lady by the name of Katalin Varga?"
+      ],
+      [
+        199,
+        "00:37:23.560000",
+        "00:37:27.439000",
+        "We'd like to ask if you have seen a young lady by the name of Katalin Varga?"
+      ],
+      [
+        248,
+        "00:46:25.520000",
+        "00:46:27.158000",
+        "I'm Katalin Varga."
+      ]
+    ],
+    "regex": "\\b((?!\\bKatalin\\ Varga:)Katalin\\ Varga)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [
+      "Katalin Varga"
+    ],
+    "title_is_name": true,
+    "rating": 7
+  }
+]

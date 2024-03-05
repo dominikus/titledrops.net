@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt6767728",
+    "title": "All In",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 2345,
+    "occurrences": [
+      [
+        30,
+        "00:01:45.888000",
+        "00:01:47.107000",
+        "I'm all in"
+      ],
+      [
+        31,
+        "00:01:47.150000",
+        "00:01:51.546000",
+        "They can't tell me nothing, all in"
+      ],
+      [
+        1173,
+        "00:48:53.539000",
+        "00:48:56.672000",
+        "That's why I'm all in right now."
+      ]
+    ],
+    "regex": "\\b((?!\\bAll\\ In:)All\\ In)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

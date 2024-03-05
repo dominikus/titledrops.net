@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0808339",
+    "title": "The Heir Apparent: Largo Winch",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 972,
+    "occurrences": [
+      [
+        654,
+        "01:06:45.672000",
+        "01:06:48.550000",
+        "Largo Winch is our only chance of survival."
+      ],
+      [
+        951,
+        "01:39:31.096000",
+        "01:39:32.597000",
+        "Mister Largo Winch!"
+      ],
+      [
+        971,
+        "01:42:23.810000",
+        "01:42:25.270000",
+        "Largo Winch!"
+      ],
+      [
+        972,
+        "01:42:26.646000",
+        "01:42:29.649000",
+        "Take care, Largo Winch!"
+      ]
+    ],
+    "regex": "\\b((?!\\bHeir\\ Apparent:)Heir\\ Apparent|(?!\\bLargo\\ Winch:)Largo\\ Winch)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

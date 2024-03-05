@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0068617",
+    "title": "Fuzz",
+    "year": 1972,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1840,
+    "occurrences": [
+      [
+        1452,
+        "01:07:33.129000",
+        "01:07:35.088000",
+        "Suppose he calls the fuzz?"
+      ],
+      [
+        1457,
+        "01:07:42.834000",
+        "01:07:44.836000",
+        "But, my friend, they're called fuzz"
+      ]
+    ],
+    "regex": "\\b((?!\\bFuzz:)Fuzz)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

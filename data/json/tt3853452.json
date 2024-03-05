@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3853452",
+    "title": "Assassination Classroom",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1333,
+    "occurrences": [
+      [
+        118,
+        "00:09:45.460000",
+        "00:09:51.360000",
+        "That's how we, the E for End Class, became students of the assassination classroom."
+      ],
+      [
+        242,
+        "00:17:41.540000",
+        "00:17:45",
+        "Maybe among us students in the assassination classroom,"
+      ],
+      [
+        1298,
+        "01:42:01",
+        "01:42:04.680000",
+        "E Class completely became the assassination classroom again."
+      ],
+      [
+        1333,
+        "01:50:00.220000",
+        "01:50:04.830000",
+        "[ Assassination Classroom ~Graduation~ Showing at 2016!!]"
+      ]
+    ],
+    "regex": "\\b((?!\\bAssassination\\ Classroom:)Assassination\\ Classroom)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

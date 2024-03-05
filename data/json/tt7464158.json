@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt7464158",
+    "title": "Photocopy",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1188,
+    "occurrences": [
+      [
+        895,
+        "01:08:50.253000",
+        "01:08:54.579000",
+        "Since the day you sent Abdel Aziz to photocopy your medical tests."
+      ],
+      [
+        1139,
+        "01:29:07.183000",
+        "01:29:11.981000",
+        "I don't even know is full name. They call him: Mahmoud Photocopy."
+      ],
+      [
+        1146,
+        "01:30:06.361000",
+        "01:30:10.201000",
+        "Here's the jewel I told you about. The photocopy legend of Abdou Basha."
+      ]
+    ],
+    "regex": "\\b((?!\\bPhotocopy:)Photocopy)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

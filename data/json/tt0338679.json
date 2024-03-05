@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0338679",
+    "title": "A Class to Remember 4: Fifteen",
+    "year": 2000,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1200,
+    "occurrences": [
+      [
+        0,
+        "00:00:21.555000",
+        "00:00:30.089000",
+        "A Class to Remember IV ~ FIFTEEN ~"
+      ],
+      [
+        223,
+        "00:19:00.940000",
+        "00:19:02.568000",
+        "You're fifteen!"
+      ],
+      [
+        1043,
+        "01:39:12.880000",
+        "01:39:14.508000",
+        "Fifteen."
+      ],
+      [
+        1044,
+        "01:39:15.216000",
+        "01:39:16.809000",
+        "Fifteen?"
+      ]
+    ],
+    "regex": "\\b((?!\\bClass\\ to\\ Remember:)Class\\ to\\ Remember|(?!\\bFifteen:)Fifteen)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

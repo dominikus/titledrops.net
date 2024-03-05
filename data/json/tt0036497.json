@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0036497",
+    "title": "Victory Through Air Power",
+    "year": 1943,
+    "genres": [
+      "Animation",
+      "Documentary",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 102,
+    "occurrences": [
+      [
+        5,
+        "00:00:13.760000",
+        "00:00:15.921000",
+        "of a book called Victory Through Air Power,"
+      ],
+      [
+        91,
+        "00:04:05.792000",
+        "00:04:07.851000",
+        "Roosevelt saw Victory Through Air Power,"
+      ],
+      [
+        101,
+        "00:04:28.582000",
+        "00:04:30.812000",
+        "Victory Through Air Power, in its entirety."
+      ]
+    ],
+    "regex": "\\b((?!\\bVictory\\ Through\\ Air\\ Power:)Victory\\ Through\\ Air\\ Power)(?!\\:)(?!'t)\\b",
+    "runtime": 70,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

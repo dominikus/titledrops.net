@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt4074114",
+    "title": "Girls",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1968,
+    "occurrences": [
+      [
+        98,
+        "00:05:05.084000",
+        "00:05:06.709000",
+        "If he tried to pick up girls"
+      ],
+      [
+        1758,
+        "01:49:34.667000",
+        "01:49:36.209000",
+        "You girls just go..."
+      ],
+      [
+        1919,
+        "01:56:53.334000",
+        "01:56:55.001000",
+        "Girls, are you ready?"
+      ]
+    ],
+    "regex": "\\b((?!\\bGirls:)Girls)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

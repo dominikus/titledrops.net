@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt5987042",
+    "title": "The Devil's Well",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1540,
+    "occurrences": [
+      [
+        173,
+        "00:09:14.054000",
+        "00:09:16.456000",
+        "called the Devil's Well in Connecticut."
+      ],
+      [
+        177,
+        "00:09:25.933000",
+        "00:09:28.368000",
+        "is about the Devil's Well."
+      ],
+      [
+        188,
+        "00:09:51.892000",
+        "00:09:54.995000",
+        "about the Devil's Well and it sounded interesting."
+      ],
+      [
+        190,
+        "00:09:56.596000",
+        "00:09:58.866000",
+        "- I have never been to the Devil's Well."
+      ],
+      [
+        454,
+        "00:26:57.717000",
+        "00:26:59.752000",
+        "gonna be checking out the place around the Devil's Well."
+      ],
+      [
+        495,
+        "00:28:30.743000",
+        "00:28:32.779000",
+        "- I mean I've heard of the Devil's Well,"
+      ]
+    ],
+    "regex": "\\b((?!\\bDevil's\\ Well:)Devil's\\ Well)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

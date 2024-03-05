@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1320082",
+    "title": "The Concert",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 1140,
+    "occurrences": [
+      [
+        71,
+        "00:09:21.206000",
+        "00:09:24.741000",
+        "could be available for a concert in fifteen days,"
+      ],
+      [
+        851,
+        "01:14:50.010000",
+        "01:14:53.510000",
+        "- To the concert. - To the concert."
+      ]
+    ],
+    "regex": "\\b((?!\\bConcert:)Concert)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

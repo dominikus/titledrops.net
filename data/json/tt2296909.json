@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt2296909",
+    "title": "Pink Floyd: The Story of Wish You Were Here",
+    "year": 2012,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 6,
+    "all_lines": 771,
+    "occurrences": [
+      [
+        87,
+        "00:07:58.800000",
+        "00:08:04.200000",
+        "of this extraordinarily Powerful and Valuable Trade Name - Pink Floyd."
+      ],
+      [
+        251,
+        "00:19:05.600000",
+        "00:19:08.600000",
+        "It did not seem to Affect Only Pink Floyd."
+      ],
+      [
+        377,
+        "00:26:49.200000",
+        "00:26:50.900000",
+        "I Came to the Notice of Pink Floyd,"
+      ],
+      [
+        486,
+        "00:35:50.700000",
+        "00:35:54.600000",
+        "of the Pink Floyd Story, and IT May well be That Pink Floyd"
+      ],
+      [
+        528,
+        "00:39:11.700000",
+        "00:39:16.700000",
+        "One of My fondest, fondest Memories of Being with Pink Floyd"
+      ]
+    ],
+    "regex": "\\b((?!\\bPink\\ Floyd:)Pink\\ Floyd|(?!\\bStory\\ of\\ Wish\\ You\\ Were\\ Here:)Story\\ of\\ Wish\\ You\\ Were\\ Here)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

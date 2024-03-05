@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1682181",
+    "title": "Bully",
+    "year": 2011,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1261,
+    "occurrences": [
+      [
+        414,
+        "00:32:34.661000",
+        "00:32:38.372000",
+        "...that I... I want to become the bully."
+      ],
+      [
+        823,
+        "01:03:14.332000",
+        "01:03:16.333000",
+        "that I was probably the biggest bully"
+      ],
+      [
+        831,
+        "01:03:38.607000",
+        "01:03:40.649000",
+        "Even when people would bully him"
+      ]
+    ],
+    "regex": "\\b((?!\\bBully:)Bully)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

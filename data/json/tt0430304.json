@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0430304",
+    "title": "Little Man",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 5,
+    "all_lines": 1457,
+    "occurrences": [
+      [
+        462,
+        0,
+        0,
+        "Hey, little man. No hard feelings, right?"
+      ],
+      [
+        574,
+        0,
+        0,
+        "There you go, little man."
+      ],
+      [
+        1095,
+        0,
+        0,
+        "Little dude. Little man."
+      ],
+      [
+        1156,
+        0,
+        0,
+        "- Hey, little man, what's the matter? - I don't think he's feeling well."
+      ],
+      [
+        1428,
+        0,
+        0,
+        "- They think I'm ugly. - Hey, little man."
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Man:)Little\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0162555",
+    "title": "The Octopus",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1028,
+    "occurrences": [
+      [
+        30,
+        "00:05:24.009000",
+        "00:05:25.810000",
+        "Look who's here the Octopus"
+      ],
+      [
+        963,
+        "01:26:41.829000",
+        "01:26:43.790000",
+        "For the expenses of the octopus."
+      ]
+    ],
+    "regex": "\\b((?!\\bOctopus:)Octopus)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0084293",
+    "title": "Making Love",
+    "year": 1982,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1418,
+    "occurrences": [
+      [
+        111,
+        "00:07:49.836000",
+        "00:07:53.328000",
+        "We would know that every time we made love, I was making love to her..."
+      ],
+      [
+        1148,
+        "01:24:35.934000",
+        "01:24:38.698000",
+        "was making love to me."
+      ]
+    ],
+    "regex": "\\b((?!\\bMaking\\ Love:)Making\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0481583",
+    "title": "Simple Things",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1412,
+    "occurrences": [
+      [
+        1032,
+        "01:11:43.841000",
+        "01:11:46.332000",
+        "Simple things, Dr. Gibbs."
+      ],
+      [
+        1407,
+        "01:41:56.944000",
+        "01:42:00.402000",
+        "Well, it's the simple things and not your diamond rings"
+      ],
+      [
+        1409,
+        "01:42:04.702000",
+        "01:42:07.910000",
+        "It's the simple things and not your bling-bling"
+      ],
+      [
+        1412,
+        "01:42:20.092000",
+        "01:42:22.128000",
+        "It's the simple things."
+      ]
+    ],
+    "regex": "\\b((?!\\bSimple\\ Things:)Simple\\ Things)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

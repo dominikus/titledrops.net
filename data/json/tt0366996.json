@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0366996",
+    "title": "The Saddest Music in the World",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "count": 4,
+    "all_lines": 1102,
+    "occurrences": [
+      [
+        82,
+        "00:07:39.725000",
+        "00:07:44.059000",
+        "The Lady Port-Huntley's Saddest Music In The World cortest."
+      ],
+      [
+        340,
+        "00:26:21.713000",
+        "00:26:26.241000",
+        "Saddest Music in The World opening pageant has begun,"
+      ],
+      [
+        558,
+        "00:41:28.486000",
+        "00:41:32.320000",
+        "can stand up and dance to the saddest music in the world."
+      ],
+      [
+        987,
+        "01:22:25.607000",
+        "01:22:28.599000",
+        "Saddest Music in the World finale."
+      ]
+    ],
+    "regex": "\\b((?!\\bSaddest\\ Music\\ in\\ the\\ World:)Saddest\\ Music\\ in\\ the\\ World)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

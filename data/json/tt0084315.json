@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0084315",
+    "title": "The Masters of Time",
+    "year": 1982,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 900,
+    "occurrences": [
+      [
+        803,
+        "01:06:16.909000",
+        "01:06:20.763000",
+        "of the Federation of the Masters of Time."
+      ],
+      [
+        823,
+        "01:08:00.451000",
+        "01:08:05.868000",
+        "We are in a particular zone now being colonized by the Masters of Time."
+      ],
+      [
+        824,
+        "01:08:05.868000",
+        "01:08:08.055000",
+        "Have you ever heard of the Masters of Time..."
+      ],
+      [
+        859,
+        "01:10:22.847000",
+        "01:10:25.034000",
+        "by the Masters of Time."
+      ]
+    ],
+    "regex": "\\b((?!\\bMasters\\ of\\ Time:)Masters\\ of\\ Time)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

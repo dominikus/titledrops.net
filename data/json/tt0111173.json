@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0111173",
+    "title": "Shopping",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1069,
+    "occurrences": [
+      [
+        146,
+        "00:15:44.742000",
+        "00:15:48.647000",
+        "Been busy. Bit of shopping, you know. Crash and carry."
+      ],
+      [
+        380,
+        "00:31:40.664000",
+        "00:31:43.401000",
+        "It's 'cause we're not going shopping, Dixie."
+      ],
+      [
+        897,
+        "01:23:24.566000",
+        "01:23:25.667000",
+        "Window shopping."
+      ],
+      [
+        1032,
+        "01:36:10.931000",
+        "01:36:12.166000",
+        "{\\an1}BE BOP: to do some shopping."
+      ]
+    ],
+    "regex": "\\b((?!\\bShopping:)Shopping)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

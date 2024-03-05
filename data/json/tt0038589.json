@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0038589",
+    "title": "The Harvey Girls",
+    "year": 1946,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 721,
+    "occurrences": [
+      [
+        33,
+        "00:08:17.380000",
+        "00:08:19.905000",
+        "- We're Harvey girls. - What's that, a college?"
+      ],
+      [
+        547,
+        "01:05:51.263000",
+        "01:05:54.630000",
+        "If anything else happens to the Harvey girls, you'll answer to me."
+      ],
+      [
+        567,
+        "01:11:57.727000",
+        "01:12:00.389000",
+        "Quite a run on Harvey girls we're having this morning."
+      ],
+      [
+        571,
+        "01:12:09.039000",
+        "01:12:12.202000",
+        "I hear you and the Harvey girls are having a little party tonight."
+      ]
+    ],
+    "regex": "\\b((?!\\bHarvey\\ Girls:)Harvey\\ Girls)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

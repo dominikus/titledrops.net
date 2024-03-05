@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0105104",
+    "title": "Passenger 57",
+    "year": 1992,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 849,
+    "occurrences": [
+      [
+        396,
+        "00:34:34.822000",
+        "00:34:39.521000",
+        "l want a complete passenger list. l want it five minutes ago! Get to work!"
+      ],
+      [
+        569,
+        "00:47:56.023000",
+        "00:47:58.082000",
+        "l was a passenger before the plane was hijacked."
+      ],
+      [
+        687,
+        "01:01:43.783000",
+        "01:01:47.549000",
+        "l saw him take a passenger on that plane. He asked about his family..."
+      ]
+    ],
+    "regex": "\\b((?!\\bPassenger:)Passenger)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

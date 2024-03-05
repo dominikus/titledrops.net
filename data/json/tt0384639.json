@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0384639",
+    "title": "Uno",
+    "year": 2004,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 496,
+    "occurrences": [
+      [
+        389,
+        "01:12:37.240000",
+        "01:12:42.394000",
+        "When you have one card left, you're supposed to say \"Uno.\""
+      ],
+      [
+        390,
+        "01:12:42.640000",
+        "01:12:45.950000",
+        "- Uno. - If you can discard that, -"
+      ],
+      [
+        464,
+        "01:24:50.320000",
+        "01:24:52.515000",
+        "Uno."
+      ]
+    ],
+    "regex": "\\b((?!\\bUno:)Uno)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

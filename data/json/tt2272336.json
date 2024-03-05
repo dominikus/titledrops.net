@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt2272336",
+    "title": "Ghost Team One",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 2025,
+    "occurrences": [
+      [
+        20,
+        "00:00:55.055000",
+        "00:00:56.973000",
+        "ANNOUNCER: Ghost Team One."
+      ],
+      [
+        1416,
+        "00:56:50.657000",
+        "00:56:52.825000",
+        "Please? We're Ghost Team One."
+      ],
+      [
+        1417,
+        "00:56:52.910000",
+        "00:56:55.161000",
+        "Ghost Team One because apparently there is more than one."
+      ],
+      [
+        1419,
+        "00:56:57.873000",
+        "00:56:59.749000",
+        "We're Ghost Team One."
+      ],
+      [
+        1469,
+        "00:58:37.931000",
+        "00:58:40.391000",
+        "Let's do it, guys. Ghost Team One!"
+      ]
+    ],
+    "regex": "\\b((?!\\bGhost\\ Team\\ One:)Ghost\\ Team\\ One)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

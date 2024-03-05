@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0059502",
+    "title": "Never Too Late",
+    "year": 1965,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1927,
+    "occurrences": [
+      [
+        0,
+        "00:00:01.346000",
+        "00:00:03.969000",
+        "[Vic Damone singing \"Never Too Late\"]"
+      ],
+      [
+        1,
+        "00:00:07.904000",
+        "00:00:12.943000",
+        "It's never too late"
+      ],
+      [
+        5,
+        "00:00:30.513000",
+        "00:00:35.345000",
+        "It's never too late"
+      ],
+      [
+        17,
+        "00:01:33.783000",
+        "00:01:38.719000",
+        "It's never too late"
+      ],
+      [
+        1925,
+        "01:43:54.400000",
+        "01:43:59.440000",
+        "It's never too late"
+      ]
+    ],
+    "regex": "\\b((?!\\bNever\\ Too\\ Late:)Never\\ Too\\ Late)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

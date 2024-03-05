@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt11274100",
+    "title": "Archenemy",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 1139,
+    "occurrences": [
+      [
+        9,
+        "00:01:58.402000",
+        "00:02:01.739000",
+        "My archenemy, Cleo Vantrik."
+      ],
+      [
+        318,
+        "00:20:30.948000",
+        "00:20:33.851000",
+        "So my archenemy, Cleo Vantrik,"
+      ],
+      [
+        885,
+        "01:01:41.819000",
+        "01:01:44.321000",
+        "your archenemy, Cleo, is runnin' shit."
+      ]
+    ],
+    "regex": "\\b((?!\\bArchenemy:)Archenemy)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

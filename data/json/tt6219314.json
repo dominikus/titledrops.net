@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt6219314",
+    "title": "The Party's Just Beginning",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1041,
+    "occurrences": [
+      [
+        926,
+        "01:12:27.757000",
+        "01:12:30.449000",
+        "Lie down. Party's just beginning."
+      ],
+      [
+        927,
+        "01:12:30.484000",
+        "01:12:32.382000",
+        "Party's just beginning."
+      ]
+    ],
+    "regex": "\\b((?!\\bParty's\\ Just\\ Beginning:)Party's\\ Just\\ Beginning)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

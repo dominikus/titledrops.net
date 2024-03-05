@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1674050",
+    "title": "The Christening",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 231,
+    "occurrences": [
+      [
+        128,
+        "00:13:56.327000",
+        "00:13:59.637000",
+        "I'm christening my son on Sunday. I'd Iike you to be the godfather."
+      ],
+      [
+        217,
+        "00:20:57.727000",
+        "00:21:00.161000",
+        "Maybe we shouId postpone the christening?"
+      ]
+    ],
+    "regex": "\\b((?!\\bChristening:)Christening)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

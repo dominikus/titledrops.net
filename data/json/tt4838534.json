@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4838534",
+    "title": "The Sweet Life",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 959,
+    "occurrences": [
+      [
+        58,
+        "00:06:31.524000",
+        "00:06:35.360000",
+        "You one of those sweet life guys?"
+      ],
+      [
+        381,
+        "00:28:44.457000",
+        "00:28:45.656000",
+        "Sweet life medical transport."
+      ]
+    ],
+    "regex": "\\b((?!\\bSweet\\ Life:)Sweet\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

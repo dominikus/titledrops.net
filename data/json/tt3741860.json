@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3741860",
+    "title": "Awake: The Life of Yogananda",
+    "year": 2014,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1080,
+    "occurrences": [
+      [
+        533,
+        "00:39:03.261000",
+        "00:39:05.304000",
+        "I can keep awake several days."
+      ],
+      [
+        968,
+        "01:11:22.114000",
+        "01:11:24.033000",
+        "And then be awake."
+      ]
+    ],
+    "regex": "\\b((?!\\bAwake:)Awake|(?!\\bLife\\ of\\ Yogananda:)Life\\ of\\ Yogananda)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

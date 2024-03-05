@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0080100",
+    "title": "The Visitor",
+    "year": 1979,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 781,
+    "occurrences": [
+      [
+        144,
+        "00:18:30.403000",
+        "00:18:32.946000",
+        "I'm a visitor."
+      ],
+      [
+        167,
+        "00:22:23.991000",
+        "00:22:26.994000",
+        "- The visitor? - Katie has been designated for that."
+      ]
+    ],
+    "regex": "\\b((?!\\bVisitor:)Visitor)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

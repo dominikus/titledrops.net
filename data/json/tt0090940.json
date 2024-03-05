@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0090940",
+    "title": "The Lunatics",
+    "year": 1986,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1082,
+    "occurrences": [
+      [
+        352,
+        "00:25:29.680000",
+        "00:25:31.193000",
+        "Handling the lunatics"
+      ],
+      [
+        1040,
+        "01:23:35.600000",
+        "01:23:37.158000",
+        "A lunatics wielding knife is inside"
+      ]
+    ],
+    "regex": "\\b((?!\\bLunatics:)Lunatics)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

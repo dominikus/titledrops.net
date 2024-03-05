@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2712990",
+    "title": "Bonobo",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1038,
+    "occurrences": [
+      [
+        9,
+        "00:02:20.474000",
+        "00:02:24.578000",
+        "People always ask me, \"why would you want to live like a bonobo?\""
+      ],
+      [
+        28,
+        "00:03:17.531000",
+        "00:03:20",
+        "Here at bonobo house,"
+      ],
+      [
+        418,
+        "00:35:40.239000",
+        "00:35:41.673000",
+        "I'm a bonobo now."
+      ],
+      [
+        1021,
+        "01:13:49.158000",
+        "01:13:50.760000",
+        "If you're a bonobo, I mean,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBonobo:)Bonobo)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

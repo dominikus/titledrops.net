@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0216986",
+    "title": "Propaganda",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 814,
+    "occurrences": [
+      [
+        543,
+        "01:05:05.673000",
+        "01:05:09.666000",
+        "-their wives run away. -Turks don't carry propaganda..."
+      ],
+      [
+        546,
+        "01:05:18.273000",
+        "01:05:21.470000",
+        "You are making propaganda against us."
+      ]
+    ],
+    "regex": "\\b((?!\\bPropaganda:)Propaganda)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt22507484",
+    "title": "Target",
+    "year": 2023,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1040,
+    "occurrences": [
+      [
+        696,
+        "00:55:50.970000",
+        "00:55:52.930000",
+        "I became a target."
+      ],
+      [
+        937,
+        "01:24:10.120000",
+        "01:24:12.460000",
+        "Let's become the perfect target that he wants."
+      ],
+      [
+        940,
+        "01:24:19.260000",
+        "01:24:21.470000",
+        "Let's become his likely target"
+      ]
+    ],
+    "regex": "\\b((?!\\bTarget:)Target)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

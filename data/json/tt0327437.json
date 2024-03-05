@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0327437",
+    "title": "Around the World in 80 Days",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 791,
+    "occurrences": [
+      [
+        232,
+        "00:18:39.880000",
+        "00:18:44.078000",
+        "have traveled around the world in 80 days!"
+      ],
+      [
+        251,
+        "00:20:11.240000",
+        "00:20:14.232000",
+        "help you go around the world in 80 days"
+      ]
+    ],
+    "regex": "\\b((?!\\bAround\\ the\\ World\\ in\\ 80\\ Days:)Around\\ the\\ World\\ in\\ 80\\ Days)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

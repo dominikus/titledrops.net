@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0488658",
+    "title": "Unaccompanied Minors",
+    "year": 2006,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1074,
+    "occurrences": [
+      [
+        35,
+        "00:03:26.222000",
+        "00:03:29.623000",
+        "I got two unaccompanied minors!"
+      ],
+      [
+        104,
+        "00:07:31.601000",
+        "00:07:35.162000",
+        "Welcome to the Unaccompanied Minors Room."
+      ],
+      [
+        935,
+        "01:12:58.855000",
+        "01:13:02.120000",
+        "Can you also please get the unaccompanied minors back here at 7 a.m.?"
+      ]
+    ],
+    "regex": "\\b((?!\\bUnaccompanied\\ Minors:)Unaccompanied\\ Minors)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

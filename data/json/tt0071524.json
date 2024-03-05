@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0071524",
+    "title": "The Front Page",
+    "year": 1974,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 2334,
+    "occurrences": [
+      [
+        167,
+        "00:10:13.864000",
+        "00:10:16.241000",
+        "At 7:56, we re-plate the front page."
+      ],
+      [
+        688,
+        "00:30:19.486000",
+        "00:30:21.488000",
+        "the front page around a dead mackerel."
+      ],
+      [
+        1706,
+        "01:14:37.895000",
+        "01:14:40.856000",
+        "It's for the Examiner tomorrow. Front page. Huh?"
+      ],
+      [
+        1736,
+        "01:15:56.181000",
+        "01:15:57.975000",
+        "We're gonna rip out the whole front page."
+      ],
+      [
+        2126,
+        "01:33:02.624000",
+        "01:33:05.210000",
+        "And on the front page, we'll have a composite picture."
+      ]
+    ],
+    "regex": "\\b((?!\\bFront\\ Page:)Front\\ Page)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

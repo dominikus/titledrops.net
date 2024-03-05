@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0090769",
+    "title": "The Boy in Blue",
+    "year": 1986,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "count": 3,
+    "all_lines": 959,
+    "occurrences": [
+      [
+        192,
+        "00:18:09.916000",
+        "00:18:11.429000",
+        "The Boy in Blue."
+      ],
+      [
+        276,
+        "00:27:43.636000",
+        "00:27:47.629000",
+        "It wouldn't do to have the Boy in Blue locked up for bootlegging."
+      ],
+      [
+        389,
+        "00:35:01.356000",
+        "00:35:03.950000",
+        "They'll wait for the Boy in Blue."
+      ]
+    ],
+    "regex": "\\b((?!\\bBoy\\ in\\ Blue:)Boy\\ in\\ Blue)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

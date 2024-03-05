@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0039477",
+    "title": "The Hucksters",
+    "year": 1947,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 2124,
+    "occurrences": [
+      [
+        319,
+        "00:17:23.024000",
+        "00:17:24.354000",
+        "We're professional hucksters."
+      ],
+      [
+        1422,
+        "01:16:14.660000",
+        "01:16:16.129000",
+        "America's first hucksters."
+      ]
+    ],
+    "regex": "\\b((?!\\bHucksters:)Hucksters)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

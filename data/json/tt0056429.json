@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0056429",
+    "title": "Redhead",
+    "year": 1962,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1057,
+    "occurrences": [
+      [
+        103,
+        "00:10:21.960000",
+        "00:10:25.840000",
+        "I should recognize that look: a redhead."
+      ],
+      [
+        247,
+        "00:22:37",
+        "00:22:41.950000",
+        "But there must be opportunities here for a redhead."
+      ],
+      [
+        272,
+        "00:24:53.120000",
+        "00:24:57.717000",
+        "He'd try it with her, if she were alone. She's not a real redhead."
+      ]
+    ],
+    "regex": "\\b((?!\\bRedhead:)Redhead)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

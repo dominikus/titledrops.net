@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0092112",
+    "title": "Trick or Treat",
+    "year": 1986,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 647,
+    "occurrences": [
+      [
+        448,
+        "01:01:35.608000",
+        "01:01:38.277000",
+        "- Trick or Treat! Smell our feet! - Come back tomorrow!"
+      ],
+      [
+        461,
+        "01:02:13.429000",
+        "01:02:15.056000",
+        "Trick or Treat! Smell my feet!"
+      ]
+    ],
+    "regex": "\\b((?!\\bTrick\\ or\\ Treat:)Trick\\ or\\ Treat)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

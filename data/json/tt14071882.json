@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt14071882",
+    "title": "Dog Years",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1019,
+    "occurrences": [
+      [
+        899,
+        "01:13:59.500000",
+        "01:14:02.500000",
+        "Did you tell him the truth? About the dog years?"
+      ],
+      [
+        916,
+        "01:15:30.833000",
+        "01:15:33.250000",
+        "Now I know how sad my dog years are."
+      ]
+    ],
+    "regex": "\\b((?!\\bDog\\ Years:)Dog\\ Years)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

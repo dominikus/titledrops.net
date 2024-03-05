@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt7543908",
+    "title": "Killbird",
+    "year": 2019,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1282,
+    "occurrences": [
+      [
+        128,
+        "00:10:08.392000",
+        "00:10:13.130000",
+        "My favorite is, um, I just read about it, uh, a killbird,"
+      ],
+      [
+        137,
+        "00:10:31.282000",
+        "00:10:33.450000",
+        "killbird's suddenly all better and flies away."
+      ]
+    ],
+    "regex": "\\b((?!\\bKillbird:)Killbird)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

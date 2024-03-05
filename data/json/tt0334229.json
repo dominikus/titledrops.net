@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0334229",
+    "title": "Public Toilet",
+    "year": 2002,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 949,
+    "occurrences": [
+      [
+        6,
+        "00:02:45.932000",
+        "00:02:47.797000",
+        "...that I was born in the public toilet in the backyard."
+      ],
+      [
+        18,
+        "00:04:23.463000",
+        "00:04:27.559000",
+        "The public toilet near my place is a legend in itself."
+      ],
+      [
+        704,
+        "01:11:52.941000",
+        "01:11:55.466000",
+        "The public toilet on Chun Yuen Street in the Wanchai district!"
+      ],
+      [
+        705,
+        "01:11:55.711000",
+        "01:11:56.735000",
+        "The public toilet?"
+      ],
+      [
+        709,
+        "01:12:02.284000",
+        "01:12:04.980000",
+        "Yup. He's the janitor of that public toilet."
+      ],
+      [
+        735,
+        "01:13:15.190000",
+        "01:13:17.454000",
+        "I have a friend who was actually born in a public toilet."
+      ]
+    ],
+    "regex": "\\b((?!\\bPublic\\ Toilet:)Public\\ Toilet)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

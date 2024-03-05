@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0814255",
+    "title": "Percy Jackson & the Olympians: The Lightning Thief",
+    "year": 2010,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 1145,
+    "occurrences": [
+      [
+        300,
+        "00:27:57.446000",
+        "00:27:59.206000",
+        "Everyone thinks you're the lightning thief."
+      ],
+      [
+        944,
+        "01:27:27.396000",
+        "01:27:31.095000",
+        "I need to tell you the truth. I'm not the lightning thief."
+      ],
+      [
+        1014,
+        "01:33:54.302000",
+        "01:33:56.183000",
+        "I'm the lightning thief."
+      ],
+      [
+        1049,
+        "01:41:59.110000",
+        "01:42:02.376000",
+        "Give me the bolt, lightning thief."
+      ]
+    ],
+    "regex": "\\b((?!\\bPercy\\ Jackson\\ \\&\\ the\\ Olympians:)Percy\\ Jackson\\ \\&\\ the\\ Olympians|(?!\\bLightning\\ Thief:)Lightning\\ Thief)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

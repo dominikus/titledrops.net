@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt3263096",
+    "title": "Boost",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 1384,
+    "occurrences": [
+      [
+        29,
+        "00:04:42.349000",
+        "00:04:44.783000",
+        "I boost cars, I don't stab motherfuckers in the neck!"
+      ],
+      [
+        80,
+        "00:10:12.980000",
+        "00:10:14.245000",
+        "a boost is going down."
+      ],
+      [
+        351,
+        "00:24:49.489000",
+        "00:24:50.921000",
+        "- Just another boost."
+      ],
+      [
+        375,
+        "00:26:19.211000",
+        "00:26:20.778000",
+        "- I boost cars."
+      ],
+      [
+        563,
+        "00:36:10.669000",
+        "00:36:12.169000",
+        "- I boost cars!"
+      ],
+      [
+        575,
+        "00:36:37.396000",
+        "00:36:38.795000",
+        "- And during the boost some guy shows up"
+      ],
+      [
+        1324,
+        "01:27:12.361000",
+        "01:27:14.328000",
+        "- It was the ultimate boost."
+      ]
+    ],
+    "regex": "\\b((?!\\bBoost:)Boost)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

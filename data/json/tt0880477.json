@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0880477",
+    "title": "Seasons change: Phror arkad plian plang boi",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 740,
+    "occurrences": [
+      [
+        1,
+        "00:00:08",
+        "00:00:12",
+        "~~ Seasons Change ~~"
+      ],
+      [
+        730,
+        "01:42:24.420000",
+        "01:42:26.300000",
+        "Seasons Change is."
+      ],
+      [
+        731,
+        "01:42:26.760000",
+        "01:42:30.830000",
+        "And the student who composed Seasons Change is..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSeasons\\ change:)Seasons\\ change|(?!\\bPhror\\ arkad\\ plian\\ plang\\ boi:)Phror\\ arkad\\ plian\\ plang\\ boi)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

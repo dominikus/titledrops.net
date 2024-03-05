@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt10739160",
+    "title": "The Pond",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 910,
+    "occurrences": [
+      [
+        317,
+        "00:32:28.983000",
+        "00:32:30.885000",
+        "You know the pond is artificial."
+      ],
+      [
+        325,
+        "00:33:10.758000",
+        "00:33:11.893000",
+        "In our pond?"
+      ],
+      [
+        351,
+        "00:34:41.916000",
+        "00:34:43.751000",
+        "And then fish got back in the pond."
+      ],
+      [
+        419,
+        "00:42:39.026000",
+        "00:42:40.261000",
+        "Well, I'm the pond keeper."
+      ],
+      [
+        438,
+        "00:43:46.994000",
+        "00:43:50.898000",
+        "here, in the woods, in the pond, even in my home."
+      ],
+      [
+        597,
+        "01:02:38.692000",
+        "01:02:40.661000",
+        "I was sitting by the pond,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPond:)Pond)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

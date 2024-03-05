@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0041944",
+    "title": "Take Me Out to the Ball Game",
+    "year": 1949,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1420,
+    "occurrences": [
+      [
+        0,
+        "00:00:28.678000",
+        "00:00:32.774000",
+        "Take Me Out to the Ball Game"
+      ],
+      [
+        37,
+        "00:03:21.618000",
+        "00:03:24.553000",
+        "\"'Take me out to the ball game"
+      ]
+    ],
+    "regex": "\\b((?!\\bTake\\ Me\\ Out\\ to\\ the\\ Ball\\ Game:)Take\\ Me\\ Out\\ to\\ the\\ Ball\\ Game)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

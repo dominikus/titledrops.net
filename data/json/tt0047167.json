@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0047167",
+    "title": "A Lesson in Love",
+    "year": 1954,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1017,
+    "occurrences": [
+      [
+        0,
+        "00:00:14.960000",
+        "00:00:19.078000",
+        "A lesson in love"
+      ],
+      [
+        6,
+        "00:00:39.640000",
+        "00:00:44.634000",
+        "You can witness this lesson in love with an indulgent smile"
+      ],
+      [
+        1017,
+        "01:31:44",
+        "01:31:46.753000",
+        "Silence! A lesson in love"
+      ]
+    ],
+    "regex": "\\b((?!\\bLesson\\ in\\ Love:)Lesson\\ in\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

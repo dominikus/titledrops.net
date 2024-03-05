@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt15482470",
+    "title": "Seire",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 706,
+    "occurrences": [
+      [
+        71,
+        "00:07:38.292000",
+        "00:07:40.502000",
+        "No outsiders should visit until Seire's over"
+      ],
+      [
+        387,
+        "00:42:02.231000",
+        "00:42:05.192000",
+        "We need to be extra careful until Seire is over."
+      ],
+      [
+        579,
+        "01:06:51.845000",
+        "01:06:56.099000",
+        "Seire's not even over, yet she's stealing I-su's breath."
+      ]
+    ],
+    "regex": "\\b((?!\\bSeire:)Seire)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

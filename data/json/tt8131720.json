@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt8131720",
+    "title": "Av: The Hunt",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 412,
+    "occurrences": [
+      [
+        255,
+        "00:55:00.420000",
+        "00:55:04.500000",
+        "All the animals heard us now. We won't hunt shit because of you."
+      ],
+      [
+        273,
+        "00:57:16.830000",
+        "00:57:19.330000",
+        "Haven't you learned how to hunt wild boars?"
+      ],
+      [
+        276,
+        "00:57:27.040000",
+        "00:57:29.210000",
+        "You hunt wild boars in three ways."
+      ],
+      [
+        283,
+        "00:58:03.580000",
+        "00:58:05.210000",
+        "That's how we'll hunt Ayse."
+      ],
+      [
+        289,
+        "00:58:27.670000",
+        "00:58:31.920000",
+        "We are going to hunt together, boy."
+      ]
+    ],
+    "regex": "\\b((?!\\bAv:)Av|(?!\\bHunt:)Hunt)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt26453369",
+    "title": "Marc Maron: From Bleak to Dark",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1281,
+    "occurrences": [
+      [
+        621,
+        "00:30:37.890000",
+        "00:30:40.395000",
+        "unquote. Marc Maron,"
+      ],
+      [
+        658,
+        "00:32:25.040000",
+        "00:32:27.375000",
+        "you know, maybe, like, Marc Maron's Kaddish:"
+      ],
+      [
+        679,
+        "00:33:26.150000",
+        "00:33:32.900000",
+        "You're going to die. We all die. I'm Marc Maron. I'm a comedian."
+      ]
+    ],
+    "regex": "\\b((?!\\bMarc\\ Maron:)Marc\\ Maron|(?!\\bFrom\\ Bleak\\ to\\ Dark:)From\\ Bleak\\ to\\ Dark)(?!\\:)(?!'t)\\b",
+    "runtime": 65,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

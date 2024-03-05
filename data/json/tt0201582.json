@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0201582",
+    "title": "Valley of the Fangs",
+    "year": 1970,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "count": 2,
+    "all_lines": 723,
+    "occurrences": [
+      [
+        210,
+        "00:23:13.120000",
+        "00:23:15.400000",
+        "A worker at Imperial Kiln in the Valley of the Fangs."
+      ],
+      [
+        681,
+        "01:13:36.080000",
+        "01:13:38.400000",
+        "When we were in Valley of the Fangs,"
+      ]
+    ],
+    "regex": "\\b((?!\\bValley\\ of\\ the\\ Fangs:)Valley\\ of\\ the\\ Fangs)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

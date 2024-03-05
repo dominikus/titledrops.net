@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0290145",
+    "title": "Blue Car",
+    "year": 2002,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 712,
+    "occurrences": [
+      [
+        198,
+        "00:21:06.887000",
+        "00:21:09.276000",
+        "This is called ''Blue Car''."
+      ],
+      [
+        265,
+        "00:25:48.367000",
+        "00:25:50.358000",
+        "''Blue Car''."
+      ],
+      [
+        627,
+        "01:04:04.607000",
+        "01:04:10.364000",
+        "l'm gonna talk to him about publishing your new improved ''Blue Car''."
+      ],
+      [
+        693,
+        "01:14:34.727000",
+        "01:14:37.446000",
+        "''Blue car, gold star.''"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Car:)Blue\\ Car)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

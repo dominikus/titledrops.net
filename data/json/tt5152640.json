@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5152640",
+    "title": "Shortwave",
+    "year": 2016,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 963,
+    "occurrences": [
+      [
+        367,
+        "00:39:28.066000",
+        "00:39:30.600000",
+        "We cross-referenced every shortwave station"
+      ],
+      [
+        409,
+        "00:41:45.504000",
+        "00:41:47.270000",
+        "the shortwave signal we found"
+      ],
+      [
+        577,
+        "00:50:42.572000",
+        "00:50:44.440000",
+        "The shortwave."
+      ]
+    ],
+    "regex": "\\b((?!\\bShortwave:)Shortwave)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

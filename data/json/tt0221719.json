@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0221719",
+    "title": "XIVth Olympiad: The Glory of Sport",
+    "year": 1948,
+    "genres": [
+      "Documentary",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1102,
+    "occurrences": [
+      [
+        60,
+        "00:11:03.829000",
+        "00:11:06.164000",
+        "and the glory of sport."
+      ],
+      [
+        358,
+        "00:48:51.595000",
+        "00:48:54.847000",
+        "and for the glory of sport."
+      ]
+    ],
+    "regex": "\\b((?!\\bXIVth\\ Olympiad:)XIVth\\ Olympiad|(?!\\bGlory\\ of\\ Sport:)Glory\\ of\\ Sport)(?!\\:)(?!'t)\\b",
+    "runtime": 138,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

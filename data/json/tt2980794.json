@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2980794",
+    "title": "Highway",
+    "year": 2014,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1188,
+    "occurrences": [
+      [
+        42,
+        "00:06:02.180000",
+        "00:06:04.050000",
+        "To the highway? - Without bodyguards?"
+      ],
+      [
+        43,
+        "00:06:04.880000",
+        "00:06:08.010000",
+        "Just a glimpse of the highway. Okay? Promise."
+      ]
+    ],
+    "regex": "\\b((?!\\bHighway:)Highway)(?!\\:)(?!'t)\\b",
+    "runtime": 133,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt15141144",
+    "title": "County Line: All In",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 1777,
+    "occurrences": [
+      [
+        27,
+        "00:02:03.858000",
+        "00:02:07.695000",
+        "Hey Garrett, you know the county line is out of bounds, right?"
+      ],
+      [
+        35,
+        "00:02:36.124000",
+        "00:02:37.124000",
+        "I'm all in."
+      ],
+      [
+        66,
+        "00:03:42.657000",
+        "00:03:44.759000",
+        "York side of the county line..."
+      ],
+      [
+        344,
+        "00:15:12.980000",
+        "00:15:15.916000",
+        "You can't cross the county line."
+      ],
+      [
+        1739,
+        "01:21:14.975000",
+        "01:21:17.344000",
+        "I am all in."
+      ]
+    ],
+    "regex": "\\b((?!\\bCounty\\ Line:)County\\ Line|(?!\\bAll\\ In:)All\\ In)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5334704",
+    "title": "Twin Peaks: The Missing Pieces",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 691,
+    "occurrences": [
+      [
+        488,
+        "01:00:20.199000",
+        "01:00:22.040000",
+        "I'm coming from Twin Peaks."
+      ],
+      [
+        489,
+        "01:00:22.199000",
+        "01:00:24.080000",
+        "Okay, if you're coming from Twin Peaks,"
+      ]
+    ],
+    "regex": "\\b((?!\\bTwin\\ Peaks:)Twin\\ Peaks|(?!\\bMissing\\ Pieces:)Missing\\ Pieces)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

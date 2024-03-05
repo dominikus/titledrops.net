@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0072277",
+    "title": "This Is a Hijack",
+    "year": 1973,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1372,
+    "occurrences": [
+      [
+        1074,
+        "01:09:31.700000",
+        "01:09:35.471000",
+        "Mayday, this is Boeing 463, this is a hijack."
+      ],
+      [
+        1076,
+        "01:09:40.709000",
+        "01:09:42.578000",
+        "This is a hijack."
+      ]
+    ],
+    "regex": "\\b((?!\\bThis\\ Is\\ a\\ Hijack:)This\\ Is\\ a\\ Hijack)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

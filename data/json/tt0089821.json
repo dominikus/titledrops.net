@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0089821",
+    "title": "Police",
+    "year": 1985,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "count": 7,
+    "all_lines": 1440,
+    "occurrences": [
+      [
+        112,
+        "00:07:23.280000",
+        "00:07:25.157000",
+        "Police, freeze"
+      ],
+      [
+        119,
+        "00:08:12.840000",
+        "00:08:14.034000",
+        "Police, freeze!"
+      ],
+      [
+        281,
+        "00:18:34.280000",
+        "00:18:36.874000",
+        "The police in Marseilles sent it to the police in Paris"
+      ],
+      [
+        714,
+        "00:48:13.360000",
+        "00:48:16.193000",
+        "What are you doing here? This is the police"
+      ],
+      [
+        840,
+        "00:56:54.200000",
+        "00:56:55.758000",
+        "The police, again!"
+      ],
+      [
+        1112,
+        "01:19:32.800000",
+        "01:19:34.472000",
+        "Police training college..."
+      ]
+    ],
+    "regex": "\\b((?!\\bPolice:)Police)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

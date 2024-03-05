@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0050367",
+    "title": "The Spies",
+    "year": 1957,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1285,
+    "occurrences": [
+      [
+        1065,
+        "01:37:21.120000",
+        "01:37:24.635000",
+        "Look! Where are the spies?"
+      ],
+      [
+        1239,
+        "01:57:04.800000",
+        "01:57:08.759000",
+        "- Don't make such a fuss! - You'll go to jail, you bloody spies!"
+      ],
+      [
+        1241,
+        "01:57:12.200000",
+        "01:57:15.317000",
+        "Stop the train. They are spies."
+      ],
+      [
+        1247,
+        "01:57:32.320000",
+        "01:57:34.675000",
+        "He was hiding. This train is full of spies."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpies:)Spies)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

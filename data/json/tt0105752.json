@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0105752",
+    "title": "Old Rascal",
+    "year": 1992,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1497,
+    "occurrences": [
+      [
+        208,
+        "00:17:35.125000",
+        "00:17:38.666000",
+        "Feel your heart still pounding? You old rascal!"
+      ],
+      [
+        246,
+        "00:20:45.958000",
+        "00:20:50.250000",
+        "\"I'm Corbaccio, that old rascal Corbaccio.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bOld\\ Rascal:)Old\\ Rascal)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

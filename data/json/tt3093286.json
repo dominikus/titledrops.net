@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3093286",
+    "title": "The American Side",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1139,
+    "occurrences": [
+      [
+        498,
+        "00:45:36.267000",
+        "00:45:40.036000",
+        "What no one has ever done is survive the American side."
+      ],
+      [
+        1058,
+        "01:32:54.069000",
+        "01:32:56.870000",
+        "The American side? They sent you over..."
+      ]
+    ],
+    "regex": "\\b((?!\\bAmerican\\ Side:)American\\ Side)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

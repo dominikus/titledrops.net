@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0120841",
+    "title": "Species II",
+    "year": 1998,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 892,
+    "occurrences": [
+      [
+        130,
+        "00:11:48.120000",
+        "00:11:51.476000",
+        "against the alien species should they ever return to Earth."
+      ],
+      [
+        374,
+        "00:33:22.800000",
+        "00:33:25.155000",
+        "Mars was visited by an alien species..."
+      ],
+      [
+        376,
+        "00:33:28.720000",
+        "00:33:30.836000",
+        "The species was like a plague, a cancer."
+      ],
+      [
+        396,
+        "00:34:38.280000",
+        "00:34:40.157000",
+        "Whatever species destroyed Mars..."
+      ],
+      [
+        534,
+        "00:47:07.320000",
+        "00:47:09.550000",
+        "The alien species can regenerate living tissue."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpecies:)Species)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

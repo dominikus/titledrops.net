@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt0129290",
+    "title": "Patch Adams",
+    "year": 1998,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1494,
+    "occurrences": [
+      [
+        240,
+        "00:17:39.742000",
+        "00:17:42.040000",
+        "Hi. Patch Adams."
+      ],
+      [
+        282,
+        "00:20:08.090000",
+        "00:20:10.354000",
+        "- Patch Adams. - Truman Schiff."
+      ]
+    ],
+    "regex": "\\b((?!\\bPatch\\ Adams:)Patch\\ Adams)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [
+      "Patch Adams"
+    ],
+    "title_is_name": true,
+    "rating": 6.8
+  }
+]

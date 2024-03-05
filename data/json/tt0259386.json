@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0259386",
+    "title": "Knight Club",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1702,
+    "occurrences": [
+      [
+        1131,
+        "00:55:57.812000",
+        "00:56:00.629000",
+        "You belong to the Knight Club."
+      ],
+      [
+        1148,
+        "00:56:36.775000",
+        "00:56:38.229000",
+        "door belongs to the Knight Club."
+      ]
+    ],
+    "regex": "\\b((?!\\bKnight\\ Club:)Knight\\ Club)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

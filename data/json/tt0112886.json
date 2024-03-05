@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0112886",
+    "title": "The Donor",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1321,
+    "occurrences": [
+      [
+        754,
+        "00:50:36.117000",
+        "00:50:38.335000",
+        "with multiple-donor situations, aren't you?"
+      ],
+      [
+        1096,
+        "01:14:08.183000",
+        "01:14:11.613000",
+        "Talia dials mine up at the lab and suddenly, I'm the donor!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDonor:)Donor)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

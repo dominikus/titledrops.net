@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt0071208",
+    "title": "The Beast",
+    "year": 1974,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 1000,
+    "occurrences": [
+      [
+        8,
+        "00:01:53.792000",
+        "00:01:59.620000",
+        "Okay, Matthew. The beast is all yours till Verona."
+      ],
+      [
+        81,
+        "00:08:51.624000",
+        "00:08:53.994000",
+        "Treat the beast well, understood?"
+      ],
+      [
+        397,
+        "00:41:18.895000",
+        "00:41:21.877000",
+        "I know you didn't sleep, you dirty beast."
+      ],
+      [
+        719,
+        "01:06:18.227000",
+        "01:06:21.316000",
+        "I've had my eye on that beast for four months."
+      ],
+      [
+        722,
+        "01:06:43.109000",
+        "01:06:46.201000",
+        "Don't worry. This beast here, you'll see..."
+      ],
+      [
+        913,
+        "01:23:46.989000",
+        "01:23:51.307000",
+        "...and this beast doesn't fall apart, we'll still arrive on time."
+      ],
+      [
+        915,
+        "01:24:01.830000",
+        "01:24:05.415000",
+        "The beast can feel it's coming home."
+      ]
+    ],
+    "regex": "\\b((?!\\bBeast:)Beast)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

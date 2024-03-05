@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4902260",
+    "title": "The Eyes",
+    "year": 2016,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1872,
+    "occurrences": [
+      [
+        38,
+        "00:04:24.973000",
+        "00:04:28.769000",
+        "and I closed my eyes and now I'm fucking here."
+      ],
+      [
+        833,
+        "00:41:07.467000",
+        "00:41:09.136000",
+        "We have eyes everywhere"
+      ],
+      [
+        1577,
+        "01:18:33.131000",
+        "01:18:36.759000",
+        "The nickname of our program is The Eyes Of God."
+      ]
+    ],
+    "regex": "\\b((?!\\bEyes:)Eyes)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

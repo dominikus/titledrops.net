@@ -1,0 +1,53 @@
+[
+  {
+    "imdb": "tt1235124",
+    "title": "Dorian Gray",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 1003,
+    "occurrences": [
+      [
+        582,
+        "00:54:39.487000",
+        "00:54:42.684000",
+        "What happened to the Dorian Gray I painted?"
+      ],
+      [
+        735,
+        "01:13:18.127000",
+        "01:13:20.436000",
+        "Yeah, you... Dorian Gray."
+      ],
+      [
+        744,
+        "01:13:52.207000",
+        "01:13:53.765000",
+        "this Dorian Gray."
+      ],
+      [
+        824,
+        "01:20:26.567000",
+        "01:20:28.478000",
+        "I'm coming for you, Dorian Gray."
+      ],
+      [
+        826,
+        "01:20:34.047000",
+        "01:20:36.766000",
+        "Dorian Gray, you bastard!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDorian\\ Gray:)Dorian\\ Gray)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [
+      "Dorian Gray"
+    ],
+    "title_is_name": true,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt27579804",
+    "title": "An Unforgettable Year: Summer",
+    "year": 2023,
+    "genres": [
+      "Romance"
+    ],
+    "count": 8,
+    "all_lines": 1618,
+    "occurrences": [
+      [
+        0,
+        "00:00:24.375000",
+        "00:00:25.833000",
+        "(An Unforgettable Year SUMMER)"
+      ],
+      [
+        1,
+        "00:00:25.916000",
+        "00:00:27.958000",
+        "Summer is coming"
+      ],
+      [
+        365,
+        "00:21:29.541000",
+        "00:21:31.541000",
+        "One swallow doesn't make a summer,"
+      ],
+      [
+        1563,
+        "01:36:30.208000",
+        "01:36:33.291000",
+        "Summer is coming"
+      ],
+      [
+        1573,
+        "01:37:09",
+        "01:37:11.125000",
+        "An Unforgettable Year SUMMER"
+      ],
+      [
+        1590,
+        "01:38:23.500000",
+        "01:38:27.083000",
+        "Summer is coming"
+      ]
+    ],
+    "regex": "\\b((?!\\bUnforgettable\\ Year:)Unforgettable\\ Year|(?!\\bSummer:)Summer)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

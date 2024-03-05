@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0371724",
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "year": 2005,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1584,
+    "occurrences": [
+      [
+        45,
+        "00:04:00.156000",
+        "00:04:04.490000",
+        "(male narrator) The extraordinary story of The Hitchhiker's Guide to the Galaxy"
+      ],
+      [
+        220,
+        "00:15:36.218000",
+        "00:15:39.415000",
+        "(narrator/Guide) The Hitchhiker's Guide to the Galaxy"
+      ],
+      [
+        1051,
+        "01:08:21.696000",
+        "01:08:26.133000",
+        "The Hitchhiker's Guide to the Galaxy has this to say on love."
+      ],
+      [
+        1054,
+        "01:08:31.872000",
+        "01:08:34.306000",
+        "The Hitchhiker's Guide to the Galaxy."
+      ]
+    ],
+    "regex": "\\b((?!\\bHitchhiker's\\ Guide\\ to\\ the\\ Galaxy:)Hitchhiker's\\ Guide\\ to\\ the\\ Galaxy)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

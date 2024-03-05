@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1734579",
+    "title": "Lost in Munich",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1197,
+    "occurrences": [
+      [
+        381,
+        "00:35:10.234000",
+        "00:35:14.405000",
+        "about events surrounding the Munich Agreement entitled \"Lost in Munich\"."
+      ],
+      [
+        1138,
+        "01:38:58.475000",
+        "01:39:03.564000",
+        "about events surrounding the Munich Agreement entitled \"Lost in Munich\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bLost\\ in\\ Munich:)Lost\\ in\\ Munich)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

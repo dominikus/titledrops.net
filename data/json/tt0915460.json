@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0915460",
+    "title": "Grizzly Park",
+    "year": 2008,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 839,
+    "occurrences": [
+      [
+        19,
+        "00:03:52.122000",
+        "00:03:56.281000",
+        "Just gonna, pick up a group doing community service, taking them up to Grizzly Park."
+      ],
+      [
+        670,
+        "01:03:02.897000",
+        "01:03:04.382000",
+        "Grizzly Park."
+      ],
+      [
+        831,
+        "01:26:16.338000",
+        "01:26:19.725000",
+        "including one park ranger, here at Grizzly Park."
+      ]
+    ],
+    "regex": "\\b((?!\\bGrizzly\\ Park:)Grizzly\\ Park)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

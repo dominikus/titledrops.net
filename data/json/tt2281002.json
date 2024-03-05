@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt2281002",
+    "title": "Cult",
+    "year": 2013,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 763,
+    "occurrences": [
+      [
+        37,
+        "00:02:00.704000",
+        "00:02:06.127000",
+        "I really like scary, Spiritual and cult stuff... but..."
+      ],
+      [
+        710,
+        "01:15:18.973000",
+        "01:15:21.684000",
+        "Is she a member of a Cult?"
+      ],
+      [
+        711,
+        "01:15:23.895000",
+        "01:15:25.730000",
+        "What's a cult?"
+      ],
+      [
+        715,
+        "01:15:39.077000",
+        "01:15:40.203000",
+        "Cult?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCult:)Cult)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

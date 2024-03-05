@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0407887",
+    "title": "The Departed",
+    "year": 2006,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1904,
+    "occurrences": [
+      [
+        244,
+        "00:16:20.439000",
+        "00:16:23.505000",
+        "May her soul and the souls of all the faithful departed..."
+      ],
+      [
+        368,
+        "00:24:03.790000",
+        "00:24:06.343000",
+        "- What was his name, the departed? - Myles Kennefick."
+      ],
+      [
+        1893,
+        "02:15:59.504000",
+        "02:16:04.141000",
+        "...of all the faithful departed, through the mercy of God, rest in peace."
+      ]
+    ],
+    "regex": "\\b((?!\\bDeparted:)Departed)(?!\\:)(?!'t)\\b",
+    "runtime": 151,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.5
+  }
+]

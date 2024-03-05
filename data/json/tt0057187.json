@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0057187",
+    "title": "Irma la Douce",
+    "year": 1963,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1405,
+    "occurrences": [
+      [
+        18,
+        "00:04:52.796000",
+        "00:04:57.340000",
+        "- And what's yours? - Irma. They call me Irma la Douce."
+      ],
+      [
+        31,
+        "00:06:20.187000",
+        "00:06:24.137000",
+        "This, then, is the story of Irma la Douce."
+      ],
+      [
+        63,
+        "00:09:00.991000",
+        "00:09:03.660000",
+        "... and then, of course, there's Irma la Douce."
+      ],
+      [
+        675,
+        "01:05:01.883000",
+        "01:05:06.095000",
+        "- What did you say your name was? - Irma. They call me Irma la Douce."
+      ]
+    ],
+    "regex": "\\b((?!\\bIrma\\ la\\ Douce:)Irma\\ la\\ Douce)(?!\\:)(?!'t)\\b",
+    "runtime": 147,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

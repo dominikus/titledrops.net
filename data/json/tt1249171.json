@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1249171",
+    "title": "Global Metal",
+    "year": 2008,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1572,
+    "occurrences": [
+      [
+        507,
+        "00:30:24.217000",
+        "00:30:26.386000",
+        "We've gotta find \"Global Metal\" here."
+      ],
+      [
+        509,
+        "00:30:29.427000",
+        "00:30:30.726000",
+        "We have to find \"Global Metal\""
+      ]
+    ],
+    "regex": "\\b((?!\\bGlobal\\ Metal:)Global\\ Metal)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

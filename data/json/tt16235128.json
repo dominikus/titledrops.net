@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt16235128",
+    "title": "Govinda Govinda",
+    "year": 2021,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 2394,
+    "occurrences": [
+      [
+        55,
+        "00:05:12.041000",
+        "00:05:15.083000",
+        "-Govinda Govinda! -Govinda Govinda!"
+      ],
+      [
+        58,
+        "00:05:23.875000",
+        "00:05:25.666000",
+        "\"Govinda Govinda\" is a nice title."
+      ],
+      [
+        877,
+        "00:50:44.875000",
+        "00:50:47.291000",
+        "Govinda Govinda Shri Venkatesha!"
+      ],
+      [
+        878,
+        "00:50:47.375000",
+        "00:50:49.666000",
+        "Govinda Govinda Shri Venkatesha!"
+      ]
+    ],
+    "regex": "\\b((?!\\bGovinda\\ Govinda:)Govinda\\ Govinda)(?!\\:)(?!'t)\\b",
+    "runtime": 139,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0159510",
+    "title": "Mobile Suit Gundam II: Soldiers of Sorrow",
+    "year": 1981,
+    "genres": [
+      "Action",
+      "Animation",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1721,
+    "occurrences": [
+      [
+        26,
+        "00:02:26.360000",
+        "00:02:29.580000",
+        "{\\an8}of the new mobile suit Gundam."
+      ],
+      [
+        52,
+        "00:04:24",
+        "00:04:28.752000",
+        "{\\an8}MOBILE SUIT GUNDAM II"
+      ],
+      [
+        53,
+        "00:04:31.320000",
+        "00:04:35.408000",
+        "SOLDIERS OF SORROW"
+      ]
+    ],
+    "regex": "\\b((?!\\bMobile\\ Suit\\ Gundam:)Mobile\\ Suit\\ Gundam|(?!\\bSoldiers\\ of\\ Sorrow:)Soldiers\\ of\\ Sorrow)(?!\\:)(?!'t)\\b",
+    "runtime": 139,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

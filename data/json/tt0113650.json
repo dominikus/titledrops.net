@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0113650",
+    "title": "Lie Down with Dogs",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1235,
+    "occurrences": [
+      [
+        729,
+        "00:48:53.850000",
+        "00:48:58.672000",
+        "Lie down with dogs and you get up with fleas"
+      ],
+      [
+        845,
+        "00:56:32.368000",
+        "00:56:34.275000",
+        "When you lie down with dogs you get up with fleas."
+      ]
+    ],
+    "regex": "\\b((?!\\bLie\\ Down\\ with\\ Dogs:)Lie\\ Down\\ with\\ Dogs)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

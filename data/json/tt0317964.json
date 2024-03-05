@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0317964",
+    "title": "Return from India",
+    "year": 2002,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1084,
+    "occurrences": [
+      [
+        1030,
+        "01:33:21.624000",
+        "01:33:25.503000",
+        "I was hoping her father would return from India one day."
+      ],
+      [
+        1084,
+        "01:40:23.284000",
+        "01:40:25.923000",
+        "\"Return From India\""
+      ]
+    ],
+    "regex": "\\b((?!\\bReturn\\ from\\ India:)Return\\ from\\ India)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

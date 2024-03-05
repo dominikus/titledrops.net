@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2966848",
+    "title": "The Breaking Point",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1809,
+    "occurrences": [
+      [
+        7,
+        "00:00:45.628000",
+        "00:00:47.300000",
+        "-  Breaking point."
+      ],
+      [
+        10,
+        "00:00:53.124000",
+        "00:00:55.306000",
+        "My definition of breaking point,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBreaking\\ Point:)Breaking\\ Point)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt13011878",
+    "title": "Otto the Barbarian",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 562,
+    "occurrences": [
+      [
+        438,
+        "01:17:32.040000",
+        "01:17:35.920000",
+        "- You are a barbarian. - Otto the Barbarian saves the princess."
+      ],
+      [
+        483,
+        "01:22:37.040000",
+        "01:22:38.360000",
+        "Otto the Barbarian."
+      ],
+      [
+        488,
+        "01:22:55",
+        "01:22:58.560000",
+        "Yes. Otto the Barbarian kills the princess and saves the dragon."
+      ],
+      [
+        520,
+        "01:35:01.040000",
+        "01:35:03.480000",
+        "- Stay the fuck down! - Otto the Barbarian."
+      ]
+    ],
+    "regex": "\\b((?!\\bOtto\\ the\\ Barbarian:)Otto\\ the\\ Barbarian)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

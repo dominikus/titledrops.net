@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt12758600",
+    "title": "Comedy Couple",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1754,
+    "occurrences": [
+      [
+        1360,
+        "01:26:26.320000",
+        "01:26:28",
+        "This was the infamous comedy couple"
+      ],
+      [
+        1577,
+        "01:40:37.880000",
+        "01:40:39.880000",
+        "People come to watch Comedy Couple. Don't forget that."
+      ]
+    ],
+    "regex": "\\b((?!\\bComedy\\ Couple:)Comedy\\ Couple)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

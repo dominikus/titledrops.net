@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt6985476",
+    "title": "Mothers",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1432,
+    "occurrences": [
+      [
+        225,
+        "00:13:10.116000",
+        "00:13:12.243000",
+        "to get married like other mothers do."
+      ],
+      [
+        697,
+        "00:46:44.797000",
+        "00:46:46.817000",
+        "Mothers who raise boys say"
+      ],
+      [
+        705,
+        "00:47:07.069000",
+        "00:47:09.071000",
+        "They don't even talk to their mothers."
+      ]
+    ],
+    "regex": "\\b((?!\\bMothers:)Mothers)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

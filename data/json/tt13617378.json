@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt13617378",
+    "title": "Salesmen",
+    "year": 2022,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1508,
+    "occurrences": [
+      [
+        594,
+        "00:29:27.443000",
+        "00:29:29.271000",
+        "Are you salesmen or aren't you?"
+      ],
+      [
+        1231,
+        "01:03:48.017000",
+        "01:03:49.017000",
+        "We're salesmen!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSalesmen:)Salesmen)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3487610",
+    "title": "Malevolence 3: Killer",
+    "year": 2018,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1226,
+    "occurrences": [
+      [
+        210,
+        "00:15:54.036000",
+        "00:15:55.329000",
+        "You think he's our killer?"
+      ],
+      [
+        538,
+        "00:36:31.690000",
+        "00:36:35.360000",
+        "Your son is a killer. He's extremely dangerous."
+      ]
+    ],
+    "regex": "\\b((?!\\bMalevolence:)Malevolence|(?!\\bKiller:)Killer)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

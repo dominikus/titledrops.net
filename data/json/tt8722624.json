@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt8722624",
+    "title": "Really Love",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1096,
+    "occurrences": [
+      [
+        368,
+        "00:22:36.376000",
+        "00:22:37.543000",
+        "I really love this one."
+      ],
+      [
+        982,
+        "01:15:39.293000",
+        "01:15:42.334000",
+        "and I'd really love--"
+      ],
+      [
+        983,
+        "01:15:42.418000",
+        "01:15:43.501000",
+        "really love for you to be there."
+      ]
+    ],
+    "regex": "\\b((?!\\bReally\\ Love:)Really\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

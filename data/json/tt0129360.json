@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0129360",
+    "title": "Dear Santa",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1476,
+    "occurrences": [
+      [
+        231,
+        "00:15:01.903000",
+        "00:15:04.010000",
+        "- Dear Santa Claus."
+      ],
+      [
+        865,
+        "00:50:19.560000",
+        "00:50:21.420000",
+        "-  Dear Santa Claus."
+      ]
+    ],
+    "regex": "\\b((?!\\bDear\\ Santa:)Dear\\ Santa)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.9
+  }
+]

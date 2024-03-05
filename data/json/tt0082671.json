@@ -1,0 +1,40 @@
+[
+  {
+    "imdb": "tt0082671",
+    "title": "Lola",
+    "year": 1981,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 888,
+    "occurrences": [
+      [
+        81,
+        "00:06:22.915000",
+        "00:06:26.749000",
+        "Lola will be glad to see me with clean hands, don't you think?"
+      ],
+      [
+        464,
+        "00:30:20.318000",
+        "00:30:22.548000",
+        "Lola, he's no man for you."
+      ],
+      [
+        874,
+        "00:56:56.446000",
+        "00:57:00.246000",
+        "Headache! Then Lola can get married in three days."
+      ]
+    ],
+    "regex": "\\b((?!\\bLola:)Lola)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [
+      "Lola"
+    ],
+    "title_is_name": true,
+    "rating": 7.4
+  }
+]

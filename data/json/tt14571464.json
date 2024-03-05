@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt14571464",
+    "title": "Air Force: The Movie - Selagi Bernyawa",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "War"
+    ],
+    "count": 1,
+    "all_lines": 847,
+    "occurrences": [
+      [
+        25,
+        "00:02:18.061000",
+        "00:02:19.821000",
+        "...with help from The Royal Malaysian Air Force."
+      ]
+    ],
+    "regex": "\\b((?!\\bAir\\ Force:)Air\\ Force|(?!\\bMovie\\ \\-\\ Selagi\\ Bernyawa:)Movie\\ \\-\\ Selagi\\ Bernyawa)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

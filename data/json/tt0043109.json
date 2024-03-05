@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0043109",
+    "title": "The White Cat",
+    "year": 1950,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 868,
+    "occurrences": [
+      [
+        155,
+        "00:16:54.240000",
+        "00:16:56.280000",
+        "Exactly, a white cat..."
+      ],
+      [
+        655,
+        "01:07:48",
+        "01:07:52.160000",
+        "Or a big white cat with her face."
+      ]
+    ],
+    "regex": "\\b((?!\\bWhite\\ Cat:)White\\ Cat)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

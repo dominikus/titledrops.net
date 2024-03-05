@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2366608",
+    "title": "Lost River",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 720,
+    "occurrences": [
+      [
+        220,
+        "00:26:28.721000",
+        "00:26:31.288000",
+        "That's why they call this lost river."
+      ],
+      [
+        231,
+        "00:27:14.734000",
+        "00:27:17.568000",
+        "An evil spell was cast on lost river."
+      ]
+    ],
+    "regex": "\\b((?!\\bLost\\ River:)Lost\\ River)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

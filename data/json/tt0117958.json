@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0117958",
+    "title": "Trees Lounge",
+    "year": 1996,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1408,
+    "occurrences": [
+      [
+        1387,
+        "01:31:55.045000",
+        "01:32:00.718000",
+        "I sit here in Trees Lounge"
+      ],
+      [
+        1395,
+        "01:33:11.021000",
+        "01:33:16.260000",
+        "I sit here in Trees Lounge"
+      ]
+    ],
+    "regex": "\\b((?!\\bTrees\\ Lounge:)Trees\\ Lounge)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

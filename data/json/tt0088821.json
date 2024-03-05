@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0088821",
+    "title": "Bliss",
+    "year": 1985,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1393,
+    "occurrences": [
+      [
+        1,
+        "00:00:12.780000",
+        "00:00:14.498000",
+        "(Woman whispers) Bliss."
+      ],
+      [
+        81,
+        "00:05:28.300000",
+        "00:05:30.019000",
+        "Bliss,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBliss:)Bliss)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

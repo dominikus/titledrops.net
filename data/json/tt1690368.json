@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1690368",
+    "title": "All for One",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 836,
+    "occurrences": [
+      [
+        0,
+        "00:01:13.640000",
+        "00:01:17.952000",
+        "All for One"
+      ],
+      [
+        555,
+        "00:48:44.240000",
+        "00:48:49.030000",
+        "- Who the hell let in Robin Hood? - This is all for one."
+      ]
+    ],
+    "regex": "\\b((?!\\bAll\\ for\\ One:)All\\ for\\ One)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

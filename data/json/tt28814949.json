@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt28814949",
+    "title": "Taylor Swift: The Eras Tour",
+    "year": 2023,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 5,
+    "all_lines": 2056,
+    "occurrences": [
+      [
+        204,
+        "00:14:58.928000",
+        "00:15:00.928000",
+        "welcome to the Eras Tour!"
+      ],
+      [
+        225,
+        "00:16:28.208000",
+        "00:16:30.628000",
+        "Thank you for traveling with us here at the Eras Tour."
+      ],
+      [
+        522,
+        "00:40:56.875000",
+        "00:41:01.395000",
+        "And I was like, \"Yeah, it's gonna be called the Eras Tour. See you there\"."
+      ],
+      [
+        915,
+        "01:12:15.536000",
+        "01:12:17.536000",
+        "Who's Taylor Swift, anyway? Ew."
+      ],
+      [
+        1640,
+        "02:08:26.928000",
+        "02:08:29.584000",
+        "When I dreamed of the idea of the Eras Tour,"
+      ]
+    ],
+    "regex": "\\b((?!\\bTaylor\\ Swift:)Taylor\\ Swift|(?!\\bEras\\ Tour:)Eras\\ Tour)(?!\\:)(?!'t)\\b",
+    "runtime": 169,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.2
+  }
+]

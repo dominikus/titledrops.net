@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt10369866",
+    "title": "Ten Minutes to Midnight",
+    "year": 2020,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1540,
+    "occurrences": [
+      [
+        612,
+        "00:24:48.780000",
+        "00:24:51.016000",
+        "Ten Minutes to Midnight."
+      ],
+      [
+        1009,
+        "00:41:14.599000",
+        "00:41:16.401000",
+        "It's Ten Minutes to Midnight."
+      ]
+    ],
+    "regex": "\\b((?!\\bTen\\ Minutes\\ to\\ Midnight:)Ten\\ Minutes\\ to\\ Midnight)(?!\\:)(?!'t)\\b",
+    "runtime": 73,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

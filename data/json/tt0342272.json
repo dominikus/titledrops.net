@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0342272",
+    "title": "Dear Wendy",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 899,
+    "occurrences": [
+      [
+        0,
+        "00:00:24.203000",
+        "00:00:30.876000",
+        "Dear Wendy, I'm writing to tell you the story about the two of us-"
+      ],
+      [
+        187,
+        "00:21:10",
+        "00:21:13.919000",
+        "Dear Wendy it's your sensitive friend again, -"
+      ],
+      [
+        575,
+        "00:58:27.044000",
+        "00:58:34.217000",
+        "Dear Wendy Sebastian was a hero."
+      ],
+      [
+        642,
+        "01:07:30.341000",
+        "01:07:34.844000",
+        "Dear Wendy An idea for a plan appeared to me."
+      ],
+      [
+        701,
+        "01:13:30.203000",
+        "01:13:34.874000",
+        "Dear Wendy this was a huge fuck-up."
+      ],
+      [
+        770,
+        "01:21:22.554000",
+        "01:21:27.808000",
+        "So, dear Wendy..."
+      ],
+      [
+        885,
+        "01:37:57.806000",
+        "01:38:01.642000",
+        "Dear Wendy, I always dreamed-"
+      ]
+    ],
+    "regex": "\\b((?!\\bDear\\ Wendy:)Dear\\ Wendy)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt15282148",
+    "title": "A Beautiful Life",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1400,
+    "occurrences": [
+      [
+        1304,
+        "01:31:49.600000",
+        "01:31:51.840000",
+        "To my beautiful life"
+      ],
+      [
+        1321,
+        "01:32:50.440000",
+        "01:32:52.720000",
+        "To my beautiful life"
+      ],
+      [
+        1337,
+        "01:33:54",
+        "01:33:56.560000",
+        "To my beautiful life"
+      ],
+      [
+        1339,
+        "01:33:59.840000",
+        "01:34:02.280000",
+        "To my beautiful life"
+      ]
+    ],
+    "regex": "\\b((?!\\bBeautiful\\ Life:)Beautiful\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

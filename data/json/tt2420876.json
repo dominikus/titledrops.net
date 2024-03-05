@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2420876",
+    "title": "Chicken",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 962,
+    "occurrences": [
+      [
+        392,
+        "00:36:35.379000",
+        "00:36:36.673000",
+        "Fiona's my chicken."
+      ],
+      [
+        889,
+        "01:14:11.417000",
+        "01:14:14.532000",
+        "Fiona... You know, my chicken, she died."
+      ]
+    ],
+    "regex": "\\b((?!\\bChicken:)Chicken)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

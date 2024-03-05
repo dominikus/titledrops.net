@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6186696",
+    "title": "The Most Assassinated Woman in the World",
+    "year": 2018,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 989,
+    "occurrences": [
+      [
+        6,
+        "00:03:28.666000",
+        "00:03:30.666000",
+        "the most assassinated woman in the world."
+      ],
+      [
+        786,
+        "01:14:24.333000",
+        "01:14:28.166000",
+        "Paula Maxa, the most assassinated woman in the world."
+      ],
+      [
+        793,
+        "01:15:20.916000",
+        "01:15:23.833000",
+        "\"Paula Maxa, the most assassinated woman in the world.\" Wonderful!"
+      ],
+      [
+        961,
+        "01:33:25.666000",
+        "01:33:28.416000",
+        "I'm the most assassinated woman in the world."
+      ]
+    ],
+    "regex": "\\b((?!\\bMost\\ Assassinated\\ Woman\\ in\\ the\\ World:)Most\\ Assassinated\\ Woman\\ in\\ the\\ World)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

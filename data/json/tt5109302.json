@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt5109302",
+    "title": "Ghost Note",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1131,
+    "occurrences": [
+      [
+        495,
+        "00:36:30.436000",
+        "00:36:33.272000",
+        "I think it was called... \"Ghost Note.\""
+      ],
+      [
+        693,
+        "00:57:13.345000",
+        "00:57:15.389000",
+        "What do you know about \"Ghost Note?\""
+      ],
+      [
+        694,
+        "00:57:15.432000",
+        "00:57:17.684000",
+        "\"Ghost Note\"? I definitely don't have that."
+      ],
+      [
+        811,
+        "01:02:51.142000",
+        "01:02:53.352000",
+        "It says here that Eugene recorded \"Ghost Note\""
+      ],
+      [
+        973,
+        "01:20:47.594000",
+        "01:20:49.137000",
+        "Ghost Note."
+      ]
+    ],
+    "regex": "\\b((?!\\bGhost\\ Note:)Ghost\\ Note)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

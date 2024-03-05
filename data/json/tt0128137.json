@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0128137",
+    "title": "The Confession",
+    "year": 1999,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1493,
+    "occurrences": [
+      [
+        340,
+        "00:25:06.724000",
+        "00:25:07.804000",
+        "The confession."
+      ],
+      [
+        341,
+        "00:25:09.724000",
+        "00:25:11.403000",
+        "I didn't know Jews had confession."
+      ]
+    ],
+    "regex": "\\b((?!\\bConfession:)Confession)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

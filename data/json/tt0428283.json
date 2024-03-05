@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0428283",
+    "title": "A Buddha",
+    "year": 2005,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1021,
+    "occurrences": [
+      [
+        256,
+        "00:27:34.403000",
+        "00:27:36.371000",
+        "Your brothers a Buddha."
+      ],
+      [
+        896,
+        "01:30:59.389000",
+        "01:31:00.689000",
+        "From Master to disciple, all the way to Buddha?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBuddha:)Buddha)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

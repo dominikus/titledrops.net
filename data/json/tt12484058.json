@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt12484058",
+    "title": "Die by the Sword",
+    "year": 2020,
+    "genres": [
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1178,
+    "occurrences": [
+      [
+        64,
+        "00:05:16.650000",
+        "00:05:19.219000",
+        "* When kings rule and die by the sword *"
+      ],
+      [
+        1121,
+        "01:17:55.839000",
+        "01:17:57.874000",
+        "We would rather die by the sword"
+      ]
+    ],
+    "regex": "\\b((?!\\bDie\\ by\\ the\\ Sword:)Die\\ by\\ the\\ Sword)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.3
+  }
+]

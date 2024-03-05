@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt15789492",
+    "title": "Infiesto",
+    "year": 2023,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 953,
+    "occurrences": [
+      [
+        823,
+        "01:14:21.625000",
+        "01:14:25.416000",
+        "I haven't heard of him for many years, but his father lives near Infiesto."
+      ],
+      [
+        848,
+        "01:16:34.541000",
+        "01:16:37.708000",
+        "SAMUEL - I have a suspect I'm on my way to Infiesto with Ramos"
+      ],
+      [
+        866,
+        "01:18:44.916000",
+        "01:18:46.166000",
+        "He came from Infiesto."
+      ]
+    ],
+    "regex": "\\b((?!\\bInfiesto:)Infiesto)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

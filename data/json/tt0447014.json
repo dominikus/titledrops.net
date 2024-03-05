@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0447014",
+    "title": "Elephant Shoes",
+    "year": 2005,
+    "genres": [
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1236,
+    "occurrences": [
+      [
+        802,
+        "00:47:07.224000",
+        "00:47:09.158000",
+        "Elephant shoes."
+      ],
+      [
+        810,
+        "00:47:29.279000",
+        "00:47:32.510000",
+        "it would lose its meaning. So I would say \"elephant shoes.\""
+      ],
+      [
+        811,
+        "00:47:32.583000",
+        "00:47:33.641000",
+        "- Elephant shoes. - Yeah."
+      ],
+      [
+        1210,
+        "01:16:32.354000",
+        "01:16:34.447000",
+        "Elephant shoes!"
+      ],
+      [
+        1213,
+        "01:16:40.295000",
+        "01:16:42.855000",
+        "Elephant shoes."
+      ]
+    ],
+    "regex": "\\b((?!\\bElephant\\ Shoes:)Elephant\\ Shoes)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

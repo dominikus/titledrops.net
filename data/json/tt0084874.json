@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0084874",
+    "title": "Begin the Beguine",
+    "year": 1982,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 752,
+    "occurrences": [
+      [
+        142,
+        "00:16:42.120000",
+        "00:16:45.476000",
+        "Don't worry. We'll play \"Begin the Beguine.\""
+      ],
+      [
+        182,
+        "00:19:05.920000",
+        "00:19:09.276000",
+        "The next day I gave you a record: \"Begin the Beguine.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bBegin\\ the\\ Beguine:)Begin\\ the\\ Beguine)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

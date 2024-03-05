@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt3164198",
+    "title": "Ballet 422",
+    "year": 2014,
+    "genres": [
+      "Documentary",
+      "Music",
+      "Sport"
+    ],
+    "count": 7,
+    "all_lines": 752,
+    "occurrences": [
+      [
+        8,
+        "00:04:24.840000",
+        "00:04:27.366000",
+        "Fifteen minutes till the third ballet of the evening:"
+      ],
+      [
+        221,
+        "00:22:26.520000",
+        "00:22:28.682000",
+        "or do you want to keep, like, City Ballet..."
+      ],
+      [
+        644,
+        "00:51:29.720000",
+        "00:51:32.530000",
+        "You know, you're doing a new ballet, a third one, right?"
+      ],
+      [
+        705,
+        "00:58:53.440000",
+        "00:58:55.886000",
+        "Thirty minutes till the first ballet of the evening:"
+      ],
+      [
+        718,
+        "01:00:37.840000",
+        "01:00:39.763000",
+        "Olga, he was in your class at the School of American Ballet?"
+      ],
+      [
+        721,
+        "01:00:43",
+        "01:00:44.960000",
+        "- But we worked together... - On Scenes de Ballet."
+      ],
+      [
+        746,
+        "01:08:17.480000",
+        "01:08:19.881000",
+        "Fifteen minutes till the third ballet of the evening:"
+      ]
+    ],
+    "regex": "\\b((?!\\bBallet:)Ballet)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

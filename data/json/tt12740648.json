@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt12740648",
+    "title": "Suicide Forest Village",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1045,
+    "occurrences": [
+      [
+        57,
+        "00:04:07.430000",
+        "00:04:10.980000",
+        "{\\an8}Are you looking at Suicide Forest Village"
+      ],
+      [
+        137,
+        "00:07:05.570000",
+        "00:07:09.610000",
+        "{\\an8}Suicide Forest Village?"
+      ],
+      [
+        138,
+        "00:07:07.720000",
+        "00:07:10.300000",
+        "What is Suicide Forest Village?"
+      ],
+      [
+        140,
+        "00:07:10.013000",
+        "00:07:11.513000",
+        "{\\an8}Suicide Forest Village?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSuicide\\ Forest\\ Village:)Suicide\\ Forest\\ Village)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

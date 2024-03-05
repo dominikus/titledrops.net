@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0055418",
+    "title": "Black Gravel",
+    "year": 1961,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1078,
+    "occurrences": [
+      [
+        359,
+        "00:30:58.314000",
+        "00:31:01.567000",
+        "I'm driving black gravel tonight. It's all money."
+      ],
+      [
+        376,
+        "00:31:46.862000",
+        "00:31:51.117000",
+        "Look at that. The new boss. Just don't mention black gravel to him."
+      ],
+      [
+        701,
+        "01:10:08.495000",
+        "01:10:12.499000",
+        "I didn't drive black gravel, they can confirm that."
+      ],
+      [
+        924,
+        "01:35:26.136000",
+        "01:35:30.515000",
+        "I'd be the fall guy. Black gravel in the back, a woman in the cabin."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Gravel:)Black\\ Gravel)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

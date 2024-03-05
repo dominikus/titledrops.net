@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt14331300",
+    "title": "Please Don't Save Me",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1129,
+    "occurrences": [
+      [
+        11,
+        "00:02:24.280000",
+        "00:02:29.920000",
+        "Please Don't Save Me"
+      ],
+      [
+        990,
+        "01:18:07.480000",
+        "01:18:09.520000",
+        "Please Don't Save Me"
+      ],
+      [
+        992,
+        "01:18:13.880000",
+        "01:18:15.520000",
+        "Please don't save me"
+      ],
+      [
+        999,
+        "01:18:39.600000",
+        "01:18:43.200000",
+        "But even then, please don't save me"
+      ],
+      [
+        1001,
+        "01:18:46.520000",
+        "01:18:48.080000",
+        "Please don't save me"
+      ]
+    ],
+    "regex": "\\b((?!\\bPlease\\ Don't\\ Save\\ Me:)Please\\ Don't\\ Save\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

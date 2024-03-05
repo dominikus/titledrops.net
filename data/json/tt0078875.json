@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0078875",
+    "title": "The Tin Drum",
+    "year": 1979,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 474,
+    "occurrences": [
+      [
+        96,
+        "00:12:15.301000",
+        "00:12:17.826000",
+        "he shall have a tin drum."
+      ],
+      [
+        97,
+        "00:12:19.505000",
+        "00:12:24.306000",
+        "Only the prospect of the tin drum prevented me..."
+      ]
+    ],
+    "regex": "\\b((?!\\bTin\\ Drum:)Tin\\ Drum)(?!\\:)(?!'t)\\b",
+    "runtime": 142,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

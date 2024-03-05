@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0483756",
+    "title": "Nobel Son",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1492,
+    "occurrences": [
+      [
+        1460,
+        "01:47:33.427000",
+        "01:47:35.588000",
+        "# Nobel son #"
+      ],
+      [
+        1462,
+        "01:47:48.375000",
+        "01:47:50.536000",
+        "# Nobel son #"
+      ],
+      [
+        1468,
+        "01:48:34.621000",
+        "01:48:36.680000",
+        "# Nobel son ##"
+      ]
+    ],
+    "regex": "\\b((?!\\bNobel\\ Son:)Nobel\\ Son)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

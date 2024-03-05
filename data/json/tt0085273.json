@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0085273",
+    "title": "Burning Love",
+    "year": 1983,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 788,
+    "occurrences": [
+      [
+        158,
+        "00:20:27.663000",
+        "00:20:30.883000",
+        "Those wilted flowers, is that burning love?"
+      ],
+      [
+        492,
+        "00:58:20.994000",
+        "00:58:22.681000",
+        "Burning love."
+      ],
+      [
+        495,
+        "00:58:28.681000",
+        "00:58:33.007000",
+        "Flowers for mademoiselle Bonnema's birthday: burning love."
+      ],
+      [
+        770,
+        "01:34:49.820000",
+        "01:34:53.080000",
+        "Burning love!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBurning\\ Love:)Burning\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

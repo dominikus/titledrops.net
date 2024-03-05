@@ -1,0 +1,26 @@
+[
+  {
+    "imdb": "tt10885994",
+    "title": "Shakira in Concert: El Dorado World Tour",
+    "year": 2019,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 1,
+    "all_lines": 255,
+    "occurrences": [
+      [
+        0,
+        "00:00:46.520000",
+        "00:00:48.240000",
+        "SHAKIRA IN CONCERT"
+      ]
+    ],
+    "regex": "\\b((?!\\bShakira\\ in\\ Concert:)Shakira\\ in\\ Concert|(?!\\bEl\\ Dorado\\ World\\ Tour:)El\\ Dorado\\ World\\ Tour)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

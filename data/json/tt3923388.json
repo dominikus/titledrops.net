@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3923388",
+    "title": "The Call Up",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 715,
+    "occurrences": [
+      [
+        1,
+        "00:03:59.216000",
+        "00:04:01.715000",
+        "Recruit, welcome to the call up."
+      ],
+      [
+        34,
+        "00:06:24.172000",
+        "00:06:26.304000",
+        "The call up is about to begin."
+      ],
+      [
+        158,
+        "00:16:39.155000",
+        "00:16:45.886000",
+        "The call up will begin in five, four, three, two, one."
+      ]
+    ],
+    "regex": "\\b((?!\\bCall\\ Up:)Call\\ Up)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

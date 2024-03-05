@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0089822",
+    "title": "Police Academy 2: Their First Assignment",
+    "year": 1985,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 972,
+    "occurrences": [
+      [
+        39,
+        "00:05:46.763000",
+        "00:05:49.664000",
+        "Get me the police academy. l wanna speak to my brother."
+      ],
+      [
+        52,
+        "00:06:57.200000",
+        "00:07:00.363000",
+        "She must be out to lunch. Police academy."
+      ]
+    ],
+    "regex": "\\b((?!\\bPolice\\ Academy:)Police\\ Academy|(?!\\bTheir\\ First\\ Assignment:)Their\\ First\\ Assignment)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0205963",
+    "title": "The Geisha House",
+    "year": 1998,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 542,
+    "occurrences": [
+      [
+        41,
+        "00:05:49.600000",
+        "00:05:55.152000",
+        "Fujinoya Geisha House. You want me? Right now?"
+      ],
+      [
+        184,
+        "00:22:32.960000",
+        "00:22:35.190000",
+        "She's from the geisha house."
+      ],
+      [
+        242,
+        "00:26:29.440000",
+        "00:26:32.352000",
+        "Fujinoya Geisha House."
+      ],
+      [
+        284,
+        "00:30:00.480000",
+        "00:30:03.836000",
+        "Fujinoya Geisha House."
+      ]
+    ],
+    "regex": "\\b((?!\\bGeisha\\ House:)Geisha\\ House)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

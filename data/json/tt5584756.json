@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5584756",
+    "title": "Mademoiselle Paradis",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 862,
+    "occurrences": [
+      [
+        582,
+        "01:00:37.884000",
+        "01:00:40.376000",
+        "Mademoiselle Paradis, if I may?"
+      ],
+      [
+        605,
+        "01:02:12.312000",
+        "01:02:16.147000",
+        "- Let us proceed to colours. - Mademoiselle Paradis!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMademoiselle\\ Paradis:)Mademoiselle\\ Paradis)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

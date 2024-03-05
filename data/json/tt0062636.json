@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0062636",
+    "title": "Grand Slam",
+    "year": 1967,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 549,
+    "occurrences": [
+      [
+        326,
+        "00:52:39.198000",
+        "00:52:43.535000",
+        "They've done it. They've put in the Grand Slam 70."
+      ],
+      [
+        327,
+        "00:53:20.864000",
+        "00:53:24.909000",
+        "That, gentlemen, is the Grand Slam 70."
+      ],
+      [
+        351,
+        "00:54:27.639000",
+        "00:54:30.641000",
+        "Grand Slam 70 came out only two months ago."
+      ],
+      [
+        367,
+        "00:55:30.953000",
+        "00:55:33.663000",
+        "The Grand Slam 70 foresaw that, too."
+      ]
+    ],
+    "regex": "\\b((?!\\bGrand\\ Slam:)Grand\\ Slam)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

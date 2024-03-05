@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0100974",
+    "title": "Front Page",
+    "year": 1990,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1485,
+    "occurrences": [
+      [
+        757,
+        "00:50:58.626000",
+        "00:51:00.167000",
+        "Now we don't have a front page story!"
+      ],
+      [
+        1249,
+        "01:18:50.626000",
+        "01:18:54.167000",
+        "You want my photo for your front page?"
+      ],
+      [
+        1369,
+        "01:26:32.292000",
+        "01:26:34.126000",
+        "Where's the front page photo? Is this it?"
+      ],
+      [
+        1401,
+        "01:28:29.917000",
+        "01:28:31.501000",
+        "Is it good enough for a front page story?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFront\\ Page:)Front\\ Page)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

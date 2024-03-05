@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0860907",
+    "title": "Evangelion: 3.0 You Can (Not) Redo",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Animation",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 993,
+    "occurrences": [
+      [
+        450,
+        "00:35:18.951000",
+        "00:35:24.164000",
+        "Evangelion Unit 13. It is yours and this other pilot's."
+      ],
+      [
+        748,
+        "01:04:28.865000",
+        "01:04:31.410000",
+        "Evangelion Unit 13, activate!"
+      ],
+      [
+        991,
+        "01:35:25.178000",
+        "01:35:26.179000",
+        "(SHIN EVANGELION)"
+      ],
+      [
+        993,
+        "01:35:29.474000",
+        "01:35:31.143000",
+        "EVANGELION:3.0+1.01 THRICE UPON A TIME (SHIN EVANGELION)"
+      ]
+    ],
+    "regex": "\\b((?!\\bEvangelion:)Evangelion|(?!\\b3\\.0\\ You\\ Can\\ \\(Not\\)\\ Redo:)3\\.0\\ You\\ Can\\ \\(Not\\)\\ Redo)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

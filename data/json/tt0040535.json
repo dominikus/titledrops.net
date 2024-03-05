@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0040535",
+    "title": "Let's Live a Little",
+    "year": 1948,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1242,
+    "occurrences": [
+      [
+        261,
+        "00:14:42.510000",
+        "00:14:45.510000",
+        "\"Let's Live a Little\", by Dr. J. O. Loring."
+      ],
+      [
+        390,
+        "00:22:18.907000",
+        "00:22:22.400000",
+        "Every day, in every way, let's live a little longer."
+      ]
+    ],
+    "regex": "\\b((?!\\bLet's\\ Live\\ a\\ Little:)Let's\\ Live\\ a\\ Little)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

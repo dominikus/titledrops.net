@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2091327",
+    "title": "Pleasure or Pain",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 820,
+    "occurrences": [
+      [
+        623,
+        "01:08:38.298000",
+        "01:08:41.291000",
+        "Pleasure or pain?"
+      ],
+      [
+        629,
+        "01:10:49.758000",
+        "01:10:54.191000",
+        "Pleasure or pain, Mrs. Thorton?"
+      ],
+      [
+        656,
+        "01:13:00.488000",
+        "01:13:03.452000",
+        "Pleasure or pain?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPleasure\\ or\\ Pain:)Pleasure\\ or\\ Pain)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

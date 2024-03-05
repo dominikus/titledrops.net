@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0113199",
+    "title": "Gordy",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 1428,
+    "occurrences": [
+      [
+        1022,
+        "01:03:36.234000",
+        "01:03:38.866000",
+        "Thanks, Hanky, Gordy. See you soon."
+      ],
+      [
+        1116,
+        "01:08:10.852000",
+        "01:08:13.383000",
+        "Hey, Hillary and I heard about Gordy Day there in Branson,"
+      ],
+      [
+        1122,
+        "01:08:27.551000",
+        "01:08:30.452000",
+        "By the way, Gordy, we have a surprise for you."
+      ],
+      [
+        1211,
+        "01:14:45.809000",
+        "01:14:47.708000",
+        "You tell Gordy I've got an idea"
+      ]
+    ],
+    "regex": "\\b((?!\\bGordy:)Gordy)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1517633",
+    "title": "Break Up Club",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 876,
+    "occurrences": [
+      [
+        164,
+        "00:07:13.166000",
+        "00:07:16.201000",
+        "It's called \"Break Up Club\""
+      ],
+      [
+        298,
+        "00:13:20.032000",
+        "00:13:24.169000",
+        "(Welcome to Break Up Club, Joe)"
+      ],
+      [
+        302,
+        "00:13:32.244000",
+        "00:13:34.612000",
+        "(Rules of Break Up Club)"
+      ],
+      [
+        316,
+        "00:14:20.125000",
+        "00:14:22.927000",
+        "I just did it! Break Up Club!"
+      ],
+      [
+        522,
+        "00:26:27.852000",
+        "00:26:30.621000",
+        "Why don't we go to 'Break Up Club' and break them up"
+      ]
+    ],
+    "regex": "\\b((?!\\bBreak\\ Up\\ Club:)Break\\ Up\\ Club)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

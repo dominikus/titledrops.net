@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0330702",
+    "title": "Don't Move",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 813,
+    "occurrences": [
+      [
+        441,
+        "00:59:55.480000",
+        "00:59:56.760000",
+        "Don't move."
+      ],
+      [
+        658,
+        "01:26:53.720000",
+        "01:26:54.840000",
+        "Don't move!"
+      ],
+      [
+        707,
+        "01:34:10",
+        "01:34:11.160000",
+        "Don't move!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDon't\\ Move:)Don't\\ Move)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

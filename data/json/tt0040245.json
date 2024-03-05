@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0040245",
+    "title": "Coroner Creek",
+    "year": 1948,
+    "genres": [
+      "Western"
+    ],
+    "count": 6,
+    "all_lines": 766,
+    "occurrences": [
+      [
+        60,
+        "00:11:42.922000",
+        "00:11:45.322000",
+        "You're new in Coroner Creek, aren't you?"
+      ],
+      [
+        206,
+        "00:24:28.160000",
+        "00:24:32.836000",
+        "Welcome to Coroner Creek. I'm Sheriff O'Hea. Any friend of Miles is a friend of mine."
+      ],
+      [
+        384,
+        "00:43:20.186000",
+        "00:43:25.226000",
+        "Coroner Creek. Katie, there's nothing like a marriage to keep a woman looking beautiful."
+      ],
+      [
+        491,
+        "00:51:57.263000",
+        "00:52:01.051000",
+        "And if you ever head back to Coroner Creek I'll be waiting for you."
+      ],
+      [
+        592,
+        "01:04:40.013000",
+        "01:04:43.608000",
+        "Soon as I've finished a little bit of business in Coroner Creek."
+      ],
+      [
+        698,
+        "01:14:37.755000",
+        "01:14:43.136000",
+        "Well, boys, all I can say is this has been the most exciting Sunday that ever happened at Coroner Creek."
+      ]
+    ],
+    "regex": "\\b((?!\\bCoroner\\ Creek:)Coroner\\ Creek)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

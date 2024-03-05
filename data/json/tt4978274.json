@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4978274",
+    "title": "Priceless",
+    "year": 2016,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1193,
+    "occurrences": [
+      [
+        352,
+        "00:28:14.486000",
+        "00:28:16.196000",
+        "praiseworthy and priceless, si?"
+      ],
+      [
+        593,
+        "00:43:47.544000",
+        "00:43:50.839000",
+        "That's a pretty good price for someone who was \"priceless,\" si?"
+      ],
+      [
+        1192,
+        "01:35:29.562000",
+        "01:35:31.064000",
+        "priceless."
+      ]
+    ],
+    "regex": "\\b((?!\\bPriceless:)Priceless)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

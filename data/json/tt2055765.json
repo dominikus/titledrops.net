@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2055765",
+    "title": "The English Teacher",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1600,
+    "occurrences": [
+      [
+        3,
+        "00:01:32.693000",
+        "00:01:34.893000",
+        "an unwed high school English teacher,"
+      ],
+      [
+        224,
+        "00:11:28.188000",
+        "00:11:30.021000",
+        "I was Jason's English teacher... Yeah, I know who you are."
+      ],
+      [
+        1229,
+        "01:00:24.888000",
+        "01:00:28.056000",
+        "Because for an Advanced English teacher you seem awfully naive to me."
+      ]
+    ],
+    "regex": "\\b((?!\\bEnglish\\ Teacher:)English\\ Teacher)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

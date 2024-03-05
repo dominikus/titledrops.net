@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0119698",
+    "title": "Princess Mononoke",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 2,
+    "all_lines": 1285,
+    "occurrences": [
+      [
+        456,
+        "00:42:19.411000",
+        "00:42:21.246000",
+        "and Princess Mononoke will become human."
+      ],
+      [
+        457,
+        "00:42:22.414000",
+        "00:42:23.498000",
+        "Princess Mononoke?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPrincess\\ Mononoke:)Princess\\ Mononoke)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.3
+  }
+]

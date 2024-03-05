@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0069067",
+    "title": "Payday",
+    "year": 1973,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 902,
+    "occurrences": [
+      [
+        90,
+        "00:11:20.396000",
+        "00:11:22.261000",
+        "Payday, gentlemen. Excuse me, darling."
+      ],
+      [
+        118,
+        "00:12:52.855000",
+        "00:12:55.881000",
+        "Joyce said Johnny likes your payday."
+      ]
+    ],
+    "regex": "\\b((?!\\bPayday:)Payday)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

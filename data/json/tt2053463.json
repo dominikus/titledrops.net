@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2053463",
+    "title": "Side Effects",
+    "year": 2013,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1551,
+    "occurrences": [
+      [
+        359,
+        "00:26:48.733000",
+        "00:26:50.443000",
+        "Some of the side effects may include"
+      ],
+      [
+        652,
+        "00:46:42.344000",
+        "00:46:44.054000",
+        "the dangers of these side effects."
+      ],
+      [
+        1284,
+        "01:21:50.785000",
+        "01:21:53.246000",
+        "None of the side effects you get with pills."
+      ],
+      [
+        1377,
+        "01:29:56.229000",
+        "01:29:59.065000",
+        "What drugs had which side effects."
+      ]
+    ],
+    "regex": "\\b((?!\\bSide\\ Effects:)Side\\ Effects)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

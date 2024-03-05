@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt14864160",
+    "title": "A New Old Play",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1724,
+    "occurrences": [
+      [
+        0,
+        "00:01:00.125000",
+        "00:01:05.125000",
+        "A New Old Play"
+      ],
+      [
+        1724,
+        "02:52:14.167000",
+        "02:52:19.167000",
+        "A New Old Play"
+      ]
+    ],
+    "regex": "\\b((?!\\bNew\\ Old\\ Play:)New\\ Old\\ Play)(?!\\:)(?!'t)\\b",
+    "runtime": 179,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

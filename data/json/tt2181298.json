@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2181298",
+    "title": "The Village",
+    "year": 2015,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 806,
+    "occurrences": [
+      [
+        348,
+        "00:24:45.256000",
+        "00:24:47.627000",
+        "I'm gonna go back down to the village and get some help."
+      ],
+      [
+        434,
+        "00:34:25.083000",
+        "00:34:26.926000",
+        "We tried to hide in our village..."
+      ],
+      [
+        696,
+        "01:02:49.627000",
+        "01:02:52.094000",
+        "Bruce... We have to leave this village right now!"
+      ],
+      [
+        794,
+        "01:14:26.208000",
+        "01:14:28.461000",
+        "I got the people on the village to..."
+      ]
+    ],
+    "regex": "\\b((?!\\bVillage:)Village)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

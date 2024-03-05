@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0482571",
+    "title": "The Prestige",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 806,
+    "occurrences": [
+      [
+        25,
+        "00:03:08.555000",
+        "00:03:09.886000",
+        "...\"the prestige.\""
+      ],
+      [
+        26,
+        "00:03:20.667000",
+        "00:03:24.865000",
+        "The prestige? And did Robert Angier, the Great Danton, your employer,"
+      ],
+      [
+        723,
+        "00:55:00.998000",
+        "00:55:04.900000",
+        "I've seen him perform it three times. The prestige is the same man."
+      ]
+    ],
+    "regex": "\\b((?!\\bPrestige:)Prestige)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.5
+  }
+]

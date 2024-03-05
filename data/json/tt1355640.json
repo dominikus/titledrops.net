@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1355640",
+    "title": "The Shock Doctrine",
+    "year": 2009,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 1027,
+    "occurrences": [
+      [
+        119,
+        "00:07:59.370000",
+        "00:08:02.410000",
+        "The thesis of the \"Shock doctrine\" is"
+      ],
+      [
+        901,
+        "01:08:11.700000",
+        "01:08:14.540000",
+        "And this is exactly what I mean by the \"Shock Doctrine\"."
+      ],
+      [
+        986,
+        "01:14:45.440000",
+        "01:14:47.380000",
+        "The shock doctrine as a strategy"
+      ]
+    ],
+    "regex": "\\b((?!\\bShock\\ Doctrine:)Shock\\ Doctrine)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

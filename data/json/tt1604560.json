@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1604560",
+    "title": "Clinton Road",
+    "year": 2019,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1443,
+    "occurrences": [
+      [
+        238,
+        "00:12:14.367000",
+        "00:12:16.401000",
+        "on Clinton Road, right?"
+      ],
+      [
+        299,
+        "00:14:36.977000",
+        "00:14:37.842000",
+        "-  Going to Clinton Road."
+      ]
+    ],
+    "regex": "\\b((?!\\bClinton\\ Road:)Clinton\\ Road)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3
+  }
+]

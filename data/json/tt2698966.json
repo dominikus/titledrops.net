@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2698966",
+    "title": "The Debt",
+    "year": 2015,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 395,
+    "occurrences": [
+      [
+        23,
+        "00:06:45.681000",
+        "00:06:49.782000",
+        "we now own more than 25% of Peru's agrarian debt?"
+      ],
+      [
+        190,
+        "00:39:16.448000",
+        "00:39:18.715000",
+        "The agrarian reform is not some debt"
+      ]
+    ],
+    "regex": "\\b((?!\\bDebt:)Debt)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

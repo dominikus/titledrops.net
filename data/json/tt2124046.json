@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2124046",
+    "title": "Kikoriki: Team Invincible",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 3,
+    "all_lines": 1123,
+    "occurrences": [
+      [
+        14,
+        "00:01:00.143000",
+        "00:01:01.440000",
+        "KIKORIKI!"
+      ],
+      [
+        44,
+        "00:03:00.063000",
+        "00:03:02.828000",
+        "Today. Krash saved Kikoriki from"
+      ],
+      [
+        626,
+        "00:44:07.695000",
+        "00:44:09.959000",
+        "Lucien's Team Invincible!"
+      ]
+    ],
+    "regex": "\\b((?!\\bKikoriki:)Kikoriki|(?!\\bTeam\\ Invincible:)Team\\ Invincible)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

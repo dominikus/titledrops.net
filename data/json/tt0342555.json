@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0342555",
+    "title": "I Love You",
+    "year": 2002,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1087,
+    "occurrences": [
+      [
+        668,
+        "00:53:07.782000",
+        "00:53:09.261000",
+        "But how can I love you"
+      ],
+      [
+        891,
+        "01:08:34.382000",
+        "01:08:35.735000",
+        "Pan said \"I love you\""
+      ],
+      [
+        950,
+        "01:12:15.742000",
+        "01:12:20.418000",
+        "I love you."
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Love\\ You:)I\\ Love\\ You)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

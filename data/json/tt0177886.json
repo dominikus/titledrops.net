@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0177886",
+    "title": "The Killer Eye",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 999,
+    "occurrences": [
+      [
+        778,
+        "00:55:20.620000",
+        "00:55:22.589000",
+        "-  The killer eye."
+      ],
+      [
+        780,
+        "00:55:23.990000",
+        "00:55:25.125000",
+        "- Killer eye."
+      ],
+      [
+        783,
+        "00:55:29.796000",
+        "00:55:31.498000",
+        "- I don't know anything about a killer eye,"
+      ]
+    ],
+    "regex": "\\b((?!\\bKiller\\ Eye:)Killer\\ Eye)(?!\\:)(?!'t)\\b",
+    "runtime": 72,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.8
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0097314",
+    "title": "The Experts",
+    "year": 1989,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 2110,
+    "occurrences": [
+      [
+        128,
+        "00:06:01.610000",
+        "00:06:04.612000",
+        "I'm going to bring in experts on American culture"
+      ],
+      [
+        161,
+        "00:07:22.107000",
+        "00:07:23.817000",
+        "Go out and find your experts."
+      ],
+      [
+        1266,
+        "00:52:42.950000",
+        "00:52:46.370000",
+        "that Smith's experts are now infecting the town with."
+      ],
+      [
+        1726,
+        "01:12:20.710000",
+        "01:12:24.422000",
+        "I know of a way to remove the influence of the experts."
+      ]
+    ],
+    "regex": "\\b((?!\\bExperts:)Experts)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

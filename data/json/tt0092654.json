@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0092654",
+    "title": "The Big Easy",
+    "year": 1986,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1502,
+    "occurrences": [
+      [
+        5,
+        "00:02:26.260000",
+        "00:02:28.194000",
+        "The big easy."
+      ],
+      [
+        152,
+        "00:09:04.942000",
+        "00:09:06.773000",
+        "This is New Orleans, doll, the big easy."
+      ],
+      [
+        396,
+        "00:22:32.866000",
+        "00:22:35.801000",
+        "This is The Big Easy."
+      ]
+    ],
+    "regex": "\\b((?!\\bBig\\ Easy:)Big\\ Easy)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

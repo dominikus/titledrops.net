@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt3210686",
+    "title": "Son of God",
+    "year": 2014,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 5,
+    "all_lines": 1244,
+    "occurrences": [
+      [
+        65,
+        "00:08:51.194000",
+        "00:08:55.696000",
+        "... will be called... Son of God."
+      ],
+      [
+        264,
+        "00:35:00.527000",
+        "00:35:03.929000",
+        "If you are the Son of God, ..."
+      ],
+      [
+        484,
+        "01:02:18.717000",
+        "01:02:24.181000",
+        "If He were the Son of God,"
+      ],
+      [
+        681,
+        "01:28:57.064000",
+        "01:29:00.485000",
+        "Are you the Son of God?"
+      ],
+      [
+        1214,
+        "02:41:18.816000",
+        "02:41:20.641000",
+        "You are the Son of God ."
+      ]
+    ],
+    "regex": "\\b((?!\\bSon\\ of\\ God:)Son\\ of\\ God)(?!\\:)(?!'t)\\b",
+    "runtime": 163,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

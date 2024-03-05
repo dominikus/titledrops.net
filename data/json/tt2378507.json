@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2378507",
+    "title": "The Glass Castle",
+    "year": 2017,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1750,
+    "occurrences": [
+      [
+        727,
+        "00:47:53.604000",
+        "00:47:56.038000",
+        "Maybe even some extra for the glass castle."
+      ],
+      [
+        1441,
+        "01:37:24.238000",
+        "01:37:26.539000",
+        "You are never going to build the glass castle."
+      ],
+      [
+        1671,
+        "01:55:40.667000",
+        "01:55:43.135000",
+        "Never did build that glass castle."
+      ]
+    ],
+    "regex": "\\b((?!\\bGlass\\ Castle:)Glass\\ Castle)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

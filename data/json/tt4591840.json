@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt4591840",
+    "title": "A Christmas Star",
+    "year": 2017,
+    "genres": [
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 1350,
+    "occurrences": [
+      [
+        218,
+        "00:14:50.640000",
+        "00:14:53.100000",
+        "Christmas Star, Miss Darcy, and Jesus' birthday."
+      ],
+      [
+        221,
+        "00:14:57.088000",
+        "00:15:00.884000",
+        "But, he came down from Heaven, was born under the Christmas Star,"
+      ],
+      [
+        322,
+        "00:20:01.821000",
+        "00:20:03.707000",
+        "That's the Christmas star."
+      ],
+      [
+        1192,
+        "01:05:05.791000",
+        "01:05:07.918000",
+        "Under the Christmas Star,..."
+      ]
+    ],
+    "regex": "\\b((?!\\bChristmas\\ Star:)Christmas\\ Star)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

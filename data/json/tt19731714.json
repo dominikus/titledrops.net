@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt19731714",
+    "title": "The Photographer: Murder in Pinamar",
+    "year": 2022,
+    "genres": [
+      "Crime",
+      "Documentary"
+    ],
+    "count": 6,
+    "all_lines": 1766,
+    "occurrences": [
+      [
+        32,
+        "00:01:41.240000",
+        "00:01:44.240000",
+        "The photographer Jose Luis Cabezas was murdered this weekend,"
+      ],
+      [
+        145,
+        "00:08:02.840000",
+        "00:08:06.880000",
+        "\"I'm looking for Jose Luis Cabezas, the photographer from Noticias.\""
+      ],
+      [
+        225,
+        "00:12:33.800000",
+        "00:12:36.200000",
+        "NOTICIAS MAGAZINE PHOTOGRAPHER HANDCUFFED AND BURNT IN CAR"
+      ],
+      [
+        299,
+        "00:16:24.360000",
+        "00:16:26.880000",
+        "I've never seen another photographer shoot so many rolls."
+      ],
+      [
+        715,
+        "00:40:05.360000",
+        "00:40:08.080000",
+        "because the journalist and the photographer"
+      ],
+      [
+        1125,
+        "01:04:10.520000",
+        "01:04:12.840000",
+        "I've never known any journalist or photographer in my life."
+      ]
+    ],
+    "regex": "\\b((?!\\bPhotographer:)Photographer|(?!\\bMurder\\ in\\ Pinamar:)Murder\\ in\\ Pinamar)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1722515",
+    "title": "Home for Christmas",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 299,
+    "occurrences": [
+      [
+        8,
+        "00:05:02.167000",
+        "00:05:09.416000",
+        "Home For Christmas"
+      ],
+      [
+        284,
+        "01:13:24.792000",
+        "01:13:29.624000",
+        "A beggar's sign: \"Home for Christmas.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bHome\\ for\\ Christmas:)Home\\ for\\ Christmas)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

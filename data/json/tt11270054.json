@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt11270054",
+    "title": "The Daughter",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 689,
+    "occurrences": [
+      [
+        43,
+        "00:09:09.418000",
+        "00:09:11.043000",
+        "My daughter says I look like a monk."
+      ],
+      [
+        393,
+        "00:56:46.543000",
+        "00:56:48.083000",
+        "She's our daughter."
+      ],
+      [
+        422,
+        "01:00:11.875000",
+        "01:00:12.793000",
+        "She's my daughter."
+      ],
+      [
+        438,
+        "01:02:42.918000",
+        "01:02:44.500000",
+        "She's our daughter."
+      ],
+      [
+        603,
+        "01:33:13",
+        "01:33:14.625000",
+        "She's my daughter."
+      ]
+    ],
+    "regex": "\\b((?!\\bDaughter:)Daughter)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

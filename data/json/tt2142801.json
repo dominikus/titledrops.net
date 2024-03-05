@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt2142801",
+    "title": "Last Stop: Kurtulus",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 14,
+    "all_lines": 1108,
+    "occurrences": [
+      [
+        893,
+        "01:19:38.160000",
+        "01:19:41.560000",
+        "Last stop in Kurtulus. Saadet Apartment. Send a squad. Don't move."
+      ],
+      [
+        895,
+        "01:19:46.680000",
+        "01:19:48.720000",
+        "Last stop in Kurtulus, Saadet Apartment."
+      ],
+      [
+        909,
+        "01:22:28.920000",
+        "01:22:30.840000",
+        "We're live at the last stop in Kurtulus."
+      ],
+      [
+        985,
+        "01:26:55.120000",
+        "01:26:57.480000",
+        "We continue live at the last stop in Kurtulus."
+      ],
+      [
+        1005,
+        "01:28:04.320000",
+        "01:28:08.560000",
+        "We're live at the last stop in Kurtulus. Things are spinning out of control."
+      ],
+      [
+        1009,
+        "01:28:16.040000",
+        "01:28:18.800000",
+        "Eylem Soyluer, last stop in Kurtulus, Saadet Apartment"
+      ],
+      [
+        1055,
+        "01:33:12.680000",
+        "01:33:16.520000",
+        "Here's a brief summary of Last Stop in Kurtulus."
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Stop:)Last\\ Stop|(?!\\bKurtulus:)Kurtulus)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

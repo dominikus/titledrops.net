@@ -1,0 +1,53 @@
+[
+  {
+    "imdb": "tt0101635",
+    "title": "Curly Sue",
+    "year": 1991,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 5,
+    "all_lines": 877,
+    "occurrences": [
+      [
+        1,
+        "00:00:34.462000",
+        "00:00:39.467000",
+        "Curly Sue (1991)"
+      ],
+      [
+        303,
+        "00:32:30",
+        "00:32:32.161000",
+        "- What's your name? - Curly Sue."
+      ],
+      [
+        304,
+        "00:32:34.004000",
+        "00:32:38.668000",
+        "I bet I know why they call you Curly Sue. 'Cause you got all that beautiful curly hair."
+      ],
+      [
+        393,
+        "00:42:38.775000",
+        "00:42:42.472000",
+        "I'm sure when you got into bed you scared the hell out of Curly Sue."
+      ],
+      [
+        394,
+        "00:42:42.679000",
+        "00:42:47.309000",
+        "Curly Sue? That's cute! What is she, the lost Stooge?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCurly\\ Sue:)Curly\\ Sue)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [
+      "Curly Sue"
+    ],
+    "title_is_name": true,
+    "rating": 5.9
+  }
+]

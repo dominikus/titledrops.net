@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1258120",
+    "title": "Army of Crime",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1409,
+    "occurrences": [
+      [
+        1336,
+        "02:08:38.250000",
+        "02:08:42.166000",
+        "We'll call it \"The Army of Crime\" and distribute it all over France."
+      ],
+      [
+        1356,
+        "02:10:04.375000",
+        "02:10:09.249000",
+        "but this is the army of crime, vengeance and hatred."
+      ]
+    ],
+    "regex": "\\b((?!\\bArmy\\ of\\ Crime:)Army\\ of\\ Crime)(?!\\:)(?!'t)\\b",
+    "runtime": 139,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

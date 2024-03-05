@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt1714866",
+    "title": "Midnight's Children",
+    "year": 2012,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1466,
+    "occurrences": [
+      [
+        673,
+        "00:58:57.278000",
+        "00:58:58.939000",
+        "Midnight's children."
+      ],
+      [
+        879,
+        "01:11:36.436000",
+        "01:11:38.267000",
+        "...except for Midnight's children."
+      ],
+      [
+        943,
+        "01:15:35.508000",
+        "01:15:38.705000",
+        "The Midnight's children conference is hereby dissolved!"
+      ],
+      [
+        1216,
+        "01:46:13.958000",
+        "01:46:15.482000",
+        "Midnight's children."
+      ],
+      [
+        1245,
+        "01:49:42.547000",
+        "01:49:46.608000",
+        "and who was the hero; the most powerful of Midnight's children?"
+      ],
+      [
+        1264,
+        "01:51:43.134000",
+        "01:51:47.161000",
+        "And Midnight's children, who were taken from me for a time."
+      ]
+    ],
+    "regex": "\\b((?!\\bMidnight's\\ Children:)Midnight's\\ Children)(?!\\:)(?!'t)\\b",
+    "runtime": 146,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

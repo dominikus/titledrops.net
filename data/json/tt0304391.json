@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0304391",
+    "title": "The Code",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 738,
+    "occurrences": [
+      [
+        182,
+        "00:18:03.840000",
+        "00:18:06.149000",
+        "That's the Code, our only law!"
+      ],
+      [
+        446,
+        "00:35:28.040000",
+        "00:35:29.792000",
+        "Wise up. You know the Code."
+      ],
+      [
+        447,
+        "00:35:30.080000",
+        "00:35:32.230000",
+        "The Code! Don't talk crap."
+      ],
+      [
+        449,
+        "00:35:36.480000",
+        "00:35:37.879000",
+        "Let's say the Code applies."
+      ]
+    ],
+    "regex": "\\b((?!\\bCode:)Code)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

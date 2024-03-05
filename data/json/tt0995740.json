@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0995740",
+    "title": "No Smoking",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1662,
+    "occurrences": [
+      [
+        996,
+        "01:15:21.457000",
+        "01:15:23.726000",
+        "From today this office is a no smoking zone."
+      ],
+      [
+        997,
+        "01:15:23.826000",
+        "01:15:27.296000",
+        "Plaster the whole damn place with \"No Smoking\" signs."
+      ],
+      [
+        999,
+        "01:15:29.832000",
+        "01:15:31.734000",
+        "The balcony will be a strict no smoking zone..."
+      ],
+      [
+        1046,
+        "01:21:06.702000",
+        "01:21:08.702000",
+        "\"No smoking...\""
+      ]
+    ],
+    "regex": "\\b((?!\\bNo\\ Smoking:)No\\ Smoking)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

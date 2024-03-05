@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0283972",
+    "title": "Butterfly Man",
+    "year": 2002,
+    "genres": [
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 874,
+    "occurrences": [
+      [
+        339,
+        "00:33:31.080000",
+        "00:33:34.277000",
+        "Are you butterfly man?"
+      ],
+      [
+        340,
+        "00:33:34.840000",
+        "00:33:37.195000",
+        "What is a butterfly man?"
+      ],
+      [
+        385,
+        "00:41:03.360000",
+        "00:41:05.396000",
+        "Butterfly Man, no problem."
+      ],
+      [
+        603,
+        "00:58:58.640000",
+        "00:59:01.632000",
+        "Are you butterfly man?"
+      ]
+    ],
+    "regex": "\\b((?!\\bButterfly\\ Man:)Butterfly\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

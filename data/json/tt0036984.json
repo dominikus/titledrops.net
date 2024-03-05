@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0036984",
+    "title": "Kismet",
+    "year": 1944,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 1438,
+    "occurrences": [
+      [
+        0,
+        "00:00:17.648000",
+        "00:00:21.277000",
+        "Kismet"
+      ],
+      [
+        304,
+        "00:18:19.669000",
+        "00:18:22.038000",
+        "Kismet, my fate."
+      ],
+      [
+        1218,
+        "01:19:18.918000",
+        "01:19:19.907000",
+        "Kismet."
+      ]
+    ],
+    "regex": "\\b((?!\\bKismet:)Kismet)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

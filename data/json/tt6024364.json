@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6024364",
+    "title": "Jaguar",
+    "year": 2016,
+    "genres": [
+      "Action"
+    ],
+    "count": 2,
+    "all_lines": 871,
+    "occurrences": [
+      [
+        428,
+        "00:37:18.070000",
+        "00:37:21.858000",
+        "The Indians call him the Jaguar. He has its power and speed."
+      ],
+      [
+        429,
+        "00:37:22.030000",
+        "00:37:25.181000",
+        "Some claim he can become a jaguar at will."
+      ]
+    ],
+    "regex": "\\b((?!\\bJaguar:)Jaguar)(?!\\:)(?!'t)\\b",
+    "runtime": 153,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

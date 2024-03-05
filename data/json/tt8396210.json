@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt8396210",
+    "title": "The Gambinos",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1278,
+    "occurrences": [
+      [
+        13,
+        "00:04:10",
+        "00:04:15.500000",
+        "Kerala Police began referring to this family as the \"Gambinos\""
+      ],
+      [
+        388,
+        "00:44:32.480000",
+        "00:44:34.980000",
+        "You messed with the Gambinos, you bastard!"
+      ]
+    ],
+    "regex": "\\b((?!\\bGambinos:)Gambinos)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

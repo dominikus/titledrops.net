@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0425326",
+    "title": "Outsourced",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 879,
+    "occurrences": [
+      [
+        25,
+        "00:02:18.440000",
+        "00:02:23.468000",
+        "You expect me to walk in there and tell everyone I'm sorry your job has been outsourced?"
+      ],
+      [
+        771,
+        "01:24:01.200000",
+        "01:24:04.317000",
+        "All of your jobs have been outsourced."
+      ]
+    ],
+    "regex": "\\b((?!\\bOutsourced:)Outsourced)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt4274788",
+    "title": "The Sex Addict",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1973,
+    "occurrences": [
+      [
+        209,
+        "00:08:43.557000",
+        "00:08:47.125000",
+        "- I'm Rex. I'm a sex addict. - Oh, my god."
+      ],
+      [
+        319,
+        "00:13:35.481000",
+        "00:13:40.218000",
+        "You left me on the couch with... With this sex addict?"
+      ],
+      [
+        1831,
+        "01:25:40.836000",
+        "01:25:43.770000",
+        "His name is Rex and he's a sex addict."
+      ]
+    ],
+    "regex": "\\b((?!\\bSex\\ Addict:)Sex\\ Addict)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.4
+  }
+]

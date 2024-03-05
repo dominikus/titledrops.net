@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0412080",
+    "title": "The World's Fastest Indian",
+    "year": 2005,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1740,
+    "occurrences": [
+      [
+        914,
+        "01:01:54.477000",
+        "01:01:57.503000",
+        "Well, this here could be the world's fastest Indian."
+      ],
+      [
+        1703,
+        "01:57:55.234000",
+        "01:57:58.726000",
+        "I did it Tom, she 's the world's fastest Indian,"
+      ]
+    ],
+    "regex": "\\b((?!\\bWorld's\\ Fastest\\ Indian:)World's\\ Fastest\\ Indian)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0808244",
+    "title": "Easy Virtue",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1254,
+    "occurrences": [
+      [
+        1001,
+        "01:13:53.711000",
+        "01:13:56.578000",
+        "We do not need any more reminders of your easy virtue!"
+      ],
+      [
+        1211,
+        "01:33:07.889000",
+        "01:33:12.795000",
+        "My Lords, ladies and gentlemen, introducing the Easy Virtue Orchestra."
+      ]
+    ],
+    "regex": "\\b((?!\\bEasy\\ Virtue:)Easy\\ Virtue)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1085806",
+    "title": "Darling",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 501,
+    "occurrences": [
+      [
+        186,
+        "00:14:26.747000",
+        "00:14:30.547000",
+        "I do not want to live without you, my darling."
+      ],
+      [
+        187,
+        "00:14:31.885000",
+        "00:14:35.616000",
+        "I do not want to live without you, my darling."
+      ],
+      [
+        201,
+        "00:16:25.232000",
+        "00:16:29.396000",
+        "I do not want to live without you, my darling."
+      ]
+    ],
+    "regex": "\\b((?!\\bDarling:)Darling)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt12311620",
+    "title": "Breaking",
+    "year": 2022,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1418,
+    "occurrences": [
+      [
+        851,
+        "00:56:25.887000",
+        "00:56:29.053000",
+        "Breaking news, we have a hostage standoff at a Wells Fargo"
+      ],
+      [
+        1362,
+        "01:28:59.476000",
+        "01:29:02.609000",
+        "And you are watching breaking news with us, this scene unfolding..."
+      ]
+    ],
+    "regex": "\\b((?!\\bBreaking:)Breaking)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

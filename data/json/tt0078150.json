@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0078150",
+    "title": "Remember My Name",
+    "year": 1978,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1229,
+    "occurrences": [
+      [
+        2,
+        "00:00:38.972000",
+        "00:00:42.243000",
+        "[* Alberta Hunter: Remember My Name]"
+      ],
+      [
+        15,
+        "00:01:58.352000",
+        "00:02:00.821000",
+        "* Remember my name"
+      ],
+      [
+        46,
+        "00:04:21.562000",
+        "00:04:24.064000",
+        "[* Alberta Hunter: Remember My Name]"
+      ],
+      [
+        52,
+        "00:04:58.866000",
+        "00:05:03.136000",
+        "* Yes, remember my name"
+      ]
+    ],
+    "regex": "\\b((?!\\bRemember\\ My\\ Name:)Remember\\ My\\ Name)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

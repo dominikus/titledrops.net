@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt10415510",
+    "title": "Taana",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 1821,
+    "occurrences": [
+      [
+        22,
+        "00:02:49.360000",
+        "00:02:50.600000",
+        "What's that Taana?"
+      ],
+      [
+        362,
+        "00:22:28.120000",
+        "00:22:31.720000",
+        "Taana means police dear. See the pride of this Taana man"
+      ],
+      [
+        631,
+        "00:35:02.800000",
+        "00:35:07.080000",
+        "Festival is celebrated only if heir of Taana's family becomes a police man."
+      ],
+      [
+        1013,
+        "00:51:49.720000",
+        "00:51:51.880000",
+        "on hearing it is Taana's village they run away in fear."
+      ]
+    ],
+    "regex": "\\b((?!\\bTaana:)Taana)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

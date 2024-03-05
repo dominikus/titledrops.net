@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0043778",
+    "title": "The Man from Planet X",
+    "year": 1951,
+    "genres": [
+      "Horror",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1124,
+    "occurrences": [
+      [
+        17,
+        "00:02:43.300000",
+        "00:02:44.900000",
+        "the man from Planet X."
+      ],
+      [
+        677,
+        "00:44:33",
+        "00:44:36.200000",
+        "that the man from Planet X had Enid powerless in his grasp."
+      ],
+      [
+        689,
+        "00:45:45.400000",
+        "00:45:47.300000",
+        "And where was the man from Planet X?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMan\\ from\\ Planet:)Man\\ from\\ Planet)(?!\\:)(?!'t)\\b",
+    "runtime": 71,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0088196",
+    "title": "Streetwise",
+    "year": 1984,
+    "genres": [
+      "Documentary",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 795,
+    "occurrences": [
+      [
+        200,
+        "00:23:17.849000",
+        "00:23:22.979000",
+        "But I want to talk to him first let him know what's going on because he's streetwise like a motherfucker"
+      ],
+      [
+        326,
+        "00:37:16.950000",
+        "00:37:20.960000",
+        "Done you're wise out here man was streetwise because he'll you know what, you know"
+      ]
+    ],
+    "regex": "\\b((?!\\bStreetwise:)Streetwise)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.2
+  }
+]

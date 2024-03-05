@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0037795",
+    "title": "The House on 92nd Street",
+    "year": 1945,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 2,
+    "all_lines": 961,
+    "occurrences": [
+      [
+        229,
+        "00:21:34.253000",
+        "00:21:37.484000",
+        "as \"the house on 92nd Street.\""
+      ],
+      [
+        651,
+        "00:58:49.863000",
+        "00:58:53.060000",
+        "I was told to take it to a house on 92nd Street."
+      ]
+    ],
+    "regex": "\\b((?!\\bHouse\\ on\\ 92nd\\ Street:)House\\ on\\ 92nd\\ Street)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

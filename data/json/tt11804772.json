@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt11804772",
+    "title": "The Whalebone Box",
+    "year": 2019,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 714,
+    "occurrences": [
+      [
+        63,
+        "00:09:46.773000",
+        "00:09:49.791000",
+        "contained in the whalebone box."
+      ],
+      [
+        481,
+        "00:56:12.133000",
+        "00:56:15.551000",
+        "- Steve Dilworth who made the whalebone box"
+      ],
+      [
+        568,
+        "01:04:55.613000",
+        "01:04:56.831000",
+        "- The whalebone box is returning"
+      ]
+    ],
+    "regex": "\\b((?!\\bWhalebone\\ Box:)Whalebone\\ Box)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

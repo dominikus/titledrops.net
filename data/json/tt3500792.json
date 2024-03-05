@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3500792",
+    "title": "At Home",
+    "year": 2014,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 702,
+    "occurrences": [
+      [
+        1,
+        "00:00:57.280000",
+        "00:01:03.840000",
+        "At Home"
+      ],
+      [
+        55,
+        "00:10:55.840000",
+        "00:10:58.440000",
+        "Make yourself at home. - Thank you Mrs. Evi."
+      ],
+      [
+        607,
+        "01:17:55.480000",
+        "01:17:57.160000",
+        "Make yourself at home."
+      ]
+    ],
+    "regex": "\\b((?!\\bAt\\ Home:)At\\ Home)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

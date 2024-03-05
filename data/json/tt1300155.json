@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1300155",
+    "title": "Alabama Moon",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 961,
+    "occurrences": [
+      [
+        577,
+        "01:02:06.810000",
+        "01:02:08.770000",
+        "Yesterday the boy they call Alabama Moon"
+      ],
+      [
+        582,
+        "01:02:20.699000",
+        "01:02:22.701000",
+        "with Alabama Moon in the forest behind us."
+      ]
+    ],
+    "regex": "\\b((?!\\bAlabama\\ Moon:)Alabama\\ Moon)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

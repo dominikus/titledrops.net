@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt6865690",
+    "title": "The Professor",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1587,
+    "occurrences": [
+      [
+        427,
+        "00:23:57.292000",
+        "00:23:59.562000",
+        "I'm your professor. Go ahead."
+      ],
+      [
+        890,
+        "00:46:35.416000",
+        "00:46:38.287000",
+        "Hi. Hello, Professor Brown."
+      ],
+      [
+        1367,
+        "01:12:52.125000",
+        "01:12:53.527000",
+        "Professor of English."
+      ],
+      [
+        1471,
+        "01:19:20.512000",
+        "01:19:22.215000",
+        " Professor Runnings' kid?"
+      ]
+    ],
+    "regex": "\\b((?!\\bProfessor:)Professor)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

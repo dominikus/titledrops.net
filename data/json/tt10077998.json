@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt10077998",
+    "title": "The Unknown Saint",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 430,
+    "occurrences": [
+      [
+        12,
+        "00:08:31.650000",
+        "00:08:35.860000",
+        "What else than our Unknown Saint?"
+      ],
+      [
+        192,
+        "00:40:56.730000",
+        "00:40:59.700000",
+        "may the Unknown Saint show mercy on you."
+      ]
+    ],
+    "regex": "\\b((?!\\bUnknown\\ Saint:)Unknown\\ Saint)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

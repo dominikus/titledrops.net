@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0091415",
+    "title": "Link",
+    "year": 1986,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 141,
+    "occurrences": [
+      [
+        32,
+        "00:27:14",
+        "00:27:17",
+        "Link, I think the lady does not understand very well."
+      ],
+      [
+        121,
+        "00:44:36.600000",
+        "00:44:39",
+        "Link, it's very dangerous, you are going to blow us all up!"
+      ]
+    ],
+    "regex": "\\b((?!\\bLink:)Link)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

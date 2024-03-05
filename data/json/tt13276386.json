@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt13276386",
+    "title": "Shawn Mendes: In Wonder",
+    "year": 2020,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 1295,
+    "occurrences": [
+      [
+        95,
+        "00:07:24.610000",
+        "00:07:26.988000",
+        "- We love you, Shawn Mendes! - I'm excited!"
+      ],
+      [
+        118,
+        "00:08:20.666000",
+        "00:08:23.920000",
+        "-  Give it up for Shawn Mendes! -"
+      ],
+      [
+        432,
+        "00:27:04.247000",
+        "00:27:06.124000",
+        "Give it up for Shawn Mendes!"
+      ]
+    ],
+    "regex": "\\b((?!\\bShawn\\ Mendes:)Shawn\\ Mendes|(?!\\bIn\\ Wonder:)In\\ Wonder)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

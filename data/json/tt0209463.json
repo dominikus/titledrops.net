@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0209463",
+    "title": "The Wind Will Carry Us",
+    "year": 1999,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1468,
+    "occurrences": [
+      [
+        1075,
+        "01:11:28.200000",
+        "01:11:30.475000",
+        "''The wind will carry us.''"
+      ],
+      [
+        1078,
+        "01:11:33.640000",
+        "01:11:35.710000",
+        "''The wind will carry us!''"
+      ]
+    ],
+    "regex": "\\b((?!\\bWind\\ Will\\ Carry\\ Us:)Wind\\ Will\\ Carry\\ Us)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0095659",
+    "title": "Mortuary Academy",
+    "year": 1988,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1920,
+    "occurrences": [
+      [
+        56,
+        "00:02:49.502000",
+        "00:02:51.420000",
+        "from the Grimm Mortuary Academy,"
+      ],
+      [
+        697,
+        "00:27:57.282000",
+        "00:27:59.367000",
+        "if they graduate from the Mortuary Academy?"
+      ],
+      [
+        1448,
+        "01:02:00.895000",
+        "01:02:04.899000",
+        "May I remind you students that this is a mortuary academy?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMortuary\\ Academy:)Mortuary\\ Academy)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt21245882",
+    "title": "Through My Window: Across the Sea",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 948,
+    "occurrences": [
+      [
+        68,
+        "00:09:20.920000",
+        "00:09:23.240000",
+        "Your story, Through My Window..."
+      ],
+      [
+        373,
+        "00:40:10.440000",
+        "00:40:13.040000",
+        "You should read it. It's called Through My Window."
+      ],
+      [
+        917,
+        "01:42:49.280000",
+        "01:42:50.840000",
+        "RE: THROUGH MY WINDOW"
+      ],
+      [
+        919,
+        "01:42:51.920000",
+        "01:42:54.920000",
+        "\"We read your manuscript, Through My Window.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bThrough\\ My\\ Window:)Through\\ My\\ Window|(?!\\bAcross\\ the\\ Sea:)Across\\ the\\ Sea)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

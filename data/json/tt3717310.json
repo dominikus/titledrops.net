@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3717310",
+    "title": "Final Cut",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1367,
+    "occurrences": [
+      [
+        56,
+        "00:04:36.624000",
+        "00:04:38.539000",
+        "put your final cut on my desk,"
+      ],
+      [
+        1303,
+        "01:03:42.775000",
+        "01:03:46.779000",
+        "but I wanted to wait until we got the final cut from Joe."
+      ],
+      [
+        1306,
+        "01:03:51.697000",
+        "01:03:52.480000",
+        "- Final Cut?"
+      ],
+      [
+        1356,
+        "01:07:18.382000",
+        "01:07:22.342000",
+        "Simply put, to the cast and crew of Final Cut."
+      ]
+    ],
+    "regex": "\\b((?!\\bFinal\\ Cut:)Final\\ Cut)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

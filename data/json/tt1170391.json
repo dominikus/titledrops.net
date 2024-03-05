@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1170391",
+    "title": "Beautiful",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 841,
+    "occurrences": [
+      [
+        113,
+        "00:14:42.740000",
+        "00:14:46.300000",
+        "Well, you could at least say that I look beautiful."
+      ],
+      [
+        617,
+        "01:10:09.580000",
+        "01:10:13.100000",
+        "the world was beautiful."
+      ],
+      [
+        627,
+        "01:10:59.340000",
+        "01:11:04.300000",
+        "and then nothing in life will be beautiful anymore."
+      ]
+    ],
+    "regex": "\\b((?!\\bBeautiful:)Beautiful)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

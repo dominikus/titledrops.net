@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt7945440",
+    "title": "The Lie",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1212,
+    "occurrences": [
+      [
+        238,
+        "00:13:38.235000",
+        "00:13:39.861000",
+        "She just needs to lie down and get some rest."
+      ],
+      [
+        543,
+        "00:35:23.038000",
+        "00:35:24.957000",
+        "And to lie. She's not that kind of kid."
+      ],
+      [
+        544,
+        "00:35:26.792000",
+        "00:35:29.586000",
+        "We're asking her to lie for the rest of her life, Jay."
+      ]
+    ],
+    "regex": "\\b((?!\\bLie:)Lie)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

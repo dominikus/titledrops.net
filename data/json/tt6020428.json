@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6020428",
+    "title": "The Pagan King: The Battle of Death",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 948,
+    "occurrences": [
+      [
+        3,
+        "00:02:23.391000",
+        "00:02:27.711000",
+        "THE PAGAN KING"
+      ],
+      [
+        486,
+        "00:46:44.046000",
+        "00:46:47.213000",
+        "I can see it now: The Last Pagan King!"
+      ]
+    ],
+    "regex": "\\b((?!\\bPagan\\ King:)Pagan\\ King|(?!\\bBattle\\ of\\ Death:)Battle\\ of\\ Death)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

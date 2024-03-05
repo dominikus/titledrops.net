@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt12474056",
+    "title": "New Order",
+    "year": 2020,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 872,
+    "occurrences": [
+      [
+        558,
+        "00:46:05",
+        "00:46:08.458000",
+        "We must be aware of this new order as you said..."
+      ],
+      [
+        565,
+        "00:46:20.542000",
+        "00:46:23.417000",
+        "Are we talking about a new order?"
+      ]
+    ],
+    "regex": "\\b((?!\\bNew\\ Order:)New\\ Order)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

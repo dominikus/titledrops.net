@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0090903",
+    "title": "The Devil's Honey",
+    "year": 1986,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 843,
+    "occurrences": [
+      [
+        715,
+        "01:05:29.222000",
+        "01:05:31.766000",
+        "For she's the Devil's honey pot."
+      ],
+      [
+        842,
+        "01:21:46.115000",
+        "01:21:49.284000",
+        "For she is the Devil's honey pot..."
+      ]
+    ],
+    "regex": "\\b((?!\\bDevil's\\ Honey:)Devil's\\ Honey)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

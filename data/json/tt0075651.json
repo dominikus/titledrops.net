@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0075651",
+    "title": "Shock",
+    "year": 1977,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1009,
+    "occurrences": [
+      [
+        311,
+        "00:22:50.701000",
+        "00:22:53.704000",
+        "It was a great shock to Dora, you know."
+      ],
+      [
+        748,
+        "00:57:27.242000",
+        "00:57:29.077000",
+        "and your electric shock treatments,"
+      ],
+      [
+        932,
+        "01:21:53.240000",
+        "01:21:55.643000",
+        "and that, together with your shock and amnesia,"
+      ]
+    ],
+    "regex": "\\b((?!\\bShock:)Shock)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

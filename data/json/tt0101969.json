@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0101969",
+    "title": "Grand Canyon",
+    "year": 1991,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 555,
+    "occurrences": [
+      [
+        153,
+        "00:18:16.080000",
+        "00:18:19.072000",
+        "- So you gonna see the Grand Canyon? - Don't miss Yosemite,"
+      ],
+      [
+        208,
+        "00:21:57.400000",
+        "00:22:00.153000",
+        "You ever been to the Grand Canyon?"
+      ],
+      [
+        217,
+        "00:22:24.960000",
+        "00:22:27.394000",
+        "Man, get yourself to the Grand Canyon."
+      ],
+      [
+        233,
+        "00:23:33.880000",
+        "00:23:39.113000",
+        "Me and my worries. lt was real humorous to that Grand Canyon."
+      ]
+    ],
+    "regex": "\\b((?!\\bGrand\\ Canyon:)Grand\\ Canyon)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

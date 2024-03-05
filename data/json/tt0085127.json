@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0085127",
+    "title": "Project A",
+    "year": 1983,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 631,
+    "occurrences": [
+      [
+        0,
+        "00:00:31.359000",
+        "00:00:36.353000",
+        "Project A"
+      ],
+      [
+        273,
+        "00:21:02.599000",
+        "00:21:04.271000",
+        "It's called Project A."
+      ]
+    ],
+    "regex": "\\b((?!\\bProject\\ A:)Project\\ A)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

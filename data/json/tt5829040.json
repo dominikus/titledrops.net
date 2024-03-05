@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5829040",
+    "title": "Fun Mom Dinner",
+    "year": 2017,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1448,
+    "occurrences": [
+      [
+        183,
+        "00:12:01.188000",
+        "00:12:03.521000",
+        "from school asked me out for a fun mom dinner."
+      ],
+      [
+        184,
+        "00:12:03.523000",
+        "00:12:06.758000",
+        "- That sounds awful. - Hey, it's a fun mom dinner."
+      ]
+    ],
+    "regex": "\\b((?!\\bFun\\ Mom\\ Dinner:)Fun\\ Mom\\ Dinner)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1279935",
+    "title": "Date Night",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1037,
+    "occurrences": [
+      [
+        36,
+        "00:03:20.299000",
+        "00:03:26.391000",
+        "Isn't it a date night? - Yeah, thats right, date night thank you for coming, katy."
+      ],
+      [
+        37,
+        "00:03:26.392000",
+        "00:03:28.988000",
+        "We go on date night. - You're too tired, baby."
+      ]
+    ],
+    "regex": "\\b((?!\\bDate\\ Night:)Date\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

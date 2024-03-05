@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0078034",
+    "title": "The One and Only",
+    "year": 1978,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1685,
+    "occurrences": [
+      [
+        43,
+        "00:03:31.322000",
+        "00:03:34.101000",
+        "The one and only Andy Schmidt!"
+      ],
+      [
+        712,
+        "00:39:27.697000",
+        "00:39:30.332000",
+        "The one and only?"
+      ]
+    ],
+    "regex": "\\b((?!\\bOne\\ and\\ Only:)One\\ and\\ Only)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

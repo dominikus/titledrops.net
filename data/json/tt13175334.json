@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt13175334",
+    "title": "Fear",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 670,
+    "occurrences": [
+      [
+        427,
+        "01:05:21.126000",
+        "01:05:24.421000",
+        "For fear of dropping it, I stifled it to death."
+      ],
+      [
+        431,
+        "01:05:43.606000",
+        "01:05:46.151000",
+        "Out of fear I lost my child."
+      ]
+    ],
+    "regex": "\\b((?!\\bFear:)Fear)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

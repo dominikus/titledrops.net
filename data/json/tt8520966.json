@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt8520966",
+    "title": "Rasuk",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 707,
+    "occurrences": [
+      [
+        520,
+        "01:00:21",
+        "01:00:24.640000",
+        "That is called Rasuk Sukma."
+      ],
+      [
+        521,
+        "01:00:26.400000",
+        "01:00:28.960000",
+        "- Rasuk Sukma? - Correct."
+      ]
+    ],
+    "regex": "\\b((?!\\bRasuk:)Rasuk)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

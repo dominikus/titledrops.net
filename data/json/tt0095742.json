@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0095742",
+    "title": "A Nightmare on Elm Street 4: The Dream Master",
+    "year": 1988,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 683,
+    "occurrences": [
+      [
+        184,
+        "00:26:02.594000",
+        "00:26:04.495000",
+        "Did you ever hear of the dream master?"
+      ],
+      [
+        286,
+        "00:32:02.932000",
+        "00:32:05.663000",
+        "Dream master. I think I remember the rhyme."
+      ],
+      [
+        476,
+        "00:52:17.648000",
+        "00:52:20.709000",
+        "The key element is that there's a dream master..."
+      ]
+    ],
+    "regex": "\\b((?!\\bNightmare\\ on\\ Elm\\ Street:)Nightmare\\ on\\ Elm\\ Street|(?!\\bDream\\ Master:)Dream\\ Master)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

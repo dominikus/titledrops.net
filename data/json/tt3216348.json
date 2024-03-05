@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt3216348",
+    "title": "Incarnate",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1087,
+    "occurrences": [
+      [
+        208,
+        "00:15:29.796000",
+        "00:15:31.963000",
+        "My superiors need an incarnate."
+      ],
+      [
+        238,
+        "00:17:08.962000",
+        "00:17:11.029000",
+        "You need an incarnate because the ring of St Vicinius"
+      ],
+      [
+        291,
+        "00:20:19.819000",
+        "00:20:23.120000",
+        "Remember the incarnate who disappeared last year?"
+      ]
+    ],
+    "regex": "\\b((?!\\bIncarnate:)Incarnate)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

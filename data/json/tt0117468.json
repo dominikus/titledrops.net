@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0117468",
+    "title": "Retroactive",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 893,
+    "occurrences": [
+      [
+        5,
+        "00:03:10.877000",
+        "00:03:15.246000",
+        "the subject of retroactive experiment number 12 is plainly deceased."
+      ],
+      [
+        17,
+        "00:05:28.715000",
+        "00:05:33.084000",
+        "the subject of retroactive experiment number 12 is plainly deceased."
+      ]
+    ],
+    "regex": "\\b((?!\\bRetroactive:)Retroactive)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt9690790",
+    "title": "Paradise Cove",
+    "year": 2021,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1597,
+    "occurrences": [
+      [
+        124,
+        "00:11:24.585000",
+        "00:11:27.056000",
+        "on Paradise Cove?"
+      ],
+      [
+        318,
+        "00:24:25.433000",
+        "00:24:29.204000",
+        "Alright, 26270 Paradise Cove."
+      ]
+    ],
+    "regex": "\\b((?!\\bParadise\\ Cove:)Paradise\\ Cove)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

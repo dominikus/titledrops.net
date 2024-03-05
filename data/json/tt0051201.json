@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0051201",
+    "title": "Witness for the Prosecution",
+    "year": 1957,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1633,
+    "occurrences": [
+      [
+        1011,
+        "01:08:38.160000",
+        "01:08:42.950000",
+        "No, my lord. I now call the final witness for the prosecution, Christine Helm."
+      ],
+      [
+        1631,
+        "01:51:18.920000",
+        "01:51:21.559000",
+        "of \"Witness For The Prosecution\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bWitness\\ for\\ the\\ Prosecution:)Witness\\ for\\ the\\ Prosecution)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.4
+  }
+]

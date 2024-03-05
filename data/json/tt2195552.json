@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt2195552",
+    "title": "The Elevator",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 785,
+    "occurrences": [
+      [
+        104,
+        "00:14:15.772000",
+        "00:14:17.308000",
+        "The elevator"
+      ],
+      [
+        325,
+        "00:36:37.570000",
+        "00:36:39.719000",
+        "Shouldn't we call the emergency elevator number?"
+      ],
+      [
+        372,
+        "00:42:44.937000",
+        "00:42:49.056000",
+        "I wouldn't take the elevator. I'll see you downstairs baby I'll go get a cab."
+      ],
+      [
+        394,
+        "00:44:58.446000",
+        "00:45:01.655000",
+        "- welcome back to the elevator, why am I doing this to you?"
+      ],
+      [
+        553,
+        "01:01:59.883000",
+        "01:02:03.843000",
+        "You know, it doesn't take this elevator very long to get to the top."
+      ],
+      [
+        559,
+        "01:02:28.703000",
+        "01:02:32.822000",
+        "And the elevator only stops when It hits that bumper"
+      ]
+    ],
+    "regex": "\\b((?!\\bElevator:)Elevator)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

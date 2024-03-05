@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt7281126",
+    "title": "Miss Me This Christmas",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 2264,
+    "occurrences": [
+      [
+        2013,
+        "01:09:53.890000",
+        "01:09:55.156000",
+        "Since you went away   You said you'd miss me this Christmas"
+      ],
+      [
+        2014,
+        "01:09:55.158000",
+        "01:09:59.761000",
+        "You said you'd miss me this Christmas You said you'd miss me"
+      ],
+      [
+        2033,
+        "01:11:00.056000",
+        "01:11:01.256000",
+        "Since you went away   You said you'd miss me this Christmas"
+      ],
+      [
+        2034,
+        "01:11:01.258000",
+        "01:11:03.524000",
+        "You said you'd miss me this Christmas You said you'd miss me"
+      ]
+    ],
+    "regex": "\\b((?!\\bMiss\\ Me\\ This\\ Christmas:)Miss\\ Me\\ This\\ Christmas)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

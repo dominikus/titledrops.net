@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0093029",
+    "title": "Five Corners",
+    "year": 1987,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1432,
+    "occurrences": [
+      [
+        580,
+        "00:35:43.349000",
+        "00:35:47.894000",
+        "And l come from a place in the Bronx called Five Corners."
+      ],
+      [
+        583,
+        "00:35:56.195000",
+        "00:35:59.531000",
+        "were to walk through Five Corners"
+      ]
+    ],
+    "regex": "\\b((?!\\bFive\\ Corners:)Five\\ Corners)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

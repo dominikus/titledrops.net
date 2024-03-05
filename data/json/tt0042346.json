@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0042346",
+    "title": "Black Crown",
+    "year": 1951,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 1311,
+    "occurrences": [
+      [
+        1,
+        "00:01:17.611000",
+        "00:01:24.992000",
+        "The black crown is formed by vultures who circle the dead. -Jean Cocteau."
+      ],
+      [
+        344,
+        "00:29:05.316000",
+        "00:29:06.626000",
+        "The black crown."
+      ],
+      [
+        345,
+        "00:29:08.057000",
+        "00:29:10.029000",
+        "The black crown? What is that?"
+      ],
+      [
+        352,
+        "00:29:34.295000",
+        "00:29:36.465000",
+        "You said the black crown? - Yes."
+      ],
+      [
+        1142,
+        "01:28:04.180000",
+        "01:28:05.930000",
+        "They call it the black crown."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Crown:)Black\\ Crown)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

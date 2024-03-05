@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4104354",
+    "title": "Caged No More",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1554,
+    "occurrences": [
+      [
+        1439,
+        "01:28:14.077000",
+        "01:28:15.870000",
+        "and I played Wil in \"Caged No More\"."
+      ],
+      [
+        1482,
+        "01:30:04.354000",
+        "01:30:07.440000",
+        "Hi, I'm Lisa Arnold, Director and Producer of \"Caged No More.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bCaged\\ No\\ More:)Caged\\ No\\ More)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

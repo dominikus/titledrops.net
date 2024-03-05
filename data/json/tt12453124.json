@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt12453124",
+    "title": "The Wait",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 628,
+    "occurrences": [
+      [
+        260,
+        "00:31:42.250000",
+        "00:31:45.625000",
+        "She's lucky. She still has time to wait."
+      ],
+      [
+        433,
+        "00:58:26.125000",
+        "00:58:30.541000",
+        "And now you have to wait here for him. Like a bitter straw widow."
+      ]
+    ],
+    "regex": "\\b((?!\\bWait:)Wait)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

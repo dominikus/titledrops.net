@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt0101529",
+    "title": "Cabeza de Vaca",
+    "year": 1991,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 326,
+    "occurrences": [
+      [
+        84,
+        "00:08:22.242000",
+        "00:08:26.038000",
+        "Cabeza de Vaca (1542)"
+      ],
+      [
+        145,
+        "00:32:52.087000",
+        "00:32:55.549000",
+        "I am Alvar Nunez Cabeza de Vaca,"
+      ],
+      [
+        236,
+        "01:25:46.369000",
+        "01:25:47.704000",
+        "Mr. Cabeza de Vaca"
+      ]
+    ],
+    "regex": "\\b((?!\\bCabeza\\ de\\ Vaca:)Cabeza\\ de\\ Vaca)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [
+      "Alvar Núñez Cabeza de Vaca"
+    ],
+    "title_is_name": true,
+    "rating": 6.9
+  }
+]

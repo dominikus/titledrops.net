@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt0064916",
+    "title": "Sabata",
+    "year": 1969,
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "count": 4,
+    "all_lines": 400,
+    "occurrences": [
+      [
+        178,
+        "00:23:26.004000",
+        "00:23:27.062000",
+        "Sabata."
+      ],
+      [
+        269,
+        "00:36:46.871000",
+        "00:36:50.034000",
+        "- Hey, Sabata, the Alley Cat? - We better be off then."
+      ],
+      [
+        338,
+        "00:47:42.261000",
+        "00:47:44.889000",
+        "You don't trust Sabata? What do you think they'll do?"
+      ],
+      [
+        385,
+        "00:51:50.910000",
+        "00:51:52.639000",
+        "Hey, Sabata."
+      ]
+    ],
+    "regex": "\\b((?!\\bSabata:)Sabata)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [
+      "Sabata"
+    ],
+    "title_is_name": true,
+    "rating": 6.7
+  }
+]

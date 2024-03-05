@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0049150",
+    "title": "Valley of Peace",
+    "year": 1956,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 442,
+    "occurrences": [
+      [
+        82,
+        "00:12:22.359000",
+        "00:12:25.319000",
+        "I am. That's the Valley of Peace."
+      ],
+      [
+        187,
+        "00:31:32.399000",
+        "00:31:34.279000",
+        "The Valley of Peace."
+      ]
+    ],
+    "regex": "\\b((?!\\bValley\\ of\\ Peace:)Valley\\ of\\ Peace)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

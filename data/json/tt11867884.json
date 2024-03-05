@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt11867884",
+    "title": "We Broke Up",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1383,
+    "occurrences": [
+      [
+        949,
+        "00:52:32.419000",
+        "00:52:34.689000",
+        "We broke up on Wednesday, actually."
+      ],
+      [
+        1296,
+        "01:15:23.290000",
+        "01:15:24.692000",
+        "we broke up."
+      ]
+    ],
+    "regex": "\\b((?!\\bWe\\ Broke\\ Up:)We\\ Broke\\ Up)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

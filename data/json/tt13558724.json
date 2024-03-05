@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt13558724",
+    "title": "Presidents",
+    "year": 2021,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1670,
+    "occurrences": [
+      [
+        596,
+        "00:33:35.265000",
+        "00:33:36.642000",
+        "We're presidents."
+      ],
+      [
+        1005,
+        "00:57:37.411000",
+        "00:57:40.331000",
+        "You have before you two former presidents,"
+      ],
+      [
+        1283,
+        "01:13:39.439000",
+        "01:13:40.690000",
+        "Mr... Presidents."
+      ]
+    ],
+    "regex": "\\b((?!\\bPresidents:)Presidents)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

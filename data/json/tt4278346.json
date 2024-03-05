@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4278346",
+    "title": "Chuck Steel: Night of the Trampires",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1813,
+    "occurrences": [
+      [
+        324,
+        "00:15:42.417000",
+        "00:15:44.042000",
+        "Hi, I'm Chuck Steel."
+      ],
+      [
+        1050,
+        "00:45:50.042000",
+        "00:45:53.708000",
+        "arch nemesis of the legend that is Chuck Steel!"
+      ]
+    ],
+    "regex": "\\b((?!\\bChuck\\ Steel:)Chuck\\ Steel|(?!\\bNight\\ of\\ the\\ Trampires:)Night\\ of\\ the\\ Trampires)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

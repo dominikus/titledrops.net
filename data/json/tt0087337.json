@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0087337",
+    "title": "Give My Regards to Broad Street",
+    "year": 1984,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 1118,
+    "occurrences": [
+      [
+        736,
+        "01:05:01.147000",
+        "01:05:03.648000",
+        "Give my regards to broad street, baby"
+      ],
+      [
+        975,
+        "01:34:38.757000",
+        "01:34:41.941000",
+        "And give my regards to broad street"
+      ],
+      [
+        977,
+        "01:34:44.980000",
+        "01:34:47.346000",
+        "give my regards to broad street, baby"
+      ]
+    ],
+    "regex": "\\b((?!\\bGive\\ My\\ Regards\\ to\\ Broad\\ Street:)Give\\ My\\ Regards\\ to\\ Broad\\ Street)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

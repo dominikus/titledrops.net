@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0202236",
+    "title": "Tribulation",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1564,
+    "occurrences": [
+      [
+        769,
+        "00:43:48.426000",
+        "00:43:53.865000",
+        "\"for then shall be great tribulation such as never was since the world began.\""
+      ],
+      [
+        902,
+        "00:53:51.128000",
+        "00:53:56.401000",
+        "--There will be many reasons not to follow Jesus Christ in this time of great tribulation."
+      ]
+    ],
+    "regex": "\\b((?!\\bTribulation:)Tribulation)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

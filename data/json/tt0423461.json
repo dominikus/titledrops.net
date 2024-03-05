@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0423461",
+    "title": "My Brother",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 606,
+    "occurrences": [
+      [
+        45,
+        "00:04:36.342000",
+        "00:04:41.803000",
+        "my brother"
+      ],
+      [
+        54,
+        "00:05:19.218000",
+        "00:05:21.880000",
+        "They complained he and my brother"
+      ],
+      [
+        70,
+        "00:06:02.695000",
+        "00:06:04.560000",
+        "every penny was spent on my brother's surgeries."
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Brother:)My\\ Brother)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

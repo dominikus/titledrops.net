@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt7162416",
+    "title": "Milla",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 658,
+    "occurrences": [
+      [
+        1,
+        "00:04:44.800000",
+        "00:04:45.890000",
+        "Milla!"
+      ],
+      [
+        59,
+        "00:10:58.140000",
+        "00:10:59.510000",
+        "Shut up Milla!"
+      ],
+      [
+        121,
+        "00:20:54.680000",
+        "00:20:57.140000",
+        "Nasty laugh Milla, beautiful Milla."
+      ],
+      [
+        127,
+        "00:21:12.430000",
+        "00:21:14.720000",
+        "No Milla, you won't drown, you float."
+      ],
+      [
+        139,
+        "00:21:39.590000",
+        "00:21:41.680000",
+        "Take me Milla, lift me up just alittle."
+      ],
+      [
+        142,
+        "00:21:47.470000",
+        "00:21:49.800000",
+        "Look, Milla, Look! Listen!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMilla:)Milla)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [
+      "Milla"
+    ],
+    "title_is_name": true,
+    "rating": 6.1
+  }
+]

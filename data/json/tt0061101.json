@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0061101",
+    "title": "Tokyo Drifter",
+    "year": 1966,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "count": 4,
+    "all_lines": 419,
+    "occurrences": [
+      [
+        98,
+        "00:12:25.560000",
+        "00:12:30.554000",
+        "He's the Tokyo drifter"
+      ],
+      [
+        195,
+        "00:31:47.320000",
+        "00:31:49.550000",
+        "l'm a Tokyo drifter"
+      ],
+      [
+        242,
+        "00:36:52.600000",
+        "00:36:58.675000",
+        "Japan's big enough. l'll find somewhere to live as a Tokyo drifter"
+      ],
+      [
+        419,
+        "01:22:04.840000",
+        "01:22:08.913000",
+        "l'm a Tokyo drifter"
+      ]
+    ],
+    "regex": "\\b((?!\\bTokyo\\ Drifter:)Tokyo\\ Drifter)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

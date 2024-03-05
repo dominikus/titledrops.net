@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt14965578",
+    "title": "Beba",
+    "year": 2021,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 915,
+    "occurrences": [
+      [
+        350,
+        "00:25:49.041000",
+        "00:25:51.917000",
+        "And then I used to call her \"Beba\"."
+      ],
+      [
+        351,
+        "00:25:53.458000",
+        "00:25:55.250000",
+        "And then I liked Beba the most."
+      ],
+      [
+        352,
+        "00:25:55.250000",
+        "00:25:57.208000",
+        "And she stayed with Beba."
+      ],
+      [
+        901,
+        "01:13:11.375000",
+        "01:13:12.375000",
+        "Beba."
+      ]
+    ],
+    "regex": "\\b((?!\\bBeba:)Beba)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [
+      "Self - Beba"
+    ],
+    "title_is_name": true,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0048055",
+    "title": "The Far Country",
+    "year": 1954,
+    "genres": [
+      "Romance",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 1111,
+    "occurrences": [
+      [
+        395,
+        "00:28:23.167000",
+        "00:28:25.123000",
+        "riding up in that far country."
+      ],
+      [
+        878,
+        "01:07:17.127000",
+        "01:07:19.721000",
+        "Then you wanted to go to the far country, we moved on."
+      ]
+    ],
+    "regex": "\\b((?!\\bFar\\ Country:)Far\\ Country)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

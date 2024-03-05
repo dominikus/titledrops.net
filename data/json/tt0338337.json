@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0338337",
+    "title": "Paycheck",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 715,
+    "occurrences": [
+      [
+        46,
+        "00:09:12.084000",
+        "00:09:13.016000",
+        "My paycheck..."
+      ],
+      [
+        112,
+        "00:16:16.241000",
+        "00:16:18.436000",
+        "One big paycheck."
+      ],
+      [
+        116,
+        "00:16:39.164000",
+        "00:16:42.497000",
+        "One big paycheck, you're done."
+      ],
+      [
+        123,
+        "00:18:10.022000",
+        "00:18:12.923000",
+        "...wiII be returned to you when you pick up your paycheck."
+      ]
+    ],
+    "regex": "\\b((?!\\bPaycheck:)Paycheck)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

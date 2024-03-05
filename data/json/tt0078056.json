@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0078056",
+    "title": "Paradise Alley",
+    "year": 1978,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1101,
+    "occurrences": [
+      [
+        357,
+        "00:37:42.470000",
+        "00:37:45.639000",
+        "Paradise Alley's great. Dames crawl out of the woodwork."
+      ],
+      [
+        457,
+        "00:46:01.468000",
+        "00:46:05.847000",
+        "Can you believe our brother just dumped the Paradise Alley champ?"
+      ],
+      [
+        827,
+        "01:19:28.473000",
+        "01:19:32.476000",
+        "- Where are you going? - Paradise Alley. You wanna go?"
+      ],
+      [
+        1026,
+        "01:36:35.583000",
+        "01:36:39.043000",
+        "- You OK? - ..In Paradise Alley, our very own,"
+      ]
+    ],
+    "regex": "\\b((?!\\bParadise\\ Alley:)Paradise\\ Alley)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

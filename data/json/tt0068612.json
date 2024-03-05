@@ -1,0 +1,59 @@
+[
+  {
+    "imdb": "tt0068612",
+    "title": "Fritz the Cat",
+    "year": 1972,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1045,
+    "occurrences": [
+      [
+        43,
+        "00:02:49.560000",
+        "00:02:50.960000",
+        "Better listen to Fritz the Cat"
+      ],
+      [
+        48,
+        "00:02:57.680000",
+        "00:02:58.680000",
+        "Fritz the Cat"
+      ],
+      [
+        150,
+        "00:08:12.120000",
+        "00:08:16.920000",
+        "Fritz the Cat has become the stud of the year."
+      ],
+      [
+        859,
+        "01:00:35.520000",
+        "01:00:37.440000",
+        "Fritz the Cat"
+      ],
+      [
+        860,
+        "01:00:37.360000",
+        "01:00:39.160000",
+        "Fritz the Cat"
+      ],
+      [
+        861,
+        "01:00:39.080000",
+        "01:00:40.440000",
+        "Fritz the Cat"
+      ]
+    ],
+    "regex": "\\b((?!\\bFritz\\ the\\ Cat:)Fritz\\ the\\ Cat)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [
+      "Fritz the Cat"
+    ],
+    "title_is_name": true,
+    "rating": 6.2
+  }
+]

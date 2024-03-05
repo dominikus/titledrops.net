@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1613750",
+    "title": "Kon-Tiki",
+    "year": 2012,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 748,
+    "occurrences": [
+      [
+        121,
+        "00:15:10.080000",
+        "00:15:11.660000",
+        "the Kon-Tiki."
+      ],
+      [
+        565,
+        "01:09:11.480000",
+        "01:09:16.235000",
+        "\"From Thor Eeyerdahl, Kon-Tiki, May 17, 1947,\""
+      ]
+    ],
+    "regex": "\\b((?!\\bKon\\-Tiki:)Kon\\-Tiki)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt2564978",
+    "title": "Lost Time",
+    "year": 2014,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 864,
+    "occurrences": [
+      [
+        100,
+        "00:09:28.568000",
+        "00:09:31.003000",
+        "to discuss his book  Lost Time."
+      ],
+      [
+        234,
+        "00:27:07.392000",
+        "00:27:09.260000",
+        "Lost Time."
+      ],
+      [
+        245,
+        "00:27:46.965000",
+        "00:27:49.734000",
+        "will be revealed in my new book, Lost Time."
+      ],
+      [
+        246,
+        "00:27:50.168000",
+        "00:27:53.938000",
+        "What is lost time?"
+      ],
+      [
+        278,
+        "00:29:31.937000",
+        "00:29:34.472000",
+        "when I lost time."
+      ]
+    ],
+    "regex": "\\b((?!\\bLost\\ Time:)Lost\\ Time)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.9
+  }
+]

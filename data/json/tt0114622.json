@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0114622",
+    "title": "North Star",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "count": 5,
+    "all_lines": 608,
+    "occurrences": [
+      [
+        40,
+        "00:10:38.713000",
+        "00:10:41.352000",
+        "Next up, the North Star Falls."
+      ],
+      [
+        57,
+        "00:11:38.033000",
+        "00:11:43.903000",
+        "Sold to Mr. Sean McLennon, new owner of the North Star claim."
+      ],
+      [
+        370,
+        "00:47:20.193000",
+        "00:47:23.105000",
+        "I told him to stay away from the North Star."
+      ],
+      [
+        371,
+        "00:47:28.193000",
+        "00:47:30.263000",
+        "The North Star?"
+      ],
+      [
+        378,
+        "00:48:00.073000",
+        "00:48:02.143000",
+        "The North Star belongs to those Indians..."
+      ]
+    ],
+    "regex": "\\b((?!\\bNorth\\ Star:)North\\ Star)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

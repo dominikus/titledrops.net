@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt14542254",
+    "title": "November",
+    "year": 2022,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1266,
+    "occurrences": [
+      [
+        686,
+        "00:52:17.930000",
+        "00:52:19.848000",
+        "Where were you on November 13?"
+      ],
+      [
+        1246,
+        "01:38:44.842000",
+        "01:38:47.553000",
+        "There'll be a before and after 13th November."
+      ],
+      [
+        1252,
+        "01:39:24.798000",
+        "01:39:27.509000",
+        "{\\an8}The 13th November attacks killed 131, injured 494"
+      ]
+    ],
+    "regex": "\\b((?!\\bNovember:)November)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

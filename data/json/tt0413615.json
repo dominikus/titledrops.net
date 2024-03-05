@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0413615",
+    "title": "Unforgivable Blackness: The Rise and Fall of Jack Johnson",
+    "year": 2004,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 1839,
+    "occurrences": [
+      [
+        692,
+        "00:38:36.833000",
+        "00:38:39.666000",
+        "\"HIS UNFORGIVABLE BLACKNESS.\""
+      ],
+      [
+        1815,
+        "01:48:46.400000",
+        "01:48:49",
+        "Announcer: NEXT TIME ON \"UNFORGIVABLE BLACKNESS\"..."
+      ],
+      [
+        1825,
+        "01:49:07.200000",
+        "01:49:10.233000",
+        "THE RISE AND FALL OF JACK JOHNSON\""
+      ],
+      [
+        1833,
+        "01:49:34.900000",
+        "01:49:36.533000",
+        "THE RISE AND FALL OF JACK JOHNSON"
+      ]
+    ],
+    "regex": "\\b((?!\\bUnforgivable\\ Blackness:)Unforgivable\\ Blackness|(?!\\bRise\\ and\\ Fall\\ of\\ Jack\\ Johnson:)Rise\\ and\\ Fall\\ of\\ Jack\\ Johnson)(?!\\:)(?!'t)\\b",
+    "runtime": 214,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.3
+  }
+]

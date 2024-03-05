@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4514660",
+    "title": "Terror Birds",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1133,
+    "occurrences": [
+      [
+        820,
+        "01:01:17.271000",
+        "01:01:19.275000",
+        "I think they're called terror birds."
+      ],
+      [
+        821,
+        "01:01:19.307000",
+        "01:01:21.443000",
+        "Terror birds? That's light."
+      ],
+      [
+        823,
+        "01:01:26.248000",
+        "01:01:31.253000",
+        "I'm serious. I think they're called terror birds or Titanis."
+      ]
+    ],
+    "regex": "\\b((?!\\bTerror\\ Birds:)Terror\\ Birds)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

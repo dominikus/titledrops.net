@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt10452178",
+    "title": "Secrets in the Sky: The Untold Story of Skunk Works",
+    "year": 2019,
+    "genres": [
+      "Documentary",
+      "History",
+      "War"
+    ],
+    "count": 1,
+    "all_lines": 1620,
+    "occurrences": [
+      [
+        107,
+        "00:05:56.617000",
+        "00:06:00.969000",
+        "built from the ground up, capturing secrets in the sky."
+      ]
+    ],
+    "regex": "\\b((?!\\bSecrets\\ in\\ the\\ Sky:)Secrets\\ in\\ the\\ Sky|(?!\\bUntold\\ Story\\ of\\ Skunk\\ Works:)Untold\\ Story\\ of\\ Skunk\\ Works)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

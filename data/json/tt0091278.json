@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0091278",
+    "title": "Iron Eagle",
+    "year": 1986,
+    "genres": [
+      "Action",
+      "Thriller",
+      "War"
+    ],
+    "count": 5,
+    "all_lines": 1441,
+    "occurrences": [
+      [
+        1149,
+        "01:29:30.172000",
+        "01:29:33.630000",
+        "Llke an Iron eagle that nothlng can penetrate."
+      ],
+      [
+        1187,
+        "01:32:26.382000",
+        "01:32:27.576000",
+        "Thls Is Iron Eagle."
+      ],
+      [
+        1209,
+        "01:33:42.925000",
+        "01:33:45.519000",
+        "Bllyad Tower, thls Is Iron Eagle."
+      ],
+      [
+        1309,
+        "01:44:07.349000",
+        "01:44:09.579000",
+        "Time to die, Iron Eagle."
+      ],
+      [
+        1366,
+        "01:47:46.468000",
+        "01:47:50.029000",
+        "Nice of you to join us for the occasion, Mr. Iron Eagle, sir!"
+      ]
+    ],
+    "regex": "\\b((?!\\bIron\\ Eagle:)Iron\\ Eagle)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

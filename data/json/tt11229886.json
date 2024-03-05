@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt11229886",
+    "title": "Les Misérables: The Staged Concert",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "History",
+      "Musical"
+    ],
+    "count": 3,
+    "all_lines": 1999,
+    "occurrences": [
+      [
+        1912,
+        "02:34:26.451000",
+        "02:34:28.577000",
+        "our esteemed composer of \"Les Miserables,\""
+      ],
+      [
+        1938,
+        "02:36:23.372000",
+        "02:36:25.831000",
+        "but except you never say goodbye with \"Les Miserables\"."
+      ],
+      [
+        1940,
+        "02:36:28.291000",
+        "02:36:32.333000",
+        "because, uh, tomorrow always seems to come for \"Les Miserables\""
+      ]
+    ],
+    "regex": "\\b((?!\\bLes\\ Miserables:)Les\\ Miserables|(?!\\bStaged\\ Concert:)Staged\\ Concert)(?!\\:)(?!'t)\\b",
+    "runtime": 161,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.6
+  }
+]

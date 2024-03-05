@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt1727254",
+    "title": "Duke",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1895,
+    "occurrences": [
+      [
+        402,
+        "00:25:12.567000",
+        "00:25:14.767000",
+        "I guess I'm the duke now."
+      ],
+      [
+        403,
+        "00:25:14.800000",
+        "00:25:16.467000",
+        "You're the duke?"
+      ],
+      [
+        404,
+        "00:25:16.500000",
+        "00:25:18.433000",
+        "You're not the duke, Roost."
+      ],
+      [
+        407,
+        "00:25:25.067000",
+        "00:25:26.733000",
+        "That means I'm the duke."
+      ],
+      [
+        1270,
+        "01:13:35.800000",
+        "01:13:37.133000",
+        "Am I the duke?"
+      ],
+      [
+        1271,
+        "01:13:37.167000",
+        "01:13:39.700000",
+        "No, Roost, you're not the duke. You have to earn that title."
+      ]
+    ],
+    "regex": "\\b((?!\\bDuke:)Duke)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

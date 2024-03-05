@@ -1,0 +1,67 @@
+[
+  {
+    "imdb": "tt13833688",
+    "title": "The Whale",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 8,
+    "all_lines": 1906,
+    "occurrences": [
+      [
+        276,
+        "00:15:24.445000",
+        "00:15:27.281000",
+        "and very much wants to kill the whale"
+      ],
+      [
+        282,
+        "00:15:44.432000",
+        "00:15:47.037000",
+        "trying to kill a certain whale."
+      ],
+      [
+        285,
+        "00:15:49.734000",
+        "00:15:53.142000",
+        "Because the whale doesn't have any emotions."
+      ],
+      [
+        292,
+        "00:16:16.266000",
+        "00:16:19.399000",
+        "if he can just kill this whale."
+      ],
+      [
+        1869,
+        "01:51:08.920000",
+        "01:51:10.513000",
+        "\"and very much wants to kill the whale"
+      ],
+      [
+        1873,
+        "01:51:18.259000",
+        "01:51:21.766000",
+        "\"His entire life is set around trying to kill a certain whale.\""
+      ],
+      [
+        1875,
+        "01:51:23.363000",
+        "01:51:25.044000",
+        "\"because this whale doesn't have any emotions,"
+      ],
+      [
+        1882,
+        "01:51:38.818000",
+        "01:51:40.345000",
+        "\"if he can just kill this whale,"
+      ]
+    ],
+    "regex": "\\b((?!\\bWhale:)Whale)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0100865",
+    "title": "Via Appia",
+    "year": 1989,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 686,
+    "occurrences": [
+      [
+        0,
+        "00:00:18.019000",
+        "00:00:21.619000",
+        "Via Appia"
+      ],
+      [
+        164,
+        "00:21:47.259000",
+        "00:21:50.978000",
+        "It says that an American flight attendant was murdered on the Via Appia."
+      ],
+      [
+        165,
+        "00:21:51.212000",
+        "00:21:53.578000",
+        "Via Appia? That's very far out!"
+      ],
+      [
+        408,
+        "00:46:45.239000",
+        "00:46:48.403000",
+        "Some of these guys here on the Via Appia, they really turn you off."
+      ],
+      [
+        470,
+        "00:53:48.783000",
+        "00:53:51.183000",
+        "You've been on the Via Appia again."
+      ]
+    ],
+    "regex": "\\b((?!\\bVia\\ Appia:)Via\\ Appia)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

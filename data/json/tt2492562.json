@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt2492562",
+    "title": "I'm Now: The Story of Mudhoney",
+    "year": 2012,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 2188,
+    "occurrences": [
+      [
+        15,
+        "00:00:58.310000",
+        "00:00:59.827000",
+        "I'm now"
+      ],
+      [
+        26,
+        "00:01:37.137000",
+        "00:01:39.448000",
+        "I'm now"
+      ],
+      [
+        2067,
+        "01:35:18.482000",
+        "01:35:19.758000",
+        "Basically, I'm now at,"
+      ],
+      [
+        2187,
+        "01:41:44.172000",
+        "01:41:46.413000",
+        "I'm now"
+      ],
+      [
+        2188,
+        "01:41:47.517000",
+        "01:41:49.827000",
+        "Yeah, I'm now"
+      ]
+    ],
+    "regex": "\\b((?!\\bI'm\\ Now:)I'm\\ Now|(?!\\bStory\\ of\\ Mudhoney:)Story\\ of\\ Mudhoney)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

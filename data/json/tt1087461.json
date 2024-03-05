@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1087461",
+    "title": "Megan Is Missing",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1446,
+    "occurrences": [
+      [
+        1037,
+        "00:54:47.913000",
+        "00:54:51.314000",
+        "Tonight a special \"Megan is Missing\" reenactment"
+      ],
+      [
+        1056,
+        "00:55:44.703000",
+        "00:55:48.503000",
+        "And now a \"Megan is Missing\" exclusive reenactment."
+      ]
+    ],
+    "regex": "\\b((?!\\bMegan\\ Is\\ Missing:)Megan\\ Is\\ Missing)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

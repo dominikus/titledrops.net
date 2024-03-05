@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0056875",
+    "title": "Blood Feast",
+    "year": 1963,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 727,
+    "occurrences": [
+      [
+        282,
+        "00:28:21.159000",
+        "00:28:24.704000",
+        "a blood feast that would give the goddess to the people."
+      ],
+      [
+        293,
+        "00:29:42.365000",
+        "00:29:47.328000",
+        "This custom of the blood feast existed for more than 400 years"
+      ],
+      [
+        528,
+        "00:50:08.131000",
+        "00:50:11.009000",
+        "on the blood feast of Ishtar, the Egyptian goddess?"
+      ],
+      [
+        557,
+        "00:54:21.134000",
+        "00:54:23.011000",
+        "That's a blood feast."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlood\\ Feast:)Blood\\ Feast)(?!\\:)(?!'t)\\b",
+    "runtime": 67,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

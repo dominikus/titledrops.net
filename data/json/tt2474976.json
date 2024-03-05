@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt2474976",
+    "title": "The Hallow",
+    "year": 2015,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 448,
+    "occurrences": [
+      [
+        117,
+        "00:18:55.494000",
+        "00:19:00.916000",
+        "They believe that the forest that you're trampling on belongs to the Hallow."
+      ],
+      [
+        118,
+        "00:19:01.041000",
+        "00:19:03.569000",
+        "- The Hallow? - The good people."
+      ],
+      [
+        139,
+        "00:20:35.302000",
+        "00:20:37.387000",
+        "A Hallow?"
+      ],
+      [
+        262,
+        "00:46:24.851000",
+        "00:46:27.938000",
+        "We saw the same thing. The Hallow."
+      ],
+      [
+        308,
+        "00:58:48.971000",
+        "00:58:51.306000",
+        "\"Hallow be thy name."
+      ],
+      [
+        311,
+        "00:59:00.857000",
+        "00:59:04.903000",
+        "\"then Hallow be your name.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bHallow:)Hallow)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0060646",
+    "title": "Made in Paris",
+    "year": 1966,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1509,
+    "occurrences": [
+      [
+        6,
+        "00:05:03.267000",
+        "00:05:07.967000",
+        "* Who doesn't discover that if it's made in Paris *"
+      ],
+      [
+        8,
+        "00:05:13.267000",
+        "00:05:18.300000",
+        "* Dreams are made in Paris every night *"
+      ],
+      [
+        14,
+        "00:05:37.667000",
+        "00:05:40.867000",
+        "* Can just be made in Paris *"
+      ],
+      [
+        17,
+        "00:05:46.600000",
+        "00:05:51.200000",
+        "* Love is made in Paris every night *"
+      ],
+      [
+        1504,
+        "01:42:45.967000",
+        "01:42:50.933000",
+        "* Love is made in Paris every night *"
+      ]
+    ],
+    "regex": "\\b((?!\\bMade\\ in\\ Paris:)Made\\ in\\ Paris)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

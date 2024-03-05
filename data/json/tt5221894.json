@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt5221894",
+    "title": "The Other Me",
+    "year": 2016,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 865,
+    "occurrences": [
+      [
+        482,
+        "00:52:38.208000",
+        "00:52:40.375000",
+        "\"The other me\", ok?"
+      ],
+      [
+        494,
+        "00:53:16.958000",
+        "00:53:22.916000",
+        "Or, the numbers representing \"the other me\"."
+      ],
+      [
+        498,
+        "00:53:35.916000",
+        "00:53:40.208000",
+        "Pythagoras defines a friend as \"the other me\"."
+      ],
+      [
+        732,
+        "01:16:19.791000",
+        "01:16:23.333000",
+        "Pythagoras defines a friend as \"the other me\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bOther\\ Me:)Other\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

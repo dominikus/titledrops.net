@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt6066280",
+    "title": "Spent",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1345,
+    "occurrences": [
+      [
+        1145,
+        "01:24:15.417000",
+        "01:24:16.951000",
+        "- I only spent money on"
+      ],
+      [
+        1169,
+        "01:25:29.756000",
+        "01:25:33.694000",
+        "Sure we spent a little here and a little there,"
+      ],
+      [
+        1187,
+        "01:26:39.493000",
+        "01:26:42.597000",
+        "I had no idea I spent that much."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpent:)Spent)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

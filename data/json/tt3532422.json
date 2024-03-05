@@ -1,0 +1,53 @@
+[
+  {
+    "imdb": "tt3532422",
+    "title": "Adira",
+    "year": 2014,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "count": 5,
+    "all_lines": 329,
+    "occurrences": [
+      [
+        61,
+        "00:11:11.767000",
+        "00:11:14.400000",
+        "- (chuckles) Oh my sweet Adira,"
+      ],
+      [
+        231,
+        "00:53:10.967000",
+        "00:53:12.233000",
+        "- Adira."
+      ],
+      [
+        256,
+        "00:58:20.100000",
+        "00:58:22",
+        "(Adira coughs)"
+      ],
+      [
+        278,
+        "01:02:11.867000",
+        "01:02:13.633000",
+        "- Adira, that is just foolish."
+      ],
+      [
+        315,
+        "01:11:28.733000",
+        "01:11:30.200000",
+        "-  Adira, run!"
+      ]
+    ],
+    "regex": "\\b((?!\\bAdira:)Adira)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [
+      "Adira"
+    ],
+    "title_is_name": true,
+    "rating": 5.2
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt5182856",
+    "title": "Harmonium",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1017,
+    "occurrences": [
+      [
+        184,
+        "00:15:20.879000",
+        "00:15:22.380000",
+        "The harmonium?"
+      ],
+      [
+        206,
+        "00:18:19.849000",
+        "00:18:22.435000",
+        "Didn't you have a harmonium lesson today?"
+      ],
+      [
+        210,
+        "00:18:41.412000",
+        "00:18:44.290000",
+        "I like the harmonium but not the teacher."
+      ],
+      [
+        269,
+        "00:24:37.351000",
+        "00:24:39.312000",
+        "Thanks, for the harmonium."
+      ]
+    ],
+    "regex": "\\b((?!\\bHarmonium:)Harmonium)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

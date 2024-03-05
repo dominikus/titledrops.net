@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0076098",
+    "title": "The Report",
+    "year": 1977,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 919,
+    "occurrences": [
+      [
+        22,
+        "00:04:03.160000",
+        "00:04:05.954000",
+        "Im looking for a report..."
+      ],
+      [
+        566,
+        "00:50:51.510000",
+        "00:50:54.680000",
+        "We'll have to write a report."
+      ],
+      [
+        574,
+        "00:51:42.477000",
+        "00:51:46.899000",
+        "report to the Honorable President"
+      ]
+    ],
+    "regex": "\\b((?!\\bReport:)Report)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

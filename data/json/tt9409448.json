@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt9409448",
+    "title": "Baumbacher Syndrome",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 693,
+    "occurrences": [
+      [
+        39,
+        "00:05:11.520000",
+        "00:05:14.960000",
+        "what has been referred to as the Baumbacher Syndrome."
+      ],
+      [
+        645,
+        "01:10:13.080000",
+        "01:10:16.600000",
+        "I was thinking, Baumbacher Syndrome."
+      ]
+    ],
+    "regex": "\\b((?!\\bBaumbacher\\ Syndrome:)Baumbacher\\ Syndrome)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

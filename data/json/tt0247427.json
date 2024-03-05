@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0247427",
+    "title": "In the Shadows",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1509,
+    "occurrences": [
+      [
+        831,
+        "00:52:46.815000",
+        "00:52:49.514000",
+        "\"we dance in the shadows of death"
+      ],
+      [
+        1458,
+        "01:40:13.137000",
+        "01:40:15.618000",
+        "I'm in the shadows"
+      ]
+    ],
+    "regex": "\\b((?!\\bIn\\ the\\ Shadows:)In\\ the\\ Shadows)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0251075",
+    "title": "Evolution",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1370,
+    "occurrences": [
+      [
+        199,
+        "00:16:37.496000",
+        "00:16:39.732000",
+        "It's evolution."
+      ],
+      [
+        1248,
+        "01:29:02.103000",
+        "01:29:04.238000",
+        "That's evolution ?"
+      ]
+    ],
+    "regex": "\\b((?!\\bEvolution:)Evolution)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

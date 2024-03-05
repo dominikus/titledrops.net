@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0192126",
+    "title": "Honest",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1135,
+    "occurrences": [
+      [
+        275,
+        "00:22:30.320000",
+        "00:22:32.470000",
+        "At least that's honest!"
+      ],
+      [
+        716,
+        "01:03:11.280000",
+        "01:03:14.272000",
+        "- Honest. - I'll have that money they took."
+      ]
+    ],
+    "regex": "\\b((?!\\bHonest:)Honest)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt7241800",
+    "title": "Bitter Melon",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1405,
+    "occurrences": [
+      [
+        407,
+        "00:25:05.532000",
+        "00:25:10.069000",
+        "-Okay, so what's wrong with your knees? -Oh, where's the bitter melon."
+      ],
+      [
+        410,
+        "00:25:16.499000",
+        "00:25:20.302000",
+        "-Bitter melon is never good. -l need it for my high blood pressure."
+      ],
+      [
+        411,
+        "00:25:21.532000",
+        "00:25:24.601000",
+        "Besides, you should probably go to an Asian market for bitter melon."
+      ]
+    ],
+    "regex": "\\b((?!\\bBitter\\ Melon:)Bitter\\ Melon)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0253146",
+    "title": "Interview",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 686,
+    "occurrences": [
+      [
+        154,
+        "00:10:06.405000",
+        "00:10:09.704000",
+        "Since your interview wiII be used in our fiIm,"
+      ],
+      [
+        195,
+        "00:11:58.017000",
+        "00:12:00.986000",
+        "It's SONG Byung-gwon, the interview, Iast time?"
+      ],
+      [
+        302,
+        "00:19:07.246000",
+        "00:19:10.545000",
+        "-Is this IM Moon-wu's interview? -Yeah."
+      ],
+      [
+        396,
+        "00:32:49.200000",
+        "00:32:53.603000",
+        "it's aImost impossibIe to bring up the word, 'interview.'"
+      ]
+    ],
+    "regex": "\\b((?!\\bInterview:)Interview)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

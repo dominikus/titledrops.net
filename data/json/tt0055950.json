@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0055950",
+    "title": "Electra",
+    "year": 1962,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 655,
+    "occurrences": [
+      [
+        15,
+        "00:08:19.297000",
+        "00:08:20.764000",
+        "Poor Electra."
+      ],
+      [
+        19,
+        "00:08:31.810000",
+        "00:08:34.404000",
+        "It's a wonder he didn't kill Electra."
+      ],
+      [
+        38,
+        "00:17:48.533000",
+        "00:17:55.063000",
+        "I am Electra, daughter of Agamemnon and Clytemnestra."
+      ],
+      [
+        103,
+        "00:31:19.777000",
+        "00:31:23.110000",
+        "Why do you work so hard, Electra? You have enough unhappiness."
+      ],
+      [
+        132,
+        "00:37:35.519000",
+        "00:37:36.884000",
+        "...is called Electra."
+      ]
+    ],
+    "regex": "\\b((?!\\bElectra:)Electra)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

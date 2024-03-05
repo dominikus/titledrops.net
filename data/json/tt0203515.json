@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0203515",
+    "title": "Give It All",
+    "year": 1998,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 894,
+    "occurrences": [
+      [
+        10,
+        "00:03:44.520000",
+        "00:03:49.320000",
+        "Give It All"
+      ],
+      [
+        69,
+        "00:10:14.540000",
+        "00:10:17.810000",
+        "Give it all!"
+      ],
+      [
+        604,
+        "01:14:19.740000",
+        "01:14:22.930000",
+        "Give it all!"
+      ],
+      [
+        841,
+        "01:44:05.930000",
+        "01:44:10.520000",
+        "Give it all!"
+      ]
+    ],
+    "regex": "\\b((?!\\bGive\\ It\\ All:)Give\\ It\\ All)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

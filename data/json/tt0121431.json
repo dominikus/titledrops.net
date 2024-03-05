@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0121431",
+    "title": "Johnny Corncob",
+    "year": 1973,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 298,
+    "occurrences": [
+      [
+        116,
+        "01:43:01.145000",
+        "01:43:04.637000",
+        "Johnny Corncob, have you regret,"
+      ],
+      [
+        127,
+        "01:45:09.345000",
+        "01:45:12.860000",
+        "Johnny Corncob, have you regret,"
+      ],
+      [
+        137,
+        "01:46:37.385000",
+        "01:46:40.912000",
+        "Johnny Corncob, have you regret,"
+      ],
+      [
+        183,
+        "01:58:34.345000",
+        "01:58:36.779000",
+        "Johnny Corncob is my name."
+      ]
+    ],
+    "regex": "\\b((?!\\bJohnny\\ Corncob:)Johnny\\ Corncob)(?!\\:)(?!'t)\\b",
+    "runtime": 147,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

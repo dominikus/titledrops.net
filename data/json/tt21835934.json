@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt21835934",
+    "title": "August 16 1947",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1796,
+    "occurrences": [
+      [
+        35,
+        "00:04:15.083000",
+        "00:04:16.833000",
+        "before Nehru-Mount Batten final meeting on August 15th."
+      ],
+      [
+        47,
+        "00:05:08.750000",
+        "00:05:10.916000",
+        "Since the date 15th, August is confirmed as Independence day..."
+      ]
+    ],
+    "regex": "\\b((?!\\bAugust:)August)(?!\\:)(?!'t)\\b",
+    "runtime": 144,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

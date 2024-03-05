@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0096219",
+    "title": "Talk Radio",
+    "year": 1988,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1824,
+    "occurrences": [
+      [
+        9,
+        "00:00:36.761000",
+        "00:00:41.401000",
+        "That's news, sports and weather. I'm Frank Castle for KGAB talk radio news."
+      ],
+      [
+        33,
+        "00:01:55.164000",
+        "00:01:57.844000",
+        "Talk radio- it's the last neighborhood in town."
+      ],
+      [
+        1045,
+        "00:56:26.573000",
+        "00:56:30.653000",
+        "Talk radio. Free speech isn't really free at all."
+      ]
+    ],
+    "regex": "\\b((?!\\bTalk\\ Radio:)Talk\\ Radio)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

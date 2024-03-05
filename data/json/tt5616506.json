@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5616506",
+    "title": "Cut and Chop",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1096,
+    "occurrences": [
+      [
+        229,
+        "00:25:56.106000",
+        "00:26:00.044000",
+        "Have we found our antagonist in Cut and Chop?"
+      ],
+      [
+        615,
+        "00:54:04.561000",
+        "00:54:07.231000",
+        "Ron Womack here, director for the film Cut and Chop."
+      ]
+    ],
+    "regex": "\\b((?!\\bCut\\ and\\ Chop:)Cut\\ and\\ Chop)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

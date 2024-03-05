@@ -1,0 +1,53 @@
+[
+  {
+    "imdb": "tt3069954",
+    "title": "Soekarno",
+    "year": 2013,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 5,
+    "all_lines": 1189,
+    "occurrences": [
+      [
+        873,
+        "01:37:07.320000",
+        "01:37:10.360000",
+        "...who Soekarno really is."
+      ],
+      [
+        1171,
+        "02:14:31.160000",
+        "02:14:34.640000",
+        "A day after, Soekarno-Hatta together with the Nationalists and Islamics"
+      ],
+      [
+        1177,
+        "02:14:51.520000",
+        "02:14:53.960000",
+        "At 1955, Indonesia held its first election Soekarno was officially appointed"
+      ],
+      [
+        1180,
+        "02:14:59.640000",
+        "02:15:03.440000",
+        "Until a motion of scholars at 1966 pulled down Soekarno from the presidential"
+      ],
+      [
+        1181,
+        "02:15:05.040000",
+        "02:15:09.120000",
+        "During his polity until the day he died, Soekarno married 9 wives..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSoekarno:)Soekarno)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [
+      "Soekarno"
+    ],
+    "title_is_name": true,
+    "rating": 6.9
+  }
+]

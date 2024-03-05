@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt6189372",
+    "title": "Eve",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 416,
+    "occurrences": [
+      [
+        4,
+        "00:03:36.984000",
+        "00:03:39.685000",
+        "I'm auditioning for the role of Eve."
+      ],
+      [
+        7,
+        "00:04:00.341000",
+        "00:04:01.807000",
+        "and I'm reading for the role of Eve."
+      ],
+      [
+        54,
+        "00:06:49.109000",
+        "00:06:52.677000",
+        "Forget about Eve."
+      ],
+      [
+        333,
+        "00:55:44.608000",
+        "00:55:48.344000",
+        "Hi, Cassie. I need to talk to you about Eve."
+      ],
+      [
+        361,
+        "01:08:47.324000",
+        "01:08:50.692000",
+        "and I'm reading for the role of Eve."
+      ],
+      [
+        377,
+        "01:10:39.936000",
+        "01:10:42.237000",
+        "And he wants you to play Eve."
+      ]
+    ],
+    "regex": "\\b((?!\\bEve:)Eve)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

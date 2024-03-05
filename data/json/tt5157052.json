@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5157052",
+    "title": "Nightworld: Door of Hell",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1207,
+    "occurrences": [
+      [
+        797,
+        "01:03:01.110000",
+        "01:03:02.410000",
+        "The Nightworld."
+      ],
+      [
+        808,
+        "01:03:37.214000",
+        "01:03:39.481000",
+        "and their Nightworld."
+      ],
+      [
+        927,
+        "01:09:39.809000",
+        "01:09:43.511000",
+        "- In the Nightworld, the concept of time,"
+      ]
+    ],
+    "regex": "\\b((?!\\bNightworld:)Nightworld|(?!\\bDoor\\ of\\ Hell:)Door\\ of\\ Hell)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

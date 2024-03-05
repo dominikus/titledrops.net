@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0086421",
+    "title": "Oh, Bloody Life",
+    "year": 1984,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1067,
+    "occurrences": [
+      [
+        2,
+        "00:00:10.720000",
+        "00:00:16.631000",
+        "Oh, bloody life! You lousy life! How you can be sweet like honey?"
+      ],
+      [
+        3,
+        "00:00:19.800000",
+        "00:00:24.800000",
+        "Oh, bloody life! Oh, bloody life! How hard it is to grow out of you."
+      ]
+    ],
+    "regex": "\\b((?!\\bOh,\\ Bloody\\ Life:)Oh,\\ Bloody\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

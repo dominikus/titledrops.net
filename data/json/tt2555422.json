@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt2555422",
+    "title": "Anne of Green Gables: Road to Green Gables",
+    "year": 1992,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Family"
+    ],
+    "count": 5,
+    "all_lines": 924,
+    "occurrences": [
+      [
+        0,
+        "00:00:05.774000",
+        "00:00:08.318000",
+        "Based on \"Anne of Green Gables\" by L. M. Montgomery"
+      ],
+      [
+        9,
+        "00:01:22.601000",
+        "00:01:26.730000",
+        "THE ROAD TO GREEN GABLES"
+      ],
+      [
+        515,
+        "00:55:27.801000",
+        "00:55:33.473000",
+        "Anne of Green Gables"
+      ],
+      [
+        523,
+        "00:56:40.123000",
+        "00:56:45.545000",
+        "Anne of Green Gables"
+      ],
+      [
+        909,
+        "01:38:07.191000",
+        "01:38:10.528000",
+        "From now on, you're Anne of Green Gables."
+      ]
+    ],
+    "regex": "\\b((?!\\bAnne\\ of\\ Green\\ Gables:)Anne\\ of\\ Green\\ Gables|(?!\\bRoad\\ to\\ Green\\ Gables:)Road\\ to\\ Green\\ Gables)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

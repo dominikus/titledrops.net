@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0209077",
+    "title": "Ken Park",
+    "year": 2002,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 930,
+    "occurrences": [
+      [
+        1,
+        "00:03:10.460000",
+        "00:03:12.257000",
+        "His name was Ken Park."
+      ],
+      [
+        923,
+        "01:28:21.820000",
+        "01:28:23.731000",
+        "Ken Park gothis girlfriend pregnant."
+      ]
+    ],
+    "regex": "\\b((?!\\bKen\\ Park:)Ken\\ Park)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [
+      "Ken Park"
+    ],
+    "title_is_name": true,
+    "rating": 5.8
+  }
+]

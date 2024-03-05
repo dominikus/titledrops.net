@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0090665",
+    "title": "Halfaouine: Boy of the Terraces",
+    "year": 1990,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 666,
+    "occurrences": [
+      [
+        7,
+        "00:02:35.743000",
+        "00:02:37.620000",
+        "HALFAOUINE"
+      ],
+      [
+        400,
+        "00:46:55.703000",
+        "00:47:00.333000",
+        "Let the cricket go. He's Halfaouine's local artist."
+      ],
+      [
+        660,
+        "01:33:45.544000",
+        "01:33:48.934000",
+        "He learnt to fly in Halfaouine"
+      ]
+    ],
+    "regex": "\\b((?!\\bHalfaouine:)Halfaouine|(?!\\bBoy\\ of\\ the\\ Terraces:)Boy\\ of\\ the\\ Terraces)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

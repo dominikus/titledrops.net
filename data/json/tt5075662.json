@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5075662",
+    "title": "The Isle",
+    "year": 2018,
+    "genres": [
+      "Fantasy",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 984,
+    "occurrences": [
+      [
+        258,
+        "00:23:08.291000",
+        "00:23:10.434000",
+        "This is a dead isle."
+      ],
+      [
+        705,
+        "01:07:06",
+        "01:07:08.017000",
+        "Our bounteous isle giving way"
+      ]
+    ],
+    "regex": "\\b((?!\\bIsle:)Isle)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

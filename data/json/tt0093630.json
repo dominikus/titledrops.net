@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0093630",
+    "title": "Nights in White Satin",
+    "year": 1987,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1102,
+    "occurrences": [
+      [
+        803,
+        "01:06:54.433000",
+        "01:06:58.433000",
+        "(\"Nights in White Satin\" by The Moody Blues)"
+      ],
+      [
+        804,
+        "01:07:09.566000",
+        "01:07:13.566000",
+        "Nights in white satin"
+      ],
+      [
+        836,
+        "01:09:58.233000",
+        "01:10:02.233000",
+        "Nights in white satin"
+      ]
+    ],
+    "regex": "\\b((?!\\bNights\\ in\\ White\\ Satin:)Nights\\ in\\ White\\ Satin)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

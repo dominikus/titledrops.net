@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0101316",
+    "title": "The Lover",
+    "year": 1992,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 886,
+    "occurrences": [
+      [
+        129,
+        "00:18:18.584000",
+        "00:18:20.278000",
+        "He was her lover."
+      ],
+      [
+        560,
+        "01:09:34.500000",
+        "01:09:37.957000",
+        "In my family's presence, he ceases to be my lover."
+      ],
+      [
+        861,
+        "01:50:17.550000",
+        "01:50:18.982000",
+        "her lover..."
+      ]
+    ],
+    "regex": "\\b((?!\\bLover:)Lover)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

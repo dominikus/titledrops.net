@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt13428892",
+    "title": "A Christmas Love",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1314,
+    "occurrences": [
+      [
+        512,
+        "00:26:13.393000",
+        "00:26:15.443000",
+        "I believe in the magic of Christmas love."
+      ],
+      [
+        656,
+        "00:33:37.800000",
+        "00:33:39.253000",
+        "Where's my Christmas love?"
+      ],
+      [
+        1161,
+        "00:56:36.540000",
+        "00:56:37.980000",
+        "- A little Christmas love."
+      ]
+    ],
+    "regex": "\\b((?!\\bChristmas\\ Love:)Christmas\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 65,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

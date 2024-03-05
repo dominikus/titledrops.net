@@ -1,0 +1,52 @@
+[
+  {
+    "imdb": "tt1403177",
+    "title": "Hesher",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1005,
+    "occurrences": [
+      [
+        149,
+        "00:16:38.334000",
+        "00:16:39.627000",
+        "My name's Hesher."
+      ],
+      [
+        554,
+        "00:52:28.689000",
+        "00:52:29.857000",
+        "Hesher."
+      ],
+      [
+        555,
+        "00:52:30.066000",
+        "00:52:31.901000",
+        "Hesher? Is that a name?"
+      ],
+      [
+        888,
+        "01:27:11.226000",
+        "01:27:12.603000",
+        "Hesher's not here."
+      ],
+      [
+        1003,
+        "01:39:01.102000",
+        "01:39:02.144000",
+        "Hesher's gone."
+      ]
+    ],
+    "regex": "\\b((?!\\bHesher:)Hesher)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [
+      "Hesher"
+    ],
+    "title_is_name": true,
+    "rating": 6.9
+  }
+]

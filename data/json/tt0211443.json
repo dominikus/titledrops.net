@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0211443",
+    "title": "Jason X",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 577,
+    "occurrences": [
+      [
+        167,
+        "00:25:04.840000",
+        "00:25:10.680000",
+        "That's not Jason Voorhees. Is it you know about him Jason Voorhees?"
+      ],
+      [
+        202,
+        "00:32:02.320000",
+        "00:32:04.320000",
+        "The subject was Jason Voorhees"
+      ],
+      [
+        203,
+        "00:32:04.800000",
+        "00:32:06.800000",
+        "Jason Voorhees"
+      ]
+    ],
+    "regex": "\\b((?!\\bJason:)Jason)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0227651",
+    "title": "The Tibetan Book of the Dead: The Great Liberation",
+    "year": 1994,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 400,
+    "occurrences": [
+      [
+        0,
+        "00:00:19.500000",
+        "00:00:24.900000",
+        "The Tibetan Book of the Dead: The Great Liberation"
+      ],
+      [
+        50,
+        "00:06:08",
+        "00:06:11.900000",
+        "Known in the west as the Tibetan book of the dead,"
+      ],
+      [
+        68,
+        "00:07:55.700000",
+        "00:07:59.900000",
+        "The name of this text, means the great liberation"
+      ],
+      [
+        126,
+        "00:13:39.100000",
+        "00:13:42.900000",
+        "The Tibetan book of the dead describes the collapse of the"
+      ],
+      [
+        400,
+        "00:43:36.200000",
+        "00:43:40",
+        "but you may find the great liberation."
+      ]
+    ],
+    "regex": "\\b((?!\\bTibetan\\ Book\\ of\\ the\\ Dead:)Tibetan\\ Book\\ of\\ the\\ Dead|(?!\\bGreat\\ Liberation:)Great\\ Liberation)(?!\\:)(?!'t)\\b",
+    "runtime": 45,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

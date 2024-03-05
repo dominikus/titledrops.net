@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt10886166",
+    "title": "365 Days",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1340,
+    "occurrences": [
+      [
+        298,
+        "00:26:06",
+        "00:26:07.833000",
+        "You have 365 days."
+      ],
+      [
+        400,
+        "00:34:58.416000",
+        "00:35:02.750000",
+        "So, Typhon didn't fall in love with Zeus in 365 days."
+      ],
+      [
+        1063,
+        "01:34:57.875000",
+        "01:35:01",
+        "I don't need 365 days."
+      ]
+    ],
+    "regex": "\\b((?!\\b365\\ Days:)365\\ Days)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

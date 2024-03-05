@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0358925",
+    "title": "Colombian Love",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1232,
+    "occurrences": [
+      [
+        2,
+        "00:00:39.760000",
+        "00:00:47.760000",
+        "\"Colombian Love\""
+      ],
+      [
+        808,
+        "01:02:22",
+        "01:02:24.833000",
+        "And that was the end of my Colombian love,"
+      ]
+    ],
+    "regex": "\\b((?!\\bColombian\\ Love:)Colombian\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

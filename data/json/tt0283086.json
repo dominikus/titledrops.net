@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0283086",
+    "title": "Turn",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 666,
+    "occurrences": [
+      [
+        21,
+        "00:05:08.875000",
+        "00:05:10.843000",
+        "Now, it's your turn."
+      ],
+      [
+        470,
+        "01:19:32.701000",
+        "01:19:36.728000",
+        "Do you turn every day at the same time?"
+      ],
+      [
+        471,
+        "01:19:36.838000",
+        "01:19:37.805000",
+        "\"Turn\"?"
+      ],
+      [
+        485,
+        "01:20:14.543000",
+        "01:20:17.535000",
+        "Where do you turn? I always go back to my house."
+      ]
+    ],
+    "regex": "\\b((?!\\bTurn:)Turn)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

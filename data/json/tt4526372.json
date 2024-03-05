@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt4526372",
+    "title": "Defective",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1338,
+    "occurrences": [
+      [
+        342,
+        "00:23:40.211000",
+        "00:23:42.836000",
+        "One more warning will equal a status as defective."
+      ],
+      [
+        362,
+        "00:24:15.704000",
+        "00:24:18.498000",
+        "Immediate designation defective,"
+      ],
+      [
+        640,
+        "00:44:48.355000",
+        "00:44:50.354000",
+        "immediate assessment as defective,"
+      ],
+      [
+        844,
+        "00:56:35.561000",
+        "00:56:39.604000",
+        "the S.E.A. deem appropriate, you're defective."
+      ],
+      [
+        1153,
+        "01:22:34.953000",
+        "01:22:36.956000",
+        "This subject is defective."
+      ],
+      [
+        1258,
+        "01:30:18.835000",
+        "01:30:21.044000",
+        "You've been deemed defective."
+      ]
+    ],
+    "regex": "\\b((?!\\bDefective:)Defective)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

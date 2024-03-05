@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1764198",
+    "title": "Best Laid Plans",
+    "year": 2012,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1281,
+    "occurrences": [
+      [
+        1245,
+        "01:40:39.040000",
+        "01:40:40.632000",
+        "(Best Laid Plans playing)"
+      ],
+      [
+        1251,
+        "01:41:14.200000",
+        "01:41:18.239000",
+        "# The best laid plans of mice and men"
+      ],
+      [
+        1265,
+        "01:42:10.360000",
+        "01:42:13.989000",
+        "# The best laid plans I guess you'll find"
+      ]
+    ],
+    "regex": "\\b((?!\\bBest\\ Laid\\ Plans:)Best\\ Laid\\ Plans)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

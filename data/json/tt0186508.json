@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0186508",
+    "title": "Buena Vista Social Club",
+    "year": 1999,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 495,
+    "occurrences": [
+      [
+        12,
+        "00:01:43.360000",
+        "00:01:47.040000",
+        "Ah, the Buena Vista Social Club!"
+      ],
+      [
+        15,
+        "00:02:17.960000",
+        "00:02:22.480000",
+        "Let's ask the old folks where the Buena Vista Social Club is"
+      ]
+    ],
+    "regex": "\\b((?!\\bBuena\\ Vista\\ Social\\ Club:)Buena\\ Vista\\ Social\\ Club)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

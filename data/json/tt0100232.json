@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0100232",
+    "title": "Navy Seals",
+    "year": 1990,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1323,
+    "occurrences": [
+      [
+        369,
+        "00:24:43.565000",
+        "00:24:45.609000",
+        "Navy SEALs, they're paid to take risks."
+      ],
+      [
+        794,
+        "00:54:58.837000",
+        "00:54:59.713000",
+        "And you're dealing with the Navy SEALs."
+      ]
+    ],
+    "regex": "\\b((?!\\bNavy\\ Seals:)Navy\\ Seals)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

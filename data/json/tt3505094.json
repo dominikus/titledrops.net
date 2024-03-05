@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt3505094",
+    "title": "Tiny: The Life of Erin Blackwell",
+    "year": 2016,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 1483,
+    "occurrences": [
+      [
+        95,
+        "00:05:23.574000",
+        "00:05:26.661000",
+        "Pinky and Dora called me Tiny"
+      ],
+      [
+        97,
+        "00:05:29.831000",
+        "00:05:32.417000",
+        "- Very tiny. -  You don't know jack shit."
+      ],
+      [
+        108,
+        "00:06:01.988000",
+        "00:06:04.741000",
+        "This was the first photograph I took of Tiny,"
+      ],
+      [
+        111,
+        "00:06:12.665000",
+        "00:06:15.793000",
+        "I knew Tiny was going to be the star of my story."
+      ],
+      [
+        1025,
+        "01:01:53.419000",
+        "01:01:55.296000",
+        "Mikka, you want gum? Tiny, you want gum?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTiny:)Tiny|(?!\\bLife\\ of\\ Erin\\ Blackwell:)Life\\ of\\ Erin\\ Blackwell)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

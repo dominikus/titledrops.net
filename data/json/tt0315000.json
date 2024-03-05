@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0315000",
+    "title": "El Cid: The Legend",
+    "year": 2003,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Biography"
+    ],
+    "count": 7,
+    "all_lines": 813,
+    "occurrences": [
+      [
+        19,
+        "00:02:38",
+        "00:02:42.300000",
+        "(EL CID, THE LEGEND)"
+      ],
+      [
+        430,
+        "00:37:30.460000",
+        "00:37:33.650000",
+        "[...as \"El Cid\", \"El Signor\"!]"
+      ],
+      [
+        453,
+        "00:39:39.420000",
+        "00:39:42.570000",
+        "- El Cid! - Rodrigo!"
+      ],
+      [
+        795,
+        "01:10:34.900000",
+        "01:10:37.090000",
+        "[After his conquest of Valencia, the legend of]"
+      ],
+      [
+        811,
+        "01:11:53.740000",
+        "01:11:57.490000",
+        "[And this King of Castile, Alfonso VI, \"El-Bravo\",...]"
+      ]
+    ],
+    "regex": "\\b((?!\\bEl:)El|(?!\\bLegend:)Legend)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

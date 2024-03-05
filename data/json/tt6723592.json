@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt6723592",
+    "title": "Tenet",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1465,
+    "occurrences": [
+      [
+        65,
+        "00:10:35.356000",
+        "00:10:38.327000",
+        "in combination with a word. \"Tenet\"."
+      ],
+      [
+        73,
+        "00:13:14.348000",
+        "00:13:15.549000",
+        "An obscure tenet."
+      ],
+      [
+        1099,
+        "01:50:51.880000",
+        "01:50:55.684000",
+        "You see, Tenet wasn't founded in the past."
+      ]
+    ],
+    "regex": "\\b((?!\\bTenet:)Tenet)(?!\\:)(?!'t)\\b",
+    "runtime": 150,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

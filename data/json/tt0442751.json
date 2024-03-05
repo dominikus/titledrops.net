@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0442751",
+    "title": "Cafundó",
+    "year": 2005,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 701,
+    "occurrences": [
+      [
+        131,
+        "00:18:51.214000",
+        "00:18:55",
+        "- Where's the corner of the world? - It's in Cafundo."
+      ],
+      [
+        233,
+        "00:29:16.105000",
+        "00:29:20.735000",
+        "- Are you on your way? - To Cafundo we go!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCafundo:)Cafundo)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0137452",
+    "title": "Cybernator",
+    "year": 1991,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1052,
+    "occurrences": [
+      [
+        748,
+        "00:54:43.113000",
+        "00:54:45.416000",
+        "Have you ever heard the term, \"cybernator\"?"
+      ],
+      [
+        797,
+        "00:56:34.058000",
+        "00:56:37.194000",
+        "Well, what if I don't want to play cybernator?"
+      ],
+      [
+        897,
+        "01:00:54.719000",
+        "01:00:56.687000",
+        "Your fight with the cybernator."
+      ]
+    ],
+    "regex": "\\b((?!\\bCybernator:)Cybernator)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.7
+  }
+]

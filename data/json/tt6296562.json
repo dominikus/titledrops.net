@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt6296562",
+    "title": "Level 3",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1938,
+    "occurrences": [
+      [
+        851,
+        "00:35:51.389000",
+        "00:35:53.824000",
+        "When you reach a true level of happiness,"
+      ],
+      [
+        1612,
+        "01:09:34.810000",
+        "01:09:35.811000",
+        "But, you're okay with that on every level,"
+      ],
+      [
+        1616,
+        "01:09:40.649000",
+        "01:09:42.117000",
+        "Level 3."
+      ]
+    ],
+    "regex": "\\b((?!\\bLevel:)Level)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0171865",
+    "title": "Wonderland",
+    "year": 1999,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1101,
+    "occurrences": [
+      [
+        209,
+        "00:14:58.029000",
+        "00:15:01.382000",
+        "Alice ? Yeah, yeah, like, um, Alice in Wonderland?"
+      ],
+      [
+        1054,
+        "01:35:19.021000",
+        "01:35:22.124000",
+        "Like in Wonderland"
+      ]
+    ],
+    "regex": "\\b((?!\\bWonderland:)Wonderland)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

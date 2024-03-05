@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt7957694",
+    "title": "The Last Summer",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 2125,
+    "occurrences": [
+      [
+        1637,
+        "01:20:38.959000",
+        "01:20:41.211000",
+        "If this was our last summer"
+      ],
+      [
+        1660,
+        "01:21:44.941000",
+        "01:21:46.943000",
+        "To see if our last summer"
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Summer:)Last\\ Summer)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

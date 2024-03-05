@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2144820",
+    "title": "Stand Your Ground",
+    "year": 2013,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1883,
+    "occurrences": [
+      [
+        1684,
+        "01:30:16.011000",
+        "01:30:18.714000",
+        "called the stand your ground law."
+      ],
+      [
+        1690,
+        "01:30:37.800000",
+        "01:30:40.836000",
+        "You can stand your ground, and that's what Jason did."
+      ]
+    ],
+    "regex": "\\b((?!\\bStand\\ Your\\ Ground:)Stand\\ Your\\ Ground)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

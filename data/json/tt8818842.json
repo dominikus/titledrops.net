@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt8818842",
+    "title": "Rialto",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1385,
+    "occurrences": [
+      [
+        412,
+        "00:23:55.136000",
+        "00:23:56.938000",
+        "I was in Rialto at my mam's place."
+      ],
+      [
+        420,
+        "00:24:14.722000",
+        "00:24:15.623000",
+        "Rialto?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRialto:)Rialto)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

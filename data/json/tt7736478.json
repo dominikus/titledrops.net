@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt7736478",
+    "title": "The Traitor",
+    "year": 2019,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1503,
+    "occurrences": [
+      [
+        69,
+        "00:10:37.137000",
+        "00:10:40.174000",
+        "The Traitor"
+      ],
+      [
+        611,
+        "01:09:05.516000",
+        "01:09:08.258000",
+        "My husband is not a traitor!"
+      ],
+      [
+        629,
+        "01:11:21.277000",
+        "01:11:23.939000",
+        "Buscetta snitchand traitor"
+      ],
+      [
+        704,
+        "01:18:39.590000",
+        "01:18:41.126000",
+        "Traitor!"
+      ],
+      [
+        1503,
+        "02:23:52.249000",
+        "02:23:55.286000",
+        "The Traitor"
+      ]
+    ],
+    "regex": "\\b((?!\\bTraitor:)Traitor)(?!\\:)(?!'t)\\b",
+    "runtime": 153,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

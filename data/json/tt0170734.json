@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0170734",
+    "title": "A Visitor from the Living",
+    "year": 1999,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 939,
+    "occurrences": [
+      [
+        1,
+        "00:00:50.466000",
+        "00:00:53.719000",
+        "I filmed A Visitor from the Living,"
+      ],
+      [
+        438,
+        "00:31:07.448000",
+        "00:31:11.948000",
+        "\"Look, a visitor from the living, who's not an SS.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bVisitor\\ from\\ the\\ Living:)Visitor\\ from\\ the\\ Living)(?!\\:)(?!'t)\\b",
+    "runtime": 68,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt18225736",
+    "title": "The Deepest Cave",
+    "year": 2022,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 7,
+    "all_lines": 745,
+    "occurrences": [
+      [
+        9,
+        "00:00:57.182000",
+        "00:01:00.727000",
+        "That makes Cheve the deepest cave on Earth, in theory."
+      ],
+      [
+        49,
+        "00:03:20.450000",
+        "00:03:21.826000",
+        "the deepest cave in the world."
+      ],
+      [
+        82,
+        "00:05:20.153000",
+        "00:05:22.947000",
+        "And our goal is to make this cave the deepest cave in the world."
+      ],
+      [
+        367,
+        "00:22:56.666000",
+        "00:22:59.711000",
+        "I think Bill's known that this is the deepest cave system"
+      ],
+      [
+        557,
+        "00:36:05.621000",
+        "00:36:07.238000",
+        "If we're gonna make this the world's deepest cave,"
+      ],
+      [
+        598,
+        "00:38:49.452000",
+        "00:38:51.120000",
+        "officially the world's deepest cave"
+      ],
+      [
+        745,
+        "00:49:36.682000",
+        "00:49:39.017000",
+        "This will be the world's deepest cave."
+      ]
+    ],
+    "regex": "\\b((?!\\bDeepest\\ Cave:)Deepest\\ Cave)(?!\\:)(?!'t)\\b",
+    "runtime": 50,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

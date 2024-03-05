@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt16154112",
+    "title": "The Forever Prisoner",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 2238,
+    "occurrences": [
+      [
+        231,
+        "00:12:40.160000",
+        "00:12:43.560000",
+        "Abu Zubaydah is the forever prisoner at the heart of the story."
+      ],
+      [
+        2224,
+        "01:52:35.160000",
+        "01:52:38.320000",
+        "He is the forever prisoner meant to fade from memory"
+      ],
+      [
+        2233,
+        "01:53:08.880000",
+        "01:53:10.960000",
+        "The forever prisoner is a living reminder"
+      ]
+    ],
+    "regex": "\\b((?!\\bForever\\ Prisoner:)Forever\\ Prisoner)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt9856574",
+    "title": "The Spore",
+    "year": 2021,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 883,
+    "occurrences": [
+      [
+        21,
+        "00:01:25.243000",
+        "00:01:29.414000",
+        "The latest in Global Warming news brings the discovery of toxic spore plumes"
+      ],
+      [
+        874,
+        "01:29:27.727000",
+        "01:29:32.565000",
+        "It then spreads its spore through secreting dark mucus or blood"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpore:)Spore)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

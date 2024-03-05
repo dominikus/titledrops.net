@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0817225",
+    "title": "Secret Sunshine",
+    "year": 2007,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 681,
+    "occurrences": [
+      [
+        71,
+        "00:06:38.498000",
+        "00:06:40.261000",
+        "...'secret sunshine'."
+      ],
+      [
+        73,
+        "00:06:42.235000",
+        "00:06:43.702000",
+        "Secret sunshine..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSecret\\ Sunshine:)Secret\\ Sunshine)(?!\\:)(?!'t)\\b",
+    "runtime": 142,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

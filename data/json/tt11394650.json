@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt11394650",
+    "title": "On the Record",
+    "year": 2020,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 2739,
+    "occurrences": [
+      [
+        573,
+        "00:17:43.522000",
+        "00:17:45.542000",
+        "on the record together."
+      ],
+      [
+        875,
+        "00:27:44.147000",
+        "00:27:45.167000",
+        "on the record."
+      ],
+      [
+        1110,
+        "00:36:43.542000",
+        "00:36:44.726000",
+        "- that they won't - go on the record"
+      ],
+      [
+        1111,
+        "00:36:44.750000",
+        "00:36:47.750000",
+        "Unless I go on the record,"
+      ],
+      [
+        1866,
+        "01:01:52.500000",
+        "01:01:55.208000",
+        "I will go on the record.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bOn\\ the\\ Record:)On\\ the\\ Record)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

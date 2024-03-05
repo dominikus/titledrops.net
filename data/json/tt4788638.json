@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4788638",
+    "title": "To the Fore",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1398,
+    "occurrences": [
+      [
+        824,
+        "01:03:43.583000",
+        "01:03:45.585000",
+        "has moved to the fore."
+      ],
+      [
+        1314,
+        "01:50:37.875000",
+        "01:50:40.594000",
+        "The lead-outs are now once more to the fore."
+      ]
+    ],
+    "regex": "\\b((?!\\bTo\\ the\\ Fore:)To\\ the\\ Fore)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

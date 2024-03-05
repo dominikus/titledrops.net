@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt11032990",
+    "title": "Malibu Rescue: The Next Wave",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1417,
+    "occurrences": [
+      [
+        1015,
+        "00:47:53.329000",
+        "00:47:55.956000",
+        "Please. I can't ask Malibu Rescue."
+      ],
+      [
+        1036,
+        "00:48:49.510000",
+        "00:48:52.263000",
+        "I'm here with Roger Gossard, the new senior captain of Malibu Rescue,"
+      ],
+      [
+        1338,
+        "01:05:00.146000",
+        "01:05:03.316000",
+        "Malibu Rescue's newest finest. Come on out, kids."
+      ]
+    ],
+    "regex": "\\b((?!\\bMalibu\\ Rescue:)Malibu\\ Rescue|(?!\\bNext\\ Wave:)Next\\ Wave)(?!\\:)(?!'t)\\b",
+    "runtime": 68,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

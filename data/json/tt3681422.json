@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3681422",
+    "title": "Uttama Villain",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1810,
+    "occurrences": [
+      [
+        495,
+        "00:45:54.550000",
+        "00:45:55.883000",
+        "Uttama Villain!"
+      ],
+      [
+        560,
+        "00:50:42.175000",
+        "00:50:45.758000",
+        "Hero's name is 'Uttaman' the film is called 'Uttama Villain'"
+      ]
+    ],
+    "regex": "\\b((?!\\bUttama\\ Villain:)Uttama\\ Villain)(?!\\:)(?!'t)\\b",
+    "runtime": 171,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

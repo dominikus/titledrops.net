@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0061473",
+    "title": "The Chinese",
+    "year": 1967,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 825,
+    "occurrences": [
+      [
+        71,
+        "00:05:54.787000",
+        "00:05:58.791000",
+        "Chinese students gathered in front of Stalin's tomb."
+      ],
+      [
+        103,
+        "00:08:51.964000",
+        "00:08:55.957000",
+        "Chinese actings are incredible."
+      ],
+      [
+        104,
+        "00:08:57.970000",
+        "00:08:59.961000",
+        "Chinese opera is very great."
+      ],
+      [
+        314,
+        "00:34:17.488000",
+        "00:34:21.481000",
+        "Chinese believe in the thoughts of Mao Tse-tung."
+      ],
+      [
+        468,
+        "00:53:32.642000",
+        "00:53:36.635000",
+        "Also the same as when the members of Russia Communist Party look at the Chinese."
+      ]
+    ],
+    "regex": "\\b((?!\\bChinese:)Chinese)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

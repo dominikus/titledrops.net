@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt11392272",
+    "title": "The Retreat",
+    "year": 2021,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1118,
+    "occurrences": [
+      [
+        94,
+        "00:06:31.442000",
+        "00:06:32.977000",
+        "It's a wedding planning retreat."
+      ],
+      [
+        299,
+        "00:18:23.620000",
+        "00:18:26.723000",
+        "at a retreat with you."
+      ]
+    ],
+    "regex": "\\b((?!\\bRetreat:)Retreat)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

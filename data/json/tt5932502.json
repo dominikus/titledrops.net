@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5932502",
+    "title": "The Pale Man",
+    "year": 2017,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1354,
+    "occurrences": [
+      [
+        460,
+        "00:31:42.112000",
+        "00:31:43.695000",
+        "A tall, pale man."
+      ],
+      [
+        883,
+        "00:58:24.399000",
+        "00:58:25.482000",
+        "The Pale Man?"
+      ],
+      [
+        957,
+        "01:03:15.763000",
+        "01:03:16.846000",
+        "The Pale Man?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPale\\ Man:)Pale\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

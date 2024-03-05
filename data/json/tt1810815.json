@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1810815",
+    "title": "The Spiritual World",
+    "year": 2007,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 538,
+    "occurrences": [
+      [
+        23,
+        "00:04:15.388000",
+        "00:04:18.482000",
+        "The Spiritual World"
+      ],
+      [
+        28,
+        "00:04:44.884000",
+        "00:04:57.854000",
+        "They are memories that only live in the spiritual world."
+      ],
+      [
+        191,
+        "00:36:18.543000",
+        "00:36:20.738000",
+        "I'm more at home in the spiritual world."
+      ],
+      [
+        199,
+        "00:38:21.565000",
+        "00:38:23.465000",
+        "time for the spiritual world."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpiritual\\ World:)Spiritual\\ World)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt0120737",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 1,
+    "all_lines": 1828,
+    "occurrences": [
+      [
+        1101,
+        "01:45:29.573000",
+        "01:45:32.576000",
+        "You shall be the Fellowship of the Ring."
+      ]
+    ],
+    "regex": "\\b((?!\\bLord\\ of\\ the\\ Rings:)Lord\\ of\\ the\\ Rings|(?!\\bFellowship\\ of\\ the\\ Ring:)Fellowship\\ of\\ the\\ Ring)(?!\\:)(?!'t)\\b",
+    "runtime": 228,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.9
+  }
+]

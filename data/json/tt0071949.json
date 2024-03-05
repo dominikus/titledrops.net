@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt0071949",
+    "title": "Orders",
+    "year": 1974,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 7,
+    "all_lines": 991,
+    "occurrences": [
+      [
+        239,
+        "00:17:54.239000",
+        "00:17:56.104000",
+        "We've got orders."
+      ],
+      [
+        241,
+        "00:18:02.581000",
+        "00:18:05.914000",
+        "If you guys have orders, the grocer's next door"
+      ],
+      [
+        765,
+        "01:21:37.425000",
+        "01:21:40.553000",
+        "gives the orders. We carry them out."
+      ],
+      [
+        773,
+        "01:22:08.990000",
+        "01:22:12.016000",
+        "You know we have to follow our orders."
+      ],
+      [
+        774,
+        "01:22:12.460000",
+        "01:22:14.690000",
+        "Orders! From whom?"
+      ],
+      [
+        876,
+        "01:31:27.215000",
+        "01:31:29.149000",
+        "Those are our orders."
+      ],
+      [
+        972,
+        "01:42:47.961000",
+        "01:42:51.556000",
+        "Don't bother, they just follow orders."
+      ]
+    ],
+    "regex": "\\b((?!\\bOrders:)Orders)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

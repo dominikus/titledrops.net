@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0283952",
+    "title": "Blue Hill Avenue",
+    "year": 2001,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1964,
+    "occurrences": [
+      [
+        766,
+        "00:47:52.270000",
+        "00:47:56.041000",
+        "I want you to shut down the operation on Blue Hill Avenue."
+      ],
+      [
+        768,
+        "00:47:59.044000",
+        "00:48:03.048000",
+        "I want you to cease selling drugs on Blue Hill Avenue."
+      ],
+      [
+        769,
+        "00:48:03.081000",
+        "00:48:06.051000",
+        "We make a lot of ends on Blue Hill Avenue."
+      ],
+      [
+        782,
+        "00:48:43.154000",
+        "00:48:45.991000",
+        "I want Blue Hill Avenue to be known for pussy..."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Hill\\ Avenue:)Blue\\ Hill\\ Avenue)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

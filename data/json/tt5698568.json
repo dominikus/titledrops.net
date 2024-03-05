@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt5698568",
+    "title": "1898: Our Last Men in the Philippines",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 1146,
+    "occurrences": [
+      [
+        26,
+        "00:03:57.458000",
+        "00:04:02.250000",
+        "1998, OUR LAST MEN IN THE PHILIPPINES"
+      ],
+      [
+        274,
+        "00:25:01.708000",
+        "00:25:05.333000",
+        "JUNE 30, 1898"
+      ],
+      [
+        430,
+        "00:41:19.125000",
+        "00:41:21.958000",
+        "OCTOBER 10, 1898"
+      ],
+      [
+        664,
+        "01:04:45.125000",
+        "01:04:47.333000",
+        "DECEMBER 31, 1898 SIX MONTHS OF SIEGE"
+      ]
+    ],
+    "regex": "\\b((?!\\b1898:)1898|(?!\\bOur\\ Last\\ Men\\ in\\ the\\ Philippines:)Our\\ Last\\ Men\\ in\\ the\\ Philippines)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

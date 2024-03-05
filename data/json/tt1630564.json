@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1630564",
+    "title": "Sacrifice",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 608,
+    "occurrences": [
+      [
+        14,
+        "00:01:39.857000",
+        "00:01:45.341000",
+        "Sacrifice \"Victim\""
+      ],
+      [
+        289,
+        "00:40:15.042000",
+        "00:40:19.375000",
+        "- What does it mean? - \"Self-sacrifice\" of the Latin."
+      ],
+      [
+        293,
+        "00:40:41.542000",
+        "00:40:43.167000",
+        "I fell to sacrifice?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSacrifice:)Sacrifice)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3288544",
+    "title": "Good Luck",
+    "year": 2017,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 460,
+    "occurrences": [
+      [
+        16,
+        "00:13:33",
+        "00:13:34.159000",
+        "Good luck."
+      ],
+      [
+        415,
+        "02:01:36.400000",
+        "02:01:37.639000",
+        "- That's good luck! - Yes."
+      ]
+    ],
+    "regex": "\\b((?!\\bGood\\ Luck:)Good\\ Luck)(?!\\:)(?!'t)\\b",
+    "runtime": 143,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

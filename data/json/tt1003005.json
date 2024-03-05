@@ -1,0 +1,73 @@
+[
+  {
+    "imdb": "tt1003005",
+    "title": "Room 205",
+    "year": 2007,
+    "genres": [
+      "Horror"
+    ],
+    "count": 10,
+    "all_lines": 340,
+    "occurrences": [
+      [
+        41,
+        "00:07:53.680000",
+        "00:07:58.993000",
+        "I haven't started yet because it was too far away until I got this room."
+      ],
+      [
+        63,
+        "00:09:55.240000",
+        "00:10:01.156000",
+        "Sanne's room, room 205. Or did you think she was born strange?"
+      ],
+      [
+        83,
+        "00:14:07.240000",
+        "00:14:11.836000",
+        "I think you need help. Let's go to my room."
+      ],
+      [
+        108,
+        "00:17:22.200000",
+        "00:17:27.479000",
+        "Don't worry about it. It came with the room."
+      ],
+      [
+        175,
+        "00:37:09.680000",
+        "00:37:16.074000",
+        "- I'm going to my room. - Chuck out the mirror Katrine broke."
+      ],
+      [
+        190,
+        "00:44:13.160000",
+        "00:44:18.075000",
+        "They tried to scare me with the dead girl from room 205."
+      ],
+      [
+        228,
+        "00:49:56.280000",
+        "00:49:59.397000",
+        "- You're in what room? - 207."
+      ],
+      [
+        274,
+        "01:06:40.640000",
+        "01:06:46.317000",
+        "She killed Lukas. The girl from room 205."
+      ],
+      [
+        294,
+        "01:10:07.440000",
+        "01:10:13.117000",
+        "There weren't any more pieces there. It must be in Sanne's room."
+      ]
+    ],
+    "regex": "\\b((?!\\bRoom:)Room)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

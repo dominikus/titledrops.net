@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt14597294",
+    "title": "The Phantom",
+    "year": 2021,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 1025,
+    "occurrences": [
+      [
+        260,
+        "00:20:00.999000",
+        "00:20:02.761000",
+        "Carlos Hernandez was a phantom."
+      ],
+      [
+        588,
+        "00:44:21.853000",
+        "00:44:24.419000",
+        "This... the phantom"
+      ],
+      [
+        592,
+        "00:44:38.236000",
+        "00:44:40.677000",
+        "So that's what we really mean by \"phantom\"."
+      ],
+      [
+        777,
+        "00:58:07.850000",
+        "00:58:11.885000",
+        "And I think that... I best recall I told Steve it's not a phantom."
+      ],
+      [
+        785,
+        "00:58:42.979000",
+        "00:58:45.983000",
+        "that Carlos Hernandez was a phantom."
+      ]
+    ],
+    "regex": "\\b((?!\\bPhantom:)Phantom)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

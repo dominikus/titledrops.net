@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0158030",
+    "title": "The Girl of Your Dreams",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1669,
+    "occurrences": [
+      [
+        68,
+        "00:03:37.517000",
+        "00:03:41.817000",
+        "to film a super-production titled, \"The Girl of Your Dreams\","
+      ],
+      [
+        81,
+        "00:04:18.758000",
+        "00:04:21.921000",
+        "We wish success to \"The Girl of Your Dreams\","
+      ],
+      [
+        1111,
+        "01:11:45.067000",
+        "01:11:46.967000",
+        "\"I'm the girl of your dreams.\""
+      ],
+      [
+        1185,
+        "01:17:43.225000",
+        "01:17:45.216000",
+        "\"The girl of your dreams.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bGirl\\ of\\ Your\\ Dreams:)Girl\\ of\\ Your\\ Dreams)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

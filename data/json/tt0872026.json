@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0872026",
+    "title": "Trick: The Movie 2",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 715,
+    "occurrences": [
+      [
+        194,
+        "00:14:44.634000",
+        "00:14:49.368000",
+        "TRICK: The Movie 2"
+      ],
+      [
+        348,
+        "00:27:25.010000",
+        "00:27:27.947000",
+        "That's nothing but a magic trick."
+      ],
+      [
+        412,
+        "00:34:21.382000",
+        "00:34:25.614000",
+        "{\\a6}Note: She's imitating Sadako, from the movie \"The Ring\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrick:)Trick|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

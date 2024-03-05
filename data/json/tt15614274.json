@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt15614274",
+    "title": "Double XL",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2080,
+    "occurrences": [
+      [
+        973,
+        "00:54:45.750000",
+        "00:54:48.958000",
+        "and ODI 29 including three double centuries, and four in T20."
+      ],
+      [
+        1338,
+        "01:14:44.166000",
+        "01:14:46.375000",
+        "If only I had double-checked..."
+      ]
+    ],
+    "regex": "\\b((?!\\bDouble:)Double)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

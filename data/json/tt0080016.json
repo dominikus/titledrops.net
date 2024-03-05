@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0080016",
+    "title": "Thirst",
+    "year": 1979,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 821,
+    "occurrences": [
+      [
+        72,
+        "00:06:23.382000",
+        "00:06:26.635000",
+        "the old thirst will not have died out."
+      ],
+      [
+        526,
+        "00:52:30.063000",
+        "00:52:32.649000",
+        "You're getting the thirst, that's all."
+      ],
+      [
+        527,
+        "00:52:32.649000",
+        "00:52:34.901000",
+        "The thirst is in all of us."
+      ]
+    ],
+    "regex": "\\b((?!\\bThirst:)Thirst)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

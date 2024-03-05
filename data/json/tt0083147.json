@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0083147",
+    "title": "The Swimmer",
+    "year": 1981,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 246,
+    "occurrences": [
+      [
+        15,
+        "00:01:27.883000",
+        "00:01:30.799000",
+        "The legendary swimmer Durmischan Dumbadze."
+      ],
+      [
+        56,
+        "00:09:16.702000",
+        "00:09:20.625000",
+        "To Batumi came the famous English swimmer Tomas Winston."
+      ],
+      [
+        197,
+        "00:54:50",
+        "00:54:53.058000",
+        "Domentii was proud of being friends with the great swimmer."
+      ]
+    ],
+    "regex": "\\b((?!\\bSwimmer:)Swimmer)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

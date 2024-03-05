@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0361127",
+    "title": "The Woodsman",
+    "year": 2004,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 705,
+    "occurrences": [
+      [
+        549,
+        "01:02:31.982000",
+        "01:02:35.953000",
+        "What's the one with the... with the woodsman?"
+      ],
+      [
+        550,
+        "01:02:35.986000",
+        "01:02:39.990000",
+        "Woodsman? Yeah. With the, uh... the ax."
+      ],
+      [
+        552,
+        "01:02:43.060000",
+        "01:02:46.030000",
+        "The woodsman... He cuts open a wolf's stomach."
+      ],
+      [
+        556,
+        "01:02:53.603000",
+        "01:02:57.842000",
+        "The woodsman... He cuts open the wolf's stomach."
+      ],
+      [
+        565,
+        "01:03:54.364000",
+        "01:03:57.167000",
+        "There ain't no fuckin' woodsman in this world."
+      ]
+    ],
+    "regex": "\\b((?!\\bWoodsman:)Woodsman)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

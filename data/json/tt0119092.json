@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0119092",
+    "title": "Face",
+    "year": 1997,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1080,
+    "occurrences": [
+      [
+        677,
+        "01:00:24.731000",
+        "01:00:27.984000",
+        "They're probably giving every face in London a spin."
+      ],
+      [
+        930,
+        "01:25:51.967000",
+        "01:25:54.886000",
+        "You're an old-style face, Dave."
+      ]
+    ],
+    "regex": "\\b((?!\\bFace:)Face)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

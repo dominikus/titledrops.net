@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt7990108",
+    "title": "Remember Me",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 7,
+    "all_lines": 1038,
+    "occurrences": [
+      [
+        570,
+        "00:37:56.492000",
+        "00:37:59.553000",
+        "Oh God, you can't remember me, can you?"
+      ],
+      [
+        935,
+        "01:04:14.471000",
+        "01:04:19.689000",
+        "You will remember me"
+      ],
+      [
+        950,
+        "01:05:17.027000",
+        "01:05:19.322000",
+        "You'll remember me"
+      ],
+      [
+        953,
+        "01:05:32.892000",
+        "01:05:36.232000",
+        "You will remember me"
+      ],
+      [
+        1019,
+        "01:18:15.422000",
+        "01:18:20.641000",
+        "You will remember me"
+      ],
+      [
+        1033,
+        "01:19:18.256000",
+        "01:19:20.412000",
+        "You'll remember me"
+      ],
+      [
+        1038,
+        "01:19:34.434000",
+        "01:19:37.774000",
+        "You will remember me"
+      ]
+    ],
+    "regex": "\\b((?!\\bRemember\\ Me:)Remember\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

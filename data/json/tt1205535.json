@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1205535",
+    "title": "The Rebound",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1147,
+    "occurrences": [
+      [
+        802,
+        "01:02:26.944000",
+        "01:02:31.023000",
+        "What, it means now when you meet a viable man he won't have to be your rebound."
+      ],
+      [
+        803,
+        "01:02:31.273000",
+        "01:02:33.084000",
+        "because your nanny was your rebound."
+      ],
+      [
+        805,
+        "01:02:37.007000",
+        "01:02:39.245000",
+        "I'm not sure of buying that \"The Rebound\" thing."
+      ]
+    ],
+    "regex": "\\b((?!\\bRebound:)Rebound)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

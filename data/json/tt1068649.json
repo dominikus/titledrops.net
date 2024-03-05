@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1068649",
+    "title": "I've Loved You So Long",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1075,
+    "occurrences": [
+      [
+        666,
+        "01:06:31.648000",
+        "01:06:37.359000",
+        "-\"I've loved you so long\" -Mom, come play, mom!"
+      ],
+      [
+        675,
+        "01:07:11.488000",
+        "01:07:15.083000",
+        "-\"I've loved you so long\"-"
+      ]
+    ],
+    "regex": "\\b((?!\\bI've\\ Loved\\ You\\ So\\ Long:)I've\\ Loved\\ You\\ So\\ Long)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

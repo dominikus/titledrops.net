@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0062938",
+    "title": "Escalation",
+    "year": 1968,
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 548,
+    "occurrences": [
+      [
+        360,
+        "00:58:30.132000",
+        "00:58:34.433000",
+        "Darling, escalation. Do you understand, Luca? Escalation."
+      ],
+      [
+        361,
+        "00:58:35.971000",
+        "00:58:39.692000",
+        "We'll ensure escalation within the company."
+      ]
+    ],
+    "regex": "\\b((?!\\bEscalation:)Escalation)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

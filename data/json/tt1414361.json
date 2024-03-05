@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1414361",
+    "title": "Frat Party",
+    "year": 2009,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1695,
+    "occurrences": [
+      [
+        369,
+        "00:17:25.246000",
+        "00:17:26.873000",
+        "Dude-dude-dude... bachelor party, frat party"
+      ],
+      [
+        409,
+        "00:19:09.383000",
+        "00:19:11.180000",
+        "coming to our final frat party."
+      ],
+      [
+        1678,
+        "01:20:41.505000",
+        "01:20:43.405000",
+        "You shouldn't have gone to that fucking frat party."
+      ]
+    ],
+    "regex": "\\b((?!\\bFrat\\ Party:)Frat\\ Party)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.8
+  }
+]

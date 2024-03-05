@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0399295",
+    "title": "Lord of War",
+    "year": 2005,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1373,
+    "occurrences": [
+      [
+        762,
+        "01:00:02.682000",
+        "01:00:05.309000",
+        "You know, they call me the Lord of War,"
+      ],
+      [
+        764,
+        "01:00:08.605000",
+        "01:00:11.440000",
+        "It's not Lord of War. It's Warlord."
+      ],
+      [
+        1129,
+        "01:32:10.566000",
+        "01:32:11.942000",
+        "Lord of War."
+      ]
+    ],
+    "regex": "\\b((?!\\bLord\\ of\\ War:)Lord\\ of\\ War)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

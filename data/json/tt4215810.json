@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt4215810",
+    "title": "River",
+    "year": 2015,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 557,
+    "occurrences": [
+      [
+        144,
+        "00:16:00.743000",
+        "00:16:02.159000",
+        "Give them a litte taste from the river."
+      ],
+      [
+        435,
+        "01:03:57.334000",
+        "01:03:59.201000",
+        "Follow the path to the river."
+      ],
+      [
+        437,
+        "01:04:02.606000",
+        "01:04:05.407000",
+        "It's the dry season, so the river is low."
+      ],
+      [
+        439,
+        "01:04:10.180000",
+        "01:04:12.447000",
+        "Next to the river there's a highway."
+      ],
+      [
+        497,
+        "01:12:38.822000",
+        "01:12:44.359000",
+        "Now, I'm told that you threw a bag into the river before you were apprehended?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRiver:)River)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

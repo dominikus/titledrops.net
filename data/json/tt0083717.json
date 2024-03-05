@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0083717",
+    "title": "Cannery Row",
+    "year": 1982,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 942,
+    "occurrences": [
+      [
+        0,
+        "00:01:44",
+        "00:01:48.200000",
+        "Cannery Row has never been like anywhere else."
+      ],
+      [
+        5,
+        "00:02:37.100000",
+        "00:02:41.400000",
+        "Of all the people on Cannery Row, Doc is probably the best known."
+      ],
+      [
+        82,
+        "00:09:28.900000",
+        "00:09:34.300000",
+        "Aren't any of them running? This is Cannery Row, isn't it?"
+      ],
+      [
+        460,
+        "00:52:52.300000",
+        "00:52:56.200000",
+        "Their impact would soon be felt on Cannery Row."
+      ],
+      [
+        941,
+        "01:52:54.600000",
+        "01:52:57.600000",
+        "Things were finally back to normal in Cannery Row."
+      ]
+    ],
+    "regex": "\\b((?!\\bCannery\\ Row:)Cannery\\ Row)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0056960",
+    "title": "The Cracksman",
+    "year": 1963,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 1536,
+    "occurrences": [
+      [
+        448,
+        "00:32:40.800000",
+        "00:32:42.080000",
+        "The best cracksman in the business."
+      ],
+      [
+        760,
+        "00:57:03.440000",
+        "00:57:06.880000",
+        "to place in your custody a real cracksman, the all-time..."
+      ],
+      [
+        1189,
+        "01:25:39.880000",
+        "01:25:42.040000",
+        "He's never had a cracksman like Ernie Wright before."
+      ]
+    ],
+    "regex": "\\b((?!\\bCracksman:)Cracksman)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

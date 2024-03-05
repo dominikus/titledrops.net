@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0099116",
+    "title": "Beijing Watermelon",
+    "year": 1989,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1887,
+    "occurrences": [
+      [
+        10,
+        "00:01:22.316000",
+        "00:01:24.550000",
+        "Come on up! Beijing Watermelon"
+      ],
+      [
+        11,
+        "00:01:24.551000",
+        "00:01:24.718000",
+        "Beijing Watermelon"
+      ],
+      [
+        12,
+        "00:01:24.719000",
+        "00:01:27.319000",
+        "Come get your produce here! Beijing Watermelon"
+      ]
+    ],
+    "regex": "\\b((?!\\bBeijing\\ Watermelon:)Beijing\\ Watermelon)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0058018",
+    "title": "The Disorderly Orderly",
+    "year": 1964,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1061,
+    "occurrences": [
+      [
+        36,
+        "00:03:32.345000",
+        "00:03:38.113000",
+        "The disorderly orderly's on duty tonight"
+      ],
+      [
+        40,
+        "00:03:55.101000",
+        "00:04:00.937000",
+        "The disorderly orderly's on duty tonight"
+      ],
+      [
+        47,
+        "00:04:29.669000",
+        "00:04:34.902000",
+        "The disorderly orderly's on duty"
+      ]
+    ],
+    "regex": "\\b((?!\\bDisorderly\\ Orderly:)Disorderly\\ Orderly)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

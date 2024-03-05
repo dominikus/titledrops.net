@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0148421",
+    "title": "Looking for an Echo",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 2201,
+    "occurrences": [
+      [
+        2028,
+        "01:26:44.033000",
+        "01:26:47.896000",
+        "We were looking for an echo"
+      ],
+      [
+        2132,
+        "01:31:25.125000",
+        "01:31:29.511000",
+        "Cause we were looking for an echo"
+      ],
+      [
+        2156,
+        "01:32:58.813000",
+        "01:33:01.852000",
+        "Looking for an echo"
+      ],
+      [
+        2160,
+        "01:33:12.711000",
+        "01:33:15.728000",
+        "Looking for an echo"
+      ]
+    ],
+    "regex": "\\b((?!\\bLooking\\ for\\ an\\ Echo:)Looking\\ for\\ an\\ Echo)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

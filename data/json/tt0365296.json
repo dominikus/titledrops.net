@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0365296",
+    "title": "Hair High",
+    "year": 2004,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 928,
+    "occurrences": [
+      [
+        311,
+        "00:27:19.539000",
+        "00:27:21.751000",
+        "Hair High, we love your towers"
+      ],
+      [
+        317,
+        "00:27:38.243000",
+        "00:27:41.666000",
+        "Hair High, our alma mater"
+      ],
+      [
+        364,
+        "00:30:27.080000",
+        "00:30:30.713000",
+        "Hair High"
+      ],
+      [
+        405,
+        "00:32:55.502000",
+        "00:32:56.587000",
+        "Hair High, we love your towers"
+      ],
+      [
+        481,
+        "00:37:06.085000",
+        "00:37:10.470000",
+        "Hair high, we love"
+      ]
+    ],
+    "regex": "\\b((?!\\bHair\\ High:)Hair\\ High)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

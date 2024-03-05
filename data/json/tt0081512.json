@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0081512",
+    "title": "The Medal",
+    "year": 1980,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 662,
+    "occurrences": [
+      [
+        179,
+        "00:24:12.368000",
+        "00:24:16.089000",
+        "to present the Medal of Honour, in the name of the Emperor,"
+      ],
+      [
+        183,
+        "00:24:26.173000",
+        "00:24:30.770000",
+        "The Signum Laudis medal is only for senior officers."
+      ],
+      [
+        468,
+        "00:58:05.107000",
+        "00:58:09.283000",
+        "I want to be like you. They gave you the Emperor's medal."
+      ],
+      [
+        585,
+        "01:16:36.759000",
+        "01:16:39.683000",
+        "What about his medal?"
+      ],
+      [
+        618,
+        "01:20:29.908000",
+        "01:20:33.879000",
+        "- Give me back my medal. - What do you care about that for?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMedal:)Medal)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

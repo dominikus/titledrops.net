@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0102116",
+    "title": "The Indian Runner",
+    "year": 1991,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 971,
+    "occurrences": [
+      [
+        43,
+        "01:11:02.438000",
+        "01:11:06.238000",
+        "Hey, Pop shouId have been an Indian Runner."
+      ],
+      [
+        70,
+        "01:13:06.762000",
+        "01:13:09.822000",
+        "I'm an Indian Runner. I'm a message."
+      ]
+    ],
+    "regex": "\\b((?!\\bIndian\\ Runner:)Indian\\ Runner)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

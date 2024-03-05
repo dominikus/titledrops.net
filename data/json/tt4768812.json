@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4768812",
+    "title": "Vajrakaya",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1656,
+    "occurrences": [
+      [
+        1234,
+        "01:45:56.684000",
+        "01:46:00.131000",
+        "...l'm Vajrakaya who has come to shake the mountain."
+      ],
+      [
+        1250,
+        "01:47:59.707000",
+        "01:48:03.052000",
+        "...is Vajrakaya, Huzur. Vajrakaya."
+      ]
+    ],
+    "regex": "\\b((?!\\bVajrakaya:)Vajrakaya)(?!\\:)(?!'t)\\b",
+    "runtime": 145,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

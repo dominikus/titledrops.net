@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1869721",
+    "title": "The Great Magician",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1448,
+    "occurrences": [
+      [
+        321,
+        "00:25:17.100000",
+        "00:25:20.351000",
+        "The great magician Cheung Yin, just back from overseas,"
+      ],
+      [
+        323,
+        "00:25:23.893000",
+        "00:25:25.227000",
+        "The great magician?"
+      ],
+      [
+        727,
+        "01:03:16.658000",
+        "01:03:18.657000",
+        "A great magician must be observant."
+      ]
+    ],
+    "regex": "\\b((?!\\bGreat\\ Magician:)Great\\ Magician)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

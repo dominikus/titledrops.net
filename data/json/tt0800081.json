@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0800081",
+    "title": "I Trust You to Kill Me",
+    "year": 2006,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1063,
+    "occurrences": [
+      [
+        831,
+        "01:06:11.400000",
+        "01:06:14.858000",
+        "It's \"I Trust You to Kill Me\""
+      ],
+      [
+        858,
+        "01:08:24.467000",
+        "01:08:27.493000",
+        "He put \"I Trust You to Kill Me\" on his arm,"
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Trust\\ You\\ to\\ Kill\\ Me:)I\\ Trust\\ You\\ to\\ Kill\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

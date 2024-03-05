@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0069393",
+    "title": "Tomorrow",
+    "year": 1972,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1008,
+    "occurrences": [
+      [
+        356,
+        "00:35:08.857000",
+        "00:35:11.652000",
+        "You can do it tomorrow."
+      ],
+      [
+        1006,
+        "01:41:18.907000",
+        "01:41:22.327000",
+        "tomorrow..."
+      ],
+      [
+        1007,
+        "01:41:22.535000",
+        "01:41:26.206000",
+        "and tomorrow..."
+      ],
+      [
+        1008,
+        "01:41:26.414000",
+        "01:41:28.541000",
+        "and tomorrow."
+      ]
+    ],
+    "regex": "\\b((?!\\bTomorrow:)Tomorrow)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

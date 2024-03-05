@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt23490586",
+    "title": "Amigos",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1428,
+    "occurrences": [
+      [
+        405,
+        "00:28:51.250000",
+        "00:28:54.083000",
+        "We are awesome amigos!"
+      ],
+      [
+        430,
+        "00:31:06.500000",
+        "00:31:11.500000",
+        "We are amigos"
+      ],
+      [
+        431,
+        "00:31:12.208000",
+        "00:31:17.083000",
+        "We are amigos"
+      ]
+    ],
+    "regex": "\\b((?!\\bAmigos:)Amigos)(?!\\:)(?!'t)\\b",
+    "runtime": 139,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

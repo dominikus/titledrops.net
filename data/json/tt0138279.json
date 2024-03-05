@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0138279",
+    "title": "The 24 Hour Woman",
+    "year": 1999,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1698,
+    "occurrences": [
+      [
+        55,
+        "00:03:07.187000",
+        "00:03:09.189000",
+        "HEY, YOU'RE ALREADY A 24 HOUR WOMAN, BABY."
+      ],
+      [
+        167,
+        "00:08:20.935000",
+        "00:08:22.414000",
+        "24 HOUR WOMAN."
+      ],
+      [
+        1041,
+        "00:53:11.971000",
+        "00:53:14.408000",
+        "ELLIOT. HI, GRACE SANTOS, 24 HOUR WOMAN."
+      ],
+      [
+        1622,
+        "01:23:39.492000",
+        "01:23:42.321000",
+        "FROM LAST WEEKS BIZARRE \"24 HOUR WOMAN\" INCIDENT."
+      ]
+    ],
+    "regex": "\\b((?!\\b24\\ Hour\\ Woman:)24\\ Hour\\ Woman)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0169614",
+    "title": "Miyamoto Musashi III: Birth of the Nito-ryu Style",
+    "year": 1963,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1074,
+    "occurrences": [
+      [
+        2,
+        "00:00:17.500000",
+        "00:00:25.200000",
+        "MIYAMOTO MUSASHI part-3"
+      ],
+      [
+        7,
+        "00:00:56.700000",
+        "00:01:00.600000",
+        "Miyamoto Musashi : Kanamura Kinnosuke"
+      ],
+      [
+        247,
+        "00:22:27.400000",
+        "00:22:31.500000",
+        "Excuse me. A Miyamoto Musashi has just arrived."
+      ],
+      [
+        258,
+        "00:24:42",
+        "00:24:44",
+        "I am Miyamoto Musashi."
+      ],
+      [
+        612,
+        "00:59:06.800000",
+        "00:59:11.200000",
+        "\"Signed, Miyamoto Musashi.\""
+      ],
+      [
+        714,
+        "01:07:56.700000",
+        "01:08:00.200000",
+        "He wanted to accompany a samurai Miyamoto Musashi."
+      ]
+    ],
+    "regex": "\\b((?!\\bMiyamoto\\ Musashi:)Miyamoto\\ Musashi|(?!\\bBirth\\ of\\ the\\ Nito\\-ryu\\ Style:)Birth\\ of\\ the\\ Nito\\-ryu\\ Style)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt12908508",
+    "title": "John Luther",
+    "year": 2022,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1509,
+    "occurrences": [
+      [
+        233,
+        "00:17:26.885000",
+        "00:17:29.525000",
+        "Circle Inspector John Luther has arrived!"
+      ],
+      [
+        851,
+        "01:04:39.429000",
+        "01:04:42.549000",
+        "Inspector John Luther investigating the case is presently off"
+      ],
+      [
+        1509,
+        "02:04:44.578000",
+        "02:04:46.731000",
+        "Circle Inspector, John Luther."
+      ]
+    ],
+    "regex": "\\b((?!\\bJohn\\ Luther:)John\\ Luther)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [
+      "John Luther"
+    ],
+    "title_is_name": true,
+    "rating": 6.9
+  }
+]

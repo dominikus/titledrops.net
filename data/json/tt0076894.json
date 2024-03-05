@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0076894",
+    "title": "The Suspended Vocation",
+    "year": 1978,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 981,
+    "occurrences": [
+      [
+        7,
+        "00:00:38.542000",
+        "00:00:40.977000",
+        "(Film Director) \"The Suspended Vocation\""
+      ],
+      [
+        29,
+        "00:02:02.927000",
+        "00:02:05.563000",
+        "Entitled \"The Suspended Vocation\","
+      ]
+    ],
+    "regex": "\\b((?!\\bSuspended\\ Vocation:)Suspended\\ Vocation)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

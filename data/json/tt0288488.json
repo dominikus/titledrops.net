@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0288488",
+    "title": "Cover Story",
+    "year": 2002,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1330,
+    "occurrences": [
+      [
+        47,
+        "00:03:51.030000",
+        "00:03:53.016000",
+        "would have to be connected to a killer cover story."
+      ],
+      [
+        106,
+        "00:07:15.180000",
+        "00:07:19.026000",
+        "Right. Our next cover story then."
+      ],
+      [
+        108,
+        "00:07:22.100000",
+        "00:07:23.156000",
+        "Our next cover story is the rich and handsome jc peck."
+      ],
+      [
+        1191,
+        "01:20:14.080000",
+        "01:20:15.120000",
+        "we've got our cover story."
+      ],
+      [
+        1234,
+        "01:24:28.250000",
+        "01:24:30.076000",
+        "I set up the whole cover story."
+      ],
+      [
+        1286,
+        "01:31:10.220000",
+        "01:31:13.200000",
+        "Not a bad cover story to exit on."
+      ]
+    ],
+    "regex": "\\b((?!\\bCover\\ Story:)Cover\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

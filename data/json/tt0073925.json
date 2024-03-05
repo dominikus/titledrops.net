@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0073925",
+    "title": "The Poor",
+    "year": 1975,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 430,
+    "occurrences": [
+      [
+        102,
+        "00:19:38.125000",
+        "00:19:43.167000",
+        "poor mum was expecting me back. l felt like crying."
+      ],
+      [
+        123,
+        "00:22:35.625000",
+        "00:22:40.208000",
+        "- what was your first offence? - being poor,abi.and having nobody."
+      ],
+      [
+        146,
+        "00:26:28.125000",
+        "00:26:34.833000",
+        "for one thing,l d started stealing. being alone,poor,homeless,abi..."
+      ]
+    ],
+    "regex": "\\b((?!\\bPoor:)Poor)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

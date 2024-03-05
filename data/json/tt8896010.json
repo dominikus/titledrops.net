@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt8896010",
+    "title": "The Terrible Adventure",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 2337,
+    "occurrences": [
+      [
+        189,
+        "00:08:32.325000",
+        "00:08:34.739000",
+        "On a terrible adventure from coast to coast"
+      ],
+      [
+        1369,
+        "00:51:58.220000",
+        "00:51:59.686000",
+        "A terrible adventure!"
+      ],
+      [
+        1705,
+        "01:06:43.880000",
+        "01:06:45.606000",
+        "Well, that was some terrible adventure"
+      ],
+      [
+        1707,
+        "01:06:48.100000",
+        "01:06:50.396000",
+        "Well, I could say it was a terrible adventure,"
+      ]
+    ],
+    "regex": "\\b((?!\\bTerrible\\ Adventure:)Terrible\\ Adventure)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

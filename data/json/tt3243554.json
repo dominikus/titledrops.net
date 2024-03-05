@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3243554",
+    "title": "Four Corners",
+    "year": 2013,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 183,
+    "occurrences": [
+      [
+        10,
+        "01:01:11.920000",
+        "01:01:13.560000",
+        "Welcome to Four Corners."
+      ],
+      [
+        180,
+        "01:43:21.120000",
+        "01:43:22.840000",
+        "Join us next week on Four Corners"
+      ]
+    ],
+    "regex": "\\b((?!\\bFour\\ Corners:)Four\\ Corners)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

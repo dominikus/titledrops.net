@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0179196",
+    "title": "Goodbye, 20th Century",
+    "year": 1998,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 523,
+    "occurrences": [
+      [
+        11,
+        "00:01:22.041000",
+        "00:01:30.174000",
+        "Goodbye, 20th Century!"
+      ],
+      [
+        522,
+        "01:20:21.484000",
+        "01:20:23.986000",
+        "Goodbye, 20th century!"
+      ]
+    ],
+    "regex": "\\b((?!\\bGoodbye,\\ 20th\\ Century:)Goodbye,\\ 20th\\ Century)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4100252",
+    "title": "The Tail Job",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1839,
+    "occurrences": [
+      [
+        205,
+        "00:11:52.454000",
+        "00:11:53.454000",
+        "Tail job."
+      ],
+      [
+        304,
+        "00:17:12.989000",
+        "00:17:14.043000",
+        "if I wasn't doing your tail job."
+      ]
+    ],
+    "regex": "\\b((?!\\bTail\\ Job:)Tail\\ Job)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

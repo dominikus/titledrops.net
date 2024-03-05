@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0375100",
+    "title": "Drowning Ghost",
+    "year": 2004,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 693,
+    "occurrences": [
+      [
+        27,
+        "00:06:12.520000",
+        "00:06:14.880000",
+        "Him. The Drowning Ghost."
+      ],
+      [
+        45,
+        "00:07:41.640000",
+        "00:07:45.400000",
+        "...that ordinary farmer became the Drowning Ghost?"
+      ],
+      [
+        187,
+        "00:19:39.880000",
+        "00:19:43.520000",
+        "-What? So he wasn't dead? -Oh yes. He was a Drowning Ghost."
+      ]
+    ],
+    "regex": "\\b((?!\\bDrowning\\ Ghost:)Drowning\\ Ghost)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

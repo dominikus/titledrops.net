@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0035479",
+    "title": "Twin Beds",
+    "year": 1942,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1231,
+    "occurrences": [
+      [
+        508,
+        "00:30:11.203000",
+        "00:30:14.200000",
+        "If you're going to act like that, we might as well have twin beds."
+      ],
+      [
+        509,
+        "00:30:15.601000",
+        "00:30:17.801000",
+        "You talk as if you'd like twin beds."
+      ],
+      [
+        512,
+        "00:30:22.704000",
+        "00:30:24.704000",
+        "I don't like twin beds."
+      ],
+      [
+        586,
+        "00:36:35.102000",
+        "00:36:37.402000",
+        "You said you wanted twin beds."
+      ],
+      [
+        1224,
+        "01:22:55.602000",
+        "01:22:59.602000",
+        "Oh, Mike, this never could have happened if it hadn't been for those awful twin beds."
+      ]
+    ],
+    "regex": "\\b((?!\\bTwin\\ Beds:)Twin\\ Beds)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

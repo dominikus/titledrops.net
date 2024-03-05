@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6069264",
+    "title": "Bitch",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1218,
+    "occurrences": [
+      [
+        218,
+        "00:19:01.640000",
+        "00:19:06.043000",
+        "You fuckin' bitch!"
+      ],
+      [
+        219,
+        "00:19:06.045000",
+        "00:19:10.047000",
+        "You goddamn selfish fuckin' crazy bitch! I knew it!"
+      ],
+      [
+        223,
+        "00:19:15.788000",
+        "00:19:18.589000",
+        "You fuckin' bitch, you bitch!"
+      ],
+      [
+        224,
+        "00:19:18.591000",
+        "00:19:20.758000",
+        "You bitch!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBitch:)Bitch)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

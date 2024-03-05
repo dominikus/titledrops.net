@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt3747978",
+    "title": "Holy Ghost",
+    "year": 2014,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 2160,
+    "occurrences": [
+      [
+        29,
+        "00:02:32.236000",
+        "00:02:36.656000",
+        "\"Holy Ghost\""
+      ],
+      [
+        88,
+        "00:06:07.868000",
+        "00:06:09.786000",
+        "Holy Ghost, I ask you to send Your power"
+      ],
+      [
+        310,
+        "00:17:12.115000",
+        "00:17:16.035000",
+        "And, Holy Ghost, I just give You permission to be God"
+      ],
+      [
+        2159,
+        "01:49:35.861000",
+        "01:49:40.156000",
+        "Holy Ghost Reborn"
+      ]
+    ],
+    "regex": "\\b((?!\\bHoly\\ Ghost:)Holy\\ Ghost)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

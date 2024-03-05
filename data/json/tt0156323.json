@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0156323",
+    "title": "Screwed",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1054,
+    "occurrences": [
+      [
+        647,
+        "00:48:32.967000",
+        "00:48:35.527000",
+        "l'm screwed!"
+      ],
+      [
+        844,
+        "01:00:51.927000",
+        "01:00:55.317000",
+        "Hey, wait a minute. l'm gonna get screwed on this deal."
+      ]
+    ],
+    "regex": "\\b((?!\\bScrewed:)Screwed)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

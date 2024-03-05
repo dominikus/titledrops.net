@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt3469440",
+    "title": "Z Storm",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 1219,
+    "occurrences": [
+      [
+        567,
+        "00:33:37.209000",
+        "00:33:38.376000",
+        "Z Storm."
+      ],
+      [
+        568,
+        "00:33:41.584000",
+        "00:33:44.126000",
+        "The code name for the operation will be Z Storm."
+      ],
+      [
+        763,
+        "00:47:03.001000",
+        "00:47:05.626000",
+        "The Commissioner is very concerned about Z Storm."
+      ]
+    ],
+    "regex": "\\b((?!\\bZ\\ Storm:)Z\\ Storm)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

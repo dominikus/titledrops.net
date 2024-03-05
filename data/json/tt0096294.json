@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0096294",
+    "title": "Track 29",
+    "year": 1988,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 855,
+    "occurrences": [
+      [
+        572,
+        "00:55:04.278000",
+        "00:55:08.720000",
+        "I see a picture of my little train coming down the track"
+      ],
+      [
+        580,
+        "00:55:59.526000",
+        "00:56:02.701000",
+        "Yes! Yes! Track 29!"
+      ]
+    ],
+    "regex": "\\b((?!\\bTrack:)Track)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

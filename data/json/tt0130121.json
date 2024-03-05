@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0130121",
+    "title": "Mickey Blue Eyes",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1434,
+    "occurrences": [
+      [
+        815,
+        "00:53:41.763000",
+        "00:53:45.312000",
+        "That's the original Little Big Mickey. This is Little Big Mickey Blue Eyes."
+      ],
+      [
+        971,
+        "01:03:27.043000",
+        "01:03:28.920000",
+        "Kansas City Little Big Mickey Blue Eyes."
+      ],
+      [
+        975,
+        "01:03:38.563000",
+        "01:03:41.919000",
+        "Mickey Blue Eyes. Why do they call you that?"
+      ],
+      [
+        1405,
+        "01:31:56.683000",
+        "01:31:59.322000",
+        "It's Kansas City Little Big Mickey Blue Eyes!"
+      ],
+      [
+        1412,
+        "01:32:16.643000",
+        "01:32:18.713000",
+        "-So who's Mickey Blue Eyes? -I am."
+      ]
+    ],
+    "regex": "\\b((?!\\bMickey\\ Blue\\ Eyes:)Mickey\\ Blue\\ Eyes)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

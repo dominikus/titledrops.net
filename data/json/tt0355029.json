@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0355029",
+    "title": "Wolfsburg",
+    "year": 2003,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 430,
+    "occurrences": [
+      [
+        91,
+        "00:15:35.858000",
+        "00:15:40.996000",
+        "Yesterday afternoon I have run down a child on the L322  between Wolfsburg and Norsteimke."
+      ],
+      [
+        102,
+        "00:16:34.592000",
+        "00:16:39.742000",
+        "on the L322 between Wolfsburg and Norsteimke."
+      ],
+      [
+        391,
+        "01:11:44.553000",
+        "01:11:49.543000",
+        "... At Audi in Wolfsburg and before that at BMW in Forchheim."
+      ]
+    ],
+    "regex": "\\b((?!\\bWolfsburg:)Wolfsburg)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

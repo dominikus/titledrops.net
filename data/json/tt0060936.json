@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0060936",
+    "title": "The Sandwich Man",
+    "year": 1966,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1794,
+    "occurrences": [
+      [
+        294,
+        "00:14:18.499000",
+        "00:14:21.517000",
+        "Do you wish to join our Sandwich Man's brotherhood?"
+      ],
+      [
+        306,
+        "00:14:52.999000",
+        "00:14:55.725000",
+        "If you'll take the advice of an elderly sandwich man,"
+      ]
+    ],
+    "regex": "\\b((?!\\bSandwich\\ Man:)Sandwich\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [
+      "The Sandwich Man"
+    ],
+    "title_is_name": true,
+    "rating": 5.5
+  }
+]

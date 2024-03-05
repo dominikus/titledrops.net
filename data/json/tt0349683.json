@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0349683",
+    "title": "King Arthur",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 123,
+    "occurrences": [
+      [
+        55,
+        "00:24:03.970000",
+        "00:24:09.966000",
+        "The origin of King Arthur is also portrayed"
+      ],
+      [
+        110,
+        "00:46:09.962000",
+        "00:46:15.958000",
+        "ln the traditional legend of King Arthur, Lancelot and Guinevere"
+      ],
+      [
+        112,
+        "00:46:45.931000",
+        "00:46:51.927000",
+        "King Arthur is supposedly buried at Glastonbury Abbey in Somerset."
+      ],
+      [
+        116,
+        "00:48:36.975000",
+        "00:48:42.914000",
+        "ln the traditional legend, King Arthur married Guinevere at Camelot,"
+      ],
+      [
+        121,
+        "00:50:37.829000",
+        "00:50:42.960000",
+        "King Arthur is sometimes called ''the once and future king''"
+      ]
+    ],
+    "regex": "\\b((?!\\bKing\\ Arthur:)King\\ Arthur)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

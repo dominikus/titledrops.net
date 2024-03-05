@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1804508",
+    "title": "Those Who Kill: Shadow of the Past",
+    "year": 2011,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 852,
+    "occurrences": [
+      [
+        4,
+        "00:03:00.480000",
+        "00:03:02.550000",
+        "THOSE WHO KILL"
+      ],
+      [
+        5,
+        "00:03:02.640000",
+        "00:03:04.915000",
+        "SHADOW OF THE PAST"
+      ]
+    ],
+    "regex": "\\b((?!\\bThose\\ Who\\ Kill:)Those\\ Who\\ Kill|(?!\\bShadow\\ of\\ the\\ Past:)Shadow\\ of\\ the\\ Past)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

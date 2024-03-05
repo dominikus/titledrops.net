@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt13409590",
+    "title": "Ghost Writer 2",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1785,
+    "occurrences": [
+      [
+        236,
+        "00:12:12.500000",
+        "00:12:14.291000",
+        "Like your previous work, Ghost Writer."
+      ],
+      [
+        287,
+        "00:14:57.625000",
+        "00:15:01.750000",
+        "But when we said that we're Darto and Billy from Ghost Writer,"
+      ],
+      [
+        733,
+        "00:44:20.458000",
+        "00:44:22.875000",
+        "You need a ghost writer, right? Let me do it."
+      ],
+      [
+        1436,
+        "01:24:12.208000",
+        "01:24:15.458000",
+        "the author of Ghost Writer, who you've all been waiting for."
+      ]
+    ],
+    "regex": "\\b((?!\\bGhost\\ Writer:)Ghost\\ Writer)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0380268",
+    "title": "Cocaine Cowboys",
+    "year": 2006,
+    "genres": [
+      "Crime",
+      "Documentary",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 3008,
+    "occurrences": [
+      [
+        0,
+        "00:01:20.380000",
+        "00:01:22.575000",
+        "They call them the Cocaine Cowboys."
+      ],
+      [
+        13,
+        "00:01:45.238000",
+        "00:01:47.900000",
+        "where they will attack now the Cocaine Cowboys."
+      ]
+    ],
+    "regex": "\\b((?!\\bCocaine\\ Cowboys:)Cocaine\\ Cowboys)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

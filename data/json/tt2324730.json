@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2324730",
+    "title": "Famous Five 2",
+    "year": 2013,
+    "genres": [
+      "Adventure",
+      "Crime",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 856,
+    "occurrences": [
+      [
+        837,
+        "01:22:05.880000",
+        "01:22:08.714000",
+        "They didn't reckon with the Famous Five!"
+      ],
+      [
+        852,
+        "01:23:49",
+        "01:23:55.031000",
+        "FAMOUS FIVE CAUSE SENSATION GREEN EYE RETURNED - PEOPLE SAVED"
+      ]
+    ],
+    "regex": "\\b((?!\\bFamous\\ Five:)Famous\\ Five)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

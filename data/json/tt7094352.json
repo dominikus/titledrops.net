@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt7094352",
+    "title": "The Russian Revolution",
+    "year": 2017,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 789,
+    "occurrences": [
+      [
+        0,
+        "00:00:05.533000",
+        "00:00:08.566000",
+        "It's been a century since the Russian Revolution"
+      ],
+      [
+        12,
+        "00:00:46.800000",
+        "00:00:49.166000",
+        " But at the heart of the Russian Revolution"
+      ],
+      [
+        785,
+        "00:46:14.400000",
+        "00:46:19.066000",
+        "The Russian Revolution of 1917 changed the world forever."
+      ]
+    ],
+    "regex": "\\b((?!\\bRussian\\ Revolution:)Russian\\ Revolution)(?!\\:)(?!'t)\\b",
+    "runtime": 47,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

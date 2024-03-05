@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1206572",
+    "title": "12 Lotus",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1244,
+    "occurrences": [
+      [
+        39,
+        "00:08:56.040000",
+        "00:08:58.190000",
+        "I want to sing \"12 Lotus\"."
+      ],
+      [
+        40,
+        "00:09:01.800000",
+        "00:09:03.870000",
+        "12 lotus is only sung by adults."
+      ],
+      [
+        1241,
+        "01:53:20.080000",
+        "01:53:21.752000",
+        "I want to sing the song \"12 Lotus\"."
+      ],
+      [
+        1242,
+        "01:53:22.320000",
+        "01:53:24.436000",
+        "12 Lotus is only sung by adults."
+      ]
+    ],
+    "regex": "\\b((?!\\b12\\ Lotus:)12\\ Lotus)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0095981",
+    "title": "The Rescue",
+    "year": 1988,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 645,
+    "occurrences": [
+      [
+        137,
+        "00:18:30.440000",
+        "00:18:32.749000",
+        "l think they're gonna try a rescue."
+      ],
+      [
+        173,
+        "00:22:02.840000",
+        "00:22:07.038000",
+        "I'd like Captain Miller to explain the planned rescue attempt"
+      ],
+      [
+        190,
+        "00:23:04.520000",
+        "00:23:08.308000",
+        "At this juncture, a rescue attempt is simply not justifiable."
+      ],
+      [
+        354,
+        "00:41:52.920000",
+        "00:41:55.070000",
+        "Why hasn't there been a rescue attempt?"
+      ],
+      [
+        488,
+        "00:57:47.920000",
+        "00:57:49.876000",
+        "We had planned to rescue them here."
+      ],
+      [
+        496,
+        "00:58:13.080000",
+        "00:58:17.710000",
+        "lmpossible. Without a special rescue force, there's no chance."
+      ]
+    ],
+    "regex": "\\b((?!\\bRescue:)Rescue)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

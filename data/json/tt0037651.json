@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0037651",
+    "title": "The Dolly Sisters",
+    "year": 1945,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Musical"
+    ],
+    "count": 5,
+    "all_lines": 637,
+    "occurrences": [
+      [
+        140,
+        "00:12:45.598000",
+        "00:12:48.089000",
+        "- Now- - Who are the Dolly Sisters anyway? I never heard of them!"
+      ],
+      [
+        204,
+        "00:18:57.968000",
+        "00:18:59.959000",
+        "- -  Dolly Sisters!"
+      ],
+      [
+        208,
+        "00:19:08.278000",
+        "00:19:11.247000",
+        "- You're the Dolly Sisters, ain't ya? - Well, yes, but-"
+      ],
+      [
+        339,
+        "00:29:30.166000",
+        "00:29:32.225000",
+        "The suite of the Dolly Sisters."
+      ],
+      [
+        392,
+        "00:33:42.315000",
+        "00:33:45.250000",
+        "Mr. Hammerstein, you dare to shake your head at the Dolly Sisters?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDolly\\ Sisters:)Dolly\\ Sisters)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

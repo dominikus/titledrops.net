@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0083686",
+    "title": "The Party 2",
+    "year": 1982,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1525,
+    "occurrences": [
+      [
+        810,
+        "00:54:10.141000",
+        "00:54:12.224000",
+        "There is a party at Cite."
+      ],
+      [
+        959,
+        "01:05:10.534000",
+        "01:05:12.618000",
+        "Having a party in a month."
+      ]
+    ],
+    "regex": "\\b((?!\\bParty:)Party)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

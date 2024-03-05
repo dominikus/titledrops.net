@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt11409750",
+    "title": "Camp Murder",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1011,
+    "occurrences": [
+      [
+        146,
+        "00:08:05.049000",
+        "00:08:08.749000",
+        "the story of Camp Murder."
+      ],
+      [
+        528,
+        "00:36:20.439000",
+        "00:36:24.225000",
+        "this camp's name to Camp Murder."
+      ]
+    ],
+    "regex": "\\b((?!\\bCamp\\ Murder:)Camp\\ Murder)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.9
+  }
+]

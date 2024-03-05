@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7968818",
+    "title": "Copa 181",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 532,
+    "occurrences": [
+      [
+        72,
+        "00:15:09.375000",
+        "00:15:11.207000",
+        "Copa 181, good afternoon."
+      ],
+      [
+        73,
+        "00:15:36.375000",
+        "00:15:38.207000",
+        "Copa 181, good afternoon."
+      ]
+    ],
+    "regex": "\\b((?!\\bCopa:)Copa)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

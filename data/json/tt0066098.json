@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0066098",
+    "title": "Death Occurred Last Night",
+    "year": 1970,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 718,
+    "occurrences": [
+      [
+        0,
+        "00:00:31.396000",
+        "00:00:35.391000",
+        "The Death Occurred Last Night"
+      ],
+      [
+        386,
+        "00:51:49.680000",
+        "00:51:56.577000",
+        "When? -The death occurred last night."
+      ]
+    ],
+    "regex": "\\b((?!\\bDeath\\ Occurred\\ Last\\ Night:)Death\\ Occurred\\ Last\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

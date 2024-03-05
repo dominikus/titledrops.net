@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2044009",
+    "title": "Swirl",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 483,
+    "occurrences": [
+      [
+        0,
+        "00:01:38.194000",
+        "00:01:45.901000",
+        "Swirl"
+      ],
+      [
+        473,
+        "01:23:53.635000",
+        "01:23:58.557000",
+        "It passed, made that swirl and dove"
+      ]
+    ],
+    "regex": "\\b((?!\\bSwirl:)Swirl)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

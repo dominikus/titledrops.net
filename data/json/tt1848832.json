@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1848832",
+    "title": "Crawl",
+    "year": 2011,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 556,
+    "occurrences": [
+      [
+        183,
+        "00:10:27.510000",
+        "00:10:31.510000",
+        "Three days, and you're itching to crawl back."
+      ],
+      [
+        489,
+        "00:50:31.680000",
+        "00:50:35.980000",
+        "On your knees, and give me the crawl."
+      ]
+    ],
+    "regex": "\\b((?!\\bCrawl:)Crawl)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

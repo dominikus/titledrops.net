@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt10032266",
+    "title": "Asia",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 580,
+    "occurrences": [
+      [
+        64,
+        "00:10:36.430000",
+        "00:10:37.829000",
+        "Asia..."
+      ],
+      [
+        152,
+        "00:21:36.932000",
+        "00:21:38.331000",
+        "Asia..."
+      ],
+      [
+        292,
+        "00:40:14.020000",
+        "00:40:16.899000",
+        "I'm sorry, Asia. If I reduce your workload,"
+      ],
+      [
+        362,
+        "00:46:03.850000",
+        "00:46:06.288000",
+        "- Spread your legs, please! - Asia..."
+      ]
+    ],
+    "regex": "\\b((?!\\bAsia:)Asia)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [
+      "Asia"
+    ],
+    "title_is_name": true,
+    "rating": 6.7
+  }
+]

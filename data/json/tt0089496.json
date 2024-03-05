@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0089496",
+    "title": "Little Treasure",
+    "year": 1985,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1631,
+    "occurrences": [
+      [
+        489,
+        "00:28:31.827000",
+        "00:28:33.310000",
+        "Daddy's little treasure, she was."
+      ],
+      [
+        574,
+        "00:32:20.172000",
+        "00:32:22.379000",
+        "It's waitin' for you, Little Treasure."
+      ],
+      [
+        689,
+        "00:39:03.344000",
+        "00:39:05.448000",
+        "You mean, like calling you his Little Treasure?"
+      ],
+      [
+        1100,
+        "00:59:51.758000",
+        "00:59:55.137000",
+        "He also called you his Little Treasure, Margo."
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Treasure:)Little\\ Treasure)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

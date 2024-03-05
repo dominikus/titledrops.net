@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt6057032",
+    "title": "Gook",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1583,
+    "occurrences": [
+      [
+        532,
+        "00:33:59.050000",
+        "00:34:00.267000",
+        "Oh, gook?"
+      ],
+      [
+        975,
+        "00:57:34.880000",
+        "00:57:37.112000",
+        "You know your sister been goin' down to them gook store"
+      ],
+      [
+        1069,
+        "01:01:22.393000",
+        "01:01:25.320000",
+        "They probably is them gook ass niggas, you know how them niggas do."
+      ]
+    ],
+    "regex": "\\b((?!\\bGook:)Gook)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

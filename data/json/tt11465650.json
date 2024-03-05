@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt11465650",
+    "title": "American Gospel: Christ Crucified",
+    "year": 2019,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 3601,
+    "occurrences": [
+      [
+        496,
+        "00:23:05.516000",
+        "00:23:07.919000",
+        "with the American Gospel today, is that we start"
+      ],
+      [
+        2034,
+        "01:37:28.240000",
+        "01:37:30.344000",
+        "One of the worst things about the American gospel today"
+      ]
+    ],
+    "regex": "\\b((?!\\bAmerican\\ Gospel:)American\\ Gospel|(?!\\bChrist\\ Crucified:)Christ\\ Crucified)(?!\\:)(?!'t)\\b",
+    "runtime": 176,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.8
+  }
+]

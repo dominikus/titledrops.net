@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt5428666",
+    "title": "FP2: Beats of Rage",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 1368,
+    "occurrences": [
+      [
+        264,
+        "00:17:33.177000",
+        "00:17:35.095000",
+        "Jtro: Beats of Rage."
+      ],
+      [
+        429,
+        "00:25:50.507000",
+        "00:25:54.177000",
+        "H1n1: Welcome to Beats of Rage at the Chromedome, yo."
+      ],
+      [
+        440,
+        "00:26:38.972000",
+        "00:26:41.349000",
+        "H1n1: First match of Beats of Rage, yo!"
+      ],
+      [
+        618,
+        "00:35:21.911000",
+        "00:35:24.831000",
+        "H1n1: Welcome back to the Beats of Rage!"
+      ],
+      [
+        785,
+        "00:44:45.724000",
+        "00:44:52.356000",
+        "H1n1: We are just minutes away from finding out who the next champ of Beats of Rage is, yo!"
+      ],
+      [
+        825,
+        "00:47:02.402000",
+        "00:47:07.199000",
+        "H1n1: AK-47 is the new champion of Beats of Rage, yo!"
+      ]
+    ],
+    "regex": "\\b((?!\\bFP2:)FP2|(?!\\bBeats\\ of\\ Rage:)Beats\\ of\\ Rage)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

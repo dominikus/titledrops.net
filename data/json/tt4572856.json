@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt4572856",
+    "title": "Let's Get Married",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1598,
+    "occurrences": [
+      [
+        0,
+        "00:01:48.775000",
+        "00:01:51.117000",
+        "Let's get married."
+      ],
+      [
+        889,
+        "00:53:19.942000",
+        "00:53:22.883000",
+        "Let's get married."
+      ],
+      [
+        1447,
+        "01:45:00.942000",
+        "01:45:03.842000",
+        "Let's get married"
+      ],
+      [
+        1481,
+        "01:48:33.933000",
+        "01:48:35.925000",
+        "Let's get married."
+      ],
+      [
+        1553,
+        "01:54:34.142000",
+        "01:54:36.300000",
+        "let's get married."
+      ]
+    ],
+    "regex": "\\b((?!\\bLet's\\ Get\\ Married:)Let's\\ Get\\ Married)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

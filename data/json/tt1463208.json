@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1463208",
+    "title": "Tiger Team: The Mountain of the 1000 Dragons",
+    "year": 2010,
+    "genres": [
+      "Adventure",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 607,
+    "occurrences": [
+      [
+        145,
+        "00:16:28.340000",
+        "00:16:32.675000",
+        "The key can open the Mountain of the 1000 Dragons."
+      ],
+      [
+        599,
+        "01:19:04.954000",
+        "01:19:07.894000",
+        "Thanks to the Tiger Team we now know,"
+      ]
+    ],
+    "regex": "\\b((?!\\bTiger\\ Team:)Tiger\\ Team|(?!\\bMountain\\ of\\ the\\ 1000\\ Dragons:)Mountain\\ of\\ the\\ 1000\\ Dragons)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

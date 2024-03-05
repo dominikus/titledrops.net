@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt17321230",
+    "title": "Prom Pact",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1696,
+    "occurrences": [
+      [
+        9,
+        "00:00:32.198000",
+        "00:00:33.199000",
+        "Prom PACT"
+      ],
+      [
+        305,
+        "00:15:13.913000",
+        "00:15:15.623000",
+        "and agree to this prom pact?"
+      ]
+    ],
+    "regex": "\\b((?!\\bProm\\ Pact:)Prom\\ Pact)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

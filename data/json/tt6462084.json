@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt6462084",
+    "title": "Evil Bong 666",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 961,
+    "occurrences": [
+      [
+        146,
+        "00:09:43.215000",
+        "00:09:44.650000",
+        "- The evil bong?"
+      ],
+      [
+        526,
+        "00:33:28.206000",
+        "00:33:31.476000",
+        "- Wait a minute, you mean the Evil Bong?"
+      ]
+    ],
+    "regex": "\\b((?!\\bEvil\\ Bong:)Evil\\ Bong)(?!\\:)(?!'t)\\b",
+    "runtime": 65,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

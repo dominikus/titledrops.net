@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1441368",
+    "title": "The Exchange",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 465,
+    "occurrences": [
+      [
+        0,
+        "00:00:13.080000",
+        "00:00:19.076000",
+        "The Exchange"
+      ],
+      [
+        401,
+        "01:12:56.960000",
+        "01:12:58.678000",
+        "and the saleswoman refused to exchange it"
+      ]
+    ],
+    "regex": "\\b((?!\\bExchange:)Exchange)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

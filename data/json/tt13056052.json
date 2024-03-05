@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt13056052",
+    "title": "Broker",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1488,
+    "occurrences": [
+      [
+        332,
+        "00:30:28.331000",
+        "00:30:32.628000",
+        "If you take money, you're a professional broker, no?"
+      ],
+      [
+        1423,
+        "01:56:33.789000",
+        "01:56:35.165000",
+        "You're just a damn broker."
+      ]
+    ],
+    "regex": "\\b((?!\\bBroker:)Broker)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

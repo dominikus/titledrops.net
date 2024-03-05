@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0105531",
+    "title": "Tango Argentino",
+    "year": 1992,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 765,
+    "occurrences": [
+      [
+        205,
+        "00:18:36.120000",
+        "00:18:40.272000",
+        "The tango Argentino."
+      ],
+      [
+        208,
+        "00:18:48.360000",
+        "00:18:52.069000",
+        "Tango Argentino -"
+      ]
+    ],
+    "regex": "\\b((?!\\bTango\\ Argentino:)Tango\\ Argentino)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

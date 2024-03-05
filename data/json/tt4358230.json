@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt4358230",
+    "title": "Body",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 593,
+    "occurrences": [
+      [
+        36,
+        "00:09:45.880000",
+        "00:09:48.520000",
+        "And now locate the scream inside your body."
+      ],
+      [
+        331,
+        "00:42:26.720000",
+        "00:42:28.631000",
+        "his body didn't grow stiff,"
+      ],
+      [
+        334,
+        "00:42:34.320000",
+        "00:42:38.820000",
+        "the outline of his body was visible long after he died."
+      ],
+      [
+        384,
+        "00:48:45.040000",
+        "00:48:47.998000",
+        "I lie there staring at your body,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBody:)Body)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "imdb": "tt0307538",
+    "title": "Swing",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 5,
+    "all_lines": 706,
+    "occurrences": [
+      [
+        1,
+        "00:02:31",
+        "00:02:33.040000",
+        "I'm looking for Swing."
+      ],
+      [
+        27,
+        "00:06:40",
+        "00:06:43.080000",
+        "Swing told me that you teach playing guitar"
+      ],
+      [
+        81,
+        "00:10:10",
+        "00:10:13.080000",
+        "Come and take a look, Swing."
+      ],
+      [
+        338,
+        "00:37:01",
+        "00:37:03.040000",
+        "Swing, wait for me."
+      ],
+      [
+        390,
+        "00:41:53",
+        "00:41:55.040000",
+        "Swing, come here"
+      ]
+    ],
+    "regex": "\\b((?!\\bSwing:)Swing)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [
+      "Swing"
+    ],
+    "title_is_name": true,
+    "rating": 7.2
+  }
+]

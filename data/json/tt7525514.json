@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt7525514",
+    "title": "Bad Reputation",
+    "year": 2018,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 2037,
+    "occurrences": [
+      [
+        20,
+        "00:00:57.820000",
+        "00:01:00.316000",
+        "An' I'm never gonna care 'bout my bad reputation"
+      ],
+      [
+        1015,
+        "00:42:45.016000",
+        "00:42:47.926000",
+        "which he renamed Bad Reputation."
+      ],
+      [
+        1132,
+        "00:47:45.368000",
+        "00:47:47.350000",
+        "Just a victim Of bad reputation"
+      ],
+      [
+        1985,
+        "01:25:47.734000",
+        "01:25:50.708000",
+        "And I don't give a damn 'Bout my bad reputation"
+      ]
+    ],
+    "regex": "\\b((?!\\bBad\\ Reputation:)Bad\\ Reputation)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

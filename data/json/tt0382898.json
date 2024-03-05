@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0382898",
+    "title": "The Basque Ball: Skin Against Stone",
+    "year": 2003,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1569,
+    "occurrences": [
+      [
+        0,
+        "00:00:25.607000",
+        "00:00:28.075000",
+        "THE BASQUE BALL"
+      ],
+      [
+        1,
+        "00:00:28.247000",
+        "00:00:30.397000",
+        "SKIN AGAINST STONE"
+      ]
+    ],
+    "regex": "\\b((?!\\bBasque\\ Ball:)Basque\\ Ball|(?!\\bSkin\\ Against\\ Stone:)Skin\\ Against\\ Stone)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

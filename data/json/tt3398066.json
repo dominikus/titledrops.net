@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3398066",
+    "title": "Christian Mingle",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1978,
+    "occurrences": [
+      [
+        111,
+        "00:05:52.886000",
+        "00:05:54.820000",
+        "From our family at Christian Mingle, we'd"
+      ],
+      [
+        116,
+        "00:06:00.828000",
+        "00:06:04.096000",
+        "Joining Christian Mingle."
+      ],
+      [
+        1331,
+        "01:03:45.489000",
+        "01:03:49.324000",
+        "When you went online, Christian Mingle."
+      ]
+    ],
+    "regex": "\\b((?!\\bChristian\\ Mingle:)Christian\\ Mingle)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

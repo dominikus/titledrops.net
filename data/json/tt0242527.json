@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0242527",
+    "title": "The Hole",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1141,
+    "occurrences": [
+      [
+        281,
+        "00:21:51.527000",
+        "00:21:55.440000",
+        "It's great stuff. It's got this hole down the middle so it cooks quickly."
+      ],
+      [
+        629,
+        "00:46:20.487000",
+        "00:46:24.196000",
+        "- I thank you. - What time did you lock them in the hole?"
+      ],
+      [
+        859,
+        "01:05:06.687000",
+        "01:05:09.076000",
+        "I want to go back to the hole."
+      ],
+      [
+        869,
+        "01:05:55.327000",
+        "01:05:57.921000",
+        "I need to go back to the hole."
+      ]
+    ],
+    "regex": "\\b((?!\\bHole:)Hole)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

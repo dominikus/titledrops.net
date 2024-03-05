@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt8068768",
+    "title": "Up There",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2107,
+    "occurrences": [
+      [
+        208,
+        "00:09:43.548000",
+        "00:09:46.381000",
+        "What ya doing up there Mr. Giggles?"
+      ],
+      [
+        1227,
+        "00:51:06.194000",
+        "00:51:08.698000",
+        "How did you even get up there?"
+      ]
+    ],
+    "regex": "\\b((?!\\bUp\\ There:)Up\\ There)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt11015214",
+    "title": "Class Action Park",
+    "year": 2020,
+    "genres": [
+      "Crime",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 2106,
+    "occurrences": [
+      [
+        29,
+        "00:01:38.020000",
+        "00:01:40.006000",
+        "- Class Action Park."
+      ],
+      [
+        30,
+        "00:01:40.008000",
+        "00:01:42.004000",
+        "- Class Action Park, the lawyers called it."
+      ]
+    ],
+    "regex": "\\b((?!\\bClass\\ Action\\ Park:)Class\\ Action\\ Park)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

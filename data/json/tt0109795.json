@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0109795",
+    "title": "The Fence",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1581,
+    "occurrences": [
+      [
+        237,
+        "00:10:39.180000",
+        "00:10:41.097000",
+        "(inmates chattering) (fence rattles)"
+      ],
+      [
+        774,
+        "00:37:16.609000",
+        "00:37:18.694000",
+        "Just depends what side of the fence you're on."
+      ],
+      [
+        829,
+        "00:40:03.192000",
+        "00:40:04.609000",
+        "You think I don't know about that fence"
+      ],
+      [
+        1278,
+        "01:06:12.635000",
+        "01:06:15.553000",
+        "Any fence in the city will give us 50 cents on the dollar."
+      ]
+    ],
+    "regex": "\\b((?!\\bFence:)Fence)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

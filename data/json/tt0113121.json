@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0113121",
+    "title": "Friendship's Field",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 5,
+    "all_lines": 982,
+    "occurrences": [
+      [
+        958,
+        "01:20:59.700000",
+        "01:21:03.380000",
+        "# In friendship's field #"
+      ],
+      [
+        962,
+        "01:21:23.470000",
+        "01:21:26.590000",
+        "# to friendship's field. #"
+      ],
+      [
+        972,
+        "01:22:20.940000",
+        "01:22:28.800000",
+        "# In friendship's field we'll meet each other. #"
+      ],
+      [
+        975,
+        "01:22:44",
+        "01:22:47.690000",
+        "# In friendship's field #"
+      ],
+      [
+        979,
+        "01:23:08.080000",
+        "01:23:11.970000",
+        "# in friendship's field. #"
+      ]
+    ],
+    "regex": "\\b((?!\\bFriendship's\\ Field:)Friendship's\\ Field)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

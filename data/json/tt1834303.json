@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1834303",
+    "title": "Tenchi: The Samurai Astronomer",
+    "year": 2012,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1462,
+    "occurrences": [
+      [
+        6,
+        "00:01:36.996000",
+        "00:01:45.882000",
+        "TENCHI: The Samurai Astronomer"
+      ],
+      [
+        1461,
+        "02:21:06.791000",
+        "02:21:12.833000",
+        "This film is based on Tow Ubukata's \"Tenchi Meisatsu\" Some scenes have been fictionalized for the film"
+      ]
+    ],
+    "regex": "\\b((?!\\bTenchi:)Tenchi|(?!\\bSamurai\\ Astronomer:)Samurai\\ Astronomer)(?!\\:)(?!'t)\\b",
+    "runtime": 141,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

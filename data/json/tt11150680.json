@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt11150680",
+    "title": "The Pit",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 956,
+    "occurrences": [
+      [
+        3,
+        "00:02:16.560000",
+        "00:02:20.680000",
+        "PIT"
+      ],
+      [
+        75,
+        "00:09:57.400000",
+        "00:09:59.240000",
+        "- Emily? - There, in that pit."
+      ],
+      [
+        76,
+        "00:09:59.320000",
+        "00:10:02.320000",
+        "- What pit? - God, does it really matter?"
+      ],
+      [
+        79,
+        "00:10:09.960000",
+        "00:10:12.280000",
+        "The dog found her Emily in a pit?"
+      ],
+      [
+        194,
+        "00:18:06.920000",
+        "00:18:10.400000",
+        "You were brave when you pushed her my sister in that pit, right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPit:)Pit)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

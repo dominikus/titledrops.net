@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0119416",
+    "title": "Johnny Skidmarks",
+    "year": 1998,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1311,
+    "occurrences": [
+      [
+        102,
+        "00:06:20.046000",
+        "00:06:22.836000",
+        "Johnny Skidmarks."
+      ],
+      [
+        726,
+        "00:48:18.854000",
+        "00:48:21.022000",
+        "Well, he's no Johnny Skidmarks."
+      ]
+    ],
+    "regex": "\\b((?!\\bJohnny\\ Skidmarks:)Johnny\\ Skidmarks)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1296077",
+    "title": "Sennentuntschi: Curse of the Alps",
+    "year": 2010,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 449,
+    "occurrences": [
+      [
+        313,
+        "00:39:40.881000",
+        "00:39:42.758000",
+        "You need a Sennentuntschi."
+      ],
+      [
+        315,
+        "00:39:45.326000",
+        "00:39:47.044000",
+        "A Sennentuntschi."
+      ],
+      [
+        347,
+        "00:43:32.712000",
+        "00:43:34.965000",
+        "Thats the Sennentuntschi."
+      ],
+      [
+        412,
+        "00:50:42.541000",
+        "00:50:43.758000",
+        "Shes the Sennentuntschi."
+      ]
+    ],
+    "regex": "\\b((?!\\bSennentuntschi:)Sennentuntschi|(?!\\bCurse\\ of\\ the\\ Alps:)Curse\\ of\\ the\\ Alps)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

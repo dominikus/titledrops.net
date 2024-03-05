@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0128591",
+    "title": "Operation Splitsville",
+    "year": 1998,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1767,
+    "occurrences": [
+      [
+        1168,
+        "00:55:43.688000",
+        "00:55:48.388000",
+        "Prepare to launch Operation Splitsville."
+      ],
+      [
+        1240,
+        "00:59:12.679000",
+        "00:59:16.465000",
+        "OK, status report on Operation Splitsville."
+      ],
+      [
+        1247,
+        "00:59:32.394000",
+        "00:59:35.833000",
+        "Operation Splitsville."
+      ]
+    ],
+    "regex": "\\b((?!\\bOperation\\ Splitsville:)Operation\\ Splitsville)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

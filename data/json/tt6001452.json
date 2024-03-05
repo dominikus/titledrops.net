@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt6001452",
+    "title": "The Cormorants",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 273,
+    "occurrences": [
+      [
+        2,
+        "00:04:37.520000",
+        "00:04:46.360000",
+        "The Cormorants"
+      ],
+      [
+        249,
+        "01:13:31.014000",
+        "01:13:33.699000",
+        "Look, Matteo: there are two cormorants."
+      ]
+    ],
+    "regex": "\\b((?!\\bCormorants:)Cormorants)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0108168",
+    "title": "Pretty Boy",
+    "year": 1993,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 550,
+    "occurrences": [
+      [
+        99,
+        "00:11:29.038000",
+        "00:11:33.522000",
+        "Everything has its price, pretty boy. Stick to it."
+      ],
+      [
+        308,
+        "00:37:08.059000",
+        "00:37:09.951000",
+        "Get dressed, pretty boy!"
+      ]
+    ],
+    "regex": "\\b((?!\\bPretty\\ Boy:)Pretty\\ Boy)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

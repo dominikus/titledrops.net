@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt27680530",
+    "title": "The Lost Century: And How to Reclaim It",
+    "year": 2023,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 2187,
+    "occurrences": [
+      [
+        82,
+        "00:03:58.134000",
+        "00:04:00.999000",
+        "What is this lost century?"
+      ],
+      [
+        83,
+        "00:04:00.999000",
+        "00:04:05.037000",
+        "This lost century is literally 100 years,"
+      ],
+      [
+        623,
+        "00:28:58.184000",
+        "00:29:01.187000",
+        "So when I say 100 years, lost century, no."
+      ],
+      [
+        1645,
+        "01:16:32.864000",
+        "01:16:35.349000",
+        "When I say a lost century, it really is."
+      ],
+      [
+        2158,
+        "01:44:10.485000",
+        "01:44:13.626000",
+        "we can reclaim our lost century."
+      ]
+    ],
+    "regex": "\\b((?!\\bLost\\ Century:)Lost\\ Century|(?!\\bAnd\\ How\\ to\\ Reclaim\\ It:)And\\ How\\ to\\ Reclaim\\ It)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

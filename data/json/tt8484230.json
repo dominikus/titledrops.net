@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt8484230",
+    "title": "King Skate",
+    "year": 2018,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 622,
+    "occurrences": [
+      [
+        145,
+        "00:16:11.680000",
+        "00:16:15.800000",
+        "That was actually King Skate, the whole thing was made of doors"
+      ],
+      [
+        187,
+        "00:21:29.600000",
+        "00:21:31.600000",
+        "and wrote \"King Skate\" there."
+      ],
+      [
+        188,
+        "00:21:31.680000",
+        "00:21:36.320000",
+        "Whoever got all four wheels above the line was called King Skate."
+      ]
+    ],
+    "regex": "\\b((?!\\bKing\\ Skate:)King\\ Skate)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

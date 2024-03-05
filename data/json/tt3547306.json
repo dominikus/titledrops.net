@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3547306",
+    "title": "Cut Throat City",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2050,
+    "occurrences": [
+      [
+        325,
+        "00:16:24.158000",
+        "00:16:27.991000",
+        "Who do you want to see coming to Cut Throat City, James?"
+      ],
+      [
+        1883,
+        "01:50:12.192000",
+        "01:50:14.459000",
+        "coming to Cut Throat City, James?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCut\\ Throat\\ City:)Cut\\ Throat\\ City)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

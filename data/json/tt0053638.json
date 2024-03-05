@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0053638",
+    "title": "The Battle of Austerlitz",
+    "year": 1960,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 2214,
+    "occurrences": [
+      [
+        2204,
+        "02:49:26.550000",
+        "02:49:29.050000",
+        "On the day of the battle of Austerlitz,"
+      ],
+      [
+        2210,
+        "02:49:45.758000",
+        "02:49:48.550000",
+        "you were at the Battle of Austerlitz,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBattle\\ of\\ Austerlitz:)Battle\\ of\\ Austerlitz)(?!\\:)(?!'t)\\b",
+    "runtime": 171,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

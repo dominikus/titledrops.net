@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0066279",
+    "title": "The Railway Children",
+    "year": 1970,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1299,
+    "occurrences": [
+      [
+        2,
+        "00:02:37.333000",
+        "00:02:39.874000",
+        "(Bobbie)'We were not the Railway Children to begin with."
+      ],
+      [
+        694,
+        "01:01:03.708000",
+        "01:01:05.165000",
+        "or perhaps the Railway Children."
+      ],
+      [
+        1242,
+        "01:40:40.541000",
+        "01:40:43.665000",
+        "(Bobbie)'We seemed to be hardly Railway Children at all in those days"
+      ]
+    ],
+    "regex": "\\b((?!\\bRailway\\ Children:)Railway\\ Children)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

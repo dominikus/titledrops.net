@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0466893",
+    "title": "Margaret",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 3580,
+    "occurrences": [
+      [
+        1897,
+        "01:38:47.322000",
+        "01:38:49.724000",
+        "\"Margaret, are you grieving"
+      ],
+      [
+        1915,
+        "01:39:35.870000",
+        "01:39:39.641000",
+        "It is Margaret you mourn for.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bMargaret:)Margaret)(?!\\:)(?!'t)\\b",
+    "runtime": 186,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

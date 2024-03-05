@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2328490",
+    "title": "The Formula",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 846,
+    "occurrences": [
+      [
+        309,
+        "00:32:04.340000",
+        "00:32:08.505000",
+        "We do not use math formula to pick up women,"
+      ],
+      [
+        562,
+        "01:00:00.684000",
+        "01:00:03.554000",
+        "What happened to you on? - The formula contains an error,"
+      ],
+      [
+        580,
+        "01:01:23.224000",
+        "01:01:29.512000",
+        "We have a formula which proves that,"
+      ],
+      [
+        584,
+        "01:01:48.583000",
+        "01:01:52.829000",
+        "Every important detail in this formula,"
+      ]
+    ],
+    "regex": "\\b((?!\\bFormula:)Formula)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.6
+  }
+]

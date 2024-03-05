@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3474602",
+    "title": "Little Forest: Winter/Spring",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1020,
+    "occurrences": [
+      [
+        0,
+        "00:00:01.910000",
+        "00:00:12.800000",
+        "\"Little Forest\" is divided into 4 parts - Summer, Autumn, Winter and Spring. After the end credits of \"Winter\", \"Spring\" follows. Please enjoy the continuity of the movies."
+      ],
+      [
+        14,
+        "00:02:15.380000",
+        "00:02:21.090000",
+        "Komori (Little Forest) is a small settlement in a village somewhere in the Tohoku region."
+      ],
+      [
+        585,
+        "01:03:35.640000",
+        "01:03:41.210000",
+        "Komori (Little Forest) is a small settlement in a village somewhere in the Tohoku region."
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Forest:)Little\\ Forest|(?!\\bWinter/Spring:)Winter/Spring)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

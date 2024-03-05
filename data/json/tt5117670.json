@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt5117670",
+    "title": "Peter Rabbit",
+    "year": 2018,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1902,
+    "occurrences": [
+      [
+        14,
+        "00:01:16.807000",
+        "00:01:20.638000",
+        "No. We're here for Peter Rabbit."
+      ],
+      [
+        1886,
+        "01:26:09.070000",
+        "01:26:12.767000",
+        "I'm calling it, \"The Tale of Peter Rabbit.\""
+      ],
+      [
+        1892,
+        "01:26:23.703000",
+        "01:26:26.071000",
+        "\"Peter Rabbit.\" (CHUCKLES)"
+      ]
+    ],
+    "regex": "\\b((?!\\bPeter\\ Rabbit:)Peter\\ Rabbit)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [
+      "Peter Rabbit"
+    ],
+    "title_is_name": true,
+    "rating": 6.6
+  }
+]

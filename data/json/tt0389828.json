@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0389828",
+    "title": "C.S.A.: The Confederate States of America",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1312,
+    "occurrences": [
+      [
+        190,
+        "00:15:23.006000",
+        "00:15:26.927000",
+        "{y:i}It becomes {y:i}the Confederate States of America."
+      ],
+      [
+        1023,
+        "01:07:58.078000",
+        "01:08:02.791000",
+        "and that the best years of the Confederate States of America"
+      ],
+      [
+        1268,
+        "01:22:47.718000",
+        "01:22:53.015000",
+        "to the flag of the Confederate States of America,"
+      ]
+    ],
+    "regex": "\\b((?!\\bC\\.S\\.A\\.:)C\\.S\\.A\\.|(?!\\bConfederate\\ States\\ of\\ America:)Confederate\\ States\\ of\\ America)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

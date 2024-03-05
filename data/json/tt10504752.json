@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt10504752",
+    "title": "Janamaithri",
+    "year": 2019,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 2273,
+    "occurrences": [
+      [
+        66,
+        "00:04:02.387000",
+        "00:04:04.597000",
+        "Chetta, the title is 'Janamaithri'. (Public Friendly)"
+      ],
+      [
+        274,
+        "00:15:28.597000",
+        "00:15:31.347000",
+        "He said something about 'Janamaithri' (Public-Friendly)."
+      ],
+      [
+        356,
+        "00:19:33.977000",
+        "00:19:37.347000",
+        "we have decided to celebrate one day as 'Janamaithri' (Public friendly) day."
+      ],
+      [
+        519,
+        "00:30:28.557000",
+        "00:30:31.977000",
+        "Sir, this is Janamaithri Day. It's a scheme by the Central Government."
+      ],
+      [
+        627,
+        "00:35:05.977000",
+        "00:35:08.847000",
+        "As part of Central Government's Janamaithri Day,"
+      ]
+    ],
+    "regex": "\\b((?!\\bJanamaithri:)Janamaithri)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

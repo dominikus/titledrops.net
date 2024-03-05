@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt11258824",
+    "title": "Conference",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1264,
+    "occurrences": [
+      [
+        26,
+        "00:11:07.968000",
+        "00:11:11.638000",
+        "\"conference\", \"theatre play\"."
+      ],
+      [
+        29,
+        "00:11:18.679000",
+        "00:11:22.015000",
+        "No, you have to put it down as a conference."
+      ]
+    ],
+    "regex": "\\b((?!\\bConference:)Conference)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

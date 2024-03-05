@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt28251351",
+    "title": "Picture Me Dead",
+    "year": 2023,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1532,
+    "occurrences": [
+      [
+        6,
+        "00:00:28.820000",
+        "00:00:31.197000",
+        "Couldn't picture me dead living the fast life"
+      ],
+      [
+        1503,
+        "01:30:59.751000",
+        "01:31:01.836000",
+        "Couldn't picture me dead, living the fast life"
+      ]
+    ],
+    "regex": "\\b((?!\\bPicture\\ Me\\ Dead:)Picture\\ Me\\ Dead)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0062113",
+    "title": "Peppermint Frappé",
+    "year": 1967,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 789,
+    "occurrences": [
+      [
+        49,
+        "00:08:47.167000",
+        "00:08:48.600000",
+        "Peppermint frappe!"
+      ],
+      [
+        720,
+        "01:16:15.087000",
+        "01:16:17.840000",
+        "- Pour me a whisky. - First a Peppermint Frappe."
+      ]
+    ],
+    "regex": "\\b((?!\\bPeppermint\\ Frappe:)Peppermint\\ Frappe)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt15331462",
+    "title": "Planet Dune",
+    "year": 2021,
+    "genres": [
+      "Adventure",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1377,
+    "occurrences": [
+      [
+        211,
+        "00:13:08.986000",
+        "00:13:10.389000",
+        "Planet Dune?"
+      ],
+      [
+        381,
+        "00:22:44.161000",
+        "00:22:46.763000",
+        "Beginning descent to Planet Dune,"
+      ],
+      [
+        1336,
+        "01:21:43.730000",
+        "01:21:45.599000",
+        "We are clear of Planet Dune,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPlanet\\ Dune:)Planet\\ Dune)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.4
+  }
+]

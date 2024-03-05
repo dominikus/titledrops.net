@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0058450",
+    "title": "The Umbrellas of Cherbourg",
+    "year": 1964,
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1000,
+    "occurrences": [
+      [
+        0,
+        "00:02:00.078000",
+        "00:02:04.913000",
+        "\"The Umbrellas of Cherbourg\""
+      ],
+      [
+        287,
+        "00:24:34.306000",
+        "00:24:37.639000",
+        "the Umbrellas of Cherbourg?"
+      ]
+    ],
+    "regex": "\\b((?!\\bUmbrellas\\ of\\ Cherbourg:)Umbrellas\\ of\\ Cherbourg)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

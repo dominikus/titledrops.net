@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt8571578",
+    "title": "Blue Summer",
+    "year": 2018,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1160,
+    "occurrences": [
+      [
+        75,
+        "00:06:49.280000",
+        "00:06:51.400000",
+        "It was the start of the blue summer!"
+      ],
+      [
+        1042,
+        "01:34:04.710000",
+        "01:34:06.900000",
+        "And our blue summer was over."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Summer:)Blue\\ Summer)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

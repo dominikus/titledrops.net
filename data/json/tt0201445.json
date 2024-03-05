@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0201445",
+    "title": "Badou Boy",
+    "year": 1970,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 247,
+    "occurrences": [
+      [
+        22,
+        "00:06:40.959000",
+        "00:06:44.399000",
+        "Yes, commissioner. l believe so. The one and only Badou Boy."
+      ],
+      [
+        231,
+        "00:50:46.199000",
+        "00:50:48.969000",
+        "for Badou Boy's capture."
+      ],
+      [
+        235,
+        "00:50:57.480000",
+        "00:51:00.250000",
+        "l'm not a snitch. l can't sell out Badou Boy,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBadou\\ Boy:)Badou\\ Boy)(?!\\:)(?!'t)\\b",
+    "runtime": 56,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

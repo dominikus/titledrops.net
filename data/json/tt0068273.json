@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0068273",
+    "title": "The Big Bird Cage",
+    "year": 1972,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1554,
+    "occurrences": [
+      [
+        343,
+        "00:20:35.267000",
+        "00:20:37.300000",
+        "What is this big bird cage?"
+      ],
+      [
+        354,
+        "00:21:02.900000",
+        "00:21:07.967000",
+        "That's because people get hurt sometimes in the big bird cage,"
+      ],
+      [
+        1298,
+        "01:19:48.500000",
+        "01:19:51.567000",
+        "Used to work on the big bird cage."
+      ]
+    ],
+    "regex": "\\b((?!\\bBig\\ Bird\\ Cage:)Big\\ Bird\\ Cage)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt2131532",
+    "title": "Hidden",
+    "year": 2015,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1004,
+    "occurrences": [
+      [
+        350,
+        "00:22:29.709000",
+        "00:22:32.212000",
+        "Sometimes the truth's hidden from us."
+      ],
+      [
+        352,
+        "00:22:48.980000",
+        "00:22:51.215000",
+        "They're just hidden like us?"
+      ],
+      [
+        509,
+        "00:32:23.400000",
+        "00:32:26.470000",
+        "We're still hidden. I checked, remember?"
+      ],
+      [
+        517,
+        "00:33:16.497000",
+        "00:33:19.201000",
+        "We're not hidden anymore..."
+      ],
+      [
+        909,
+        "01:07:40.786000",
+        "01:07:42.521000",
+        "Sometimes the truth's hidden from us."
+      ]
+    ],
+    "regex": "\\b((?!\\bHidden:)Hidden)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

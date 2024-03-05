@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0087182",
+    "title": "Dune",
+    "year": 1984,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1260,
+    "occurrences": [
+      [
+        25,
+        "00:02:24.735000",
+        "00:02:29.502000",
+        "also known as Dune."
+      ],
+      [
+        198,
+        "00:21:09.453000",
+        "00:21:14.447000",
+        "Dune-- Desert planet--"
+      ],
+      [
+        216,
+        "00:22:56.026000",
+        "00:23:02.226000",
+        "Arrakis... Dune... Desert planet."
+      ],
+      [
+        1126,
+        "01:55:30.835000",
+        "01:55:34.669000",
+        "Dune. Desert planet."
+      ]
+    ],
+    "regex": "\\b((?!\\bDune:)Dune)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0047162",
+    "title": "The Last Time I Saw Paris",
+    "year": 1954,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1845,
+    "occurrences": [
+      [
+        1163,
+        "01:06:53.426000",
+        "01:06:56.418000",
+        "[\"The Last Time I Saw Paris\" plays]"
+      ],
+      [
+        1164,
+        "01:07:22.997000",
+        "01:07:28.709000",
+        "WOMAN:  The last time I saw Paris"
+      ],
+      [
+        1169,
+        "01:07:44.185000",
+        "01:07:47.519000",
+        "WOMAN:  The last time I saw Paris"
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Time\\ I\\ Saw\\ Paris:)Last\\ Time\\ I\\ Saw\\ Paris)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt13967988",
+    "title": "Calls",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1931,
+    "occurrences": [
+      [
+        306,
+        "00:23:07.875000",
+        "00:23:10.958000",
+        "How can I achieve the target and complete my calls is this continues?"
+      ],
+      [
+        649,
+        "00:45:38.708000",
+        "00:45:41.583000",
+        "I'm yet to complete even 10 calls"
+      ]
+    ],
+    "regex": "\\b((?!\\bCalls:)Calls)(?!\\:)(?!'t)\\b",
+    "runtime": 151,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

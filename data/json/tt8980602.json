@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt8980602",
+    "title": "The Kid Detective",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1347,
+    "occurrences": [
+      [
+        58,
+        "00:03:56.092000",
+        "00:03:57.527000",
+        "I used to be a kid detective."
+      ],
+      [
+        591,
+        "00:33:30.731000",
+        "00:33:33.001000",
+        "Here comes the kid detective!"
+      ],
+      [
+        1263,
+        "01:29:09.333000",
+        "01:29:12.238000",
+        "I was the \"kid detective,\" who never gave up."
+      ]
+    ],
+    "regex": "\\b((?!\\bKid\\ Detective:)Kid\\ Detective)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

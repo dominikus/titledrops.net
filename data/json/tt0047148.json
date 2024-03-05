@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0047148",
+    "title": "Killer Leopard",
+    "year": 1954,
+    "genres": [
+      "Adventure"
+    ],
+    "count": 4,
+    "all_lines": 1038,
+    "occurrences": [
+      [
+        237,
+        "00:16:21",
+        "00:16:22.600000",
+        "And there's a killer leopard on the loose."
+      ],
+      [
+        525,
+        "00:39:01.800000",
+        "00:39:04.600000",
+        "I've got to find that killer leopard."
+      ],
+      [
+        731,
+        "00:50:23.200000",
+        "00:50:25.400000",
+        "It was the killer leopard."
+      ],
+      [
+        996,
+        "01:06:10",
+        "01:06:12",
+        "It might be the killer leopard."
+      ]
+    ],
+    "regex": "\\b((?!\\bKiller\\ Leopard:)Killer\\ Leopard)(?!\\:)(?!'t)\\b",
+    "runtime": 70,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

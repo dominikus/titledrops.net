@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt12759084",
+    "title": "On the Trail: Inside the 2020 Primaries",
+    "year": 2020,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1988,
+    "occurrences": [
+      [
+        17,
+        "00:01:08.009000",
+        "00:01:10.004000",
+        "You're young, and you're on the trail."
+      ],
+      [
+        70,
+        "00:03:24.015000",
+        "00:03:31.002000",
+        "Kyung: 11 days till the Iowa caucuses, and I am back on the trail."
+      ],
+      [
+        1209,
+        "00:54:29.020000",
+        "00:54:33.001000",
+        "Annie: I talked to so many voters on the trail who would say,"
+      ]
+    ],
+    "regex": "\\b((?!\\bOn\\ the\\ Trail:)On\\ the\\ Trail|(?!\\bInside\\ the\\ 2020\\ Primaries:)Inside\\ the\\ 2020\\ Primaries)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

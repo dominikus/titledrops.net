@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt3417110",
+    "title": "I'm Charlie Walker",
+    "year": 2022,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1381,
+    "occurrences": [
+      [
+        310,
+        "00:17:08.596000",
+        "00:17:13.133000",
+        "- You're the who? - I'm Charlie Walker. Nice to meet you."
+      ],
+      [
+        567,
+        "00:31:58.352000",
+        "00:32:00.020000",
+        "I'm Charlie Walker. Welcome to my beach."
+      ],
+      [
+        884,
+        "00:49:15.222000",
+        "00:49:18.058000",
+        "I'm Charlie Walker. This is my beach."
+      ],
+      [
+        937,
+        "00:51:42.502000",
+        "00:51:46.206000",
+        "Question is, what can I do for you? I'm Charlie Walker."
+      ]
+    ],
+    "regex": "\\b((?!\\bI'm\\ Charlie\\ Walker:)I'm\\ Charlie\\ Walker)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

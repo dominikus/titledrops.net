@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt0059399",
+    "title": "Lord Jim",
+    "year": 1965,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1246,
+    "occurrences": [
+      [
+        649,
+        "01:22:53.185000",
+        "01:22:56.850000",
+        "Yes. \" Lord Jim.\""
+      ],
+      [
+        931,
+        "02:04:04.260000",
+        "02:04:10.132000",
+        "...but only in private and with the white man, the one they call \" Lord Jim.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bLord\\ Jim:)Lord\\ Jim)(?!\\:)(?!'t)\\b",
+    "runtime": 154,
+    "characters": [
+      "Lord Jim"
+    ],
+    "title_is_name": true,
+    "rating": 6.7
+  }
+]

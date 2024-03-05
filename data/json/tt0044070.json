@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0044070",
+    "title": "Starlift",
+    "year": 1951,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 6,
+    "all_lines": 1542,
+    "occurrences": [
+      [
+        1027,
+        "01:07:55.788000",
+        "01:07:58.154000",
+        "He called it \"Operation Starlift.\""
+      ],
+      [
+        1062,
+        "01:10:05.517000",
+        "01:10:07.246000",
+        "The Starlift plane leaves at 5."
+      ],
+      [
+        1206,
+        "01:18:11.203000",
+        "01:18:14.366000",
+        "Hey, the Starlift plane is in. Virginia Mayo is on it."
+      ],
+      [
+        1506,
+        "01:38:59.984000",
+        "01:39:03.852000",
+        "MAN : Miss Nell Wayne, please report to Starlift plane immediately."
+      ],
+      [
+        1507,
+        "01:39:04.021000",
+        "01:39:07.650000",
+        "Miss Nell Wayne, please report to Starlift plane immediately."
+      ],
+      [
+        1536,
+        "01:41:33.437000",
+        "01:41:36.964000",
+        "... departure of the Starlift plane is postponed until tomorrow."
+      ]
+    ],
+    "regex": "\\b((?!\\bStarlift:)Starlift)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

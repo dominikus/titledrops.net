@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0054791",
+    "title": "Days of Thrills and Laughter",
+    "year": 1961,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1495,
+    "occurrences": [
+      [
+        1,
+        "00:00:16.787000",
+        "00:00:18.840000",
+        "\"Days of Thrills and Laughter\","
+      ],
+      [
+        510,
+        "00:28:23.920000",
+        "00:28:26.700000",
+        "These were the days of thrills and laughter,"
+      ],
+      [
+        1485,
+        "01:32:34.870000",
+        "01:32:38.600000",
+        "These then were the days of thrills and laughter,"
+      ]
+    ],
+    "regex": "\\b((?!\\bDays\\ of\\ Thrills\\ and\\ Laughter:)Days\\ of\\ Thrills\\ and\\ Laughter)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

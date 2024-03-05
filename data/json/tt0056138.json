@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0056138",
+    "title": "Kid Galahad",
+    "year": 1962,
+    "genres": [
+      "Drama",
+      "Musical",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 1200,
+    "occurrences": [
+      [
+        494,
+        "00:36:24.215000",
+        "00:36:27.810000",
+        "Excuse me, Jerry. No, he fights under the name of Kid Galahad."
+      ],
+      [
+        569,
+        "00:42:12.997000",
+        "00:42:15.329000",
+        "Kid Galahad!"
+      ],
+      [
+        609,
+        "00:45:25.989000",
+        "00:45:27.320000",
+        "\"Kid Galahad.\""
+      ],
+      [
+        1170,
+        "01:30:53.482000",
+        "01:30:57.748000",
+        "from Cream Valley New York, our own Kid Galahad!"
+      ]
+    ],
+    "regex": "\\b((?!\\bKid\\ Galahad:)Kid\\ Galahad)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

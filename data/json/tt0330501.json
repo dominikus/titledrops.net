@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0330501",
+    "title": "Ju-on: The Curse 2",
+    "year": 2000,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 567,
+    "occurrences": [
+      [
+        0,
+        "00:00:01.502000",
+        "00:00:05.881000",
+        "A Curse born of a strong grudge held by someone who died."
+      ],
+      [
+        2,
+        "00:00:08.342000",
+        "00:00:12.346000",
+        "Anyone who comes into contact with this curse shall lose"
+      ],
+      [
+        3,
+        "00:00:12.346000",
+        "00:00:16.350000",
+        "his life and a new curse is born."
+      ],
+      [
+        31,
+        "00:02:32.569000",
+        "00:02:36.907000",
+        "JUON 2"
+      ]
+    ],
+    "regex": "\\b((?!\\bJuon:)Juon|(?!\\bCurse:)Curse)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

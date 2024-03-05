@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt0094269",
+    "title": "Vincent",
+    "year": 1987,
+    "genres": [
+      "Animation",
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1216,
+    "occurrences": [
+      [
+        642,
+        "00:41:17.137000",
+        "00:41:21.935000",
+        "Whereas, the whole world can pronounce the name \"Vincent\" correctly."
+      ],
+      [
+        1155,
+        "01:23:16.728000",
+        "01:23:21.369000",
+        "Your Brother, Vincent."
+      ]
+    ],
+    "regex": "\\b((?!\\bVincent:)Vincent)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [
+      "Vincent Van Gogh"
+    ],
+    "title_is_name": true,
+    "rating": 7.5
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1678051",
+    "title": "Soldiers of Fortune",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 908,
+    "occurrences": [
+      [
+        130,
+        "00:14:30.440000",
+        "00:14:32.010000",
+        "Soldiers of Fortune."
+      ],
+      [
+        134,
+        "00:14:38.920000",
+        "00:14:41.526000",
+        "for the Soldiers of Fortune Adventure Program,"
+      ],
+      [
+        228,
+        "00:20:23.360000",
+        "00:20:25.806000",
+        "With our Soldiers of Fortune Adventure Program,"
+      ],
+      [
+        253,
+        "00:22:02.880000",
+        "00:22:04.848000",
+        "The first of our soldiers of fortune"
+      ]
+    ],
+    "regex": "\\b((?!\\bSoldiers\\ of\\ Fortune:)Soldiers\\ of\\ Fortune)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

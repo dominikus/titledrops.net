@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt8841148",
+    "title": "The Bray Road Beast",
+    "year": 2018,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1155,
+    "occurrences": [
+      [
+        407,
+        "00:24:46.520000",
+        "00:24:49.290000",
+        "even as the story of the Bray Road Beast"
+      ],
+      [
+        659,
+        "00:38:35.320000",
+        "00:38:40.150000",
+        "because the Bray Road beast would duck and run for cover"
+      ],
+      [
+        727,
+        "00:42:30.720000",
+        "00:42:33.350000",
+        "the Bray Road Beast itself."
+      ],
+      [
+        1148,
+        "01:04:02.510000",
+        "01:04:05.750000",
+        "the Bray Road Beast is an intruder,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBray\\ Road\\ Beast:)Bray\\ Road\\ Beast)(?!\\:)(?!'t)\\b",
+    "runtime": 66,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

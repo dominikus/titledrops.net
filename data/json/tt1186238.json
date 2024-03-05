@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt1186238",
+    "title": "The Matador",
+    "year": 2008,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 6,
+    "all_lines": 526,
+    "occurrences": [
+      [
+        32,
+        "00:05:47.491000",
+        "00:05:51.921000",
+        "What makes the matador a hero is that he confronts death for us."
+      ],
+      [
+        78,
+        "00:11:52.157000",
+        "00:11:57.826000",
+        "I was one of those Spanish kids who dreamed of becoming a great matador."
+      ],
+      [
+        246,
+        "00:35:44.538000",
+        "00:35:47.444000",
+        "There's a whole world behind each matador."
+      ],
+      [
+        310,
+        "00:43:01.761000",
+        "00:43:04.597000",
+        "Santiago is a master. He was a matador himself."
+      ],
+      [
+        430,
+        "00:57:59.538000",
+        "00:58:02.959000",
+        "But was saluted by the greatest matador in the world for his efforts."
+      ],
+      [
+        526,
+        "01:13:11.169000",
+        "01:13:16.227000",
+        "He finished the season as Spain's top-ranked matador."
+      ]
+    ],
+    "regex": "\\b((?!\\bMatador:)Matador)(?!\\:)(?!'t)\\b",
+    "runtime": 74,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

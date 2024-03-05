@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt15387128",
+    "title": "Alone",
+    "year": 2023,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 1786,
+    "occurrences": [
+      [
+        211,
+        "00:21:12.997000",
+        "00:21:15.164000",
+        "- You were in a hurry to leave me alone and go, right?"
+      ],
+      [
+        572,
+        "00:44:04.625000",
+        "00:44:07.167000",
+        "- What will you do all alone during this lockdown?"
+      ],
+      [
+        574,
+        "00:44:10.167000",
+        "00:44:12",
+        "are always alone!"
+      ],
+      [
+        635,
+        "00:50:21.649000",
+        "00:50:23.016000",
+        "I am alone here."
+      ],
+      [
+        941,
+        "01:06:36.950000",
+        "01:06:38.902000",
+        "But, being alone at this time!"
+      ],
+      [
+        943,
+        "01:06:40.459000",
+        "01:06:42.105000",
+        "I am not alone in this house."
+      ],
+      [
+        949,
+        "01:06:57.400000",
+        "01:07:01.254000",
+        "When that life force of fire is here with me, how will I be alone?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAlone:)Alone)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

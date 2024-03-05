@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1588356",
+    "title": "Harmony",
+    "year": 2010,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1083,
+    "occurrences": [
+      [
+        313,
+        "00:26:19.177000",
+        "00:26:23.045000",
+        "PIease cover for \"Iaw of harmony\" exam."
+      ],
+      [
+        949,
+        "01:26:45.926000",
+        "01:26:49.487000",
+        "Ladies and gentlemen, please give warm hands for 'Harmony Choir.'"
+      ]
+    ],
+    "regex": "\\b((?!\\bHarmony:)Harmony)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

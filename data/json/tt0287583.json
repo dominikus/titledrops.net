@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0287583",
+    "title": "I Wish I Had a Wife",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 753,
+    "occurrences": [
+      [
+        16,
+        "00:01:10.970000",
+        "00:01:17",
+        "I Wish I Had A Wife"
+      ],
+      [
+        699,
+        "01:38:15.689000",
+        "01:38:18.385000",
+        "I wish I had a wife, too."
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Wish\\ I\\ Had\\ a\\ Wife:)I\\ Wish\\ I\\ Had\\ a\\ Wife)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

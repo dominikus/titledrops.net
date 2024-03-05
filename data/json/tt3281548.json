@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt3281548",
+    "title": "Little Women",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 2146,
+    "occurrences": [
+      [
+        596,
+        "00:33:16.038000",
+        "00:33:17.540000",
+        "MARMEE: \"of my little women.\""
+      ],
+      [
+        1580,
+        "01:28:51.875000",
+        "01:28:53.242000",
+        "My little women."
+      ],
+      [
+        2054,
+        "02:01:54.075000",
+        "02:01:55.710000",
+        "What happens to the \"little women\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Women:)Little\\ Women)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0407821",
+    "title": "Spider Forest",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 439,
+    "occurrences": [
+      [
+        2,
+        "00:01:39.966000",
+        "00:01:46.428000",
+        "spider forest"
+      ],
+      [
+        50,
+        "00:12:50.669000",
+        "00:12:52.432000",
+        "spider forest..."
+      ],
+      [
+        51,
+        "00:12:54.373000",
+        "00:12:56.841000",
+        "spider forest? Where is that?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpider\\ Forest:)Spider\\ Forest)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

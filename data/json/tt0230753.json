@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0230753",
+    "title": "To Matthieu",
+    "year": 2000,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 926,
+    "occurrences": [
+      [
+        0,
+        "00:00:54.967000",
+        "00:00:59.802000",
+        "According to MATTHIEU"
+      ],
+      [
+        560,
+        "01:00:49.567000",
+        "01:00:51",
+        "To Matthieu."
+      ],
+      [
+        779,
+        "01:18:55.247000",
+        "01:18:57.556000",
+        "I'm talking to Matthieu, Not with you."
+      ]
+    ],
+    "regex": "\\b((?!\\bTo\\ Matthieu:)To\\ Matthieu)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

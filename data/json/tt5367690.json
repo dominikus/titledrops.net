@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5367690",
+    "title": "Broken Swords: The Last in Line",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1428,
+    "occurrences": [
+      [
+        489,
+        "00:27:06.429000",
+        "00:27:07.912000",
+        "of the Broken Swords arrive from Riversmeet."
+      ],
+      [
+        509,
+        "00:28:00.133000",
+        "00:28:02.834000",
+        "and once the Broken Swords regroup,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBroken\\ Swords:)Broken\\ Swords|(?!\\bLast\\ in\\ Line:)Last\\ in\\ Line)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.2
+  }
+]

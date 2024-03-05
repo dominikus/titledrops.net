@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0098168",
+    "title": "Ram Lakhan",
+    "year": 1989,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1435,
+    "occurrences": [
+      [
+        193,
+        "00:22:22.809000",
+        "00:22:26.609000",
+        "How do we turn Ram Lakhan into Ram and Laxman."
+      ],
+      [
+        283,
+        "00:31:23.683000",
+        "00:31:26.447000",
+        "There is blood relation between Bishambar, Bhanu and Ram Lakhan."
+      ]
+    ],
+    "regex": "\\b((?!\\bRam\\ Lakhan:)Ram\\ Lakhan)(?!\\:)(?!'t)\\b",
+    "runtime": 186,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

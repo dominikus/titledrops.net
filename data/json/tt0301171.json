@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt0301171",
+    "title": "Shot",
+    "year": 1973,
+    "genres": [
+      "Action"
+    ],
+    "count": 7,
+    "all_lines": 1435,
+    "occurrences": [
+      [
+        165,
+        "00:16:26.573000",
+        "00:16:28.325000",
+        "I suppose one of you heroes shot that guy"
+      ],
+      [
+        169,
+        "00:16:32.370000",
+        "00:16:33.380000",
+        "Ross shot the other man, sir."
+      ],
+      [
+        183,
+        "00:16:59.689000",
+        "00:17:00.982000",
+        "how those two subjects got shot."
+      ],
+      [
+        184,
+        "00:17:01.316000",
+        "00:17:03.193000",
+        "One of 'em shot the other one in the back."
+      ],
+      [
+        186,
+        "00:17:05.403000",
+        "00:17:08.990000",
+        "Officer Ross shot the other subject."
+      ],
+      [
+        437,
+        "00:27:04.001000",
+        "00:27:06.504000",
+        "and shot Officer Holman in the face with a water pistol."
+      ],
+      [
+        748,
+        "00:45:35.362000",
+        "00:45:36.655000",
+        "Isn't that the chick that shot her old man?"
+      ]
+    ],
+    "regex": "\\b((?!\\bShot:)Shot)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

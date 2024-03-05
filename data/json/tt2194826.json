@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2194826",
+    "title": "The Barber",
+    "year": 2014,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1351,
+    "occurrences": [
+      [
+        118,
+        "00:07:43.397000",
+        "00:07:45.864000",
+        "Eugene Van Wingerdt, the barber."
+      ],
+      [
+        464,
+        "00:31:05.431000",
+        "00:31:07.331000",
+        "He's working as a barber out in Moraine,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBarber:)Barber)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt3702704",
+    "title": "Bourek",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 1020,
+    "occurrences": [
+      [
+        713,
+        "00:59:32.503000",
+        "00:59:33.757000",
+        "Bourek."
+      ],
+      [
+        742,
+        "01:01:07.822000",
+        "01:01:10.712000",
+        "Have some bourek, the cheese is really good."
+      ],
+      [
+        874,
+        "01:15:14.780000",
+        "01:15:16.373000",
+        "Have some bourek."
+      ],
+      [
+        876,
+        "01:15:19.846000",
+        "01:15:22.854000",
+        "Bourek with spinach, your favorite."
+      ],
+      [
+        883,
+        "01:15:46.083000",
+        "01:15:50.336000",
+        "I'm a baker, and there are many types of bourek."
+      ],
+      [
+        885,
+        "01:16:04.595000",
+        "01:16:06.179000",
+        "Make it about bourek."
+      ],
+      [
+        895,
+        "01:17:00.736000",
+        "01:17:02.558000",
+        "Have some bourek."
+      ]
+    ],
+    "regex": "\\b((?!\\bBourek:)Bourek)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

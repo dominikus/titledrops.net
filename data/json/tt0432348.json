@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0432348",
+    "title": "Saw II",
+    "year": 2005,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 757,
+    "occurrences": [
+      [
+        64,
+        "00:08:10.226000",
+        "00:08:11.747000",
+        "Ok, now I saw it."
+      ],
+      [
+        335,
+        "00:37:14.502000",
+        "00:37:21.548000",
+        "I knew that I knew him. You were the last person that I saw before I wake up here."
+      ]
+    ],
+    "regex": "\\b((?!\\bSaw:)Saw)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

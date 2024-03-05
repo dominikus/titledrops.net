@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0268008",
+    "title": "The Heavy Melon",
+    "year": 1977,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 930,
+    "occurrences": [
+      [
+        456,
+        "00:44:54.002000",
+        "00:44:56.202000",
+        "What I'm saying, is stop acting like a \"heavy melon\"..."
+      ],
+      [
+        458,
+        "00:45:02.366000",
+        "00:45:05.509000",
+        "I don't want to be a heavy melon, nor do I want anyone to suffer."
+      ]
+    ],
+    "regex": "\\b((?!\\bHeavy\\ Melon:)Heavy\\ Melon)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

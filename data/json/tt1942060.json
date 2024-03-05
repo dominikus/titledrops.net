@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1942060",
+    "title": "The German Friend",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 913,
+    "occurrences": [
+      [
+        856,
+        "01:30:09.043000",
+        "01:30:11.459000",
+        "You're seeing your German friend?"
+      ],
+      [
+        860,
+        "01:30:18.543000",
+        "01:30:19.959000",
+        "your German friend."
+      ]
+    ],
+    "regex": "\\b((?!\\bGerman\\ Friend:)German\\ Friend)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

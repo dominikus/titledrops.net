@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt8304276",
+    "title": "Acid",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 877,
+    "occurrences": [
+      [
+        98,
+        "00:11:32.500000",
+        "00:11:34.099000",
+        "Then we take some acid."
+      ],
+      [
+        100,
+        "00:11:38.616000",
+        "00:11:40.706000",
+        "Perchloric acid."
+      ],
+      [
+        101,
+        "00:11:45.287000",
+        "00:11:47.773000",
+        "So that the concentrated acid doesn't damage the bath,"
+      ],
+      [
+        103,
+        "00:11:51.056000",
+        "00:11:52.620000",
+        "Pour out some acid."
+      ],
+      [
+        106,
+        "00:12:08.653000",
+        "00:12:11.648000",
+        "The acid solution reacts with hydrogen cations."
+      ],
+      [
+        242,
+        "00:30:36.656000",
+        "00:30:39.347000",
+        "So why am I to blame for the fact that you drank some acid?"
+      ],
+      [
+        519,
+        "00:53:11.632000",
+        "00:53:14.831000",
+        "Second, Pete drinks some acid. Also, as if for no reason."
+      ]
+    ],
+    "regex": "\\b((?!\\bAcid:)Acid)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

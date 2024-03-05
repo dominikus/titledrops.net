@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0081505",
+    "title": "The Shining",
+    "year": 1980,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1479,
+    "occurrences": [
+      [
+        459,
+        "00:29:47.779000",
+        "00:29:51.574000",
+        "She called it \"Shining\"."
+      ],
+      [
+        497,
+        "00:32:18.346000",
+        "00:32:23.346000",
+        "has something about it that's like shining."
+      ]
+    ],
+    "regex": "\\b((?!\\bShining:)Shining)(?!\\:)(?!'t)\\b",
+    "runtime": 146,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.4
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0080662",
+    "title": "You Are Not Alone",
+    "year": 1978,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1113,
+    "occurrences": [
+      [
+        14,
+        "00:02:40.257000",
+        "00:02:46.626000",
+        ".' You are not alone, someone follows you..'"
+      ],
+      [
+        1086,
+        "01:26:39.416000",
+        "01:26:45.475000",
+        ".' You are not alone, someone follows you,.'"
+      ],
+      [
+        1100,
+        "01:27:56.189000",
+        "01:28:02.281000",
+        ".' You are not alone, someone follows you,.'"
+      ],
+      [
+        1107,
+        "01:29:09.393000",
+        "01:29:15.020000",
+        ".' you are not alone, someone follows you,.'"
+      ],
+      [
+        1109,
+        "01:29:26.161000",
+        "01:29:31.890000",
+        ".' you are not alone, someone follows you,.'"
+      ],
+      [
+        1113,
+        "01:29:58.997000",
+        "01:30:05.555000",
+        ".' you are not alone, someone follows you....'"
+      ]
+    ],
+    "regex": "\\b((?!\\bYou\\ Are\\ Not\\ Alone:)You\\ Are\\ Not\\ Alone)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

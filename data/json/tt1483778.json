@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1483778",
+    "title": "The Queen of Hearts",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 1033,
+    "occurrences": [
+      [
+        22,
+        "00:02:42.880000",
+        "00:02:46.080000",
+        "The Queen of Hearts"
+      ],
+      [
+        1032,
+        "01:18:34.680000",
+        "01:18:37.400000",
+        "The Queen of Hearts"
+      ]
+    ],
+    "regex": "\\b((?!\\bQueen\\ of\\ Hearts:)Queen\\ of\\ Hearts)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1995477",
+    "title": "Always Woodstock",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Music",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1462,
+    "occurrences": [
+      [
+        2,
+        "00:00:30.363000",
+        "00:00:33.901000",
+        "And if all else fails, there's always Woodstock.\""
+      ],
+      [
+        1423,
+        "01:31:41.562000",
+        "01:31:44.771000",
+        "And if all else fails, there's always Woodstock.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bAlways\\ Woodstock:)Always\\ Woodstock)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

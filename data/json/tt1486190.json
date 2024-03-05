@@ -1,0 +1,53 @@
+[
+  {
+    "imdb": "tt1486190",
+    "title": "Tamara Drewe",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 900,
+    "occurrences": [
+      [
+        365,
+        "00:22:30.663000",
+        "00:22:32.255000",
+        "GLEN: That's Tamara Drewe."
+      ],
+      [
+        374,
+        "00:22:52.351000",
+        "00:22:53.943000",
+        "Is that Tamara Drewe that writes a column"
+      ],
+      [
+        411,
+        "00:24:28.447000",
+        "00:24:32.178000",
+        "There was always something desperate about Tamara Drewe."
+      ],
+      [
+        450,
+        "00:26:23.395000",
+        "00:26:25.022000",
+        "Tamara Drewe wouldn't have me."
+      ],
+      [
+        520,
+        "00:31:38.109000",
+        "00:31:39.542000",
+        "L'm Tamara Drewe. What?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTamara\\ Drewe:)Tamara\\ Drewe)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [
+      "Tamara Drewe"
+    ],
+    "title_is_name": true,
+    "rating": 6.2
+  }
+]

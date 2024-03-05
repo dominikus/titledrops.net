@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt5672286",
+    "title": "Indian Horse",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 1302,
+    "occurrences": [
+      [
+        799,
+        "00:58:04.833000",
+        "00:58:09.999000",
+        "Saul Indian Horse!"
+      ],
+      [
+        831,
+        "00:59:41.667000",
+        "00:59:43.184000",
+        "I'm hungry enough to eat an Indian Horse."
+      ],
+      [
+        885,
+        "01:04:12.708000",
+        "01:04:13.949000",
+        "Saul Indian Horse."
+      ],
+      [
+        1296,
+        "01:35:05.375000",
+        "01:35:09.665000",
+        ": My name is Saul Indian Horse."
+      ]
+    ],
+    "regex": "\\b((?!\\bIndian\\ Horse:)Indian\\ Horse)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

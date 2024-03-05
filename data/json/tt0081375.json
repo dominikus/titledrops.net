@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt0081375",
+    "title": "Private Benjamin",
+    "year": 1980,
+    "genres": [
+      "Comedy",
+      "War"
+    ],
+    "count": 7,
+    "all_lines": 1218,
+    "occurrences": [
+      [
+        275,
+        "00:20:23.952000",
+        "00:20:27.661000",
+        "...but I think I can be of assistance in locating Private Benjamin."
+      ],
+      [
+        637,
+        "00:50:38.272000",
+        "00:50:40.581000",
+        "Sir, Private Benjamin, sir!"
+      ],
+      [
+        639,
+        "00:50:55.072000",
+        "00:50:56.903000",
+        "Which one of you is Private Benjamin?"
+      ],
+      [
+        810,
+        "01:08:32.112000",
+        "01:08:33.750000",
+        "Private Benjamin."
+      ],
+      [
+        977,
+        "01:21:50.792000",
+        "01:21:53.022000",
+        "Excuse me, Private Benjamin..."
+      ],
+      [
+        1028,
+        "01:26:48.872000",
+        "01:26:52.387000",
+        "Private Benjamin has made herself vulnerable to a Red, sir."
+      ],
+      [
+        1103,
+        "01:32:50.352000",
+        "01:32:52.422000",
+        "Private Benjamin?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPrivate\\ Benjamin:)Private\\ Benjamin)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

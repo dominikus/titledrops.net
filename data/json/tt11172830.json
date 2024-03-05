@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt11172830",
+    "title": "Big Freaking Rat",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 1660,
+    "occurrences": [
+      [
+        1277,
+        "01:06:17.059000",
+        "01:06:18.427000",
+        "You are a big freaking rat."
+      ],
+      [
+        1280,
+        "01:06:24.766000",
+        "01:06:26.601000",
+        "Big freaking rat, run!"
+      ],
+      [
+        1286,
+        "01:06:35.411000",
+        "01:06:39.048000",
+        "Big freaking rat, big freaking rat."
+      ],
+      [
+        1440,
+        "01:14:11.832000",
+        "01:14:14.469000",
+        "That big freaking rat, he likes it down here too."
+      ]
+    ],
+    "regex": "\\b((?!\\bBig\\ Freaking\\ Rat:)Big\\ Freaking\\ Rat)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.9
+  }
+]

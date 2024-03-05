@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt19853810",
+    "title": "Looking for Her",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1329,
+    "occurrences": [
+      [
+        387,
+        "00:30:19.053000",
+        "00:30:22.389000",
+        "\"Looking for her, you, a holiday date.\""
+      ],
+      [
+        445,
+        "00:36:23.483000",
+        "00:36:26.754000",
+        "\"Looking for her. You.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bLooking\\ for\\ Her:)Looking\\ for\\ Her)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

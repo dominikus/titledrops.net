@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2229499",
+    "title": "Don Jon",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1221,
+    "occurrences": [
+      [
+        33,
+        "00:03:54.360000",
+        "00:03:56.826000",
+        "- Jonny-Boy! - Don Jon, what's good, baby?"
+      ],
+      [
+        1173,
+        "01:21:42.683000",
+        "01:21:46.617000",
+        "Every fucking time we go out, Don Jon smashes!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDon\\ Jon:)Don\\ Jon)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt7063210",
+    "title": "The Place",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 1371,
+    "occurrences": [
+      [
+        142,
+        "00:12:19.041000",
+        "00:12:21.401000",
+        "I think I'll place it there"
+      ],
+      [
+        560,
+        "00:38:53.081000",
+        "00:38:56.361000",
+        "So he invited me to a place near his house tomorrow night."
+      ],
+      [
+        561,
+        "00:38:56.841000",
+        "00:38:58.241000",
+        "What place ?"
+      ],
+      [
+        620,
+        "00:42:38.161000",
+        "00:42:42.641000",
+        "He seemed out of place... out of place."
+      ],
+      [
+        763,
+        "00:52:05.641000",
+        "00:52:09.121000",
+        "I went to his place again and was more aggressive this time."
+      ],
+      [
+        888,
+        "01:01:58.881000",
+        "01:02:01.601000",
+        "He says that place smells good"
+      ]
+    ],
+    "regex": "\\b((?!\\bPlace:)Place)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

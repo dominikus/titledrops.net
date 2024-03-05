@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt21084334",
+    "title": "I Heard the Bells",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1157,
+    "occurrences": [
+      [
+        1116,
+        "01:33:49.790000",
+        "01:33:55.671000",
+        "I heard the bells on Christmas Day."
+      ],
+      [
+        1117,
+        "01:33:55.713000",
+        "01:33:58.966000",
+        "I heard the bells on Christmas Day."
+      ],
+      [
+        1118,
+        "01:34:16.150000",
+        "01:34:26.285000",
+        "I heard the bells on Christmas Day."
+      ],
+      [
+        1145,
+        "01:40:52.713000",
+        "01:40:59.762000",
+        "I heard the bells on Christmas Day,"
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Heard\\ the\\ Bells:)I\\ Heard\\ the\\ Bells)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

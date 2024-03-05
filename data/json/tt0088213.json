@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0088213",
+    "title": "Swing Shift",
+    "year": 1984,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 6,
+    "all_lines": 934,
+    "occurrences": [
+      [
+        128,
+        "00:15:00.833000",
+        "00:15:03.700000",
+        "- Swing shift, 60 cents an hour. - Swing shift?"
+      ],
+      [
+        372,
+        "00:38:30.908000",
+        "00:38:34.469000",
+        "Celebrate a good year's work at the swing shift jamboree."
+      ],
+      [
+        373,
+        "00:38:35.313000",
+        "00:38:37.975000",
+        "Remember, the swing shift jamboree..."
+      ],
+      [
+        390,
+        "00:39:44.048000",
+        "00:39:45.913000",
+        "Swing shift jamboree."
+      ],
+      [
+        520,
+        "00:52:31.715000",
+        "00:52:35.913000",
+        "except monday through friday from 4:00 till midnight, every swing shift."
+      ]
+    ],
+    "regex": "\\b((?!\\bSwing\\ Shift:)Swing\\ Shift)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

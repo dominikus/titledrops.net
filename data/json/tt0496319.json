@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0496319",
+    "title": "The Hottest State",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1987,
+    "occurrences": [
+      [
+        1877,
+        "01:43:07.097000",
+        "01:43:08.265000",
+        "Yeah, it's the Hottest State."
+      ],
+      [
+        1879,
+        "01:43:09.633000",
+        "01:43:10.734000",
+        "Fort Worth is the Hottest State I know."
+      ]
+    ],
+    "regex": "\\b((?!\\bHottest\\ State:)Hottest\\ State)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

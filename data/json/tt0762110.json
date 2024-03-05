@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0762110",
+    "title": "Irina Palm",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 745,
+    "occurrences": [
+      [
+        262,
+        "00:39:55.350000",
+        "00:39:57.127000",
+        "Irina Palm."
+      ],
+      [
+        575,
+        "01:12:59.077000",
+        "01:13:04.391000",
+        "It's nothing. It's been an honor to treat Irina Palm."
+      ],
+      [
+        656,
+        "01:23:18.046000",
+        "01:23:19.561000",
+        "I'm Irina Palm."
+      ],
+      [
+        658,
+        "01:23:23.855000",
+        "01:23:25.465000",
+        "Irina Palm?"
+      ]
+    ],
+    "regex": "\\b((?!\\bIrina\\ Palm:)Irina\\ Palm)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

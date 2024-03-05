@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt8080302",
+    "title": "Penguins",
+    "year": 2019,
+    "genres": [
+      "Documentary",
+      "Family"
+    ],
+    "count": 6,
+    "all_lines": 735,
+    "occurrences": [
+      [
+        49,
+        "00:05:31.592000",
+        "00:05:33.115000",
+        "Emperor penguins?"
+      ],
+      [
+        53,
+        "00:05:51.829000",
+        "00:05:53.744000",
+        "a half a million penguins, about my height?"
+      ],
+      [
+        170,
+        "00:15:05.556000",
+        "00:15:09.125000",
+        "Adelie penguins return to the same nest site every year"
+      ],
+      [
+        258,
+        "00:24:27.683000",
+        "00:24:30.033000",
+        "surrounded by thousands of fellow penguins,"
+      ],
+      [
+        641,
+        "01:02:08.725000",
+        "01:02:13.773000",
+        "A couple of seals can kill nearly 100 penguins in a day."
+      ],
+      [
+        696,
+        "01:09:06.968000",
+        "01:09:11.147000",
+        "Many penguins won't survive to see another spring."
+      ]
+    ],
+    "regex": "\\b((?!\\bPenguins:)Penguins)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

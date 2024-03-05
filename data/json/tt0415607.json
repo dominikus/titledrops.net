@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0415607",
+    "title": "The Willow Tree",
+    "year": 2005,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 485,
+    "occurrences": [
+      [
+        184,
+        "00:19:10.480000",
+        "00:19:15.270000",
+        "Now I understand how this willow tree brings you luck"
+      ],
+      [
+        458,
+        "01:20:42.160000",
+        "01:20:46.039000",
+        "Did you see the willow tree?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWillow\\ Tree:)Willow\\ Tree)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

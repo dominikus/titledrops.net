@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt7088006",
+    "title": "Dear Nathan",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1178,
+    "occurrences": [
+      [
+        1130,
+        "01:29:09.644000",
+        "01:29:10.879000",
+        "\"Dear Nathan...\""
+      ],
+      [
+        1153,
+        "01:30:24.185000",
+        "01:30:25.353000",
+        "\"Dear Nathan...\""
+      ]
+    ],
+    "regex": "\\b((?!\\bDear\\ Nathan:)Dear\\ Nathan)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

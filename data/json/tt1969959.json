@@ -1,0 +1,26 @@
+[
+  {
+    "imdb": "tt1969959",
+    "title": "Box Office 3D: The Filmest of Films",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "count": 1,
+    "all_lines": 1259,
+    "occurrences": [
+      [
+        0,
+        "00:00:33.199000",
+        "00:00:36.702000",
+        "BOX OFFICE 3D THE MOVIE OF MOVIES"
+      ]
+    ],
+    "regex": "\\b((?!\\bBox\\ Office\\ 3D:)Box\\ Office\\ 3D|(?!\\bFilmest\\ of\\ Films:)Filmest\\ of\\ Films)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2
+  }
+]

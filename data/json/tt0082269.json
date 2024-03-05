@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0082269",
+    "title": "Diva",
+    "year": 1981,
+    "genres": [
+      "Crime",
+      "Music",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 431,
+    "occurrences": [
+      [
+        338,
+        "00:42:51.769000",
+        "00:42:55.728000",
+        "They call you a diva. Do you think you really are one?"
+      ],
+      [
+        342,
+        "00:43:13.724000",
+        "00:43:14.816000",
+        "She's a diva!"
+      ],
+      [
+        344,
+        "00:43:19.163000",
+        "00:43:22.462000",
+        "Come help me change the record... Help me, Diva!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDiva:)Diva)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

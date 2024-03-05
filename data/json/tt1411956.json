@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1411956",
+    "title": "Sold",
+    "year": 2014,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 902,
+    "occurrences": [
+      [
+        190,
+        "00:20:05.637000",
+        "00:20:08.239000",
+        "- How many bottles sold? - Eight so far."
+      ],
+      [
+        544,
+        "00:51:58.483000",
+        "00:52:01.350000",
+        "her cousin sold her into the brothel."
+      ],
+      [
+        841,
+        "01:18:40.816000",
+        "01:18:43.884000",
+        "Mumtaz sold Anita."
+      ]
+    ],
+    "regex": "\\b((?!\\bSold:)Sold)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1267381",
+    "title": "Dumbeast",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1283,
+    "occurrences": [
+      [
+        5,
+        "00:01:59.886000",
+        "00:02:03.656000",
+        "DumBeast"
+      ],
+      [
+        245,
+        "00:20:51.350000",
+        "00:20:52.885000",
+        "Dekogawa Ryuji's \"DumBeast\""
+      ],
+      [
+        972,
+        "01:10:52.375000",
+        "01:10:54.883000",
+        "\"DumBeast\" now on sale"
+      ],
+      [
+        973,
+        "01:10:55.209000",
+        "01:10:57.584000",
+        "\"DumBeast\" is now on sale!"
+      ],
+      [
+        974,
+        "01:10:58.185000",
+        "01:11:00.210000",
+        "\"DumBeast\" on sale!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDumbeast:)Dumbeast)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

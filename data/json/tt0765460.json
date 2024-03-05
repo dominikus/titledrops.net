@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0765460",
+    "title": "Cover",
+    "year": 2007,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1484,
+    "occurrences": [
+      [
+        473,
+        "00:27:56.836000",
+        "00:27:59.134000",
+        "Don't worry. I'm gonna cover the down payment."
+      ],
+      [
+        826,
+        "00:47:27.521000",
+        "00:47:30.581000",
+        "I'm thinking about using this for my album cover. You just keep shootin'."
+      ]
+    ],
+    "regex": "\\b((?!\\bCover:)Cover)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

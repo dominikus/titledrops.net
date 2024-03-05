@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt7250378",
+    "title": "Say My Name",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 4,
+    "all_lines": 1326,
+    "occurrences": [
+      [
+        18,
+        "00:01:23.684000",
+        "00:01:25.818000",
+        "Woman: Say my name."
+      ],
+      [
+        19,
+        "00:01:25.820000",
+        "00:01:29.521000",
+        "Say my name!"
+      ],
+      [
+        1274,
+        "01:16:45.368000",
+        "01:16:47.101000",
+        "Say my name."
+      ],
+      [
+        1306,
+        "01:20:13.075000",
+        "01:20:14.408000",
+        "Say my name."
+      ]
+    ],
+    "regex": "\\b((?!\\bSay\\ My\\ Name:)Say\\ My\\ Name)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

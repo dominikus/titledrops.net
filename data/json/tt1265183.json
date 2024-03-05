@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1265183",
+    "title": "Life Kills Me",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 780,
+    "occurrences": [
+      [
+        202,
+        "00:23:23.301000",
+        "00:23:27.906000",
+        "- What's the name of your film? - It's called, \"Life Kills Me\""
+      ],
+      [
+        204,
+        "00:23:29.508000",
+        "00:23:35.208000",
+        "No, it's about love. Because love is life. And life kills me..."
+      ],
+      [
+        502,
+        "00:55:26.156000",
+        "00:55:30.217000",
+        "And if life kills me, then... my film is God!"
+      ]
+    ],
+    "regex": "\\b((?!\\bLife\\ Kills\\ Me:)Life\\ Kills\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

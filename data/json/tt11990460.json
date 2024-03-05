@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt11990460",
+    "title": "COVID-19: Invasion",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1213,
+    "occurrences": [
+      [
+        445,
+        "00:29:13.250000",
+        "00:29:15.208000",
+        "this whole COVID-19 thing hit."
+      ],
+      [
+        785,
+        "00:52:31.583000",
+        "00:52:33.667000",
+        "Mom and Dad didn't die of COVID-19."
+      ],
+      [
+        851,
+        "00:56:34.500000",
+        "00:56:36",
+        "Enjoy COVID-19."
+      ]
+    ],
+    "regex": "\\b((?!\\bCOVID\\-19:)COVID\\-19|(?!\\bInvasion:)Invasion)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 1.9
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0153866",
+    "title": "Wirey Spindell",
+    "year": 1999,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1895,
+    "occurrences": [
+      [
+        398,
+        "00:20:39.063000",
+        "00:20:40.804000",
+        "Open this door, Wirey Spindell!"
+      ],
+      [
+        756,
+        "00:36:18.306000",
+        "00:36:20.482000",
+        "That's Wirey Spindell."
+      ],
+      [
+        1828,
+        "01:34:57.735000",
+        "01:35:01.608000",
+        "Well, Mrs. Wirey Spindell,"
+      ]
+    ],
+    "regex": "\\b((?!\\bWirey\\ Spindell:)Wirey\\ Spindell)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [
+      "Wirey Spindell"
+    ],
+    "title_is_name": true,
+    "rating": 5.2
+  }
+]

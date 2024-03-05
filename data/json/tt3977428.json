@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt3977428",
+    "title": "John From",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 475,
+    "occurrences": [
+      [
+        246,
+        "00:51:26.750000",
+        "00:51:30.084000",
+        "...and they named him John From,"
+      ],
+      [
+        247,
+        "00:51:30.379000",
+        "00:51:34.419000",
+        "probably because some airman introduced himself as John From America."
+      ],
+      [
+        250,
+        "00:52:11.462000",
+        "00:52:14.921000",
+        "He's not Colonel anymore. Now he's John From."
+      ],
+      [
+        251,
+        "00:52:16.383000",
+        "00:52:18.375000",
+        "John From!"
+      ],
+      [
+        273,
+        "00:56:55.454000",
+        "00:56:57.116000",
+        "Good afternoon, John From... Good afternoon, Filipe."
+      ],
+      [
+        411,
+        "01:15:59.972000",
+        "01:16:02.635000",
+        "Is John From interested in Rita?"
+      ]
+    ],
+    "regex": "\\b((?!\\bJohn\\ From:)John\\ From)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

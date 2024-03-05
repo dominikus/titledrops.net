@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4538294",
+    "title": "Collider",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 879,
+    "occurrences": [
+      [
+        627,
+        "01:02:00.978000",
+        "01:02:01.978000",
+        "You're the Collider."
+      ],
+      [
+        629,
+        "01:02:05.069000",
+        "01:02:06.069000",
+        "- Collider?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCollider:)Collider)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

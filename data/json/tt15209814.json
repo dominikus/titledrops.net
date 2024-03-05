@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt15209814",
+    "title": "The Wendigo",
+    "year": 2022,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 1076,
+    "occurrences": [
+      [
+        27,
+        "00:02:03.943000",
+        "00:02:06.238000",
+        "So uh... Wendigo, Wendigo, Wendigo, Wendigo..."
+      ],
+      [
+        28,
+        "00:02:06.238000",
+        "00:02:08.865000",
+        "(yelling) Wendigo! Ha ha!"
+      ],
+      [
+        830,
+        "00:44:28.235000",
+        "00:44:29.528000",
+        "(Wendigo cry, CASSI screaming)"
+      ],
+      [
+        1074,
+        "01:02:29.065000",
+        "01:02:32.318000",
+        "behind the legend of the Wendigo..."
+      ]
+    ],
+    "regex": "\\b((?!\\bWendigo:)Wendigo)(?!\\:)(?!'t)\\b",
+    "runtime": 68,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

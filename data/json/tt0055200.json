@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0055200",
+    "title": "Mr. Sardonicus",
+    "year": 1961,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1011,
+    "occurrences": [
+      [
+        973,
+        "01:25:08.136000",
+        "01:25:11.503000",
+        "But has Mr. Sardonicus been punished enough?"
+      ],
+      [
+        979,
+        "01:25:27.722000",
+        "01:25:32.250000",
+        "I think ordinary punishment is too good for Mr. Sardonicus."
+      ],
+      [
+        986,
+        "01:25:55.717000",
+        "01:25:58.208000",
+        "...who would let Mr. Sardonicus go free..."
+      ],
+      [
+        1007,
+        "01:27:04.219000",
+        "01:27:08.246000",
+        "...have sentenced Mr. Sardonicus to further punishment."
+      ]
+    ],
+    "regex": "\\b((?!\\bMr\\.\\ Sardonicus:)Mr\\.\\ Sardonicus)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

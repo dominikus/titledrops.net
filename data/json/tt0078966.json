@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0078966",
+    "title": "The China Syndrome",
+    "year": 1979,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 989,
+    "occurrences": [
+      [
+        554,
+        "00:59:02.400000",
+        "00:59:06.757000",
+        "If that's true, we came very close to the China Syndrome."
+      ],
+      [
+        645,
+        "01:10:21.080000",
+        "01:10:26.598000",
+        "- If they rupture those pipes... - It's the China Syndrome?"
+      ]
+    ],
+    "regex": "\\b((?!\\bChina\\ Syndrome:)China\\ Syndrome)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

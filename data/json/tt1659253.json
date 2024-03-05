@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1659253",
+    "title": "Thorne: Scaredycat",
+    "year": 2010,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 456,
+    "occurrences": [
+      [
+        10,
+        "00:00:50.940000",
+        "00:00:53.300000",
+        "To Maureen Thorne."
+      ],
+      [
+        257,
+        "00:23:12.820000",
+        "00:23:15.940000",
+        "Nah. You don't need evidence. You're Tom Thorne."
+      ]
+    ],
+    "regex": "\\b((?!\\bThorne:)Thorne|(?!\\bScaredycat:)Scaredycat)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

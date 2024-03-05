@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0049619",
+    "title": "Pillars of the Sky",
+    "year": 1956,
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 1121,
+    "occurrences": [
+      [
+        368,
+        "00:25:51.593000",
+        "00:25:54.631000",
+        "But we have promised to live here between the Pillars of the Sky,"
+      ],
+      [
+        644,
+        "00:46:36.862000",
+        "00:46:39.267000",
+        "The Pillars of the Sky, Doc."
+      ]
+    ],
+    "regex": "\\b((?!\\bPillars\\ of\\ the\\ Sky:)Pillars\\ of\\ the\\ Sky)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

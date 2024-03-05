@@ -1,0 +1,40 @@
+[
+  {
+    "imdb": "tt0032671",
+    "title": "Kitty Foyle",
+    "year": 1940,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1542,
+    "occurrences": [
+      [
+        705,
+        "00:48:54.164000",
+        "00:48:57.584000",
+        "But nobody owes a thing to Kitty Foyle..."
+      ],
+      [
+        706,
+        "00:48:57.751000",
+        "00:48:59.961000",
+        "...except Kitty Foyle."
+      ],
+      [
+        1242,
+        "01:24:23.516000",
+        "01:24:26.853000",
+        "The Straffords trying to figure out how to take the curse off Kitty Foyle."
+      ]
+    ],
+    "regex": "\\b((?!\\bKitty\\ Foyle:)Kitty\\ Foyle)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [
+      "Kitty Foyle"
+    ],
+    "title_is_name": true,
+    "rating": 6.9
+  }
+]

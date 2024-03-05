@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0877700",
+    "title": "Give Me Your Hand",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 205,
+    "occurrences": [
+      [
+        101,
+        "00:31:53.710000",
+        "00:31:56.428000",
+        "Come, give me your hand."
+      ],
+      [
+        106,
+        "00:32:12.827000",
+        "00:32:16.084000",
+        "Come, give me your hand."
+      ]
+    ],
+    "regex": "\\b((?!\\bGive\\ Me\\ Your\\ Hand:)Give\\ Me\\ Your\\ Hand)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0890870",
+    "title": "Saw IV",
+    "year": 2007,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 878,
+    "occurrences": [
+      [
+        525,
+        "00:52:35.376000",
+        "00:52:37.849000",
+        "Me. I saw the whole thing."
+      ],
+      [
+        859,
+        "01:24:30.107000",
+        "01:24:32.325000",
+        "He was damn near on his death bed the last time we saw him."
+      ]
+    ],
+    "regex": "\\b((?!\\bSaw:)Saw)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

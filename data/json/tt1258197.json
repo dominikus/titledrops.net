@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1258197",
+    "title": "Exam",
+    "year": 2009,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 919,
+    "occurrences": [
+      [
+        196,
+        "00:25:37.960000",
+        "00:25:41.639000",
+        "Perhaps they company's Japanese-owned and this is an origami exam."
+      ],
+      [
+        253,
+        "00:30:04.080000",
+        "00:30:07.319000",
+        "This is not an exam."
+      ],
+      [
+        657,
+        "01:02:42.600000",
+        "01:02:44.599000",
+        "What is the purpose of this exam?"
+      ],
+      [
+        859,
+        "01:26:36.960000",
+        "01:26:39.559000",
+        "- The question? - What's the purpose of this exam?"
+      ]
+    ],
+    "regex": "\\b((?!\\bExam:)Exam)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

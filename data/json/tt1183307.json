@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1183307",
+    "title": "The Village of Shadows",
+    "year": 2010,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 655,
+    "occurrences": [
+      [
+        164,
+        "00:21:13.284000",
+        "00:21:15.643000",
+        "She called it ''the Village of Shadows''."
+      ],
+      [
+        443,
+        "01:09:17.917000",
+        "01:09:20.240000",
+        "There. ''Ruiflec... the Village of Shadows.''"
+      ],
+      [
+        647,
+        "01:38:16.567000",
+        "01:38:18.854000",
+        "She called it ''the Village of Shadows''..."
+      ]
+    ],
+    "regex": "\\b((?!\\bVillage\\ of\\ Shadows:)Village\\ of\\ Shadows)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

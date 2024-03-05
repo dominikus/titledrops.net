@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1431122",
+    "title": "No Problem",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 793,
+    "occurrences": [
+      [
+        49,
+        "00:14:08.080000",
+        "00:14:11.311000",
+        "They are in his stomach but no problem,"
+      ],
+      [
+        261,
+        "00:43:44.221000",
+        "00:43:47.588000",
+        "So! May I suppose this allias confirm, I have no problem with that."
+      ]
+    ],
+    "regex": "\\b((?!\\bNo\\ Problem:)No\\ Problem)(?!\\:)(?!'t)\\b",
+    "runtime": 139,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

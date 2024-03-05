@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5377604",
+    "title": "Pitbull: New Orders",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1336,
+    "occurrences": [
+      [
+        0,
+        "00:00:38.640000",
+        "00:00:41.610000",
+        "PITBULL. PUBLIC ORDER."
+      ],
+      [
+        1012,
+        "01:35:46.720000",
+        "01:35:48.609000",
+        "Thanks to a big mouth pitbull breeder."
+      ]
+    ],
+    "regex": "\\b((?!\\bPitbull:)Pitbull|(?!\\bNew\\ Orders:)New\\ Orders)(?!\\:)(?!'t)\\b",
+    "runtime": 133,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

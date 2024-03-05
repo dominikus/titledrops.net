@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2660294",
+    "title": "Candlestick",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1640,
+    "occurrences": [
+      [
+        1205,
+        "00:57:14.999000",
+        "00:57:19.737000",
+        "To the dining room with the candlestick."
+      ],
+      [
+        1221,
+        "00:58:07.785000",
+        "00:58:11.656000",
+        "To murder someone with a candlestick?"
+      ],
+      [
+        1242,
+        "00:59:10.915000",
+        "00:59:14.251000",
+        "But the fact remains that a candlestick"
+      ],
+      [
+        1257,
+        "00:59:44.849000",
+        "00:59:47.652000",
+        "Waiting for your victim to pass wielding a candlestick."
+      ]
+    ],
+    "regex": "\\b((?!\\bCandlestick:)Candlestick)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

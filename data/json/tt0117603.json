@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0117603",
+    "title": "Set It Off",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1506,
+    "occurrences": [
+      [
+        554,
+        "00:40:21.642000",
+        "00:40:23.269000",
+        "l need something l can set it off with."
+      ],
+      [
+        615,
+        "00:44:37.097000",
+        "00:44:39.531000",
+        "Look, if l didn't set it off, we'd be casing banks..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSet\\ It\\ Off:)Set\\ It\\ Off)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

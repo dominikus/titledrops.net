@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt18396866",
+    "title": "Dead Zone",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1180,
+    "occurrences": [
+      [
+        142,
+        "00:09:31.996000",
+        "00:09:34.373000",
+        "But it has been modified for Dead Zone ops."
+      ],
+      [
+        759,
+        "00:47:23.890000",
+        "00:47:25.725000",
+        "AJAX: It's the Dead Zone."
+      ]
+    ],
+    "regex": "\\b((?!\\bDead\\ Zone:)Dead\\ Zone)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

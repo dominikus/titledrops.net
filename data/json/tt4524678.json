@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt4524678",
+    "title": "The Citizen",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 923,
+    "occurrences": [
+      [
+        89,
+        "00:08:48.240000",
+        "00:08:51.528000",
+        "- What? - So he can become a Hungarian citizen."
+      ],
+      [
+        446,
+        "00:48:32.720000",
+        "00:48:35.326000",
+        "And are you going to be a Hungarian citizen, too, like Wilson?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCitizen:)Citizen)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

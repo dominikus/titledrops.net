@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3074578",
+    "title": "The Surface",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1133,
+    "occurrences": [
+      [
+        259,
+        "00:30:08.206000",
+        "00:30:12.552000",
+        "with the surface before you take off again."
+      ],
+      [
+        265,
+        "00:30:27.625000",
+        "00:30:32.870000",
+        "than it turned out to be and the floats caught the surface."
+      ]
+    ],
+    "regex": "\\b((?!\\bSurface:)Surface)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

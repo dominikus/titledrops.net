@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt9419838",
+    "title": "Panic: The Untold Story of the 2008 Financial Crisis",
+    "year": 2018,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "count": 8,
+    "all_lines": 2159,
+    "occurrences": [
+      [
+        27,
+        "00:01:48.041000",
+        "00:01:50.542000",
+        "In the 2008 financial panic,"
+      ],
+      [
+        860,
+        "00:38:37.458000",
+        "00:38:40.250000",
+        "and in a panic, you have to use overwhelming force"
+      ],
+      [
+        862,
+        "00:38:42.291000",
+        "00:38:44.291000",
+        "not to run, not to panic."
+      ],
+      [
+        1079,
+        "00:47:44.125000",
+        "00:47:47.417000",
+        "The 1929 panic was nothing like this."
+      ],
+      [
+        1553,
+        "01:09:16",
+        "01:09:18.458000",
+        "I don't know if it was a panic attack or whatever,"
+      ],
+      [
+        1859,
+        "01:21:48.083000",
+        "01:21:50.208000",
+        "you know, we'd broken the back of the panic,"
+      ],
+      [
+        1910,
+        "01:24:12.792000",
+        "01:24:15.041000",
+        "Geithner: We did slow the panic, or stop the panic,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPanic:)Panic|(?!\\bUntold\\ Story\\ of\\ the\\ 2008\\ Financial\\ Crisis:)Untold\\ Story\\ of\\ the\\ 2008\\ Financial\\ Crisis)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

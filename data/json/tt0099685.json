@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0099685",
+    "title": "Goodfellas",
+    "year": 1990,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 3544,
+    "occurrences": [
+      [
+        2821,
+        "01:49:57.632000",
+        "01:50:00.635000",
+        "You know, we always called each other goodfellas."
+      ],
+      [
+        2826,
+        "01:50:09.103000",
+        "01:50:12.147000",
+        "We were goodfellas, wiseguys."
+      ]
+    ],
+    "regex": "\\b((?!\\bGoodfellas:)Goodfellas)(?!\\:)(?!'t)\\b",
+    "runtime": 145,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.7
+  }
+]

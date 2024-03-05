@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt15251112",
+    "title": "9/11: Four Flights",
+    "year": 2021,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1197,
+    "occurrences": [
+      [
+        20,
+        "00:01:39.911000",
+        "00:01:45.458000",
+        "11/9: Four flights"
+      ],
+      [
+        166,
+        "00:11:43.598000",
+        "00:11:47.477000",
+        "He was almost certainly the first victim of the 9/11 events"
+      ],
+      [
+        435,
+        "00:30:28.042000",
+        "00:30:31.797000",
+        ", John Farmer 9/11 Senior Consultant, Part of the 9/11 Multilayer Security System Committee - which existed at"
+      ]
+    ],
+    "regex": "\\b((?!\\b9/11:)9/11|(?!\\bFour\\ Flights:)Four\\ Flights)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

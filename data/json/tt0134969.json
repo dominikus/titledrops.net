@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0134969",
+    "title": "Soccer Dog: The Movie",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1246,
+    "occurrences": [
+      [
+        204,
+        "00:18:46.190000",
+        "00:18:48.990000",
+        "I CRIED WHEN I SAW THE MOVIE, BUT DADDY'S OVER IT."
+      ],
+      [
+        243,
+        "00:21:18.990000",
+        "00:21:23.060000",
+        "AND THAT PELE MOVIE IS COMIN' BACK ON TV WITH STALLONE AND MICHAEL CAINE."
+      ]
+    ],
+    "regex": "\\b((?!\\bSoccer\\ Dog:)Soccer\\ Dog|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

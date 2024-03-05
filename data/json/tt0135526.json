@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0135526",
+    "title": "Loser",
+    "year": 1996,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1239,
+    "occurrences": [
+      [
+        878,
+        "00:54:38.062000",
+        "00:54:39.762000",
+        "They'd say you're a fucking loser."
+      ],
+      [
+        880,
+        "00:54:48.613000",
+        "00:54:51.526000",
+        "no-good fucking drug-dealing loser."
+      ],
+      [
+        1118,
+        "01:09:29.403000",
+        "01:09:32.166000",
+        "Hey, why are you messing around with a loser like that?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLoser:)Loser)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

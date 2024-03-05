@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0048960",
+    "title": "Around the World in 80 Days",
+    "year": 1956,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "count": 7,
+    "all_lines": 1343,
+    "occurrences": [
+      [
+        41,
+        "00:05:44.484000",
+        "00:05:49.350000",
+        "Jules Verne wrote a book about going around the world in 80 days."
+      ],
+      [
+        51,
+        "00:06:24.651000",
+        "00:06:28.648000",
+        "Around the World in 80 Days is the Jules Verne classic."
+      ],
+      [
+        201,
+        "00:17:56.781000",
+        "00:18:00.525000",
+        "You mean a complete tour all around the world in 80 days?"
+      ],
+      [
+        211,
+        "00:18:21.654000",
+        "00:18:24.531000",
+        "and I say there's nobody can go around the world in 80 days."
+      ],
+      [
+        219,
+        "00:18:49.654000",
+        "00:18:51.851000",
+        "to undertake a journey around the world in 80 days?"
+      ],
+      [
+        438,
+        "01:00:08.452000",
+        "01:00:13.054000",
+        "Yes, sir. Around the world in 80 days. He says it's a wager."
+      ],
+      [
+        1283,
+        "02:46:01.848000",
+        "02:46:05.212000",
+        "We went around the world in 80 days, this is the 81st..."
+      ]
+    ],
+    "regex": "\\b((?!\\bAround\\ the\\ World\\ in\\ 80\\ Days:)Around\\ the\\ World\\ in\\ 80\\ Days)(?!\\:)(?!'t)\\b",
+    "runtime": 170,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

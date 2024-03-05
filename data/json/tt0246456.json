@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0246456",
+    "title": "Bazaar",
+    "year": 1982,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 5,
+    "all_lines": 1057,
+    "occurrences": [
+      [
+        382,
+        "00:40:39.570000",
+        "00:40:43.529000",
+        "Najma, when you go to the bazaar to buy clothes ..."
+      ],
+      [
+        385,
+        "00:40:47.611000",
+        "00:40:49.044000",
+        "... you look up every shop in the bazaar."
+      ],
+      [
+        388,
+        "00:40:54.618000",
+        "00:41:00.557000",
+        "... that is the cheapest in your bazaar, it's a woman."
+      ],
+      [
+        534,
+        "00:57:02.585000",
+        "00:57:06.021000",
+        "Just watch. A bazaar will be laid out for you in no time."
+      ],
+      [
+        541,
+        "00:57:41.591000",
+        "00:57:47.052000",
+        "Honour,decency, dignity, are all being auotioned in this bazaar."
+      ]
+    ],
+    "regex": "\\b((?!\\bBazaar:)Bazaar)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

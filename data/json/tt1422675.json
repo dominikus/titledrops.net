@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1422675",
+    "title": "Ju-on: White Ghost",
+    "year": 2009,
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 704,
+    "occurrences": [
+      [
+        0,
+        "00:00:01.800000",
+        "00:00:05.888000",
+        "Ju-On is the curse left by a person who died with a deep grudge."
+      ],
+      [
+        23,
+        "00:01:56.822000",
+        "00:01:58.686000",
+        "Ju-On"
+      ],
+      [
+        24,
+        "00:01:58.687000",
+        "00:02:01.357000",
+        "Ju-On White Ghost"
+      ]
+    ],
+    "regex": "\\b((?!\\bJu\\-on:)Ju\\-on|(?!\\bWhite\\ Ghost:)White\\ Ghost)(?!\\:)(?!'t)\\b",
+    "runtime": 61,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

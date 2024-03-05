@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt1392190",
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 1,
+    "all_lines": 807,
+    "occurrences": [
+      [
+        137,
+        "00:16:20.634000",
+        "00:16:22.520000",
+        "...I'm gonna die historic on the Fury Road!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMad\\ Max:)Mad\\ Max|(?!\\bFury\\ Road:)Fury\\ Road)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

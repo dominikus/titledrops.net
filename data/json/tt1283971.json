@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt1283971",
+    "title": "Vegas: Based on a True Story",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1165,
+    "occurrences": [
+      [
+        162,
+        "00:13:23.237000",
+        "00:13:25.367000",
+        "Your family moved to San Diego from Vegas,"
+      ],
+      [
+        172,
+        "00:13:53.247000",
+        "00:13:57.369000",
+        "But San Diego wasn't home, not like Vegas."
+      ],
+      [
+        366,
+        "00:25:15.796000",
+        "00:25:17.715000",
+        "Plenty of Watsons lived in Las Vegas,"
+      ],
+      [
+        388,
+        "00:26:27.692000",
+        "00:26:30.662000",
+        "Oh please, every kid in Vegas heard that story,"
+      ],
+      [
+        391,
+        "00:26:36.063000",
+        "00:26:37.396000",
+        "Las Vegas, 1965."
+      ],
+      [
+        910,
+        "01:09:39.215000",
+        "01:09:41.214000",
+        "This is Las Vegas, okay?"
+      ]
+    ],
+    "regex": "\\b((?!\\bVegas:)Vegas|(?!\\bBased\\ on\\ a\\ True\\ Story:)Based\\ on\\ a\\ True\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

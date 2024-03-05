@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2790302",
+    "title": "Club Utopia",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 4,
+    "all_lines": 1718,
+    "occurrences": [
+      [
+        445,
+        "00:27:27.646000",
+        "00:27:29.481000",
+        "Welcome to Club Utopia,"
+      ],
+      [
+        912,
+        "00:56:39.897000",
+        "00:56:42.600000",
+        "I'm going to Club Utopia, have me a couple of drinks,"
+      ],
+      [
+        918,
+        "00:57:00.417000",
+        "00:57:02.987000",
+        "D.J.: Everybody welcome to Club Utopia"
+      ],
+      [
+        1702,
+        "01:44:46.681000",
+        "01:44:51.252000",
+        "SALLY (NARRATOR): Club Utopia. What a wonderful name."
+      ]
+    ],
+    "regex": "\\b((?!\\bClub\\ Utopia:)Club\\ Utopia)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

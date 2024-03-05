@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0072934",
+    "title": "A Pain in the Ass",
+    "year": 1973,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 773,
+    "occurrences": [
+      [
+        352,
+        "00:46:06.960000",
+        "00:46:08.188000",
+        "A pain in the ass!"
+      ],
+      [
+        714,
+        "01:13:28.880000",
+        "01:13:31.838000",
+        "- So that's why... - You've been a pain in the ass!"
+      ],
+      [
+        744,
+        "01:16:44.280000",
+        "01:16:45.952000",
+        "Well, he's been a pain in the ass!"
+      ]
+    ],
+    "regex": "\\b((?!\\bPain\\ in\\ the\\ Ass:)Pain\\ in\\ the\\ Ass)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

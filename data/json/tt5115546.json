@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt5115546",
+    "title": "Ghost Team",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1118,
+    "occurrences": [
+      [
+        385,
+        "00:24:30.075000",
+        "00:24:32.035000",
+        "We are called The Ghost Team. Not The Zombie Team."
+      ],
+      [
+        386,
+        "00:24:32.877000",
+        "00:24:34.513000",
+        "A Ghost Team?"
+      ],
+      [
+        417,
+        "00:26:13.479000",
+        "00:26:15.314000",
+        "So why Ghost Team?"
+      ],
+      [
+        649,
+        "00:43:47.998000",
+        "00:43:50.367000",
+        "Louis to Ghost Team, come in."
+      ],
+      [
+        916,
+        "01:04:22.264000",
+        "01:04:24.100000",
+        "Sorry, Ghost Team."
+      ],
+      [
+        1027,
+        "01:14:52.694000",
+        "01:14:55.264000",
+        "Maybe you'll think twice before messing with the Ghost Team!"
+      ]
+    ],
+    "regex": "\\b((?!\\bGhost\\ Team:)Ghost\\ Team)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

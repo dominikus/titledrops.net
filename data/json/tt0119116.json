@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0119116",
+    "title": "The Fifth Element",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1327,
+    "occurrences": [
+      [
+        58,
+        "00:09:09.815000",
+        "00:09:11.612000",
+        "The Fifth Element..."
+      ],
+      [
+        833,
+        "01:12:43.775000",
+        "01:12:48.895000",
+        "You, no trouble... Me, Fifth Element."
+      ],
+      [
+        1004,
+        "01:31:51.575000",
+        "01:31:53.088000",
+        "The Fifth Element."
+      ],
+      [
+        1203,
+        "01:48:28.175000",
+        "01:48:29.927000",
+        "The Fifth Element should be in the middle,"
+      ]
+    ],
+    "regex": "\\b((?!\\bFifth\\ Element:)Fifth\\ Element)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

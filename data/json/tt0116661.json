@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0116661",
+    "title": "It's in the Water",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1904,
+    "occurrences": [
+      [
+        320,
+        "00:16:37.708000",
+        "00:16:39.541000",
+        "It's in the water."
+      ],
+      [
+        324,
+        "00:16:46.875000",
+        "00:16:51.500000",
+        "because it's in the water."
+      ]
+    ],
+    "regex": "\\b((?!\\bIt's\\ in\\ the\\ Water:)It's\\ in\\ the\\ Water)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

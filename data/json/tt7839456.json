@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7839456",
+    "title": "The Prayer",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1033,
+    "occurrences": [
+      [
+        12,
+        "00:02:41.954000",
+        "00:02:45.541000",
+        "All your energy should be devoted to prayer and work."
+      ],
+      [
+        455,
+        "00:47:46.197000",
+        "00:47:47.615000",
+        "Even in prayer?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPrayer:)Prayer)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

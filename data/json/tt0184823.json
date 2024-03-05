@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0184823",
+    "title": "The Foundling",
+    "year": 1940,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1001,
+    "occurrences": [
+      [
+        535,
+        "00:36:31.840000",
+        "00:36:33.730000",
+        "A foundling? Left at my door?"
+      ],
+      [
+        638,
+        "00:41:22.850000",
+        "00:41:25.310000",
+        "But you'll have to return your foundling to her family."
+      ]
+    ],
+    "regex": "\\b((?!\\bFoundling:)Foundling)(?!\\:)(?!'t)\\b",
+    "runtime": 70,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0114367",
+    "title": "Screamers",
+    "year": 1995,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 668,
+    "occurrences": [
+      [
+        31,
+        "00:07:56.297000",
+        "00:07:59.972000",
+        "Without the screamers we\"d have lost the war."
+      ],
+      [
+        145,
+        "00:22:06.777000",
+        "00:22:11.726000",
+        "Screamers were developed to neutralize the war on the ground."
+      ],
+      [
+        204,
+        "00:27:22.617000",
+        "00:27:26.292000",
+        "Screamers only attack living things. They read your pulse rate."
+      ],
+      [
+        289,
+        "00:36:31.617000",
+        "00:36:36.133000",
+        "How do you keep away from the screamers?"
+      ]
+    ],
+    "regex": "\\b((?!\\bScreamers:)Screamers)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0268380",
+    "title": "Ice Age",
+    "year": 2002,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 563,
+    "occurrences": [
+      [
+        1,
+        "00:03:48.990000",
+        "00:03:51.868000",
+        "I'm just sayin', how do we know it's an ice age?"
+      ],
+      [
+        240,
+        "00:26:53.122000",
+        "00:26:55.481000",
+        "Prepare for the ice age."
+      ],
+      [
+        243,
+        "00:27:05.721000",
+        "00:27:08.040000",
+        "Prepare for the ice age."
+      ],
+      [
+        244,
+        "00:27:08.122000",
+        "00:27:11",
+        "- Ice age? - I've heard of these crackpots."
+      ],
+      [
+        249,
+        "00:27:27.881000",
+        "00:27:31.039000",
+        "No way. This is our private stockpile for the ice age."
+      ],
+      [
+        562,
+        "01:10:20.555000",
+        "01:10:24.233000",
+        "- Sounds very attractive. - This whole ice age thing is getting old."
+      ]
+    ],
+    "regex": "\\b((?!\\bIce\\ Age:)Ice\\ Age)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

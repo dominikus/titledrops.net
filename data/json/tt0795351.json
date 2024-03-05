@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0795351",
+    "title": "Case 39",
+    "year": 2009,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1049,
+    "occurrences": [
+      [
+        29,
+        "00:01:54.240000",
+        "00:01:55.225000",
+        "I don't need your help, in no case."
+      ],
+      [
+        149,
+        "00:13:17.800000",
+        "00:13:19.379000",
+        "Em, we do not have a case."
+      ],
+      [
+        308,
+        "00:27:51.300000",
+        "00:27:54.900000",
+        "You know you'd have to give up the case, conflict of interests and all."
+      ]
+    ],
+    "regex": "\\b((?!\\bCase:)Case)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

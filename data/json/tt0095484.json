@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0095484",
+    "title": "Lady in White",
+    "year": 1988,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 723,
+    "occurrences": [
+      [
+        296,
+        "00:43:49.526000",
+        "00:43:53.087000",
+        "\"of the legendary Lady in White."
+      ],
+      [
+        492,
+        "01:10:19.682000",
+        "01:10:23.277000",
+        "What's the matter? Afraid the Lady in White will get you?"
+      ],
+      [
+        525,
+        "01:16:10.198000",
+        "01:16:12.564000",
+        "- The Lady in White. - What?"
+      ],
+      [
+        526,
+        "01:16:12.634000",
+        "01:16:15.034000",
+        "Melissa's mother is the Lady in White."
+      ],
+      [
+        559,
+        "01:21:17.806000",
+        "01:21:22.175000",
+        "I already told you. Her mother is the Lady in White."
+      ]
+    ],
+    "regex": "\\b((?!\\bLady\\ in\\ White:)Lady\\ in\\ White)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

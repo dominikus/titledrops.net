@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0418773",
+    "title": "Junebug",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1228,
+    "occurrences": [
+      [
+        432,
+        "00:30:16.385000",
+        "00:30:17.687000",
+        "Junebug."
+      ],
+      [
+        433,
+        "00:30:18.783000",
+        "00:30:22.794000",
+        "I mean, his real name will be Johnny but we'll call him Junebug."
+      ],
+      [
+        434,
+        "00:30:22.937000",
+        "00:30:26.250000",
+        "And if it's a little girl we'll christen her Junebug Johnsten."
+      ],
+      [
+        435,
+        "00:30:26.589000",
+        "00:30:29.434000",
+        "Can't you see a little baby named Junebug?"
+      ]
+    ],
+    "regex": "\\b((?!\\bJunebug:)Junebug)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

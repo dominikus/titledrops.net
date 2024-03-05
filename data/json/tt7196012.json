@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt7196012",
+    "title": "Going to Mars: The Nikki Giovanni Project",
+    "year": 2023,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 2028,
+    "occurrences": [
+      [
+        1768,
+        "01:23:13.952000",
+        "01:23:15.203000",
+        "NIKKI: \"We're going to Mars,"
+      ],
+      [
+        1775,
+        "01:23:33.263000",
+        "01:23:35.324000",
+        "We're going to Mars because whatever is wrong with us"
+      ],
+      [
+        1807,
+        "01:24:53.051000",
+        "01:24:54.803000",
+        "We're going to Mars."
+      ]
+    ],
+    "regex": "\\b((?!\\bGoing\\ to\\ Mars:)Going\\ to\\ Mars|(?!\\bNikki\\ Giovanni\\ Project:)Nikki\\ Giovanni\\ Project)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

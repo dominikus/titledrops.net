@@ -1,0 +1,75 @@
+[
+  {
+    "imdb": "tt6398496",
+    "title": "Spell",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 9,
+    "all_lines": 1446,
+    "occurrences": [
+      [
+        91,
+        "00:07:26.071000",
+        "00:07:28.948000",
+        "He performed a powerful and complicated spell,"
+      ],
+      [
+        92,
+        "00:07:29.032000",
+        "00:07:30.867000",
+        "now known as Loftur's Spell,"
+      ],
+      [
+        98,
+        "00:07:42.921000",
+        "00:07:46.633000",
+        "...he will one day return and complete his spell."
+      ],
+      [
+        563,
+        "00:30:28.787000",
+        "00:30:33.249000",
+        "If I do a spell, right now, and it works,"
+      ],
+      [
+        1135,
+        "01:03:58.588000",
+        "01:04:01.925000",
+        "I'm not gonna do your goddamn spell anymore!"
+      ],
+      [
+        1392,
+        "01:19:17.632000",
+        "01:19:18.925000",
+        "I did this spell. I did..."
+      ],
+      [
+        1393,
+        "01:19:19.009000",
+        "01:19:21.261000",
+        "I did Loftur's spell, and you're back now."
+      ],
+      [
+        1410,
+        "01:20:00.967000",
+        "01:20:02.969000",
+        "The spell isn't finished."
+      ],
+      [
+        1424,
+        "01:22:01.921000",
+        "01:22:03.590000",
+        "Finish the spell."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpell:)Spell)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

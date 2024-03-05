@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0092829",
+    "title": "Strawman",
+    "year": 1987,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1207,
+    "occurrences": [
+      [
+        136,
+        "00:14:25.367000",
+        "00:14:26.972000",
+        "And please ask that strawman"
+      ],
+      [
+        366,
+        "00:29:52.382000",
+        "00:29:54.731000",
+        "Useless strawman. I'll do it myself!"
+      ]
+    ],
+    "regex": "\\b((?!\\bStrawman:)Strawman)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

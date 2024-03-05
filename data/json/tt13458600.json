@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt13458600",
+    "title": "Emicida: AmarElo - It's All for Yesterday",
+    "year": 2020,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 1423,
+    "occurrences": [
+      [
+        87,
+        "00:04:40.280000",
+        "00:04:42.991000",
+        "But everyone else knows me as Emicida."
+      ],
+      [
+        1235,
+        "01:11:55.311000",
+        "01:11:57.229000",
+        "and Emicida is caught in the crossfire?"
+      ],
+      [
+        1253,
+        "01:12:51.492000",
+        "01:12:54.036000",
+        "I wanted to double one of Emicida's lines."
+      ]
+    ],
+    "regex": "\\b((?!\\bEmicida:)Emicida|(?!\\bAmarElo\\ \\-\\ It's\\ All\\ for\\ Yesterday:)AmarElo\\ \\-\\ It's\\ All\\ for\\ Yesterday)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.5
+  }
+]

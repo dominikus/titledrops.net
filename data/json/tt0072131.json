@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0072131",
+    "title": "The Secret",
+    "year": 1974,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 689,
+    "occurrences": [
+      [
+        221,
+        "00:33:06.460000",
+        "00:33:09.760000",
+        "a secret. It is a thing nobody has the right to know."
+      ],
+      [
+        526,
+        "01:12:23.696000",
+        "01:12:25.064000",
+        "a secret agent."
+      ]
+    ],
+    "regex": "\\b((?!\\bSecret:)Secret)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

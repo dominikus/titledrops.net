@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1260680",
+    "title": "Pathfinders: In the Company of Strangers",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 658,
+    "occurrences": [
+      [
+        147,
+        "00:14:05.785000",
+        "00:14:08.439000",
+        "Pathfinders you can only come to stand."
+      ],
+      [
+        238,
+        "00:23:03.732000",
+        "00:23:07.965000",
+        "The solution. You. Pathfinders."
+      ]
+    ],
+    "regex": "\\b((?!\\bPathfinders:)Pathfinders|(?!\\bIn\\ the\\ Company\\ of\\ Strangers:)In\\ the\\ Company\\ of\\ Strangers)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

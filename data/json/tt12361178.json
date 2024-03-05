@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt12361178",
+    "title": "Drishyam 2",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 2850,
+    "occurrences": [
+      [
+        0,
+        "00:01:46.450000",
+        "00:01:51.950000",
+        "'Drishyam 2' "
+      ],
+      [
+        2640,
+        "02:14:57.250000",
+        "02:15:02.120000",
+        "...which is there in this novel published six months ago, called 'Drishyam' (Visual)."
+      ]
+    ],
+    "regex": "\\b((?!\\bDrishyam:)Drishyam)(?!\\:)(?!'t)\\b",
+    "runtime": 152,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.4
+  }
+]

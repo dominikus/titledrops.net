@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5646136",
+    "title": "Hillary's America: The Secret History of the Democratic Party",
+    "year": 2016,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1730,
+    "occurrences": [
+      [
+        634,
+        "00:37:53.856000",
+        "00:37:57.436000",
+        "about the secret history of the Democratic Party."
+      ],
+      [
+        1580,
+        "01:33:21.096000",
+        "01:33:24.766000",
+        "And we know the secret history of the Democratic Party."
+      ]
+    ],
+    "regex": "\\b((?!\\bHillary's\\ America:)Hillary's\\ America|(?!\\bSecret\\ History\\ of\\ the\\ Democratic\\ Party:)Secret\\ History\\ of\\ the\\ Democratic\\ Party)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

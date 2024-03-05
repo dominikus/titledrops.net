@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1212419",
+    "title": "Hereafter",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1242,
+    "occurrences": [
+      [
+        864,
+        "01:26:19.148000",
+        "01:26:22.578000",
+        "Reflective surface was the way to the life of the hereafter."
+      ],
+      [
+        1097,
+        "01:44:54.820000",
+        "01:44:57.646000",
+        "\"Was one of true of life of the Hereafter \""
+      ]
+    ],
+    "regex": "\\b((?!\\bHereafter:)Hereafter)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

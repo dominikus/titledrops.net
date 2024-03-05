@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0959342",
+    "title": "Mind the Gap",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 885,
+    "occurrences": [
+      [
+        7,
+        "00:02:24.760000",
+        "00:02:26.990000",
+        "\"Mind the gap\"!"
+      ],
+      [
+        216,
+        "00:22:02.480000",
+        "00:22:06.439000",
+        "It's \"mind the gap\"!"
+      ],
+      [
+        240,
+        "00:24:45",
+        "00:24:49.471000",
+        "Mind the gap. Mind the gap."
+      ],
+      [
+        743,
+        "01:19:42.920000",
+        "01:19:45.434000",
+        "Mind the gap."
+      ]
+    ],
+    "regex": "\\b((?!\\bMind\\ the\\ Gap:)Mind\\ the\\ Gap)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

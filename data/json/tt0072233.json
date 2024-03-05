@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0072233",
+    "title": "Swallows and Amazons",
+    "year": 1974,
+    "genres": [
+      "Adventure",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1115,
+    "occurrences": [
+      [
+        965,
+        "01:20:00.625000",
+        "01:20:03.499000",
+        "Well, goodbye, Swallows and Amazons."
+      ],
+      [
+        989,
+        "01:23:03.458000",
+        "01:23:07.540000",
+        "Death to Captain Flint! Swallows and Amazons forever!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSwallows\\ and\\ Amazons:)Swallows\\ and\\ Amazons)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

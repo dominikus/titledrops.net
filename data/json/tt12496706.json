@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt12496706",
+    "title": "The Advent Calendar",
+    "year": 2021,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 644,
+    "occurrences": [
+      [
+        14,
+        "00:02:34.829000",
+        "00:02:38.139000",
+        "If you're watching, you've had an Advent calendar."
+      ],
+      [
+        49,
+        "00:07:55.128000",
+        "00:07:56.641000",
+        "An Advent calendar?"
+      ],
+      [
+        153,
+        "00:18:42.144000",
+        "00:18:44.139000",
+        "A druggy Advent calendar."
+      ],
+      [
+        602,
+        "01:36:14.564000",
+        "01:36:17.607000",
+        "If you're watching this, you've had an Advent calendar."
+      ],
+      [
+        642,
+        "01:40:15.491000",
+        "01:40:18.480000",
+        "If you're watching this, you've had an Advent calendar."
+      ]
+    ],
+    "regex": "\\b((?!\\bAdvent\\ Calendar:)Advent\\ Calendar)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0039892",
+    "title": "That Hagen Girl",
+    "year": 1947,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1338,
+    "occurrences": [
+      [
+        179,
+        "00:11:05.012000",
+        "00:11:08.165000",
+        "From the day this all started, that Hagen girl will be marked."
+      ],
+      [
+        230,
+        "00:15:11.642000",
+        "00:15:13.111000",
+        "Have you seen that Hagen girl?"
+      ],
+      [
+        1108,
+        "01:07:51.069000",
+        "01:07:53.249000",
+        "I've been patient with that Hagen girl long enough."
+      ],
+      [
+        1129,
+        "01:09:00.875000",
+        "01:09:02.667000",
+        "Say, did you hear about that Hagen girl?"
+      ]
+    ],
+    "regex": "\\b((?!\\bThat\\ Hagen\\ Girl:)That\\ Hagen\\ Girl)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

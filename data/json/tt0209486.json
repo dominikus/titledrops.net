@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0209486",
+    "title": "Wish You Were Dead",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1889,
+    "occurrences": [
+      [
+        1874,
+        "01:27:12.495000",
+        "01:27:15.531000",
+        "Wish you were dead?"
+      ],
+      [
+        1887,
+        "01:28:19.562000",
+        "01:28:22.230000",
+        "Wish you were dead?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWish\\ You\\ Were\\ Dead:)Wish\\ You\\ Were\\ Dead)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

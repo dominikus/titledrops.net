@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0051145",
+    "title": "Utah Blaine",
+    "year": 1957,
+    "genres": [
+      "Western"
+    ],
+    "count": 5,
+    "all_lines": 1106,
+    "occurrences": [
+      [
+        51,
+        "00:03:59.369000",
+        "00:04:00.327000",
+        "I'm Utah Blaine."
+      ],
+      [
+        53,
+        "00:04:02.720000",
+        "00:04:04.635000",
+        "Utah Blaine is in old Mexico,"
+      ],
+      [
+        139,
+        "00:08:36.733000",
+        "00:08:39.301000",
+        "Man, what's Utah Blaine doing here?"
+      ],
+      [
+        140,
+        "00:08:39.344000",
+        "00:08:40.781000",
+        "Utah Blaine?"
+      ],
+      [
+        227,
+        "00:13:39.906000",
+        "00:13:43.170000",
+        "Just tell Rink that Utah Blaine is here."
+      ]
+    ],
+    "regex": "\\b((?!\\bUtah\\ Blaine:)Utah\\ Blaine)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [
+      "Utah Blaine"
+    ],
+    "title_is_name": true,
+    "rating": 6.2
+  }
+]

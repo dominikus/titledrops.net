@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt10613002",
+    "title": "Soul",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 443,
+    "occurrences": [
+      [
+        437,
+        "01:19:22.771000",
+        "01:19:25.315000",
+        "as your soul."
+      ],
+      [
+        439,
+        "01:19:33.495000",
+        "01:19:36.595000",
+        "your soul will go?"
+      ],
+      [
+        440,
+        "01:19:44.380000",
+        "01:19:46.924000",
+        "Will your soul..."
+      ],
+      [
+        442,
+        "01:19:54.463000",
+        "01:19:58.110000",
+        "or will your soul fall like ashes..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSoul:)Soul)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

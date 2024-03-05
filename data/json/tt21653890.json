@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt21653890",
+    "title": "Trigger",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Drama",
+      "Family"
+    ],
+    "count": 8,
+    "all_lines": 1891,
+    "occurrences": [
+      [
+        953,
+        "01:05:39.591000",
+        "01:05:40.761000",
+        "\"Trigger... Trigger!\""
+      ],
+      [
+        954,
+        "01:05:44.463000",
+        "01:05:45.522000",
+        "\"Trigger... Trigger!\""
+      ],
+      [
+        956,
+        "01:05:55.150000",
+        "01:05:56.190000",
+        "-\"Trigger... Trigger!\" -Hey!"
+      ],
+      [
+        964,
+        "01:06:39.474000",
+        "01:06:40.524000",
+        "\"Trigger... Trigger!\""
+      ]
+    ],
+    "regex": "\\b((?!\\bTrigger:)Trigger)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

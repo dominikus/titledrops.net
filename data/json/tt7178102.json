@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt7178102",
+    "title": "The Perception",
+    "year": 2018,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1237,
+    "occurrences": [
+      [
+        461,
+        "00:23:08.160000",
+        "00:23:11.029000",
+        "I'm thinking of calling it \"The Perception\"."
+      ],
+      [
+        855,
+        "00:44:44.722000",
+        "00:44:47.259000",
+        "It's all the matter of perception."
+      ],
+      [
+        1225,
+        "01:15:01.136000",
+        "01:15:03.273000",
+        "Perception is a peculiar thing."
+      ],
+      [
+        1230,
+        "01:15:15.551000",
+        "01:15:17.888000",
+        "\"If the doors of perception were cleansed,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPerception:)Perception)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

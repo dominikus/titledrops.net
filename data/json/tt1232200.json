@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1232200",
+    "title": "That's My Boy",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 2292,
+    "occurrences": [
+      [
+        196,
+        "00:11:59.302000",
+        "00:12:01.137000",
+        "'cause I swear to God, that's my boy."
+      ],
+      [
+        655,
+        "00:29:58.547000",
+        "00:29:59.673000",
+        "That's my boy! Look at him!"
+      ],
+      [
+        1138,
+        "00:50:30.361000",
+        "00:50:31.403000",
+        "That's my boy!"
+      ],
+      [
+        1813,
+        "01:22:24.565000",
+        "01:22:26.525000",
+        "That's my boy there."
+      ]
+    ],
+    "regex": "\\b((?!\\bThat's\\ My\\ Boy:)That's\\ My\\ Boy)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

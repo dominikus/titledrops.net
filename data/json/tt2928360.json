@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2928360",
+    "title": "10:30 A.M. Local Call",
+    "year": 2013,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1023,
+    "occurrences": [
+      [
+        213,
+        "00:31:43.067000",
+        "00:31:45.809000",
+        "Can you spend just 10 minutes with me 7"
+      ],
+      [
+        467,
+        "01:07:36.800000",
+        "01:07:41.647000",
+        "I called you at 10.30 am it was beginning of a game."
+      ]
+    ],
+    "regex": "\\b((?!\\b10:)10|(?!\\b30\\ A\\.M\\.\\ Local\\ Call:)30\\ A\\.M\\.\\ Local\\ Call)(?!\\:)(?!'t)\\b",
+    "runtime": 169,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

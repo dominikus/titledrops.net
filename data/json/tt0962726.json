@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0962726",
+    "title": "High School Musical 3: Senior Year",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 782,
+    "occurrences": [
+      [
+        298,
+        "00:19:17.889000",
+        "00:19:21.222000",
+        "- Guys, come on! It's our senior year! - Troy."
+      ],
+      [
+        299,
+        "00:19:23.428000",
+        "00:19:26.989000",
+        "We're all in this together. This is our senior year."
+      ],
+      [
+        311,
+        "00:20:03.201000",
+        "00:20:08.639000",
+        "A show about your final days at East High. We'll call it Senior Year."
+      ]
+    ],
+    "regex": "\\b((?!\\bHigh\\ School\\ Musical:)High\\ School\\ Musical|(?!\\bSenior\\ Year:)Senior\\ Year)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

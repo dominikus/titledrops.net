@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3305060",
+    "title": "Slow Video",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1016,
+    "occurrences": [
+      [
+        92,
+        "00:05:51.700000",
+        "00:05:52.800000",
+        "Slow video, you know right?"
+      ],
+      [
+        93,
+        "00:05:52.800000",
+        "00:05:56.600000",
+        "So to say that he has the ability like slow video data."
+      ]
+    ],
+    "regex": "\\b((?!\\bSlow\\ Video:)Slow\\ Video)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

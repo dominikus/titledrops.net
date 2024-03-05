@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1994537",
+    "title": "The Mole",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1087,
+    "occurrences": [
+      [
+        234,
+        "00:20:53.333000",
+        "00:20:57.749000",
+        "The person known by the pseudonym 'the Mole' was none other than..."
+      ],
+      [
+        810,
+        "01:10:01.500000",
+        "01:10:03.999000",
+        "who went by the pseudonym of 'the Mole'?"
+      ],
+      [
+        811,
+        "01:10:06.416000",
+        "01:10:11.124000",
+        "I categorically declare that 'the Mole' never existed."
+      ]
+    ],
+    "regex": "\\b((?!\\bMole:)Mole)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

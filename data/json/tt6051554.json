@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6051554",
+    "title": "The Garden of Afflictions",
+    "year": 2017,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1113,
+    "occurrences": [
+      [
+        39,
+        "00:04:34.444000",
+        "00:04:38.254000",
+        "becomes the Garden of Afflictions."
+      ],
+      [
+        439,
+        "00:30:02.304000",
+        "00:30:06.014000",
+        "And he was very interested in \"The Garden of Afflictions\","
+      ]
+    ],
+    "regex": "\\b((?!\\bGarden\\ of\\ Afflictions:)Garden\\ of\\ Afflictions)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

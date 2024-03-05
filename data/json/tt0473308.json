@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0473308",
+    "title": "Waitress",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 2175,
+    "occurrences": [
+      [
+        553,
+        "00:23:14.693000",
+        "00:23:17.145000",
+        "So you're a waitress."
+      ],
+      [
+        554,
+        "00:23:17.245000",
+        "00:23:18.213000",
+        "I'm a waitress."
+      ],
+      [
+        580,
+        "00:24:17.305000",
+        "00:24:20.859000",
+        "I had a mad crush on this waitress named Beatrice."
+      ],
+      [
+        645,
+        "00:28:08.670000",
+        "00:28:10.705000",
+        "No, no, no. I don't want you as my waitress."
+      ],
+      [
+        1786,
+        "01:22:03.414000",
+        "01:22:06.463000",
+        "You're not just some little waitress."
+      ]
+    ],
+    "regex": "\\b((?!\\bWaitress:)Waitress)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

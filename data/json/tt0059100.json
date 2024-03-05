@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0059100",
+    "title": "Devils of Darkness",
+    "year": 1965,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 929,
+    "occurrences": [
+      [
+        311,
+        "00:29:51.615000",
+        "00:29:54.846000",
+        "to pledge allegiance to the devils of darkness."
+      ],
+      [
+        816,
+        "01:08:35.681000",
+        "01:08:37.478000",
+        "Devils of Darkness, huh?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDevils\\ of\\ Darkness:)Devils\\ of\\ Darkness)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

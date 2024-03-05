@@ -1,0 +1,86 @@
+[
+  {
+    "imdb": "tt0096241",
+    "title": "The Telephone",
+    "year": 1988,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 11,
+    "all_lines": 1469,
+    "occurrences": [
+      [
+        49,
+        "00:03:15.061000",
+        "00:03:17.363000",
+        "(telephone ringing)"
+      ],
+      [
+        50,
+        "00:03:20.800000",
+        "00:03:23.536000",
+        "(telephone ringing)"
+      ],
+      [
+        51,
+        "00:03:26.806000",
+        "00:03:29.275000",
+        "(telephone ringing)"
+      ],
+      [
+        113,
+        "00:07:12.064000",
+        "00:07:14.734000",
+        "calling in regards to your overdue telephone bill."
+      ],
+      [
+        126,
+        "00:07:34.220000",
+        "00:07:37.723000",
+        "but this is why I've recorded the number of the telephone."
+      ],
+      [
+        1337,
+        "01:11:22.544000",
+        "01:11:24.546000",
+        "on behalf of the telephone company,"
+      ],
+      [
+        1350,
+        "01:11:56.045000",
+        "01:11:58.547000",
+        "I got a work order here to pick up the telephone."
+      ],
+      [
+        1356,
+        "01:12:06.422000",
+        "01:12:09.491000",
+        "Says here I got to pick up a telephone from..."
+      ],
+      [
+        1413,
+        "01:14:28.130000",
+        "01:14:29.731000",
+        "for this telephone?"
+      ],
+      [
+        1448,
+        "01:15:38.567000",
+        "01:15:39.334000",
+        "You hit me with a goddamn telephone!"
+      ],
+      [
+        1459,
+        "01:16:06.962000",
+        "01:16:10.032000",
+        "You killed me with a telephone?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTelephone:)Telephone)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

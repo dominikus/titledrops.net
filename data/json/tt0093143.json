@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt0093143",
+    "title": "The Hanoi Hilton",
+    "year": 1987,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 7,
+    "all_lines": 2944,
+    "occurrences": [
+      [
+        212,
+        "00:19:06.546000",
+        "00:19:08.913000",
+        "Welcome to the bridal suite of the Hanoi Hilton."
+      ],
+      [
+        897,
+        "00:46:51.442000",
+        "00:46:55.945000",
+        "KENNEDY: Hi. Welcome to the Hanoi Hilton. Pretty nice, huh?"
+      ],
+      [
+        899,
+        "00:46:56.697000",
+        "00:46:57.446000",
+        "KENNEDY: Hi. Welcome to the Hanoi Hilton. Pretty nice, huh?"
+      ],
+      [
+        901,
+        "00:46:58.732000",
+        "00:47:00.015000",
+        "KENNEDY: Hi. Welcome to the Hanoi Hilton. Pretty nice, huh?"
+      ],
+      [
+        903,
+        "00:47:00.968000",
+        "00:47:01.917000",
+        "KENNEDY: Hi. Welcome to the Hanoi Hilton. Pretty nice, huh?"
+      ],
+      [
+        905,
+        "00:47:03.204000",
+        "00:47:04.487000",
+        "KENNEDY: Hi. Welcome to the Hanoi Hilton. Pretty nice, huh?"
+      ],
+      [
+        907,
+        "00:47:07.024000",
+        "00:47:09.558000",
+        "KENNEDY: Hi. Welcome to the Hanoi Hilton. Pretty nice, huh?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHanoi\\ Hilton:)Hanoi\\ Hilton)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

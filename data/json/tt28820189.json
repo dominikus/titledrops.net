@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt28820189",
+    "title": "Mad",
+    "year": 2023,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 2383,
+    "occurrences": [
+      [
+        900,
+        "00:46:18.333000",
+        "00:46:22",
+        "He will go after the girl from the bus, chase her, and go mad. Guaranteed."
+      ],
+      [
+        2145,
+        "01:51:00.375000",
+        "01:51:03.333000",
+        "You gag me and then try to torture me. How can I answer? Mad idiots!"
+      ],
+      [
+        2197,
+        "01:54:26.125000",
+        "01:54:29",
+        "He will be after that girl from the bus and will become mad one day."
+      ]
+    ],
+    "regex": "\\b((?!\\bMad:)Mad)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

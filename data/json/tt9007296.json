@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt9007296",
+    "title": "Bone Cage",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1473,
+    "occurrences": [
+      [
+        610,
+        "00:33:18.287000",
+        "00:33:19.220000",
+        "JAMIE: \"... a bone cage...\""
+      ],
+      [
+        613,
+        "00:33:23.589000",
+        "00:33:26.326000",
+        "A bone cage with a bird."
+      ],
+      [
+        614,
+        "00:33:26.361000",
+        "00:33:27.690000",
+        "The bird in my bone cage,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBone\\ Cage:)Bone\\ Cage)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

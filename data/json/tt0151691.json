@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0151691",
+    "title": "My Name Is Joe",
+    "year": 1998,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1429,
+    "occurrences": [
+      [
+        26,
+        "00:01:23.640000",
+        "00:01:25.631000",
+        "\"My name is Joe..."
+      ],
+      [
+        35,
+        "00:01:48.120000",
+        "00:01:50.270000",
+        "\"My name is Joe and I'm an alcoholic.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Name\\ Is\\ Joe:)My\\ Name\\ Is\\ Joe)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

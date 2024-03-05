@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt12539136",
+    "title": "Metsäjätti",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 761,
+    "occurrences": [
+      [
+        49,
+        "00:04:13.627000",
+        "00:04:17.005000",
+        "merged with Metsajatti."
+      ],
+      [
+        524,
+        "00:52:45.662000",
+        "00:52:48.873000",
+        "Metsajatti stock soared."
+      ],
+      [
+        583,
+        "01:00:35.339000",
+        "01:00:39.839000",
+        "Metsajatti has changed its name to Consolidated Forest Giants."
+      ],
+      [
+        591,
+        "01:01:27.391000",
+        "01:01:29.726000",
+        "I'm sure you understand we laid people off to sell Metsajatti."
+      ],
+      [
+        628,
+        "01:03:48.032000",
+        "01:03:49.992000",
+        "Metsajatti merged -"
+      ]
+    ],
+    "regex": "\\b((?!\\bMetsajatti:)Metsajatti)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt2017452",
+    "title": "205: Room of Fear",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "count": 7,
+    "all_lines": 571,
+    "occurrences": [
+      [
+        47,
+        "00:08:38.281000",
+        "00:08:44.538000",
+        "- You're the new girl, Katie? - I just moved into room 205."
+      ],
+      [
+        50,
+        "00:08:53.173000",
+        "00:08:56.294000",
+        "No, I mean room 205. That's crazy."
+      ],
+      [
+        62,
+        "00:10:43.002000",
+        "00:10:45.920000",
+        "So this my new home, room 205."
+      ],
+      [
+        72,
+        "00:14:25.537000",
+        "00:14:27.448000",
+        "205?"
+      ],
+      [
+        157,
+        "00:31:45.178000",
+        "00:31:47.753000",
+        "Yes, room 205."
+      ],
+      [
+        231,
+        "00:40:12.568000",
+        "00:40:15.107000",
+        "- The psycho bitch in room 205. - But I didn't..."
+      ],
+      [
+        286,
+        "00:51:28.851000",
+        "00:51:32.685000",
+        "The girl in room 205? Nonsense. She just ran away."
+      ]
+    ],
+    "regex": "\\b((?!\\b205:)205|(?!\\bRoom\\ of\\ Fear:)Room\\ of\\ Fear)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

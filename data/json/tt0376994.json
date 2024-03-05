@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt0376994",
+    "title": "X-Men: The Last Stand",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 1,
+    "all_lines": 755,
+    "occurrences": [
+      [
+        635,
+        "01:11:51.835000",
+        "01:11:54.235000",
+        "X-Men."
+      ]
+    ],
+    "regex": "\\b((?!\\bX\\-Men:)X\\-Men|(?!\\bLast\\ Stand:)Last\\ Stand)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

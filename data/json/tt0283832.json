@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0283832",
+    "title": "8 Women",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 1533,
+    "occurrences": [
+      [
+        1433,
+        "01:38:31.893000",
+        "01:38:36.728000",
+        "There once was a good man with 8 women vexing him."
+      ],
+      [
+        1436,
+        "01:38:48.561000",
+        "01:38:51.121000",
+        "His 8 women continued as usual."
+      ]
+    ],
+    "regex": "\\b((?!\\b8\\ Women:)8\\ Women)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

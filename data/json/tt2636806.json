@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt2636806",
+    "title": "Shirley: Visions of Reality",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 812,
+    "occurrences": [
+      [
+        0,
+        "00:02:13.803000",
+        "00:02:20.735000",
+        "Shirley"
+      ],
+      [
+        1,
+        "00:02:20.700000",
+        "00:02:23.752000",
+        "VISIONS OF REALITY"
+      ],
+      [
+        461,
+        "00:47:57.501000",
+        "00:47:59.981000",
+        "Ok. This looks good, Shirley."
+      ],
+      [
+        775,
+        "01:23:35.525000",
+        "01:23:40.012000",
+        "Shirley VISIONS OF REALITY"
+      ]
+    ],
+    "regex": "\\b((?!\\bShirley:)Shirley|(?!\\bVisions\\ of\\ Reality:)Visions\\ of\\ Reality)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

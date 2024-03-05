@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3561204",
+    "title": "Friends Don't Let Friends",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 875,
+    "occurrences": [
+      [
+        277,
+        "00:24:32.196000",
+        "00:24:35.733000",
+        "Oh, thanks, you know, friends don't let friends pursue true happiness."
+      ],
+      [
+        278,
+        "00:24:35.735000",
+        "00:24:39.669000",
+        "No, you see, I was thinking, friends don't let friends pursue bad relationships"
+      ]
+    ],
+    "regex": "\\b((?!\\bFriends\\ Don't\\ Let\\ Friends:)Friends\\ Don't\\ Let\\ Friends)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.8
+  }
+]

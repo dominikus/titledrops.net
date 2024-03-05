@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6560164",
+    "title": "Sweetheart",
+    "year": 2019,
+    "genres": [
+      "Adventure",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 681,
+    "occurrences": [
+      [
+        225,
+        "00:44:39.678000",
+        "00:44:41.878000",
+        "Sweetheart, I'm sure there's a lot of animals."
+      ],
+      [
+        317,
+        "00:50:58.256000",
+        "00:51:00.089000",
+        "Sweetheart, are you even listening to me?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSweetheart:)Sweetheart)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

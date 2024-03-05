@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt13453138",
+    "title": "The Path",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 836,
+    "occurrences": [
+      [
+        177,
+        "00:18:31.736000",
+        "00:18:34.113000",
+        "Can she manage the path?"
+      ],
+      [
+        289,
+        "00:31:41.525000",
+        "00:31:46.864000",
+        "You had to pick the path over the mountains, dad."
+      ]
+    ],
+    "regex": "\\b((?!\\bPath:)Path)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

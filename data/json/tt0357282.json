@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0357282",
+    "title": "The King",
+    "year": 2002,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 546,
+    "occurrences": [
+      [
+        92,
+        "00:15:31.760000",
+        "00:15:33.239000",
+        "Come on my King."
+      ],
+      [
+        497,
+        "00:54:01.360000",
+        "00:54:03.112000",
+        "You're a king."
+      ]
+    ],
+    "regex": "\\b((?!\\bKing:)King)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

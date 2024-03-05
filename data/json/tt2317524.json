@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2317524",
+    "title": "12 Rounds 2: Reloaded",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1444,
+    "occurrences": [
+      [
+        167,
+        "00:11:26.787000",
+        "00:11:31.456000",
+        "Now, this game has 12 rounds."
+      ],
+      [
+        607,
+        "00:36:06.498000",
+        "00:36:08.965000",
+        "He said 12 rounds. Why 12?"
+      ]
+    ],
+    "regex": "\\b((?!\\b12\\ Rounds:)12\\ Rounds|(?!\\bReloaded:)Reloaded)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

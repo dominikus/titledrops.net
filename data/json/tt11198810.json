@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt11198810",
+    "title": "She Said",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 1923,
+    "occurrences": [
+      [
+        112,
+        "00:08:48.600000",
+        "00:08:50.376000",
+        "- I'm gonna go get some noodles. - Here's what she said"
+      ],
+      [
+        151,
+        "00:10:58.680000",
+        "00:11:01.360000",
+        "She said the wrongdoing in Hollywood is overwhelming."
+      ],
+      [
+        1764,
+        "01:45:07.880000",
+        "01:45:09.040000",
+        "She said yes."
+      ]
+    ],
+    "regex": "\\b((?!\\bShe\\ Said:)She\\ Said)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

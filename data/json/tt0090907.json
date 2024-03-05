@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0090907",
+    "title": "The Horse Thief",
+    "year": 1986,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 218,
+    "occurrences": [
+      [
+        68,
+        "00:17:27.920000",
+        "00:17:29.751000",
+        "She says you're a horse thief."
+      ],
+      [
+        70,
+        "00:17:39.600000",
+        "00:17:40.874000",
+        "Horse thief..."
+      ],
+      [
+        194,
+        "01:13:33.680000",
+        "01:13:37.912000",
+        "I'm not a horse thief! Let me go!"
+      ]
+    ],
+    "regex": "\\b((?!\\bHorse\\ Thief:)Horse\\ Thief)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

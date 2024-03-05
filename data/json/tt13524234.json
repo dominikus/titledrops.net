@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt13524234",
+    "title": "Folklore: The Long Pond Studio Sessions",
+    "year": 2020,
+    "genres": [
+      "Documentary",
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 1553,
+    "occurrences": [
+      [
+        222,
+        "00:14:45.343000",
+        "00:14:47.721000",
+        "That song is such a folklore moment to me"
+      ],
+      [
+        492,
+        "00:33:24.963000",
+        "00:33:28.591000",
+        "In folklore, there are a lot of songs that reference each other or lyrical parallels,"
+      ],
+      [
+        1458,
+        "01:40:17.308000",
+        "01:40:19.144000",
+        "when I was writing folklore is,"
+      ]
+    ],
+    "regex": "\\b((?!\\bFolklore:)Folklore|(?!\\bLong\\ Pond\\ Studio\\ Sessions:)Long\\ Pond\\ Studio\\ Sessions)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.5
+  }
+]

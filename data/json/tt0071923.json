@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0071923",
+    "title": "Prophecies of Nostradamus",
+    "year": 1974,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 615,
+    "occurrences": [
+      [
+        2,
+        "00:00:35.093000",
+        "00:00:38.056000",
+        "(Schoolmaster Nishiyama Genta) According to the prophecies of Nostradamus..."
+      ],
+      [
+        138,
+        "00:15:48.059000",
+        "00:15:50.742000",
+        "A passage from the prophecies of Nostradamus."
+      ],
+      [
+        373,
+        "00:41:41.452000",
+        "00:41:47.819000",
+        "And that's not all.  You're starting to scare the public. The prophecies of Nostradamus . . ."
+      ]
+    ],
+    "regex": "\\b((?!\\bProphecies\\ of\\ Nostradamus:)Prophecies\\ of\\ Nostradamus)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

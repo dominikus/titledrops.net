@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0155732",
+    "title": "Gunfighter",
+    "year": 1999,
+    "genres": [
+      "Western"
+    ],
+    "count": 4,
+    "all_lines": 957,
+    "occurrences": [
+      [
+        84,
+        "00:10:50.850000",
+        "00:10:53.219000",
+        "Damnedest gunfighter ever seen in the West--"
+      ],
+      [
+        91,
+        "00:11:09.835000",
+        "00:11:12.905000",
+        "Damn straight shooter. To Hoppy the gunfighter."
+      ],
+      [
+        697,
+        "01:05:55.818000",
+        "01:05:59.221000",
+        "Tex Ewalt, the greatest gunfighter alive."
+      ],
+      [
+        880,
+        "01:22:10.025000",
+        "01:22:13.295000",
+        "I'll show you a master gunfighter."
+      ]
+    ],
+    "regex": "\\b((?!\\bGunfighter:)Gunfighter)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

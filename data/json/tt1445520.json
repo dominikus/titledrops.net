@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1445520",
+    "title": "Footnote",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1077,
+    "occurrences": [
+      [
+        221,
+        "00:18:12.740000",
+        "00:18:16.310000",
+        "His life's pride is the footnote"
+      ],
+      [
+        395,
+        "00:36:13.290000",
+        "00:36:16.890000",
+        "Footnote"
+      ],
+      [
+        649,
+        "00:51:34.140000",
+        "00:51:36.470000",
+        "is the footnote that Feinstein gave him!"
+      ]
+    ],
+    "regex": "\\b((?!\\bFootnote:)Footnote)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

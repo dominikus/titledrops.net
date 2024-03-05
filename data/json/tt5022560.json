@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt5022560",
+    "title": "Goodland",
+    "year": 2017,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1231,
+    "occurrences": [
+      [
+        273,
+        "00:16:31.687000",
+        "00:16:34.727000",
+        "Uh, Goodland's an odd choice for a stopover."
+      ],
+      [
+        348,
+        "00:19:55.887000",
+        "00:19:57.047000",
+        "I'll tell you all of Goodland's"
+      ],
+      [
+        865,
+        "00:53:24.325000",
+        "00:53:26.165000",
+        "You enjoying your stay in Goodland?"
+      ],
+      [
+        888,
+        "00:54:28.484000",
+        "00:54:31.244000",
+        "Crime doesn't sleep, not even in Goodland?"
+      ],
+      [
+        1163,
+        "01:13:24.124000",
+        "01:13:25.563000",
+        "Goodland, Kansas."
+      ]
+    ],
+    "regex": "\\b((?!\\bGoodland:)Goodland)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

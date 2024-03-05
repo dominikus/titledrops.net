@@ -1,0 +1,80 @@
+[
+  {
+    "imdb": "tt0068334",
+    "title": "The Candidate",
+    "year": 1972,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 10,
+    "all_lines": 2572,
+    "occurrences": [
+      [
+        293,
+        "00:14:56.425000",
+        "00:14:59.797000",
+        "as a candidate for the United States senate."
+      ],
+      [
+        302,
+        "00:15:14.895000",
+        "00:15:15.963000",
+        "as a candidate."
+      ],
+      [
+        493,
+        "00:23:38.935000",
+        "00:23:40.906000",
+        "I see we have one more candidate,"
+      ],
+      [
+        816,
+        "00:35:28.219000",
+        "00:35:31.492000",
+        "* McKay's the people's candidate *"
+      ],
+      [
+        1198,
+        "00:50:07.073000",
+        "00:50:08.977000",
+        "Now, those guys want to talk to the candidate."
+      ],
+      [
+        1204,
+        "00:50:15.490000",
+        "00:50:17.226000",
+        "the candidate is not going to comment"
+      ],
+      [
+        1471,
+        "01:00:31.487000",
+        "01:00:33.190000",
+        "A political candidate's bid for our votes"
+      ],
+      [
+        1480,
+        "01:00:52.629000",
+        "01:00:55.635000",
+        "that cheapens candidate and voter alike."
+      ],
+      [
+        1865,
+        "01:13:40.763000",
+        "01:13:42.298000",
+        "Each candidate will have one minute."
+      ],
+      [
+        2132,
+        "01:27:22.737000",
+        "01:27:24.975000",
+        "No candidate can come before you"
+      ]
+    ],
+    "regex": "\\b((?!\\bCandidate:)Candidate)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

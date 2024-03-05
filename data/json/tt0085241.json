@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0085241",
+    "title": "Bicycles Are for the Summer",
+    "year": 1984,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1494,
+    "occurrences": [
+      [
+        27,
+        "00:02:13.400000",
+        "00:02:18.719000",
+        "Bicycles Are for the Summer"
+      ],
+      [
+        311,
+        "00:20:20.880000",
+        "00:20:24.079000",
+        "I didn't realize about summer. Bicycles are for the summer."
+      ]
+    ],
+    "regex": "\\b((?!\\bBicycles\\ Are\\ for\\ the\\ Summer:)Bicycles\\ Are\\ for\\ the\\ Summer)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

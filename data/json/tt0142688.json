@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0142688",
+    "title": "The Ninth Gate",
+    "year": 1999,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1024,
+    "occurrences": [
+      [
+        791,
+        "01:25:08.270000",
+        "01:25:13.024000",
+        "Maybe Torchia hid the secret of the Ninth Gate in three books, not one."
+      ],
+      [
+        956,
+        "01:58:05.245000",
+        "01:58:07.746000",
+        "...the ninth gate."
+      ],
+      [
+        998,
+        "02:01:09.429000",
+        "02:01:12.556000",
+        "Admit me to the ninth gate."
+      ]
+    ],
+    "regex": "\\b((?!\\bNinth\\ Gate:)Ninth\\ Gate)(?!\\:)(?!'t)\\b",
+    "runtime": 133,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

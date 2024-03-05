@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0074811",
+    "title": "The Tenant",
+    "year": 1976,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 985,
+    "occurrences": [
+      [
+        23,
+        "00:05:07.058000",
+        "00:05:09.685000",
+        "The previous tenant threw herself out of the window."
+      ],
+      [
+        81,
+        "00:09:37.209000",
+        "00:09:41.042000",
+        "Anyway, the former tenant is not dead yet."
+      ],
+      [
+        453,
+        "00:52:48.274000",
+        "00:52:53.211000",
+        "Yes, it used to be. I'm the new tenant."
+      ],
+      [
+        548,
+        "01:01:52.652000",
+        "01:01:57.384000",
+        "the former tenant always wore slippers after 10:00."
+      ],
+      [
+        966,
+        "02:03:18.289000",
+        "02:03:21.258000",
+        "- A tenant jumped out of a window. - Again?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTenant:)Tenant)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

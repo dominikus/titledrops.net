@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt5860084",
+    "title": "The Housemaid",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 690,
+    "occurrences": [
+      [
+        14,
+        "00:06:18.961000",
+        "00:06:21.171000",
+        "I'm a housemaid at Sa-Cat plantation."
+      ],
+      [
+        30,
+        "00:08:21.667000",
+        "00:08:25.420000",
+        "I heard that there's a need for a housemaid at the estate."
+      ],
+      [
+        136,
+        "00:16:45.378000",
+        "00:16:48.172000",
+        "She will be working for us as a housemaid if things work out."
+      ],
+      [
+        497,
+        "01:07:14.071000",
+        "01:07:17.491000",
+        "How could you? And with a lowly housemaid?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHousemaid:)Housemaid)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

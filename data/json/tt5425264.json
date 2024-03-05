@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5425264",
+    "title": "Throne of Elves",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 943,
+    "occurrences": [
+      [
+        592,
+        "00:52:58.896000",
+        "00:53:00.896000",
+        "I'll sit on the Throne of Elves"
+      ],
+      [
+        915,
+        "01:30:26.521000",
+        "01:30:30.120000",
+        "The Throne of Elves, the throne of the world-"
+      ]
+    ],
+    "regex": "\\b((?!\\bThrone\\ of\\ Elves:)Throne\\ of\\ Elves)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

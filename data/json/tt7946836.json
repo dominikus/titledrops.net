@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt7946836",
+    "title": "Animal World",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1338,
+    "occurrences": [
+      [
+        891,
+        "01:26:57.458000",
+        "01:26:59.708000",
+        "Loyalty means nothing in this animal world!"
+      ],
+      [
+        1232,
+        "01:51:16.792000",
+        "01:51:18.917000",
+        "In this animal world,"
+      ],
+      [
+        1300,
+        "01:55:47.625000",
+        "01:55:49.542000",
+        "To hell with the Animal World."
+      ]
+    ],
+    "regex": "\\b((?!\\bAnimal\\ World:)Animal\\ World)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

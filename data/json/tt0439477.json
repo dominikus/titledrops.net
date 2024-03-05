@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0439477",
+    "title": "Boutique",
+    "year": 2004,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1455,
+    "occurrences": [
+      [
+        99,
+        "00:08:49.770000",
+        "00:08:53.980000",
+        "You came to my boutique a month ago"
+      ],
+      [
+        365,
+        "00:25:50.260000",
+        "00:25:55.440000",
+        "The window for the boutique that sells leather"
+      ],
+      [
+        452,
+        "00:31:31.550000",
+        "00:31:34.810000",
+        "I have to go to the boutique -What was the point?"
+      ],
+      [
+        553,
+        "00:38:03.040000",
+        "00:38:05.320000",
+        "If I leave the boutique"
+      ],
+      [
+        781,
+        "00:53:29.910000",
+        "00:53:31.960000",
+        "You'll go back to the boutique as of tomorrow"
+      ],
+      [
+        1440,
+        "01:41:20.650000",
+        "01:41:24.340000",
+        "She said she'd send money for Jahan to have his own boutique"
+      ]
+    ],
+    "regex": "\\b((?!\\bBoutique:)Boutique)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

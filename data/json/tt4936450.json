@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4936450",
+    "title": "Graduation",
+    "year": 2016,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1696,
+    "occurrences": [
+      [
+        0,
+        "00:00:49.792000",
+        "00:00:52.750000",
+        "Graduation"
+      ],
+      [
+        1587,
+        "01:55:55.036000",
+        "01:55:58.203000",
+        "I'm going to Eliza's graduation."
+      ]
+    ],
+    "regex": "\\b((?!\\bGraduation:)Graduation)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

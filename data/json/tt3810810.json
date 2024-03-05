@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3810810",
+    "title": "Nobody's Watching",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1005,
+    "occurrences": [
+      [
+        911,
+        "01:25:37",
+        "01:25:39.700000",
+        "No one watches the cameras. Nobody's watching."
+      ],
+      [
+        993,
+        "01:36:36.400000",
+        "01:36:38.400000",
+        "Nobody's watching."
+      ]
+    ],
+    "regex": "\\b((?!\\bNobody's\\ Watching:)Nobody's\\ Watching)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

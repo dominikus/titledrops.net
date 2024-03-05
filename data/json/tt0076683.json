@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0076683",
+    "title": "The Sentinel",
+    "year": 1977,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 996,
+    "occurrences": [
+      [
+        914,
+        "01:21:41.363000",
+        "01:21:43.888000",
+        "you become the next sentinel."
+      ],
+      [
+        919,
+        "01:21:59.814000",
+        "01:22:03.375000",
+        "The only way they can stop the new sentinel..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSentinel:)Sentinel)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "imdb": "tt0054847",
+    "title": "El Cid",
+    "year": 1961,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 8,
+    "all_lines": 1211,
+    "occurrences": [
+      [
+        5,
+        "00:06:32.504000",
+        "00:06:36.600000",
+        "known to history and to legend as El Cid, \"The Lord. \""
+      ],
+      [
+        99,
+        "00:15:06.484000",
+        "00:15:09.942000",
+        "We call such a man, \"El Cid.\""
+      ],
+      [
+        815,
+        "01:52:15.373000",
+        "01:52:18.308000",
+        "El Cid!"
+      ],
+      [
+        824,
+        "01:53:00.585000",
+        "01:53:03.679000",
+        "- El Cid! - El Cid!"
+      ],
+      [
+        994,
+        "02:24:29.681000",
+        "02:24:33.879000",
+        "My lord! El Cid is throwing them food!"
+      ],
+      [
+        1146,
+        "02:53:48.004000",
+        "02:53:52.498000",
+        "El Cid! El Cid!"
+      ]
+    ],
+    "regex": "\\b((?!\\bEl:)El)(?!\\:)(?!'t)\\b",
+    "runtime": 185,
+    "characters": [
+      "El Cid Rodrigo de Vivar"
+    ],
+    "title_is_name": true,
+    "rating": 7.2
+  }
+]

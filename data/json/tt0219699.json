@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0219699",
+    "title": "The Gift",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1085,
+    "occurrences": [
+      [
+        731,
+        "01:06:14.534000",
+        "01:06:19.741000",
+        "My granny told me that I... I had a gift, that it runs in my family."
+      ],
+      [
+        735,
+        "01:06:31.617000",
+        "01:06:35.699000",
+        "from any other means than your special ability, your gift?"
+      ],
+      [
+        755,
+        "01:07:59.200000",
+        "01:08:02.741000",
+        "Maybe this gift doesn't work unless you're being paid."
+      ],
+      [
+        768,
+        "01:08:50.492000",
+        "01:08:54.658000",
+        "It doesn't work that way. I can't use my gift for personal gain."
+      ]
+    ],
+    "regex": "\\b((?!\\bGift:)Gift)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

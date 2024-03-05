@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5606664",
+    "title": "Doctor Sleep",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1970,
+    "occurrences": [
+      [
+        597,
+        "00:51:00.930000",
+        "00:51:02.907000",
+        "Doctor Sleep."
+      ],
+      [
+        649,
+        "00:56:57.085000",
+        "00:57:02.024000",
+        "What a visit from Doctor Sleep really is."
+      ]
+    ],
+    "regex": "\\b((?!\\bDoctor\\ Sleep:)Doctor\\ Sleep)(?!\\:)(?!'t)\\b",
+    "runtime": 174,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

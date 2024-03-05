@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5474036",
+    "title": "Husband Material",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 2164,
+    "occurrences": [
+      [
+        1938,
+        "02:12:51.400000",
+        "02:12:53.480000",
+        "...you aren't husband material."
+      ],
+      [
+        1939,
+        "02:12:53.560000",
+        "02:12:55.040000",
+        "\"Husband material\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHusband\\ Material:)Husband\\ Material)(?!\\:)(?!'t)\\b",
+    "runtime": 156,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

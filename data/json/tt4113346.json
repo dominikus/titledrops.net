@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4113346",
+    "title": "The City of Gold",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1525,
+    "occurrences": [
+      [
+        484,
+        "00:27:52.670000",
+        "00:27:57.347000",
+        "Where is the city of gold?"
+      ],
+      [
+        878,
+        "00:53:36.909000",
+        "00:53:38.627000",
+        "LIZ: The lost city of gold?"
+      ],
+      [
+        1214,
+        "01:15:56.269000",
+        "01:15:58.066000",
+        "Where is the city of gold?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCity\\ of\\ Gold:)City\\ of\\ Gold)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3
+  }
+]

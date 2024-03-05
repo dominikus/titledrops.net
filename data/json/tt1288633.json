@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1288633",
+    "title": "Guts",
+    "year": 2009,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1093,
+    "occurrences": [
+      [
+        84,
+        "00:09:12.567000",
+        "00:09:15.525000",
+        "lt's my guts. l could puke right here."
+      ],
+      [
+        431,
+        "00:37:16.487000",
+        "00:37:18.125000",
+        "Truth is, you do have guts."
+      ],
+      [
+        432,
+        "00:37:18.887000",
+        "00:37:20.400000",
+        "And guts are good."
+      ]
+    ],
+    "regex": "\\b((?!\\bGuts:)Guts)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

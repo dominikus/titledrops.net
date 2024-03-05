@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt9529640",
+    "title": "Dance with Me",
+    "year": 2019,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 947,
+    "occurrences": [
+      [
+        529,
+        "00:52:36.987000",
+        "00:52:43.160000",
+        "Do you want to keep looking? Wouldn't you rather dance with me?"
+      ],
+      [
+        929,
+        "01:36:44.549000",
+        "01:36:48.678000",
+        "Musical Studio \"Dance With Me\" Opening Soon"
+      ]
+    ],
+    "regex": "\\b((?!\\bDance\\ with\\ Me:)Dance\\ with\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

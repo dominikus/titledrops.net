@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0043090",
+    "title": "Union Station",
+    "year": 1950,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 2,
+    "all_lines": 710,
+    "occurrences": [
+      [
+        33,
+        "00:04:01.709000",
+        "00:04:04.824000",
+        "I'll wire ahead and have a cop waiting for you at Union Station."
+      ],
+      [
+        685,
+        "01:16:18.861000",
+        "01:16:22.718000",
+        "But, we have them located. Somewhere between Union Station and Rutger Street."
+      ]
+    ],
+    "regex": "\\b((?!\\bUnion\\ Station:)Union\\ Station)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

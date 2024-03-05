@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0387460",
+    "title": "The Off Season",
+    "year": 2004,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1234,
+    "occurrences": [
+      [
+        3,
+        "00:01:48.710000",
+        "00:01:50.210000",
+        "It's the off season."
+      ],
+      [
+        54,
+        "00:05:29.930000",
+        "00:05:35.440000",
+        "Now there's no guarantee that you can stay past the off season."
+      ]
+    ],
+    "regex": "\\b((?!\\bOff\\ Season:)Off\\ Season)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.7
+  }
+]

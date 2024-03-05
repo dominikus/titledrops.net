@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0062301",
+    "title": "The St. Valentine's Day Massacre",
+    "year": 1967,
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 1169,
+    "occurrences": [
+      [
+        1073,
+        "01:28:34.097000",
+        "01:28:37.417000",
+        "A few hours after the St. Valentine's Day Massacre..."
+      ],
+      [
+        1119,
+        "01:31:12.497000",
+        "01:31:15.737000",
+        "Public indignation at the St. Valentine's Day Massacre..."
+      ],
+      [
+        1154,
+        "01:33:47.577000",
+        "01:33:51.137000",
+        "after the St. Valentine's Day Massacre he masterminded."
+      ],
+      [
+        1161,
+        "01:34:16.217000",
+        "01:34:18.617000",
+        "in the St. Valentine's Day Massacre..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSt\\.\\ Valentine's\\ Day\\ Massacre:)St\\.\\ Valentine's\\ Day\\ Massacre)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1791679",
+    "title": "Weekend",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 1127,
+    "occurrences": [
+      [
+        160,
+        "00:14:57.220000",
+        "00:15:01.779000",
+        "to liven up this bloody dull weekend."
+      ],
+      [
+        709,
+        "00:59:27.340000",
+        "00:59:29.179000",
+        "You're spending the weekend with me."
+      ],
+      [
+        725,
+        "01:01:23.480000",
+        "01:01:31.079000",
+        "A weekend full of surprises."
+      ]
+    ],
+    "regex": "\\b((?!\\bWeekend:)Weekend)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

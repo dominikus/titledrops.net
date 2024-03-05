@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0090095",
+    "title": "Subway",
+    "year": 1985,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 642,
+    "occurrences": [
+      [
+        11,
+        "00:07:25.310000",
+        "00:07:27.824000",
+        "In the subway... Tonight at 1 0 p.m., OK?"
+      ],
+      [
+        107,
+        "00:24:50.830000",
+        "00:24:52.422000",
+        "I'm doing a subway story."
+      ],
+      [
+        215,
+        "00:35:28.190000",
+        "00:35:32.388000",
+        "A man in a tux in the subway is easy to spot."
+      ],
+      [
+        626,
+        "01:27:38.910000",
+        "01:27:41.140000",
+        "Didn't the subway staff inform you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSubway:)Subway)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

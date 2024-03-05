@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0266308",
+    "title": "Battle Royale",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 993,
+    "occurrences": [
+      [
+        79,
+        "00:11:50.701000",
+        "00:11:52.452000",
+        "Battle Royale."
+      ],
+      [
+        90,
+        "00:12:45.965000",
+        "00:12:48.133000",
+        "The Correct Way to Fight in Battle Royale."
+      ],
+      [
+        94,
+        "00:12:57.310000",
+        "00:13:02.564000",
+        "You are the lucky class chosen for this year's Battle Royale!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBattle\\ Royale:)Battle\\ Royale)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

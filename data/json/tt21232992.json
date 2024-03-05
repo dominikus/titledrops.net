@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt21232992",
+    "title": "Theater Camp",
+    "year": 2023,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1712,
+    "occurrences": [
+      [
+        959,
+        "00:48:56.478000",
+        "00:48:58.897000",
+        "I know this one's a theater camp classic, so..."
+      ],
+      [
+        1034,
+        "00:52:10.297000",
+        "00:52:11.840000",
+        "They were saying no one at theater camp could play football."
+      ]
+    ],
+    "regex": "\\b((?!\\bTheater\\ Camp:)Theater\\ Camp)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

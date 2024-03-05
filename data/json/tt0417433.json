@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0417433",
+    "title": "Annapolis",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 977,
+    "occurrences": [
+      [
+        623,
+        "00:56:23.446000",
+        "00:56:25.937000",
+        "(Nance's voice) What is the latitude of Annapolis?"
+      ],
+      [
+        624,
+        "00:56:26.015000",
+        "00:56:29.246000",
+        "The latitude of Annapolis is 38. 58deg north."
+      ],
+      [
+        709,
+        "01:07:33.082000",
+        "01:07:34.777000",
+        "What is the latitude of Annapolis?"
+      ],
+      [
+        711,
+        "01:07:38.788000",
+        "01:07:43.157000",
+        "Sir, the latitude of Annapolis is 38.58deg north."
+      ]
+    ],
+    "regex": "\\b((?!\\bAnnapolis:)Annapolis)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

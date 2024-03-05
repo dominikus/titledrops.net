@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt10688568",
+    "title": "The End Will Be Spectacular",
+    "year": 2019,
+    "genres": [
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1001,
+    "occurrences": [
+      [
+        46,
+        "00:05:54.520000",
+        "00:06:03.400000",
+        "The End Will Be Spectacular"
+      ],
+      [
+        866,
+        "01:54:44.840000",
+        "01:54:46.640000",
+        "The end will be spectacular."
+      ],
+      [
+        973,
+        "02:14:33.280000",
+        "02:14:38.520000",
+        "The End Will Be Spectacular"
+      ]
+    ],
+    "regex": "\\b((?!\\bEnd\\ Will\\ Be\\ Spectacular:)End\\ Will\\ Be\\ Spectacular)(?!\\:)(?!'t)\\b",
+    "runtime": 142,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

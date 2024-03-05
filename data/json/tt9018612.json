@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt9018612",
+    "title": "Wotakoi: Love Is Hard for Otaku",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1197,
+    "occurrences": [
+      [
+        159,
+        "00:12:22.170000",
+        "00:12:30.130000",
+        "Wotakoi: Love is Hard for Otaku"
+      ],
+      [
+        1188,
+        "01:48:02.825000",
+        "01:48:10.545000",
+        "Wotakoi: Love is Hard for Otaku"
+      ],
+      [
+        1192,
+        "01:49:08.955000",
+        "01:49:13.795000",
+        "From a Fujita manga \"Wotakoi: Love is Hard for Otaku\""
+      ]
+    ],
+    "regex": "\\b((?!\\bWotakoi:)Wotakoi|(?!\\bLove\\ Is\\ Hard\\ for\\ Otaku:)Love\\ Is\\ Hard\\ for\\ Otaku)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

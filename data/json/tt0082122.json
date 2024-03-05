@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0082122",
+    "title": "Butterfly",
+    "year": 1981,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1077,
+    "occurrences": [
+      [
+        1047,
+        "01:41:10.570000",
+        "01:41:13.070000",
+        "- A butterfly. - A birthmark?"
+      ],
+      [
+        1050,
+        "01:41:20.693000",
+        "01:41:27.344000",
+        "If Ed Lamey and Moke Blue and her baby are related, they'll have the same butterfly on his stomach."
+      ],
+      [
+        1055,
+        "01:41:47.693000",
+        "01:41:52.130000",
+        "- butterfly. - Is it a butterfly?"
+      ],
+      [
+        1056,
+        "01:41:53.525000",
+        "01:41:56.005000",
+        "It is a butterfly."
+      ]
+    ],
+    "regex": "\\b((?!\\bButterfly:)Butterfly)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

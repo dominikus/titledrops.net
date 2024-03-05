@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0051808",
+    "title": "The Hidden Fortress",
+    "year": 1958,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 757,
+    "occurrences": [
+      [
+        165,
+        "00:30:15.994000",
+        "00:30:17.791000",
+        "It's what they call a hidden fortress."
+      ],
+      [
+        166,
+        "00:30:18.596000",
+        "00:30:21.030000",
+        "A hidden fortress? The Akizuki one."
+      ],
+      [
+        330,
+        "00:54:07.257000",
+        "00:54:10.192000",
+        "This hidden fortress will soon be discovered by the Yamana's too."
+      ],
+      [
+        465,
+        "01:14:27.042000",
+        "01:14:28.475000",
+        "That was Akizuki's hidden fortress."
+      ]
+    ],
+    "regex": "\\b((?!\\bHidden\\ Fortress:)Hidden\\ Fortress)(?!\\:)(?!'t)\\b",
+    "runtime": 139,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

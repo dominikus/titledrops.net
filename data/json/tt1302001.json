@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1302001",
+    "title": "Harvest",
+    "year": 2010,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1580,
+    "occurrences": [
+      [
+        1037,
+        "01:02:49.633000",
+        "01:02:52.767000",
+        "* Comes the harvest *"
+      ],
+      [
+        1563,
+        "01:40:46.232000",
+        "01:40:49.366000",
+        "* Comes the harvest *"
+      ]
+    ],
+    "regex": "\\b((?!\\bHarvest:)Harvest)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

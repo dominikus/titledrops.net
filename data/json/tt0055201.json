@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0055201",
+    "title": "I Like Money",
+    "year": 1961,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1584,
+    "occurrences": [
+      [
+        1080,
+        "01:07:03.311000",
+        "01:07:06.975000",
+        "I like money, and I'm not ashamed to say so"
+      ],
+      [
+        1084,
+        "01:07:22.372000",
+        "01:07:23.908000",
+        "I like money"
+      ],
+      [
+        1088,
+        "01:07:42.267000",
+        "01:07:43.974000",
+        "I like money"
+      ],
+      [
+        1094,
+        "01:08:03.204000",
+        "01:08:05.446000",
+        "I like money"
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Like\\ Money:)I\\ Like\\ Money)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

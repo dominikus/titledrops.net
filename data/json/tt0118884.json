@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0118884",
+    "title": "Contact",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1909,
+    "occurrences": [
+      [
+        348,
+        "00:29:57.877000",
+        "00:30:00.266000",
+        "...but too far away to contact in your lifetime."
+      ],
+      [
+        371,
+        "00:32:04.837000",
+        "00:32:07.590000",
+        "That's the moment where contact becomes possible."
+      ],
+      [
+        1680,
+        "02:03:19.303000",
+        "02:03:20.702000",
+        "Why did you contact us?"
+      ],
+      [
+        1771,
+        "02:08:40.223000",
+        "02:08:44.057000",
+        "...the lPV was out of contact for only a fraction of a second."
+      ]
+    ],
+    "regex": "\\b((?!\\bContact:)Contact)(?!\\:)(?!'t)\\b",
+    "runtime": 150,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt7974634",
+    "title": "Koati",
+    "year": 2021,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "count": 6,
+    "all_lines": 1754,
+    "occurrences": [
+      [
+        74,
+        "00:05:57.115000",
+        "00:05:58.575000",
+        "Koati."
+      ],
+      [
+        180,
+        "00:10:25.317000",
+        "00:10:30.453000",
+        "Sweet jump. You are the coolest koati this side of the river."
+      ],
+      [
+        182,
+        "00:10:32.390000",
+        "00:10:35.318000",
+        "I'm the only koati this side of the river."
+      ],
+      [
+        572,
+        "00:31:30.981000",
+        "00:31:35.644000",
+        "Look. I haven't always been the only koati."
+      ],
+      [
+        1530,
+        "01:18:05.006000",
+        "01:18:06.972000",
+        "- Argh! - (Nachi): Koati!"
+      ],
+      [
+        1531,
+        "01:18:08.176000",
+        "01:18:09.468000",
+        "I'm a koati!"
+      ]
+    ],
+    "regex": "\\b((?!\\bKoati:)Koati)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

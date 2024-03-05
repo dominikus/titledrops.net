@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0092710",
+    "title": "Burglar",
+    "year": 1987,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 4,
+    "all_lines": 1736,
+    "occurrences": [
+      [
+        33,
+        "00:01:47.707000",
+        "00:01:49.976000",
+        "* not the burglar *"
+      ],
+      [
+        45,
+        "00:03:38.350000",
+        "00:03:40.553000",
+        "* not the burglar *"
+      ],
+      [
+        63,
+        "00:04:25.698000",
+        "00:04:28.067000",
+        "* not the burglar *"
+      ],
+      [
+        989,
+        "00:54:48.317000",
+        "00:54:50.520000",
+        "I'm a cat burglar."
+      ]
+    ],
+    "regex": "\\b((?!\\bBurglar:)Burglar)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

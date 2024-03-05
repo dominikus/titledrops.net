@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0104137",
+    "title": "Double X: The Name of the Game",
+    "year": 1992,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1445,
+    "occurrences": [
+      [
+        379,
+        "00:21:27.010000",
+        "00:21:30.099000",
+        "Power, that was the name of the game for him."
+      ],
+      [
+        959,
+        "00:57:49.510000",
+        "00:57:51.160000",
+        "The code word is double X."
+      ],
+      [
+        1226,
+        "01:18:25.990000",
+        "01:18:28.030000",
+        "But I was gambling he wouldn't try a double cross"
+      ],
+      [
+        1429,
+        "01:30:21.571000",
+        "01:30:22.956000",
+        "The name of the game."
+      ]
+    ],
+    "regex": "\\b((?!\\bDouble:)Double|(?!\\bName\\ of\\ the\\ Game:)Name\\ of\\ the\\ Game)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0402493",
+    "title": "Ivko's Feast",
+    "year": 2005,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 1131,
+    "occurrences": [
+      [
+        37,
+        "00:04:55.040000",
+        "00:05:00.319000",
+        "I don't mind your \"Ivko's Feast\". But Kalca will sue you."
+      ],
+      [
+        505,
+        "00:46:33.260000",
+        "00:46:37.173000",
+        "You have plenty of time. Ivko's feast has just begun!"
+      ],
+      [
+        692,
+        "01:04:37.500000",
+        "01:04:42.130000",
+        "Come to Ivko's feast! He'll be delighted!"
+      ],
+      [
+        909,
+        "01:24:58.060000",
+        "01:25:00.972000",
+        "Ivko's feast is over, Wolf's feast is starting!"
+      ],
+      [
+        963,
+        "01:30:25.820000",
+        "01:30:29.051000",
+        "That's Ivko's feast, Your Majesty."
+      ],
+      [
+        982,
+        "01:32:07.340000",
+        "01:32:11.970000",
+        "As soon as I get rid of this Ivko's feast, Your Majesty."
+      ]
+    ],
+    "regex": "\\b((?!\\bIvko's\\ Feast:)Ivko's\\ Feast)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

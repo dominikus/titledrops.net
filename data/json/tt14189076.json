@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt14189076",
+    "title": "Declaration",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 837,
+    "occurrences": [
+      [
+        8,
+        "00:03:15.500000",
+        "00:03:16.500000",
+        "It's a declaration..."
+      ],
+      [
+        306,
+        "00:35:38.458000",
+        "00:35:40.934000",
+        "Only after receiving a declaration do I ask for videos from the client..."
+      ],
+      [
+        757,
+        "01:33:33.958000",
+        "01:33:35.726000",
+        "I want a declaration put up on the notice board stating"
+      ],
+      [
+        764,
+        "01:33:51.166000",
+        "01:33:54.250000",
+        "If you want me to withdraw the complaint I want that declaration put up, sir."
+      ]
+    ],
+    "regex": "\\b((?!\\bDeclaration:)Declaration)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt10628092",
+    "title": "Contra",
+    "year": 2020,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1276,
+    "occurrences": [
+      [
+        450,
+        "00:34:05.417000",
+        "00:34:07.208000",
+        "Fine, but you're contra."
+      ],
+      [
+        617,
+        "00:45:46.583000",
+        "00:45:49.833000",
+        "Pro and contra were, as usual, allocated by drawing lots."
+      ],
+      [
+        1102,
+        "01:24:26.750000",
+        "01:24:30",
+        "It's a home game for our debater on the contra side."
+      ]
+    ],
+    "regex": "\\b((?!\\bContra:)Contra)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

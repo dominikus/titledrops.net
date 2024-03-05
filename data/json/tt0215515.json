@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0215515",
+    "title": "Anand Math",
+    "year": 1952,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1037,
+    "occurrences": [
+      [
+        14,
+        "00:09:57.210000",
+        "00:10:02.315000",
+        "Bankim Chandra wrote Anand Math. . ."
+      ],
+      [
+        903,
+        "02:12:20.390000",
+        "02:12:25.395000",
+        "that the foundation of this freedom was laid by Anand Math !"
+      ]
+    ],
+    "regex": "\\b((?!\\bAnand\\ Math:)Anand\\ Math)(?!\\:)(?!'t)\\b",
+    "runtime": 176,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

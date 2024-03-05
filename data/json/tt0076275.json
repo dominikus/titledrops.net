@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0076275",
+    "title": "Kleinhoff Hotel",
+    "year": 1977,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1154,
+    "occurrences": [
+      [
+        66,
+        "00:05:10.270000",
+        "00:05:11.980000",
+        "Take me to the Kleinhoff Hotel."
+      ],
+      [
+        645,
+        "00:51:38.883000",
+        "00:51:41.050000",
+        "- The Kleinhoff Hotel."
+      ]
+    ],
+    "regex": "\\b((?!\\bKleinhoff\\ Hotel:)Kleinhoff\\ Hotel)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

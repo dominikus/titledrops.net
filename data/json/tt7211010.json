@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7211010",
+    "title": "War Dog: A Soldier's Best Friend",
+    "year": 2017,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1162,
+    "occurrences": [
+      [
+        222,
+        "00:13:43.012000",
+        "00:13:45.097000",
+        "Layka is a decorated war dog"
+      ],
+      [
+        727,
+        "00:40:01.569000",
+        "00:40:04.448000",
+        "-I am a war dog. -Yes."
+      ]
+    ],
+    "regex": "\\b((?!\\bWar\\ Dog:)War\\ Dog|(?!\\bSoldier's\\ Best\\ Friend:)Soldier's\\ Best\\ Friend)(?!\\:)(?!'t)\\b",
+    "runtime": 70,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

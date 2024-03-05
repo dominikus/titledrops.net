@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0083677",
+    "title": "Bonnie's Kids",
+    "year": 1972,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1294,
+    "occurrences": [
+      [
+        178,
+        "00:16:34.188000",
+        "00:16:36.482000",
+        "Yeah. Just tell him Bonnie's Kids."
+      ],
+      [
+        187,
+        "00:17:02.591000",
+        "00:17:05.260000",
+        "Hey, everybody! Say hello to my sister Bonnie's kids."
+      ],
+      [
+        222,
+        "00:18:32.514000",
+        "00:18:35.642000",
+        "After all, you're Bonnie's kids, aren't you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBonnie's\\ Kids:)Bonnie's\\ Kids)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

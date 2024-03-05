@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0355857",
+    "title": "Onmyoji: The Yin Yang Master",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 789,
+    "occurrences": [
+      [
+        96,
+        "00:10:03.783000",
+        "00:10:07.913000",
+        "AII the more proof he is a great yin yang master!"
+      ],
+      [
+        217,
+        "00:26:16.688000",
+        "00:26:21.182000",
+        "Isn't the Head Yin Yang Master Iooking after him?"
+      ],
+      [
+        331,
+        "00:46:05.176000",
+        "00:46:09.442000",
+        "You are a Yin Yang Master of this court, and yet..."
+      ]
+    ],
+    "regex": "\\b((?!\\bOnmyoji:)Onmyoji|(?!\\bYin\\ Yang\\ Master:)Yin\\ Yang\\ Master)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

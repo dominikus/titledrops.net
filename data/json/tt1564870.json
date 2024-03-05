@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1564870",
+    "title": "Not Today",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1312,
+    "occurrences": [
+      [
+        1273,
+        "01:34:13.561000",
+        "01:34:16.052000",
+        "l'm Brent Martz, Producer of Not Today."
+      ],
+      [
+        1280,
+        "01:34:28.776000",
+        "01:34:32.712000",
+        "We made Not Today in India because we've been working here for 10 years."
+      ]
+    ],
+    "regex": "\\b((?!\\bNot\\ Today:)Not\\ Today)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

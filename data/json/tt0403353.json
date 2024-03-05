@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0403353",
+    "title": "Human",
+    "year": 1962,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 748,
+    "occurrences": [
+      [
+        63,
+        "00:07:07.227000",
+        "00:07:10.679000",
+        "Now I feel like a human being!"
+      ],
+      [
+        565,
+        "01:28:24.015000",
+        "01:28:27.418000",
+        "We should starve before we eat human flesh!"
+      ],
+      [
+        575,
+        "01:29:33.016000",
+        "01:29:35.651000",
+        "We were no longer human..."
+      ]
+    ],
+    "regex": "\\b((?!\\bHuman:)Human)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

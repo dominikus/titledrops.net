@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt2515030",
+    "title": "Escobar: Paradise Lost",
+    "year": 2014,
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "count": 5,
+    "all_lines": 613,
+    "occurrences": [
+      [
+        194,
+        "00:32:15.549000",
+        "00:32:18.261000",
+        "- Happy birthday, Mr. Escobar! - Call me Pablo."
+      ],
+      [
+        268,
+        "00:40:45.426000",
+        "00:40:46.689000",
+        "You told Escobar ..."
+      ],
+      [
+        272,
+        "00:40:56.959000",
+        "00:41:00.214000",
+        "Everyone in the city say Escobar and his men did!"
+      ],
+      [
+        536,
+        "01:22:19.346000",
+        "01:22:21.091000",
+        "Put Pablo Escobar in the phone right now."
+      ],
+      [
+        608,
+        "01:45:07.161000",
+        "01:45:08.803000",
+        "Nobody escapes from Pablo Escobar."
+      ]
+    ],
+    "regex": "\\b((?!\\bEscobar:)Escobar|(?!\\bParadise\\ Lost:)Paradise\\ Lost)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

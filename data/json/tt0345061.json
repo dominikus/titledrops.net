@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt0345061",
+    "title": "Code 46",
+    "year": 2003,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "count": 1,
+    "all_lines": 1002,
+    "occurrences": [
+      [
+        571,
+        "00:46:25.215000",
+        "00:46:29.174000",
+        "This is Oceanic 816 confirming. We have a code 1 1-14..."
+      ]
+    ],
+    "regex": "\\b((?!\\bCode:)Code)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

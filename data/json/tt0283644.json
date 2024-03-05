@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0283644",
+    "title": "Left Behind II: Tribulation Force",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1074,
+    "occurrences": [
+      [
+        7,
+        "00:01:01.414000",
+        "00:01:03.713000",
+        "For those of us who have been left behind,"
+      ],
+      [
+        133,
+        "00:12:37.550000",
+        "00:12:44.121000",
+        "All of us, together. Form our own tribulation force and spread God's word."
+      ]
+    ],
+    "regex": "\\b((?!\\bLeft\\ Behind:)Left\\ Behind|(?!\\bTribulation\\ Force:)Tribulation\\ Force)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

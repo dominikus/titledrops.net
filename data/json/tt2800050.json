@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2800050",
+    "title": "A Beautiful Planet",
+    "year": 2016,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 734,
+    "occurrences": [
+      [
+        16,
+        "00:03:29.751000",
+        "00:03:33.171000",
+        "Our beautiful planet is a world of water,"
+      ],
+      [
+        427,
+        "00:25:36.702000",
+        "00:25:38.829000",
+        "It's a beautiful planet."
+      ],
+      [
+        705,
+        "00:44:13.442000",
+        "00:44:15.570000",
+        "a beautiful planet."
+      ]
+    ],
+    "regex": "\\b((?!\\bBeautiful\\ Planet:)Beautiful\\ Planet)(?!\\:)(?!'t)\\b",
+    "runtime": 46,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

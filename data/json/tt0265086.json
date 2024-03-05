@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0265086",
+    "title": "Black Hawk Down",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 1931,
+    "occurrences": [
+      [
+        806,
+        "00:55:51.515000",
+        "00:55:54.724000",
+        "HARRELL: We got a Black Hawk down. We got a Black Hawk down."
+      ],
+      [
+        835,
+        "00:57:18.310000",
+        "00:57:20.642000",
+        "Hey, there's a Black Hawk down."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Hawk\\ Down:)Black\\ Hawk\\ Down)(?!\\:)(?!'t)\\b",
+    "runtime": 151,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

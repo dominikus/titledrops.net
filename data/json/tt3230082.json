@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3230082",
+    "title": "The Blue Room",
+    "year": 2014,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 845,
+    "occurrences": [
+      [
+        271,
+        "00:24:19.200000",
+        "00:24:21.157000",
+        "The Blue Room L'Hotel de la Gare."
+      ],
+      [
+        733,
+        "01:00:52.560000",
+        "01:00:54.824000",
+        "- Did you work in the blue room'? - Yes."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Room:)Blue\\ Room)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt6423886",
+    "title": "Happy Anniversary",
+    "year": 2018,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1277,
+    "occurrences": [
+      [
+        71,
+        "00:03:51.439000",
+        "00:03:54.692000",
+        "Happy anniversary, happy anniversary"
+      ],
+      [
+        89,
+        "00:04:50.039000",
+        "00:04:51.374000",
+        "Happy anniversary."
+      ],
+      [
+        245,
+        "00:12:29.415000",
+        "00:12:30.624000",
+        "Happy anniversary."
+      ]
+    ],
+    "regex": "\\b((?!\\bHappy\\ Anniversary:)Happy\\ Anniversary)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0084597",
+    "title": "Richard Pryor: Live on the Sunset Strip",
+    "year": 1982,
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1141,
+    "occurrences": [
+      [
+        0,
+        "00:01:42.510000",
+        "00:01:47.277000",
+        "Ladies and gentlemen, live on the Sunset Strip, Richard Pryor!"
+      ],
+      [
+        1110,
+        "01:16:34.865000",
+        "01:16:36.799000",
+        "\"Richard Pryor died five minutes ago.\""
+      ],
+      [
+        1141,
+        "01:18:40.390000",
+        "01:18:43.655000",
+        "What's that? Richard Pryor running down the street."
+      ]
+    ],
+    "regex": "\\b((?!\\bRichard\\ Pryor:)Richard\\ Pryor|(?!\\bLive\\ on\\ the\\ Sunset\\ Strip:)Live\\ on\\ the\\ Sunset\\ Strip)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

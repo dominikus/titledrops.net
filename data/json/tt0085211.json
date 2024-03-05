@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0085211",
+    "title": "The Prodigal Son",
+    "year": 1981,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1036,
+    "occurrences": [
+      [
+        57,
+        "00:05:10.647000",
+        "00:05:12.687000",
+        "Prodigal Son."
+      ],
+      [
+        179,
+        "00:15:02.079000",
+        "00:15:06.292000",
+        "So you're the infamous Prodigal Son."
+      ],
+      [
+        262,
+        "00:21:45.863000",
+        "00:21:48.984000",
+        "- You've made me into a prodigal son. - I..."
+      ],
+      [
+        965,
+        "01:33:03.781000",
+        "01:33:06.236000",
+        "Why don't we trick the prodigal son?"
+      ]
+    ],
+    "regex": "\\b((?!\\bProdigal\\ Son:)Prodigal\\ Son)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

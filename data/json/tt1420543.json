@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1420543",
+    "title": "General Nil",
+    "year": 2009,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1145,
+    "occurrences": [
+      [
+        781,
+        "01:23:19.080000",
+        "01:23:20.519000",
+        "General Nil..."
+      ],
+      [
+        1122,
+        "01:50:07.680000",
+        "01:50:10.919000",
+        "In honour of General Nil... Attention!"
+      ]
+    ],
+    "regex": "\\b((?!\\bGeneral\\ Nil:)General\\ Nil)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

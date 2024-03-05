@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0280427",
+    "title": "The Anarchists",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 627,
+    "occurrences": [
+      [
+        22,
+        "00:05:02.635000",
+        "00:05:04.606000",
+        "They were anarchists"
+      ],
+      [
+        35,
+        "00:08:21.567000",
+        "00:08:26.815000",
+        "If the socialists are red then anarchists are black"
+      ],
+      [
+        390,
+        "01:04:01.804000",
+        "01:04:04.349000",
+        "We're anarchists"
+      ]
+    ],
+    "regex": "\\b((?!\\bAnarchists:)Anarchists)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

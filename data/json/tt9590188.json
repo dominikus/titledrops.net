@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt9590188",
+    "title": "212: The Power of Love",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 935,
+    "occurrences": [
+      [
+        15,
+        "00:01:07.280000",
+        "00:01:10.879000",
+        "\"THE POWER OF LOVE 212\""
+      ],
+      [
+        586,
+        "01:03:40.480000",
+        "01:03:45.160000",
+        "Could you please report for 212 Action tomorrow?"
+      ],
+      [
+        656,
+        "01:11:04.519000",
+        "01:11:07.600000",
+        "Boss asked me to cover 212 event."
+      ]
+    ],
+    "regex": "\\b((?!\\b212:)212|(?!\\bPower\\ of\\ Love:)Power\\ of\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0109783",
+    "title": "The Favor",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1231,
+    "occurrences": [
+      [
+        234,
+        "00:19:40.467000",
+        "00:19:44.063000",
+        "Come on, do me a favor. Just look at him."
+      ],
+      [
+        249,
+        "00:20:51.933000",
+        "00:20:54.366000",
+        "I'm just asking you a simple favor."
+      ],
+      [
+        297,
+        "00:24:10.879000",
+        "00:24:12.641000",
+        "You did me the favor."
+      ],
+      [
+        328,
+        "00:26:51.256000",
+        "00:26:53.248000",
+        "Kathy, I did you a favor."
+      ]
+    ],
+    "regex": "\\b((?!\\bFavor:)Favor)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

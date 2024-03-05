@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt14153900",
+    "title": "Venom Coast",
+    "year": 2021,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1172,
+    "occurrences": [
+      [
+        162,
+        "00:09:11.950000",
+        "00:09:13.383000",
+        "We call it Venom Coast."
+      ],
+      [
+        305,
+        "00:19:23.270000",
+        "00:19:25.720000",
+        "- Couldn't find any Venom Coast on Google though."
+      ]
+    ],
+    "regex": "\\b((?!\\bVenom\\ Coast:)Venom\\ Coast)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

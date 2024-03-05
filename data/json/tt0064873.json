@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0064873",
+    "title": "The Rain People",
+    "year": 1969,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1359,
+    "occurrences": [
+      [
+        332,
+        "00:34:10.490000",
+        "00:34:12.720000",
+        "The rain people are..."
+      ],
+      [
+        336,
+        "00:34:28.668000",
+        "00:34:30.514000",
+        "Where did you hear about the rain people?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRain\\ People:)Rain\\ People)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

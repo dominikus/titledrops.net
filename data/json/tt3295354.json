@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3295354",
+    "title": "You Can't Have It",
+    "year": 2017,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1539,
+    "occurrences": [
+      [
+        1380,
+        "01:12:16.900000",
+        "01:12:18.768000",
+        "but you can't have it."
+      ],
+      [
+        1525,
+        "01:23:44.320000",
+        "01:23:48.257000",
+        "but as Tammy said to Sandra, you can't have it."
+      ]
+    ],
+    "regex": "\\b((?!\\bYou\\ Can't\\ Have\\ It:)You\\ Can't\\ Have\\ It)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

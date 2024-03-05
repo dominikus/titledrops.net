@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5225488",
+    "title": "Saving Jaws",
+    "year": 2019,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1012,
+    "occurrences": [
+      [
+        2,
+        "00:00:10.488000",
+        "00:00:13.404000",
+        "I've had the honor of directing this film, Saving Jaws."
+      ],
+      [
+        23,
+        "00:01:20.210000",
+        "00:01:23.779000",
+        "And I think that you will, too. Thank you for watching Saving Jaws."
+      ]
+    ],
+    "regex": "\\b((?!\\bSaving\\ Jaws:)Saving\\ Jaws)(?!\\:)(?!'t)\\b",
+    "runtime": 59,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0062473",
+    "title": "Warning Shot",
+    "year": 1966,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1504,
+    "occurrences": [
+      [
+        193,
+        "00:13:28.400000",
+        "00:13:30",
+        "a customary warning shot"
+      ],
+      [
+        195,
+        "00:13:32",
+        "00:13:34.400000",
+        "You know we don't fire a warning shot."
+      ]
+    ],
+    "regex": "\\b((?!\\bWarning\\ Shot:)Warning\\ Shot)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

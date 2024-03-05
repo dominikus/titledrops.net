@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1119188",
+    "title": "Little Zizou",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 943,
+    "occurrences": [
+      [
+        59,
+        "00:06:50.676000",
+        "00:06:52.770000",
+        "He is big Zizou, I am little Zizou."
+      ],
+      [
+        265,
+        "00:21:08.133000",
+        "00:21:09.362000",
+        "Down pass to little Zizou"
+      ],
+      [
+        267,
+        "00:21:11.069000",
+        "00:21:15.836000",
+        "can he shoot? Little Zizou... oh look at that."
+      ],
+      [
+        268,
+        "00:21:16.675000",
+        "00:21:18.234000",
+        "Little Zizou scores again."
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Zizou:)Little\\ Zizou)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

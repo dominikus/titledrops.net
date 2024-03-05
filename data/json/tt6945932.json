@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt6945932",
+    "title": "Scarborough",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1090,
+    "occurrences": [
+      [
+        17,
+        "00:03:28.876000",
+        "00:03:33.212000",
+        "Well, your funeral. Anyway, welcome to Scarborough."
+      ],
+      [
+        216,
+        "00:22:09.896000",
+        "00:22:12.330000",
+        "What would the headmaster be doing in Scarborough?"
+      ],
+      [
+        1008,
+        "01:18:46.155000",
+        "01:18:49.857000",
+        "So how did you find Scarborough?"
+      ]
+    ],
+    "regex": "\\b((?!\\bScarborough:)Scarborough)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

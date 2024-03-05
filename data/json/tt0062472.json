@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0062472",
+    "title": "The War Wagon",
+    "year": 1967,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 4,
+    "all_lines": 618,
+    "occurrences": [
+      [
+        84,
+        "00:12:21.209000",
+        "00:12:24.804000",
+        "He has a new toy. An iron-plated thing he calls the War Wagon."
+      ],
+      [
+        93,
+        "00:12:59.129000",
+        "00:13:02.724000",
+        "That's a tribute to the last fools who tried to stop the War Wagon."
+      ],
+      [
+        109,
+        "00:14:03.729000",
+        "00:14:07.847000",
+        "Stony Flats. The War Wagon."
+      ],
+      [
+        229,
+        "00:30:16.289000",
+        "00:30:19.440000",
+        "The War Wagon. - So that's it."
+      ]
+    ],
+    "regex": "\\b((?!\\bWar\\ Wagon:)War\\ Wagon)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

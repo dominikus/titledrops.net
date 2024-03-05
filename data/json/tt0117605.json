@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0117605",
+    "title": "Sex and Zen II",
+    "year": 1996,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1138,
+    "occurrences": [
+      [
+        0,
+        "00:00:28.261000",
+        "00:00:29.446000",
+        "The books \"Sex And Zen\""
+      ],
+      [
+        2,
+        "00:00:33.033000",
+        "00:00:34.885000",
+        "The real meaning of \"Sex And Zen\" is"
+      ]
+    ],
+    "regex": "\\b((?!\\bSex\\ and\\ Zen:)Sex\\ and\\ Zen)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

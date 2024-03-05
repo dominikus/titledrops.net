@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0081073",
+    "title": "Loophole",
+    "year": 1981,
+    "genres": [
+      "Adventure",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 517,
+    "occurrences": [
+      [
+        320,
+        "00:45:31.424000",
+        "00:45:34.005000",
+        "- There is a loophole. - I don't understand?"
+      ],
+      [
+        356,
+        "00:48:44.098000",
+        "00:48:46.974000",
+        "Exactly! That's the loophole."
+      ]
+    ],
+    "regex": "\\b((?!\\bLoophole:)Loophole)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

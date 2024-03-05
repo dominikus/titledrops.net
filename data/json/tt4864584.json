@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4864584",
+    "title": "Exorcist: House of Evil",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 949,
+    "occurrences": [
+      [
+        794,
+        "01:13:32.041000",
+        "01:13:33.441000",
+        "I'm not an exorcist."
+      ],
+      [
+        811,
+        "01:14:58.461000",
+        "01:15:00.528000",
+        "I may not be an exorcist, but I'm still a priest."
+      ]
+    ],
+    "regex": "\\b((?!\\bExorcist:)Exorcist|(?!\\bHouse\\ of\\ Evil:)House\\ of\\ Evil)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

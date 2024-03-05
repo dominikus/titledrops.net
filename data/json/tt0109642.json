@@ -1,0 +1,53 @@
+[
+  {
+    "imdb": "tt0109642",
+    "title": "Dolores Claiborne",
+    "year": 1995,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 1643,
+    "occurrences": [
+      [
+        8,
+        "02:08:53.651000",
+        "02:08:55.960000",
+        "Dolores Claiborne, what the hell are you..."
+      ],
+      [
+        55,
+        "02:14:27.491000",
+        "02:14:31.086000",
+        "-Can I help you? -Yes. I'm looking for Dolores Claiborne."
+      ],
+      [
+        882,
+        "03:10:01.684000",
+        "03:10:03.914000",
+        "Dolores Claiborne."
+      ],
+      [
+        922,
+        "03:13:43.444000",
+        "03:13:46.959000",
+        "Dolores Claiborne says I'm gonna be fine."
+      ],
+      [
+        1613,
+        "04:02:55.444000",
+        "04:02:58.675000",
+        "...if this was anyone other than Dolores Claiborne?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDolores\\ Claiborne:)Dolores\\ Claiborne)(?!\\:)(?!'t)\\b",
+    "runtime": 248,
+    "characters": [
+      "Dolores Claiborne"
+    ],
+    "title_is_name": true,
+    "rating": 7.4
+  }
+]

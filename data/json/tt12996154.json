@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt12996154",
+    "title": "365 Days: This Day",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1521,
+    "occurrences": [
+      [
+        6,
+        "00:00:46.280000",
+        "00:00:50.240000",
+        "You gave me 365 days"
+      ],
+      [
+        1520,
+        "01:48:10.400000",
+        "01:48:12.640000",
+        "[instrumental version of \"365 Days\" playing]"
+      ]
+    ],
+    "regex": "\\b((?!\\b365\\ Days:)365\\ Days|(?!\\bThis\\ Day:)This\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.7
+  }
+]

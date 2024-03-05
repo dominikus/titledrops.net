@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0032447",
+    "title": "Escape",
+    "year": 1940,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1282,
+    "occurrences": [
+      [
+        366,
+        "00:27:31.288000",
+        "00:27:34.910000",
+        "Our memoirs should be called Ten Years of Escape."
+      ],
+      [
+        367,
+        "00:27:34.911000",
+        "00:27:39.047000",
+        "Escape ? Yes, from an unbearably cruel and miserable world."
+      ],
+      [
+        627,
+        "00:45:25.460000",
+        "00:45:27.762000",
+        "No chance of escape. I don't believe you."
+      ]
+    ],
+    "regex": "\\b((?!\\bEscape:)Escape)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

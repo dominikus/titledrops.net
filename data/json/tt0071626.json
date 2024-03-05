@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0071626",
+    "title": "The Bride",
+    "year": 1973,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 778,
+    "occurrences": [
+      [
+        748,
+        "01:13:29.460000",
+        "01:13:30.850000",
+        "- Kiss the bride."
+      ],
+      [
+        751,
+        "01:13:34.760000",
+        "01:13:35.990000",
+        "- David, kiss the bride."
+      ]
+    ],
+    "regex": "\\b((?!\\bBride:)Bride)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

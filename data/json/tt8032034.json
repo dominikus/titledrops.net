@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt8032034",
+    "title": "Condor's Nest",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1218,
+    "occurrences": [
+      [
+        838,
+        "01:01:17.140000",
+        "01:01:20.343000",
+        "in a compound called the Condor's Nest."
+      ],
+      [
+        887,
+        "01:05:06.702000",
+        "01:05:11.016000",
+        "He'll be at the Condor's Nest, guarding Heinrich Himmler."
+      ],
+      [
+        931,
+        "01:09:10.946000",
+        "01:09:12.648000",
+        "Give me Condor's Nest."
+      ],
+      [
+        1002,
+        "01:14:48.617000",
+        "01:14:51.596000",
+        "and an American trying to get to the Condor's Nest."
+      ],
+      [
+        1026,
+        "01:15:58.320000",
+        "01:15:59.922000",
+        "He's at the Condor's Nest."
+      ],
+      [
+        1027,
+        "01:16:01.423000",
+        "01:16:03.468000",
+        "Albert Vogel is at the Condor's Nest."
+      ]
+    ],
+    "regex": "\\b((?!\\bCondor's\\ Nest:)Condor's\\ Nest)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

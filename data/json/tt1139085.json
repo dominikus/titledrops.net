@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1139085",
+    "title": "1612: Khroniki smutnogo vremeni",
+    "year": 2007,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 1385,
+    "occurrences": [
+      [
+        460,
+        "00:49:24.360000",
+        "00:49:28.040000",
+        "Town of Novolok June of 1612"
+      ],
+      [
+        1166,
+        "02:00:26.340000",
+        "02:00:29.150000",
+        "Devich'e Pole, Moscow September 1st, 1612"
+      ],
+      [
+        1246,
+        "02:05:45.790000",
+        "02:05:48.750000",
+        "On the 3rd of September, 1612, the Polish army has suffered a defeat..."
+      ],
+      [
+        1382,
+        "02:19:07.910000",
+        "02:19:11.030000",
+        "On November 4th, 1612, the Polish and Lithuanian forces..."
+      ]
+    ],
+    "regex": "\\b((?!\\b1612:)1612|(?!\\bKhroniki\\ smutnogo\\ vremeni:)Khroniki\\ smutnogo\\ vremeni)(?!\\:)(?!'t)\\b",
+    "runtime": 144,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

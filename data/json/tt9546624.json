@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt9546624",
+    "title": "Legions",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 676,
+    "occurrences": [
+      [
+        202,
+        "00:31:01.250000",
+        "00:31:03.874000",
+        "is to issue Polish Legions to fight against Russia."
+      ],
+      [
+        205,
+        "00:31:10.458000",
+        "00:31:12.374000",
+        "will inspire future Legions.\""
+      ],
+      [
+        422,
+        "01:14:05.791000",
+        "01:14:07.749000",
+        "Come with me to the Legions."
+      ],
+      [
+        668,
+        "02:13:08.291000",
+        "02:13:10.540000",
+        "Near Kostiuchnowka the Legions stopped"
+      ]
+    ],
+    "regex": "\\b((?!\\bLegions:)Legions)(?!\\:)(?!'t)\\b",
+    "runtime": 140,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt5271794",
+    "title": "That Good Night",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1358,
+    "occurrences": [
+      [
+        1343,
+        "01:27:25.410000",
+        "01:27:28.600000",
+        "Do not go gentle into that good night."
+      ],
+      [
+        1348,
+        "01:27:47.060000",
+        "01:27:49.903000",
+        "they do not go gentle into that good night."
+      ],
+      [
+        1351,
+        "01:27:58.570000",
+        "01:28:01.403000",
+        "Do not go gentle into that good night."
+      ],
+      [
+        1354,
+        "01:28:14.930000",
+        "01:28:17.373000",
+        "Do not go gentle into that good night."
+      ]
+    ],
+    "regex": "\\b((?!\\bThat\\ Good\\ Night:)That\\ Good\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

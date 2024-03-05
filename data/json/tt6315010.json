@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt6315010",
+    "title": "A Doggone Hollywood",
+    "year": 2017,
+    "genres": [
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 2041,
+    "occurrences": [
+      [
+        2007,
+        "01:19:36.302000",
+        "01:19:40.779000",
+        "Doggone Hollywood, Hollywood"
+      ],
+      [
+        2013,
+        "01:19:46.091000",
+        "01:19:51.401000",
+        "Doggone Hollywood, Hollywood"
+      ],
+      [
+        2040,
+        "01:20:51.871000",
+        "01:20:53.407000",
+        "Doggone Hollywood, Hollywood"
+      ]
+    ],
+    "regex": "\\b((?!\\bDoggone\\ Hollywood:)Doggone\\ Hollywood)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0123949",
+    "title": "Leave Us Alone",
+    "year": 1975,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 403,
+    "occurrences": [
+      [
+        38,
+        "00:05:18.640000",
+        "00:05:22.554000",
+        "Leave us Alone"
+      ],
+      [
+        53,
+        "00:06:34.780000",
+        "00:06:41.179000",
+        "# So please leave us alone, leave us alone."
+      ],
+      [
+        63,
+        "00:07:51.220000",
+        "00:07:54.160000",
+        "# leave us alone,"
+      ],
+      [
+        64,
+        "00:07:54.400000",
+        "00:07:57.534000",
+        "# leave us alone."
+      ]
+    ],
+    "regex": "\\b((?!\\bLeave\\ Us\\ Alone:)Leave\\ Us\\ Alone)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

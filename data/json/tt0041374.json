@@ -1,0 +1,53 @@
+[
+  {
+    "imdb": "tt0041374",
+    "title": "Flaxy Martin",
+    "year": 1949,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 5,
+    "all_lines": 1309,
+    "occurrences": [
+      [
+        397,
+        "00:23:03.282000",
+        "00:23:04.815000",
+        "There's her name right there, Flaxy Martin."
+      ],
+      [
+        470,
+        "00:26:18.077000",
+        "00:26:20.144000",
+        "We're looking for a girl by the name of Flaxy Martin."
+      ],
+      [
+        474,
+        "00:26:25.785000",
+        "00:26:28.752000",
+        "- Your name's Flaxy Martin? - That's right."
+      ],
+      [
+        497,
+        "00:27:15.935000",
+        "00:27:17.134000",
+        "You're protecting Flaxy Martin."
+      ],
+      [
+        665,
+        "00:36:10.102000",
+        "00:36:11.835000",
+        "And I see your girl, Flaxy Martin"
+      ]
+    ],
+    "regex": "\\b((?!\\bFlaxy\\ Martin:)Flaxy\\ Martin)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [
+      "Flaxy Martin"
+    ],
+    "title_is_name": true,
+    "rating": 6.5
+  }
+]

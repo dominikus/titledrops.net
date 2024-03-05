@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0038969",
+    "title": "Song of the South",
+    "year": 1946,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 1090,
+    "occurrences": [
+      [
+        0,
+        "00:00:08.100000",
+        "00:00:20.570000",
+        "~ Song of the South your music weaves a magic spell... ~"
+      ],
+      [
+        1,
+        "00:00:22.010000",
+        "00:00:32.850000",
+        "~ Song of the South, I see the scenes I know so well... ~"
+      ],
+      [
+        7,
+        "00:01:13.430000",
+        "00:01:27.320000",
+        "~ That's where I belong. Singin' a song, a Song of the South ~"
+      ],
+      [
+        1090,
+        "01:33:36.500000",
+        "01:33:48.970000",
+        "~ Singing a song, a Song Of The South. ~"
+      ]
+    ],
+    "regex": "\\b((?!\\bSong\\ of\\ the\\ South:)Song\\ of\\ the\\ South)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

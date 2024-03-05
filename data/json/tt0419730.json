@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0419730",
+    "title": "The Hypnotized",
+    "year": 2004,
+    "genres": [
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 704,
+    "occurrences": [
+      [
+        4,
+        "00:01:45.672000",
+        "00:01:49.631000",
+        "HYPNOTIZED"
+      ],
+      [
+        490,
+        "01:02:01.751000",
+        "01:02:04.311000",
+        "She's so different when she's not hypnotized So it's hard for me"
+      ]
+    ],
+    "regex": "\\b((?!\\bHypnotized:)Hypnotized)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

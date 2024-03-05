@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3962828",
+    "title": "In the Basement",
+    "year": 2014,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 542,
+    "occurrences": [
+      [
+        0,
+        "00:03:19.640000",
+        "00:03:23.201000",
+        "In the Basement"
+      ],
+      [
+        187,
+        "00:31:33.880000",
+        "00:31:37.930000",
+        "I wanted to rush right home and hang it up in the basement."
+      ]
+    ],
+    "regex": "\\b((?!\\bIn\\ the\\ Basement:)In\\ the\\ Basement)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0369610",
+    "title": "Jurassic World",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 6,
+    "all_lines": 1193,
+    "occurrences": [
+      [
+        51,
+        "00:04:54.507000",
+        "00:04:58.621000",
+        "Welcome to Isla Nublar, home of Jurassic World."
+      ],
+      [
+        70,
+        "00:06:57.838000",
+        "00:07:00.349000",
+        "Welcome to Jurassic World."
+      ],
+      [
+        214,
+        "00:14:59.591000",
+        "00:15:04.534000",
+        "Jurassic World exists to remind us how very small we are. How new."
+      ],
+      [
+        704,
+        "00:52:03.681000",
+        "00:52:07.047000",
+        "Nothing in Jurassic World is natural."
+      ],
+      [
+        762,
+        "00:56:00.857000",
+        "00:56:05.543000",
+        "I'm just worried you're not getting the full Jurassic World experience."
+      ],
+      [
+        1132,
+        "01:41:07.913000",
+        "01:41:10.661000",
+        "Thank you for visiting Jurassic World."
+      ]
+    ],
+    "regex": "\\b((?!\\bJurassic\\ World:)Jurassic\\ World)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

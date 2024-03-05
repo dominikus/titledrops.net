@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6418918",
+    "title": "Little Woods",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 1072,
+    "occurrences": [
+      [
+        311,
+        "00:28:57.001000",
+        "00:28:59.805000",
+        "here in Little Woods, Tioga, Watford City."
+      ],
+      [
+        317,
+        "00:29:19.718000",
+        "00:29:21.793000",
+        "and you don't say my name, you don't say Little Woods,"
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Woods:)Little\\ Woods)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

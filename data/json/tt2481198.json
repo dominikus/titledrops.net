@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2481198",
+    "title": "Sunshine on Leith",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 1262,
+    "occurrences": [
+      [
+        890,
+        "01:06:40.955000",
+        "01:06:45.051000",
+        "Puts sunshine on Leith"
+      ],
+      [
+        911,
+        "01:08:14.465000",
+        "01:08:18.845000",
+        "Puts sunshine on Leith"
+      ]
+    ],
+    "regex": "\\b((?!\\bSunshine\\ on\\ Leith:)Sunshine\\ on\\ Leith)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

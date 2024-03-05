@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0054016",
+    "title": "The Last Voyage",
+    "year": 1960,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1297,
+    "occurrences": [
+      [
+        10,
+        "00:00:55.922000",
+        "00:00:58.516000",
+        "for this is the last voyage."
+      ],
+      [
+        1296,
+        "01:30:56.941000",
+        "01:31:00.342000",
+        "This was her last voyage."
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Voyage:)Last\\ Voyage)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

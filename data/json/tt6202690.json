@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6202690",
+    "title": "The Bed",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 191,
+    "occurrences": [
+      [
+        115,
+        "00:51:00.893000",
+        "00:51:03.011000",
+        "Lift it a little the bed. Lift it a little."
+      ],
+      [
+        186,
+        "01:14:09.476000",
+        "01:14:12.088000",
+        "Let's go to bed. You'll sleep all twisted up."
+      ]
+    ],
+    "regex": "\\b((?!\\bBed:)Bed)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

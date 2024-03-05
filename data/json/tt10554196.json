@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt10554196",
+    "title": "Pungo: A Witch's Tale",
+    "year": 2020,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 1157,
+    "occurrences": [
+      [
+        112,
+        "00:07:16.666000",
+        "00:07:19.699000",
+        "Like Grace Sherwood the witch of Pungo?"
+      ],
+      [
+        202,
+        "00:11:39.791000",
+        "00:11:43.091000",
+        "Or the Pungo Witch?"
+      ],
+      [
+        584,
+        "00:44:34.990000",
+        "00:44:36.570000",
+        "Pungo."
+      ],
+      [
+        673,
+        "00:54:07.541000",
+        "00:54:11.012000",
+        "But you are not the Witch of Pungo."
+      ],
+      [
+        678,
+        "00:54:19.200000",
+        "00:54:20.096000",
+        "Pungo?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPungo:)Pungo|(?!\\bWitch's\\ Tale:)Witch's\\ Tale)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

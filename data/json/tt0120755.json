@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0120755",
+    "title": "Mission: Impossible II",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1085,
+    "occurrences": [
+      [
+        90,
+        "00:09:17.339000",
+        "00:09:19.273000",
+        "Your mission, should you choose to accept it,"
+      ],
+      [
+        302,
+        "00:29:55.469000",
+        "00:29:58.666000",
+        "Well, this is not Mission Diffii cult, Mr. Hunt, it's Mission Impossible."
+      ]
+    ],
+    "regex": "\\b((?!\\bMission:)Mission|(?!\\bImpossible:)Impossible)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

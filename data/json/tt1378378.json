@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1378378",
+    "title": "The Widow's Might",
+    "year": 2009,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 1602,
+    "occurrences": [
+      [
+        11,
+        "00:01:38.632000",
+        "00:01:43.571000",
+        "* He's the widow's might"
+      ],
+      [
+        898,
+        "00:42:56.908000",
+        "00:42:58.710000",
+        "- Their film, the \"Widow's Might\""
+      ],
+      [
+        1414,
+        "01:14:35.071000",
+        "01:14:36.506000",
+        "\"The Widow's Might\"."
+      ],
+      [
+        1424,
+        "01:14:53.957000",
+        "01:14:56.726000",
+        "with the premiere of their film, \"The Widow's Might\","
+      ]
+    ],
+    "regex": "\\b((?!\\bWidow's\\ Might:)Widow's\\ Might)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt13495458",
+    "title": "The Inspection",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1092,
+    "occurrences": [
+      [
+        407,
+        "00:33:42.938000",
+        "00:33:44.898000",
+        "Inspection, arms."
+      ],
+      [
+        422,
+        "00:34:19.975000",
+        "00:34:22.352000",
+        "Inspection, arms."
+      ],
+      [
+        946,
+        "01:15:33.821000",
+        "01:15:36.407000",
+        "Platoon 2014 is ready for inspection."
+      ],
+      [
+        948,
+        "01:16:16.655000",
+        "01:16:18.699000",
+        "Your recruits have passed inspection."
+      ]
+    ],
+    "regex": "\\b((?!\\bInspection:)Inspection)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

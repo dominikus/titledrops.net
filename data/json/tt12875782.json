@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt12875782",
+    "title": "Freaks: You're One of Us",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 1364,
+    "occurrences": [
+      [
+        121,
+        "00:07:45.560000",
+        "00:07:46.680000",
+        "You're one of us."
+      ],
+      [
+        166,
+        "00:09:43.240000",
+        "00:09:44.520000",
+        "You're one of us."
+      ],
+      [
+        788,
+        "00:50:18.240000",
+        "00:50:19.240000",
+        "Freaks."
+      ],
+      [
+        957,
+        "01:01:01.960000",
+        "01:01:05.520000",
+        "\"You're one of us. You just don't know it yet.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bFreaks:)Freaks|(?!\\bYou're\\ One\\ of\\ Us:)You're\\ One\\ of\\ Us)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

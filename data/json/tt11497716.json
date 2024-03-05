@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt11497716",
+    "title": "The Legend",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 2559,
+    "occurrences": [
+      [
+        46,
+        "00:05:24.360000",
+        "00:05:26.600000",
+        "\"The legend will now take a class\""
+      ],
+      [
+        1206,
+        "01:07:41.840000",
+        "01:07:44.080000",
+        "\"The legend will now take a class\""
+      ],
+      [
+        1815,
+        "01:48:33.040000",
+        "01:48:35.280000",
+        "You are a true legend, sir I'll keep it, thank you"
+      ],
+      [
+        2502,
+        "02:33:56.200000",
+        "02:33:58.480000",
+        "\"The legend will now take a class\""
+      ],
+      [
+        2531,
+        "02:37:35.640000",
+        "02:37:36.720000",
+        "You are truly a LEGEND!"
+      ]
+    ],
+    "regex": "\\b((?!\\bLegend:)Legend)(?!\\:)(?!'t)\\b",
+    "runtime": 161,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt8434110",
+    "title": "Murina",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 549,
+    "occurrences": [
+      [
+        21,
+        "00:06:56.459000",
+        "00:06:57.459000",
+        "Murina."
+      ],
+      [
+        222,
+        "00:34:30.970000",
+        "00:34:33.788000",
+        "He must still be looking for a Murina."
+      ],
+      [
+        223,
+        "00:34:39.284000",
+        "00:34:43.626000",
+        "We can sail away, leave him here, fishing for Murina."
+      ],
+      [
+        277,
+        "00:41:27.548000",
+        "00:41:30.510000",
+        "It's not Murina, but tomorrow Julija will get you one."
+      ]
+    ],
+    "regex": "\\b((?!\\bMurina:)Murina)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

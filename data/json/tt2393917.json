@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2393917",
+    "title": "Out of Print",
+    "year": 2014,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1766,
+    "occurrences": [
+      [
+        1295,
+        "01:04:52.321000",
+        "01:04:54.995000",
+        "- A lot of times you'll see movies out of print;"
+      ],
+      [
+        1500,
+        "01:14:28.931000",
+        "01:14:30.569000",
+        "I'm making a movie called Out of Print."
+      ]
+    ],
+    "regex": "\\b((?!\\bOut\\ of\\ Print:)Out\\ of\\ Print)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

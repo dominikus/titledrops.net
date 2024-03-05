@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1074643",
+    "title": "House of Fallen",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1418,
+    "occurrences": [
+      [
+        550,
+        "00:36:26.715000",
+        "00:36:28.583000",
+        "He's of the House of Fallen."
+      ],
+      [
+        1257,
+        "01:22:13.054000",
+        "01:22:14.957000",
+        "He belongs in the House of Fallen."
+      ]
+    ],
+    "regex": "\\b((?!\\bHouse\\ of\\ Fallen:)House\\ of\\ Fallen)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.6
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4584862",
+    "title": "Bhaskar the Rascal",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 2458,
+    "occurrences": [
+      [
+        64,
+        "00:07:43.083000",
+        "00:07:44.584000",
+        "\"Hey Bhaskar The Rascal\""
+      ],
+      [
+        85,
+        "00:09:02.792000",
+        "00:09:04.209000",
+        "\"Bhaskar the Rascal\""
+      ],
+      [
+        89,
+        "00:09:10.999000",
+        "00:09:12.918000",
+        "Bhaskar the Rascal!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBhaskar\\ the\\ Rascal:)Bhaskar\\ the\\ Rascal)(?!\\:)(?!'t)\\b",
+    "runtime": 160,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

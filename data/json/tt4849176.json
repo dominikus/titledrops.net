@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4849176",
+    "title": "Sneekweek",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 694,
+    "occurrences": [
+      [
+        106,
+        "00:13:05.640000",
+        "00:13:09.247000",
+        "No mistakes, guys. Sneekweek is fun, it's relaxed..."
+      ],
+      [
+        576,
+        "01:23:10.240000",
+        "01:23:12.311000",
+        "How is that my fault? - During Sneekweek!"
+      ],
+      [
+        579,
+        "01:23:24.280000",
+        "01:23:28.672000",
+        "Tourists want to enjoy their vacation, it's fucking Sneekweek."
+      ]
+    ],
+    "regex": "\\b((?!\\bSneekweek:)Sneekweek)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

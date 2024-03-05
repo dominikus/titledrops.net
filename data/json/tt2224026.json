@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt2224026",
+    "title": "Home",
+    "year": 2015,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 7,
+    "all_lines": 1141,
+    "occurrences": [
+      [
+        21,
+        "00:01:37.847000",
+        "00:01:39.677000",
+        "Our new home!"
+      ],
+      [
+        74,
+        "00:04:59.632000",
+        "00:05:01.182000",
+        "Welcome to your new home."
+      ],
+      [
+        75,
+        "00:05:01.218000",
+        "00:05:03.257000",
+        "- Wait, what? No! - New home?"
+      ],
+      [
+        90,
+        "00:05:49.850000",
+        "00:05:53.060000",
+        "With new friends. In a new home."
+      ],
+      [
+        94,
+        "00:06:23.257000",
+        "00:06:25.548000",
+        "Welcome home, neighbors!"
+      ],
+      [
+        826,
+        "00:54:10.250000",
+        "00:54:14.300000",
+        "It was a new home, a new country."
+      ],
+      [
+        1133,
+        "01:23:13.493000",
+        "01:23:18.462000",
+        "I has a new start in a new home with new friends."
+      ]
+    ],
+    "regex": "\\b((?!\\bHome:)Home)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

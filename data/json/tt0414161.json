@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0414161",
+    "title": "Intermedio",
+    "year": 2005,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1282,
+    "occurrences": [
+      [
+        202,
+        "00:13:55.468000",
+        "00:13:58.204000",
+        "-  I just don't want an Intermedio crawling up my ass."
+      ],
+      [
+        205,
+        "00:14:02.108000",
+        "00:14:04.210000",
+        "-  Okay, what's an Intermedio?"
+      ],
+      [
+        213,
+        "00:14:16.756000",
+        "00:14:19.826000",
+        "- Okay, El Intermedio, alright?"
+      ],
+      [
+        862,
+        "00:46:58.082000",
+        "00:46:59.550000",
+        "- El Intermedio."
+      ],
+      [
+        1234,
+        "01:12:17.099000",
+        "01:12:18.534000",
+        "- He's an Intermedio."
+      ]
+    ],
+    "regex": "\\b((?!\\bIntermedio:)Intermedio)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.7
+  }
+]

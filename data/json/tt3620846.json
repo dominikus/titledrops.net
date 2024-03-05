@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt3620846",
+    "title": "Happy Birthday",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1294,
+    "occurrences": [
+      [
+        80,
+        "00:05:50.551000",
+        "00:05:54.686000",
+        "Happy birthday, buddy."
+      ],
+      [
+        229,
+        "00:13:22.969000",
+        "00:13:25.370000",
+        "Happy birthday!"
+      ],
+      [
+        1216,
+        "01:22:59.641000",
+        "01:23:02.643000",
+        "- Happy birthday, buddy!"
+      ],
+      [
+        1238,
+        "01:23:56.065000",
+        "01:23:57.698000",
+        "Happy birthday."
+      ],
+      [
+        1259,
+        "01:25:34.195000",
+        "01:25:36.530000",
+        "- Happy birthday."
+      ]
+    ],
+    "regex": "\\b((?!\\bHappy\\ Birthday:)Happy\\ Birthday)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

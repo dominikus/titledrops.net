@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2002718",
+    "title": "Machete Kills",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1083,
+    "occurrences": [
+      [
+        24,
+        "00:01:52.475000",
+        "00:01:54.244000",
+        "Machete Kills Again.."
+      ],
+      [
+        1080,
+        "01:36:56.885000",
+        "01:36:58.696000",
+        "Machete Kills Again"
+      ]
+    ],
+    "regex": "\\b((?!\\bMachete\\ Kills:)Machete\\ Kills)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

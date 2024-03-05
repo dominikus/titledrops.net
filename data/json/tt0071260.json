@@ -1,0 +1,52 @@
+[
+  {
+    "imdb": "tt0071260",
+    "title": "Butley",
+    "year": 1974,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 2028,
+    "occurrences": [
+      [
+        49,
+        "00:07:32.744000",
+        "00:07:34.537000",
+        "Butley, English."
+      ],
+      [
+        805,
+        "00:50:01.290000",
+        "00:50:03.584000",
+        "Butley, Nursery."
+      ],
+      [
+        987,
+        "01:01:32.230000",
+        "01:01:34.482000",
+        "Butley is himself again."
+      ],
+      [
+        1282,
+        "01:19:51.036000",
+        "01:19:53.163000",
+        "Butley, English. Oh."
+      ],
+      [
+        1641,
+        "01:42:17.298000",
+        "01:42:20.176000",
+        "Butley, English. Oh, James."
+      ]
+    ],
+    "regex": "\\b((?!\\bButley:)Butley)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [
+      "Ben Butley"
+    ],
+    "title_is_name": true,
+    "rating": 6.7
+  }
+]

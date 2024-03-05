@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt14324650",
+    "title": "Batman: The Long Halloween, Part One",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Animation",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 1198,
+    "occurrences": [
+      [
+        871,
+        "01:00:48.806000",
+        "01:00:52.242000",
+        "I never thought the Batman was going to have to be a detective."
+      ],
+      [
+        876,
+        "01:01:04.688000",
+        "01:01:07.758000",
+        "the Batman will be what the world needs him to be."
+      ],
+      [
+        1123,
+        "01:16:23.140000",
+        "01:16:25.576000",
+        "Bruce Wayne is... is the Batman?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBatman:)Batman|(?!\\bLong\\ Halloween,\\ Part\\ One:)Long\\ Halloween,\\ Part\\ One)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

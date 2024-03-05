@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt10188162",
+    "title": "Bunnyman: Grindhouse Edition",
+    "year": 2019,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 902,
+    "occurrences": [
+      [
+        5,
+        "00:00:48.240000",
+        "00:00:53.240000",
+        "But most of all, I remember the man we call Bunnyman."
+      ],
+      [
+        772,
+        "01:12:57.651000",
+        "01:13:00.651000",
+        "(Bunnyman grunting)"
+      ],
+      [
+        773,
+        "01:13:05.484000",
+        "01:13:10.484000",
+        "Now! (Bunnyman grunting)"
+      ],
+      [
+        896,
+        "01:25:16.125000",
+        "01:25:19.125000",
+        "(Bunnyman grunting)"
+      ]
+    ],
+    "regex": "\\b((?!\\bBunnyman:)Bunnyman|(?!\\bGrindhouse\\ Edition:)Grindhouse\\ Edition)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

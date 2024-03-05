@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0053742",
+    "title": "The Crowded Sky",
+    "year": 1960,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1790,
+    "occurrences": [
+      [
+        538,
+        "00:30:58.718000",
+        "00:31:01.169000",
+        "It's a crowded sky."
+      ],
+      [
+        738,
+        "00:42:00.414000",
+        "00:42:02.278000",
+        "It's a crowded sky."
+      ]
+    ],
+    "regex": "\\b((?!\\bCrowded\\ Sky:)Crowded\\ Sky)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

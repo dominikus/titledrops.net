@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3957098",
+    "title": "World War III",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1659,
+    "occurrences": [
+      [
+        1159,
+        "01:09:55.360000",
+        "01:09:58.800000",
+        "The one that started the second world war with a signal of his finger."
+      ],
+      [
+        1161,
+        "01:10:01.280000",
+        "01:10:05",
+        "is why I want to start the third world war now!"
+      ]
+    ],
+    "regex": "\\b((?!\\bWorld\\ War:)World\\ War)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

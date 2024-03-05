@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2181885",
+    "title": "Dancing Queen",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1672,
+    "occurrences": [
+      [
+        108,
+        "00:07:52.890000",
+        "00:07:55.826000",
+        "Dancing queen! Shinchon's Madonna is here"
+      ],
+      [
+        1281,
+        "01:25:56.035000",
+        "01:25:58.469000",
+        "And dancing queen version"
+      ],
+      [
+        1504,
+        "01:44:31.716000",
+        "01:44:33.451000",
+        "Next is Dancing Queen"
+      ]
+    ],
+    "regex": "\\b((?!\\bDancing\\ Queen:)Dancing\\ Queen)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

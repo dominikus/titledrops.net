@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0048512",
+    "title": "The Prisoner",
+    "year": 1955,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1028,
+    "occurrences": [
+      [
+        389,
+        "00:36:58.480000",
+        "00:37:01.472000",
+        "The prisoner is not ready. It'll destroy weeks of work."
+      ],
+      [
+        778,
+        "01:08:40.440000",
+        "01:08:42.829000",
+        "Has the prisoner read the charges against him?"
+      ],
+      [
+        833,
+        "01:12:18.960000",
+        "01:12:22.157000",
+        "...the prisoner can only throw himself on the mercy of the court."
+      ],
+      [
+        971,
+        "01:23:20.120000",
+        "01:23:23.556000",
+        "Remember, that's an ex-prisoner, that is."
+      ]
+    ],
+    "regex": "\\b((?!\\bPrisoner:)Prisoner)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

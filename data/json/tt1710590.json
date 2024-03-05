@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1710590",
+    "title": "Omar Killed Me",
+    "year": 2011,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 736,
+    "occurrences": [
+      [
+        61,
+        "00:08:03.479000",
+        "00:08:07.435000",
+        "- \"Omar Killed Me.\" - My name."
+      ],
+      [
+        235,
+        "00:23:58.283000",
+        "00:24:01.640000",
+        "'' Omar Killed Me ' before she blocked the door. \""
+      ],
+      [
+        354,
+        "00:36:03.197000",
+        "00:36:09.991000",
+        "But if she felt that she was dying and therefore wrote \"Omar Killed Me\" -"
+      ]
+    ],
+    "regex": "\\b((?!\\bOmar\\ Killed\\ Me:)Omar\\ Killed\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

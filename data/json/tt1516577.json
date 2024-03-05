@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1516577",
+    "title": "Sedona",
+    "year": 2011,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1055,
+    "occurrences": [
+      [
+        21,
+        "00:04:54.413000",
+        "00:04:57.481000",
+        "Oh, hey! I'm in sedona."
+      ],
+      [
+        23,
+        "00:05:01.151000",
+        "00:05:05.222000",
+        "Sedona? Okay. Well, at least you're in the right state."
+      ],
+      [
+        213,
+        "00:18:11.216000",
+        "00:18:13.886000",
+        "And it's your first time in sedona."
+      ],
+      [
+        839,
+        "01:00:04.061000",
+        "01:00:06.596000",
+        "The spirit of sedona."
+      ]
+    ],
+    "regex": "\\b((?!\\bSedona:)Sedona)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

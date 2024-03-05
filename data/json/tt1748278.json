@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1748278",
+    "title": "Scabbard Samurai",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 733,
+    "occurrences": [
+      [
+        321,
+        "00:41:15.566000",
+        "00:41:17.333000",
+        "You scabbard samurai!"
+      ],
+      [
+        326,
+        "00:41:36.433000",
+        "00:41:38.900000",
+        "Do you want your father to die a scabbard samurai?"
+      ],
+      [
+        342,
+        "00:43:28.033000",
+        "00:43:29.833000",
+        "him to die as a scabbard samurai."
+      ],
+      [
+        354,
+        "00:44:41.700000",
+        "00:44:44.033000",
+        "The scabbard samurai with the daughter?"
+      ]
+    ],
+    "regex": "\\b((?!\\bScabbard\\ Samurai:)Scabbard\\ Samurai)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

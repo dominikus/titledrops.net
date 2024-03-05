@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt4666696",
+    "title": "Vampires: Lucas Rising",
+    "year": 2014,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1216,
+    "occurrences": [
+      [
+        388,
+        "00:33:07.718000",
+        "00:33:10.254000",
+        "- Are all bloody vampires gay?"
+      ],
+      [
+        631,
+        "00:52:34.317000",
+        "00:52:35.819000",
+        "- Bloody vampires."
+      ],
+      [
+        950,
+        "01:21:15.069000",
+        "01:21:18.006000",
+        "to create an army of hybrid vampires."
+      ],
+      [
+        977,
+        "01:22:43.290000",
+        "01:22:47.529000",
+        "Now go, fly, my vampires."
+      ]
+    ],
+    "regex": "\\b((?!\\bVampires:)Vampires|(?!\\bLucas\\ Rising:)Lucas\\ Rising)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt5707304",
+    "title": "Mother",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 859,
+    "occurrences": [
+      [
+        354,
+        "00:34:24.103000",
+        "00:34:26.105000",
+        "Thank you for taking care of my mother."
+      ],
+      [
+        655,
+        "00:59:11.339000",
+        "00:59:13.299000",
+        "Your mother also speaks Spanish."
+      ],
+      [
+        666,
+        "00:59:49.919000",
+        "00:59:52.922000",
+        "is thanks to Luz, my mother."
+      ],
+      [
+        674,
+        "01:00:20.033000",
+        "01:00:22.493000",
+        "You aren't a mother."
+      ]
+    ],
+    "regex": "\\b((?!\\bMother:)Mother)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0095690",
+    "title": "Mystic Pizza",
+    "year": 1988,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 7,
+    "all_lines": 1007,
+    "occurrences": [
+      [
+        364,
+        "00:33:40.720000",
+        "00:33:44.315000",
+        "We have the real thing right here. The Mystic Pizza."
+      ],
+      [
+        813,
+        "01:18:48.520000",
+        "01:18:53.719000",
+        "The... Mystic Pizza. I assume that's the house special."
+      ],
+      [
+        817,
+        "01:19:16.240000",
+        "01:19:18.913000",
+        "Leona, I need the best Mystic Pizza you've ever made."
+      ],
+      [
+        938,
+        "01:29:28.760000",
+        "01:29:31.399000",
+        "..a hole in the wall called the Mystic Pizza."
+      ],
+      [
+        946,
+        "01:29:52.720000",
+        "01:29:56.395000",
+        "I ordered the house speciality, the Mystic Pizza. Mystic indeed."
+      ],
+      [
+        950,
+        "01:30:06.240000",
+        "01:30:09.710000",
+        "That's the Mystic Pizza, in Mystic, Connecticut."
+      ],
+      [
+        954,
+        "01:30:23.160000",
+        "01:30:25.196000",
+        "Hello, Mystic Pizza."
+      ]
+    ],
+    "regex": "\\b((?!\\bMystic\\ Pizza:)Mystic\\ Pizza)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

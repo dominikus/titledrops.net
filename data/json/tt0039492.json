@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0039492",
+    "title": "The Inheritance",
+    "year": 1947,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1070,
+    "occurrences": [
+      [
+        108,
+        "00:08:54.389000",
+        "00:08:57.421000",
+        "I tell you he has no hope of any inheritance from me, and knows it."
+      ],
+      [
+        254,
+        "00:20:56.259000",
+        "00:20:58.888000",
+        "It concerns your inheritance. - Yes, Papa."
+      ]
+    ],
+    "regex": "\\b((?!\\bInheritance:)Inheritance)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

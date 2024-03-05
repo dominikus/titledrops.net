@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt5017928",
+    "title": "Dance Camp",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "count": 6,
+    "all_lines": 1359,
+    "occurrences": [
+      [
+        153,
+        "00:07:06.024000",
+        "00:07:08.661000",
+        "Welcome to Dance Camp."
+      ],
+      [
+        349,
+        "00:15:08.005000",
+        "00:15:12.144000",
+        "Hello, hello, hello, dance camp campers."
+      ],
+      [
+        388,
+        "00:19:00.805000",
+        "00:19:02.841000",
+        "But you know you're at dance camp, right?"
+      ],
+      [
+        511,
+        "00:24:22.159000",
+        "00:24:24.262000",
+        "The only thing lamer than being at dance camp"
+      ],
+      [
+        512,
+        "00:24:24.295000",
+        "00:24:26.998000",
+        "is getting into a fight at dance camp."
+      ],
+      [
+        683,
+        "00:31:59.148000",
+        "00:32:00.183000",
+        "Dance Camp, baby!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDance\\ Camp:)Dance\\ Camp)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

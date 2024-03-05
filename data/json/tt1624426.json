@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1624426",
+    "title": "I Will Follow",
+    "year": 2010,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1712,
+    "occurrences": [
+      [
+        282,
+        "00:13:55.549000",
+        "00:13:59.322000",
+        "\"I will follow,\" \"Gloria\"?"
+      ],
+      [
+        770,
+        "00:32:04.942000",
+        "00:32:06.577000",
+        "\"I will follow\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Will\\ Follow:)I\\ Will\\ Follow)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0465203",
+    "title": "Them",
+    "year": 2006,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 334,
+    "occurrences": [
+      [
+        88,
+        "00:16:12.540000",
+        "00:16:16.055000",
+        "They were irritating today. A dictation calmed them down."
+      ],
+      [
+        191,
+        "00:30:06.060000",
+        "00:30:07.573000",
+        "No! I don't have them."
+      ],
+      [
+        194,
+        "00:30:16.460000",
+        "00:30:17.654000",
+        "We don't have them."
+      ],
+      [
+        333,
+        "01:10:28.580000",
+        "01:10:32.892000",
+        "During the first interrogation, the youngest amongst them declared:"
+      ]
+    ],
+    "regex": "\\b((?!\\bThem:)Them)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

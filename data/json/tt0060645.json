@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0060645",
+    "title": "Madame X",
+    "year": 1966,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 1215,
+    "occurrences": [
+      [
+        911,
+        "01:15:53.649000",
+        "01:15:56.447000",
+        "Well, did you meet the mysterious Madame X?"
+      ],
+      [
+        1067,
+        "01:25:29.457000",
+        "01:25:33.484000",
+        "He'd have you believe that the deed of Madame X was justified"
+      ],
+      [
+        1071,
+        "01:25:47.142000",
+        "01:25:52.546000",
+        "Madame \"X\" appointed herself his judge and his executioner."
+      ],
+      [
+        1079,
+        "01:26:19.841000",
+        "01:26:24.471000",
+        "Madame \"X\" is a murderess. She's taken a life."
+      ],
+      [
+        1087,
+        "01:26:57.045000",
+        "01:27:01.311000",
+        "No, Madame, no. Your Honor, may I have a recess to talk with my client?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMadame:)Madame)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

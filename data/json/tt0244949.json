@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0244949",
+    "title": "Accident",
+    "year": 1985,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 421,
+    "occurrences": [
+      [
+        240,
+        "00:27:48.487000",
+        "00:27:54.151000",
+        "At what time the accident happened? Where are you from?"
+      ],
+      [
+        265,
+        "00:30:10.426000",
+        "00:30:16.021000",
+        "One last question. How many are killed in the Accident?"
+      ],
+      [
+        275,
+        "00:31:28.354000",
+        "00:31:32.052000",
+        "I have to submit the accident report by today."
+      ],
+      [
+        317,
+        "00:37:12.522000",
+        "00:37:18.529000",
+        "That accident victim, another gone. 12 in total."
+      ],
+      [
+        398,
+        "00:50:22.002000",
+        "00:50:27.122000",
+        "-Deepak, are you connected to accident? -No"
+      ]
+    ],
+    "regex": "\\b((?!\\bAccident:)Accident)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.3
+  }
+]

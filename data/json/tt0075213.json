@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0075213",
+    "title": "The Shootist",
+    "year": 1976,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Western"
+    ],
+    "count": 4,
+    "all_lines": 1538,
+    "occurrences": [
+      [
+        427,
+        "00:26:40.841000",
+        "00:26:43.810000",
+        "that you are the most celebrated shootist extant."
+      ],
+      [
+        1091,
+        "01:02:34.258000",
+        "01:02:35.623000",
+        "The Shootist..."
+      ],
+      [
+        1227,
+        "01:08:39.238000",
+        "01:08:41.206000",
+        "You probably prefer the word shootist."
+      ],
+      [
+        1506,
+        "01:26:47.310000",
+        "01:26:49.744000",
+        "to the presence of our famous shootist."
+      ]
+    ],
+    "regex": "\\b((?!\\bShootist:)Shootist)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

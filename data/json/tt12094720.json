@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt12094720",
+    "title": "City Hall",
+    "year": 2020,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 3532,
+    "occurrences": [
+      [
+        911,
+        "01:07:31.130000",
+        "01:07:37.380000",
+        "And I think that everyone in this room is more motivated than the average person at City Hall"
+      ],
+      [
+        3074,
+        "03:57:33.670000",
+        "03:57:36.120000",
+        "We take what happens here back to City Hall."
+      ],
+      [
+        3076,
+        "03:57:40.246000",
+        "03:57:41.726000",
+        "To City Hall meaning the Mayor or...?"
+      ],
+      [
+        3446,
+        "04:28:25.865000",
+        "04:28:29.042000",
+        "Every day Bostonians walk through the doors of City Hall"
+      ],
+      [
+        3515,
+        "04:33:33.240000",
+        "04:33:38.678000",
+        "send it in with a $14 money order or check, addressed to City Hall."
+      ]
+    ],
+    "regex": "\\b((?!\\bCity\\ Hall:)City\\ Hall)(?!\\:)(?!'t)\\b",
+    "runtime": 275,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

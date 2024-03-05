@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0073870",
+    "title": "The Family Vice",
+    "year": 1975,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1336,
+    "occurrences": [
+      [
+        201,
+        "00:13:50.040000",
+        "00:13:53.760000",
+        "They are sunsets, everyone plots here - it's a family vice."
+      ],
+      [
+        317,
+        "00:21:05.440000",
+        "00:21:06.700000",
+        "It's a family vice, you know?"
+      ],
+      [
+        807,
+        "00:51:31.700000",
+        "00:51:32.819000",
+        "It's a family vice."
+      ]
+    ],
+    "regex": "\\b((?!\\bFamily\\ Vice:)Family\\ Vice)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

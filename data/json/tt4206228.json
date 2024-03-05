@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt4206228",
+    "title": "Prisoner X",
+    "year": 2016,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1226,
+    "occurrences": [
+      [
+        67,
+        "00:07:45.765000",
+        "00:07:49.134000",
+        "Looks like our prisoner can predict celestial events."
+      ],
+      [
+        98,
+        "00:10:45.178000",
+        "00:10:47.112000",
+        "The data disk contains a brief on a prisoner"
+      ],
+      [
+        123,
+        "00:11:55.148000",
+        "00:11:57.916000",
+        "Look, if there's one thing I've learned from this prisoner"
+      ]
+    ],
+    "regex": "\\b((?!\\bPrisoner:)Prisoner)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

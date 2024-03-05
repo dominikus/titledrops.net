@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0046255",
+    "title": "Rue de l'Estrapade",
+    "year": 1953,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1225,
+    "occurrences": [
+      [
+        333,
+        "00:27:44.402000",
+        "00:27:47.025000",
+        "Number seven, rue de l'estrapade."
+      ],
+      [
+        666,
+        "00:54:21.079000",
+        "00:54:22.929000",
+        "Number 7, rue de l'estrapade."
+      ],
+      [
+        668,
+        "00:54:26.912000",
+        "00:54:29.809000",
+        "Number 7, rue de l'estrapade."
+      ],
+      [
+        679,
+        "00:55:06.433000",
+        "00:55:07.453000",
+        "7, rue de l'estrapade!"
+      ],
+      [
+        680,
+        "00:55:07.727000",
+        "00:55:11.669000",
+        "I'll have a bath, I'll shave and 7, rue de l'estrapade!"
+      ]
+    ],
+    "regex": "\\b((?!\\bRue\\ de\\ l'Estrapade:)Rue\\ de\\ l'Estrapade)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

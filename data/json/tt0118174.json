@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0118174",
+    "title": "The Winner",
+    "year": 1996,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1080,
+    "occurrences": [
+      [
+        108,
+        "00:09:55.150000",
+        "00:10:00.086000",
+        "P Here they're gonna take everything from you P six! Winner is six."
+      ],
+      [
+        137,
+        "00:12:30.482000",
+        "00:12:35.451000",
+        "Jack, you can't just go and kill a winner. Where's the sport in that?"
+      ],
+      [
+        146,
+        "00:13:03.074000",
+        "00:13:07.443000",
+        "But a winner, Jack, you have to destroy."
+      ],
+      [
+        147,
+        "00:13:07.445000",
+        "00:13:11.479000",
+        "A winner you have to bring to their knees!"
+      ]
+    ],
+    "regex": "\\b((?!\\bWinner:)Winner)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

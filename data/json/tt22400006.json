@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt22400006",
+    "title": "Possessed",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 712,
+    "occurrences": [
+      [
+        64,
+        "00:06:07.261000",
+        "00:06:10.181000",
+        "Last week there was a fuss, some villagers got possessed."
+      ],
+      [
+        65,
+        "00:06:10.580000",
+        "00:06:13.061000",
+        "The Silat boys got possessed! There were seven of them as well."
+      ]
+    ],
+    "regex": "\\b((?!\\bPossessed:)Possessed)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

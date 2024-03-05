@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0424965",
+    "title": "The Judge",
+    "year": 2005,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 660,
+    "occurrences": [
+      [
+        7,
+        "00:01:47.120000",
+        "00:01:54.754000",
+        "The Judge"
+      ],
+      [
+        621,
+        "01:16:39.720000",
+        "01:16:42.632000",
+        "You're a judge. Face the fact."
+      ],
+      [
+        656,
+        "01:21:39.640000",
+        "01:21:42.677000",
+        "How can you be a judge and talk such shit?"
+      ]
+    ],
+    "regex": "\\b((?!\\bJudge:)Judge)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

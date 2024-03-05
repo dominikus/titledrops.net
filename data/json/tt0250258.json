@@ -1,0 +1,92 @@
+[
+  {
+    "imdb": "tt0250258",
+    "title": "The Experiment",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 12,
+    "all_lines": 461,
+    "occurrences": [
+      [
+        1,
+        "00:00:43.900000",
+        "00:00:47.200000",
+        "Profits: 4000 mark, for a 14 day during experiment."
+      ],
+      [
+        18,
+        "00:03:31.300000",
+        "00:03:34.300000",
+        "I am doctor Grimm, the scientific assistant of this experiment."
+      ],
+      [
+        20,
+        "00:03:37.300000",
+        "00:03:40.100000",
+        "The experiment is painless. There's no need for medication."
+      ],
+      [
+        26,
+        "00:03:55",
+        "00:03:58",
+        "Willing to participate in this experiment"
+      ],
+      [
+        43,
+        "00:05:19.600000",
+        "00:05:21.700000",
+        "That is important, you can during the experiment"
+      ],
+      [
+        47,
+        "00:05:30",
+        "00:05:32.800000",
+        "Uhm, the experiment will be guarded 24 hours a day by video."
+      ],
+      [
+        72,
+        "00:08:07.200000",
+        "00:08:12.300000",
+        "This is a reference test. We'll do it again after the experiment."
+      ],
+      [
+        108,
+        "00:13:21.800000",
+        "00:13:25.400000",
+        "Please meet Professor Thon, the director of this experiment."
+      ],
+      [
+        119,
+        "00:14:09.800000",
+        "00:14:12.800000",
+        "...is out of the experiment. Is that clear?"
+      ],
+      [
+        133,
+        "00:15:24.100000",
+        "00:15:27.400000",
+        "Take it seriously! The experiment succeeds or fails with you!"
+      ],
+      [
+        135,
+        "00:15:29.900000",
+        "00:15:34.100000",
+        "...the experiment makes no sense and we can stop it right now."
+      ],
+      [
+        180,
+        "00:19:29.600000",
+        "00:19:32.400000",
+        "Why do you want to take part in this experiment?"
+      ]
+    ],
+    "regex": "\\b((?!\\bExperiment:)Experiment)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

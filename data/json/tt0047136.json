@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0047136",
+    "title": "Johnny Guitar",
+    "year": 1954,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 4,
+    "all_lines": 1009,
+    "occurrences": [
+      [
+        17,
+        "00:05:09.360000",
+        "00:05:12.796000",
+        "It's a Johnny Guitar. Says he has an appointment with you."
+      ],
+      [
+        155,
+        "00:16:32.720000",
+        "00:16:35.792000",
+        "- And who are you? - The name, sir, is Johnny Guitar."
+      ],
+      [
+        859,
+        "01:27:47.597000",
+        "01:27:49.952000",
+        "It's Vienna and Johnny Guitar!"
+      ],
+      [
+        1009,
+        "01:45:02.957000",
+        "01:45:06.836000",
+        "# Johnny Guitar #"
+      ]
+    ],
+    "regex": "\\b((?!\\bJohnny\\ Guitar:)Johnny\\ Guitar)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

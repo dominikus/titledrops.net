@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0095286",
+    "title": "Heart of Midnight",
+    "year": 1988,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 864,
+    "occurrences": [
+      [
+        0,
+        "00:00:41.875000",
+        "00:00:46.375000",
+        "Heart of midnight"
+      ],
+      [
+        864,
+        "01:32:47.145000",
+        "01:32:49.647000",
+        "Heart of midnight"
+      ]
+    ],
+    "regex": "\\b((?!\\bHeart\\ of\\ Midnight:)Heart\\ of\\ Midnight)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

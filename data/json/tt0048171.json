@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0048171",
+    "title": "Hit the Deck",
+    "year": 1955,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1606,
+    "occurrences": [
+      [
+        374,
+        "00:25:47.996000",
+        "00:25:50.863000",
+        "He has the lead in that show I told you about, Hit the Deck."
+      ],
+      [
+        1596,
+        "01:49:28.668000",
+        "01:49:32.001000",
+        "Up at dawn, hit the deck Pull up your chest and break your neck"
+      ]
+    ],
+    "regex": "\\b((?!\\bHit\\ the\\ Deck:)Hit\\ the\\ Deck)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt9058654",
+    "title": "Dinner in America",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 6,
+    "all_lines": 1630,
+    "occurrences": [
+      [
+        594,
+        "00:39:49.053000",
+        "00:39:51.347000",
+        "I even had to make a dub of \"Dinner In America\""
+      ],
+      [
+        613,
+        "00:40:34.015000",
+        "00:40:36.768000",
+        "-  Dinner in America... - I write him one every week."
+      ],
+      [
+        1510,
+        "01:37:22.170000",
+        "01:37:24.505000",
+        "Dinnertime, dinner in America"
+      ],
+      [
+        1511,
+        "01:37:24.630000",
+        "01:37:26.466000",
+        "Dinnertime, dinner in America"
+      ],
+      [
+        1512,
+        "01:37:26.591000",
+        "01:37:29.010000",
+        "Dinnertime, dinner in America"
+      ],
+      [
+        1593,
+        "01:42:22.511000",
+        "01:42:26.265000",
+        "'to get a decent dinner in America.'"
+      ]
+    ],
+    "regex": "\\b((?!\\bDinner\\ in\\ America:)Dinner\\ in\\ America)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

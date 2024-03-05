@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0074412",
+    "title": "Disco Godfather",
+    "year": 1979,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1593,
+    "occurrences": [
+      [
+        12,
+        "00:03:53.650000",
+        "00:03:56.028000",
+        "and greet the Disco Godfather!"
+      ],
+      [
+        341,
+        "00:22:05.699000",
+        "00:22:08.794000",
+        "while the Disco Godfather's away fighting crime?"
+      ],
+      [
+        445,
+        "00:26:37.971000",
+        "00:26:40.440000",
+        "Disco Godfather, I've heard so much about you."
+      ],
+      [
+        596,
+        "00:34:08.255000",
+        "00:34:10.929000",
+        "Right now, none other than, Disco Godfather!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDisco\\ Godfather:)Disco\\ Godfather)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

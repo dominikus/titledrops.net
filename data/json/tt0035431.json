@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0035431",
+    "title": "This Above All",
+    "year": 1942,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1807,
+    "occurrences": [
+      [
+        1754,
+        "01:45:09.188000",
+        "01:45:13.057000",
+        "\"This above all, to thine own self be true."
+      ],
+      [
+        1758,
+        "01:45:22.635000",
+        "01:45:26.936000",
+        "\"This above all, to thine own self be true.\""
+      ],
+      [
+        1807,
+        "01:49:53.739000",
+        "01:49:58.404000",
+        "\"This above all- To thine own self be true.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bThis\\ Above\\ All:)This\\ Above\\ All)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

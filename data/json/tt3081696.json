@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3081696",
+    "title": "Icing",
+    "year": 2014,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 924,
+    "occurrences": [
+      [
+        85,
+        "00:09:31.417000",
+        "00:09:35.417000",
+        "Ladies, I'll make a cocktail for you. It's called Icing."
+      ],
+      [
+        144,
+        "00:13:06.375000",
+        "00:13:07.875000",
+        "icing or what,"
+      ]
+    ],
+    "regex": "\\b((?!\\bIcing:)Icing)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

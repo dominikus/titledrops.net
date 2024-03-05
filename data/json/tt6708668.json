@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt6708668",
+    "title": "Black Crab",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1144,
+    "occurrences": [
+      [
+        203,
+        "00:16:12.792000",
+        "00:16:16.083000",
+        "Welcome to Operation Black Crab."
+      ],
+      [
+        282,
+        "00:22:40.042000",
+        "00:22:42",
+        "Black Crab, everything under control?"
+      ],
+      [
+        938,
+        "01:28:14.125000",
+        "01:28:19.125000",
+        "And with that, the first step of Black Crab has been taken."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Crab:)Black\\ Crab)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0390418",
+    "title": "The Raspberry Reich",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 651,
+    "occurrences": [
+      [
+        295,
+        "00:44:58.156000",
+        "00:44:59.856000",
+        "that 'The Raspberry Reich' calls."
+      ],
+      [
+        494,
+        "01:07:38.920000",
+        "01:07:45.393000",
+        "And Patrick can stay and share from the Raspberry Reich."
+      ]
+    ],
+    "regex": "\\b((?!\\bRaspberry\\ Reich:)Raspberry\\ Reich)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

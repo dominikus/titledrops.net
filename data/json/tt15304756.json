@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt15304756",
+    "title": "Blue Thermal",
+    "year": 2022,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1395,
+    "occurrences": [
+      [
+        202,
+        "00:15:32.266000",
+        "00:15:33.433000",
+        "Blue thermal?"
+      ],
+      [
+        794,
+        "00:55:45.804000",
+        "00:55:47.181000",
+        "A blue thermal?"
+      ],
+      [
+        1349,
+        "01:35:15.966000",
+        "01:35:19.303000",
+        "Catching a blue thermal brings happiness."
+      ],
+      [
+        1353,
+        "01:36:09.770000",
+        "01:36:11.271000",
+        "It's a blue thermal."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Thermal:)Blue\\ Thermal)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

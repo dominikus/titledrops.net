@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1333667",
+    "title": "When You're Strange",
+    "year": 2009,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 907,
+    "occurrences": [
+      [
+        233,
+        "00:19:28",
+        "00:19:30",
+        "When You're Strange,"
+      ],
+      [
+        235,
+        "00:19:34",
+        "00:19:37",
+        "When You're Strange,"
+      ],
+      [
+        237,
+        "00:19:40",
+        "00:19:44",
+        "When You're Strange,"
+      ]
+    ],
+    "regex": "\\b((?!\\bWhen\\ You're\\ Strange:)When\\ You're\\ Strange)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1161646",
+    "title": "Gingerdead Man 2: Passion of the Crust",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1459,
+    "occurrences": [
+      [
+        26,
+        "00:02:29.758000",
+        "00:02:32.195000",
+        "The Gingerdead Man who couldn't be stopped."
+      ],
+      [
+        43,
+        "00:03:29.818000",
+        "00:03:31.776000",
+        "the Gingerdead Man!"
+      ],
+      [
+        1311,
+        "01:00:08.256000",
+        "01:00:12.739000",
+        "That's Gingerdead Man, and thank you!"
+      ],
+      [
+        1391,
+        "01:06:43.869000",
+        "01:06:47.351000",
+        "And another chapter ended for the gingerdead man."
+      ]
+    ],
+    "regex": "\\b((?!\\bGingerdead\\ Man:)Gingerdead\\ Man|(?!\\bPassion\\ of\\ the\\ Crust:)Passion\\ of\\ the\\ Crust)(?!\\:)(?!'t)\\b",
+    "runtime": 72,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

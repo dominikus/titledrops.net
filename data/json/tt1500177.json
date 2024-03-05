@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt1500177",
+    "title": "Dooman River",
+    "year": 2010,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 339,
+    "occurrences": [
+      [
+        1,
+        "00:05:05.304000",
+        "00:05:11.834000",
+        "Three people was found dead being frozen on a bank of the Dooman River"
+      ],
+      [
+        2,
+        "00:05:12.916000",
+        "00:05:15.942000",
+        "The Dooman river is dangerous you shoudn't play around there"
+      ],
+      [
+        176,
+        "00:47:43.171000",
+        "00:47:44.900000",
+        "Crossing the Dooman river,"
+      ],
+      [
+        226,
+        "00:58:48.941000",
+        "00:59:00.580000",
+        "A sailor rowed a boat on the Dooman River"
+      ],
+      [
+        288,
+        "01:14:29.152000",
+        "01:14:34.784000",
+        "I crossed the Dooman river while holding my mother's hand."
+      ]
+    ],
+    "regex": "\\b((?!\\bDooman\\ River:)Dooman\\ River)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt5664636",
+    "title": "Goosebumps 2: Haunted Halloween",
+    "year": 2018,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 6,
+    "all_lines": 1580,
+    "occurrences": [
+      [
+        774,
+        "00:41:49.106000",
+        "00:41:52.137000",
+        "\"with a since-unpublished novel titled Haunted Halloween,"
+      ],
+      [
+        1175,
+        "01:03:00.070000",
+        "01:03:03.569000",
+        "We are living a Goosebumps story right now?"
+      ],
+      [
+        1182,
+        "01:03:17.674000",
+        "01:03:19.872000",
+        "No. Haunted Halloween."
+      ],
+      [
+        1209,
+        "01:04:26.988000",
+        "01:04:30.187000",
+        "I mean, we get to finish our Goosebumps story!"
+      ],
+      [
+        1226,
+        "01:05:10.897000",
+        "01:05:13.129000",
+        "This is a classic Goosebumps moment."
+      ],
+      [
+        1286,
+        "01:08:39.073000",
+        "01:08:42.840000",
+        "Not Haunted Halloween."
+      ]
+    ],
+    "regex": "\\b((?!\\bGoosebumps:)Goosebumps|(?!\\bHaunted\\ Halloween:)Haunted\\ Halloween)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1547631",
+    "title": "Trick the Movie: Psychic Battle Royale",
+    "year": 2010,
+    "genres": [
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1804,
+    "occurrences": [
+      [
+        72,
+        "00:05:16.074000",
+        "00:05:20.340000",
+        "''Trick : The Movie 3 Psychic Battle Royale''"
+      ],
+      [
+        771,
+        "00:50:11.367000",
+        "00:50:13.995000",
+        "a psychic battle royale."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrick\\ the\\ Movie:)Trick\\ the\\ Movie|(?!\\bPsychic\\ Battle\\ Royale:)Psychic\\ Battle\\ Royale)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

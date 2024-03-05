@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0304389",
+    "title": "Girl",
+    "year": 2002,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 624,
+    "occurrences": [
+      [
+        0,
+        "00:01:17.900000",
+        "00:01:21.600000",
+        "Girl"
+      ],
+      [
+        61,
+        "00:09:29.300000",
+        "00:09:35.569000",
+        "and the presence of the first color Plan evoke a harem girl."
+      ],
+      [
+        78,
+        "00:12:22.460000",
+        "00:12:26.976000",
+        "I have to file later. The girl just rent the room ..."
+      ]
+    ],
+    "regex": "\\b((?!\\bGirl:)Girl)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

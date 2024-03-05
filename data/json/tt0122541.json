@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0122541",
+    "title": "An Ideal Husband",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1515,
+    "occurrences": [
+      [
+        1506,
+        "01:28:28.427000",
+        "01:28:31.788000",
+        "And if you don't make her an ideal husband, I'll cut you off with a shilling."
+      ],
+      [
+        1507,
+        "01:28:31.788000",
+        "01:28:35.399000",
+        "An ideal husband. I don't think I should like that."
+      ]
+    ],
+    "regex": "\\b((?!\\bIdeal\\ Husband:)Ideal\\ Husband)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

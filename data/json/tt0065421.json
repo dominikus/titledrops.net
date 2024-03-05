@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0065421",
+    "title": "The Aristocats",
+    "year": 1970,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 998,
+    "occurrences": [
+      [
+        3,
+        "00:00:35.116000",
+        "00:00:38.882000",
+        "Naturellement The Aristocats"
+      ],
+      [
+        7,
+        "00:00:51.065000",
+        "00:00:54.296000",
+        "Naturellement The Aristocats"
+      ],
+      [
+        10,
+        "00:01:03.044000",
+        "00:01:05.842000",
+        "Aristocats are never found in alleyways"
+      ],
+      [
+        15,
+        "00:01:23.097000",
+        "00:01:27.056000",
+        "Naturellement The Aristocats"
+      ],
+      [
+        135,
+        "00:10:30.290000",
+        "00:10:34.556000",
+        "Aristocats do not practice biting and clawing..."
+      ]
+    ],
+    "regex": "\\b((?!\\bAristocats:)Aristocats)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt22815452",
+    "title": "Nightmare Radio: The Night Stalker",
+    "year": 2023,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 588,
+    "occurrences": [
+      [
+        17,
+        "00:04:17.692000",
+        "00:04:21.929000",
+        "Welcome to Nightmare Radio, where horror stories never end."
+      ],
+      [
+        85,
+        "00:22:15.335000",
+        "00:22:17.203000",
+        "You're listening to Nightmare Radio,"
+      ],
+      [
+        587,
+        "01:13:58.105000",
+        "01:14:00.308000",
+        "This was Nightmare Radio,"
+      ]
+    ],
+    "regex": "\\b((?!\\bNightmare\\ Radio:)Nightmare\\ Radio|(?!\\bNight\\ Stalker:)Night\\ Stalker)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

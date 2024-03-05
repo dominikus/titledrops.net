@@ -1,0 +1,72 @@
+[
+  {
+    "imdb": "tt1133985",
+    "title": "Green Lantern",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 8,
+    "all_lines": 893,
+    "occurrences": [
+      [
+        11,
+        "00:01:06.428000",
+        "00:01:10.153000",
+        "...known as the \"Green Lantern Corp\"."
+      ],
+      [
+        15,
+        "00:01:25.983000",
+        "00:01:31.758000",
+        "Only the legendary Green Lantern \"Abin Sur\" was capable of capturing and imprisoning this beast."
+      ],
+      [
+        286,
+        "00:30:10.173000",
+        "00:30:14.655000",
+        "Beware my power, Green Lantern's light."
+      ],
+      [
+        371,
+        "00:40:55.504000",
+        "00:40:57.931000",
+        "Since time immemorial, the Green Lantern Corp,..."
+      ],
+      [
+        465,
+        "00:48:55.744000",
+        "00:49:00.598000",
+        "I'm a Green Lantern, I fear nothing."
+      ],
+      [
+        750,
+        "01:19:56.372000",
+        "01:20:01.033000",
+        "The one thing that a Green Lantern is supposed to be is fearless."
+      ],
+      [
+        803,
+        "01:24:22.072000",
+        "01:24:24.011000",
+        "Good luck, Green Lantern."
+      ],
+      [
+        867,
+        "01:33:29.286000",
+        "01:33:34.417000",
+        "Beware my power... Green Lantern's light!"
+      ]
+    ],
+    "regex": "\\b((?!\\bGreen\\ Lantern:)Green\\ Lantern)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [
+      "Hal Jordan",
+      "Green Lantern"
+    ],
+    "title_is_name": true,
+    "rating": 5.5
+  }
+]

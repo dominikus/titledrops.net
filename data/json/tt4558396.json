@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt4558396",
+    "title": "Egon Schiele: Death and the Maiden",
+    "year": 2016,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 956,
+    "occurrences": [
+      [
+        88,
+        "00:09:15.542000",
+        "00:09:18.341000",
+        "This is Egon Schiele. He was expelled from the"
+      ],
+      [
+        412,
+        "00:44:00.208000",
+        "00:44:02.961000",
+        "The artist Egon Schiele lives here?"
+      ],
+      [
+        498,
+        "00:52:03.167000",
+        "00:52:06.046000",
+        "\"Egon Schiele is without doubts a talented"
+      ],
+      [
+        501,
+        "00:52:15.250000",
+        "00:52:18.333000",
+        "And this one: \"Egon Schiele has the power to impact."
+      ]
+    ],
+    "regex": "\\b((?!\\bEgon\\ Schiele:)Egon\\ Schiele|(?!\\bDeath\\ and\\ the\\ Maiden:)Death\\ and\\ the\\ Maiden)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1386925",
+    "title": "The Dead",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 354,
+    "occurrences": [
+      [
+        12,
+        "00:04:03.160000",
+        "00:04:06.460000",
+        "If we'd stayed on the ground, we'd all be dead."
+      ],
+      [
+        13,
+        "00:04:06.621000",
+        "00:04:09.249000",
+        "We're all dead anyway."
+      ],
+      [
+        77,
+        "00:33:25.504000",
+        "00:33:27.848000",
+        "The dead are everywhere."
+      ]
+    ],
+    "regex": "\\b((?!\\bDead:)Dead)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

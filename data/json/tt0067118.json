@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0067118",
+    "title": "Friends",
+    "year": 1971,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 831,
+    "occurrences": [
+      [
+        135,
+        "00:15:18.447000",
+        "00:15:21.120000",
+        "You two will be great friends, I'm sure."
+      ],
+      [
+        148,
+        "00:16:18.967000",
+        "00:16:22.403000",
+        "I bet you two have been chattering away like old friends."
+      ]
+    ],
+    "regex": "\\b((?!\\bFriends:)Friends)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

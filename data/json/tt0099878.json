@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0099878",
+    "title": "Jetsons: The Movie",
+    "year": 1990,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "count": 6,
+    "all_lines": 958,
+    "occurrences": [
+      [
+        285,
+        "00:22:12",
+        "00:22:15.356000",
+        "Say, isn't this nice. \"Welcome Jetsons.\""
+      ],
+      [
+        344,
+        "00:24:59.400000",
+        "00:25:02.119000",
+        "The Jetsons. George, Jane, Judy and Elroy."
+      ],
+      [
+        357,
+        "00:25:34.120000",
+        "00:25:37.909000",
+        "So welcome, all you Jetsons, to Intergalactic Garden Estates."
+      ],
+      [
+        836,
+        "01:01:46.160000",
+        "01:01:47.878000",
+        "But what about the Jetsons?"
+      ],
+      [
+        957,
+        "01:11:36.400000",
+        "01:11:38.994000",
+        "[XXL: We're the Jetsons (Jetsons' Rap)]"
+      ]
+    ],
+    "regex": "\\b((?!\\bJetsons:)Jetsons|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

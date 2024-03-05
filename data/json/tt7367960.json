@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt7367960",
+    "title": "Checkered Ninja",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 3,
+    "all_lines": 991,
+    "occurrences": [
+      [
+        132,
+        "00:13:38.292000",
+        "00:13:42.834000",
+        "- It's a checkered ninja, can't you tell? - I've never heard of a checkered one."
+      ],
+      [
+        156,
+        "00:15:15.751000",
+        "00:15:20.001000",
+        "- A checkered ninja? - Yeah, it's super rare."
+      ],
+      [
+        703,
+        "00:58:31.876000",
+        "00:58:36.251000",
+        "The checkered ninja is alive and he's gonna kill Sune!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCheckered\\ Ninja:)Checkered\\ Ninja)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

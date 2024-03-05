@@ -1,0 +1,52 @@
+[
+  {
+    "imdb": "tt0032670",
+    "title": "Kit Carson",
+    "year": 1940,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 5,
+    "all_lines": 1415,
+    "occurrences": [
+      [
+        92,
+        "00:09:26.217000",
+        "00:09:28.219000",
+        "Carson! Kit Carson!"
+      ],
+      [
+        208,
+        "00:13:51.918000",
+        "00:13:54.659000",
+        "appointing one Kit Carson as wagon master."
+      ],
+      [
+        492,
+        "00:29:30.594000",
+        "00:29:31.770000",
+        "Kit Carson."
+      ],
+      [
+        1004,
+        "01:11:01.866000",
+        "01:11:04.260000",
+        "Kit Carson, you're the most discouraging-est man I"
+      ],
+      [
+        1252,
+        "01:25:13.195000",
+        "01:25:15.110000",
+        "Gentlemen, if Kit Carson is willing to sacrifice"
+      ]
+    ],
+    "regex": "\\b((?!\\bKit\\ Carson:)Kit\\ Carson)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [
+      "Kit Carson"
+    ],
+    "title_is_name": true,
+    "rating": 6.3
+  }
+]

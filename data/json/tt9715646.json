@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt9715646",
+    "title": "Renegade",
+    "year": 2019,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1886,
+    "occurrences": [
+      [
+        1707,
+        "01:22:21.469000",
+        "01:22:24.872000",
+        "It takes a renegade mind"
+      ],
+      [
+        1825,
+        "01:29:24.992000",
+        "01:29:27.762000",
+        "Martin Luther King was a renegade."
+      ],
+      [
+        1826,
+        "01:29:27.795000",
+        "01:29:30.029000",
+        "Gandhi was a renegade."
+      ]
+    ],
+    "regex": "\\b((?!\\bRenegade:)Renegade)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0117301",
+    "title": "Party",
+    "year": 1996,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 931,
+    "occurrences": [
+      [
+        10,
+        "00:04:06.292000",
+        "00:04:08.203000",
+        "Let's cancel the garden party."
+      ],
+      [
+        45,
+        "00:06:53.042000",
+        "00:06:55.454000",
+        "It's a nice evening for a party."
+      ],
+      [
+        426,
+        "00:41:54.667000",
+        "00:41:59.082000",
+        "the day of your garden party."
+      ],
+      [
+        529,
+        "00:50:06",
+        "00:50:09.664000",
+        "I don't know what you did at the garden party."
+      ],
+      [
+        779,
+        "01:16:05.125000",
+        "01:16:07.537000",
+        "I needed to undo that party,"
+      ]
+    ],
+    "regex": "\\b((?!\\bParty:)Party)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

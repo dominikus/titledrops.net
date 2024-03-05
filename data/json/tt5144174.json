@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5144174",
+    "title": "The Dry",
+    "year": 2020,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1621,
+    "occurrences": [
+      [
+        813,
+        "00:51:45.317000",
+        "00:51:47.753000",
+        "We found it out at the dry lake."
+      ],
+      [
+        1464,
+        "01:37:09.372000",
+        "01:37:11.541000",
+        "This whole place is dry as a tinder."
+      ]
+    ],
+    "regex": "\\b((?!\\bDry:)Dry)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0039931",
+    "title": "Unconquered",
+    "year": 1947,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 2058,
+    "occurrences": [
+      [
+        27,
+        "00:03:26.573000",
+        "00:03:28.302000",
+        "These are the unconquered,"
+      ],
+      [
+        1614,
+        "01:52:16.830000",
+        "01:52:20.425000",
+        "The Salters are the New World, unconquered."
+      ]
+    ],
+    "regex": "\\b((?!\\bUnconquered:)Unconquered)(?!\\:)(?!'t)\\b",
+    "runtime": 146,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

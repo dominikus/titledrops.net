@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt9253618",
+    "title": "Zebra Girl",
+    "year": 2021,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 782,
+    "occurrences": [
+      [
+        471,
+        "00:38:16.458000",
+        "00:38:18.208000",
+        "Its called Zebra Girl."
+      ],
+      [
+        475,
+        "00:38:44.291000",
+        "00:38:48.166000",
+        "Anita says that, in the end, Zebra Girl"
+      ],
+      [
+        488,
+        "00:39:42.166000",
+        "00:39:46.041000",
+        "Prince Charming comes along and accepts Zebra Girl"
+      ],
+      [
+        521,
+        "00:42:11.833000",
+        "00:42:15.041000",
+        "I told you, I'm Zebra Girl."
+      ],
+      [
+        741,
+        "01:07:38.791000",
+        "01:07:40.916000",
+        "- Where are you going? - I need to find Zebra Girl!"
+      ],
+      [
+        747,
+        "01:07:59.583000",
+        "01:08:00.903000",
+        "Prince Charming accepts Zebra Girl"
+      ],
+      [
+        782,
+        "01:12:18",
+        "01:12:19.208000",
+        "You're Zebra Girl."
+      ]
+    ],
+    "regex": "\\b((?!\\bZebra\\ Girl:)Zebra\\ Girl)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

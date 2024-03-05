@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3567288",
+    "title": "The Visit",
+    "year": 2015,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1354,
+    "occurrences": [
+      [
+        445,
+        "00:26:28.171000",
+        "00:26:31.049000",
+        "I have to find my Maple Shade badge and we'll visit."
+      ],
+      [
+        918,
+        "00:59:34.822000",
+        "00:59:37.742000",
+        "Why don't you just ask Mom if you can visit?"
+      ],
+      [
+        1168,
+        "01:15:53.133000",
+        "01:15:55.719000",
+        "How you're gonna visit, how you're gonna be a family."
+      ]
+    ],
+    "regex": "\\b((?!\\bVisit:)Visit)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

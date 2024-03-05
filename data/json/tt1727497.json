@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1727497",
+    "title": "Control",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1096,
+    "occurrences": [
+      [
+        345,
+        "00:35:32.167000",
+        "00:35:34.834000",
+        "It's not. He says he has everything under control."
+      ],
+      [
+        451,
+        "00:43:16.751000",
+        "00:43:19.709000",
+        "His anxiety is under control, his medication sorted out."
+      ],
+      [
+        574,
+        "00:59:07.209000",
+        "00:59:11.751000",
+        "Medication has kept that under control for a number of years now."
+      ],
+      [
+        588,
+        "01:00:31.792000",
+        "01:00:35.709000",
+        "Patrick can't control his anxiety if he hasn't hidden a hammer somewhere."
+      ]
+    ],
+    "regex": "\\b((?!\\bControl:)Control)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt21381730",
+    "title": "Fragments of Paradise",
+    "year": 2022,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 949,
+    "occurrences": [
+      [
+        610,
+        "01:02:13.288000",
+        "01:02:18.237000",
+        "These are fragments of paradise and they have to do everything to see that they"
+      ],
+      [
+        935,
+        "01:33:34.818000",
+        "01:33:38.478000",
+        "He talks about those fragments of paradise and"
+      ]
+    ],
+    "regex": "\\b((?!\\bFragments\\ of\\ Paradise:)Fragments\\ of\\ Paradise)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

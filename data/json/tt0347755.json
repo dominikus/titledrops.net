@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0347755",
+    "title": "Peaches",
+    "year": 2004,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1025,
+    "occurrences": [
+      [
+        26,
+        "00:03:34.847000",
+        "00:03:36.144000",
+        "WOMAN: Peaches!"
+      ],
+      [
+        347,
+        "00:31:18.376000",
+        "00:31:20.844000",
+        "She said next time, she'll warm the peaches first."
+      ],
+      [
+        505,
+        "00:44:17.221000",
+        "00:44:20.486000",
+        "Swan Reach Preserved Peaches because they're love in a can."
+      ]
+    ],
+    "regex": "\\b((?!\\bPeaches:)Peaches)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

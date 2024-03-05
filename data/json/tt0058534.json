@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0058534",
+    "title": "Roustabout",
+    "year": 1964,
+    "genres": [
+      "Drama",
+      "Music",
+      "Musical"
+    ],
+    "count": 4,
+    "all_lines": 477,
+    "occurrences": [
+      [
+        202,
+        "00:19:05.160000",
+        "00:19:09.358000",
+        "- I could use a good roustabout. - Me, work in a circus? No."
+      ],
+      [
+        214,
+        "00:19:54.160000",
+        "00:19:58.199000",
+        "- Now you're a roustabout. - Is that good?"
+      ],
+      [
+        242,
+        "00:22:07.920000",
+        "00:22:11.833000",
+        "Sure. But right now I'm a roustabout, here to give you a hand."
+      ],
+      [
+        260,
+        "00:23:48.200000",
+        "00:23:50.350000",
+        "I'm just a roustabout. Charlie Rogers."
+      ]
+    ],
+    "regex": "\\b((?!\\bRoustabout:)Roustabout)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

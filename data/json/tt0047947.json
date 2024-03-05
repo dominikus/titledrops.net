@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0047947",
+    "title": "Conquest of Space",
+    "year": 1955,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1943,
+    "occurrences": [
+      [
+        24,
+        "00:00:45.664000",
+        "00:00:45.712000",
+        ";;;conquest of space;"
+      ],
+      [
+        25,
+        "00:00:45.712000",
+        "00:00:47.805000",
+        ";;;conquest of space;"
+      ]
+    ],
+    "regex": "\\b((?!\\bConquest\\ of\\ Space:)Conquest\\ of\\ Space)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

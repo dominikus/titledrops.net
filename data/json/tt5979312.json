@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt5979312",
+    "title": "7:19",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 1450,
+    "occurrences": [
+      [
+        4,
+        "00:00:27.750000",
+        "00:00:28.625000",
+        "MEXICO CITY SEPTEMBER 19, 1985"
+      ],
+      [
+        141,
+        "00:07:18.083000",
+        "00:07:19.500000",
+        "It's seven in the morning, 19 minutes..."
+      ],
+      [
+        143,
+        "00:07:21.041000",
+        "00:07:22.375000",
+        "Seven in the morning, 19 minutes..."
+      ],
+      [
+        1394,
+        "01:30:00.416000",
+        "01:30:02.375000",
+        "measured 7.3 on the Richter scale..."
+      ]
+    ],
+    "regex": "\\b((?!\\b7:)7|(?!\\b19:)19)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

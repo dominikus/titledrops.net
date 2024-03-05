@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0093693",
+    "title": "Overboard",
+    "year": 1987,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1455,
+    "occurrences": [
+      [
+        136,
+        "00:11:30.080000",
+        "00:11:32.116000",
+        "- Damn you! - Man overboard!"
+      ],
+      [
+        1392,
+        "01:41:48.720000",
+        "01:41:52.713000",
+        "- Man overboard! - Shit! Sound the horn."
+      ],
+      [
+        1400,
+        "01:42:14.160000",
+        "01:42:18.153000",
+        "Woman overboard! She's wearing an evening dress, sir."
+      ],
+      [
+        1406,
+        "01:42:34.840000",
+        "01:42:36.796000",
+        "Another man overboard!"
+      ],
+      [
+        1412,
+        "01:43:23.280000",
+        "01:43:25.748000",
+        "Man overboard is kissing woman overboard."
+      ]
+    ],
+    "regex": "\\b((?!\\bOverboard:)Overboard)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

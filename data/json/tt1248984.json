@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1248984",
+    "title": "I Am Waiting",
+    "year": 1957,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 975,
+    "occurrences": [
+      [
+        19,
+        "00:01:14.908000",
+        "00:01:20.540000",
+        "I am waiting to see you again"
+      ],
+      [
+        20,
+        "00:01:21.247000",
+        "00:01:25.547000",
+        "I am waiting"
+      ],
+      [
+        974,
+        "01:30:17.170000",
+        "01:30:22.301000",
+        "I am waiting"
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Am\\ Waiting:)I\\ Am\\ Waiting)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

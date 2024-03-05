@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2398276",
+    "title": "Rock Paper Scissors",
+    "year": 2021,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1985,
+    "occurrences": [
+      [
+        836,
+        "00:36:41.798000",
+        "00:36:44.235000",
+        "ANNOUNCER: Rock Paper Scissors."
+      ],
+      [
+        1092,
+        "00:49:19.288000",
+        "00:49:22.492000",
+        "unsanctioned by Rock Paper Scissors Association of America."
+      ]
+    ],
+    "regex": "\\b((?!\\bRock\\ Paper\\ Scissors:)Rock\\ Paper\\ Scissors)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0082951",
+    "title": "The Prowler",
+    "year": 1981,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 658,
+    "occurrences": [
+      [
+        449,
+        "00:46:59.399000",
+        "00:47:04.153000",
+        "that a prowler has been seen around the campus, and, uh-"
+      ],
+      [
+        462,
+        "00:47:42.985000",
+        "00:47:47.655000",
+        "Miss Allison just made an announcement. There's some kind of prowler outside or something."
+      ],
+      [
+        471,
+        "00:48:49.134000",
+        "00:48:52.470000",
+        "I don't give a shit about any goddamn prowler. All right. Nowjust settle down!"
+      ],
+      [
+        493,
+        "00:52:19.803000",
+        "00:52:24.348000",
+        "dd I am not going outside until they catch the prowler. That's it."
+      ]
+    ],
+    "regex": "\\b((?!\\bProwler:)Prowler)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

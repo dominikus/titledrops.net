@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0067535",
+    "title": "The Organization",
+    "year": 1971,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 448,
+    "occurrences": [
+      [
+        191,
+        "00:28:36.800000",
+        "00:28:40.679000",
+        "Mr Tibbs, we're out to destroy the Organization."
+      ],
+      [
+        214,
+        "00:30:20.960000",
+        "00:30:25.875000",
+        "What do you think the Organization is doing? They are looking for that stuff."
+      ],
+      [
+        262,
+        "00:36:40.680000",
+        "00:36:44.514000",
+        "The Organization may or may not know who you are, but they know who l am."
+      ]
+    ],
+    "regex": "\\b((?!\\bOrganization:)Organization)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

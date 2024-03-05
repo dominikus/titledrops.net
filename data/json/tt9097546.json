@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt9097546",
+    "title": "Happy Birthday Hannah",
+    "year": 2018,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1356,
+    "occurrences": [
+      [
+        127,
+        "00:05:49.080000",
+        "00:05:50.120000",
+        "Happy birthday Hannah."
+      ],
+      [
+        128,
+        "00:05:50.120000",
+        "00:05:51.397000",
+        "-  Happy birthday Hannah."
+      ],
+      [
+        298,
+        "00:15:28.430000",
+        "00:15:30.067000",
+        "Happy birthday Hannah."
+      ]
+    ],
+    "regex": "\\b((?!\\bHappy\\ Birthday\\ Hannah:)Happy\\ Birthday\\ Hannah)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.5
+  }
+]

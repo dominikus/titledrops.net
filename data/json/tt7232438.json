@@ -1,0 +1,75 @@
+[
+  {
+    "imdb": "tt7232438",
+    "title": "The Promise",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 9,
+    "all_lines": 950,
+    "occurrences": [
+      [
+        12,
+        "00:03:29.042000",
+        "00:03:30.603000",
+        "Promise me, when the building's finished,"
+      ],
+      [
+        165,
+        "00:18:08.462000",
+        "00:18:09.714000",
+        "Promise me."
+      ],
+      [
+        510,
+        "01:00:37.342000",
+        "01:00:38.718000",
+        "Will you promise me?"
+      ],
+      [
+        515,
+        "01:00:54.776000",
+        "01:00:55.776000",
+        "You have my promise."
+      ],
+      [
+        671,
+        "01:14:03.022000",
+        "01:14:04.774000",
+        "lb's back to claim the promise."
+      ],
+      [
+        795,
+        "01:24:19.805000",
+        "01:24:21.932000",
+        "I'm the one who didn't keep the promise."
+      ],
+      [
+        800,
+        "01:24:58.927000",
+        "01:25:00.345000",
+        "I'm keeping our promise."
+      ],
+      [
+        870,
+        "01:34:50.226000",
+        "01:34:51.227000",
+        "Promise me."
+      ],
+      [
+        907,
+        "01:42:53.209000",
+        "01:42:55.211000",
+        "I've kept my promise."
+      ]
+    ],
+    "regex": "\\b((?!\\bPromise:)Promise)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

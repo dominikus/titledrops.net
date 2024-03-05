@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0323939",
+    "title": "Shade",
+    "year": 2003,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1568,
+    "occurrences": [
+      [
+        1095,
+        "01:04:23.994000",
+        "01:04:25.861000",
+        "You need some kind of shade."
+      ],
+      [
+        1354,
+        "01:20:08.905000",
+        "01:20:10.938000",
+        "no shade or flash,"
+      ]
+    ],
+    "regex": "\\b((?!\\bShade:)Shade)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

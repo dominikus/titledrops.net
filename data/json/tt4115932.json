@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt4115932",
+    "title": "Hollywood Adventures",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 931,
+    "occurrences": [
+      [
+        79,
+        "00:07:49.219000",
+        "00:07:52.723000",
+        "We could name our movie \"Hollywood Adventures\"!"
+      ],
+      [
+        104,
+        "00:09:59.182000",
+        "00:10:05.406000",
+        "Hollywood Adventures! Hey, everyone please come closer! Do not be shy!"
+      ],
+      [
+        105,
+        "00:10:05.605000",
+        "00:10:07.528000",
+        "Welcome to Hollywood Adventures."
+      ],
+      [
+        160,
+        "00:15:19.961000",
+        "00:15:23.340000",
+        "And you can use these at any of our Hollywood Adventures stops."
+      ]
+    ],
+    "regex": "\\b((?!\\bHollywood\\ Adventures:)Hollywood\\ Adventures)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

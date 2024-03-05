@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0067334",
+    "title": "Le Mans",
+    "year": 1971,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 284,
+    "occurrences": [
+      [
+        67,
+        "00:18:29.765000",
+        "00:18:33.792000",
+        "the 24 hours of Le Mans."
+      ],
+      [
+        68,
+        "00:22:01.410000",
+        "00:22:05.312000",
+        "We're pleased to welcome Michael Delaney back to Le Mans"
+      ],
+      [
+        175,
+        "00:43:32.466000",
+        "00:43:36.163000",
+        "for the first time in the history of Le Mans,"
+      ],
+      [
+        194,
+        "00:44:23.751000",
+        "00:44:24.718000",
+        "about Le Mans?"
+      ],
+      [
+        200,
+        "00:44:38.866000",
+        "00:44:39.855000",
+        "Well, this is Le Mans."
+      ],
+      [
+        237,
+        "00:47:51.358000",
+        "00:47:52.825000",
+        "out in the weather at Le Mans."
+      ],
+      [
+        258,
+        "00:52:44.384000",
+        "00:52:46.614000",
+        "Delaney now leads Le Mans."
+      ]
+    ],
+    "regex": "\\b((?!\\bLe\\ Mans:)Le\\ Mans)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

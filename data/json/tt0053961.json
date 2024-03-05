@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0053961",
+    "title": "Jack the Ripper",
+    "year": 1959,
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "count": 6,
+    "all_lines": 1302,
+    "occurrences": [
+      [
+        31,
+        "00:05:06.304000",
+        "00:05:07.904000",
+        "has given himself up as Jack the Ripper."
+      ],
+      [
+        108,
+        "00:07:59.769000",
+        "00:08:01.688000",
+        "Now Mr. Jack the Ripper,"
+      ],
+      [
+        823,
+        "00:48:35.536000",
+        "00:48:37.538000",
+        "He is Jack the Ripper! - Is he?"
+      ],
+      [
+        865,
+        "00:49:40.684000",
+        "00:49:41.685000",
+        "is Jack the Ripper!"
+      ],
+      [
+        880,
+        "00:50:13.508000",
+        "00:50:14.218000",
+        "there's not one Jack the Ripper,"
+      ],
+      [
+        896,
+        "00:50:51.255000",
+        "00:50:55.008000",
+        "I'm going to try and find Jack the Ripper."
+      ]
+    ],
+    "regex": "\\b((?!\\bJack\\ the\\ Ripper:)Jack\\ the\\ Ripper)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

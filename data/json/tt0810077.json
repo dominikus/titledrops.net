@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0810077",
+    "title": "The Untouchable",
+    "year": 2006,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 424,
+    "occurrences": [
+      [
+        122,
+        "00:12:39.725000",
+        "00:12:41.659000",
+        "we were untouchable."
+      ],
+      [
+        391,
+        "01:04:06.209000",
+        "01:04:09.144000",
+        "Some join us to escape being Untouchable."
+      ]
+    ],
+    "regex": "\\b((?!\\bUntouchable:)Untouchable)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

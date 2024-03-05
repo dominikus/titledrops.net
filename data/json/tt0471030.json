@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0471030",
+    "title": "Red Road",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 214,
+    "occurrences": [
+      [
+        93,
+        "00:18:20.200000",
+        "00:18:21.076000",
+        "The Red Road flats."
+      ],
+      [
+        114,
+        "00:22:48.480000",
+        "00:22:50.994000",
+        "He lives in Red Road in the main block."
+      ]
+    ],
+    "regex": "\\b((?!\\bRed\\ Road:)Red\\ Road)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

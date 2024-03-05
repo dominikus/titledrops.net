@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0075995",
+    "title": "Equus",
+    "year": 1977,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 759,
+    "occurrences": [
+      [
+        246,
+        "00:17:46.131000",
+        "00:17:49.589000",
+        "l remember telling Alan how that word came from ''equus.''"
+      ],
+      [
+        247,
+        "00:17:50.702000",
+        "00:17:53.102000",
+        "-''Equus''? -The Latin word for ''horse.''"
+      ],
+      [
+        624,
+        "00:49:54.958000",
+        "00:49:58.951000",
+        "And he said, ''Behold, l give you Equus, my only begotten son.''"
+      ],
+      [
+        625,
+        "00:50:00.931000",
+        "00:50:01.920000",
+        "Equus?"
+      ],
+      [
+        627,
+        "00:50:06.803000",
+        "00:50:08.168000",
+        "''Equus..."
+      ]
+    ],
+    "regex": "\\b((?!\\bEquus:)Equus)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

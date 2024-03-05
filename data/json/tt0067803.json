@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0067803",
+    "title": "Summer of '42",
+    "year": 1971,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 955,
+    "occurrences": [
+      [
+        8,
+        "00:03:36.299000",
+        "00:03:38.665000",
+        "Present with me in the summer of '42..."
+      ],
+      [
+        950,
+        "01:42:35.299000",
+        "01:42:40.202000",
+        "In the summer of '42, we raided the Coast Guard station four times."
+      ]
+    ],
+    "regex": "\\b((?!\\bSummer\\ of\\ '42:)Summer\\ of\\ '42)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

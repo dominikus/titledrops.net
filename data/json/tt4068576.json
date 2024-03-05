@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4068576",
+    "title": "The Nightingale",
+    "year": 2018,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1659,
+    "occurrences": [
+      [
+        45,
+        "00:04:26.515000",
+        "00:04:28.807000",
+        "I'd like to call on our little nightingale"
+      ],
+      [
+        63,
+        "00:05:35.933000",
+        "00:05:39.516000",
+        "To hear the nightingale sing"
+      ],
+      [
+        1551,
+        "01:59:25.600000",
+        "01:59:28.100000",
+        "I'm not your nightingale.."
+      ]
+    ],
+    "regex": "\\b((?!\\bNightingale:)Nightingale)(?!\\:)(?!'t)\\b",
+    "runtime": 136,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

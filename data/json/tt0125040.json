@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0125040",
+    "title": "Chuquiago",
+    "year": 1977,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 855,
+    "occurrences": [
+      [
+        2,
+        "00:00:32.695000",
+        "00:00:35.571000",
+        "\"Chuquiago, thou shall be eternal. Protected from wind and hail.\""
+      ],
+      [
+        64,
+        "00:11:14.421000",
+        "00:11:16.435000",
+        "This is Chuquiago."
+      ]
+    ],
+    "regex": "\\b((?!\\bChuquiago:)Chuquiago)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt8299306",
+    "title": "DOTGA: Da One That Ghost Away",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 1867,
+    "occurrences": [
+      [
+        366,
+        "00:16:19.352000",
+        "00:16:21.682000",
+        "Carmel to be your DOTGA?"
+      ],
+      [
+        367,
+        "00:16:22.021000",
+        "00:16:23.237000",
+        "What's DOTGA?"
+      ],
+      [
+        368,
+        "00:16:23.238000",
+        "00:16:25.939000",
+        "Da One That Ghost Away!"
+      ],
+      [
+        370,
+        "00:16:29.421000",
+        "00:16:32.969000",
+        "Bagang, I don't want her to be my DOTGA."
+      ],
+      [
+        1845,
+        "01:38:18.622000",
+        "01:38:21.291000",
+        "You will forever be my DOTGA."
+      ],
+      [
+        1846,
+        "01:38:21.292000",
+        "01:38:23.657000",
+        "Your \"Da One That Ghost Away"
+      ]
+    ],
+    "regex": "\\b((?!\\bDOTGA:)DOTGA|(?!\\bDa\\ One\\ That\\ Ghost\\ Away:)Da\\ One\\ That\\ Ghost\\ Away)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

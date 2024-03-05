@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt6296764",
+    "title": "306 Hollywood",
+    "year": 2018,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1006,
+    "occurrences": [
+      [
+        2,
+        "00:01:11.158000",
+        "00:01:13.943000",
+        "ELAN: This is the house at 306 Hollywood Avenue."
+      ],
+      [
+        223,
+        "00:23:43.117000",
+        "00:23:48.035000",
+        "Who the fuck is going to have an archeological dig at 306 Hollywood Avenue?"
+      ],
+      [
+        391,
+        "00:36:47.161000",
+        "00:36:49.337000",
+        "our grandparents bought their house at 306 Hollywood."
+      ]
+    ],
+    "regex": "\\b((?!\\b306\\ Hollywood:)306\\ Hollywood)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

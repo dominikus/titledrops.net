@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0079367",
+    "title": "The Jerk",
+    "year": 1979,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1204,
+    "occurrences": [
+      [
+        1,
+        "00:00:53.167000",
+        "00:00:54.600000",
+        "I'm a jerk."
+      ],
+      [
+        1134,
+        "01:23:16.367000",
+        "01:23:19.962000",
+        "What do you think l am, some kind of a jerk or something?"
+      ]
+    ],
+    "regex": "\\b((?!\\bJerk:)Jerk)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0804540",
+    "title": "Taxi 4",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1449,
+    "occurrences": [
+      [
+        127,
+        "00:07:44.409000",
+        "00:07:46.288000",
+        "There's a taxi coming your way."
+      ],
+      [
+        478,
+        "00:32:44.224000",
+        "00:32:46.502000",
+        "She wants the taxi to sleep outside."
+      ]
+    ],
+    "regex": "\\b((?!\\bTaxi:)Taxi)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

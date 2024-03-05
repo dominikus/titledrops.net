@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt2996950",
+    "title": "Pagpag: Nine Lives",
+    "year": 2013,
+    "genres": [
+      "Horror"
+    ],
+    "count": 7,
+    "all_lines": 1312,
+    "occurrences": [
+      [
+        35,
+        "00:04:31.604000",
+        "00:04:34.899000",
+        "Pagpag, Nine Lives."
+      ],
+      [
+        42,
+        "00:04:53.334000",
+        "00:04:56.129000",
+        "Pagpag, Nine Lives."
+      ],
+      [
+        577,
+        "00:38:26.929000",
+        "00:38:29.682000",
+        "-Roman-- -Nine lives for my child!"
+      ],
+      [
+        768,
+        "00:52:16.383000",
+        "00:52:22.055000",
+        "Uncle, didn't you say their son's life was worth nine lives?"
+      ],
+      [
+        911,
+        "01:04:50.803000",
+        "01:04:52.763000",
+        "The price was nine lives."
+      ]
+    ],
+    "regex": "\\b((?!\\bPagpag:)Pagpag|(?!\\bNine\\ Lives:)Nine\\ Lives)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

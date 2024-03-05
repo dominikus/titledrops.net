@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt1132607",
+    "title": "Versailles",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 661,
+    "occurrences": [
+      [
+        3,
+        "00:03:08.790000",
+        "00:03:14.600000",
+        "Versailles"
+      ],
+      [
+        32,
+        "00:08:17.270000",
+        "00:08:20.030000",
+        "Enzo will sleep with you tonight in Versailles."
+      ],
+      [
+        33,
+        "00:08:21.930000",
+        "00:08:23.850000",
+        "I will not go to Versailles."
+      ],
+      [
+        141,
+        "00:23:06.690000",
+        "00:23:09.890000",
+        "You could get some help. There are loads of organizations. I know one in Versailles."
+      ],
+      [
+        197,
+        "00:31:59.080000",
+        "00:32:01.330000",
+        "Your mother isn't from Versailles. I've never seen her."
+      ]
+    ],
+    "regex": "\\b((?!\\bVersailles:)Versailles)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

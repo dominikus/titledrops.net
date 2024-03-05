@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0093936",
+    "title": "The Secret of My Success",
+    "year": 1987,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1530,
+    "occurrences": [
+      [
+        54,
+        "00:02:19.829000",
+        "00:02:22.764000",
+        "C/U The secret of my success C/U"
+      ],
+      [
+        92,
+        "00:03:31.901000",
+        "00:03:35.359000",
+        "C/U The secret of my success is I'm livin' C/U"
+      ],
+      [
+        128,
+        "00:04:55.084000",
+        "00:04:56.483000",
+        "C/U The secret of my success is I'm livin' C/U"
+      ]
+    ],
+    "regex": "\\b((?!\\bSecret\\ of\\ My\\ Success:)Secret\\ of\\ My\\ Success)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

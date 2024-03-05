@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1288589",
+    "title": "Helen",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 403,
+    "occurrences": [
+      [
+        65,
+        0,
+        0,
+        "You can relax. Can you tell me your name? -Helen Townsend."
+      ],
+      [
+        88,
+        0,
+        0,
+        "Helen, do not give money to the living."
+      ],
+      [
+        149,
+        0,
+        0,
+        "Helen, right?"
+      ],
+      [
+        223,
+        0,
+        0,
+        "I'm Helen."
+      ],
+      [
+        323,
+        0,
+        0,
+        "I Helen Shiller. I thought that too."
+      ]
+    ],
+    "regex": "\\b((?!\\bHelen:)Helen)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [
+      "Helen"
+    ],
+    "title_is_name": true,
+    "rating": 5.8
+  }
+]

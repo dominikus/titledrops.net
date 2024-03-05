@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3732950",
+    "title": "Body",
+    "year": 2015,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 905,
+    "occurrences": [
+      [
+        126,
+        "00:07:17.129000",
+        "00:07:23.076000",
+        "# But my body, my body is telling me yes ##"
+      ],
+      [
+        249,
+        "00:14:10.834000",
+        "00:14:14.237000",
+        "that your body's pushed up against the seat,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBody:)Body)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

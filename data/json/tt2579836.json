@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2579836",
+    "title": "Ooga Booga",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1144,
+    "occurrences": [
+      [
+        243,
+        "00:16:23.460000",
+        "00:16:24.984000",
+        "Ooga Booga!"
+      ],
+      [
+        267,
+        "00:17:41.060000",
+        "00:17:43.105000",
+        "A big ass Ooga Booga!"
+      ],
+      [
+        268,
+        "00:17:44.019000",
+        "00:17:46.326000",
+        "Ooga Booga!"
+      ],
+      [
+        288,
+        "00:18:51.086000",
+        "00:18:53.523000",
+        "And you, Ooga Booga."
+      ]
+    ],
+    "regex": "\\b((?!\\bOoga\\ Booga:)Ooga\\ Booga)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

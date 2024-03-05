@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt6270596",
+    "title": "A Rough Draft",
+    "year": 2018,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1933,
+    "occurrences": [
+      [
+        1431,
+        "01:13:23.880000",
+        "01:13:27.661000",
+        "We can use it for a rough draft of our own world."
+      ],
+      [
+        1791,
+        "01:37:00.271000",
+        "01:37:02.995000",
+        "Is our world nothing more than a rough draft for you?"
+      ],
+      [
+        1793,
+        "01:37:04.147000",
+        "01:37:05.237000",
+        "A rough draft."
+      ]
+    ],
+    "regex": "\\b((?!\\bRough\\ Draft:)Rough\\ Draft)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

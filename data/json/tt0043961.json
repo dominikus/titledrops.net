@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0043961",
+    "title": "The Red Badge of Courage",
+    "year": 1951,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 738,
+    "occurrences": [
+      [
+        0,
+        "00:01:03.980000",
+        "00:01:08.883000",
+        "The Red Badge Of Courage was written by Stephen Crane in 1894."
+      ],
+      [
+        351,
+        "00:31:57.098000",
+        "00:31:59.089000",
+        "A red badge of courage."
+      ]
+    ],
+    "regex": "\\b((?!\\bRed\\ Badge\\ of\\ Courage:)Red\\ Badge\\ of\\ Courage)(?!\\:)(?!'t)\\b",
+    "runtime": 69,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5277954",
+    "title": "I Am Hardwell: Living the Dream",
+    "year": 2015,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 336,
+    "occurrences": [
+      [
+        77,
+        "00:14:51.084000",
+        "00:14:55.044000",
+        "The I am Hardwell show is the ultimate Hardwell experience."
+      ],
+      [
+        167,
+        "00:39:14.092000",
+        "00:39:20.092000",
+        "But no I Am Hardwell show is identical. I have plenty of space to improvise."
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Am\\ Hardwell:)I\\ Am\\ Hardwell|(?!\\bLiving\\ the\\ Dream:)Living\\ the\\ Dream)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

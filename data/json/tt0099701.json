@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0099701",
+    "title": "The Rift",
+    "year": 1990,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1168,
+    "occurrences": [
+      [
+        286,
+        "00:19:51.917000",
+        "00:19:56.389000",
+        "Captain, sonar indicates metallic debris near the rift edge."
+      ],
+      [
+        459,
+        "00:31:04.890000",
+        "00:31:08.360000",
+        "Sir, we're falling toward a crevice in the floor of the rift."
+      ],
+      [
+        1057,
+        "01:10:11.634000",
+        "01:10:17.540000",
+        "So you seal the rift by exploding the Siren II, Contek blames me,"
+      ],
+      [
+        1131,
+        "01:16:09.658000",
+        "01:16:15.965000",
+        "We'll take the pod. But first, we've got to seal the rift with the ship."
+      ]
+    ],
+    "regex": "\\b((?!\\bRift:)Rift)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

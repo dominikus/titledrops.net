@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt10080092",
+    "title": "Wild Grass",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 918,
+    "occurrences": [
+      [
+        883,
+        "01:46:16.358000",
+        "01:46:19.049000",
+        "and finally directed my film \"Wild Grass.\""
+      ],
+      [
+        903,
+        "01:47:12.651000",
+        "01:47:15.691000",
+        "In the end, all of our dead dreams will be revived and we all become \"Wild Grass.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bWild\\ Grass:)Wild\\ Grass)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

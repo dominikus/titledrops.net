@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0104559",
+    "title": "Zipang",
+    "year": 1990,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 218,
+    "occurrences": [
+      [
+        142,
+        "00:28:29.880000",
+        "00:28:31.154000",
+        "Zipang..."
+      ],
+      [
+        147,
+        "00:28:50.280000",
+        "00:28:52.874000",
+        "But when I hear you speak of Zipang..."
+      ],
+      [
+        212,
+        "00:45:15.600000",
+        "00:45:16.794000",
+        "Zipang!"
+      ],
+      [
+        213,
+        "00:45:17.920000",
+        "00:45:18.670000",
+        "Zipang?"
+      ]
+    ],
+    "regex": "\\b((?!\\bZipang:)Zipang)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5176648",
+    "title": "Hens Night",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1175,
+    "occurrences": [
+      [
+        244,
+        "00:12:02.975000",
+        "00:12:04.663000",
+        "It's called Hens Night."
+      ],
+      [
+        795,
+        "00:50:29.275000",
+        "00:50:34.275000",
+        "I thought we could play this Hens Night game of yours."
+      ]
+    ],
+    "regex": "\\b((?!\\bHens\\ Night:)Hens\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

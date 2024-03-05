@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0163097",
+    "title": "Medusa",
+    "year": 1998,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 635,
+    "occurrences": [
+      [
+        1,
+        "00:00:37.500000",
+        "00:00:41",
+        "\"Medusa\""
+      ],
+      [
+        519,
+        "01:01:52.850000",
+        "01:01:53.650000",
+        "Medusa."
+      ],
+      [
+        569,
+        "01:04:13.550000",
+        "01:04:15.250000",
+        "He's the one who killed Medusa."
+      ],
+      [
+        578,
+        "01:04:49.300000",
+        "01:04:51.900000",
+        "Even when Medusa is dead,"
+      ],
+      [
+        581,
+        "01:05:03.600000",
+        "01:05:06.300000",
+        "He used Medusa's head as a weapon."
+      ]
+    ],
+    "regex": "\\b((?!\\bMedusa:)Medusa)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

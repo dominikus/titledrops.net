@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2671706",
+    "title": "Fences",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2203,
+    "occurrences": [
+      [
+        1334,
+        "01:08:11.874000",
+        "01:08:14.189000",
+        "Some people build fences to keep people out"
+      ],
+      [
+        1335,
+        "01:08:14.190000",
+        "01:08:17.009000",
+        "and other people build fences to keep people in."
+      ]
+    ],
+    "regex": "\\b((?!\\bFences:)Fences)(?!\\:)(?!'t)\\b",
+    "runtime": 139,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

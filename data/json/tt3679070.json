@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt3679070",
+    "title": "Milan Talkies",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 7,
+    "all_lines": 2467,
+    "occurrences": [
+      [
+        1150,
+        "00:57:17.740000",
+        "00:57:20.360000",
+        "\"I met with Anu in Milan Talkies today.\""
+      ],
+      [
+        1200,
+        "01:00:12.200000",
+        "01:00:16.740000",
+        "She says, see you tomorrow at Milan Talkies."
+      ],
+      [
+        1202,
+        "01:00:20.700000",
+        "01:00:24.200000",
+        "See you tomorrow at Milan Talkies."
+      ],
+      [
+        2068,
+        "01:48:21.520000",
+        "01:48:26.230000",
+        "Releasing this Friday in Milan Talkies..."
+      ],
+      [
+        2175,
+        "01:55:33.230000",
+        "01:55:35.270000",
+        "- Milan Talkies. - No."
+      ],
+      [
+        2222,
+        "02:00:07.690000",
+        "02:00:08.520000",
+        "In Milan Talkies."
+      ],
+      [
+        2365,
+        "02:08:17.200000",
+        "02:08:19.790000",
+        "Milan Talkies. And make it quick."
+      ]
+    ],
+    "regex": "\\b((?!\\bMilan\\ Talkies:)Milan\\ Talkies)(?!\\:)(?!'t)\\b",
+    "runtime": 141,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

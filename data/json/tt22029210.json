@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt22029210",
+    "title": "The Trapped 13: How We Survived the Thai Cave",
+    "year": 2022,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 924,
+    "occurrences": [
+      [
+        489,
+        "00:44:03.760000",
+        "00:44:06.680000",
+        "We were trapped. There was nowhere else to go."
+      ],
+      [
+        516,
+        "00:47:03.720000",
+        "00:47:05.480000",
+        "We were trapped."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrapped:)Trapped|(?!\\bHow\\ We\\ Survived\\ the\\ Thai\\ Cave:)How\\ We\\ Survived\\ the\\ Thai\\ Cave)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

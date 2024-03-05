@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt21031650",
+    "title": "Young Man",
+    "year": 2022,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 2022,
+    "occurrences": [
+      [
+        198,
+        "00:11:31.722000",
+        "00:11:33.762000",
+        "Young man, I don't remember you."
+      ],
+      [
+        509,
+        "00:25:37.792000",
+        "00:25:39.041000",
+        "Young man,"
+      ],
+      [
+        608,
+        "00:30:05.414000",
+        "00:30:06.709000",
+        "No need, young man."
+      ],
+      [
+        1208,
+        "00:58:08.202000",
+        "00:58:09.762000",
+        "Young man, do you..."
+      ]
+    ],
+    "regex": "\\b((?!\\bYoung\\ Man:)Young\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0120382",
+    "title": "The Truman Show",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1098,
+    "occurrences": [
+      [
+        14,
+        "00:01:25.669000",
+        "00:01:29.006000",
+        "My life, is my life, is The Truman Show."
+      ],
+      [
+        15,
+        "00:01:29.089000",
+        "00:01:31.425000",
+        "The Truman Show is a lifestyle."
+      ],
+      [
+        702,
+        "01:02:05.305000",
+        "01:02:07.349000",
+        "it's The Truman Show."
+      ],
+      [
+        728,
+        "01:03:23.008000",
+        "01:03:26.052000",
+        "Yes! I did it! I'm on The Truman Show!"
+      ]
+    ],
+    "regex": "\\b((?!\\bTruman\\ Show:)Truman\\ Show)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.2
+  }
+]

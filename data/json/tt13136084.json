@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt13136084",
+    "title": "My Amanda",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1065,
+    "occurrences": [
+      [
+        1023,
+        "01:21:01.565000",
+        "01:21:02.774000",
+        "My Amanda."
+      ],
+      [
+        1037,
+        "01:22:03.710000",
+        "01:22:05.170000",
+        "my Amanda."
+      ],
+      [
+        1038,
+        "01:22:20.226000",
+        "01:22:23.813000",
+        "My Amanda, I love you with all my life."
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Amanda:)My\\ Amanda)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0073091",
+    "title": "The Happy Hooker",
+    "year": 1975,
+    "genres": [
+      "Biography",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1494,
+    "occurrences": [
+      [
+        1264,
+        "01:22:44.493000",
+        "01:22:45.894000",
+        "(HAPPY HOOKER PLAYING ON TAPE)"
+      ],
+      [
+        1266,
+        "01:22:55.238000",
+        "01:23:00.109000",
+        "* I'm the happy hooker Queen of your life"
+      ],
+      [
+        1270,
+        "01:23:13.956000",
+        "01:23:18.561000",
+        "* I'm the happy hooker Happy and gay"
+      ],
+      [
+        1281,
+        "01:23:51.360000",
+        "01:23:56.199000",
+        "* I'm the happy hooker Joy of your life"
+      ]
+    ],
+    "regex": "\\b((?!\\bHappy\\ Hooker:)Happy\\ Hooker)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

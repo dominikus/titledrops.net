@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0065439",
+    "title": "The Confession",
+    "year": 1970,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1431,
+    "occurrences": [
+      [
+        408,
+        "00:44:59.918000",
+        "00:45:01.293000",
+        "Do you think that was a confession?"
+      ],
+      [
+        602,
+        "00:59:43.041000",
+        "00:59:45.449000",
+        "The public confession, the sinner's humiliation..."
+      ],
+      [
+        865,
+        "01:20:25.789000",
+        "01:20:28.995000",
+        "It's his. It only reasserts his confession."
+      ],
+      [
+        1287,
+        "01:53:27.908000",
+        "01:53:30.210000",
+        "We put it in Reising's confession. He signed it."
+      ]
+    ],
+    "regex": "\\b((?!\\bConfession:)Confession)(?!\\:)(?!'t)\\b",
+    "runtime": 139,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

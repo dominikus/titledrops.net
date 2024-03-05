@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0069215",
+    "title": "St. Michael Had a Rooster",
+    "year": 1972,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 699,
+    "occurrences": [
+      [
+        3,
+        "00:01:06.900000",
+        "00:01:09.801000",
+        "St. Michael had a rooster"
+      ],
+      [
+        6,
+        "00:01:16.643000",
+        "00:01:19.339000",
+        "St. Michael had a rooster"
+      ],
+      [
+        9,
+        "00:01:26.553000",
+        "00:01:29.420000",
+        "St. Michael had a rooster"
+      ],
+      [
+        320,
+        "00:38:33.344000",
+        "00:38:36.507000",
+        "St. Michael had a rooster"
+      ]
+    ],
+    "regex": "\\b((?!\\bSt\\.\\ Michael\\ Had\\ a\\ Rooster:)St\\.\\ Michael\\ Had\\ a\\ Rooster)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

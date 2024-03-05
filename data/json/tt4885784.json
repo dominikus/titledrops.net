@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4885784",
+    "title": "Paris Holiday",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1715,
+    "occurrences": [
+      [
+        1312,
+        "01:20:08.640000",
+        "01:20:11.632000",
+        "That's how I could have this Paris holiday."
+      ],
+      [
+        1503,
+        "01:31:42.680000",
+        "01:31:46.719000",
+        "Chun-kit, your Paris holiday is over."
+      ]
+    ],
+    "regex": "\\b((?!\\bParis\\ Holiday:)Paris\\ Holiday)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

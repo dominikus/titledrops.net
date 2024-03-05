@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt13957560",
+    "title": "Dumb Money",
+    "year": 2023,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 2211,
+    "occurrences": [
+      [
+        567,
+        "00:25:34.869000",
+        "00:25:37.104000",
+        "Dumb money, man."
+      ],
+      [
+        1042,
+        "00:47:06.728000",
+        "00:47:08.697000",
+        "They literally call us 'dumb money.'\""
+      ],
+      [
+        1058,
+        "00:47:39.860000",
+        "00:47:42.697000",
+        "\"'Dumb money, babe. Dumb money.'\""
+      ]
+    ],
+    "regex": "\\b((?!\\bDumb\\ Money:)Dumb\\ Money)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

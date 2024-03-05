@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3458776",
+    "title": "Happiness",
+    "year": 2013,
+    "genres": [
+      "Documentary",
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 572,
+    "occurrences": [
+      [
+        23,
+        "00:03:01.180000",
+        "00:03:05.225000",
+        "Instead let there be happiness and peace"
+      ],
+      [
+        282,
+        "00:39:59.604000",
+        "00:40:04.877000",
+        "Instead let there be happiness and peace"
+      ],
+      [
+        537,
+        "01:11:22.735000",
+        "01:11:25.947000",
+        "Happiness and peacefulness"
+      ]
+    ],
+    "regex": "\\b((?!\\bHappiness:)Happiness)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

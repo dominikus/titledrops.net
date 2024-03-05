@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt1428538",
+    "title": "Hansel & Gretel: Witch Hunters",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 904,
+    "occurrences": [
+      [
+        136,
+        "00:18:02.719000",
+        "00:18:05.716000",
+        "before our mayor's witch hunters"
+      ],
+      [
+        231,
+        "00:24:32.150000",
+        "00:24:34.396000",
+        "I mean, is that how you became witch hunters?"
+      ],
+      [
+        246,
+        "00:25:51.854000",
+        "00:25:56.367000",
+        "The witch hunters are near, I can smell their stench."
+      ],
+      [
+        438,
+        "00:45:26.152000",
+        "00:45:32.875000",
+        "Look what his witch hunters have brought to Augsburg."
+      ],
+      [
+        441,
+        "00:45:44.004000",
+        "00:45:47.056000",
+        "because of those witch hunters."
+      ],
+      [
+        447,
+        "00:46:02.647000",
+        "00:46:06.413000",
+        "The witch hunters are not the ones to blame for this."
+      ]
+    ],
+    "regex": "\\b((?!\\bHansel\\ \\&\\ Gretel:)Hansel\\ \\&\\ Gretel|(?!\\bWitch\\ Hunters:)Witch\\ Hunters)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

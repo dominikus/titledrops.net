@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0066500",
+    "title": "Hope",
+    "year": 1970,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 422,
+    "occurrences": [
+      [
+        34,
+        "00:15:45.220000",
+        "00:15:50.214000",
+        "- It's not a hobby for me, it's a hope. I have a lot of debts."
+      ],
+      [
+        136,
+        "00:33:35.620000",
+        "00:33:40.091000",
+        "...I worked for. No one lends money. You're my last hope."
+      ],
+      [
+        168,
+        "00:37:35.220000",
+        "00:37:37.688000",
+        "I hope you break your hands."
+      ],
+      [
+        338,
+        "01:09:12.260000",
+        "01:09:14.728000",
+        "I hope so."
+      ]
+    ],
+    "regex": "\\b((?!\\bHope:)Hope)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

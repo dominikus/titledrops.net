@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0077821",
+    "title": "Ball Lightning",
+    "year": 1979,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1134,
+    "occurrences": [
+      [
+        8,
+        "00:01:09.706000",
+        "00:01:13.542000",
+        "Ball Lightning"
+      ],
+      [
+        80,
+        "00:07:00.880000",
+        "00:07:03.008000",
+        "That's why I named it The Ball Lightning."
+      ],
+      [
+        88,
+        "00:07:26.760000",
+        "00:07:28.747000",
+        "The Ball Lightning. It's a code name."
+      ]
+    ],
+    "regex": "\\b((?!\\bBall\\ Lightning:)Ball\\ Lightning)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

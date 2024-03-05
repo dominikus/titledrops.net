@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0076752",
+    "title": "The Spy Who Loved Me",
+    "year": 1977,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 837,
+    "occurrences": [
+      [
+        65,
+        "00:09:01.458000",
+        "00:09:04.501000",
+        "The spy who loved me"
+      ],
+      [
+        828,
+        "02:04:20.036000",
+        "02:04:22.955000",
+        "The spy who loved me"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpy\\ Who\\ Loved\\ Me:)Spy\\ Who\\ Loved\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

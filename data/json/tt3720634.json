@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt3720634",
+    "title": "3 AM: A Paranormal Experience",
+    "year": 2014,
+    "genres": [
+      "Horror",
+      "Romance"
+    ],
+    "count": 7,
+    "all_lines": 883,
+    "occurrences": [
+      [
+        353,
+        "00:42:18.410000",
+        "00:42:19.536000",
+        "At 3 AM"
+      ],
+      [
+        354,
+        "00:42:19.870000",
+        "00:42:20.912000",
+        "3 AM?"
+      ],
+      [
+        443,
+        "00:54:56.001000",
+        "00:54:56.834000",
+        "At 3 AM"
+      ],
+      [
+        471,
+        "00:58:26.878000",
+        "00:58:29.129000",
+        "I'll go with you at 3 AM"
+      ],
+      [
+        487,
+        "01:01:27.350000",
+        "01:01:29.768000",
+        "It's 3 AM according to the legend."
+      ],
+      [
+        751,
+        "01:26:11.791000",
+        "01:26:13.417000",
+        "It's almost 3 AM, I'll go to bed."
+      ],
+      [
+        772,
+        "01:26:56.169000",
+        "01:26:57.753000",
+        "Now it's 3 AM and he hasn't shown up."
+      ]
+    ],
+    "regex": "\\b((?!\\b3\\ AM:)3\\ AM|(?!\\bParanormal\\ Experience:)Paranormal\\ Experience)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

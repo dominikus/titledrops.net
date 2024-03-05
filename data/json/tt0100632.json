@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0100632",
+    "title": "Skinheads",
+    "year": 1989,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1466,
+    "occurrences": [
+      [
+        124,
+        "00:06:33.445000",
+        "00:06:35.239000",
+        "- You get off this time, skinheads,"
+      ],
+      [
+        458,
+        "00:23:27.278000",
+        "00:23:31.445000",
+        "(Carla sobs) (Skinheads laugh)"
+      ],
+      [
+        819,
+        "00:48:51.575000",
+        "00:48:53.442000",
+        "-  THey're neo-Nazis, Skinheads,"
+      ]
+    ],
+    "regex": "\\b((?!\\bSkinheads:)Skinheads)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

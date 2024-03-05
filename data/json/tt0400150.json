@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0400150",
+    "title": "Alive",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "count": 3,
+    "all_lines": 924,
+    "occurrences": [
+      [
+        24,
+        "00:07:19.439000",
+        "00:07:21.430000",
+        "To be alive here,"
+      ],
+      [
+        26,
+        "00:07:25.445000",
+        "00:07:28.448000",
+        "If you want to be alive,"
+      ],
+      [
+        390,
+        "00:46:12.770000",
+        "00:46:16.774000",
+        "Are you still alive?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAlive:)Alive)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

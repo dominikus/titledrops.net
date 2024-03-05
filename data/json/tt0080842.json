@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0080842",
+    "title": "Harlequin",
+    "year": 1980,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1370,
+    "occurrences": [
+      [
+        1135,
+        "01:18:39.799000",
+        "01:18:40.799000",
+        "- Harlequin"
+      ],
+      [
+        1137,
+        "01:18:46.973000",
+        "01:18:49.058000",
+        "the harlequin couldn't be seen by other characters,"
+      ]
+    ],
+    "regex": "\\b((?!\\bHarlequin:)Harlequin)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

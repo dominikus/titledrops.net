@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1669768",
+    "title": "Ace Wonder: Message from a Dead Man",
+    "year": 2014,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1078,
+    "occurrences": [
+      [
+        64,
+        "00:08:02.840000",
+        "00:08:05.140000",
+        "Ace Wonder isn't really a crime fighter."
+      ],
+      [
+        1039,
+        "01:26:57.490000",
+        "01:27:01.030000",
+        "I think Ace Wonder has a wonderful future ahead of him."
+      ]
+    ],
+    "regex": "\\b((?!\\bAce\\ Wonder:)Ace\\ Wonder|(?!\\bMessage\\ from\\ a\\ Dead\\ Man:)Message\\ from\\ a\\ Dead\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

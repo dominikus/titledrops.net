@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3418844",
+    "title": "Brackenmore",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 663,
+    "occurrences": [
+      [
+        318,
+        "00:35:09.067000",
+        "00:35:11.933000",
+        "And how long have you been in Brackenmore?"
+      ],
+      [
+        325,
+        "00:35:30.567000",
+        "00:35:33.333000",
+        "Why are you here in Brackenmore?"
+      ],
+      [
+        598,
+        "00:56:42.967000",
+        "00:56:44.533000",
+        "Welcome to Brackenmore."
+      ]
+    ],
+    "regex": "\\b((?!\\bBrackenmore:)Brackenmore)(?!\\:)(?!'t)\\b",
+    "runtime": 72,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

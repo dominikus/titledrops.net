@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0083658",
+    "title": "Blade Runner",
+    "year": 1982,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 846,
+    "occurrences": [
+      [
+        64,
+        "00:09:53.713000",
+        "00:09:58.788000",
+        "Ex-cop, ex-blade runner, ex-killer."
+      ],
+      [
+        72,
+        "00:11:01.025000",
+        "00:11:02.801000",
+        "He say you \"Blade Runner.\""
+      ],
+      [
+        77,
+        "00:12:03.785000",
+        "00:12:06.229000",
+        "Bryant must have upped him to the Blade Runner unit."
+      ],
+      [
+        108,
+        "00:14:03.394000",
+        "00:14:06.410000",
+        "I need the old Blade Runner. I need your magic."
+      ],
+      [
+        756,
+        "01:28:36.127000",
+        "01:28:40.531000",
+        "I'm Deckard. Blade Runner. 26354. I'm filed and monitored."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlade\\ Runner:)Blade\\ Runner)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

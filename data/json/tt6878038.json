@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt6878038",
+    "title": "A Taxi Driver",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 5,
+    "all_lines": 1453,
+    "occurrences": [
+      [
+        466,
+        "00:34:41.250000",
+        "00:34:44.083000",
+        "Let's give a hand to the taxi driver who came so far!"
+      ],
+      [
+        552,
+        "00:40:14",
+        "00:40:18",
+        "Don't know what I'd have done without this taxi driver."
+      ],
+      [
+        1256,
+        "01:41:03.208000",
+        "01:41:04.458000",
+        "I taxi driver,"
+      ],
+      [
+        1407,
+        "02:07:47.666000",
+        "02:07:52.333000",
+        "Yes, but there's no taxi driver with this name."
+      ],
+      [
+        1419,
+        "02:09:18.375000",
+        "02:09:19.625000",
+        "He is a taxi driver."
+      ]
+    ],
+    "regex": "\\b((?!\\bTaxi\\ Driver:)Taxi\\ Driver)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2206082",
+    "title": "Chez Nous",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 809,
+    "occurrences": [
+      [
+        7,
+        "00:03:06",
+        "00:03:09.390000",
+        "Male, female. At Chez Nous that difference is..."
+      ],
+      [
+        121,
+        "00:16:35.680000",
+        "00:16:37.352000",
+        "Chez Nous, Bertie speaking."
+      ],
+      [
+        192,
+        "00:23:45.280000",
+        "00:23:48.272000",
+        "Wasn't he also in that bar...? - Chez Nous? Yes."
+      ],
+      [
+        746,
+        "01:24:14.480000",
+        "01:24:19.395000",
+        "Until recently the location of the, shall we say, 'illustrious' Chez Nous."
+      ]
+    ],
+    "regex": "\\b((?!\\bChez\\ Nous:)Chez\\ Nous)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

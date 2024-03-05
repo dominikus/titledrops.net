@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0040662",
+    "title": "Oliver Twist",
+    "year": 1948,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 986,
+    "occurrences": [
+      [
+        24,
+        "00:09:25.565000",
+        "00:09:29.661000",
+        "The child that was half baptized Oliver Twist is nine year old today."
+      ],
+      [
+        50,
+        "00:11:32.425000",
+        "00:11:35.690000",
+        "Oliver. Oliver Twist, sir."
+      ],
+      [
+        258,
+        "00:36:30.755000",
+        "00:36:34.953000",
+        "'Ere he is, Fagin. My friend Oliver Twist."
+      ],
+      [
+        443,
+        "00:55:47.010000",
+        "00:55:50.673000",
+        "No, sir. Twist. Oliver Twist."
+      ],
+      [
+        579,
+        "01:05:28.925000",
+        "01:05:31.291000",
+        "The young Oliver Twist."
+      ],
+      [
+        906,
+        "01:40:18.579000",
+        "01:40:22.345000",
+        "Coward! Liar! Where is Oliver Twist?"
+      ]
+    ],
+    "regex": "\\b((?!\\bOliver\\ Twist:)Oliver\\ Twist)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

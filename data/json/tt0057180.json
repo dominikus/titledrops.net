@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0057180",
+    "title": "The Incredible Journey",
+    "year": 1963,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 878,
+    "occurrences": [
+      [
+        132,
+        "00:11:19.346000",
+        "00:11:21.412000",
+        "For the incredible journey."
+      ],
+      [
+        166,
+        "00:14:13.599000",
+        "00:14:16.199000",
+        "The incredible journey had begun."
+      ],
+      [
+        878,
+        "01:20:06.143000",
+        "01:20:09.210000",
+        "They came to the end of their incredible journey."
+      ]
+    ],
+    "regex": "\\b((?!\\bIncredible\\ Journey:)Incredible\\ Journey)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

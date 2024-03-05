@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2690160",
+    "title": "Poseidon Rex",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1176,
+    "occurrences": [
+      [
+        740,
+        "00:44:37.194000",
+        "00:44:39.754000",
+        "I mean, for all we know, a Poseidon Rex could have"
+      ],
+      [
+        746,
+        "00:44:48.340000",
+        "00:44:50.968000",
+        "- Poseidon Rex, the 'King of the Ocean'."
+      ],
+      [
+        1027,
+        "01:04:06.446000",
+        "01:04:12.010000",
+        "that Poseidon Rex, is immortal as well, do you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPoseidon\\ Rex:)Poseidon\\ Rex)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.7
+  }
+]

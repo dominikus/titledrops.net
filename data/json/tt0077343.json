@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt0077343",
+    "title": "Cleopatra Wong",
+    "year": 1978,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 404,
+    "occurrences": [
+      [
+        154,
+        "00:36:29.900000",
+        "00:36:32",
+        "and that's Cleopatra Wong."
+      ],
+      [
+        378,
+        "01:18:14.400000",
+        "01:18:17",
+        "- Wong, Cleopatra Wong. - Miss Wong."
+      ]
+    ],
+    "regex": "\\b((?!\\bCleopatra\\ Wong:)Cleopatra\\ Wong)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [
+      "Cleopatra Wong"
+    ],
+    "title_is_name": true,
+    "rating": 5.6
+  }
+]

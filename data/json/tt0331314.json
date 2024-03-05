@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0331314",
+    "title": "Bunyan and Babe",
+    "year": 2017,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1691,
+    "occurrences": [
+      [
+        744,
+        "00:37:16.235000",
+        "00:37:19.002000",
+        "Whit, that's Paul bunyan and babe the ox."
+      ],
+      [
+        1420,
+        "01:08:55.232000",
+        "01:08:57.132000",
+        "Maybe it's because bunyan and babe"
+      ]
+    ],
+    "regex": "\\b((?!\\bBunyan\\ and\\ Babe:)Bunyan\\ and\\ Babe)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

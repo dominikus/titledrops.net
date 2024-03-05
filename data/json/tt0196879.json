@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0196879",
+    "title": "The Human Pyramid",
+    "year": 1961,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1001,
+    "occurrences": [
+      [
+        443,
+        "00:34:27.260000",
+        "00:34:28.650000",
+        "It's called The Human Pyramid."
+      ],
+      [
+        471,
+        "00:36:15.880000",
+        "00:36:19.910000",
+        "The Human Pyramid. That's the day it all began"
+      ]
+    ],
+    "regex": "\\b((?!\\bHuman\\ Pyramid:)Human\\ Pyramid)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0263238",
+    "title": "Crisis: Behind a Presidential Commitment",
+    "year": 1963,
+    "genres": [
+      "Documentary",
+      "History",
+      "News"
+    ],
+    "count": 3,
+    "all_lines": 773,
+    "occurrences": [
+      [
+        24,
+        "00:03:11.234000",
+        "00:03:13.778000",
+        "This is the account of a crisis,"
+      ],
+      [
+        25,
+        "00:03:13.862000",
+        "00:03:16.906000",
+        "and the story behind a presidential commitment."
+      ],
+      [
+        743,
+        "00:50:19.267000",
+        "00:50:22.521000",
+        "We face therefore a moral crisis as a country and a people."
+      ]
+    ],
+    "regex": "\\b((?!\\bCrisis:)Crisis|(?!\\bBehind\\ a\\ Presidential\\ Commitment:)Behind\\ a\\ Presidential\\ Commitment)(?!\\:)(?!'t)\\b",
+    "runtime": 52,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

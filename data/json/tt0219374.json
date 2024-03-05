@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0219374",
+    "title": "Unconditional Love",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "count": 3,
+    "all_lines": 1648,
+    "occurrences": [
+      [
+        517,
+        "00:34:03.775000",
+        "00:34:07.575000",
+        "You see, I had forgotten about unconditional love."
+      ],
+      [
+        949,
+        "01:03:06.015000",
+        "01:03:08.245000",
+        "''Unconditional Love.''"
+      ],
+      [
+        955,
+        "01:03:19.996000",
+        "01:03:22.157000",
+        "I don't believe in unconditional love. What is it?"
+      ]
+    ],
+    "regex": "\\b((?!\\bUnconditional\\ Love:)Unconditional\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

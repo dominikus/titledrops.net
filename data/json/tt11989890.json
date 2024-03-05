@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt11989890",
+    "title": "David Attenborough: A Life on Our Planet",
+    "year": 2020,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 790,
+    "occurrences": [
+      [
+        36,
+        "00:04:52.417000",
+        "00:04:57.046000",
+        "I am David Attenborough, and I am 93."
+      ],
+      [
+        744,
+        "01:11:55.436000",
+        "01:12:00.774000",
+        "To establish a life on our planet in balance with nature."
+      ]
+    ],
+    "regex": "\\b((?!\\bDavid\\ Attenborough:)David\\ Attenborough|(?!\\bLife\\ on\\ Our\\ Planet:)Life\\ on\\ Our\\ Planet)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.9
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2051894",
+    "title": "Home Run",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1406,
+    "occurrences": [
+      [
+        68,
+        "00:07:09.137000",
+        "00:07:12.598000",
+        "lf a Grizzly hits a home run during today's game,"
+      ],
+      [
+        81,
+        "00:07:49.386000",
+        "00:07:53.055000",
+        "Don't forget. Home run today. 1 0K for Young Life."
+      ]
+    ],
+    "regex": "\\b((?!\\bHome\\ Run:)Home\\ Run)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

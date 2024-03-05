@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0064779",
+    "title": "The Bear and the Doll",
+    "year": 1970,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 727,
+    "occurrences": [
+      [
+        716,
+        "01:23:42.208000",
+        "01:23:45.625000",
+        "Do you know the fable The Bear and The Doll?"
+      ],
+      [
+        724,
+        "01:24:08",
+        "01:24:11.250000",
+        "Do you know the fable The Bear and The Doll?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBear\\ and\\ the\\ Doll:)Bear\\ and\\ the\\ Doll)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

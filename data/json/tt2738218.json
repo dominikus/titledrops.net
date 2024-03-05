@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2738218",
+    "title": "Decency",
+    "year": 2013,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 556,
+    "occurrences": [
+      [
+        553,
+        "01:15:56.600000",
+        "01:16:01.754000",
+        "\"But what about decency,\" I fretted."
+      ],
+      [
+        555,
+        "01:16:07.480000",
+        "01:16:14.272000",
+        "\"Decency,\" the captain mused after a moment's reflection."
+      ]
+    ],
+    "regex": "\\b((?!\\bDecency:)Decency)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

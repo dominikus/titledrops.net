@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1656192",
+    "title": "Special Forces",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 781,
+    "occurrences": [
+      [
+        134,
+        "00:14:40.320000",
+        "00:14:42.999000",
+        "We can send a special forces team?"
+      ],
+      [
+        223,
+        "00:24:49.880000",
+        "00:24:53.486000",
+        "Admiral  Gezenek Commander Special Forces"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpecial\\ Forces:)Special\\ Forces)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

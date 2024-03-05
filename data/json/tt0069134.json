@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0069134",
+    "title": "Pulp",
+    "year": 1972,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1086,
+    "occurrences": [
+      [
+        238,
+        "00:21:18.651000",
+        "00:21:23.864000",
+        "Pulp would be less pompous and more accurate."
+      ],
+      [
+        243,
+        "00:21:32.998000",
+        "00:21:37.461000",
+        "'He was constipated with pulp, and now it was coming out, all over me.'"
+      ],
+      [
+        1003,
+        "01:26:18.964000",
+        "01:26:23.260000",
+        "'Remember that thou art pulp, and unto pulp thou shalt return."
+      ]
+    ],
+    "regex": "\\b((?!\\bPulp:)Pulp)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

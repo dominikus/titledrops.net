@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1327808",
+    "title": "Opération Casablanca",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 927,
+    "occurrences": [
+      [
+        743,
+        "01:00:15.360000",
+        "01:00:19.280000",
+        "What do you know about Operation Casablanca?"
+      ],
+      [
+        873,
+        "01:13:12.120000",
+        "01:13:14.680000",
+        "Operation Casablanca isn't Casablanca, Morocco."
+      ]
+    ],
+    "regex": "\\b((?!\\bOperation\\ Casablanca:)Operation\\ Casablanca)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

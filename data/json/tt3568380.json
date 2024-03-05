@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3568380",
+    "title": "No Solicitors",
+    "year": 2015,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 2084,
+    "occurrences": [
+      [
+        336,
+        "00:17:13.200000",
+        "00:17:16.369000",
+        "- No solicitors, we'll see about that!"
+      ],
+      [
+        1701,
+        "01:18:32.675000",
+        "01:18:35.845000",
+        "- Yeah, you all saw the sign, \"No solicitors,\""
+      ],
+      [
+        1703,
+        "01:18:39.248000",
+        "01:18:43.419000",
+        "And what part of \"No solicitors\" didn't you understand?"
+      ]
+    ],
+    "regex": "\\b((?!\\bNo\\ Solicitors:)No\\ Solicitors)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0475243",
+    "title": "Crashing",
+    "year": 2007,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1054,
+    "occurrences": [
+      [
+        334,
+        "00:21:31.223000",
+        "00:21:33.817000",
+        "I am crashing on the couch of a couple of English students right now, okay?"
+      ],
+      [
+        1052,
+        "01:15:31.994000",
+        "01:15:33.928000",
+        "Crashing on the Couch."
+      ]
+    ],
+    "regex": "\\b((?!\\bCrashing:)Crashing)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

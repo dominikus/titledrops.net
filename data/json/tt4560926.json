@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt4560926",
+    "title": "Birdland",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 803,
+    "occurrences": [
+      [
+        104,
+        "00:14:04.677000",
+        "00:14:08.848000",
+        "* Lullaby of Birdland, that's what I *"
+      ],
+      [
+        497,
+        "00:53:26.971000",
+        "00:53:31.576000",
+        "- Aren't you going to sing Lullaby of Birdland?"
+      ],
+      [
+        585,
+        "01:01:03.728000",
+        "01:01:07.798000",
+        "* Lullaby by birdland that's what I *"
+      ]
+    ],
+    "regex": "\\b((?!\\bBirdland:)Birdland)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

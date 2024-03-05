@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0044716",
+    "title": "The Holly and the Ivy",
+    "year": 1952,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 2064,
+    "occurrences": [
+      [
+        275,
+        "00:12:21.541000",
+        "00:12:24.909000",
+        "(SINGING) The holly and the ivy,"
+      ],
+      [
+        1294,
+        "00:48:12.523000",
+        "00:48:13.823000",
+        "between the holly and the ivy."
+      ],
+      [
+        1433,
+        "00:54:22.460000",
+        "00:54:26.128000",
+        "MICK: (SINGING DRUNKENLY) The holly and the ivy, when they"
+      ]
+    ],
+    "regex": "\\b((?!\\bHolly\\ and\\ the\\ Ivy:)Holly\\ and\\ the\\ Ivy)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1252557",
+    "title": "Candy Rain",
+    "year": 2008,
+    "genres": [
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 328,
+    "occurrences": [
+      [
+        53,
+        "00:15:10.576000",
+        "00:15:12.976000",
+        "Who's Candy Rain?"
+      ],
+      [
+        54,
+        "00:15:13.646000",
+        "00:15:15.944000",
+        "Candy Rain"
+      ],
+      [
+        55,
+        "00:15:19.251000",
+        "00:15:21.720000",
+        "Candy Rain"
+      ],
+      [
+        149,
+        "00:31:05.964000",
+        "00:31:07.065000",
+        "Candy Rain on the 4th floor"
+      ]
+    ],
+    "regex": "\\b((?!\\bCandy\\ Rain:)Candy\\ Rain)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

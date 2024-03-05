@@ -1,0 +1,40 @@
+[
+  {
+    "imdb": "tt0069544",
+    "title": "Baba Yaga",
+    "year": 1973,
+    "genres": [
+      "Family",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 580,
+    "occurrences": [
+      [
+        93,
+        "00:09:20.226000",
+        "00:09:22.811000",
+        "My name is Baba Yaga."
+      ],
+      [
+        422,
+        "00:53:02.762000",
+        "00:53:05.181000",
+        "There's something different about Baba Yaga."
+      ],
+      [
+        432,
+        "00:53:39.799000",
+        "00:53:42.051000",
+        "and your Baba Yaga is the custodian witch of it."
+      ]
+    ],
+    "regex": "\\b((?!\\bBaba\\ Yaga:)Baba\\ Yaga)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [
+      "Witch Baba Yaga"
+    ],
+    "title_is_name": true,
+    "rating": 6.7
+  }
+]

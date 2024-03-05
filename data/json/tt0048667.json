@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0048667",
+    "title": "Strategic Air Command",
+    "year": 1955,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1943,
+    "occurrences": [
+      [
+        35,
+        "00:01:43.800000",
+        "00:01:47.400000",
+        "to The Strategic Air Command, whose cooperation is gratefully acknowledged,"
+      ],
+      [
+        159,
+        "00:06:58.200000",
+        "00:06:59.800000",
+        "Strategic Air Command."
+      ],
+      [
+        1270,
+        "01:09:58.800000",
+        "01:10:00.800000",
+        "of the Strategic Air Command."
+      ]
+    ],
+    "regex": "\\b((?!\\bStrategic\\ Air\\ Command:)Strategic\\ Air\\ Command)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

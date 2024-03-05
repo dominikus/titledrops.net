@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2321517",
+    "title": "The Spy",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 887,
+    "occurrences": [
+      [
+        67,
+        "00:06:25.010000",
+        "00:06:28.555000",
+        "SPY"
+      ],
+      [
+        673,
+        "01:18:35.674000",
+        "01:18:39.887000",
+        "and a boy and a great lady. Is he really a spy?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpy:)Spy)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

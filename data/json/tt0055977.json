@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0055977",
+    "title": "The Fast Lady",
+    "year": 1962,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1865,
+    "occurrences": [
+      [
+        288,
+        "00:15:10.660000",
+        "00:15:12.151000",
+        "Oh, it's called The Fast Lady."
+      ],
+      [
+        371,
+        "00:18:56.052000",
+        "00:18:58.052000",
+        "She seemed rather keen on you buying The Fast Lady."
+      ],
+      [
+        825,
+        "00:39:15.395000",
+        "00:39:17.115000",
+        "You're now the proud owner of The Fast Lady."
+      ],
+      [
+        866,
+        "00:41:01.501000",
+        "00:41:02.781000",
+        "\"and I've bought The Fast Lady.\""
+      ],
+      [
+        886,
+        "00:41:47.213000",
+        "00:41:52.208000",
+        "The fact is I've taken your advice and bought The Fast Lady."
+      ]
+    ],
+    "regex": "\\b((?!\\bFast\\ Lady:)Fast\\ Lady)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

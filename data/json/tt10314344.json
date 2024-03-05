@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt10314344",
+    "title": "The Subject",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 2078,
+    "occurrences": [
+      [
+        896,
+        "00:48:53.333000",
+        "00:48:54.902000",
+        "You're the subject. All right?"
+      ],
+      [
+        916,
+        "00:49:38.880000",
+        "00:49:41.916000",
+        "I don't think I'd make a particularly hot subject."
+      ],
+      [
+        1623,
+        "01:26:50.144000",
+        "01:26:52.013000",
+        "I thought he would make an interesting subject."
+      ]
+    ],
+    "regex": "\\b((?!\\bSubject:)Subject)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

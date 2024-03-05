@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2191861",
+    "title": "The Soul of Bread",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1445,
+    "occurrences": [
+      [
+        79,
+        "00:06:21.247000",
+        "00:06:29.985000",
+        "The soul of bread"
+      ],
+      [
+        1295,
+        "01:36:26.881000",
+        "01:36:28.849000",
+        "\"The Soul of Bread\""
+      ],
+      [
+        1363,
+        "01:42:02.483000",
+        "01:42:03.916000",
+        "\"The Soul of Bread\""
+      ],
+      [
+        1429,
+        "01:47:44.724000",
+        "01:47:48.387000",
+        "The only place in the entire world that makes\"The soul of Bread\""
+      ]
+    ],
+    "regex": "\\b((?!\\bSoul\\ of\\ Bread:)Soul\\ of\\ Bread)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

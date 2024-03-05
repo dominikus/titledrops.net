@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt9351746",
+    "title": "Love, Antosha",
+    "year": 2019,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 1956,
+    "occurrences": [
+      [
+        296,
+        "00:15:57.210000",
+        "00:15:58.910000",
+        "I love you! Love, Antosha.\""
+      ],
+      [
+        297,
+        "00:15:59",
+        "00:16:01.690000",
+        "\"Dear Mommy, I love you. Love, Antosha.\""
+      ],
+      [
+        620,
+        "00:30:58.720000",
+        "00:31:00.900000",
+        "Love, Antosha."
+      ],
+      [
+        1563,
+        "01:09:59.410000",
+        "01:10:01.410000",
+        "Love, Antosha."
+      ]
+    ],
+    "regex": "\\b((?!\\bLove,\\ Antosha:)Love,\\ Antosha)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0070235",
+    "title": "I Will Walk Like a Crazy Horse",
+    "year": 1973,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 590,
+    "occurrences": [
+      [
+        0,
+        "00:00:19.519000",
+        "00:00:25.458000",
+        "I Will Walk Like A Crazy Horse"
+      ],
+      [
+        494,
+        "01:00:49.712000",
+        "01:00:52.579000",
+        "I will walk like a crazy horse."
+      ],
+      [
+        497,
+        "01:01:05.595000",
+        "01:01:08.325000",
+        "I will walk like a crazy horse.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Will\\ Walk\\ Like\\ a\\ Crazy\\ Horse:)I\\ Will\\ Walk\\ Like\\ a\\ Crazy\\ Horse)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

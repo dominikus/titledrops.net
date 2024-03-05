@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt14581444",
+    "title": "The Neutral Ground",
+    "year": 2021,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1462,
+    "occurrences": [
+      [
+        233,
+        "00:11:05.533000",
+        "00:11:08.533000",
+        "Right in the middle of the Neutral Ground."
+      ],
+      [
+        234,
+        "00:11:14.366000",
+        "00:11:16.042000",
+        "In New Orleans, the Neutral Ground's just the name"
+      ],
+      [
+        241,
+        "00:11:30.166000",
+        "00:11:34.833000",
+        "The Neutral Ground is supposed to be a space for everyone."
+      ]
+    ],
+    "regex": "\\b((?!\\bNeutral\\ Ground:)Neutral\\ Ground)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

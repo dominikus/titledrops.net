@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt8025310",
+    "title": "The Odds",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 1350,
+    "occurrences": [
+      [
+        53,
+        "00:03:35.055000",
+        "00:03:37.758000",
+        "Real gamblers will make odds on anything."
+      ],
+      [
+        1029,
+        "01:18:15.830000",
+        "01:18:19.368000",
+        "The odds are catching up with you."
+      ],
+      [
+        1127,
+        "01:25:01.902000",
+        "01:25:03.336000",
+        "But the odds of that happening..."
+      ],
+      [
+        1129,
+        "01:25:08.544000",
+        "01:25:10.179000",
+        "But that's not how odds work."
+      ],
+      [
+        1174,
+        "01:29:09.116000",
+        "01:29:11.020000",
+        "Now what do your odds look like?"
+      ],
+      [
+        1275,
+        "01:37:23.076000",
+        "01:37:25.379000",
+        "real gamblers will make odds on anything."
+      ]
+    ],
+    "regex": "\\b((?!\\bOdds:)Odds)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

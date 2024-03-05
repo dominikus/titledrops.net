@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1374992",
+    "title": "Upside Down",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1058,
+    "occurrences": [
+      [
+        757,
+        "01:02:39.896000",
+        "01:02:40.896000",
+        "This is an Upside Down?"
+      ],
+      [
+        1003,
+        "01:33:56.352000",
+        "01:33:58.690000",
+        "You think you're the only one who can go upside down?"
+      ]
+    ],
+    "regex": "\\b((?!\\bUpside\\ Down:)Upside\\ Down)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

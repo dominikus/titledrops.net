@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt10489756",
+    "title": "Nail in the Coffin: The Fall and Rise of Vampiro",
+    "year": 2019,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1765,
+    "occurrences": [
+      [
+        1087,
+        "00:54:54.378000",
+        "00:54:55.683000",
+        "Spike, nail in the coffin!"
+      ],
+      [
+        1088,
+        "00:54:55.727000",
+        "00:54:56.902000",
+        "Vampiro, nail in the coffin!"
+      ]
+    ],
+    "regex": "\\b((?!\\bNail\\ in\\ the\\ Coffin:)Nail\\ in\\ the\\ Coffin|(?!\\bFall\\ and\\ Rise\\ of\\ Vampiro:)Fall\\ and\\ Rise\\ of\\ Vampiro)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

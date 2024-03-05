@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0061138",
+    "title": "A Man and a Woman",
+    "year": 1966,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 720,
+    "occurrences": [
+      [
+        18,
+        "00:02:15.501000",
+        "00:02:21.250000",
+        "A Man and A Woman"
+      ],
+      [
+        260,
+        "00:34:43.259000",
+        "00:34:44.979000",
+        "A man and a woman were killed earlier today..."
+      ]
+    ],
+    "regex": "\\b((?!\\bMan\\ and\\ a\\ Woman:)Man\\ and\\ a\\ Woman)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

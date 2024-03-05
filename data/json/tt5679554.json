@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5679554",
+    "title": "Coffin 2",
+    "year": 2017,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1651,
+    "occurrences": [
+      [
+        22,
+        "00:05:26.274000",
+        "00:05:30.075000",
+        "when you placed Trick into a box, a coffin of sorts."
+      ],
+      [
+        999,
+        "01:01:39.777000",
+        "01:01:44.113000",
+        "If we don't figure this out, this will be our coffin."
+      ],
+      [
+        1620,
+        "01:35:16.426000",
+        "01:35:21.562000",
+        "but Olivia, she's as sharp as a, well, a coffin nail."
+      ]
+    ],
+    "regex": "\\b((?!\\bCoffin:)Coffin)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

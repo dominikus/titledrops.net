@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt7281538",
+    "title": "Teacher",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1365,
+    "occurrences": [
+      [
+        26,
+        "00:02:23.176000",
+        "00:02:25.143000",
+        "Somebody likes to open their mouth for teacher."
+      ],
+      [
+        491,
+        "00:30:24.089000",
+        "00:30:26.290000",
+        "You know, I'm an English teacher."
+      ],
+      [
+        561,
+        "00:35:15.830000",
+        "00:35:18.281000",
+        "Hi, Mrs. Cooper, this is James Lewis, I'm Tim's teacher."
+      ],
+      [
+        564,
+        "00:35:25.390000",
+        "00:35:27.157000",
+        "It's Tim's teacher."
+      ],
+      [
+        1059,
+        "01:17:25.624000",
+        "01:17:27.040000",
+        "I'm still your teacher, Tim."
+      ],
+      [
+        1074,
+        "01:18:31.841000",
+        "01:18:34.108000",
+        "I guess that's why I'm an English teacher."
+      ]
+    ],
+    "regex": "\\b((?!\\bTeacher:)Teacher)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

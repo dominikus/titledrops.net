@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt5937962",
+    "title": "All Governments Lie: Truth, Deception, and the Spirit of I.F. Stone",
+    "year": 2016,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1824,
+    "occurrences": [
+      [
+        52,
+        "00:03:39.585000",
+        "00:03:41.545000",
+        "That all governments lie."
+      ],
+      [
+        1624,
+        "01:21:15.081000",
+        "01:21:16.707000",
+        "\"all governments lie.\""
+      ],
+      [
+        1774,
+        "01:28:40.534000",
+        "01:28:45.037000",
+        "All governments lie, especially in a time of war."
+      ]
+    ],
+    "regex": "\\b((?!\\bAll\\ Governments\\ Lie:)All\\ Governments\\ Lie|(?!\\bTruth,\\ Deception,\\ and\\ the\\ Spirit\\ of\\ I\\.F\\.\\ Stone:)Truth,\\ Deception,\\ and\\ the\\ Spirit\\ of\\ I\\.F\\.\\ Stone)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt1406160",
+    "title": "Jaffa",
+    "year": 2009,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 684,
+    "occurrences": [
+      [
+        175,
+        "00:22:37.022000",
+        "00:22:39.719000",
+        "He decided to go for a stroll around Jaffa."
+      ],
+      [
+        308,
+        "00:40:04.102000",
+        "00:40:06.970000",
+        "- Are you from Jaffa? - No, Tel Aviv."
+      ],
+      [
+        444,
+        "01:00:34.164000",
+        "01:00:36.360000",
+        "Is he from Jaffa?"
+      ],
+      [
+        445,
+        "01:00:36.433000",
+        "01:00:38.299000",
+        "Who's from Jaffa?"
+      ],
+      [
+        466,
+        "01:03:40.350000",
+        "01:03:42.876000",
+        "We're leaving Jaffa."
+      ],
+      [
+        596,
+        "01:24:53.355000",
+        "01:24:55.415000",
+        "No one comes from Jaffa anymore."
+      ]
+    ],
+    "regex": "\\b((?!\\bJaffa:)Jaffa)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

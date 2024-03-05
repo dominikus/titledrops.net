@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt12404266",
+    "title": "The Last Rifleman",
+    "year": 2023,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1284,
+    "occurrences": [
+      [
+        1117,
+        "01:14:05.240000",
+        "01:14:06.959000",
+        "\"The Last Rifleman.\""
+      ],
+      [
+        1118,
+        "01:14:06.960000",
+        "01:14:08.759000",
+        "The Last Rifleman?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Rifleman:)Last\\ Rifleman)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

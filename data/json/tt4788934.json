@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4788934",
+    "title": "The Guardian Brothers",
+    "year": 2015,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1404,
+    "occurrences": [
+      [
+        6,
+        "00:01:07.500000",
+        "00:01:11.042000",
+        " They're known as the Guardian Brothers."
+      ],
+      [
+        71,
+        "00:05:13",
+        "00:05:15.875000",
+        "you guessed it, the Guardian Brothers."
+      ],
+      [
+        1316,
+        "01:19:00.833000",
+        "01:19:03.167000",
+        "the Guardian brothers were able to focus their attention"
+      ]
+    ],
+    "regex": "\\b((?!\\bGuardian\\ Brothers:)Guardian\\ Brothers)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

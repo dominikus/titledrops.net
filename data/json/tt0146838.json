@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0146838",
+    "title": "Any Given Sunday",
+    "year": 1999,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 3,
+    "all_lines": 2081,
+    "occurrences": [
+      [
+        57,
+        "00:05:17.109000",
+        "00:05:19.528000",
+        "Any given Sunday, anything can happen."
+      ],
+      [
+        444,
+        "00:31:55.874000",
+        "00:32:00.796000",
+        "Well, you can run this a billion times, but on any given Sunday..."
+      ],
+      [
+        1996,
+        "02:26:14.735000",
+        "02:26:19.573000",
+        "But never forget. On any given Sunday, you're either gonna win or lose."
+      ]
+    ],
+    "regex": "\\b((?!\\bAny\\ Given\\ Sunday:)Any\\ Given\\ Sunday)(?!\\:)(?!'t)\\b",
+    "runtime": 162,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

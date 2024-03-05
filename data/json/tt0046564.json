@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt0046564",
+    "title": "Young Bess",
+    "year": 1953,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 838,
+    "occurrences": [
+      [
+        0,
+        "00:01:18.220000",
+        "00:01:21.557000",
+        "Her father, Henry VIII, called her Young Bess."
+      ],
+      [
+        15,
+        "00:03:01.325000",
+        "00:03:07.540000",
+        "- This means ... - Young Bess will be queen."
+      ],
+      [
+        20,
+        "00:03:35.923000",
+        "00:03:41.232000",
+        "- Long live Young Bess. - Long live Queen Elizabeth."
+      ],
+      [
+        736,
+        "01:30:03.732000",
+        "01:30:15.244000",
+        "That's not like my young Bess."
+      ]
+    ],
+    "regex": "\\b((?!\\bYoung\\ Bess:)Young\\ Bess)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [
+      "Young Bess (Queen Elizabeth I)"
+    ],
+    "title_is_name": true,
+    "rating": 6.6
+  }
+]

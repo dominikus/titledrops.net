@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7985704",
+    "title": "Operation Fortune: Ruse de Guerre",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1869,
+    "occurrences": [
+      [
+        23,
+        "00:02:40.484000",
+        "00:02:43.283000",
+        "Ruse de guerre, Nathan."
+      ],
+      [
+        363,
+        "00:19:21.216000",
+        "00:19:23.817000",
+        "Hmm. Ruse de guerre."
+      ]
+    ],
+    "regex": "\\b((?!\\bOperation\\ Fortune:)Operation\\ Fortune|(?!\\bRuse\\ de\\ Guerre:)Ruse\\ de\\ Guerre)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

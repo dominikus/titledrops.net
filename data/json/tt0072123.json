@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0072123",
+    "title": "The Flower in His Mouth",
+    "year": 1975,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1398,
+    "occurrences": [
+      [
+        0,
+        "00:00:15.683000",
+        "00:00:18.959000",
+        "RESPECTABLE PEOPLE AKA The Flower in His Mouth"
+      ],
+      [
+        187,
+        "00:15:27.851000",
+        "00:15:31.530000",
+        "They put a flower in his mouth and fixed him on the chair."
+      ],
+      [
+        241,
+        "00:18:13.943000",
+        "00:18:17.452000",
+        "put him on the chair and then put a flower in his mouth!"
+      ],
+      [
+        595,
+        "00:45:55.682000",
+        "00:45:58.812000",
+        "With a flower in his mouth. He looked like an ad."
+      ]
+    ],
+    "regex": "\\b((?!\\bFlower\\ in\\ His\\ Mouth:)Flower\\ in\\ His\\ Mouth)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

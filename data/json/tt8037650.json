@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt8037650",
+    "title": "Dressage",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 757,
+    "occurrences": [
+      [
+        5,
+        "00:02:03.740000",
+        "00:02:10.817000",
+        "Dressage A film by Pooya Badkoobeh"
+      ],
+      [
+        172,
+        "00:22:34.382000",
+        "00:22:37.757000",
+        "In two years his dressage will knock everybody out."
+      ],
+      [
+        473,
+        "00:54:14.865000",
+        "00:54:17.686000",
+        "He is a dressage horse. His legs may be hurt on the field."
+      ],
+      [
+        475,
+        "00:54:21.681000",
+        "00:54:25.007000",
+        "That's how a dressage horse is. It's more highly prized than other horses."
+      ]
+    ],
+    "regex": "\\b((?!\\bDressage:)Dressage)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

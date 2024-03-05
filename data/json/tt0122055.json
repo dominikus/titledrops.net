@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0122055",
+    "title": "Bewitched",
+    "year": 1976,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 430,
+    "occurrences": [
+      [
+        319,
+        "00:59:05.905000",
+        "00:59:10.048000",
+        "Your wife, Mr Leandro... is bewitched."
+      ],
+      [
+        383,
+        "01:07:54.725000",
+        "01:07:57.354000",
+        "I'm not a witch! -You're bewitched! You must die!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBewitched:)Bewitched)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2625054",
+    "title": "Summits of My Life: A Fine Line",
+    "year": 2012,
+    "genres": [
+      "Documentary",
+      "Sport"
+    ],
+    "count": 3,
+    "all_lines": 490,
+    "occurrences": [
+      [
+        94,
+        "00:11:19.439000",
+        "00:11:21.319000",
+        "But with Summits of My Life,"
+      ],
+      [
+        297,
+        "00:29:31.240000",
+        "00:29:35.399000",
+        "The Summits of My Life project this year is the cross of Mont Blanc"
+      ],
+      [
+        375,
+        "00:37:38.560000",
+        "00:37:43.400000",
+        "There's such a fine line between life and death."
+      ]
+    ],
+    "regex": "\\b((?!\\bSummits\\ of\\ My\\ Life:)Summits\\ of\\ My\\ Life|(?!\\bFine\\ Line:)Fine\\ Line)(?!\\:)(?!'t)\\b",
+    "runtime": 53,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

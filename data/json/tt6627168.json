@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6627168",
+    "title": "Listen",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 164,
+    "occurrences": [
+      [
+        15,
+        "00:12:55.740000",
+        "00:13:00.980000",
+        "Listen, can you lend us some money?"
+      ],
+      [
+        60,
+        "00:19:44.380000",
+        "00:19:47.020000",
+        "I said the hearing aid doesn't \"listen\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bListen:)Listen)(?!\\:)(?!'t)\\b",
+    "runtime": 73,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt14444620",
+    "title": "Zokki",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 854,
+    "occurrences": [
+      [
+        847,
+        "01:50:35.130000",
+        "01:50:39.217000",
+        "Based on the manga \"Zokki\" by Hiroyuki Ohashi (KANZEN CORP.)"
+      ],
+      [
+        854,
+        "01:53:28.553000",
+        "01:53:31.931000",
+        "(c)2020\"Zokki\" Film Partners"
+      ]
+    ],
+    "regex": "\\b((?!\\bZokki:)Zokki)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

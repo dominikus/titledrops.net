@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt26439204",
+    "title": "Mercy",
+    "year": 2023,
+    "genres": [
+      "Action"
+    ],
+    "count": 3,
+    "all_lines": 1398,
+    "occurrences": [
+      [
+        212,
+        "00:11:24.052000",
+        "00:11:28.755000",
+        "Calculating. Mercy Hospital. Please proceed to the route."
+      ],
+      [
+        294,
+        "00:15:08.309000",
+        "00:15:09.776000",
+        "They've taken him to The Mercy."
+      ],
+      [
+        1362,
+        "01:20:06.140000",
+        "01:20:07.874000",
+        "at The Mercy Regional Hospital."
+      ]
+    ],
+    "regex": "\\b((?!\\bMercy:)Mercy)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

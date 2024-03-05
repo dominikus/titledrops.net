@@ -1,0 +1,69 @@
+[
+  {
+    "imdb": "tt0165100",
+    "title": "The Telephone Bar",
+    "year": 1980,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 8,
+    "all_lines": 1152,
+    "occurrences": [
+      [
+        760,
+        "01:00:14.656000",
+        "01:00:16.554000",
+        "It's called the Telephone Bar."
+      ],
+      [
+        763,
+        "01:00:26.015000",
+        "01:00:28.922000",
+        "Saturday, 11 a.m., Telephone Bar, Champigny."
+      ],
+      [
+        911,
+        "01:12:23.843000",
+        "01:12:26.233000",
+        "was shot at the Telephone Bar, but no names."
+      ],
+      [
+        916,
+        "01:12:46.617000",
+        "01:12:50.606000",
+        "The Telephone Bar killings seems to be connected to the Chatou Bridge murders"
+      ],
+      [
+        925,
+        "01:13:59.437000",
+        "01:14:01.742000",
+        "Missing you at the Telephone Bar."
+      ],
+      [
+        933,
+        "01:14:24.227000",
+        "01:14:26.685000",
+        "Why should I care about this Telephone Bar stuff?"
+      ],
+      [
+        1015,
+        "01:18:36.231000",
+        "01:18:39.582000",
+        "Newspapers calls us \"The Godfathers behind the Telephone Bar\""
+      ],
+      [
+        1059,
+        "01:21:54.617000",
+        "01:21:57.039000",
+        "He wants to speak about the Telephone Bar."
+      ]
+    ],
+    "regex": "\\b((?!\\bTelephone\\ Bar:)Telephone\\ Bar)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

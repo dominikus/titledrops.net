@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt6143568",
+    "title": "The Humanity Bureau",
+    "year": 2017,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1025,
+    "occurrences": [
+      [
+        12,
+        "00:02:16.261000",
+        "00:02:18.822000",
+        "I'm aware of all Humanity Bureau procedures"
+      ],
+      [
+        18,
+        "00:02:46.875000",
+        "00:02:51.129000",
+        "Humanity Bureau case file 56672941."
+      ],
+      [
+        26,
+        "00:03:26.414000",
+        "00:03:29.876000",
+        "Agent Noah Kross, Humanity Bureau. I'm looking for Chester Hills."
+      ],
+      [
+        144,
+        "00:11:55.604000",
+        "00:11:58.635000",
+        "I'm Agent Noah Kross, Humanity Bureau."
+      ],
+      [
+        411,
+        "00:39:18.149000",
+        "00:39:20.152000",
+        "We have a Humanity Bureau agent on the run"
+      ]
+    ],
+    "regex": "\\b((?!\\bHumanity\\ Bureau:)Humanity\\ Bureau)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

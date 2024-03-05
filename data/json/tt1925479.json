@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1925479",
+    "title": "Officer Down",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1248,
+    "occurrences": [
+      [
+        998,
+        "01:14:17.820000",
+        "01:14:19.822000",
+        "Repeat, officer down at the corner of Water and Frontage."
+      ],
+      [
+        1153,
+        "01:25:17.313000",
+        "01:25:20.089000",
+        "Shots fired. Officer down."
+      ],
+      [
+        1240,
+        "01:36:18.573000",
+        "01:36:23.852000",
+        "Another officer down"
+      ]
+    ],
+    "regex": "\\b((?!\\bOfficer\\ Down:)Officer\\ Down)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

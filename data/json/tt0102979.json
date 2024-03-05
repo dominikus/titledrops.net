@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0102979",
+    "title": "Stepping Out",
+    "year": 1991,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "count": 4,
+    "all_lines": 1834,
+    "occurrences": [
+      [
+        1798,
+        "01:38:36.311000",
+        "01:38:41.381000",
+        "P when I should be stepping out?"
+      ],
+      [
+        1800,
+        "01:38:52.360000",
+        "01:38:57.463000",
+        "P who might take me stepping out?"
+      ],
+      [
+        1813,
+        "01:39:52.687000",
+        "01:39:55.221000",
+        "P I'm stepping out"
+      ],
+      [
+        1827,
+        "01:41:21.242000",
+        "01:41:23.609000",
+        "P I'm stepping out P"
+      ]
+    ],
+    "regex": "\\b((?!\\bStepping\\ Out:)Stepping\\ Out)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

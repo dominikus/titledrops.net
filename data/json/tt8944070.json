@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt8944070",
+    "title": "Creature from Cannibal Creek",
+    "year": 2019,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1184,
+    "occurrences": [
+      [
+        1144,
+        "01:18:31.691000",
+        "01:18:36.691000",
+        "And the Creature from Cannibal Creek"
+      ],
+      [
+        1156,
+        "01:19:27.229000",
+        "01:19:32.229000",
+        "And the Creature from Cannibal Creek"
+      ]
+    ],
+    "regex": "\\b((?!\\bCreature\\ from\\ Cannibal\\ Creek:)Creature\\ from\\ Cannibal\\ Creek)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.5
+  }
+]

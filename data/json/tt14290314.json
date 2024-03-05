@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt14290314",
+    "title": "Simon Daniel",
+    "year": 2022,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 777,
+    "occurrences": [
+      [
+        239,
+        "00:27:56.720000",
+        "00:27:58.719000",
+        "Simon Daniel."
+      ],
+      [
+        559,
+        "01:07:07.040000",
+        "01:07:09.919000",
+        "So Mr. Simon Daniel, we are going to be housemates."
+      ]
+    ],
+    "regex": "\\b((?!\\bSimon\\ Daniel:)Simon\\ Daniel)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

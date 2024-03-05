@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0484039",
+    "title": "Glue",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 591,
+    "occurrences": [
+      [
+        352,
+        "00:53:38.600000",
+        "00:53:40.875000",
+        "I've got a glue lollypop."
+      ],
+      [
+        376,
+        "01:02:50.440000",
+        "01:02:54.069000",
+        "Looks like you sniffed all my glue."
+      ],
+      [
+        395,
+        "01:04:27.720000",
+        "01:04:31.156000",
+        "How do we clean up the glue? - Don't know. We'll find out."
+      ]
+    ],
+    "regex": "\\b((?!\\bGlue:)Glue)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

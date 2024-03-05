@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0132160",
+    "title": "The First of May",
+    "year": 1999,
+    "genres": [
+      "Drama",
+      "Family",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 1299,
+    "occurrences": [
+      [
+        89,
+        "00:10:03.144000",
+        "00:10:05.021000",
+        "Do not quit your day job first of May."
+      ],
+      [
+        791,
+        "00:56:08.114000",
+        "00:56:13.036000",
+        "I hire an elderly lady, and a first of May."
+      ],
+      [
+        795,
+        "00:57:21.229000",
+        "00:57:24.858000",
+        "No, you do not act like a pig on your first day, first of may."
+      ],
+      [
+        1206,
+        "01:36:25.654000",
+        "01:36:33.245000",
+        "Oh, Hello my first of May."
+      ]
+    ],
+    "regex": "\\b((?!\\bFirst\\ of\\ May:)First\\ of\\ May)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

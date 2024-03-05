@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0079482",
+    "title": "Long Weekend",
+    "year": 1978,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 499,
+    "occurrences": [
+      [
+        73,
+        "00:11:40.368000",
+        "00:11:42.979000",
+        "Bit quiet for a long weekend, isn't it?"
+      ],
+      [
+        434,
+        "01:00:27.344000",
+        "01:00:29.739000",
+        "Long weekend, sugar."
+      ]
+    ],
+    "regex": "\\b((?!\\bLong\\ Weekend:)Long\\ Weekend)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

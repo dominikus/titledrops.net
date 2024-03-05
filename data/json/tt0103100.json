@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0103100",
+    "title": "Too Much Sun",
+    "year": 1990,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1482,
+    "occurrences": [
+      [
+        1450,
+        "01:35:37.831000",
+        "01:35:39.934000",
+        "I've had too much sun"
+      ],
+      [
+        1452,
+        "01:35:44.605000",
+        "01:35:46.706000",
+        "Too much sun"
+      ],
+      [
+        1459,
+        "01:36:14.968000",
+        "01:36:18.405000",
+        "I've had too much sun"
+      ],
+      [
+        1461,
+        "01:36:21.842000",
+        "01:36:24.311000",
+        "Too much sun"
+      ],
+      [
+        1479,
+        "01:37:30.944000",
+        "01:37:33.214000",
+        "Too much sun"
+      ]
+    ],
+    "regex": "\\b((?!\\bToo\\ Much\\ Sun:)Too\\ Much\\ Sun)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

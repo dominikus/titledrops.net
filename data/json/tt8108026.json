@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt8108026",
+    "title": "CineMagia: A História das Videolocadoras de São Paulo",
+    "year": 2017,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1375,
+    "occurrences": [
+      [
+        1322,
+        "01:29:00.802000",
+        "01:29:05.603000",
+        "This is the last time we use the name CineMagia."
+      ],
+      [
+        1325,
+        "01:29:11.779000",
+        "01:29:17.411000",
+        "I found CineMagia because when I was pregnant 12 years ago..."
+      ]
+    ],
+    "regex": "\\b((?!\\bCineMagia:)CineMagia|(?!\\bHistoria\\ das\\ Videolocadoras\\ de\\ Sao\\ Paulo:)Historia\\ das\\ Videolocadoras\\ de\\ Sao\\ Paulo)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

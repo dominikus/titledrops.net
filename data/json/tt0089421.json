@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0089421",
+    "title": "King Solomon's Mines",
+    "year": 1985,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 805,
+    "occurrences": [
+      [
+        124,
+        "00:13:10.480000",
+        "00:13:13.313000",
+        "To king solomon's mines."
+      ],
+      [
+        332,
+        "00:35:43.280000",
+        "00:35:47.353000",
+        "My whole life has been spent searching for king solomon's mines."
+      ],
+      [
+        542,
+        "00:58:05.160000",
+        "00:58:09.597000",
+        "Another tribe that legend says guards the way to king solomon's mines."
+      ]
+    ],
+    "regex": "\\b((?!\\bKing\\ Solomon's\\ Mines:)King\\ Solomon's\\ Mines)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

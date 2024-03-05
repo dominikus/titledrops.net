@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt2584384",
+    "title": "Jojo Rabbit",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "count": 5,
+    "all_lines": 1356,
+    "occurrences": [
+      [
+        186,
+        "00:12:07.037000",
+        "00:12:09.744000",
+        "Jojo Rabbit."
+      ],
+      [
+        226,
+        "00:14:06.429000",
+        "00:14:07.952000",
+        "Jojo Rabbit!"
+      ],
+      [
+        227,
+        "00:14:08.100000",
+        "00:14:09.710000",
+        "Hunting carrots, Jojo Rabbit!"
+      ],
+      [
+        306,
+        "00:20:50.256000",
+        "00:20:54.394000",
+        "Hey, Jojo Rabbit! Look at your face."
+      ],
+      [
+        308,
+        "00:21:02.215000",
+        "00:21:05.326000",
+        "Jojo Rabbit!"
+      ]
+    ],
+    "regex": "\\b((?!\\bJojo\\ Rabbit:)Jojo\\ Rabbit)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

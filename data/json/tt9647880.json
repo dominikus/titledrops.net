@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt9647880",
+    "title": "Weekend Warriors",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1576,
+    "occurrences": [
+      [
+        560,
+        "00:25:12.378000",
+        "00:25:14.293000",
+        "It is Weekend Warriors."
+      ],
+      [
+        997,
+        "00:55:21.185000",
+        "00:55:23.405000",
+        "Yeah, they call themselves the Weekend Warriors."
+      ]
+    ],
+    "regex": "\\b((?!\\bWeekend\\ Warriors:)Weekend\\ Warriors)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0092548",
+    "title": "American Ninja 2: The Confrontation",
+    "year": 1987,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 657,
+    "occurrences": [
+      [
+        399,
+        "00:43:43.520000",
+        "00:43:46.990000",
+        "The girI escaped. That damn American ninja."
+      ],
+      [
+        588,
+        "01:10:41.240000",
+        "01:10:44.391000",
+        "(Burke) American ninja, I presume."
+      ]
+    ],
+    "regex": "\\b((?!\\bAmerican\\ Ninja:)American\\ Ninja|(?!\\bConfrontation:)Confrontation)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

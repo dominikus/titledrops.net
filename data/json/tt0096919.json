@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0096919",
+    "title": "Beyond Dream's Door",
+    "year": 1989,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1121,
+    "occurrences": [
+      [
+        712,
+        "00:46:02.842000",
+        "00:46:05.845000",
+        "-  Beyond dream's door is where horror lies."
+      ],
+      [
+        719,
+        "00:46:22.570000",
+        "00:46:24.780000",
+        "Beyond dream's door, tomorrow dies."
+      ],
+      [
+        1115,
+        "01:15:32.861000",
+        "01:15:35.655000",
+        "Beyond dream's door where horror lies."
+      ]
+    ],
+    "regex": "\\b((?!\\bBeyond\\ Dream's\\ Door:)Beyond\\ Dream's\\ Door)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

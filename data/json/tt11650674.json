@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt11650674",
+    "title": "Ouija Shark",
+    "year": 2020,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 988,
+    "occurrences": [
+      [
+        937,
+        "01:02:56.938000",
+        "01:02:59.572000",
+        "Prepare phase two of Operation Ouija Shark."
+      ],
+      [
+        953,
+        "01:04:13.714000",
+        "01:04:18.520000",
+        "It's the Ouija Shark"
+      ],
+      [
+        964,
+        "01:04:39.708000",
+        "01:04:44.714000",
+        "It's the Ouija Shark"
+      ],
+      [
+        984,
+        "01:05:46.674000",
+        "01:05:50.811000",
+        "It's the Ouija Shark"
+      ]
+    ],
+    "regex": "\\b((?!\\bOuija\\ Shark:)Ouija\\ Shark)(?!\\:)(?!'t)\\b",
+    "runtime": 71,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 1.9
+  }
+]

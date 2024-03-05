@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0212742",
+    "title": "After Alice",
+    "year": 2000,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1216,
+    "occurrences": [
+      [
+        5,
+        "00:01:25.419000",
+        "00:01:31.133000",
+        "\"Eye of the Killer (After Alice)\" mystery-psycho-thriller,2000"
+      ],
+      [
+        1073,
+        "01:23:03.912000",
+        "01:23:05.971000",
+        "Tell him I'm going after Alice."
+      ],
+      [
+        1085,
+        "01:24:08.944000",
+        "01:24:11.640000",
+        "- Where did she go? - Said she was going after Alice."
+      ]
+    ],
+    "regex": "\\b((?!\\bAfter\\ Alice:)After\\ Alice)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

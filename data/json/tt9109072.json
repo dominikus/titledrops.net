@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt9109072",
+    "title": "Knuckledust",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1575,
+    "occurrences": [
+      [
+        535,
+        "00:37:30.204000",
+        "00:37:33.842000",
+        "Serena Marcos and her associates at Club Knuckledust"
+      ],
+      [
+        931,
+        "01:00:50.570000",
+        "01:00:53.440000",
+        "This is the final stop on the Knuckledust tour."
+      ],
+      [
+        943,
+        "01:01:21.934000",
+        "01:01:26.340000",
+        "It's the one rule we all live by in the Knuckledust family."
+      ],
+      [
+        1400,
+        "01:32:53.425000",
+        "01:32:56.895000",
+        "It's the one rule we all live by at the Knuckledust family."
+      ],
+      [
+        1413,
+        "01:33:35.801000",
+        "01:33:37.336000",
+        "I run Club Knuckledust with..."
+      ]
+    ],
+    "regex": "\\b((?!\\bKnuckledust:)Knuckledust)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

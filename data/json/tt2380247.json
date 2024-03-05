@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2380247",
+    "title": "The Central Park Five",
+    "year": 2012,
+    "genres": [
+      "Crime",
+      "Documentary",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 2080,
+    "occurrences": [
+      [
+        1305,
+        "01:09:58.922000",
+        "01:10:03.361000",
+        "was no DNA match to these young Central Park Five."
+      ],
+      [
+        1893,
+        "01:43:55.435000",
+        "01:43:57.885000",
+        "Why are we here? The Central Park five!"
+      ],
+      [
+        1894,
+        "01:43:57.905000",
+        "01:44:00.521000",
+        "Why are we here? The Central Park five!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCentral\\ Park\\ Five:)Central\\ Park\\ Five)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0080787",
+    "title": "The Ghost Dance",
+    "year": 1982,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 803,
+    "occurrences": [
+      [
+        111,
+        "00:17:54.173000",
+        "00:17:56.975000",
+        "the emergence of the ghost dance cult."
+      ],
+      [
+        119,
+        "00:18:26.205000",
+        "00:18:30.909000",
+        "and the old Indian beliefs called the Ghost Dance Religion."
+      ],
+      [
+        158,
+        "00:20:13.345000",
+        "00:20:14.780000",
+        "of the Ghost Dance ritual."
+      ],
+      [
+        170,
+        "00:20:40.606000",
+        "00:20:41.807000",
+        "- I'm afraid even the Ghost Dance couldn't bring you"
+      ],
+      [
+        174,
+        "00:20:51.016000",
+        "00:20:54.753000",
+        "the Ghost Dance cult presented a marvelous new world"
+      ],
+      [
+        492,
+        "00:51:02.859000",
+        "00:51:05.595000",
+        "And it seems that at the time of the Ghost Dance"
+      ]
+    ],
+    "regex": "\\b((?!\\bGhost\\ Dance:)Ghost\\ Dance)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

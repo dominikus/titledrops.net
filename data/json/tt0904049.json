@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0904049",
+    "title": "Exte: Hair Extensions",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 656,
+    "occurrences": [
+      [
+        36,
+        "00:01:52.185000",
+        "00:01:53.982000",
+        "Materials for hair extensions."
+      ],
+      [
+        175,
+        "00:11:39.138000",
+        "00:11:41.504000",
+        "From the cargo container? Hair extensions?"
+      ],
+      [
+        577,
+        "00:50:31.468000",
+        "00:50:32.569000",
+        "Oh! Hair extensions, right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bExte:)Exte|(?!\\bHair\\ Extensions:)Hair\\ Extensions)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

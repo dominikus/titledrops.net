@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2094018",
+    "title": "Hours",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 842,
+    "occurrences": [
+      [
+        80,
+        "00:08:10.523000",
+        "00:08:14.015000",
+        "Your daughter? The best guess is... 48 hours."
+      ],
+      [
+        451,
+        "00:42:57.207000",
+        "00:42:58.572000",
+        "I gotta put in my hours."
+      ],
+      [
+        780,
+        "01:22:52.801000",
+        "01:22:57.397000",
+        "Doctor said 48 hours, so that shouId be pretty soon."
+      ]
+    ],
+    "regex": "\\b((?!\\bHours:)Hours)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

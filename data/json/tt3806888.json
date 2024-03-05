@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt3806888",
+    "title": "HeavySaurus: The Movie",
+    "year": 2015,
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Music"
+    ],
+    "count": 1,
+    "all_lines": 938,
+    "occurrences": [
+      [
+        204,
+        "00:18:19.557000",
+        "00:18:23.520000",
+        "Can you get the cookies? I already put the movie on."
+      ]
+    ],
+    "regex": "\\b((?!\\bHeavySaurus:)HeavySaurus|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

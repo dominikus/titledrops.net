@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0104788",
+    "title": "The Fencing Master",
+    "year": 1992,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "History"
+    ],
+    "count": 6,
+    "all_lines": 911,
+    "occurrences": [
+      [
+        99,
+        "00:08:18.351000",
+        "00:08:21.190000",
+        "You are the best fencing master in Madrid."
+      ],
+      [
+        261,
+        "00:22:41.543000",
+        "00:22:43.523000",
+        "...to know the name of your fencing master."
+      ],
+      [
+        288,
+        "00:24:56.534000",
+        "00:24:59.313000",
+        "...the Italian fencing master Capoferrato..."
+      ],
+      [
+        566,
+        "00:50:50.805000",
+        "00:50:52.515000",
+        "Sir, it's the fencing master."
+      ],
+      [
+        569,
+        "00:50:59.113000",
+        "00:51:01.813000",
+        "Jaime de Astarloa, fencing master."
+      ],
+      [
+        787,
+        "01:08:23",
+        "01:08:25.125000",
+        "...and the fencing master will be no more."
+      ]
+    ],
+    "regex": "\\b((?!\\bFencing\\ Master:)Fencing\\ Master)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

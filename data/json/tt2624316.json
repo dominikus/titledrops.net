@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2624316",
+    "title": "Lose Your Head",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 701,
+    "occurrences": [
+      [
+        67,
+        "00:09:41.240000",
+        "00:09:43.151000",
+        "You're gonna lose your head."
+      ],
+      [
+        350,
+        "00:54:12.160000",
+        "00:54:14.071000",
+        "You're gonna lose your head."
+      ]
+    ],
+    "regex": "\\b((?!\\bLose\\ Your\\ Head:)Lose\\ Your\\ Head)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt21279138",
+    "title": "Maid in Malacañang",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1592,
+    "occurrences": [
+      [
+        1223,
+        "01:16:31.929000",
+        "01:16:36.183000",
+        "Chapter Eight: Maid in Malacanang"
+      ],
+      [
+        1283,
+        "01:21:16.833000",
+        "01:21:19.127000",
+        "maid in Malacanang."
+      ]
+    ],
+    "regex": "\\b((?!\\bMaid\\ in\\ Malacanang:)Maid\\ in\\ Malacanang)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

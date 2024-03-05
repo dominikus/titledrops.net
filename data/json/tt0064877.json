@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0064877",
+    "title": "The Ravine",
+    "year": 1969,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 361,
+    "occurrences": [
+      [
+        0,
+        "00:00:18.924000",
+        "00:00:23.476000",
+        "The Ravine (The Capture)"
+      ],
+      [
+        95,
+        "00:10:17.864000",
+        "00:10:19.798000",
+        "What is this ravine like?"
+      ],
+      [
+        110,
+        "00:11:12.129000",
+        "00:11:14.840000",
+        "You'll notice when you get to the ravine."
+      ],
+      [
+        150,
+        "00:15:30.792000",
+        "00:15:33.521000",
+        "I heard that he entered the ravine today."
+      ]
+    ],
+    "regex": "\\b((?!\\bRavine:)Ravine)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5829032",
+    "title": "Camp Cold Brook",
+    "year": 2018,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1082,
+    "occurrences": [
+      [
+        458,
+        "00:30:50.217000",
+        "00:30:55.189000",
+        "We are deep in the woods of Oklahoma, Camp Cold Brook."
+      ],
+      [
+        490,
+        "00:34:18.560000",
+        "00:34:23.565000",
+        "But just another tragic mystery here at Camp Cold Brook."
+      ]
+    ],
+    "regex": "\\b((?!\\bCamp\\ Cold\\ Brook:)Camp\\ Cold\\ Brook)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

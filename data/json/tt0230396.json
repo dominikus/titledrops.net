@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0230396",
+    "title": "The Iron Crown",
+    "year": 1972,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 401,
+    "occurrences": [
+      [
+        98,
+        "00:35:43.810000",
+        "00:35:47.900000",
+        "Put an iron crown on your head."
+      ],
+      [
+        227,
+        "01:00:34.700000",
+        "01:00:47.900000",
+        "of the iron crown..."
+      ]
+    ],
+    "regex": "\\b((?!\\bIron\\ Crown:)Iron\\ Crown)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt5255524",
+    "title": "Traded",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "count": 7,
+    "all_lines": 1062,
+    "occurrences": [
+      [
+        8,
+        "00:00:34.065000",
+        "00:00:37.803000",
+        "women are bought, sold and traded like property."
+      ],
+      [
+        534,
+        "00:48:09.519000",
+        "00:48:11.421000",
+        "I traded her!"
+      ],
+      [
+        535,
+        "00:48:12.555000",
+        "00:48:13.856000",
+        "You traded my daughter?"
+      ],
+      [
+        536,
+        "00:48:13.923000",
+        "00:48:14.890000",
+        "That's right, I traded her."
+      ],
+      [
+        537,
+        "00:48:14.956000",
+        "00:48:16.025000",
+        "Traded her for what?"
+      ],
+      [
+        538,
+        "00:48:16.090000",
+        "00:48:18.961000",
+        "I traded her for that fuckin' bell!"
+      ],
+      [
+        539,
+        "00:48:20.496000",
+        "00:48:23.032000",
+        "You traded my daughter for a goddamn bell?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTraded:)Traded)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

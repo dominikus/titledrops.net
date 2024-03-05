@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5834262",
+    "title": "Hotel Artemis",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1659,
+    "occurrences": [
+      [
+        369,
+        "00:16:00.759000",
+        "00:16:03.026000",
+        "Hotel Artemis is a great place to hide."
+      ],
+      [
+        629,
+        "00:28:13.920000",
+        "00:28:17.053000",
+        "It says Hotel Artemis. Get me a fucking helicopter!"
+      ]
+    ],
+    "regex": "\\b((?!\\bHotel\\ Artemis:)Hotel\\ Artemis)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

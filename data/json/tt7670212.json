@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7670212",
+    "title": "The Golden Glove",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 807,
+    "occurrences": [
+      [
+        6,
+        "00:10:10.360000",
+        "00:10:14.024000",
+        "SHE WAS LAST SEEN IN THE \"GOLDEN GLOVE\" BAR"
+      ],
+      [
+        754,
+        "01:37:41.439000",
+        "01:37:43.806000",
+        "In the \"Golden Glove\"? - Yeah."
+      ]
+    ],
+    "regex": "\\b((?!\\bGolden\\ Glove:)Golden\\ Glove)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

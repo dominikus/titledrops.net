@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1093836",
+    "title": "Lou Reed: Berlin",
+    "year": 2007,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 515,
+    "occurrences": [
+      [
+        0,
+        "00:00:14.422000",
+        "00:00:16.413000",
+        "LOU REED grabo el album \"Berlin\" en 1973."
+      ],
+      [
+        4,
+        "00:00:24.065000",
+        "00:00:26.727000",
+        "Lou Reed toco su obra maestra acerca del lado oscuro del amor:"
+      ],
+      [
+        26,
+        "00:04:16.218000",
+        "00:04:18.049000",
+        "In Berlin"
+      ]
+    ],
+    "regex": "\\b((?!\\bLou\\ Reed:)Lou\\ Reed|(?!\\bBerlin:)Berlin)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

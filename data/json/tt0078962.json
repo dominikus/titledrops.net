@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0078962",
+    "title": "The Horse of Pride",
+    "year": 1980,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 687,
+    "occurrences": [
+      [
+        2,
+        "00:00:37.930000",
+        "00:00:42.180000",
+        "We're too poor for one like that, but we have the horse of pride."
+      ],
+      [
+        6,
+        "00:00:52.680000",
+        "00:00:56.480000",
+        "HORSE OF PRIDE"
+      ],
+      [
+        8,
+        "00:02:02.960000",
+        "00:02:07.080000",
+        "We're too poor for one like that, but we have the horse of pride."
+      ],
+      [
+        312,
+        "00:47:36.490000",
+        "00:47:38.990000",
+        "Can the horse of pride see the black horse?"
+      ],
+      [
+        313,
+        "00:47:39.150000",
+        "00:47:40.990000",
+        "The black horse shall meet the horse of pride."
+      ]
+    ],
+    "regex": "\\b((?!\\bHorse\\ of\\ Pride:)Horse\\ of\\ Pride)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

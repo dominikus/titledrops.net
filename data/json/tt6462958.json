@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt6462958",
+    "title": "I Want You Back",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 2759,
+    "occurrences": [
+      [
+        897,
+        "00:35:45.083000",
+        "00:35:47.250000",
+        "(\"I Want You Back\" by David Ruffin playing)"
+      ],
+      [
+        918,
+        "00:36:34.625000",
+        "00:36:35.625000",
+        "I want you back..."
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Want\\ You\\ Back:)I\\ Want\\ You\\ Back)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0057129",
+    "title": "The Haunting",
+    "year": 1963,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1439,
+    "occurrences": [
+      [
+        1040,
+        "01:12:02.564000",
+        "01:12:04.600000",
+        "Every cursed bit of the haunting."
+      ],
+      [
+        1041,
+        "01:12:07.284000",
+        "01:12:09.593000",
+        "Suppose the haunting is all in my mind."
+      ]
+    ],
+    "regex": "\\b((?!\\bHaunting:)Haunting)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

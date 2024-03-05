@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1029234",
+    "title": "Martyrs",
+    "year": 2008,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 665,
+    "occurrences": [
+      [
+        497,
+        "01:03:08.451000",
+        "01:03:10.660000",
+        "Martyrs are very rare."
+      ],
+      [
+        499,
+        "01:03:15.369000",
+        "01:03:17.661000",
+        "Martyrs are extraordinary beings."
+      ]
+    ],
+    "regex": "\\b((?!\\bMartyrs:)Martyrs)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

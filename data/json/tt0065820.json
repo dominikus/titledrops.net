@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0065820",
+    "title": "The Hawaiians",
+    "year": 1970,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1039,
+    "occurrences": [
+      [
+        703,
+        "01:35:44.040000",
+        "01:35:46.190000",
+        "To anyone, except Hawaiians."
+      ],
+      [
+        811,
+        "01:45:32.520000",
+        "01:45:34.636000",
+        "The Hawaiians think he was a hell of a fellow."
+      ],
+      [
+        812,
+        "01:45:34.920000",
+        "01:45:37.354000",
+        "How many Hawaiians have forgiven you, father?"
+      ],
+      [
+        958,
+        "01:58:17.440000",
+        "01:58:20.876000",
+        "First at the expense of the Hawaiians and now the Chinese."
+      ]
+    ],
+    "regex": "\\b((?!\\bHawaiians:)Hawaiians)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

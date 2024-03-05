@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0370561",
+    "title": "February",
+    "year": 2003,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 620,
+    "occurrences": [
+      [
+        43,
+        "00:05:33.110000",
+        "00:05:41.779000",
+        "Don't forget... your operation is in February."
+      ],
+      [
+        295,
+        "00:49:40.710000",
+        "00:49:42.746000",
+        "This coming February."
+      ],
+      [
+        438,
+        "01:09:04.350000",
+        "01:09:07.740000",
+        "Can you complete this by February?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFebruary:)February)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

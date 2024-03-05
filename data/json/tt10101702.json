@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt10101702",
+    "title": "My Little Pony: A New Generation",
+    "year": 2021,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 1,
+    "all_lines": 1721,
+    "occurrences": [
+      [
+        120,
+        "00:06:11.125000",
+        "00:06:12.791000",
+        "Goodnight, my little pony."
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Little\\ Pony:)My\\ Little\\ Pony|(?!\\bNew\\ Generation:)New\\ Generation)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

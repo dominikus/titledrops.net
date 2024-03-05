@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0303326",
+    "title": "Derrida",
+    "year": 2002,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 571,
+    "occurrences": [
+      [
+        1,
+        "00:02:44.205000",
+        "00:02:47.571000",
+        "we look at the French philosopherJacques Derrida..."
+      ],
+      [
+        476,
+        "01:12:26.101000",
+        "01:12:30.367000",
+        "This is the entire Derrida archive..."
+      ]
+    ],
+    "regex": "\\b((?!\\bDerrida:)Derrida)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt6025224",
+    "title": "Dwaraka",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1942,
+    "occurrences": [
+      [
+        393,
+        "00:31:19.940000",
+        "00:31:22.540000",
+        "He descended to Earth straight from Dwaraka."
+      ],
+      [
+        970,
+        "01:10:11.660000",
+        "01:10:19.100000",
+        "But as a messenger of God, Saint Krishnananda has visited us from Dwaraka."
+      ],
+      [
+        1012,
+        "01:13:38.540000",
+        "01:13:40.820000",
+        "He announced he's a thief in his hermitage 'Dwaraka'."
+      ],
+      [
+        1552,
+        "01:47:03.620000",
+        "01:47:08.220000",
+        "Here's Dwaraka lustring in your presence"
+      ]
+    ],
+    "regex": "\\b((?!\\bDwaraka:)Dwaraka)(?!\\:)(?!'t)\\b",
+    "runtime": 143,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

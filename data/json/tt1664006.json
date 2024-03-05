@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1664006",
+    "title": "One Week Job",
+    "year": 2010,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1763,
+    "occurrences": [
+      [
+        726,
+        "00:29:23.328000",
+        "00:29:24.955000",
+        "the halfway point of One Week Job,"
+      ],
+      [
+        790,
+        "00:31:50.275000",
+        "00:31:52.835000",
+        "with different one week job offers throughout the States,"
+      ],
+      [
+        1481,
+        "01:00:37.500000",
+        "01:00:40.765000",
+        "and the one week job project started in Hawaii."
+      ],
+      [
+        1733,
+        "01:13:04.580000",
+        "01:13:07.310000",
+        "Ultimately, by starting the one week job project,"
+      ]
+    ],
+    "regex": "\\b((?!\\bOne\\ Week\\ Job:)One\\ Week\\ Job)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

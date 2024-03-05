@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0054244",
+    "title": "The Risk",
+    "year": 1960,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1327,
+    "occurrences": [
+      [
+        244,
+        "00:14:16.629000",
+        "00:14:18.193000",
+        "I'd say it's a reasonable risk"
+      ],
+      [
+        391,
+        "00:21:36.660000",
+        "00:21:38.948000",
+        "Aren't you taking rather a risk leaving me at large?"
+      ],
+      [
+        392,
+        "00:21:39.492000",
+        "00:21:43.243000",
+        "Risk? Oh,that.Oh no you couldn't publish"
+      ],
+      [
+        396,
+        "00:21:59.008000",
+        "00:22:02.080000",
+        "He is not convinced, as long as he is not convinced,he is a risk"
+      ]
+    ],
+    "regex": "\\b((?!\\bRisk:)Risk)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

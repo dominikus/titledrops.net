@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1229340",
+    "title": "Anchorman 2: The Legend Continues",
+    "year": 2013,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 2597,
+    "occurrences": [
+      [
+        102,
+        "00:05:31.597000",
+        "00:05:34.966000",
+        "You are the worst anchorman"
+      ],
+      [
+        1873,
+        "01:22:52.268000",
+        "01:22:55.135000",
+        "Milton, I'm an anchorman."
+      ]
+    ],
+    "regex": "\\b((?!\\bAnchorman:)Anchorman|(?!\\bLegend\\ Continues:)Legend\\ Continues)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0056345",
+    "title": "Hitch-Hike",
+    "year": 1962,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1181,
+    "occurrences": [
+      [
+        0,
+        "00:01:02.760000",
+        "00:01:07.440000",
+        "HITCHHIKE"
+      ],
+      [
+        553,
+        "00:40:36.040000",
+        "00:40:39.340000",
+        "I didn't know I needed one to hitchhike!"
+      ]
+    ],
+    "regex": "\\b((?!\\bHitchHike:)HitchHike)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1340421",
+    "title": "Camping",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 618,
+    "occurrences": [
+      [
+        25,
+        "00:02:48.622000",
+        "00:02:51.534000",
+        "Mom is now ready to go camping again."
+      ],
+      [
+        81,
+        "00:09:47.342000",
+        "00:09:51.381000",
+        "He who had gone before them on the eternal camping trip."
+      ],
+      [
+        141,
+        "00:16:30.381000",
+        "00:16:33.180000",
+        "There must be tons of nice men on the camping site."
+      ],
+      [
+        142,
+        "00:16:33.342000",
+        "00:16:36.698000",
+        "It's a camping site! They're all drunk and overweight."
+      ],
+      [
+        612,
+        "01:11:15.742000",
+        "01:11:18.654000",
+        "And that was the end of camping for us."
+      ]
+    ],
+    "regex": "\\b((?!\\bCamping:)Camping)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

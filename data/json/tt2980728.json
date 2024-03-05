@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2980728",
+    "title": "Touch the Wall",
+    "year": 2014,
+    "genres": [
+      "Documentary",
+      "Family",
+      "Sport"
+    ],
+    "count": 3,
+    "all_lines": 1957,
+    "occurrences": [
+      [
+        53,
+        "00:03:25.955000",
+        "00:03:28.374000",
+        "and your goal is to touch the wall before anybody else."
+      ],
+      [
+        531,
+        "00:27:30.023000",
+        "00:27:32.484000",
+        "and your goal is to touch the wall before anybody else."
+      ],
+      [
+        1167,
+        "00:58:19.454000",
+        "00:58:24.084000",
+        "- I'm gonna touch the wall. - Yeah."
+      ]
+    ],
+    "regex": "\\b((?!\\bTouch\\ the\\ Wall:)Touch\\ the\\ Wall)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

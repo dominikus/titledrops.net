@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3985956",
+    "title": "Hercules",
+    "year": 2014,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1281,
+    "occurrences": [
+      [
+        155,
+        "00:14:46.534000",
+        "00:14:50.568000",
+        "Hey it's Hercules."
+      ],
+      [
+        308,
+        "00:24:34.576000",
+        "00:24:36.977000",
+        "Hercules!"
+      ],
+      [
+        613,
+        "00:55:10.446000",
+        "00:55:13.758000",
+        "Do you think you've become Hercules after slapping Sujit?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHercules:)Hercules)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

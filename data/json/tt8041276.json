@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt8041276",
+    "title": "Paddleton",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1304,
+    "occurrences": [
+      [
+        213,
+        "00:14:26.240000",
+        "00:14:27.741000",
+        "I want to play some Paddleton."
+      ],
+      [
+        1287,
+        "01:23:44.769000",
+        "01:23:46.813000",
+        "- Yeah. - You ever play Paddleton?"
+      ],
+      [
+        1288,
+        "01:23:47.272000",
+        "01:23:48.857000",
+        "- Paddleton? - Yeah."
+      ]
+    ],
+    "regex": "\\b((?!\\bPaddleton:)Paddleton)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

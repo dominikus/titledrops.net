@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt8622348",
+    "title": "Survival Skills",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1025,
+    "occurrences": [
+      [
+        11,
+        "00:01:30.738000",
+        "00:01:35.311000",
+        "Hello and welcome to Survival Skills,"
+      ],
+      [
+        32,
+        "00:02:52.521000",
+        "00:02:56.492000",
+        "But at the end of it you will have learned some valuable survival skills."
+      ]
+    ],
+    "regex": "\\b((?!\\bSurvival\\ Skills:)Survival\\ Skills)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

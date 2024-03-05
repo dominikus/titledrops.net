@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0113576",
+    "title": "Kristin Lavransdatter",
+    "year": 1995,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 453,
+    "occurrences": [
+      [
+        223,
+        "00:40:27.800000",
+        "00:40:32.400000",
+        "This is Kristin Lavransdatter whom we told you about."
+      ],
+      [
+        231,
+        "00:41:08.680000",
+        "00:41:11.680000",
+        "Welcome to the convent, Kristin Lavransdatter."
+      ],
+      [
+        261,
+        "00:50:41.800000",
+        "00:50:46.880000",
+        "Will you dance with me tonight, Kristin Lavransdatter?"
+      ],
+      [
+        267,
+        "00:52:02.400000",
+        "00:52:07.080000",
+        "I am Kristin Lavransdatter from Jorundgard."
+      ]
+    ],
+    "regex": "\\b((?!\\bKristin\\ Lavransdatter:)Kristin\\ Lavransdatter)(?!\\:)(?!'t)\\b",
+    "runtime": 180,
+    "characters": [
+      "Kristin Lavransdatter"
+    ],
+    "title_is_name": true,
+    "rating": 4.5
+  }
+]

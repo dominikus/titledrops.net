@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt7825076",
+    "title": "The Stalking Fields",
+    "year": 2022,
+    "genres": [
+      "Action"
+    ],
+    "count": 3,
+    "all_lines": 1263,
+    "occurrences": [
+      [
+        362,
+        "00:24:02.065000",
+        "00:24:05.168000",
+        "Welcome to the Stalking Fields Program"
+      ],
+      [
+        1234,
+        "01:22:55.031000",
+        "01:22:58.969000",
+        "You were the key to the true Stalking Fields Program."
+      ],
+      [
+        1249,
+        "01:23:54.757000",
+        "01:23:57.593000",
+        "to come back to the stalking fields."
+      ]
+    ],
+    "regex": "\\b((?!\\bStalking\\ Fields:)Stalking\\ Fields)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt10338176",
+    "title": "Christmas Time",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1458,
+    "occurrences": [
+      [
+        962,
+        "00:59:09.550000",
+        "00:59:12.719000",
+        "Can you hear the sleigh bells it's Christmas time"
+      ],
+      [
+        1419,
+        "01:32:56.677000",
+        "01:32:58.479000",
+        "He's declared a new Christmas time tradition"
+      ]
+    ],
+    "regex": "\\b((?!\\bChristmas\\ Time:)Christmas\\ Time)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

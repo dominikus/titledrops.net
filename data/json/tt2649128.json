@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2649128",
+    "title": "Metro",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1192,
+    "occurrences": [
+      [
+        762,
+        "01:20:35.192000",
+        "01:20:38.024000",
+        "Citing information from employees of the Moscow Metro..."
+      ],
+      [
+        1138,
+        "01:59:58.039000",
+        "02:00:01.502000",
+        "Water rushes into Leningrad Metro's efforts to..."
+      ]
+    ],
+    "regex": "\\b((?!\\bMetro:)Metro)(?!\\:)(?!'t)\\b",
+    "runtime": 133,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

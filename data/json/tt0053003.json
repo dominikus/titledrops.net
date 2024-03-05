@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0053003",
+    "title": "Libel",
+    "year": 1959,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1386,
+    "occurrences": [
+      [
+        389,
+        "00:28:26.327000",
+        "00:28:29.224000",
+        "All right. Supposing I do sue for libel."
+      ],
+      [
+        409,
+        "00:29:44.330000",
+        "00:29:46.315000",
+        "Plaintiff claims damages for libel."
+      ],
+      [
+        512,
+        "00:36:14.910000",
+        "00:36:16.839000",
+        "in the publication of a gross libel"
+      ],
+      [
+        1328,
+        "01:34:17.592000",
+        "01:34:21.429000",
+        "Members of the jury. This case which began as a case for libel,"
+      ]
+    ],
+    "regex": "\\b((?!\\bLibel:)Libel)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

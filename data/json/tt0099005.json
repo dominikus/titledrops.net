@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0099005",
+    "title": "Air America",
+    "year": 1990,
+    "genres": [
+      "Action",
+      "Comedy",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 980,
+    "occurrences": [
+      [
+        77,
+        "00:09:42.767000",
+        "00:09:45.679000",
+        "Our outfit's called Air America. Strictly civilian."
+      ],
+      [
+        119,
+        "00:13:00.767000",
+        "00:13:05.158000",
+        "Psychotic behavior is company policy at Air America. I'm Gene Ryack."
+      ],
+      [
+        957,
+        "01:39:40.047000",
+        "01:39:42.959000",
+        "Good afternoon, ladies and gentlemen. Welcome aboard Air America Flight 1."
+      ]
+    ],
+    "regex": "\\b((?!\\bAir\\ America:)Air\\ America)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

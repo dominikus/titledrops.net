@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt8484942",
+    "title": "India's Most Wanted",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1333,
+    "occurrences": [
+      [
+        187,
+        "00:16:20.680000",
+        "00:16:22.640000",
+        "All of India's most wanted criminals"
+      ],
+      [
+        240,
+        "00:18:45.200000",
+        "00:18:48.400000",
+        "will nab India's most wanted?"
+      ],
+      [
+        965,
+        "01:15:42.720000",
+        "01:15:44.640000",
+        "He's India's most wanted, sir."
+      ],
+      [
+        1313,
+        "01:53:37.240000",
+        "01:53:41.960000",
+        "India's most wanted terrorist, Yusuf was arrested last night."
+      ],
+      [
+        1328,
+        "01:56:10.960000",
+        "01:56:13.920000",
+        "You can nab India's most wanted criminal."
+      ]
+    ],
+    "regex": "\\b((?!\\bIndia's\\ Most\\ Wanted:)India's\\ Most\\ Wanted)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

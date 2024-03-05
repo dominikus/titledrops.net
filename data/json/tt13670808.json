@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt13670808",
+    "title": "Dinosaur World",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1315,
+    "occurrences": [
+      [
+        81,
+        "00:05:32.311000",
+        "00:05:34.777000",
+        "\"Dinosaur World,\" is almost ready for release."
+      ],
+      [
+        88,
+        "00:05:49.336000",
+        "00:05:52.504000",
+        "Everyone is welcome to enter \"Dinosaur World.\""
+      ],
+      [
+        220,
+        "00:12:06.008000",
+        "00:12:08.537000",
+        "Welcome to \"Dinosaur World.\""
+      ],
+      [
+        816,
+        "00:43:02.776000",
+        "00:43:05.528000",
+        "We all wanted to be chosen to test \"Dinosaur World.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bDinosaur\\ World:)Dinosaur\\ World)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

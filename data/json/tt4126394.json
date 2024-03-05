@@ -1,0 +1,52 @@
+[
+  {
+    "imdb": "tt4126394",
+    "title": "Darling",
+    "year": 2015,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 286,
+    "occurrences": [
+      [
+        31,
+        "00:03:10.466000",
+        "00:03:12.300000",
+        "Darling."
+      ],
+      [
+        36,
+        "00:11:39.775000",
+        "00:11:41.641000",
+        "Darling, is that you?"
+      ],
+      [
+        222,
+        "01:03:21.287000",
+        "01:03:25.922000",
+        "Darling, I want you to listen to me very carefully."
+      ],
+      [
+        231,
+        "01:03:52.145000",
+        "01:03:53.845000",
+        "Darling?"
+      ],
+      [
+        246,
+        "01:04:51.225000",
+        "01:04:52.925000",
+        "Darling?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDarling:)Darling)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [
+      "Darling"
+    ],
+    "title_is_name": true,
+    "rating": 5.5
+  }
+]

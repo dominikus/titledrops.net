@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt8740898",
+    "title": "The Space Between",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 1595,
+    "occurrences": [
+      [
+        1133,
+        "01:08:14.998000",
+        "01:08:17.868000",
+        "The music is the space between."
+      ],
+      [
+        1141,
+        "01:08:49.365000",
+        "01:08:51.935000",
+        "Music is the space between."
+      ],
+      [
+        1144,
+        "01:09:01.344000",
+        "01:09:03.614000",
+        "Space between you and me."
+      ],
+      [
+        1410,
+        "01:24:04.779000",
+        "01:24:07.617000",
+        "The music is the space between."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpace\\ Between:)Space\\ Between)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0097289",
+    "title": "Erik the Viking",
+    "year": 1989,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 865,
+    "occurrences": [
+      [
+        79,
+        "00:10:20.680000",
+        "00:10:25.280000",
+        "Ah... Erik the Viking."
+      ],
+      [
+        80,
+        "00:10:26.280000",
+        "00:10:30.640000",
+        "What can you want with me, Erik the Viking?"
+      ],
+      [
+        812,
+        "01:20:27.080000",
+        "01:20:30.040000",
+        "Erik the Viking, the things you seek are not in our power."
+      ],
+      [
+        824,
+        "01:21:31.280000",
+        "01:21:35.280000",
+        "What right have you to try and stop men fighting, Erik the Viking?"
+      ]
+    ],
+    "regex": "\\b((?!\\bErik\\ the\\ Viking:)Erik\\ the\\ Viking)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

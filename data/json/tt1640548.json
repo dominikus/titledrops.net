@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1640548",
+    "title": "Rampart",
+    "year": 2011,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1330,
+    "occurrences": [
+      [
+        263,
+        "00:19:23.997000",
+        "00:19:25.969000",
+        "As opposed to the rampart scandal,"
+      ],
+      [
+        317,
+        "00:23:16.650000",
+        "00:23:18.090000",
+        "You know, Rampart has become.."
+      ],
+      [
+        420,
+        "00:29:02.810000",
+        "00:29:05.309000",
+        "But, this is Rampart..LAPD.."
+      ],
+      [
+        583,
+        "00:39:03.441000",
+        "00:39:05.468000",
+        "They are right back, at Rampart again."
+      ]
+    ],
+    "regex": "\\b((?!\\bRampart:)Rampart)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

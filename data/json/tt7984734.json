@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7984734",
+    "title": "The Lighthouse",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1175,
+    "occurrences": [
+      [
+        859,
+        "01:20:16.650000",
+        "01:20:18.717000",
+        "Send for the lighthouse establishment?"
+      ],
+      [
+        967,
+        "01:29:31.884000",
+        "01:29:35.017000",
+        "just 'cause you're a goddamned lighthouse keeper?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLighthouse:)Lighthouse)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

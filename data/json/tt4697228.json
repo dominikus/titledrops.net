@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4697228",
+    "title": "The Sitter",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 726,
+    "occurrences": [
+      [
+        39,
+        "00:03:26.575000",
+        "00:03:30.375000",
+        "and then find ourselves without a cat sitter."
+      ],
+      [
+        40,
+        "00:03:31.175000",
+        "00:03:35.733000",
+        "We're looking for the sitter to stay for three nights"
+      ]
+    ],
+    "regex": "\\b((?!\\bSitter:)Sitter)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

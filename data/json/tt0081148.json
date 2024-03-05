@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0081148",
+    "title": "Alexander the Great",
+    "year": 1980,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 6,
+    "all_lines": 263,
+    "occurrences": [
+      [
+        107,
+        "00:39:04.375000",
+        "00:39:05.967000",
+        "Alexander the Great."
+      ],
+      [
+        115,
+        "00:42:49.500000",
+        "00:42:57.600000",
+        "My Alexander the Great, you are the wind."
+      ],
+      [
+        119,
+        "00:43:27.605000",
+        "00:43:35.876000",
+        "My Alexander the Great, you are the sun."
+      ],
+      [
+        122,
+        "00:44:07.311000",
+        "00:44:15.309000",
+        "My Alexander the Great, you are the flame."
+      ],
+      [
+        219,
+        "01:36:09.830000",
+        "01:36:12.765000",
+        "Message from the captain, Alexander the Great."
+      ],
+      [
+        259,
+        "01:40:23.150000",
+        "01:40:26.244000",
+        "will gather to sentence Alexander the great and his men..."
+      ]
+    ],
+    "regex": "\\b((?!\\bAlexander\\ the\\ Great:)Alexander\\ the\\ Great)(?!\\:)(?!'t)\\b",
+    "runtime": 210,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

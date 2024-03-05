@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7682204",
+    "title": "Out of Time",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1098,
+    "occurrences": [
+      [
+        823,
+        "01:04:54.728000",
+        "01:04:56.063000",
+        "Running out of time."
+      ],
+      [
+        1084,
+        "01:29:15.939000",
+        "01:29:18.609000",
+        "The longer you stay out of time, the longer you live."
+      ]
+    ],
+    "regex": "\\b((?!\\bOut\\ of\\ Time:)Out\\ of\\ Time)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

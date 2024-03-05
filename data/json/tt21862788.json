@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt21862788",
+    "title": "Santa Games",
+    "year": 2022,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1653,
+    "occurrences": [
+      [
+        812,
+        "00:41:51.217000",
+        "00:41:53.218000",
+        "There will be three days of Santa Games."
+      ],
+      [
+        822,
+        "00:42:17.577000",
+        "00:42:20.038000",
+        "and welcome you to the Santa Games."
+      ],
+      [
+        842,
+        "00:43:25.353000",
+        "00:43:30.858000",
+        "So welcome to the first annual Santa Games."
+      ],
+      [
+        1404,
+        "01:12:06.155000",
+        "01:12:07.906000",
+        "the final day of the Santa Games,"
+      ]
+    ],
+    "regex": "\\b((?!\\bSanta\\ Games:)Santa\\ Games)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

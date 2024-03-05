@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0119653",
+    "title": "Men",
+    "year": 1997,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1323,
+    "occurrences": [
+      [
+        240,
+        "00:19:02.850000",
+        "00:19:05.523000",
+        "I guess aggressive men are the most insecure."
+      ],
+      [
+        442,
+        "00:32:19.680000",
+        "00:32:22.590000",
+        "- No, Callie, you're so used to seeing men's fantasies"
+      ],
+      [
+        577,
+        "00:42:30.708000",
+        "00:42:35.708000",
+        "- George, George, I want you to know that I see other men."
+      ],
+      [
+        1051,
+        "01:08:49.104000",
+        "01:08:50.970000",
+        "which men have sought to destroy"
+      ]
+    ],
+    "regex": "\\b((?!\\bMen:)Men)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

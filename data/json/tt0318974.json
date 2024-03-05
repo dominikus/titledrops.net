@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0318974",
+    "title": "The Alamo",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 341,
+    "occurrences": [
+      [
+        123,
+        "00:15:50.617000",
+        "00:15:57.040000",
+        "But if you wish to stay here, with me, in the Alamo,"
+      ],
+      [
+        322,
+        "00:55:25.284000",
+        "00:55:28.036000",
+        "remember the Alamo!"
+      ],
+      [
+        329,
+        "00:56:09.828000",
+        "00:56:11.371000",
+        "Remember the Alamo!"
+      ],
+      [
+        331,
+        "00:56:43.987000",
+        "00:56:46.073000",
+        "Remember the Alamo!"
+      ]
+    ],
+    "regex": "\\b((?!\\bAlamo:)Alamo)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

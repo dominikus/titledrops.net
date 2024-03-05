@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0287665",
+    "title": "Eternal Blood",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 701,
+    "occurrences": [
+      [
+        221,
+        "00:25:26.958000",
+        "00:25:29.222000",
+        "Fresh blood, eternal blood."
+      ],
+      [
+        223,
+        "00:25:40.972000",
+        "00:25:42.906000",
+        "Eternal Blood."
+      ],
+      [
+        224,
+        "00:25:46.111000",
+        "00:25:47.772000",
+        "Eternal Blood."
+      ]
+    ],
+    "regex": "\\b((?!\\bEternal\\ Blood:)Eternal\\ Blood)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

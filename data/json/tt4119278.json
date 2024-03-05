@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4119278",
+    "title": "All Roads Lead to Rome",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1523,
+    "occurrences": [
+      [
+        1312,
+        "01:18:08.685000",
+        "01:18:11.552000",
+        "P All roads lead to Rome... P"
+      ],
+      [
+        1443,
+        "01:27:06.088000",
+        "01:27:10.090000",
+        "P All roads lead to Rome P"
+      ],
+      [
+        1445,
+        "01:27:14.396000",
+        "01:27:17.231000",
+        "P All roads lead to Rome P"
+      ]
+    ],
+    "regex": "\\b((?!\\bAll\\ Roads\\ Lead\\ to\\ Rome:)All\\ Roads\\ Lead\\ to\\ Rome)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

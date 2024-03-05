@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0464800",
+    "title": "Darshan: The Embrace",
+    "year": 2005,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 329,
+    "occurrences": [
+      [
+        134,
+        "00:34:02.140000",
+        "00:34:06.372000",
+        "But I don't have time to give you Darshan or food."
+      ],
+      [
+        136,
+        "00:34:08.980000",
+        "00:34:12.711000",
+        "I decided to give Darshan on Fridays, food on Tuesdays,"
+      ],
+      [
+        156,
+        "00:35:50.781000",
+        "00:35:54.012000",
+        "but they all wanted to see you for Darshan."
+      ],
+      [
+        213,
+        "00:52:18.568000",
+        "00:52:20.229000",
+        "when the Darshan finished."
+      ],
+      [
+        329,
+        "01:31:07.795000",
+        "01:31:13.597000",
+        "have received Amma's Darshan."
+      ]
+    ],
+    "regex": "\\b((?!\\bDarshan:)Darshan|(?!\\bEmbrace:)Embrace)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

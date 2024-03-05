@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt3186552",
+    "title": "The Sector",
+    "year": 2016,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 809,
+    "occurrences": [
+      [
+        763,
+        "01:20:17.313000",
+        "01:20:18.381000",
+        "Sending them into The Sector,"
+      ],
+      [
+        775,
+        "01:20:49.712000",
+        "01:20:55.751000",
+        "...sick, none. Send them to The Sector. Free us of their burden."
+      ],
+      [
+        790,
+        "01:21:54.877000",
+        "01:21:58.714000",
+        "I guarantee you and your family will be safe from The Sector."
+      ],
+      [
+        801,
+        "01:23:14.323000",
+        "01:23:19.161000",
+        "has plans for us. They're calling us The Sector."
+      ]
+    ],
+    "regex": "\\b((?!\\bSector:)Sector)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.9
+  }
+]

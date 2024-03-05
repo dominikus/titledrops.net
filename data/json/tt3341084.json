@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt3341084",
+    "title": "The Four 2",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "count": 3,
+    "all_lines": 1213,
+    "occurrences": [
+      [
+        99,
+        "00:08:32.515000",
+        "00:08:36.019000",
+        "Department Six abolished titles for the four top constables."
+      ],
+      [
+        103,
+        "00:08:46.832000",
+        "00:08:48.665000",
+        "their own list of \"The Four\"."
+      ],
+      [
+        105,
+        "00:08:53.674000",
+        "00:08:55.969000",
+        "If I choose my own \"Four\","
+      ]
+    ],
+    "regex": "\\b((?!\\bFour:)Four)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

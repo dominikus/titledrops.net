@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt1535419",
+    "title": "A Million",
+    "year": 2009,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 597,
+    "occurrences": [
+      [
+        15,
+        "00:03:14.160000",
+        "00:03:15.525000",
+        "contestants with $1 million prize."
+      ],
+      [
+        66,
+        "00:07:45.665000",
+        "00:07:49.431000",
+        "I'll use my youthful vitality to win that million dollars."
+      ],
+      [
+        138,
+        "00:12:59.478000",
+        "00:13:00.945000",
+        "Exactly one million dollars."
+      ],
+      [
+        173,
+        "00:15:20.753000",
+        "00:15:22.118000",
+        "with the million dollars?"
+      ],
+      [
+        188,
+        "00:16:08.467000",
+        "00:16:12.130000",
+        "Even a million dries up, eventually."
+      ],
+      [
+        420,
+        "00:35:36.767000",
+        "00:35:39.031000",
+        "Was he lying about the million?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMillion:)Million)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

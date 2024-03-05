@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7420342",
+    "title": "Killerman",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1193,
+    "occurrences": [
+      [
+        1132,
+        "01:39:02.251000",
+        "01:39:06.153000",
+        "His real name is Killerman..."
+      ],
+      [
+        1133,
+        "01:39:06.155000",
+        "01:39:08.358000",
+        "Frank Killerman."
+      ]
+    ],
+    "regex": "\\b((?!\\bKillerman:)Killerman)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

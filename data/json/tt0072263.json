@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0072263",
+    "title": "Ten Little Indians",
+    "year": 1974,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 807,
+    "occurrences": [
+      [
+        0,
+        "00:00:43.700000",
+        "00:00:48.400000",
+        "Ten Little Indians"
+      ],
+      [
+        65,
+        "00:09:32.300000",
+        "00:09:36.100000",
+        "\"Ten little Indians went out to dine, one choked his little self, then there were nine.\""
+      ],
+      [
+        91,
+        "00:11:48",
+        "00:11:52.900000",
+        "\"Ten Little Indians.\" It's hanging on the wall in my room."
+      ],
+      [
+        95,
+        "00:12:04",
+        "00:12:11.500000",
+        "\"Ten little Indians went out to dine, and one choked its little self, and then there were nine.\""
+      ],
+      [
+        247,
+        "00:29:32.400000",
+        "00:29:38.200000",
+        "Ten little Indians went out to dine, one chocked himself."
+      ]
+    ],
+    "regex": "\\b((?!\\bTen\\ Little\\ Indians:)Ten\\ Little\\ Indians)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

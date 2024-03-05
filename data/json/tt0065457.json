@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0065457",
+    "title": "Beg",
+    "year": 1971,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 676,
+    "occurrences": [
+      [
+        108,
+        "00:13:06.694000",
+        "00:13:08.852000",
+        "- I beg you! - All right. Into the wagon!"
+      ],
+      [
+        469,
+        "01:00:34.402000",
+        "01:00:37.263000",
+        "I beg you, tell me what happened to her? - To whom?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBeg:)Beg)(?!\\:)(?!'t)\\b",
+    "runtime": 196,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

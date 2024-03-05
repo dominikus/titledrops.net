@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1671513",
+    "title": "Four Horsemen",
+    "year": 2012,
+    "genres": [
+      "Documentary",
+      "News"
+    ],
+    "count": 3,
+    "all_lines": 1387,
+    "occurrences": [
+      [
+        20,
+        "00:02:34.934000",
+        "00:02:37.285000",
+        "The Four Horsemen are Coming!"
+      ],
+      [
+        1041,
+        "01:14:51.110000",
+        "01:14:54.568000",
+        "that is enabling our four horsemen to ride with such vengeance"
+      ],
+      [
+        1042,
+        "01:14:54.732000",
+        "01:14:57.342000",
+        "The modern day Four Horsemen"
+      ]
+    ],
+    "regex": "\\b((?!\\bFour\\ Horsemen:)Four\\ Horsemen)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

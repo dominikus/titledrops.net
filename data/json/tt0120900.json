@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0120900",
+    "title": "The Real Howard Spitz",
+    "year": 1998,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1939,
+    "occurrences": [
+      [
+        1703,
+        "01:29:18.744000",
+        "01:29:20.398000",
+        "I''m the real Howard Spitz."
+      ],
+      [
+        1714,
+        "01:29:50.907000",
+        "01:29:53.518000",
+        "Tell ''em which one is the real Howard Spitz."
+      ],
+      [
+        1724,
+        "01:30:17.760000",
+        "01:30:19.979000",
+        "This is the real Howard Spitz."
+      ],
+      [
+        1749,
+        "01:31:29.571000",
+        "01:31:33.662000",
+        "I guess we found out who the real Howard Spitz is."
+      ]
+    ],
+    "regex": "\\b((?!\\bReal\\ Howard\\ Spitz:)Real\\ Howard\\ Spitz)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

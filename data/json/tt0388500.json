@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0388500",
+    "title": "Beauty Shop",
+    "year": 2005,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1684,
+    "occurrences": [
+      [
+        308,
+        "00:17:49.101000",
+        "00:17:51.695000",
+        "You've got your own beauty shop!"
+      ],
+      [
+        458,
+        "00:26:24.549000",
+        "00:26:26.107000",
+        "Gina's Beauty Shop."
+      ],
+      [
+        974,
+        "00:54:26.429000",
+        "00:54:28.897000",
+        "everything you have been doin' around here with the beauty shop."
+      ]
+    ],
+    "regex": "\\b((?!\\bBeauty\\ Shop:)Beauty\\ Shop)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

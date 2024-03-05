@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0073205",
+    "title": "Wanted: Babysitter",
+    "year": 1975,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 605,
+    "occurrences": [
+      [
+        133,
+        "00:18:55.425000",
+        "00:18:58.575000",
+        "- Who's that? - The babysitter."
+      ],
+      [
+        291,
+        "00:52:04.472000",
+        "00:52:08.133000",
+        "- He disappeared? - With the babysitter."
+      ],
+      [
+        292,
+        "00:52:08.666000",
+        "00:52:11.191000",
+        "With the babysitter?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWanted:)Wanted|(?!\\bBabysitter:)Babysitter)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

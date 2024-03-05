@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5140182",
+    "title": "Junction 48",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Biography",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1313,
+    "occurrences": [
+      [
+        0,
+        "00:01:17.740000",
+        "00:01:23.460000",
+        "The Israeli city of Lod is the Palestinian city of Lyd, which once sat on the main railway junction."
+      ],
+      [
+        1048,
+        "01:11:45.360000",
+        "01:11:48.290000",
+        "Damn this land, damn Junction '48,"
+      ]
+    ],
+    "regex": "\\b((?!\\bJunction:)Junction)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

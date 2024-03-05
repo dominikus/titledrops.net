@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt12440140",
+    "title": "Aristocrats",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1209,
+    "occurrences": [
+      [
+        122,
+        "00:10:08.820000",
+        "00:10:19.670000",
+        "Aristocrats (2021)"
+      ],
+      [
+        543,
+        "00:45:00.890000",
+        "00:45:03.190000",
+        "Are they aristocrats?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAristocrats:)Aristocrats)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

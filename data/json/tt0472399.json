@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0472399",
+    "title": "The Mechanic",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1261,
+    "occurrences": [
+      [
+        528,
+        "00:32:58.100000",
+        "00:32:59.101000",
+        "You know what a mechanic is, outside its obvious definition?"
+      ],
+      [
+        529,
+        "00:32:59.101000",
+        "00:33:00.852000",
+        "You know what a mechanic is, outside its obvious definition?"
+      ],
+      [
+        659,
+        "00:40:53.909000",
+        "00:40:55.744000",
+        "...but he's a mechanic for another group."
+      ]
+    ],
+    "regex": "\\b((?!\\bMechanic:)Mechanic)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

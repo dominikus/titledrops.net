@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt2594950",
+    "title": "The Major",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 866,
+    "occurrences": [
+      [
+        150,
+        "00:17:54.167000",
+        "00:17:56.666000",
+        "Yes, sir, Comrade Major."
+      ],
+      [
+        245,
+        "00:26:39.208000",
+        "00:26:43.749000",
+        "You want to give them a chance to nail the Police Major?"
+      ],
+      [
+        505,
+        "00:51:03.083000",
+        "00:51:04.624000",
+        "Major!"
+      ],
+      [
+        598,
+        "01:00:31.333000",
+        "01:00:33.499000",
+        "A Police Major..."
+      ],
+      [
+        816,
+        "01:26:50",
+        "01:26:52.457000",
+        "Do you hear me, Comrade Major?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMajor:)Major)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

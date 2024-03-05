@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt10191866",
+    "title": "Murder in the Front Row: The San Francisco Bay Area Thrash Metal Story",
+    "year": 2019,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 1728,
+    "occurrences": [
+      [
+        73,
+        "00:03:28.748000",
+        "00:03:30.208000",
+        "# Murder in the front row"
+      ],
+      [
+        676,
+        "00:33:34.802000",
+        "00:33:37.680000",
+        "This is where \"Murder in the Front Row\" really did take place."
+      ],
+      [
+        834,
+        "00:41:21.310000",
+        "00:41:22.770000",
+        "# Murder in the front row"
+      ]
+    ],
+    "regex": "\\b((?!\\bMurder\\ in\\ the\\ Front\\ Row:)Murder\\ in\\ the\\ Front\\ Row|(?!\\bSan\\ Francisco\\ Bay\\ Area\\ Thrash\\ Metal\\ Story:)San\\ Francisco\\ Bay\\ Area\\ Thrash\\ Metal\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0049334",
+    "title": "Hot Cars",
+    "year": 1956,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 3,
+    "all_lines": 1189,
+    "occurrences": [
+      [
+        463,
+        "00:24:05.605000",
+        "00:24:07.346000",
+        "to cool off hot cars?"
+      ],
+      [
+        526,
+        "00:26:23.351000",
+        "00:26:26.267000",
+        "Hot cars, cold cars or whose money it is,"
+      ],
+      [
+        553,
+        "00:27:50.917000",
+        "00:27:53.135000",
+        "Here we take hot cars and cool them off,"
+      ]
+    ],
+    "regex": "\\b((?!\\bHot\\ Cars:)Hot\\ Cars)(?!\\:)(?!'t)\\b",
+    "runtime": 61,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

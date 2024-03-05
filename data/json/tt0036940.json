@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0036940",
+    "title": "I'll Be Seeing You",
+    "year": 1944,
+    "genres": [
+      "Drama",
+      "Family",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1074,
+    "occurrences": [
+      [
+        806,
+        "00:58:49.740000",
+        "00:58:53.369000",
+        "I'll be seeing you"
+      ],
+      [
+        815,
+        "00:59:21.939000",
+        "00:59:26.842000",
+        "But I'll be seeing you"
+      ]
+    ],
+    "regex": "\\b((?!\\bI'll\\ Be\\ Seeing\\ You:)I'll\\ Be\\ Seeing\\ You)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

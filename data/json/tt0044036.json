@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0044036",
+    "title": "Silver City",
+    "year": 1951,
+    "genres": [
+      "Western"
+    ],
+    "count": 5,
+    "all_lines": 1299,
+    "occurrences": [
+      [
+        150,
+        "00:12:22.663000",
+        "00:12:24.703000",
+        "of the best miners you can find in Silver City."
+      ],
+      [
+        263,
+        "00:20:03.898000",
+        "00:20:05.171000",
+        "They call it Silver City."
+      ],
+      [
+        491,
+        "00:33:02.202000",
+        "00:33:05.915000",
+        "All of Silver City knows it by now."
+      ],
+      [
+        575,
+        "00:39:37.315000",
+        "00:39:39.307000",
+        "By now everybody in Silver City has heard the story"
+      ],
+      [
+        1092,
+        "01:11:30.671000",
+        "01:11:33.895000",
+        "Ha. Worst old gossip in Silver City."
+      ]
+    ],
+    "regex": "\\b((?!\\bSilver\\ City:)Silver\\ City)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

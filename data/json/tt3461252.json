@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3461252",
+    "title": "The Blue Elephant",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1949,
+    "occurrences": [
+      [
+        0,
+        "00:01:11.100000",
+        "00:01:15.800000",
+        "\"The Blue Elephant\""
+      ],
+      [
+        1181,
+        "01:23:18.600000",
+        "01:23:20",
+        "This is the blue elephant, darling."
+      ],
+      [
+        1694,
+        "02:08:44.500000",
+        "02:08:47.500000",
+        "And now, time for the blue elephant performance."
+      ],
+      [
+        1949,
+        "02:26:50.250000",
+        "02:26:51.900000",
+        "\"The Blue Elephant\""
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Elephant:)Blue\\ Elephant)(?!\\:)(?!'t)\\b",
+    "runtime": 170,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

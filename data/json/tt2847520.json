@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2847520",
+    "title": "Richard Peter Johnson",
+    "year": 2015,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1819,
+    "occurrences": [
+      [
+        77,
+        "00:03:20.498000",
+        "00:03:25.370000",
+        "and went back to his real name, Richard Peter Johnson."
+      ],
+      [
+        567,
+        "00:27:07.857000",
+        "00:27:09.259000",
+        "-Great. -Richard Peter Johnson."
+      ]
+    ],
+    "regex": "\\b((?!\\bRichard\\ Peter\\ Johnson:)Richard\\ Peter\\ Johnson)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

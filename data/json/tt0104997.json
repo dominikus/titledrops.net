@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0104997",
+    "title": "South Beach",
+    "year": 1993,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1431,
+    "occurrences": [
+      [
+        608,
+        "00:37:23.159000",
+        "00:37:27.016000",
+        "in South Beach, he and this Santiago character"
+      ],
+      [
+        1342,
+        "01:24:59.500000",
+        "01:25:02.726000",
+        "I'm gonna kick your butt all over South Beach."
+      ]
+    ],
+    "regex": "\\b((?!\\bSouth\\ Beach:)South\\ Beach)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

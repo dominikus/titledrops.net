@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt18267972",
+    "title": "Devil's Advocate: The Mostly True Story of Giovanni Di Stefano",
+    "year": 2022,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 659,
+    "occurrences": [
+      [
+        4,
+        "00:00:41.036000",
+        "00:00:47.171000",
+        "I am a lawyer, best known as the Devil's Advocate."
+      ],
+      [
+        14,
+        "00:01:28.318000",
+        "00:01:29.694000",
+        "Devil's Advocate, Mr. Murder,"
+      ]
+    ],
+    "regex": "\\b((?!\\bDevil's\\ Advocate:)Devil's\\ Advocate|(?!\\bMostly\\ True\\ Story\\ of\\ Giovanni\\ Di\\ Stefano:)Mostly\\ True\\ Story\\ of\\ Giovanni\\ Di\\ Stefano)(?!\\:)(?!'t)\\b",
+    "runtime": 43,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

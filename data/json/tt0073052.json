@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0073052",
+    "title": "Halfon Hill Doesn't Answer",
+    "year": 1976,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1159,
+    "occurrences": [
+      [
+        12,
+        "00:01:03.364000",
+        "00:01:06.359000",
+        "\"Halfon Hill doesn't answer."
+      ],
+      [
+        20,
+        "00:01:55.403000",
+        "00:01:58.475000",
+        "\"Halfon Hill doesn't answer."
+      ],
+      [
+        24,
+        "00:02:17.409000",
+        "00:02:21.826000",
+        "\"Halfon Hill doesn't answer.\""
+      ],
+      [
+        1148,
+        "01:26:34.925000",
+        "01:26:38.381000",
+        "\"Halfon Hill doesn't answer.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bHalfon\\ Hill\\ Doesn't\\ Answer:)Halfon\\ Hill\\ Doesn't\\ Answer)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

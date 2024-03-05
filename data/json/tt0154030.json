@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0154030",
+    "title": "Seventh Heaven",
+    "year": 1993,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 828,
+    "occurrences": [
+      [
+        446,
+        "00:46:23.400000",
+        "00:46:27.916000",
+        "...what \"seventh heaven\" means."
+      ],
+      [
+        447,
+        "00:46:28.120000",
+        "00:46:31.396000",
+        "Don't forget that what's seventh heaven for you..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSeventh\\ Heaven:)Seventh\\ Heaven)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

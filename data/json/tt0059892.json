@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0059892",
+    "title": "Walkover",
+    "year": 1965,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 3,
+    "all_lines": 933,
+    "occurrences": [
+      [
+        619,
+        "00:40:44.280000",
+        "00:40:46.919000",
+        "To give the fight up as a walkover is the greatest shame for a boxer..."
+      ],
+      [
+        734,
+        "00:52:02.560000",
+        "00:52:05.632000",
+        "...That a walkover is nothing but a walkover..."
+      ]
+    ],
+    "regex": "\\b((?!\\bWalkover:)Walkover)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

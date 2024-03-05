@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0091766",
+    "title": "Playing Beatie Bow",
+    "year": 1986,
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1334,
+    "occurrences": [
+      [
+        63,
+        "00:04:02.577000",
+        "00:04:05.035000",
+        "- We're playing beatie bow Abby."
+      ],
+      [
+        72,
+        "00:04:22.262000",
+        "00:04:25.182000",
+        "- Little furry girl? - Playing beatie bow..."
+      ]
+    ],
+    "regex": "\\b((?!\\bPlaying\\ Beatie\\ Bow:)Playing\\ Beatie\\ Bow)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

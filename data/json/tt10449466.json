@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt10449466",
+    "title": "The Renovation",
+    "year": 2020,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 7,
+    "all_lines": 796,
+    "occurrences": [
+      [
+        1,
+        "00:00:18.894000",
+        "00:00:21.813000",
+        "who have fallen victim to a home renovation."
+      ],
+      [
+        206,
+        "00:21:22.823000",
+        "00:21:26.368000",
+        "You already started your little renovation, huh?"
+      ],
+      [
+        218,
+        "00:22:07.701000",
+        "00:22:10.162000",
+        "This renovation's going to cost a lot."
+      ],
+      [
+        306,
+        "00:29:03.533000",
+        "00:29:08.956000",
+        "Because this is where your renovation will start."
+      ],
+      [
+        380,
+        "00:34:29.818000",
+        "00:34:30.902000",
+        "RENOVATION STARTS!"
+      ],
+      [
+        428,
+        "00:40:37.477000",
+        "00:40:40.939000",
+        "Okay, so you've applied for a renovation loan."
+      ],
+      [
+        483,
+        "00:44:37.717000",
+        "00:44:40.261000",
+        "RENOVATION BEGINS"
+      ]
+    ],
+    "regex": "\\b((?!\\bRenovation:)Renovation)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

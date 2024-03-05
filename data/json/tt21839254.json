@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt21839254",
+    "title": "Soul Mates",
+    "year": 2023,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 724,
+    "occurrences": [
+      [
+        111,
+        "00:10:56.170000",
+        "00:10:58.430000",
+        "So you were part of the soul mates thing back then?"
+      ],
+      [
+        113,
+        "00:10:59.030000",
+        "00:11:00.270000",
+        "I've never heard of soul mates."
+      ],
+      [
+        145,
+        "00:12:47.260000",
+        "00:12:51.180000",
+        "Sign up for soul mates before the walls of loneliness close in on you."
+      ],
+      [
+        704,
+        "01:23:21.640000",
+        "01:23:23",
+        "With soul mates."
+      ]
+    ],
+    "regex": "\\b((?!\\bSoul\\ Mates:)Soul\\ Mates)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

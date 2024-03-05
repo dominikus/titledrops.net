@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2322517",
+    "title": "Mojave",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "count": 4,
+    "all_lines": 900,
+    "occurrences": [
+      [
+        579,
+        "01:03:26.740000",
+        "01:03:28.775000",
+        "If I'm the mojave murderer, which there is a question about,"
+      ],
+      [
+        580,
+        "01:03:28.810000",
+        "01:03:31.910000",
+        "why am I here if you weren't in the mojave?"
+      ],
+      [
+        581,
+        "01:03:31.911000",
+        "01:03:33.577000",
+        "I was in the mojave."
+      ],
+      [
+        599,
+        "01:04:10.148000",
+        "01:04:12.616000",
+        "I didn't know anything about seven murders in the mojave."
+      ]
+    ],
+    "regex": "\\b((?!\\bMojave:)Mojave)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

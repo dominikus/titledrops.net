@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0796236",
+    "title": "The New Man",
+    "year": 2007,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 682,
+    "occurrences": [
+      [
+        16,
+        "00:01:52.029000",
+        "00:01:54.418000",
+        "A new man!"
+      ],
+      [
+        617,
+        "01:29:25.669000",
+        "01:29:31.904000",
+        "...to create a healthy society for a new man."
+      ]
+    ],
+    "regex": "\\b((?!\\bNew\\ Man:)New\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

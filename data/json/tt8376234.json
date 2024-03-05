@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt8376234",
+    "title": "Peter Rabbit 2: The Runaway",
+    "year": 2021,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1379,
+    "occurrences": [
+      [
+        50,
+        "00:04:00.458000",
+        "00:04:02.834000",
+        "Dad, it's Peter Rabbit from the book."
+      ],
+      [
+        403,
+        "00:23:20.083000",
+        "00:23:23.542000",
+        "- Yeah. - Are you Peter Rabbit?"
+      ],
+      [
+        1235,
+        "01:15:08.375000",
+        "01:15:12",
+        "This is the last the world will ever hear about Peter Rabbit."
+      ]
+    ],
+    "regex": "\\b((?!\\bPeter\\ Rabbit:)Peter\\ Rabbit|(?!\\bRunaway:)Runaway)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0079867",
+    "title": "Just a Gigolo",
+    "year": 1978,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1224,
+    "occurrences": [
+      [
+        1070,
+        "01:28:59.458000",
+        "01:29:03.833000",
+        "Just a gigolo Everywhere I go I"
+      ],
+      [
+        1207,
+        "01:44:05.667000",
+        "01:44:07",
+        "Just a gigolo X"
+      ],
+      [
+        1216,
+        "01:44:49.250000",
+        "01:44:51.917000",
+        "They'll say, just a gigolo a'"
+      ],
+      [
+        1218,
+        "01:45:02.333000",
+        "01:45:07.125000",
+        "Just a gigolo Everywhere I go I"
+      ]
+    ],
+    "regex": "\\b((?!\\bJust\\ a\\ Gigolo:)Just\\ a\\ Gigolo)(?!\\:)(?!'t)\\b",
+    "runtime": 147,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

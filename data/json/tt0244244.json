@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0244244",
+    "title": "Swordfish",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 900,
+    "occurrences": [
+      [
+        488,
+        "00:49:43.215000",
+        "00:49:45.740000",
+        "-Ever heard of Operation Swordfish? -No."
+      ],
+      [
+        891,
+        "01:32:41.424000",
+        "01:32:46.452000",
+        "3561 27G. Password: Swordfish."
+      ]
+    ],
+    "regex": "\\b((?!\\bSwordfish:)Swordfish)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

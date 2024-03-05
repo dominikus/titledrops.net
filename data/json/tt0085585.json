@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0085585",
+    "title": "The Ghost",
+    "year": 1982,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1159,
+    "occurrences": [
+      [
+        19,
+        "00:01:56.947000",
+        "00:02:02.169000",
+        "The Ghost"
+      ],
+      [
+        751,
+        "00:55:58.583000",
+        "00:56:01.631000",
+        "And how do you walk about? Like a ghost."
+      ],
+      [
+        754,
+        "00:56:08.651000",
+        "00:56:11.177000",
+        "Everyone just recognizes you as a ghost."
+      ],
+      [
+        758,
+        "00:56:21.214000",
+        "00:56:25.452000",
+        "You are not only a ghost, but you always get more spooky."
+      ],
+      [
+        768,
+        "00:56:54.255000",
+        "00:56:56.899000",
+        "Don't shoot your ghost mouth off!"
+      ]
+    ],
+    "regex": "\\b((?!\\bGhost:)Ghost)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

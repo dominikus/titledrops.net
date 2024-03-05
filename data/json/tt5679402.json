@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5679402",
+    "title": "Stagecoach: The Texas Jack Story",
+    "year": 2016,
+    "genres": [
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 1350,
+    "occurrences": [
+      [
+        412,
+        "00:26:44.303000",
+        "00:26:47.126000",
+        "A stagecoach, one, maybe two."
+      ],
+      [
+        496,
+        "00:34:47.953000",
+        "00:34:50.876000",
+        "I don't feel like chasing a stagecoach today, do you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bStagecoach:)Stagecoach|(?!\\bTexas\\ Jack\\ Story:)Texas\\ Jack\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

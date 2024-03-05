@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4483460",
+    "title": "Argentina",
+    "year": 2015,
+    "genres": [
+      "Documentary",
+      "Music",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 371,
+    "occurrences": [
+      [
+        1,
+        "00:00:56.659000",
+        "00:01:01.672000",
+        "\"Warm wind that tears across the northeast region of Argentina.\""
+      ],
+      [
+        3,
+        "00:02:40.221000",
+        "00:02:44.291000",
+        "were the main ones who spread the rhythms of the northern region of Argentina."
+      ]
+    ],
+    "regex": "\\b((?!\\bArgentina:)Argentina)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0092641",
+    "title": "Best Seller",
+    "year": 1987,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 819,
+    "occurrences": [
+      [
+        118,
+        "00:18:54.800000",
+        "00:19:00.400000",
+        "A best seller. It's about me, Dennis. It's about me and the man I worked for."
+      ],
+      [
+        816,
+        "01:31:54",
+        "01:31:54.700000",
+        "i>Best seller."
+      ]
+    ],
+    "regex": "\\b((?!\\bBest\\ Seller:)Best\\ Seller)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

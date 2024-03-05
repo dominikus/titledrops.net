@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1176724",
+    "title": "Across the Hall",
+    "year": 2009,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1094,
+    "occurrences": [
+      [
+        407,
+        "00:32:21.426000",
+        "00:32:23.915000",
+        "Across the hall from them."
+      ],
+      [
+        410,
+        "00:32:38.192000",
+        "00:32:39.590000",
+        "- You're across the hall."
+      ],
+      [
+        517,
+        "00:40:01.766000",
+        "00:40:05.163000",
+        "Terry is directly across the hall, okay?"
+      ],
+      [
+        518,
+        "00:40:05.266000",
+        "00:40:06.822000",
+        "He's in the room right across the hall."
+      ]
+    ],
+    "regex": "\\b((?!\\bAcross\\ the\\ Hall:)Across\\ the\\ Hall)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

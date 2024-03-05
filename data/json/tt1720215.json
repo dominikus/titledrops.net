@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1720215",
+    "title": "Hair",
+    "year": 2010,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 129,
+    "occurrences": [
+      [
+        36,
+        "00:21:37.640000",
+        "00:21:39.369000",
+        "I want to sell...My hair."
+      ],
+      [
+        38,
+        "00:22:44.720000",
+        "00:22:46.210000",
+        "You have wonderful hair."
+      ],
+      [
+        55,
+        "00:27:49.400000",
+        "00:27:50.890000",
+        "Why did you cut your hair?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHair:)Hair)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

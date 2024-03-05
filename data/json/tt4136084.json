@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt4136084",
+    "title": "Florence Foster Jenkins",
+    "year": 2016,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1345,
+    "occurrences": [
+      [
+        33,
+        "00:03:54.911000",
+        "00:04:00.125000",
+        "The Angel of Inspiration, featuring Madam Florence Foster Jenkins!"
+      ],
+      [
+        381,
+        "00:31:25.801000",
+        "00:31:27.970000",
+        "\"President and founder, Florence Foster Jenkins\","
+      ],
+      [
+        849,
+        "01:05:47.839000",
+        "01:05:49.841000",
+        "That was Florence Foster Jenkins"
+      ]
+    ],
+    "regex": "\\b((?!\\bFlorence\\ Foster\\ Jenkins:)Florence\\ Foster\\ Jenkins)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [
+      "Florence Foster Jenkins"
+    ],
+    "title_is_name": true,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt12676006",
+    "title": "Borrego",
+    "year": 2022,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 716,
+    "occurrences": [
+      [
+        385,
+        "00:43:33.564000",
+        "00:43:35.799000",
+        "Okay, we need to get back to Borrego Springs."
+      ],
+      [
+        390,
+        "00:43:49.746000",
+        "00:43:52.482000",
+        "We get back to Borrego Springs, I will find you a car,"
+      ],
+      [
+        499,
+        "01:05:07.624000",
+        "01:05:09.526000",
+        "How far Borrego Springs?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBorrego:)Borrego)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0471041",
+    "title": "The Tournament",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1162,
+    "occurrences": [
+      [
+        168,
+        "00:12:54.140000",
+        "00:12:56.370000",
+        "Joshua Harlow took the Tournament by storm"
+      ],
+      [
+        199,
+        "00:14:08.013000",
+        "00:14:10.345000",
+        "The Tournament has begun:"
+      ],
+      [
+        241,
+        "00:17:41.860000",
+        "00:17:44.727000",
+        "Hey, welcome to the tournament, Rob:"
+      ],
+      [
+        513,
+        "00:38:36.847000",
+        "00:38:38.576000",
+        "That's how the Tournament remains a secret!"
+      ]
+    ],
+    "regex": "\\b((?!\\bTournament:)Tournament)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

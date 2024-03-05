@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0865556",
+    "title": "The Forbidden Kingdom",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 467,
+    "occurrences": [
+      [
+        0,
+        "00:00:05.149000",
+        "00:00:10.105000",
+        "\"The Forbidden Kingdom \""
+      ],
+      [
+        100,
+        "00:15:49.319000",
+        "00:15:52.976000",
+        "One was deeply adventures Forbidden Kingdom"
+      ]
+    ],
+    "regex": "\\b((?!\\bForbidden\\ Kingdom:)Forbidden\\ Kingdom)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0051874",
+    "title": "La Llorona",
+    "year": 1960,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 585,
+    "occurrences": [
+      [
+        388,
+        "00:49:43.789000",
+        "00:49:47.429000",
+        "Not one has escaped the curse of \"La Llorona\" (the crying lady)."
+      ],
+      [
+        392,
+        "00:50:01.209000",
+        "00:50:03.689000",
+        "That if we are distracted for a second \"La Llorona\" will stab him with a dagger..."
+      ],
+      [
+        583,
+        "01:14:10.904000",
+        "01:14:15.144000",
+        "Is this an indication \"La Llorona's\" curse has ended?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLa\\ Llorona:)La\\ Llorona)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [
+      "Luisa del Carmen",
+      "La Llorona",
+      "Carmen Asiul"
+    ],
+    "title_is_name": true,
+    "rating": 5.8
+  }
+]

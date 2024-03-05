@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6144536",
+    "title": "This is Our Land",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1632,
+    "occurrences": [
+      [
+        676,
+        "00:46:27.665000",
+        "00:46:29.374000",
+        "This is our land!"
+      ],
+      [
+        683,
+        "00:47:00.993000",
+        "00:47:03.033000",
+        "This is our land!"
+      ]
+    ],
+    "regex": "\\b((?!\\bThis\\ is\\ Our\\ Land:)This\\ is\\ Our\\ Land)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

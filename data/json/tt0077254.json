@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0077254",
+    "title": "Bog",
+    "year": 1979,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1472,
+    "occurrences": [
+      [
+        657,
+        "00:34:08.540000",
+        "00:34:10.881000",
+        "at the bottom of Bog Lake."
+      ],
+      [
+        1404,
+        "01:17:40.860000",
+        "01:17:42.980000",
+        "What if he's not headed for Bog Lake?"
+      ],
+      [
+        1416,
+        "01:18:26.650000",
+        "01:18:28.810000",
+        "Jensen, he's headed for the bog."
+      ]
+    ],
+    "regex": "\\b((?!\\bBog:)Bog)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

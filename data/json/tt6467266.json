@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt6467266",
+    "title": "Sing 2",
+    "year": 2021,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 2256,
+    "occurrences": [
+      [
+        941,
+        "00:41:20.895000",
+        "00:41:23.648000",
+        "And you asked me to sing for you."
+      ],
+      [
+        1473,
+        "01:05:43.440000",
+        "01:05:46.067000",
+        "A song that I can sing"
+      ],
+      [
+        2101,
+        "01:34:14.399000",
+        "01:34:16.526000",
+        "It's okay. Just sing."
+      ],
+      [
+        2187,
+        "01:40:43.329000",
+        "01:40:47.917000",
+        "I don't sing it just so I can get by"
+      ],
+      [
+        2190,
+        "01:40:54.382000",
+        "01:40:56.592000",
+        "I sing it to survive"
+      ]
+    ],
+    "regex": "\\b((?!\\bSing:)Sing)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

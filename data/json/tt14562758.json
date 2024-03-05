@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt14562758",
+    "title": "Lovely Boy",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 1154,
+    "occurrences": [
+      [
+        22,
+        "00:04:13.680000",
+        "00:04:15.235000",
+        "Lovely Boy, boy."
+      ],
+      [
+        261,
+        "00:21:37",
+        "00:21:38.039000",
+        "Lovely Boy!"
+      ],
+      [
+        847,
+        "01:09:53.119000",
+        "01:09:55",
+        "to my brother, Lovely Boy."
+      ],
+      [
+        1092,
+        "01:31:34.560000",
+        "01:31:36.115000",
+        "No more Lovely Boy,"
+      ]
+    ],
+    "regex": "\\b((?!\\bLovely\\ Boy:)Lovely\\ Boy)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

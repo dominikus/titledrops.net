@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt0405821",
+    "title": "Casshern",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 800,
+    "occurrences": [
+      [
+        468,
+        "01:19:08.198000",
+        "01:19:12.119000",
+        "we believed in \"Casshern\", a guardian spirit."
+      ],
+      [
+        477,
+        "01:19:56.541000",
+        "01:20:03.465000",
+        "I guess Casshern gave up on us."
+      ],
+      [
+        512,
+        "01:27:39.261000",
+        "01:27:40.096000",
+        "Casshern!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCasshern:)Casshern)(?!\\:)(?!'t)\\b",
+    "runtime": 142,
+    "characters": [
+      "Tetsuya Azuma",
+      "Casshern"
+    ],
+    "title_is_name": true,
+    "rating": 6
+  }
+]

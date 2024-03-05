@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2609776",
+    "title": "Queen Elizabeth II: The Diamond Celebration",
+    "year": 2012,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1396,
+    "occurrences": [
+      [
+        263,
+        "00:17:42.862000",
+        "00:17:44.531000",
+        "QUEEN ELIZABETH 2 (V.O.): My sister and I realized..."
+      ],
+      [
+        575,
+        "00:38:56.602000",
+        "00:39:01.707000",
+        "as the first Queen Elizabeth in Tudor times."
+      ]
+    ],
+    "regex": "\\b((?!\\bQueen\\ Elizabeth:)Queen\\ Elizabeth|(?!\\bDiamond\\ Celebration:)Diamond\\ Celebration)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

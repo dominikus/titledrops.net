@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt3225318",
+    "title": "Wolf Mother",
+    "year": 2016,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1536,
+    "occurrences": [
+      [
+        27,
+        "00:01:21.315000",
+        "00:01:25.219000",
+        "- You are the Wolf Mother he was talking about."
+      ],
+      [
+        29,
+        "00:01:31.159000",
+        "00:01:32.493000",
+        "Why Wolf Mother?"
+      ],
+      [
+        1216,
+        "01:21:37.326000",
+        "01:21:38.494000",
+        "- Wolf Mother."
+      ],
+      [
+        1226,
+        "01:22:33.516000",
+        "01:22:34.882000",
+        "You are the Wolf Mother"
+      ]
+    ],
+    "regex": "\\b((?!\\bWolf\\ Mother:)Wolf\\ Mother)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

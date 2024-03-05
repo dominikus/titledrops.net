@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0099785",
+    "title": "Home Alone",
+    "year": 1990,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "count": 6,
+    "all_lines": 1007,
+    "occurrences": [
+      [
+        375,
+        "00:30:52.225000",
+        "00:30:54.728000",
+        "Please! Our brother's home alone."
+      ],
+      [
+        389,
+        "00:32:20.856000",
+        "00:32:24.281000",
+        "I'm calling from Paris. I have a son who's home alone."
+      ],
+      [
+        397,
+        "00:32:46.089000",
+        "00:32:48.933000",
+        "I'm calling from Paris. I have a son who's home alone."
+      ],
+      [
+        403,
+        "00:33:05.859000",
+        "00:33:09.329000",
+        "No, he's home alone! I'd like somebody to go over to the house..."
+      ],
+      [
+        417,
+        "00:33:43.939000",
+        "00:33:47.910000",
+        "I'm calling from Paris. I have a son who's home alone, and I--"
+      ],
+      [
+        706,
+        "01:02:08.642000",
+        "01:02:10.019000",
+        "He's home alone."
+      ]
+    ],
+    "regex": "\\b((?!\\bHome\\ Alone:)Home\\ Alone)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

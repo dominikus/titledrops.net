@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt17494686",
+    "title": "Decibel",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1338,
+    "occurrences": [
+      [
+        649,
+        "00:41:42.110000",
+        "00:41:45.300000",
+        "It maybe a system that's set to explode when the sound exceeds one decibel."
+      ],
+      [
+        1307,
+        "01:42:19.280000",
+        "01:42:28.290000",
+        "-=Decibel=-"
+      ]
+    ],
+    "regex": "\\b((?!\\bDecibel:)Decibel)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

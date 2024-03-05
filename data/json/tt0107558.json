@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0107558",
+    "title": "Metal and Melancholy",
+    "year": 1994,
+    "genres": [
+      "Documentary",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 733,
+    "occurrences": [
+      [
+        109,
+        "00:10:41.981000",
+        "00:10:45.451000",
+        "Peru is made of metal and melancholy."
+      ],
+      [
+        111,
+        "00:10:49.381000",
+        "00:10:52.851000",
+        "Why metal and melancholy?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMetal\\ and\\ Melancholy:)Metal\\ and\\ Melancholy)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

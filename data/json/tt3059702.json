@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3059702",
+    "title": "Wilson City",
+    "year": 2015,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1225,
+    "occurrences": [
+      [
+        134,
+        "00:13:59.040000",
+        "00:14:06.400000",
+        "Before those clowns in Versailles divvy up Europe, Wilson City must be on the dollar!"
+      ],
+      [
+        562,
+        "00:50:43.520000",
+        "00:50:48",
+        "They are looking for an excuse to occupy Wilson City..."
+      ]
+    ],
+    "regex": "\\b((?!\\bWilson\\ City:)Wilson\\ City)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0054944",
+    "title": "Greyfriars Bobby: The True Story of a Dog",
+    "year": 1961,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 1051,
+    "occurrences": [
+      [
+        0,
+        "00:00:04.880000",
+        "00:00:09.032000",
+        "This is the true story of a dog who lived almost a century ago."
+      ],
+      [
+        981,
+        "01:20:17.600000",
+        "01:20:20.910000",
+        "Mister, we're lookin' for Greyfriars Bobby."
+      ],
+      [
+        1015,
+        "01:22:52.800000",
+        "01:22:57.920000",
+        "\"Greyfriars Bobby, from the Lord Provost! Licensed.\""
+      ],
+      [
+        1032,
+        "01:24:40.760000",
+        "01:24:43.399000",
+        "That's Greyfriars Bobby, sir. He belongs to the city."
+      ]
+    ],
+    "regex": "\\b((?!\\bGreyfriars\\ Bobby:)Greyfriars\\ Bobby|(?!\\bTrue\\ Story\\ of\\ a\\ Dog:)True\\ Story\\ of\\ a\\ Dog)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7641334",
+    "title": "Last Shot",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1523,
+    "occurrences": [
+      [
+        462,
+        "00:23:19.900000",
+        "00:23:21.736000",
+        "then its gon' be your last shot.\""
+      ],
+      [
+        1419,
+        "01:14:28.402000",
+        "01:14:32.473000",
+        "For me, this was my last shot."
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Shot:)Last\\ Shot)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

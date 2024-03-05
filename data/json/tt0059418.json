@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0059418",
+    "title": "Major Dundee",
+    "year": 1965,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1215,
+    "occurrences": [
+      [
+        96,
+        "00:11:04.664000",
+        "00:11:07.250000",
+        "It is not my country, Major Dundee."
+      ],
+      [
+        517,
+        "00:46:50.641000",
+        "00:46:55.688000",
+        "How exactly... how exactly do you see yourself, Major Dundee?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMajor\\ Dundee:)Major\\ Dundee)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

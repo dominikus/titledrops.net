@@ -1,0 +1,65 @@
+[
+  {
+    "imdb": "tt16428256",
+    "title": "Suzume",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 7,
+    "all_lines": 125,
+    "occurrences": [
+      [
+        5,
+        "00:02:03",
+        "00:02:04.187000",
+        "Suzume!"
+      ],
+      [
+        10,
+        "00:02:15",
+        "00:02:17.900000",
+        "Suzume, don't forget your lunch today!"
+      ],
+      [
+        12,
+        "00:02:19",
+        "00:02:22",
+        "So, Suzume, I'll be a little late tonight."
+      ],
+      [
+        27,
+        "00:04:03",
+        "00:04:05",
+        "Suzume! Morning!"
+      ],
+      [
+        56,
+        "00:07:39.068000",
+        "00:07:42.100000",
+        "You act like you can just be late, Suzume."
+      ],
+      [
+        94,
+        "00:09:12",
+        "00:09:16.011000",
+        "Suzume, are you feeling okay?"
+      ],
+      [
+        96,
+        "00:09:19.906000",
+        "00:09:21.209000",
+        "Wait, Suzume!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSuzume:)Suzume)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [
+      "Suzume Iwato"
+    ],
+    "title_is_name": true,
+    "rating": 7.7
+  }
+]

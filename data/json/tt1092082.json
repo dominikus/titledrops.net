@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1092082",
+    "title": "Passchendaele",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1405,
+    "occurrences": [
+      [
+        933,
+        "01:08:55.998000",
+        "01:08:58.091000",
+        "This party we call Passchendaele"
+      ],
+      [
+        944,
+        "01:09:27.696000",
+        "01:09:29.220000",
+        "will clear the village of Passchendaele."
+      ],
+      [
+        1315,
+        "01:42:23.170000",
+        "01:42:25.661000",
+        "We did it, by the way. We took Passchendaele."
+      ]
+    ],
+    "regex": "\\b((?!\\bPasschendaele:)Passchendaele)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0034856",
+    "title": "Hitler's Children",
+    "year": 1943,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1272,
+    "occurrences": [
+      [
+        22,
+        "00:02:40.361000",
+        "00:02:41.760000",
+        "\"These are Hitler's children.\""
+      ],
+      [
+        1259,
+        "01:21:04.617000",
+        "01:21:07.585000",
+        "\"And Hitler's children were still swearing to die for him.\""
+      ],
+      [
+        1264,
+        "01:21:26.014000",
+        "01:21:27.981000",
+        "\"Can we stop Hitler's children ..\""
+      ]
+    ],
+    "regex": "\\b((?!\\bHitler's\\ Children:)Hitler's\\ Children)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7363076",
+    "title": "Raid",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 42,
+    "occurrences": [
+      [
+        21,
+        "00:01:26",
+        "00:01:27.625000",
+        "..and you want to conduct a raid."
+      ],
+      [
+        28,
+        "00:01:42.791000",
+        "00:01:45.125000",
+        "During the raid, you cannot go out of the house."
+      ]
+    ],
+    "regex": "\\b((?!\\bRaid:)Raid)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

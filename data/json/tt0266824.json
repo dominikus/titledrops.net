@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0266824",
+    "title": "The Painting",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1453,
+    "occurrences": [
+      [
+        1278,
+        "01:18:12.889000",
+        "01:18:16.025000",
+        "THERE'S A YOUNG MAN WITH A PAINTING TO SEE YOU."
+      ],
+      [
+        1404,
+        "01:29:39.675000",
+        "01:29:42.511000",
+        "THIS PAINTING BY AN UNKNOWN ARTIST."
+      ],
+      [
+        1409,
+        "01:29:51.487000",
+        "01:29:54.923000",
+        "BIDDING ON THIS PAINTING AT $10,000."
+      ]
+    ],
+    "regex": "\\b((?!\\bPainting:)Painting)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

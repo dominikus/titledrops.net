@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt14495394",
+    "title": "A Choice of Weapons: Inspired by Gordon Parks",
+    "year": 2021,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1604,
+    "occurrences": [
+      [
+        273,
+        "00:14:46.708000",
+        "00:14:50.583000",
+        "When I read Gordon's autobiography, A Choice of Weapons,"
+      ],
+      [
+        1161,
+        "01:04:43.625000",
+        "01:04:47.125000",
+        "His book is titled A Choice of Weapons."
+      ]
+    ],
+    "regex": "\\b((?!\\bChoice\\ of\\ Weapons:)Choice\\ of\\ Weapons|(?!\\bInspired\\ by\\ Gordon\\ Parks:)Inspired\\ by\\ Gordon\\ Parks)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

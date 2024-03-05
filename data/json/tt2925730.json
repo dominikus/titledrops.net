@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt2925730",
+    "title": "Goodnight, Sugar Babe: The Killing of Vera Jo Reigle",
+    "year": 2013,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Documentary"
+    ],
+    "count": 1,
+    "all_lines": 2151,
+    "occurrences": [
+      [
+        21,
+        "00:01:01.739000",
+        "00:01:06.234000",
+        "She said, \"Goodnight, Sugar Babe,\" and I said, \"Goodnight.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bGoodnight,\\ Sugar\\ Babe:)Goodnight,\\ Sugar\\ Babe|(?!\\bKilling\\ of\\ Vera\\ Jo\\ Reigle:)Killing\\ of\\ Vera\\ Jo\\ Reigle)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

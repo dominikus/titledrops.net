@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1876248",
+    "title": "Aries Spears: Hollywood, Look I'm Smiling",
+    "year": 2011,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1421,
+    "occurrences": [
+      [
+        3,
+        "00:00:58.433000",
+        "00:01:01.167000",
+        "for aries Spears!"
+      ],
+      [
+        203,
+        "00:09:53.400000",
+        "00:09:55.733000",
+        "I'm aries Spears and I approve this message."
+      ],
+      [
+        850,
+        "00:39:46.700000",
+        "00:39:49.300000",
+        "aries Spears. Hey, my friend, let me tell you,"
+      ]
+    ],
+    "regex": "\\b((?!\\bAries\\ Spears:)Aries\\ Spears|(?!\\bHollywood,\\ Look\\ I'm\\ Smiling:)Hollywood,\\ Look\\ I'm\\ Smiling)(?!\\:)(?!'t)\\b",
+    "runtime": 66,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

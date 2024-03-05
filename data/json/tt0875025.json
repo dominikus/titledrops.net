@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0875025",
+    "title": "Tazza: The High Rollers",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 982,
+    "occurrences": [
+      [
+        51,
+        "00:03:38.318000",
+        "00:03:42.778000",
+        "Tazza: The High Rollers"
+      ],
+      [
+        454,
+        "00:29:16.321000",
+        "00:29:20.189000",
+        "There are 3 top high rollers in Korea."
+      ]
+    ],
+    "regex": "\\b((?!\\bTazza:)Tazza|(?!\\bHigh\\ Rollers:)High\\ Rollers)(?!\\:)(?!'t)\\b",
+    "runtime": 139,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

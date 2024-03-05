@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1187064",
+    "title": "Triangle",
+    "year": 2009,
+    "genres": [
+      "Fantasy",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 909,
+    "occurrences": [
+      [
+        179,
+        "00:15:33.750000",
+        "00:15:36.542000",
+        "- (radio static) - Triangle to coastguard. Over."
+      ],
+      [
+        181,
+        "00:15:39.750000",
+        "00:15:43.208000",
+        "- Triangle to coastguard. Over. - (static)"
+      ],
+      [
+        702,
+        "01:06:16.958000",
+        "01:06:20.667000",
+        "The yacht, the Triangle... I think it'll come back."
+      ]
+    ],
+    "regex": "\\b((?!\\bTriangle:)Triangle)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

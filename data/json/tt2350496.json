@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt2350496",
+    "title": "The Lunchbox",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 7,
+    "all_lines": 863,
+    "occurrences": [
+      [
+        54,
+        "00:10:41.141000",
+        "00:10:43.041000",
+        "The lunchbox is back."
+      ],
+      [
+        68,
+        "00:13:41.822000",
+        "00:13:47.221000",
+        "The lunchbox was empty, then I thought ..."
+      ],
+      [
+        105,
+        "00:17:09.400000",
+        "00:17:12.200000",
+        "The lunchbox was delivered elsewhere."
+      ],
+      [
+        145,
+        "00:22:16.868000",
+        "00:22:18.368000",
+        "The lunchbox is back."
+      ],
+      [
+        706,
+        "01:19:44.909000",
+        "01:19:47.608000",
+        "I got the lunchbox today but it was empty."
+      ],
+      [
+        793,
+        "01:29:06.850000",
+        "01:29:09.650000",
+        "The lunchbox comes to the wrong address."
+      ],
+      [
+        801,
+        "01:29:31.448000",
+        "01:29:34.847000",
+        "This lunchbox is not delivered to my husband."
+      ]
+    ],
+    "regex": "\\b((?!\\bLunchbox:)Lunchbox)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

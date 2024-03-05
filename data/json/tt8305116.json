@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt8305116",
+    "title": "Ayka",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 785,
+    "occurrences": [
+      [
+        80,
+        "00:26:25.617000",
+        "00:26:28.208000",
+        "Urmat, hi! This is Ayka."
+      ],
+      [
+        143,
+        "00:33:05.575000",
+        "00:33:08.875000",
+        "My name is Ayka. I worked for you."
+      ],
+      [
+        213,
+        "00:44:44.492000",
+        "00:44:47.333000",
+        "- What's your name? - Ayka."
+      ],
+      [
+        728,
+        "01:42:22.533000",
+        "01:42:24.266000",
+        "It's me, Ayka."
+      ]
+    ],
+    "regex": "\\b((?!\\bAyka:)Ayka)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [
+      "Ayka"
+    ],
+    "title_is_name": true,
+    "rating": 7.1
+  }
+]

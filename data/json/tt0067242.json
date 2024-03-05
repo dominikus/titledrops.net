@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt0067242",
+    "title": "In the Name of the Italian People",
+    "year": 1971,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "count": 1,
+    "all_lines": 1211,
+    "occurrences": [
+      [
+        5,
+        "00:00:46.460000",
+        "00:00:50.500000",
+        "\"In the name of the Italian People the sentence id executed.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bIn\\ the\\ Name\\ of\\ the\\ Italian\\ People:)In\\ the\\ Name\\ of\\ the\\ Italian\\ People)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

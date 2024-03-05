@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4269118",
+    "title": "Seven in Heaven",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1255,
+    "occurrences": [
+      [
+        529,
+        "00:35:56.487000",
+        "00:35:57.905000",
+        "They were playing that game, Seven In Heaven,"
+      ],
+      [
+        998,
+        "01:09:47.474000",
+        "01:09:49.310000",
+        "Seven in Heaven was clearly a blast for you two,"
+      ]
+    ],
+    "regex": "\\b((?!\\bSeven\\ in\\ Heaven:)Seven\\ in\\ Heaven)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

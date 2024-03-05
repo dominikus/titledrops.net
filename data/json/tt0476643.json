@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0476643",
+    "title": "The Bubble",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1269,
+    "occurrences": [
+      [
+        565,
+        "00:45:21.120000",
+        "00:45:23.475000",
+        "They call it the \"bubble\", because nothing here is real."
+      ],
+      [
+        567,
+        "00:45:26.280000",
+        "00:45:29.875000",
+        "Kibbutz life is a bubble, too. West Bank settlements are bubbles."
+      ],
+      [
+        568,
+        "00:45:30",
+        "00:45:33.789000",
+        "Who can say anymore what's real and what's a bubble?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBubble:)Bubble)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

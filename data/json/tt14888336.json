@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt14888336",
+    "title": "Good Life",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1573,
+    "occurrences": [
+      [
+        1395,
+        "01:31:45.834000",
+        "01:31:53.834000",
+        "Do you know, that Jetmir means good life, in Albanian."
+      ],
+      [
+        1544,
+        "01:43:12.787000",
+        "01:43:15.588000",
+        "Goodbye good life!"
+      ]
+    ],
+    "regex": "\\b((?!\\bGood\\ Life:)Good\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

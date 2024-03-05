@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0093176",
+    "title": "Hello Mary Lou: Prom Night II",
+    "year": 1987,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 738,
+    "occurrences": [
+      [
+        524,
+        "01:01:28.438000",
+        "01:01:30.599000",
+        "Hello Mary Lou"
+      ],
+      [
+        528,
+        "01:01:41.484000",
+        "01:01:45.318000",
+        "We'd never part So hello Mary Lou"
+      ],
+      [
+        599,
+        "01:10:35.918000",
+        "01:10:37.783000",
+        "I remember prom night."
+      ]
+    ],
+    "regex": "\\b((?!\\bHello\\ Mary\\ Lou:)Hello\\ Mary\\ Lou|(?!\\bProm\\ Night:)Prom\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

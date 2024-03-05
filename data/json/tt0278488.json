@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0278488",
+    "title": "How High",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 1679,
+    "occurrences": [
+      [
+        1619,
+        "01:30:17.480000",
+        "01:30:19.760000",
+        "How high, motherfuckers How high"
+      ],
+      [
+        1626,
+        "01:30:34.600000",
+        "01:30:36.960000",
+        "On that piece ofthe pie Now ask me how high"
+      ]
+    ],
+    "regex": "\\b((?!\\bHow\\ High:)How\\ High)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

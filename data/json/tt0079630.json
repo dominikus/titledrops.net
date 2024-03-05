@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0079630",
+    "title": "A Nightingale Sang in Berkeley Square",
+    "year": 1980,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1012,
+    "occurrences": [
+      [
+        37,
+        "00:04:24.760000",
+        "00:04:27.760000",
+        "MUSIC: \"A Nightingale Sang In Berkeley Square\""
+      ],
+      [
+        667,
+        "01:10:05.760000",
+        "01:10:09.760000",
+        "# A nightingale sang in Berkeley Square"
+      ]
+    ],
+    "regex": "\\b((?!\\bNightingale\\ Sang\\ in\\ Berkeley\\ Square:)Nightingale\\ Sang\\ in\\ Berkeley\\ Square)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

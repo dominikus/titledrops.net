@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0211933",
+    "title": "Awake",
+    "year": 2007,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1603,
+    "occurrences": [
+      [
+        640,
+        "00:31:38.230000",
+        "00:31:40.926000",
+        "Okay? I'm... I'm still awake!"
+      ],
+      [
+        1582,
+        "01:16:41.030000",
+        "01:16:46.866000",
+        "He... is... awake."
+      ]
+    ],
+    "regex": "\\b((?!\\bAwake:)Awake)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

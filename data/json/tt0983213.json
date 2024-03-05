@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0983213",
+    "title": "5 Centimeters per Second",
+    "year": 2007,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 662,
+    "occurrences": [
+      [
+        3,
+        "00:00:13.190000",
+        "00:00:14.990000",
+        "They say it's 5 centimeters per second."
+      ],
+      [
+        5,
+        "00:00:16.800000",
+        "00:00:20.710000",
+        "The speed at which cherry blossom petals fall, 5 centimeters per second."
+      ],
+      [
+        83,
+        "00:05:18.080000",
+        "00:05:21.810000",
+        "...the cherry petals fall at 5 centimeters per second."
+      ]
+    ],
+    "regex": "\\b((?!\\b5\\ Centimeters\\ per\\ Second:)5\\ Centimeters\\ per\\ Second)(?!\\:)(?!'t)\\b",
+    "runtime": 63,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt2320924",
+    "title": "War of the Worlds: Goliath",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 6,
+    "all_lines": 723,
+    "occurrences": [
+      [
+        78,
+        "00:13:59.837000",
+        "00:14:01.421000",
+        "The goliath, sir."
+      ],
+      [
+        164,
+        "00:19:56.026000",
+        "00:20:01.026000",
+        "To the crew of the goliath. The best of the best."
+      ],
+      [
+        439,
+        "00:47:55.704000",
+        "00:48:00.704000",
+        "Goliath! Beowulf! Fire at will!"
+      ],
+      [
+        468,
+        "00:51:06.311000",
+        "00:51:09.188000",
+        "If we stay with the goliath, we'll have a better chance of being found."
+      ],
+      [
+        593,
+        "01:03:56.998000",
+        "01:04:00.083000",
+        "A few days r&r and they and the goliath will be fine."
+      ],
+      [
+        606,
+        "01:05:03.189000",
+        "01:05:07.400000",
+        "Fine. A few days and the goliath will be as good as new."
+      ]
+    ],
+    "regex": "\\b((?!\\bWar\\ of\\ the\\ Worlds:)War\\ of\\ the\\ Worlds|(?!\\bGoliath:)Goliath)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

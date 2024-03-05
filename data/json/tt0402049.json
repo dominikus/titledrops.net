@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0402049",
+    "title": "Yoshino's Barber Shop",
+    "year": 2004,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 552,
+    "occurrences": [
+      [
+        5,
+        "00:05:22.569000",
+        "00:05:30.476000",
+        "Yoshino's Barber Shop All The Boys ln The Town Had The Same Haircut"
+      ],
+      [
+        6,
+        "00:05:30.577000",
+        "00:05:33.307000",
+        "''Yoshino's Barber Shop''"
+      ]
+    ],
+    "regex": "\\b((?!\\bYoshino's\\ Barber\\ Shop:)Yoshino's\\ Barber\\ Shop)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

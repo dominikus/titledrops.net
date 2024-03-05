@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0264333",
+    "title": "The Abduction Club",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1152,
+    "occurrences": [
+      [
+        23,
+        "00:02:37.120000",
+        "00:02:39.714000",
+        "Ladies and gentlemen, this is the Abduction Club."
+      ],
+      [
+        160,
+        "00:10:41.240000",
+        "00:10:44.755000",
+        "- The Abduction Club struck again. - Good for them."
+      ],
+      [
+        316,
+        "00:21:01.240000",
+        "00:21:05.313000",
+        "Ladies and gentlemen, this is the Abduction Club."
+      ],
+      [
+        765,
+        "00:52:38.520000",
+        "00:52:42.069000",
+        "...she was seized by an abduction club."
+      ],
+      [
+        971,
+        "01:09:35.480000",
+        "01:09:40.076000",
+        "I am led to believe that the Wicklow abduction club has been disbanded."
+      ]
+    ],
+    "regex": "\\b((?!\\bAbduction\\ Club:)Abduction\\ Club)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

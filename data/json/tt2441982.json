@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2441982",
+    "title": "The Visitors: Bastille Day",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 1457,
+    "occurrences": [
+      [
+        3,
+        "00:00:37.445000",
+        "00:00:39.570000",
+        "(THE VISITORS )"
+      ],
+      [
+        11,
+        "00:01:02.737000",
+        "00:01:05.904000",
+        "(THE VISITORS - IN THE PASSAGES OF TIME)"
+      ],
+      [
+        12,
+        "00:01:12.362000",
+        "00:01:14.187000",
+        "THE VISITORS"
+      ]
+    ],
+    "regex": "\\b((?!\\bVisitors:)Visitors|(?!\\bBastille\\ Day:)Bastille\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

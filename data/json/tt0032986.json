@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0032986",
+    "title": "Rhythm on the River",
+    "year": 1940,
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "count": 4,
+    "all_lines": 1418,
+    "occurrences": [
+      [
+        958,
+        "01:03:05.952000",
+        "01:03:08.444000",
+        "That's the rhythm on the river"
+      ],
+      [
+        963,
+        "01:03:18.731000",
+        "01:03:21.257000",
+        "That's the rhythm on the river"
+      ],
+      [
+        972,
+        "01:03:41.788000",
+        "01:03:44.280000",
+        "That's the rhythm on the river"
+      ],
+      [
+        982,
+        "01:04:53.025000",
+        "01:04:56.086000",
+        "That's the rhythm on the river"
+      ]
+    ],
+    "regex": "\\b((?!\\bRhythm\\ on\\ the\\ River:)Rhythm\\ on\\ the\\ River)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

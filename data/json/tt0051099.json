@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0051099",
+    "title": "Torero",
+    "year": 1956,
+    "genres": [
+      "Documentary",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 756,
+    "occurrences": [
+      [
+        172,
+        "00:15:14.857000",
+        "00:15:18.874000",
+        "Torero! What a bullfighter!"
+      ],
+      [
+        258,
+        "00:22:27.125000",
+        "00:22:30.391000",
+        "Torero! Torero!"
+      ],
+      [
+        750,
+        "01:10:08.940000",
+        "01:10:11.613000",
+        "Torero! Torero!"
+      ],
+      [
+        751,
+        "01:10:12.817000",
+        "01:10:14.676000",
+        "Torero!"
+      ],
+      [
+        752,
+        "01:10:15.060000",
+        "01:10:16.818000",
+        "Torero!"
+      ]
+    ],
+    "regex": "\\b((?!\\bTorero:)Torero)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

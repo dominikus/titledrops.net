@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0166252",
+    "title": "The Love Letter",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1131,
+    "occurrences": [
+      [
+        543,
+        "00:39:04.241000",
+        "00:39:07.005000",
+        "Because I wouldn't get a love letter, would I?"
+      ],
+      [
+        1071,
+        "01:19:42.110000",
+        "01:19:45.204000",
+        "No one ever wrote me a love letter before!"
+      ]
+    ],
+    "regex": "\\b((?!\\bLove\\ Letter:)Love\\ Letter)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt11222962",
+    "title": "The Badger",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1100,
+    "occurrences": [
+      [
+        99,
+        "00:07:34.960000",
+        "00:07:39.800000",
+        "Ma'am, we have a trained badger who is in love with termites."
+      ],
+      [
+        103,
+        "00:07:47.320000",
+        "00:07:50.760000",
+        "We call it the Badger Technique."
+      ],
+      [
+        1000,
+        "01:21:07.320000",
+        "01:21:09.640000",
+        "I'm Baggie the Badger! Look how pretty I am!"
+      ],
+      [
+        1016,
+        "01:22:50.360000",
+        "01:22:53.320000",
+        "Well, how is my Baggie the Badger doing?"
+      ],
+      [
+        1043,
+        "01:24:08",
+        "01:24:10.600000",
+        "\"Well done my lovely badger!\""
+      ]
+    ],
+    "regex": "\\b((?!\\bBadger:)Badger)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

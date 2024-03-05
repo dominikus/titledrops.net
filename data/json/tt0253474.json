@@ -1,0 +1,69 @@
+[
+  {
+    "imdb": "tt0253474",
+    "title": "The Pianist",
+    "year": 2002,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "count": 8,
+    "all_lines": 895,
+    "occurrences": [
+      [
+        0,
+        "00:00:03.400000",
+        "00:00:04.700000",
+        "The Pianist"
+      ],
+      [
+        85,
+        "00:07:44.190000",
+        "00:07:47.490000",
+        "But sure you'll find work.\\NA pianist like you."
+      ],
+      [
+        252,
+        "00:21:36.150000",
+        "00:21:38.650000",
+        "What about you?\\NYou're a great pianist."
+      ],
+      [
+        271,
+        "00:24:25.360000",
+        "00:24:29.320000",
+        "This is the greatest pianist in\\NPoland. Maybe the whole world."
+      ],
+      [
+        831,
+        "02:02:37.460000",
+        "02:02:40.470000",
+        "I was a pianist."
+      ],
+      [
+        832,
+        "02:02:42.550000",
+        "02:02:44.800000",
+        "Pianist?"
+      ],
+      [
+        861,
+        "02:15:02.330000",
+        "02:15:05.210000",
+        "Perfect name for a pianist."
+      ],
+      [
+        882,
+        "02:18:25.990000",
+        "02:18:29.160000",
+        "a pianist called Szpilman,\\Nfrom the Polish radio station?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPianist:)Pianist)(?!\\:)(?!'t)\\b",
+    "runtime": 150,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.5
+  }
+]

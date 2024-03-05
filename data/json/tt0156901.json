@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0156901",
+    "title": "The Apple",
+    "year": 1998,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 756,
+    "occurrences": [
+      [
+        285,
+        "00:33:30",
+        "00:33:31.228000",
+        "Apple."
+      ],
+      [
+        448,
+        "00:50:10.200000",
+        "00:50:11.997000",
+        "Who wants an apple?"
+      ],
+      [
+        450,
+        "00:50:33.280000",
+        "00:50:36.158000",
+        "lf you want an apple, follow me!"
+      ],
+      [
+        580,
+        "01:02:18.520000",
+        "01:02:21.080000",
+        "You hit me, then you give me an apple?"
+      ],
+      [
+        587,
+        "01:02:46.800000",
+        "01:02:49.792000",
+        "to see who can eat her apple first."
+      ]
+    ],
+    "regex": "\\b((?!\\bApple:)Apple)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

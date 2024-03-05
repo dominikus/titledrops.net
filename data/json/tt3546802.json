@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3546802",
+    "title": "Within These Walls",
+    "year": 2015,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 906,
+    "occurrences": [
+      [
+        528,
+        "01:01:25.381000",
+        "01:01:27.250000",
+        "Within these walls..."
+      ],
+      [
+        532,
+        "01:01:47.270000",
+        "01:01:55.144000",
+        "Within these walls is where I'm going to be."
+      ]
+    ],
+    "regex": "\\b((?!\\bWithin\\ These\\ Walls:)Within\\ These\\ Walls)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3
+  }
+]

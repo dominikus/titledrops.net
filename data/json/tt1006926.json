@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1006926",
+    "title": "One Piece: Dead End Adventure",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 2,
+    "all_lines": 1300,
+    "occurrences": [
+      [
+        409,
+        "00:27:36.010000",
+        "00:27:38.959000",
+        "And I am with the research of mysterious One Piece."
+      ],
+      [
+        1050,
+        "01:14:44.090000",
+        "01:14:49.010000",
+        "I will find One Piece. And I will become a large pirate!"
+      ]
+    ],
+    "regex": "\\b((?!\\bOne\\ Piece:)One\\ Piece|(?!\\bDead\\ End\\ Adventure:)Dead\\ End\\ Adventure)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

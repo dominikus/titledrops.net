@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0281364",
+    "title": "Wasabi",
+    "year": 2001,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 814,
+    "occurrences": [
+      [
+        720,
+        "01:12:34.080000",
+        "01:12:37.550000",
+        "Tell me, what's this? -Wasabi."
+      ],
+      [
+        793,
+        "01:22:06.480000",
+        "01:22:08.789000",
+        "What's that? -Wasabi."
+      ]
+    ],
+    "regex": "\\b((?!\\bWasabi:)Wasabi)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

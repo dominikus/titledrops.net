@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt10256570",
+    "title": "The Goddess of Fortune",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1295,
+    "occurrences": [
+      [
+        311,
+        "00:24:20.435000",
+        "00:24:22.769000",
+        "The Goddess of Fortune has a secret."
+      ],
+      [
+        484,
+        "00:36:06.861000",
+        "00:36:08.861000",
+        "at the Goddess of Fortune museum."
+      ],
+      [
+        891,
+        "01:12:00.512000",
+        "01:12:03.139000",
+        "The Goddess of Fortune heals all illnesses."
+      ],
+      [
+        1283,
+        "01:52:55.395000",
+        "01:52:58.396000",
+        "Kids, do you know the Goddess of Fortune has a secret?"
+      ]
+    ],
+    "regex": "\\b((?!\\bGoddess\\ of\\ Fortune:)Goddess\\ of\\ Fortune)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

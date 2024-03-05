@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5114840",
+    "title": "Six Minutes to Midnight",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1109,
+    "occurrences": [
+      [
+        637,
+        "00:51:01.384000",
+        "00:51:02.850000",
+        "Six minutes to midnight."
+      ],
+      [
+        894,
+        "01:11:28.884000",
+        "01:11:31.051000",
+        "It is six minutes to midnight."
+      ],
+      [
+        896,
+        "01:11:33.284000",
+        "01:11:36.051000",
+        "It is six minutes to midnight!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSix\\ Minutes\\ to\\ Midnight:)Six\\ Minutes\\ to\\ Midnight)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt9362930",
+    "title": "Blue Beetle",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 1763,
+    "occurrences": [
+      [
+        922,
+        "00:54:40.748000",
+        "00:54:43.450000",
+        "Ted Kord was Blue Beetle?"
+      ],
+      [
+        924,
+        "00:54:46.788000",
+        "00:54:48.589000",
+        "What the hell is Blue Beetle?"
+      ],
+      [
+        929,
+        "00:55:00.467000",
+        "00:55:03.370000",
+        "I can't believe he was the Blue Beetle."
+      ],
+      [
+        944,
+        "00:55:43.410000",
+        "00:55:46.413000",
+        "The Blue Beetle, he had a sense of humor."
+      ],
+      [
+        946,
+        "00:55:50.651000",
+        "00:55:54.956000",
+        "So instead, he built his own tech to fight as Blue Beetle."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Beetle:)Blue\\ Beetle)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

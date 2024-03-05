@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0061069",
+    "title": "Taro the Dragon Boy",
+    "year": 1979,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 689,
+    "occurrences": [
+      [
+        36,
+        "00:03:59.943000",
+        "00:04:03.910000",
+        "Taro the Dragon Boy. I am, I am the dragon child, Tatsunoko Taro"
+      ],
+      [
+        37,
+        "00:04:03.914000",
+        "00:04:04.143000",
+        "Taro the Dragon Boy"
+      ],
+      [
+        38,
+        "00:04:04.147000",
+        "00:04:05.311000",
+        "Taro the Dragon Boy. The land is calling me. Den dera den dera den"
+      ]
+    ],
+    "regex": "\\b((?!\\bTaro\\ the\\ Dragon\\ Boy:)Taro\\ the\\ Dragon\\ Boy)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

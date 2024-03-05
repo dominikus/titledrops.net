@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4263780",
+    "title": "The Snarling",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1740,
+    "occurrences": [
+      [
+        944,
+        "00:39:58.361000",
+        "00:40:03.401000",
+        "All the wilds dogs are snarling and going mental, but look."
+      ],
+      [
+        946,
+        "00:40:05.472000",
+        "00:40:08.475000",
+        "and snarling at one person."
+      ]
+    ],
+    "regex": "\\b((?!\\bSnarling:)Snarling)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

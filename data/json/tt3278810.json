@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3278810",
+    "title": "Shepherd: The Story of a Jewish Dog",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Family",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1051,
+    "occurrences": [
+      [
+        70,
+        "00:04:12.775000",
+        "00:04:15.049000",
+        "Are these puppies pure German Shepherd?"
+      ],
+      [
+        523,
+        "00:41:14.356000",
+        "00:41:16.470000",
+        "Is your dog pure German Shepherd?"
+      ]
+    ],
+    "regex": "\\b((?!\\bShepherd:)Shepherd|(?!\\bStory\\ of\\ a\\ Jewish\\ Dog:)Story\\ of\\ a\\ Jewish\\ Dog)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

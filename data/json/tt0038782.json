@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0038782",
+    "title": "Nocturne",
+    "year": 1946,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 5,
+    "all_lines": 1249,
+    "occurrences": [
+      [
+        15,
+        "00:03:00.508000",
+        "00:03:02.426000",
+        "I'm calling it \"Nocturne\"."
+      ],
+      [
+        16,
+        "00:03:08.103000",
+        "00:03:09.041000",
+        "\"Nocturne.\""
+      ],
+      [
+        17,
+        "00:03:10.551000",
+        "00:03:12.248000",
+        "\"You are my Nocturne.\""
+      ],
+      [
+        24,
+        "00:03:39.306000",
+        "00:03:40.257000",
+        "\"Nocturne.\""
+      ],
+      [
+        25,
+        "00:03:41.862000",
+        "00:03:43.309000",
+        "\"You are my Nocturne.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bNocturne:)Nocturne)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

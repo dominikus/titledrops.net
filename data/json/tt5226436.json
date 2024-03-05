@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5226436",
+    "title": "The Fourth Phase",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 909,
+    "occurrences": [
+      [
+        12,
+        "00:02:56.743000",
+        "00:02:59.512000",
+        "three phases alone, you need a fourth phase."
+      ],
+      [
+        689,
+        "01:06:39.295000",
+        "01:06:40.763000",
+        " What's the fourth phase?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFourth\\ Phase:)Fourth\\ Phase)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

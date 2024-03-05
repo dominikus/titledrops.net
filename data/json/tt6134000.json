@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt6134000",
+    "title": "The Line",
+    "year": 2017,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 784,
+    "occurrences": [
+      [
+        387,
+        "00:38:31",
+        "00:38:33.041000",
+        "to the Green Border, right up to the line."
+      ],
+      [
+        746,
+        "01:39:53",
+        "01:39:53.958000",
+        "A line."
+      ],
+      [
+        747,
+        "01:39:54.041000",
+        "01:39:57.041000",
+        "A thin line between those you can"
+      ]
+    ],
+    "regex": "\\b((?!\\bLine:)Line)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

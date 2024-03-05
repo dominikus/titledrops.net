@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3700454",
+    "title": "All Inclusive",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 799,
+    "occurrences": [
+      [
+        65,
+        "00:08:29.759000",
+        "00:08:33.581000",
+        "Come to me and get your 'all inclusive' bracelets. Here you go."
+      ],
+      [
+        71,
+        "00:08:51.384000",
+        "00:08:53.602000",
+        "All inclusive bracelets for you."
+      ]
+    ],
+    "regex": "\\b((?!\\bAll\\ Inclusive:)All\\ Inclusive)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

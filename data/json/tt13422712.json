@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt13422712",
+    "title": "Outlaw's Buckle",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1070,
+    "occurrences": [
+      [
+        782,
+        "00:58:38.716000",
+        "00:58:41.327000",
+        "Because Abner Outlaw's buckle, sold to the right buyer"
+      ],
+      [
+        1038,
+        "01:13:39.082000",
+        "01:13:41.951000",
+        "That is Abner Outlaw's buckle."
+      ],
+      [
+        1047,
+        "01:14:07.544000",
+        "01:14:10.088000",
+        "This is, this is Outlaw's buckle."
+      ]
+    ],
+    "regex": "\\b((?!\\bOutlaw's\\ Buckle:)Outlaw's\\ Buckle)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.1
+  }
+]

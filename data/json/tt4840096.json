@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4840096",
+    "title": "Robbery",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1165,
+    "occurrences": [
+      [
+        382,
+        "00:24:43.958000",
+        "00:24:44.697000",
+        "I said robbery ah!"
+      ],
+      [
+        430,
+        "00:27:53.292000",
+        "00:27:54.873000",
+        "a armed robbery"
+      ]
+    ],
+    "regex": "\\b((?!\\bRobbery:)Robbery)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

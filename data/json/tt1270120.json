@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1270120",
+    "title": "Transfer",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 761,
+    "occurrences": [
+      [
+        109,
+        "00:13:19.078000",
+        "00:13:23.447000",
+        "After the transfer, you take this medication nightly."
+      ],
+      [
+        449,
+        "01:01:43.446000",
+        "01:01:47.348000",
+        "He hides the transfer pills in the safe. I could see the code in the dream."
+      ],
+      [
+        557,
+        "01:12:28.991000",
+        "01:12:33.121000",
+        "The old Dr. Menzel, the inventor of the personality transfer."
+      ],
+      [
+        755,
+        "01:33:17.171000",
+        "01:33:20.197000",
+        "The personal transfer is enjoying ever-increasing popularity."
+      ]
+    ],
+    "regex": "\\b((?!\\bTransfer:)Transfer)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

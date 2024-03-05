@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0155844",
+    "title": "Magic Temple",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 922,
+    "occurrences": [
+      [
+        267,
+        "00:26:14.282000",
+        "00:26:17.786000",
+        "You must find the Magic Temple."
+      ],
+      [
+        738,
+        "01:15:54.804000",
+        "01:16:00.060000",
+        "I'm pretty sure that this is the way to the Magic Temple."
+      ]
+    ],
+    "regex": "\\b((?!\\bMagic\\ Temple:)Magic\\ Temple)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0295201",
+    "title": "The Unemployment Club",
+    "year": 2003,
+    "genres": [
+      "\\N"
+    ],
+    "count": 2,
+    "all_lines": 958,
+    "occurrences": [
+      [
+        27,
+        "00:05:17.007000",
+        "00:05:19.282000",
+        "The Unemployment Club."
+      ],
+      [
+        252,
+        "00:24:33.407000",
+        "00:24:36.638000",
+        "We are the Unemployment Club. The unemployment fan club."
+      ]
+    ],
+    "regex": "\\b((?!\\bUnemployment\\ Club:)Unemployment\\ Club)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0166890",
+    "title": "Mr. Zhao",
+    "year": 1998,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 766,
+    "occurrences": [
+      [
+        0,
+        "00:00:00.266000",
+        "00:00:06.569000",
+        "Mr. Zhao"
+      ],
+      [
+        487,
+        "00:56:42.766000",
+        "00:56:49.638000",
+        "Mr. Zhao, is it you?"
+      ],
+      [
+        490,
+        "00:56:54.811000",
+        "00:56:59.874000",
+        "I just think... Mr. Zhao, you have heard what I said just now."
+      ],
+      [
+        501,
+        "00:57:36.886000",
+        "00:57:42.586000",
+        "Mr. Zhao, I'm a rough guy, but you're a knowledgeable man,"
+      ],
+      [
+        507,
+        "00:58:02.078000",
+        "00:58:06.538000",
+        "Mr. Zhao, we are both men and there is nobody else here,"
+      ]
+    ],
+    "regex": "\\b((?!\\bMr\\.\\ Zhao:)Mr\\.\\ Zhao)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

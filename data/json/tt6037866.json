@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt6037866",
+    "title": "Slam",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1236,
+    "occurrences": [
+      [
+        212,
+        "00:15:12.177000",
+        "00:15:16.301000",
+        "She does slam poetry, she took me there once."
+      ],
+      [
+        464,
+        "00:39:02.861000",
+        "00:39:07.244000",
+        "I heard the door slam and I heard him get into the car."
+      ],
+      [
+        543,
+        "00:45:34.199000",
+        "00:45:37.408000",
+        "Slam poetry, spoken word."
+      ]
+    ],
+    "regex": "\\b((?!\\bSlam:)Slam)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0417072",
+    "title": "R-Point",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Horror",
+      "War"
+    ],
+    "count": 7,
+    "all_lines": 866,
+    "occurrences": [
+      [
+        145,
+        "00:18:22.434000",
+        "00:18:24.299000",
+        "This is where R-Point begins."
+      ],
+      [
+        240,
+        "00:28:13.024000",
+        "00:28:15.185000",
+        "from this spot is \"R-Point\"."
+      ],
+      [
+        330,
+        "00:37:58.542000",
+        "00:38:00.407000",
+        "There's nothing alive here in R-point."
+      ],
+      [
+        345,
+        "00:38:41.319000",
+        "00:38:44.880000",
+        "- What do you mean? - I already told you. This is R-point."
+      ],
+      [
+        575,
+        "01:04:45.314000",
+        "01:04:48.977000",
+        "R-point's fucking haunted!"
+      ],
+      [
+        753,
+        "01:26:36.524000",
+        "01:26:40.984000",
+        "We need back up! Send a chopper to R-Point, right now!"
+      ],
+      [
+        861,
+        "01:44:16.016000",
+        "01:44:18.075000",
+        "We've searched R-Point,"
+      ]
+    ],
+    "regex": "\\b((?!\\bR\\-Point:)R\\-Point)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

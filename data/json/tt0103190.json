@@ -1,0 +1,54 @@
+[
+  {
+    "imdb": "tt0103190",
+    "title": "Van Gogh",
+    "year": 1991,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1303,
+    "occurrences": [
+      [
+        360,
+        "00:21:36.700000",
+        "00:21:39.700000",
+        "Bring Mr. Van Gogh some quinine"
+      ],
+      [
+        410,
+        "00:24:59.800000",
+        "00:25:03.900000",
+        "Marguerite's posing Mr. Van Gogh's painting"
+      ],
+      [
+        843,
+        "00:46:22",
+        "00:46:24.300000",
+        "Not so simple, Mr. Van Gogh"
+      ],
+      [
+        1194,
+        "01:08:07.800000",
+        "01:08:11.200000",
+        "Mr. Van Gogh will draw you the sand-merchant"
+      ],
+      [
+        1202,
+        "01:08:39.500000",
+        "01:08:41.500000",
+        "Thanks, Mr. Van Gogh"
+      ]
+    ],
+    "regex": "\\b((?!\\bVan\\ Gogh:)Van\\ Gogh)(?!\\:)(?!'t)\\b",
+    "runtime": 158,
+    "characters": [
+      "Vincent Van Gogh",
+      "Théo Van Gogh"
+    ],
+    "title_is_name": true,
+    "rating": 7.1
+  }
+]

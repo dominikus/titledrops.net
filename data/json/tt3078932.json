@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3078932",
+    "title": "Somnus",
+    "year": 2017,
+    "genres": [
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 714,
+    "occurrences": [
+      [
+        383,
+        "00:43:27.988000",
+        "00:43:31.122000",
+        "for the added delta-v required to return to earth from Somnus"
+      ],
+      [
+        419,
+        "00:45:43.125000",
+        "00:45:45.059000",
+        "Somnus track, laid in."
+      ]
+    ],
+    "regex": "\\b((?!\\bSomnus:)Somnus)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.9
+  }
+]

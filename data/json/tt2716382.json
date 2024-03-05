@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2716382",
+    "title": "Sea Fever",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 872,
+    "occurrences": [
+      [
+        108,
+        "00:09:04.100000",
+        "00:09:06.437000",
+        "Sea fever. Happens."
+      ],
+      [
+        314,
+        "00:32:57.500000",
+        "00:32:59.576000",
+        "- Sea fever. - What?"
+      ],
+      [
+        531,
+        "00:50:54.411000",
+        "00:50:56.851000",
+        "It was sea fever. They took their own lives."
+      ]
+    ],
+    "regex": "\\b((?!\\bSea\\ Fever:)Sea\\ Fever)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

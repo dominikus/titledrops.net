@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0371712",
+    "title": "The Diamond Ring",
+    "year": 1992,
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 6,
+    "all_lines": 1432,
+    "occurrences": [
+      [
+        342,
+        "00:30:39.832000",
+        "00:30:40.913000",
+        "He has a diamond ring on his finger."
+      ],
+      [
+        343,
+        "00:30:40.993000",
+        "00:30:43.854000",
+        "If it's a real diamond ring then it won't be less than 100,000 rupees."
+      ],
+      [
+        1000,
+        "01:12:30.365000",
+        "01:12:33.154000",
+        "He showed the diamond ring on his fingers and said.."
+      ],
+      [
+        1020,
+        "01:13:39.800000",
+        "01:13:43.562000",
+        "..utter the hint sentence, show the diamond ring.."
+      ],
+      [
+        1372,
+        "01:40:24.693000",
+        "01:40:29.492000",
+        "So, before death Ram Dulal gave this diamond ring to them."
+      ],
+      [
+        1408,
+        "01:43:48.619000",
+        "01:43:49.700000",
+        "That's the real diamond ring."
+      ]
+    ],
+    "regex": "\\b((?!\\bDiamond\\ Ring:)Diamond\\ Ring)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

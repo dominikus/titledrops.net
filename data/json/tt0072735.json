@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0072735",
+    "title": "Breakheart Pass",
+    "year": 1975,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 578,
+    "occurrences": [
+      [
+        233,
+        "00:24:05.560000",
+        "00:24:08.916000",
+        "With this weather, I guess we'll be at Breakheart Pass in about..."
+      ],
+      [
+        375,
+        "00:48:16.320000",
+        "00:48:19.312000",
+        "Hawkins, ask him what time he gets to Breakheart Pass."
+      ],
+      [
+        535,
+        "01:13:55.840000",
+        "01:13:57.990000",
+        "Breakheart Pass coming up."
+      ]
+    ],
+    "regex": "\\b((?!\\bBreakheart\\ Pass:)Breakheart\\ Pass)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

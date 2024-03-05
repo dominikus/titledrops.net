@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0120699",
+    "title": "The Hi-Lo Country",
+    "year": 1998,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 1343,
+    "occurrences": [
+      [
+        329,
+        "00:25:15.226000",
+        "00:25:18.466000",
+        "But as we neared our home range in the Hi-Lo country,"
+      ],
+      [
+        1322,
+        "01:45:41.092000",
+        "01:45:42.972000",
+        "When I left the Hi-Lo country,"
+      ]
+    ],
+    "regex": "\\b((?!\\bHi\\-Lo\\ Country:)Hi\\-Lo\\ Country)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

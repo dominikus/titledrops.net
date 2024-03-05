@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0472050",
+    "title": "Bart Got a Room",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1188,
+    "occurrences": [
+      [
+        463,
+        "00:26:43.841000",
+        "00:26:45.740000",
+        "- Why? - Bart got a room?"
+      ],
+      [
+        512,
+        "00:28:51.980000",
+        "00:28:53.944000",
+        "Bart got a room."
+      ],
+      [
+        513,
+        "00:28:53.945000",
+        "00:28:56.679000",
+        "- Bart got a room? - Hi, can I help you?"
+      ],
+      [
+        681,
+        "00:37:51.458000",
+        "00:37:53.892000",
+        "'cause I think Bart got a room."
+      ],
+      [
+        953,
+        "00:54:43.219000",
+        "00:54:45.484000",
+        "Dad, Bart got a room."
+      ],
+      [
+        954,
+        "00:54:48.084000",
+        "00:54:50.684000",
+        "Bart got a room?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBart\\ Got\\ a\\ Room:)Bart\\ Got\\ a\\ Room)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

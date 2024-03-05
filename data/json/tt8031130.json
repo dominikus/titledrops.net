@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt8031130",
+    "title": "Shadow Wolves",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1185,
+    "occurrences": [
+      [
+        120,
+        "00:07:11.901000",
+        "00:07:13.503000",
+        "They call themselves Shadow Wolves."
+      ],
+      [
+        344,
+        "00:23:55.637000",
+        "00:23:57.838000",
+        "He runs a unit called The Shadow Wolves."
+      ],
+      [
+        1174,
+        "01:33:18.896000",
+        "01:33:22.399000",
+        "* Shadow wolves on the hunt *"
+      ],
+      [
+        1178,
+        "01:33:55.400000",
+        "01:33:58.835000",
+        "* Shadow wolves on the hunt *"
+      ],
+      [
+        1182,
+        "01:34:07.812000",
+        "01:34:10.947000",
+        "* Shadow wolves on the hunt *"
+      ]
+    ],
+    "regex": "\\b((?!\\bShadow\\ Wolves:)Shadow\\ Wolves)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

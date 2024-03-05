@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt8324576",
+    "title": "Gatao 2: Rise of the King",
+    "year": 2018,
+    "genres": [
+      "Crime"
+    ],
+    "count": 4,
+    "all_lines": 1252,
+    "occurrences": [
+      [
+        986,
+        "01:29:06.583000",
+        "01:29:08.416000",
+        "Do you know what does it mean to be Gatao?"
+      ],
+      [
+        987,
+        "01:29:10.958000",
+        "01:29:15.124000",
+        "Early days in Taiwan, there were many Gatao"
+      ],
+      [
+        996,
+        "01:29:48.167000",
+        "01:29:50.458000",
+        "That is the real Gatao"
+      ],
+      [
+        1005,
+        "01:30:22.125000",
+        "01:30:25.041000",
+        "Bring stability to our Gatao"
+      ]
+    ],
+    "regex": "\\b((?!\\bGatao:)Gatao|(?!\\bRise\\ of\\ the\\ King:)Rise\\ of\\ the\\ King)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

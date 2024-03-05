@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt12496552",
+    "title": "Super Hot",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1513,
+    "occurrences": [
+      [
+        37,
+        "00:03:33.292000",
+        "00:03:34.832000",
+        "Super Hot Pizza."
+      ],
+      [
+        75,
+        "00:05:42.584000",
+        "00:05:44.623000",
+        "this here Super Hot pizza."
+      ]
+    ],
+    "regex": "\\b((?!\\bSuper\\ Hot:)Super\\ Hot)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt12159766",
+    "title": "Trigger Points",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 723,
+    "occurrences": [
+      [
+        645,
+        "01:27:12.980000",
+        "01:27:17.120000",
+        "by focusing on trigger points"
+      ],
+      [
+        658,
+        "01:28:27.360000",
+        "01:28:29.123000",
+        "You've had these trigger points,"
+      ]
+    ],
+    "regex": "\\b((?!\\bTrigger\\ Points:)Trigger\\ Points)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.6
+  }
+]

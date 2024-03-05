@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3418854",
+    "title": "Burning Dog",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1823,
+    "occurrences": [
+      [
+        508,
+        "00:23:44.058000",
+        "00:23:45.893000",
+        "Don't pet a burning dog."
+      ],
+      [
+        509,
+        "00:23:46.660000",
+        "00:23:47.862000",
+        "Don't pet a burning dog."
+      ]
+    ],
+    "regex": "\\b((?!\\bBurning\\ Dog:)Burning\\ Dog)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

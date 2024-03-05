@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2042568",
+    "title": "Inside Llewyn Davis",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1400,
+    "occurrences": [
+      [
+        990,
+        "01:07:29.170000",
+        "01:07:31.672000",
+        "- Inside Llewyn Davis. - Oh, you're with Mel."
+      ],
+      [
+        1010,
+        "01:08:32.650000",
+        "01:08:34.227000",
+        "Inside Llewyn Davis."
+      ]
+    ],
+    "regex": "\\b((?!\\bInside\\ Llewyn\\ Davis:)Inside\\ Llewyn\\ Davis)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt9272572",
+    "title": "Black Widow",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1372,
+    "occurrences": [
+      [
+        297,
+        "00:25:00.560000",
+        "00:25:05.670000",
+        "Carmen van Walraven, better known as the Black Widow, is still alive."
+      ],
+      [
+        529,
+        "00:45:22.720000",
+        "00:45:25.659000",
+        "You know the Black Widow well, don't you?"
+      ],
+      [
+        602,
+        "00:50:22.320000",
+        "00:50:24.451000",
+        "The Black Widow is still alive."
+      ],
+      [
+        1050,
+        "01:29:21.760000",
+        "01:29:24.390000",
+        "The Black Widow appears to be still alive."
+      ],
+      [
+        1051,
+        "01:29:24.440000",
+        "01:29:27.652000",
+        "The Black Widow had cheated on all of us and was still alive."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Widow:)Black\\ Widow)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5848326",
+    "title": "Healing River",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1918,
+    "occurrences": [
+      [
+        3,
+        "00:00:37.906000",
+        "00:00:42.906000",
+        "Teach me how to find the healing river again"
+      ],
+      [
+        231,
+        "00:14:05.138000",
+        "00:14:10.138000",
+        "Teach me how to find that healing river again"
+      ]
+    ],
+    "regex": "\\b((?!\\bHealing\\ River:)Healing\\ River)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

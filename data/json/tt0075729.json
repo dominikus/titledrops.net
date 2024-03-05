@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0075729",
+    "title": "The Baron",
+    "year": 1977,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1312,
+    "occurrences": [
+      [
+        1,
+        "00:00:18.187000",
+        "00:00:23.187000",
+        "The baron"
+      ],
+      [
+        6,
+        "00:00:48.403000",
+        "00:00:50.964000",
+        "The baron"
+      ],
+      [
+        55,
+        "00:03:38.927000",
+        "00:03:40.367000",
+        "The baron"
+      ],
+      [
+        65,
+        "00:04:02.311000",
+        "00:04:04.253000",
+        "- I'm Baron Wolfgang von Trips."
+      ],
+      [
+        773,
+        "00:45:44.060000",
+        "00:45:46.373000",
+        "I am Baron Wolfgang von Trips."
+      ]
+    ],
+    "regex": "\\b((?!\\bBaron:)Baron)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

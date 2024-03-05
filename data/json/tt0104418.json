@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0104418",
+    "title": "Highway to Hell",
+    "year": 1991,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 1114,
+    "occurrences": [
+      [
+        163,
+        "00:15:50.775000",
+        "00:15:52.342000",
+        "The highway to hell."
+      ],
+      [
+        164,
+        "00:15:53.213000",
+        "00:15:54.997000",
+        "The highway to hell?"
+      ],
+      [
+        197,
+        "00:17:48.067000",
+        "00:17:50.765000",
+        "This highway to hell, how do I get there?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHighway\\ to\\ Hell:)Highway\\ to\\ Hell)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

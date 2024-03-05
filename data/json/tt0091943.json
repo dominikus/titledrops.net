@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0091943",
+    "title": "Sherman's March",
+    "year": 1985,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 3242,
+    "occurrences": [
+      [
+        20,
+        "00:01:07.550000",
+        "00:01:10.277000",
+        "of Sherman's march on the South."
+      ],
+      [
+        208,
+        "00:09:34.919000",
+        "00:09:37.991000",
+        "-  I'm making a film about Sherman's march to the sea."
+      ],
+      [
+        644,
+        "00:28:27.395000",
+        "00:28:29.569000",
+        "to make a film about Sherman's march"
+      ],
+      [
+        1531,
+        "01:12:26.272000",
+        "01:12:29.966000",
+        "-  I've been doing some research on Sherman's march."
+      ]
+    ],
+    "regex": "\\b((?!\\bSherman's\\ March:)Sherman's\\ March)(?!\\:)(?!'t)\\b",
+    "runtime": 157,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

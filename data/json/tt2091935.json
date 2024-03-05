@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2091935",
+    "title": "Mr. Right",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1419,
+    "occurrences": [
+      [
+        386,
+        "00:25:02.901000",
+        "00:25:06.570000",
+        "- Who, Mr. right? - We were together for 10 hours. It never came up."
+      ],
+      [
+        409,
+        "00:26:04.195000",
+        "00:26:06.496000",
+        "I don't know. Like you said, Mr. right."
+      ]
+    ],
+    "regex": "\\b((?!\\bMr\\.\\ Right:)Mr\\.\\ Right)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

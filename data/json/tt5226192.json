@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt5226192",
+    "title": "The Rake",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 884,
+    "occurrences": [
+      [
+        23,
+        "00:01:25.150000",
+        "00:01:26.786000",
+        "Last night, the rake spoke your name."
+      ],
+      [
+        24,
+        "00:01:29.287000",
+        "00:01:31.191000",
+        "DAVID ON RECORDING: What is the rake, Jacob?"
+      ],
+      [
+        116,
+        "00:08:55.835000",
+        "00:08:58.235000",
+        "JACOB ON RECORDING: The Rake is a disease that needs no motive,"
+      ],
+      [
+        135,
+        "00:10:28.159000",
+        "00:10:31.795000",
+        "In conclusion, Jacob's obsession with the Rake could be seen"
+      ],
+      [
+        632,
+        "00:51:13.135000",
+        "00:51:16.338000",
+        "Reality has no room for your rake."
+      ]
+    ],
+    "regex": "\\b((?!\\bRake:)Rake)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

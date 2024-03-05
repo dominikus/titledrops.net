@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt2175470",
+    "title": "A Winter Rose",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 6,
+    "all_lines": 1966,
+    "occurrences": [
+      [
+        814,
+        "00:38:37.114000",
+        "00:38:38.582000",
+        "- Winter Rose."
+      ],
+      [
+        895,
+        "00:41:55.145000",
+        "00:41:59.083000",
+        "- Rachal Love, I'd like to present Winter Rose."
+      ],
+      [
+        1026,
+        "00:48:31.742000",
+        "00:48:34.344000",
+        "- Her name is Winter Rose"
+      ],
+      [
+        1822,
+        "01:28:15.523000",
+        "01:28:17.058000",
+        "Winter Rose. - \"Winter Rose."
+      ],
+      [
+        1838,
+        "01:29:08.476000",
+        "01:29:09.510000",
+        "Winter Rose."
+      ]
+    ],
+    "regex": "\\b((?!\\bWinter\\ Rose:)Winter\\ Rose)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1345825",
+    "title": "Happy Birthday",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 718,
+    "occurrences": [
+      [
+        315,
+        "00:33:21.870000",
+        "00:33:24.779000",
+        "- Hello. - Happy birthday to you."
+      ],
+      [
+        316,
+        "00:33:24.780000",
+        "00:33:29.060000",
+        "Happy birthday, happy birthday, happy birthday to you!"
+      ],
+      [
+        589,
+        "01:22:20.630000",
+        "01:22:25.420000",
+        "Happy birthday to you."
+      ]
+    ],
+    "regex": "\\b((?!\\bHappy\\ Birthday:)Happy\\ Birthday)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

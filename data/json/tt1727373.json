@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1727373",
+    "title": "The Kill Hole",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Thriller",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1672,
+    "occurrences": [
+      [
+        973,
+        "00:50:49.730000",
+        "00:50:51.861000",
+        "is a kill hole."
+      ],
+      [
+        1002,
+        "00:51:50.367000",
+        "00:51:51.909000",
+        "The kill hole."
+      ]
+    ],
+    "regex": "\\b((?!\\bKill\\ Hole:)Kill\\ Hole)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

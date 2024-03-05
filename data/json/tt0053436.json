@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0053436",
+    "title": "Watusi",
+    "year": 1959,
+    "genres": [
+      "Adventure"
+    ],
+    "count": 5,
+    "all_lines": 776,
+    "occurrences": [
+      [
+        127,
+        "00:11:25.235000",
+        "00:11:28.154000",
+        "Umbopa, king of the Watusi who guards the mines..."
+      ],
+      [
+        409,
+        "00:44:20.878000",
+        "00:44:24.214000",
+        "It's a  Watusi, It must be."
+      ],
+      [
+        441,
+        "00:48:47.827000",
+        "00:48:49.340000",
+        "What did the watusi say?"
+      ],
+      [
+        478,
+        "00:51:10.630000",
+        "00:51:12.716000",
+        "It's a watusi proberb:"
+      ],
+      [
+        529,
+        "00:57:29.166000",
+        "00:57:31.043000",
+        "... after that watusi country..."
+      ]
+    ],
+    "regex": "\\b((?!\\bWatusi:)Watusi)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

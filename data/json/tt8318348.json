@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt8318348",
+    "title": "The Last Whistle",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 1588,
+    "occurrences": [
+      [
+        1562,
+        "01:23:57.500000",
+        "01:24:02.469000",
+        "You give it all till the last whistle blows"
+      ],
+      [
+        1576,
+        "01:24:45.514000",
+        "01:24:50.584000",
+        "Give it all till the last whistle blows"
+      ],
+      [
+        1581,
+        "01:25:15.678000",
+        "01:25:19.313000",
+        "Till the last whistle blows"
+      ],
+      [
+        1587,
+        "01:25:56.318000",
+        "01:26:01.321000",
+        "You give it all till the last whistle blows"
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Whistle:)Last\\ Whistle)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

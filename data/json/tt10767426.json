@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt10767426",
+    "title": "Text",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1139,
+    "occurrences": [
+      [
+        166,
+        "00:10:31.519000",
+        "00:10:35.519000",
+        "Text"
+      ],
+      [
+        1139,
+        "02:06:06.194000",
+        "02:06:10.194000",
+        "Based on the novel \"Text\" by Dmitry Glukhovsky."
+      ]
+    ],
+    "regex": "\\b((?!\\bText:)Text)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

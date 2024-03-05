@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1188983",
+    "title": "Inspector Bellamy",
+    "year": 2009,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1561,
+    "occurrences": [
+      [
+        20,
+        "00:04:29.015000",
+        "00:04:31.540000",
+        "May I speak to Inspector Bellamy, please?"
+      ],
+      [
+        169,
+        "00:13:48.174000",
+        "00:13:50.267000",
+        "Inspector Bellamy sees all."
+      ],
+      [
+        183,
+        "00:14:46.966000",
+        "00:14:48.365000",
+        "Inspector Bellamy, it's me."
+      ]
+    ],
+    "regex": "\\b((?!\\bInspector\\ Bellamy:)Inspector\\ Bellamy)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

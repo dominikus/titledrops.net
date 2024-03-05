@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1477855",
+    "title": "Hyde Park on Hudson",
+    "year": 2012,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1317,
+    "occurrences": [
+      [
+        104,
+        "00:08:34.440000",
+        "00:08:37.139000",
+        "of time that spring in Hyde Park On Hudson."
+      ],
+      [
+        230,
+        "00:20:03.431000",
+        "00:20:05.362000",
+        "to Hyde Park on Hudson."
+      ]
+    ],
+    "regex": "\\b((?!\\bHyde\\ Park\\ on\\ Hudson:)Hyde\\ Park\\ on\\ Hudson)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

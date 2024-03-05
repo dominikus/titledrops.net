@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0106246",
+    "title": "Alive",
+    "year": 1993,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1414,
+    "occurrences": [
+      [
+        482,
+        "00:34:30.569000",
+        "00:34:32.320000",
+        "Your sister's alive. Susana's alive."
+      ],
+      [
+        809,
+        "00:58:49.359000",
+        "00:58:51.778000",
+        "You could go back alive. I think they'd prefer that."
+      ],
+      [
+        830,
+        "01:00:12.901000",
+        "01:00:15.320000",
+        "if my dead body could help you stay alive..."
+      ],
+      [
+        1382,
+        "01:54:27.778000",
+        "01:54:32.240000",
+        "I'm proud to be a man on a day like this, alive!"
+      ]
+    ],
+    "regex": "\\b((?!\\bAlive:)Alive)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

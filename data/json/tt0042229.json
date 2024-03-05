@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0042229",
+    "title": "The Baron of Arizona",
+    "year": 1950,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1155,
+    "occurrences": [
+      [
+        19,
+        "00:03:27.040000",
+        "00:03:30.567000",
+        "The man who called himself the Baron of Arizona?"
+      ],
+      [
+        49,
+        "00:05:11.678000",
+        "00:05:14.146000",
+        "the first Baron of Arizona."
+      ],
+      [
+        81,
+        "00:07:12.565000",
+        "00:07:14.556000",
+        "He was the first Baron of Arizona."
+      ],
+      [
+        139,
+        "00:11:24.483000",
+        "00:11:26.508000",
+        "'I, Miguel de Peralta, Baron of Arizona..."
+      ],
+      [
+        505,
+        "00:44:04.408000",
+        "00:44:07.138000",
+        "- I am the Baron of Arizona. - Howdy, Baron."
+      ],
+      [
+        866,
+        "01:12:55.971000",
+        "01:12:59.839000",
+        "that the original Baron of Arizona, Miguel de Peralta..."
+      ]
+    ],
+    "regex": "\\b((?!\\bBaron\\ of\\ Arizona:)Baron\\ of\\ Arizona)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

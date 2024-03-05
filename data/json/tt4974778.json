@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4974778",
+    "title": "Feral",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 913,
+    "occurrences": [
+      [
+        662,
+        "00:58:35.270000",
+        "00:58:38.894000",
+        "- You bullshit. - He has the Feral virus."
+      ],
+      [
+        689,
+        "01:00:05.636000",
+        "01:00:07.811000",
+        "and become a Feral."
+      ],
+      [
+        857,
+        "01:20:08.182000",
+        "01:20:10.460000",
+        "Sounds like an -- another Feral."
+      ]
+    ],
+    "regex": "\\b((?!\\bFeral:)Feral)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

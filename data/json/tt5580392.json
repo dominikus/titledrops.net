@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5580392",
+    "title": "Amateur",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 3,
+    "all_lines": 1226,
+    "occurrences": [
+      [
+        968,
+        "01:10:02.823000",
+        "01:10:08.495000",
+        "You should, Vince. Once it's out he's been paid to play, he's no longer an amateur."
+      ],
+      [
+        1005,
+        "01:13:21.980000",
+        "01:13:25.692000",
+        "Once it's out he's been paid to play, he's no longer an amateur."
+      ],
+      [
+        1118,
+        "01:22:17.307000",
+        "01:22:18.892000",
+        "I'm giving up my amateur status,"
+      ]
+    ],
+    "regex": "\\b((?!\\bAmateur:)Amateur)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

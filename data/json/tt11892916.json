@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt11892916",
+    "title": "Security",
+    "year": 2021,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1322,
+    "occurrences": [
+      [
+        141,
+        "00:12:36.417000",
+        "00:12:39.458000",
+        "I know. Ferrario's personal security team already left a message."
+      ],
+      [
+        219,
+        "00:18:37.625000",
+        "00:18:40.292000",
+        "Hey, Enzo. - Security Man!"
+      ],
+      [
+        677,
+        "00:57:07",
+        "00:57:09.667000",
+        "So talk to me about the security camera."
+      ],
+      [
+        678,
+        "00:57:10.708000",
+        "00:57:13.375000",
+        "The security camera... - The one you ripped out of the wall."
+      ]
+    ],
+    "regex": "\\b((?!\\bSecurity:)Security)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

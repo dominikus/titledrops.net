@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt5883570",
+    "title": "Bodied",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 3150,
+    "occurrences": [
+      [
+        354,
+        "00:13:39.017000",
+        "00:13:42.718000",
+        "Miley Cyrus just bodied Gilligan's Island!"
+      ],
+      [
+        777,
+        "00:29:02.973000",
+        "00:29:05.005000",
+        "bodied you three-oh."
+      ],
+      [
+        1412,
+        "00:52:21.270000",
+        "00:52:24.203000",
+        "and he get bodied in his own fictional movie?"
+      ],
+      [
+        2738,
+        "01:44:20.687000",
+        "01:44:22.386000",
+        "You bodied his entire family!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBodied:)Bodied)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1624411",
+    "title": "Windows to the Sea",
+    "year": 2012,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 863,
+    "occurrences": [
+      [
+        652,
+        "01:13:01.500000",
+        "01:13:04.410000",
+        "Hello. This is Alvaro, from Windows to the Sea Hotel."
+      ],
+      [
+        653,
+        "01:13:10.790000",
+        "01:13:13.750000",
+        "Hello. This is Alvaro, from Windows to the Sea Hotel."
+      ],
+      [
+        655,
+        "01:13:17.950000",
+        "01:13:21.620000",
+        "Please answer, this is Alvaro, from Windows to the Sea Hotel."
+      ]
+    ],
+    "regex": "\\b((?!\\bWindows\\ to\\ the\\ Sea:)Windows\\ to\\ the\\ Sea)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

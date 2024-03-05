@@ -1,0 +1,52 @@
+[
+  {
+    "imdb": "tt4196776",
+    "title": "Jason Bourne",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 759,
+    "occurrences": [
+      [
+        11,
+        "00:01:13.830000",
+        "00:01:16.900000",
+        "you chose right here to become Jason Bourne."
+      ],
+      [
+        63,
+        "00:10:13.710000",
+        "00:10:16.840000",
+        "previously linked to ... Jason Bourne."
+      ],
+      [
+        92,
+        "00:12:35.320000",
+        "00:12:37.200000",
+        "Jason Bourne is in play."
+      ],
+      [
+        406,
+        "01:01:04.890000",
+        "01:01:07.220000",
+        "- Yes? - This is Jason Bourne."
+      ],
+      [
+        673,
+        "01:34:31.280000",
+        "01:34:33.350000",
+        "You volunteered because you are Jason Bourne."
+      ]
+    ],
+    "regex": "\\b((?!\\bJason\\ Bourne:)Jason\\ Bourne)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [
+      "Jason Bourne"
+    ],
+    "title_is_name": true,
+    "rating": 6.6
+  }
+]

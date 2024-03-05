@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt7144186",
+    "title": "Tu me manques",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 908,
+    "occurrences": [
+      [
+        77,
+        "00:07:46.100000",
+        "00:07:48.167000",
+        "What does \"tu me manques\" mean?"
+      ],
+      [
+        569,
+        "01:07:16.560000",
+        "01:07:21.232000",
+        "You know, in French they don't say \"I miss you\". They say \"Tu me manques\"."
+      ],
+      [
+        572,
+        "01:07:34.100000",
+        "01:07:35.220000",
+        "Tu me manques."
+      ]
+    ],
+    "regex": "\\b((?!\\bTu\\ me\\ manques:)Tu\\ me\\ manques)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

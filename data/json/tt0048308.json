@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0048308",
+    "title": "Lola Montès",
+    "year": 1955,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 959,
+    "occurrences": [
+      [
+        22,
+        "00:03:41.305000",
+        "00:03:43.140000",
+        "Lola Montes!"
+      ],
+      [
+        27,
+        "00:04:29.645000",
+        "00:04:31.396000",
+        "... of Lola Montes..."
+      ],
+      [
+        35,
+        "00:05:11.019000",
+        "00:05:16.400000",
+        "Lola Montes will answer the most indelicate questions!"
+      ],
+      [
+        483,
+        "00:54:51.708000",
+        "00:54:55.420000",
+        "Thus it was that Lola Montes..."
+      ],
+      [
+        683,
+        "01:16:42.644000",
+        "01:16:45.439000",
+        "Lola Montes. Curious, I can never remember the name."
+      ],
+      [
+        928,
+        "01:43:55.652000",
+        "01:44:00.824000",
+        "I now ask you, Lola Montes..."
+      ]
+    ],
+    "regex": "\\b((?!\\bLola\\ Montes:)Lola\\ Montes)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

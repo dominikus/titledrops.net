@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2102465",
+    "title": "At Night All Wolves Are Grey",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 392,
+    "occurrences": [
+      [
+        154,
+        "00:29:53.517000",
+        "00:29:57.556000",
+        "At night all wolves are grey."
+      ],
+      [
+        186,
+        "00:41:54.837000",
+        "00:41:57.590000",
+        "At night all wolves are grey."
+      ]
+    ],
+    "regex": "\\b((?!\\bAt\\ Night\\ All\\ Wolves\\ Are\\ Grey:)At\\ Night\\ All\\ Wolves\\ Are\\ Grey)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

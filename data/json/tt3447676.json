@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3447676",
+    "title": "Lonesome Dove Church",
+    "year": 2014,
+    "genres": [
+      "History",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 890,
+    "occurrences": [
+      [
+        770,
+        "01:12:07.755000",
+        "01:12:10.492000",
+        "the first service of the Lonesome Dove Church."
+      ],
+      [
+        795,
+        "01:14:28.763000",
+        "01:14:32.835000",
+        "What a glorious day for our Lonesome Dove Church."
+      ]
+    ],
+    "regex": "\\b((?!\\bLonesome\\ Dove\\ Church:)Lonesome\\ Dove\\ Church)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

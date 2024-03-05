@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0125439",
+    "title": "Notting Hill",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1760,
+    "occurrences": [
+      [
+        39,
+        "00:02:27.479000",
+        "00:02:31.966000",
+        "which is here, Notting Hill, my favorite bit of London."
+      ],
+      [
+        48,
+        "00:02:56.472000",
+        "00:02:59.041000",
+        "filling Portobello Road, right up to Notting Hill Gate."
+      ],
+      [
+        1205,
+        "01:20:45.805000",
+        "01:20:48.605000",
+        "She's in that house with the blue door in Notting Hill.\""
+      ],
+      [
+        1508,
+        "01:41:26.292000",
+        "01:41:30.818000",
+        "I live in Notting Hill. You live in... Beverly Hills."
+      ]
+    ],
+    "regex": "\\b((?!\\bNotting\\ Hill:)Notting\\ Hill)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

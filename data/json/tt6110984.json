@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6110984",
+    "title": "City of Joel",
+    "year": 2018,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1414,
+    "occurrences": [
+      [
+        78,
+        "00:07:41.373000",
+        "00:07:44.028000",
+        "that mean the city of Joel,"
+      ],
+      [
+        79,
+        "00:07:44.072000",
+        "00:07:45.943000",
+        "the city of Joel."
+      ]
+    ],
+    "regex": "\\b((?!\\bCity\\ of\\ Joel:)City\\ of\\ Joel)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

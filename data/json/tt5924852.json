@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt5924852",
+    "title": "Paradise 89",
+    "year": 2018,
+    "genres": [
+      "Family"
+    ],
+    "count": 6,
+    "all_lines": 486,
+    "occurrences": [
+      [
+        37,
+        "00:04:59",
+        "00:05:02.175000",
+        "PARADISE '89"
+      ],
+      [
+        46,
+        "00:06:22.160000",
+        "00:06:26.535000",
+        "- Paula, are you really okay? - Yes mom, it's like paradise here."
+      ],
+      [
+        251,
+        "00:35:37.560000",
+        "00:35:42.255000",
+        "We'll start a new life. A real paradise!"
+      ],
+      [
+        314,
+        "00:48:31.360000",
+        "00:48:34.295000",
+        "Have one, they're paradise apples."
+      ],
+      [
+        315,
+        "00:48:35.240000",
+        "00:48:39.455000",
+        "If you don't eat the fruit, you will be banished from paradise for disobedience."
+      ],
+      [
+        316,
+        "00:48:41.680000",
+        "00:48:47.175000",
+        "- What is paradise? - A place with everything your heart desires."
+      ]
+    ],
+    "regex": "\\b((?!\\bParadise:)Paradise)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

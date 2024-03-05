@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0758738",
+    "title": "Chalk",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 2002,
+    "occurrences": [
+      [
+        560,
+        "00:21:39.864000",
+        "00:21:41.999000",
+        "Where's my chalk?"
+      ],
+      [
+        562,
+        "00:21:45.837000",
+        "00:21:47.337000",
+        "Do you know where my chalk is?"
+      ],
+      [
+        576,
+        "00:22:11.963000",
+        "00:22:12.963000",
+        "Did you move my chalk?"
+      ],
+      [
+        578,
+        "00:22:14.732000",
+        "00:22:16.633000",
+        "Did you move my chalk?"
+      ]
+    ],
+    "regex": "\\b((?!\\bChalk:)Chalk)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

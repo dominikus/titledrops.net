@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1236325",
+    "title": "The Moss",
+    "year": 2008,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 866,
+    "occurrences": [
+      [
+        783,
+        "01:18:19.562000",
+        "01:18:24.829000",
+        "Better to be the moss by the river."
+      ],
+      [
+        787,
+        "01:18:39.648000",
+        "01:18:41.980000",
+        "You're not a moss."
+      ]
+    ],
+    "regex": "\\b((?!\\bMoss:)Moss)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

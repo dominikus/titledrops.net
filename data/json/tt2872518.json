@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt2872518",
+    "title": "The Shack",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 5,
+    "all_lines": 1409,
+    "occurrences": [
+      [
+        3,
+        "00:00:43.209000",
+        "00:00:44.576000",
+        "In a shack, no less."
+      ],
+      [
+        4,
+        "00:00:49.516000",
+        "00:00:50.582000",
+        "And not just any shack."
+      ],
+      [
+        5,
+        "00:00:51.518000",
+        "00:00:52.418000",
+        "This was the shack."
+      ],
+      [
+        398,
+        "00:29:01.340000",
+        "00:29:03.173000",
+        "Mentions the shack. Signed \"papa.\""
+      ],
+      [
+        1321,
+        "01:57:45.658000",
+        "01:57:47.926000",
+        "I spent the weekend at the shack."
+      ]
+    ],
+    "regex": "\\b((?!\\bShack:)Shack)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

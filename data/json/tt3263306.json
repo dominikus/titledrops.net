@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3263306",
+    "title": "Base",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 781,
+    "occurrences": [
+      [
+        41,
+        "00:03:25.471000",
+        "00:03:28.540000",
+        "Three, two, one, base!"
+      ],
+      [
+        253,
+        "00:22:38.222000",
+        "00:22:42.324000",
+        "but she doesn't understand why I keep base jumping"
+      ],
+      [
+        327,
+        "00:32:27.044000",
+        "00:32:29.344000",
+        "That's good. You've got some base jumps?"
+      ],
+      [
+        638,
+        "01:04:16.284000",
+        "01:04:20.220000",
+        "but she doesn't understand why I keep base jumping"
+      ]
+    ],
+    "regex": "\\b((?!\\bBase:)Base)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

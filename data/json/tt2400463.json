@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2400463",
+    "title": "The Invitation",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1408,
+    "occurrences": [
+      [
+        409,
+        "00:25:07.507000",
+        "00:25:09.373000",
+        "I know plenty of people who do the invitation."
+      ],
+      [
+        795,
+        "00:44:32.870000",
+        "00:44:38.574000",
+        "Finally, by accepting the invitation..."
+      ],
+      [
+        1097,
+        "01:03:12.923000",
+        "01:03:15.557000",
+        "- the invitation. - It helps people."
+      ]
+    ],
+    "regex": "\\b((?!\\bInvitation:)Invitation)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

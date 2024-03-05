@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0056267",
+    "title": "My Geisha",
+    "year": 1962,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1914,
+    "occurrences": [
+      [
+        511,
+        "00:25:12.680000",
+        "00:25:16.309000",
+        "Go tell Paul I'm a very religious girl, and when I finish my geisha time,"
+      ],
+      [
+        1460,
+        "01:19:05.840000",
+        "01:19:07.751000",
+        "You are being my geisha,"
+      ],
+      [
+        1910,
+        "01:53:59.120000",
+        "01:54:02.999000",
+        "Don't be sympathy to anybody but me, my geisha,"
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Geisha:)My\\ Geisha)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt9105014",
+    "title": "Notebook",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1270,
+    "occurrences": [
+      [
+        971,
+        "01:21:26.100000",
+        "01:21:30.990000",
+        "Firdaus, just like you, I too want to pen down all my feelings in this notebook."
+      ],
+      [
+        973,
+        "01:21:34.570000",
+        "01:21:37.170000",
+        "but we will always be together in this notebook."
+      ],
+      [
+        1068,
+        "01:30:11.610000",
+        "01:30:12.990000",
+        "I'm keeping your notebook..."
+      ],
+      [
+        1069,
+        "01:30:16.370000",
+        "01:30:19.770000",
+        "I mean, our notebook, right here."
+      ],
+      [
+        1260,
+        "01:47:17.850000",
+        "01:47:19.620000",
+        "Why did you read my personal notebook?"
+      ]
+    ],
+    "regex": "\\b((?!\\bNotebook:)Notebook)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0079271",
+    "title": "Hardcore",
+    "year": 1979,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1107,
+    "occurrences": [
+      [
+        242,
+        "00:22:53.038000",
+        "00:22:55.268000",
+        "Do you know what a hardcore movie is?"
+      ],
+      [
+        557,
+        "00:52:40.590000",
+        "00:52:45.289000",
+        "\"Seeks young men, 18 to 25, for hardcore film."
+      ],
+      [
+        619,
+        "00:58:38.348000",
+        "00:58:41.806000",
+        "We're casting right now. Have you had hardcore film experience?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHardcore:)Hardcore)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

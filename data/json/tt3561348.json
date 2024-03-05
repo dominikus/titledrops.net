@@ -1,0 +1,73 @@
+[
+  {
+    "imdb": "tt3561348",
+    "title": "The Dinner",
+    "year": 2014,
+    "genres": [
+      "Drama"
+    ],
+    "count": 9,
+    "all_lines": 900,
+    "occurrences": [
+      [
+        73,
+        "00:07:45.458000",
+        "00:07:47.667000",
+        "- When's dinner? - Whenever you wish Sir."
+      ],
+      [
+        88,
+        "00:08:40.500000",
+        "00:08:43.500000",
+        "Hi Sofia. I'm having dinner at Michael's."
+      ],
+      [
+        89,
+        "00:08:43.500000",
+        "00:08:47.708000",
+        "Ah, thats just great I suppose. That means I'll  be having dinner on my own."
+      ],
+      [
+        100,
+        "00:09:44.708000",
+        "00:09:46.708000",
+        "- Are you going to be joing us for dinner? - Yes!"
+      ],
+      [
+        109,
+        "00:10:17.958000",
+        "00:10:22.250000",
+        "-  No, tomorrow it's dinner with Massimo. - Oh god, what a drag."
+      ],
+      [
+        202,
+        "00:16:40.708000",
+        "00:16:43.517000",
+        "Why don't you wear it to dinner?"
+      ],
+      [
+        399,
+        "00:34:54.125000",
+        "00:34:56.208000",
+        "Paul bothered me at dinner last night."
+      ],
+      [
+        455,
+        "00:38:33.208000",
+        "00:38:35.500000",
+        "- Is dinner ready - No, in about 10 minutes."
+      ],
+      [
+        758,
+        "01:13:46.625000",
+        "01:13:49.500000",
+        "Anyway, I spoke with Massimo, we're all getting together for dinner tomorrow."
+      ]
+    ],
+    "regex": "\\b((?!\\bDinner:)Dinner)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

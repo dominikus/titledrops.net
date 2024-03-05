@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0053145",
+    "title": "The Oregon Trail",
+    "year": 1959,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 1016,
+    "occurrences": [
+      [
+        67,
+        "00:05:18.840000",
+        "00:05:20.842000",
+        "The Oregon Trail by Francis Parkman."
+      ],
+      [
+        72,
+        "00:05:33.463000",
+        "00:05:36.814000",
+        "crossin' in wagons over this so-called \"Oregon Trail.\""
+      ],
+      [
+        257,
+        "00:17:54.203000",
+        "00:17:56.988000",
+        "And now for your purchases for the Oregon Trail.(SCOFFS)"
+      ]
+    ],
+    "regex": "\\b((?!\\bOregon\\ Trail:)Oregon\\ Trail)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

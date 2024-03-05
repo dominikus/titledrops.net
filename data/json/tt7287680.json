@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7287680",
+    "title": "The Immortal Wars: Resurgence",
+    "year": 2019,
+    "genres": [
+      "Action"
+    ],
+    "count": 2,
+    "all_lines": 1281,
+    "occurrences": [
+      [
+        329,
+        "00:29:11.619000",
+        "00:29:12.751000",
+        "of the Immortal Wars."
+      ],
+      [
+        574,
+        "00:44:20.179000",
+        "00:44:21.397000",
+        "for the Immortal Wars."
+      ]
+    ],
+    "regex": "\\b((?!\\bImmortal\\ Wars:)Immortal\\ Wars|(?!\\bResurgence:)Resurgence)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2
+  }
+]

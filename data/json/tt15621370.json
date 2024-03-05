@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt15621370",
+    "title": "Just Remembering",
+    "year": 2021,
+    "genres": [
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1075,
+    "occurrences": [
+      [
+        1038,
+        "01:51:13.975000",
+        "01:51:19.434000",
+        "''Just Remembering''"
+      ],
+      [
+        1065,
+        "01:53:14.017000",
+        "01:53:18.351000",
+        "''Things seemed different after a long time Just remembering''"
+      ]
+    ],
+    "regex": "\\b((?!\\bJust\\ Remembering:)Just\\ Remembering)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

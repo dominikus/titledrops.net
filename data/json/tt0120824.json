@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0120824",
+    "title": "The Shipping News",
+    "year": 2001,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1185,
+    "occurrences": [
+      [
+        327,
+        "00:27:04.953000",
+        "00:27:07.161000",
+        "I need somebody to cover the shipping news."
+      ],
+      [
+        579,
+        "00:43:07.858000",
+        "00:43:10.024000",
+        "Quoyle... you got the \"Shipping News\" written up yet?"
+      ],
+      [
+        591,
+        "00:44:15.241000",
+        "00:44:17.948000",
+        "I do the-the \"Shipping News.\""
+      ],
+      [
+        662,
+        "00:49:40.696000",
+        "00:49:45.321000",
+        "Uh, that's, uh, a vessel in port. It goes with the \"Shipping News.\""
+      ],
+      [
+        839,
+        "01:04:36.593000",
+        "01:04:39.925000",
+        "Mind you, if I was the esteemed author of the \"Shipping News\" column,"
+      ]
+    ],
+    "regex": "\\b((?!\\bShipping\\ News:)Shipping\\ News)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

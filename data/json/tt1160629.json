@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1160629",
+    "title": "Suspect X",
+    "year": 2008,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 652,
+    "occurrences": [
+      [
+        308,
+        "00:28:39.250000",
+        "00:28:44.085000",
+        "Our lead suspect has a strong alibi. So we're stuck."
+      ],
+      [
+        316,
+        "00:29:05.744000",
+        "00:29:08.542000",
+        "The suspect's a real beauty."
+      ],
+      [
+        453,
+        "00:42:13.397000",
+        "00:42:16.491000",
+        "I hear your neighbor's a murder suspect."
+      ],
+      [
+        495,
+        "00:46:33.123000",
+        "00:46:36.422000",
+        "\"the suspect\" was meeting the victim here."
+      ],
+      [
+        606,
+        "00:55:35.265000",
+        "00:55:36.926000",
+        "You suspect her, right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSuspect:)Suspect)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

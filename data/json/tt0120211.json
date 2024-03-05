@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0120211",
+    "title": "Still Breathing",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1068,
+    "occurrences": [
+      [
+        17,
+        "00:06:27.186000",
+        "00:06:29.354000",
+        "Is he conscious? Is he still breathing?"
+      ],
+      [
+        234,
+        "00:26:05.597000",
+        "00:26:08.265000",
+        "Mmm, still breathing."
+      ]
+    ],
+    "regex": "\\b((?!\\bStill\\ Breathing:)Still\\ Breathing)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

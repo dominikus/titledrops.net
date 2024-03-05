@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0117665",
+    "title": "Sleepers",
+    "year": 1996,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 2004,
+    "occurrences": [
+      [
+        1092,
+        "01:18:53.980000",
+        "01:18:56.942000",
+        "King Benny's sleepers were making their play."
+      ],
+      [
+        1093,
+        "01:18:57.108000",
+        "01:19:00.737000",
+        "\"Sleepers\" was a street name for anyone who spent time in a juvenile facility."
+      ]
+    ],
+    "regex": "\\b((?!\\bSleepers:)Sleepers)(?!\\:)(?!'t)\\b",
+    "runtime": 148,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

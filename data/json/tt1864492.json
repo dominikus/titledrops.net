@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1864492",
+    "title": "Stitch",
+    "year": 2013,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 917,
+    "occurrences": [
+      [
+        353,
+        "00:35:49.681000",
+        "00:35:52.682000",
+        "I mean, how the hell can someone stitch you up"
+      ],
+      [
+        676,
+        "01:05:42.906000",
+        "01:05:46.074000",
+        "You have a stitch on the back of your neck that leads into your brain."
+      ]
+    ],
+    "regex": "\\b((?!\\bStitch:)Stitch)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

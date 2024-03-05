@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0051792",
+    "title": "The Music Room",
+    "year": 1958,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 6,
+    "all_lines": 423,
+    "occurrences": [
+      [
+        58,
+        "00:09:19.659000",
+        "00:09:22.321000",
+        "CaII him! In the music room."
+      ],
+      [
+        115,
+        "00:20:16.215000",
+        "00:20:18.080000",
+        "CIose the music room."
+      ],
+      [
+        138,
+        "00:21:39.031000",
+        "00:21:42.159000",
+        "In a nymph music room,"
+      ],
+      [
+        180,
+        "00:31:42.400000",
+        "00:31:45.528000",
+        "No music room, no fountain."
+      ],
+      [
+        324,
+        "00:59:22.792000",
+        "00:59:26.922000",
+        "Yes, tonight. My music room is inaugurated."
+      ],
+      [
+        346,
+        "01:02:32.315000",
+        "01:02:34.408000",
+        "The music room is cIosed?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMusic\\ Room:)Music\\ Room)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

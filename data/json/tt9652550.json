@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt9652550",
+    "title": "Delusional",
+    "year": 2022,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 2067,
+    "occurrences": [
+      [
+        1003,
+        "00:53:56.581000",
+        "00:53:59.061000",
+        "with this type of severe delusional disorder."
+      ],
+      [
+        1096,
+        "00:58:50.091000",
+        "00:58:51.745000",
+        "Delusional schizophrenics,"
+      ],
+      [
+        1556,
+        "01:23:44.106000",
+        "01:23:46.717000",
+        "Elizabeth McMichaels is delusional."
+      ],
+      [
+        1557,
+        "01:23:47.500000",
+        "01:23:49.546000",
+        "- Delusional? -"
+      ]
+    ],
+    "regex": "\\b((?!\\bDelusional:)Delusional)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

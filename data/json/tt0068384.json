@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt0068384",
+    "title": "Cisco Pike",
+    "year": 1971,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 986,
+    "occurrences": [
+      [
+        366,
+        "00:38:49.827000",
+        "00:38:52.057000",
+        "Cisco Pike."
+      ],
+      [
+        598,
+        "00:59:53.056000",
+        "00:59:55.490000",
+        "Yeah, Cisco Pike, 44."
+      ],
+      [
+        816,
+        "01:16:02.457000",
+        "01:16:05.517000",
+        "- Is Cisco Pike here? - He's out now."
+      ]
+    ],
+    "regex": "\\b((?!\\bCisco\\ Pike:)Cisco\\ Pike)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [
+      "Cisco Pike"
+    ],
+    "title_is_name": true,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7326608",
+    "title": "The Almond and the Seahorse",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1222,
+    "occurrences": [
+      [
+        435,
+        "00:29:40.347000",
+        "00:29:46.120000",
+        "It all comes down to the almond and the seahorse."
+      ],
+      [
+        440,
+        "00:30:00.467000",
+        "00:30:03.137000",
+        "They're called the almond and the seahorse because,"
+      ]
+    ],
+    "regex": "\\b((?!\\bAlmond\\ and\\ the\\ Seahorse:)Almond\\ and\\ the\\ Seahorse)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

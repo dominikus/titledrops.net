@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2908090",
+    "title": "ZK: Elephant's Graveyard",
+    "year": 2015,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1316,
+    "occurrences": [
+      [
+        782,
+        "00:53:05.183000",
+        "00:53:07.283000",
+        "Ever hear of an elephant's graveyard?"
+      ],
+      [
+        797,
+        "00:53:37.949000",
+        "00:53:39.648000",
+        "Man: Yeah, so what? Elwood's an elephant's graveyard?"
+      ]
+    ],
+    "regex": "\\b((?!\\bZK:)ZK|(?!\\bElephant's\\ Graveyard:)Elephant's\\ Graveyard)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.9
+  }
+]

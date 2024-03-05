@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1693989",
+    "title": "Paradise Kiss",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1013,
+    "occurrences": [
+      [
+        290,
+        "00:26:33.658000",
+        "00:26:37.333000",
+        "What's that 'Paradise Kiss' thing on the door?"
+      ],
+      [
+        292,
+        "00:26:41.132000",
+        "00:26:42.975000",
+        "'Paradise Kiss'."
+      ],
+      [
+        695,
+        "01:01:53.707000",
+        "01:01:58.053000",
+        "Paradise Kiss consignments. They were all returned."
+      ]
+    ],
+    "regex": "\\b((?!\\bParadise\\ Kiss:)Paradise\\ Kiss)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

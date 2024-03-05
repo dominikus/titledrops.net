@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3456784",
+    "title": "Girl's Blood",
+    "year": 2014,
+    "genres": [
+      "Action"
+    ],
+    "count": 2,
+    "all_lines": 829,
+    "occurrences": [
+      [
+        528,
+        "01:14:28.760000",
+        "01:14:31.690000",
+        "Today is the dissolution of Girl's Blood."
+      ],
+      [
+        536,
+        "01:15:04.020000",
+        "01:15:07.160000",
+        "What I did has nothing to do with Girl's Blood."
+      ]
+    ],
+    "regex": "\\b((?!\\bGirl's\\ Blood:)Girl's\\ Blood)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

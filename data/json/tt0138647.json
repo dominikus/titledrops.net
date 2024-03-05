@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0138647",
+    "title": "Angel of the Night",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 462,
+    "occurrences": [
+      [
+        80,
+        "00:12:42.140000",
+        "00:12:47.692000",
+        "\"The evil transformed Rikard into Rico Mortiz, Angel of the Night.\""
+      ],
+      [
+        210,
+        "00:31:43.859000",
+        "00:31:49.138000",
+        "The Angel of the Night returned some years later, with renewed strength."
+      ],
+      [
+        251,
+        "00:36:38.219000",
+        "00:36:44.010000",
+        "\"The Angel of the Night will fly again, -"
+      ],
+      [
+        417,
+        "01:06:59.259000",
+        "01:07:04.891000",
+        "And the blood of the family will wake the Angel of the Night."
+      ]
+    ],
+    "regex": "\\b((?!\\bAngel\\ of\\ the\\ Night:)Angel\\ of\\ the\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

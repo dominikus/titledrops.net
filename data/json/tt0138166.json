@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0138166",
+    "title": "Rhine Virgin",
+    "year": 1953,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1062,
+    "occurrences": [
+      [
+        649,
+        "00:54:19.750000",
+        "00:54:21.541000",
+        "Jacques Ledru is on The Rhine Virgin."
+      ],
+      [
+        1021,
+        "01:19:45.875000",
+        "01:19:47.791000",
+        "The Rhine Virgin is leaving in ten minutes."
+      ],
+      [
+        1022,
+        "01:19:48.541000",
+        "01:19:50.166000",
+        "Yes, The Rhine Virgin."
+      ],
+      [
+        1042,
+        "01:22:12.333000",
+        "01:22:15.083000",
+        "Rhine Virgin spotted in the industrial basin."
+      ]
+    ],
+    "regex": "\\b((?!\\bRhine\\ Virgin:)Rhine\\ Virgin)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

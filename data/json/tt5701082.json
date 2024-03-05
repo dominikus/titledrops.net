@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt5701082",
+    "title": "Supreme",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1861,
+    "occurrences": [
+      [
+        75,
+        "00:06:55.370000",
+        "00:06:57.330000",
+        "Supreme is cruising to the airport."
+      ],
+      [
+        76,
+        "00:06:57.410000",
+        "00:06:59.530000",
+        "- Is Supreme hero's name? - No, it's the name of the car."
+      ],
+      [
+        483,
+        "00:30:49.650000",
+        "00:30:52.090000",
+        "Normal fare is 450, since mine is Supreme cab so 550."
+      ],
+      [
+        1853,
+        "02:13:25.457000",
+        "02:13:28.417000",
+        "We've finalised the story of Supreme. Try to steal our car?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSupreme:)Supreme)(?!\\:)(?!'t)\\b",
+    "runtime": 142,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

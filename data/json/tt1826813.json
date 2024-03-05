@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1826813",
+    "title": "Petunia",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1838,
+    "occurrences": [
+      [
+        148,
+        "00:10:57.156000",
+        "00:10:58.957000",
+        "Petunia in 2A."
+      ],
+      [
+        841,
+        "00:48:15.293000",
+        "00:48:17.393000",
+        "It's Dr. Petunia, Charlie's mom."
+      ],
+      [
+        884,
+        "00:50:38.201000",
+        "00:50:41.537000",
+        "Mrs... Dr. Petunia."
+      ]
+    ],
+    "regex": "\\b((?!\\bPetunia:)Petunia)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [
+      "Charlie Petunia",
+      "Vivian Petunia",
+      "Felicia Petunia"
+    ],
+    "title_is_name": true,
+    "rating": 5.1
+  }
+]

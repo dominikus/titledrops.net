@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1748227",
+    "title": "The Collection",
+    "year": 2012,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 417,
+    "occurrences": [
+      [
+        14,
+        "00:01:31.316000",
+        "00:01:34.460000",
+        "The Collection"
+      ],
+      [
+        111,
+        "00:17:05.018000",
+        "00:17:06.828000",
+        "\"For the collection\"."
+      ],
+      [
+        257,
+        "00:35:37.937000",
+        "00:35:39.484000",
+        "\"The Collection\""
+      ]
+    ],
+    "regex": "\\b((?!\\bCollection:)Collection)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

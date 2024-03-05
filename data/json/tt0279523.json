@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0279523",
+    "title": "Peony Pavilion",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 392,
+    "occurrences": [
+      [
+        16,
+        "00:05:09.309000",
+        "00:05:12.005000",
+        "A song from \"Peony Pavilion\"."
+      ],
+      [
+        359,
+        "00:53:56.399000",
+        "00:53:57.730000",
+        "The Peony Pavilion."
+      ]
+    ],
+    "regex": "\\b((?!\\bPeony\\ Pavilion:)Peony\\ Pavilion)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

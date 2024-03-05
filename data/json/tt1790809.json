@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt1790809",
+    "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 1,
+    "all_lines": 1771,
+    "occurrences": [
+      [
+        161,
+        "00:13:11.325000",
+        "00:13:13.660000",
+        "dead men tell no tales."
+      ]
+    ],
+    "regex": "\\b((?!\\bPirates\\ of\\ the\\ Caribbean:)Pirates\\ of\\ the\\ Caribbean|(?!\\bDead\\ Men\\ Tell\\ No\\ Tales:)Dead\\ Men\\ Tell\\ No\\ Tales)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2637378",
+    "title": "Match",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1329,
+    "occurrences": [
+      [
+        1282,
+        "01:23:15.056000",
+        "01:23:16.657000",
+        "It's not a match."
+      ],
+      [
+        1283,
+        "01:23:18.193000",
+        "01:23:20.327000",
+        "- The samples... don't match."
+      ]
+    ],
+    "regex": "\\b((?!\\bMatch:)Match)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

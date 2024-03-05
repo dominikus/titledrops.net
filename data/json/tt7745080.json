@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt7745080",
+    "title": "The Hatred",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 315,
+    "occurrences": [
+      [
+        55,
+        "00:06:56.640000",
+        "00:07:03.637000",
+        "'But my mother said they were a curse, and a tribute to hatred."
+      ],
+      [
+        58,
+        "00:07:12.160000",
+        "00:07:14.470000",
+        "'But the hatred was patient.'"
+      ],
+      [
+        261,
+        "00:47:19.240000",
+        "00:47:20.435000",
+        "Hatred."
+      ]
+    ],
+    "regex": "\\b((?!\\bHatred:)Hatred)(?!\\:)(?!'t)\\b",
+    "runtime": 59,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

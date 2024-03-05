@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0034522",
+    "title": "The Black Swan",
+    "year": 1942,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1294,
+    "occurrences": [
+      [
+        264,
+        "00:18:54.082000",
+        "00:18:56.642000",
+        "My ship, the Black Swan, don't drop..."
+      ],
+      [
+        532,
+        "00:36:20.862000",
+        "00:36:22.796000",
+        "The Black Swan engaged us first."
+      ],
+      [
+        892,
+        "00:53:40.700000",
+        "00:53:44.192000",
+        "- The Black Swan. - And the Hawk, I make it."
+      ],
+      [
+        895,
+        "00:53:49.476000",
+        "00:53:51.410000",
+        "We can't outrun the Black Swan."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Swan:)Black\\ Swan)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3817848",
+    "title": "Turtle Power: The Definitive History of the Teenage Mutant Ninja Turtles",
+    "year": 2014,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1910,
+    "occurrences": [
+      [
+        778,
+        "00:39:16.571000",
+        "00:39:17.659000",
+        "Turtle power"
+      ],
+      [
+        1007,
+        "00:49:36.886000",
+        "00:49:37.757000",
+        "Turtle power"
+      ]
+    ],
+    "regex": "\\b((?!\\bTurtle\\ Power:)Turtle\\ Power|(?!\\bDefinitive\\ History\\ of\\ the\\ Teenage\\ Mutant\\ Ninja\\ Turtles:)Definitive\\ History\\ of\\ the\\ Teenage\\ Mutant\\ Ninja\\ Turtles)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

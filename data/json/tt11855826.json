@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt11855826",
+    "title": "Attached: Paranormal",
+    "year": 2021,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 609,
+    "occurrences": [
+      [
+        10,
+        "00:01:26.660000",
+        "00:01:28.996000",
+        "Do you believe in the paranormal?"
+      ],
+      [
+        480,
+        "01:04:08.552000",
+        "01:04:10.754000",
+        "A spirit's attached itself to you."
+      ]
+    ],
+    "regex": "\\b((?!\\bAttached:)Attached|(?!\\bParanormal:)Paranormal)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.4
+  }
+]

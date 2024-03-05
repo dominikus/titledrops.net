@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt13317230",
+    "title": "Tailor",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 600,
+    "occurrences": [
+      [
+        26,
+        "00:09:41.873000",
+        "00:09:44.459000",
+        "A tailor's shop is still a viable business."
+      ],
+      [
+        220,
+        "00:37:16.234000",
+        "00:37:19.195000",
+        "The tailor can help me. He knows Greek grammar!"
+      ],
+      [
+        251,
+        "00:39:11.140000",
+        "00:39:13.309000",
+        "Who makes tailor-made clothes nowadays anyway?"
+      ],
+      [
+        252,
+        "00:39:13.393000",
+        "00:39:16.437000",
+        "What are you talking about? This tailor can sew everything."
+      ],
+      [
+        359,
+        "00:49:44.106000",
+        "00:49:45.566000",
+        "The tailor is right!"
+      ],
+      [
+        537,
+        "01:10:22.343000",
+        "01:10:25.805000",
+        "Come here, Mr. Tailor! Let me introduce you to my friends."
+      ]
+    ],
+    "regex": "\\b((?!\\bTailor:)Tailor)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

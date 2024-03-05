@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2952634",
+    "title": "How Strange to Be Named Federico",
+    "year": 2013,
+    "genres": [
+      "Biography"
+    ],
+    "count": 2,
+    "all_lines": 1071,
+    "occurrences": [
+      [
+        5,
+        "00:01:44.360000",
+        "00:01:46.715000",
+        "how strange to be named Federico!"
+      ],
+      [
+        6,
+        "00:01:47.080000",
+        "00:01:52.029000",
+        "\"How strange to be named Federico\" Scola narrates Fellini"
+      ]
+    ],
+    "regex": "\\b((?!\\bHow\\ Strange\\ to\\ Be\\ Named\\ Federico:)How\\ Strange\\ to\\ Be\\ Named\\ Federico)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

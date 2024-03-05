@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0054296",
+    "title": "Seven Ways from Sundown",
+    "year": 1960,
+    "genres": [
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 786,
+    "occurrences": [
+      [
+        95,
+        "00:11:15.337000",
+        "00:11:20.131000",
+        "My full name is Seven Ways From Sundown Jones."
+      ],
+      [
+        434,
+        "00:48:52.927000",
+        "00:48:55.455000",
+        "Seven Ways from Sundown Jones."
+      ]
+    ],
+    "regex": "\\b((?!\\bSeven\\ Ways\\ from\\ Sundown:)Seven\\ Ways\\ from\\ Sundown)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

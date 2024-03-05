@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0120901",
+    "title": "Wrongfully Accused",
+    "year": 1998,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 959,
+    "occurrences": [
+      [
+        185,
+        "00:17:09.585000",
+        "00:17:11.348000",
+        "I'm being wrongfully accused."
+      ],
+      [
+        230,
+        "00:19:54.983000",
+        "00:19:57.474000",
+        "No! I'm being wrongfully accused."
+      ],
+      [
+        444,
+        "00:37:02.243000",
+        "00:37:04.211000",
+        "They prove I've been wrongfully accused!"
+      ],
+      [
+        950,
+        "01:18:56.002000",
+        "01:18:58.266000",
+        "...you were wrongfully accused."
+      ]
+    ],
+    "regex": "\\b((?!\\bWrongfully\\ Accused:)Wrongfully\\ Accused)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

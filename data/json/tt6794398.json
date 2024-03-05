@@ -1,0 +1,25 @@
+[
+  {
+    "imdb": "tt6794398",
+    "title": "Hell on Earth: The Fall of Syria and the Rise of ISIS",
+    "year": 2017,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 1,
+    "all_lines": 829,
+    "occurrences": [
+      [
+        750,
+        "01:21:19.940000",
+        "01:21:24.010000",
+        "Aerial bombardment, it's absolute hell on earth."
+      ]
+    ],
+    "regex": "\\b((?!\\bHell\\ on\\ Earth:)Hell\\ on\\ Earth|(?!\\bFall\\ of\\ Syria\\ and\\ the\\ Rise\\ of\\ ISIS:)Fall\\ of\\ Syria\\ and\\ the\\ Rise\\ of\\ ISIS)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

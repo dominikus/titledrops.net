@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6588838",
+    "title": "Hesperia",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1506,
+    "occurrences": [
+      [
+        55,
+        "00:03:37.074000",
+        "00:03:38.157000",
+        "Dog, this is Hesperia."
+      ],
+      [
+        114,
+        "00:05:25.067000",
+        "00:05:27.190000",
+        "How many skulls are left to crack in Hesperia?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHesperia:)Hesperia)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

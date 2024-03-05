@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0878695",
+    "title": "Murder Party",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 812,
+    "occurrences": [
+      [
+        58,
+        "00:14:26.491000",
+        "00:14:27.867000",
+        "The invitation said \"Murder party.\""
+      ],
+      [
+        501,
+        "00:42:26.294000",
+        "00:42:29.088000",
+        "I was coming to the \"Murder Party\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bMurder\\ Party:)Murder\\ Party)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

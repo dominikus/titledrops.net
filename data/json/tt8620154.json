@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt8620154",
+    "title": "The Audition",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 572,
+    "occurrences": [
+      [
+        313,
+        "00:44:29.042000",
+        "00:44:31.292000",
+        "I have to rehearse with him for the audition."
+      ],
+      [
+        385,
+        "00:57:32.917000",
+        "00:57:34.833000",
+        "How many days till the audition?"
+      ],
+      [
+        478,
+        "01:11:26.042000",
+        "01:11:29.667000",
+        "- That's news to me. - The audition is in two days, and..."
+      ],
+      [
+        537,
+        "01:22:05.958000",
+        "01:22:07.542000",
+        "AUDITION"
+      ]
+    ],
+    "regex": "\\b((?!\\bAudition:)Audition)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

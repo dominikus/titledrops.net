@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt6265536",
+    "title": "The Envelope",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 523,
+    "occurrences": [
+      [
+        57,
+        "00:10:54.933000",
+        "00:11:00.322000",
+        "Here is ul. \"Lesnaya\", and on the envelope write another address."
+      ],
+      [
+        79,
+        "00:12:52.096000",
+        "00:12:55.180000",
+        "And through your mind, do not let you open the envelope."
+      ],
+      [
+        105,
+        "00:15:13.429000",
+        "00:15:16.256000",
+        "Open the envelope de."
+      ],
+      [
+        247,
+        "00:29:46.018000",
+        "00:29:48.451000",
+        "What address is written on the envelope?"
+      ]
+    ],
+    "regex": "\\b((?!\\bEnvelope:)Envelope)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

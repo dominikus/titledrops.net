@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6043072",
+    "title": "Untogether",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1590,
+    "occurrences": [
+      [
+        112,
+        "00:07:37.240000",
+        "00:07:39.306000",
+        "This is the first untogether thing you've done in a year."
+      ],
+      [
+        1386,
+        "01:19:41.217000",
+        "01:19:43.652000",
+        "Untogether"
+      ]
+    ],
+    "regex": "\\b((?!\\bUntogether:)Untogether)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

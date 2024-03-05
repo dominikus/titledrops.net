@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt5249994",
+    "title": "Tracks",
+    "year": 2018,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1567,
+    "occurrences": [
+      [
+        1515,
+        "01:22:49.811000",
+        "01:22:51.214000",
+        "Let's just make tracks."
+      ],
+      [
+        1517,
+        "01:22:55.617000",
+        "01:22:57.920000",
+        "You know, let's make tracks."
+      ],
+      [
+        1531,
+        "01:23:20.109000",
+        "01:23:22.577000",
+        "- Chris? - Let's make tracks?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTracks:)Tracks)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

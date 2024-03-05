@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0189039",
+    "title": "The Devil Queen",
+    "year": 1974,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 562,
+    "occurrences": [
+      [
+        392,
+        "01:03:48.424000",
+        "01:03:51.086000",
+        "The Devil Queen, she's history."
+      ],
+      [
+        412,
+        "01:07:26.208000",
+        "01:07:29.871000",
+        "To the Devil Queen, our guardian! She's amazing!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDevil\\ Queen:)Devil\\ Queen)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

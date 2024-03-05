@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt13327038",
+    "title": "Do Revenge",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 2308,
+    "occurrences": [
+      [
+        572,
+        "00:27:37.666000",
+        "00:27:41.250000",
+        "I can't do revenge."
+      ],
+      [
+        573,
+        "00:27:41.750000",
+        "00:27:46.541000",
+        "I mean, is \"do revenge\" even, like, correct grammar?"
+      ],
+      [
+        2141,
+        "01:47:50.541000",
+        "01:47:51.708000",
+        "Let's do revenge."
+      ],
+      [
+        2142,
+        "01:47:51.791000",
+        "01:47:53.166000",
+        "- Let's do revenge. - Yeah."
+      ]
+    ],
+    "regex": "\\b((?!\\bDo\\ Revenge:)Do\\ Revenge)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

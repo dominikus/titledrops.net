@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0417976",
+    "title": "The Promise",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 6,
+    "all_lines": 858,
+    "occurrences": [
+      [
+        19,
+        0,
+        0,
+        "if you promise to be my slave"
+      ],
+      [
+        23,
+        0,
+        0,
+        "Fine, if you promise"
+      ],
+      [
+        59,
+        0,
+        0,
+        "Remember, all the riches of the world will be yours in return for this promise..."
+      ],
+      [
+        428,
+        0,
+        0,
+        "a foolish promise I made as a child"
+      ],
+      [
+        443,
+        0,
+        0,
+        "But I can promise you -"
+      ],
+      [
+        806,
+        0,
+        0,
+        "Fine, if you promise!"
+      ]
+    ],
+    "regex": "\\b((?!\\bPromise:)Promise)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

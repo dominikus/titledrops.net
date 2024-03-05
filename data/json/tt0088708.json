@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0088708",
+    "title": "American Ninja",
+    "year": 1985,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 699,
+    "occurrences": [
+      [
+        123,
+        "00:17:21.458000",
+        "00:17:24.837000",
+        "An American ninja? What do you mean? There is no such thing."
+      ],
+      [
+        125,
+        "00:17:30.717000",
+        "00:17:34.221000",
+        "...but I also know there was an American ninja there."
+      ],
+      [
+        648,
+        "01:21:18.086000",
+        "01:21:20.756000",
+        "The American ninja."
+      ]
+    ],
+    "regex": "\\b((?!\\bAmerican\\ Ninja:)American\\ Ninja)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

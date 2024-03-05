@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6365796",
+    "title": "The Grizzlies",
+    "year": 2018,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 1377,
+    "occurrences": [
+      [
+        985,
+        "01:11:26.750000",
+        "01:11:29.284000",
+        "- Who are we? - Grizzlies!"
+      ],
+      [
+        1279,
+        "01:34:40.208000",
+        "01:34:43.176000",
+        "One, two, three, Grizzlies!"
+      ],
+      [
+        1305,
+        "01:37:00.115000",
+        "01:37:01.948000",
+        "Time out, Grizzlies."
+      ],
+      [
+        1314,
+        "01:37:19.267000",
+        "01:37:20.533000",
+        "Let's go, Grizzlies!"
+      ]
+    ],
+    "regex": "\\b((?!\\bGrizzlies:)Grizzlies)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt10196368",
+    "title": "Nothing Compares",
+    "year": 2022,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 758,
+    "occurrences": [
+      [
+        374,
+        "00:49:30.240000",
+        "00:49:32.240000",
+        "\"The Nothing Compares To You\"   video,"
+      ],
+      [
+        411,
+        "00:53:43",
+        "00:53:45.120000",
+        "Sinead, \"Nothing Compares To You.\""
+      ],
+      [
+        412,
+        "00:53:47.400000",
+        "00:53:49.640000",
+        "The level of when \"Nothing Compares To You\""
+      ]
+    ],
+    "regex": "\\b((?!\\bNothing\\ Compares:)Nothing\\ Compares)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

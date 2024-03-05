@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1324076",
+    "title": "Fox",
+    "year": 2009,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 721,
+    "occurrences": [
+      [
+        355,
+        "00:27:09.327000",
+        "00:27:10.351000",
+        "'tFix the fox.'t"
+      ],
+      [
+        408,
+        "00:32:24.275000",
+        "00:32:25.264000",
+        "'tFix the fox.'t"
+      ],
+      [
+        462,
+        "00:36:21.345000",
+        "00:36:24.337000",
+        "What a title! 'tFix the fox.'t"
+      ]
+    ],
+    "regex": "\\b((?!\\bFox:)Fox)(?!\\:)(?!'t)\\b",
+    "runtime": 145,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

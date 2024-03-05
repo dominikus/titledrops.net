@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt14512538",
+    "title": "Roadrunner: A Film About Anthony Bourdain",
+    "year": 2021,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 7,
+    "all_lines": 2249,
+    "occurrences": [
+      [
+        16,
+        "00:01:38.389000",
+        "00:01:40.433000",
+        "[\"ROADRUNNER\" BY THE MODERN LOVERS PLAYING]"
+      ],
+      [
+        17,
+        "00:01:40.600000",
+        "00:01:42.352000",
+        "Roadrunner, roadrunner"
+      ],
+      [
+        25,
+        "00:02:04.207000",
+        "00:02:05.875000",
+        "I'm like the roadrunner..."
+      ],
+      [
+        40,
+        "00:02:49.586000",
+        "00:02:52.380000",
+        "And I say roadrunner once Roadrunner twice"
+      ],
+      [
+        43,
+        "00:02:55.842000",
+        "00:02:58.094000",
+        "Roadrunner, that's right..."
+      ]
+    ],
+    "regex": "\\b((?!\\bRoadrunner:)Roadrunner|(?!\\bFilm\\ About\\ Anthony\\ Bourdain:)Film\\ About\\ Anthony\\ Bourdain)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

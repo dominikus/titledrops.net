@@ -1,0 +1,59 @@
+[
+  {
+    "imdb": "tt0284929",
+    "title": "Ted Bundy",
+    "year": 2002,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1796,
+    "occurrences": [
+      [
+        171,
+        "00:16:57.216000",
+        "00:16:58.484000",
+        "Ted Bundy's a thief?"
+      ],
+      [
+        1792,
+        "01:33:55.262000",
+        "01:33:59",
+        "Who was Ted Bundy?"
+      ],
+      [
+        1793,
+        "01:34:00.101000",
+        "01:34:02.436000",
+        "I'm Ted Bundy."
+      ],
+      [
+        1794,
+        "01:34:02.470000",
+        "01:34:05.272000",
+        "I'm Ted Bundy."
+      ],
+      [
+        1795,
+        "01:34:05.306000",
+        "01:34:07.775000",
+        "I'm Ted Bundy."
+      ],
+      [
+        1796,
+        "01:34:07.808000",
+        "01:34:10.778000",
+        "I'm Ted Bundy."
+      ]
+    ],
+    "regex": "\\b((?!\\bTed\\ Bundy:)Ted\\ Bundy)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [
+      "Ted Bundy"
+    ],
+    "title_is_name": true,
+    "rating": 5.8
+  }
+]

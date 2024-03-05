@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt14999458",
+    "title": "The Story of Film: A New Generation",
+    "year": 2021,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 2469,
+    "occurrences": [
+      [
+        13,
+        "00:00:59.685000",
+        "00:01:03.814000",
+        "Welcome to the story of film: A new generation."
+      ],
+      [
+        467,
+        "00:29:04.368000",
+        "00:29:06.912000",
+        "even more part of the story of film."
+      ],
+      [
+        1355,
+        "01:30:03.315000",
+        "01:30:05.358000",
+        "Technology changed the story of film"
+      ],
+      [
+        1619,
+        "01:45:54.765000",
+        "01:45:57.852000",
+        "Few movies in the story of film make us feel"
+      ],
+      [
+        1936,
+        "02:08:15.146000",
+        "02:08:17.106000",
+        "of our story of film in recent years."
+      ]
+    ],
+    "regex": "\\b((?!\\bStory\\ of\\ Film:)Story\\ of\\ Film|(?!\\bNew\\ Generation:)New\\ Generation)(?!\\:)(?!'t)\\b",
+    "runtime": 165,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

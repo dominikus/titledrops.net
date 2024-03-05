@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2771200",
+    "title": "Beauty and the Beast",
+    "year": 2017,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 1277,
+    "occurrences": [
+      [
+        936,
+        "01:24:35.270000",
+        "01:24:38.460000",
+        "SONG: Beauty and the Beast story of the ancient ##"
+      ],
+      [
+        943,
+        "01:25:11.400000",
+        "01:25:16.460000",
+        "# The beauty and the Beast #"
+      ],
+      [
+        955,
+        "01:26:45.260000",
+        "01:26:49.490000",
+        "# The beauty and the Beast #"
+      ],
+      [
+        957,
+        "01:26:59.380000",
+        "01:27:07.510000",
+        "# The beauty and the Beast #"
+      ]
+    ],
+    "regex": "\\b((?!\\bBeauty\\ and\\ the\\ Beast:)Beauty\\ and\\ the\\ Beast)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

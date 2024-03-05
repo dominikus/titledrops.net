@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0070829",
+    "title": "Dream City",
+    "year": 1973,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1060,
+    "occurrences": [
+      [
+        24,
+        "00:05:48.320000",
+        "00:05:49.820000",
+        "In the Dream City,"
+      ],
+      [
+        48,
+        "00:07:23.792000",
+        "00:07:26.857000",
+        "To a citizen of Dream City, the only thing of importance is his dream."
+      ]
+    ],
+    "regex": "\\b((?!\\bDream\\ City:)Dream\\ City)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0042646",
+    "title": "King Solomon's Mines",
+    "year": 1950,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 755,
+    "occurrences": [
+      [
+        98,
+        "00:11:28.152000",
+        "00:11:31.581000",
+        "You may be right. Henry said he bought the map to King Solomon's Mines..."
+      ],
+      [
+        101,
+        "00:11:41.599000",
+        "00:11:44.100000",
+        "King Solomon's Mines."
+      ],
+      [
+        728,
+        "01:31:11.146000",
+        "01:31:14.146000",
+        "King Solomon's Mines."
+      ]
+    ],
+    "regex": "\\b((?!\\bKing\\ Solomon's\\ Mines:)King\\ Solomon's\\ Mines)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

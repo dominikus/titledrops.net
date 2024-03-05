@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0082334",
+    "title": "The Entity",
+    "year": 1982,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 1161,
+    "occurrences": [
+      [
+        767,
+        "01:19:10.964000",
+        "01:19:15.719000",
+        "We got some highIy interesting eIectricaI formations, possibIy caused by the entity."
+      ],
+      [
+        768,
+        "01:19:15.804000",
+        "01:19:19.194000",
+        "The entity? You know, I hope you wiII excuse me for saying so,..."
+      ],
+      [
+        810,
+        "01:22:11.204000",
+        "01:22:13.274000",
+        "- They caII it an entity. - What schmucks?"
+      ],
+      [
+        853,
+        "01:27:05.004000",
+        "01:27:11.034000",
+        "Isn't it possibIe that some sort of externaI inteIIigence, some discarnate entity,..."
+      ],
+      [
+        991,
+        "01:37:35.964000",
+        "01:37:39.752000",
+        "What we are seeking is to determine ifthis entity has mass."
+      ]
+    ],
+    "regex": "\\b((?!\\bEntity:)Entity)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

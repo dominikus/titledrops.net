@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0811138",
+    "title": "The Love Guru",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1233,
+    "occurrences": [
+      [
+        62,
+        "00:03:57.788000",
+        "00:04:00.590000",
+        "They call him the Love Guru."
+      ],
+      [
+        758,
+        "00:48:04.782000",
+        "00:48:06.700000",
+        "How can you be the Love Guru"
+      ]
+    ],
+    "regex": "\\b((?!\\bLove\\ Guru:)Love\\ Guru)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt1496792",
+    "title": "Grandmother",
+    "year": 2009,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 757,
+    "occurrences": [
+      [
+        83,
+        "00:17:44.160000",
+        "00:17:46.879000",
+        "I am Arnolds grandmother."
+      ],
+      [
+        88,
+        "00:18:28.480000",
+        "00:18:34.150000",
+        "Please excuse me, I'm Arnolds grandmother."
+      ],
+      [
+        101,
+        "00:19:25.920000",
+        "00:19:28.150000",
+        "Are you Arnolds grandmother?"
+      ],
+      [
+        163,
+        "00:26:11.120000",
+        "00:26:14.471000",
+        "This way, Lola. - Sir, she's Burgos' grandmother!"
+      ],
+      [
+        164,
+        "00:26:21.760000",
+        "00:26:23.193000",
+        "Burgos! Your grandmother is here."
+      ],
+      [
+        324,
+        "00:50:42.200000",
+        "00:50:44.873000",
+        "Can I talk to your grandmother?"
+      ],
+      [
+        427,
+        "01:04:48.200000",
+        "01:04:50.316000",
+        "Is your mother or your grandmother home?"
+      ]
+    ],
+    "regex": "\\b((?!\\bGrandmother:)Grandmother)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

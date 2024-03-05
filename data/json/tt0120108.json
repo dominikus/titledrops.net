@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0120108",
+    "title": "The Proposition",
+    "year": 1998,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1273,
+    "occurrences": [
+      [
+        258,
+        "00:17:42.807000",
+        "00:17:46.516000",
+        "you don't expect me to take this proposition seriously, do you?"
+      ],
+      [
+        276,
+        "00:18:43.527000",
+        "00:18:48.237000",
+        "that in time you'll come to see the great compliment of this proposition."
+      ]
+    ],
+    "regex": "\\b((?!\\bProposition:)Proposition)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

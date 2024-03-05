@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt16900880",
+    "title": "Kill Boksoon",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 2105,
+    "occurrences": [
+      [
+        263,
+        "00:16:56.724000",
+        "00:16:58.518000",
+        "As Kill Boksoon once said,"
+      ],
+      [
+        1732,
+        "01:43:49.682000",
+        "01:43:52.518000",
+        "I don't care if she's Gil Boksoon or Kill Boksoon,"
+      ]
+    ],
+    "regex": "\\b((?!\\bKill\\ Boksoon:)Kill\\ Boksoon)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

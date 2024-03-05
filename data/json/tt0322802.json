@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0322802",
+    "title": "Jackass: The Movie",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 861,
+    "occurrences": [
+      [
+        0,
+        "00:03:14.281000",
+        "00:03:16.500000",
+        "Hello, I'm Johnny Knoxville. Welcome to Jackass."
+      ],
+      [
+        384,
+        "00:39:17.093000",
+        "00:39:21.010000",
+        "I promise I will get my mom to say fuck by the end of this movie."
+      ],
+      [
+        859,
+        "01:21:58.522000",
+        "01:22:02.526000",
+        "The next time, we can do Son of Jackass."
+      ]
+    ],
+    "regex": "\\b((?!\\bJackass:)Jackass|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

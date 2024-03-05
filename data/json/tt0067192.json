@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0067192",
+    "title": "The Headless Eyes",
+    "year": 1971,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 849,
+    "occurrences": [
+      [
+        773,
+        "01:20:02.122000",
+        "01:20:03.622000",
+        "and Headless Eyes."
+      ],
+      [
+        836,
+        "01:22:48.146000",
+        "01:22:49.559000",
+        "Headless Eyes."
+      ],
+      [
+        848,
+        "01:23:16.291000",
+        "01:23:18.491000",
+        "Dreamaniac and Headless Eyes"
+      ]
+    ],
+    "regex": "\\b((?!\\bHeadless\\ Eyes:)Headless\\ Eyes)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

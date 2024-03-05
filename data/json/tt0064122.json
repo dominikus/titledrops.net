@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0064122",
+    "title": "Camille 2000",
+    "year": 1969,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1133,
+    "occurrences": [
+      [
+        1,
+        "00:00:16.642000",
+        "00:00:18.435000",
+        "Camille 2000, scene one, take one."
+      ],
+      [
+        92,
+        "00:08:03.818000",
+        "00:08:06.095000",
+        "They call her Camille because of that bit with the flowers."
+      ]
+    ],
+    "regex": "\\b((?!\\bCamille:)Camille)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

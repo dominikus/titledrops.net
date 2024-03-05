@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0051742",
+    "title": "Hot Spell",
+    "year": 1958,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1464,
+    "occurrences": [
+      [
+        160,
+        "00:09:03.722000",
+        "00:09:07.602000",
+        "\"Papa, why don't we drive up to New Paris in the car after the hot spell?\""
+      ],
+      [
+        1462,
+        "01:24:48.565000",
+        "01:24:50.905000",
+        "I guess the hot spell's over."
+      ]
+    ],
+    "regex": "\\b((?!\\bHot\\ Spell:)Hot\\ Spell)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

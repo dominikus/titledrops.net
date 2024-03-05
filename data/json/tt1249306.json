@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1249306",
+    "title": "Giovanna's Father",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1159,
+    "occurrences": [
+      [
+        517,
+        "00:41:19.556000",
+        "00:41:22.354000",
+        "I'd like to speak to her, I'm Giovanna's father."
+      ],
+      [
+        807,
+        "01:07:34.396000",
+        "01:07:36.466000",
+        "I'm Mr. Casali, Giovanna's father."
+      ]
+    ],
+    "regex": "\\b((?!\\bGiovanna's\\ Father:)Giovanna's\\ Father)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

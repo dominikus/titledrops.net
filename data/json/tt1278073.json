@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1278073",
+    "title": "Heterosexual Jill",
+    "year": 2013,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1702,
+    "occurrences": [
+      [
+        121,
+        "00:05:44.696000",
+        "00:05:48.902000",
+        "JAZZ SONG:  Heterosexual Jill (Jill!) Heterosexual Jill"
+      ],
+      [
+        132,
+        "00:06:25.411000",
+        "00:06:31.618000",
+        "Heterosexual, heterosexual, heterosexual Jill!!!"
+      ]
+    ],
+    "regex": "\\b((?!\\bHeterosexual\\ Jill:)Heterosexual\\ Jill)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

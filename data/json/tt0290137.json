@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0290137",
+    "title": "Au pan coupé",
+    "year": 1967,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 665,
+    "occurrences": [
+      [
+        212,
+        "00:20:18.826000",
+        "00:20:22.049000",
+        "Jeanne especially avoided the Au Pan Coupe of their love,"
+      ],
+      [
+        584,
+        "00:57:39.873000",
+        "00:57:43.373000",
+        "to Au Pan Coupe, because that's where they meet near the end."
+      ]
+    ],
+    "regex": "\\b((?!\\bAu\\ pan\\ coupe:)Au\\ pan\\ coupe)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

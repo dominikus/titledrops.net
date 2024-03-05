@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0075889",
+    "title": "The Creature",
+    "year": 1977,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 539,
+    "occurrences": [
+      [
+        0,
+        "00:00:08.504000",
+        "00:00:12.231000",
+        "in The Creature"
+      ],
+      [
+        51,
+        "00:07:18.237000",
+        "00:07:20.309000",
+        "The creature is inside me, and I haven't prayed."
+      ]
+    ],
+    "regex": "\\b((?!\\bCreature:)Creature)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3100052",
+    "title": "Gallows Road",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1418,
+    "occurrences": [
+      [
+        996,
+        "01:08:47.089000",
+        "01:08:49.023000",
+        "You're walking down Gallows Road."
+      ],
+      [
+        1012,
+        "01:09:40.876000",
+        "01:09:46.214000",
+        "The most important thing about Gallows Road, Jake, is this."
+      ]
+    ],
+    "regex": "\\b((?!\\bGallows\\ Road:)Gallows\\ Road)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

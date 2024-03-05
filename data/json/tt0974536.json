@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0974536",
+    "title": "Chemical Wedding",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 1668,
+    "occurrences": [
+      [
+        12,
+        "00:01:11.805000",
+        "00:01:16.765000",
+        "* Our chemical wedding day *"
+      ],
+      [
+        15,
+        "00:01:24.651000",
+        "00:01:29.588000",
+        "* Our chemical wedding day. **"
+      ],
+      [
+        180,
+        "00:09:32.438000",
+        "00:09:33.962000",
+        "what he calls the chemical wedding."
+      ],
+      [
+        181,
+        "00:09:34.006000",
+        "00:09:35.667000",
+        "Chemical wedding?"
+      ],
+      [
+        1380,
+        "01:24:43.144000",
+        "01:24:46.580000",
+        "he'll need to perform the chemical wedding."
+      ],
+      [
+        1404,
+        "01:26:42.297000",
+        "01:26:45.858000",
+        "What do you need for the chemical wedding?"
+      ]
+    ],
+    "regex": "\\b((?!\\bChemical\\ Wedding:)Chemical\\ Wedding)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

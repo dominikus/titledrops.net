@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt7401070",
+    "title": "Boiled Angels: The Trial of Mike Diana",
+    "year": 2018,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 2059,
+    "occurrences": [
+      [
+        25,
+        "00:01:25.604000",
+        "00:01:29.864000",
+        "-  The trial of Mike Diana is aired on live TV all"
+      ],
+      [
+        59,
+        "00:02:51.822000",
+        "00:02:55.615000",
+        "Diana publishes a magazine called Boiled Angels."
+      ],
+      [
+        1216,
+        "00:57:40.510000",
+        "00:57:44.419000",
+        "in what's known as the \"Boiled Angels\" case, Steve?"
+      ],
+      [
+        1241,
+        "00:58:34.230000",
+        "00:58:37.030000",
+        "and judges in the \"Boiled Angels\" case."
+      ]
+    ],
+    "regex": "\\b((?!\\bBoiled\\ Angels:)Boiled\\ Angels|(?!\\bTrial\\ of\\ Mike\\ Diana:)Trial\\ of\\ Mike\\ Diana)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

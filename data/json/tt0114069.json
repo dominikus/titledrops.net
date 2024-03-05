@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0114069",
+    "title": "Outbreak",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1532,
+    "occurrences": [
+      [
+        352,
+        "00:28:02.545000",
+        "00:28:05.343000",
+        "There's a fresh outbreak of Hanta fever in New Mexico."
+      ],
+      [
+        471,
+        "00:35:50.905000",
+        "00:35:54.022000",
+        "E. coli outbreak in Michigan in a steak house franchise."
+      ],
+      [
+        544,
+        "00:42:04.585000",
+        "00:42:06.576000",
+        "There's another outbreak?"
+      ],
+      [
+        943,
+        "01:15:36.465000",
+        "01:15:39.855000",
+        "You could've stopped this outbreak before it mutated. But you didn't."
+      ]
+    ],
+    "regex": "\\b((?!\\bOutbreak:)Outbreak)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

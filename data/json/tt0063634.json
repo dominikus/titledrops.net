@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0063634",
+    "title": "Speedway",
+    "year": 1968,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1048,
+    "occurrences": [
+      [
+        29,
+        "00:04:03.613000",
+        "00:04:05.683000",
+        "and welcome to Charlotte Motor Speedway..."
+      ],
+      [
+        50,
+        "00:05:24.373000",
+        "00:05:27.331000",
+        "Miss Mary Ann Ashman, Miss Charlotte Speedway 100."
+      ],
+      [
+        137,
+        "00:11:56.893000",
+        "00:11:59.361000",
+        "our beautiful Miss Charlotte Speedway 100."
+      ],
+      [
+        390,
+        "00:36:32.333000",
+        "00:36:34.085000",
+        "here at Charlotte Motor Speedway..."
+      ],
+      [
+        414,
+        "00:38:06.173000",
+        "00:38:08.892000",
+        "on winning the Charlotte Speedway 250."
+      ],
+      [
+        953,
+        "01:19:58.733000",
+        "01:20:02.248000",
+        "From the Charlotte Motor Speedway, the World 600."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpeedway:)Speedway)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

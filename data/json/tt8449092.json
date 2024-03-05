@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt8449092",
+    "title": "The Fireflies Are Gone",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 830,
+    "occurrences": [
+      [
+        91,
+        "00:07:26.404000",
+        "00:07:31.951000",
+        "The Fireflies Are Gone"
+      ],
+      [
+        140,
+        "00:13:00.488000",
+        "00:13:03.992000",
+        "They say it's our fault the fireflies are gone."
+      ]
+    ],
+    "regex": "\\b((?!\\bFireflies\\ Are\\ Gone:)Fireflies\\ Are\\ Gone)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

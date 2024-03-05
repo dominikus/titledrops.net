@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2372776",
+    "title": "Harry Dean Stanton: Partly Fiction",
+    "year": 2012,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1003,
+    "occurrences": [
+      [
+        205,
+        "00:16:29.782000",
+        "00:16:34.703000",
+        "And, uh, just playing myself, just play Harry Dean Stanton."
+      ],
+      [
+        729,
+        "00:57:52.887000",
+        "00:57:57.267000",
+        "I'm talking to the famous Harry Dean Stanton?"
+      ],
+      [
+        880,
+        "01:07:22.331000",
+        "01:07:25.710000",
+        "Partly truth and partly fiction"
+      ]
+    ],
+    "regex": "\\b((?!\\bHarry\\ Dean\\ Stanton:)Harry\\ Dean\\ Stanton|(?!\\bPartly\\ Fiction:)Partly\\ Fiction)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

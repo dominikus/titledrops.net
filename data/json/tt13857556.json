@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt13857556",
+    "title": "Candy Land",
+    "year": 2022,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1303,
+    "occurrences": [
+      [
+        20,
+        "00:02:25.647000",
+        "00:02:27.347000",
+        "heading for Candy Land."
+      ],
+      [
+        402,
+        "00:24:14.555000",
+        "00:24:17.191000",
+        "Gave it the nickname, too. Candy Land."
+      ],
+      [
+        446,
+        "00:25:54.155000",
+        "00:25:58.059000",
+        "or anyone who says they're headed for Candy Land."
+      ],
+      [
+        448,
+        "00:26:00.061000",
+        "00:26:01.595000",
+        "heading for Candy Land."
+      ]
+    ],
+    "regex": "\\b((?!\\bCandy\\ Land:)Candy\\ Land)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

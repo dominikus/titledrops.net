@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0040759",
+    "title": "The Saxon Charm",
+    "year": 1948,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1480,
+    "occurrences": [
+      [
+        251,
+        "00:15:07.428000",
+        "00:15:11.031000",
+        "Even the cleverest are hooked once the Saxon charm goes to work."
+      ],
+      [
+        533,
+        "00:30:55.170000",
+        "00:30:57.817000",
+        "The Saxon charm is always turned on full the next day."
+      ]
+    ],
+    "regex": "\\b((?!\\bSaxon\\ Charm:)Saxon\\ Charm)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

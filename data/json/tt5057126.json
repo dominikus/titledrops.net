@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt5057126",
+    "title": "Comic 8: Casino Kings Part 1",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1063,
+    "occurrences": [
+      [
+        312,
+        "00:30:12.291000",
+        "00:30:14.833000",
+        "Hey, is he still a comic?"
+      ],
+      [
+        347,
+        "00:32:50.125000",
+        "00:32:54.458000",
+        "There's eight of us now, so the name Comic 8 is fitting."
+      ],
+      [
+        519,
+        "00:47:44.541000",
+        "00:47:50.458000",
+        "You'll accompany them and complete the team as Comic 8."
+      ],
+      [
+        711,
+        "01:00:32.291000",
+        "01:00:34.625000",
+        "You just focus on becoming a comic."
+      ]
+    ],
+    "regex": "\\b((?!\\bComic:)Comic|(?!\\bCasino\\ Kings:)Casino\\ Kings)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt8610436",
+    "title": "The Sparks Brothers",
+    "year": 2021,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 3291,
+    "occurrences": [
+      [
+        80,
+        "00:03:56.643000",
+        "00:03:58.515000",
+        "calling the documentary The Sparks Brothers?"
+      ],
+      [
+        546,
+        "00:26:12.314000",
+        "00:26:15.056000",
+        "You're brothers. So the Sparks Brothers.\""
+      ],
+      [
+        1779,
+        "01:17:06.602000",
+        "01:17:09.213000",
+        "\"I saw the Sparks brothers"
+      ]
+    ],
+    "regex": "\\b((?!\\bSparks\\ Brothers:)Sparks\\ Brothers)(?!\\:)(?!'t)\\b",
+    "runtime": 141,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

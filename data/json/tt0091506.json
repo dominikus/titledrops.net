@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0091506",
+    "title": "The Beekeeper",
+    "year": 1986,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 363,
+    "occurrences": [
+      [
+        211,
+        "00:59:13.616000",
+        "00:59:16.116000",
+        "... you are the only one who went out as beekeeper..."
+      ],
+      [
+        213,
+        "00:59:21.190000",
+        "00:59:23.690000",
+        "...a beekeeper..."
+      ],
+      [
+        214,
+        "00:59:24.594000",
+        "00:59:26.094000",
+        "...a beekeeper's son..."
+      ],
+      [
+        215,
+        "00:59:26.362000",
+        "00:59:29.862000",
+        "...with a beekeeper grandfather! That's a whole generation !"
+      ]
+    ],
+    "regex": "\\b((?!\\bBeekeeper:)Beekeeper)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

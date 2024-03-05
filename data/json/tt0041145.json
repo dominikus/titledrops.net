@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0041145",
+    "title": "The Bad Lord Byron",
+    "year": 1949,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1426,
+    "occurrences": [
+      [
+        981,
+        "00:55:01.672000",
+        "00:55:03.332000",
+        "the bad Lord Byron"
+      ],
+      [
+        1420,
+        "01:22:16.379000",
+        "01:22:20.184000",
+        "Do you believe in Caroline Lambs bad Lord Byron"
+      ]
+    ],
+    "regex": "\\b((?!\\bBad\\ Lord\\ Byron:)Bad\\ Lord\\ Byron)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

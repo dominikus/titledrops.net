@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0114115",
+    "title": "The Dog in the Manger",
+    "year": 1996,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1774,
+    "occurrences": [
+      [
+        0,
+        "00:00:46.611000",
+        "00:00:50.524000",
+        "DOG IN THE MANGER"
+      ],
+      [
+        1183,
+        "01:08:19.351000",
+        "01:08:21.627000",
+        "\"Dog in the manger\" sums her up exactly."
+      ],
+      [
+        1637,
+        "01:34:03.229000",
+        "01:34:06.303000",
+        "- What do you think? - No more dog in the manger."
+      ]
+    ],
+    "regex": "\\b((?!\\bDog\\ in\\ the\\ Manger:)Dog\\ in\\ the\\ Manger)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0058753",
+    "title": "Witchcraft",
+    "year": 1964,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 667,
+    "occurrences": [
+      [
+        183,
+        "00:18:27.464000",
+        "00:18:29.591000",
+        "the Laniers accused the Whitlocks of witchcraft."
+      ],
+      [
+        302,
+        "00:27:55.898000",
+        "00:27:59.356000",
+        "I know there have always been stories about witchcraft and certain practices, yes."
+      ],
+      [
+        431,
+        "00:43:23.425000",
+        "00:43:25.450000",
+        "All right, why don't I admit it? It was witchcraft."
+      ]
+    ],
+    "regex": "\\b((?!\\bWitchcraft:)Witchcraft)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0063818",
+    "title": "The Valley of Death",
+    "year": 1968,
+    "genres": [
+      "Adventure",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 646,
+    "occurrences": [
+      [
+        542,
+        "01:08:41.399000",
+        "01:08:44.320000",
+        "The gold is in the Valley of Death."
+      ],
+      [
+        577,
+        "01:13:27",
+        "01:13:29.440000",
+        "That is the Valley of Death."
+      ]
+    ],
+    "regex": "\\b((?!\\bValley\\ of\\ Death:)Valley\\ of\\ Death)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

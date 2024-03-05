@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0238251",
+    "title": "Gossip",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1505,
+    "occurrences": [
+      [
+        102,
+        "00:10:08.583000",
+        "00:10:13.822000",
+        "How do you deal with all the gossip about who's the father?"
+      ],
+      [
+        1220,
+        "01:44:25.625000",
+        "01:44:31.291000",
+        "and make the babbling gossip of the air cry out, 'Olivia!'"
+      ]
+    ],
+    "regex": "\\b((?!\\bGossip:)Gossip)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

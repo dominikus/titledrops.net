@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1666800",
+    "title": "Oba: The Last Samurai",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 415,
+    "occurrences": [
+      [
+        385,
+        "01:41:22.676000",
+        "01:41:30.549000",
+        "Despite the defeat of Japanese know, no Oba or his men would come down the mountain"
+      ],
+      [
+        388,
+        "01:43:21.361000",
+        "01:43:25.354000",
+        "according to a message from the Japanese camp, Oba want meet"
+      ],
+      [
+        392,
+        "01:43:33.473000",
+        "01:43:35.805000",
+        "Captain Oba if not consistent"
+      ],
+      [
+        414,
+        "01:59:23.356000",
+        "01:59:29.192000",
+        "the war finally ended for The Captain Sakae Oba and his army."
+      ]
+    ],
+    "regex": "\\b((?!\\bOba:)Oba|(?!\\bLast\\ Samurai:)Last\\ Samurai)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

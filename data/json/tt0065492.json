@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0065492",
+    "title": "Brewster McCloud",
+    "year": 1970,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1560,
+    "occurrences": [
+      [
+        1423,
+        "01:29:50.135000",
+        "01:29:51.671000",
+        "Brewster McCloud."
+      ],
+      [
+        1544,
+        "01:43:17.316000",
+        "01:43:21.059000",
+        "the cast of Brewster McCloud."
+      ]
+    ],
+    "regex": "\\b((?!\\bBrewster\\ McCloud:)Brewster\\ McCloud)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

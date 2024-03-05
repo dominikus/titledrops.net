@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt0068762",
+    "title": "Jeremiah Johnson",
+    "year": 1972,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "count": 4,
+    "all_lines": 602,
+    "occurrences": [
+      [
+        0,
+        "00:04:07.592000",
+        "00:04:09.389000",
+        "His name was Jeremiah Johnson."
+      ],
+      [
+        15,
+        "00:05:10.989000",
+        "00:05:13.457000",
+        "Jeremiah Johnson"
+      ],
+      [
+        319,
+        "00:49:15.498000",
+        "00:49:17.056000",
+        "Bye, Jeremiah Johnson!"
+      ],
+      [
+        471,
+        "01:37:57.733000",
+        "01:38:00.600000",
+        "There's a man for you, Jeremiah Johnson."
+      ]
+    ],
+    "regex": "\\b((?!\\bJeremiah\\ Johnson:)Jeremiah\\ Johnson)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [
+      "Jeremiah Johnson"
+    ],
+    "title_is_name": true,
+    "rating": 7.6
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt8458534",
+    "title": "Time Loop",
+    "year": 2019,
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1185,
+    "occurrences": [
+      [
+        383,
+        "00:25:36.120000",
+        "00:25:38.889000",
+        "it created a time loop."
+      ],
+      [
+        460,
+        "00:29:32.389000",
+        "00:29:35.292000",
+        "If you break the time loop,"
+      ]
+    ],
+    "regex": "\\b((?!\\bTime\\ Loop:)Time\\ Loop)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

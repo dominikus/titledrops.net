@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt23790418",
+    "title": "Christmas as Usual",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1620,
+    "occurrences": [
+      [
+        1401,
+        "01:12:25.291000",
+        "01:12:26.416000",
+        "Christmas as usual."
+      ],
+      [
+        1402,
+        "01:12:27.625000",
+        "01:12:28.750000",
+        "Christmas as usual."
+      ]
+    ],
+    "regex": "\\b((?!\\bChristmas\\ as\\ Usual:)Christmas\\ as\\ Usual)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0039615",
+    "title": "The Damned",
+    "year": 1947,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1022,
+    "occurrences": [
+      [
+        0,
+        "00:01:28.840000",
+        "00:01:32.469000",
+        "The Damned"
+      ],
+      [
+        1022,
+        "01:42:18.467000",
+        "01:42:19.677000",
+        "''The Damned''."
+      ]
+    ],
+    "regex": "\\b((?!\\bDamned:)Damned)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

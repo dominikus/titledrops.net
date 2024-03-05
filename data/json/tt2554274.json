@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt2554274",
+    "title": "Crimson Peak",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 1216,
+    "occurrences": [
+      [
+        12,
+        "00:03:07.188000",
+        "00:03:10.889000",
+        "beware of crimson peak."
+      ],
+      [
+        196,
+        "00:14:57.096000",
+        "00:15:00.465000",
+        "Beware of crimson peak."
+      ],
+      [
+        730,
+        "01:01:35.125000",
+        "01:01:37.759000",
+        "That's when you'll find out why they call this crimson peak."
+      ],
+      [
+        732,
+        "01:01:45.736000",
+        "01:01:49.137000",
+        "Crimson peak. That's what they call it."
+      ],
+      [
+        734,
+        "01:01:52.142000",
+        "01:01:55.243000",
+        "It turns bright red, so \"crimson peak.\""
+      ],
+      [
+        1023,
+        "01:31:30.018000",
+        "01:31:31.751000",
+        "Crimson peak."
+      ]
+    ],
+    "regex": "\\b((?!\\bCrimson\\ Peak:)Crimson\\ Peak)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

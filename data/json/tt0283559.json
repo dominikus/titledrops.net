@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0283559",
+    "title": "Pressure",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 765,
+    "occurrences": [
+      [
+        2,
+        "00:00:26.300000",
+        "00:00:29",
+        "Pressure (2002)"
+      ],
+      [
+        561,
+        "00:58:01.596000",
+        "00:58:05.293000",
+        "You never know how much pressure's building up inside."
+      ]
+    ],
+    "regex": "\\b((?!\\bPressure:)Pressure)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

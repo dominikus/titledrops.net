@@ -1,0 +1,53 @@
+[
+  {
+    "imdb": "tt8459250",
+    "title": "Shéhérazade",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1626,
+    "occurrences": [
+      [
+        152,
+        "00:09:27.505000",
+        "00:09:30.338000",
+        "- You don't look familiar. - Your name is Sheherazade."
+      ],
+      [
+        968,
+        "01:03:58.588000",
+        "01:04:00.505000",
+        "- What? - Seen Sheherazade?"
+      ],
+      [
+        982,
+        "01:04:55.630000",
+        "01:04:59.421000",
+        "Has my friend Sheherazade Boubekeur been admitted here?"
+      ],
+      [
+        1016,
+        "01:07:37.130000",
+        "01:07:40.088000",
+        "- Sit down, Sheherazade. - No, she needs to go."
+      ],
+      [
+        1020,
+        "01:07:50.380000",
+        "01:07:51.380000",
+        "Sheherazade."
+      ]
+    ],
+    "regex": "\\b((?!\\bSheherazade:)Sheherazade)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [
+      "Shéhérazade"
+    ],
+    "title_is_name": true,
+    "rating": 7.1
+  }
+]

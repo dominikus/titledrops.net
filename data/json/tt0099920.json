@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0099920",
+    "title": "The Rabbit Man",
+    "year": 1990,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 793,
+    "occurrences": [
+      [
+        100,
+        "00:11:38.643000",
+        "00:11:42.315000",
+        "- Well, who do I look like? - The rabbit man."
+      ],
+      [
+        211,
+        "00:24:01.763000",
+        "00:24:04.401000",
+        "Any news about \"the rabbit man\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRabbit\\ Man:)Rabbit\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2262227",
+    "title": "The Book of Life",
+    "year": 2014,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1487,
+    "occurrences": [
+      [
+        44,
+        "00:03:27.457000",
+        "00:03:30.087000",
+        "That is the book of life."
+      ],
+      [
+        1068,
+        "01:01:02.454000",
+        "01:01:05.424000",
+        "It's all here in the book of life."
+      ],
+      [
+        1104,
+        "01:02:48.685000",
+        "01:02:52.555000",
+        "Look, guys, the book of life holds everyone's story."
+      ],
+      [
+        1422,
+        "01:23:46.193000",
+        "01:23:49.993000",
+        "By the power vested in us by the book of life..."
+      ]
+    ],
+    "regex": "\\b((?!\\bBook\\ of\\ Life:)Book\\ of\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

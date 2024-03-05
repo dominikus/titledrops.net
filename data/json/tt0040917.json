@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0040917",
+    "title": "Such a Pretty Little Beach",
+    "year": 1949,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 817,
+    "occurrences": [
+      [
+        0,
+        "00:01:10.129000",
+        "00:01:15.557000",
+        "Such a pretty little beach"
+      ],
+      [
+        46,
+        "00:08:17.280000",
+        "00:08:20.005000",
+        "And it's such a pretty little beach in summer."
+      ],
+      [
+        451,
+        "00:51:48.943000",
+        "00:51:50.688000",
+        "...on such a pretty little beach."
+      ],
+      [
+        806,
+        "01:24:52.556000",
+        "01:24:55.431000",
+        "It really is such a pretty little beach."
+      ]
+    ],
+    "regex": "\\b((?!\\bSuch\\ a\\ Pretty\\ Little\\ Beach:)Such\\ a\\ Pretty\\ Little\\ Beach)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

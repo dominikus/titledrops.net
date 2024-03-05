@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0062737",
+    "title": "Blackbeard's Ghost",
+    "year": 1968,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 1398,
+    "occurrences": [
+      [
+        677,
+        "00:51:50.630000",
+        "00:51:52.208000",
+        "Blackbeard's ghost."
+      ],
+      [
+        678,
+        "00:51:53.717000",
+        "00:51:55.709000",
+        "- Blackbeard's ghost? - Yeah."
+      ],
+      [
+        679,
+        "00:51:57.137000",
+        "00:52:00.588000",
+        "Well, how can you be sure he's the real Blackbeard's ghost, the ghost of Captain Teach?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlackbeard's\\ Ghost:)Blackbeard's\\ Ghost)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

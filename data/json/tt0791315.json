@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0791315",
+    "title": "Keillers park",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 649,
+    "occurrences": [
+      [
+        111,
+        "00:13:28.943000",
+        "00:13:33.014000",
+        "- Keillers Park in 45 minutes - Good. It's a deal. Bye !"
+      ],
+      [
+        213,
+        "00:27:03.206000",
+        "00:27:08.545000",
+        "- What bench ? - At Keillers Park"
+      ],
+      [
+        217,
+        "00:27:26.362000",
+        "00:27:31.500000",
+        "- Next to Nassim. In Keillers Park - You dropped it there"
+      ],
+      [
+        579,
+        "01:17:02.137000",
+        "01:17:05.240000",
+        "- How can I help you ? - That gay at Keillers park..."
+      ]
+    ],
+    "regex": "\\b((?!\\bKeillers\\ park:)Keillers\\ park)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

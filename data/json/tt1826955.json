@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1826955",
+    "title": "Together",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 692,
+    "occurrences": [
+      [
+        454,
+        "00:52:25.600000",
+        "00:52:28.346000",
+        "stay together besides mistakes."
+      ],
+      [
+        655,
+        "01:16:30.500000",
+        "01:16:34.901000",
+        "Uro Ristanovic's novel 'Together'. Ristanovic that wasn't in public"
+      ]
+    ],
+    "regex": "\\b((?!\\bTogether:)Together)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

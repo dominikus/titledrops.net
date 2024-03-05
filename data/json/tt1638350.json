@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt1638350",
+    "title": "Skylab",
+    "year": 2011,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 1143,
+    "occurrences": [
+      [
+        94,
+        "00:08:01.240000",
+        "00:08:05.768000",
+        "Skylab - the satellite. It's supposed to be crashing in western France somewhere."
+      ],
+      [
+        347,
+        "00:26:57.800000",
+        "00:27:00.804000",
+        "I'm sure it's Skylab affecting the atmosphere."
+      ],
+      [
+        348,
+        "00:27:00.920000",
+        "00:27:03.890000",
+        "Do you think Skylab ill fall on us?"
+      ],
+      [
+        602,
+        "00:50:09.560000",
+        "00:50:13.451000",
+        "- Why would we be? - Because of Skylab."
+      ],
+      [
+        775,
+        "01:05:33.760000",
+        "01:05:37.287000",
+        "- It's Skylab! - ... are not controlling the satellite."
+      ],
+      [
+        1075,
+        "01:40:14.520000",
+        "01:40:19.242000",
+        "It crashed in Australia... in the sea... Skylab."
+      ]
+    ],
+    "regex": "\\b((?!\\bSkylab:)Skylab)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

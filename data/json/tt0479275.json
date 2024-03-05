@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0479275",
+    "title": "Beautiful Ohio",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1806,
+    "occurrences": [
+      [
+        1635,
+        "01:14:46.525000",
+        "01:14:49.223000",
+        "Beautiful Ohio,"
+      ],
+      [
+        1803,
+        "01:26:48.899000",
+        "01:26:51.858000",
+        "[\"Beautiful Ohio\" plays on piano...]"
+      ]
+    ],
+    "regex": "\\b((?!\\bBeautiful\\ Ohio:)Beautiful\\ Ohio)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0488798",
+    "title": "Welcome",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1727,
+    "occurrences": [
+      [
+        985,
+        "01:35:07.542000",
+        "01:35:07.803000",
+        "Welcome!"
+      ],
+      [
+        1527,
+        "02:09:02.675000",
+        "02:09:02.936000",
+        "Welcome!"
+      ],
+      [
+        1528,
+        "02:09:08.147000",
+        "02:09:08.841000",
+        "Welcome my friend!"
+      ],
+      [
+        1529,
+        "02:09:09.648000",
+        "02:09:09.977000",
+        "Welcome!"
+      ]
+    ],
+    "regex": "\\b((?!\\bWelcome:)Welcome)(?!\\:)(?!'t)\\b",
+    "runtime": 159,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

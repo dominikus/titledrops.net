@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt10329134",
+    "title": "Your Name Engraved Herein",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1345,
+    "occurrences": [
+      [
+        1181,
+        "01:30:48.833000",
+        "01:30:52.500000",
+        "Your name engraved herein"
+      ],
+      [
+        1189,
+        "01:31:17.958000",
+        "01:31:21.583000",
+        "Your name engraved herein"
+      ],
+      [
+        1328,
+        "01:48:18.166000",
+        "01:48:21.916000",
+        "-Your name engraved herein -Your name engraved herein"
+      ],
+      [
+        1336,
+        "01:48:47.458000",
+        "01:48:51.166000",
+        "-Your name engraved herein -Your name engraved herein"
+      ]
+    ],
+    "regex": "\\b((?!\\bYour\\ Name\\ Engraved\\ Herein:)Your\\ Name\\ Engraved\\ Herein)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

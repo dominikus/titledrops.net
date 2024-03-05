@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt0373690",
+    "title": "Arsène Lupin",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "count": 4,
+    "all_lines": 513,
+    "occurrences": [
+      [
+        1,
+        "00:00:02.951000",
+        "00:00:06.851000",
+        "Arsene Lupin hunted by French police!"
+      ],
+      [
+        47,
+        "00:03:17.051000",
+        "00:03:17.951000",
+        "Arsene Lupin."
+      ],
+      [
+        72,
+        "00:04:24.351000",
+        "00:04:27.751000",
+        "Hands up, Arsene Lupin!"
+      ],
+      [
+        386,
+        "00:38:00.651000",
+        "00:38:04.551000",
+        "Arsene Lupin. Remember his name!"
+      ]
+    ],
+    "regex": "\\b((?!\\bArsene\\ Lupin:)Arsene\\ Lupin)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [
+      "Arsène Lupin"
+    ],
+    "title_is_name": true,
+    "rating": 5.4
+  }
+]

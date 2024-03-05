@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt6740482",
+    "title": "The Preacher",
+    "year": 2022,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1112,
+    "occurrences": [
+      [
+        44,
+        "00:05:02.958000",
+        "00:05:05.198000",
+        "You're always late, Preacher!"
+      ],
+      [
+        653,
+        "00:50:07.558000",
+        "00:50:08.678000",
+        "The Preacher's partner."
+      ],
+      [
+        660,
+        "00:50:28.759000",
+        "00:50:30.839000",
+        "You are a son of a bitch, Preacher!"
+      ],
+      [
+        665,
+        "00:50:52.959000",
+        "00:50:53.959000",
+        "You know, Preacher?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPreacher:)Preacher)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

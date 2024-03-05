@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2180423",
+    "title": "Jadoo",
+    "year": 2013,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 971,
+    "occurrences": [
+      [
+        459,
+        "00:34:37.080000",
+        "00:34:39.440000",
+        "you haven't come up with a single new recipe since Jadoo."
+      ],
+      [
+        655,
+        "00:48:18.080000",
+        "00:48:20.280000",
+        "It's only practice, not bloody jadoo."
+      ],
+      [
+        812,
+        "01:02:08",
+        "01:02:13.560000",
+        "but you used to have one together, Jadoo. It seems such a shame."
+      ]
+    ],
+    "regex": "\\b((?!\\bJadoo:)Jadoo)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

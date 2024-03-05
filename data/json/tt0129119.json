@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0129119",
+    "title": "The Golden Age of Comedy",
+    "year": 1957,
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 621,
+    "occurrences": [
+      [
+        10,
+        "00:00:42.600000",
+        "00:00:45.600000",
+        "Come back to the Golden Age of Comedy."
+      ],
+      [
+        124,
+        "00:12:45.400000",
+        "00:12:50",
+        "a trademark of the Golden Age of Comedy, the chase."
+      ]
+    ],
+    "regex": "\\b((?!\\bGolden\\ Age\\ of\\ Comedy:)Golden\\ Age\\ of\\ Comedy)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

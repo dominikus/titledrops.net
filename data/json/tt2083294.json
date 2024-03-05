@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2083294",
+    "title": "Picture Day",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1937,
+    "occurrences": [
+      [
+        633,
+        "00:31:10.102000",
+        "00:31:12.504000",
+        "It's picture day tomorrow."
+      ],
+      [
+        635,
+        "00:31:18.544000",
+        "00:31:20.980000",
+        "Really? It's Picture Day?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPicture\\ Day:)Picture\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

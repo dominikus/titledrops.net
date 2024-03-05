@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt2122313",
+    "title": "The Circle",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 789,
+    "occurrences": [
+      [
+        438,
+        "01:15:46.322000",
+        "01:15:50.072000",
+        "By working in a circle."
+      ],
+      [
+        439,
+        "01:15:50.197000",
+        "01:15:53.572000",
+        "Together you have a circle."
+      ],
+      [
+        517,
+        "01:25:46.510000",
+        "01:25:49.260000",
+        "circle that binds."
+      ],
+      [
+        519,
+        "01:26:42.303000",
+        "01:26:45.387000",
+        "Circle that gives power."
+      ],
+      [
+        694,
+        "01:58:32.954000",
+        "01:58:35.162000",
+        "Circle is the answer."
+      ],
+      [
+        698,
+        "01:58:48.496000",
+        "01:58:51.079000",
+        "Circle is the answer."
+      ]
+    ],
+    "regex": "\\b((?!\\bCircle:)Circle)(?!\\:)(?!'t)\\b",
+    "runtime": 144,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

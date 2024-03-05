@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt10843680",
+    "title": "What Lies West",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1674,
+    "occurrences": [
+      [
+        1638,
+        "01:19:10.786000",
+        "01:19:13.701000",
+        "What lies west"
+      ],
+      [
+        1649,
+        "01:19:51.496000",
+        "01:19:54.620000",
+        "What lies west"
+      ],
+      [
+        1663,
+        "01:20:51.625000",
+        "01:20:54.707000",
+        "What lies west"
+      ],
+      [
+        1669,
+        "01:21:13.209000",
+        "01:21:16.166000",
+        "What lies west"
+      ]
+    ],
+    "regex": "\\b((?!\\bWhat\\ Lies\\ West:)What\\ Lies\\ West)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

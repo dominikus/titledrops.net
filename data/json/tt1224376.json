@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1224376",
+    "title": "Tobruk",
+    "year": 2008,
+    "genres": [
+      "History",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 415,
+    "occurrences": [
+      [
+        165,
+        "00:28:18.680000",
+        "00:28:20.238000",
+        "from Alexandria to Tobruk,"
+      ],
+      [
+        415,
+        "01:33:48.960000",
+        "01:33:51.713000",
+        "near the Libyan port of Tobruk in the autumn of 1941."
+      ]
+    ],
+    "regex": "\\b((?!\\bTobruk:)Tobruk)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

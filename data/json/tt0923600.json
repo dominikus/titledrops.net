@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0923600",
+    "title": "Baghead",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1243,
+    "occurrences": [
+      [
+        760,
+        "00:38:37.050000",
+        "00:38:38.550000",
+        "A baghead didn't come into your room."
+      ],
+      [
+        761,
+        "00:38:38.618000",
+        "00:38:39.718000",
+        "MATT: There's no baghead."
+      ]
+    ],
+    "regex": "\\b((?!\\bBaghead:)Baghead)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

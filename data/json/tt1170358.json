@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1170358",
+    "title": "The Hobbit: The Desolation of Smaug",
+    "year": 2013,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 4006,
+    "occurrences": [
+      [
+        201,
+        "00:18:56.750000",
+        "00:18:59.640000",
+        "Why, no. No, he's a Hobbit."
+      ],
+      [
+        363,
+        "00:28:22.990000",
+        "00:28:26.030000",
+        "You're not the same Hobbit as the one who left the Shire."
+      ],
+      [
+        1378,
+        "01:50:07.230000",
+        "01:50:09.430000",
+        "The desolation of Smaug."
+      ]
+    ],
+    "regex": "\\b((?!\\bHobbit:)Hobbit|(?!\\bDesolation\\ of\\ Smaug:)Desolation\\ of\\ Smaug)(?!\\:)(?!'t)\\b",
+    "runtime": 161,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

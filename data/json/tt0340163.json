@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0340163",
+    "title": "Hostage",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1106,
+    "occurrences": [
+      [
+        357,
+        "00:30:22.500000",
+        "00:30:24.700000",
+        "...apparently a hostage situation is unfolding."
+      ],
+      [
+        421,
+        "00:38:03.580000",
+        "00:38:06.100000",
+        "...apparent hostage situation is unfolding."
+      ],
+      [
+        476,
+        "00:43:53.460000",
+        "00:43:57.700000",
+        "Ten years SWAT, seven years prime hostage negotiator,"
+      ],
+      [
+        570,
+        "00:50:11.420000",
+        "00:50:13.780000",
+        "Says he's gonna shoot a hostage if he doesn't talk to Talley,"
+      ],
+      [
+        648,
+        "00:56:17.220000",
+        "00:56:19.740000",
+        "We're not yet sure exactly who the rescued hostage is,"
+      ]
+    ],
+    "regex": "\\b((?!\\bHostage:)Hostage)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

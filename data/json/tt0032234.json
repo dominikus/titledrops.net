@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0032234",
+    "title": "The Bank Dick",
+    "year": 1940,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 973,
+    "occurrences": [
+      [
+        355,
+        "00:25:23.740000",
+        "00:25:27.881000",
+        "Or to revert to the argot of the underworld, a \"bank dick.\" Oh, yeah."
+      ],
+      [
+        394,
+        "00:28:05.210000",
+        "00:28:08.383000",
+        "He says, \"I want you down here for our bank dick."
+      ],
+      [
+        395,
+        "00:28:08.448000",
+        "00:28:10.753000",
+        "We've wanted a bank dick for a long while.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bBank\\ Dick:)Bank\\ Dick)(?!\\:)(?!'t)\\b",
+    "runtime": 72,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

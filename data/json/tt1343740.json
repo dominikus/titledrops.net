@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1343740",
+    "title": "Paradox",
+    "year": 2010,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1179,
+    "occurrences": [
+      [
+        367,
+        "00:27:06.808000",
+        "00:27:10.421000",
+        "If they do not, they are known as 'the paradox',"
+      ],
+      [
+        771,
+        "00:54:12.917000",
+        "00:54:16.545000",
+        "I also found out that I am a 'paradox'."
+      ],
+      [
+        868,
+        "01:01:16.549000",
+        "01:01:18.425000",
+        "You are a Paradox."
+      ]
+    ],
+    "regex": "\\b((?!\\bParadox:)Paradox)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

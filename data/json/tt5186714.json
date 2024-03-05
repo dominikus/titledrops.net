@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt5186714",
+    "title": "The Salesman",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1552,
+    "occurrences": [
+      [
+        38,
+        "00:05:00.926000",
+        "00:05:03.135000",
+        "The salesman."
+      ],
+      [
+        84,
+        "00:07:36.581000",
+        "00:07:39.291000",
+        "- What's it called? - Death of a Salesman. Who's read it?"
+      ],
+      [
+        102,
+        "00:08:17.956000",
+        "00:08:18.956000",
+        "The salesman."
+      ],
+      [
+        553,
+        "00:46:58.107000",
+        "00:47:00.775000",
+        "for I'm just a simple salesman."
+      ]
+    ],
+    "regex": "\\b((?!\\bSalesman:)Salesman)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

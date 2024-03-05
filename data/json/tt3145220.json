@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt3145220",
+    "title": "Hits",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 2205,
+    "occurrences": [
+      [
+        1235,
+        "00:51:45.136000",
+        "00:51:46.669000",
+        "- It's got, like, a million hits already."
+      ],
+      [
+        1238,
+        "00:51:49.240000",
+        "00:51:50.306000",
+        "- It doesn't have a million hits."
+      ],
+      [
+        1547,
+        "01:05:28.392000",
+        "01:05:30.125000",
+        "and it's already getting a ton of hits."
+      ]
+    ],
+    "regex": "\\b((?!\\bHits:)Hits)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0036577",
+    "title": "The Abandoned",
+    "year": 1945,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1079,
+    "occurrences": [
+      [
+        797,
+        "01:08:45.214000",
+        "01:08:48.047000",
+        "- He grew a lot. - The abandoned woman."
+      ],
+      [
+        1049,
+        "01:31:38.953000",
+        "01:31:40.318000",
+        "That abandoned woman..."
+      ],
+      [
+        1050,
+        "01:31:40.655000",
+        "01:31:42.623000",
+        "...like so many other abandoned women..."
+      ]
+    ],
+    "regex": "\\b((?!\\bAbandoned:)Abandoned)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt5816354",
+    "title": "Scream Test",
+    "year": 2020,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1352,
+    "occurrences": [
+      [
+        159,
+        "00:09:03.820000",
+        "00:09:05.816000",
+        "It's called Scream Test."
+      ],
+      [
+        1250,
+        "01:13:37.880000",
+        "01:13:38.893000",
+        "Scream Test."
+      ],
+      [
+        1301,
+        "01:17:10.030000",
+        "01:17:11.080000",
+        "Scream Test."
+      ],
+      [
+        1351,
+        "01:19:54.580000",
+        "01:19:56.923000",
+        "Scream Test, scene one, take one."
+      ]
+    ],
+    "regex": "\\b((?!\\bScream\\ Test:)Scream\\ Test)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

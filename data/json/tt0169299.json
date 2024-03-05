@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0169299",
+    "title": "Terror Firmer",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 2127,
+    "occurrences": [
+      [
+        902,
+        "00:48:08.586000",
+        "00:48:11.156000",
+        "Yes, \"Terror Firmer\" is going to have more bullet"
+      ],
+      [
+        1122,
+        "00:58:53.430000",
+        "00:58:59.770000",
+        "\"Terror Firmer,\" sound 252."
+      ]
+    ],
+    "regex": "\\b((?!\\bTerror\\ Firmer:)Terror\\ Firmer)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

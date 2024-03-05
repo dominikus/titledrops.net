@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0082853",
+    "title": "Only When I Laugh",
+    "year": 1981,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 2551,
+    "occurrences": [
+      [
+        1059,
+        "00:45:28.682000",
+        "00:45:30.031000",
+        "\"Only When I Laugh.\""
+      ],
+      [
+        1093,
+        "00:46:38.578000",
+        "00:46:41.581000",
+        "What does \"only when I laugh\" mean?"
+      ],
+      [
+        1097,
+        "00:46:47.543000",
+        "00:46:49.937000",
+        "BOTH: \"Only when I laugh.\""
+      ],
+      [
+        1117,
+        "00:47:48.517000",
+        "00:47:49.954000",
+        "Only when I laugh."
+      ]
+    ],
+    "regex": "\\b((?!\\bOnly\\ When\\ I\\ Laugh:)Only\\ When\\ I\\ Laugh)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

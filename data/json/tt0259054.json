@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0259054",
+    "title": "Ordinary Sinner",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1157,
+    "occurrences": [
+      [
+        324,
+        "00:19:13.833000",
+        "00:19:16.961000",
+        "Now l'm just an ordinary sinner just like everyone else."
+      ],
+      [
+        326,
+        "00:19:18.571000",
+        "00:19:23.565000",
+        "but you will never be an ordinary sinner, not you."
+      ]
+    ],
+    "regex": "\\b((?!\\bOrdinary\\ Sinner:)Ordinary\\ Sinner)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

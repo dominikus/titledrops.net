@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0050814",
+    "title": "The Pajama Game",
+    "year": 1957,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "count": 7,
+    "all_lines": 1385,
+    "occurrences": [
+      [
+        3,
+        "00:01:17.400000",
+        "00:01:19.436000",
+        "The pajama game is the game I'm in"
+      ],
+      [
+        5,
+        "00:01:21.360000",
+        "00:01:23.430000",
+        "In the pajama game I love it"
+      ],
+      [
+        7,
+        "00:01:27.720000",
+        "00:01:31.838000",
+        "Nothing's quite the same As the pajama game"
+      ],
+      [
+        8,
+        "00:02:04.360000",
+        "00:02:08.114000",
+        "The pajama game Is the game we're in"
+      ],
+      [
+        10,
+        "00:02:10.200000",
+        "00:02:12.509000",
+        "In the pajama game We love it"
+      ],
+      [
+        12,
+        "00:02:16.600000",
+        "00:02:23.199000",
+        "Nothing's quite the same As the pajama game"
+      ],
+      [
+        1011,
+        "01:10:21.240000",
+        "01:10:23.356000",
+        "I'll be the laughing stock of the pajama game."
+      ]
+    ],
+    "regex": "\\b((?!\\bPajama\\ Game:)Pajama\\ Game)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

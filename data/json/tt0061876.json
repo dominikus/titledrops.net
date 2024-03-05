@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0061876",
+    "title": "The Commissar",
+    "year": 1967,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 542,
+    "occurrences": [
+      [
+        30,
+        "00:09:40.479000",
+        "00:09:41.571000",
+        "Commissar!"
+      ],
+      [
+        480,
+        "01:25:25.420000",
+        "01:25:27.411000",
+        "Comrade Commissar,"
+      ]
+    ],
+    "regex": "\\b((?!\\bCommissar:)Commissar)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

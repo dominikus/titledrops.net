@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3470656",
+    "title": "Agoraphobia",
+    "year": 2015,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1101,
+    "occurrences": [
+      [
+        80,
+        "00:08:32.317000",
+        "00:08:35.986000",
+        "It's one of the known cures for agoraphobia."
+      ],
+      [
+        456,
+        "00:32:35.433000",
+        "00:32:37.700000",
+        "Agoraphobia is just a symptom"
+      ]
+    ],
+    "regex": "\\b((?!\\bAgoraphobia:)Agoraphobia)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

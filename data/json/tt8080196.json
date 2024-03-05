@@ -1,0 +1,69 @@
+[
+  {
+    "imdb": "tt8080196",
+    "title": "Happy Birthday",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 8,
+    "all_lines": 1324,
+    "occurrences": [
+      [
+        939,
+        "01:05:50.730000",
+        "01:05:54.250000",
+        "I'd like to wish Granny a happy birthday..."
+      ],
+      [
+        943,
+        "01:06:00.410000",
+        "01:06:03.130000",
+        "I want to wish Granny a happy birthday."
+      ],
+      [
+        959,
+        "01:06:56.050000",
+        "01:06:58.570000",
+        "- Mom, Happy Birthday. - Thank you."
+      ],
+      [
+        963,
+        "01:07:10.010000",
+        "01:07:12.610000",
+        "to wish you Happy Birthday before you pass on..."
+      ],
+      [
+        987,
+        "01:08:39.050000",
+        "01:08:42.730000",
+        "- I love you. Happy Birthday. - Thank you, sweetheart."
+      ],
+      [
+        1033,
+        "01:11:46.810000",
+        "01:11:48.370000",
+        "Happy Birthday, Mom."
+      ],
+      [
+        1034,
+        "01:11:48.930000",
+        "01:11:50.410000",
+        "Happy Birthday."
+      ],
+      [
+        1035,
+        "01:11:50.610000",
+        "01:11:52.570000",
+        "Happy Birthday, Andrea..."
+      ]
+    ],
+    "regex": "\\b((?!\\bHappy\\ Birthday:)Happy\\ Birthday)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

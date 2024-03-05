@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2137170",
+    "title": "OK, Good",
+    "year": 2012,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 451,
+    "occurrences": [
+      [
+        52,
+        "00:04:23.725000",
+        "00:04:25.431000",
+        "OK. OK, good."
+      ],
+      [
+        356,
+        "00:45:18.935000",
+        "00:45:22.598000",
+        "OK, good. Whenever you're ready."
+      ]
+    ],
+    "regex": "\\b((?!\\bOK,\\ Good:)OK,\\ Good)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

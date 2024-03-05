@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0309377",
+    "title": "Blood Work",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1228,
+    "occurrences": [
+      [
+        52,
+        "00:08:10.840000",
+        "00:08:14.867000",
+        "I'll check this blood work and get the tissue to the lab."
+      ],
+      [
+        840,
+        "01:06:50.025000",
+        "01:06:52.118000",
+        "Let me run blood work on you."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlood\\ Work:)Blood\\ Work)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

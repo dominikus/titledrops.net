@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0188071",
+    "title": "The Monster of Florence",
+    "year": 1986,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 571,
+    "occurrences": [
+      [
+        3,
+        "00:00:11.239000",
+        "00:00:14.743000",
+        "The monster of Florence."
+      ],
+      [
+        560,
+        "01:32:36.988000",
+        "01:32:42.160000",
+        "an ordinary man became the monster of Florence."
+      ]
+    ],
+    "regex": "\\b((?!\\bMonster\\ of\\ Florence:)Monster\\ of\\ Florence)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

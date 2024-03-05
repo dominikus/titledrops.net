@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3510112",
+    "title": "Box",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 514,
+    "occurrences": [
+      [
+        334,
+        "00:53:47.833000",
+        "00:53:48.667000",
+        "Box."
+      ],
+      [
+        349,
+        "00:55:56.542000",
+        "00:55:58.833000",
+        "He's going to box on Saturday, in one of my matches."
+      ]
+    ],
+    "regex": "\\b((?!\\bBox:)Box)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

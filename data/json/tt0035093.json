@@ -1,0 +1,65 @@
+[
+  {
+    "imdb": "tt0035093",
+    "title": "Mrs. Miniver",
+    "year": 1942,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 7,
+    "all_lines": 841,
+    "occurrences": [
+      [
+        9,
+        "00:03:01.764000",
+        "00:03:04.892000",
+        "- Why, Mrs. Miniver. - You know, I..."
+      ],
+      [
+        82,
+        "00:08:02.398000",
+        "00:08:06.357000",
+        "I want to call it the \"Mrs. Miniver.\""
+      ],
+      [
+        266,
+        "00:21:46.154000",
+        "00:21:48.622000",
+        "How do you do, Mrs. Miniver? I'm Carol Beldon."
+      ],
+      [
+        280,
+        "00:22:29.431000",
+        "00:22:30.989000",
+        "The Mrs. Miniver."
+      ],
+      [
+        348,
+        "00:26:13.288000",
+        "00:26:16.621000",
+        "- But who's Mrs. Miniver? - The nicest lady in the neighborhood..."
+      ],
+      [
+        576,
+        "00:44:49.670000",
+        "00:44:54.039000",
+        "...the Duchess of Argyle and now the Mrs. Miniver."
+      ],
+      [
+        612,
+        "00:46:51.992000",
+        "00:46:55.086000",
+        "- Good evening, Mrs. Miniver. - Good evening, Mr. Foley."
+      ]
+    ],
+    "regex": "\\b((?!\\bMrs\\.\\ Miniver:)Mrs\\.\\ Miniver)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [
+      "Mrs. Miniver"
+    ],
+    "title_is_name": true,
+    "rating": 7.6
+  }
+]

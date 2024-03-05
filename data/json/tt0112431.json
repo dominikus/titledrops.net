@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt0112431",
+    "title": "Babe",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 490,
+    "occurrences": [
+      [
+        75,
+        "00:07:50.954000",
+        "00:07:53.229000",
+        "She called us all Babe."
+      ],
+      [
+        107,
+        "00:10:18.994000",
+        "00:10:22.031000",
+        "Babe, you wait here."
+      ],
+      [
+        142,
+        "00:12:44.434000",
+        "00:12:47.790000",
+        "- Seem like a nice young pig. What be your name? - Babe."
+      ],
+      [
+        157,
+        "00:13:39.154000",
+        "00:13:43.272000",
+        "- Hello, Babe? Had a good day? - Yes, thank you."
+      ]
+    ],
+    "regex": "\\b((?!\\bBabe:)Babe)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [
+      "Babe"
+    ],
+    "title_is_name": true,
+    "rating": 6.9
+  }
+]

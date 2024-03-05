@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0042692",
+    "title": "Variety Lights",
+    "year": 1950,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 872,
+    "occurrences": [
+      [
+        13,
+        "00:04:50.290000",
+        "00:04:56.661000",
+        "Variety lights, shining like stars Because I love you so"
+      ],
+      [
+        15,
+        "00:05:03.903000",
+        "00:05:08.363000",
+        "Variety lights, Mayyou have love and happiness"
+      ]
+    ],
+    "regex": "\\b((?!\\bVariety\\ Lights:)Variety\\ Lights)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

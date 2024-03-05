@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0887161",
+    "title": "Repo",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1811,
+    "occurrences": [
+      [
+        265,
+        "00:12:32.058000",
+        "00:12:33.292000",
+        "We repo."
+      ],
+      [
+        296,
+        "00:14:06.022000",
+        "00:14:07.323000",
+        "Something more than repo."
+      ],
+      [
+        348,
+        "00:16:05.246000",
+        "00:16:06.914000",
+        "Repo."
+      ],
+      [
+        617,
+        "00:27:45.574000",
+        "00:27:48.343000",
+        "This is our opportunity to get out of the Repo business forever."
+      ],
+      [
+        1264,
+        "01:00:32.653000",
+        "01:00:34.755000",
+        "Yeah, well I'm quitting repo next week."
+      ]
+    ],
+    "regex": "\\b((?!\\bRepo:)Repo)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

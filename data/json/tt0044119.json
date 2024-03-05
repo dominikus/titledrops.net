@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0044119",
+    "title": "That's My Boy",
+    "year": 1951,
+    "genres": [
+      "Comedy",
+      "Music",
+      "Sport"
+    ],
+    "count": 3,
+    "all_lines": 1621,
+    "occurrences": [
+      [
+        1524,
+        "01:32:09.441000",
+        "01:32:12.467000",
+        "That's my boy! That's my Junior!"
+      ],
+      [
+        1566,
+        "01:34:39.091000",
+        "01:34:42.288000",
+        "That's my boy! That's my Junior!"
+      ],
+      [
+        1621,
+        "01:37:40.305000",
+        "01:37:41.772000",
+        "That's my boy."
+      ]
+    ],
+    "regex": "\\b((?!\\bThat's\\ My\\ Boy:)That's\\ My\\ Boy)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

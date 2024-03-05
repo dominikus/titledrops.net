@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0048260",
+    "title": "Kismet",
+    "year": 1955,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 1618,
+    "occurrences": [
+      [
+        217,
+        "00:14:05.394000",
+        "00:14:08.989000",
+        "No man can avoid his fate. That is kismet."
+      ],
+      [
+        919,
+        "01:01:14.187000",
+        "01:01:16.485000",
+        "If not, well, that is kismet."
+      ],
+      [
+        1006,
+        "01:08:02.550000",
+        "01:08:05.451000",
+        "And kismet so ordained. My goal should be attained."
+      ],
+      [
+        1009,
+        "01:08:12.159000",
+        "01:08:15.856000",
+        "Kismet, mystery of fate."
+      ]
+    ],
+    "regex": "\\b((?!\\bKismet:)Kismet)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0102103",
+    "title": "Impromptu",
+    "year": 1991,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 1242,
+    "occurrences": [
+      [
+        0,
+        "00:00:21.201000",
+        "00:00:25.121000",
+        "(Chopins Fantasie-Impromptu in C minor)"
+      ],
+      [
+        1006,
+        "01:22:20.787000",
+        "01:22:24.291000",
+        "(plays Fantasie-Impromptu in C minor)"
+      ],
+      [
+        1009,
+        "01:23:21.223000",
+        "01:23:26.394000",
+        "Because a perfect impromptu should seem spontaneous and free."
+      ]
+    ],
+    "regex": "\\b((?!\\bImpromptu:)Impromptu)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt14825364",
+    "title": "Maximum Truth",
+    "year": 2023,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 2206,
+    "occurrences": [
+      [
+        170,
+        "00:08:44.325000",
+        "00:08:47.762000",
+        "my own consulting firm, Maximum Truth."
+      ],
+      [
+        2041,
+        "01:15:12.046000",
+        "01:15:14.613000",
+        "- Welcome back to \"Maximum Truth Cast,\""
+      ]
+    ],
+    "regex": "\\b((?!\\bMaximum\\ Truth:)Maximum\\ Truth)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

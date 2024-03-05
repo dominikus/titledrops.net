@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt5895028",
+    "title": "13th",
+    "year": 2016,
+    "genres": [
+      "Crime",
+      "Documentary",
+      "History"
+    ],
+    "count": 5,
+    "all_lines": 1729,
+    "occurrences": [
+      [
+        25,
+        "00:01:54.481000",
+        "00:01:56.816000",
+        "The 13th Amendment to the Constitution"
+      ],
+      [
+        45,
+        "00:03:28.616000",
+        "00:03:33.205000",
+        "The 13th Amendment loophole was immediately exploited."
+      ],
+      [
+        48,
+        "00:03:43.881000",
+        "00:03:46.759000",
+        "You were basically a slave again. The 13th Amendment says that"
+      ],
+      [
+        1447,
+        "01:23:50.642000",
+        "01:23:52.310000",
+        " The 13th Amendment says,"
+      ],
+      [
+        1451,
+        "01:24:04.364000",
+        "01:24:07.450000",
+        "And so, while the 13th Amendment is hailed as this great milestone for freedom,"
+      ]
+    ],
+    "regex": "\\b((?!\\b13th:)13th)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.2
+  }
+]

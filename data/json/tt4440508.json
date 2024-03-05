@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt4440508",
+    "title": "Everybody Happy",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1040,
+    "occurrences": [
+      [
+        423,
+        "00:37:25.416000",
+        "00:37:27.916000",
+        "Bozo happy, everybody happy."
+      ],
+      [
+        1028,
+        "01:27:20.833000",
+        "01:27:22.916000",
+        "Everybody happy?"
+      ]
+    ],
+    "regex": "\\b((?!\\bEverybody\\ Happy:)Everybody\\ Happy)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

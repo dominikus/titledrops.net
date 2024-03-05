@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1210351",
+    "title": "Lost Islands",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1128,
+    "occurrences": [
+      [
+        6,
+        "00:01:34.637000",
+        "00:01:36.389000",
+        "Opher, \"Lost Islands\" is starting!"
+      ],
+      [
+        19,
+        "00:02:09.997000",
+        "00:02:13.910000",
+        "Every summer vacation we watched the series \"The Lost Islands.\""
+      ],
+      [
+        21,
+        "00:02:18.837000",
+        "00:02:22.716000",
+        "\"Lost Islands\""
+      ],
+      [
+        1127,
+        "01:37:14.095000",
+        "01:37:17.246000",
+        "and watched \"The Lost Islands\" every summer."
+      ]
+    ],
+    "regex": "\\b((?!\\bLost\\ Islands:)Lost\\ Islands)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

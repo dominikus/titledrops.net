@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0047550",
+    "title": "Susan Slept Here",
+    "year": 1954,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1652,
+    "occurrences": [
+      [
+        5,
+        "00:00:26.818000",
+        "00:00:29.855000",
+        "shh! Susan slept here"
+      ],
+      [
+        10,
+        "00:00:41.041000",
+        "00:00:44.909000",
+        "shh! Susan slept here"
+      ],
+      [
+        20,
+        "00:01:15.117000",
+        "00:01:21.238000",
+        "Susan slept here"
+      ],
+      [
+        688,
+        "00:36:42.075000",
+        "00:36:43.110000",
+        "Susan slept here."
+      ],
+      [
+        1652,
+        "01:37:57.038000",
+        "01:38:02.158000",
+        "Susan slept here"
+      ]
+    ],
+    "regex": "\\b((?!\\bSusan\\ Slept\\ Here:)Susan\\ Slept\\ Here)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

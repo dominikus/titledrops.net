@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0062047",
+    "title": "Wanted",
+    "year": 1967,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1031,
+    "occurrences": [
+      [
+        620,
+        "00:51:50.783000",
+        "00:51:55.117000",
+        "Alone, persecuted by the law... Wanted by society."
+      ],
+      [
+        633,
+        "00:53:03.553000",
+        "00:53:07.209000",
+        "Wanted dead or alive. $ 5,000 reward."
+      ],
+      [
+        881,
+        "01:20:28.285000",
+        "01:20:32.246000",
+        "Do not worry. That's what I wanted to hear."
+      ]
+    ],
+    "regex": "\\b((?!\\bWanted:)Wanted)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

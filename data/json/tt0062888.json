@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0062888",
+    "title": "Diamonds for Breakfast",
+    "year": 1968,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 835,
+    "occurrences": [
+      [
+        11,
+        "00:02:23.783000",
+        "00:02:28.013000",
+        "Diamonds for breakfast"
+      ],
+      [
+        236,
+        "00:22:46.609000",
+        "00:22:48.878000",
+        "So suppose I want diamonds for breakfast"
+      ]
+    ],
+    "regex": "\\b((?!\\bDiamonds\\ for\\ Breakfast:)Diamonds\\ for\\ Breakfast)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

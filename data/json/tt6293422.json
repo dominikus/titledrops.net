@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6293422",
+    "title": "A Gift",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1417,
+    "occurrences": [
+      [
+        34,
+        "00:03:54.414000",
+        "00:03:56.416000",
+        "Think of this as a New Year's gift from me."
+      ],
+      [
+        734,
+        "01:04:47.816000",
+        "01:04:50.452000",
+        "as a gift on the anniversary of their wedding."
+      ],
+      [
+        1356,
+        "02:05:22.298000",
+        "02:05:25.935000",
+        "want to dedicate a song as a gift to everyone here."
+      ],
+      [
+        1414,
+        "02:11:29.314000",
+        "02:11:33.852000",
+        "as a gift to the Thai people"
+      ]
+    ],
+    "regex": "\\b((?!\\bGift:)Gift)(?!\\:)(?!'t)\\b",
+    "runtime": 144,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

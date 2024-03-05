@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1003025",
+    "title": "Under the Snow",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 990,
+    "occurrences": [
+      [
+        976,
+        "01:28:25.887000",
+        "01:28:27.764000",
+        "Under the snow, I dress"
+      ],
+      [
+        978,
+        "01:28:32.087000",
+        "01:28:35.921000",
+        "Under the snow, I make my new..."
+      ]
+    ],
+    "regex": "\\b((?!\\bUnder\\ the\\ Snow:)Under\\ the\\ Snow)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

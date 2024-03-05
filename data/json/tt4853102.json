@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt4853102",
+    "title": "Batman: The Killing Joke",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Animation",
+      "Crime"
+    ],
+    "count": 4,
+    "all_lines": 999,
+    "occurrences": [
+      [
+        9,
+        "00:00:55.560000",
+        "00:00:57.642000",
+        "I'd been with Batman for almost three years."
+      ],
+      [
+        311,
+        "00:26:20.680000",
+        "00:26:23.160000",
+        "Thanks to Batman, Franz was taken into police custody,"
+      ],
+      [
+        622,
+        "00:45:47.240000",
+        "00:45:48.241000",
+        "Batman?"
+      ],
+      [
+        623,
+        "00:45:49.840000",
+        "00:45:51.001000",
+        "Batman."
+      ]
+    ],
+    "regex": "\\b((?!\\bBatman:)Batman|(?!\\bKilling\\ Joke:)Killing\\ Joke)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2473718",
+    "title": "Leather",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 931,
+    "occurrences": [
+      [
+        155,
+        "00:18:47.735000",
+        "00:18:49.115000",
+        "Working leather."
+      ],
+      [
+        906,
+        "01:29:56.480000",
+        "01:29:59.100000",
+        "I'm going to start a website called, \"Leather.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bLeather:)Leather)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

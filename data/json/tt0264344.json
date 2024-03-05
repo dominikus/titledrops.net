@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0264344",
+    "title": "Cairo 30",
+    "year": 1966,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1486,
+    "occurrences": [
+      [
+        738,
+        "01:07:37.480000",
+        "01:07:40.730000",
+        "You are in Cairo, you have a degree..."
+      ],
+      [
+        739,
+        "01:07:48.760000",
+        "01:07:51.210000",
+        "Cairo, degrees, honor..."
+      ],
+      [
+        1343,
+        "01:59:12.060000",
+        "01:59:13.320000",
+        "You must leave Cairo."
+      ]
+    ],
+    "regex": "\\b((?!\\bCairo:)Cairo)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

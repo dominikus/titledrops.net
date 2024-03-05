@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0365847",
+    "title": "The Myth",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 462,
+    "occurrences": [
+      [
+        77,
+        "00:12:50.625000",
+        "00:12:52.750000",
+        "I have the comic book the myth was in, I will lend you it to look at"
+      ],
+      [
+        81,
+        "00:12:58.709000",
+        "00:13:04.044000",
+        "50 years ago the mobile phone was a myth"
+      ],
+      [
+        82,
+        "00:13:01.834000",
+        "00:13:05.583000",
+        "airplanes are myths, landing on the Moon is huge myth"
+      ],
+      [
+        84,
+        "00:13:07.126000",
+        "00:13:09.625000",
+        "computers and the digital sciences and technology are not equally myth?"
+      ],
+      [
+        121,
+        "00:15:08.959000",
+        "00:15:10.292000",
+        "that it is not a myth"
+      ]
+    ],
+    "regex": "\\b((?!\\bMyth:)Myth)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

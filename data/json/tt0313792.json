@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0313792",
+    "title": "Anything Else",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1751,
+    "occurrences": [
+      [
+        127,
+        "00:08:06.152000",
+        "00:08:09.485000",
+        "''You know, it's like anything else.''"
+      ],
+      [
+        1738,
+        "01:45:54.571000",
+        "01:45:58.132000",
+        "Well, you know, it's like anything else."
+      ]
+    ],
+    "regex": "\\b((?!\\bAnything\\ Else:)Anything\\ Else)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

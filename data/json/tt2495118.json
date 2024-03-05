@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2495118",
+    "title": "Ip Man: The Final Fight",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1241,
+    "occurrences": [
+      [
+        4,
+        "00:01:20.626000",
+        "00:01:22.667000",
+        "Ip Man was my Dad."
+      ],
+      [
+        642,
+        "00:44:00.167000",
+        "00:44:03.042000",
+        "It's Master Ip Man"
+      ],
+      [
+        1153,
+        "01:27:36.001000",
+        "01:27:37.667000",
+        "Ip Man, you have no say on my turf."
+      ],
+      [
+        1240,
+        "01:37:59.709000",
+        "01:38:05.584000",
+        "Ip Man-The Wing Chun Grandmaster"
+      ]
+    ],
+    "regex": "\\b((?!\\bIp\\ Man:)Ip\\ Man|(?!\\bFinal\\ Fight:)Final\\ Fight)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0033021",
+    "title": "Santa Fe Trail",
+    "year": 1940,
+    "genres": [
+      "Drama",
+      "War",
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 1800,
+    "occurrences": [
+      [
+        131,
+        "00:08:30.343000",
+        "00:08:32.554000",
+        "Kansas in the Santa Fe Trail, what a piece of luck!"
+      ],
+      [
+        305,
+        "00:18:24.604000",
+        "00:18:26.564000",
+        "There'll never be any peace along the Santa Fe Trail"
+      ],
+      [
+        1310,
+        "01:15:54.008000",
+        "01:15:55.342000",
+        "along the Santa Fe trail?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSanta\\ Fe\\ Trail:)Santa\\ Fe\\ Trail)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

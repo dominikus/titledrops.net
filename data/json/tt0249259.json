@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0249259",
+    "title": "Yanco",
+    "year": 1961,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 113,
+    "occurrences": [
+      [
+        1,
+        "00:00:25.116000",
+        "00:00:28.216000",
+        "\"Yanco\""
+      ],
+      [
+        113,
+        "01:32:03.603000",
+        "01:32:04.955000",
+        "Production company: Producciones Yanco (Mexico) 1961"
+      ]
+    ],
+    "regex": "\\b((?!\\bYanco:)Yanco)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

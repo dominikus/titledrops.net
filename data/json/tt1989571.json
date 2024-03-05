@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1989571",
+    "title": "The Guest",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 503,
+    "occurrences": [
+      [
+        9,
+        "00:05:21.566000",
+        "00:05:23.045000",
+        "Sure thing,l'm not a guest here..."
+      ],
+      [
+        99,
+        "00:19:19.893000",
+        "00:19:21.804000",
+        "Stop acting like a guest here..."
+      ]
+    ],
+    "regex": "\\b((?!\\bGuest:)Guest)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

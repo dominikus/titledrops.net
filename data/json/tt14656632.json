@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt14656632",
+    "title": "Paradise City",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1445,
+    "occurrences": [
+      [
+        599,
+        "00:34:09.449000",
+        "00:34:11.451000",
+        "You taken him to Paradise City yet?"
+      ],
+      [
+        817,
+        "00:45:23.657000",
+        "00:45:26.393000",
+        "This place Buck calls Paradise City."
+      ],
+      [
+        826,
+        "00:45:52.719000",
+        "00:45:54.488000",
+        "I don't know, but he's headed to Paradise City."
+      ],
+      [
+        880,
+        "00:49:34.108000",
+        "00:49:35.910000",
+        "Locals call it Paradise City."
+      ],
+      [
+        1151,
+        "01:05:26.027000",
+        "01:05:27.895000",
+        "And with the fall of Paradise City,"
+      ]
+    ],
+    "regex": "\\b((?!\\bParadise\\ City:)Paradise\\ City)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

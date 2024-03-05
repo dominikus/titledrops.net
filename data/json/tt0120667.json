@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0120667",
+    "title": "Fantastic Four",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 5,
+    "all_lines": 1097,
+    "occurrences": [
+      [
+        463,
+        "00:40:15.126000",
+        "00:40:18.323000",
+        "That's what they're calling you. 1/2 1/2The Fantastic Four. 1/2 1/2"
+      ],
+      [
+        484,
+        "00:41:29.158000",
+        "00:41:31.592000",
+        "-The man.... -...named The Fantastic Four...."
+      ],
+      [
+        492,
+        "00:41:51.848000",
+        "00:41:55.887000",
+        "A new day is dawning. The day of The Fantastic Four."
+      ],
+      [
+        726,
+        "01:00:45.106000",
+        "01:00:48.655000",
+        "Mr. Johnny Storm from The Fantastic Four!"
+      ],
+      [
+        764,
+        "01:03:36.402000",
+        "01:03:38.518000",
+        "So now you're the face of The Fantastic Four?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFantastic\\ Four:)Fantastic\\ Four)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

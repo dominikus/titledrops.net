@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2949508",
+    "title": "Zomblogalypse",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 2676,
+    "occurrences": [
+      [
+        545,
+        "00:19:06.479000",
+        "00:19:09.273000",
+        "I can't think of a worse title than \"Zomblogalypse\"."
+      ],
+      [
+        2354,
+        "01:24:37.244000",
+        "01:24:39.036000",
+        "Zomblogalypse, coming Halloween 2029."
+      ],
+      [
+        2357,
+        "01:24:43.375000",
+        "01:24:44.792000",
+        "Zomblogalypse, that's our film!"
+      ],
+      [
+        2399,
+        "01:26:07.334000",
+        "01:26:09.001000",
+        "Zomblogalypse the Movie, action!"
+      ]
+    ],
+    "regex": "\\b((?!\\bZomblogalypse:)Zomblogalypse)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.9
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt1522262",
+    "title": "The Last Lovecraft: Relic of Cthulhu",
+    "year": 2009,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Horror"
+    ],
+    "count": 1,
+    "all_lines": 1234,
+    "occurrences": [
+      [
+        1217,
+        "01:12:02.785000",
+        "01:12:04.810000",
+        "What's going on? You like the relic of Cthulhu, huh."
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Lovecraft:)Last\\ Lovecraft|(?!\\bRelic\\ of\\ Cthulhu:)Relic\\ of\\ Cthulhu)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

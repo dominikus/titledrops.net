@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0063348",
+    "title": "The Night They Raided Minsky's",
+    "year": 1968,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1080,
+    "occurrences": [
+      [
+        1073,
+        "01:38:30.904000",
+        "01:38:33.640000",
+        "The night they raided Minsky's"
+      ],
+      [
+        1077,
+        "01:38:42.515000",
+        "01:38:45.552000",
+        "But the night they raided Minsky's"
+      ],
+      [
+        1078,
+        "01:38:45.652000",
+        "01:38:48.588000",
+        "But the night they raided Minsky's"
+      ],
+      [
+        1079,
+        "01:38:48.688000",
+        "01:38:51.723000",
+        "But the night they raided Minsky's"
+      ]
+    ],
+    "regex": "\\b((?!\\bNight\\ They\\ Raided\\ Minsky's:)Night\\ They\\ Raided\\ Minsky's)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

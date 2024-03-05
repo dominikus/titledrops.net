@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3971202",
+    "title": "Paradise",
+    "year": 2014,
+    "genres": [
+      "\\N"
+    ],
+    "count": 2,
+    "all_lines": 675,
+    "occurrences": [
+      [
+        68,
+        "00:10:43.309000",
+        "00:10:45.009000",
+        "The keys to paradise."
+      ],
+      [
+        180,
+        "00:18:24.400000",
+        "00:18:28.916000",
+        "\"You have tasted the forbidden fruit, I cast you away from my paradise.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bParadise:)Paradise)(?!\\:)(?!'t)\\b",
+    "runtime": 68,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1244754",
+    "title": "Conviction",
+    "year": 2010,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1569,
+    "occurrences": [
+      [
+        1210,
+        "01:13:32.218000",
+        "01:13:34.664000",
+        "As soon as he reaches Martha Coakley and she vacates the conviction."
+      ],
+      [
+        1512,
+        "01:32:32.824000",
+        "01:32:36.636000",
+        "while you're deciding whether or not to vacate Kenny's conviction,"
+      ],
+      [
+        1521,
+        "01:33:28.747000",
+        "01:33:31.921000",
+        "JUDGE: Are all sides in agreement to vacate the conviction?"
+      ]
+    ],
+    "regex": "\\b((?!\\bConviction:)Conviction)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

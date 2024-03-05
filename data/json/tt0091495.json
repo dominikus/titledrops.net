@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0091495",
+    "title": "Matador",
+    "year": 1986,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 952,
+    "occurrences": [
+      [
+        3,
+        "00:02:10.220000",
+        "00:02:13.060000",
+        "A bullfighter must honour his name, 'matador'..."
+      ],
+      [
+        680,
+        "01:14:11.860000",
+        "01:14:15.860000",
+        "Till today I'd no idea you were still a matador."
+      ]
+    ],
+    "regex": "\\b((?!\\bMatador:)Matador)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

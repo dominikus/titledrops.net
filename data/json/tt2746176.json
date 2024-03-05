@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2746176",
+    "title": "Tattoo",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1184,
+    "occurrences": [
+      [
+        1123,
+        "01:41:14.334000",
+        "01:41:16.461000",
+        "But he hasn't found a job yet, because of the tattoo."
+      ],
+      [
+        1124,
+        "01:41:17.171000",
+        "01:41:19.196000",
+        "They do a tattoo check, did you know that?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTattoo:)Tattoo)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

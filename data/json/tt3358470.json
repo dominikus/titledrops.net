@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3358470",
+    "title": "Soap Opera",
+    "year": 2014,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 976,
+    "occurrences": [
+      [
+        382,
+        "00:29:48.760000",
+        "00:29:51.760000",
+        "Are you the actress in that soap opera ?"
+      ],
+      [
+        587,
+        "00:44:56.280000",
+        "00:44:59.280000",
+        "- Wear your soap opera dress. - I'll ask the wardrobe mistress..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSoap\\ Opera:)Soap\\ Opera)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

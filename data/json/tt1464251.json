@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1464251",
+    "title": "Leaving",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1023,
+    "occurrences": [
+      [
+        621,
+        "00:52:01.680000",
+        "00:52:03.910000",
+        "Monika, we're leaving."
+      ],
+      [
+        957,
+        "01:18:52.280000",
+        "01:18:54.111000",
+        "I'm leaving."
+      ],
+      [
+        958,
+        "01:18:56.160000",
+        "01:18:58.355000",
+        "I'm leaving for good."
+      ],
+      [
+        962,
+        "01:19:09.600000",
+        "01:19:14.720000",
+        "Or get Weissenmutelhofova to do it. Monika, we're leaving."
+      ]
+    ],
+    "regex": "\\b((?!\\bLeaving:)Leaving)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

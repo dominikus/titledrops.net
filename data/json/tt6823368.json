@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6823368",
+    "title": "Glass",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1787,
+    "occurrences": [
+      [
+        1056,
+        "01:06:13.201000",
+        "01:06:18.400000",
+        "First name, \"Mr.\" Last name, \"Glass.\""
+      ],
+      [
+        1126,
+        "01:10:18.034000",
+        "01:10:22.167000",
+        "Last name, \"Glass.\""
+      ],
+      [
+        1179,
+        "01:13:18.034000",
+        "01:13:21.167000",
+        "This place is so cool, Mr. Glass. (gasps)"
+      ],
+      [
+        1500,
+        "01:37:27.533000",
+        "01:37:30.533000",
+        "Mr. Glass killed Kevin's dad."
+      ]
+    ],
+    "regex": "\\b((?!\\bGlass:)Glass)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

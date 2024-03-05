@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt23622670",
+    "title": "The Highway Family",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1321,
+    "occurrences": [
+      [
+        0,
+        "00:01:59.619000",
+        "00:02:05.083000",
+        "HIGHWAY FAMILY"
+      ],
+      [
+        1321,
+        "02:08:27.741000",
+        "02:08:32.079000",
+        "HIGHWAY FAMILY"
+      ]
+    ],
+    "regex": "\\b((?!\\bHighway\\ Family:)Highway\\ Family)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3587128",
+    "title": "Twilight Online",
+    "year": 2014,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1222,
+    "occurrences": [
+      [
+        0,
+        "00:00:40.709000",
+        "00:00:41.459000",
+        "Welcome to 'Twilight Online'..."
+      ],
+      [
+        260,
+        "00:18:58.334000",
+        "00:19:00.126000",
+        "Welcome to 'Twilight Online' on the 19th day..."
+      ],
+      [
+        271,
+        "00:19:34.751000",
+        "00:19:36.501000",
+        "\"I'm alone in bed watching Twilight Online\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bTwilight\\ Online:)Twilight\\ Online)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

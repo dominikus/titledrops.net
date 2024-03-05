@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt7035004",
+    "title": "The Swordsman",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 598,
+    "occurrences": [
+      [
+        145,
+        "00:19:54.901000",
+        "00:19:59.401000",
+        "This must be the swordsman I've heard about even in Qing."
+      ],
+      [
+        155,
+        "00:22:43.236000",
+        "00:22:44.987000",
+        "Best swordsman in Joseon?"
+      ],
+      [
+        240,
+        "00:30:57.563000",
+        "00:31:00.065000",
+        "A swordsman mustn't..."
+      ],
+      [
+        244,
+        "00:31:29.720000",
+        "00:31:34.220000",
+        "A swordsman truly shines when he serves a master,"
+      ]
+    ],
+    "regex": "\\b((?!\\bSwordsman:)Swordsman)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

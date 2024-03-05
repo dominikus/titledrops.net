@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0199744",
+    "title": "Mambo Café",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 2190,
+    "occurrences": [
+      [
+        10,
+        "00:03:41.721000",
+        "00:03:43.682000",
+        "-Mambo Cafe."
+      ],
+      [
+        1024,
+        "00:42:15.324000",
+        "00:42:18.786000",
+        "-We're standing in front of Mambo Cafe, a Puerto Rican"
+      ],
+      [
+        1034,
+        "00:42:48.733000",
+        "00:42:52.987000",
+        "on the floor of my restaurant, the Mambo Cafe."
+      ],
+      [
+        1044,
+        "00:43:11.672000",
+        "00:43:13.883000",
+        "as they fled the Mambo Cafe."
+      ],
+      [
+        1372,
+        "00:56:00.274000",
+        "00:56:02.734000",
+        "Hello, and welcome to the Mambo Cafe."
+      ],
+      [
+        1499,
+        "01:02:50.558000",
+        "01:02:51.851000",
+        "-Welcome to Mambo Cafe."
+      ]
+    ],
+    "regex": "\\b((?!\\bMambo\\ Cafe:)Mambo\\ Cafe)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

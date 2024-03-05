@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1342122",
+    "title": "Queen of the Lot",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 2395,
+    "occurrences": [
+      [
+        9,
+        "00:00:43.268000",
+        "00:00:45.670000",
+        "MAGGIE: Norma Shearer, she's queen of the lot."
+      ],
+      [
+        10,
+        "00:00:46.271000",
+        "00:00:48.774000",
+        "I'm gonna be queen of the lot like Norma Shearer."
+      ],
+      [
+        11,
+        "00:00:50.075000",
+        "00:00:52.177000",
+        "Queen of the lot, that's right sweetie."
+      ],
+      [
+        2345,
+        "01:55:01.352000",
+        "01:55:03.188000",
+        "the Queen of the Lot."
+      ],
+      [
+        2371,
+        "01:57:06.978000",
+        "01:57:09.145000",
+        "I want you to make me Queen of the lot,"
+      ]
+    ],
+    "regex": "\\b((?!\\bQueen\\ of\\ the\\ Lot:)Queen\\ of\\ the\\ Lot)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

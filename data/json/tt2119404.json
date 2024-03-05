@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt2119404",
+    "title": "Code Red",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 6,
+    "all_lines": 863,
+    "occurrences": [
+      [
+        451,
+        "00:47:34.185000",
+        "00:47:37.854000",
+        "We have to issue a code red alert."
+      ],
+      [
+        569,
+        "00:58:29.839000",
+        "00:58:33.909000",
+        "Code red? Borov, why didn't you tell me?"
+      ],
+      [
+        570,
+        "00:58:33.911000",
+        "00:58:36.578000",
+        "What is code red?"
+      ],
+      [
+        610,
+        "01:03:09.386000",
+        "01:03:11.419000",
+        "It's a code red."
+      ],
+      [
+        652,
+        "01:08:44.654000",
+        "01:08:49.524000",
+        "A code red is in effect. We're giving you a privilege."
+      ],
+      [
+        806,
+        "01:22:22.939000",
+        "01:22:28.409000",
+        "Code red is in effect. No one can be released."
+      ]
+    ],
+    "regex": "\\b((?!\\bCode\\ Red:)Code\\ Red)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

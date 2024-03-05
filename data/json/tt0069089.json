@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0069089",
+    "title": "Pink Flamingos",
+    "year": 1972,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 1982,
+    "occurrences": [
+      [
+        1685,
+        "01:32:18.640000",
+        "01:32:20.740000",
+        "l hope you enjoyed my film, \"\"Pink Flamingos.\"\""
+      ],
+      [
+        1760,
+        "01:34:59.270000",
+        "01:35:02.640000",
+        "My original ad copy for \"\"Pink Flamingos\"\" read..."
+      ],
+      [
+        1943,
+        "01:43:21.400000",
+        "01:43:23.530000",
+        "New Line Cinema used to sell \"\"Pink Flamingos.\"\""
+      ]
+    ],
+    "regex": "\\b((?!\\bPink\\ Flamingos:)Pink\\ Flamingos)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

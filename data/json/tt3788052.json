@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt3788052",
+    "title": "Corner Gas: The Movie",
+    "year": 2014,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 2123,
+    "occurrences": [
+      [
+        33,
+        "00:02:01.580000",
+        "00:02:03.290000",
+        "Oh, I've only seen every Jean-Claude Van Damme movie"
+      ],
+      [
+        345,
+        "00:15:11.161000",
+        "00:15:15.540000",
+        "So no more games, naps, or matinee movie days."
+      ],
+      [
+        1737,
+        "01:14:42.562000",
+        "01:14:44.939000",
+        "Yeah, and then you took him back outside Corner Gas!"
+      ],
+      [
+        1827,
+        "01:19:12.623000",
+        "01:19:15.334000",
+        "Hasn't anyone seen a detective movie?"
+      ],
+      [
+        1877,
+        "01:21:42.315000",
+        "01:21:44.692000",
+        "if Corner Gas can't survive, then none of us can."
+      ]
+    ],
+    "regex": "\\b((?!\\bCorner\\ Gas:)Corner\\ Gas|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0048316",
+    "title": "Love Is a Many-Splendored Thing",
+    "year": 1955,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1112,
+    "occurrences": [
+      [
+        427,
+        "00:34:26.880000",
+        "00:34:29.838000",
+        "(\"Love Is a Many-Splendored Thing\" instrumental)"
+      ],
+      [
+        1100,
+        "01:36:36.920000",
+        "01:36:43.234000",
+        "Love is a many-splendored thing"
+      ]
+    ],
+    "regex": "\\b((?!\\bLove\\ Is\\ a\\ Many\\-Splendored\\ Thing:)Love\\ Is\\ a\\ Many\\-Splendored\\ Thing)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt14111734",
+    "title": "Operation Varsity Blues",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Documentary",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1732,
+    "occurrences": [
+      [
+        24,
+        "00:01:08.735000",
+        "00:01:12.197000",
+        "An FBI investigation called Operation Varsity Blues."
+      ],
+      [
+        25,
+        "00:01:12.280000",
+        "00:01:13.740000",
+        "Operation Varsity Blues."
+      ],
+      [
+        26,
+        "00:01:13.823000",
+        "00:01:15.658000",
+        "Operation Varsity Blues."
+      ],
+      [
+        112,
+        "00:05:49.974000",
+        "00:05:53.728000",
+        "who orchestrated the wrongdoing in Operation Varsity Blues,"
+      ]
+    ],
+    "regex": "\\b((?!\\bOperation\\ Varsity\\ Blues:)Operation\\ Varsity\\ Blues)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

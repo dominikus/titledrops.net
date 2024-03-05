@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1266542",
+    "title": "The Break-Up Artist",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1402,
+    "occurrences": [
+      [
+        36,
+        "00:02:44.944000",
+        "00:02:47.045000",
+        "I'm Britney Brooks, the break-up artist."
+      ],
+      [
+        165,
+        "00:10:37.416000",
+        "00:10:39.383000",
+        "I'm the break-up artist. It's what I do."
+      ],
+      [
+        1005,
+        "01:06:35.921000",
+        "01:06:39.624000",
+        "The break-up artist done in by love."
+      ]
+    ],
+    "regex": "\\b((?!\\bBreak\\-Up\\ Artist:)Break\\-Up\\ Artist)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

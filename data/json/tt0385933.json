@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0385933",
+    "title": "The Perfume of the Lady in Black",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 4,
+    "all_lines": 1472,
+    "occurrences": [
+      [
+        7,
+        "00:01:01.560000",
+        "00:01:04.950000",
+        "The Perfume of the Lady in Black"
+      ],
+      [
+        79,
+        "00:11:43.320000",
+        "00:11:45.880000",
+        "We're seeking the perfume of the lady in black."
+      ],
+      [
+        84,
+        "00:12:09.320000",
+        "00:12:11.515000",
+        "The perfume of the lady in black."
+      ],
+      [
+        661,
+        "00:52:15.240000",
+        "00:52:17.310000",
+        "The perfume of the lady in black."
+      ]
+    ],
+    "regex": "\\b((?!\\bPerfume\\ of\\ the\\ Lady\\ in\\ Black:)Perfume\\ of\\ the\\ Lady\\ in\\ Black)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

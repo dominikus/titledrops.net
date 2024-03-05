@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0035262",
+    "title": "Road to Morocco",
+    "year": 1942,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1148,
+    "occurrences": [
+      [
+        108,
+        "00:08:29.141000",
+        "00:08:34.909000",
+        "# Off on the road to Morocco #"
+      ],
+      [
+        117,
+        "00:09:03.476000",
+        "00:09:08.880000",
+        "#We're off on the road to Morocco #"
+      ],
+      [
+        123,
+        "00:09:24.230000",
+        "00:09:29.634000",
+        "#We're off on the road to Morocco #"
+      ]
+    ],
+    "regex": "\\b((?!\\bRoad\\ to\\ Morocco:)Road\\ to\\ Morocco)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

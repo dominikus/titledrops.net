@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt5352846",
+    "title": "Drone",
+    "year": 2017,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1147,
+    "occurrences": [
+      [
+        761,
+        "01:04:04.975000",
+        "01:04:09.077000",
+        "A drone aircraft belonging to the CIA."
+      ],
+      [
+        842,
+        "01:08:31.875000",
+        "01:08:36.778000",
+        "You see, Shane, some drone pilots aren't even soldiers."
+      ],
+      [
+        911,
+        "01:12:17.834000",
+        "01:12:20.868000",
+        "It opened up a back door to your drone program."
+      ],
+      [
+        1135,
+        "01:25:46.275000",
+        "01:25:49.543000",
+        "private drone contractor Neil wiston has come forward"
+      ]
+    ],
+    "regex": "\\b((?!\\bDrone:)Drone)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

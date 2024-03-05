@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt12143014",
+    "title": "Amalgama",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1629,
+    "occurrences": [
+      [
+        1055,
+        "00:55:14.833000",
+        "00:55:16",
+        "Amalgama."
+      ],
+      [
+        1061,
+        "00:55:33.416000",
+        "00:55:34.583000",
+        "Amalgama..."
+      ],
+      [
+        1065,
+        "00:55:40.291000",
+        "00:55:41.541000",
+        "- Amalgama. - Yeah, I know."
+      ],
+      [
+        1082,
+        "00:56:32.875000",
+        "00:56:34.041000",
+        "Amalgama-Big Bang."
+      ]
+    ],
+    "regex": "\\b((?!\\bAmalgama:)Amalgama)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

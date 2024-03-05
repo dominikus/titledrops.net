@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt12274228",
+    "title": "Rent-A-Pal",
+    "year": 2020,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1904,
+    "occurrences": [
+      [
+        1650,
+        "01:30:26.035000",
+        "01:30:27.270000",
+        "\"Rent-a-Pal!\""
+      ],
+      [
+        1651,
+        "01:30:27.302000",
+        "01:30:30.338000",
+        "I need \"Rent-a-Pal!\" (DIANE SCREAMS)"
+      ],
+      [
+        1657,
+        "01:30:47.456000",
+        "01:30:50.693000",
+        "It's called \"Rent-a-Pal\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bRent\\-A\\-Pal:)Rent\\-A\\-Pal)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

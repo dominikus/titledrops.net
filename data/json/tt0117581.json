@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0117581",
+    "title": "The Secret Agent Club",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1605,
+    "occurrences": [
+      [
+        1554,
+        "01:28:37.641000",
+        "01:28:39.643000",
+        "SECRET AGENT CLUB"
+      ],
+      [
+        1555,
+        "01:28:39.643000",
+        "01:28:41.603000",
+        "SECRET AGENT CLUB"
+      ]
+    ],
+    "regex": "\\b((?!\\bSecret\\ Agent\\ Club:)Secret\\ Agent\\ Club)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4922674",
+    "title": "Parallel",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1486,
+    "occurrences": [
+      [
+        400,
+        "00:24:37.311000",
+        "00:24:38.980000",
+        "I think it's parallel universes."
+      ],
+      [
+        472,
+        "00:28:39.521000",
+        "00:28:41.855000",
+        "The universes might not be perfectly parallel."
+      ],
+      [
+        510,
+        "00:30:30.364000",
+        "00:30:33.233000",
+        "Sports, crosswords. The universes are too parallel."
+      ]
+    ],
+    "regex": "\\b((?!\\bParallel:)Parallel)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

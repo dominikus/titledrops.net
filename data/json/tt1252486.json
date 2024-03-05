@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1252486",
+    "title": "The Garden",
+    "year": 2008,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 282,
+    "occurrences": [
+      [
+        85,
+        "00:14:40.813000",
+        "00:14:45.369000",
+        "Tezo's father was a very respected person here in the garden,"
+      ],
+      [
+        117,
+        "00:23:33.678000",
+        "00:23:36.567000",
+        "and avoid being evicted from the urban garden."
+      ],
+      [
+        212,
+        "00:49:35.439000",
+        "00:49:38.160000",
+        "He worked a lot in this garden, a whole lot."
+      ],
+      [
+        266,
+        "00:59:12.682000",
+        "00:59:17.984000",
+        "to help us with your money to save the life of this garden."
+      ]
+    ],
+    "regex": "\\b((?!\\bGarden:)Garden)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

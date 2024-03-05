@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2142797",
+    "title": "The Kirishima Thing",
+    "year": 2012,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 839,
+    "occurrences": [
+      [
+        15,
+        "00:01:42.936000",
+        "00:01:45.729000",
+        "- Is it the Kirishima thing? - Kirishima, yes..."
+      ],
+      [
+        589,
+        "01:04:41.669000",
+        "01:04:45.630000",
+        "The Kirishima thing's such a big deal."
+      ],
+      [
+        827,
+        "01:38:36.660000",
+        "01:38:43.791000",
+        "\"Kirishima, Quit the Club\" aka 'The Kirishima Thing'"
+      ]
+    ],
+    "regex": "\\b((?!\\bKirishima\\ Thing:)Kirishima\\ Thing)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

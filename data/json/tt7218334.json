@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt7218334",
+    "title": "Cops",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 893,
+    "occurrences": [
+      [
+        16,
+        "00:03:06.960000",
+        "00:03:09.440000",
+        "You're no longer simple beat cops."
+      ],
+      [
+        55,
+        "00:05:58.440000",
+        "00:06:00.480000",
+        "Nothing happened. No need for the cops."
+      ],
+      [
+        563,
+        "00:51:25.400000",
+        "00:51:27.320000",
+        "-not the cops. -Hey, here comes Nicky."
+      ]
+    ],
+    "regex": "\\b((?!\\bCops:)Cops)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

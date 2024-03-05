@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0057162",
+    "title": "The Householder",
+    "year": 1963,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1330,
+    "occurrences": [
+      [
+        1045,
+        "01:20:23.057000",
+        "01:20:25.025000",
+        "You are a householder."
+      ],
+      [
+        1121,
+        "01:25:33.667000",
+        "01:25:36.693000",
+        "He was a householder with a wife and children."
+      ],
+      [
+        1160,
+        "01:28:09.322000",
+        "01:28:11.290000",
+        "You're a householder now."
+      ]
+    ],
+    "regex": "\\b((?!\\bHouseholder:)Householder)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0436886",
+    "title": "University of Laughs",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1491,
+    "occurrences": [
+      [
+        34,
+        "00:08:00.100000",
+        "00:08:01.898000",
+        "University of Laughs Troupe."
+      ],
+      [
+        49,
+        "00:09:00.560000",
+        "00:09:02.119000",
+        "We're the \"University of Laughs\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bUniversity\\ of\\ Laughs:)University\\ of\\ Laughs)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

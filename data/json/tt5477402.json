@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5477402",
+    "title": "Strike a Pose",
+    "year": 2016,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1243,
+    "occurrences": [
+      [
+        62,
+        "00:05:18.360000",
+        "00:05:20.120000",
+        "Strike a pose."
+      ],
+      [
+        405,
+        "00:26:07.320000",
+        "00:26:08.960000",
+        "Strike a pose."
+      ]
+    ],
+    "regex": "\\b((?!\\bStrike\\ a\\ Pose:)Strike\\ a\\ Pose)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

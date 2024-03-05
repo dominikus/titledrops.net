@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt11623722",
+    "title": "Green Sea",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 526,
+    "occurrences": [
+      [
+        216,
+        "00:33:39.250000",
+        "00:33:40.833000",
+        "The Green Sea..."
+      ],
+      [
+        226,
+        "00:34:41.208000",
+        "00:34:43.250000",
+        "Make a Green Sea."
+      ],
+      [
+        312,
+        "00:44:46.583000",
+        "00:44:51.458000",
+        "She had heard about the Egyptians' fear in the vast Green Sea."
+      ],
+      [
+        478,
+        "01:15:05.708000",
+        "01:15:07.750000",
+        "The Green Sea..."
+      ]
+    ],
+    "regex": "\\b((?!\\bGreen\\ Sea:)Green\\ Sea)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

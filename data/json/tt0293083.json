@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0293083",
+    "title": "The Dervish",
+    "year": 2001,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 790,
+    "occurrences": [
+      [
+        24,
+        "00:03:57.007000",
+        "00:03:58.611000",
+        "But you are a dervish."
+      ],
+      [
+        90,
+        "00:10:18.607000",
+        "00:10:20.211000",
+        "Poor dervish!"
+      ],
+      [
+        349,
+        "00:43:51.007000",
+        "00:43:52.213000",
+        "A dervish,"
+      ],
+      [
+        351,
+        "00:43:59.087000",
+        "00:44:03.217000",
+        "A dervish? Got an amulet for aching bones?"
+      ],
+      [
+        742,
+        "01:46:11.687000",
+        "01:46:13.212000",
+        "So, dervish..."
+      ]
+    ],
+    "regex": "\\b((?!\\bDervish:)Dervish)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

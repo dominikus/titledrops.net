@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0899224",
+    "title": "Ten Nights of Dreams",
+    "year": 2006,
+    "genres": [
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 438,
+    "occurrences": [
+      [
+        10,
+        "00:01:13.807000",
+        "00:01:19.973000",
+        "Your riddle, \"Ten Nights of Dreams.\""
+      ],
+      [
+        17,
+        "00:01:57.584000",
+        "00:02:02.851000",
+        "Ten Nights of Dreams"
+      ]
+    ],
+    "regex": "\\b((?!\\bTen\\ Nights\\ of\\ Dreams:)Ten\\ Nights\\ of\\ Dreams)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

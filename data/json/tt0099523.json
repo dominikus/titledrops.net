@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0099523",
+    "title": "Evil Spirits",
+    "year": 1991,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1156,
+    "occurrences": [
+      [
+        271,
+        "00:19:00.775000",
+        "00:19:03.521000",
+        "I'll rid this house of its evil spirits."
+      ],
+      [
+        1153,
+        "01:32:12.057000",
+        "01:32:16.531000",
+        "Only evil spirits, Mr. Alden."
+      ]
+    ],
+    "regex": "\\b((?!\\bEvil\\ Spirits:)Evil\\ Spirits)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

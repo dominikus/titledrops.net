@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0092546",
+    "title": "Amazon Women on the Moon",
+    "year": 1987,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1100,
+    "occurrences": [
+      [
+        180,
+        "00:16:11.951000",
+        "00:16:14.203000",
+        "Amazon Women on the Moon..."
+      ],
+      [
+        484,
+        "00:45:26.055000",
+        "00:45:28.057000",
+        "Amazon Women on the Moon..."
+      ]
+    ],
+    "regex": "\\b((?!\\bAmazon\\ Women\\ on\\ the\\ Moon:)Amazon\\ Women\\ on\\ the\\ Moon)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

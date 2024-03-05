@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0393162",
+    "title": "Coach Carter",
+    "year": 2005,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1085,
+    "occurrences": [
+      [
+        124,
+        "00:08:38.685000",
+        "00:08:40.854000",
+        "that Mr. Carter--? Coach Carter gets these copies?"
+      ],
+      [
+        138,
+        "00:09:20.102000",
+        "00:09:22.229000",
+        "We're lucky to have Coach Carter."
+      ]
+    ],
+    "regex": "\\b((?!\\bCoach\\ Carter:)Coach\\ Carter)(?!\\:)(?!'t)\\b",
+    "runtime": 136,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

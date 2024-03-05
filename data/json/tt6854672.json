@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt6854672",
+    "title": "Battle",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 658,
+    "occurrences": [
+      [
+        243,
+        "00:32:20.725000",
+        "00:32:24.565000",
+        "- What's happening? - This, Amalie, is a battle."
+      ],
+      [
+        258,
+        "00:34:31.965000",
+        "00:34:36.645000",
+        "Are you ready for All-Star Battle, 1 versus 1?"
+      ],
+      [
+        260,
+        "00:35:06.085000",
+        "00:35:12.525000",
+        "But when we battle, we get all the shit out, you know. Provoke each other."
+      ],
+      [
+        272,
+        "00:36:23.085000",
+        "00:36:28.125000",
+        "- Will you battle? - I'm here to see someone else battle."
+      ],
+      [
+        463,
+        "01:01:56.525000",
+        "01:01:59.125000",
+        "There's a battle at the end of the month."
+      ]
+    ],
+    "regex": "\\b((?!\\bBattle:)Battle)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

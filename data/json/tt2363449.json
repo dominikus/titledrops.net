@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2363449",
+    "title": "The House Across the Street",
+    "year": 2013,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1061,
+    "occurrences": [
+      [
+        425,
+        "00:40:23.216000",
+        "00:40:26.119000",
+        "Not the house next door. The house across the street."
+      ],
+      [
+        426,
+        "00:40:26.152000",
+        "00:40:27.920000",
+        "He owns the house across the street."
+      ],
+      [
+        462,
+        "00:42:28.241000",
+        "00:42:30.142000",
+        "It's the house across the street from me."
+      ],
+      [
+        789,
+        "01:10:58.615000",
+        "01:11:00.784000",
+        "I'm just wondering about the house across the street."
+      ]
+    ],
+    "regex": "\\b((?!\\bHouse\\ Across\\ the\\ Street:)House\\ Across\\ the\\ Street)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

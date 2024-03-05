@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt5588938",
+    "title": "Gold Dust",
+    "year": 2020,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1491,
+    "occurrences": [
+      [
+        13,
+        "00:01:10.315000",
+        "00:01:14.250000",
+        "Gold dust sown in sand along your desert,"
+      ],
+      [
+        64,
+        "00:06:23.341000",
+        "00:06:24.109000",
+        "Bags of gold dust."
+      ],
+      [
+        65,
+        "00:06:25.444000",
+        "00:06:26.211000",
+        "How many bags of gold dust did you say, Fink?"
+      ],
+      [
+        67,
+        "00:06:31.583000",
+        "00:06:33.618000",
+        "Twenty-five thousand bags of pure gold dust?"
+      ],
+      [
+        291,
+        "00:17:32.271000",
+        "00:17:35.041000",
+        "Vast amounts of gold dust, a dry salt lake."
+      ]
+    ],
+    "regex": "\\b((?!\\bGold\\ Dust:)Gold\\ Dust)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

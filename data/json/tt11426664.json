@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt11426664",
+    "title": "Anatolian Leopard",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 810,
+    "occurrences": [
+      [
+        546,
+        "01:03:44.700000",
+        "01:03:49.913000",
+        "The search for the Anatolian Leopard that disappeared last week is still going on."
+      ],
+      [
+        550,
+        "01:04:01.550000",
+        "01:04:06.096000",
+        "And right here, the villagers saw the Anatolian Leopard with their own eyes."
+      ]
+    ],
+    "regex": "\\b((?!\\bAnatolian\\ Leopard:)Anatolian\\ Leopard)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1679144",
+    "title": "An Ecology of Mind",
+    "year": 2010,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 810,
+    "occurrences": [
+      [
+        136,
+        "00:10:10.080000",
+        "00:10:14.790000",
+        "that an ecology of mind Is a slippery and rigorous friend"
+      ],
+      [
+        306,
+        "00:23:05.320000",
+        "00:23:10.269000",
+        "by people who say. what do you mean. \"Ecology of Mind\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bEcology\\ of\\ Mind:)Ecology\\ of\\ Mind)(?!\\:)(?!'t)\\b",
+    "runtime": 60,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

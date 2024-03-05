@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0221344",
+    "title": "Herod's Law",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1807,
+    "occurrences": [
+      [
+        1032,
+        "01:04:45.404000",
+        "01:04:47.370000",
+        "That you are about to face Herod's Law."
+      ],
+      [
+        1375,
+        "01:28:30.956000",
+        "01:28:33.337000",
+        "That's the thing about Herod's Law."
+      ],
+      [
+        1697,
+        "01:49:54.639000",
+        "01:49:57.045000",
+        "That there's only one true authority, that Herod's Law says..."
+      ],
+      [
+        1702,
+        "01:50:32.103000",
+        "01:50:33.369000",
+        "Herod's Law."
+      ]
+    ],
+    "regex": "\\b((?!\\bHerod's\\ Law:)Herod's\\ Law)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "imdb": "tt1975159",
+    "title": "Flight 7500",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 15,
+    "all_lines": 779,
+    "occurrences": [
+      [
+        2,
+        "00:00:37",
+        "00:00:39.480000",
+        "MAN 1: All right, I'm clear, I guess. MAN 2: Flight 610 Happy go ahead."
+      ],
+      [
+        42,
+        "00:03:46.840000",
+        "00:03:50.800000",
+        "PA ANNOUNCER: Attention, passengers! Now boarding Vista-Pacific Flight 7500,"
+      ],
+      [
+        63,
+        "00:04:56.700000",
+        "00:04:58.970000",
+        "Upper-class is right upstairs. Have a good flight."
+      ],
+      [
+        71,
+        "00:05:25",
+        "00:05:28.120000",
+        "ON THE PA: Welcome aboard the Vista-Pacific Flight 7500."
+      ],
+      [
+        95,
+        "00:07:08.100000",
+        "00:07:10.920000",
+        "Yes. I'm in pre-flight check right now."
+      ],
+      [
+        111,
+        "00:08:26.800000",
+        "00:08:30",
+        "ON THE PA: Welcome abroad Vista-Pacific Flight 7500."
+      ],
+      [
+        158,
+        "00:10:55.300000",
+        "00:10:58",
+        "ON THE PA: Stay where you are. Enjoy your flight."
+      ],
+      [
+        212,
+        "00:15:01.100000",
+        "00:15:03.150000",
+        "They haven't said a word in the entire flight."
+      ],
+      [
+        318,
+        "00:24:00.520000",
+        "00:24:03.410000",
+        "Continue the flight plan in the file."
+      ],
+      [
+        347,
+        "00:25:37.120000",
+        "00:25:39.640000",
+        "In-Flight time: 2 hr 28 minutes Time to Destination: 8 hr 20 minutes"
+      ],
+      [
+        540,
+        "00:45:08.960000",
+        "00:45:13.400000",
+        "Tokyo Radio. This is Vista Pacific Flight 7500 Heavy. Do you copy?"
+      ],
+      [
+        542,
+        "00:45:16.700000",
+        "00:45:21.480000",
+        "Tokyo Radio. This is Vista Pacific Flight 7500 Heavy. You got me?"
+      ],
+      [
+        552,
+        "00:46:43.360000",
+        "00:46:46.440000",
+        "Have you had one died on a flight before?"
+      ],
+      [
+        705,
+        "01:04:55.560000",
+        "01:05:01",
+        "Radio Tokyo. Come in. This is Vista Pacific Flight 7500 Heavy."
+      ],
+      [
+        744,
+        "01:11:59",
+        "01:12:01.900000",
+        "Good evening. The Vista Pacific Flight 7500..."
+      ]
+    ],
+    "regex": "\\b((?!\\bFlight:)Flight)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

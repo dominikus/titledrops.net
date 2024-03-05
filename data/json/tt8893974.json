@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt8893974",
+    "title": "Passing",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1189,
+    "occurrences": [
+      [
+        157,
+        "00:12:28.706000",
+        "00:12:31.250000",
+        "I'm asking if you ever thought of passing, Rene."
+      ],
+      [
+        730,
+        "00:50:48.795000",
+        "00:50:51.339000",
+        "We're all of us passing for something or other."
+      ]
+    ],
+    "regex": "\\b((?!\\bPassing:)Passing)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

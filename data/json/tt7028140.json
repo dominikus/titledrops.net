@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7028140",
+    "title": "The Magic Quill",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1088,
+    "occurrences": [
+      [
+        277,
+        "00:30:41.320000",
+        "00:30:43.436000",
+        "The Magic Quill! Where is it?"
+      ],
+      [
+        747,
+        "01:09:52",
+        "01:09:56.437000",
+        "- The Magic Quill wasn't writing, so we thought no one was sinning."
+      ]
+    ],
+    "regex": "\\b((?!\\bMagic\\ Quill:)Magic\\ Quill)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0329717",
+    "title": "Hollywood Homicide",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 1437,
+    "occurrences": [
+      [
+        386,
+        "00:33:04.500000",
+        "00:33:08.700000",
+        "K.C. Calden, Hollywood Homicide. We're here to see Antoine Sartain."
+      ],
+      [
+        554,
+        "00:44:19.900000",
+        "00:44:22.900000",
+        "- Gentlemen. - Mr. Duran. Hollywood Homicide."
+      ],
+      [
+        615,
+        "00:48:32.800000",
+        "00:48:38.100000",
+        "- K.C. Calden, Hollywood Homicide. - Willie Palmero, South Bureau."
+      ]
+    ],
+    "regex": "\\b((?!\\bHollywood\\ Homicide:)Hollywood\\ Homicide)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt5776252",
+    "title": "Taeter Burger",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 303,
+    "occurrences": [
+      [
+        9,
+        "00:01:03.417000",
+        "00:01:06.292000",
+        "which is distributed through our Taeter Burger restaurants."
+      ],
+      [
+        12,
+        "00:01:27.958000",
+        "00:01:33.750000",
+        "This Taeter Burger is only available to unemployed citizens who earn less than 100 credits per month."
+      ],
+      [
+        101,
+        "00:16:41.917000",
+        "00:16:45.625000",
+        "Today we are testing them in four selected Taeter Burger restaurants,"
+      ],
+      [
+        194,
+        "00:46:06.083000",
+        "00:46:14.458000",
+        "Taeter Burger restaurant number 45 was attacked this morning by a terrorist."
+      ],
+      [
+        273,
+        "00:54:49.125000",
+        "00:54:51.583000",
+        "but Taeter Burger managers don't."
+      ]
+    ],
+    "regex": "\\b((?!\\bTaeter\\ Burger:)Taeter\\ Burger)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

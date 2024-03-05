@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0036775",
+    "title": "Double Indemnity",
+    "year": 1944,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 3,
+    "all_lines": 1967,
+    "occurrences": [
+      [
+        20,
+        "00:05:39.070000",
+        "00:05:41.322000",
+        "Accident and double indemnity."
+      ],
+      [
+        683,
+        "00:36:05.323000",
+        "00:36:07.200000",
+        "a little thing called double indemnity."
+      ],
+      [
+        1155,
+        "01:02:56.481000",
+        "01:02:58.608000",
+        "As you know, it contains a double indemnity clause."
+      ]
+    ],
+    "regex": "\\b((?!\\bDouble\\ Indemnity:)Double\\ Indemnity)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.3
+  }
+]

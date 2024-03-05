@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1791500",
+    "title": "Evil Bong 3: The Wrath of Bong",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1426,
+    "occurrences": [
+      [
+        326,
+        "00:19:58.936000",
+        "00:20:01.852000",
+        "The one who helped us kill the evil bong and the king bong?"
+      ],
+      [
+        328,
+        "00:20:03.114000",
+        "00:20:04.594000",
+        "we didn't kill the evil bong, remember?"
+      ],
+      [
+        600,
+        "00:35:22.598000",
+        "00:35:25.079000",
+        "- You mean the evil bong."
+      ],
+      [
+        764,
+        "00:44:07.645000",
+        "00:44:10.386000",
+        "- The evil bong, the bitch bong."
+      ]
+    ],
+    "regex": "\\b((?!\\bEvil\\ Bong:)Evil\\ Bong|(?!\\bWrath\\ of\\ Bong:)Wrath\\ of\\ Bong)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

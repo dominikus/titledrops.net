@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2275763",
+    "title": "Expiation",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 1646,
+    "occurrences": [
+      [
+        399,
+        "00:33:18.120000",
+        "00:33:21.169000",
+        "he will suffer expiation."
+      ],
+      [
+        422,
+        "00:34:12.200000",
+        "00:34:15.090000",
+        "That is his expiation for the baby."
+      ],
+      [
+        988,
+        "01:14:39.040000",
+        "01:14:41.159000",
+        "That drunken Catholic-sweeper spoke of expiation."
+      ],
+      [
+        1500,
+        "01:48:48.240000",
+        "01:48:50.129000",
+        "the year of expiation"
+      ]
+    ],
+    "regex": "\\b((?!\\bExpiation:)Expiation)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

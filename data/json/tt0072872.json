@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt0072872",
+    "title": "Princess Chang Ping",
+    "year": 1976,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 749,
+    "occurrences": [
+      [
+        82,
+        "00:16:29.235000",
+        "00:16:34.229000",
+        "His Majesty summons Princess Chang Ping"
+      ],
+      [
+        636,
+        "01:26:09.411000",
+        "01:26:15.611000",
+        "His Majesty summons Princess Chang Ping"
+      ]
+    ],
+    "regex": "\\b((?!\\bPrincess\\ Chang\\ Ping:)Princess\\ Chang\\ Ping)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [
+      "Princess Chang Ping"
+    ],
+    "title_is_name": true,
+    "rating": 6.2
+  }
+]

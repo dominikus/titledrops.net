@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt2372760",
+    "title": "Home",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 7,
+    "all_lines": 786,
+    "occurrences": [
+      [
+        78,
+        "00:12:26.920000",
+        "00:12:31.789000",
+        "-Well, she doesn't have to know. -She'd notice if I didn't come home."
+      ],
+      [
+        79,
+        "00:12:32",
+        "00:12:35.834000",
+        "-You still live at home? -Yes."
+      ],
+      [
+        127,
+        "00:17:55.440000",
+        "00:17:59.319000",
+        "I just have to call home and make sure it's okay."
+      ],
+      [
+        148,
+        "00:20:43.320000",
+        "00:20:47.438000",
+        "-No, I went home but came back. -That's great."
+      ],
+      [
+        159,
+        "00:21:35.480000",
+        "00:21:39.109000",
+        "Is there someone at home that you usually talk to?"
+      ],
+      [
+        660,
+        "01:11:54.520000",
+        "01:12:00.311000",
+        "-What are you doing here? -I'm on my way home."
+      ],
+      [
+        714,
+        "01:19:46.760000",
+        "01:19:49.069000",
+        "When are you coming home?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHome:)Home)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

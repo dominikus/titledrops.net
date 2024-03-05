@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt9339850",
+    "title": "Jezabel",
+    "year": 2022,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1076,
+    "occurrences": [
+      [
+        54,
+        "00:03:38.340000",
+        "00:03:41.010000",
+        "-Jezabel, what the hell is that supposed to be? -Yes..."
+      ],
+      [
+        1033,
+        "01:34:17.650000",
+        "01:34:20.110000",
+        "Your page will be called \"Jezabel\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bJezabel:)Jezabel)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

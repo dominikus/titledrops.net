@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6902708",
+    "title": "Nona",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 599,
+    "occurrences": [
+      [
+        304,
+        "01:10:06.504000",
+        "01:10:07.904000",
+        "This is Nona's room."
+      ],
+      [
+        598,
+        "01:31:30.758000",
+        "01:31:32.293000",
+        "Nona."
+      ]
+    ],
+    "regex": "\\b((?!\\bNona:)Nona)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [
+      "Nona"
+    ],
+    "title_is_name": true,
+    "rating": 5.6
+  }
+]

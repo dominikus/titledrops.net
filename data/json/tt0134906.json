@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0134906",
+    "title": "The Nude Princess",
+    "year": 1976,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 704,
+    "occurrences": [
+      [
+        21,
+        "00:02:30.160000",
+        "00:02:32.594000",
+        "America called her The Nude Princess"
+      ],
+      [
+        32,
+        "00:03:06.840000",
+        "00:03:11.311000",
+        "When the nude princess sleeps with someone in Milan..."
+      ]
+    ],
+    "regex": "\\b((?!\\bNude\\ Princess:)Nude\\ Princess)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

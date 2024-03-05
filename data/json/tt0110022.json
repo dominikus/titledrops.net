@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0110022",
+    "title": "The Hidden II",
+    "year": 1993,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 665,
+    "occurrences": [
+      [
+        196,
+        "00:30:09.269000",
+        "00:30:12.269000",
+        "I suppose it was hidden from you all these years."
+      ],
+      [
+        197,
+        "00:30:12.873000",
+        "00:30:14.940000",
+        "Hidden? What?"
+      ],
+      [
+        204,
+        "00:30:48.341000",
+        "00:30:51.341000",
+        "What about my father was hidden?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHidden:)Hidden)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

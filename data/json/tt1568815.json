@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt1568815",
+    "title": "A Family",
+    "year": 2010,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 555,
+    "occurrences": [
+      [
+        20,
+        "00:02:44.760000",
+        "00:02:47.274000",
+        "developed the family's sense of"
+      ],
+      [
+        24,
+        "00:03:05.520000",
+        "00:03:09.832000",
+        "refined the proud family traditions"
+      ],
+      [
+        27,
+        "00:03:38.760000",
+        "00:03:41.115000",
+        "took over the family mansion"
+      ],
+      [
+        199,
+        "00:27:48.880000",
+        "00:27:52.475000",
+        "But not here. Not in this family."
+      ],
+      [
+        207,
+        "00:29:14.440000",
+        "00:29:17.193000",
+        "Now we're family, Ditte."
+      ]
+    ],
+    "regex": "\\b((?!\\bFamily:)Family)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

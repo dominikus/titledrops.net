@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5657028",
+    "title": "Alibi.com",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1068,
+    "occurrences": [
+      [
+        963,
+        "01:16:11.292000",
+        "01:16:14.570000",
+        "Alibi.com, company founded by Gregory Van Huffel,"
+      ],
+      [
+        968,
+        "01:16:32.750000",
+        "01:16:36.320000",
+        "We wish a lot of luck to all the customers of Alibi.com,"
+      ],
+      [
+        1058,
+        "01:25:11",
+        "01:25:12.940000",
+        "After Alibi.com, what do you do now?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAlibi\\.com:)Alibi\\.com)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

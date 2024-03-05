@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1988689",
+    "title": "Lan Kwai Fong",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1764,
+    "occurrences": [
+      [
+        545,
+        "00:24:59.297000",
+        "00:25:01.561000",
+        "Excuse me, I need a taxi at Lan Kwai Fong."
+      ],
+      [
+        990,
+        "00:49:28.999000",
+        "00:49:31.034000",
+        "Lan Kwai Fong is really famous."
+      ],
+      [
+        1147,
+        "00:59:06.543000",
+        "00:59:07.477000",
+        "Everyone in Lan Kwai Fong knows that..."
+      ]
+    ],
+    "regex": "\\b((?!\\bLan\\ Kwai\\ Fong:)Lan\\ Kwai\\ Fong)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

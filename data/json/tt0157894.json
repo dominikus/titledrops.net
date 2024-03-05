@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0157894",
+    "title": "The Killing of America",
+    "year": 1981,
+    "genres": [
+      "Crime",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1126,
+    "occurrences": [
+      [
+        6,
+        "00:00:25.740000",
+        "00:00:28.040000",
+        "The killing of America."
+      ],
+      [
+        855,
+        "01:09:13.810000",
+        "01:09:16.910000",
+        "As if they intended to continue the killing of America."
+      ]
+    ],
+    "regex": "\\b((?!\\bKilling\\ of\\ America:)Killing\\ of\\ America)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

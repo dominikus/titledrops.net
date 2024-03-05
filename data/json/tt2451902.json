@@ -1,0 +1,52 @@
+[
+  {
+    "imdb": "tt2451902",
+    "title": "Cruiser",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 852,
+    "occurrences": [
+      [
+        564,
+        "00:46:31.266000",
+        "00:46:32.833000",
+        " Police cruiser 22,"
+      ],
+      [
+        718,
+        "01:00:48.645000",
+        "01:00:51.560000",
+        "- You still want to run from it. -  Hey, partner in the police cruiser,"
+      ],
+      [
+        820,
+        "01:10:27.266000",
+        "01:10:30.313000",
+        "All units, we have a report of a police cruiser leaving"
+      ],
+      [
+        834,
+        "01:11:37.380000",
+        "01:11:39.382000",
+        "police cruiser unit 22."
+      ],
+      [
+        841,
+        "01:12:14.155000",
+        "01:12:17.768000",
+        "This is for the civilian driving a gladden police cruiser."
+      ]
+    ],
+    "regex": "\\b((?!\\bCruiser:)Cruiser)(?!\\:)(?!'t)\\b",
+    "runtime": 73,
+    "characters": [
+      "Cruiser"
+    ],
+    "title_is_name": true,
+    "rating": 5
+  }
+]

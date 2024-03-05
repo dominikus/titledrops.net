@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt22375620",
+    "title": "The Slumber Party",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "count": 5,
+    "all_lines": 1655,
+    "occurrences": [
+      [
+        143,
+        "00:05:55.646000",
+        "00:05:58.900000",
+        "so I appreciate you including her in your slumber party tonight."
+      ],
+      [
+        304,
+        "00:12:13.107000",
+        "00:12:15.609000",
+        "Even if Veronica's stealing my dad and crashing my slumber party."
+      ],
+      [
+        338,
+        "00:13:37.650000",
+        "00:13:38.692000",
+        "And this is a slumber party,"
+      ],
+      [
+        1428,
+        "01:11:27.700000",
+        "01:11:30.286000",
+        "All I ever wanted was to be a part of your slumber party."
+      ],
+      [
+        1556,
+        "01:18:05.681000",
+        "01:18:08.266000",
+        "Duh, slumber party at my house!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSlumber\\ Party:)Slumber\\ Party)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

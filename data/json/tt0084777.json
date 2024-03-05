@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0084777",
+    "title": "Tenebrae",
+    "year": 1982,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 890,
+    "occurrences": [
+      [
+        82,
+        "00:12:31.459000",
+        "00:12:36.089000",
+        "\"Tenebrae\" is a sexist novel. Why do you despise women so much?"
+      ],
+      [
+        164,
+        "00:17:18.204000",
+        "00:17:21.791000",
+        "Her mouth was stuffed with pages from a book, \"Tenebrae\"."
+      ],
+      [
+        165,
+        "00:17:21.916000",
+        "00:17:23.918000",
+        "- \"Tenebrae\"? -Hmm..."
+      ],
+      [
+        402,
+        "00:39:51.306000",
+        "00:39:55.935000",
+        "\"Tenebrae\" is about human perversion and its effects on society."
+      ],
+      [
+        544,
+        "00:58:10.028000",
+        "00:58:13.949000",
+        "Cristiano Berti, the TV critic, called \"Tenebrae\""
+      ],
+      [
+        552,
+        "00:58:58.326000",
+        "00:59:00.036000",
+        "\"Tenebrae\" is a novel about..."
+      ]
+    ],
+    "regex": "\\b((?!\\bTenebrae:)Tenebrae)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

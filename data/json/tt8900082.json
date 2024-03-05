@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt8900082",
+    "title": "Commando Ninja",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 231,
+    "occurrences": [
+      [
+        172,
+        "00:50:04.750000",
+        "00:50:10.417000",
+        "Only a Commando Ninja, can kill another Commando Ninja!"
+      ],
+      [
+        174,
+        "00:50:16.125000",
+        "00:50:19.458000",
+        "But Sensei, did you train any other Commando Ninja before me?"
+      ],
+      [
+        185,
+        "00:50:56.125000",
+        "00:50:58.333000",
+        "Commando Ninja!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCommando\\ Ninja:)Commando\\ Ninja)(?!\\:)(?!'t)\\b",
+    "runtime": 68,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

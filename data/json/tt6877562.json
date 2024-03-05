@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6877562",
+    "title": "Hurt",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 793,
+    "occurrences": [
+      [
+        761,
+        "01:27:59.083000",
+        "01:28:02.553000",
+        "This hurt will fade"
+      ],
+      [
+        773,
+        "01:28:56.809000",
+        "01:29:00.013000",
+        "This hurt will fade"
+      ]
+    ],
+    "regex": "\\b((?!\\bHurt:)Hurt)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

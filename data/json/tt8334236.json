@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt8334236",
+    "title": "Zoo-Head",
+    "year": 2019,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1202,
+    "occurrences": [
+      [
+        707,
+        "00:43:56.801000",
+        "00:44:01.871000",
+        "Look, I'm an ex-zoo-head myself."
+      ],
+      [
+        949,
+        "00:57:53.037000",
+        "00:57:54.970000",
+        "You're still a Zoo-Head, remember."
+      ]
+    ],
+    "regex": "\\b((?!\\bZoo\\-Head:)Zoo\\-Head)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

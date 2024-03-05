@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt11433420",
+    "title": "The Vinland Club",
+    "year": 2020,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 1331,
+    "occurrences": [
+      [
+        302,
+        "00:27:00.760000",
+        "00:27:03.040000",
+        "There's a spot waiting for you at the Vinland Club."
+      ],
+      [
+        324,
+        "00:28:32.840000",
+        "00:28:34.720000",
+        "-But you want to take your students. -Only the Vinland Club ones."
+      ],
+      [
+        965,
+        "01:16:05.920000",
+        "01:16:08.240000",
+        "The Vinland club, the digs."
+      ]
+    ],
+    "regex": "\\b((?!\\bVinland\\ Club:)Vinland\\ Club)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

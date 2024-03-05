@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt6474040",
+    "title": "Stockholm",
+    "year": 2018,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 1963,
+    "occurrences": [
+      [
+        8,
+        "00:00:53.662000",
+        "00:00:55.446000",
+        "Stockholm Syndrome."
+      ],
+      [
+        915,
+        "00:40:28.817000",
+        "00:40:30.470000",
+        "in Central Stockholm."
+      ],
+      [
+        1158,
+        "00:50:24.064000",
+        "00:50:27.284000",
+        "I'm Vincent Oberg, live from Central Stockholm."
+      ]
+    ],
+    "regex": "\\b((?!\\bStockholm:)Stockholm)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

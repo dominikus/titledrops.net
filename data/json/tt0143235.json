@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0143235",
+    "title": "Between Eleven and Midnight",
+    "year": 1949,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1448,
+    "occurrences": [
+      [
+        53,
+        "00:04:40.701000",
+        "00:04:43.386000",
+        "between eleven and midnight..."
+      ],
+      [
+        717,
+        "00:54:08.198000",
+        "00:54:10.227000",
+        "- Between eleven and midnight. - And if I were?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBetween\\ Eleven\\ and\\ Midnight:)Between\\ Eleven\\ and\\ Midnight)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

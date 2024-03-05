@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0325123",
+    "title": "Bright Young Things",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1432,
+    "occurrences": [
+      [
+        65,
+        "00:08:12.963000",
+        "00:08:18.382000",
+        "But this Bright young things, that's just downright dirt and is marked for burning."
+      ],
+      [
+        113,
+        "00:10:59.426000",
+        "00:11:01.154000",
+        "Bright young things, that was the title, right?"
+      ],
+      [
+        704,
+        "00:50:01.804000",
+        "00:50:05.937000",
+        "That uneasy alliance between bright young things and old survivors."
+      ]
+    ],
+    "regex": "\\b((?!\\bBright\\ Young\\ Things:)Bright\\ Young\\ Things)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

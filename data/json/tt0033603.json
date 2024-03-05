@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0033603",
+    "title": "The Well-Digger's Daughter",
+    "year": 1940,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 2955,
+    "occurrences": [
+      [
+        221,
+        "00:14:07.392000",
+        "00:14:10.382000",
+        "A girl. I am the well-digger's daughter."
+      ],
+      [
+        1167,
+        "00:58:58.762000",
+        "00:59:01.787000",
+        "She is called Patricia. The well-digger's daughter."
+      ],
+      [
+        1467,
+        "01:13:39.007000",
+        "01:13:42.792000",
+        "But it surprises you that she's a well-digger's daughter."
+      ],
+      [
+        1602,
+        "01:19:15.092000",
+        "01:19:16.789000",
+        "because of the well-digger's daughter."
+      ]
+    ],
+    "regex": "\\b((?!\\bWell\\-Digger's\\ Daughter:)Well\\-Digger's\\ Daughter)(?!\\:)(?!'t)\\b",
+    "runtime": 170,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

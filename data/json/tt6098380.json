@@ -1,0 +1,52 @@
+[
+  {
+    "imdb": "tt6098380",
+    "title": "Isabelle",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1101,
+    "occurrences": [
+      [
+        616,
+        "00:42:24.890000",
+        "00:42:27.283000",
+        "It's your birthday, Isabelle."
+      ],
+      [
+        622,
+        "00:42:45.954000",
+        "00:42:46.999000",
+        "Isabelle."
+      ],
+      [
+        627,
+        "00:43:08.673000",
+        "00:43:09.456000",
+        "Isabelle."
+      ],
+      [
+        969,
+        "01:08:39.767000",
+        "01:08:41.856000",
+        "- Isabelle Pelway, 24."
+      ],
+      [
+        1005,
+        "01:11:22.800000",
+        "01:11:27.326000",
+        "-  Isabelle, I thought I could set you free."
+      ]
+    ],
+    "regex": "\\b((?!\\bIsabelle:)Isabelle)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [
+      "Isabelle Pelway"
+    ],
+    "title_is_name": true,
+    "rating": 4.2
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt9893130",
+    "title": "2025: Blood, White & Blue",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 2413,
+    "occurrences": [
+      [
+        694,
+        "00:39:52.392000",
+        "00:39:53.850000",
+        "It's 2025!"
+      ],
+      [
+        954,
+        "00:53:49.855000",
+        "00:53:55.567000",
+        "Welcome to the first episode of the Apprentice 2025."
+      ]
+    ],
+    "regex": "\\b((?!\\b2025:)2025|(?!\\bBlood,\\ White\\ \\&\\ Blue:)Blood,\\ White\\ \\&\\ Blue)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.2
+  }
+]

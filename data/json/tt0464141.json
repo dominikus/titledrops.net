@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0464141",
+    "title": "The Orphanage",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 808,
+    "occurrences": [
+      [
+        11,
+        "00:02:20.943000",
+        "00:02:22.678000",
+        "Good shepherd orphanage. Hello?"
+      ],
+      [
+        129,
+        "00:14:00.243000",
+        "00:14:03.111000",
+        "I grew up here. It was an orphanage."
+      ],
+      [
+        420,
+        "00:46:33.710000",
+        "00:46:35.829000",
+        "Worked at the orphanage."
+      ],
+      [
+        492,
+        "00:53:57.087000",
+        "00:54:00.189000",
+        "This wasn't a children's room in the orphanage, right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bOrphanage:)Orphanage)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

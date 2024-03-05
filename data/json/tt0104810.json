@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0104810",
+    "title": "Manufacturing Consent: Noam Chomsky and the Media",
+    "year": 1992,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 2541,
+    "occurrences": [
+      [
+        309,
+        "00:23:43.219000",
+        "00:23:48.014000",
+        "Manufacturing Consent - what is that title meant to describe?"
+      ],
+      [
+        436,
+        "00:33:09.434000",
+        "00:33:11.592000",
+        "You write in Manufacturing Consent"
+      ],
+      [
+        526,
+        "00:39:10.553000",
+        "00:39:14.504000",
+        "than you would ever guess from reading Manufacturing Consent."
+      ],
+      [
+        1651,
+        "01:52:54.997000",
+        "01:52:59.073000",
+        "Didn't he co-author a book called Engineering Consent or Manufacturing Consent?"
+      ]
+    ],
+    "regex": "\\b((?!\\bManufacturing\\ Consent:)Manufacturing\\ Consent|(?!\\bNoam\\ Chomsky\\ and\\ the\\ Media:)Noam\\ Chomsky\\ and\\ the\\ Media)(?!\\:)(?!'t)\\b",
+    "runtime": 167,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6902676",
+    "title": "Guns Akimbo",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1640,
+    "occurrences": [
+      [
+        1064,
+        "00:59:38.329000",
+        "00:59:39.930000",
+        "Guns Akimbo dude!"
+      ],
+      [
+        1117,
+        "01:02:42.646000",
+        "01:02:44.747000",
+        "Guns Akimbo dude was here."
+      ]
+    ],
+    "regex": "\\b((?!\\bGuns\\ Akimbo:)Guns\\ Akimbo)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt28517914",
+    "title": "Rookie",
+    "year": 2023,
+    "genres": [
+      "Romance",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1025,
+    "occurrences": [
+      [
+        340,
+        "00:25:39.914000",
+        "00:25:42.583000",
+        "Since you're a rookie, let's start with standing service."
+      ],
+      [
+        361,
+        "00:27:03.539000",
+        "00:27:05.416000",
+        "Then you'll be the Rookie of the Year."
+      ]
+    ],
+    "regex": "\\b((?!\\bRookie:)Rookie)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

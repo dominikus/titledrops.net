@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt4261326",
+    "title": "2307: Winter's Dream",
+    "year": 2016,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 863,
+    "occurrences": [
+      [
+        2,
+        "00:00:59.884000",
+        "00:01:05.697000",
+        "PHOENIX, ARIZONA 2307"
+      ],
+      [
+        24,
+        "00:03:29.481000",
+        "00:03:35.117000",
+        "CRIMES: MURDER, HUMANOID REBELLION LEADER SPARTAN MISSION 7: 2307 THE WINTER DREAM"
+      ]
+    ],
+    "regex": "\\b((?!\\b2307:)2307|(?!\\bWinter's\\ Dream:)Winter's\\ Dream)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

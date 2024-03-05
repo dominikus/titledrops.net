@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0099577",
+    "title": "Firehead",
+    "year": 1991,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 777,
+    "occurrences": [
+      [
+        57,
+        "00:07:19.505000",
+        "00:07:21.790000",
+        "They nicknamed him \"Firehead\"."
+      ],
+      [
+        619,
+        "01:03:25.205000",
+        "01:03:28.409000",
+        "we've got old Firehead here on our side. Do your stuff, Ivan."
+      ]
+    ],
+    "regex": "\\b((?!\\bFirehead:)Firehead)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.5
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt0970452",
+    "title": "Solomon Kane",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 756,
+    "occurrences": [
+      [
+        29,
+        "00:07:16.380000",
+        "00:07:21.620000",
+        "I came here for you, Solomon Kane!"
+      ],
+      [
+        35,
+        "00:07:45.460000",
+        "00:07:49.420000",
+        "Bend down to me, Solomon Kane!"
+      ],
+      [
+        43,
+        "00:08:33.100000",
+        "00:08:43.740000",
+        "You do not get away from us ... Your soul is damned Solomon Kane."
+      ],
+      [
+        616,
+        "01:14:01.580000",
+        "01:14:06.340000",
+        "- And you're here! - With the return of ... Solomon Kane!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSolomon\\ Kane:)Solomon\\ Kane)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [
+      "Solomon Kane"
+    ],
+    "title_is_name": true,
+    "rating": 6.1
+  }
+]

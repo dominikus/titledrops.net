@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1287876",
+    "title": "The Echo Game",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1629,
+    "occurrences": [
+      [
+        885,
+        "00:39:41.480000",
+        "00:39:42.881000",
+        "Don't play the echo game."
+      ],
+      [
+        887,
+        "00:39:44.483000",
+        "00:39:45.484000",
+        "the echo game?"
+      ],
+      [
+        1171,
+        "00:49:42.713000",
+        "00:49:44.049000",
+        "the echo game?"
+      ],
+      [
+        1172,
+        "00:49:44.049000",
+        "00:49:45.050000",
+        "Echo game?"
+      ]
+    ],
+    "regex": "\\b((?!\\bEcho\\ Game:)Echo\\ Game)(?!\\:)(?!'t)\\b",
+    "runtime": 74,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

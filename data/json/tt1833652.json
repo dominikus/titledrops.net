@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1833652",
+    "title": "Becoming Santa",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Documentary",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1968,
+    "occurrences": [
+      [
+        221,
+        "00:09:59.702000",
+        "00:10:01.014000",
+        "- I knew that becoming Santa was more"
+      ],
+      [
+        1785,
+        "01:18:13.827000",
+        "01:18:18.832000",
+        "- Along the way, as I'm becoming Santa,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBecoming\\ Santa:)Becoming\\ Santa)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0080479",
+    "title": "Bullet Train",
+    "year": 1975,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 717,
+    "occurrences": [
+      [
+        46,
+        "00:06:28.480000",
+        "00:06:32.553000",
+        "The bullet train system of 1.100km between Tokyo and Hakata"
+      ],
+      [
+        336,
+        "00:30:38.200000",
+        "00:30:39.713000",
+        "This is the bullet train HQ."
+      ],
+      [
+        345,
+        "00:31:08.160000",
+        "00:31:11.948000",
+        "One bullet train costs just as much."
+      ],
+      [
+        582,
+        "00:52:47.440000",
+        "00:52:51.831000",
+        "The bullet train bomber is there! Catch him!"
+      ],
+      [
+        584,
+        "00:52:57.040000",
+        "00:52:59.998000",
+        "He's the one who put a bomb on the bullet train! Get him!"
+      ],
+      [
+        681,
+        "01:03:50.440000",
+        "01:03:54.797000",
+        "The bullet train bomb suspect died while escaping."
+      ]
+    ],
+    "regex": "\\b((?!\\bBullet\\ Train:)Bullet\\ Train)(?!\\:)(?!'t)\\b",
+    "runtime": 152,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

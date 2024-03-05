@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0091377",
+    "title": "The Old Well",
+    "year": 1987,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 398,
+    "occurrences": [
+      [
+        42,
+        "00:11:49.442000",
+        "00:11:51.933000",
+        "won't she leave the Old Well village?"
+      ],
+      [
+        190,
+        "00:42:54.505000",
+        "00:42:57.770000",
+        "the Old Well Village hasn't used this well for many years and we're still alive"
+      ],
+      [
+        231,
+        "00:48:43.287000",
+        "00:48:45.448000",
+        "and this well belonged to the Old Well Village"
+      ],
+      [
+        389,
+        "01:01:39.962000",
+        "01:01:43.420000",
+        "Can't we old well villagers sink well forever?"
+      ]
+    ],
+    "regex": "\\b((?!\\bOld\\ Well:)Old\\ Well)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

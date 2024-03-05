@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt10515852",
+    "title": "Steven Universe: The Movie",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 6,
+    "all_lines": 1692,
+    "occurrences": [
+      [
+        21,
+        "00:01:09.934000",
+        "00:01:16.107000",
+        "Steven Universe"
+      ],
+      [
+        35,
+        "00:01:55.648000",
+        "00:01:58.214000",
+        "But when Steven Universe learned of his heritage,"
+      ],
+      [
+        240,
+        "00:11:22.414000",
+        "00:11:25.148000",
+        "Hey! Are you Steven Universe?"
+      ],
+      [
+        963,
+        "00:43:36.981000",
+        "00:43:41.515000",
+        "This first song's a special request from Steven Universe!"
+      ],
+      [
+        1304,
+        "01:02:13.896000",
+        "01:02:17.965000",
+        "I'm not letting you get one over on me, Steven Universe."
+      ],
+      [
+        1430,
+        "01:09:45.313000",
+        "01:09:48.481000",
+        "The legend, Steven Universe?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSteven\\ Universe:)Steven\\ Universe|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

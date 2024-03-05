@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0119632",
+    "title": "The MatchMaker",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1324,
+    "occurrences": [
+      [
+        107,
+        "00:07:24.960000",
+        "00:07:27.804000",
+        "Ladies and gentlemen, I am a matchmaker."
+      ],
+      [
+        231,
+        "00:15:36.200000",
+        "00:15:39.602000",
+        "Dermot O'Brien, I'm the local matchmaker."
+      ],
+      [
+        297,
+        "00:19:57.920000",
+        "00:20:00.810000",
+        "If you want a real matchmaker, love, call me."
+      ],
+      [
+        542,
+        "00:35:51.120000",
+        "00:35:53.327000",
+        "The matchmaker's ethics."
+      ]
+    ],
+    "regex": "\\b((?!\\bMatchMaker:)MatchMaker)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0441762",
+    "title": "A Friend of Mine",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 525,
+    "occurrences": [
+      [
+        165,
+        "00:22:41.280000",
+        "00:22:42.349000",
+        "Karl is a friend of mine."
+      ],
+      [
+        517,
+        "01:12:42.320000",
+        "01:12:44.276000",
+        "And because you're a friend of mine."
+      ]
+    ],
+    "regex": "\\b((?!\\bFriend\\ of\\ Mine:)Friend\\ of\\ Mine)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

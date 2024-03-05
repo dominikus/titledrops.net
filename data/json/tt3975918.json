@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt3975918",
+    "title": "13: The Musical",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 5,
+    "all_lines": 1559,
+    "occurrences": [
+      [
+        32,
+        "00:01:44.833000",
+        "00:01:47.625000",
+        "I'm about to turn 13 and have my Bar Mitzvah."
+      ],
+      [
+        79,
+        "00:03:43.083000",
+        "00:03:46.041000",
+        "Just about to turn God, I'm gonna turn 13!"
+      ],
+      [
+        111,
+        "00:05:36.083000",
+        "00:05:38.916000",
+        "Just about to turn Just about to turn 13!"
+      ],
+      [
+        120,
+        "00:06:01.625000",
+        "00:06:05.708000",
+        "And the crazy and the scary And we're just about to turn 13!"
+      ],
+      [
+        1403,
+        "01:22:02.833000",
+        "01:22:06.250000",
+        "I'm 13 years old, and I'm just getting started."
+      ]
+    ],
+    "regex": "\\b((?!\\b13:)13|(?!\\bMusical:)Musical)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

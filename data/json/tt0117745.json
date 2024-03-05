@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0117745",
+    "title": "Silent Night",
+    "year": 1996,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1044,
+    "occurrences": [
+      [
+        2,
+        "00:02:50",
+        "00:02:57.168000",
+        "Film Name: Silent Night"
+      ],
+      [
+        116,
+        "00:09:24",
+        "00:09:26",
+        "a silent night miracle"
+      ]
+    ],
+    "regex": "\\b((?!\\bSilent\\ Night:)Silent\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

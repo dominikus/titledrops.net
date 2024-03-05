@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0058942",
+    "title": "Lone and Angry Man",
+    "year": 1965,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 1240,
+    "occurrences": [
+      [
+        2,
+        "00:00:23.591000",
+        "00:00:26.594000",
+        "* I am a lone and angry man"
+      ],
+      [
+        1237,
+        "01:23:36.412000",
+        "01:23:39.382000",
+        "* I am a lone and angry man"
+      ]
+    ],
+    "regex": "\\b((?!\\bLone\\ and\\ Angry\\ Man:)Lone\\ and\\ Angry\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

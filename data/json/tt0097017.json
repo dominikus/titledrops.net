@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0097017",
+    "title": "The Carpenter",
+    "year": 1988,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1149,
+    "occurrences": [
+      [
+        563,
+        "00:43:12.220000",
+        "00:43:16.610000",
+        "Yeah, Ed, was a carpenter by trade, small town, but good."
+      ],
+      [
+        900,
+        "01:08:20.010000",
+        "01:08:21.750000",
+        "The carpenter."
+      ],
+      [
+        901,
+        "01:08:21.750000",
+        "01:08:22.640000",
+        "The carpenter?"
+      ],
+      [
+        1048,
+        "01:18:52.040000",
+        "01:18:54.510000",
+        "Well, I'm just the carpenter."
+      ]
+    ],
+    "regex": "\\b((?!\\bCarpenter:)Carpenter)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

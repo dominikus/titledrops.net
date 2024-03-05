@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3314584",
+    "title": "Garlic & Gunpowder",
+    "year": 2017,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1944,
+    "occurrences": [
+      [
+        1378,
+        "01:04:23.163000",
+        "01:04:26.210000",
+        "Then, and only then, will Operation Garlic & Gunpowder"
+      ],
+      [
+        1884,
+        "01:31:45.717000",
+        "01:31:50.722000",
+        "- Operation Garlic & Gunpowder was originally conceived by,"
+      ]
+    ],
+    "regex": "\\b((?!\\bGarlic\\ \\&\\ Gunpowder:)Garlic\\ \\&\\ Gunpowder)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

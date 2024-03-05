@@ -1,0 +1,42 @@
+[
+  {
+    "imdb": "tt0092240",
+    "title": "The Wraith",
+    "year": 1986,
+    "genres": [
+      "Action",
+      "Horror",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1033,
+    "occurrences": [
+      [
+        796,
+        "01:07:53.209000",
+        "01:07:56.796000",
+        "but now that there's that wraith out there that killed Oggie -"
+      ],
+      [
+        797,
+        "01:07:56.879000",
+        "01:08:00.424000",
+        "- A what out there, man? - A wraith, man! A ghost!"
+      ],
+      [
+        801,
+        "01:08:10.224000",
+        "01:08:12.726000",
+        "Well, I ain't got no beef against no wraith!"
+      ]
+    ],
+    "regex": "\\b((?!\\bWraith:)Wraith)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [
+      "The Wraith",
+      "Jake"
+    ],
+    "title_is_name": true,
+    "rating": 5.9
+  }
+]

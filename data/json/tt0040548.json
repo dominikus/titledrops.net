@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0040548",
+    "title": "Dulcimer Street",
+    "year": 1948,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1557,
+    "occurrences": [
+      [
+        0,
+        "00:01:35.240000",
+        "00:01:37.834000",
+        "Stand at the comer of Dulcimer Street,"
+      ],
+      [
+        574,
+        "00:36:44.840000",
+        "00:36:49.357000",
+        "- Name and address? - Doris Josser, 1O Dulcimer Street, SE11."
+      ],
+      [
+        850,
+        "00:56:30.440000",
+        "00:56:33.273000",
+        "I gather you have access to 1O Dulcimer Street."
+      ],
+      [
+        1280,
+        "01:27:16.520000",
+        "01:27:20.878000",
+        "You are Henry Ricardo Squales, of 1O Dulcimer Street, Southeast 11?"
+      ],
+      [
+        1548,
+        "01:45:51.480000",
+        "01:45:54.279000",
+        "No, I mean I wouldn't like to leave Dulcimer Street just now."
+      ],
+      [
+        1555,
+        "01:46:11.400000",
+        "01:46:13.914000",
+        "NARRATOR. Stand at the comer of Dulcimer Street,"
+      ]
+    ],
+    "regex": "\\b((?!\\bDulcimer\\ Street:)Dulcimer\\ Street)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

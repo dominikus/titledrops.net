@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt3709718",
+    "title": "Transit 17",
+    "year": 2019,
+    "genres": [
+      "Action"
+    ],
+    "count": 6,
+    "all_lines": 1634,
+    "occurrences": [
+      [
+        85,
+        "00:04:08.916000",
+        "00:04:10.816000",
+        "DEENA: There's a kid in Transit 17."
+      ],
+      [
+        117,
+        "00:05:25.993000",
+        "00:05:27.659000",
+        "Transit 17."
+      ],
+      [
+        251,
+        "00:10:22.956000",
+        "00:10:25.290000",
+        "Transit 17 is 75 clicks away"
+      ],
+      [
+        983,
+        "00:49:30.635000",
+        "00:49:32.034000",
+        "We're from the Transit Team."
+      ],
+      [
+        988,
+        "00:49:48.619000",
+        "00:49:51.187000",
+        "We're gonna take you to Transit 17."
+      ],
+      [
+        1188,
+        "00:58:12.656000",
+        "00:58:14.857000",
+        "this transit is about to break down."
+      ]
+    ],
+    "regex": "\\b((?!\\bTransit:)Transit)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3
+  }
+]

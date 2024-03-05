@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5309284",
+    "title": "Arshinagar",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1690,
+    "occurrences": [
+      [
+        26,
+        "00:05:07.480000",
+        "00:05:11",
+        "This then, is Arshinagar. Mirrorsville!"
+      ],
+      [
+        1189,
+        "01:35:21.680000",
+        "01:35:25.120000",
+        "Hey kafir! Arshinagar is going!"
+      ],
+      [
+        1192,
+        "01:35:29.080000",
+        "01:35:30.800000",
+        "If Arshinagar goes..."
+      ]
+    ],
+    "regex": "\\b((?!\\bArshinagar:)Arshinagar)(?!\\:)(?!'t)\\b",
+    "runtime": 141,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

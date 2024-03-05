@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0386752",
+    "title": "Rocket Brothers",
+    "year": 2003,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 423,
+    "occurrences": [
+      [
+        229,
+        "00:36:51.280000",
+        "00:36:54.200000",
+        "- What about what? - \"Rocket Brothers\"."
+      ],
+      [
+        231,
+        "00:36:58.040000",
+        "00:37:05.360000",
+        "I don't think \"Rocket Brothers\" is finished. I'd like to talk about that."
+      ]
+    ],
+    "regex": "\\b((?!\\bRocket\\ Brothers:)Rocket\\ Brothers)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

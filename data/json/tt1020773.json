@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1020773",
+    "title": "Certified Copy",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 573,
+    "occurrences": [
+      [
+        9,
+        "00:02:02.991000",
+        "00:02:04.182000",
+        "\"Certified Copy\""
+      ],
+      [
+        240,
+        "00:55:23.720000",
+        "00:55:25.995000",
+        "The certified copy of his father. There is nothing to do!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCertified\\ Copy:)Certified\\ Copy)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

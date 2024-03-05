@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0442286",
+    "title": "The Hidden Blade",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 772,
+    "occurrences": [
+      [
+        549,
+        "00:49:25.162000",
+        "00:49:30.759000",
+        "...to learn the esoteric arts of his school called 'The Hidden Blade'."
+      ],
+      [
+        551,
+        "00:49:33.270000",
+        "00:49:37.798000",
+        "I am sworn to silence about 'The Hidden Blade'."
+      ]
+    ],
+    "regex": "\\b((?!\\bHidden\\ Blade:)Hidden\\ Blade)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt7333982",
+    "title": "Basketball County: In the Water",
+    "year": 2020,
+    "genres": [
+      "Documentary",
+      "Sport"
+    ],
+    "count": 3,
+    "all_lines": 1215,
+    "occurrences": [
+      [
+        36,
+        "00:02:02.125000",
+        "00:02:03.417000",
+        "It gotta be in the water."
+      ],
+      [
+        37,
+        "00:02:03.500000",
+        "00:02:04.792000",
+        "It's just in the water. This is what we do."
+      ],
+      [
+        1207,
+        "00:50:09.291000",
+        "00:50:12.041000",
+        "It's just in the water."
+      ]
+    ],
+    "regex": "\\b((?!\\bBasketball\\ County:)Basketball\\ County|(?!\\bIn\\ the\\ Water:)In\\ the\\ Water)(?!\\:)(?!'t)\\b",
+    "runtime": 60,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

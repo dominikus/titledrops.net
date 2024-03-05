@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0038053",
+    "title": "Saratoga Trunk",
+    "year": 1945,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 2465,
+    "occurrences": [
+      [
+        1300,
+        "01:15:23.567000",
+        "01:15:25.501000",
+        "Why is this saratoga trunk worth millions?"
+      ],
+      [
+        1552,
+        "01:28:18.601000",
+        "01:28:21.033000",
+        "Tell me, what is the saratoga trunk?"
+      ],
+      [
+        1717,
+        "01:36:07.734000",
+        "01:36:09.767000",
+        "in that saratoga trunk line of yours"
+      ]
+    ],
+    "regex": "\\b((?!\\bSaratoga\\ Trunk:)Saratoga\\ Trunk)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

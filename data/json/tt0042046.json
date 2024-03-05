@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0042046",
+    "title": "The Window",
+    "year": 1949,
+    "genres": [
+      "Drama",
+      "Film-Noir",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 679,
+    "occurrences": [
+      [
+        77,
+        "00:12:10.501000",
+        "00:12:13.173000",
+        "-I didn't see anybody -Take a look out the window."
+      ],
+      [
+        140,
+        "00:19:46.750000",
+        "00:19:48.691000",
+        "But they did, I watched them through the window."
+      ],
+      [
+        220,
+        "00:27:21.012000",
+        "00:27:22.332000",
+        "I was looking through the window"
+      ],
+      [
+        235,
+        "00:28:00.705000",
+        "00:28:03.952000",
+        "I fell asleep and when I woke up, I looked through the window."
+      ],
+      [
+        363,
+        "00:35:32.755000",
+        "00:35:35.624000",
+        "If you go out of that window again, young man, you'd really be sorry"
+      ],
+      [
+        557,
+        "00:55:27.588000",
+        "00:55:30.458000",
+        "I was at the window I saw they kill him!"
+      ]
+    ],
+    "regex": "\\b((?!\\bWindow:)Window)(?!\\:)(?!'t)\\b",
+    "runtime": 73,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

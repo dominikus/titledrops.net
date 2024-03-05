@@ -1,0 +1,78 @@
+[
+  {
+    "imdb": "tt15559582",
+    "title": "Bezos",
+    "year": 2023,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 9,
+    "all_lines": 1645,
+    "occurrences": [
+      [
+        57,
+        "00:04:03.578000",
+        "00:04:05.245000",
+        "DAVID: Mr. Bezos, thanks for joining us."
+      ],
+      [
+        303,
+        "00:18:21.401000",
+        "00:18:23.538000",
+        "You're Jeff Bezos,"
+      ],
+      [
+        351,
+        "00:21:06.200000",
+        "00:21:07.835000",
+        "Hey, it's Jeff Bezos."
+      ],
+      [
+        583,
+        "00:34:28.670000",
+        "00:34:32.507000",
+        "Hey, Shel. How are you? Jeff Bezos."
+      ],
+      [
+        850,
+        "00:50:21.656000",
+        "00:50:23.691000",
+        "- WOMAN: Hi, your name? - Hi. Bezos."
+      ],
+      [
+        851,
+        "00:50:23.825000",
+        "00:50:25.459000",
+        "Bezos."
+      ],
+      [
+        876,
+        "00:51:40.001000",
+        "00:51:42.904000",
+        "Um, my name is Jeff, Jeff Bezos from Seattle, Washington,"
+      ],
+      [
+        893,
+        "00:52:25.947000",
+        "00:52:28.148000",
+        "- And you are? - Jeff. Jeff Bezos."
+      ],
+      [
+        1498,
+        "01:25:23.891000",
+        "01:25:25.893000",
+        "You really want to get into that, Mr. Bezos?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBezos:)Bezos)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [
+      "Jeff Bezos",
+      "Miguel Bezos"
+    ],
+    "title_is_name": true,
+    "rating": 4.3
+  }
+]

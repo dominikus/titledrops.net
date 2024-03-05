@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1548635",
+    "title": "Siren",
+    "year": 2010,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 792,
+    "occurrences": [
+      [
+        76,
+        "00:09:30.937000",
+        "00:09:33.064000",
+        "The siren's song"
+      ],
+      [
+        776,
+        "01:17:32.547000",
+        "01:17:36.506000",
+        "By a rattlesnake siren"
+      ]
+    ],
+    "regex": "\\b((?!\\bSiren:)Siren)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

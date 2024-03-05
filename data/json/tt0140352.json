@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0140352",
+    "title": "The Insider",
+    "year": 1999,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 963,
+    "occurrences": [
+      [
+        763,
+        "02:04:47.980000",
+        "02:04:50.608000",
+        "We learned of a tobacco insider who could tell us..."
+      ],
+      [
+        764,
+        "02:04:54.753000",
+        "02:04:56.687000",
+        "That insider was formerly..."
+      ]
+    ],
+    "regex": "\\b((?!\\bInsider:)Insider)(?!\\:)(?!'t)\\b",
+    "runtime": 157,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

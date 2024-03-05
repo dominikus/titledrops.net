@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0969307",
+    "title": "The Visitor",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 59,
+    "occurrences": [
+      [
+        0,
+        "00:00:36.799000",
+        "00:00:41.400000",
+        "The visitor"
+      ],
+      [
+        7,
+        "00:32:51.599000",
+        "00:32:54.080000",
+        "Have we got a visitor?"
+      ],
+      [
+        29,
+        "00:48:53",
+        "00:48:55.720000",
+        "No problem with the visitor?"
+      ]
+    ],
+    "regex": "\\b((?!\\bVisitor:)Visitor)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

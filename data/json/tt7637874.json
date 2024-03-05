@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt7637874",
+    "title": "Cold November",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 744,
+    "occurrences": [
+      [
+        30,
+        "00:04:21.166000",
+        "00:04:27.333000",
+        "The cold November"
+      ],
+      [
+        321,
+        "00:38:48.666000",
+        "00:38:52.291000",
+        "-Beautiful, what is this? -It's Cold November."
+      ],
+      [
+        717,
+        "01:28:52.583000",
+        "01:28:59.166000",
+        "The cold November"
+      ],
+      [
+        719,
+        "01:29:07.083000",
+        "01:29:13.458000",
+        "The cold November"
+      ]
+    ],
+    "regex": "\\b((?!\\bCold\\ November:)Cold\\ November)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

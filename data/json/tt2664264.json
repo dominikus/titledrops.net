@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2664264",
+    "title": "Thermae Romae II",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1147,
+    "occurrences": [
+      [
+        17,
+        "00:01:43.831000",
+        "00:01:51.831000",
+        "\"Thermae Romae\""
+      ],
+      [
+        1114,
+        "01:42:57.607000",
+        "01:42:58.807000",
+        "Thermae Romae"
+      ],
+      [
+        1137,
+        "01:44:56.226000",
+        "01:45:03.233000",
+        "Based on the comic by Mari Yamazaki THERMAE ROMAE (ENTERBRAIN)"
+      ]
+    ],
+    "regex": "\\b((?!\\bThermae\\ Romae:)Thermae\\ Romae)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

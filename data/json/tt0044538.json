@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0044538",
+    "title": "Derby Day",
+    "year": 1952,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 2208,
+    "occurrences": [
+      [
+        3,
+        "00:01:54.124000",
+        "00:01:56.082000",
+        "Derby Day has just begun."
+      ],
+      [
+        1466,
+        "00:55:02.207000",
+        "00:55:04.267000",
+        "who have come here to spend Derby Day"
+      ],
+      [
+        2207,
+        "01:25:01.666000",
+        "01:25:04.142000",
+        "Derby Day is over."
+      ]
+    ],
+    "regex": "\\b((?!\\bDerby\\ Day:)Derby\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

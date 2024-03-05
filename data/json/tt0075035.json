@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0075035",
+    "title": "Panic",
+    "year": 1982,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 905,
+    "occurrences": [
+      [
+        198,
+        "00:20:33.792000",
+        "00:20:35.458000",
+        "We must avoid a panic."
+      ],
+      [
+        234,
+        "00:22:31.914000",
+        "00:22:33.113000",
+        "And that could easily cause panic"
+      ],
+      [
+        364,
+        "00:32:22.863000",
+        "00:32:25.362000",
+        "And be careful of startling a panic too!"
+      ],
+      [
+        486,
+        "00:45:56.515000",
+        "00:45:58.348000",
+        "Panic spreading at Newton!"
+      ]
+    ],
+    "regex": "\\b((?!\\bPanic:)Panic)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

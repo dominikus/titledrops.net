@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt3704050",
+    "title": "Remember",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1122,
+    "occurrences": [
+      [
+        28,
+        "00:03:27.724000",
+        "00:03:30.351000",
+        "Do you remember what you said you would do"
+      ],
+      [
+        35,
+        "00:03:47.077000",
+        "00:03:48.536000",
+        "could remember."
+      ],
+      [
+        530,
+        "00:42:52.086000",
+        "00:42:54.171000",
+        "Oh, you already paid me, remember?"
+      ],
+      [
+        876,
+        "01:08:49.559000",
+        "01:08:52.352000",
+        "although you did not remember me."
+      ],
+      [
+        989,
+        "01:18:15.249000",
+        "01:18:17.459000",
+        "I cannot even remember when."
+      ],
+      [
+        1103,
+        "01:26:03.258000",
+        "01:26:04.675000",
+        "I remember."
+      ]
+    ],
+    "regex": "\\b((?!\\bRemember:)Remember)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3687304",
+    "title": "The Driftless Area",
+    "year": 2015,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1305,
+    "occurrences": [
+      [
+        95,
+        "00:07:52.923000",
+        "00:07:55.597000",
+        "Pierre Hunter and I grew up in the Driftless Area..."
+      ],
+      [
+        97,
+        "00:07:57.995000",
+        "00:08:01.340000",
+        "They say the last of the glaciers steered around the Driftless Area..."
+      ]
+    ],
+    "regex": "\\b((?!\\bDriftless\\ Area:)Driftless\\ Area)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

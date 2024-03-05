@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0083190",
+    "title": "Thief",
+    "year": 1981,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 940,
+    "occurrences": [
+      [
+        269,
+        "00:33:42.281000",
+        "00:33:45.615000",
+        "- I'm a thief. I've been in prison. - So what? l don't care."
+      ],
+      [
+        383,
+        "00:41:18.362000",
+        "00:41:21.316000",
+        "He's a master thief, a master,"
+      ]
+    ],
+    "regex": "\\b((?!\\bThief:)Thief)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

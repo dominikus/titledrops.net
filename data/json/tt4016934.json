@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt4016934",
+    "title": "The Handmaiden",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1259,
+    "occurrences": [
+      [
+        19,
+        "00:03:59.187000",
+        "00:04:01.607000",
+        "As the Lady's handmaiden, you won't sleep there."
+      ],
+      [
+        55,
+        "00:07:36.067000",
+        "00:07:41.107000",
+        "You think I'm Tamako, a poor Korean handmaiden."
+      ],
+      [
+        196,
+        "00:20:45.607000",
+        "00:20:47.437000",
+        "My new handmaiden."
+      ],
+      [
+        544,
+        "00:59:25.187000",
+        "00:59:26.687000",
+        "I am the Lady's handmaiden."
+      ],
+      [
+        560,
+        "01:01:34.727000",
+        "01:01:38.777000",
+        "She still believes she's a Korean handmaiden."
+      ]
+    ],
+    "regex": "\\b((?!\\bHandmaiden:)Handmaiden)(?!\\:)(?!'t)\\b",
+    "runtime": 145,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

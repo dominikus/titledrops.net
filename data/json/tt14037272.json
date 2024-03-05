@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt14037272",
+    "title": "The System",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "count": 5,
+    "all_lines": 1167,
+    "occurrences": [
+      [
+        292,
+        "00:28:16.230000",
+        "00:28:19.600000",
+        "Well, you're inside the system now, soldier."
+      ],
+      [
+        306,
+        "00:28:55.803000",
+        "00:28:57.070000",
+        "in this system?"
+      ],
+      [
+        536,
+        "00:45:58.225000",
+        "00:46:00.494000",
+        "they are creating a new system."
+      ],
+      [
+        540,
+        "00:46:16.643000",
+        "00:46:18.712000",
+        "We can fight this corrupt system together."
+      ],
+      [
+        1076,
+        "01:27:53.274000",
+        "01:27:54.607000",
+        "You're in the system now"
+      ]
+    ],
+    "regex": "\\b((?!\\bSystem:)System)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

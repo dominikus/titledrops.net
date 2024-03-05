@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1176731",
+    "title": "Lilly the Witch: The Dragon and the Magic Book",
+    "year": 2009,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 846,
+    "occurrences": [
+      [
+        250,
+        "00:24:28.703000",
+        "00:24:31.695000",
+        "Lilly the Witch..."
+      ],
+      [
+        268,
+        "00:25:53.855000",
+        "00:25:57.154000",
+        "Lilly the Witch, we..."
+      ],
+      [
+        457,
+        "00:40:29.296000",
+        "00:40:33.790000",
+        "Thanks, Lilly the Witch! That is, ex-witch! Serafim!"
+      ]
+    ],
+    "regex": "\\b((?!\\bLilly\\ the\\ Witch:)Lilly\\ the\\ Witch|(?!\\bDragon\\ and\\ the\\ Magic\\ Book:)Dragon\\ and\\ the\\ Magic\\ Book)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

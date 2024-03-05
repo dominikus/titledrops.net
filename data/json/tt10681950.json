@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt10681950",
+    "title": "The Tree House",
+    "year": 2019,
+    "genres": [
+      "Documentary",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 519,
+    "occurrences": [
+      [
+        115,
+        "00:16:12.750000",
+        "00:16:14.166000",
+        "It was their tree house."
+      ],
+      [
+        334,
+        "00:46:58.875000",
+        "00:47:02.041000",
+        "His tree house is no longer there, They burnt it all."
+      ]
+    ],
+    "regex": "\\b((?!\\bTree\\ House:)Tree\\ House)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

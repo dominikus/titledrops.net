@@ -1,0 +1,25 @@
+[
+  {
+    "imdb": "tt0118577",
+    "title": "An Alan Smithee Film: Burn Hollywood Burn",
+    "year": 1997,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 1,
+    "all_lines": 1418,
+    "occurrences": [
+      [
+        1276,
+        "01:15:16.245000",
+        "01:15:19.547000",
+        "AND THE POSSESSORY CREDIT ON THE MOVIE, \"AN ALAN SMITHEE FILM,\""
+      ]
+    ],
+    "regex": "\\b((?!\\bAlan\\ Smithee\\ Film:)Alan\\ Smithee\\ Film|(?!\\bBurn\\ Hollywood\\ Burn:)Burn\\ Hollywood\\ Burn)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

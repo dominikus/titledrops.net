@@ -1,0 +1,52 @@
+[
+  {
+    "imdb": "tt10545696",
+    "title": "Maigret",
+    "year": 2022,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1136,
+    "occurrences": [
+      [
+        76,
+        "00:10:13.042000",
+        "00:10:14.625000",
+        "Chief Inspector Maigret?"
+      ],
+      [
+        293,
+        "00:22:55.833000",
+        "00:22:59.500000",
+        "Maigret, Homicide Department. 36 Quai des Orfevres."
+      ],
+      [
+        642,
+        "00:49:14.625000",
+        "00:49:16.833000",
+        "- Sir? - Chief Inspector Maigret."
+      ],
+      [
+        743,
+        "00:54:58.875000",
+        "00:55:01.250000",
+        "Do you have any animals, Maigret?"
+      ],
+      [
+        1007,
+        "01:13:30.375000",
+        "01:13:32.625000",
+        "These alleged parties, Mr. Maigret."
+      ]
+    ],
+    "regex": "\\b((?!\\bMaigret:)Maigret)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [
+      "Jules Maigret"
+    ],
+    "title_is_name": true,
+    "rating": 5.9
+  }
+]

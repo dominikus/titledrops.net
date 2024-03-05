@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0104740",
+    "title": "Little Nemo: Adventures in Slumberland",
+    "year": 1989,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 1335,
+    "occurrences": [
+      [
+        117,
+        "00:13:10.960000",
+        "00:13:13.960000",
+        "Do I have the honor of addressing little Nemo?"
+      ],
+      [
+        133,
+        "00:13:51.500000",
+        "00:13:58.319000",
+        "and his daughter, Princess Camille, extend this invitation to little Nemo to visit our Slumberland."
+      ],
+      [
+        224,
+        "00:19:06.020000",
+        "00:19:09.640000",
+        "Little Nemo, to see His Majesty!"
+      ],
+      [
+        327,
+        "00:24:35.240000",
+        "00:24:37.820000",
+        "Your Majesty, may I present Little Nemo?"
+      ],
+      [
+        369,
+        "00:26:52.820000",
+        "00:26:55.600000",
+        "May I present, Little Nemo?"
+      ],
+      [
+        1282,
+        "01:28:23.980000",
+        "01:28:29.280000",
+        "Quite the prince you've become, my little Nemo."
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Nemo:)Little\\ Nemo|(?!\\bAdventures\\ in\\ Slumberland:)Adventures\\ in\\ Slumberland)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

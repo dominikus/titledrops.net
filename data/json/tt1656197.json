@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1656197",
+    "title": "The Speak",
+    "year": 2011,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1568,
+    "occurrences": [
+      [
+        201,
+        "00:07:34.557000",
+        "00:07:37.257000",
+        "Just go ahead and speak right in the camera for me."
+      ],
+      [
+        822,
+        "00:32:41.961000",
+        "00:32:44.628000",
+        "This ritual is called the speak."
+      ],
+      [
+        938,
+        "00:38:27.556000",
+        "00:38:29.921000",
+        "known as the speak."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpeak:)Speak)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

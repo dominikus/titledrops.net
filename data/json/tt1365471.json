@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt1365471",
+    "title": "The Christmas Party",
+    "year": 2009,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 882,
+    "occurrences": [
+      [
+        102,
+        "00:09:58.440000",
+        "00:10:03.389000",
+        "Well, Nico. I hear the Christmas party is tonight. Sounds awfully nice."
+      ],
+      [
+        219,
+        "00:19:08.320000",
+        "00:19:13.633000",
+        "So, your mom let you come to the Christmas party after all?"
+      ],
+      [
+        260,
+        "00:22:47.480000",
+        "00:22:51.155000",
+        "Welcome everyone to our grand Christmas party."
+      ],
+      [
+        306,
+        "00:26:22.160000",
+        "00:26:27.154000",
+        "- You got that last part right! - Nico! This is a Christmas party."
+      ],
+      [
+        323,
+        "00:28:38.800000",
+        "00:28:43.112000",
+        "Yes... oh, Right! The Christmas party, of course!"
+      ]
+    ],
+    "regex": "\\b((?!\\bChristmas\\ Party:)Christmas\\ Party)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

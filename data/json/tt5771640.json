@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt5771640",
+    "title": "A Wedding",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 861,
+    "occurrences": [
+      [
+        184,
+        "00:19:33.320000",
+        "00:19:36.608000",
+        "I was stressed on our wedding day, like a madman."
+      ],
+      [
+        732,
+        "01:14:48.240000",
+        "01:14:51.289000",
+        "For the ceremony. Your wedding ceremony."
+      ],
+      [
+        736,
+        "01:15:01.360000",
+        "01:15:04.967000",
+        "I didn't know. You knew the wedding would be held there."
+      ]
+    ],
+    "regex": "\\b((?!\\bWedding:)Wedding)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

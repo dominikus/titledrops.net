@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0116404",
+    "title": "Get on the Bus",
+    "year": 1996,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1032,
+    "occurrences": [
+      [
+        11,
+        "00:03:48.861000",
+        "00:03:51.193000",
+        "So let's get on the bus, okay?"
+      ],
+      [
+        43,
+        "00:05:42.875000",
+        "00:05:47.505000",
+        "Come on. Anybody else going to the Million Man March, get on the bus!"
+      ]
+    ],
+    "regex": "\\b((?!\\bGet\\ on\\ the\\ Bus:)Get\\ on\\ the\\ Bus)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

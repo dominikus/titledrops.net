@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt7612146",
+    "title": "Hotel Inferno 3: The Castle of Screams",
+    "year": 2021,
+    "genres": [
+      "Horror"
+    ],
+    "count": 7,
+    "all_lines": 403,
+    "occurrences": [
+      [
+        56,
+        "00:04:54.420000",
+        "00:05:00.760000",
+        "We need to get to the Castle of Screams where we'll find the Ice element, and the Keeper who protects it."
+      ],
+      [
+        61,
+        "00:05:14.607000",
+        "00:05:19.070000",
+        "We'll reach the Castle of Screams and the frozen borough before you can say \"borough\""
+      ],
+      [
+        67,
+        "00:06:42.194000",
+        "00:06:43.654000",
+        "Hotel Inferno"
+      ],
+      [
+        70,
+        "00:06:54.206000",
+        "00:06:58.878000",
+        "As I was saying, this Hotel Inferno is not pure Hell"
+      ],
+      [
+        74,
+        "00:07:18.314000",
+        "00:07:22.652000",
+        "The Mistrandia family and their cult created Hotel Inferno during the Middle Ages."
+      ],
+      [
+        207,
+        "00:27:16.511000",
+        "00:27:22.183000",
+        "There's a secret passage in the Castle of Screams. It leads to the frozen borough."
+      ],
+      [
+        209,
+        "00:27:30.692000",
+        "00:27:33.862000",
+        "Welcome to the Castle of Screams."
+      ]
+    ],
+    "regex": "\\b((?!\\bHotel\\ Inferno:)Hotel\\ Inferno|(?!\\bCastle\\ of\\ Screams:)Castle\\ of\\ Screams)(?!\\:)(?!'t)\\b",
+    "runtime": 68,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

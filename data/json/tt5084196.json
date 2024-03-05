@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5084196",
+    "title": "Kizumonogatari Part 2: Nekketsu",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Animation",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 872,
+    "occurrences": [
+      [
+        16,
+        "00:01:24.890000",
+        "00:01:28.960000",
+        "Kizumonogatari"
+      ],
+      [
+        18,
+        "00:01:24.890000",
+        "00:01:33.029000",
+        "(Nekketsu-hen)"
+      ],
+      [
+        866,
+        "01:07:54.501000",
+        "01:07:56.100000",
+        "Kizumonogatari"
+      ]
+    ],
+    "regex": "\\b((?!\\bKizumonogatari:)Kizumonogatari|(?!\\bNekketsu:)Nekketsu)(?!\\:)(?!'t)\\b",
+    "runtime": 68,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

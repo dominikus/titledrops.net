@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0098139",
+    "title": "Warsaw Bridge",
+    "year": 1990,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 514,
+    "occurrences": [
+      [
+        147,
+        "00:20:12.035000",
+        "00:20:13.306000",
+        "\"Warsaw Bridge\"."
+      ],
+      [
+        249,
+        "00:35:19.582000",
+        "00:35:21.622000",
+        "and went by the Warsaw Bridge."
+      ],
+      [
+        260,
+        "00:35:59.972000",
+        "00:36:01.572000",
+        "the Warsaw Bridge,"
+      ],
+      [
+        489,
+        "01:14:34.463000",
+        "01:14:37.238000",
+        "You use your past, your shitty Warsaw Bridge,"
+      ]
+    ],
+    "regex": "\\b((?!\\bWarsaw\\ Bridge:)Warsaw\\ Bridge)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

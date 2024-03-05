@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt9182934",
+    "title": "Surviving Lunch",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1585,
+    "occurrences": [
+      [
+        767,
+        "00:34:44.800000",
+        "00:34:47.753000",
+        "My whole existence has become about surviving lunch."
+      ],
+      [
+        1506,
+        "01:09:19.690000",
+        "01:09:23.170000",
+        "when going to class or even just surviving lunch"
+      ]
+    ],
+    "regex": "\\b((?!\\bSurviving\\ Lunch:)Surviving\\ Lunch)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

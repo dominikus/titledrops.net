@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0048966",
+    "title": "Attack",
+    "year": 1956,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1211,
+    "occurrences": [
+      [
+        14,
+        "00:01:52.670000",
+        "00:01:55.710000",
+        "Attack from your side, take the heat off of Ingersoll."
+      ],
+      [
+        863,
+        "01:11:15.190000",
+        "01:11:17.680000",
+        "- Now we got big trouble. - They won't attack."
+      ]
+    ],
+    "regex": "\\b((?!\\bAttack:)Attack)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

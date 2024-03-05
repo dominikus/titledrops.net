@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0075144",
+    "title": "The Ritz",
+    "year": 1976,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1410,
+    "occurrences": [
+      [
+        323,
+        "00:21:23.365000",
+        "00:21:26.968000",
+        "Now, I believe you said we'd find him at The Ritz."
+      ],
+      [
+        644,
+        "00:40:39.954000",
+        "00:40:42.589000",
+        "And now, on the great Ritz stage..."
+      ],
+      [
+        813,
+        "00:53:05.264000",
+        "00:53:10.064000",
+        "- a Ritz softball team, contact Howard. - I'm resting."
+      ],
+      [
+        1135,
+        "01:12:07.205000",
+        "01:12:10.107000",
+        "Just a reminder, it is amateur night at The Ritz."
+      ]
+    ],
+    "regex": "\\b((?!\\bRitz:)Ritz)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

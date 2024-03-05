@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt13986904",
+    "title": "Hero",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 986,
+    "occurrences": [
+      [
+        11,
+        "00:04:13.465000",
+        "00:04:18.012000",
+        "'I will tell you a story, I am the hero, and she is the heroine.'"
+      ],
+      [
+        12,
+        "00:04:19.186000",
+        "00:04:21.933000",
+        "'I did only one thing to be called a hero,'"
+      ],
+      [
+        907,
+        "01:44:11.792000",
+        "01:44:15.125000",
+        "'we are playing \"Nenapina Hudugiye\" song from the movie 'Hero'.'"
+      ]
+    ],
+    "regex": "\\b((?!\\bHero:)Hero)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [
+      "Hero",
+      "Heroine"
+    ],
+    "title_is_name": true,
+    "rating": 6.4
+  }
+]

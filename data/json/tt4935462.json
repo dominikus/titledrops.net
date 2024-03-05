@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4935462",
+    "title": "Amazing Grace",
+    "year": 2018,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1114,
+    "occurrences": [
+      [
+        471,
+        "00:40:37.468000",
+        "00:40:43.940000",
+        "Amazing grace"
+      ],
+      [
+        524,
+        "00:45:26.824000",
+        "00:45:32.128000",
+        "Amazing grace"
+      ]
+    ],
+    "regex": "\\b((?!\\bAmazing\\ Grace:)Amazing\\ Grace)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

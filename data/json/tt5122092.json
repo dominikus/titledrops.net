@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt5122092",
+    "title": "House of Salem",
+    "year": 2016,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1129,
+    "occurrences": [
+      [
+        196,
+        "00:18:17.530000",
+        "00:18:19.766000",
+        "All communications to House of Salem"
+      ],
+      [
+        837,
+        "01:07:06.990000",
+        "01:07:09.759000",
+        "And the House of Salem is definitely one of them."
+      ],
+      [
+        848,
+        "01:07:51.268000",
+        "01:07:54.604000",
+        "He built the House of Salem on the confluence"
+      ]
+    ],
+    "regex": "\\b((?!\\bHouse\\ of\\ Salem:)House\\ of\\ Salem)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

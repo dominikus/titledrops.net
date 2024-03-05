@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0186827",
+    "title": "The Arnauds",
+    "year": 1967,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1508,
+    "occurrences": [
+      [
+        181,
+        "00:13:30.405000",
+        "00:13:33.929000",
+        "even though Arnauds in Provence are as a common as Duponts in Paris."
+      ],
+      [
+        1419,
+        "01:26:08.792000",
+        "01:26:11.355000",
+        "The Arnauds use to have a lively young cook."
+      ]
+    ],
+    "regex": "\\b((?!\\bArnauds:)Arnauds)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

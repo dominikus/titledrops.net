@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0120190",
+    "title": "Sprung",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 2274,
+    "occurrences": [
+      [
+        41,
+        "00:02:52.417000",
+        "00:02:54.625000",
+        "Well, you know how it is when a brother gets sprung."
+      ],
+      [
+        828,
+        "00:41:08.417000",
+        "00:41:10.959000",
+        "What are you saying, you're sprung?"
+      ],
+      [
+        829,
+        "00:41:11.041000",
+        "00:41:13.834000",
+        "I know you ain't sprung. Are you sprung on that fool?"
+      ],
+      [
+        1107,
+        "00:56:18.625000",
+        "00:56:19.834000",
+        "You get sprung when every woman"
+      ]
+    ],
+    "regex": "\\b((?!\\bSprung:)Sprung)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

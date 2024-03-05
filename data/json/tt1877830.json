@@ -1,0 +1,36 @@
+[
+  {
+    "imdb": "tt1877830",
+    "title": "The Batman",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2418,
+    "occurrences": [
+      [
+        264,
+        "00:22:03.181000",
+        "00:22:04.973000",
+        "The killer left this for the Batman?"
+      ],
+      [
+        2000,
+        "02:14:39.264000",
+        "02:14:40.681000",
+        "The Batman."
+      ]
+    ],
+    "regex": "\\b((?!\\bBatman:)Batman)(?!\\:)(?!'t)\\b",
+    "runtime": 177,
+    "characters": [
+      "Bruce Wayne",
+      "The Batman"
+    ],
+    "title_is_name": true,
+    "rating": 7.8
+  }
+]

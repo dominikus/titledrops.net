@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0092933",
+    "title": "Dudes",
+    "year": 1987,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1121,
+    "occurrences": [
+      [
+        186,
+        "00:13:57.963000",
+        "00:13:59.632000",
+        "Check it out, dudes."
+      ],
+      [
+        776,
+        "00:53:57.319000",
+        "00:54:01.239000",
+        "I saw this movie once about these scientist dudes"
+      ],
+      [
+        810,
+        "00:56:38.104000",
+        "00:56:40.857000",
+        "It's open. Hey, dudes, what's happening?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDudes:)Dudes)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

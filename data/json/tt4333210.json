@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt4333210",
+    "title": "The Outfield",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1367,
+    "occurrences": [
+      [
+        46,
+        "00:04:00.941000",
+        "00:04:02.774000",
+        "Outfield!"
+      ],
+      [
+        293,
+        "00:15:40.507000",
+        "00:15:42.974000",
+        "We're the Outfield. I need them."
+      ],
+      [
+        394,
+        "00:20:39.005000",
+        "00:20:41.239000",
+        "And break up the Outfield? Hell, no."
+      ],
+      [
+        732,
+        "00:39:48.453000",
+        "00:39:49.753000",
+        "Plus, they pulled Jack from the Outfield."
+      ],
+      [
+        916,
+        "00:50:32.663000",
+        "00:50:36.365000",
+        "He's a part of the Outfield. Oh, yes. Jack Sanders."
+      ]
+    ],
+    "regex": "\\b((?!\\bOutfield:)Outfield)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

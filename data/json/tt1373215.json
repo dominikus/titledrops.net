@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1373215",
+    "title": "Recep Ivedik 2",
+    "year": 2009,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1826,
+    "occurrences": [
+      [
+        3,
+        "00:02:45",
+        "00:02:47.200000",
+        "It's me, your grandson Recep Ivedik."
+      ],
+      [
+        1409,
+        "01:21:13.800000",
+        "01:21:17.600000",
+        "...my business partner, Recep Ivedik."
+      ],
+      [
+        1410,
+        "01:21:18.400000",
+        "01:21:21.400000",
+        "For this reason, I think that Recep Ivedik should be taking this stage instead of me."
+      ],
+      [
+        1419,
+        "01:21:59.700000",
+        "01:22:02.500000",
+        "And here he is, Recep Ivedik."
+      ]
+    ],
+    "regex": "\\b((?!\\bRecep\\ Ivedik:)Recep\\ Ivedik)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

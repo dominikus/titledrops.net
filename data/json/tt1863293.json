@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1863293",
+    "title": "Khibula",
+    "year": 2017,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 384,
+    "occurrences": [
+      [
+        366,
+        "01:32:41.875000",
+        "01:32:43.369000",
+        "To Khibula."
+      ],
+      [
+        369,
+        "01:35:12.365000",
+        "01:35:15.869000",
+        "Zviad Gamsakhurdia, died in an abandoned building in Khibula."
+      ]
+    ],
+    "regex": "\\b((?!\\bKhibula:)Khibula)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

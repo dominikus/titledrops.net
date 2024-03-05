@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0040636",
+    "title": "The Naked City",
+    "year": 1948,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 2,
+    "all_lines": 1382,
+    "occurrences": [
+      [
+        1,
+        "00:00:32.098000",
+        "00:00:36.592000",
+        "the motion picture you are about to see is called The Naked City."
+      ],
+      [
+        1381,
+        "01:34:23.958000",
+        "01:34:28.793000",
+        "There are eight million stories in the naked city."
+      ]
+    ],
+    "regex": "\\b((?!\\bNaked\\ City:)Naked\\ City)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

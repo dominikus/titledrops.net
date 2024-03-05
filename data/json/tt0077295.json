@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0077295",
+    "title": "The Escape",
+    "year": 1978,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 736,
+    "occurrences": [
+      [
+        73,
+        "00:14:19.960000",
+        "00:14:23.919000",
+        "succeeded in making his client escape... - Stop, I have to explain them everything!"
+      ],
+      [
+        227,
+        "00:36:25.479000",
+        "00:36:28.551000",
+        "...helped to escape his client, Martial Gaulard,"
+      ],
+      [
+        579,
+        "01:10:52.880000",
+        "01:10:57.510000",
+        "in the Rolls. If you say \"yes\", he'll return to prison. If \"no\", he'll escape."
+      ]
+    ],
+    "regex": "\\b((?!\\bEscape:)Escape)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

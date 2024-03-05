@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0085529",
+    "title": "My Best Friend's Girl",
+    "year": 1983,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 973,
+    "occurrences": [
+      [
+        0,
+        "00:00:47.688000",
+        "00:00:50.400000",
+        "My Best Friend's Girl"
+      ],
+      [
+        288,
+        "00:25:15.800000",
+        "00:25:16.999000",
+        "my best friend's girl"
+      ],
+      [
+        488,
+        "00:43:08.225000",
+        "00:43:09.834000",
+        "She's my best friend's girl."
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Best\\ Friend's\\ Girl:)My\\ Best\\ Friend's\\ Girl)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

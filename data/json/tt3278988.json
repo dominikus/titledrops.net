@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt3278988",
+    "title": "The Triangle",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 1532,
+    "occurrences": [
+      [
+        218,
+        "00:14:05.677000",
+        "00:14:09.615000",
+        "Two, no booze in the Triangle of Ragnarok,"
+      ],
+      [
+        305,
+        "00:18:23.768000",
+        "00:18:26.137000",
+        "so anything inside the Triangle,"
+      ],
+      [
+        308,
+        "00:18:31.675000",
+        "00:18:33.912000",
+        "Why do you call it the Triangle?"
+      ],
+      [
+        309,
+        "00:18:33.944000",
+        "00:18:36.514000",
+        "'cause it's like a triangle."
+      ],
+      [
+        417,
+        "00:23:29.240000",
+        "00:23:31.142000",
+        "\"If your squirrelly friend brings that into the Triangle"
+      ]
+    ],
+    "regex": "\\b((?!\\bTriangle:)Triangle)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

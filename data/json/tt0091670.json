@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0091670",
+    "title": "The Sacrifice",
+    "year": 1986,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1200,
+    "occurrences": [
+      [
+        373,
+        "01:30:01.541000",
+        "01:30:04.250000",
+        "I know it's no sacrifice, but..."
+      ],
+      [
+        374,
+        "01:30:04.375000",
+        "01:30:08.375000",
+        "And why shouldn't it be? Of course it's a sacrifice!"
+      ],
+      [
+        375,
+        "01:30:10.666000",
+        "01:30:13.750000",
+        "Every gift involves a sacrifice."
+      ]
+    ],
+    "regex": "\\b((?!\\bSacrifice:)Sacrifice)(?!\\:)(?!'t)\\b",
+    "runtime": 207,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

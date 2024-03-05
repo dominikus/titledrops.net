@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt9016006",
+    "title": "Alpha: The Right to Kill",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 564,
+    "occurrences": [
+      [
+        68,
+        "00:08:22.960000",
+        "00:08:24.960000",
+        "- Whose alpha is this? - Mine, sir."
+      ],
+      [
+        164,
+        "00:33:09.960000",
+        "00:33:14.360000",
+        "I learned from my Alpha that Abel was there"
+      ],
+      [
+        292,
+        "00:50:10.640000",
+        "00:50:12.200000",
+        "Sir, I secured my alpha."
+      ],
+      [
+        563,
+        "01:26:07.680000",
+        "01:26:11.920000",
+        "ALPHA, THE RIGHT TO KILL"
+      ]
+    ],
+    "regex": "\\b((?!\\bAlpha:)Alpha|(?!\\bRight\\ to\\ Kill:)Right\\ to\\ Kill)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

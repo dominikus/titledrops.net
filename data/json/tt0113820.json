@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0113820",
+    "title": "Mighty Morphin Power Rangers",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 876,
+    "occurrences": [
+      [
+        237,
+        "00:18:30.320000",
+        "00:18:35.720000",
+        "# Mighty Morphin Power Rangers #"
+      ],
+      [
+        771,
+        "01:14:13.440000",
+        "01:14:16.440000",
+        "# Mighty Morphin Power Rangers #"
+      ]
+    ],
+    "regex": "\\b((?!\\bMighty\\ Morphin\\ Power\\ Rangers:)Mighty\\ Morphin\\ Power\\ Rangers)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt0083124",
+    "title": "Station",
+    "year": 1981,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 1213,
+    "occurrences": [
+      [
+        257,
+        "00:23:27.522000",
+        "00:23:32.153000",
+        "She works in the Kazemachi tavern, near Mashike station."
+      ],
+      [
+        397,
+        "00:32:35.470000",
+        "00:32:40.704000",
+        "Rumoi... Rumoi station..."
+      ],
+      [
+        521,
+        "00:45:53.067000",
+        "00:45:58.529000",
+        "Sunagawa station. Change to Kamisunagawa on platform 4."
+      ],
+      [
+        535,
+        "00:47:22.556000",
+        "00:47:24.047000",
+        "The station is surrounded!"
+      ],
+      [
+        595,
+        "01:00:55.435000",
+        "01:00:58.701000",
+        "'Now I proceed to the station's lights full of trust.'"
+      ],
+      [
+        694,
+        "01:14:02.087000",
+        "01:14:03.419000",
+        "You were at the station..."
+      ],
+      [
+        1069,
+        "01:52:40.804000",
+        "01:52:45.299000",
+        "Rumoi, Rumoi Station..."
+      ]
+    ],
+    "regex": "\\b((?!\\bStation:)Station)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

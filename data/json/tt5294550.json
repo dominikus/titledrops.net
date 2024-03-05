@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5294550",
+    "title": "All the Money in the World",
+    "year": 2017,
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1494,
+    "occurrences": [
+      [
+        89,
+        "00:10:50.316000",
+        "00:10:52.239000",
+        "He has all the money in the world."
+      ],
+      [
+        1360,
+        "01:46:57.077000",
+        "01:46:58.579000",
+        "You could have all the money in the world,"
+      ]
+    ],
+    "regex": "\\b((?!\\bAll\\ the\\ Money\\ in\\ the\\ World:)All\\ the\\ Money\\ in\\ the\\ World)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

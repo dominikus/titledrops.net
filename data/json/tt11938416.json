@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt11938416",
+    "title": "The Black Square",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 5,
+    "all_lines": 867,
+    "occurrences": [
+      [
+        173,
+        "00:17:08.667000",
+        "00:17:12.417000",
+        "-A black square. - I would've stolen something nicer."
+      ],
+      [
+        386,
+        "00:41:07.833000",
+        "00:41:12.125000",
+        "He said the people wouldn't understand the Black Square,"
+      ],
+      [
+        390,
+        "00:41:23",
+        "00:41:25.750000",
+        "That's what makes the Black Square so special."
+      ],
+      [
+        392,
+        "00:41:38.875000",
+        "00:41:42.125000",
+        "The Black Square is a confession to grief for me,"
+      ],
+      [
+        696,
+        "01:13:07.667000",
+        "01:13:12.458000",
+        "Yes, I do! I'll find the Black Square and make everything right again."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Square:)Black\\ Square)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

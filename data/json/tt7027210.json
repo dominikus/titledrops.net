@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt7027210",
+    "title": "First Man",
+    "year": 2017,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 923,
+    "occurrences": [
+      [
+        22,
+        "00:02:08.753000",
+        "00:02:11.420000",
+        "and gave birth to the first man."
+      ],
+      [
+        452,
+        "00:43:23.267000",
+        "00:43:26.850000",
+        "Is he an Australopithecus or the first man?"
+      ],
+      [
+        856,
+        "01:25:20.118000",
+        "01:25:24.201000",
+        "The first man is the one that can tell his story."
+      ]
+    ],
+    "regex": "\\b((?!\\bFirst\\ Man:)First\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

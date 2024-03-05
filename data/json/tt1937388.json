@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt1937388",
+    "title": "The Millionaire Tour",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 1446,
+    "occurrences": [
+      [
+        203,
+        "00:09:44.602000",
+        "00:09:47.342000",
+        "Oh, better a tour in a city than a millionaire tour."
+      ],
+      [
+        205,
+        "00:09:48.879000",
+        "00:09:50.597000",
+        "Ever heard of the millionaire tour?"
+      ],
+      [
+        224,
+        "00:10:24.716000",
+        "00:10:26.410000",
+        "I know it's called the millionaire tour."
+      ],
+      [
+        225,
+        "00:10:26.411000",
+        "00:10:27.979000",
+        "-Millionaire tour, yeah. -Huh."
+      ],
+      [
+        431,
+        "00:18:55.131000",
+        "00:18:57.368000",
+        "He doesn't even know we're giving them a millionaire tour."
+      ],
+      [
+        1225,
+        "00:57:36.363000",
+        "00:57:38.376000",
+        "You know, every time I did the millionaire tour,"
+      ],
+      [
+        1424,
+        "01:12:36.884000",
+        "01:12:38.666000",
+        "You never went in a millionaire tour."
+      ]
+    ],
+    "regex": "\\b((?!\\bMillionaire\\ Tour:)Millionaire\\ Tour)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

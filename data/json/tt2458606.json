@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2458606",
+    "title": "The Torrent",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Family",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 317,
+    "occurrences": [
+      [
+        206,
+        "01:18:40.549000",
+        "01:18:42.358000",
+        "The torrent suddenly took on the significance"
+      ],
+      [
+        224,
+        "01:37:10.753000",
+        "01:37:14.132000",
+        "The torrent would resonate so loudly in my skull"
+      ],
+      [
+        258,
+        "01:59:27.488000",
+        "01:59:29.798000",
+        "The torrent enthralls me."
+      ]
+    ],
+    "regex": "\\b((?!\\bTorrent:)Torrent)(?!\\:)(?!'t)\\b",
+    "runtime": 152,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

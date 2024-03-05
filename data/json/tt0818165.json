@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0818165",
+    "title": "The Alphabet Killer",
+    "year": 2008,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1098,
+    "occurrences": [
+      [
+        657,
+        "00:50:48.500000",
+        "00:50:50.400000",
+        "We think this guy here is the Alphabet Killer."
+      ],
+      [
+        783,
+        "01:00:01.200000",
+        "01:00:04.300000",
+        "We believe that the man who the press labeled as the Alphabet Killer"
+      ],
+      [
+        829,
+        "01:04:15.500000",
+        "01:04:18.300000",
+        "that the Alphabet Killer was Len Schaefer?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAlphabet\\ Killer:)Alphabet\\ Killer)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

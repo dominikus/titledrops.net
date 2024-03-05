@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt8479346",
+    "title": "Hinsdale House",
+    "year": 2019,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1005,
+    "occurrences": [
+      [
+        22,
+        "00:02:51.981000",
+        "00:02:55.150000",
+        "- Okay, I just got out of the audition for Hinsdale House."
+      ],
+      [
+        36,
+        "00:03:29.303000",
+        "00:03:32.167000",
+        "because we know Hinsdale House has some history"
+      ],
+      [
+        316,
+        "00:16:25.115000",
+        "00:16:27.020000",
+        "And that, everybody, is the Hinsdale House."
+      ],
+      [
+        459,
+        "00:20:35.150000",
+        "00:20:38.190000",
+        "is that we are in the real life Hinsdale House."
+      ]
+    ],
+    "regex": "\\b((?!\\bHinsdale\\ House:)Hinsdale\\ House)(?!\\:)(?!'t)\\b",
+    "runtime": 65,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

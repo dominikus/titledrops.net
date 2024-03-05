@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0262396",
+    "title": "Empire",
+    "year": 2002,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1389,
+    "occurrences": [
+      [
+        35,
+        "00:04:13.219000",
+        "00:04:17.679000",
+        "What we make here is my product-- a heroin mix I call \"Empire. \""
+      ],
+      [
+        51,
+        "00:05:11.644000",
+        "00:05:13.669000",
+        "People know Empire and they look for it."
+      ],
+      [
+        123,
+        "00:09:22.828000",
+        "00:09:25.763000",
+        "-I think Empire's trying to make a move. -You're saying Vic did this to you?."
+      ]
+    ],
+    "regex": "\\b((?!\\bEmpire:)Empire)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

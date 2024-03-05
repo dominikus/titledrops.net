@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt8567862",
+    "title": "The Crossing",
+    "year": 2021,
+    "genres": [
+      "Animation",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 830,
+    "occurrences": [
+      [
+        217,
+        "00:20:40.251000",
+        "00:20:42.167000",
+        "Nobody is crossing, it's over."
+      ],
+      [
+        265,
+        "00:24:06.709000",
+        "00:24:09.709000",
+        "- Are you crossing with them? - No, I've got papers."
+      ]
+    ],
+    "regex": "\\b((?!\\bCrossing:)Crossing)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

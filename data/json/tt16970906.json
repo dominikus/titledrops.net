@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt16970906",
+    "title": "Sheroes",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1158,
+    "occurrences": [
+      [
+        1155,
+        "01:24:40.213000",
+        "01:24:42.750000",
+        "Heroes? Fuck that, we are Sheroes."
+      ],
+      [
+        1156,
+        "01:24:43.585000",
+        "01:24:46.119000",
+        "Sheroes!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSheroes:)Sheroes)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

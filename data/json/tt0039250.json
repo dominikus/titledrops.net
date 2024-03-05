@@ -1,0 +1,40 @@
+[
+  {
+    "imdb": "tt0039250",
+    "title": "Cass Timberlane",
+    "year": 1947,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 2130,
+    "occurrences": [
+      [
+        2,
+        "00:01:28.680000",
+        "00:01:31.152000",
+        "The Honorable Cass Timberlane. Judge presiding."
+      ],
+      [
+        620,
+        "00:34:58.983000",
+        "00:35:01.254000",
+        "Cass Timberlane is one of our big intellectuals."
+      ],
+      [
+        1993,
+        "01:50:40.232000",
+        "01:50:41.989000",
+        "Now don't be a fool, Cass Timberlane."
+      ]
+    ],
+    "regex": "\\b((?!\\bCass\\ Timberlane:)Cass\\ Timberlane)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [
+      "Cass Timberlane"
+    ],
+    "title_is_name": true,
+    "rating": 6.3
+  }
+]

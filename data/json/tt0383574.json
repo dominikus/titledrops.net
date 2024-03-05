@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0383574",
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1484,
+    "occurrences": [
+      [
+        33,
+        "00:04:16.580000",
+        "00:04:21.820000",
+        "(MAN)  Fifteen men on a dead man's chest"
+      ],
+      [
+        867,
+        "01:16:26.140000",
+        "01:16:28.540000",
+        "The dead man's chest."
+      ]
+    ],
+    "regex": "\\b((?!\\bPirates\\ of\\ the\\ Caribbean:)Pirates\\ of\\ the\\ Caribbean|(?!\\bDead\\ Man's\\ Chest:)Dead\\ Man's\\ Chest)(?!\\:)(?!'t)\\b",
+    "runtime": 151,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0371668",
+    "title": "The Fakir",
+    "year": 2004,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 695,
+    "occurrences": [
+      [
+        224,
+        "00:25:43.400000",
+        "00:25:47.473000",
+        "Albin Lombardo. The fakir of Bilbao."
+      ],
+      [
+        270,
+        "00:30:24.560000",
+        "00:30:29.076000",
+        "A fakir from a pen. A couple who wanted to buy our house."
+      ]
+    ],
+    "regex": "\\b((?!\\bFakir:)Fakir)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

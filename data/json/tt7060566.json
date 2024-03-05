@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt7060566",
+    "title": "Suite 313",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 326,
+    "occurrences": [
+      [
+        25,
+        "00:08:49.738000",
+        "00:08:52.240000",
+        "I'm inside Suite 313."
+      ],
+      [
+        46,
+        "00:12:23.243000",
+        "00:12:30.667000",
+        "When I touched the keyboard a blueprint appeared... maybe of the suite.. With some area marked in red!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSuite:)Suite)(?!\\:)(?!'t)\\b",
+    "runtime": 63,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

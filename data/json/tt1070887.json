@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1070887",
+    "title": "The War Boys",
+    "year": 2009,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 662,
+    "occurrences": [
+      [
+        375,
+        "00:51:14.718000",
+        "00:51:18.859000",
+        "Didn't Greg told you? We're the war boys"
+      ],
+      [
+        388,
+        "00:53:27.282000",
+        "00:53:31.107000",
+        "Then one of them asked me to join the war boys."
+      ],
+      [
+        397,
+        "00:54:13.630000",
+        "00:54:17.009000",
+        "When they asked you to join the war boys, did you think you were white too?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWar\\ Boys:)War\\ Boys)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

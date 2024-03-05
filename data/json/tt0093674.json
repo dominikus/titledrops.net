@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0093674",
+    "title": "On the Black Hill",
+    "year": 1988,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1152,
+    "occurrences": [
+      [
+        115,
+        "00:12:27.914000",
+        "00:12:31.919000",
+        "(Amos) Hurry now. There's a farm for rent on the Black Hill."
+      ],
+      [
+        701,
+        "01:10:30.268000",
+        "01:10:34.523000",
+        "House and outbuildings, with 120 acres and grazing rights on the Black Hill."
+      ],
+      [
+        1012,
+        "01:40:06.918000",
+        "01:40:10.092000",
+        "She said my real mother was a girl from on a farm, on the Black Hill,"
+      ]
+    ],
+    "regex": "\\b((?!\\bOn\\ the\\ Black\\ Hill:)On\\ the\\ Black\\ Hill)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt10376384",
+    "title": "Go Back",
+    "year": 2020,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1161,
+    "occurrences": [
+      [
+        5,
+        "00:01:09.986000",
+        "00:01:17.160000",
+        "Go Back"
+      ],
+      [
+        339,
+        "00:27:32.400000",
+        "00:27:34.694000",
+        "He has to go back home, though."
+      ],
+      [
+        908,
+        "01:11:34.123000",
+        "01:11:38.919000",
+        "We promised to go back there"
+      ],
+      [
+        1161,
+        "01:36:35.039000",
+        "01:36:46.550000",
+        "Go Back"
+      ]
+    ],
+    "regex": "\\b((?!\\bGo\\ Back:)Go\\ Back)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

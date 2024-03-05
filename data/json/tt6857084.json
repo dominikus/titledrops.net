@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt6857084",
+    "title": "The Longest Night",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 587,
+    "occurrences": [
+      [
+        0,
+        "00:01:37.208000",
+        "00:01:39.791000",
+        "The Longest Night"
+      ],
+      [
+        504,
+        "01:08:47.417000",
+        "01:08:49.792000",
+        "No, not at The Longest Night."
+      ]
+    ],
+    "regex": "\\b((?!\\bLongest\\ Night:)Longest\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt5811242",
+    "title": "Firegate",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 831,
+    "occurrences": [
+      [
+        611,
+        "01:13:50.125000",
+        "01:13:53.375000",
+        "The inscription reads, \"The Key to Firegate.\""
+      ],
+      [
+        613,
+        "01:13:56.958000",
+        "01:13:58.500000",
+        "Firegate may well be--"
+      ],
+      [
+        700,
+        "01:33:03.083000",
+        "01:33:06.166000",
+        "Close the Firegate with this dagger."
+      ],
+      [
+        791,
+        "01:44:34.541000",
+        "01:44:37.291000",
+        "Help me open the Firegate."
+      ],
+      [
+        795,
+        "01:45:02.333000",
+        "01:45:04.875000",
+        "Let's open the Firegate together."
+      ],
+      [
+        799,
+        "01:46:25.916000",
+        "01:46:28.625000",
+        "I think you've succeeded closing the Firegate."
+      ]
+    ],
+    "regex": "\\b((?!\\bFiregate:)Firegate)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

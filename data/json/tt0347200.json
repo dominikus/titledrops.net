@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0347200",
+    "title": "Hotel Hibiscus",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 758,
+    "occurrences": [
+      [
+        1,
+        "00:00:07.307000",
+        "00:00:14.008000",
+        "Produced by \"Hotel Hibiscus\" Partners"
+      ],
+      [
+        34,
+        "00:02:47.467000",
+        "00:02:49.492000",
+        "Hotel Hibiscus"
+      ],
+      [
+        43,
+        "00:03:24.404000",
+        "00:03:25.928000",
+        "Hotel Hibiscus."
+      ],
+      [
+        266,
+        "00:28:59.571000",
+        "00:29:03.632000",
+        "This is our Hotel Hibiscus"
+      ],
+      [
+        309,
+        "00:33:45.156000",
+        "00:33:50.025000",
+        "\"Happy 31 years, 3 months and 3 days, Hotel Hibiscus\""
+      ]
+    ],
+    "regex": "\\b((?!\\bHotel\\ Hibiscus:)Hotel\\ Hibiscus)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

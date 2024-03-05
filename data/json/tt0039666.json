@@ -1,0 +1,46 @@
+[
+  {
+    "imdb": "tt0039666",
+    "title": "Nora Prentiss",
+    "year": 1947,
+    "genres": [
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 4,
+    "all_lines": 1887,
+    "occurrences": [
+      [
+        251,
+        "00:14:29.889000",
+        "00:14:31.522000",
+        "It's Prentiss, Nora Prentiss."
+      ],
+      [
+        334,
+        "00:18:22.284000",
+        "00:18:24.385000",
+        "Prentiss. Nora Prentiss."
+      ],
+      [
+        647,
+        "00:36:54.944000",
+        "00:36:57.580000",
+        "Nora Prentiss. 6 songs an evening"
+      ],
+      [
+        1467,
+        "01:28:10.170000",
+        "01:28:12.404000",
+        "I want to talk to miss Nora Prentiss."
+      ]
+    ],
+    "regex": "\\b((?!\\bNora\\ Prentiss:)Nora\\ Prentiss)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [
+      "Nora Prentiss"
+    ],
+    "title_is_name": true,
+    "rating": 7.1
+  }
+]

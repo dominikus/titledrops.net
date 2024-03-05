@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0390073",
+    "title": "The Halfway House",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 739,
+    "occurrences": [
+      [
+        47,
+        "00:07:08.528000",
+        "00:07:10.786000",
+        "The Mary Magdalene Halfway House for Troubled Girls."
+      ],
+      [
+        120,
+        "00:11:18.660000",
+        "00:11:22.324000",
+        "of the Mary Magdalene Halfway House are being abducted"
+      ],
+      [
+        182,
+        "00:15:23.692000",
+        "00:15:27.193000",
+        "Well. This halfway house was named after Saint Mary Magdalene..."
+      ],
+      [
+        336,
+        "00:34:53.011000",
+        "00:34:56.508000",
+        "Yeah. She did come to me looking into the halfway house"
+      ],
+      [
+        386,
+        "00:45:20.564000",
+        "00:45:23.637000",
+        "Apparently notes the girls been reported missing from the halfway house."
+      ]
+    ],
+    "regex": "\\b((?!\\bHalfway\\ House:)Halfway\\ House)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1714176",
+    "title": "Yellow Rock",
+    "year": 2011,
+    "genres": [
+      "Western"
+    ],
+    "count": 4,
+    "all_lines": 463,
+    "occurrences": [
+      [
+        16,
+        "00:03:07.400000",
+        "00:03:09.159000",
+        "Welcome to Yellow Rock"
+      ],
+      [
+        374,
+        "01:02:15.040000",
+        "01:02:19.199000",
+        "The Indians were right. You got the fever for yellow rock."
+      ],
+      [
+        450,
+        "01:18:46.560000",
+        "01:18:48.799000",
+        "The yellow rock..."
+      ],
+      [
+        455,
+        "01:20:06.840000",
+        "01:20:10.759000",
+        "For their fever for our Yellow Rock would not turn."
+      ]
+    ],
+    "regex": "\\b((?!\\bYellow\\ Rock:)Yellow\\ Rock)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

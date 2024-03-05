@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0826031",
+    "title": "Arang",
+    "year": 2006,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 660,
+    "occurrences": [
+      [
+        20,
+        "00:04:28.735000",
+        "00:04:34.105000",
+        "Arang"
+      ],
+      [
+        653,
+        "01:35:15.342000",
+        "01:35:17.173000",
+        "Arang Legend/ Four hundred years ago, there was a village where all newly appointed magistrates,"
+      ],
+      [
+        656,
+        "01:35:21.315000",
+        "01:35:23.180000",
+        "he heard from Arang she had been raped and killed."
+      ],
+      [
+        658,
+        "01:35:24.819000",
+        "01:35:26.684000",
+        "He found Arang and buried."
+      ]
+    ],
+    "regex": "\\b((?!\\bArang:)Arang)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2369317",
+    "title": "Space Station 76",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1052,
+    "occurrences": [
+      [
+        443,
+        "00:40:28.261000",
+        "00:40:29.636000",
+        "Space station  Lorelei."
+      ],
+      [
+        733,
+        "01:04:00.090000",
+        "01:04:04.218000",
+        "I don't know how they talk to their superiors on space station Lorelei..."
+      ],
+      [
+        734,
+        "01:04:04.219000",
+        "01:04:07.262000",
+        "Space station Lorelei, sir, is an impeccable place."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpace\\ Station:)Space\\ Station)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

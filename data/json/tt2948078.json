@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2948078",
+    "title": "Lake Eerie",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1232,
+    "occurrences": [
+      [
+        99,
+        "00:11:10.368000",
+        "00:11:12.204000",
+        "to live out here alone on lake eerie,"
+      ],
+      [
+        103,
+        "00:11:18.943000",
+        "00:11:21.045000",
+        "-to live out here alone on lake eerie. -I heard what you said,"
+      ],
+      [
+        188,
+        "00:15:23.321000",
+        "00:15:27.192000",
+        "We always planned to retire here on lake eerie."
+      ]
+    ],
+    "regex": "\\b((?!\\bLake\\ Eerie:)Lake\\ Eerie)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

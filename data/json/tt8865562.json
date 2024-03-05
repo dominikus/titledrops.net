@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt8865562",
+    "title": "The Witness",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1202,
+    "occurrences": [
+      [
+        6,
+        "00:04:21.450000",
+        "00:04:27.467000",
+        "The Witness"
+      ],
+      [
+        157,
+        "00:20:58.169000",
+        "00:21:00.350000",
+        "Ask around and find a witness first."
+      ],
+      [
+        301,
+        "00:28:28.199000",
+        "00:28:35.159000",
+        "Hello. I'm a witness who witnessed the..."
+      ],
+      [
+        303,
+        "00:28:43.896000",
+        "00:28:46.148000",
+        "Hello. I'm a witness who witnessed the crime"
+      ],
+      [
+        785,
+        "01:04:20.947000",
+        "01:04:23.451000",
+        "It would be great if we had a witness right now."
+      ],
+      [
+        1050,
+        "01:26:27.716000",
+        "01:26:29.485000",
+        "I came here for witness protection."
+      ]
+    ],
+    "regex": "\\b((?!\\bWitness:)Witness)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0055870",
+    "title": "The Couch",
+    "year": 1962,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 1136,
+    "occurrences": [
+      [
+        451,
+        "00:39:23.104000",
+        "00:39:26.821000",
+        "You know what I mean. Here on this couch."
+      ],
+      [
+        620,
+        "00:53:33.979000",
+        "00:53:37.476000",
+        "Charles Campbell that I have here on my couch..."
+      ],
+      [
+        709,
+        "00:59:43.609000",
+        "00:59:46.167000",
+        "He was the one who belonged on this couch."
+      ],
+      [
+        915,
+        "01:15:54.921000",
+        "01:15:56.540000",
+        "It's only a couch."
+      ],
+      [
+        916,
+        "01:15:58.731000",
+        "01:16:00.369000",
+        "It's only a couch."
+      ],
+      [
+        1077,
+        "01:34:07.180000",
+        "01:34:09.425000",
+        "You don't like the couch?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCouch:)Couch)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

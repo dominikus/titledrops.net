@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1781827",
+    "title": "Hands of Stone",
+    "year": 2016,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "count": 3,
+    "all_lines": 1866,
+    "occurrences": [
+      [
+        1334,
+        "01:11:09.440000",
+        "01:11:14.082000",
+        "I happen to think that Roberto Duran, the man with the hands of stone,"
+      ],
+      [
+        1419,
+        "01:15:45.960000",
+        "01:15:48.167000",
+        "COSELL: The man with the hands of stone,"
+      ],
+      [
+        1788,
+        "01:37:24.200000",
+        "01:37:27.010000",
+        "why they call Manos de Piedra Hands of Stone."
+      ]
+    ],
+    "regex": "\\b((?!\\bHands\\ of\\ Stone:)Hands\\ of\\ Stone)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

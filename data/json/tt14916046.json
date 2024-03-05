@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt14916046",
+    "title": "Merry Switchmas",
+    "year": 2021,
+    "genres": [
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1815,
+    "occurrences": [
+      [
+        400,
+        "00:17:31.551000",
+        "00:17:34.102000",
+        "Operation Merry Switchmas is going down."
+      ],
+      [
+        1364,
+        "01:02:23.241000",
+        "01:02:25.136000",
+        "Operation Merry Switchmas."
+      ]
+    ],
+    "regex": "\\b((?!\\bMerry\\ Switchmas:)Merry\\ Switchmas)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

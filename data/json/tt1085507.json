@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1085507",
+    "title": "The Square",
+    "year": 2008,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 686,
+    "occurrences": [
+      [
+        16,
+        "00:04:02.740000",
+        "00:04:04.410000",
+        "All right, so, it's just a square?"
+      ],
+      [
+        628,
+        "01:31:18.720000",
+        "01:31:22.890000",
+        "Now l know why you were in such a hurry to cement over that square."
+      ]
+    ],
+    "regex": "\\b((?!\\bSquare:)Square)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

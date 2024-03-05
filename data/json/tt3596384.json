@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt3596384",
+    "title": "Fire",
+    "year": 2014,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1105,
+    "occurrences": [
+      [
+        460,
+        "00:37:48.418000",
+        "00:37:50.418000",
+        "I feel that fire inside me,"
+      ],
+      [
+        461,
+        "00:37:50.578000",
+        "00:37:54.058000",
+        "a fire that never goes out, that burns me up with rage."
+      ],
+      [
+        464,
+        "00:38:01.578000",
+        "00:38:04.418000",
+        "The way to put out the fire once and for all."
+      ],
+      [
+        976,
+        "01:18:56.498000",
+        "01:19:00.018000",
+        "I'm putting out the fire that's been burning me up for 12 years."
+      ],
+      [
+        1056,
+        "01:27:30.738000",
+        "01:27:34.258000",
+        "Do you think you'll put out the fire"
+      ]
+    ],
+    "regex": "\\b((?!\\bFire:)Fire)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

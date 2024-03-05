@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt2476552",
+    "title": "West",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 680,
+    "occurrences": [
+      [
+        65,
+        "00:12:25.080000",
+        "00:12:29.085000",
+        "Any friends or relatives in West Germany who can help you?"
+      ],
+      [
+        70,
+        "00:13:01.320000",
+        "00:13:05.245000",
+        "Get one stamp for each box, then you'll be a citizen of West Germany."
+      ],
+      [
+        318,
+        "00:42:05.680000",
+        "00:42:09.287000",
+        "Any relatives in West Germany? - None of your business."
+      ],
+      [
+        468,
+        "00:57:48.880000",
+        "00:57:51.281000",
+        "He was supposed to recruit scientists from the West."
+      ],
+      [
+        469,
+        "00:57:52.240000",
+        "00:57:54.242000",
+        "He had never been to the West."
+      ],
+      [
+        475,
+        "00:58:20.360000",
+        "00:58:25.651000",
+        "He contacted the West German secret service. They faked the accident, used another body."
+      ],
+      [
+        594,
+        "01:17:55.040000",
+        "01:17:59.204000",
+        "Moms take their kids to school here. That's the way it is in the West."
+      ]
+    ],
+    "regex": "\\b((?!\\bWest:)West)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

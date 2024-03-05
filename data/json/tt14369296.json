@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt14369296",
+    "title": "Doom of Love",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1184,
+    "occurrences": [
+      [
+        353,
+        "00:21:04.083000",
+        "00:21:05.416000",
+        "But the Doom of Love"
+      ],
+      [
+        363,
+        "00:21:37.583000",
+        "00:21:40.083000",
+        "I hope to see every one of you in the Doom of Love."
+      ]
+    ],
+    "regex": "\\b((?!\\bDoom\\ of\\ Love:)Doom\\ of\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

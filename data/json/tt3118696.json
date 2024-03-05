@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt3118696",
+    "title": "Club Sandwich",
+    "year": 2013,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 433,
+    "occurrences": [
+      [
+        45,
+        "00:11:51.470000",
+        "00:11:53.100000",
+        "A club sandwich. You?"
+      ],
+      [
+        51,
+        "00:12:06.720000",
+        "00:12:08.350000",
+        "Why don't you order a club sandwich?"
+      ],
+      [
+        164,
+        "00:29:52.890000",
+        "00:29:54.930000",
+        "Club sandwich?"
+      ],
+      [
+        309,
+        "00:56:10.720000",
+        "00:56:12.720000",
+        "Just a club sandwich."
+      ]
+    ],
+    "regex": "\\b((?!\\bClub\\ Sandwich:)Club\\ Sandwich)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

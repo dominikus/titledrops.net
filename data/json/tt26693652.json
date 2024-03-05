@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt26693652",
+    "title": "Invalid",
+    "year": 2023,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1399,
+    "occurrences": [
+      [
+        458,
+        "00:32:32.200000",
+        "00:32:35.200000",
+        "You know how hard it is for an invalid to close a door?"
+      ],
+      [
+        660,
+        "00:48:46.760000",
+        "00:48:49.320000",
+        "Wait up, Bardos. Invalid coming through."
+      ]
+    ],
+    "regex": "\\b((?!\\bInvalid:)Invalid)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

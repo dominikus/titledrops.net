@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1605803",
+    "title": "The Last Ride",
+    "year": 2011,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1421,
+    "occurrences": [
+      [
+        1413,
+        "01:42:47.200000",
+        "01:42:52.001000",
+        "Well, it could be your last ride"
+      ],
+      [
+        1421,
+        "01:43:29.280000",
+        "01:43:34.571000",
+        "Well, it could be your last ride"
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Ride:)Last\\ Ride)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

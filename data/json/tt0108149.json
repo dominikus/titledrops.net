@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0108149",
+    "title": "Six Degrees of Separation",
+    "year": 1993,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1631,
+    "occurrences": [
+      [
+        1013,
+        "01:08:04.350000",
+        "01:08:08.750000",
+        "Six degrees of separation between us and everyone else on this planet."
+      ],
+      [
+        1026,
+        "01:09:10.250000",
+        "01:09:16.650000",
+        "Six degrees of separation between us and everyone else on this planet."
+      ]
+    ],
+    "regex": "\\b((?!\\bSix\\ Degrees\\ of\\ Separation:)Six\\ Degrees\\ of\\ Separation)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

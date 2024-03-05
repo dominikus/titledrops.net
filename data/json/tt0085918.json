@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0085918",
+    "title": "Mausoleum",
+    "year": 1983,
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 793,
+    "occurrences": [
+      [
+        72,
+        "00:12:30.309000",
+        "00:12:31.811000",
+        "Once having left the mausoleum,"
+      ],
+      [
+        77,
+        "00:12:47.836000",
+        "00:12:52.333000",
+        "no Nomed woman must enter the sanctuary of the mausoleum."
+      ],
+      [
+        483,
+        "00:50:41.908000",
+        "00:50:43.494000",
+        "I'm in the mausoleum."
+      ],
+      [
+        672,
+        "01:04:21.666000",
+        "01:04:25.874000",
+        "- Go to the mausoleum and get that crown of thorns."
+      ],
+      [
+        792,
+        "01:31:28.464000",
+        "01:31:31.301000",
+        "Remember, no one goes into the mausoleum."
+      ]
+    ],
+    "regex": "\\b((?!\\bMausoleum:)Mausoleum)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

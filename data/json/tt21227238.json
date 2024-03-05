@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt21227238",
+    "title": "I Have Electric Dreams",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 981,
+    "occurrences": [
+      [
+        91,
+        "00:10:58.123000",
+        "00:10:59.956000",
+        "I have electric dreams"
+      ],
+      [
+        95,
+        "00:11:13.052000",
+        "00:11:14.552000",
+        "I have electric dreams"
+      ],
+      [
+        973,
+        "01:39:01.498000",
+        "01:39:03.414000",
+        "I have electric dreams"
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Have\\ Electric\\ Dreams:)I\\ Have\\ Electric\\ Dreams)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

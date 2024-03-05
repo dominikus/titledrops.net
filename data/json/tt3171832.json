@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3171832",
+    "title": "iBoy",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Crime",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1063,
+    "occurrences": [
+      [
+        758,
+        "01:04:00.567000",
+        "01:04:03.108000",
+        "What do you think? It's iBOY that killed him? Or do you think..."
+      ],
+      [
+        761,
+        "01:04:07.900000",
+        "01:04:09.442000",
+        " Everyone's saying it's iBOY."
+      ]
+    ],
+    "regex": "\\b((?!\\biBoy:)iBoy)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

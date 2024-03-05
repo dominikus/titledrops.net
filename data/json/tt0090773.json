@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0090773",
+    "title": "Bridge to Nowhere",
+    "year": 1986,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1330,
+    "occurrences": [
+      [
+        86,
+        "00:06:35.628000",
+        "00:06:37.130000",
+        "Do you know where the Bridge to Nowhere is?"
+      ],
+      [
+        330,
+        "00:18:08.921000",
+        "00:18:12.658000",
+        "(laughs) Bridge to Nowhere."
+      ],
+      [
+        436,
+        "00:25:49.581000",
+        "00:25:52.851000",
+        "The Bridge to Nowhere, where nothing happens."
+      ]
+    ],
+    "regex": "\\b((?!\\bBridge\\ to\\ Nowhere:)Bridge\\ to\\ Nowhere)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

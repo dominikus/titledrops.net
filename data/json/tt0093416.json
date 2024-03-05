@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0093416",
+    "title": "The Lighthorsemen",
+    "year": 1987,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 382,
+    "occurrences": [
+      [
+        2,
+        "00:00:26.080000",
+        "00:00:27.960000",
+        "two regiments of Australian Lighthorsemen"
+      ],
+      [
+        134,
+        "00:15:20.680000",
+        "00:15:27.711000",
+        "Three cheers for the lighthorsemen"
+      ]
+    ],
+    "regex": "\\b((?!\\bLighthorsemen:)Lighthorsemen)(?!\\:)(?!'t)\\b",
+    "runtime": 131,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

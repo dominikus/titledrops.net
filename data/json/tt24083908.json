@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt24083908",
+    "title": "The Black Book",
+    "year": 2023,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1411,
+    "occurrences": [
+      [
+        923,
+        "01:13:40.708000",
+        "01:13:44.750000",
+        "The only reason he did not kill you was because you gave him the Black Book."
+      ],
+      [
+        934,
+        "01:14:24.416000",
+        "01:14:26",
+        "You created the Black Book."
+      ],
+      [
+        1149,
+        "01:32:03.458000",
+        "01:32:06.875000",
+        "The General built all his powers with the Black Book."
+      ],
+      [
+        1380,
+        "01:56:02.666000",
+        "01:56:07.625000",
+        "To open the Black Book, a safe full of unspeakable things."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Book:)Black\\ Book)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

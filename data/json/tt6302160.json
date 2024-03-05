@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6302160",
+    "title": "Pandora",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 2351,
+    "occurrences": [
+      [
+        27,
+        "00:02:21.770000",
+        "00:02:26.780000",
+        "-=Pandora=-"
+      ],
+      [
+        2347,
+        "02:08:02.510000",
+        "02:08:05.810000",
+        "We have opened Pandora's Box."
+      ]
+    ],
+    "regex": "\\b((?!\\bPandora:)Pandora)(?!\\:)(?!'t)\\b",
+    "runtime": 136,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

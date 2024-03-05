@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt12323842",
+    "title": "Gina Brillon: The Floor Is Lava",
+    "year": 2020,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1384,
+    "occurrences": [
+      [
+        3,
+        "00:00:16.142000",
+        "00:00:20.187000",
+        "the talented, the amazing Gina Brillon!"
+      ],
+      [
+        326,
+        "00:13:59.673000",
+        "00:14:01.216000",
+        "Which is why The Floor is Lava"
+      ],
+      [
+        330,
+        "00:14:08.306000",
+        "00:14:10.183000",
+        "The Floor is Lava is one of those games."
+      ],
+      [
+        331,
+        "00:14:10.267000",
+        "00:14:13.853000",
+        "If you played The Floor is Lava and you had money,"
+      ]
+    ],
+    "regex": "\\b((?!\\bGina\\ Brillon:)Gina\\ Brillon|(?!\\bFloor\\ Is\\ Lava:)Floor\\ Is\\ Lava)(?!\\:)(?!'t)\\b",
+    "runtime": 60,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

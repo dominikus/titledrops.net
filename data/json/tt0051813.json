@@ -1,0 +1,34 @@
+[
+  {
+    "imdb": "tt0051813",
+    "title": "Kathy O'",
+    "year": 1958,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1449,
+    "occurrences": [
+      [
+        248,
+        "00:18:23.080000",
+        "00:18:25.983000",
+        "Say, this story on Kathy O'Rourke, what's you angle..."
+      ],
+      [
+        690,
+        "00:48:04.918000",
+        "00:48:07.797000",
+        "And there she is! Kathy O'Rourke..."
+      ]
+    ],
+    "regex": "\\b((?!\\bKathy\\ O':)Kathy\\ O')(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [
+      "Kathy O`Rourke"
+    ],
+    "title_is_name": true,
+    "rating": 6.9
+  }
+]

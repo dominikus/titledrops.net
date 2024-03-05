@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6747420",
+    "title": "Rajma Chawal",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1578,
+    "occurrences": [
+      [
+        73,
+        "00:05:36.630000",
+        "00:05:38.422000",
+        "Who eats Rajma Chawal with a spoon?"
+      ],
+      [
+        1184,
+        "01:26:30.588000",
+        "01:26:33.797000",
+        "I love seeing you eat Rajma Chawal with your hands."
+      ]
+    ],
+    "regex": "\\b((?!\\bRajma\\ Chawal:)Rajma\\ Chawal)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

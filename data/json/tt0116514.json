@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0116514",
+    "title": "Hellraiser: Bloodline",
+    "year": 1996,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 660,
+    "occurrences": [
+      [
+        161,
+        "00:22:29.831000",
+        "00:22:35.292000",
+        "You and your bloodline cursed 'til the end of time because of your little puzzle box."
+      ],
+      [
+        213,
+        "00:26:38.647000",
+        "00:26:41.480000",
+        "The bloodline continues, toy maker."
+      ],
+      [
+        244,
+        "00:29:53.942000",
+        "00:29:57.878000",
+        "The toy maker's bloodline has survived."
+      ],
+      [
+        517,
+        "01:02:09.411000",
+        "01:02:11.470000",
+        "He carried the bloodline,"
+      ],
+      [
+        609,
+        "01:14:40.261000",
+        "01:14:43.697000",
+        "Soon the bloodline will be severed."
+      ]
+    ],
+    "regex": "\\b((?!\\bHellraiser:)Hellraiser|(?!\\bBloodline:)Bloodline)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

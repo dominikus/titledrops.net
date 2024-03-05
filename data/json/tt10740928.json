@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt10740928",
+    "title": "The Estate",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1314,
+    "occurrences": [
+      [
+        470,
+        "00:29:16.261000",
+        "00:29:19.130000",
+        "\"My estate will be delivered as follows."
+      ],
+      [
+        1124,
+        "01:09:21.564000",
+        "01:09:24.935000",
+        "There are complications with your father's estate now"
+      ]
+    ],
+    "regex": "\\b((?!\\bEstate:)Estate)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

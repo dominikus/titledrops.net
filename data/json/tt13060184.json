@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt13060184",
+    "title": "Use of Force: The Policing of Black America",
+    "year": 2022,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 6,
+    "all_lines": 1801,
+    "occurrences": [
+      [
+        259,
+        "00:12:33.086000",
+        "00:12:36.131000",
+        "a city with a history of excessive use of force."
+      ],
+      [
+        862,
+        "00:41:43.920000",
+        "00:41:46.131000",
+        "laws supporting use of force were created"
+      ],
+      [
+        961,
+        "00:46:32.250000",
+        "00:46:34.294000",
+        "According to Kentucky law, the use of force"
+      ],
+      [
+        994,
+        "00:47:53.415000",
+        "00:47:56.167000",
+        "who have been accused of excessive use of force."
+      ],
+      [
+        1018,
+        "00:49:37.560000",
+        "00:49:41.481000",
+        "The agency has had a history of excessive use of force,"
+      ],
+      [
+        1392,
+        "01:04:44.467000",
+        "01:04:47.012000",
+        "of excessive use of force that people"
+      ]
+    ],
+    "regex": "\\b((?!\\bUse\\ of\\ Force:)Use\\ of\\ Force|(?!\\bPolicing\\ of\\ Black\\ America:)Policing\\ of\\ Black\\ America)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

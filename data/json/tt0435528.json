@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0435528",
+    "title": "Whisper",
+    "year": 2007,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 660,
+    "occurrences": [
+      [
+        5,
+        "00:03:04.883000",
+        "00:03:07.416000",
+        "Whisper"
+      ],
+      [
+        644,
+        "01:18:14.841000",
+        "01:18:23.395000",
+        "I come to them, whisper into their ear, and I can be very convincing."
+      ]
+    ],
+    "regex": "\\b((?!\\bWhisper:)Whisper)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

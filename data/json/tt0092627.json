@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0092627",
+    "title": "The Bedroom Window",
+    "year": 1987,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1740,
+    "occurrences": [
+      [
+        739,
+        "00:46:32.023000",
+        "00:46:33.963000",
+        "LOOKING OUT MY BEDROOM WINDOW."
+      ],
+      [
+        864,
+        "00:52:19.704000",
+        "00:52:24.441000",
+        "FROM YOUR BEDROOM WINDOW TO THE FOUNTAIN STEPS."
+      ],
+      [
+        960,
+        "00:58:41.217000",
+        "00:58:44.787000",
+        "SO THAT'S THE FAMOUS BEDROOM WINDOW?"
+      ],
+      [
+        1312,
+        "01:20:38.434000",
+        "01:20:41.536000",
+        "FROM YOUR BEDROOM WINDOW OR ANYPLACE ELSE,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBedroom\\ Window:)Bedroom\\ Window)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

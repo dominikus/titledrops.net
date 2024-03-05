@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt10272386",
+    "title": "The Father",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 1468,
+    "occurrences": [
+      [
+        215,
+        "00:16:22.859000",
+        "00:16:25.358000",
+        "No, it's just your father isn't feeling very well."
+      ],
+      [
+        302,
+        "00:20:26.659000",
+        "00:20:29.159000",
+        "Your father seemed a bit confused."
+      ],
+      [
+        427,
+        "00:27:38.059000",
+        "00:27:40.358000",
+        "Um, my father's, uh, just in his room."
+      ],
+      [
+        433,
+        "00:27:48.525000",
+        "00:27:50.859000",
+        "my father is quite upset by the whole idea..."
+      ],
+      [
+        779,
+        "00:47:19.725000",
+        "00:47:22.492000",
+        "Hello. My father has an appointment with Dr. Sarai."
+      ]
+    ],
+    "regex": "\\b((?!\\bFather:)Father)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.2
+  }
+]

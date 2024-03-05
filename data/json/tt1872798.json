@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1872798",
+    "title": "Fortune Salon",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1381,
+    "occurrences": [
+      [
+        873,
+        "01:11:13.594000",
+        "01:11:18.521000",
+        "It's the most popular fortune salon among young people these days."
+      ],
+      [
+        1368,
+        "01:55:58.208000",
+        "01:55:59.873000",
+        "Fortune Salon!"
+      ]
+    ],
+    "regex": "\\b((?!\\bFortune\\ Salon:)Fortune\\ Salon)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0113097",
+    "title": "Forget Paris",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1569,
+    "occurrences": [
+      [
+        387,
+        "00:25:44.053000",
+        "00:25:47.955000",
+        "''Forget Paris. It was just a beautiful few days. Let it go."
+      ],
+      [
+        888,
+        "00:53:43.163000",
+        "00:53:47.395000",
+        "Forget Paris. He was courting. They'll do anything when they're courting."
+      ],
+      [
+        1446,
+        "01:27:03.295000",
+        "01:27:04.455000",
+        "Forget Paris."
+      ],
+      [
+        1523,
+        "01:32:36.961000",
+        "01:32:39.930000",
+        "Oh, forget Paris. l hated Paris."
+      ]
+    ],
+    "regex": "\\b((?!\\bForget\\ Paris:)Forget\\ Paris)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

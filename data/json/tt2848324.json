@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2848324",
+    "title": "Touched with Fire",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1365,
+    "occurrences": [
+      [
+        493,
+        "00:31:28.840000",
+        "00:31:34.324000",
+        "It's in the opening to this book, Touched with Fire by Kay Jamison."
+      ],
+      [
+        768,
+        "00:59:12.080000",
+        "00:59:15.004000",
+        "We were just reading Touched with Fire."
+      ]
+    ],
+    "regex": "\\b((?!\\bTouched\\ with\\ Fire:)Touched\\ with\\ Fire)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

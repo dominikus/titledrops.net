@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt7811018",
+    "title": "A Yellow Animal",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 5,
+    "all_lines": 975,
+    "occurrences": [
+      [
+        107,
+        "00:13:01.750000",
+        "00:13:06.875000",
+        "Some say it was the very spirit known as yellow animal that took revenge"
+      ],
+      [
+        299,
+        "00:33:57.625000",
+        "00:34:00.541000",
+        "-That yellow animal! -The yellow animal."
+      ],
+      [
+        300,
+        "00:34:00.708000",
+        "00:34:02.666000",
+        "-There's a yellow animal. -There is."
+      ],
+      [
+        954,
+        "01:51:17.708000",
+        "01:51:19.083000",
+        "My yellow animal."
+      ]
+    ],
+    "regex": "\\b((?!\\bYellow\\ Animal:)Yellow\\ Animal)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7430722",
+    "title": "War",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1265,
+    "occurrences": [
+      [
+        1230,
+        "02:24:12.890000",
+        "02:24:15.340000",
+        "He's the true hero of this war."
+      ],
+      [
+        1239,
+        "02:25:01.890000",
+        "02:25:03.390000",
+        "The war is still on, sir."
+      ]
+    ],
+    "regex": "\\b((?!\\bWar:)War)(?!\\:)(?!'t)\\b",
+    "runtime": 151,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

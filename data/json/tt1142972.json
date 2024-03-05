@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1142972",
+    "title": "Detroit Metal City",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 1311,
+    "occurrences": [
+      [
+        88,
+        "00:07:24.210000",
+        "00:07:25.260000",
+        "DMC, meaning Detroit Metal City. Kill them, kill them!"
+      ],
+      [
+        89,
+        "00:07:25.260000",
+        "00:07:26.930000",
+        "DMC, meaning Detroit Metal City."
+      ],
+      [
+        90,
+        "00:07:26.930000",
+        "00:07:27.210000",
+        "Stain your future with blood! DMC, meaning Detroit Metal City."
+      ]
+    ],
+    "regex": "\\b((?!\\bDetroit\\ Metal\\ City:)Detroit\\ Metal\\ City)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

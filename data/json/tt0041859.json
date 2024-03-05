@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0041859",
+    "title": "The Set-Up",
+    "year": 1949,
+    "genres": [
+      "Crime",
+      "Film-Noir",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 617,
+    "occurrences": [
+      [
+        47,
+        "00:05:24.436000",
+        "00:05:26.927000",
+        "Now you got the set-up?"
+      ],
+      [
+        391,
+        "00:37:07.804000",
+        "00:37:10.796000",
+        "- That's the set-up! - Okay, Danny!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSet\\-Up:)Set\\-Up)(?!\\:)(?!'t)\\b",
+    "runtime": 73,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

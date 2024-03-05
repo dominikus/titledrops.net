@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0299868",
+    "title": "The Favourite Game",
+    "year": 2003,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1055,
+    "occurrences": [
+      [
+        479,
+        "00:48:13.523000",
+        "00:48:16.492000",
+        "Let's get back to your game. What was your favourite game?"
+      ],
+      [
+        570,
+        "00:57:28.912000",
+        "00:57:34.976000",
+        "It was Leo the child who needed to know the favourite game."
+      ],
+      [
+        1015,
+        "01:36:40.661000",
+        "01:36:44.427000",
+        "and that, that was the favourite game."
+      ]
+    ],
+    "regex": "\\b((?!\\bFavourite\\ Game:)Favourite\\ Game)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

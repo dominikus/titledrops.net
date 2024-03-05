@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0074554",
+    "title": "The Front",
+    "year": 1976,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1395,
+    "occurrences": [
+      [
+        570,
+        "00:38:06.550000",
+        "00:38:09.815000",
+        "You belong out front, like Berle, in one."
+      ],
+      [
+        1222,
+        "01:21:34.356000",
+        "01:21:37.018000",
+        "I'm not a writer, Florence. I'm a front."
+      ],
+      [
+        1223,
+        "01:21:37.192000",
+        "01:21:39.592000",
+        "I front for blacklisted writers."
+      ]
+    ],
+    "regex": "\\b((?!\\bFront:)Front)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

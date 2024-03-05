@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt5065500",
+    "title": "Fifty",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 2105,
+    "occurrences": [
+      [
+        603,
+        "00:24:00.800000",
+        "00:24:02.320000",
+        "I'm fifty."
+      ],
+      [
+        839,
+        "00:33:57.480000",
+        "00:34:00.320000",
+        "- She's fifty."
+      ],
+      [
+        1429,
+        "01:10:09.360000",
+        "01:10:11.480000",
+        "over fifty percent done."
+      ],
+      [
+        1599,
+        "01:15:25.640000",
+        "01:15:28.200000",
+        "\"Well, fifty is the"
+      ]
+    ],
+    "regex": "\\b((?!\\bFifty:)Fifty)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

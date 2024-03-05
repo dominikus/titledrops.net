@@ -1,0 +1,69 @@
+[
+  {
+    "imdb": "tt0070723",
+    "title": "Soylent Green",
+    "year": 1973,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 9,
+    "all_lines": 853,
+    "occurrences": [
+      [
+        6,
+        "00:03:08.837000",
+        "00:03:11.806000",
+        "...and new, delicious Soylent Green..."
+      ],
+      [
+        8,
+        "00:03:17.413000",
+        "00:03:21.780000",
+        "Because of its enormous popularity, Soylent Green is in short supply."
+      ],
+      [
+        9,
+        "00:03:21.949000",
+        "00:03:25.509000",
+        "Remember, Tuesday is Soylent Green Day."
+      ],
+      [
+        56,
+        "00:06:18.655000",
+        "00:06:21.488000",
+        "Eat some Soylent Green and calm down."
+      ],
+      [
+        645,
+        "00:57:40.505000",
+        "00:57:45.100000",
+        "Keep moving right along. Step right up. Soylent Green. Soylent Green right here."
+      ],
+      [
+        661,
+        "00:59:05.921000",
+        "00:59:09.119000",
+        "The supply of Soylent Green has been exhausted."
+      ],
+      [
+        845,
+        "01:33:51.328000",
+        "01:33:56.129000",
+        "Soylent Green is made out of people."
+      ],
+      [
+        852,
+        "01:34:30.201000",
+        "01:34:33.658000",
+        "Soylent Green is people!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSoylent\\ Green:)Soylent\\ Green)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

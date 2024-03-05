@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1047519",
+    "title": "Red Swastik",
+    "year": 2007,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1296,
+    "occurrences": [
+      [
+        213,
+        "00:23:49.801000",
+        "00:23:54.032000",
+        "A swastik was drawn on the victim's head. Red swastik."
+      ],
+      [
+        487,
+        "00:46:45.471000",
+        "00:46:46.801000",
+        "Bloody Red Swastik."
+      ],
+      [
+        1018,
+        "01:42:14.942000",
+        "01:42:17.967000",
+        "The same mark was found on his forehead. Red swastik."
+      ],
+      [
+        1045,
+        "01:46:30.379000",
+        "01:46:32.870000",
+        "Red swastik on another police officer's forehead."
+      ]
+    ],
+    "regex": "\\b((?!\\bRed\\ Swastik:)Red\\ Swastik)(?!\\:)(?!'t)\\b",
+    "runtime": 131,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3
+  }
+]

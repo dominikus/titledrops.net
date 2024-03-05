@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0062989",
+    "title": "Fort Utah",
+    "year": 1967,
+    "genres": [
+      "Western"
+    ],
+    "count": 4,
+    "all_lines": 954,
+    "occurrences": [
+      [
+        107,
+        "00:11:39.099000",
+        "00:11:41.001000",
+        "Fort Utah around here somewhere?"
+      ],
+      [
+        144,
+        "00:14:05.913000",
+        "00:14:07.814000",
+        "Friend of mine is riding into Fort Utah."
+      ],
+      [
+        315,
+        "00:22:58.745000",
+        "00:23:02.081000",
+        "Then head it toward Fort Utah. It's the only protection within a hundred miles of here."
+      ],
+      [
+        364,
+        "00:31:37.563000",
+        "00:31:40.632000",
+        "Yeah. Fort Utah."
+      ]
+    ],
+    "regex": "\\b((?!\\bFort\\ Utah:)Fort\\ Utah)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

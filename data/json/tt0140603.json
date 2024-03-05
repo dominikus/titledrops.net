@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0140603",
+    "title": "The Dinner",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1373,
+    "occurrences": [
+      [
+        192,
+        "00:19:07.953000",
+        "00:19:12.448000",
+        "Hello. Hello, Giovanna. We are having dinner out."
+      ],
+      [
+        1067,
+        "01:27:54.966000",
+        "01:27:58.597000",
+        "I left you a message about Simona's dinner, but you weren't there."
+      ]
+    ],
+    "regex": "\\b((?!\\bDinner:)Dinner)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

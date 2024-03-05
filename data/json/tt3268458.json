@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3268458",
+    "title": "The Internet's Own Boy: The Story of Aaron Swartz",
+    "year": 2014,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1607,
+    "occurrences": [
+      [
+        24,
+        "00:02:15",
+        "00:02:19",
+        "The Internet's Own Boy"
+      ],
+      [
+        1398,
+        "01:27:07.351000",
+        "01:27:11.760000",
+        "The question \"Why?\" hangs over much of the story of Aaron Swartz."
+      ],
+      [
+        1532,
+        "01:37:46.465000",
+        "01:37:51.253000",
+        "He was the Internet's Own Boy... and the whole world killed him."
+      ]
+    ],
+    "regex": "\\b((?!\\bInternet's\\ Own\\ Boy:)Internet's\\ Own\\ Boy|(?!\\bStory\\ of\\ Aaron\\ Swartz:)Story\\ of\\ Aaron\\ Swartz)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

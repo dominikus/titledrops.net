@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5066056",
+    "title": "The Wilde Wedding",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1427,
+    "occurrences": [
+      [
+        742,
+        "00:40:22.728000",
+        "00:40:27.863000",
+        "It's a nice day for a Wilde Wedding"
+      ],
+      [
+        752,
+        "00:41:03.168000",
+        "00:41:06.603000",
+        "It's a nice day for a Wilde Wedding"
+      ],
+      [
+        763,
+        "00:41:47.945000",
+        "00:41:52.014000",
+        "Oh it's a nice day for a Wilde Wedding"
+      ]
+    ],
+    "regex": "\\b((?!\\bWilde\\ Wedding:)Wilde\\ Wedding)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

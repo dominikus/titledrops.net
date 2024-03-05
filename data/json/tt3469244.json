@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3469244",
+    "title": "Phantom",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1705,
+    "occurrences": [
+      [
+        138,
+        "00:13:23.044000",
+        "00:13:24.602000",
+        "Just like Phantom."
+      ],
+      [
+        140,
+        "00:13:26.914000",
+        "00:13:28.575000",
+        "Sir, Phantom?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPhantom:)Phantom)(?!\\:)(?!'t)\\b",
+    "runtime": 136,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0081207",
+    "title": "My Bodyguard",
+    "year": 1980,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 1114,
+    "occurrences": [
+      [
+        467,
+        "00:36:39.430000",
+        "00:36:42.524000",
+        "To pay you to be my bodyguard."
+      ],
+      [
+        571,
+        "00:45:44.374000",
+        "00:45:48.470000",
+        "Moody, I'd like you to meet my bodyguard."
+      ],
+      [
+        886,
+        "01:10:58.251000",
+        "01:10:59.912000",
+        "He's my bodyguard."
+      ],
+      [
+        1105,
+        "01:33:41.078000",
+        "01:33:43.239000",
+        "Would you like to be my bodyguard?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Bodyguard:)My\\ Bodyguard)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

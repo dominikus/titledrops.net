@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0358670",
+    "title": "Forest",
+    "year": 2003,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 739,
+    "occurrences": [
+      [
+        680,
+        "01:15:52.006000",
+        "01:15:56.443000",
+        "What the hell do you think interests him here in this friggin' forest?"
+      ],
+      [
+        681,
+        "01:15:57.286000",
+        "01:15:58.162000",
+        "This is a Hungarian forest."
+      ],
+      [
+        724,
+        "01:18:53.886000",
+        "01:18:58.914000",
+        "Tell me please what that madman has been doing in this forest"
+      ]
+    ],
+    "regex": "\\b((?!\\bForest:)Forest)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

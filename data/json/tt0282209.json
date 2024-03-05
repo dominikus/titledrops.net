@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0282209",
+    "title": "Darkness Falls",
+    "year": 2003,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 623,
+    "occurrences": [
+      [
+        1,
+        "00:00:48.548000",
+        "00:00:51.073000",
+        "...in the town of Darkness Falls..."
+      ],
+      [
+        16,
+        "00:02:00.053000",
+        "00:02:04.513000",
+        "...Matilda laid a curse upon Darkness Falls."
+      ],
+      [
+        20,
+        "00:02:22.108000",
+        "00:02:27.808000",
+        "...the children of Darkness Falls on the night they lose their last tooth..."
+      ]
+    ],
+    "regex": "\\b((?!\\bDarkness\\ Falls:)Darkness\\ Falls)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

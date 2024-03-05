@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt8337264",
+    "title": "Chicken Run: Dawn of the Nugget",
+    "year": 2023,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1982,
+    "occurrences": [
+      [
+        1143,
+        "00:53:34.458000",
+        "00:53:37.541000",
+        "the dawn of the nugget."
+      ],
+      [
+        1967,
+        "01:34:25.250000",
+        "01:34:29.291000",
+        "[dramatic, fast-paced version of \"Chicken Run\" theme playing]"
+      ]
+    ],
+    "regex": "\\b((?!\\bChicken\\ Run:)Chicken\\ Run|(?!\\bDawn\\ of\\ the\\ Nugget:)Dawn\\ of\\ the\\ Nugget)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

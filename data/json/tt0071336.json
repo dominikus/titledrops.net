@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0071336",
+    "title": "The Clones",
+    "year": 1973,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 834,
+    "occurrences": [
+      [
+        652,
+        "01:12:33.860000",
+        "01:12:35.009000",
+        "Clones?"
+      ],
+      [
+        662,
+        "01:12:57.270000",
+        "01:12:58.170000",
+        "How come the clones?"
+      ],
+      [
+        668,
+        "01:13:11.400000",
+        "01:13:13.949000",
+        "That's where we come in, I mean the clones."
+      ],
+      [
+        680,
+        "01:14:18.260000",
+        "01:14:20.339000",
+        "The clones are dead, the project's over."
+      ]
+    ],
+    "regex": "\\b((?!\\bClones:)Clones)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

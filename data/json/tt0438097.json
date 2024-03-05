@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt0438097",
+    "title": "Ice Age: The Meltdown",
+    "year": 2006,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 1,
+    "all_lines": 706,
+    "occurrences": [
+      [
+        1,
+        "00:03:05.221000",
+        "00:03:09.057000",
+        "This is too hot, the Ice Age was too cold."
+      ]
+    ],
+    "regex": "\\b((?!\\bIce\\ Age:)Ice\\ Age|(?!\\bMeltdown:)Meltdown)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

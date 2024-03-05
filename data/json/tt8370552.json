@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt8370552",
+    "title": "The ParaPod: A Very British Ghost Hunt",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Documentary",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 2440,
+    "occurrences": [
+      [
+        63,
+        "00:02:41.707000",
+        "00:02:44.543000",
+        "Hello, and welcome to the ParaPod podcast"
+      ],
+      [
+        2362,
+        "01:41:42.215000",
+        "01:41:44.550000",
+        "Ian Boldsworth for the ParaPod,\" maybe."
+      ],
+      [
+        2415,
+        "01:43:46.106000",
+        "01:43:48.074000",
+        "- A wrap on the Parapod movie! -  Ian!"
+      ]
+    ],
+    "regex": "\\b((?!\\bParaPod:)ParaPod|(?!\\bVery\\ British\\ Ghost\\ Hunt:)Very\\ British\\ Ghost\\ Hunt)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

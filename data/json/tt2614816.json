@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2614816",
+    "title": "Leave to Remain",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 780,
+    "occurrences": [
+      [
+        476,
+        "00:50:49.640000",
+        "00:50:53.479000",
+        "It is contended by my client that he should be granted leave to remain"
+      ],
+      [
+        702,
+        "01:13:02.120000",
+        "01:13:03.719000",
+        "I have leave to remain, bro."
+      ],
+      [
+        704,
+        "01:13:09.440000",
+        "01:13:13.080000",
+        "- I got leave to remain. - Well done."
+      ]
+    ],
+    "regex": "\\b((?!\\bLeave\\ to\\ Remain:)Leave\\ to\\ Remain)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

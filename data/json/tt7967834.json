@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt7967834",
+    "title": "Meet Me in St. Gallen",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1012,
+    "occurrences": [
+      [
+        0,
+        "00:00:34.584000",
+        "00:00:35.719000",
+        "(Meet me in St. Gallen)"
+      ],
+      [
+        1012,
+        "01:30:59.938000",
+        "01:31:03.374000",
+        "(Meet Me in St. Gallen)"
+      ]
+    ],
+    "regex": "\\b((?!\\bMeet\\ Me\\ in\\ St\\.\\ Gallen:)Meet\\ Me\\ in\\ St\\.\\ Gallen)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

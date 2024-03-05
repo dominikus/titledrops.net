@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1907614",
+    "title": "Alter Egos",
+    "year": 2012,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1500,
+    "occurrences": [
+      [
+        306,
+        "00:15:29.396000",
+        "00:15:32.630000",
+        "Superhero Stuff, Alter Egos, Top Secret."
+      ],
+      [
+        735,
+        "00:35:10.542000",
+        "00:35:13.310000",
+        "That Superheroes Have These Alter Egos"
+      ]
+    ],
+    "regex": "\\b((?!\\bAlter\\ Egos:)Alter\\ Egos)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

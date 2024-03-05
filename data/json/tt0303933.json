@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0303933",
+    "title": "Drumline",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 5,
+    "all_lines": 1142,
+    "occurrences": [
+      [
+        192,
+        "00:15:49.365000",
+        "00:15:52.951000",
+        "These are for A&T drumline only. P1 s."
+      ],
+      [
+        205,
+        "00:16:43.961000",
+        "00:16:47.172000",
+        "I own the drumline."
+      ],
+      [
+        420,
+        "00:33:23.877000",
+        "00:33:26.045000",
+        "I heard he made the drumline."
+      ],
+      [
+        530,
+        "00:44:24.162000",
+        "00:44:26.705000",
+        "The baddest drumline in the land!"
+      ],
+      [
+        533,
+        "00:44:36.090000",
+        "00:44:38.467000",
+        "Drumline, get your thing on!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDrumline:)Drumline)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

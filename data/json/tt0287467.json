@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0287467",
+    "title": "Talk to Her",
+    "year": 2002,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 845,
+    "occurrences": [
+      [
+        423,
+        "00:55:02.451000",
+        "00:55:05.411000",
+        "Talk to her. Tell her that."
+      ],
+      [
+        428,
+        "00:55:18.410000",
+        "00:55:22.198000",
+        "You must look after the woman, talk to her..."
+      ],
+      [
+        454,
+        "00:57:20.719000",
+        "00:57:24.233000",
+        "-Did you talk to her? -No, and don't insist."
+      ]
+    ],
+    "regex": "\\b((?!\\bTalk\\ to\\ Her:)Talk\\ to\\ Her)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

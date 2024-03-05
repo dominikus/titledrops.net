@@ -1,0 +1,48 @@
+[
+  {
+    "imdb": "tt0098663",
+    "title": "The Wizard",
+    "year": 1989,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 997,
+    "occurrences": [
+      [
+        207,
+        "00:21:23.849000",
+        "00:21:28.343000",
+        "- He's a wizard. - So he can play Ninja Gaiden? So what?"
+      ],
+      [
+        340,
+        "00:34:59.497000",
+        "00:35:02.261000",
+        "So, you the wizard?"
+      ],
+      [
+        533,
+        "00:53:04.881000",
+        "00:53:09.750000",
+        "Hi. My name is Haley, and I've got a wizard who's going all the way to the championships in Los Angeles."
+      ],
+      [
+        749,
+        "01:12:45.260000",
+        "01:12:48.661000",
+        "Hey, It's the wizard. I brought my friends too."
+      ]
+    ],
+    "regex": "\\b((?!\\bWizard:)Wizard)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [
+      "Jimmy Woods",
+      "The Wizard"
+    ],
+    "title_is_name": true,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5580266",
+    "title": "The Hate U Give",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 2538,
+    "occurrences": [
+      [
+        469,
+        "00:19:20.986000",
+        "00:19:24.123000",
+        "\"The Hate U Give Little Infants Fucks Everybody.\""
+      ],
+      [
+        997,
+        "00:46:00.984000",
+        "00:46:02.902000",
+        "\"The Hate U Give Little Infants...\""
+      ],
+      [
+        2323,
+        "01:54:41.908000",
+        "01:54:44.981000",
+        "The Hate U Give Little Infants F's Everybody."
+      ]
+    ],
+    "regex": "\\b((?!\\bHate\\ U\\ Give:)Hate\\ U\\ Give)(?!\\:)(?!'t)\\b",
+    "runtime": 133,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

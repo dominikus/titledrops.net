@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0108607",
+    "title": "The Magic Crane",
+    "year": 1993,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 1146,
+    "occurrences": [
+      [
+        472,
+        "00:32:50.292000",
+        "00:32:52.958000",
+        "\"The magic crane disappears with the flying cloud.\""
+      ],
+      [
+        549,
+        "00:40:58.083000",
+        "00:41:00.917000",
+        "\"The magic crane disappears with the flying cloud.\""
+      ],
+      [
+        1099,
+        "01:28:19.083000",
+        "01:28:25.042000",
+        "\"To fly higher than the magic crane.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bMagic\\ Crane:)Magic\\ Crane)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

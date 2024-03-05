@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3741632",
+    "title": "The Leisure Seeker",
+    "year": 2017,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1102,
+    "occurrences": [
+      [
+        17,
+        "00:03:40.560000",
+        "00:03:44.139000",
+        "And you won't believe it: so is the Leisure Seeker."
+      ],
+      [
+        148,
+        "00:15:50.393000",
+        "00:15:55.216000",
+        "It's a gift from my parents. Our named it the Leisure Seeker."
+      ],
+      [
+        1061,
+        "01:39:23.477000",
+        "01:39:27.305000",
+        "I thought i would never see the Leisure Seeker again."
+      ]
+    ],
+    "regex": "\\b((?!\\bLeisure\\ Seeker:)Leisure\\ Seeker)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

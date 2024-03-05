@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0110442",
+    "title": "Major League II",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Sport"
+    ],
+    "count": 3,
+    "all_lines": 1582,
+    "occurrences": [
+      [
+        38,
+        "00:02:41.871000",
+        "00:02:45.416000",
+        "he went on to set a Major League record for strikeouts"
+      ],
+      [
+        753,
+        "00:48:24.361000",
+        "00:48:26.446000",
+        "Welcome back to Major League Baseball."
+      ],
+      [
+        1149,
+        "01:15:36.658000",
+        "01:15:38.577000",
+        "You wanna be a major league pitcher?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMajor\\ League:)Major\\ League)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

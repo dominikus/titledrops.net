@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt13975458",
+    "title": "Cube",
+    "year": 2021,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 747,
+    "occurrences": [
+      [
+        347,
+        "00:44:44.100000",
+        "00:44:45.340000",
+        "A cube?"
+      ],
+      [
+        348,
+        "00:44:45.350000",
+        "00:44:46.350000",
+        "A cube?"
+      ],
+      [
+        358,
+        "00:45:19.011000",
+        "00:45:21.010000",
+        "This is a cube!"
+      ],
+      [
+        374,
+        "00:46:40.800000",
+        "00:46:45.540000",
+        "The cubes are gathered together to make an even bigger cube..."
+      ],
+      [
+        462,
+        "00:59:27.930000",
+        "00:59:30.109000",
+        "The height of the side of the cube?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCube:)Cube)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt14913282",
+    "title": "I Like Movies",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 2119,
+    "occurrences": [
+      [
+        183,
+        "00:07:12.711000",
+        "00:07:16.372000",
+        "(\"I Like Movies\" main theme)"
+      ],
+      [
+        570,
+        "00:21:29.897000",
+        "00:21:33.371000",
+        "(Main \"I Like Movies\" theme)"
+      ],
+      [
+        807,
+        "00:31:48.581000",
+        "00:31:49.745000",
+        "I like movies."
+      ],
+      [
+        1029,
+        "00:42:00.522000",
+        "00:42:04.095000",
+        "(\"I Like Movies\" main theme)"
+      ],
+      [
+        1941,
+        "01:27:05.257000",
+        "01:27:08.962000",
+        "(\"I Like Movies\" main theme)"
+      ],
+      [
+        2037,
+        "01:32:26.886000",
+        "01:32:31.790000",
+        "- Yeah, yeah, I like movies, but what do you like?"
+      ],
+      [
+        2119,
+        "01:37:23.952000",
+        "01:37:27.547000",
+        "(\"I Like Movies\" main theme)"
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Like\\ Movies:)I\\ Like\\ Movies)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

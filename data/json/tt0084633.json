@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0084633",
+    "title": "Savannah Smiles",
+    "year": 1982,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1424,
+    "occurrences": [
+      [
+        957,
+        "01:07:29.486000",
+        "01:07:34.140000",
+        "When Savannah smiles I hear somebody sayin'"
+      ],
+      [
+        959,
+        "01:07:38.210000",
+        "01:07:42.498000",
+        "When Savannah smiles Those grey clouds start to prayin'"
+      ],
+      [
+        963,
+        "01:08:01.038000",
+        "01:08:05.481000",
+        "Savannah smiles at me"
+      ]
+    ],
+    "regex": "\\b((?!\\bSavannah\\ Smiles:)Savannah\\ Smiles)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

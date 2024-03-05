@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0108112",
+    "title": "Flying Dagger",
+    "year": 1993,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1234,
+    "occurrences": [
+      [
+        429,
+        "00:28:42.353000",
+        "00:28:43.464000",
+        "We are \"Big and Little Flying Dagger\""
+      ],
+      [
+        459,
+        "00:30:38.903000",
+        "00:30:41.543000",
+        "Why was he caught by \"Big and Little Flying Dagger\" and Bewitchment"
+      ]
+    ],
+    "regex": "\\b((?!\\bFlying\\ Dagger:)Flying\\ Dagger)(?!\\:)(?!'t)\\b",
+    "runtime": 180,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

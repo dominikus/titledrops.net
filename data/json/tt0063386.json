@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0063386",
+    "title": "The Olsen Gang",
+    "year": 1968,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 440,
+    "occurrences": [
+      [
+        267,
+        "00:41:43.760000",
+        "00:41:47.834000",
+        "He is a member of the Olsen Gang. The Olsen Gang is behind this."
+      ],
+      [
+        324,
+        "00:49:47.880000",
+        "00:49:52.875000",
+        "- Where are they? The Olsen Gang? - Coming up."
+      ]
+    ],
+    "regex": "\\b((?!\\bOlsen\\ Gang:)Olsen\\ Gang)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

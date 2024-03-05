@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt7021508",
+    "title": "Honey: Rise Up and Dance",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 5,
+    "all_lines": 1742,
+    "occurrences": [
+      [
+        237,
+        "00:12:28.697000",
+        "00:12:31.232000",
+        "You're not tryin' out, are you? Honey Studio's best dancer?"
+      ],
+      [
+        652,
+        "00:34:28.583000",
+        "00:34:31.985000",
+        "It's not like Honey, but it's somewhere where I can work on my moves"
+      ],
+      [
+        1199,
+        "01:07:22.054000",
+        "01:07:25.088000",
+        "that Honey Studio stands for."
+      ],
+      [
+        1327,
+        "01:15:05.618000",
+        "01:15:09.789000",
+        "And when she's made up her mind, that's that. Right, honey?"
+      ],
+      [
+        1603,
+        "01:34:01.252000",
+        "01:34:05.820000",
+        "from the Honey Daniels Dance Studio, it's Pulsar!"
+      ]
+    ],
+    "regex": "\\b((?!\\bHoney:)Honey|(?!\\bRise\\ Up\\ and\\ Dance:)Rise\\ Up\\ and\\ Dance)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

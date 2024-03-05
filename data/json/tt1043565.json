@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1043565",
+    "title": "Tengri: Blue Heavens",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 637,
+    "occurrences": [
+      [
+        297,
+        "00:38:20.998000",
+        "00:38:24.866000",
+        "lnternet is like the Tengri."
+      ],
+      [
+        337,
+        "00:41:40.831000",
+        "00:41:42.662000",
+        "But Tengri didn't want me."
+      ]
+    ],
+    "regex": "\\b((?!\\bTengri:)Tengri|(?!\\bBlue\\ Heavens:)Blue\\ Heavens)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

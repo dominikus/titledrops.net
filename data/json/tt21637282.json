@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt21637282",
+    "title": "Charcoal",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1021,
+    "occurrences": [
+      [
+        77,
+        "00:07:16.189000",
+        "00:07:18.389000",
+        "You're charcoal producers, huh?"
+      ],
+      [
+        80,
+        "00:07:27.838000",
+        "00:07:33.238000",
+        "From the charcoal production and the orders I sell to other places."
+      ],
+      [
+        116,
+        "00:10:30.331000",
+        "00:10:33.330000",
+        "Charcoal production is too low at this time of year."
+      ]
+    ],
+    "regex": "\\b((?!\\bCharcoal:)Charcoal)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

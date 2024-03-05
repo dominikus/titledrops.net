@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0254387",
+    "title": "Hong Kil-dong",
+    "year": 1986,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 1075,
+    "occurrences": [
+      [
+        6,
+        "00:01:23.094000",
+        "00:01:27.009000",
+        "They call me Hong Kil-dong, Avenger with a flute, did you understand?"
+      ],
+      [
+        745,
+        "01:09:50.379000",
+        "01:09:51.875000",
+        "Hong Kil-dong."
+      ],
+      [
+        1046,
+        "01:41:26.840000",
+        "01:41:30.779000",
+        "in the name of my brother, brave Hong Kil-dong."
+      ]
+    ],
+    "regex": "\\b((?!\\bHong\\ Kil\\-dong:)Hong\\ Kil\\-dong)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

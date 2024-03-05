@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4924686",
+    "title": "Normandy Is My Name",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1974,
+    "occurrences": [
+      [
+        1813,
+        "01:24:03.320000",
+        "01:24:04.783000",
+        "Normandy is my name."
+      ],
+      [
+        1892,
+        "01:27:26.660000",
+        "01:27:29.770000",
+        "- Normandy is my name."
+      ],
+      [
+        1923,
+        "01:28:46.700000",
+        "01:28:48.210000",
+        "Normandy is my name"
+      ]
+    ],
+    "regex": "\\b((?!\\bNormandy\\ Is\\ My\\ Name:)Normandy\\ Is\\ My\\ Name)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

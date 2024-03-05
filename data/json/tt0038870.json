@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0038870",
+    "title": "Cross of Love",
+    "year": 1946,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 916,
+    "occurrences": [
+      [
+        1,
+        "00:00:44.333000",
+        "00:00:47.042000",
+        "The Cross of Love"
+      ],
+      [
+        365,
+        "00:49:03.750000",
+        "00:49:05.667000",
+        "The cross of love"
+      ],
+      [
+        366,
+        "00:49:06.542000",
+        "00:49:09.208000",
+        "Do you know what the cross of love is?"
+      ],
+      [
+        383,
+        "00:49:58.333000",
+        "00:50:01.708000",
+        "this woman in this work, which is called ''The Cross of Love''"
+      ],
+      [
+        533,
+        "01:03:24",
+        "01:03:26.292000",
+        "This painting is called ''The Cross of Love''"
+      ],
+      [
+        552,
+        "01:04:42.958000",
+        "01:04:45.250000",
+        "''The Cross of Love'' has won the first prize"
+      ]
+    ],
+    "regex": "\\b((?!\\bCross\\ of\\ Love:)Cross\\ of\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

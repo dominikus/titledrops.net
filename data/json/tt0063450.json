@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0063450",
+    "title": "A Place in Hell",
+    "year": 1969,
+    "genres": [
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1120,
+    "occurrences": [
+      [
+        7,
+        "00:00:25.033000",
+        "00:00:29.200000",
+        "* There's a place in Hell for you, soldier (mumbles)"
+      ],
+      [
+        1118,
+        "01:41:47.433000",
+        "01:41:51.133000",
+        "and there will always be a place in Hell left for him,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPlace\\ in\\ Hell:)Place\\ in\\ Hell)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0051058",
+    "title": "The Tattered Dress",
+    "year": 1957,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 3,
+    "all_lines": 1486,
+    "occurrences": [
+      [
+        1373,
+        "01:23:31.500000",
+        "01:23:34.333000",
+        "called it the case of the tattered dress."
+      ],
+      [
+        1375,
+        "01:23:38.083000",
+        "01:23:41.059000",
+        "might be called the second case of the tattered dress,"
+      ],
+      [
+        1376,
+        "01:23:41.083000",
+        "01:23:43.208000",
+        "the tattered dress of justice."
+      ]
+    ],
+    "regex": "\\b((?!\\bTattered\\ Dress:)Tattered\\ Dress)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

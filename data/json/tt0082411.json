@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0082411",
+    "title": "Frankfurt: The Face of a City",
+    "year": 1981,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1273,
+    "occurrences": [
+      [
+        1,
+        "00:00:57.933000",
+        "00:01:00.516000",
+        "While you happen to be in Frankfurt."
+      ],
+      [
+        124,
+        "00:11:48.041000",
+        "00:11:51.205000",
+        "- You know where you want to go? - To Frankfurt, to uncle Ossi."
+      ],
+      [
+        198,
+        "00:16:45.630000",
+        "00:16:49.624000",
+        "I'm sure you gonna really like it here in Frankfurt."
+      ],
+      [
+        310,
+        "00:22:43.779000",
+        "00:22:46.362000",
+        "And to our Frankfurt!"
+      ],
+      [
+        731,
+        "00:49:42.855000",
+        "00:49:45.222000",
+        "One of the big boys in Frankfurt."
+      ],
+      [
+        1222,
+        "01:22:34.450000",
+        "01:22:38.490000",
+        "I wanted to turn you into the most expensive whore in Frankfurt."
+      ]
+    ],
+    "regex": "\\b((?!\\bFrankfurt:)Frankfurt|(?!\\bFace\\ of\\ a\\ City:)Face\\ of\\ a\\ City)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

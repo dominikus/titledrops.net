@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0073246",
+    "title": "King of the Night",
+    "year": 1975,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1131,
+    "occurrences": [
+      [
+        195,
+        "00:17:27.504000",
+        "00:17:29.995000",
+        "...I am the King of the Night. -The King of the Night?"
+      ],
+      [
+        881,
+        "01:07:19.426000",
+        "01:07:22.224000",
+        "Where is the King of the Night?"
+      ]
+    ],
+    "regex": "\\b((?!\\bKing\\ of\\ the\\ Night:)King\\ of\\ the\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

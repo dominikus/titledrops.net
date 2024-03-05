@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4168022",
+    "title": "Yo-kai Watch Movie: It's the Secret of Birth, Meow!",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1387,
+    "occurrences": [
+      [
+        2,
+        "00:00:39.740000",
+        "00:00:42.760000",
+        "It's finally time fur the Yo-kai Watch Movie to sta-"
+      ],
+      [
+        5,
+        "00:00:53.160000",
+        "00:00:58.820000",
+        "Everyone, we apologize for the wait. The Yo-kai Watch Movie is about to beg-"
+      ]
+    ],
+    "regex": "\\b((?!\\bYo\\-kai\\ Watch\\ Movie:)Yo\\-kai\\ Watch\\ Movie|(?!\\bIt's\\ the\\ Secret\\ of\\ Birth,\\ Meow!:)It's\\ the\\ Secret\\ of\\ Birth,\\ Meow!)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

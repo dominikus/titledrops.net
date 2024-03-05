@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3138596",
+    "title": "Trap Street",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 638,
+    "occurrences": [
+      [
+        390,
+        "00:47:55.447000",
+        "00:47:57.916000",
+        "Even a blind man would see that this is a trap street."
+      ],
+      [
+        392,
+        "00:47:59.487000",
+        "00:48:03.560000",
+        "A \"trap street\" has to blend into its surroundings."
+      ],
+      [
+        400,
+        "00:48:18.846000",
+        "00:48:20.804000",
+        "Teaching her to create a \"trap street\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrap\\ Street:)Trap\\ Street)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

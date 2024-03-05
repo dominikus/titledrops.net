@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt7027566",
+    "title": "The Legend of 420",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1738,
+    "occurrences": [
+      [
+        28,
+        "00:01:49.109000",
+        "00:01:51.445000",
+        "the legend of 420."
+      ],
+      [
+        30,
+        "00:01:52.738000",
+        "00:01:55.157000",
+        "Wait, that's not the legend of 420."
+      ],
+      [
+        32,
+        "00:01:56.283000",
+        "00:01:58.410000",
+        "This is the legend of 420."
+      ],
+      [
+        1672,
+        "01:21:50.948000",
+        "01:21:53.660000",
+        "I hope the Legend of 420"
+      ]
+    ],
+    "regex": "\\b((?!\\bLegend\\ of:)Legend\\ of)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

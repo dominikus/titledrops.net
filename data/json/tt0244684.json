@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0244684",
+    "title": "No One Sleeps",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1235,
+    "occurrences": [
+      [
+        0,
+        "00:00:12.078000",
+        "00:00:15.166000",
+        "No One Sleeps"
+      ],
+      [
+        553,
+        "00:45:38.102000",
+        "00:45:39.381000",
+        "No one sleeps."
+      ]
+    ],
+    "regex": "\\b((?!\\bNo\\ One\\ Sleeps:)No\\ One\\ Sleeps)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

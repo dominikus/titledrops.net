@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1545754",
+    "title": "Are You Here",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1776,
+    "occurrences": [
+      [
+        1208,
+        "01:07:54.236000",
+        "01:07:57.172000",
+        "Why are you here?"
+      ],
+      [
+        1211,
+        "01:08:06.649000",
+        "01:08:08.817000",
+        "- Why are you here?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAre\\ You\\ Here:)Are\\ You\\ Here)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

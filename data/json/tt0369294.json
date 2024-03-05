@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0369294",
+    "title": "Killer Diller",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 750,
+    "occurrences": [
+      [
+        504,
+        "00:51:33.680000",
+        "00:51:37.270000",
+        "A man died and he left it to me. A guitar Man. A Killer Diller."
+      ],
+      [
+        566,
+        "00:59:53.430000",
+        "00:59:56.230000",
+        "Ah ah, That was the Killer Diller Blues Band"
+      ],
+      [
+        750,
+        "01:28:36.840000",
+        "01:28:41.960000",
+        "The Killer Diller Blues Band"
+      ]
+    ],
+    "regex": "\\b((?!\\bKiller\\ Diller:)Killer\\ Diller)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

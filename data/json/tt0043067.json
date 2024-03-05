@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0043067",
+    "title": "Treasure Island",
+    "year": 1950,
+    "genres": [
+      "Adventure",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 996,
+    "occurrences": [
+      [
+        68,
+        "00:11:17.380000",
+        "00:11:21.976000",
+        "So that's what those scoundrels wanted... the map of Flint's Treasure Island!"
+      ],
+      [
+        301,
+        "00:26:52.300000",
+        "00:26:55.212000",
+        "Everybody else about the town is saying we're headed for a treasure island..."
+      ]
+    ],
+    "regex": "\\b((?!\\bTreasure\\ Island:)Treasure\\ Island)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

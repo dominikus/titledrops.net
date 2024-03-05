@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3319730",
+    "title": "The Mercy",
+    "year": 2018,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1120,
+    "occurrences": [
+      [
+        1052,
+        "01:28:01.208000",
+        "01:28:03.210000",
+        "It is the mercy."
+      ],
+      [
+        1071,
+        "01:30:36.750000",
+        "01:30:38.752000",
+        "\"The mercy.\""
+      ],
+      [
+        1072,
+        "01:30:48.375000",
+        "01:30:49.877000",
+        "What \"mercy\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMercy:)Mercy)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

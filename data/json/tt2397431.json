@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt2397431",
+    "title": "Amsterdam",
+    "year": 2013,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 744,
+    "occurrences": [
+      [
+        22,
+        "00:08:09.625000",
+        "00:08:11.856000",
+        "Hey, bank boss, we're in Amsterdam."
+      ],
+      [
+        410,
+        "00:51:51.978000",
+        "00:51:57.110000",
+        "We went to Amsterdam to screw around and get high. Sam's still there.\""
+      ],
+      [
+        494,
+        "01:02:02.755000",
+        "01:02:07.352000",
+        "- What happened? - Someone in Amsterdam withdrew $1000."
+      ],
+      [
+        604,
+        "01:21:52.911000",
+        "01:21:54.277000",
+        "Amsterdam."
+      ],
+      [
+        648,
+        "01:29:48.619000",
+        "01:29:51.555000",
+        "Amsterdam only worked if we stuck together."
+      ],
+      [
+        656,
+        "01:30:14.812000",
+        "01:30:17.372000",
+        "You were blowing company money in Amsterdam."
+      ],
+      [
+        690,
+        "01:33:18.963000",
+        "01:33:21.558000",
+        "Amsterdam, the drugs, the girls. Everything."
+      ]
+    ],
+    "regex": "\\b((?!\\bAmsterdam:)Amsterdam)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

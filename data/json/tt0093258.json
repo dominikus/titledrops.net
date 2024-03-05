@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0093258",
+    "title": "Rouge",
+    "year": 1987,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Music"
+    ],
+    "count": 5,
+    "all_lines": 1081,
+    "occurrences": [
+      [
+        75,
+        "00:09:32.458000",
+        "00:09:34.517000",
+        "Moon, let me use your rouge"
+      ],
+      [
+        690,
+        "00:58:30.606000",
+        "00:58:35.270000",
+        "The handwork is nice, but the rouge must be changed"
+      ],
+      [
+        856,
+        "01:12:52.404000",
+        "01:12:53.894000",
+        "Let's see if they have a rouge box"
+      ],
+      [
+        860,
+        "01:13:14.326000",
+        "01:13:16.089000",
+        "How much for the rouge box?"
+      ],
+      [
+        1066,
+        "01:33:32.282000",
+        "01:33:36.446000",
+        "I've worn this rouge box for fifty-three years"
+      ]
+    ],
+    "regex": "\\b((?!\\bRouge:)Rouge)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

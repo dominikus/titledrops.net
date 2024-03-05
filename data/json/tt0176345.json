@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0176345",
+    "title": "Golden Fern",
+    "year": 1963,
+    "genres": [
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 365,
+    "occurrences": [
+      [
+        0,
+        "00:00:06.296000",
+        "00:00:08.846000",
+        "The Golden Fern"
+      ],
+      [
+        12,
+        "00:02:27.940000",
+        "00:02:30.810000",
+        "the golden fern is growing."
+      ],
+      [
+        13,
+        "00:08:18.263000",
+        "00:08:20.599000",
+        "Give back the golden fern."
+      ],
+      [
+        16,
+        "00:09:50.874000",
+        "00:09:53.019000",
+        "Give back the golden fern."
+      ]
+    ],
+    "regex": "\\b((?!\\bGolden\\ Fern:)Golden\\ Fern)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

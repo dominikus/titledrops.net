@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0425414",
+    "title": "Runaway",
+    "year": 2005,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 968,
+    "occurrences": [
+      [
+        412,
+        "00:29:05.176000",
+        "00:29:10.136000",
+        "He thinks you're a runaway and your parents are looking for you."
+      ],
+      [
+        414,
+        "00:29:14.719000",
+        "00:29:18.052000",
+        "-A runaway? -No."
+      ]
+    ],
+    "regex": "\\b((?!\\bRunaway:)Runaway)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

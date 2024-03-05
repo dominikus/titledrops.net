@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1369706",
+    "title": "The Ward",
+    "year": 2010,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 799,
+    "occurrences": [
+      [
+        44,
+        "00:07:30.360000",
+        "00:07:33.955000",
+        "WOMAN 2: They're taking her to the ward. She can't hurt anyone there."
+      ],
+      [
+        51,
+        "00:08:26.680000",
+        "00:08:29.399000",
+        "This is the ward, your new home."
+      ],
+      [
+        517,
+        "00:54:05.560000",
+        "00:54:10.200000",
+        "WeII, I know you said you wouIdn't date any of us inside the ward."
+      ]
+    ],
+    "regex": "\\b((?!\\bWard:)Ward)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

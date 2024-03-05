@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0094056",
+    "title": "Street Smart",
+    "year": 1987,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1667,
+    "occurrences": [
+      [
+        404,
+        "00:24:22.081000",
+        "00:24:25.517000",
+        "I was thinking, what if we call it \"Street Smart\"?"
+      ],
+      [
+        541,
+        "00:29:25.718000",
+        "00:29:28.744000",
+        "This is Jonathan Fisher, Channel 3, \"Street Smart.\""
+      ],
+      [
+        683,
+        "00:38:11.810000",
+        "00:38:14.472000",
+        "This is Jonathan Fisher, Channel 3, \"Street Smart.\""
+      ],
+      [
+        946,
+        "00:51:37.982000",
+        "00:51:41.315000",
+        "This is Jonathan Fisher, Channel 3, \"Street Smart.\""
+      ],
+      [
+        1233,
+        "01:05:18.702000",
+        "01:05:21.637000",
+        "This is Jonathan Fisher, Channel 3, \"Street Smart.\""
+      ],
+      [
+        1635,
+        "01:30:52.568000",
+        "01:30:55.662000",
+        "This is Jonathan Fisher, Channel 3, \"Street Smart.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bStreet\\ Smart:)Street\\ Smart)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

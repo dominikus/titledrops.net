@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3949936",
+    "title": "The Secret Society of Souptown",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1007,
+    "occurrences": [
+      [
+        95,
+        "00:10:23.321000",
+        "00:10:25.121000",
+        "The Secret Society of Souptown."
+      ],
+      [
+        97,
+        "00:10:28.321000",
+        "00:10:30.921000",
+        "The Secret Society of Souptown, SSOS."
+      ],
+      [
+        967,
+        "01:36:11.321000",
+        "01:36:13.961000",
+        "The Secret Society of Souptown."
+      ]
+    ],
+    "regex": "\\b((?!\\bSecret\\ Society\\ of\\ Souptown:)Secret\\ Society\\ of\\ Souptown)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

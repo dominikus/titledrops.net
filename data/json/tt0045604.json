@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt0045604",
+    "title": "Captain Scarface",
+    "year": 1953,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1084,
+    "occurrences": [
+      [
+        203,
+        "00:13:42.395000",
+        "00:13:43.829000",
+        "Captain Scarface told..."
+      ],
+      [
+        381,
+        "00:22:41.062000",
+        "00:22:42.803000",
+        "How about Captain Scarface."
+      ]
+    ],
+    "regex": "\\b((?!\\bCaptain\\ Scarface:)Captain\\ Scarface)(?!\\:)(?!'t)\\b",
+    "runtime": 72,
+    "characters": [
+      "Captain Scarface"
+    ],
+    "title_is_name": true,
+    "rating": 4.8
+  }
+]

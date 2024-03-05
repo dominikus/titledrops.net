@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3060244",
+    "title": "Three Brothers",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 906,
+    "occurrences": [
+      [
+        353,
+        "00:29:59.925000",
+        "00:30:01.510000",
+        "There were once three brothers"
+      ],
+      [
+        883,
+        "01:28:09.331000",
+        "01:28:10.916000",
+        "There were once three brothers"
+      ]
+    ],
+    "regex": "\\b((?!\\bThree\\ Brothers:)Three\\ Brothers)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

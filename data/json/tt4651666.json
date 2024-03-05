@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt4651666",
+    "title": "Camera Store",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1682,
+    "occurrences": [
+      [
+        693,
+        "00:39:53.725000",
+        "00:39:55.925000",
+        "Oh, it looks like a camera store."
+      ],
+      [
+        694,
+        "00:39:55.927000",
+        "00:39:58.428000",
+        "It feels like a camera store."
+      ],
+      [
+        1163,
+        "01:07:10.327000",
+        "01:07:12.027000",
+        "The camera store, he's..."
+      ],
+      [
+        1616,
+        "01:33:45.120000",
+        "01:33:47.754000",
+        "Penny, forget about the camera store."
+      ]
+    ],
+    "regex": "\\b((?!\\bCamera\\ Store:)Camera\\ Store)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

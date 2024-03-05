@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0099673",
+    "title": "Good Evening, Mr. Wallenberg",
+    "year": 1990,
+    "genres": [
+      "Biography",
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 995,
+    "occurrences": [
+      [
+        1,
+        "00:00:03.646000",
+        "00:00:08.500000",
+        "GOOD EVENING, Mr. WALLENBERG"
+      ],
+      [
+        555,
+        "00:57:53.149000",
+        "00:57:55.709000",
+        "Good evening, Mr. Wallenberg."
+      ]
+    ],
+    "regex": "\\b((?!\\bGood\\ Evening,\\ Mr\\.\\ Wallenberg:)Good\\ Evening,\\ Mr\\.\\ Wallenberg)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

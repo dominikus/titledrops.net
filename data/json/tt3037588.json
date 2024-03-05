@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3037588",
+    "title": "My Senior Year",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1714,
+    "occurrences": [
+      [
+        2,
+        "00:00:29.460000",
+        "00:00:32.430000",
+        "about his best-selling book, \"My Senior Year.\""
+      ],
+      [
+        1646,
+        "01:19:06.750000",
+        "01:19:10.630000",
+        "Through this journey, that was \"My Senior Year.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Senior\\ Year:)My\\ Senior\\ Year)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

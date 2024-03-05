@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt3138602",
+    "title": "Warning",
+    "year": 2013,
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 8,
+    "all_lines": 1149,
+    "occurrences": [
+      [
+        1134,
+        "01:44:12.250000",
+        "01:44:19.166000",
+        "\"Warning.. Warning..\""
+      ],
+      [
+        1136,
+        "01:44:25.750000",
+        "01:44:32.333000",
+        "\"Warning.. Warning..\""
+      ],
+      [
+        1146,
+        "01:46:14.250000",
+        "01:46:20.833000",
+        "\"Warning.. Warning..\""
+      ],
+      [
+        1148,
+        "01:46:27.208000",
+        "01:46:34",
+        "\"Warning.. Warning..\""
+      ]
+    ],
+    "regex": "\\b((?!\\bWarning:)Warning)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

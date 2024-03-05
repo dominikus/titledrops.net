@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt8068826",
+    "title": "Switched",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1856,
+    "occurrences": [
+      [
+        347,
+        "00:20:35.390000",
+        "00:20:39.661000",
+        "What I mean is, no one's ever switched bodies in history."
+      ],
+      [
+        884,
+        "00:47:42.618000",
+        "00:47:46.656000",
+        "I think it's gonna be a way for us to get switched back."
+      ]
+    ],
+    "regex": "\\b((?!\\bSwitched:)Switched)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

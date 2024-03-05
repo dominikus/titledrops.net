@@ -1,0 +1,40 @@
+[
+  {
+    "imdb": "tt2108546",
+    "title": "Jackie",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 382,
+    "occurrences": [
+      [
+        39,
+        "00:03:39.960000",
+        "00:03:41.313000",
+        "Jackie?"
+      ],
+      [
+        42,
+        "00:03:48.240000",
+        "00:03:49.878000",
+        "Who's Jackie?"
+      ],
+      [
+        283,
+        "00:47:42.600000",
+        "00:47:46.752000",
+        "You always want to be the sweet child. Play mommy and daughter with Jackie."
+      ]
+    ],
+    "regex": "\\b((?!\\bJackie:)Jackie)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [
+      "Jackie"
+    ],
+    "title_is_name": true,
+    "rating": 6.8
+  }
+]

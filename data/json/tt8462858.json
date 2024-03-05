@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt8462858",
+    "title": "Jumpman",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 766,
+    "occurrences": [
+      [
+        603,
+        "01:00:07.375000",
+        "01:00:10.695000",
+        "It's a jumpman."
+      ],
+      [
+        714,
+        "01:14:40.455000",
+        "01:14:42.535000",
+        "Hey, jumpman."
+      ]
+    ],
+    "regex": "\\b((?!\\bJumpman:)Jumpman)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

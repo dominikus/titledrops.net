@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt6047374",
+    "title": "Welcome to Acapulco",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1425,
+    "occurrences": [
+      [
+        15,
+        "00:02:07.263000",
+        "00:02:09.063000",
+        "Welcome to Acapulco."
+      ],
+      [
+        150,
+        "00:09:47.252000",
+        "00:09:49.319000",
+        "Yes, sir. Welcome to Acapulco."
+      ],
+      [
+        176,
+        "00:10:43.504000",
+        "00:10:44.505000",
+        "Welcome to Acapulco, sir."
+      ]
+    ],
+    "regex": "\\b((?!\\bWelcome\\ to\\ Acapulco:)Welcome\\ to\\ Acapulco)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

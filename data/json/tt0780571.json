@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0780571",
+    "title": "Mr. Brooks",
+    "year": 2007,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 7,
+    "all_lines": 716,
+    "occurrences": [
+      [
+        91,
+        "00:06:52.900000",
+        "00:06:54.900000",
+        "thank you Mr. Brooks"
+      ],
+      [
+        172,
+        "00:17:26",
+        "00:17:29",
+        "\"Mr. Brooks, your daughter is waiting for you in your office\""
+      ],
+      [
+        183,
+        "00:18:06",
+        "00:18:08.800000",
+        "Uh, nobody gave me that message Mr. Brooks"
+      ],
+      [
+        288,
+        "00:23:20.500000",
+        "00:23:23",
+        "you are the man of the year, Mr. Brooks"
+      ],
+      [
+        422,
+        "00:31:52",
+        "00:31:53.200000",
+        "Mr. Brooks"
+      ],
+      [
+        423,
+        "00:31:56.900000",
+        "00:31:59.800000",
+        "Mr. Brooks"
+      ],
+      [
+        424,
+        "00:32:12.200000",
+        "00:32:13.300000",
+        "Mr. Brooks"
+      ]
+    ],
+    "regex": "\\b((?!\\bMr\\.\\ Brooks:)Mr\\.\\ Brooks)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

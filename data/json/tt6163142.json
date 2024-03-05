@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6163142",
+    "title": "Grace",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1187,
+    "occurrences": [
+      [
+        829,
+        "01:07:05.692000",
+        "01:07:07.152000",
+        "It's called Grace."
+      ],
+      [
+        864,
+        "01:10:34.568000",
+        "01:10:36.361000",
+        "You really have to read Grace."
+      ],
+      [
+        1051,
+        "01:20:58.484000",
+        "01:21:00.277000",
+        "What about Grace?"
+      ],
+      [
+        1134,
+        "01:28:29.601000",
+        "01:28:30.769000",
+        "He wouldn't do that, not to Grace."
+      ]
+    ],
+    "regex": "\\b((?!\\bGrace:)Grace)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

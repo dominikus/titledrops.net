@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0090056",
+    "title": "Spies Like Us",
+    "year": 1985,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1268,
+    "occurrences": [
+      [
+        792,
+        "00:58:34.848000",
+        "00:58:37.350000",
+        "you're saying that they're spies like us?"
+      ],
+      [
+        910,
+        "01:07:03.398000",
+        "01:07:04.399000",
+        "you're spies like us!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpies\\ Like\\ Us:)Spies\\ Like\\ Us)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt7282468",
+    "title": "Burning",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1098,
+    "occurrences": [
+      [
+        11,
+        "00:01:51.210000",
+        "00:01:53.310000",
+        "Based on \"Barn Burning\" by Haruki Murakami"
+      ],
+      [
+        646,
+        "01:16:00.390000",
+        "01:16:05.530000",
+        "And I look at the burning greenhouse"
+      ],
+      [
+        678,
+        "01:18:12.990000",
+        "01:18:15.520000",
+        "It should be fun burning, it's been a while."
+      ]
+    ],
+    "regex": "\\b((?!\\bBurning:)Burning)(?!\\:)(?!'t)\\b",
+    "runtime": 148,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

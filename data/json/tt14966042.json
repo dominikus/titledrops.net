@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt14966042",
+    "title": "The History of Metal and Horror",
+    "year": 2021,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1975,
+    "occurrences": [
+      [
+        12,
+        "00:06:13.503000",
+        "00:06:17.377000",
+        "What is the history of metal and horror?"
+      ],
+      [
+        729,
+        "00:41:42.761000",
+        "00:41:45.459000",
+        "Now that you've learned a little history of metal and horror,"
+      ]
+    ],
+    "regex": "\\b((?!\\bHistory\\ of\\ Metal\\ and\\ Horror:)History\\ of\\ Metal\\ and\\ Horror)(?!\\:)(?!'t)\\b",
+    "runtime": 154,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

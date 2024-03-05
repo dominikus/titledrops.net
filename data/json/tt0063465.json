@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0063465",
+    "title": "Project X",
+    "year": 1968,
+    "genres": [
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1111,
+    "occurrences": [
+      [
+        121,
+        "00:09:51.132000",
+        "00:09:55.467000",
+        "you are involved in the single most important project in the world today."
+      ],
+      [
+        141,
+        "00:10:54.988000",
+        "00:10:58.527000",
+        "This project has top priority with every government in the West."
+      ],
+      [
+        495,
+        "00:40:13.870000",
+        "00:40:16.704000",
+        "Has it occurred to you that someone might wanna sabotage this project?"
+      ],
+      [
+        700,
+        "00:57:01.209000",
+        "00:57:04.327000",
+        "A trained, skilled killer is loose on a top-security project."
+      ]
+    ],
+    "regex": "\\b((?!\\bProject:)Project)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

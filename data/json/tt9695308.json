@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt9695308",
+    "title": "The Columnist",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 641,
+    "occurrences": [
+      [
+        4,
+        "00:00:53.815000",
+        "00:00:55.815000",
+        "Columnist Femke Boot wrote earlier this week..."
+      ],
+      [
+        186,
+        "00:19:49.415000",
+        "00:19:52.855000",
+        "It will always be h... fucking columnist,!"
+      ],
+      [
+        517,
+        "01:04:50.215000",
+        "01:04:52.775000",
+        "...a columnist for the Volkskrant."
+      ]
+    ],
+    "regex": "\\b((?!\\bColumnist:)Columnist)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

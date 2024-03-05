@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0217135",
+    "title": "Vortex",
+    "year": 2001,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 392,
+    "occurrences": [
+      [
+        36,
+        "00:04:30.300000",
+        "00:04:32.800000",
+        "Therefore you will be transfered to Vortex immediately,"
+      ],
+      [
+        104,
+        "00:11:32.900000",
+        "00:11:34.900000",
+        "Welcome to Vortex!"
+      ],
+      [
+        126,
+        "00:13:25.600000",
+        "00:13:27.200000",
+        "You are in Vortex, man!"
+      ],
+      [
+        329,
+        "00:36:35.800000",
+        "00:36:39.800000",
+        "But Vortex is an artificial reality, that only exists here."
+      ],
+      [
+        342,
+        "00:37:48.900000",
+        "00:37:52.900000",
+        "If you want, what you see there is the real Vortex."
+      ]
+    ],
+    "regex": "\\b((?!\\bVortex:)Vortex)(?!\\:)(?!'t)\\b",
+    "runtime": 63,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

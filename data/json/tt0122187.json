@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0122187",
+    "title": "Bad Movie",
+    "year": 1997,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1185,
+    "occurrences": [
+      [
+        46,
+        "00:06:04.822000",
+        "00:06:06.656000",
+        "Hey, you think you could be in Bad Movie?"
+      ],
+      [
+        953,
+        "01:50:10.192000",
+        "01:50:12.693000",
+        "I'm the lead actor in Bad Movie,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBad\\ Movie:)Bad\\ Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 144,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

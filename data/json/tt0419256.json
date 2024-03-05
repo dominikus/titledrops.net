@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0419256",
+    "title": "Wah-Wah",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1010,
+    "occurrences": [
+      [
+        315,
+        "00:30:11.600000",
+        "00:30:13.636000",
+        "Sounds like a load of old wah-wah."
+      ],
+      [
+        317,
+        "00:31:03.080000",
+        "00:31:05.036000",
+        "It's all just wah-wah to me."
+      ],
+      [
+        951,
+        "01:23:57.760000",
+        "01:24:03.278000",
+        "No more lah-di-dah, hoity-toity, hooty-snooty, wah-wah any more."
+      ]
+    ],
+    "regex": "\\b((?!\\bWah\\-Wah:)Wah\\-Wah)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

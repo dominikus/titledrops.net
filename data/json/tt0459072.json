@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt0459072",
+    "title": "Alice",
+    "year": 2005,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 359,
+    "occurrences": [
+      [
+        40,
+        "00:15:01.357000",
+        "00:15:05.430000",
+        "Every morning l do exactly the same as l did the day Alice disappeared."
+      ],
+      [
+        81,
+        "00:20:20.957000",
+        "00:20:23.187000",
+        "l go there to ask God to bring little Alice back."
+      ],
+      [
+        177,
+        "00:32:27.517000",
+        "00:32:30.589000",
+        "Today is Alice's fourth birthday, did you know?"
+      ],
+      [
+        202,
+        "00:42:29.677000",
+        "00:42:32.145000",
+        "Our daughter Alice has been missing for 193 days now."
+      ],
+      [
+        270,
+        "00:56:11.037000",
+        "00:56:11.992000",
+        "My daughter's name is Alice..."
+      ],
+      [
+        271,
+        "00:56:12.917000",
+        "00:56:14.873000",
+        "Good afternoon, my daughter's name is Alice..."
+      ],
+      [
+        314,
+        "01:10:41.877000",
+        "01:10:44.835000",
+        "how can you be sure it was Alice if you didn't even see her face?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAlice:)Alice)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

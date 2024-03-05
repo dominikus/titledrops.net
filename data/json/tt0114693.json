@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0114693",
+    "title": "Tomcat Angels",
+    "year": 1991,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1253,
+    "occurrences": [
+      [
+        79,
+        "00:06:32.250000",
+        "00:06:36.375000",
+        "Hey, we're the Tomcat Angels."
+      ],
+      [
+        359,
+        "00:26:21.266000",
+        "00:26:22.262000",
+        "Tomcat Angels."
+      ],
+      [
+        445,
+        "00:31:02.406000",
+        "00:31:04.556000",
+        "Tomcat Angels."
+      ],
+      [
+        963,
+        "01:00:31.580000",
+        "01:00:34.020000",
+        "Operation Tomcat Angels."
+      ],
+      [
+        974,
+        "01:00:53.550000",
+        "01:00:57.640000",
+        "We set it up to fly patrol together, the Tomcat Angels."
+      ]
+    ],
+    "regex": "\\b((?!\\bTomcat\\ Angels:)Tomcat\\ Angels)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

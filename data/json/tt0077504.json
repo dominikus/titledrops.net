@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0077504",
+    "title": "The End",
+    "year": 1978,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1970,
+    "occurrences": [
+      [
+        143,
+        "00:08:06.067000",
+        "00:08:08.936000",
+        "What's it gonna be like at the very end?"
+      ],
+      [
+        340,
+        "00:22:07.041000",
+        "00:22:08.841000",
+        "I'm not gonna end up like that."
+      ],
+      [
+        1208,
+        "01:05:49.728000",
+        "01:05:51.895000",
+        "Just wait down at the end of the hall."
+      ],
+      [
+        1777,
+        "01:29:51.952000",
+        "01:29:54.786000",
+        "the end is near"
+      ],
+      [
+        1912,
+        "01:37:27.657000",
+        "01:37:29.525000",
+        "I promised to help you end all that."
+      ],
+      [
+        1966,
+        "01:40:05.198000",
+        "01:40:08.233000",
+        "if I knew our love was gonna end this way"
+      ]
+    ],
+    "regex": "\\b((?!\\bEnd:)End)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

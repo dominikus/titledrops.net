@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt11779642",
+    "title": "Planet Zee",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 787,
+    "occurrences": [
+      [
+        117,
+        "00:15:18.087000",
+        "00:15:20.573000",
+        "Planet Zee, how can I help you?"
+      ],
+      [
+        118,
+        "00:15:21.539000",
+        "00:15:24.923000",
+        "Yeah, well, Planet Zee, that's a good one."
+      ],
+      [
+        428,
+        "00:50:04.957000",
+        "00:50:08.663000",
+        "I, I'm just Planet Zee."
+      ]
+    ],
+    "regex": "\\b((?!\\bPlanet\\ Zee:)Planet\\ Zee)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

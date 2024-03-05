@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0092904",
+    "title": "Dogs in Space",
+    "year": 1986,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1160,
+    "occurrences": [
+      [
+        118,
+        "00:11:37.679000",
+        "00:11:41.962000",
+        "Dogs in space..."
+      ],
+      [
+        121,
+        "00:11:52.192000",
+        "00:12:10.584000",
+        "Dogs in space..."
+      ],
+      [
+        124,
+        "00:12:48.137000",
+        "00:13:22.031000",
+        "Dogs in space..."
+      ],
+      [
+        503,
+        "00:42:04.783000",
+        "00:42:07.676000",
+        "Hello there...dogs in space."
+      ]
+    ],
+    "regex": "\\b((?!\\bDogs\\ in\\ Space:)Dogs\\ in\\ Space)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

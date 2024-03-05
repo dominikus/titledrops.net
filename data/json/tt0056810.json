@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0056810",
+    "title": "Act One",
+    "year": 1963,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1691,
+    "occurrences": [
+      [
+        392,
+        "00:24:29.535000",
+        "00:24:31.936000",
+        "\"Act one, scene one.\""
+      ],
+      [
+        1004,
+        "01:02:02.286000",
+        "01:02:03.952000",
+        "Act one."
+      ]
+    ],
+    "regex": "\\b((?!\\bAct\\ One:)Act\\ One)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

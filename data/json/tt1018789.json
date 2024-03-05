@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1018789",
+    "title": "Spirit of the Forest",
+    "year": 2008,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1877,
+    "occurrences": [
+      [
+        1834,
+        "01:11:38.300000",
+        "01:11:40.666000",
+        "The spirit of the forest exists."
+      ],
+      [
+        1836,
+        "01:11:42.471000",
+        "01:11:44.996000",
+        "The spirit of the forest is alive."
+      ],
+      [
+        1837,
+        "01:11:45.040000",
+        "01:11:48.134000",
+        "The spirit of the forest is alive!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpirit\\ of\\ the\\ Forest:)Spirit\\ of\\ the\\ Forest)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0064691",
+    "title": "Moon Zero Two",
+    "year": 1969,
+    "genres": [
+      "Crime",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1033,
+    "occurrences": [
+      [
+        1,
+        "00:07:02.504000",
+        "00:07:05.020000",
+        "Moon Zero Two calling Moon Control."
+      ],
+      [
+        2,
+        "00:07:05.262000",
+        "00:07:08.215000",
+        "Moon Zero Two, this is Moon Control."
+      ],
+      [
+        31,
+        "00:10:14.335000",
+        "00:10:17.390000",
+        "If you're Moon Zero Two, I should sell that thing along"
+      ],
+      [
+        207,
+        "00:21:39.651000",
+        "00:21:43.164000",
+        "Submitting evidence for grounding Space Ferry Moon Zero Two."
+      ]
+    ],
+    "regex": "\\b((?!\\bMoon\\ Zero\\ Two:)Moon\\ Zero\\ Two)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

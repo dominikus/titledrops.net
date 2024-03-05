@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0226135",
+    "title": "She Cat",
+    "year": 1983,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 567,
+    "occurrences": [
+      [
+        1,
+        "00:01:35.462000",
+        "00:01:44.118000",
+        "She Cat"
+      ],
+      [
+        133,
+        "00:11:55.382000",
+        "00:11:58.059000",
+        "She Cat! She Cat!"
+      ],
+      [
+        134,
+        "00:12:02.723000",
+        "00:12:06.173000",
+        "She Cat! She Cat!"
+      ],
+      [
+        294,
+        "00:34:55.495000",
+        "00:34:58.810000",
+        "She Cat! She Cat!"
+      ]
+    ],
+    "regex": "\\b((?!\\bShe\\ Cat:)She\\ Cat)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

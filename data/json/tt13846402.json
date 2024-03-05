@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt13846402",
+    "title": "The Passengers of the Night",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1341,
+    "occurrences": [
+      [
+        1,
+        "00:02:55.875000",
+        "00:02:57.958000",
+        "My dear Passengers of the Night,"
+      ],
+      [
+        1336,
+        "01:47:06.833000",
+        "01:47:09.417000",
+        "\"passengers of the night that they invented,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPassengers\\ of\\ the\\ Night:)Passengers\\ of\\ the\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

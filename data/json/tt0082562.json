@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0082562",
+    "title": "Madly in Love",
+    "year": 1981,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 872,
+    "occurrences": [
+      [
+        417,
+        "00:49:19.520000",
+        "00:49:22.318000",
+        "I am madly in love with her."
+      ],
+      [
+        439,
+        "00:51:33.240000",
+        "00:51:38.439000",
+        "- Of whom I am madly in love. - \"Of whom I am madly in love.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bMadly\\ in\\ Love:)Madly\\ in\\ Love)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

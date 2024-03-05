@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0465676",
+    "title": "The Banquet",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 848,
+    "occurrences": [
+      [
+        574,
+        "01:25:49.518000",
+        "01:25:52.854000",
+        "We shall give a banquet for the entire court."
+      ],
+      [
+        582,
+        "01:26:22.760000",
+        "01:26:27.260000",
+        "all courtiers are invited to a royal banquet to be given in the Hall of Gold."
+      ],
+      [
+        617,
+        "01:31:55.217000",
+        "01:31:57.469000",
+        "Your Majesty is throwing a banquet tonight."
+      ]
+    ],
+    "regex": "\\b((?!\\bBanquet:)Banquet)(?!\\:)(?!'t)\\b",
+    "runtime": 131,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

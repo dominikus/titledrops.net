@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0065112",
+    "title": "Topaz",
+    "year": 1969,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 597,
+    "occurrences": [
+      [
+        141,
+        "00:19:22.120000",
+        "00:19:24.960000",
+        "Colonel Kusenov, does the word \"Topaz\" mean anything to you?"
+      ],
+      [
+        143,
+        "00:19:28.480000",
+        "00:19:30",
+        "- Just the word \"Topaz.\""
+      ],
+      [
+        148,
+        "00:19:45",
+        "00:19:48.960000",
+        "You have never used or heard it used? Topaz as a code word?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTopaz:)Topaz)(?!\\:)(?!'t)\\b",
+    "runtime": 143,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

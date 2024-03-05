@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt23849204",
+    "title": "12th Fail",
+    "year": 2023,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2070,
+    "occurrences": [
+      [
+        1910,
+        "02:10:21.125000",
+        "02:10:22.750000",
+        "Why should we select a 12th fail?"
+      ],
+      [
+        1994,
+        "02:16:33.750000",
+        "02:16:38.375000",
+        "A 12th fail, a toilet sweeper, a flour-mill worker"
+      ]
+    ],
+    "regex": "\\b((?!\\b12th\\ Fail:)12th\\ Fail)(?!\\:)(?!'t)\\b",
+    "runtime": 147,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 9.1
+  }
+]

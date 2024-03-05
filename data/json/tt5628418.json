@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt5628418",
+    "title": "The Ash Lad: In the Hall of the Mountain King",
+    "year": 2017,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 6,
+    "all_lines": 590,
+    "occurrences": [
+      [
+        74,
+        "00:14:14.715000",
+        "00:14:18.924000",
+        "You ash lad."
+      ],
+      [
+        125,
+        "00:20:22.340000",
+        "00:20:25.799000",
+        "Goodbye, Ash Lad."
+      ],
+      [
+        158,
+        "00:23:47.549000",
+        "00:23:50.757000",
+        "Goodbye then, Ash Lad!"
+      ],
+      [
+        270,
+        "00:44:23.007000",
+        "00:44:25.049000",
+        "Espen \"Ash Lad\"."
+      ],
+      [
+        580,
+        "01:37:46.840000",
+        "01:37:50.049000",
+        "Call me \"Ash Lad\"."
+      ],
+      [
+        584,
+        "01:38:11.632000",
+        "01:38:14.215000",
+        "Ash lad."
+      ]
+    ],
+    "regex": "\\b((?!\\bAsh\\ Lad:)Ash\\ Lad|(?!\\bIn\\ the\\ Hall\\ of\\ the\\ Mountain\\ King:)In\\ the\\ Hall\\ of\\ the\\ Mountain\\ King)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

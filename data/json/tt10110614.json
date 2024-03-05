@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt10110614",
+    "title": "Apples",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 473,
+    "occurrences": [
+      [
+        51,
+        "00:08:51.600000",
+        "00:08:54.770000",
+        "- You don't eat apples? - I don't remember if I like them."
+      ],
+      [
+        356,
+        "01:05:18.734000",
+        "01:05:20.444000",
+        "No, no. I prefer the apples."
+      ],
+      [
+        358,
+        "01:05:24.323000",
+        "01:05:27.951000",
+        "When I get the runs, I eat five or six apples and I'm right as rain."
+      ]
+    ],
+    "regex": "\\b((?!\\bApples:)Apples)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6728096",
+    "title": "The Breaker Upperers",
+    "year": 2018,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1910,
+    "occurrences": [
+      [
+        44,
+        "00:02:27.688000",
+        "00:02:28.814000",
+        "Hello. Breaker Upperers."
+      ],
+      [
+        45,
+        "00:02:29.440000",
+        "00:02:30.316000",
+        "Hello. Breaker Upperers."
+      ]
+    ],
+    "regex": "\\b((?!\\bBreaker\\ Upperers:)Breaker\\ Upperers)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

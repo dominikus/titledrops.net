@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0067302",
+    "title": "Kidnapped",
+    "year": 1971,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1137,
+    "occurrences": [
+      [
+        315,
+        "00:30:03.720000",
+        "00:30:06.996000",
+        "He had me kidnapped aboard that boat, and I want to know why."
+      ],
+      [
+        674,
+        "01:03:05.120000",
+        "01:03:06.712000",
+        "I paid to have him kidnapped."
+      ]
+    ],
+    "regex": "\\b((?!\\bKidnapped:)Kidnapped)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

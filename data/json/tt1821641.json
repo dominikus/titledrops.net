@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1821641",
+    "title": "The Congress",
+    "year": 2013,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1462,
+    "occurrences": [
+      [
+        746,
+        "00:44:18.520000",
+        "00:44:20.750000",
+        "as special guest of Futuristic Congress."
+      ],
+      [
+        768,
+        "00:48:44",
+        "00:48:46.469000",
+        "welcome you to the Futurist Congress."
+      ],
+      [
+        919,
+        "01:00:31.840000",
+        "01:00:33.069000",
+        "Congress Futuristic,"
+      ],
+      [
+        1104,
+        "01:14:24.680000",
+        "01:14:27.354000",
+        "and this revolution Futuristic Congress."
+      ]
+    ],
+    "regex": "\\b((?!\\bCongress:)Congress)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

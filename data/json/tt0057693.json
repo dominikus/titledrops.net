@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0057693",
+    "title": "X: The Man with the X-Ray Eyes",
+    "year": 1963,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1182,
+    "occurrences": [
+      [
+        206,
+        "00:10:42.324000",
+        "00:10:43.658000",
+        "X-RAYS A TOOL"
+      ],
+      [
+        235,
+        "00:11:40.032000",
+        "00:11:43.634000",
+        "NOTES ON EXPERIMENT DESIGNATED \"X\"."
+      ],
+      [
+        380,
+        "00:20:28.343000",
+        "00:20:30.210000",
+        "THE X-RAYS WERE TAKEN FROM EVERY ANGLE."
+      ],
+      [
+        546,
+        "00:31:50.124000",
+        "00:31:54.994000",
+        "U...E...X."
+      ],
+      [
+        968,
+        "00:55:14.744000",
+        "00:55:16.411000",
+        "THE X-EFFECT?"
+      ]
+    ],
+    "regex": "\\b((?!\\bX:)X|(?!\\bMan\\ with\\ the\\ X\\-Ray\\ Eyes:)Man\\ with\\ the\\ X\\-Ray\\ Eyes)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

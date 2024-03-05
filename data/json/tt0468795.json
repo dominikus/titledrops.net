@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0468795",
+    "title": "Linda Linda Linda",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 529,
+    "occurrences": [
+      [
+        33,
+        "00:02:43.571000",
+        "00:02:52.171000",
+        "\"Linda Linda Linda\""
+      ],
+      [
+        170,
+        "00:15:47.713000",
+        "00:15:52.136000",
+        "Linda Linda Linda Linda Linda"
+      ],
+      [
+        171,
+        "00:15:52.572000",
+        "00:15:56.388000",
+        "Linda Linda Linda Linda Linda"
+      ]
+    ],
+    "regex": "\\b((?!\\bLinda\\ Linda\\ Linda:)Linda\\ Linda\\ Linda)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

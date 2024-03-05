@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt13566172",
+    "title": "The Dive",
+    "year": 2023,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 554,
+    "occurrences": [
+      [
+        63,
+        "00:09:53.727000",
+        "00:09:56.730000",
+        "Perfect dive bell conditions."
+      ],
+      [
+        185,
+        "00:21:14.274000",
+        "00:21:16.043000",
+        "Your dive computer will go crazy, telling you"
+      ],
+      [
+        304,
+        "00:40:53.187000",
+        "00:40:54.855000",
+        "at least one more dive to bring me"
+      ],
+      [
+        366,
+        "00:55:11.145000",
+        "00:55:13.181000",
+        "Today is not the day for a dive."
+      ]
+    ],
+    "regex": "\\b((?!\\bDive:)Dive)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0038369",
+    "title": "The Blue Dahlia",
+    "year": 1946,
+    "genres": [
+      "Crime",
+      "Film-Noir",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 1214,
+    "occurrences": [
+      [
+        143,
+        "00:12:01.770000",
+        "00:12:04.842000",
+        "He owns a night club on the strip called the Blue Dahlia."
+      ],
+      [
+        216,
+        "00:19:17.690000",
+        "00:19:20.841000",
+        "Didn't we meet at the Blue Dahlia the other night?"
+      ],
+      [
+        250,
+        "00:22:00.170000",
+        "00:22:03.845000",
+        "Look, Leo, you run the Blue Dahlia, I'll take care of my private life."
+      ],
+      [
+        459,
+        "00:38:30.650000",
+        "00:38:32.561000",
+        "- Who is he? - Eddie Harwood. Owns the Blue Dahlia."
+      ],
+      [
+        781,
+        "01:01:52.690000",
+        "01:01:56.968000",
+        "Nights, Mr Harwood usually goes to his club, the Blue Dahlia,"
+      ],
+      [
+        1036,
+        "01:24:08.290000",
+        "01:24:11.441000",
+        "They caught up with him at the Blue Dahlia a little while ago."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Dahlia:)Blue\\ Dahlia)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

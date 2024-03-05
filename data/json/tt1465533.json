@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1465533",
+    "title": "Columbus Circle",
+    "year": 2012,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1241,
+    "occurrences": [
+      [
+        68,
+        "00:07:13.560000",
+        "00:07:14.891000",
+        "Well, this is Columbus Circle, sir."
+      ],
+      [
+        222,
+        "00:15:16.280000",
+        "00:15:19.045000",
+        "As you can see, we're directly over Columbus Circle,"
+      ],
+      [
+        407,
+        "00:27:18.960000",
+        "00:27:22.203000",
+        "A woman like that, living in Columbus Circle, with all that money?"
+      ],
+      [
+        858,
+        "00:51:50.200000",
+        "00:51:52.521000",
+        "of a wanted felon on Columbus Circle."
+      ]
+    ],
+    "regex": "\\b((?!\\bColumbus\\ Circle:)Columbus\\ Circle)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

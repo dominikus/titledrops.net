@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6436270",
+    "title": "Christmas Time",
+    "year": 2017,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 2179,
+    "occurrences": [
+      [
+        536,
+        "00:22:19.234000",
+        "00:22:23.134000",
+        "that would love to be around me at Christmas time."
+      ],
+      [
+        1192,
+        "00:46:56.365000",
+        "00:46:57.331000",
+        "I was gonna wait till Christmas time,"
+      ]
+    ],
+    "regex": "\\b((?!\\bChristmas\\ Time:)Christmas\\ Time)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

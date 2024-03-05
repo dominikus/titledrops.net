@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6183580",
+    "title": "I Am William",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 759,
+    "occurrences": [
+      [
+        0,
+        "00:00:39.240000",
+        "00:00:41.520000",
+        "I am William."
+      ],
+      [
+        757,
+        "01:19:51.200000",
+        "01:19:53.760000",
+        "I am William."
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Am\\ William:)I\\ Am\\ William)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

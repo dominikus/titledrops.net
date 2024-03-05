@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0105813",
+    "title": "White Sands",
+    "year": 1992,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1211,
+    "occurrences": [
+      [
+        453,
+        "00:37:09.144000",
+        "00:37:11.646000",
+        "Ever hear of the White Sands before, Bob?"
+      ],
+      [
+        460,
+        "00:37:31.458000",
+        "00:37:35.254000",
+        "Hang your keys on. Something to remember White Sands by."
+      ],
+      [
+        1073,
+        "01:22:32.365000",
+        "01:22:34.658000",
+        "Ever hear of the White Sands before, Bob?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWhite\\ Sands:)White\\ Sands)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

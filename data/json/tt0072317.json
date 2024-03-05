@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0072317",
+    "title": "The Trial of Billy Jack",
+    "year": 1974,
+    "genres": [
+      "Action",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 2447,
+    "occurrences": [
+      [
+        274,
+        "00:18:16.137000",
+        "00:18:19.974000",
+        "So, though the trial of Billy Jack as a person was over"
+      ],
+      [
+        279,
+        "00:18:28.524000",
+        "00:18:30.484000",
+        "and that the trial of Billy Jack"
+      ]
+    ],
+    "regex": "\\b((?!\\bTrial\\ of\\ Billy\\ Jack:)Trial\\ of\\ Billy\\ Jack)(?!\\:)(?!'t)\\b",
+    "runtime": 170,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

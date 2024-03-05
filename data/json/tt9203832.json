@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt9203832",
+    "title": "Fireball: Visitors from Darker Worlds",
+    "year": 2020,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1291,
+    "occurrences": [
+      [
+        5,
+        "00:01:27.462000",
+        "00:01:32.217000",
+        "and yet this fireball ritualfeels like a reenactment."
+      ],
+      [
+        134,
+        "00:11:53.922000",
+        "00:11:58.468000",
+        "a fireball appearedin the southeast sky in that direction,"
+      ],
+      [
+        736,
+        "00:49:10.450000",
+        "00:49:14.663000",
+        "We had to go wherethe most colossal fireball came down."
+      ]
+    ],
+    "regex": "\\b((?!\\bFireball:)Fireball|(?!\\bVisitors\\ from\\ Darker\\ Worlds:)Visitors\\ from\\ Darker\\ Worlds)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

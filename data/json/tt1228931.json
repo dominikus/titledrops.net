@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1228931",
+    "title": "Kuruvi",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1104,
+    "occurrences": [
+      [
+        193,
+        "00:19:00.139000",
+        "00:19:01.572000",
+        "This is Kuruvi's song..."
+      ],
+      [
+        284,
+        "00:26:01.760000",
+        "00:26:03.022000",
+        "Will you go as a \"Kuruvi\"? - \"Kuruvi\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bKuruvi:)Kuruvi)(?!\\:)(?!'t)\\b",
+    "runtime": 150,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

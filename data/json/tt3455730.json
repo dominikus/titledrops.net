@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3455730",
+    "title": "Love Is Now",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1184,
+    "occurrences": [
+      [
+        23,
+        "00:02:21.139000",
+        "00:02:26.530000",
+        "SONG : # Love is now"
+      ],
+      [
+        24,
+        "00:02:28.537000",
+        "00:02:30.492000",
+        "# Love is now. #"
+      ]
+    ],
+    "regex": "\\b((?!\\bLove\\ Is\\ Now:)Love\\ Is\\ Now)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

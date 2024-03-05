@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3064298",
+    "title": "Man Up",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1542,
+    "occurrences": [
+      [
+        1021,
+        "00:55:19.240000",
+        "00:55:23.564000",
+        "You need to man up. I married that woman and she tore out my heart"
+      ],
+      [
+        1472,
+        "01:21:55.320000",
+        "01:21:58.164000",
+        "(\"What Time Do You Call This (Theme From 'Man Up')\" by Elbow)"
+      ]
+    ],
+    "regex": "\\b((?!\\bMan\\ Up:)Man\\ Up)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

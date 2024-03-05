@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2404461",
+    "title": "The Past",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1406,
+    "occurrences": [
+      [
+        19,
+        "00:02:56.907000",
+        "00:03:02.700000",
+        "The past"
+      ],
+      [
+        1349,
+        "01:57:15.487000",
+        "01:57:22.298000",
+        "I don't know...Now I want to talk about the present The past is gone"
+      ],
+      [
+        1370,
+        "01:59:19.342000",
+        "01:59:22.179000",
+        "I don't want to get back to the past"
+      ]
+    ],
+    "regex": "\\b((?!\\bPast:)Past)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt11802992",
+    "title": "Given",
+    "year": 2020,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 814,
+    "occurrences": [
+      [
+        621,
+        "00:42:32.884000",
+        "00:42:35.501000",
+        "The number 14, Given, please!"
+      ],
+      [
+        697,
+        "00:50:44.333000",
+        "00:50:48.122000",
+        "and I had with the other band and with Given"
+      ]
+    ],
+    "regex": "\\b((?!\\bGiven:)Given)(?!\\:)(?!'t)\\b",
+    "runtime": 59,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

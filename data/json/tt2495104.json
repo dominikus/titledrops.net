@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2495104",
+    "title": "Parts Per Billion",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1469,
+    "occurrences": [
+      [
+        214,
+        "00:12:06.359000",
+        "00:12:09.327000",
+        "If concentrations in your area have exceeded 80 parts per billion,"
+      ],
+      [
+        220,
+        "00:12:24.076000",
+        "00:12:27.445000",
+        "What does that even mean, \"parts per billion\"?"
+      ],
+      [
+        303,
+        "00:18:06.252000",
+        "00:18:09.787000",
+        "if it gets up to more than 35 parts per billion,"
+      ]
+    ],
+    "regex": "\\b((?!\\bParts\\ Per\\ Billion:)Parts\\ Per\\ Billion)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

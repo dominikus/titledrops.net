@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2463208",
+    "title": "The Adam Project",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1624,
+    "occurrences": [
+      [
+        576,
+        "00:35:01.125000",
+        "00:35:02.500000",
+        "He called it The Adam Project."
+      ],
+      [
+        698,
+        "00:43:37.041000",
+        "00:43:39.250000",
+        "The Adam Project, had just gone online."
+      ],
+      [
+        992,
+        "01:01:45",
+        "01:01:47.958000",
+        "- She's been funding my work for years. - The Adam Project."
+      ]
+    ],
+    "regex": "\\b((?!\\bAdam\\ Project:)Adam\\ Project)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

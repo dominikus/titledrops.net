@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2852470",
+    "title": "The Missing Picture",
+    "year": 2013,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 601,
+    "occurrences": [
+      [
+        288,
+        "00:44:27.225000",
+        "00:44:29.083000",
+        "We are the missing picture"
+      ],
+      [
+        595,
+        "01:28:27.821000",
+        "01:28:30.471000",
+        "Of course I did not find the missing picture"
+      ],
+      [
+        600,
+        "01:28:51.276000",
+        "01:28:54.474000",
+        "This missing picture, now I give it to you"
+      ]
+    ],
+    "regex": "\\b((?!\\bMissing\\ Picture:)Missing\\ Picture)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

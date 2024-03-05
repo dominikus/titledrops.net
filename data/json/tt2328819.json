@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt2328819",
+    "title": "A Long Story",
+    "year": 2012,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1599,
+    "occurrences": [
+      [
+        3,
+        "00:01:19.727000",
+        "00:01:21.365000",
+        "well, it's a long story."
+      ],
+      [
+        104,
+        "00:09:36.847000",
+        "00:09:40.237000",
+        "It's a long story, my friend. How many times have I told you?"
+      ],
+      [
+        116,
+        "00:10:17.447000",
+        "00:10:18.926000",
+        "That's a long story."
+      ],
+      [
+        1560,
+        "02:08:57.727000",
+        "02:09:01.402000",
+        "Ayla... Let's write a long story together"
+      ],
+      [
+        1593,
+        "02:12:44.207000",
+        "02:12:49.520000",
+        "But now... Now... Shall we write a long story together?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLong\\ Story:)Long\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

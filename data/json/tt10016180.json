@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt10016180",
+    "title": "The Little Things",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 1219,
+    "occurrences": [
+      [
+        697,
+        "00:53:15.080000",
+        "00:53:17",
+        "It's the little things that are important, Jimmy."
+      ],
+      [
+        698,
+        "00:53:18.880000",
+        "00:53:20.560000",
+        "It's the little things that get you caught."
+      ],
+      [
+        1178,
+        "01:49:16.680000",
+        "01:49:18",
+        "It's the little things, Jimmy."
+      ],
+      [
+        1179,
+        "01:49:19.080000",
+        "01:49:20.680000",
+        "It's the little things that rip you apart"
+      ],
+      [
+        1180,
+        "01:49:20.760000",
+        "01:49:21.960000",
+        "it's the little things that..."
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Things:)Little\\ Things)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0031878",
+    "title": "Red Roses",
+    "year": 1940,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 893,
+    "occurrences": [
+      [
+        161,
+        "00:10:58.080000",
+        "00:11:00.857000",
+        "Yes, sir, we have beautiful red roses."
+      ],
+      [
+        165,
+        "00:11:13.361000",
+        "00:11:18.017000",
+        "See? The Contessa, in a bit, will receive the two dozen red roses."
+      ],
+      [
+        268,
+        "00:17:29.319000",
+        "00:17:33.598000",
+        "Yes, I was passing by the florist and I saw these lovely red roses"
+      ],
+      [
+        369,
+        "00:26:01.083000",
+        "00:26:04.813000",
+        "You're going to do me the favor and order two dozen red roses."
+      ],
+      [
+        563,
+        "00:38:12.907000",
+        "00:38:16.766000",
+        "Here is a gorgeous red rose. - Ah, you like the red roses!"
+      ]
+    ],
+    "regex": "\\b((?!\\bRed\\ Roses:)Red\\ Roses)(?!\\:)(?!'t)\\b",
+    "runtime": 65,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

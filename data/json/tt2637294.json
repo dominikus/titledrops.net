@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2637294",
+    "title": "Hot Tub Time Machine 2",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 2213,
+    "occurrences": [
+      [
+        739,
+        "00:33:00.446000",
+        "00:33:02.379000",
+        "beside the hot tub time machine."
+      ],
+      [
+        848,
+        "00:37:04.856000",
+        "00:37:06.223000",
+        "Both: Hot Tub Time Machine."
+      ],
+      [
+        851,
+        "00:37:08.694000",
+        "00:37:11.428000",
+        "So I guess you came here in a hot tub time machine, too."
+      ]
+    ],
+    "regex": "\\b((?!\\bHot\\ Tub\\ Time\\ Machine:)Hot\\ Tub\\ Time\\ Machine)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

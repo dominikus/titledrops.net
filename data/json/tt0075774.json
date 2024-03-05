@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0075774",
+    "title": "Bobby Deerfield",
+    "year": 1977,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 589,
+    "occurrences": [
+      [
+        172,
+        "00:20:58.100000",
+        "00:21:00.600000",
+        "Yes. Bobby Deerfield."
+      ],
+      [
+        588,
+        "01:04:26",
+        "01:04:28.800000",
+        "Hey! Bobby Deerfield!"
+      ],
+      [
+        589,
+        "01:04:33",
+        "01:04:35.300000",
+        "- Bobby Deerfield! - Bobby Deerfield!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBobby\\ Deerfield:)Bobby\\ Deerfield)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

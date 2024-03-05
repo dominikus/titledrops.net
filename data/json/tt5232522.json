@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5232522",
+    "title": "Dandelion",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1449,
+    "occurrences": [
+      [
+        0,
+        "00:00:13.416000",
+        "00:00:16.166000",
+        "Dandelion is a very beautiful flower."
+      ],
+      [
+        990,
+        "01:11:27.041000",
+        "01:11:28.250000",
+        "It's a dandelion."
+      ],
+      [
+        1373,
+        "01:47:12.333000",
+        "01:47:17.875000",
+        "Dandelion is a very beautiful flower, but its lifespan is short."
+      ]
+    ],
+    "regex": "\\b((?!\\bDandelion:)Dandelion)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

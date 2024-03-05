@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt10675136",
+    "title": "Hell House LLC III: Lake of Fire",
+    "year": 2019,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 2066,
+    "occurrences": [
+      [
+        643,
+        "00:21:57.159000",
+        "00:21:58.746000",
+        "into the lake of fire."
+      ],
+      [
+        1837,
+        "01:10:02.696000",
+        "01:10:06.148000",
+        "We'll all enter the lake of fire together."
+      ]
+    ],
+    "regex": "\\b((?!\\bHell\\ House\\ LLC:)Hell\\ House\\ LLC|(?!\\bLake\\ of\\ Fire:)Lake\\ of\\ Fire)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

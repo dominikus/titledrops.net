@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt10510654",
+    "title": "The Battle: Roar to Victory",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 1042,
+    "occurrences": [
+      [
+        31,
+        "00:05:47.742000",
+        "00:05:50.912000",
+        "The final battle is near, so we must fight!"
+      ],
+      [
+        507,
+        "00:54:29.281000",
+        "00:54:32.367000",
+        "The money can be delivered right after our battle."
+      ],
+      [
+        1031,
+        "02:09:36.230000",
+        "02:09:40.529000",
+        "The Battle: Roar to Victory"
+      ],
+      [
+        1042,
+        "02:11:16.611000",
+        "02:11:24.673000",
+        "Taegeukgi of Bongo-dong Battle"
+      ]
+    ],
+    "regex": "\\b((?!\\bBattle:)Battle|(?!\\bRoar\\ to\\ Victory:)Roar\\ to\\ Victory)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

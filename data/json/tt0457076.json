@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0457076",
+    "title": "The Machine",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1010,
+    "occurrences": [
+      [
+        2,
+        "00:02:09.496000",
+        "00:02:12.062000",
+        "A Maquina - The Machine -"
+      ],
+      [
+        291,
+        "00:23:41.186000",
+        "00:23:46.055000",
+        "And has someone brought you a machine like this to fix?"
+      ],
+      [
+        619,
+        "00:53:37.180000",
+        "00:53:41.116000",
+        "a machine with 700 spinning blades,"
+      ],
+      [
+        670,
+        "00:58:51.160000",
+        "00:58:53.094000",
+        "before the machine hits him."
+      ],
+      [
+        768,
+        "01:06:44.233000",
+        "01:06:48.738000",
+        "Antonio will face a terrible machine, with its 700 killer blades."
+      ],
+      [
+        769,
+        "01:06:48.738000",
+        "01:06:51.707000",
+        "And the machine will be operated by Valdene, Antonio's own brother."
+      ]
+    ],
+    "regex": "\\b((?!\\bMachine:)Machine)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

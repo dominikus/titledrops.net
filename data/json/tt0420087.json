@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0420087",
+    "title": "A Prairie Home Companion",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 6,
+    "all_lines": 2195,
+    "occurrences": [
+      [
+        35,
+        "00:03:22.760000",
+        "00:03:27.746000",
+        "doing security for a radio show called A Prairie Home Companion..."
+      ],
+      [
+        314,
+        "00:12:57.485000",
+        "00:12:59.590000",
+        "of A Prairie Home Companion coming to you..."
+      ],
+      [
+        1214,
+        "00:51:42.658000",
+        "00:51:44.927000",
+        "More of A Prairie Home Companion here in just a moment..."
+      ],
+      [
+        1440,
+        "01:02:26.536000",
+        "01:02:28.958000",
+        "And we're back with more of A Prairie Home Companion..."
+      ],
+      [
+        1689,
+        "01:12:29.613000",
+        "01:12:30.595000",
+        "right here on The Prairie Home Companion."
+      ],
+      [
+        1714,
+        "01:13:20.397000",
+        "01:13:23.496000",
+        "It's time to bring out an old favorite here on A Prairie Home Companion..."
+      ]
+    ],
+    "regex": "\\b((?!\\bPrairie\\ Home\\ Companion:)Prairie\\ Home\\ Companion)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

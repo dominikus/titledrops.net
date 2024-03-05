@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt13445076",
+    "title": "The Ambush",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 773,
+    "occurrences": [
+      [
+        305,
+        "00:29:05.871000",
+        "00:29:08.374000",
+        "UAV is 20 kilometers from the ambush."
+      ],
+      [
+        321,
+        "00:30:20.279000",
+        "00:30:21.572000",
+        "This is an ambush."
+      ],
+      [
+        612,
+        "01:07:19.204000",
+        "01:07:22.082000",
+        "Copy. We need visual on the Ambush site."
+      ]
+    ],
+    "regex": "\\b((?!\\bAmbush:)Ambush)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

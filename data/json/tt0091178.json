@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0091178",
+    "title": "Haunted Honeymoon",
+    "year": 1986,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 781,
+    "occurrences": [
+      [
+        6,
+        "00:03:46.360000",
+        "00:03:51.200000",
+        "Haunted Honeymoon, starring Larry Abbot, will continue after this news update."
+      ],
+      [
+        55,
+        "00:07:31.759000",
+        "00:07:35.200000",
+        "Haunted Honeymoon."
+      ]
+    ],
+    "regex": "\\b((?!\\bHaunted\\ Honeymoon:)Haunted\\ Honeymoon)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

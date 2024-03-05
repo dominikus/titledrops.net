@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt2167873",
+    "title": "Madam President",
+    "year": 2012,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 6,
+    "all_lines": 745,
+    "occurrences": [
+      [
+        198,
+        "00:19:38.520000",
+        "00:19:42.308000",
+        "Madam President, we'II come back from South Africa on Saturday, -"
+      ],
+      [
+        237,
+        "00:26:25.080000",
+        "00:26:27.275000",
+        "Esteemed Madam President."
+      ],
+      [
+        294,
+        "00:32:32.120000",
+        "00:32:33.917000",
+        "Madam President, -"
+      ],
+      [
+        426,
+        "00:44:30.320000",
+        "00:44:32.072000",
+        "Madam President, -"
+      ],
+      [
+        507,
+        "00:51:05.800000",
+        "00:51:08.473000",
+        "Hello, Madam President."
+      ],
+      [
+        733,
+        "01:21:26.320000",
+        "01:21:30.029000",
+        "Good afternoon, Madam President."
+      ]
+    ],
+    "regex": "\\b((?!\\bMadam\\ President:)Madam\\ President)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

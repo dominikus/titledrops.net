@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt4166142",
+    "title": "Jeziorak",
+    "year": 2014,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 861,
+    "occurrences": [
+      [
+        110,
+        "00:11:40.480000",
+        "00:11:44.530000",
+        "In the summer of 1980, in Jeziorak Lake, a child drowned."
+      ],
+      [
+        150,
+        "00:14:45.320000",
+        "00:14:49.769000",
+        "To the patient whose child drowned in Jeziorak Lake in the summer of '80."
+      ],
+      [
+        203,
+        "00:18:39.440000",
+        "00:18:43.206000",
+        "- Which one do you have in mind? - \"Jeziorak\". Maybe you could check there."
+      ],
+      [
+        216,
+        "00:20:12.920000",
+        "00:20:16.925000",
+        "I need a warrant for the caretaker and a search order for \"Jeziorak\" Lodge."
+      ]
+    ],
+    "regex": "\\b((?!\\bJeziorak:)Jeziorak)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1238302",
+    "title": "Scarce",
+    "year": 2008,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 783,
+    "occurrences": [
+      [
+        701,
+        "00:43:01.272000",
+        "00:43:03.492000",
+        "Know there have been mighty scarce out here."
+      ],
+      [
+        762,
+        "00:58:04.812000",
+        "00:58:07.632000",
+        "The hunt was just so scarce and we were snowed in."
+      ]
+    ],
+    "regex": "\\b((?!\\bScarce:)Scarce)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

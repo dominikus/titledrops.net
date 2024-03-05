@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt4862478",
+    "title": "Embrace: The Documentary",
+    "year": 2016,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1632,
+    "occurrences": [
+      [
+        142,
+        "00:07:45.133000",
+        "00:07:49.633000",
+        "I WANTED HER TO EMBRACE AND LOVE HER BODY JUST AS IT WAS."
+      ],
+      [
+        1424,
+        "01:13:35.200000",
+        "01:13:38.333000",
+        "THEN YOU OPEN YOUR ARMS TO EMBRACE OTHERS."
+      ],
+      [
+        1481,
+        "01:16:29.300000",
+        "01:16:31.733000",
+        "AND IT WAS JUST A PERFECT OPPORTUNITY TO EMBRACE"
+      ],
+      [
+        1544,
+        "01:19:51.800000",
+        "01:19:53.700000",
+        "JUST EMBRACE IT."
+      ]
+    ],
+    "regex": "\\b((?!\\bEmbrace:)Embrace|(?!\\bDocumentary:)Documentary)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

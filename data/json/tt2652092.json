@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2652092",
+    "title": "The Good Lie",
+    "year": 2014,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 808,
+    "occurrences": [
+      [
+        444,
+        "01:04:31.880000",
+        "01:04:36.681000",
+        "Having all read Huckleberry Finn, can anyone tell me what \"the good lie\" means?"
+      ],
+      [
+        453,
+        "01:05:13.080000",
+        "01:05:14.525000",
+        "So it is a good lie."
+      ],
+      [
+        781,
+        "01:39:35.480000",
+        "01:39:38.131000",
+        "- But it is a lie. - Yes, I know. But it is a good lie."
+      ]
+    ],
+    "regex": "\\b((?!\\bGood\\ Lie:)Good\\ Lie)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

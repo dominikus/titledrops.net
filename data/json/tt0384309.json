@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0384309",
+    "title": "Mamay",
+    "year": 2003,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 236,
+    "occurrences": [
+      [
+        199,
+        "00:43:03.360000",
+        "00:43:04.885000",
+        "Mamay!"
+      ],
+      [
+        200,
+        "00:43:08.360000",
+        "00:43:09.771000",
+        "Mamay?"
+      ],
+      [
+        201,
+        "00:43:24.160000",
+        "00:43:25.525000",
+        "Mamay!"
+      ],
+      [
+        225,
+        "00:58:25.160000",
+        "00:58:28.084000",
+        "Kozak Mamay... Who was he really?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMamay:)Mamay)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [
+      "Mamay"
+    ],
+    "title_is_name": true,
+    "rating": 7.1
+  }
+]

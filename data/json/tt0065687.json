@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0065687",
+    "title": "Elvis: That's the Way It Is",
+    "year": 1970,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 6,
+    "all_lines": 225,
+    "occurrences": [
+      [
+        24,
+        "00:16:44.440000",
+        "00:16:46.760000",
+        "And Elvis will cut you off. Just keep watching him."
+      ],
+      [
+        98,
+        "00:33:05.200000",
+        "00:33:07.440000",
+        "- Have you seen Elvis before? - I've seen him twice."
+      ],
+      [
+        102,
+        "00:33:17.800000",
+        "00:33:19.880000",
+        "Glad to have you aboard to see Elvis tonight."
+      ],
+      [
+        106,
+        "00:33:26.840000",
+        "00:33:28.960000",
+        "You came to see Elvis?"
+      ],
+      [
+        138,
+        "00:42:31.480000",
+        "00:42:35",
+        "...Elvis Loses his Excess."
+      ],
+      [
+        209,
+        "01:30:26.960000",
+        "01:30:29.120000",
+        "- Hello, Elvis. - Glad to meet you."
+      ]
+    ],
+    "regex": "\\b((?!\\bElvis:)Elvis|(?!\\bThat's\\ the\\ Way\\ It\\ Is:)That's\\ the\\ Way\\ It\\ Is)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

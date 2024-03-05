@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0092791",
+    "title": "Cowboys Don't Cry",
+    "year": 1988,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1691,
+    "occurrences": [
+      [
+        1677,
+        "01:37:35.920000",
+        "01:37:42.720000",
+        "Cowboys don't cry, they just keep it inside,"
+      ],
+      [
+        1685,
+        "01:38:36.360000",
+        "01:38:43.120000",
+        "Cowboys don't cry, they just keep it inside."
+      ],
+      [
+        1689,
+        "01:39:08.160000",
+        "01:39:12.240000",
+        "Cowboys don't cry, they just ride."
+      ]
+    ],
+    "regex": "\\b((?!\\bCowboys\\ Don't\\ Cry:)Cowboys\\ Don't\\ Cry)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

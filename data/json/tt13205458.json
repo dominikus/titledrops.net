@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt13205458",
+    "title": "Float",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1150,
+    "occurrences": [
+      [
+        452,
+        "00:36:35.395000",
+        "00:36:38.231000",
+        "You'll only float with air in your lungs."
+      ],
+      [
+        650,
+        "00:51:19.446000",
+        "00:51:22.684000",
+        "You don't even have to kick hard. Just float."
+      ]
+    ],
+    "regex": "\\b((?!\\bFloat:)Float)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

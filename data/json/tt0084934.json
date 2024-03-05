@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0084934",
+    "title": "The Road",
+    "year": 1982,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 338,
+    "occurrences": [
+      [
+        57,
+        "00:05:42.360000",
+        "00:05:45.796000",
+        "9 convicts to the coal mine. 7 to the road construction."
+      ],
+      [
+        303,
+        "00:41:24.160000",
+        "00:41:27.118000",
+        "We're on the road for two day s now. You have arrived."
+      ]
+    ],
+    "regex": "\\b((?!\\bRoad:)Road)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

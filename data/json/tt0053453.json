@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0053453",
+    "title": "The Wonderful Country",
+    "year": 1959,
+    "genres": [
+      "Romance",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 726,
+    "occurrences": [
+      [
+        2,
+        "00:00:27.543000",
+        "00:00:31.463000",
+        "\"Wonderful country\""
+      ],
+      [
+        726,
+        "01:37:43.486000",
+        "01:37:46.486000",
+        "\"Wonderful country\""
+      ]
+    ],
+    "regex": "\\b((?!\\bWonderful\\ Country:)Wonderful\\ Country)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

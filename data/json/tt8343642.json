@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt8343642",
+    "title": "Janelle Monáe: Dirty Computer",
+    "year": 2018,
+    "genres": [
+      "Music",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 574,
+    "occurrences": [
+      [
+        15,
+        "00:03:08.732000",
+        "00:03:11.027000",
+        "I am a Dirty Computer."
+      ],
+      [
+        16,
+        "00:03:14.201000",
+        "00:03:15.790000",
+        "I am a Dirty Computer."
+      ],
+      [
+        131,
+        "00:14:07.626000",
+        "00:14:09.658000",
+        "I am a Dirty Computer."
+      ],
+      [
+        132,
+        "00:14:09.760000",
+        "00:14:12.053000",
+        "I am a Dirty Computer."
+      ]
+    ],
+    "regex": "\\b((?!\\bJanelle\\ Monae:)Janelle\\ Monae|(?!\\bDirty\\ Computer:)Dirty\\ Computer)(?!\\:)(?!'t)\\b",
+    "runtime": 49,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

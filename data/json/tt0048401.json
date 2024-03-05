@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0048401",
+    "title": "My Sister Eileen",
+    "year": 1955,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1494,
+    "occurrences": [
+      [
+        6,
+        "00:01:10.929000",
+        "00:01:13.921000",
+        "And the beautiful blond, thats my sister Eileen."
+      ],
+      [
+        612,
+        "00:40:54.769000",
+        "00:40:58.239000",
+        "This story of yours, My Sister Eileen, I think thats wonderful."
+      ],
+      [
+        1490,
+        "01:42:06.969000",
+        "01:42:10.325000",
+        "On behalf of my sister Eileen and me... I... Me..."
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Sister\\ Eileen:)My\\ Sister\\ Eileen)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

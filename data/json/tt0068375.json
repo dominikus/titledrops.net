@@ -1,0 +1,67 @@
+[
+  {
+    "imdb": "tt0068375",
+    "title": "Chung Kuo: China",
+    "year": 1972,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 9,
+    "all_lines": 236,
+    "occurrences": [
+      [
+        1,
+        "00:01:47.877000",
+        "00:01:53.577000",
+        "We're starting our brief journey to China. The filming equipment has been brought here."
+      ],
+      [
+        6,
+        "00:02:11.034000",
+        "00:02:14.331000",
+        "And Beijing is the political and revolutionary center of China."
+      ],
+      [
+        7,
+        "00:02:14.705000",
+        "00:02:21.234000",
+        "And China is Chung Kuo, the Middle Kingdom, an ancient cradle of the world civilization."
+      ],
+      [
+        14,
+        "00:02:49.222000",
+        "00:02:51.244000",
+        "We're not pretending to understand China."
+      ],
+      [
+        17,
+        "00:03:14.040000",
+        "00:03:17.292000",
+        "But the fact is, most of China remains inaccessible and forbidden."
+      ],
+      [
+        34,
+        "00:05:25.031000",
+        "00:05:30.555000",
+        "This is an entrance to the park that hosts the residence of China's leader Mao Zedong."
+      ],
+      [
+        60,
+        "00:13:04.629000",
+        "00:13:09.476000",
+        "3/4 of the surgery operations performed in China employ for the purposes of anesthesia"
+      ],
+      [
+        63,
+        "00:13:24.158000",
+        "00:13:26.429000",
+        "Thus, the medical practice in China"
+      ]
+    ],
+    "regex": "\\b((?!\\bChung\\ Kuo:)Chung\\ Kuo|(?!\\bChina:)China)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

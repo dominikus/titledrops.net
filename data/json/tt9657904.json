@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt9657904",
+    "title": "A Long Goodbye",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 1325,
+    "occurrences": [
+      [
+        12,
+        "00:02:17.500000",
+        "00:02:24.406000",
+        "\"A long goodbye\""
+      ],
+      [
+        1301,
+        "02:00:58.500000",
+        "02:01:01.162000",
+        "A long goodbye."
+      ],
+      [
+        1302,
+        "02:01:03.125000",
+        "02:01:04.740000",
+        "A long goodbye?"
+      ],
+      [
+        1303,
+        "02:01:05.583000",
+        "02:01:08.780000",
+        "They call dementia \"the long goodbye.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bLong\\ Goodbye:)Long\\ Goodbye)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

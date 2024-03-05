@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0031359",
+    "title": "Gaslight",
+    "year": 1940,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 785,
+    "occurrences": [
+      [
+        599,
+        "01:06:02.030000",
+        "01:06:04",
+        "And the gaslight going up and down."
+      ],
+      [
+        603,
+        "01:06:41.140000",
+        "01:06:43.130000",
+        "Lying in my room watching the gaslight..."
+      ]
+    ],
+    "regex": "\\b((?!\\bGaslight:)Gaslight)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

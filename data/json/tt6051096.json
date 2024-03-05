@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6051096",
+    "title": "The Axiom",
+    "year": 2018,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1830,
+    "occurrences": [
+      [
+        300,
+        "00:12:50.460000",
+        "00:12:51.528000",
+        "The Axiom."
+      ],
+      [
+        1593,
+        "01:20:47.534000",
+        "01:20:49.734000",
+        "So, which Axiom is it this year, boys?"
+      ],
+      [
+        1615,
+        "01:21:51.964000",
+        "01:21:53.931000",
+        "We've all lost people in the Axiom."
+      ],
+      [
+        1658,
+        "01:23:57.356000",
+        "01:24:00.457000",
+        "Where did it come from? The Axiom."
+      ]
+    ],
+    "regex": "\\b((?!\\bAxiom:)Axiom)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

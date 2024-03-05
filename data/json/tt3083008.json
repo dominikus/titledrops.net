@@ -1,0 +1,75 @@
+[
+  {
+    "imdb": "tt3083008",
+    "title": "The Program",
+    "year": 2015,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "count": 9,
+    "all_lines": 1300,
+    "occurrences": [
+      [
+        72,
+        "00:08:11.725000",
+        "00:08:13.626000",
+        "I wanna be on the program they're on."
+      ],
+      [
+        73,
+        "00:08:13.722000",
+        "00:08:15.917000",
+        "Program?"
+      ],
+      [
+        130,
+        "00:12:35.302000",
+        "00:12:39.507000",
+        "Now that we've got a diagnosis, we can begin a treatment program."
+      ],
+      [
+        643,
+        "00:47:14.547000",
+        "00:47:16.852000",
+        "This is the program."
+      ],
+      [
+        750,
+        "00:55:17.274000",
+        "00:55:22.079000",
+        "You and me, everyone here, we're all on the program. OK?"
+      ],
+      [
+        817,
+        "01:00:18.714000",
+        "01:00:21.114000",
+        "Doctor Ferrari, the program."
+      ],
+      [
+        1135,
+        "01:20:33.536000",
+        "01:20:37.280000",
+        "Under the most comprehensive drug testing program ever."
+      ],
+      [
+        1216,
+        "01:27:40.851000",
+        "01:27:43.981000",
+        "the most sophisticated and professionalised doping program"
+      ],
+      [
+        1225,
+        "01:28:25.779000",
+        "01:28:30.176000",
+        "The most sophisticated doping program in the history of sport."
+      ]
+    ],
+    "regex": "\\b((?!\\bProgram:)Program)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

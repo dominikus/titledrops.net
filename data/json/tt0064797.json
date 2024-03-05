@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0064797",
+    "title": "Pendulum",
+    "year": 1969,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1362,
+    "occurrences": [
+      [
+        356,
+        "00:25:37.745000",
+        "00:25:42.207000",
+        "Well, It seems now that the pendulum is swinging a little too far the other way."
+      ],
+      [
+        1360,
+        "01:41:26.664000",
+        "01:41:31.043000",
+        "The pendulum swings both ways"
+      ],
+      [
+        1361,
+        "01:41:32.211000",
+        "01:41:37.633000",
+        "The pendulum swings both ways"
+      ],
+      [
+        1362,
+        "01:41:38.676000",
+        "01:41:44.390000",
+        "The pendulum swings both ways"
+      ]
+    ],
+    "regex": "\\b((?!\\bPendulum:)Pendulum)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

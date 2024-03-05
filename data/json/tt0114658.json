@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0114658",
+    "title": "Theodore Rex",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1499,
+    "occurrences": [
+      [
+        303,
+        "00:20:23.828000",
+        "00:20:26.092000",
+        "-Theodore Rex? -Yes."
+      ],
+      [
+        1469,
+        "01:25:36.837000",
+        "01:25:39.829000",
+        "We're here today to honor Theodore Rex."
+      ]
+    ],
+    "regex": "\\b((?!\\bTheodore\\ Rex:)Theodore\\ Rex)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.4
+  }
+]

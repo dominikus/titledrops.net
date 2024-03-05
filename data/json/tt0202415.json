@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0202415",
+    "title": "The Affair",
+    "year": 1967,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 599,
+    "occurrences": [
+      [
+        443,
+        "01:09:33.071000",
+        "01:09:38.174000",
+        "He also said my having an affair wouldn't change his mind."
+      ],
+      [
+        510,
+        "01:16:51.594000",
+        "01:16:53.218000",
+        "This is not a love affair."
+      ]
+    ],
+    "regex": "\\b((?!\\bAffair:)Affair)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

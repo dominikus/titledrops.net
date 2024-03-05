@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0080715",
+    "title": "The Falls",
+    "year": 1980,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 2793,
+    "occurrences": [
+      [
+        1047,
+        "01:13:11.062000",
+        "01:13:13.467000",
+        "Full biography in later versions of The Falls."
+      ],
+      [
+        2127,
+        "02:27:37.104000",
+        "02:27:40.801000",
+        "if not in a subsequent edition of The Falls, then under separate cover."
+      ],
+      [
+        2541,
+        "02:56:14.730000",
+        "02:56:18.938000",
+        "been used to accompany some of the VUE biographies in The Falls."
+      ],
+      [
+        2792,
+        "03:12:04.125000",
+        "03:12:06.116000",
+        "And that is the end of The Falls."
+      ]
+    ],
+    "regex": "\\b((?!\\bFalls:)Falls)(?!\\:)(?!'t)\\b",
+    "runtime": 195,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

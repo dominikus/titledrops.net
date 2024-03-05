@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1322346",
+    "title": "Miss Kicki",
+    "year": 2009,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 788,
+    "occurrences": [
+      [
+        656,
+        "01:08:12.354000",
+        "01:08:14.720000",
+        "-Miss Kicki! Is something wrong?"
+      ],
+      [
+        754,
+        "01:16:43.131000",
+        "01:16:45.964000",
+        "OK. You want room, Miss Kicki?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMiss\\ Kicki:)Miss\\ Kicki)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

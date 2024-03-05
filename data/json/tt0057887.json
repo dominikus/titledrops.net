@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0057887",
+    "title": "Bikini Beach",
+    "year": 1964,
+    "genres": [
+      "Comedy",
+      "Music",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1334,
+    "occurrences": [
+      [
+        3,
+        "00:01:04.919000",
+        "00:01:07.172000",
+        "We're gonna go to Bikini Beach"
+      ],
+      [
+        16,
+        "00:02:01.752000",
+        "00:02:03.458000",
+        "Come on let's go to Bikini Beach"
+      ],
+      [
+        312,
+        "00:23:57.671000",
+        "00:24:01.291000",
+        "\"Yesterday, in broad daylight, in a place illegally called Bikini Beach,\""
+      ]
+    ],
+    "regex": "\\b((?!\\bBikini\\ Beach:)Bikini\\ Beach)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

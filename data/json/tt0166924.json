@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0166924",
+    "title": "Mulholland Drive",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 479,
+    "occurrences": [
+      [
+        253,
+        "00:47:43.780000",
+        "00:47:45.449000",
+        "Mulholland drive"
+      ],
+      [
+        254,
+        "00:47:50.871000",
+        "00:47:52.497000",
+        "Mulholland drive?"
+      ],
+      [
+        255,
+        "00:47:55.459000",
+        "00:47:58.795000",
+        "That's where I was going.. Mulholland drive"
+      ],
+      [
+        264,
+        "00:48:47.594000",
+        "00:48:50.931000",
+        "Just to see if there was an accident on Mulholland Drive."
+      ],
+      [
+        286,
+        "00:53:41.471000",
+        "00:53:43.320000",
+        "I'm inquiring about an accident that happened last night on Mulholland Drive."
+      ],
+      [
+        287,
+        "00:53:43.348000",
+        "00:53:45.184000",
+        "last night on Mulholland Drive."
+      ],
+      [
+        292,
+        "00:53:57.713000",
+        "00:54:01.857000",
+        "I want to know if there was an accident on Mulholland Drive."
+      ]
+    ],
+    "regex": "\\b((?!\\bMulholland\\ Drive:)Mulholland\\ Drive)(?!\\:)(?!'t)\\b",
+    "runtime": 147,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

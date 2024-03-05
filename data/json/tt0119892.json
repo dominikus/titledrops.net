@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0119892",
+    "title": "Phoenix",
+    "year": 1998,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1127,
+    "occurrences": [
+      [
+        200,
+        "00:18:15.540000",
+        "00:18:19.461000",
+        "And then I would have to elaborate with phoenix police about"
+      ],
+      [
+        866,
+        "01:08:12.079000",
+        "01:08:13.705000",
+        "it's fucking Phoenix, there is no air."
+      ],
+      [
+        1058,
+        "01:29:40.742000",
+        "01:29:42.285000",
+        "You don't look like you're from Phoenix."
+      ]
+    ],
+    "regex": "\\b((?!\\bPhoenix:)Phoenix)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

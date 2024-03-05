@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0060263",
+    "title": "The Creatures",
+    "year": 1966,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 5,
+    "all_lines": 1101,
+    "occurrences": [
+      [
+        380,
+        "00:36:33.159000",
+        "00:36:34.641000",
+        "Am I boring you with your creatures?"
+      ],
+      [
+        559,
+        "00:48:32",
+        "00:48:33.900000",
+        "Look at this checkerboard. You're going to move your creatures on it."
+      ],
+      [
+        579,
+        "00:49:27",
+        "00:49:29.900000",
+        "contrary to the creatures who move forward and back."
+      ],
+      [
+        589,
+        "00:49:55",
+        "00:49:57.900000",
+        "I also give you the possibility to shape the will of your creatures,"
+      ],
+      [
+        608,
+        "00:51:37",
+        "00:51:40.200000",
+        "The game of creatures is ready, let's start."
+      ]
+    ],
+    "regex": "\\b((?!\\bCreatures:)Creatures)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

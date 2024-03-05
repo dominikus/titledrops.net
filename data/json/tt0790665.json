@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0790665",
+    "title": "Flood",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1324,
+    "occurrences": [
+      [
+        42,
+        "00:06:37.625000",
+        "00:06:39.331000",
+        "That would otherwise flood London."
+      ],
+      [
+        424,
+        "00:27:47.042000",
+        "00:27:50.955000",
+        "he was chief analyst at the flood hazard research centre,"
+      ],
+      [
+        483,
+        "00:31:03.917000",
+        "00:31:06.249000",
+        "either live or work within the flood danger zone."
+      ],
+      [
+        525,
+        "00:33:49",
+        "00:33:50.831000",
+        "clear warning of a major flood alert."
+      ],
+      [
+        1047,
+        "01:17:02.500000",
+        "01:17:05.617000",
+        "wouldn't we be releasing even more water into the flood plain?"
+      ],
+      [
+        1144,
+        "01:25:52.917000",
+        "01:25:57.081000",
+        "- On the sluice gates. - 200,000 people were still in the flood zone."
+      ]
+    ],
+    "regex": "\\b((?!\\bFlood:)Flood)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

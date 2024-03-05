@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0068321",
+    "title": "The Birch Wood",
+    "year": 1970,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 566,
+    "occurrences": [
+      [
+        167,
+        "00:21:34.440000",
+        "00:21:38.440000",
+        "He said she should stay in the birch wood. It's so beautiful here."
+      ],
+      [
+        217,
+        "00:26:26.800000",
+        "00:26:30.800000",
+        "She liked this birch wood, the forests, the spring."
+      ],
+      [
+        527,
+        "01:18:47.080000",
+        "01:18:49.469000",
+        "You'll bury me in the birch wood."
+      ]
+    ],
+    "regex": "\\b((?!\\bBirch\\ Wood:)Birch\\ Wood)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

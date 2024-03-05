@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2379318",
+    "title": "Bright Days Ahead",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1175,
+    "occurrences": [
+      [
+        9,
+        "00:02:56.176000",
+        "00:02:57.849000",
+        "Bright Days Ahead..."
+      ],
+      [
+        12,
+        "00:03:01.214000",
+        "00:03:03.922000",
+        "Bright Days Ahead. How can I help you?"
+      ],
+      [
+        86,
+        "00:07:17.403000",
+        "00:07:19.940000",
+        "\"Bright Days Ahead\"... Just the name..."
+      ],
+      [
+        1000,
+        "01:12:32.314000",
+        "01:12:34.453000",
+        "I'd quit Bright Days Ahead."
+      ]
+    ],
+    "regex": "\\b((?!\\bBright\\ Days\\ Ahead:)Bright\\ Days\\ Ahead)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0043153",
+    "title": "Young Man with a Horn",
+    "year": 1950,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1110,
+    "occurrences": [
+      [
+        327,
+        "00:33:29.107000",
+        "00:33:31.268000",
+        "Young man with a horn."
+      ],
+      [
+        328,
+        "00:33:31.576000",
+        "00:33:34.272000",
+        "Crazy young man with a horn."
+      ]
+    ],
+    "regex": "\\b((?!\\bYoung\\ Man\\ with\\ a\\ Horn:)Young\\ Man\\ with\\ a\\ Horn)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

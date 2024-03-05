@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5692622",
+    "title": "Detective Conan: Crimson Love Letter",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 2,
+    "all_lines": 2034,
+    "occurrences": [
+      [
+        1,
+        "00:00:09.968000",
+        "00:00:12.961000",
+        "PRODUCTION: DETECTIVE CONAN PRODUCTION COMMITTEE"
+      ],
+      [
+        70,
+        "00:04:31.396000",
+        "00:04:35.606000",
+        "DETECTIVE CONAN - THE PURPLE LOVE LETTER"
+      ]
+    ],
+    "regex": "\\b((?!\\bDetective\\ Conan:)Detective\\ Conan|(?!\\bCrimson\\ Love\\ Letter:)Crimson\\ Love\\ Letter)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0363226",
+    "title": "The Blind Swordsman: Zatoichi",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 708,
+    "occurrences": [
+      [
+        0,
+        "00:00:51.284000",
+        "00:00:53.616000",
+        "ZATOICHI"
+      ],
+      [
+        522,
+        "01:18:38.575000",
+        "01:18:42.449000",
+        "Could he be Zatoichi?"
+      ],
+      [
+        531,
+        "01:19:13.575000",
+        "01:19:19.574000",
+        "That bodyguard. Is he capable of defeating Zatoichi?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlind\\ Swordsman:)Blind\\ Swordsman|(?!\\bZatoichi:)Zatoichi)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

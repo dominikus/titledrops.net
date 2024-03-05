@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt27447330",
+    "title": "The Jewel Thief",
+    "year": 2023,
+    "genres": [
+      "Crime",
+      "Documentary",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 2045,
+    "occurrences": [
+      [
+        1896,
+        "01:29:59.316000",
+        "01:30:01.734000",
+        "\"that caught this international jewel thief,"
+      ],
+      [
+        1934,
+        "01:31:45.464000",
+        "01:31:46.839000",
+        "an international jewel thief."
+      ]
+    ],
+    "regex": "\\b((?!\\bJewel\\ Thief:)Jewel\\ Thief)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

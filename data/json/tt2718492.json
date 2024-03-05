@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2718492",
+    "title": "Ida",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 334,
+    "occurrences": [
+      [
+        31,
+        "00:07:39.200000",
+        "00:07:41.111000",
+        "Your real name is Ida Lebenstein."
+      ],
+      [
+        244,
+        "00:39:17.120000",
+        "00:39:19.031000",
+        "I'm Ida."
+      ],
+      [
+        316,
+        "01:01:43.040000",
+        "01:01:44.109000",
+        "Ida."
+      ]
+    ],
+    "regex": "\\b((?!\\bIda:)Ida)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt3089778",
+    "title": "The Treatment",
+    "year": 2014,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 790,
+    "occurrences": [
+      [
+        14,
+        "00:02:52.280000",
+        "00:02:55.284000",
+        "Mrs Simons is currently receiving treatment on the spot."
+      ],
+      [
+        698,
+        "01:42:59.200000",
+        "01:43:02.204000",
+        "STOP MEDICATION START OWN TREATMENT"
+      ],
+      [
+        766,
+        "01:51:57",
+        "01:52:00.049000",
+        "I need him. For the treatment."
+      ],
+      [
+        767,
+        "01:52:05.400000",
+        "01:52:11.089000",
+        "I'm entitled to treatment. I... I'm entitled to treatment."
+      ],
+      [
+        768,
+        "01:52:11.280000",
+        "01:52:13.647000",
+        "I'm entitled to treatment!"
+      ]
+    ],
+    "regex": "\\b((?!\\bTreatment:)Treatment)(?!\\:)(?!'t)\\b",
+    "runtime": 131,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0318374",
+    "title": "The Cooler",
+    "year": 2003,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1175,
+    "occurrences": [
+      [
+        269,
+        "00:20:42.374000",
+        "00:20:45.639000",
+        "I asked around. You're a cooler."
+      ],
+      [
+        1055,
+        "01:24:45.580000",
+        "01:24:48.242000",
+        "The best cooler there ever was and I need him back."
+      ]
+    ],
+    "regex": "\\b((?!\\bCooler:)Cooler)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

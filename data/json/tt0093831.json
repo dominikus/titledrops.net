@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0093831",
+    "title": "Red Riding Hood",
+    "year": 1987,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 984,
+    "occurrences": [
+      [
+        448,
+        "00:37:17.134000",
+        "00:37:20.004000",
+        "Here comes Red Riding Hood with our noonday bread."
+      ],
+      [
+        707,
+        "00:54:38.541000",
+        "00:54:40.977000",
+        "there's still Little Red Riding Hood."
+      ],
+      [
+        885,
+        "01:07:50.132000",
+        "01:07:54.236000",
+        "(PANTING) Quick! Red Riding Hood's in trouble."
+      ]
+    ],
+    "regex": "\\b((?!\\bRed\\ Riding\\ Hood:)Red\\ Riding\\ Hood)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

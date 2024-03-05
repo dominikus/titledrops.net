@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt10714856",
+    "title": "Feel the Beat",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 2060,
+    "occurrences": [
+      [
+        699,
+        "00:33:07.708000",
+        "00:33:09.083000",
+        "Feel the beat."
+      ],
+      [
+        716,
+        "00:33:38.208000",
+        "00:33:39.958000",
+        "I thought you could feel the beat."
+      ]
+    ],
+    "regex": "\\b((?!\\bFeel\\ the\\ Beat:)Feel\\ the\\ Beat)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

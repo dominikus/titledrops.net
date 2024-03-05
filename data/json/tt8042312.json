@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt8042312",
+    "title": "La Soga: Salvation",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 529,
+    "occurrences": [
+      [
+        7,
+        "00:01:11.317000",
+        "00:01:12.776000",
+        "Luisito \"La Soga.\""
+      ],
+      [
+        39,
+        "00:04:16.698000",
+        "00:04:19.702000",
+        "We need another La Soga to end this bullshit."
+      ],
+      [
+        42,
+        "00:04:25.081000",
+        "00:04:28.501000",
+        "We need another La Soga to end this bull..."
+      ],
+      [
+        157,
+        "00:31:49.415000",
+        "00:31:51.041000",
+        "A.K.A. La Soga."
+      ]
+    ],
+    "regex": "\\b((?!\\bLa\\ Soga:)La\\ Soga|(?!\\bSalvation:)Salvation)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

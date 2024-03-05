@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1486192",
+    "title": "The Raven",
+    "year": 2012,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1180,
+    "occurrences": [
+      [
+        61,
+        "00:08:17.080000",
+        "00:08:18.548000",
+        "\"Quoth the Raven...\""
+      ],
+      [
+        63,
+        "00:08:24.254000",
+        "00:08:26.848000",
+        "I repeat: \"Quoth the Raven\"!"
+      ],
+      [
+        237,
+        "00:20:31.397000",
+        "00:20:34.241000",
+        "Raven. $9. But did I mention that it's world-famous?"
+      ],
+      [
+        273,
+        "00:22:32.309000",
+        "00:22:36.815000",
+        "And the Raven, never flitting, still is sitting, still is sitting"
+      ]
+    ],
+    "regex": "\\b((?!\\bRaven:)Raven)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt10325070",
+    "title": "Bad Ben: The Way In",
+    "year": 2019,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 780,
+    "occurrences": [
+      [
+        544,
+        "01:05:58.740000",
+        "01:06:01.680000",
+        "so I'm looking for the way in that the evil"
+      ],
+      [
+        622,
+        "01:12:25.028000",
+        "01:12:29.063000",
+        "I found it, that has got to be the way in, alright."
+      ]
+    ],
+    "regex": "\\b((?!\\bBad\\ Ben:)Bad\\ Ben|(?!\\bWay\\ In:)Way\\ In)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

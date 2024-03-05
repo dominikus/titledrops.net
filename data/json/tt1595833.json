@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1595833",
+    "title": "The Monitor",
+    "year": 2011,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 568,
+    "occurrences": [
+      [
+        60,
+        "00:13:21.680000",
+        "00:13:26.196000",
+        "- Cool! You bought a walkie-talkie? - No, just an baby monitor."
+      ],
+      [
+        123,
+        "00:24:52.320000",
+        "00:24:55.232000",
+        "You have probably heard the sound from another baby monitor."
+      ],
+      [
+        387,
+        "00:55:03.720000",
+        "00:55:08.794000",
+        "It's not imagination, Anna. You've only received another baby monitor."
+      ],
+      [
+        476,
+        "01:12:01.160000",
+        "01:12:05.517000",
+        "A customer was here. Do you remember the one that struggled with a baby monitor?"
+      ],
+      [
+        480,
+        "01:12:19.320000",
+        "01:12:23.711000",
+        "Probably you've got the sound from another baby monitor."
+      ]
+    ],
+    "regex": "\\b((?!\\bMonitor:)Monitor)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

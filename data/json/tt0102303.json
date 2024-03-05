@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0102303",
+    "title": "Life Stinks",
+    "year": 1991,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1236,
+    "occurrences": [
+      [
+        998,
+        "01:10:46.720000",
+        "01:10:49.040000",
+        "Life stinks."
+      ],
+      [
+        1000,
+        "01:10:53.930000",
+        "01:10:56.230000",
+        "(PATIENTS CHANTING) Life stinks!"
+      ],
+      [
+        1002,
+        "01:11:02.100000",
+        "01:11:04.540000",
+        "BOLT: Life stinks!"
+      ],
+      [
+        1005,
+        "01:11:09.300000",
+        "01:11:11.230000",
+        "Life stinks."
+      ],
+      [
+        1007,
+        "01:11:28.630000",
+        "01:11:30.300000",
+        "(SLURRING) Life stinks."
+      ]
+    ],
+    "regex": "\\b((?!\\bLife\\ Stinks:)Life\\ Stinks)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

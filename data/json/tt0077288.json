@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0077288",
+    "title": "La Cage aux Folles",
+    "year": 1978,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1219,
+    "occurrences": [
+      [
+        950,
+        "01:13:19.328000",
+        "01:13:21.421000",
+        "The Charriers are at \"La Cage aux Folles.\""
+      ],
+      [
+        1065,
+        "01:21:32.554000",
+        "01:21:35.114000",
+        "It's called \"'La Cage aux Folles.\""
+      ],
+      [
+        1066,
+        "01:21:35.156000",
+        "01:21:38.455000",
+        "Oh, yes, \"La Cage aux Folles.\""
+      ],
+      [
+        1156,
+        "01:29:18.119000",
+        "01:29:20.417000",
+        "\"'La Cage aux Folles...\""
+      ]
+    ],
+    "regex": "\\b((?!\\bLa\\ Cage\\ aux\\ Folles:)La\\ Cage\\ aux\\ Folles)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

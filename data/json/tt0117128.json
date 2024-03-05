@@ -1,0 +1,75 @@
+[
+  {
+    "imdb": "tt0117128",
+    "title": "Mystery Science Theater 3000: The Movie",
+    "year": 1996,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 9,
+    "all_lines": 1247,
+    "occurrences": [
+      [
+        11,
+        "00:01:37.133000",
+        "00:01:42.606000",
+        "But perhaps this movie will drive him to the breaking point and crush his soul,"
+      ],
+      [
+        21,
+        "00:02:26.035000",
+        "00:02:27.926000",
+        "Mystery Science Theater 3000"
+      ],
+      [
+        22,
+        "00:02:28.001000",
+        "00:02:30.251000",
+        "The Movie"
+      ],
+      [
+        104,
+        "00:07:57.603000",
+        "00:08:00.373000",
+        "Because I don't wanna have to stop the movie for..."
+      ],
+      [
+        108,
+        "00:08:08.049000",
+        "00:08:11.119000",
+        "We've got Movie Sign!"
+      ],
+      [
+        434,
+        "00:28:02.005000",
+        "00:28:05.665000",
+        "My plan for breaking Mike's will, by making him watch this horrible movie, continues as planned."
+      ],
+      [
+        471,
+        "00:30:46.407000",
+        "00:30:48.185000",
+        "Oh, great, and now we have Movie Sign."
+      ],
+      [
+        519,
+        "00:33:49.036000",
+        "00:33:52.573000",
+        "Your in-flight movie is: Fearless."
+      ],
+      [
+        1212,
+        "01:24:00.916000",
+        "01:24:04.252000",
+        "Puppet wranglers. There weren't any puppets in this movie?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMystery\\ Science\\ Theater:)Mystery\\ Science\\ Theater|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

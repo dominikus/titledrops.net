@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0036098",
+    "title": "Lassie Come Home",
+    "year": 1943,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 720,
+    "occurrences": [
+      [
+        0,
+        "00:01:45.403000",
+        "00:01:48.087000",
+        "Lassie Come Home is the story of a dog..."
+      ],
+      [
+        719,
+        "01:24:55.402000",
+        "01:24:57.409000",
+        "You're my Lassie come home."
+      ]
+    ],
+    "regex": "\\b((?!\\bLassie\\ Come\\ Home:)Lassie\\ Come\\ Home)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

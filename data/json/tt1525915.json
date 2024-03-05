@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1525915",
+    "title": "The Great Vazquez",
+    "year": 2010,
+    "genres": [
+      "Biography",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1499,
+    "occurrences": [
+      [
+        207,
+        "00:15:50.324000",
+        "00:15:52.566000",
+        "Hey, you're the Great Vazquez."
+      ],
+      [
+        1464,
+        "01:36:42.922000",
+        "01:36:44.709000",
+        "The Great Vazquez,"
+      ]
+    ],
+    "regex": "\\b((?!\\bGreat\\ Vazquez:)Great\\ Vazquez)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

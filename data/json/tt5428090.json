@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt5428090",
+    "title": "Sorry for Your Loss",
+    "year": 2018,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1759,
+    "occurrences": [
+      [
+        545,
+        "00:32:13.083000",
+        "00:32:14.667000",
+        "I'm so sorry for your loss. - Thank you."
+      ],
+      [
+        575,
+        "00:33:57.959000",
+        "00:34:00.208000",
+        "sorry for your loss. - Thank you."
+      ],
+      [
+        870,
+        "00:50:43.917000",
+        "00:50:45.625000",
+        "- Oh... sorry for your loss."
+      ]
+    ],
+    "regex": "\\b((?!\\bSorry\\ for\\ Your\\ Loss:)Sorry\\ for\\ Your\\ Loss)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

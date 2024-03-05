@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt0035749",
+    "title": "Coney Island",
+    "year": 1943,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 7,
+    "all_lines": 1434,
+    "occurrences": [
+      [
+        5,
+        "00:02:11.638000",
+        "00:02:15.194000",
+        "Beautiful Coney Island,"
+      ],
+      [
+        15,
+        "00:02:47.780000",
+        "00:02:52.389000",
+        "Beautiful Coney Island,"
+      ],
+      [
+        928,
+        "01:01:28.196000",
+        "01:01:31.442000",
+        "You know if you're not careful you're gonna wind up owning Coney Island."
+      ],
+      [
+        930,
+        "01:02:29.124000",
+        "01:02:32.794000",
+        "Coney Island,"
+      ],
+      [
+        931,
+        "01:02:32.994000",
+        "01:02:36.382000",
+        "Coney Island"
+      ],
+      [
+        935,
+        "01:03:01.261000",
+        "01:03:06.817000",
+        "Beautiful Coney Island"
+      ],
+      [
+        1249,
+        "01:20:22.700000",
+        "01:20:24.789000",
+        "- They found her in Coney Island. - Oh, really?"
+      ]
+    ],
+    "regex": "\\b((?!\\bConey\\ Island:)Coney\\ Island)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

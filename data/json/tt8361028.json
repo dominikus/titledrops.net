@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt8361028",
+    "title": "Cam",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1433,
+    "occurrences": [
+      [
+        18,
+        "00:01:40.183000",
+        "00:01:41.768000",
+        "I'm just gonna have to go off cam"
+      ],
+      [
+        274,
+        "00:16:34.327000",
+        "00:16:37.288000",
+        "Cam Girl Clubhouse is, like, so far out of my way."
+      ],
+      [
+        1210,
+        "01:14:46.691000",
+        "01:14:50.027000",
+        "But it's on all the cam sites. Not just FGL."
+      ]
+    ],
+    "regex": "\\b((?!\\bCam:)Cam)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

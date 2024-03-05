@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt8609814",
+    "title": "The Gun",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 868,
+    "occurrences": [
+      [
+        560,
+        "00:58:01.070000",
+        "00:58:03.070000",
+        "It's not like shooting a gun."
+      ],
+      [
+        565,
+        "00:58:18.090000",
+        "00:58:23.090000",
+        "As humans I was shot by a gun"
+      ],
+      [
+        858,
+        "01:34:47.140000",
+        "01:34:52.140000",
+        "Throw that gun away"
+      ]
+    ],
+    "regex": "\\b((?!\\bGun:)Gun)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7524444",
+    "title": "The House Next Door: Meet the Blacks 2",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 2037,
+    "occurrences": [
+      [
+        1467,
+        "01:07:58.246000",
+        "01:07:59.868000",
+        "See that house next door?"
+      ],
+      [
+        1981,
+        "01:33:59.910000",
+        "01:34:03.051000",
+        "The house next door A the end of the street"
+      ]
+    ],
+    "regex": "\\b((?!\\bHouse\\ Next\\ Door:)House\\ Next\\ Door|(?!\\bMeet\\ the\\ Blacks:)Meet\\ the\\ Blacks)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0303619",
+    "title": "The Cistern",
+    "year": 2001,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 754,
+    "occurrences": [
+      [
+        0,
+        "00:00:11.490000",
+        "00:00:14.490000",
+        "The CISTERN\""
+      ],
+      [
+        418,
+        "00:56:13.060000",
+        "00:56:16.060000",
+        "When I'm a magician, he'll show me the cistern's secret passage."
+      ],
+      [
+        580,
+        "01:15:38.560000",
+        "01:15:41.560000",
+        "The cistern...has not yet had its fill."
+      ],
+      [
+        710,
+        "01:32:42.880000",
+        "01:32:45.880000",
+        "I didn't get a chance to reveal the cistern's secret to you."
+      ],
+      [
+        740,
+        "01:41:39.680000",
+        "01:41:42.680000",
+        "There must always be water in the cistern. Promise, Aaron."
+      ],
+      [
+        744,
+        "01:41:53.380000",
+        "01:41:56.380000",
+        "\"May I die, die, die if the cistern is ever empty!\""
+      ]
+    ],
+    "regex": "\\b((?!\\bCistern:)Cistern)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

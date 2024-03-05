@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0083107",
+    "title": "Some Kind of Hero",
+    "year": 1982,
+    "genres": [
+      "Crime",
+      "Drama",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 1681,
+    "occurrences": [
+      [
+        1656,
+        "01:35:13.891000",
+        "01:35:17.293000",
+        "you've got to be some kind of hero"
+      ],
+      [
+        1663,
+        "01:35:32.042000",
+        "01:35:35.144000",
+        "if you need some kind of hero"
+      ],
+      [
+        1674,
+        "01:36:14.017000",
+        "01:36:17.787000",
+        "you got to be some kind of hero"
+      ],
+      [
+        1681,
+        "01:36:32.703000",
+        "01:36:35.404000",
+        "if you need some kind of hero"
+      ]
+    ],
+    "regex": "\\b((?!\\bSome\\ Kind\\ of\\ Hero:)Some\\ Kind\\ of\\ Hero)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

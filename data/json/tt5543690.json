@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5543690",
+    "title": "Game",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 970,
+    "occurrences": [
+      [
+        122,
+        "00:17:04.728000",
+        "00:17:06.957000",
+        "Are you playing game?"
+      ],
+      [
+        846,
+        "01:36:01.401000",
+        "01:36:03.421000",
+        "Maya's game plan is to make you think like that."
+      ],
+      [
+        850,
+        "01:36:08.526000",
+        "01:36:11.326000",
+        "She's playing this game with his help."
+      ]
+    ],
+    "regex": "\\b((?!\\bGame:)Game)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7040874",
+    "title": "A Simple Favor",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 2672,
+    "occurrences": [
+      [
+        36,
+        "00:02:06.777000",
+        "00:02:09.086000",
+        "She asked me a simple favor"
+      ],
+      [
+        603,
+        "00:23:31.079000",
+        "00:23:32.619000",
+        "just a-a simple favor."
+      ]
+    ],
+    "regex": "\\b((?!\\bSimple\\ Favor:)Simple\\ Favor)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0056661",
+    "title": "Lady in White",
+    "year": 1962,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 895,
+    "occurrences": [
+      [
+        127,
+        "00:16:52.840000",
+        "00:16:57.040000",
+        "The night poor Eva drowned, I saw the Lady in White."
+      ],
+      [
+        129,
+        "00:17:02.275000",
+        "00:17:07.275000",
+        "Why talk of the Lady in White, when Eva wanted to?"
+      ],
+      [
+        787,
+        "01:31:21.445000",
+        "01:31:25.595000",
+        "She used the old legend and became The Lady in White."
+      ]
+    ],
+    "regex": "\\b((?!\\bLady\\ in\\ White:)Lady\\ in\\ White)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt0058725",
+    "title": "Viva Las Vegas",
+    "year": 1964,
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "count": 8,
+    "all_lines": 820,
+    "occurrences": [
+      [
+        582,
+        "01:00:40.137000",
+        "01:00:46.017000",
+        "So viva Las Vegas Viva Las Vegas"
+      ],
+      [
+        589,
+        "01:01:10.250000",
+        "01:01:15.671000",
+        "Viva Las Vegas"
+      ],
+      [
+        590,
+        "01:01:16.882000",
+        "01:01:19.508000",
+        "Viva Las Vegas with your neon flashing"
+      ],
+      [
+        592,
+        "01:01:25.182000",
+        "01:01:27.933000",
+        "Viva Las Vegas turning day Into nighttime"
+      ],
+      [
+        602,
+        "01:02:00.300000",
+        "01:02:09.433000",
+        "Viva Las Vegas"
+      ],
+      [
+        603,
+        "01:02:10.227000",
+        "01:02:39.672000",
+        "Viva, viva Las Vegas"
+      ],
+      [
+        819,
+        "01:24:31.066000",
+        "01:24:33.651000",
+        "So viva Las Vegas"
+      ]
+    ],
+    "regex": "\\b((?!\\bViva\\ Las\\ Vegas:)Viva\\ Las\\ Vegas)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

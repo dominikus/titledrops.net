@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt7368554",
+    "title": "The Interpreter",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 813,
+    "occurrences": [
+      [
+        63,
+        "00:10:45.040000",
+        "00:10:48.160000",
+        "I no longer work as an interpreter."
+      ],
+      [
+        84,
+        "00:12:51.960000",
+        "00:12:55.200000",
+        "I'm an interpreter, no entertainer."
+      ],
+      [
+        173,
+        "00:21:11.440000",
+        "00:21:15.520000",
+        "-How do you speak Slovak? -I'm an interpreter."
+      ]
+    ],
+    "regex": "\\b((?!\\bInterpreter:)Interpreter)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

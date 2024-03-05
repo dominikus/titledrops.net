@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0077524",
+    "title": "The Evil",
+    "year": 1978,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1181,
+    "occurrences": [
+      [
+        456,
+        "00:27:28.730000",
+        "00:27:32.690000",
+        "There's something evil."
+      ],
+      [
+        729,
+        "00:46:09.058000",
+        "00:46:09.844000",
+        "Good and evil?"
+      ],
+      [
+        1084,
+        "01:15:43.622000",
+        "01:15:45.739000",
+        "And you released the evil!"
+      ]
+    ],
+    "regex": "\\b((?!\\bEvil:)Evil)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

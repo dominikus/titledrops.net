@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0063240",
+    "title": "The Lost Continent",
+    "year": 1968,
+    "genres": [
+      "Adventure"
+    ],
+    "count": 3,
+    "all_lines": 1181,
+    "occurrences": [
+      [
+        3,
+        "00:00:45.274000",
+        "00:00:48.320000",
+        "The lost continent"
+      ],
+      [
+        13,
+        "00:01:37.121000",
+        "00:01:40.416000",
+        "To the lost continent"
+      ],
+      [
+        15,
+        "00:02:27.507000",
+        "00:02:32.471000",
+        "To the lost continent"
+      ]
+    ],
+    "regex": "\\b((?!\\bLost\\ Continent:)Lost\\ Continent)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

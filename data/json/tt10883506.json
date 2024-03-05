@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt10883506",
+    "title": "A Sun",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1680,
+    "occurrences": [
+      [
+        786,
+        "00:59:23.208000",
+        "00:59:24.667000",
+        "He said it's \"the sun.\""
+      ],
+      [
+        816,
+        "01:02:28.292000",
+        "01:02:31.583000",
+        "The fairest thing in the world is the sun."
+      ],
+      [
+        821,
+        "01:02:45.292000",
+        "01:02:46.625000",
+        "The sun was blazing..."
+      ],
+      [
+        1003,
+        "01:18:32.708000",
+        "01:18:38.167000",
+        "And together, we will hear The song of the sun and moon"
+      ]
+    ],
+    "regex": "\\b((?!\\bSun:)Sun)(?!\\:)(?!'t)\\b",
+    "runtime": 156,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

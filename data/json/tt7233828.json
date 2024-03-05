@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt7233828",
+    "title": "The System",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1226,
+    "occurrences": [
+      [
+        179,
+        "00:15:25.010000",
+        "00:15:27.960000",
+        "I understand how easy it is to get caught up in the system."
+      ],
+      [
+        704,
+        "00:52:26.670000",
+        "00:52:31.670000",
+        "the system, the system wasn't built for you or me."
+      ],
+      [
+        725,
+        "00:53:50.780000",
+        "00:53:52.933000",
+        "but the solar system has to have balance."
+      ],
+      [
+        912,
+        "01:08:11.970000",
+        "01:08:13.140000",
+        "The system works."
+      ]
+    ],
+    "regex": "\\b((?!\\bSystem:)System)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

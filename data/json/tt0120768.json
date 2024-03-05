@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0120768",
+    "title": "The Negotiator",
+    "year": 1998,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1750,
+    "occurrences": [
+      [
+        48,
+        "02:24:48.413000",
+        "02:24:50.540000",
+        "HBT 1 . Negotiator requests time."
+      ],
+      [
+        53,
+        "02:25:03.829000",
+        "02:25:05.456000",
+        "Negotiator entering kiII zone."
+      ],
+      [
+        129,
+        "02:30:45.403000",
+        "02:30:49.931000",
+        "After 6 hours, hostage negotiator Danny Roman risked his own life..."
+      ],
+      [
+        1020,
+        "03:32:43.284000",
+        "03:32:47.152000",
+        "I wouId Iike to introduce you to the negotiator, Chris Sabian..."
+      ],
+      [
+        1718,
+        "04:28:15.058000",
+        "04:28:16.855000",
+        "You shouId've been a negotiator."
+      ]
+    ],
+    "regex": "\\b((?!\\bNegotiator:)Negotiator)(?!\\:)(?!'t)\\b",
+    "runtime": 274,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

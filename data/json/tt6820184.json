@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt6820184",
+    "title": "Mrs Mills",
+    "year": 2018,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1121,
+    "occurrences": [
+      [
+        380,
+        "00:28:11.040000",
+        "00:28:14.033000",
+        "As you can see, Mrs Mills, we need something new."
+      ],
+      [
+        430,
+        "00:32:14.920000",
+        "00:32:16.559000",
+        "- Mrs Mills, can I have your autograph? - Scarlett!"
+      ],
+      [
+        459,
+        "00:34:05.440000",
+        "00:34:07.940000",
+        "\"Mrs Mills! A Proust reminiscence"
+      ],
+      [
+        945,
+        "01:06:05.800000",
+        "01:06:07.712000",
+        "Oh, good old Mrs Mills!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMrs\\ Mills:)Mrs\\ Mills)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

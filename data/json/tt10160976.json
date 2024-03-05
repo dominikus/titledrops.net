@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt10160976",
+    "title": "The Nun II",
+    "year": 2023,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 745,
+    "occurrences": [
+      [
+        70,
+        "00:10:57.457000",
+        "00:11:01.729000",
+        "A priest and a nun."
+      ],
+      [
+        76,
+        "00:11:21.348000",
+        "00:11:23.651000",
+        "What happened to the nun?"
+      ],
+      [
+        152,
+        "00:21:43.003000",
+        "00:21:46.473000",
+        "A 90-year-old nun shot herself on the steps of her church."
+      ]
+    ],
+    "regex": "\\b((?!\\bNun:)Nun)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

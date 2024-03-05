@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0063584",
+    "title": "Sergeant Ryker",
+    "year": 1968,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 6,
+    "all_lines": 1869,
+    "occurrences": [
+      [
+        536,
+        "00:26:50.136000",
+        "00:26:51.219000",
+        "- Sergeant Ryker, sir."
+      ],
+      [
+        899,
+        "00:43:54.928000",
+        "00:43:56.969000",
+        "- The new trial for Sergeant Ryker."
+      ],
+      [
+        1094,
+        "00:52:12.678000",
+        "00:52:14.969000",
+        "This was before Sergeant Ryker was arrested."
+      ],
+      [
+        1158,
+        "00:54:55.053000",
+        "00:54:57.969000",
+        "On the contrary, we insist that Sergeant Ryker,"
+      ],
+      [
+        1394,
+        "01:04:11.136000",
+        "01:04:13.969000",
+        "Now Sergeant Ryker was interrogated by Captain Appleton."
+      ],
+      [
+        1868,
+        "01:25:10.386000",
+        "01:25:11.678000",
+        "- Sergeant Ryker."
+      ]
+    ],
+    "regex": "\\b((?!\\bSergeant\\ Ryker:)Sergeant\\ Ryker)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

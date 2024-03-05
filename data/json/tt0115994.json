@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0115994",
+    "title": "Curdled",
+    "year": 1996,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 888,
+    "occurrences": [
+      [
+        88,
+        "00:12:16.367000",
+        "00:12:19.245000",
+        "The blood gets curdled."
+      ],
+      [
+        90,
+        "00:12:22.039000",
+        "00:12:23.916000",
+        "Curdled?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCurdled:)Curdled)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

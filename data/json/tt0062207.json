@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0062207",
+    "title": "Robbery",
+    "year": 1967,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 798,
+    "occurrences": [
+      [
+        150,
+        "00:25:17.514000",
+        "00:25:20.596000",
+        "You know who I am, Aitken? I'm making enquiries into a robbery"
+      ],
+      [
+        711,
+        "01:38:12.835000",
+        "01:38:15.200000",
+        "Here's the latest on the Great Train Robbery."
+      ],
+      [
+        763,
+        "01:45:17.563000",
+        "01:45:21.048000",
+        "Wanted urgently for questioning in connection with robbery."
+      ],
+      [
+        767,
+        "01:46:24.635000",
+        "01:46:28.423000",
+        "made their first appearance in court today charged with robbery."
+      ],
+      [
+        780,
+        "01:47:02.011000",
+        "01:47:04.991000",
+        "The robbery is already being described in newspapers abroad"
+      ],
+      [
+        788,
+        "01:48:26.938000",
+        "01:48:29.595000",
+        "whom they wish to question in connection with the robbery."
+      ]
+    ],
+    "regex": "\\b((?!\\bRobbery:)Robbery)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

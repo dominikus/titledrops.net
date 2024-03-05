@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1286809",
+    "title": "Skirt Day",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1240,
+    "occurrences": [
+      [
+        914,
+        "01:02:33.783000",
+        "01:02:37.879000",
+        "is establishing a national Skirt Day once a year in all schools."
+      ],
+      [
+        915,
+        "01:02:38.387000",
+        "01:02:41.754000",
+        "Skirt Day? What, you mean?"
+      ],
+      [
+        926,
+        "01:03:33.176000",
+        "01:03:36.009000",
+        "Skirt Day! What's this bullshit?"
+      ],
+      [
+        1083,
+        "01:13:38.414000",
+        "01:13:40.974000",
+        "What about my MMS and Skirt Day?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSkirt\\ Day:)Skirt\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "imdb": "tt0067314",
+    "title": "Kotch",
+    "year": 1971,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1174,
+    "occurrences": [
+      [
+        0,
+        "00:03:46.060000",
+        "00:03:48.790000",
+        "- Erica, this is Grandfather Kotch. - My pleasure."
+      ],
+      [
+        1171,
+        "01:52:12.693000",
+        "01:52:14.558000",
+        "Kotch! You had supper?"
+      ]
+    ],
+    "regex": "\\b((?!\\bKotch:)Kotch)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [
+      "Joseph P. Kotcher",
+      "Wilma Kotcher",
+      "Gerald Kotcher"
+    ],
+    "title_is_name": true,
+    "rating": 6.6
+  }
+]

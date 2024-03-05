@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0039029",
+    "title": "Three Strangers",
+    "year": 1946,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 2,
+    "all_lines": 1982,
+    "occurrences": [
+      [
+        33,
+        "00:06:03.534000",
+        "00:06:06.767000",
+        "We're three strangers, that's the point."
+      ],
+      [
+        53,
+        "00:07:13.334000",
+        "00:07:14.334000",
+        "Why to three strangers?"
+      ]
+    ],
+    "regex": "\\b((?!\\bThree\\ Strangers:)Three\\ Strangers)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

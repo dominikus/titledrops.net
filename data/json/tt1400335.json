@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt1400335",
+    "title": "First Dog",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 777,
+    "occurrences": [
+      [
+        64,
+        "00:08:04.690000",
+        "00:08:09.480000",
+        "That's exactly what I don't want. We'll have everyone in America telling me they found the first dog."
+      ],
+      [
+        111,
+        "00:16:26.210000",
+        "00:16:29.440000",
+        "He looks like Mr. Woodroffe's dog. The first dog."
+      ],
+      [
+        449,
+        "00:53:01.280000",
+        "00:53:04.670000",
+        "Well it's the first dog of the United States, must be a big reward."
+      ],
+      [
+        583,
+        "01:09:04.320000",
+        "01:09:09.720000",
+        "You're a good boy, Teddy. Yes you are. It's been an honor for me to know first dog."
+      ]
+    ],
+    "regex": "\\b((?!\\bFirst\\ Dog:)First\\ Dog)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [
+      "Teddy - The First Dog"
+    ],
+    "title_is_name": true,
+    "rating": 5.1
+  }
+]

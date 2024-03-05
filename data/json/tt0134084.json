@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0134084",
+    "title": "Scream 3",
+    "year": 2000,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1429,
+    "occurrences": [
+      [
+        1205,
+        "01:33:20.502000",
+        "01:33:24.422000",
+        "It's your turn to scream, asshole."
+      ],
+      [
+        1382,
+        "01:52:03.166000",
+        "01:52:07.671000",
+        "Scream once, scream twice Now scream again"
+      ]
+    ],
+    "regex": "\\b((?!\\bScream:)Scream)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

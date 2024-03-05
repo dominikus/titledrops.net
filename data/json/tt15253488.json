@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt15253488",
+    "title": "The Fence",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1245,
+    "occurrences": [
+      [
+        260,
+        "00:18:16.888000",
+        "00:18:18.372000",
+        "Ain't Wayne a fence?"
+      ],
+      [
+        584,
+        "00:39:21.600000",
+        "00:39:23.187000",
+        "Just talking Fence stuff."
+      ],
+      [
+        587,
+        "00:39:27.468000",
+        "00:39:29.573000",
+        "Just use another fence next time."
+      ]
+    ],
+    "regex": "\\b((?!\\bFence:)Fence)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

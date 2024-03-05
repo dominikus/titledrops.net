@@ -1,0 +1,75 @@
+[
+  {
+    "imdb": "tt3833480",
+    "title": "The Outpost",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 9,
+    "all_lines": 2654,
+    "occurrences": [
+      [
+        291,
+        "00:13:22.094000",
+        "00:13:25.964000",
+        "Our outpost is still a target of insurgents,"
+      ],
+      [
+        360,
+        "00:16:32.885000",
+        "00:16:35.187000",
+        "I must report the attack on my outpost."
+      ],
+      [
+        1069,
+        "00:48:08.180000",
+        "00:48:09.716000",
+        "We're closing this outpost come July."
+      ],
+      [
+        1200,
+        "00:53:43.783000",
+        "00:53:46.052000",
+        "So we're not closing the outpost in July?"
+      ],
+      [
+        1379,
+        "01:02:56.101000",
+        "01:02:59.672000",
+        "And the sorties to close down Combat Outpost Keating October 6th."
+      ],
+      [
+        2111,
+        "01:32:21.734000",
+        "01:32:24.336000",
+        "We take back the front gate, we take back this outpost."
+      ],
+      [
+        2398,
+        "01:45:19.111000",
+        "01:45:20.512000",
+        "Welcome to Outpost Keating, sir."
+      ],
+      [
+        2608,
+        "02:00:43.102000",
+        "02:00:47.405000",
+        "And I remember as I... As I walked the outpost"
+      ],
+      [
+        2643,
+        "02:02:24.569000",
+        "02:02:26.839000",
+        "Combat Outpost Keating as a..."
+      ]
+    ],
+    "regex": "\\b((?!\\bOutpost:)Outpost)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

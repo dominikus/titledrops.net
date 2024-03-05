@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5528278",
+    "title": "Happy Wedding",
+    "year": 2016,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 2228,
+    "occurrences": [
+      [
+        2171,
+        "02:09:01.861000",
+        "02:09:03.453000",
+        "Yes. Happy Wedding Matrimony."
+      ],
+      [
+        2177,
+        "02:09:17.610000",
+        "02:09:19.510000",
+        "That's the style of Happy Wedding Matrimony."
+      ]
+    ],
+    "regex": "\\b((?!\\bHappy\\ Wedding:)Happy\\ Wedding)(?!\\:)(?!'t)\\b",
+    "runtime": 131,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

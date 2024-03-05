@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0226872",
+    "title": "Female Prisoner #701: Scorpion",
+    "year": 1972,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 748,
+    "occurrences": [
+      [
+        29,
+        "00:05:33.090000",
+        "00:05:43.090000",
+        "SCORPION FEMALE PRISONER 701"
+      ],
+      [
+        748,
+        "01:26:37.650000",
+        "01:26:44.020000",
+        "SCORPION FEMALE PRISONER 701 END"
+      ]
+    ],
+    "regex": "\\b((?!\\bFemale\\ Prisoner\\ \\#701:)Female\\ Prisoner\\ \\#701|(?!\\bScorpion:)Scorpion)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

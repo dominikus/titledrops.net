@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5479010",
+    "title": "Origami",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 554,
+    "occurrences": [
+      [
+        107,
+        "00:19:15.720000",
+        "00:19:17.320000",
+        "origami at all?"
+      ],
+      [
+        120,
+        "00:19:51.760000",
+        "00:19:53.720000",
+        "in origami anyway."
+      ]
+    ],
+    "regex": "\\b((?!\\bOrigami:)Origami)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1414404",
+    "title": "To Be King",
+    "year": 2012,
+    "genres": [
+      "Adventure",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 918,
+    "occurrences": [
+      [
+        69,
+        "00:07:28.320000",
+        "00:07:29.731000",
+        "I want to be king."
+      ],
+      [
+        106,
+        "00:12:05",
+        "00:12:08.482000",
+        "Now somebody wants to be king and then... You're just a weakling."
+      ],
+      [
+        108,
+        "00:12:17.760000",
+        "00:12:22.448000",
+        "You're not the first, Stach. They all wanted to be king."
+      ],
+      [
+        120,
+        "00:13:26.200000",
+        "00:13:29.807000",
+        "The V\\/isser Daily: 17-year-old wants to be king"
+      ]
+    ],
+    "regex": "\\b((?!\\bTo\\ Be\\ King:)To\\ Be\\ King)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

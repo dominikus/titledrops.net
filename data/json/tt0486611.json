@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0486611",
+    "title": "The Last Stand",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1718,
+    "occurrences": [
+      [
+        136,
+        "00:09:08.006000",
+        "00:09:10.008000",
+        "Ladies and gentlemen, the management of The Last Stand..."
+      ],
+      [
+        153,
+        "00:09:57.014000",
+        "00:10:02.019000",
+        "Reporting live from this tragic scene at The Last Stand, I'm Shawne Baxter."
+      ],
+      [
+        1091,
+        "01:05:13.997000",
+        "01:05:19.002000",
+        "Why? Because Scott Jacobs, ICC, coming to see me at The Last Stand tonight."
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Stand:)Last\\ Stand)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0466664",
+    "title": "Alien Autopsy",
+    "year": 2006,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1304,
+    "occurrences": [
+      [
+        393,
+        "00:28:01.600000",
+        "00:28:07.675000",
+        "-How are you gonna shoot an alien autopsy? -Not me. Melik."
+      ],
+      [
+        819,
+        "00:56:43.880000",
+        "00:56:46.997000",
+        "lf there really was a genuine alien autopsy film,"
+      ],
+      [
+        854,
+        "00:59:24.840000",
+        "00:59:28.389000",
+        "(Frakes) Alien Autopsy.: fact or fiction?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAlien\\ Autopsy:)Alien\\ Autopsy)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

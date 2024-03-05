@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt8390612",
+    "title": "The County",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 656,
+    "occurrences": [
+      [
+        329,
+        "00:51:48.585000",
+        "00:51:50.668000",
+        "It's about protecting the County."
+      ],
+      [
+        582,
+        "01:15:50.003000",
+        "01:15:53.543000",
+        "And the County will become nothing more than a place for summer cottages."
+      ],
+      [
+        586,
+        "01:16:03.627000",
+        "01:16:05.293000",
+        "independent County,"
+      ],
+      [
+        636,
+        "01:21:23.461000",
+        "01:21:26.293000",
+        "Hi, my name is Finnbogi, from the County Commissioner's office."
+      ]
+    ],
+    "regex": "\\b((?!\\bCounty:)County)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

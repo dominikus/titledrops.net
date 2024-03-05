@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt9486184",
+    "title": "Positive",
+    "year": 2020,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 2129,
+    "occurrences": [
+      [
+        173,
+        "00:06:54.109000",
+        "00:06:56.950000",
+        "What if you find out that it's positive?"
+      ],
+      [
+        255,
+        "00:10:47.940000",
+        "00:10:51.857000",
+        "- Well, yeah, it's a good thing to be positive."
+      ]
+    ],
+    "regex": "\\b((?!\\bPositive:)Positive)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

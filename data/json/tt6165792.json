@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt6165792",
+    "title": "Radiance",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 813,
+    "occurrences": [
+      [
+        575,
+        "00:53:54.985000",
+        "00:53:56.570000",
+        "Wow, Radiance !"
+      ],
+      [
+        577,
+        "00:54:04.453000",
+        "00:54:07.080000",
+        "The cover of Radiance ? Impressive!"
+      ],
+      [
+        813,
+        "01:37:31.727000",
+        "01:37:33.228000",
+        "radiance."
+      ]
+    ],
+    "regex": "\\b((?!\\bRadiance:)Radiance)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

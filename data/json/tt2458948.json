@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2458948",
+    "title": "Evangelion: 3.0+1.01 Thrice Upon a Time",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Animation",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 118,
+    "occurrences": [
+      [
+        0,
+        "00:00:01.541000",
+        "00:00:03.791000",
+        "PREVIOUSLY ON EVANGELION"
+      ],
+      [
+        4,
+        "00:14:18.750000",
+        "00:14:24.416000",
+        "EVANGELION:3.0+1.01 THRICE UPON A TIME"
+      ]
+    ],
+    "regex": "\\b((?!\\bEvangelion:)Evangelion|(?!\\b3\\.0\\+1\\.01\\ Thrice\\ Upon\\ a\\ Time:)3\\.0\\+1\\.01\\ Thrice\\ Upon\\ a\\ Time)(?!\\:)(?!'t)\\b",
+    "runtime": 154,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

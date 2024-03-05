@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt6195762",
+    "title": "Apartment 413",
+    "year": 2019,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1150,
+    "occurrences": [
+      [
+        201,
+        "00:13:15.330000",
+        "00:13:17.640000",
+        "something's coming from inside the apartment"
+      ],
+      [
+        273,
+        "00:18:19.140000",
+        "00:18:21.980000",
+        "This is Marco Reyes in apartment 413."
+      ],
+      [
+        277,
+        "00:18:26.820000",
+        "00:18:28.660000",
+        "but you have no right to enter my apartment"
+      ],
+      [
+        329,
+        "00:21:53.660000",
+        "00:21:56.020000",
+        "Why don't you clean the apartment by the end of week?"
+      ],
+      [
+        863,
+        "00:54:34.923000",
+        "00:54:36.920000",
+        "- Yeah, I gotta scan every apartment unit today."
+      ]
+    ],
+    "regex": "\\b((?!\\bApartment:)Apartment)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0139426",
+    "title": "Lighthouse",
+    "year": 1999,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 452,
+    "occurrences": [
+      [
+        110,
+        "00:20:20.514000",
+        "00:20:22.253000",
+        "Gehenna Lighthouse."
+      ],
+      [
+        172,
+        "00:26:04.450000",
+        "00:26:07.750000",
+        "Some lighthouse. The others are trying to radio for help."
+      ],
+      [
+        198,
+        "00:30:52.489000",
+        "00:30:55.589000",
+        "Whoever did this probably left with lighthouse keepers."
+      ],
+      [
+        219,
+        "00:35:21.830000",
+        "00:35:26.530000",
+        "Gehenna Lighthouse. This is ground station. Come in."
+      ]
+    ],
+    "regex": "\\b((?!\\bLighthouse:)Lighthouse)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

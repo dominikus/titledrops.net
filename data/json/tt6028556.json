@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt6028556",
+    "title": "Point Defiance",
+    "year": 2018,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1273,
+    "occurrences": [
+      [
+        37,
+        "00:05:15.121000",
+        "00:05:18.704000",
+        "4709 Solstice Lane, Point Defiance, Washington."
+      ],
+      [
+        51,
+        "00:07:16.807000",
+        "00:07:19.516000",
+        "on Point Defiance Park and the surrounding area."
+      ],
+      [
+        685,
+        "00:48:01.230000",
+        "00:48:03.912000",
+        "in the Point Defiance area which they now believe"
+      ]
+    ],
+    "regex": "\\b((?!\\bPoint\\ Defiance:)Point\\ Defiance)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

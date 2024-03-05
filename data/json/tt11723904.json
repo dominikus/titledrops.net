@@ -1,0 +1,26 @@
+[
+  {
+    "imdb": "tt11723904",
+    "title": "The Sit-In: Harry Belafonte hosts the Tonight Show",
+    "year": 2020,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "count": 1,
+    "all_lines": 1430,
+    "occurrences": [
+      [
+        1131,
+        "00:58:31.878000",
+        "00:58:36.916000",
+        "and it did say I enjoyed my \"sit-in\" on \"The Tonight Show.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bSit\\-In:)Sit\\-In|(?!\\bHarry\\ Belafonte\\ hosts\\ the\\ Tonight\\ Show:)Harry\\ Belafonte\\ hosts\\ the\\ Tonight\\ Show)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

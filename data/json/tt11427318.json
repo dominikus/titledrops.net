@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt11427318",
+    "title": "From Today, It's My Turn: The Movie",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1191,
+    "occurrences": [
+      [
+        1165,
+        "01:48:56.118000",
+        "01:48:57.828000",
+        "From Today, It's My Turn!!: The Movie"
+      ],
+      [
+        1191,
+        "01:53:57.918000",
+        "01:54:04.718000",
+        "(c)Hiroyuki Nishimori / Shogakukan (c)2020 \"From Today, It's My Turn!!: The Movie\" Film Partners"
+      ]
+    ],
+    "regex": "\\b((?!\\bFrom\\ Today,\\ It's\\ My\\ Turn:)From\\ Today,\\ It's\\ My\\ Turn|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

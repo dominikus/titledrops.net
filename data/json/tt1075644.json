@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1075644",
+    "title": "Restless",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 528,
+    "occurrences": [
+      [
+        185,
+        "00:31:15.109000",
+        "00:31:17.942000",
+        "\"Restless, he wanders the streets,"
+      ],
+      [
+        322,
+        "01:02:26.988000",
+        "01:02:30.901000",
+        "That's why everyone is so despondent, so tense, so restless."
+      ]
+    ],
+    "regex": "\\b((?!\\bRestless:)Restless)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

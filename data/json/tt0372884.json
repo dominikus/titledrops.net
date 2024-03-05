@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0372884",
+    "title": "Eating Out",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1639,
+    "occurrences": [
+      [
+        460,
+        "00:20:54.010000",
+        "00:20:56.270000",
+        "So what are you doing, eating out?"
+      ],
+      [
+        466,
+        "00:21:13.090000",
+        "00:21:15.830000",
+        "So then you're eating out."
+      ],
+      [
+        1482,
+        "01:13:29.360000",
+        "01:13:33.260000",
+        "No offense, Kyle, but next time we're eating out."
+      ]
+    ],
+    "regex": "\\b((?!\\bEating\\ Out:)Eating\\ Out)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

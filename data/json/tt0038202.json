@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0038202",
+    "title": "A Friend Will Come Tonight",
+    "year": 1946,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 2188,
+    "occurrences": [
+      [
+        946,
+        "00:54:06.666000",
+        "00:54:09.624000",
+        "\"A friend will come tonight.\" We got this message an hour ago."
+      ],
+      [
+        1078,
+        "01:00:33.291000",
+        "01:00:35.750000",
+        "\"A friend will come tonight.\""
+      ],
+      [
+        1079,
+        "01:00:38.125000",
+        "01:00:40.750000",
+        "\"A friend will come tonight.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bFriend\\ Will\\ Come\\ Tonight:)Friend\\ Will\\ Come\\ Tonight)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

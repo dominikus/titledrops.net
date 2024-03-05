@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0306456",
+    "title": "Amnèsia",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 720,
+    "occurrences": [
+      [
+        615,
+        "00:43:07.440000",
+        "00:43:09.351000",
+        "Tonight at Amnesia."
+      ],
+      [
+        617,
+        "00:43:12.400000",
+        "00:43:16.154000",
+        "Ernesto, don't worry. See you at Amnesia. Bye."
+      ]
+    ],
+    "regex": "\\b((?!\\bAmnesia:)Amnesia)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

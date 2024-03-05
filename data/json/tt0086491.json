@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0086491",
+    "title": "Twilight Zone: The Movie",
+    "year": 1983,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 6,
+    "all_lines": 1077,
+    "occurrences": [
+      [
+        79,
+        "00:05:18.589000",
+        "00:05:20.898000",
+        "Did you ever watch The Twilight Zone?"
+      ],
+      [
+        80,
+        "00:05:25.349000",
+        "00:05:28.307000",
+        "Oh, God, remember The Twilight Zone with Burgess Meredith?"
+      ],
+      [
+        128,
+        "00:07:35.189000",
+        "00:07:39.102000",
+        "You've just crossed over into the Twilight Zone."
+      ],
+      [
+        134,
+        "00:08:15.349000",
+        "00:08:19.627000",
+        "into the darkest corner of the Twilight Zone."
+      ],
+      [
+        855,
+        "01:10:58.246000",
+        "01:11:01.716000",
+        "His destination, the Twilight Zone."
+      ],
+      [
+        1076,
+        "01:31:52.406000",
+        "01:31:55.682000",
+        "It is an area which we call the Twilight Zone."
+      ]
+    ],
+    "regex": "\\b((?!\\bTwilight\\ Zone:)Twilight\\ Zone|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

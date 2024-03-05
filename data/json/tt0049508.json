@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0049508",
+    "title": "Nero's Mistress",
+    "year": 1956,
+    "genres": [
+      "Comedy",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 954,
+    "occurrences": [
+      [
+        358,
+        "00:29:04.140000",
+        "00:29:10.295000",
+        "How very strange. In Rome they all say that you are Nero's mistress."
+      ],
+      [
+        359,
+        "00:29:12.020000",
+        "00:29:17.538000",
+        "Nero's mistress! Isn't that a funny idea, Poppea?"
+      ]
+    ],
+    "regex": "\\b((?!\\bNero's\\ Mistress:)Nero's\\ Mistress)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

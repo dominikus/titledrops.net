@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0240402",
+    "title": "The Center of the World",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 726,
+    "occurrences": [
+      [
+        76,
+        "00:09:07.310000",
+        "00:09:11.060000",
+        "It's like you're at the center of the world."
+      ],
+      [
+        374,
+        "00:41:39.950000",
+        "00:41:43.690000",
+        "It is the center of the world."
+      ]
+    ],
+    "regex": "\\b((?!\\bCenter\\ of\\ the\\ World:)Center\\ of\\ the\\ World)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

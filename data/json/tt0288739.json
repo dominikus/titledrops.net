@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0288739",
+    "title": "Poker",
+    "year": 2001,
+    "genres": [
+      "\\N"
+    ],
+    "count": 3,
+    "all_lines": 353,
+    "occurrences": [
+      [
+        11,
+        "00:01:38.807000",
+        "00:01:41.001000",
+        "l am a professional poker player."
+      ],
+      [
+        276,
+        "00:28:52.446000",
+        "00:28:54.756000",
+        "The one that threw me out, l met her at a poker game."
+      ],
+      [
+        279,
+        "00:29:08.926000",
+        "00:29:14.487000",
+        "Then, after a year or so, she starts bitching about poker."
+      ]
+    ],
+    "regex": "\\b((?!\\bPoker:)Poker)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

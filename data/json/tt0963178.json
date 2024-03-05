@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0963178",
+    "title": "The International",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 569,
+    "occurrences": [
+      [
+        97,
+        "00:09:16.455000",
+        "00:09:18.753000",
+        "...the International Bank of Business and Credit."
+      ],
+      [
+        185,
+        "00:17:52.771000",
+        "00:17:56.434000",
+        "Whatever case we have gets lost in the complexities of international law."
+      ]
+    ],
+    "regex": "\\b((?!\\bInternational:)International)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

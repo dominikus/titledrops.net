@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0119644",
+    "title": "Meet Wally Sparks",
+    "year": 1997,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 2553,
+    "occurrences": [
+      [
+        706,
+        "00:26:28.706000",
+        "00:26:31.373000",
+        "I'd like you to meet Wally Sparks."
+      ],
+      [
+        1166,
+        "00:44:25.623000",
+        "00:44:29.590000",
+        "Meet Wally Sparks."
+      ]
+    ],
+    "regex": "\\b((?!\\bMeet\\ Wally\\ Sparks:)Meet\\ Wally\\ Sparks)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

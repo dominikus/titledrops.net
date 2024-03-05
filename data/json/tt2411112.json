@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2411112",
+    "title": "Longwave",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1107,
+    "occurrences": [
+      [
+        1064,
+        "01:16:01.760000",
+        "01:16:03.250000",
+        "Longwave!"
+      ],
+      [
+        1077,
+        "01:16:31.240000",
+        "01:16:32.685000",
+        "Longwave!"
+      ]
+    ],
+    "regex": "\\b((?!\\bLongwave:)Longwave)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

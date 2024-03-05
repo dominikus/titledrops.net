@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0149898",
+    "title": "Black and White",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1599,
+    "occurrences": [
+      [
+        749,
+        "00:39:43.458000",
+        "00:39:45.660000",
+        "When the guy got out of the black and white,"
+      ],
+      [
+        939,
+        "00:51:00.334000",
+        "00:51:03.004000",
+        "All black and white and square."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ and\\ White:)Black\\ and\\ White)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

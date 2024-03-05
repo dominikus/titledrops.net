@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0263265",
+    "title": "Shortcut to Happiness",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 1125,
+    "occurrences": [
+      [
+        44,
+        "00:05:06.055000",
+        "00:05:10.137000",
+        "Remember, son. There's never a shortcut to happiness."
+      ],
+      [
+        779,
+        "01:09:35.260000",
+        "01:09:39.339000",
+        "\"Remember, son. There's never a shortcut to happiness. \""
+      ],
+      [
+        1102,
+        "01:35:03.996000",
+        "01:35:08.622000",
+        "\"'Remember, son. There's never a shortcut to happiness. \"'"
+      ],
+      [
+        1107,
+        "01:35:20.639000",
+        "01:35:22.630000",
+        "Tell her there is never a shortcut to happiness."
+      ]
+    ],
+    "regex": "\\b((?!\\bShortcut\\ to\\ Happiness:)Shortcut\\ to\\ Happiness)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

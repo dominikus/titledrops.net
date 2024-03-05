@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1640116",
+    "title": "Christmas with a Capital C",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1482,
+    "occurrences": [
+      [
+        869,
+        "00:43:55.766000",
+        "00:43:59.282000",
+        "However, what does this Christmas with a capital 'C'"
+      ],
+      [
+        943,
+        "00:48:26.595000",
+        "00:48:28.312000",
+        "for the Christmas with a capital 'C' mission."
+      ]
+    ],
+    "regex": "\\b((?!\\bChristmas\\ with\\ a\\ Capital:)Christmas\\ with\\ a\\ Capital)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

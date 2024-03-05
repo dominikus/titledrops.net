@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0078751",
+    "title": "Alison's Birthday",
+    "year": 1981,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1610,
+    "occurrences": [
+      [
+        1066,
+        "01:04:41.878000",
+        "01:04:43.088000",
+        "Alison's birthday."
+      ],
+      [
+        1559,
+        "01:34:16.067000",
+        "01:34:17.610000",
+        "had to happen on Alison's birthday."
+      ]
+    ],
+    "regex": "\\b((?!\\bAlison's\\ Birthday:)Alison's\\ Birthday)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

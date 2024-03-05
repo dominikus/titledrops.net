@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt2004420",
+    "title": "Neighbors",
+    "year": 2014,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 2193,
+    "occurrences": [
+      [
+        61,
+        "00:02:44.398000",
+        "00:02:45.764000",
+        "Neighbors. Hey. Hi."
+      ],
+      [
+        280,
+        "00:11:01.828000",
+        "00:11:03.868000",
+        "Are you our new neighbors? We're your new neighbors!"
+      ],
+      [
+        420,
+        "00:16:34.728000",
+        "00:16:36.627000",
+        "We have neighbors, for Christ's sake!"
+      ],
+      [
+        616,
+        "00:23:54.901000",
+        "00:23:56.181000",
+        "You called about your neighbors?"
+      ],
+      [
+        1829,
+        "01:15:20.817000",
+        "01:15:23.784000",
+        "Look, we're in a nice neighborhood. We want to be good neighbors."
+      ]
+    ],
+    "regex": "\\b((?!\\bNeighbors:)Neighbors)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

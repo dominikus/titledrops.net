@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0045981",
+    "title": "When You Read This Letter",
+    "year": 1953,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1383,
+    "occurrences": [
+      [
+        572,
+        "00:44:30.319000",
+        "00:44:31.578000",
+        "When you read this letter..."
+      ],
+      [
+        611,
+        "00:50:22.779000",
+        "00:50:25.093000",
+        "When you read this letter, please forgive your little sister"
+      ],
+      [
+        1316,
+        "01:34:17.702000",
+        "01:34:20.264000",
+        "Good old Sweetheart, When you read this letter"
+      ]
+    ],
+    "regex": "\\b((?!\\bWhen\\ You\\ Read\\ This\\ Letter:)When\\ You\\ Read\\ This\\ Letter)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6794374",
+    "title": "I Am Evidence",
+    "year": 2017,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1374,
+    "occurrences": [
+      [
+        44,
+        "00:02:33.603000",
+        "00:02:36.582000",
+        "I am evidence, literally."
+      ],
+      [
+        1213,
+        "01:12:36.035000",
+        "01:12:40.048000",
+        "I am evidence that there's more to that box."
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Am\\ Evidence:)I\\ Am\\ Evidence)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

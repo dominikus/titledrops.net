@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6611238",
+    "title": "Casa Roshell",
+    "year": 2017,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 700,
+    "occurrences": [
+      [
+        0,
+        "00:01:46.766000",
+        "00:01:49.395000",
+        "Hello? Casa Roshell speaking."
+      ],
+      [
+        504,
+        "00:54:55.830000",
+        "00:54:59.331000",
+        "to Casa Roshell, but I was on Boturini Street."
+      ]
+    ],
+    "regex": "\\b((?!\\bCasa\\ Roshell:)Casa\\ Roshell)(?!\\:)(?!'t)\\b",
+    "runtime": 71,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

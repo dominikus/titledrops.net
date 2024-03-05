@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt10193752",
+    "title": "The Real Charlie Chaplin",
+    "year": 2021,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 953,
+    "occurrences": [
+      [
+        24,
+        "00:02:29.107000",
+        "00:02:33.528000",
+        "\"Who is the Real Charlie Chaplin?\""
+      ],
+      [
+        848,
+        "01:42:39.528000",
+        "01:42:42.281000",
+        "When you ask for the real Charlie Chaplin,"
+      ]
+    ],
+    "regex": "\\b((?!\\bReal\\ Charlie\\ Chaplin:)Real\\ Charlie\\ Chaplin)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

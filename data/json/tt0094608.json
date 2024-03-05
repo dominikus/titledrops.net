@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0094608",
+    "title": "The Accused",
+    "year": 1988,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1128,
+    "occurrences": [
+      [
+        156,
+        "00:17:12.915000",
+        "00:17:17.420000",
+        "...accused of raping a woman at a bar were released on 10,000 dollars bail."
+      ],
+      [
+        157,
+        "00:17:17.503000",
+        "00:17:20.465000",
+        "Lawyers for the accused men expressed confidence"
+      ],
+      [
+        356,
+        "00:29:57.180000",
+        "00:30:00.350000",
+        "Three men accused of raping a young woman in a local bar"
+      ]
+    ],
+    "regex": "\\b((?!\\bAccused:)Accused)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt8906326",
+    "title": "The Drummer",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1398,
+    "occurrences": [
+      [
+        824,
+        "00:58:08.102000",
+        "00:58:09.968000",
+        "- For Drummer, in order to pursue her case"
+      ],
+      [
+        1087,
+        "01:11:50.023000",
+        "01:11:54.592000",
+        "but he's also going after you and the Drummer."
+      ]
+    ],
+    "regex": "\\b((?!\\bDrummer:)Drummer)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

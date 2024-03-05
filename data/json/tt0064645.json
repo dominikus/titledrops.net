@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0064645",
+    "title": "Mayerling",
+    "year": 1968,
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1203,
+    "occurrences": [
+      [
+        907,
+        "01:35:28.869000",
+        "01:35:31.542000",
+        "Mayerling."
+      ],
+      [
+        1115,
+        "01:57:33.918000",
+        "01:57:36.634000",
+        "Thank God! I'm so glad to be back in Mayerling."
+      ]
+    ],
+    "regex": "\\b((?!\\bMayerling:)Mayerling)(?!\\:)(?!'t)\\b",
+    "runtime": 140,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0101279",
+    "title": "The Stranger",
+    "year": 1991,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1303,
+    "occurrences": [
+      [
+        50,
+        "00:04:31.515000",
+        "00:04:35.417000",
+        "under that, even a stranger wouldn't be denied access"
+      ],
+      [
+        110,
+        "00:08:50.374000",
+        "00:08:51.671000",
+        "Do you want to say that having any stranger as an uncle"
+      ]
+    ],
+    "regex": "\\b((?!\\bStranger:)Stranger)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

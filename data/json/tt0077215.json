@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0077215",
+    "title": "Battlestar Galactica",
+    "year": 1978,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1499,
+    "occurrences": [
+      [
+        385,
+        "02:40:17.611000",
+        "02:40:21.411000",
+        "- From the battlestar Galactica. - It survives?"
+      ],
+      [
+        455,
+        "02:45:20.420000",
+        "02:45:23.787000",
+        "Deliver the battlestar Galactica..."
+      ]
+    ],
+    "regex": "\\b((?!\\bBattlestar\\ Galactica:)Battlestar\\ Galactica)(?!\\:)(?!'t)\\b",
+    "runtime": 247,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

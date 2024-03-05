@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3112966",
+    "title": "Luton",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 236,
+    "occurrences": [
+      [
+        229,
+        "01:25:18.727000",
+        "01:25:22.720000",
+        "...my mother is sending me to a college in Luton."
+      ],
+      [
+        235,
+        "01:26:36.607000",
+        "01:26:38.598000",
+        "Is Luton in England?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLuton:)Luton)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

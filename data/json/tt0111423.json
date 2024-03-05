@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0111423",
+    "title": "Heaven and Earth",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1533,
+    "occurrences": [
+      [
+        1471,
+        "02:10:22.481000",
+        "02:10:26.108000",
+        "Many times, heaven and earth changed places."
+      ],
+      [
+        1515,
+        "02:14:28.143000",
+        "02:14:33.189000",
+        "It is my fate to be in between heaven and earth."
+      ]
+    ],
+    "regex": "\\b((?!\\bHeaven\\ and\\ Earth:)Heaven\\ and\\ Earth)(?!\\:)(?!'t)\\b",
+    "runtime": 140,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

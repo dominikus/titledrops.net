@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5245630",
+    "title": "First of May",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 881,
+    "occurrences": [
+      [
+        586,
+        "00:55:39.396000",
+        "00:55:40.874000",
+        "Have you heard \"First of May\"?"
+      ],
+      [
+        863,
+        "01:42:09.127000",
+        "01:42:11.798000",
+        "First of May always makes me sad - On the first day of May"
+      ]
+    ],
+    "regex": "\\b((?!\\bFirst\\ of\\ May:)First\\ of\\ May)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

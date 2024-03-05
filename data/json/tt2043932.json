@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2043932",
+    "title": "New Kids Nitro",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 705,
+    "occurrences": [
+      [
+        2,
+        "00:00:40.385000",
+        "00:00:42.501000",
+        "Awesome! New Kids Nitro."
+      ],
+      [
+        666,
+        "01:09:50.799000",
+        "01:09:54.155000",
+        "I won a part in New Kids Nitro and I'm Jurgen."
+      ],
+      [
+        667,
+        "01:09:58.279000",
+        "01:10:00.156000",
+        "New Kids Nitro, dude."
+      ],
+      [
+        688,
+        "01:12:53.497000",
+        "01:12:55.135000",
+        "New Kids Nitro, dude."
+      ]
+    ],
+    "regex": "\\b((?!\\bNew\\ Kids\\ Nitro:)New\\ Kids\\ Nitro)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

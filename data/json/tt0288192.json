@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0288192",
+    "title": "Return to Innocence",
+    "year": 2001,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1679,
+    "occurrences": [
+      [
+        806,
+        "00:48:13.795000",
+        "00:48:15.355000",
+        "there simply is no return to innocence."
+      ],
+      [
+        1666,
+        "01:34:16.549000",
+        "01:34:19.147000",
+        "There is no return to innocence."
+      ]
+    ],
+    "regex": "\\b((?!\\bReturn\\ to\\ Innocence:)Return\\ to\\ Innocence)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0061094",
+    "title": "Thunderbirds Are GO",
+    "year": 1966,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 784,
+    "occurrences": [
+      [
+        1,
+        "00:00:39.320000",
+        "00:00:41.276000",
+        "Thunderbirds are go!"
+      ],
+      [
+        113,
+        "00:19:49.200000",
+        "00:19:51.509000",
+        "Thunderbirds are go!"
+      ],
+      [
+        599,
+        "01:10:42.120000",
+        "01:10:44.634000",
+        "Thunderbirds are go!"
+      ],
+      [
+        782,
+        "01:27:40.680000",
+        "01:27:43.558000",
+        "\"Thunderbirds Are Go\"..."
+      ]
+    ],
+    "regex": "\\b((?!\\bThunderbirds\\ Are\\ GO:)Thunderbirds\\ Are\\ GO)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

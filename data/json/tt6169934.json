@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6169934",
+    "title": "Mrs. Claus",
+    "year": 2018,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1244,
+    "occurrences": [
+      [
+        103,
+        "00:11:20.990000",
+        "00:11:23.199000",
+        "dressed in slutty Mrs. Claus outfits,"
+      ],
+      [
+        179,
+        "00:16:28.504000",
+        "00:16:31.714000",
+        "I mean, Mrs. Claus, come on."
+      ]
+    ],
+    "regex": "\\b((?!\\bMrs\\.\\ Claus:)Mrs\\.\\ Claus)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt12683756",
+    "title": "The Chalk Line",
+    "year": 2022,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1170,
+    "occurrences": [
+      [
+        209,
+        "00:22:26.166000",
+        "00:22:29.291000",
+        "I'll count to three, and then we'll erase the chalk line."
+      ],
+      [
+        269,
+        "00:26:22.250000",
+        "00:26:25.570000",
+        "-  Hey, you brought lots of things... -  Don't step on the chalk line."
+      ],
+      [
+        804,
+        "01:09:06.583000",
+        "01:09:09.500000",
+        "See? Follow the chalk line."
+      ],
+      [
+        806,
+        "01:09:13",
+        "01:09:15.125000",
+        "-  Follow the chalk line. -"
+      ]
+    ],
+    "regex": "\\b((?!\\bChalk\\ Line:)Chalk\\ Line)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt10627584",
+    "title": "The Life Ahead",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1056,
+    "occurrences": [
+      [
+        816,
+        "01:03:41.416000",
+        "01:03:44.291000",
+        "and that they're the best solution for your life ahead."
+      ],
+      [
+        1045,
+        "01:31:10.541000",
+        "01:31:16.083000",
+        "The life ahead"
+      ]
+    ],
+    "regex": "\\b((?!\\bLife\\ Ahead:)Life\\ Ahead)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

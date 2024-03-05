@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt12801374",
+    "title": "Under the Open Sky",
+    "year": 2020,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1212,
+    "occurrences": [
+      [
+        884,
+        "01:26:42.052000",
+        "01:26:44.461000",
+        "you can live under the open sky."
+      ],
+      [
+        1200,
+        "02:02:21.874000",
+        "02:02:27.873000",
+        "Under the Open Sky."
+      ]
+    ],
+    "regex": "\\b((?!\\bUnder\\ the\\ Open\\ Sky:)Under\\ the\\ Open\\ Sky)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

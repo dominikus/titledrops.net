@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2364897",
+    "title": "The Disappointments Room",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 847,
+    "occurrences": [
+      [
+        530,
+        "00:45:38.317000",
+        "00:45:42.670000",
+        "Dana, it sounds like you have a disappointments room."
+      ],
+      [
+        531,
+        "00:45:44.440000",
+        "00:45:47.775000",
+        "A what? A disappointments room."
+      ]
+    ],
+    "regex": "\\b((?!\\bDisappointments\\ Room:)Disappointments\\ Room)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

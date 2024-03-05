@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt7786540",
+    "title": "The Prayer Box",
+    "year": 2018,
+    "genres": [
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 1435,
+    "occurrences": [
+      [
+        273,
+        "00:19:32.204000",
+        "00:19:34.571000",
+        "that was put into that prayer box, I-I..."
+      ],
+      [
+        591,
+        "00:44:43.814000",
+        "00:44:45.715000",
+        "with that little prayer box up there."
+      ],
+      [
+        771,
+        "00:57:14.998000",
+        "00:57:19.060000",
+        "The prayer box is now open."
+      ]
+    ],
+    "regex": "\\b((?!\\bPrayer\\ Box:)Prayer\\ Box)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

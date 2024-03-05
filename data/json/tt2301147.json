@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2301147",
+    "title": "Sex After Kids",
+    "year": 2013,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 2435,
+    "occurrences": [
+      [
+        3,
+        "00:00:14.248000",
+        "00:00:17.885000",
+        "In general, sex after kids is terrible?"
+      ],
+      [
+        2397,
+        "01:43:12.354000",
+        "01:43:16.491000",
+        "So perhaps sex after kids suffers,"
+      ]
+    ],
+    "regex": "\\b((?!\\bSex\\ After\\ Kids:)Sex\\ After\\ Kids)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0064488",
+    "title": "Interrabang",
+    "year": 1969,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 614,
+    "occurrences": [
+      [
+        93,
+        "00:11:10.703000",
+        "00:11:15.510000",
+        "It's called 'Interrabang', if you look more closely you'd have seen it's..."
+      ],
+      [
+        109,
+        "00:12:04.675000",
+        "00:12:09.209000",
+        "...you'd use an interrabang. -Right."
+      ],
+      [
+        612,
+        "01:23:41.057000",
+        "01:23:48.317000",
+        "Interrabang, it rhymes with boomerang."
+      ]
+    ],
+    "regex": "\\b((?!\\bInterrabang:)Interrabang)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

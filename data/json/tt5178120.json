@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5178120",
+    "title": "The Song of Scorpions",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 732,
+    "occurrences": [
+      [
+        451,
+        "01:06:25.656000",
+        "01:06:26.951000",
+        "He sings the song of scorpions"
+      ],
+      [
+        617,
+        "01:28:56.839000",
+        "01:29:00.320000",
+        "When my mother sings the song of scorpions"
+      ]
+    ],
+    "regex": "\\b((?!\\bSong\\ of\\ Scorpions:)Song\\ of\\ Scorpions)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

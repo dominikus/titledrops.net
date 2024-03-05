@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0086971",
+    "title": "The Black Room",
+    "year": 1982,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1108,
+    "occurrences": [
+      [
+        92,
+        "00:09:13.512000",
+        "00:09:15.138000",
+        "- Tell me about your black room."
+      ],
+      [
+        452,
+        "00:35:45.477000",
+        "00:35:46.937000",
+        "that you took to that black room?"
+      ],
+      [
+        611,
+        "00:51:42.058000",
+        "00:51:43.851000",
+        "to the black room."
+      ],
+      [
+        674,
+        "00:56:18.459000",
+        "00:56:21.045000",
+        "- Um, yeah. Uh, last week at the black room."
+      ],
+      [
+        821,
+        "01:03:32.601000",
+        "01:03:35.687000",
+        "I'll put some of our special wine in the black room."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Room:)Black\\ Room)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

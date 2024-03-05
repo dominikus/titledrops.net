@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0074751",
+    "title": "King Kong",
+    "year": 1976,
+    "genres": [
+      "Adventure",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 591,
+    "occurrences": [
+      [
+        501,
+        "01:44:58.582000",
+        "01:45:05.374000",
+        "You have better seats than these lucky King Kong contest winners."
+      ],
+      [
+        547,
+        "01:56:38.374000",
+        "01:56:43.166000",
+        "Well, here's to all the future sons and daughters of King Kong."
+      ]
+    ],
+    "regex": "\\b((?!\\bKing\\ Kong:)King\\ Kong)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1051904",
+    "title": "Goosebumps",
+    "year": 2015,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 1725,
+    "occurrences": [
+      [
+        562,
+        "00:28:41.587000",
+        "00:28:43.889000",
+        "These are all Goosebumps manuscripts."
+      ],
+      [
+        817,
+        "00:43:30.475000",
+        "00:43:32.444000",
+        "Goosebumps."
+      ],
+      [
+        1277,
+        "01:09:28.265000",
+        "01:09:29.833000",
+        "unless it's a real Goosebumps story,"
+      ]
+    ],
+    "regex": "\\b((?!\\bGoosebumps:)Goosebumps)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2016168",
+    "title": "Come Morning",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 584,
+    "occurrences": [
+      [
+        498,
+        "00:53:34.279000",
+        "00:53:37.101000",
+        "Come morning..."
+      ],
+      [
+        499,
+        "00:53:41.386000",
+        "00:53:43.668000",
+        "Come morning what?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCome\\ Morning:)Come\\ Morning)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

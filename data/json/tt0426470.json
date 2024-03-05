@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0426470",
+    "title": "Go West",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "count": 6,
+    "all_lines": 633,
+    "occurrences": [
+      [
+        25,
+        "00:02:32.880000",
+        "00:02:38.840000",
+        "Go West"
+      ],
+      [
+        78,
+        "00:09:19.400000",
+        "00:09:21.760000",
+        "We must go west."
+      ],
+      [
+        119,
+        "00:15:47.400000",
+        "00:15:51.960000",
+        "We have to go west, Kena. There is no future here."
+      ],
+      [
+        595,
+        "01:27:19.440000",
+        "01:27:22.080000",
+        "Go west."
+      ],
+      [
+        612,
+        "01:29:56.880000",
+        "01:30:00.480000",
+        "You must go west, if Lunjo tells you so."
+      ],
+      [
+        613,
+        "01:30:00.800000",
+        "01:30:02.640000",
+        "Go west!"
+      ]
+    ],
+    "regex": "\\b((?!\\bGo\\ West:)Go\\ West)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0053081",
+    "title": "The Moralist",
+    "year": 1959,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1241,
+    "occurrences": [
+      [
+        5,
+        "00:00:38.240000",
+        "00:00:41.550000",
+        "Moralist, you can tell me what morality is."
+      ],
+      [
+        10,
+        "00:01:05.840000",
+        "00:01:09.958000",
+        "Moralist, you can tell me what morality is."
+      ],
+      [
+        17,
+        "00:01:45.160000",
+        "00:01:48.233000",
+        "Moralist, you can tell me what morality is."
+      ]
+    ],
+    "regex": "\\b((?!\\bMoralist:)Moralist)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

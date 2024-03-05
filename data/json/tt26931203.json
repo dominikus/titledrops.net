@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt26931203",
+    "title": "Barbie: Skipper and the Big Babysitting Adventure",
+    "year": 2023,
+    "genres": [
+      "Family"
+    ],
+    "count": 6,
+    "all_lines": 2008,
+    "occurrences": [
+      [
+        340,
+        "00:10:05.439000",
+        "00:10:08.233000",
+        "Thanks, Barbie."
+      ],
+      [
+        448,
+        "00:13:09.414000",
+        "00:13:12.083000",
+        "and less impressive Barbie."
+      ],
+      [
+        593,
+        "00:17:54.198000",
+        "00:17:55.992000",
+        "Mini Barbie."
+      ],
+      [
+        1182,
+        "00:35:10.067000",
+        "00:35:11.944000",
+        "Barbie! I need to talk."
+      ],
+      [
+        1214,
+        "00:35:57.781000",
+        "00:35:59.198000",
+        "-Barbie?"
+      ],
+      [
+        1218,
+        "00:36:02.452000",
+        "00:36:06.498000",
+        "I don't need Barbie's advice."
+      ]
+    ],
+    "regex": "\\b((?!\\bBarbie:)Barbie|(?!\\bSkipper\\ and\\ the\\ Big\\ Babysitting\\ Adventure:)Skipper\\ and\\ the\\ Big\\ Babysitting\\ Adventure)(?!\\:)(?!'t)\\b",
+    "runtime": 61,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

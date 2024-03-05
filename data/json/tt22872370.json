@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt22872370",
+    "title": "Ditto",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1218,
+    "occurrences": [
+      [
+        7,
+        "00:02:14.006000",
+        "00:02:20.800000",
+        "Ditto"
+      ],
+      [
+        1198,
+        "01:47:18.967000",
+        "01:47:20.299000",
+        "Ditto."
+      ]
+    ],
+    "regex": "\\b((?!\\bDitto:)Ditto)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

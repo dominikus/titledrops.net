@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2147277",
+    "title": "Escape",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1035,
+    "occurrences": [
+      [
+        413,
+        "00:34:33.280000",
+        "00:34:36.866000",
+        "that we will get to escape."
+      ],
+      [
+        419,
+        "00:34:55.260000",
+        "00:34:59.806000",
+        "Glad you're here. It will make escape easier."
+      ],
+      [
+        596,
+        "00:48:02.046000",
+        "00:48:04.215000",
+        "You want to escape."
+      ]
+    ],
+    "regex": "\\b((?!\\bEscape:)Escape)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

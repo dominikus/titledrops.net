@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5576174",
+    "title": "Remember You",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1473,
+    "occurrences": [
+      [
+        23,
+        "00:02:37.850000",
+        "00:02:40.090000",
+        "but! don't remember you."
+      ],
+      [
+        1430,
+        "01:38:32.560000",
+        "01:38:34.740000",
+        "but! don't remember you."
+      ],
+      [
+        1471,
+        "01:41:47.020000",
+        "01:41:48.500000",
+        "Remember you."
+      ]
+    ],
+    "regex": "\\b((?!\\bRemember\\ You:)Remember\\ You)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

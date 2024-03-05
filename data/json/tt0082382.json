@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0082382",
+    "title": "First Monday in October",
+    "year": 1981,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1349,
+    "occurrences": [
+      [
+        374,
+        "00:27:54.072000",
+        "00:27:57.439000",
+        "The court has been in session since the first Monday in October,"
+      ],
+      [
+        1333,
+        "01:34:57.825000",
+        "01:34:59.850000",
+        "- First Monday in October. - Always."
+      ]
+    ],
+    "regex": "\\b((?!\\bFirst\\ Monday\\ in\\ October:)First\\ Monday\\ in\\ October)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

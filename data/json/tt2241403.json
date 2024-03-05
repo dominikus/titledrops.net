@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2241403",
+    "title": "Outpost: Rise of the Spetsnaz",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 442,
+    "occurrences": [
+      [
+        0,
+        "00:00:05",
+        "00:00:07",
+        "Outpost 3: Rise of the Spetsnaz (2013)"
+      ],
+      [
+        14,
+        "00:04:04.677000",
+        "00:04:07.805000",
+        "OUTPOST - OPERATION SPETSNAZ"
+      ]
+    ],
+    "regex": "\\b((?!\\bOutpost:)Outpost|(?!\\bRise\\ of\\ the\\ Spetsnaz:)Rise\\ of\\ the\\ Spetsnaz)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

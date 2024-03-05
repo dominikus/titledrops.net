@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4073682",
+    "title": "Grain",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 818,
+    "occurrences": [
+      [
+        270,
+        "00:34:06.480000",
+        "00:34:07.760000",
+        "the first grain of rice"
+      ],
+      [
+        271,
+        "00:34:07.880000",
+        "00:34:09.280000",
+        "and the last grain of rice."
+      ]
+    ],
+    "regex": "\\b((?!\\bGrain:)Grain)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

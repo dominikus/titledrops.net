@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt2261633",
+    "title": "Hitman",
+    "year": 2012,
+    "genres": [
+      "Action"
+    ],
+    "count": 4,
+    "all_lines": 1066,
+    "occurrences": [
+      [
+        245,
+        "00:19:27.900000",
+        "00:19:30.938000",
+        "including my best hitman."
+      ],
+      [
+        475,
+        "00:33:24.435000",
+        "00:33:25.535000",
+        "With his hitman."
+      ],
+      [
+        637,
+        "00:48:01.912000",
+        "00:48:05.519000",
+        "The hitman that we killed but survived..."
+      ],
+      [
+        683,
+        "00:53:55.232000",
+        "00:53:58.145000",
+        "You're daddy's hitman?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHitman:)Hitman)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

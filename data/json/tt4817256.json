@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4817256",
+    "title": "The Red Spider",
+    "year": 2015,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 527,
+    "occurrences": [
+      [
+        36,
+        "00:10:03.640000",
+        "00:10:08.680000",
+        "City police established operation group \"Red Spider\"..."
+      ],
+      [
+        368,
+        "00:57:13.680000",
+        "00:57:16.479000",
+        "He came and claims he is the Red Spider..."
+      ],
+      [
+        369,
+        "00:57:16.800000",
+        "00:57:19.792000",
+        "that he is the Red Spider... what?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRed\\ Spider:)Red\\ Spider)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

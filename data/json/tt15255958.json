@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt15255958",
+    "title": "Comedy Queen",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 862,
+    "occurrences": [
+      [
+        78,
+        "00:07:57.734000",
+        "00:08:01.615000",
+        "Number 4. Become a comedy queen."
+      ],
+      [
+        511,
+        "00:45:58.052000",
+        "00:46:01.460000",
+        "All I need to do now is become a comedy queen."
+      ]
+    ],
+    "regex": "\\b((?!\\bComedy\\ Queen:)Comedy\\ Queen)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

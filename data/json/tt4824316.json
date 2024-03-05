@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4824316",
+    "title": "Armed",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 2012,
+    "occurrences": [
+      [
+        18,
+        "00:01:04.016000",
+        "00:01:06.650000",
+        "See, the problem is the good guys ain't armed."
+      ],
+      [
+        59,
+        "00:02:36.939000",
+        "00:02:39.339000",
+        "FEMALE REPORTER: Would we be safer if our teachers were armed?"
+      ]
+    ],
+    "regex": "\\b((?!\\bArmed:)Armed)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

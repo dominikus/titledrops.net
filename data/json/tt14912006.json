@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt14912006",
+    "title": "Bull Shark",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 954,
+    "occurrences": [
+      [
+        410,
+        "00:30:46.145000",
+        "00:30:47.013000",
+        "Not the bull shark."
+      ],
+      [
+        459,
+        "00:34:26.064000",
+        "00:34:27.599000",
+        "- A bull shark."
+      ],
+      [
+        487,
+        "00:35:51.917000",
+        "00:35:56.488000",
+        "share your conviction on this bull shark theory?"
+      ],
+      [
+        562,
+        "00:43:57.235000",
+        "00:44:00.238000",
+        "- It's a bull shark. We need to close the lake down."
+      ],
+      [
+        563,
+        "00:44:00.238000",
+        "00:44:02.573000",
+        "- Bull shark? What makes you so sure?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBull\\ Shark:)Bull\\ Shark)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.6
+  }
+]

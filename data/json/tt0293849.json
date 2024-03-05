@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0293849",
+    "title": "The Little Polar Bear",
+    "year": 2001,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 592,
+    "occurrences": [
+      [
+        386,
+        "00:44:29.360000",
+        "00:44:33.115000",
+        "Are you ready? Because here we go, little polar bear."
+      ],
+      [
+        583,
+        "01:08:33.680000",
+        "01:08:38.277000",
+        "Lars, you're a wonderful little polar bear. Thank you."
+      ],
+      [
+        590,
+        "01:09:13.960000",
+        "01:09:17.749000",
+        "You're the best little polar bear there ever was!"
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Polar\\ Bear:)Little\\ Polar\\ Bear)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

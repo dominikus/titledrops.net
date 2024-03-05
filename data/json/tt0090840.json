@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0090840",
+    "title": "The Christmas Star",
+    "year": 1986,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 1093,
+    "occurrences": [
+      [
+        3,
+        "00:00:42.876000",
+        "00:00:47.215000",
+        "And 'twas then 'twas born the Christmas star."
+      ],
+      [
+        15,
+        "00:01:31.225000",
+        "00:01:33.127000",
+        "Christmas star. (chuckles)"
+      ],
+      [
+        764,
+        "00:57:30.915000",
+        "00:57:35.820000",
+        "someone special told him about the Christmas star."
+      ],
+      [
+        773,
+        "00:58:14.825000",
+        "00:58:18.663000",
+        "\"your Christmas star,"
+      ]
+    ],
+    "regex": "\\b((?!\\bChristmas\\ Star:)Christmas\\ Star)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0083900",
+    "title": "The Escape Artist",
+    "year": 1982,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 945,
+    "occurrences": [
+      [
+        11,
+        "00:03:06.152000",
+        "00:03:08.017000",
+        "I haven't heard of an escape artist"
+      ],
+      [
+        41,
+        "00:04:50.056000",
+        "00:04:53.685000",
+        "the greatest escape artist in the world after Houdini."
+      ],
+      [
+        183,
+        "00:14:24.763000",
+        "00:14:27.391000",
+        "- He was an escape artist. - Yeah."
+      ],
+      [
+        493,
+        "00:38:16.727000",
+        "00:38:21.221000",
+        "He was the greatest escape artist in the whole world. After Houdini."
+      ],
+      [
+        787,
+        "01:00:45.441000",
+        "01:00:50.071000",
+        "How would you say an escape artist is different from just plain folks?"
+      ]
+    ],
+    "regex": "\\b((?!\\bEscape\\ Artist:)Escape\\ Artist)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

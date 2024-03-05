@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt1295064",
+    "title": "Mental",
+    "year": 2008,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 564,
+    "occurrences": [
+      [
+        162,
+        "00:20:16.320000",
+        "00:20:26.309000",
+        "So, I went to see a doctor at Kawada mental hospital,"
+      ],
+      [
+        220,
+        "00:25:45.240000",
+        "00:25:50.439000",
+        "...my husband didn't let me visit the mental hospital."
+      ],
+      [
+        224,
+        "00:26:02.120000",
+        "00:26:07.399000",
+        "...I continued to visit the mental specialist,"
+      ],
+      [
+        232,
+        "00:26:41.760000",
+        "00:26:49.235000",
+        "But then I was hospitalized again at Kawada Mental Hospital for a year."
+      ],
+      [
+        533,
+        "01:04:08.400000",
+        "01:04:12.473000",
+        "For mental patients like us,"
+      ]
+    ],
+    "regex": "\\b((?!\\bMental:)Mental)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt12390572",
+    "title": "The Twin",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 925,
+    "occurrences": [
+      [
+        730,
+        "01:15:49.295000",
+        "01:15:53.800000",
+        "But in order to bring him back, they need the other twin too."
+      ],
+      [
+        814,
+        "01:30:17.246000",
+        "01:30:19.456000",
+        "There is no twin."
+      ]
+    ],
+    "regex": "\\b((?!\\bTwin:)Twin)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

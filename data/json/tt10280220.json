@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt10280220",
+    "title": "Ghost Writer",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1143,
+    "occurrences": [
+      [
+        567,
+        "00:45:10.719000",
+        "00:45:13.439000",
+        "Yes. Would you like to be my ghost writer?"
+      ],
+      [
+        569,
+        "00:45:16.919000",
+        "00:45:19.439000",
+        "...you get a ghost writer who is a real writer, isn't it?"
+      ]
+    ],
+    "regex": "\\b((?!\\bGhost\\ Writer:)Ghost\\ Writer)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

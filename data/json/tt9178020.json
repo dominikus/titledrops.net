@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt9178020",
+    "title": "Copilot",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1004,
+    "occurrences": [
+      [
+        129,
+        "00:13:01.060000",
+        "00:13:03.340000",
+        "- You wanna be my copilot? - Yes."
+      ],
+      [
+        131,
+        "00:13:11.300000",
+        "00:13:12.859000",
+        "Copilot, extend the flaps."
+      ],
+      [
+        137,
+        "00:13:30.979000",
+        "00:13:34.259000",
+        "- Copilot, check the altimeter! - The altimeter? Where is it?"
+      ],
+      [
+        150,
+        "00:14:00.899000",
+        "00:14:03.220000",
+        "Hello Tower, here is Asli, I'm the copilot."
+      ],
+      [
+        791,
+        "01:26:49.419000",
+        "01:26:51.940000",
+        "- You wanna be my copilot? - Yes."
+      ],
+      [
+        804,
+        "01:28:06.700000",
+        "01:28:08.100000",
+        "OK, copilot?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCopilot:)Copilot)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

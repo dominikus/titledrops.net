@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt5131906",
+    "title": "Fender Bender",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 912,
+    "occurrences": [
+      [
+        109,
+        "00:15:24.923000",
+        "00:15:27.657000",
+        "Ah, it's just a fender bender, right?"
+      ],
+      [
+        177,
+        "00:20:03.835000",
+        "00:20:05.935000",
+        "It was just a fender bender, but, and it wasn't even my"
+      ],
+      [
+        276,
+        "00:27:05.023000",
+        "00:27:06.255000",
+        "Uh, it was just a fender bender."
+      ],
+      [
+        477,
+        "00:50:39.202000",
+        "00:50:43.905000",
+        "Well, the fender bender I had today, um, the other driver,"
+      ],
+      [
+        723,
+        "01:02:32.314000",
+        "01:02:35.916000",
+        "The fender bender guy."
+      ]
+    ],
+    "regex": "\\b((?!\\bFender\\ Bender:)Fender\\ Bender)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

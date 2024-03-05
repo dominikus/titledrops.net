@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0045563",
+    "title": "Blowing Wild",
+    "year": 1953,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 803,
+    "occurrences": [
+      [
+        525,
+        "00:53:56.646000",
+        "00:53:59.533000",
+        "# Blowing wild"
+      ],
+      [
+        526,
+        "00:53:59.834000",
+        "00:54:04.397000",
+        "# Blowing wild! #"
+      ],
+      [
+        626,
+        "01:06:34.364000",
+        "01:06:36.637000",
+        "Marina No7 she's blowing wild."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlowing\\ Wild:)Blowing\\ Wild)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1251757",
+    "title": "Middle Men",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 922,
+    "occurrences": [
+      [
+        612,
+        "00:32:30.907000",
+        "00:32:32.241000",
+        "We're just the middle men."
+      ],
+      [
+        637,
+        "00:33:49.319000",
+        "00:33:51.153000",
+        "We were just gonna be the middle men."
+      ]
+    ],
+    "regex": "\\b((?!\\bMiddle\\ Men:)Middle\\ Men)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6793580",
+    "title": "Champions",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 6,
+    "all_lines": 1570,
+    "occurrences": [
+      [
+        1462,
+        "01:49:10.375000",
+        "01:49:12.792000",
+        "- Runner-ups are better than champions. - Oh, yes? How?"
+      ],
+      [
+        1465,
+        "01:49:27.458000",
+        "01:49:31.083000",
+        "Champions! Champions! Champions!"
+      ],
+      [
+        1486,
+        "01:52:13.375000",
+        "01:52:15.542000",
+        "You're champions. I had to."
+      ],
+      [
+        1570,
+        "01:58:32.625000",
+        "01:58:35.750000",
+        "Oranges and lemons! Champions!"
+      ]
+    ],
+    "regex": "\\b((?!\\bChampions:)Champions)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

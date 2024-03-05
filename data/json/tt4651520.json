@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt4651520",
+    "title": "Bad Moms",
+    "year": 2016,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 2072,
+    "occurrences": [
+      [
+        444,
+        "00:19:24.160000",
+        "00:19:25.321000",
+        "Let's be bad moms."
+      ],
+      [
+        447,
+        "00:19:29.800000",
+        "00:19:33.088000",
+        "Yes! To bad moms. Whoo! To bad moms!"
+      ],
+      [
+        1748,
+        "01:21:05.680000",
+        "01:21:08.331000",
+        "I think we're all bad moms, and you know why?"
+      ],
+      [
+        1858,
+        "01:26:40.440000",
+        "01:26:42.681000",
+        "Listen, we're all bad moms, right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBad\\ Moms:)Bad\\ Moms)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

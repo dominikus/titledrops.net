@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt3611002",
+    "title": "Dementia",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 1277,
+    "occurrences": [
+      [
+        91,
+        "00:06:35.451000",
+        "00:06:38.819000",
+        "Collectively, these symptoms are referred to as dementia."
+      ],
+      [
+        333,
+        "00:21:59.442000",
+        "00:22:01.474000",
+        "Dementia sufferers are prone to wandering"
+      ],
+      [
+        517,
+        "00:31:33.182000",
+        "00:31:35.214000",
+        "Well, you know, sufferers of dementia"
+      ],
+      [
+        983,
+        "01:07:31.805000",
+        "01:07:34.041000",
+        "who's suffering from dementia?"
+      ],
+      [
+        987,
+        "01:07:44.051000",
+        "01:07:45.383000",
+        "that sufferers of dementia are prone"
+      ],
+      [
+        1130,
+        "01:13:53.986000",
+        "01:13:56.722000",
+        "Dementia sufferers are prone to wandering."
+      ]
+    ],
+    "regex": "\\b((?!\\bDementia:)Dementia)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

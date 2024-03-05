@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5024048",
+    "title": "The Boo",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1244,
+    "occurrences": [
+      [
+        994,
+        "01:04:20.550000",
+        "01:04:22.500000",
+        "That sound like a boo hag to me, boy."
+      ],
+      [
+        1003,
+        "01:04:46.177000",
+        "01:04:49.110000",
+        "The boo hag haunts them Gullah folk down in South Carolina"
+      ]
+    ],
+    "regex": "\\b((?!\\bBoo:)Boo)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

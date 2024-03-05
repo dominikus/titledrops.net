@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0073190",
+    "title": "Once Is Not Enough",
+    "year": 1975,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 2001,
+    "occurrences": [
+      [
+        1922,
+        "01:52:18.800000",
+        "01:52:20.701000",
+        "Well, once is not enough."
+      ],
+      [
+        1994,
+        "01:59:49.683000",
+        "01:59:58.359000",
+        "* But once is not enough *"
+      ],
+      [
+        1999,
+        "02:00:23.216000",
+        "02:00:28.622000",
+        "* But once is not enough *"
+      ]
+    ],
+    "regex": "\\b((?!\\bOnce\\ Is\\ Not\\ Enough:)Once\\ Is\\ Not\\ Enough)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt0097499",
+    "title": "Henry V",
+    "year": 1989,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1186,
+    "occurrences": [
+      [
+        286,
+        "00:23:15.941000",
+        "00:23:18.535000",
+        "and the second, Henry Lord Scroop of Masham,"
+      ],
+      [
+        371,
+        "00:29:10.262000",
+        "00:29:14.062000",
+        "I arrest thee of high treason by the name of Henry Lord Scroop of Masham."
+      ]
+    ],
+    "regex": "\\b((?!\\bHenry:)Henry)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [
+      "King Henry V"
+    ],
+    "title_is_name": true,
+    "rating": 7.5
+  }
+]

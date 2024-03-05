@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt3715296",
+    "title": "Sex Guaranteed",
+    "year": 2017,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1444,
+    "occurrences": [
+      [
+        246,
+        "00:12:44.645000",
+        "00:12:47.613000",
+        "- I can't understand. - I'm talking sex guaranteed, man."
+      ],
+      [
+        274,
+        "00:14:06.426000",
+        "00:14:08.961000",
+        "Yo, Kev, what the hell is \"sex guaranteed,\" man?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSex\\ Guaranteed:)Sex\\ Guaranteed)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

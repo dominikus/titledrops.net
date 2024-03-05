@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt2512528",
+    "title": "The Watchers: Revelation",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 6,
+    "all_lines": 1158,
+    "occurrences": [
+      [
+        189,
+        "00:17:42.494000",
+        "00:17:47.099000",
+        "They were known as \"The Watchers\", guardians of humanity."
+      ],
+      [
+        1133,
+        "01:23:00.575000",
+        "01:23:03.442000",
+        "lt is very similar to one found in the Book of Revelation."
+      ],
+      [
+        1137,
+        "01:23:15.757000",
+        "01:23:17.657000",
+        "He was telling me about the Watchers."
+      ],
+      [
+        1139,
+        "01:23:19.427000",
+        "01:23:21.596000",
+        "No, they're not the Watchers."
+      ],
+      [
+        1142,
+        "01:23:25.467000",
+        "01:23:26.968000",
+        "Then who are the Watchers?"
+      ],
+      [
+        1143,
+        "01:23:26.968000",
+        "01:23:30.665000",
+        "We are . . . We are the Watchers."
+      ]
+    ],
+    "regex": "\\b((?!\\bWatchers:)Watchers|(?!\\bRevelation:)Revelation)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

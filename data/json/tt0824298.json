@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0824298",
+    "title": "Captain Ahab",
+    "year": 2007,
+    "genres": [
+      "Adventure"
+    ],
+    "count": 5,
+    "all_lines": 1126,
+    "occurrences": [
+      [
+        695,
+        "00:58:47.500000",
+        "00:58:50.600000",
+        "-There is no doubt, Captain Ahab."
+      ],
+      [
+        723,
+        "01:01:57.100000",
+        "01:02:00.500000",
+        "-It is said that Captain Ahab would have fled his ship"
+      ],
+      [
+        791,
+        "01:07:45.700000",
+        "01:07:48",
+        "Captain Ahab is dead."
+      ],
+      [
+        855,
+        "01:13:44.800000",
+        "01:13:47.600000",
+        "And Captain Ahab"
+      ],
+      [
+        984,
+        "01:26:16.800000",
+        "01:26:20.500000",
+        "In the privacy of the sick soul of Captain Ahab"
+      ]
+    ],
+    "regex": "\\b((?!\\bCaptain\\ Ahab:)Captain\\ Ahab)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

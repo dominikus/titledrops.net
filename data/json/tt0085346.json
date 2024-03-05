@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0085346",
+    "title": "Class",
+    "year": 1983,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1061,
+    "occurrences": [
+      [
+        238,
+        "00:18:59.540000",
+        "00:19:04.140000",
+        "Secretary of the Dance Committee is bullshit. lt's an excuse to get outta class."
+      ],
+      [
+        306,
+        "00:23:39.060000",
+        "00:23:42.130000",
+        "- Class. - Whatever. I'm no good with women."
+      ],
+      [
+        688,
+        "00:57:48.060000",
+        "00:57:52.580000",
+        "l, too, was the first boy in my class at Vernon to be accepted into Harvard."
+      ],
+      [
+        981,
+        "01:24:12.660000",
+        "01:24:14.860000",
+        "This is now my favourite class."
+      ]
+    ],
+    "regex": "\\b((?!\\bClass:)Class)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0329030",
+    "title": "The Dust Factory",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 717,
+    "occurrences": [
+      [
+        187,
+        "00:25:53.100000",
+        "00:25:57.100000",
+        "A while, I guess. Time is kind of unimportant here in the Dust Factory."
+      ],
+      [
+        188,
+        "00:25:57.700000",
+        "00:26:00.900000",
+        "Thats how you call this place? The Dust Factory?"
+      ],
+      [
+        460,
+        "00:52:42.500000",
+        "00:52:46.600000",
+        "- Thats impossible. - In the Dust Factory, anything is possible."
+      ],
+      [
+        505,
+        "01:00:30.900000",
+        "01:00:33.800000",
+        "When you make the leap at the big top, time in the Dust Factory ends."
+      ]
+    ],
+    "regex": "\\b((?!\\bDust\\ Factory:)Dust\\ Factory)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

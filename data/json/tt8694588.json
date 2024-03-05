@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt8694588",
+    "title": "Sophia Antipolis",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 836,
+    "occurrences": [
+      [
+        80,
+        "00:10:54.208000",
+        "00:10:58.058000",
+        "Sea, Science and Sun at Sophia Antipolis"
+      ],
+      [
+        714,
+        "01:13:54.875000",
+        "01:13:57.357000",
+        "Two security guards from Sophia Antipolis"
+      ]
+    ],
+    "regex": "\\b((?!\\bSophia\\ Antipolis:)Sophia\\ Antipolis)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

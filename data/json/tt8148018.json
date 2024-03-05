@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt8148018",
+    "title": "The Accountant of Auschwitz",
+    "year": 2018,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1346,
+    "occurrences": [
+      [
+        174,
+        "00:10:27.010000",
+        "00:10:29.810000",
+        "\"Accountant of Auschwitz\" is also guilty"
+      ],
+      [
+        1310,
+        "01:11:01.486000",
+        "01:11:03.686000",
+        "with a man known as the \"Accountant of Auschwitz.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bAccountant\\ of\\ Auschwitz:)Accountant\\ of\\ Auschwitz)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

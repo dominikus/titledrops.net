@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0100196",
+    "title": "Mountains of the Moon",
+    "year": 1990,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 767,
+    "occurrences": [
+      [
+        33,
+        "00:07:25.500000",
+        "00:07:29.493000",
+        "They call the place  Mountains of the Moon."
+      ],
+      [
+        220,
+        "00:37:10.820000",
+        "00:37:15.257000",
+        "Kiswahili, the Desert people and the Mountains of the Moon."
+      ],
+      [
+        221,
+        "00:37:15.460000",
+        "00:37:22.138000",
+        "Do you know the Mountains of the Moon? - Yes, and my father has seen big water."
+      ]
+    ],
+    "regex": "\\b((?!\\bMountains\\ of\\ the\\ Moon:)Mountains\\ of\\ the\\ Moon)(?!\\:)(?!'t)\\b",
+    "runtime": 136,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

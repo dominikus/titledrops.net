@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4634422",
+    "title": "The Broken Crown",
+    "year": 2016,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 835,
+    "occurrences": [
+      [
+        8,
+        "00:01:09.208000",
+        "00:01:13.249000",
+        "The Broken Crown"
+      ],
+      [
+        481,
+        "01:02:58.541000",
+        "01:03:01.705000",
+        "A broken crown opens the door to misrule."
+      ]
+    ],
+    "regex": "\\b((?!\\bBroken\\ Crown:)Broken\\ Crown)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

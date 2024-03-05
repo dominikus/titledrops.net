@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2328797",
+    "title": "The Sound of the Spirit",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 2309,
+    "occurrences": [
+      [
+        1960,
+        "01:42:08.055000",
+        "01:42:09.424000",
+        "for the sound of the spirit"
+      ],
+      [
+        1983,
+        "01:43:25.467000",
+        "01:43:27.635000",
+        "- The sound of the spirit."
+      ],
+      [
+        2045,
+        "01:47:32.547000",
+        "01:47:37.284000",
+        "The sound of the spirit."
+      ],
+      [
+        2186,
+        "01:58:15.122000",
+        "01:58:17.824000",
+        "I guess you heardthe sound of the spirit."
+      ]
+    ],
+    "regex": "\\b((?!\\bSound\\ of\\ the\\ Spirit:)Sound\\ of\\ the\\ Spirit)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

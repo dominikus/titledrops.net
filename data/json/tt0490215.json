@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0490215",
+    "title": "Silence",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 1288,
+    "occurrences": [
+      [
+        532,
+        "01:01:14.875000",
+        "01:01:19.175000",
+        "How can I explain his silence to these people, who have endured so much?"
+      ],
+      [
+        565,
+        "01:05:29.691000",
+        "01:05:32.157000",
+        "The wait of your silence is terrible."
+      ],
+      [
+        1246,
+        "02:27:15.948000",
+        "02:27:19.681000",
+        "Lord, I fought against your silence."
+      ],
+      [
+        1254,
+        "02:28:10.747000",
+        "02:28:13.480000",
+        "It was in the silence that I heard your voice."
+      ]
+    ],
+    "regex": "\\b((?!\\bSilence:)Silence)(?!\\:)(?!'t)\\b",
+    "runtime": 161,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

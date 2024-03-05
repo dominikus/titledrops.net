@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0108525",
+    "title": "Wayne's World 2",
+    "year": 1993,
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 904,
+    "occurrences": [
+      [
+        22,
+        "00:02:27.580000",
+        "00:02:33.177000",
+        "Hi. I'm Wayne Campbell. Excellent. Welcome to Wayne's World 2."
+      ],
+      [
+        110,
+        "00:11:56.415000",
+        "00:11:59.043000",
+        "- Wayne's World? - Wayne's World!"
+      ],
+      [
+        640,
+        "01:02:59.408000",
+        "01:03:01.137000",
+        "Wayne's World, all right."
+      ]
+    ],
+    "regex": "\\b((?!\\bWayne's\\ World:)Wayne's\\ World)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

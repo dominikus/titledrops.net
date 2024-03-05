@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt8933310",
+    "title": "Black Wood",
+    "year": 2022,
+    "genres": [
+      "Horror",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 772,
+    "occurrences": [
+      [
+        168,
+        "00:20:01.401000",
+        "00:20:04.271000",
+        "There are many legends about the Black Wood."
+      ],
+      [
+        414,
+        "00:46:49.410000",
+        "00:46:53.480000",
+        "-Elders would tell us stories of the cursed Black Wood."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Wood:)Black\\ Wood)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

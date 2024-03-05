@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0460952",
+    "title": "TV: The Movie",
+    "year": 2006,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 1604,
+    "occurrences": [
+      [
+        1,
+        "00:01:54.547000",
+        "00:01:57.750000",
+        "( cheerful music playing on TV )"
+      ],
+      [
+        1565,
+        "01:21:56.677000",
+        "01:22:01.281000",
+        "And there's something about TV"
+      ],
+      [
+        1574,
+        "01:22:26.574000",
+        "01:22:30.510000",
+        "And there's something about TV"
+      ],
+      [
+        1582,
+        "01:22:54.235000",
+        "01:22:56.204000",
+        "The Tuesday afternoon movie"
+      ],
+      [
+        1585,
+        "01:23:09.717000",
+        "01:23:13.286000",
+        "Something about TV"
+      ],
+      [
+        1596,
+        "01:23:52.159000",
+        "01:23:56.496000",
+        "And there's something about TV"
+      ]
+    ],
+    "regex": "\\b((?!\\bTV:)TV|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

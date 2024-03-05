@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0119960",
+    "title": "The Proposition",
+    "year": 1996,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 825,
+    "occurrences": [
+      [
+        107,
+        "00:10:52.154000",
+        "00:10:54.422000",
+        "- I have a proposition."
+      ],
+      [
+        108,
+        "00:10:54.422000",
+        "00:10:57.255000",
+        "- Really? - A business proposition."
+      ],
+      [
+        284,
+        "00:26:33.101000",
+        "00:26:36.101000",
+        "- It was your proposition, not mine."
+      ],
+      [
+        822,
+        "01:29:24.225000",
+        "01:29:26.642000",
+        "I have a proposition for you."
+      ],
+      [
+        823,
+        "01:29:29.122000",
+        "01:29:31.205000",
+        "- A business proposition?"
+      ]
+    ],
+    "regex": "\\b((?!\\bProposition:)Proposition)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

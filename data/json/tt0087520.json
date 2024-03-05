@@ -1,0 +1,67 @@
+[
+  {
+    "imdb": "tt0087520",
+    "title": "The Twin",
+    "year": 1984,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 8,
+    "all_lines": 1270,
+    "occurrences": [
+      [
+        80,
+        "00:08:41.933000",
+        "00:08:44.469000",
+        "But you have a twin brother, too?"
+      ],
+      [
+        235,
+        "00:20:19.356000",
+        "00:20:21.820000",
+        "You are like me, you are my twin."
+      ],
+      [
+        457,
+        "00:35:52.529000",
+        "00:35:57.080000",
+        "For the first time since the beginning of this story I wanted to have a twin brother."
+      ],
+      [
+        742,
+        "01:00:37.010000",
+        "01:00:40.612000",
+        "Good title for an article: \"One twin hides the other.\""
+      ],
+      [
+        855,
+        "01:09:21.345000",
+        "01:09:24.296000",
+        "But there is one catch. The old man had a twin brother."
+      ],
+      [
+        864,
+        "01:09:46.856000",
+        "01:09:51.786000",
+        "- Who owns 10%? - Kerner's twin brother."
+      ],
+      [
+        1075,
+        "01:27:01.171000",
+        "01:27:04.678000",
+        "- Excuse me? - You don't have a twin brother."
+      ],
+      [
+        1149,
+        "01:36:06.116000",
+        "01:36:08.783000",
+        "But you and me know that you don't have a twin brother."
+      ]
+    ],
+    "regex": "\\b((?!\\bTwin:)Twin)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

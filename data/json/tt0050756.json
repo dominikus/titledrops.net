@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0050756",
+    "title": "Night Light",
+    "year": 1957,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 919,
+    "occurrences": [
+      [
+        15,
+        "00:01:47.727000",
+        "00:01:49.594000",
+        "Night Light"
+      ],
+      [
+        474,
+        "00:36:37.171000",
+        "00:36:41.140000",
+        "In school I was a star pupil. Now I'm a night light again."
+      ]
+    ],
+    "regex": "\\b((?!\\bNight\\ Light:)Night\\ Light)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

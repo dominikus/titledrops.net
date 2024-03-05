@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6848602",
+    "title": "Til Death Do Us Part",
+    "year": 2017,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1610,
+    "occurrences": [
+      [
+        211,
+        "00:14:03.300000",
+        "00:14:05.636000",
+        "\"Til Death Do Us Part.\""
+      ],
+      [
+        609,
+        "00:34:42.246000",
+        "00:34:45.017000",
+        "Til death do us part, remember?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTil\\ Death\\ Do\\ Us\\ Part:)Til\\ Death\\ Do\\ Us\\ Part)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

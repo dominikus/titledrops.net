@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt13086492",
+    "title": "The Line",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 1051,
+    "occurrences": [
+      [
+        266,
+        "00:31:05.875000",
+        "00:31:08.417000",
+        "Swear you'll never cross this line."
+      ],
+      [
+        490,
+        "00:48:42.334000",
+        "00:48:44.667000",
+        "She doesn't dare cross the line!"
+      ],
+      [
+        649,
+        "01:05:18.209000",
+        "01:05:19.584000",
+        "No, by the line."
+      ],
+      [
+        801,
+        "01:16:24.167000",
+        "01:16:26.292000",
+        "Stop! Go back your side of the line!"
+      ],
+      [
+        839,
+        "01:19:03.417000",
+        "01:19:05.125000",
+        "There's blood on the line, Mum."
+      ],
+      [
+        841,
+        "01:19:07.917000",
+        "01:19:09",
+        "On the line."
+      ],
+      [
+        886,
+        "01:22:41.250000",
+        "01:22:43.750000",
+        "Getting rid of the line. Today's the last day."
+      ]
+    ],
+    "regex": "\\b((?!\\bLine:)Line)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

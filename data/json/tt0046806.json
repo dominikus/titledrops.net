@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0046806",
+    "title": "The Bridges at Toko-Ri",
+    "year": 1954,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 696,
+    "occurrences": [
+      [
+        146,
+        "00:18:07.720000",
+        "00:18:13.431000",
+        "Thas why, one day, we'll knock out those bridges at Toko-Ri."
+      ],
+      [
+        150,
+        "00:18:27.440000",
+        "00:18:31.479000",
+        "A messenger will say, \"They've knocked out the bridges at Toko-Ri!\""
+      ]
+    ],
+    "regex": "\\b((?!\\bBridges\\ at\\ Toko\\-Ri:)Bridges\\ at\\ Toko\\-Ri)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5940448",
+    "title": "Black Creek",
+    "year": 2017,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 969,
+    "occurrences": [
+      [
+        284,
+        "00:19:48.107000",
+        "00:19:51.899000",
+        "This mark here is right next to Black Creek."
+      ],
+      [
+        915,
+        "01:05:22.149000",
+        "01:05:26.357000",
+        "Black Creek becomin' the murder capital of the world?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Creek:)Black\\ Creek)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.9
+  }
+]

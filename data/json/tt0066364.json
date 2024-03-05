@@ -1,0 +1,53 @@
+[
+  {
+    "imdb": "tt0066364",
+    "title": "Shango",
+    "year": 1970,
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "count": 5,
+    "all_lines": 461,
+    "occurrences": [
+      [
+        88,
+        "00:17:40.600000",
+        "00:17:42.955000",
+        "My name is Shango."
+      ],
+      [
+        169,
+        "00:31:22.200000",
+        "00:31:23.679000",
+        "Shango."
+      ],
+      [
+        213,
+        "00:35:04.920000",
+        "00:35:06.990000",
+        "Alright, Shango."
+      ],
+      [
+        380,
+        "01:06:58.040000",
+        "01:06:59.473000",
+        "Shango!"
+      ],
+      [
+        381,
+        "01:07:05.800000",
+        "01:07:07.438000",
+        "Shango, come out!"
+      ]
+    ],
+    "regex": "\\b((?!\\bShango:)Shango)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [
+      "Shango"
+    ],
+    "title_is_name": true,
+    "rating": 5.5
+  }
+]

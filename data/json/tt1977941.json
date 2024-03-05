@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1977941",
+    "title": "The Cottage",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1026,
+    "occurrences": [
+      [
+        29,
+        "00:03:48.494000",
+        "00:03:51.531000",
+        "I'm Vanessa Clay, my sister Lauren rented your cottage."
+      ],
+      [
+        520,
+        "00:33:27.038000",
+        "00:33:28.906000",
+        "Oh, and Robert in the cottage,"
+      ],
+      [
+        610,
+        "00:40:40.337000",
+        "00:40:42.039000",
+        "your cottage."
+      ],
+      [
+        760,
+        "00:57:51.668000",
+        "00:57:54.204000",
+        "could you, maybe, go out and check the cottage for me"
+      ]
+    ],
+    "regex": "\\b((?!\\bCottage:)Cottage)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

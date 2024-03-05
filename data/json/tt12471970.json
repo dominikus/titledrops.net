@@ -1,0 +1,26 @@
+[
+  {
+    "imdb": "tt12471970",
+    "title": "Employee of the Month",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 1,
+    "all_lines": 948,
+    "occurrences": [
+      [
+        172,
+        "00:13:53.208000",
+        "00:13:57.004000",
+        "you'd be designated employee of the month every month."
+      ]
+    ],
+    "regex": "\\b((?!\\bEmployee\\ of\\ the\\ Month:)Employee\\ of\\ the\\ Month)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

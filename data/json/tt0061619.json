@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt0061619",
+    "title": "El Dorado",
+    "year": 1966,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Western"
+    ],
+    "count": 4,
+    "all_lines": 1150,
+    "occurrences": [
+      [
+        324,
+        "00:26:58.751000",
+        "00:27:01.294000",
+        "There's a little range war up in the El Dorado country."
+      ],
+      [
+        325,
+        "00:27:01.379000",
+        "00:27:04.840000",
+        "El Dorado? Mind telling me who hired you?"
+      ],
+      [
+        391,
+        "00:31:56.084000",
+        "00:32:00.003000",
+        "You're going to that town El Dorado and help your friend against"
+      ],
+      [
+        555,
+        "00:46:44.602000",
+        "00:46:48.104000",
+        "McLeod, this is J.P. Harrah, the sheriff of El Dorado."
+      ]
+    ],
+    "regex": "\\b((?!\\bEl\\ Dorado:)El\\ Dorado)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [
+      "El Dorado Sheriff J.P. Harrah"
+    ],
+    "title_is_name": true,
+    "rating": 7.5
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "imdb": "tt1091172",
+    "title": "Bob Funk",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1719,
+    "occurrences": [
+      [
+        147,
+        "00:09:27.166000",
+        "00:09:29.367000",
+        "- That's not the way we do things here. - Bob Funk to Admin."
+      ],
+      [
+        150,
+        "00:09:32.704000",
+        "00:09:35.406000",
+        "- Bob Funk to Admin. - Is that for you?"
+      ],
+      [
+        151,
+        "00:09:35.474000",
+        "00:09:37.408000",
+        "Bob Funk to Admin, please."
+      ],
+      [
+        899,
+        "00:50:51.580000",
+        "00:50:53.782000",
+        "You look like Bob Funk."
+      ]
+    ],
+    "regex": "\\b((?!\\bBob\\ Funk:)Bob\\ Funk)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [
+      "Bob Funk"
+    ],
+    "title_is_name": true,
+    "rating": 5
+  }
+]

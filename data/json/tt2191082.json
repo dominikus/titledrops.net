@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2191082",
+    "title": "A Promise",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 893,
+    "occurrences": [
+      [
+        302,
+        "00:28:52.254000",
+        "00:28:54.999000",
+        "I'll come back here as soon as I can. I promise."
+      ],
+      [
+        584,
+        "01:02:41.872000",
+        "01:02:45.175000",
+        "a promise to love each other. Do you see?"
+      ],
+      [
+        612,
+        "01:04:36.627000",
+        "01:04:39.130000",
+        "I promise I'll come back here."
+      ],
+      [
+        855,
+        "01:29:36.930000",
+        "01:29:39.933000",
+        "I haven't forgotten my promise to you."
+      ]
+    ],
+    "regex": "\\b((?!\\bPromise:)Promise)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

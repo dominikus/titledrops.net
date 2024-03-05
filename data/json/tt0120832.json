@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0120832",
+    "title": "Snake Eyes",
+    "year": 1998,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1536,
+    "occurrences": [
+      [
+        1249,
+        "01:14:52.560000",
+        "01:14:55.757000",
+        "Snake eyes. The house wins."
+      ],
+      [
+        1374,
+        "01:24:23.240000",
+        "01:24:27.074000",
+        "- You got snake eyes ! - Put the gun down, sir !"
+      ],
+      [
+        1484,
+        "01:30:38.440000",
+        "01:30:41.432000",
+        "? You got nothin' Snake eyes ?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSnake\\ Eyes:)Snake\\ Eyes)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

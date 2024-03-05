@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0277928",
+    "title": "Normal People",
+    "year": 2001,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 924,
+    "occurrences": [
+      [
+        248,
+        "00:19:49.620000",
+        "00:19:54.980000",
+        "I'm gonna ride it like other normal people."
+      ],
+      [
+        508,
+        "00:41:11.740000",
+        "00:41:14.020000",
+        "making pasties of everything they have, normal people..."
+      ]
+    ],
+    "regex": "\\b((?!\\bNormal\\ People:)Normal\\ People)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

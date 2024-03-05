@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0453383",
+    "title": "Next Door",
+    "year": 2005,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 456,
+    "occurrences": [
+      [
+        91,
+        "00:11:00.720000",
+        "00:11:03.075000",
+        "Your apartment is next door."
+      ],
+      [
+        99,
+        "00:11:27.600000",
+        "00:11:32.833000",
+        "- How could you know this otherwise? - That's what it's like to live next door."
+      ]
+    ],
+    "regex": "\\b((?!\\bNext\\ Door:)Next\\ Door)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

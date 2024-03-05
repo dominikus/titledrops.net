@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0036807",
+    "title": "Experiment Perilous",
+    "year": 1944,
+    "genres": [
+      "Film-Noir",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1580,
+    "occurrences": [
+      [
+        413,
+        "00:22:44.800000",
+        "00:22:47.833000",
+        "\"Decision difficult, experiment perilous.\""
+      ],
+      [
+        457,
+        "00:24:35.333000",
+        "00:24:36.967000",
+        "Ah, experiment perilous."
+      ]
+    ],
+    "regex": "\\b((?!\\bExperiment\\ Perilous:)Experiment\\ Perilous)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

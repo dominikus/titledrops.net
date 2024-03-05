@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt12801538",
+    "title": "Bandar Band",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 615,
+    "occurrences": [
+      [
+        29,
+        "00:06:32.663000",
+        "00:06:37.537000",
+        "Lady Mahla and her \"Bandar Band\""
+      ],
+      [
+        448,
+        "00:47:16.648000",
+        "00:47:26.647000",
+        "The road is open and it goes ard Bandar Band never loses its soud"
+      ]
+    ],
+    "regex": "\\b((?!\\bBandar\\ Band:)Bandar\\ Band)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

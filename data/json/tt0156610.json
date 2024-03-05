@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0156610",
+    "title": "The Hole",
+    "year": 1998,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 317,
+    "occurrences": [
+      [
+        174,
+        "00:35:44.856000",
+        "00:35:47.518000",
+        "The plumber will come and fix the hole this afternoon."
+      ],
+      [
+        247,
+        "00:53:56.480000",
+        "00:53:58.744000",
+        "I'm looking at the hole you made in the ceiling."
+      ]
+    ],
+    "regex": "\\b((?!\\bHole:)Hole)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

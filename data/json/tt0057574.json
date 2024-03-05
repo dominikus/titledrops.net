@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0057574",
+    "title": "That Kind of Girl",
+    "year": 1963,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1091,
+    "occurrences": [
+      [
+        425,
+        "00:29:38.920000",
+        "00:29:40.194000",
+        "Look, I'm not that kind of girl"
+      ],
+      [
+        732,
+        "00:52:17.320000",
+        "00:52:21.029000",
+        "Of course, I won't be seeing her again. Won't catch me with that kind of girl."
+      ]
+    ],
+    "regex": "\\b((?!\\bThat\\ Kind\\ of\\ Girl:)That\\ Kind\\ of\\ Girl)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

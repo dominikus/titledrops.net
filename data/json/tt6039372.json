@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt6039372",
+    "title": "Rift",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 593,
+    "occurrences": [
+      [
+        217,
+        "00:35:49.417000",
+        "00:35:51.334000",
+        "See this rift here."
+      ],
+      [
+        220,
+        "00:36:03.167000",
+        "00:36:07.167000",
+        "They gathered in this rift, trying to find shelter."
+      ]
+    ],
+    "regex": "\\b((?!\\bRift:)Rift)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

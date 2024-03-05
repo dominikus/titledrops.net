@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0080097",
+    "title": "The Villain",
+    "year": 1979,
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 554,
+    "occurrences": [
+      [
+        13,
+        "00:06:22.506000",
+        "00:06:26.364000",
+        "No one is safe from the villain"
+      ],
+      [
+        17,
+        "00:06:50.554000",
+        "00:06:54.308000",
+        "Get off the streets, he's the villain"
+      ]
+    ],
+    "regex": "\\b((?!\\bVillain:)Villain)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

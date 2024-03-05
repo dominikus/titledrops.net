@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0057405",
+    "title": "Banana Peel",
+    "year": 1963,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 2063,
+    "occurrences": [
+      [
+        5,
+        "00:00:24.313000",
+        "00:00:26.397000",
+        "You can put everything on Banana Peel."
+      ],
+      [
+        9,
+        "00:01:25.247000",
+        "00:01:26.430000",
+        "Let's go Banana Peel!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBanana\\ Peel:)Banana\\ Peel)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

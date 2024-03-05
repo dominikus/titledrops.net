@@ -1,0 +1,59 @@
+[
+  {
+    "imdb": "tt0420291",
+    "title": "Keane",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 859,
+    "occurrences": [
+      [
+        151,
+        "00:16:30.031000",
+        "00:16:31.115000",
+        "William Keane."
+      ],
+      [
+        312,
+        "00:33:16.953000",
+        "00:33:20.248000",
+        "Hi. My name is William Keane. I'm staying down the hall."
+      ],
+      [
+        752,
+        "01:18:17.276000",
+        "01:18:19.737000",
+        "My name is William Keane."
+      ],
+      [
+        753,
+        "01:18:21.113000",
+        "01:18:22.198000",
+        "Keane."
+      ],
+      [
+        757,
+        "01:18:40.090000",
+        "01:18:43.010000",
+        "My father's name is Henry Keane."
+      ],
+      [
+        761,
+        "01:18:54.480000",
+        "01:18:57.274000",
+        "A half brother, Robert Keane."
+      ]
+    ],
+    "regex": "\\b((?!\\bKeane:)Keane)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [
+      "William Keane"
+    ],
+    "title_is_name": true,
+    "rating": 6.9
+  }
+]

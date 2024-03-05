@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0065950",
+    "title": "The Kremlin Letter",
+    "year": 1970,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1505,
+    "occurrences": [
+      [
+        1341,
+        "01:44:43.189000",
+        "01:44:45.236000",
+        "Where is the Kremlin letter?"
+      ],
+      [
+        1480,
+        "01:56:08.095000",
+        "01:56:11.057000",
+        "And am I to tell sweet Alice the Kremlin letter's in Peking?"
+      ]
+    ],
+    "regex": "\\b((?!\\bKremlin\\ Letter:)Kremlin\\ Letter)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

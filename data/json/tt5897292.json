@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5897292",
+    "title": "I Can Quit Whenever I Want: Ad Honorem",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1284,
+    "occurrences": [
+      [
+        392,
+        "00:32:40.251000",
+        "00:32:43.501000",
+        "Here's the list of all the participants to the Ad Honorem degree ceremony."
+      ],
+      [
+        951,
+        "01:14:04.209000",
+        "01:14:06.709000",
+        "His goal has always been this, the Ad Honorem degrees."
+      ],
+      [
+        1234,
+        "01:33:36.459000",
+        "01:33:40.001000",
+        "Does the Ad Honorem degree have a grade?"
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Can\\ Quit\\ Whenever\\ I\\ Want:)I\\ Can\\ Quit\\ Whenever\\ I\\ Want|(?!\\bAd\\ Honorem:)Ad\\ Honorem)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

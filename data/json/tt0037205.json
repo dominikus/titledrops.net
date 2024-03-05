@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0037205",
+    "title": "The Rainbow",
+    "year": 1944,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 725,
+    "occurrences": [
+      [
+        189,
+        "00:18:32.010000",
+        "00:18:35.013000",
+        "The rainbow is a good sign."
+      ],
+      [
+        721,
+        "01:25:13.441000",
+        "01:25:16.678000",
+        "The rainbow is a very good sign."
+      ]
+    ],
+    "regex": "\\b((?!\\bRainbow:)Rainbow)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

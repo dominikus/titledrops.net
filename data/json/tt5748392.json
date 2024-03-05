@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt5748392",
+    "title": "Escape Room",
+    "year": 2017,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1316,
+    "occurrences": [
+      [
+        133,
+        "00:09:49.956000",
+        "00:09:52.323000",
+        "- Escape room? - Yep."
+      ],
+      [
+        143,
+        "00:10:08.375000",
+        "00:10:10.742000",
+        "- That wasn't an escape room. - I know."
+      ],
+      [
+        250,
+        "00:15:15.414000",
+        "00:15:17.214000",
+        "What, is there an escape room app?"
+      ],
+      [
+        1259,
+        "01:14:06.742000",
+        "01:14:09.176000",
+        "We went to an escape room."
+      ]
+    ],
+    "regex": "\\b((?!\\bEscape\\ Room:)Escape\\ Room)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

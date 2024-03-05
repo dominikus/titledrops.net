@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt4414438",
+    "title": "It Had to Be You",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Music",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1234,
+    "occurrences": [
+      [
+        108,
+        "00:08:55.603000",
+        "00:08:56.763000",
+        "Thank you.  It had to be you"
+      ],
+      [
+        970,
+        "01:02:51.368000",
+        "01:02:54.839000",
+        "It had to be you"
+      ],
+      [
+        971,
+        "01:02:57.507000",
+        "01:03:00.310000",
+        "It had to be you"
+      ],
+      [
+        1212,
+        "01:16:39.128000",
+        "01:16:41.064000",
+        "It had to be you"
+      ],
+      [
+        1213,
+        "01:16:45.669000",
+        "01:16:48.071000",
+        "It had to be you"
+      ]
+    ],
+    "regex": "\\b((?!\\bIt\\ Had\\ to\\ Be\\ You:)It\\ Had\\ to\\ Be\\ You)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

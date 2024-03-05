@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt12814440",
+    "title": "Corsicana",
+    "year": 2022,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Western"
+    ],
+    "count": 4,
+    "all_lines": 592,
+    "occurrences": [
+      [
+        51,
+        "00:04:33.473000",
+        "00:04:38.012000",
+        "- 500 up front and 500 in Corsicana,"
+      ],
+      [
+        251,
+        "00:40:11.712000",
+        "00:40:12.914000",
+        "- Corsicana."
+      ],
+      [
+        253,
+        "00:40:21.122000",
+        "00:40:22.523000",
+        "be going to Corsicana?"
+      ],
+      [
+        291,
+        "00:43:03.552000",
+        "00:43:04.652000",
+        "Corsicana."
+      ]
+    ],
+    "regex": "\\b((?!\\bCorsicana:)Corsicana)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

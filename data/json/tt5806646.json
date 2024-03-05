@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt5806646",
+    "title": "The Archer",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1145,
+    "occurrences": [
+      [
+        246,
+        "00:16:35.748000",
+        "00:16:40.317000",
+        "You're... You're aware of, uh, the archer's paradox?"
+      ],
+      [
+        406,
+        "00:27:59.864000",
+        "00:28:01.264000",
+        "The archer?"
+      ]
+    ],
+    "regex": "\\b((?!\\bArcher:)Archer)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

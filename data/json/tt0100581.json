@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0100581",
+    "title": "The Sect",
+    "year": 1991,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 703,
+    "occurrences": [
+      [
+        82,
+        "00:15:23.339000",
+        "00:15:29.095000",
+        "One of the most famous sects in America in the '70s, the Faceless sect..."
+      ],
+      [
+        323,
+        "00:51:23.789000",
+        "00:51:28.419000",
+        "The Faceless sect was inspired by one of the most eminent scholars on esotericism,"
+      ]
+    ],
+    "regex": "\\b((?!\\bSect:)Sect)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

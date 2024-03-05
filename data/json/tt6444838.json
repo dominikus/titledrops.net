@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt6444838",
+    "title": "The Workshop",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1466,
+    "occurrences": [
+      [
+        112,
+        "00:07:42.361000",
+        "00:07:46.696000",
+        "The idea of this workshop is to write about your town."
+      ],
+      [
+        984,
+        "01:06:07.196000",
+        "01:06:10.894000",
+        "I'm Olivia Dejazet. I run the writing workshop."
+      ],
+      [
+        1196,
+        "01:23:26.501000",
+        "01:23:29.630000",
+        "With the workshop, I don't have time tor much else."
+      ]
+    ],
+    "regex": "\\b((?!\\bWorkshop:)Workshop)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

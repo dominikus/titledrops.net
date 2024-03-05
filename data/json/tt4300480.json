@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt4300480",
+    "title": "Italian Race",
+    "year": 2016,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 1142,
+    "occurrences": [
+      [
+        476,
+        "00:41:17.292000",
+        "00:41:20.376000",
+        "A much bigger race, they call it 'Italian Race'."
+      ],
+      [
+        604,
+        "00:51:07.667000",
+        "00:51:10.126000",
+        "You know what the Italian Race is ?"
+      ],
+      [
+        664,
+        "00:57:33.917000",
+        "00:57:35.542000",
+        "The Italian Race."
+      ],
+      [
+        1035,
+        "01:33:31.876000",
+        "01:33:33.626000",
+        "Do you still need a driver for the Italian Race ?"
+      ]
+    ],
+    "regex": "\\b((?!\\bItalian\\ Race:)Italian\\ Race)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

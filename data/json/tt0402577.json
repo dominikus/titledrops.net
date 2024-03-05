@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0402577",
+    "title": "WMD: Weapons of Mass Deception",
+    "year": 2004,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1652,
+    "occurrences": [
+      [
+        1231,
+        "01:10:12.370000",
+        "01:10:15.069000",
+        "By year's end, when no WMD's were found."
+      ],
+      [
+        1313,
+        "01:15:06.600000",
+        "01:15:08.970000",
+        "Numbers of WMD found:"
+      ],
+      [
+        1314,
+        "01:15:08.971000",
+        "01:15:13.400000",
+        "Numbers of WMD found: 0"
+      ],
+      [
+        1621,
+        "01:34:46.433000",
+        "01:34:49.200000",
+        "Media weapons of mass deception."
+      ]
+    ],
+    "regex": "\\b((?!\\bWMD:)WMD|(?!\\bWeapons\\ of\\ Mass\\ Deception:)Weapons\\ of\\ Mass\\ Deception)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

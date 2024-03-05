@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1400558",
+    "title": "Zatoichi: The Last",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 522,
+    "occurrences": [
+      [
+        5,
+        "00:03:22.268000",
+        "00:03:23.759000",
+        "This is the last time."
+      ],
+      [
+        13,
+        "00:07:34.654000",
+        "00:07:37.054000",
+        "Imagine if you were to kill him, Zatoichi."
+      ],
+      [
+        410,
+        "00:51:46.086000",
+        "00:51:48.578000",
+        "Place your bets. Are there no more odds. Last call for odds."
+      ],
+      [
+        412,
+        "00:51:57.531000",
+        "00:51:59.226000",
+        "Last call for odds."
+      ]
+    ],
+    "regex": "\\b((?!\\bZatoichi:)Zatoichi|(?!\\bLast:)Last)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

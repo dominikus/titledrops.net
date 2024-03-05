@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt7611352",
+    "title": "Alive",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1201,
+    "occurrences": [
+      [
+        45,
+        "00:05:55.268000",
+        "00:06:00.672000",
+        "...but pain means you're alive."
+      ],
+      [
+        518,
+        "00:33:25.852000",
+        "00:33:27.319000",
+        "We're alive because of him."
+      ],
+      [
+        519,
+        "00:33:27.353000",
+        "00:33:28.855000",
+        "We're alive because of him?"
+      ],
+      [
+        1169,
+        "01:24:57.978000",
+        "01:25:00.312000",
+        "you're alive."
+      ]
+    ],
+    "regex": "\\b((?!\\bAlive:)Alive)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

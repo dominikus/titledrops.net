@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2516304",
+    "title": "Sequoia",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1399,
+    "occurrences": [
+      [
+        309,
+        "00:20:05.833000",
+        "00:20:09.201000",
+        "Van just told me reilly is in sequoia with a gram and a half of tricyclics."
+      ],
+      [
+        1278,
+        "01:16:32.797000",
+        "01:16:35.196000",
+        "On our way to sequoia national park."
+      ]
+    ],
+    "regex": "\\b((?!\\bSequoia:)Sequoia)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

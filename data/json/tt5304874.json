@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5304874",
+    "title": "Uncertain Glory",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1276,
+    "occurrences": [
+      [
+        373,
+        "00:31:39.083000",
+        "00:31:43.417000",
+        "April, that month of uncertain glory, is slipping through our fingers."
+      ],
+      [
+        959,
+        "01:24:51.458000",
+        "01:24:53.083000",
+        "of such uncertain glory."
+      ]
+    ],
+    "regex": "\\b((?!\\bUncertain\\ Glory:)Uncertain\\ Glory)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

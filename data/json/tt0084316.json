@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0084316",
+    "title": "Megaforce",
+    "year": 1982,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 964,
+    "occurrences": [
+      [
+        1,
+        "00:00:36.236000",
+        "00:00:40.071000",
+        "...sources now confirm the existence of MegaForce..."
+      ],
+      [
+        82,
+        "00:09:37.010000",
+        "00:09:40.036000",
+        "Why, sure. I'm from MegaForce. My name's Dallas."
+      ],
+      [
+        84,
+        "00:09:42.715000",
+        "00:09:45.150000",
+        "Rank? Why ain't nobody got a rank in MegaForce..."
+      ],
+      [
+        436,
+        "00:35:17.482000",
+        "00:35:20.213000",
+        "...you may well end up commanding MegaForce."
+      ],
+      [
+        481,
+        "00:39:02.006000",
+        "00:39:06.068000",
+        "All MegaForce personnel, Operation Hook, Line and Sinker is a go."
+      ]
+    ],
+    "regex": "\\b((?!\\bMegaforce:)Megaforce)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

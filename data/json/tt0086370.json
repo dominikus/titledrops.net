@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0086370",
+    "title": "The Sting II",
+    "year": 1983,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1198,
+    "occurrences": [
+      [
+        0,
+        "00:00:57.119000",
+        "00:00:59.999000",
+        "THE STING 2"
+      ],
+      [
+        212,
+        "00:17:09.561000",
+        "00:17:12.428000",
+        "I think we'll sting a wolf."
+      ]
+    ],
+    "regex": "\\b((?!\\bSting:)Sting)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

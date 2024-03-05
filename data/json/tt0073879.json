@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0073879",
+    "title": "I Am a Cat",
+    "year": 1975,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1395,
+    "occurrences": [
+      [
+        49,
+        "00:04:57.130000",
+        "00:04:59.390000",
+        "I am a cat."
+      ],
+      [
+        1351,
+        "01:49:47.180000",
+        "01:49:49.240000",
+        "I am a cat."
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Am\\ a\\ Cat:)I\\ Am\\ a\\ Cat)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

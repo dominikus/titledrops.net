@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0314009",
+    "title": "Durval Records",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1016,
+    "occurrences": [
+      [
+        10,
+        "00:06:09.411000",
+        "00:06:13.165000",
+        "The store name is Durval Records."
+      ],
+      [
+        14,
+        "00:07:28.407000",
+        "00:07:31.869000",
+        "But the name of the store is Durval Records."
+      ]
+    ],
+    "regex": "\\b((?!\\bDurval\\ Records:)Durval\\ Records)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

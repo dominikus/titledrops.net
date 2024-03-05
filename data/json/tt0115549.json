@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt0115549",
+    "title": "Anna Oz",
+    "year": 1996,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 807,
+    "occurrences": [
+      [
+        132,
+        "00:18:33.950000",
+        "00:18:35.231000",
+        "Ms. Anna Oz?"
+      ],
+      [
+        544,
+        "00:58:44.098000",
+        "00:58:48.077000",
+        "\"Hello, it's Anna Oz, I'm not in right now...\""
+      ],
+      [
+        606,
+        "01:04:01.630000",
+        "01:04:05.006000",
+        "Anna Oz, a young French woman, brunette..."
+      ],
+      [
+        611,
+        "01:04:17.878000",
+        "01:04:20.581000",
+        "Anna Oz is in my office now,"
+      ]
+    ],
+    "regex": "\\b((?!\\bAnna\\ Oz:)Anna\\ Oz)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [
+      "Anna Oz"
+    ],
+    "title_is_name": true,
+    "rating": 6.1
+  }
+]

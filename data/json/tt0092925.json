@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0092925",
+    "title": "Dragnet",
+    "year": 1987,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "count": 9,
+    "all_lines": 1306,
+    "occurrences": [
+      [
+        19,
+        "00:02:10.714000",
+        "00:02:12.625000",
+        "Dragnet!"
+      ],
+      [
+        28,
+        "00:02:41.314000",
+        "00:02:42.906000",
+        "} D-D-D-D-Dragnet Dragnet }"
+      ],
+      [
+        31,
+        "00:02:50.674000",
+        "00:02:52.665000",
+        "} Dragnet, Dragnet, Dragnet }"
+      ],
+      [
+        42,
+        "00:03:50.074000",
+        "00:03:52.872000",
+        "} Dragnet, Dragnet, Dragnet }}"
+      ]
+    ],
+    "regex": "\\b((?!\\bDragnet:)Dragnet)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

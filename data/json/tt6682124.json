@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt6682124",
+    "title": "Rogue",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1260,
+    "occurrences": [
+      [
+        0,
+        "00:00:05.633000",
+        "00:00:08.383000",
+        "Rogue"
+      ],
+      [
+        456,
+        "00:40:14.196000",
+        "00:40:18.498000",
+        "Oh brother, he is a rogue. He just follows me"
+      ],
+      [
+        653,
+        "00:57:49.516000",
+        "00:57:54.379000",
+        "I have no idea, they call me also as a rogue. I don't know why they call it that either."
+      ],
+      [
+        655,
+        "00:57:59.752000",
+        "00:58:02.930000",
+        "That's why they call you a rogue and me a psychopath. Just look at them"
+      ],
+      [
+        957,
+        "01:29:28.368000",
+        "01:29:34.450000",
+        "There would be so many elephants in the forest. But the rogue elephant just stays apart"
+      ]
+    ],
+    "regex": "\\b((?!\\bRogue:)Rogue)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

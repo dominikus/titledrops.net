@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0782053",
+    "title": "The Bet Collector",
+    "year": 2006,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1035,
+    "occurrences": [
+      [
+        701,
+        "01:07:09.115000",
+        "01:07:12.336000",
+        "He should have just sent 1 bet collector here."
+      ],
+      [
+        702,
+        "01:07:12.337000",
+        "01:07:14.744000",
+        "A bet collector is not allowed here at the place of the draw."
+      ]
+    ],
+    "regex": "\\b((?!\\bBet\\ Collector:)Bet\\ Collector)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

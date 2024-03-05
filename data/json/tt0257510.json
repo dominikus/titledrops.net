@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0257510",
+    "title": "Crocodile 2: Death Swamp",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1637,
+    "occurrences": [
+      [
+        920,
+        "00:48:24.423000",
+        "00:48:26.468000",
+        "It was a crocodile!BRIAN: It was fucking huge, man."
+      ],
+      [
+        985,
+        "00:51:02.842000",
+        "00:51:04.887000",
+        "Now, I'm tired of hearing aboutthis motherfucking crocodile."
+      ],
+      [
+        1256,
+        "01:05:52.252000",
+        "01:05:54.646000",
+        "Crocodile Dundee, you're coming with me."
+      ]
+    ],
+    "regex": "\\b((?!\\bCrocodile:)Crocodile|(?!\\bDeath\\ Swamp:)Death\\ Swamp)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

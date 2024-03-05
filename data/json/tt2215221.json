@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt2215221",
+    "title": "The Nun",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 970,
+    "occurrences": [
+      [
+        75,
+        "00:10:39.167000",
+        "00:10:43.292000",
+        "No girl has ever become a nun against her will."
+      ],
+      [
+        89,
+        "00:12:38.667000",
+        "00:12:41.542000",
+        "The mother superior Is a very indulgent nun."
+      ],
+      [
+        578,
+        "01:03:19.583000",
+        "01:03:21.542000",
+        "for a nun who's forsaken him."
+      ],
+      [
+        610,
+        "01:08:31.083000",
+        "01:08:34.500000",
+        "What did you do to the nun who was torn from your hands"
+      ]
+    ],
+    "regex": "\\b((?!\\bNun:)Nun)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

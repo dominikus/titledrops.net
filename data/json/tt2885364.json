@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2885364",
+    "title": "Willow Creek",
+    "year": 2013,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1292,
+    "occurrences": [
+      [
+        162,
+        "00:07:43.520000",
+        "00:07:45.639000",
+        "Hi. I'm in Willow Creek,"
+      ],
+      [
+        296,
+        "00:12:58.320000",
+        "00:13:00.239000",
+        "who's worked at the Willow Creek Visitor Center"
+      ],
+      [
+        332,
+        "00:14:30.720000",
+        "00:14:33.039000",
+        "Bigfoot every day out here in Willow Creek."
+      ]
+    ],
+    "regex": "\\b((?!\\bWillow\\ Creek:)Willow\\ Creek)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

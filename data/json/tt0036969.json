@@ -1,0 +1,71 @@
+[
+  {
+    "imdb": "tt0036969",
+    "title": "Jane Eyre",
+    "year": 1943,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 8,
+    "all_lines": 655,
+    "occurrences": [
+      [
+        0,
+        "00:01:15.041000",
+        "00:01:16.440000",
+        "My name is Jane Eyre."
+      ],
+      [
+        10,
+        "00:02:07.360000",
+        "00:02:08.884000",
+        "Come on out, Jane Eyre."
+      ],
+      [
+        24,
+        "00:02:57.310000",
+        "00:02:58.402000",
+        "Jane Eyre, sir."
+      ],
+      [
+        25,
+        "00:02:58.611000",
+        "00:03:00.841000",
+        "Well, Jane Eyre, are you a good child?"
+      ],
+      [
+        56,
+        "00:04:13.219000",
+        "00:04:14.709000",
+        "But what of your soul, Jane Eyre?"
+      ],
+      [
+        288,
+        "00:20:10.442000",
+        "00:20:12.433000",
+        "(Jane Eyre, Admitted April 18, 1829."
+      ],
+      [
+        291,
+        "00:20:17.416000",
+        "00:20:19.646000",
+        "(Pupil - Jane Eyre Year 1833."
+      ],
+      [
+        342,
+        "00:22:42.027000",
+        "00:22:44.518000",
+        "(Miss Jane Eyre, Lowood School, Yorkshire)"
+      ]
+    ],
+    "regex": "\\b((?!\\bJane\\ Eyre:)Jane\\ Eyre)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [
+      "Jane Eyre",
+      "Jane Eyre as a Child"
+    ],
+    "title_is_name": true,
+    "rating": 7.5
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0038810",
+    "title": "Morning for the Osone Family",
+    "year": 1946,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1161,
+    "occurrences": [
+      [
+        1,
+        "00:00:14.220000",
+        "00:00:21",
+        "Morning for the Osone Family"
+      ],
+      [
+        1158,
+        "01:20:24.717000",
+        "01:20:26.866000",
+        "This is morning for the Osone Family!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMorning\\ for\\ the\\ Osone\\ Family:)Morning\\ for\\ the\\ Osone\\ Family)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

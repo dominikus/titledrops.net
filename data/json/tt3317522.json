@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt3317522",
+    "title": "The Nightmare",
+    "year": 2015,
+    "genres": [
+      "Documentary",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1565,
+    "occurrences": [
+      [
+        432,
+        "00:26:02.595000",
+        "00:26:04.695000",
+        "WAS \"THE SHADOWMAN\" AND \"NIGHTMARE.\""
+      ],
+      [
+        648,
+        "00:38:11.056000",
+        "00:38:14.758000",
+        "AND I SAW \"A NIGHTMARE ON ELM STREET\""
+      ],
+      [
+        908,
+        "00:52:08.626000",
+        "00:52:11.160000",
+        "SO I FELL ASLEEP, AND I HAD THIS NIGHTMARE."
+      ],
+      [
+        1093,
+        "01:00:54.084000",
+        "01:00:56.151000",
+        "AND THAT HELPED INSPIRE \"A NIGHTMARE ON ELM STREET\""
+      ]
+    ],
+    "regex": "\\b((?!\\bNightmare:)Nightmare)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

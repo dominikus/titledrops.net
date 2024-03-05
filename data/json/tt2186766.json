@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt2186766",
+    "title": "All Stars",
+    "year": 2013,
+    "genres": [
+      "Family",
+      "Musical",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1500,
+    "occurrences": [
+      [
+        427,
+        "00:28:20.116000",
+        "00:28:23.077000",
+        "Welcome to the All Stars."
+      ],
+      [
+        434,
+        "00:28:36.549000",
+        "00:28:38.467000",
+        "All stars. Brilliant."
+      ],
+      [
+        1324,
+        "01:27:42.925000",
+        "01:27:45.552000",
+        "Are the All Stars ready to be all-bliterated?"
+      ],
+      [
+        1375,
+        "01:32:19.117000",
+        "01:32:23.247000",
+        "OK, so let's hear it for the All Stars."
+      ],
+      [
+        1404,
+        "01:34:01.970000",
+        "01:34:04.306000",
+        "(crowd chanting): All Stars! All Stars!"
+      ]
+    ],
+    "regex": "\\b((?!\\bAll\\ Stars:)All\\ Stars)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt17569526",
+    "title": "Acid",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1009,
+    "occurrences": [
+      [
+        34,
+        "00:04:35.792000",
+        "00:04:38.480000",
+        "of certain carbon emissions into acid,"
+      ],
+      [
+        208,
+        "00:16:33.500000",
+        "00:16:35.374000",
+        "sulfuric acid are corrosive to the skin, eyes"
+      ],
+      [
+        341,
+        "00:26:42.667000",
+        "00:26:45.208000",
+        "in case of exposure to the so-called \"acid rain\","
+      ]
+    ],
+    "regex": "\\b((?!\\bAcid:)Acid)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

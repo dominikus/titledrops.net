@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt4453306",
+    "title": "Safety First: The Movie",
+    "year": 2015,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 7,
+    "all_lines": 1021,
+    "occurrences": [
+      [
+        0,
+        "00:01:26.169000",
+        "00:01:31.215000",
+        "Safety First at Tomorrowland... - A safe choice."
+      ],
+      [
+        9,
+        "00:01:59.702000",
+        "00:02:03.705000",
+        "So... uh, Safety First and Tomorrowland are a..."
+      ],
+      [
+        134,
+        "00:12:01.470000",
+        "00:12:05.849000",
+        "Team Safety First, good morning. At your post and raring to go. Welcome."
+      ],
+      [
+        175,
+        "00:14:34.999000",
+        "00:14:37.750000",
+        "Safety First. - Definitely Safety First."
+      ],
+      [
+        180,
+        "00:16:12.137000",
+        "00:16:15.932000",
+        "This is Dirk Porrez, Head of Security from the firm Safety First."
+      ],
+      [
+        799,
+        "01:04:29.574000",
+        "01:04:31.783000",
+        "Yeah, safety first, eh?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSafety\\ First:)Safety\\ First|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

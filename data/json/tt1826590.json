@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1826590",
+    "title": "About Last Night",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 2002,
+    "occurrences": [
+      [
+        2,
+        "00:00:40.360000",
+        "00:00:41.799000",
+        "About last night."
+      ],
+      [
+        264,
+        "00:13:12.200000",
+        "00:13:14.359000",
+        "I just met her. It was nothing but about last night."
+      ]
+    ],
+    "regex": "\\b((?!\\bAbout\\ Last\\ Night:)About\\ Last\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

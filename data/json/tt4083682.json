@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt4083682",
+    "title": "Patient Seventeen",
+    "year": 2017,
+    "genres": [
+      "Documentary",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1061,
+    "occurrences": [
+      [
+        631,
+        "00:39:17.730000",
+        "00:39:20.983000",
+        "'cause we wanna know as Patient Seventeen who often says,"
+      ],
+      [
+        730,
+        "00:44:37.508000",
+        "00:44:40.052000",
+        "in Patient Seventeen's leg, that was taken out."
+      ],
+      [
+        1005,
+        "01:01:39.987000",
+        "01:01:44.033000",
+        "Patient Seventeen had a strange object taken out of his leg."
+      ],
+      [
+        1009,
+        "01:01:58.339000",
+        "01:02:02.343000",
+        "Patient Seventeen and I are less convinced."
+      ]
+    ],
+    "regex": "\\b((?!\\bPatient\\ Seventeen:)Patient\\ Seventeen)(?!\\:)(?!'t)\\b",
+    "runtime": 68,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0907657",
+    "title": "Once",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1227,
+    "occurrences": [
+      [
+        308,
+        "00:21:37.148000",
+        "00:21:41.321000",
+        "# One day, I'll go there and win her once again #"
+      ],
+      [
+        728,
+        "00:49:12.784000",
+        "00:49:18.738000",
+        "#... mine that once held this heart of mine. #"
+      ],
+      [
+        811,
+        "00:54:16.183000",
+        "00:54:17.036000",
+        "Come on, just once."
+      ],
+      [
+        829,
+        "00:54:45.086000",
+        "00:54:45.970000",
+        "Just once."
+      ]
+    ],
+    "regex": "\\b((?!\\bOnce:)Once)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt6830780",
+    "title": "Lucid Dream",
+    "year": 2017,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1268,
+    "occurrences": [
+      [
+        192,
+        "00:13:30.708000",
+        "00:13:32.333000",
+        "\"Lucid dream\"?"
+      ],
+      [
+        193,
+        "00:13:33.750000",
+        "00:13:36.625000",
+        "A lucid dream is a dream during which the dreamer is aware of dreaming."
+      ],
+      [
+        245,
+        "00:17:34.333000",
+        "00:17:38.292000",
+        "If the second hand is stopped, you're in the lucid dream."
+      ]
+    ],
+    "regex": "\\b((?!\\bLucid\\ Dream:)Lucid\\ Dream)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

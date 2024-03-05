@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0099242",
+    "title": "Chattahoochee",
+    "year": 1989,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 915,
+    "occurrences": [
+      [
+        185,
+        "00:18:58.720000",
+        "00:18:59.840000",
+        "Chattahoochee."
+      ],
+      [
+        200,
+        "00:20:07.080000",
+        "00:20:09.320000",
+        "So now I'm off to Chattahoochee."
+      ],
+      [
+        526,
+        "00:50:10.360000",
+        "00:50:14.080000",
+        "Chattahoochee, December 25, 1957."
+      ],
+      [
+        793,
+        "01:12:36.802000",
+        "01:12:41.559000",
+        "Five years will get you out of shape. I'm going back to Chattahoochee."
+      ]
+    ],
+    "regex": "\\b((?!\\bChattahoochee:)Chattahoochee)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

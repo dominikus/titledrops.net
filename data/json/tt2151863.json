@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt2151863",
+    "title": "The Perfect Wedding",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1414,
+    "occurrences": [
+      [
+        521,
+        "00:28:12.758000",
+        "00:28:15.460000",
+        "what her perfect wedding would look like."
+      ],
+      [
+        851,
+        "00:45:16.947000",
+        "00:45:18.649000",
+        "Alana's perfect wedding would look like."
+      ],
+      [
+        960,
+        "00:51:15.973000",
+        "00:51:17.608000",
+        "Our perfect wedding."
+      ],
+      [
+        977,
+        "00:52:10.494000",
+        "00:52:12.729000",
+        "Will you have the perfect wedding with me, right now,"
+      ],
+      [
+        1070,
+        "00:59:07.711000",
+        "00:59:11.581000",
+        "You realize that you've just hosted the perfect wedding?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPerfect\\ Wedding:)Perfect\\ Wedding)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

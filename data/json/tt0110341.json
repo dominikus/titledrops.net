@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0110341",
+    "title": "Liberation",
+    "year": 1994,
+    "genres": [
+      "Documentary",
+      "History",
+      "War"
+    ],
+    "count": 5,
+    "all_lines": 1574,
+    "occurrences": [
+      [
+        349,
+        "00:23:36.237000",
+        "00:23:39.217000",
+        "\"will have to explain himself after the liberation.\""
+      ],
+      [
+        1093,
+        "01:07:19.240000",
+        "01:07:21.523000",
+        "the liberation of Paris meant everything."
+      ],
+      [
+        1137,
+        "01:09:27.810000",
+        "01:09:30.750000",
+        "but that it also has news of its liberation."
+      ],
+      [
+        1199,
+        "01:13:18.220000",
+        "01:13:21.380000",
+        "Brossolette predicted that on the day of liberation,"
+      ],
+      [
+        1507,
+        "01:31:47.757000",
+        "01:31:51.097000",
+        "\"who were no longer here to see our hour of liberation"
+      ]
+    ],
+    "regex": "\\b((?!\\bLiberation:)Liberation)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

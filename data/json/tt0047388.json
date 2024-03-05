@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0047388",
+    "title": "The Raid",
+    "year": 1954,
+    "genres": [
+      "Drama",
+      "War",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 950,
+    "occurrences": [
+      [
+        521,
+        "00:42:52.440000",
+        "00:42:55.637000",
+        "He went mad when he heard that the raid was postponed"
+      ],
+      [
+        845,
+        "01:05:29.400000",
+        "01:05:31.038000",
+        "It is a raid by the Confederate army"
+      ]
+    ],
+    "regex": "\\b((?!\\bRaid:)Raid)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

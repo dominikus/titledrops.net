@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0107808",
+    "title": "A Perfect World",
+    "year": 1993,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1171,
+    "occurrences": [
+      [
+        316,
+        "00:35:36.956000",
+        "00:35:39.151000",
+        "Now, in a perfect world. . ."
+      ],
+      [
+        318,
+        "00:35:43.236000",
+        "00:35:46.911000",
+        "In a perfect world, things like this wouldn't happen."
+      ]
+    ],
+    "regex": "\\b((?!\\bPerfect\\ World:)Perfect\\ World)(?!\\:)(?!'t)\\b",
+    "runtime": 138,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

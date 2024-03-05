@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5112692",
+    "title": "Secrets",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1913,
+    "occurrences": [
+      [
+        1811,
+        "01:44:37.619000",
+        "01:44:43.364000",
+        "But you know, maybe it's time that we all reveal our secrets,"
+      ],
+      [
+        1812,
+        "01:44:43.407000",
+        "01:44:48.107000",
+        "all of our secrets, and just sort of, uh, love each other as we are."
+      ]
+    ],
+    "regex": "\\b((?!\\bSecrets:)Secrets)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

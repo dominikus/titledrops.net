@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt6854248",
+    "title": "Perfect Bid: The Contestant Who Knew Too Much",
+    "year": 2017,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 1811,
+    "occurrences": [
+      [
+        665,
+        "00:27:00.140000",
+        "00:27:03.012000",
+        "- - Another perfect bid."
+      ],
+      [
+        1086,
+        "00:42:54.006000",
+        "00:42:56.486000",
+        "The $100 from my perfect bid,"
+      ],
+      [
+        1178,
+        "00:46:36.445000",
+        "00:46:37.707000",
+        "and the perfect bid bell goes off."
+      ],
+      [
+        1253,
+        "00:49:17.606000",
+        "00:49:19.173000",
+        "for a perfect bid."
+      ]
+    ],
+    "regex": "\\b((?!\\bPerfect\\ Bid:)Perfect\\ Bid|(?!\\bContestant\\ Who\\ Knew\\ Too\\ Much:)Contestant\\ Who\\ Knew\\ Too\\ Much)(?!\\:)(?!'t)\\b",
+    "runtime": 72,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt0260320",
+    "title": "Repli-Kate",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1460,
+    "occurrences": [
+      [
+        927,
+        "00:52:36.754000",
+        "00:52:39.427000",
+        "Max , How did it go last night? Any more problems with Repli-Kate?"
+      ],
+      [
+        937,
+        "00:53:02.961000",
+        "00:53:06.398000",
+        "I'm seriuos. I'm hanging out with Repli-Kate, and she is acting just like a guy."
+      ],
+      [
+        945,
+        "00:53:24.888000",
+        "00:53:28.848000",
+        "Repli-Kate listens, but she doesn't hear me. She's completly self-involved."
+      ],
+      [
+        983,
+        "00:55:25.723000",
+        "00:55:29",
+        "Dude,you'll be here all night. Repli-Kate's gonna freak."
+      ]
+    ],
+    "regex": "\\b((?!\\bRepli\\-Kate:)Repli\\-Kate)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [
+      "Kate",
+      "Repli-Kate"
+    ],
+    "title_is_name": true,
+    "rating": 5.6
+  }
+]

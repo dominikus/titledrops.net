@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt15135004",
+    "title": "Hacker: Trust No One",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1475,
+    "occurrences": [
+      [
+        406,
+        "00:22:34.622000",
+        "00:22:37.325000",
+        "Yeah, I'm also a hacker."
+      ],
+      [
+        407,
+        "00:22:37.357000",
+        "00:22:38.993000",
+        "Was a hacker."
+      ]
+    ],
+    "regex": "\\b((?!\\bHacker:)Hacker|(?!\\bTrust\\ No\\ One:)Trust\\ No\\ One)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.4
+  }
+]

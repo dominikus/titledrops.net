@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt4844348",
+    "title": "Spear",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 230,
+    "occurrences": [
+      [
+        42,
+        "00:13:08.649000",
+        "00:13:10.449000",
+        "Buy a spear."
+      ],
+      [
+        59,
+        "00:14:17.690000",
+        "00:14:19.488000",
+        "Here, buy a spear!"
+      ],
+      [
+        61,
+        "00:14:24.769000",
+        "00:14:27.407000",
+        "Here, buy a spear!"
+      ],
+      [
+        80,
+        "00:15:34.570000",
+        "00:15:36.930000",
+        "Buy a spear, buy a boomerang!"
+      ],
+      [
+        218,
+        "00:55:00.849000",
+        "00:55:04.048000",
+        "Yeah, buy a spear. Here, buy a boomerang."
+      ]
+    ],
+    "regex": "\\b((?!\\bSpear:)Spear)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

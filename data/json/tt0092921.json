@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0092921",
+    "title": "Double Target",
+    "year": 1987,
+    "genres": [
+      "Action",
+      "Adventure",
+      "War"
+    ],
+    "count": 6,
+    "all_lines": 1101,
+    "occurrences": [
+      [
+        183,
+        "00:15:10.916000",
+        "00:15:12.309000",
+        "Double target."
+      ],
+      [
+        188,
+        "00:15:22.485000",
+        "00:15:24.077000",
+        "-  The Colonel is on field, double target,"
+      ],
+      [
+        732,
+        "01:04:06.770000",
+        "01:04:08.339000",
+        "-  No word yet from double target."
+      ],
+      [
+        823,
+        "01:10:39.083000",
+        "01:10:41.081000",
+        "-  This is double target, 4C2A."
+      ],
+      [
+        824,
+        "01:10:41.081000",
+        "01:10:42.486000",
+        "Double target for mad bomber."
+      ],
+      [
+        838,
+        "01:11:26.670000",
+        "01:11:28.337000",
+        "4C2A, double target."
+      ]
+    ],
+    "regex": "\\b((?!\\bDouble\\ Target:)Double\\ Target)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

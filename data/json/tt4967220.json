@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt4967220",
+    "title": "Keep the Change",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1420,
+    "occurrences": [
+      [
+        308,
+        "00:19:09.171000",
+        "00:19:11.641000",
+        "Here you go, $20. Keep the change."
+      ],
+      [
+        603,
+        "00:34:10.605000",
+        "00:34:12.071000",
+        "- Keep the change. - Thank you."
+      ],
+      [
+        1407,
+        "01:27:56.361000",
+        "01:27:58.027000",
+        "Here, keep the change."
+      ]
+    ],
+    "regex": "\\b((?!\\bKeep\\ the\\ Change:)Keep\\ the\\ Change)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

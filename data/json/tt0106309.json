@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0106309",
+    "title": "Joshua Tree",
+    "year": 1993,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 1033,
+    "occurrences": [
+      [
+        832,
+        "01:13:15.058000",
+        "01:13:17.059000",
+        "The desert-- Joshua Tree."
+      ],
+      [
+        833,
+        "01:13:18.019000",
+        "01:13:19.895000",
+        "Joshua Tree."
+      ],
+      [
+        892,
+        "01:18:02.219000",
+        "01:18:04.679000",
+        "He's probably hiding in Joshua Tree now."
+      ]
+    ],
+    "regex": "\\b((?!\\bJoshua\\ Tree:)Joshua\\ Tree)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

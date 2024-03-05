@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5362988",
+    "title": "Wind River",
+    "year": 2017,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1059,
+    "occurrences": [
+      [
+        105,
+        "00:10:31.096000",
+        "00:10:36.923000",
+        "Entering Wind River, Indian Reservation"
+      ],
+      [
+        140,
+        "00:17:38.360000",
+        "00:17:42.550000",
+        "The Wind River Indian Reservation, east of Boulder Flats."
+      ],
+      [
+        667,
+        "01:01:44.730000",
+        "01:01:48.760000",
+        "Then there was a guy moving sheep over by the wind river."
+      ]
+    ],
+    "regex": "\\b((?!\\bWind\\ River:)Wind\\ River)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

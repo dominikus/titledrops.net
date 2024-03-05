@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt7543904",
+    "title": "On Happiness Road",
+    "year": 2017,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 2044,
+    "occurrences": [
+      [
+        51,
+        "00:04:23",
+        "00:04:24.832000",
+        "I grew up on Happiness Road"
+      ],
+      [
+        992,
+        "00:54:53.291000",
+        "00:54:56.540000",
+        "...while living on Happiness Road..."
+      ],
+      [
+        1982,
+        "01:44:35.791000",
+        "01:44:36.874000",
+        "...the King of Pop on Happiness Road"
+      ]
+    ],
+    "regex": "\\b((?!\\bOn\\ Happiness\\ Road:)On\\ Happiness\\ Road)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0303720",
+    "title": "West Side Avenue",
+    "year": 2001,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1597,
+    "occurrences": [
+      [
+        36,
+        "00:10:58.340000",
+        "00:11:00.252000",
+        "I always saw him at West Side Avenue."
+      ],
+      [
+        86,
+        "00:15:27.900000",
+        "00:15:30.620000",
+        "At West Side Avenue. In Jersey City."
+      ],
+      [
+        1200,
+        "03:16:09.820000",
+        "03:16:12.210000",
+        "Here on West Side Avenue, that's cheap."
+      ]
+    ],
+    "regex": "\\b((?!\\bWest\\ Side\\ Avenue:)West\\ Side\\ Avenue)(?!\\:)(?!'t)\\b",
+    "runtime": 315,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

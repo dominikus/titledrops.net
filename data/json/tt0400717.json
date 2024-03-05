@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0400717",
+    "title": "Open Season",
+    "year": 2006,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 988,
+    "occurrences": [
+      [
+        336,
+        "00:29:21.805000",
+        "00:29:23.898000",
+        "Because open season starts in a few days."
+      ],
+      [
+        478,
+        "00:37:45.441000",
+        "00:37:48.877000",
+        "What happened? Open season happened."
+      ],
+      [
+        714,
+        "00:54:06.621000",
+        "00:54:08.054000",
+        "And it's open season!"
+      ]
+    ],
+    "regex": "\\b((?!\\bOpen\\ Season:)Open\\ Season)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

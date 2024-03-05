@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0104928",
+    "title": "Mr. Saturday Night",
+    "year": 1992,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 2702,
+    "occurrences": [
+      [
+        174,
+        "00:05:38.330000",
+        "00:05:40.464000",
+        "Mr. Saturday night!"
+      ],
+      [
+        221,
+        "00:07:48.103000",
+        "00:07:50.137000",
+        "that the network called me \"Mr. Saturday night.\""
+      ],
+      [
+        1533,
+        "01:03:05.003000",
+        "01:03:07.605000",
+        "Mr. Saturday night..."
+      ],
+      [
+        1557,
+        "01:04:29.662000",
+        "01:04:32.463000",
+        "Buddy young, Jr., was Mr. Saturday night"
+      ]
+    ],
+    "regex": "\\b((?!\\bMr\\.\\ Saturday\\ Night:)Mr\\.\\ Saturday\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt9288046",
+    "title": "The Sea Beast",
+    "year": 2022,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1855,
+    "occurrences": [
+      [
+        499,
+        "00:27:51.833000",
+        "00:27:56.166000",
+        "and eradicate every sea beast in our path."
+      ],
+      [
+        1187,
+        "01:05:41.625000",
+        "01:05:44.083000",
+        "Turn to the right, you infernal bloody sea beast!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSea\\ Beast:)Sea\\ Beast)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

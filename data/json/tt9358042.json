@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt9358042",
+    "title": "Bedlam",
+    "year": 2019,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1639,
+    "occurrences": [
+      [
+        452,
+        "00:21:50.176000",
+        "00:21:54.712000",
+        "Bethlem Royal Hospital would come to be known as Bedlam."
+      ],
+      [
+        453,
+        "00:21:57.250000",
+        "00:22:00.985000",
+        "600 years later, \"Bedlam\" took on a new meaning,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBedlam:)Bedlam)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

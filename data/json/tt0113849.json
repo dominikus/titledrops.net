@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0113849",
+    "title": "A Month by the Lake",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1104,
+    "occurrences": [
+      [
+        4,
+        "00:00:25.320000",
+        "00:00:32.160000",
+        "A Month by the Lake (1995)"
+      ],
+      [
+        1104,
+        "01:22:51.280000",
+        "01:22:55.990000",
+        "and every summer, a month by the lake."
+      ]
+    ],
+    "regex": "\\b((?!\\bMonth\\ by\\ the\\ Lake:)Month\\ by\\ the\\ Lake)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

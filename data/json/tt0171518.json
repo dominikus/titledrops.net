@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0171518",
+    "title": "The Copper Tower",
+    "year": 1970,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 638,
+    "occurrences": [
+      [
+        348,
+        "00:43:59.160000",
+        "00:44:03.879000",
+        "Not with Pirin. He promised to take her to Copper Tower long ago."
+      ],
+      [
+        352,
+        "00:44:42.920000",
+        "00:44:45.720000",
+        "Copper Tower. Pirin and his wife."
+      ],
+      [
+        375,
+        "00:48:21",
+        "00:48:23.920000",
+        "The Copper Tower kept its victim."
+      ],
+      [
+        461,
+        "01:01:20.640000",
+        "01:01:25.839000",
+        "Who knows, maybe Pirin did the same thing on Copper Tower."
+      ],
+      [
+        506,
+        "01:06:43.799000",
+        "01:06:46.680000",
+        "As usual. Under Copper Tower."
+      ],
+      [
+        561,
+        "01:11:22.760000",
+        "01:11:26.320000",
+        "It was an ordinary accident at Copper Tower. Understand?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCopper\\ Tower:)Copper\\ Tower)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

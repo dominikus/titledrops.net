@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0094799",
+    "title": "Bright Lights, Big City",
+    "year": 1988,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1209,
+    "occurrences": [
+      [
+        253,
+        "00:22:04.920000",
+        "00:22:10.392000",
+        "# Bright lights, big city"
+      ],
+      [
+        255,
+        "00:22:14.160000",
+        "00:22:18.392000",
+        "# Oh, bright lights, big city"
+      ]
+    ],
+    "regex": "\\b((?!\\bBright\\ Lights,\\ Big\\ City:)Bright\\ Lights,\\ Big\\ City)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

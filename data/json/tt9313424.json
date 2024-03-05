@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt9313424",
+    "title": "From the Vine",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1687,
+    "occurrences": [
+      [
+        143,
+        "00:07:17.293000",
+        "00:07:20.129000",
+        "From the vine"
+      ],
+      [
+        153,
+        "00:07:48.057000",
+        "00:07:50.894000",
+        "From the vine came the grape"
+      ]
+    ],
+    "regex": "\\b((?!\\bFrom\\ the\\ Vine:)From\\ the\\ Vine)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

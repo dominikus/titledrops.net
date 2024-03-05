@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0075930",
+    "title": "God Told Me To",
+    "year": 1976,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 1064,
+    "occurrences": [
+      [
+        75,
+        "00:07:53.683000",
+        "00:07:55.643000",
+        "God told me to."
+      ],
+      [
+        155,
+        "00:15:24.883000",
+        "00:15:27.219000",
+        "God told me to."
+      ],
+      [
+        211,
+        "00:20:59.301000",
+        "00:21:01.845000",
+        "God told me to."
+      ],
+      [
+        1062,
+        "01:27:52.435000",
+        "01:27:54.437000",
+        "\"God told me to.\""
+      ],
+      [
+        1064,
+        "01:27:59.734000",
+        "01:28:02.904000",
+        "God told me to."
+      ]
+    ],
+    "regex": "\\b((?!\\bGod\\ Told\\ Me\\ To:)God\\ Told\\ Me\\ To)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

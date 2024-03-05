@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt5288532",
+    "title": "The Sand Dune",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1302,
+    "occurrences": [
+      [
+        59,
+        "00:03:53",
+        "00:03:56.668000",
+        "-Come on, just tell us. -All right, we're going to the Sand Dune."
+      ],
+      [
+        62,
+        "00:04:03.076000",
+        "00:04:05.577000",
+        "I want to welcome everybody to the Sand Dune Bar and Grill this afternoon"
+      ],
+      [
+        992,
+        "01:03:08.218000",
+        "01:03:11.086000",
+        "Maybe I'll grab a bite tonight at the Sand Dune."
+      ],
+      [
+        993,
+        "01:03:11.088000",
+        "01:03:13.922000",
+        "Wait, the Sand Dune?"
+      ],
+      [
+        996,
+        "01:03:19.930000",
+        "01:03:22.531000",
+        "She's thinking of going to the Sand Dune."
+      ],
+      [
+        1005,
+        "01:03:42.986000",
+        "01:03:46.321000",
+        "I think you should go down to the Sand Dune, you need to find Jake, wherever he is."
+      ]
+    ],
+    "regex": "\\b((?!\\bSand\\ Dune:)Sand\\ Dune)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

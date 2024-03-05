@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0264916",
+    "title": "Monarch",
+    "year": 2000,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 993,
+    "occurrences": [
+      [
+        133,
+        "00:16:49.730000",
+        "00:16:52.400000",
+        "- You like your monarch's to be predictable."
+      ],
+      [
+        918,
+        "01:16:16.310000",
+        "01:16:19.090000",
+        "- When you're a monarch of my age,"
+      ]
+    ],
+    "regex": "\\b((?!\\bMonarch:)Monarch)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

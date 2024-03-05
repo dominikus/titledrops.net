@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0090798",
+    "title": "Caravaggio",
+    "year": 1986,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 5,
+    "all_lines": 368,
+    "occurrences": [
+      [
+        57,
+        "00:12:38.063000",
+        "00:12:44.063000",
+        "- Michelangelo da Caravaggio. - Michelangelo ? Michelangelo..."
+      ],
+      [
+        176,
+        "00:43:39.418000",
+        "00:43:43.540000",
+        "- They are extraordinary high. - As indeed  the Michele Caravaggio's fee"
+      ],
+      [
+        201,
+        "00:54:34.786000",
+        "00:54:39.326000",
+        "- Michelangelo Caravaggio. - We are not related, are you ?"
+      ],
+      [
+        316,
+        "01:20:47.008000",
+        "01:20:51.285000",
+        "- Eminence. -Michele Caravaggio..."
+      ],
+      [
+        325,
+        "01:22:40.406000",
+        "01:22:43.100000",
+        "Michele Caravaggio..."
+      ]
+    ],
+    "regex": "\\b((?!\\bCaravaggio:)Caravaggio)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [
+      "Boy Caravaggio",
+      "Young Caravaggio",
+      "Caravaggio"
+    ],
+    "title_is_name": true,
+    "rating": 6.5
+  }
+]

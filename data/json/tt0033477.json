@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0033477",
+    "title": "Come Live with Me",
+    "year": 1941,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1648,
+    "occurrences": [
+      [
+        1556,
+        "01:18:46.601000",
+        "01:18:49.868000",
+        "\"Come live with me and be my love,"
+      ],
+      [
+        1564,
+        "01:19:23.200000",
+        "01:19:28.367000",
+        "Come live with me and be my love\""
+      ]
+    ],
+    "regex": "\\b((?!\\bCome\\ Live\\ with\\ Me:)Come\\ Live\\ with\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

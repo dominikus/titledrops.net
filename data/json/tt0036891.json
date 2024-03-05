@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0036891",
+    "title": "Hail the Conquering Hero",
+    "year": 1944,
+    "genres": [
+      "Comedy",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 1885,
+    "occurrences": [
+      [
+        404,
+        "00:21:49.947000",
+        "00:21:52.080000",
+        "and then I go into Hail the Conquering Hero."
+      ],
+      [
+        410,
+        "00:22:01.425000",
+        "00:22:06.795000",
+        "Who is talking about Hail the Conquering Hero?"
+      ],
+      [
+        418,
+        "00:22:26.316000",
+        "00:22:28.450000",
+        "and modulates into  Hail the Conquering Hero Come."
+      ],
+      [
+        422,
+        "00:22:36.860000",
+        "00:22:39.861000",
+        "and let Teddy play Hail the Conquering Hero."
+      ]
+    ],
+    "regex": "\\b((?!\\bHail\\ the\\ Conquering\\ Hero:)Hail\\ the\\ Conquering\\ Hero)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

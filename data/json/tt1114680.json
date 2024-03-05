@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1114680",
+    "title": "That Evening Sun",
+    "year": 2009,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1504,
+    "occurrences": [
+      [
+        987,
+        "01:01:50.740000",
+        "01:01:53.800000",
+        "# That evening sun go down #"
+      ],
+      [
+        990,
+        "01:01:58.915000",
+        "01:02:02.078000",
+        "# That evening sun go down #"
+      ]
+    ],
+    "regex": "\\b((?!\\bThat\\ Evening\\ Sun:)That\\ Evening\\ Sun)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

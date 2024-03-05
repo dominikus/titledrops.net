@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2304953",
+    "title": "Reasonable Doubt",
+    "year": 2014,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1114,
+    "occurrences": [
+      [
+        952,
+        "01:08:19.162000",
+        "01:08:23.331000",
+        "or even throw a reasonable doubt on your guilt."
+      ],
+      [
+        1031,
+        "01:15:00.563000",
+        "01:15:02.230000",
+        "our reasonable doubt here, Mitch."
+      ]
+    ],
+    "regex": "\\b((?!\\bReasonable\\ Doubt:)Reasonable\\ Doubt)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

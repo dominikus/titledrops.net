@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6502956",
+    "title": "Yucatan",
+    "year": 2018,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1634,
+    "occurrences": [
+      [
+        1100,
+        "01:25:34.126000",
+        "01:25:36.417000",
+        "Well, in Yucatan."
+      ],
+      [
+        1407,
+        "01:48:09.084000",
+        "01:48:12.292000",
+        "- The car is outside. - We're off to Yucatan."
+      ]
+    ],
+    "regex": "\\b((?!\\bYucatan:)Yucatan)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

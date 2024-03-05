@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0201631",
+    "title": "Garage Olimpo",
+    "year": 1999,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 705,
+    "occurrences": [
+      [
+        336,
+        "00:39:43.270000",
+        "00:39:45.386000",
+        "- We are from Garage Olimpo! - And I am Mario Kempes."
+      ],
+      [
+        338,
+        "00:39:47.470000",
+        "00:39:49.267000",
+        "- Where are you from? - Garage Olimpo. GT4."
+      ]
+    ],
+    "regex": "\\b((?!\\bGarage\\ Olimpo:)Garage\\ Olimpo)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

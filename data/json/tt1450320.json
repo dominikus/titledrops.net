@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1450320",
+    "title": "Days of Grace",
+    "year": 2011,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1116,
+    "occurrences": [
+      [
+        24,
+        "00:01:49.400000",
+        "00:01:53.900000",
+        "Days of Grace"
+      ],
+      [
+        455,
+        "00:40:14.244000",
+        "00:40:16.496000",
+        "These are days of grace."
+      ],
+      [
+        1116,
+        "02:04:07.064000",
+        "02:04:11.564000",
+        "Days of Grace"
+      ]
+    ],
+    "regex": "\\b((?!\\bDays\\ of\\ Grace:)Days\\ of\\ Grace)(?!\\:)(?!'t)\\b",
+    "runtime": 133,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

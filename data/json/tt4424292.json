@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4424292",
+    "title": "Crazy Lake",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1223,
+    "occurrences": [
+      [
+        67,
+        "00:04:34.040000",
+        "00:04:37.910000",
+        "- That's why they call this place Crazy Lake."
+      ],
+      [
+        1214,
+        "01:16:26.582000",
+        "01:16:28.717000",
+        "- But I guess they don't call it Crazy Lake"
+      ]
+    ],
+    "regex": "\\b((?!\\bCrazy\\ Lake:)Crazy\\ Lake)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

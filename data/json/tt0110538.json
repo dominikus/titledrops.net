@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0110538",
+    "title": "Mixed Nuts",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1549,
+    "occurrences": [
+      [
+        438,
+        "00:26:06.760000",
+        "00:26:08.680000",
+        "by a truck full of mixed nuts. truck full of mixed nuts."
+      ],
+      [
+        1520,
+        "01:31:36.360000",
+        "01:31:39.720000",
+        "# santa can't resist those mixed nuts #"
+      ],
+      [
+        1532,
+        "01:32:11.880000",
+        "01:32:14.760000",
+        "# santa can't resist those mixed nuts #"
+      ],
+      [
+        1544,
+        "01:32:46.920000",
+        "01:32:49.320000",
+        "# santa can't resist those mixed nuts #"
+      ]
+    ],
+    "regex": "\\b((?!\\bMixed\\ Nuts:)Mixed\\ Nuts)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

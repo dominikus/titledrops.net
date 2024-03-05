@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3659388",
+    "title": "The Martian",
+    "year": 2015,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1623,
+    "occurrences": [
+      [
+        452,
+        "00:41:37.540000",
+        "00:41:41.235000",
+        "All natural, organic, Martian grown potatoes."
+      ],
+      [
+        1187,
+        "01:44:09.765000",
+        "01:44:13.288000",
+        "The design presumes 500 kg of Martian soil and samples."
+      ]
+    ],
+    "regex": "\\b((?!\\bMartian:)Martian)(?!\\:)(?!'t)\\b",
+    "runtime": 144,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

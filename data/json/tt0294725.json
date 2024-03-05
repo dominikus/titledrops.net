@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0294725",
+    "title": "Me and Morrison",
+    "year": 2001,
+    "genres": [
+      "Crime",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 480,
+    "occurrences": [
+      [
+        109,
+        "00:20:29.360000",
+        "00:20:33.510000",
+        "We've always been together, me and Morrison."
+      ],
+      [
+        477,
+        "01:23:57.080000",
+        "01:24:00.430000",
+        "Love, Me and Morrison."
+      ]
+    ],
+    "regex": "\\b((?!\\bMe\\ and\\ Morrison:)Me\\ and\\ Morrison)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

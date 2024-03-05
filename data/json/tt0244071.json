@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0244071",
+    "title": "Day Off",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1850,
+    "occurrences": [
+      [
+        35,
+        "00:03:34.840000",
+        "00:03:40.074000",
+        "Spend your day off on exciting but useless activities."
+      ],
+      [
+        403,
+        "00:23:38.520000",
+        "00:23:42.912000",
+        "I hate advertisers, putting kids to work on their day off!"
+      ]
+    ],
+    "regex": "\\b((?!\\bDay\\ Off:)Day\\ Off)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

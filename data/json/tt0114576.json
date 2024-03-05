@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0114576",
+    "title": "Sudden Death",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1013,
+    "occurrences": [
+      [
+        946,
+        "01:25:01.440000",
+        "01:25:05.720000",
+        "We're going to sudden death overtime! You would have to be here to believe it!"
+      ],
+      [
+        949,
+        "01:25:19.120000",
+        "01:25:21.840000",
+        "- Lucky Luc has done it again! - Sudden death?"
+      ],
+      [
+        950,
+        "01:25:21.880000",
+        "01:25:24.120000",
+        "Sudden death."
+      ],
+      [
+        953,
+        "01:25:32.280000",
+        "01:25:36.080000",
+        "The Penguins have forced sudden death overtime."
+      ],
+      [
+        963,
+        "01:27:37.080000",
+        "01:27:38.960000",
+        "That's what sudden death is all about."
+      ]
+    ],
+    "regex": "\\b((?!\\bSudden\\ Death:)Sudden\\ Death)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

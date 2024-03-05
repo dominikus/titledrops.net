@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1085492",
+    "title": "The Prince",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1325,
+    "occurrences": [
+      [
+        597,
+        "00:38:30.908000",
+        "00:38:34.811000",
+        "If The Prince is here... Bring him to me."
+      ],
+      [
+        905,
+        "00:54:48.719000",
+        "00:54:50.620000",
+        "Just called him \"The Prince.\""
+      ],
+      [
+        906,
+        "00:54:50.621000",
+        "00:54:53.288000",
+        "\"The Prince\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPrince:)Prince)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

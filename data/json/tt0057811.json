@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0057811",
+    "title": "633 Squadron",
+    "year": 1964,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 866,
+    "occurrences": [
+      [
+        47,
+        "00:09:27.447000",
+        "00:09:31.907000",
+        "633 Squadron are assigned an urgent secret operation."
+      ],
+      [
+        865,
+        "01:33:32.559000",
+        "01:33:35.551000",
+        "all 633 Squadron."
+      ]
+    ],
+    "regex": "\\b((?!\\b633\\ Squadron:)633\\ Squadron)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt3385516",
+    "title": "X-Men: Apocalypse",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 7,
+    "all_lines": 1379,
+    "occurrences": [
+      [
+        414,
+        "00:42:08.757000",
+        "00:42:12.229000",
+        "Like the Four Horsemen of the Apocalypse."
+      ],
+      [
+        417,
+        "00:42:21.381000",
+        "00:42:27.028000",
+        "Cataclysm. Some kind of... Apocalypse."
+      ],
+      [
+        613,
+        "00:55:48.168000",
+        "00:55:50.021000",
+        "I thought we would come back to start the X-Men."
+      ],
+      [
+        620,
+        "00:56:05.947000",
+        "00:56:08.270000",
+        "I think the world needs the X-Men."
+      ],
+      [
+        1130,
+        "01:41:09.786000",
+        "01:41:12.308000",
+        "We called ourselves the X-Men."
+      ],
+      [
+        1136,
+        "01:41:29.080000",
+        "01:41:30.643000",
+        "The X-Men."
+      ],
+      [
+        1376,
+        "02:13:18.222000",
+        "02:13:20.290000",
+        "You're X-men."
+      ]
+    ],
+    "regex": "\\b((?!\\bX\\-Men:)X\\-Men|(?!\\bApocalypse:)Apocalypse)(?!\\:)(?!'t)\\b",
+    "runtime": 144,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

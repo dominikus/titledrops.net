@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2928840",
+    "title": "Nobility",
+    "year": 2017,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 366,
+    "occurrences": [
+      [
+        12,
+        "00:00:32.300000",
+        "00:00:34.567000",
+        "on the starship Nobility."
+      ],
+      [
+        19,
+        "00:01:56.950000",
+        "00:01:59.652000",
+        "Are you on the ship yet, this Nobility?"
+      ]
+    ],
+    "regex": "\\b((?!\\bNobility:)Nobility)(?!\\:)(?!'t)\\b",
+    "runtime": 50,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

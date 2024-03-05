@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0103950",
+    "title": "City Hunter",
+    "year": 1993,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 703,
+    "occurrences": [
+      [
+        5,
+        "00:01:21.167000",
+        "00:01:24.750000",
+        "My name is Ryo Saeba. Some people call me 'City Hunter'."
+      ],
+      [
+        389,
+        "00:49:50.375000",
+        "00:49:53.375000",
+        "Ryo Saeba. Nickname: City Hunter. A private detective."
+      ],
+      [
+        430,
+        "00:53:06.083000",
+        "00:53:09.333000",
+        "There's someone else on board. It could be the City Hunter, Ryo Saeba."
+      ]
+    ],
+    "regex": "\\b((?!\\bCity\\ Hunter:)City\\ Hunter)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

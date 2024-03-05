@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt7509586",
+    "title": "Explosion",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 663,
+    "occurrences": [
+      [
+        56,
+        "00:04:50.570000",
+        "00:04:52.570000",
+        "Lucky not to be stupid because of the explosion."
+      ],
+      [
+        369,
+        "00:50:26.542000",
+        "00:50:29.542000",
+        "Everyone, keep calm! / Captain, there was an explosion on the 2nd floor."
+      ],
+      [
+        430,
+        "01:03:24.506000",
+        "01:03:27.506000",
+        "<12 November, there was an explosion in town."
+      ]
+    ],
+    "regex": "\\b((?!\\bExplosion:)Explosion)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

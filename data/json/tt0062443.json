@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0062443",
+    "title": "The Viking Queen",
+    "year": 1967,
+    "genres": [
+      "Adventure"
+    ],
+    "count": 2,
+    "all_lines": 838,
+    "occurrences": [
+      [
+        85,
+        "00:09:19.800000",
+        "00:09:22.120000",
+        "you will be a Viking queen."
+      ],
+      [
+        614,
+        "00:58:31.396000",
+        "00:58:33.929000",
+        "you will be a Viking queen."
+      ]
+    ],
+    "regex": "\\b((?!\\bViking\\ Queen:)Viking\\ Queen)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

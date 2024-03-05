@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0281707",
+    "title": "The Devil Knows Why",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 1001,
+    "occurrences": [
+      [
+        655,
+        "01:02:00.720000",
+        "01:02:02.790000",
+        "The devil knows why."
+      ],
+      [
+        990,
+        "01:37:34",
+        "01:37:37.231000",
+        "They just say, The devil knows why."
+      ],
+      [
+        1000,
+        "01:38:16.360000",
+        "01:38:18.999000",
+        "They just say, The devil knows why.."
+      ]
+    ],
+    "regex": "\\b((?!\\bDevil\\ Knows\\ Why:)Devil\\ Knows\\ Why)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

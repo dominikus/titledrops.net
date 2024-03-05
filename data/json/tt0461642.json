@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0461642",
+    "title": "7 Dwarves: The Forest Is Not Enough",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 1431,
+    "occurrences": [
+      [
+        26,
+        "00:02:58.488000",
+        "00:03:01.958000",
+        "Probably one of the 7 dwarves. We can ask the way."
+      ],
+      [
+        39,
+        "00:03:38.119000",
+        "00:03:39.560000",
+        "7 DWARVES"
+      ],
+      [
+        1101,
+        "01:14:30.981000",
+        "01:14:33.461000",
+        "Helge the White, we're the 7 dwarves"
+      ]
+    ],
+    "regex": "\\b((?!\\b7\\ Dwarves:)7\\ Dwarves|(?!\\bForest\\ Is\\ Not\\ Enough:)Forest\\ Is\\ Not\\ Enough)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

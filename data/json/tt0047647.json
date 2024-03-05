@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0047647",
+    "title": "Vera Cruz",
+    "year": 1954,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "count": 5,
+    "all_lines": 334,
+    "occurrences": [
+      [
+        213,
+        "00:28:59.191000",
+        "00:29:02.643000",
+        "- to the port at Vera Cruz. - May l humbly remind Your Majesty"
+      ],
+      [
+        243,
+        "00:32:23.283000",
+        "00:32:26.486000",
+        "The marquis wants her to reach the ship at Vera Cruz safely."
+      ],
+      [
+        247,
+        "00:32:37.256000",
+        "00:32:42.761000",
+        "A pretty figure... but only half as pretty as the figure we're escorting to Vera Cruz."
+      ],
+      [
+        312,
+        "00:42:41.315000",
+        "00:42:43.853000",
+        "He has a fast ship up the coast from Vera Cruz."
+      ],
+      [
+        322,
+        "00:43:19.522000",
+        "00:43:21.764000",
+        "lt's a long way to Vera Cruz."
+      ]
+    ],
+    "regex": "\\b((?!\\bVera\\ Cruz:)Vera\\ Cruz)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

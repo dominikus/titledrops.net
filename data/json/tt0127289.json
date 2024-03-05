@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0127289",
+    "title": "Sixth Happiness",
+    "year": 1997,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1230,
+    "occurrences": [
+      [
+        397,
+        "00:26:44.040000",
+        "00:26:47.635000",
+        "You know, there is a sixth happiness for each of us."
+      ],
+      [
+        399,
+        "00:26:50.240000",
+        "00:26:52.879000",
+        "Of course not! Here is my sixth happiness."
+      ],
+      [
+        1207,
+        "01:28:26.640000",
+        "01:28:30.269000",
+        "(Whispers) Sixth Happiness. Remember?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSixth\\ Happiness:)Sixth\\ Happiness)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

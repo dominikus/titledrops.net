@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4789036",
+    "title": "The Hollywood Turk",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1533,
+    "occurrences": [
+      [
+        0,
+        "00:00:41.330000",
+        "00:00:45.650000",
+        "The Hollywood Turk"
+      ],
+      [
+        1497,
+        "01:25:47.850000",
+        "01:25:49.610000",
+        "How about the \"Hollywood turk\"?"
+      ],
+      [
+        1509,
+        "01:26:51.010000",
+        "01:26:55.850000",
+        "The Hollywood turk"
+      ]
+    ],
+    "regex": "\\b((?!\\bHollywood\\ Turk:)Hollywood\\ Turk)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

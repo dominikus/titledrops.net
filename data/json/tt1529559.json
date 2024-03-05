@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1529559",
+    "title": "Hotel Lux",
+    "year": 2011,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 911,
+    "occurrences": [
+      [
+        260,
+        "00:22:06.083000",
+        "00:22:10.915000",
+        "- Hotel Lux? Is that in Baedeker? - No, in Moscow. Since all descend."
+      ],
+      [
+        281,
+        "00:24:27.791000",
+        "00:24:33.207000",
+        "So I was arrived at the Hotel Lux, to me, the weary exile Hans Zeisig,"
+      ],
+      [
+        345,
+        "00:33:22.125000",
+        "00:33:24.332000",
+        "Welcome to the Hotel Lux, Mr ..."
+      ]
+    ],
+    "regex": "\\b((?!\\bHotel\\ Lux:)Hotel\\ Lux)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

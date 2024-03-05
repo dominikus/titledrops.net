@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt12393832",
+    "title": "For Lucio",
+    "year": 2021,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 1185,
+    "occurrences": [
+      [
+        466,
+        "00:28:07.160000",
+        "00:28:09.320000",
+        "Tobia, who was Roversi for Lucio?"
+      ],
+      [
+        578,
+        "00:36:54.171000",
+        "00:36:55.731000",
+        "- I remember. - Because, for Lucio,"
+      ],
+      [
+        1048,
+        "01:04:52.446000",
+        "01:04:54.006000",
+        "When I was asked to work for Lucio,"
+      ],
+      [
+        1141,
+        "01:11:49.815000",
+        "01:11:54.735000",
+        "Such a... fervent admiration for Lucio"
+      ]
+    ],
+    "regex": "\\b((?!\\bFor\\ Lucio:)For\\ Lucio)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

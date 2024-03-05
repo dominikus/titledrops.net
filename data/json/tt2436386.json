@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2436386",
+    "title": "Project Almanac",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 2663,
+    "occurrences": [
+      [
+        528,
+        "00:18:01.480000",
+        "00:18:04.049000",
+        "Oh, wait, here we go. Project Almanac."
+      ],
+      [
+        839,
+        "00:28:45.556000",
+        "00:28:48.826000",
+        "This is Project Almanac. Experiment one, trial one."
+      ],
+      [
+        963,
+        "00:33:11.421000",
+        "00:33:12.723000",
+        "(VOICE DISTORTED) Project Almanac."
+      ]
+    ],
+    "regex": "\\b((?!\\bProject\\ Almanac:)Project\\ Almanac)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

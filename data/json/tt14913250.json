@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt14913250",
+    "title": "Everybody Loves Jeanne",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1195,
+    "occurrences": [
+      [
+        193,
+        "00:12:35.677000",
+        "00:12:37.357000",
+        "\"Everybody loves Jeanne.\""
+      ],
+      [
+        198,
+        "00:12:48.237000",
+        "00:12:51.557000",
+        "\"Anyway, everybody loves Jeanne.\" You don't remember?"
+      ]
+    ],
+    "regex": "\\b((?!\\bEverybody\\ Loves\\ Jeanne:)Everybody\\ Loves\\ Jeanne)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

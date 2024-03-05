@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt7339584",
+    "title": "City Of Rock",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1837,
+    "occurrences": [
+      [
+        37,
+        "00:03:48.875000",
+        "00:03:51.208000",
+        "The City of Rock."
+      ],
+      [
+        349,
+        "00:18:20.543000",
+        "00:18:22.418000",
+        "Ji'an is a city of rock."
+      ]
+    ],
+    "regex": "\\b((?!\\bCity\\ Of\\ Rock:)City\\ Of\\ Rock)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

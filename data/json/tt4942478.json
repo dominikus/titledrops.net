@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt4942478",
+    "title": "The Basement",
+    "year": 2017,
+    "genres": [
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 873,
+    "occurrences": [
+      [
+        6,
+        "00:01:09.870000",
+        "00:01:13.941000",
+        "about a very horrific place, a basement."
+      ],
+      [
+        699,
+        "01:00:24.621000",
+        "01:00:28.325000",
+        "noticed that the basement door, it was open."
+      ],
+      [
+        763,
+        "01:04:42.046000",
+        "01:04:43.981000",
+        "wanted to rent the entire basement."
+      ],
+      [
+        859,
+        "01:15:20.750000",
+        "01:15:23.687000",
+        "She even found this basement for them."
+      ]
+    ],
+    "regex": "\\b((?!\\bBasement:)Basement)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

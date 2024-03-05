@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt3025712",
+    "title": "The Spy: Undercover Operation",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "count": 7,
+    "all_lines": 1507,
+    "occurrences": [
+      [
+        703,
+        "00:50:53.384000",
+        "00:50:55.830000",
+        "This is a spy reunion"
+      ],
+      [
+        995,
+        "01:16:28.051000",
+        "01:16:31.999000",
+        "why is he tipping us off about A.J's spy?"
+      ],
+      [
+        1278,
+        "01:35:01.263000",
+        "01:35:03.004000",
+        "Because he is a spy, too"
+      ],
+      [
+        1279,
+        "01:35:04.700000",
+        "01:35:05.933000",
+        "Spy?"
+      ],
+      [
+        1282,
+        "01:35:14.009000",
+        "01:35:18.116000",
+        "If one of us were a spy, then it's more likely to be me"
+      ],
+      [
+        1382,
+        "01:44:09.911000",
+        "01:44:12.653000",
+        "Are you really a spy? Oh gosh"
+      ],
+      [
+        1389,
+        "01:44:47.448000",
+        "01:44:50.258000",
+        "Is he really a SPY?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpy:)Spy|(?!\\bUndercover\\ Operation:)Undercover\\ Operation)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

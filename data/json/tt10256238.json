@@ -1,0 +1,26 @@
+[
+  {
+    "imdb": "tt10256238",
+    "title": "Created Equal: Clarence Thomas in His Own Words",
+    "year": 2020,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 1,
+    "all_lines": 1791,
+    "occurrences": [
+      [
+        911,
+        "01:03:21.798000",
+        "01:03:24.931000",
+        "\"All men are created equal."
+      ]
+    ],
+    "regex": "\\b((?!\\bCreated\\ Equal:)Created\\ Equal|(?!\\bClarence\\ Thomas\\ in\\ His\\ Own\\ Words:)Clarence\\ Thomas\\ in\\ His\\ Own\\ Words)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

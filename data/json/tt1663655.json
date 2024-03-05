@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1663655",
+    "title": "Martyrs",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 735,
+    "occurrences": [
+      [
+        550,
+        "01:01:12.190000",
+        "01:01:16.115000",
+        "Martyrs are so much more."
+      ],
+      [
+        553,
+        "01:01:21.350000",
+        "01:01:25.196000",
+        "Martyrs survive the pain, the torture,"
+      ],
+      [
+        555,
+        "01:01:30.470000",
+        "01:01:33.155000",
+        "Martyrs endure the unspeakable sins of the Earth,"
+      ]
+    ],
+    "regex": "\\b((?!\\bMartyrs:)Martyrs)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

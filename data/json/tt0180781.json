@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0180781",
+    "title": "Kill a Dragon",
+    "year": 1967,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1353,
+    "occurrences": [
+      [
+        2,
+        "00:00:28.593000",
+        "00:00:30.421000",
+        "- - To kill a dragon"
+      ],
+      [
+        4,
+        "00:01:20.776000",
+        "00:01:23.605000",
+        "To kill a dragon"
+      ]
+    ],
+    "regex": "\\b((?!\\bKill\\ a\\ Dragon:)Kill\\ a\\ Dragon)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

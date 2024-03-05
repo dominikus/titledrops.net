@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0848281",
+    "title": "The Deal",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1985,
+    "occurrences": [
+      [
+        184,
+        "00:09:25.265000",
+        "00:09:26.914000",
+        "- Wrap what up? - The deal."
+      ],
+      [
+        278,
+        "00:13:08.030000",
+        "00:13:10.601000",
+        "I put a deal memo together on that pile of crap."
+      ],
+      [
+        672,
+        "00:28:23.645000",
+        "00:28:25.525000",
+        "He says it's a deal breaker."
+      ]
+    ],
+    "regex": "\\b((?!\\bDeal:)Deal)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

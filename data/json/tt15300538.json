@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt15300538",
+    "title": "Tom",
+    "year": 2022,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1307,
+    "occurrences": [
+      [
+        310,
+        "00:20:20.713000",
+        "00:20:22.673000",
+        "Oh, do you know if uncle Tom would have brought us"
+      ],
+      [
+        1223,
+        "01:12:40.030000",
+        "01:12:42.150000",
+        "Tom Mavis is not dead."
+      ],
+      [
+        1237,
+        "01:13:18.500000",
+        "01:13:23.500000",
+        "Tom Mavis will bring it right to your precious Ludlow Falls."
+      ]
+    ],
+    "regex": "\\b((?!\\bTom:)Tom)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

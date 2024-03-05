@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt3702758",
+    "title": "Satisfaction 1720",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 626,
+    "occurrences": [
+      [
+        234,
+        "00:29:25.840000",
+        "00:29:30.960000",
+        "-I demand satisfaction. -Isn't that a little primitive?"
+      ],
+      [
+        477,
+        "01:05:24.960000",
+        "01:05:28.280000",
+        "I demand satisfaction."
+      ],
+      [
+        495,
+        "01:08:03.240000",
+        "01:08:08.720000",
+        "It was the plan itself that you should be the one who demanded satisfaction."
+      ]
+    ],
+    "regex": "\\b((?!\\bSatisfaction:)Satisfaction)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "imdb": "tt0064002",
+    "title": "Alice's Restaurant",
+    "year": 1969,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 11,
+    "all_lines": 982,
+    "occurrences": [
+      [
+        343,
+        "00:35:07.413000",
+        "00:35:13.419000",
+        "# You can get anything you want at Alice's restaurant"
+      ],
+      [
+        344,
+        "00:35:13.669000",
+        "00:35:19.801000",
+        "# You can get anything you want at Alice's restaurant"
+      ],
+      [
+        486,
+        "00:53:39.233000",
+        "00:53:41.486000",
+        "(# \"Alice's Restaurant\")"
+      ],
+      [
+        730,
+        "01:19:22.777000",
+        "01:19:26.948000",
+        "And I proceeded to tell him the story of the Alice's Restaurant Massacree,"
+      ],
+      [
+        970,
+        "01:47:58.451000",
+        "01:48:00.703000",
+        "(# \"Alice's Restaurant\")"
+      ],
+      [
+        971,
+        "01:48:29.273000",
+        "01:48:35.154000",
+        "# You can get anything you want at Alice's restaurant"
+      ],
+      [
+        972,
+        "01:48:36.239000",
+        "01:48:43.246000",
+        "# You can get anything you want at Alice's restaurant"
+      ],
+      [
+        975,
+        "01:48:50.211000",
+        "01:48:56.801000",
+        "# And you can get anything you want at Alice's restaurant"
+      ],
+      [
+        976,
+        "01:48:57.468000",
+        "01:49:04.475000",
+        "# You can get anything you want at Alice's restaurant, excepting Alice"
+      ],
+      [
+        977,
+        "01:49:04.600000",
+        "01:49:11.566000",
+        "# You can get anything you want at Alice's restaurant"
+      ],
+      [
+        980,
+        "01:49:18.489000",
+        "01:49:25.413000",
+        "# And you can get anything you want at Alice's restaurant"
+      ]
+    ],
+    "regex": "\\b((?!\\bAlice's\\ Restaurant:)Alice's\\ Restaurant)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

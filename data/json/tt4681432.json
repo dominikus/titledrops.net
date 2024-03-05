@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4681432",
+    "title": "The Dunes",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1139,
+    "occurrences": [
+      [
+        544,
+        "00:34:47.653000",
+        "00:34:49.186000",
+        "Have you ever been to the dunes before?"
+      ],
+      [
+        939,
+        "01:06:59.116000",
+        "01:07:00.582000",
+        "Marnie: Are those the dunes?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDunes:)Dunes)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

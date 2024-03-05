@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0854672",
+    "title": "The Lark Farm",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 5,
+    "all_lines": 751,
+    "occurrences": [
+      [
+        59,
+        "00:14:00.480000",
+        "00:14:06.350000",
+        "> I am excited to inform you that our father has left you the lark farm."
+      ],
+      [
+        72,
+        "00:15:25.360000",
+        "00:15:30.388000",
+        "away with you for a month. From Venice through Greece and Turkey all the way to the lark farm."
+      ],
+      [
+        337,
+        "00:48:09.680000",
+        "00:48:13.673000",
+        "Let's take the horse and go to the lark farm."
+      ],
+      [
+        374,
+        "00:53:12.120000",
+        "00:53:17.638000",
+        "- Let's stay together. - We will all go to the lark farm."
+      ],
+      [
+        392,
+        "00:54:50.320000",
+        "00:54:54.438000",
+        "- You know how to get to this ... - Lark farm. - No."
+      ]
+    ],
+    "regex": "\\b((?!\\bLark\\ Farm:)Lark\\ Farm)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

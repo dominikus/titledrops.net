@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1107319",
+    "title": "Dirty Girl",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1137,
+    "occurrences": [
+      [
+        54,
+        "00:03:55.538000",
+        "00:03:58.302000",
+        "...nobody likes a dirty girl."
+      ],
+      [
+        1135,
+        "01:23:20.232000",
+        "01:23:22.996000",
+        "Remember, Clarke, nobody likes a dirty girl."
+      ]
+    ],
+    "regex": "\\b((?!\\bDirty\\ Girl:)Dirty\\ Girl)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

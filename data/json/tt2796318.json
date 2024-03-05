@@ -1,0 +1,40 @@
+[
+  {
+    "imdb": "tt2796318",
+    "title": "Mickey Virus",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1801,
+    "occurrences": [
+      [
+        662,
+        "00:42:18.002000",
+        "00:42:21.006000",
+        "Chutney, it's time I turned back from Mickey Virus.."
+      ],
+      [
+        1393,
+        "01:41:13.267000",
+        "01:41:16.714000",
+        "Bloody... Mickey Virus."
+      ],
+      [
+        1762,
+        "02:08:52.491000",
+        "02:08:56.564000",
+        "\"Oh Mickey Virus! Digital freak!\""
+      ]
+    ],
+    "regex": "\\b((?!\\bMickey\\ Virus:)Mickey\\ Virus)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [
+      "Mickey Virus"
+    ],
+    "title_is_name": true,
+    "rating": 6.1
+  }
+]

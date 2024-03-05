@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt6285944",
+    "title": "The Banker",
+    "year": 2020,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1847,
+    "occurrences": [
+      [
+        458,
+        "00:27:05.417000",
+        "00:27:07.544000",
+        "He's her banker now, Bernard."
+      ],
+      [
+        483,
+        "00:29:23.055000",
+        "00:29:27.184000",
+        "I got a banker in San Francisco I've done business with for years."
+      ],
+      [
+        614,
+        "00:35:48.440000",
+        "00:35:51.652000",
+        "Bernard, this is Don Silverthorne. My banker."
+      ]
+    ],
+    "regex": "\\b((?!\\bBanker:)Banker)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

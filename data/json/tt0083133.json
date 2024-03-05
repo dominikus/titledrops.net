@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0083133",
+    "title": "Student Bodies",
+    "year": 1981,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1683,
+    "occurrences": [
+      [
+        484,
+        "00:27:46.997000",
+        "00:27:50.268000",
+        "Student bodies! Student bodies!"
+      ],
+      [
+        770,
+        "00:38:29.540000",
+        "00:38:31.742000",
+        "Here, speak to the student bodies."
+      ]
+    ],
+    "regex": "\\b((?!\\bStudent\\ Bodies:)Student\\ Bodies)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0319728",
+    "title": "The Last Horror Movie",
+    "year": 2003,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1038,
+    "occurrences": [
+      [
+        953,
+        "01:06:18.360000",
+        "01:06:21.130000",
+        "called \"The Last Horror Movie...\""
+      ],
+      [
+        966,
+        "01:06:54.830000",
+        "01:06:57.740000",
+        "for calling it \"The Last Horror Movie.\""
+      ],
+      [
+        1037,
+        "01:12:04.600000",
+        "01:12:08.710000",
+        "this is gonna be your last horror movie."
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Horror\\ Movie:)Last\\ Horror\\ Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

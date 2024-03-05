@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0051028",
+    "title": "The Sun Also Rises",
+    "year": 1957,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1457,
+    "occurrences": [
+      [
+        3,
+        "00:00:33.659000",
+        "00:00:36.378000",
+        "The sun also rises..."
+      ],
+      [
+        1457,
+        "02:09:59.041000",
+        "02:10:02.215000",
+        "The sun also rises."
+      ]
+    ],
+    "regex": "\\b((?!\\bSun\\ Also\\ Rises:)Sun\\ Also\\ Rises)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0113074",
+    "title": "Fist of the North Star",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 869,
+    "occurrences": [
+      [
+        25,
+        "00:06:12.400000",
+        "00:06:17.235000",
+        "But l am Fist of the North Star. And you are Master of Southern Cross."
+      ],
+      [
+        285,
+        "00:27:50.240000",
+        "00:27:54.233000",
+        "- Fist of the North Star! - No!"
+      ],
+      [
+        306,
+        "00:29:51",
+        "00:29:55.198000",
+        "- Aghh! - 'Fist of the North Star!'"
+      ],
+      [
+        467,
+        "00:45:39.480000",
+        "00:45:44.110000",
+        "(Julia) You're the future, Kenshiro. Fist of the North Star."
+      ],
+      [
+        869,
+        "01:23:20.520000",
+        "01:23:22.795000",
+        "Fist of the North Star."
+      ]
+    ],
+    "regex": "\\b((?!\\bFist\\ of\\ the\\ North\\ Star:)Fist\\ of\\ the\\ North\\ Star)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

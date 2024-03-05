@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0067919",
+    "title": "The Emigrants",
+    "year": 1971,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 985,
+    "occurrences": [
+      [
+        1,
+        "00:00:10.400000",
+        "00:00:20.230000",
+        "The Emigrants"
+      ],
+      [
+        148,
+        "00:34:18.840000",
+        "00:34:25.234000",
+        "-\"with information and advice for emigrants.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bEmigrants:)Emigrants)(?!\\:)(?!'t)\\b",
+    "runtime": 191,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

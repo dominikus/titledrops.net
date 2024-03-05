@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1334437",
+    "title": "Blue Oranges",
+    "year": 2009,
+    "genres": [
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1240,
+    "occurrences": [
+      [
+        446,
+        "00:46:10.667000",
+        "00:46:11.964000",
+        "Blue Oranges."
+      ],
+      [
+        966,
+        "01:31:15.403000",
+        "01:31:16.427000",
+        "Blue oranges?"
+      ],
+      [
+        1222,
+        "01:55:20.713000",
+        "01:55:23.944000",
+        "'Miracles are like blue oranges.'"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Oranges:)Blue\\ Oranges)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt7097772",
+    "title": "Resistance Is Life",
+    "year": 2017,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 926,
+    "occurrences": [
+      [
+        790,
+        "00:59:43.667000",
+        "00:59:48.541000",
+        "Uprising is life Resistance is life"
+      ],
+      [
+        792,
+        "00:59:53.764000",
+        "00:59:58.246000",
+        "Uprising is life Resistance is life"
+      ],
+      [
+        793,
+        "00:59:58.290000",
+        "01:00:00.509000",
+        "Uprising is life Resistance is life..."
+      ]
+    ],
+    "regex": "\\b((?!\\bResistance\\ Is\\ Life:)Resistance\\ Is\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 73,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

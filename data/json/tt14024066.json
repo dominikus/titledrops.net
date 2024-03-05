@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt14024066",
+    "title": "The Guardian",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 968,
+    "occurrences": [
+      [
+        96,
+        "00:12:40.750000",
+        "00:12:42.083000",
+        "It was her guardian angel."
+      ],
+      [
+        97,
+        "00:12:42.167000",
+        "00:12:46.167000",
+        "Not a very reliable guardian angel then."
+      ],
+      [
+        267,
+        "00:29:02.625000",
+        "00:29:06.958000",
+        "You don't need any guardian angels... you have one right next to you."
+      ],
+      [
+        770,
+        "01:29:37.292000",
+        "01:29:42.625000",
+        "Your guardian angel is a baby, it lost its chance to be born."
+      ],
+      [
+        829,
+        "01:42:32.917000",
+        "01:42:36.417000",
+        "you're not the only one in need of a guardian angel."
+      ],
+      [
+        919,
+        "01:53:03.958000",
+        "01:53:08.833000",
+        "now I know there's no such thing as a guardian angel."
+      ]
+    ],
+    "regex": "\\b((?!\\bGuardian:)Guardian)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

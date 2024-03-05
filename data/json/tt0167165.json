@@ -1,0 +1,53 @@
+[
+  {
+    "imdb": "tt0167165",
+    "title": "Blue Rita",
+    "year": 1977,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 405,
+    "occurrences": [
+      [
+        7,
+        "00:04:05.833000",
+        "00:04:09.249000",
+        "My friends call me \"Blue Rita\"."
+      ],
+      [
+        67,
+        "00:19:55.958000",
+        "00:19:59.665000",
+        "And now, ladies and gentlemen, the highlight of the evening - Blue Rita."
+      ],
+      [
+        143,
+        "00:30:08.583000",
+        "00:30:12.374000",
+        "Now swear to me that you will be Blue Rita's slave forever."
+      ],
+      [
+        341,
+        "01:11:56.916000",
+        "01:11:59.290000",
+        "Go to the Blue Rita bar at once."
+      ],
+      [
+        378,
+        "01:15:19.250000",
+        "01:15:22.499000",
+        "We don't use the kind of methods Blue Rita uses."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlue\\ Rita:)Blue\\ Rita)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [
+      "Blue Rita"
+    ],
+    "title_is_name": true,
+    "rating": 4.6
+  }
+]

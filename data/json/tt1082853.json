@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1082853",
+    "title": "Management",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 718,
+    "occurrences": [
+      [
+        24,
+        "00:05:16.920000",
+        "00:05:19.046000",
+        "Who is it? - Management."
+      ],
+      [
+        25,
+        "00:05:20.499000",
+        "00:05:24.321000",
+        "What? - Management. Welcome gift."
+      ],
+      [
+        29,
+        "00:05:42.820000",
+        "00:05:46.937000",
+        "I'm uh, oh, Mike. And I am with management."
+      ],
+      [
+        695,
+        "01:21:31.287000",
+        "01:21:35.823000",
+        "Who are you? - Mike? From management."
+      ]
+    ],
+    "regex": "\\b((?!\\bManagement:)Management)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

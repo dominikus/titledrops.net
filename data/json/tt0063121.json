@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0063121",
+    "title": "Ice Station Zebra",
+    "year": 1968,
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1394,
+    "occurrences": [
+      [
+        22,
+        "00:09:20.776000",
+        "00:09:23.768000",
+        "Just how much do you know about Ice Station Zebra?"
+      ],
+      [
+        24,
+        "00:09:28.651000",
+        "00:09:31.142000",
+        "Drift Ice Station Zebra."
+      ],
+      [
+        193,
+        "00:24:13.835000",
+        "00:24:17.931000",
+        "...has just picked up another distress signal from Ice Station Zebra. Quote:"
+      ],
+      [
+        835,
+        "01:14:30.717000",
+        "01:14:33.481000",
+        "Somebody doesn't want us to get to Ice Station Zebra."
+      ],
+      [
+        861,
+        "01:15:57.403000",
+        "01:16:03.808000",
+        "But the primary objective of this mission is to get me to Ice Station Zebra."
+      ]
+    ],
+    "regex": "\\b((?!\\bIce\\ Station\\ Zebra:)Ice\\ Station\\ Zebra)(?!\\:)(?!'t)\\b",
+    "runtime": 148,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

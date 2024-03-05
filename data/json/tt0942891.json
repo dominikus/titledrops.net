@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0942891",
+    "title": "The Guitar",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "count": 7,
+    "all_lines": 995,
+    "occurrences": [
+      [
+        132,
+        "00:13:23.558000",
+        "00:13:26.491000",
+        "[ELECTRIC GUITAR PLAYS SUSTAINED, DISTORTED NOTE]"
+      ],
+      [
+        221,
+        "00:19:23.664000",
+        "00:19:28.316000",
+        "Dad, Mom, can you get me that red guitar for Christmas?"
+      ],
+      [
+        222,
+        "00:19:28.317000",
+        "00:19:30.076000",
+        "- Christmas...honey! - The guitar, again."
+      ],
+      [
+        403,
+        "00:35:50.452000",
+        "00:35:52.880000",
+        "I'd like to buy a guitar."
+      ],
+      [
+        440,
+        "00:37:25.370000",
+        "00:37:27.548000",
+        "I just bought a guitar."
+      ],
+      [
+        443,
+        "00:37:30.233000",
+        "00:37:33.960000",
+        "you know, amps and stuff for the guitar."
+      ],
+      [
+        555,
+        "00:47:42.702000",
+        "00:47:45.006000",
+        "Oh, I'm learning how to play guitar."
+      ]
+    ],
+    "regex": "\\b((?!\\bGuitar:)Guitar)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

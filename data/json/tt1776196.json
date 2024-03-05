@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1776196",
+    "title": "Fullmetal Alchemist: The Sacred Star of Milos",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 4,
+    "all_lines": 1544,
+    "occurrences": [
+      [
+        80,
+        "00:07:17.060000",
+        "00:07:19.400000",
+        "I'm the Fullmetal Alchemist."
+      ],
+      [
+        81,
+        "00:07:25.380000",
+        "00:07:31.420000",
+        "UTW PRESENTS THE SACRED STAR OF MILOS,  PLATEAU OF SORROW"
+      ],
+      [
+        209,
+        "00:14:54.961000",
+        "00:14:57.621000",
+        "You must be the Fullmetal Alchemist!"
+      ],
+      [
+        310,
+        "00:25:02.351000",
+        "00:25:05.100000",
+        "You must be the Fullmetal Alchemist."
+      ]
+    ],
+    "regex": "\\b((?!\\bFullmetal\\ Alchemist:)Fullmetal\\ Alchemist|(?!\\bSacred\\ Star\\ of\\ Milos:)Sacred\\ Star\\ of\\ Milos)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

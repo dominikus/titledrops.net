@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0171091",
+    "title": "The Barrier",
+    "year": 1979,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 804,
+    "occurrences": [
+      [
+        356,
+        "00:42:58.580000",
+        "00:43:02.971000",
+        "Although, deep inside, I'm sure you will never go beyond the barrier."
+      ],
+      [
+        357,
+        "00:43:03.300000",
+        "00:43:05.609000",
+        "What barrier?"
+      ],
+      [
+        802,
+        "01:41:42.540000",
+        "01:41:45.850000",
+        "I will never pass beyond the barrier."
+      ]
+    ],
+    "regex": "\\b((?!\\bBarrier:)Barrier)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt5688932",
+    "title": "Sorry to Bother You",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 6,
+    "all_lines": 2084,
+    "occurrences": [
+      [
+        191,
+        "00:10:47.149000",
+        "00:10:48.981000",
+        "Uh, this is Cassius Green. Sorry to bother you."
+      ],
+      [
+        242,
+        "00:13:26.815000",
+        "00:13:28.781000",
+        "- Sorry to bother you. I just... - (LINE CLICKS)"
+      ],
+      [
+        265,
+        "00:14:28.144000",
+        "00:14:30.878000",
+        "- Sorry to bother you\"... - Nah, man. Look, you got it wrong."
+      ],
+      [
+        500,
+        "00:24:58.001000",
+        "00:24:59.634000",
+        "Yes, I'm so sorry to bother you."
+      ],
+      [
+        988,
+        "00:50:11.911000",
+        "00:50:14.010000",
+        "Cassius Green of Worryfree calling. Sorry to bother you."
+      ],
+      [
+        2033,
+        "01:45:47.647000",
+        "01:45:49.548000",
+        "Sorry to bother you but..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSorry\\ to\\ Bother\\ You:)Sorry\\ to\\ Bother\\ You)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

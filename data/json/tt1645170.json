@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1645170",
+    "title": "The Dictator",
+    "year": 2012,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1764,
+    "occurrences": [
+      [
+        13,
+        "00:01:25.168000",
+        "00:01:27.466000",
+        "himself a savage and violent dictator."
+      ],
+      [
+        1430,
+        "01:14:36.514000",
+        "01:14:39.063000",
+        "In fact, I don't want to be a dictator anymore!"
+      ],
+      [
+        1469,
+        "01:16:11.901000",
+        "01:16:14.495000",
+        "You are the last great dictator!"
+      ],
+      [
+        1473,
+        "01:16:23.746000",
+        "01:16:25.840000",
+        "I will become the greatest dictator of all,"
+      ]
+    ],
+    "regex": "\\b((?!\\bDictator:)Dictator)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

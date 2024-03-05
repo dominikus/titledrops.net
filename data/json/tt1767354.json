@@ -1,0 +1,59 @@
+[
+  {
+    "imdb": "tt1767354",
+    "title": "Odd Thomas",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 1126,
+    "occurrences": [
+      [
+        2,
+        "00:00:19.710000",
+        "00:00:20.765000",
+        "My name is Odd Thomas."
+      ],
+      [
+        25,
+        "00:01:59.529000",
+        "00:02:00.989000",
+        "Odd Thomas."
+      ],
+      [
+        606,
+        "00:41:37.868000",
+        "00:41:40.162000",
+        "- Odd Thomas, right? - Yeah."
+      ],
+      [
+        851,
+        "00:59:07.849000",
+        "00:59:10.034000",
+        "No offense, Odd Thomas, but I can't think of anybody..."
+      ],
+      [
+        911,
+        "01:02:59.968000",
+        "01:03:02.346000",
+        "- Odd Thomas, did you hear me? - Which part?"
+      ],
+      [
+        982,
+        "01:09:52.069000",
+        "01:09:53.946000",
+        "I don't know what this Odd Thomas character knows..."
+      ]
+    ],
+    "regex": "\\b((?!\\bOdd\\ Thomas:)Odd\\ Thomas)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [
+      "Odd Thomas"
+    ],
+    "title_is_name": true,
+    "rating": 6.8
+  }
+]

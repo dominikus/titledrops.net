@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3008816",
+    "title": "009-1: The End of the Beginning",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 574,
+    "occurrences": [
+      [
+        55,
+        "00:08:19.820000",
+        "00:08:21.210000",
+        "009-1"
+      ],
+      [
+        571,
+        "01:23:41.590000",
+        "01:23:42.800000",
+        "009-1"
+      ]
+    ],
+    "regex": "\\b((?!\\b009\\-1:)009\\-1|(?!\\bEnd\\ of\\ the\\ Beginning:)End\\ of\\ the\\ Beginning)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

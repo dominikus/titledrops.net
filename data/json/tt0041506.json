@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0041506",
+    "title": "In the Name of the Law",
+    "year": 1949,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 895,
+    "occurrences": [
+      [
+        894,
+        "01:35:17.597000",
+        "01:35:22.113000",
+        "Francesco Messana, you are under arrest in the name of the law."
+      ],
+      [
+        895,
+        "01:35:35.397000",
+        "01:35:38.070000",
+        "In the name of the law..."
+      ]
+    ],
+    "regex": "\\b((?!\\bIn\\ the\\ Name\\ of\\ the\\ Law:)In\\ the\\ Name\\ of\\ the\\ Law)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

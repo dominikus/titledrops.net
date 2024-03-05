@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt7558166",
+    "title": "Trickster",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1048,
+    "occurrences": [
+      [
+        932,
+        "01:08:21.140000",
+        "01:08:22.140000",
+        "Trickster."
+      ],
+      [
+        933,
+        "01:08:23.273000",
+        "01:08:25.144000",
+        "You mean like a Trickster God?"
+      ],
+      [
+        935,
+        "01:08:29.409000",
+        "01:08:31.498000",
+        "What's a Trickster God?"
+      ],
+      [
+        937,
+        "01:08:32.847000",
+        "01:08:35.285000",
+        "I don't understand. What does this Trickster do?"
+      ],
+      [
+        944,
+        "01:08:48.167000",
+        "01:08:49.429000",
+        "Don't trust Trickster."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrickster:)Trickster)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

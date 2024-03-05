@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3173758",
+    "title": "It's Not a Date",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 2071,
+    "occurrences": [
+      [
+        7,
+        "00:00:43.808000",
+        "00:00:45.310000",
+        "it's not a date."
+      ],
+      [
+        54,
+        "00:02:17.302000",
+        "00:02:18.802000",
+        "No, it's not a date."
+      ],
+      [
+        87,
+        "00:03:10.622000",
+        "00:03:11.854000",
+        "No, it's not a date."
+      ],
+      [
+        2065,
+        "01:32:08.287000",
+        "01:32:09.286000",
+        "I mean it's not a date if you're just"
+      ]
+    ],
+    "regex": "\\b((?!\\bIt's\\ Not\\ a\\ Date:)It's\\ Not\\ a\\ Date)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

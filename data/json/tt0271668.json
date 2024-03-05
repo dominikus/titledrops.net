@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0271668",
+    "title": "National Security",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 1079,
+    "occurrences": [
+      [
+        496,
+        "00:37:28.546000",
+        "00:37:31.276000",
+        "Stop the car! National Security!"
+      ],
+      [
+        498,
+        "00:37:37.054000",
+        "00:37:39.818000",
+        "National Security, l'm commandeering this vehicle."
+      ],
+      [
+        804,
+        "00:58:30.974000",
+        "00:58:33.340000",
+        "Stop! National Security!"
+      ]
+    ],
+    "regex": "\\b((?!\\bNational\\ Security:)National\\ Security)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

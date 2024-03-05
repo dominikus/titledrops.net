@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6827652",
+    "title": "The Giant",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1339,
+    "occurrences": [
+      [
+        305,
+        "00:21:52.797000",
+        "00:21:55.467000",
+        "that giant."
+      ],
+      [
+        709,
+        "00:52:13.618000",
+        "00:52:17.555000",
+        "Did the giant kill her, too?"
+      ],
+      [
+        1104,
+        "01:19:06.231000",
+        "01:19:07.465000",
+        "The giant..."
+      ],
+      [
+        1151,
+        "01:21:35.046000",
+        "01:21:37.948000",
+        "The Giant?"
+      ]
+    ],
+    "regex": "\\b((?!\\bGiant:)Giant)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0113256",
+    "title": "Good Men, Good Women",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 830,
+    "occurrences": [
+      [
+        819,
+        "01:41:54.155000",
+        "01:41:56.623000",
+        "The \"Good Men, Good Women\" film unit..."
+      ],
+      [
+        828,
+        "01:42:24.618000",
+        "01:42:26.586000",
+        "\"Good Men, Good Women.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bGood\\ Men,\\ Good\\ Women:)Good\\ Men,\\ Good\\ Women)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

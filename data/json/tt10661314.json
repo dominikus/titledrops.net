@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt10661314",
+    "title": "143 Sahara Street",
+    "year": 2019,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 729,
+    "occurrences": [
+      [
+        1,
+        "00:00:08",
+        "00:00:13",
+        "143 Sahara Street 2019"
+      ],
+      [
+        400,
+        "01:05:12.200000",
+        "01:05:16.240000",
+        "143 Sahara street."
+      ]
+    ],
+    "regex": "\\b((?!\\b143\\ Sahara\\ Street:)143\\ Sahara\\ Street)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

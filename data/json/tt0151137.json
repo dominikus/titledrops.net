@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0151137",
+    "title": "The Messenger: The Story of Joan of Arc",
+    "year": 1999,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1696,
+    "occurrences": [
+      [
+        1,
+        "00:00:35.592000",
+        "00:00:39.758000",
+        "THE MESSENGER"
+      ],
+      [
+        165,
+        "00:22:27.215000",
+        "00:22:30.215000",
+        "Or must we assume that a messenger of God can't even write her own name?"
+      ],
+      [
+        197,
+        "00:24:21.133000",
+        "00:24:25.299000",
+        "Who better than a messenger from God to give answers to your questions?"
+      ],
+      [
+        543,
+        "00:57:47.852000",
+        "00:57:50.768000",
+        "I'm nothing in all this. I'm just the messenger."
+      ],
+      [
+        1231,
+        "01:59:25.204000",
+        "01:59:27.246000",
+        "I'm just a messenger."
+      ]
+    ],
+    "regex": "\\b((?!\\bMessenger:)Messenger|(?!\\bStory\\ of\\ Joan\\ of\\ Arc:)Story\\ of\\ Joan\\ of\\ Arc)(?!\\:)(?!'t)\\b",
+    "runtime": 158,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

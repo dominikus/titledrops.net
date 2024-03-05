@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1572501",
+    "title": "Beast",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 486,
+    "occurrences": [
+      [
+        32,
+        "00:05:16.240000",
+        "00:05:19.516000",
+        "You're a beast."
+      ],
+      [
+        33,
+        "00:05:19.680000",
+        "00:05:23.593000",
+        "I love you because you're a beast."
+      ]
+    ],
+    "regex": "\\b((?!\\bBeast:)Beast)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

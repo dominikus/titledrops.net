@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt11548850",
+    "title": "The Deep Ones",
+    "year": 2020,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 1735,
+    "occurrences": [
+      [
+        1516,
+        "01:08:06.581000",
+        "01:08:09.218000",
+        "A mother to the deep ones."
+      ],
+      [
+        1660,
+        "01:14:28.962000",
+        "01:14:31.599000",
+        "and the lair of the Deep Ones"
+      ]
+    ],
+    "regex": "\\b((?!\\bDeep\\ Ones:)Deep\\ Ones)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

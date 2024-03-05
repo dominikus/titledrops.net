@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0101428",
+    "title": "La Belle Noiseuse",
+    "year": 1991,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 595,
+    "occurrences": [
+      [
+        291,
+        "00:24:49.489000",
+        "00:24:52.326000",
+        "On La Belle Noiseuse you see blood."
+      ],
+      [
+        292,
+        "00:24:59.458000",
+        "00:25:01.278000",
+        "What's La Belle Noiseuse?"
+      ],
+      [
+        301,
+        "00:25:29.947000",
+        "00:25:31.537000",
+        "Why La Belle Noiseuse?"
+      ],
+      [
+        543,
+        "00:47:53.207000",
+        "00:47:56.793000",
+        "Anyway it can be. It's La Belle Noiseuse."
+      ]
+    ],
+    "regex": "\\b((?!\\bLa\\ Belle\\ Noiseuse:)La\\ Belle\\ Noiseuse)(?!\\:)(?!'t)\\b",
+    "runtime": 238,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

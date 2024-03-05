@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt1817232",
+    "title": "Phineas and Ferb the Movie: Candace Against the Universe",
+    "year": 2020,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 1,
+    "all_lines": 1543,
+    "occurrences": [
+      [
+        51,
+        "00:02:40.660000",
+        "00:02:47.625000",
+        "CHORUS: Candace against the universe"
+      ]
+    ],
+    "regex": "\\b((?!\\bPhineas\\ and\\ Ferb\\ the\\ Movie:)Phineas\\ and\\ Ferb\\ the\\ Movie|(?!\\bCandace\\ Against\\ the\\ Universe:)Candace\\ Against\\ the\\ Universe)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

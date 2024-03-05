@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0844666",
+    "title": "Blackout",
+    "year": 2008,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 906,
+    "occurrences": [
+      [
+        234,
+        "00:22:13.465000",
+        "00:22:14.732000",
+        "It's a blackout."
+      ],
+      [
+        239,
+        "00:22:20.999000",
+        "00:22:22.066000",
+        "It's not a blackout."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlackout:)Blackout)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

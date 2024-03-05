@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2551894",
+    "title": "26 Years",
+    "year": 2012,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1452,
+    "occurrences": [
+      [
+        518,
+        "00:40:07.321000",
+        "00:40:10.866000",
+        "if I say it's for my father who died in Gwangju 26 years ago?"
+      ],
+      [
+        1142,
+        "01:33:03.869000",
+        "01:33:06.289000",
+        "It's been 26 years."
+      ],
+      [
+        1173,
+        "01:34:41.634000",
+        "01:34:44.512000",
+        "Even until now after 26 years,"
+      ],
+      [
+        1418,
+        "01:56:22.225000",
+        "01:56:24.268000",
+        "It's been 26 years!"
+      ]
+    ],
+    "regex": "\\b((?!\\b26\\ Years:)26\\ Years)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

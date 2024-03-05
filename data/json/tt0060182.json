@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0060182",
+    "title": "Born Free",
+    "year": 1966,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 661,
+    "occurrences": [
+      [
+        582,
+        "01:18:27.769000",
+        "01:18:30.738000",
+        "She was born free, and she has the right to live free."
+      ],
+      [
+        658,
+        "01:33:20.127000",
+        "01:33:22.229000",
+        "We saw her many times again, born free and living free."
+      ],
+      [
+        659,
+        "01:33:22.229000",
+        "01:33:24.629000",
+        "We saw her many times again, born free and Iiving free."
+      ]
+    ],
+    "regex": "\\b((?!\\bBorn\\ Free:)Born\\ Free)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

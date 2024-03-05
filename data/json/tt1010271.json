@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1010271",
+    "title": "The Poughkeepsie Tapes",
+    "year": 2007,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1130,
+    "occurrences": [
+      [
+        20,
+        "00:03:06.887000",
+        "00:03:09.891000",
+        "This is the house where they found the Poughkeepsie tapes."
+      ],
+      [
+        21,
+        "00:03:09.890000",
+        "00:03:11.892000",
+        "Before we got our hands on the Poughkeepsie tapes,"
+      ],
+      [
+        31,
+        "00:03:32.788000",
+        "00:03:34.415000",
+        "of the Poughkeepsie tapes."
+      ],
+      [
+        274,
+        "00:19:24.405000",
+        "00:19:28.251000",
+        "The killer documented on the Poughkeepsie tapes"
+      ],
+      [
+        457,
+        "00:34:02.032000",
+        "00:34:04.251000",
+        "The truth we later learned from the Poughkeepsie tapes"
+      ]
+    ],
+    "regex": "\\b((?!\\bPoughkeepsie\\ Tapes:)Poughkeepsie\\ Tapes)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

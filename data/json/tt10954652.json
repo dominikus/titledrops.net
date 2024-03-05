@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt10954652",
+    "title": "Old",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1574,
+    "occurrences": [
+      [
+        18,
+        "00:01:38.181000",
+        "00:01:40.934000",
+        "How old does a child have to be to do scuba diving?"
+      ],
+      [
+        526,
+        "00:28:52.023000",
+        "00:28:53.566000",
+        "How old are you guys?"
+      ],
+      [
+        1522,
+        "01:40:37.954000",
+        "01:40:40.290000",
+        "How would you feel if a 50-year-old man called"
+      ],
+      [
+        1523,
+        "01:40:40.415000",
+        "01:40:42.792000",
+        "and told you he was your six-year-old nephew?"
+      ]
+    ],
+    "regex": "\\b((?!\\bOld:)Old)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0038235",
+    "title": "A Walk in the Sun",
+    "year": 1945,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 3,
+    "all_lines": 1459,
+    "occurrences": [
+      [
+        25,
+        "00:03:08.740000",
+        "00:03:13.439000",
+        "# And took a little walk in the sun #"
+      ],
+      [
+        26,
+        "00:03:13.440000",
+        "00:03:18.510000",
+        "# They took a little walk in the sun #"
+      ],
+      [
+        1458,
+        "01:56:42.660000",
+        "01:56:46.919000",
+        "# And took a little walk in the sun #"
+      ]
+    ],
+    "regex": "\\b((?!\\bWalk\\ in\\ the\\ Sun:)Walk\\ in\\ the\\ Sun)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

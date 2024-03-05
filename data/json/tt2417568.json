@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt2417568",
+    "title": "Together",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1697,
+    "occurrences": [
+      [
+        392,
+        "00:22:33.552000",
+        "00:22:36.620000",
+        "'And to spend a wonderful night together'"
+      ],
+      [
+        902,
+        "00:51:12.803000",
+        "00:51:14.373000",
+        "We'll go find Pa Man together"
+      ],
+      [
+        1447,
+        "01:34:24.258000",
+        "01:34:26.169000",
+        "We can look after it together"
+      ],
+      [
+        1452,
+        "01:34:38.739000",
+        "01:34:41.345000",
+        "What about here? Let's look after it together"
+      ],
+      [
+        1526,
+        "01:37:51.565000",
+        "01:37:54.978000",
+        "We should all have a good time together"
+      ],
+      [
+        1547,
+        "01:41:10.197000",
+        "01:41:12.404000",
+        "'I thought we would be together forever'"
+      ]
+    ],
+    "regex": "\\b((?!\\bTogether:)Together)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

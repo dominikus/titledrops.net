@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0233809",
+    "title": "Extreme Private Eros: Love Song 1974",
+    "year": 1974,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 789,
+    "occurrences": [
+      [
+        1,
+        "00:00:26.159000",
+        "00:00:29.287000",
+        "Extreme Private Eros Love Song 1974"
+      ],
+      [
+        789,
+        "01:32:35.182000",
+        "01:32:39.710000",
+        "EXTREME PRIVATE EROS LOVE SONG 1974"
+      ]
+    ],
+    "regex": "\\b((?!\\bExtreme\\ Private\\ Eros:)Extreme\\ Private\\ Eros|(?!\\bLove\\ Song:)Love\\ Song)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

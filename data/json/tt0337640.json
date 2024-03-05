@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0337640",
+    "title": "Hollywood North",
+    "year": 2003,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 2032,
+    "occurrences": [
+      [
+        543,
+        "00:20:18.680000",
+        "00:20:22.370000",
+        "I think Toronto truly is turning into Hollywood North."
+      ],
+      [
+        898,
+        "00:33:38.648000",
+        "00:33:41.593000",
+        "Let's ask him what he thinks about Hollywood North."
+      ]
+    ],
+    "regex": "\\b((?!\\bHollywood\\ North:)Hollywood\\ North)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0368447",
+    "title": "The Village",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 485,
+    "occurrences": [
+      [
+        27,
+        "00:07:26.543000",
+        "00:07:29.046000",
+        "they do not come into our village."
+      ],
+      [
+        265,
+        "00:23:30.806000",
+        "00:23:32.609000",
+        "I think of nothing but the people of this village."
+      ],
+      [
+        270,
+        "00:23:48.330000",
+        "00:23:50.734000",
+        "There are secrets in every corner of this village,"
+      ],
+      [
+        389,
+        "00:42:24.123000",
+        "00:42:26.125000",
+        "They're in the village."
+      ],
+      [
+        407,
+        "00:45:25.073000",
+        "00:45:27.877000",
+        "Each member of the village is to be questioned about you."
+      ],
+      [
+        469,
+        "00:49:23.212000",
+        "00:49:25.215000",
+        "There are whispers all over the village."
+      ]
+    ],
+    "regex": "\\b((?!\\bVillage:)Village)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

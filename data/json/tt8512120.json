@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt8512120",
+    "title": "Watch List",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 906,
+    "occurrences": [
+      [
+        276,
+        "00:28:43.915000",
+        "00:28:46.714000",
+        "But they just used it to create the drug watch list."
+      ],
+      [
+        387,
+        "00:39:02.488000",
+        "00:39:04.967000",
+        "I want my name taken off the drug watch list."
+      ]
+    ],
+    "regex": "\\b((?!\\bWatch\\ List:)Watch\\ List)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

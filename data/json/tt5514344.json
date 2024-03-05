@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt5514344",
+    "title": "Alone in Space",
+    "year": 2018,
+    "genres": [
+      "Family",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 603,
+    "occurrences": [
+      [
+        16,
+        "00:02:31.220000",
+        "00:02:33.960000",
+        "Alone in Space."
+      ],
+      [
+        41,
+        "00:05:22.340000",
+        "00:05:28",
+        "You think you are prepared for everything. Then suddenly, you are alone in space."
+      ],
+      [
+        222,
+        "00:31:29.340000",
+        "00:31:34.600000",
+        "You are ... alone in space. You are just a child."
+      ],
+      [
+        447,
+        "00:56:13.660000",
+        "00:56:16.960000",
+        "Then you are alone in space."
+      ]
+    ],
+    "regex": "\\b((?!\\bAlone\\ in\\ Space:)Alone\\ in\\ Space)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

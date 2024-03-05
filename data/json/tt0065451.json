@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0065451",
+    "title": "Barquero",
+    "year": 1970,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 6,
+    "all_lines": 696,
+    "occurrences": [
+      [
+        52,
+        "00:09:33.383000",
+        "00:09:36.525000",
+        "Is that our man? On the barquero?"
+      ],
+      [
+        257,
+        "00:43:04.275000",
+        "00:43:06.069000",
+        "Hey barquero!"
+      ],
+      [
+        268,
+        "00:44:13.342000",
+        "00:44:16.141000",
+        "- What did he say? - He is not the barquero."
+      ],
+      [
+        419,
+        "00:59:44.149000",
+        "00:59:49.692000",
+        "Jacob, who ever that barquero is, he is no ordinary bargeman."
+      ],
+      [
+        643,
+        "01:36:24.521000",
+        "01:36:27.543000",
+        "One raft on each side of the barquero's barge."
+      ],
+      [
+        689,
+        "01:47:14.754000",
+        "01:47:16.612000",
+        "Barquero!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBarquero:)Barquero)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

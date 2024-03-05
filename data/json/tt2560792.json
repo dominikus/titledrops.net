@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2560792",
+    "title": "Skybound",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1429,
+    "occurrences": [
+      [
+        483,
+        "00:25:17.732000",
+        "00:25:20.328000",
+        "This plane stays skybound."
+      ],
+      [
+        1104,
+        "00:57:51.362000",
+        "00:57:53.327000",
+        "Stay skybound. "
+      ],
+      [
+        1106,
+        "00:57:54.328000",
+        "00:57:56.326000",
+        "Stay skybound!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSkybound:)Skybound)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

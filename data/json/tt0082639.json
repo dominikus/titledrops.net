@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0082639",
+    "title": "Ladies and Gentlemen, the Fabulous Stains",
+    "year": 1982,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1040,
+    "occurrences": [
+      [
+        922,
+        "01:13:51.317000",
+        "01:13:54.892000",
+        "Ladies and gentlemen, the fabulous Stains!"
+      ],
+      [
+        1012,
+        "01:23:04.618000",
+        "01:23:08.242000",
+        "Ladies and Gentlemen, The Fabulous Stains!"
+      ]
+    ],
+    "regex": "\\b((?!\\bLadies\\ and\\ Gentlemen,\\ the\\ Fabulous\\ Stains:)Ladies\\ and\\ Gentlemen,\\ the\\ Fabulous\\ Stains)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

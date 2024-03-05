@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt8372298",
+    "title": "Swallow",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1112,
+    "occurrences": [
+      [
+        406,
+        "00:37:56.241000",
+        "00:38:00.977000",
+        "How does it make you feel when you swallow something?"
+      ],
+      [
+        1028,
+        "01:27:27.576000",
+        "01:27:31.211000",
+        "Wait for them to dissolve, then swallow the remnants."
+      ]
+    ],
+    "regex": "\\b((?!\\bSwallow:)Swallow)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

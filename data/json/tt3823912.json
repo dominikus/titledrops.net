@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3823912",
+    "title": "Team Hot Wheels: The Origin of Awesome!",
+    "year": 2014,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 1232,
+    "occurrences": [
+      [
+        230,
+        "00:14:43.258000",
+        "00:14:45.135000",
+        "Team Hot Wheels."
+      ],
+      [
+        233,
+        "00:14:51.141000",
+        "00:14:54.394000",
+        "But together you're Team Hot Wheels!"
+      ],
+      [
+        450,
+        "00:28:49.562000",
+        "00:28:53.692000",
+        "Those badges on your chest represent Team Hot Wheels."
+      ],
+      [
+        573,
+        "00:35:15.573000",
+        "00:35:19.035000",
+        "That's why we're called Team Hot Wheels, and not..."
+      ]
+    ],
+    "regex": "\\b((?!\\bTeam\\ Hot\\ Wheels:)Team\\ Hot\\ Wheels|(?!\\bOrigin\\ of\\ Awesome!:)Origin\\ of\\ Awesome!)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1753786",
+    "title": "Mercury Plains",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 665,
+    "occurrences": [
+      [
+        243,
+        "00:31:52.477000",
+        "00:31:57.315000",
+        "You see a mirage, I see mercury plains."
+      ],
+      [
+        252,
+        "00:32:21.892000",
+        "00:32:26.273000",
+        "is to measure yourself against the mercury plains."
+      ]
+    ],
+    "regex": "\\b((?!\\bMercury\\ Plains:)Mercury\\ Plains)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

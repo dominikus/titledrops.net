@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt2363178",
+    "title": "Hotel",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 680,
+    "occurrences": [
+      [
+        87,
+        "00:13:46.680000",
+        "00:13:50.958000",
+        "She described its internal as a... hotel."
+      ],
+      [
+        88,
+        "00:13:52.280000",
+        "00:13:56.273000",
+        "-A hotel? Yes, every morning so..."
+      ],
+      [
+        195,
+        "00:25:58.120000",
+        "00:26:05.800000",
+        "Where I can be who I want, that on a hotel room, I have thought sometimes."
+      ],
+      [
+        203,
+        "00:26:47.080000",
+        "00:26:50.959000",
+        "I like to live a little on the hotel."
+      ],
+      [
+        346,
+        "00:45:31.640000",
+        "00:45:34.837000",
+        "I am responsible for pleasure intake here at the hotel."
+      ]
+    ],
+    "regex": "\\b((?!\\bHotel:)Hotel)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "imdb": "tt3001638",
+    "title": "Mary Kom",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 400,
+    "occurrences": [
+      [
+        127,
+        "00:36:14.204000",
+        "00:36:17.469000",
+        "mc mary kom got defeated today"
+      ],
+      [
+        344,
+        "01:36:17.227000",
+        "01:36:19.525000",
+        "can mary kom win?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMary\\ Kom:)Mary\\ Kom)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [
+      "Mary Kom",
+      "M. Narjit Singh (Mary Kom`s Coach)"
+    ],
+    "title_is_name": true,
+    "rating": 6.8
+  }
+]

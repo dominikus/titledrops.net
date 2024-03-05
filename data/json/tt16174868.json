@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt16174868",
+    "title": "Left Behind: Rise of the Antichrist",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 2042,
+    "occurrences": [
+      [
+        968,
+        "00:52:50.972000",
+        "00:52:54.709000",
+        "I'm recording this as a message for all those left behind"
+      ],
+      [
+        989,
+        "00:53:55.603000",
+        "00:54:00.007000",
+        "of Irene Steele left behind."
+      ],
+      [
+        1992,
+        "01:50:44.579000",
+        "01:50:47.014000",
+        "those of us who were left behind,"
+      ]
+    ],
+    "regex": "\\b((?!\\bLeft\\ Behind:)Left\\ Behind|(?!\\bRise\\ of\\ the\\ Antichrist:)Rise\\ of\\ the\\ Antichrist)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

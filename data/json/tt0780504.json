@@ -1,0 +1,52 @@
+[
+  {
+    "imdb": "tt0780504",
+    "title": "Drive",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 578,
+    "occurrences": [
+      [
+        54,
+        "00:18:10.875000",
+        "00:18:11.922000",
+        "I drive."
+      ],
+      [
+        110,
+        "00:22:12.801000",
+        "00:22:14.300000",
+        "I want to drive the price down a little bit."
+      ],
+      [
+        239,
+        "00:37:45.696000",
+        "00:37:47.097000",
+        "You drive for the movies? - Yeah."
+      ],
+      [
+        314,
+        "00:47:42.231000",
+        "00:47:43.782000",
+        "If I drive for you, you'll get your money."
+      ],
+      [
+        324,
+        "00:48:03.989000",
+        "00:48:05.186000",
+        "I drive."
+      ]
+    ],
+    "regex": "\\b((?!\\bDrive:)Drive)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [
+      "Driver"
+    ],
+    "title_is_name": true,
+    "rating": 7.8
+  }
+]

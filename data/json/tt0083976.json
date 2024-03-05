@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0083976",
+    "title": "Funeral Home",
+    "year": 1980,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1384,
+    "occurrences": [
+      [
+        308,
+        "00:19:51.520000",
+        "00:19:57.350000",
+        "-This was the slumber room when we had the funeral home."
+      ],
+      [
+        309,
+        "00:19:57.350000",
+        "00:20:03.830000",
+        "-Funeral home? (LAUGHING) You gotta be kidding."
+      ]
+    ],
+    "regex": "\\b((?!\\bFuneral\\ Home:)Funeral\\ Home)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

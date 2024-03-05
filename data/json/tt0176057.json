@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0176057",
+    "title": "Against All",
+    "year": 1957,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 931,
+    "occurrences": [
+      [
+        26,
+        "00:02:16.660000",
+        "00:02:20.255000",
+        "to fight for a new just order against all the enemies."
+      ],
+      [
+        153,
+        "00:15:21.660000",
+        "00:15:25.414000",
+        "In Vratislav they raised the cross against all the Czech heretics."
+      ],
+      [
+        157,
+        "00:15:41.860000",
+        "00:15:50.768000",
+        "There will be a war. Against our own, against foreigners, against all!"
+      ],
+      [
+        158,
+        "00:15:51.820000",
+        "00:15:55.176000",
+        "Yes. Against all!"
+      ]
+    ],
+    "regex": "\\b((?!\\bAgainst\\ All:)Against\\ All)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

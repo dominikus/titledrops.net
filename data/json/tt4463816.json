@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt4463816",
+    "title": "Terminal",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 6,
+    "all_lines": 1652,
+    "occurrences": [
+      [
+        207,
+        "00:13:49.644000",
+        "00:13:53.479000",
+        "It's terminal, your sides hurt, and you cough badly."
+      ],
+      [
+        375,
+        "00:21:33.707000",
+        "00:21:36.808000",
+        "VINCE: It tells me, \"Go to the terminal"
+      ],
+      [
+        607,
+        "00:32:55.088000",
+        "00:32:58.789000",
+        "Acceptable forms of payment at the terminal are as follows:"
+      ],
+      [
+        627,
+        "00:34:00.753000",
+        "00:34:05.190000",
+        "Terminal Train Lines thanks you for your business"
+      ],
+      [
+        742,
+        "00:41:59.999000",
+        "00:42:02.933000",
+        "Locker! Locker in the terminal!"
+      ],
+      [
+        846,
+        "00:46:59.064000",
+        "00:47:01.933000",
+        "that's written on the bus stop opposite the terminal."
+      ]
+    ],
+    "regex": "\\b((?!\\bTerminal:)Terminal)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

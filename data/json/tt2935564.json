@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2935564",
+    "title": "The Connection",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1131,
+    "occurrences": [
+      [
+        2,
+        "00:02:02.313000",
+        "00:02:07.578000",
+        "The \"French Connection\" has made Marseilles the world capital of heroin,"
+      ],
+      [
+        68,
+        "00:07:56.729000",
+        "00:08:00.740000",
+        "My country invested a lot of money to put a stop to French Connection."
+      ],
+      [
+        873,
+        "01:36:00.771000",
+        "01:36:03.771000",
+        "I want back the French Connection case."
+      ],
+      [
+        1128,
+        "02:09:02.729000",
+        "02:09:07.604000",
+        "...to put an end to the French Connection."
+      ]
+    ],
+    "regex": "\\b((?!\\bConnection:)Connection)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0400900",
+    "title": "Twelve Months",
+    "year": 1980,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "count": 3,
+    "all_lines": 920,
+    "occurrences": [
+      [
+        0,
+        "00:00:26.740000",
+        "00:00:34.190000",
+        "{\\fad(0,700)\\pos(427.675,98)}Twelve Months"
+      ],
+      [
+        197,
+        "00:11:25.790000",
+        "00:11:30.940000",
+        "So, a year consists of twelve months, and four seasons:"
+      ],
+      [
+        386,
+        "00:29:55.010000",
+        "00:29:58.440000",
+        "You have met the Twelve Months on this New Year's Eve."
+      ]
+    ],
+    "regex": "\\b((?!\\bTwelve\\ Months:)Twelve\\ Months)(?!\\:)(?!'t)\\b",
+    "runtime": 65,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

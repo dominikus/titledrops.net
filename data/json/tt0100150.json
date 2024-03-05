@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0100150",
+    "title": "Miller's Crossing",
+    "year": 1990,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1468,
+    "occurrences": [
+      [
+        773,
+        "00:56:59.925000",
+        "00:57:02.052000",
+        "- We're going to Miller's Crossing. -I didn't do-- Tom! Tom!"
+      ],
+      [
+        1083,
+        "01:18:35.667000",
+        "01:18:39.433000",
+        "Well, we'll go out to Miller's Crossing..."
+      ],
+      [
+        1229,
+        "01:30:35.690000",
+        "01:30:38.887000",
+        "I dreamt you were lying out at Miller's Crossing with your face blown off."
+      ]
+    ],
+    "regex": "\\b((?!\\bMiller's\\ Crossing:)Miller's\\ Crossing)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt13061914",
+    "title": "Locked Down",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 2207,
+    "occurrences": [
+      [
+        140,
+        "00:07:09.483000",
+        "00:07:11.817000",
+        "The office is locked down. I really gotta get some sleep."
+      ],
+      [
+        2098,
+        "01:46:53.233000",
+        "01:46:55.608000",
+        "we were all locked down in our own routines,"
+      ]
+    ],
+    "regex": "\\b((?!\\bLocked\\ Down:)Locked\\ Down)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

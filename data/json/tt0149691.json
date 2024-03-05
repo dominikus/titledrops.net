@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0149691",
+    "title": "Anywhere But Here",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2280,
+    "occurrences": [
+      [
+        8,
+        "00:01:19.147000",
+        "00:01:24.483000",
+        "It ain't anywhere but here"
+      ],
+      [
+        20,
+        "00:02:05.726000",
+        "00:02:11.221000",
+        "I'll find it anywhere but here"
+      ]
+    ],
+    "regex": "\\b((?!\\bAnywhere\\ But\\ Here:)Anywhere\\ But\\ Here)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

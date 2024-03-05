@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0765430",
+    "title": "American Zombie",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1967,
+    "occurrences": [
+      [
+        54,
+        "00:03:43.600000",
+        "00:03:46.550000",
+        "It's called \"Ivan's American Zombie.\""
+      ],
+      [
+        1640,
+        "01:15:08.363000",
+        "01:15:12.285000",
+        "This is the Live Dead issue of American Zombie."
+      ]
+    ],
+    "regex": "\\b((?!\\bAmerican\\ Zombie:)American\\ Zombie)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

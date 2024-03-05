@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7433980",
+    "title": "Last Night",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1282,
+    "occurrences": [
+      [
+        774,
+        "00:48:37.372000",
+        "00:48:41.043000",
+        "Didn't we talk about this last night? You're okay now, right?"
+      ],
+      [
+        849,
+        "00:55:27.449000",
+        "00:55:35.040000",
+        "If this is our last night together"
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Night:)Last\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

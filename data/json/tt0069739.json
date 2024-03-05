@@ -1,0 +1,34 @@
+[
+  {
+    "imdb": "tt0069739",
+    "title": "Assassin",
+    "year": 1973,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 830,
+    "occurrences": [
+      [
+        666,
+        "01:04:11.430000",
+        "01:04:12.848000",
+        "You must stop your assassin."
+      ],
+      [
+        689,
+        "01:07:27.709000",
+        "01:07:30.671000",
+        "- LUKE: The assassin? - CONTROL: Already gone."
+      ]
+    ],
+    "regex": "\\b((?!\\bAssassin:)Assassin)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [
+      "The Assassin"
+    ],
+    "title_is_name": true,
+    "rating": 6.1
+  }
+]

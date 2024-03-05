@@ -1,0 +1,58 @@
+[
+  {
+    "imdb": "tt0083082",
+    "title": "Silvestre",
+    "year": 1981,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 877,
+    "occurrences": [
+      [
+        566,
+        "01:11:28.599000",
+        "01:11:31.477000",
+        "I will call myself Silvestre, And I will be taken for a man."
+      ],
+      [
+        593,
+        "01:13:51.119000",
+        "01:13:53.952000",
+        "- What's your name? - Silvestre, Sir."
+      ],
+      [
+        609,
+        "01:16:03.119000",
+        "01:16:05.314000",
+        "- Silvestre! - Lieutenant, Sir!"
+      ],
+      [
+        630,
+        "01:18:50.799000",
+        "01:18:54.838000",
+        "Silvestre, you're a very odd creature."
+      ],
+      [
+        691,
+        "01:25:03.439000",
+        "01:25:06.112000",
+        "Yes, let Silvestre decide."
+      ],
+      [
+        696,
+        "01:25:17.359000",
+        "01:25:20.271000",
+        "Are you afraid what Silvestre may decide?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSilvestre:)Silvestre)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [
+      "Sílvia",
+      "Silvestre"
+    ],
+    "title_is_name": true,
+    "rating": 7.4
+  }
+]

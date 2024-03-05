@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt6423998",
+    "title": "Killer Unicorn",
+    "year": 2018,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1224,
+    "occurrences": [
+      [
+        807,
+        "00:44:51.950000",
+        "00:44:53.820000",
+        "Killer Unicorn was born."
+      ],
+      [
+        863,
+        "00:47:42.490000",
+        "00:47:46.120000",
+        "Okay, I'm like totally into the whole killer unicorn thing."
+      ],
+      [
+        1139,
+        "01:07:11.360000",
+        "01:07:14.620000",
+        "It's me you want Killer Unicorn, come and get me!"
+      ]
+    ],
+    "regex": "\\b((?!\\bKiller\\ Unicorn:)Killer\\ Unicorn)(?!\\:)(?!'t)\\b",
+    "runtime": 74,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

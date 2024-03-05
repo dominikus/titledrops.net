@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt12747570",
+    "title": "Diary",
+    "year": 2022,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1670,
+    "occurrences": [
+      [
+        1569,
+        "02:02:23.260000",
+        "02:02:24.470000",
+        "I have kept it in this diary."
+      ],
+      [
+        1579,
+        "02:03:03.440000",
+        "02:03:07.120000",
+        "A diary construes all kinds of emotions of a person."
+      ],
+      [
+        1580,
+        "02:03:08.020000",
+        "02:03:11.600000",
+        "But the diary I hold answered many clueless questions."
+      ]
+    ],
+    "regex": "\\b((?!\\bDiary:)Diary)(?!\\:)(?!'t)\\b",
+    "runtime": 133,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

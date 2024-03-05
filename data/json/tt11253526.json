@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt11253526",
+    "title": "The Ninth",
+    "year": 2019,
+    "genres": [
+      "Adventure",
+      "Crime",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1063,
+    "occurrences": [
+      [
+        813,
+        "01:01:14.666000",
+        "01:01:18",
+        "The killer will not stop till he claims his ninth victim,"
+      ],
+      [
+        819,
+        "01:01:37.500000",
+        "01:01:41.559000",
+        "But I know exactly how the final ninth sacrifice"
+      ],
+      [
+        999,
+        "01:23:24.208000",
+        "01:23:27.976000",
+        "You are the ninth sacrifice."
+      ]
+    ],
+    "regex": "\\b((?!\\bNinth:)Ninth)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

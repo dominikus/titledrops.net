@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0041929",
+    "title": "Streets of Laredo",
+    "year": 1949,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 4,
+    "all_lines": 1004,
+    "occurrences": [
+      [
+        353,
+        "00:29:13.632000",
+        "00:29:17.701000",
+        "through the streets of Laredo."
+      ],
+      [
+        357,
+        "00:29:30.672000",
+        "00:29:34.904000",
+        "through the streets of Laredo."
+      ],
+      [
+        366,
+        "00:30:08.642000",
+        "00:30:12.235000",
+        "Through the streets of Laredo."
+      ],
+      [
+        370,
+        "00:30:39.554000",
+        "00:30:43.545000",
+        "through the streets of Laredo."
+      ]
+    ],
+    "regex": "\\b((?!\\bStreets\\ of\\ Laredo:)Streets\\ of\\ Laredo)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

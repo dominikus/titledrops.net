@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0115727",
+    "title": "Bombshell",
+    "year": 1997,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1047,
+    "occurrences": [
+      [
+        6,
+        "00:01:49.160000",
+        "00:01:51.360000",
+        "I was in love with Bombshell."
+      ],
+      [
+        92,
+        "00:06:09.560000",
+        "00:06:11.600000",
+        "Hi, Bombshell. It's me."
+      ],
+      [
+        93,
+        "00:06:11.640000",
+        "00:06:13.640000",
+        "Don't Bombshell me. Who's Melinda?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBombshell:)Bombshell)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

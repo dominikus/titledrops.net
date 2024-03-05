@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt3012194",
+    "title": "The Thingy: Confessions of a Teenage Placenta",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Horror"
+    ],
+    "count": 1,
+    "all_lines": 1334,
+    "occurrences": [
+      [
+        303,
+        "00:19:09.313000",
+        "00:19:10.940000",
+        "HARRY THE STREET BUM: Ah, the Thingy."
+      ]
+    ],
+    "regex": "\\b((?!\\bThingy:)Thingy|(?!\\bConfessions\\ of\\ a\\ Teenage\\ Placenta:)Confessions\\ of\\ a\\ Teenage\\ Placenta)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

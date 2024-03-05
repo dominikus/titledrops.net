@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3474600",
+    "title": "Little Forest: Summer/Autumn",
+    "year": 2014,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 898,
+    "occurrences": [
+      [
+        0,
+        "00:00:01.060000",
+        "00:00:11.820000",
+        "\"Little Forest\" is divided into 4 parts - Summer, Autumn, Winter and Spring. After the end credits of \"Summer\", \"Autumn\" follows. After that, the trailer of \"Winter - Spring\" will be shown. Please enjoy the continuity of the movies."
+      ],
+      [
+        2,
+        "00:01:02.080000",
+        "00:01:08.240000",
+        "Komori (Little Forest) is a small settlement in a village somewhere in the Tohoku region."
+      ],
+      [
+        411,
+        "00:58:01.210000",
+        "00:58:07.740000",
+        "Komori (Little Forest) is a small settlement in a village somewhere in the Tohoku region."
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Forest:)Little\\ Forest|(?!\\bSummer/Autumn:)Summer/Autumn)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

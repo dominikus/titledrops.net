@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt11703244",
+    "title": "The Blackening",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1751,
+    "occurrences": [
+      [
+        57,
+        "00:03:23.770000",
+        "00:03:26.673000",
+        "-The Blackening. Seriously? -Yup."
+      ],
+      [
+        594,
+        "00:31:50.211000",
+        "00:31:52.312000",
+        "- Yeah. - \"The Blackening\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlackening:)Blackening)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

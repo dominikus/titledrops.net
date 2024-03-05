@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0450405",
+    "title": "Cirque du Freak: The Vampire's Assistant",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1089,
+    "occurrences": [
+      [
+        79,
+        "00:07:59.658000",
+        "00:08:03.379000",
+        "\"Cirque du Freak. One night only. The world's greatest freak show."
+      ],
+      [
+        121,
+        "00:11:26.738000",
+        "00:11:29.139000",
+        "Welcome to the Cirque du Freak,"
+      ]
+    ],
+    "regex": "\\b((?!\\bCirque\\ du\\ Freak:)Cirque\\ du\\ Freak|(?!\\bVampire's\\ Assistant:)Vampire's\\ Assistant)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt1754838",
+    "title": "Brothers",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 955,
+    "occurrences": [
+      [
+        349,
+        "00:30:19.640000",
+        "00:30:22.640000",
+        "I'm so happy you came. - We're brothers."
+      ],
+      [
+        467,
+        "00:38:33.520000",
+        "00:38:35.599000",
+        "You are my brothers."
+      ],
+      [
+        486,
+        "00:39:45.920000",
+        "00:39:48.920000",
+        "My dear brother. - Brothers."
+      ],
+      [
+        803,
+        "01:05:06.920000",
+        "01:05:09.920000",
+        "I wanted to see my father and my brothers -"
+      ]
+    ],
+    "regex": "\\b((?!\\bBrothers:)Brothers)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

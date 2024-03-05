@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0038033",
+    "title": "Rockin' in the Rockies",
+    "year": 1945,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "count": 7,
+    "all_lines": 1215,
+    "occurrences": [
+      [
+        13,
+        "00:01:25",
+        "00:01:27.490000",
+        "Rockin' in the Rockies"
+      ],
+      [
+        17,
+        "00:01:35.310000",
+        "00:01:37.680000",
+        "Rockin' in the Rockies"
+      ],
+      [
+        26,
+        "00:01:57.460000",
+        "00:02:01.870000",
+        "They're rockin' In the Rockies today"
+      ],
+      [
+        35,
+        "00:02:22.960000",
+        "00:02:28.990000",
+        "They're rockin' In the Rockies today"
+      ],
+      [
+        1201,
+        "01:06:38.810000",
+        "01:06:41.610000",
+        "Rockin' in the Rockies"
+      ],
+      [
+        1205,
+        "01:06:49.620000",
+        "01:06:52.180000",
+        "Rockin' in the Rockies"
+      ],
+      [
+        1214,
+        "01:07:14.150000",
+        "01:07:18.550000",
+        "They're rockin' In the Rockies today"
+      ]
+    ],
+    "regex": "\\b((?!\\bRockin'\\ in\\ the\\ Rockies:)Rockin'\\ in\\ the\\ Rockies)(?!\\:)(?!'t)\\b",
+    "runtime": 67,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

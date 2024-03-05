@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt8847712",
+    "title": "The French Dispatch",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1797,
+    "occurrences": [
+      [
+        20,
+        "00:01:41.634000",
+        "00:01:46.167000",
+        "and transformed Picnic into The French Dispatch,"
+      ],
+      [
+        1465,
+        "01:21:19.584000",
+        "01:21:21.617000",
+        "Founder and editor of The French Dispatch."
+      ],
+      [
+        1789,
+        "01:43:17.251000",
+        "01:43:18.450000",
+        "The French Dispatch, previously known as Picnic."
+      ]
+    ],
+    "regex": "\\b((?!\\bFrench\\ Dispatch:)French\\ Dispatch)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

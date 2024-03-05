@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt14700630",
+    "title": "Hello My Dear",
+    "year": 2021,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 898,
+    "occurrences": [
+      [
+        405,
+        "00:27:17.620000",
+        "00:27:22.356000",
+        "I'd written a poem entitled \"Neighbor of Diaspora, Hello My Dear\"."
+      ],
+      [
+        409,
+        "00:27:30.620000",
+        "00:27:33.196000",
+        "He said \"I won't publish this expression Hello My Dear.\""
+      ],
+      [
+        412,
+        "00:27:39.700000",
+        "00:27:43.196000",
+        "\"let me show you what a proper Hello My Dear looks like!\""
+      ],
+      [
+        413,
+        "00:27:43.220000",
+        "00:27:45.396000",
+        "And then he wrote Hello My Dear as a poem..."
+      ],
+      [
+        415,
+        "00:27:52.020000",
+        "00:27:54.036000",
+        "Hello my dear"
+      ]
+    ],
+    "regex": "\\b((?!\\bHello\\ My\\ Dear:)Hello\\ My\\ Dear)(?!\\:)(?!'t)\\b",
+    "runtime": 58,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0374900",
+    "title": "Napoleon Dynamite",
+    "year": 2004,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 824,
+    "occurrences": [
+      [
+        311,
+        "00:31:35.760000",
+        "00:31:38.058000",
+        "- Who's this? - Napoleon Dynamite."
+      ],
+      [
+        312,
+        "00:31:38.162000",
+        "00:31:40.562000",
+        "- Who? - Napoleon Dynamite."
+      ],
+      [
+        428,
+        "00:40:10.174000",
+        "00:40:12.642000",
+        "Yours truly, Napoleon Dynamite."
+      ]
+    ],
+    "regex": "\\b((?!\\bNapoleon\\ Dynamite:)Napoleon\\ Dynamite)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [
+      "Napoleon Dynamite"
+    ],
+    "title_is_name": true,
+    "rating": 7
+  }
+]

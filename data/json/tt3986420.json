@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3986420",
+    "title": "Trust",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1509,
+    "occurrences": [
+      [
+        377,
+        "00:20:55.615000",
+        "00:20:57.482000",
+        "even if I don't trust that guy."
+      ],
+      [
+        378,
+        "00:20:57.516000",
+        "00:21:00.019000",
+        "Hey, you only have to trust me."
+      ],
+      [
+        613,
+        "00:32:03.382000",
+        "00:32:06.051000",
+        "And trust me, it's worth it."
+      ],
+      [
+        799,
+        "00:43:04.043000",
+        "00:43:07.179000",
+        "That is a complete violation of privacy and trust."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrust:)Trust)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt27728519",
+    "title": "iNumber Number: Jozi Gold",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "count": 5,
+    "all_lines": 1447,
+    "occurrences": [
+      [
+        603,
+        "00:34:51.840000",
+        "00:34:53.440000",
+        "Join them for iNumber Number."
+      ],
+      [
+        604,
+        "00:34:53.520000",
+        "00:34:55.080000",
+        "- Yes. - iNumber Number?"
+      ],
+      [
+        955,
+        "01:02:59.400000",
+        "01:03:00.560000",
+        "Jozi Gold?"
+      ],
+      [
+        1045,
+        "01:10:10.800000",
+        "01:10:12.320000",
+        "Jozi Gold Refinery."
+      ],
+      [
+        1058,
+        "01:11:49.320000",
+        "01:11:50.560000",
+        "Jozi Gold."
+      ]
+    ],
+    "regex": "\\b((?!\\biNumber\\ Number:)iNumber\\ Number|(?!\\bJozi\\ Gold:)Jozi\\ Gold)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

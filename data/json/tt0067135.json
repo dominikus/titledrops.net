@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0067135",
+    "title": "Day of Judgment",
+    "year": 1971,
+    "genres": [
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 737,
+    "occurrences": [
+      [
+        239,
+        "00:27:32.150000",
+        "00:27:33.965000",
+        "on the day of judgment, I will punish"
+      ],
+      [
+        249,
+        "00:28:02.437000",
+        "00:28:05.354000",
+        "oh yes, the day of judgment is nae."
+      ]
+    ],
+    "regex": "\\b((?!\\bDay\\ of\\ Judgment:)Day\\ of\\ Judgment)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

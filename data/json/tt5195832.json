@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5195832",
+    "title": "Streets of Vengeance",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1415,
+    "occurrences": [
+      [
+        13,
+        "00:01:14.992000",
+        "00:01:19.789000",
+        "because Mila is on the prowl in Streets of Vengeance."
+      ],
+      [
+        1239,
+        "01:24:03.539000",
+        "01:24:07.084000",
+        "Well, let's get back to the Streets of Vengeance, but first,"
+      ],
+      [
+        1294,
+        "01:27:13.187000",
+        "01:27:16.732000",
+        "Streets of Vengeance, here on All Nite Long."
+      ]
+    ],
+    "regex": "\\b((?!\\bStreets\\ of\\ Vengeance:)Streets\\ of\\ Vengeance)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6003660",
+    "title": "Business Ethics",
+    "year": 2019,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1541,
+    "occurrences": [
+      [
+        656,
+        "00:40:13.843000",
+        "00:40:16.379000",
+        "I was just thinking of my old business ethics teacher,"
+      ],
+      [
+        665,
+        "00:40:35.864000",
+        "00:40:38.301000",
+        "So who's teaching business ethics now?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBusiness\\ Ethics:)Business\\ Ethics)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

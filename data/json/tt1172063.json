@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt1172063",
+    "title": "The Kreutzer Sonata",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1357,
+    "occurrences": [
+      [
+        29,
+        "00:03:10.723000",
+        "00:03:13.761000",
+        "They played Beethoven's Kreutzer Sonata."
+      ],
+      [
+        693,
+        "00:47:08.692000",
+        "00:47:12.731000",
+        "What I want to play... uh, is the Kreutzer Sonata."
+      ],
+      [
+        710,
+        "00:47:50.434000",
+        "00:47:52.209000",
+        "the Kreutzer...Kreutzer Sonata. - Oh."
+      ],
+      [
+        911,
+        "01:04:28.865000",
+        "01:04:32.836000",
+        "playing the Kreutzer Sonata is like a..."
+      ],
+      [
+        921,
+        "01:05:10.506000",
+        "01:05:13.749000",
+        "I read that... playing the Kreutzer Sonata..."
+      ]
+    ],
+    "regex": "\\b((?!\\bKreutzer\\ Sonata:)Kreutzer\\ Sonata)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

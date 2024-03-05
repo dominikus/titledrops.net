@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt27695005",
+    "title": "River",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "count": 7,
+    "all_lines": 1337,
+    "occurrences": [
+      [
+        336,
+        "00:23:51.583000",
+        "00:23:55.542000",
+        "Tell me about it. Why were you at the river?"
+      ],
+      [
+        690,
+        "00:42:38.708000",
+        "00:42:41.708000",
+        "I'll be by the river, okay?"
+      ],
+      [
+        695,
+        "00:43:10.708000",
+        "00:43:11.792000",
+        "To the river."
+      ],
+      [
+        699,
+        "00:43:24.750000",
+        "00:43:27",
+        "It can counterflow the river."
+      ],
+      [
+        859,
+        "00:53:22.125000",
+        "00:53:24.042000",
+        "Hunt them down to the river!"
+      ],
+      [
+        860,
+        "00:53:24.708000",
+        "00:53:26.292000",
+        "The river? Okay!"
+      ],
+      [
+        913,
+        "00:56:58.917000",
+        "00:57:02.625000",
+        "Hey, hey, I got it! Let's cross the river!"
+      ]
+    ],
+    "regex": "\\b((?!\\bRiver:)River)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

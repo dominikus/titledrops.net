@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt14050808",
+    "title": "Întregalde",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1231,
+    "occurrences": [
+      [
+        158,
+        "00:12:57.640000",
+        "00:13:00.720000",
+        "I don't think so. We came from the right. Intregalde's over there."
+      ],
+      [
+        610,
+        "00:47:39.720000",
+        "00:47:42.480000",
+        "We're near the abandoned mill. Intregalde, I think."
+      ]
+    ],
+    "regex": "\\b((?!\\bIntregalde:)Intregalde)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6977470",
+    "title": "Mayday",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror"
+    ],
+    "count": 9,
+    "all_lines": 1135,
+    "occurrences": [
+      [
+        938,
+        "00:59:20.104000",
+        "00:59:21.440000",
+        "Mayday, mayday."
+      ],
+      [
+        944,
+        "00:59:37.956000",
+        "00:59:39.191000",
+        "Mayday, mayday."
+      ],
+      [
+        1077,
+        "01:08:59.351000",
+        "01:09:01.717000",
+        "Mayday, mayday, mayday!"
+      ],
+      [
+        1096,
+        "01:10:16.693000",
+        "01:10:19.561000",
+        "- You can be my king. - Mayday, mayday!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMayday:)Mayday)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3
+  }
+]

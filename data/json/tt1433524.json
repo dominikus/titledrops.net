@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1433524",
+    "title": "Heavenly Touch",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 795,
+    "occurrences": [
+      [
+        164,
+        "01:44:05.312000",
+        "01:44:06.904000",
+        "- Heavenly Touch? - Yes."
+      ],
+      [
+        198,
+        "01:46:47.912000",
+        "01:46:52.110000",
+        "Why is this place called Heavenly Touch?"
+      ],
+      [
+        382,
+        "02:06:43.472000",
+        "02:06:46.384000",
+        "Hello, Heavenly Touch."
+      ],
+      [
+        534,
+        "02:21:20.392000",
+        "02:21:25.022000",
+        "Other massage parlors get raided by the cops. Not Heavenly Touch."
+      ]
+    ],
+    "regex": "\\b((?!\\bHeavenly\\ Touch:)Heavenly\\ Touch)(?!\\:)(?!'t)\\b",
+    "runtime": 177,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

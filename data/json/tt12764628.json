@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt12764628",
+    "title": "The Jack in the Box: Awakening",
+    "year": 2022,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1045,
+    "occurrences": [
+      [
+        9,
+        "00:00:46.075000",
+        "00:00:48.540000",
+        "The oldest Jack in the box..."
+      ],
+      [
+        12,
+        "00:00:55.408000",
+        "00:00:56.573000",
+        "Jack in the box."
+      ]
+    ],
+    "regex": "\\b((?!\\bJack\\ in\\ the\\ Box:)Jack\\ in\\ the\\ Box|(?!\\bAwakening:)Awakening)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

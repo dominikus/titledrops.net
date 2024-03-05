@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1779814",
+    "title": "I Want to Get Married",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 2048,
+    "occurrences": [
+      [
+        379,
+        "00:21:02.949000",
+        "00:21:04.465000",
+        "- I want to get married."
+      ],
+      [
+        567,
+        "00:30:06.998000",
+        "00:30:09.581000",
+        "-  I want to get married."
+      ],
+      [
+        568,
+        "00:30:11.410000",
+        "00:30:13.541000",
+        "I want to get married."
+      ],
+      [
+        569,
+        "00:30:13.541000",
+        "00:30:15.706000",
+        "I want to get married."
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Want\\ to\\ Get\\ Married:)I\\ Want\\ to\\ Get\\ Married)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

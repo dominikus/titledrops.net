@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0033519",
+    "title": "Dead Men Tell",
+    "year": 1941,
+    "genres": [
+      "Crime",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 909,
+    "occurrences": [
+      [
+        238,
+        "00:17:02.151000",
+        "00:17:04.278000",
+        "You know, \"dead men tell no tales. \""
+      ],
+      [
+        691,
+        "00:45:54.644000",
+        "00:45:57.807000",
+        " Dead men tell no tales."
+      ],
+      [
+        873,
+        "00:57:46.319000",
+        "00:57:49.880000",
+        "Come on! You know what dead men tell?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDead\\ Men\\ Tell:)Dead\\ Men\\ Tell)(?!\\:)(?!'t)\\b",
+    "runtime": 61,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

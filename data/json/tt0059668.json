@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0059668",
+    "title": "Identification Marks: None",
+    "year": 1965,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1028,
+    "occurrences": [
+      [
+        73,
+        "00:06:34.477000",
+        "00:06:36.517000",
+        "- Identification marks? - None."
+      ],
+      [
+        85,
+        "00:07:06.557000",
+        "00:07:08.797000",
+        "- Any ailments? - None."
+      ]
+    ],
+    "regex": "\\b((?!\\bIdentification\\ Marks:)Identification\\ Marks|(?!\\bNone:)None)(?!\\:)(?!'t)\\b",
+    "runtime": 73,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

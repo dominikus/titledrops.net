@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0808265",
+    "title": "The Ferryman",
+    "year": 2007,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 690,
+    "occurrences": [
+      [
+        0,
+        "00:00:11.560000",
+        "00:00:16.475000",
+        "In ancient times, there was the legend of the Ferryman."
+      ],
+      [
+        3,
+        "00:00:25.920000",
+        "00:00:31.677000",
+        "If anyone tried to cheat death, they'd also be cheating the Ferryman."
+      ],
+      [
+        4,
+        "00:00:32.120000",
+        "00:00:37.752000",
+        "There could be no escape, for the Ferryman would hunt them forever."
+      ]
+    ],
+    "regex": "\\b((?!\\bFerryman:)Ferryman)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0079668",
+    "title": "The Onion Field",
+    "year": 1979,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1240,
+    "occurrences": [
+      [
+        616,
+        "01:01:31.971000",
+        "01:01:36.411000",
+        "You've probably had to tell the story of the onion field to everyone today."
+      ],
+      [
+        787,
+        "01:16:14.403000",
+        "01:16:19.105000",
+        "I've decided to grant the defense a trip to the onion field to reenact the crime."
+      ],
+      [
+        789,
+        "01:16:38.307000",
+        "01:16:41.373000",
+        "We have now seen what the onion field looked like..."
+      ],
+      [
+        1171,
+        "01:52:47.713000",
+        "01:52:50.102000",
+        "Near the onion field?"
+      ],
+      [
+        1172,
+        "01:52:51.969000",
+        "01:52:54.303000",
+        "Near the onion field, yeah."
+      ],
+      [
+        1205,
+        "01:55:19.072000",
+        "01:55:22.106000",
+        "The other day, I went driving by the onion field..."
+      ]
+    ],
+    "regex": "\\b((?!\\bOnion\\ Field:)Onion\\ Field)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

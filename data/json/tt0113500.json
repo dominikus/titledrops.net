@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0113500",
+    "title": "Jury Duty",
+    "year": 1995,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1606,
+    "occurrences": [
+      [
+        141,
+        "00:09:38.878000",
+        "00:09:40.678000",
+        "A jury duty notice?"
+      ],
+      [
+        223,
+        "00:13:45.825000",
+        "00:13:47.191000",
+        "You here for jury duty?"
+      ],
+      [
+        228,
+        "00:13:54.166000",
+        "00:13:57.968000",
+        "Excuse me. Are you two here for jury duty?"
+      ],
+      [
+        732,
+        "00:40:51.682000",
+        "00:40:53.849000",
+        "jury duty!"
+      ],
+      [
+        1425,
+        "01:13:26.033000",
+        "01:13:29.836000",
+        "Oh, hey! How are you? Hey, how was jury duty?"
+      ]
+    ],
+    "regex": "\\b((?!\\bJury\\ Duty:)Jury\\ Duty)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

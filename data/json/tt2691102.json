@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2691102",
+    "title": "Summer",
+    "year": 2014,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 453,
+    "occurrences": [
+      [
+        134,
+        "00:18:35.258000",
+        "00:18:38.538000",
+        "but this summer the first Peer lost."
+      ],
+      [
+        445,
+        "01:22:28.057000",
+        "01:22:30.778000",
+        "After this summer Everything changed,"
+      ]
+    ],
+    "regex": "\\b((?!\\bSummer:)Summer)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

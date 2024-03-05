@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0106977",
+    "title": "The Fugitive",
+    "year": 1993,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 751,
+    "occurrences": [
+      [
+        313,
+        "00:22:47.920000",
+        "00:22:50.639000",
+        "A fugitive has been on the run for 90 minutes."
+      ],
+      [
+        320,
+        "00:23:14.680000",
+        "00:23:18.036000",
+        "Your fugitive's name is Dr. Richard Kimble."
+      ]
+    ],
+    "regex": "\\b((?!\\bFugitive:)Fugitive)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

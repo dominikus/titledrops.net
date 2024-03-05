@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0804541",
+    "title": "Shiloh Falls",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 703,
+    "occurrences": [
+      [
+        6,
+        "00:00:39.800000",
+        "00:00:42.400000",
+        "of the small mining town, Shiloh Falls"
+      ],
+      [
+        279,
+        "00:32:21.800000",
+        "00:32:25.400000",
+        "And so, we set out to leave Shiloh Falls for good."
+      ]
+    ],
+    "regex": "\\b((?!\\bShiloh\\ Falls:)Shiloh\\ Falls)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1155735",
+    "title": "Sand Clock",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 683,
+    "occurrences": [
+      [
+        3,
+        "00:01:19.454000",
+        "00:01:23.550000",
+        "Each moment like individual grains in a sand clock."
+      ],
+      [
+        4,
+        "00:01:35.528000",
+        "00:01:40.933000",
+        "The first time I saw the giant sand clock, I was 14."
+      ]
+    ],
+    "regex": "\\b((?!\\bSand\\ Clock:)Sand\\ Clock)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4768764",
+    "title": "Veteran",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 1689,
+    "occurrences": [
+      [
+        457,
+        "00:29:42.900000",
+        "00:29:44.570000",
+        "veteran ah veteran"
+      ],
+      [
+        1218,
+        "01:20:01.380000",
+        "01:20:03.170000",
+        "as veteran who control"
+      ]
+    ],
+    "regex": "\\b((?!\\bVeteran:)Veteran)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

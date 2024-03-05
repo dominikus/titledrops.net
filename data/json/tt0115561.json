@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0115561",
+    "title": "The Apartment",
+    "year": 1996,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1012,
+    "occurrences": [
+      [
+        844,
+        "01:29:30.360000",
+        "01:29:33.158000",
+        "No, I came and slept in the apartment again."
+      ],
+      [
+        847,
+        "01:29:38.160000",
+        "01:29:41.277000",
+        "- Who are you talking about? - The girl in the apartment."
+      ],
+      [
+        878,
+        "01:32:19.160000",
+        "01:32:22.391000",
+        "He spent the night in that girl's apartment, the idiot!"
+      ],
+      [
+        971,
+        "01:39:27.200000",
+        "01:39:29.350000",
+        "That was my farewell in the apartment."
+      ]
+    ],
+    "regex": "\\b((?!\\bApartment:)Apartment)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

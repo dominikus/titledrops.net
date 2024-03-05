@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2361602",
+    "title": "Five Star",
+    "year": 2014,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1148,
+    "occurrences": [
+      [
+        137,
+        "00:08:35.415000",
+        "00:08:37.616000",
+        "I'm a five star. They don't question me."
+      ],
+      [
+        141,
+        "00:08:46.260000",
+        "00:08:47.826000",
+        "What's a five star?"
+      ],
+      [
+        1138,
+        "01:22:07.256000",
+        "01:22:09.723000",
+        "Five star, I said give your boy different bush"
+      ]
+    ],
+    "regex": "\\b((?!\\bFive\\ Star:)Five\\ Star)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

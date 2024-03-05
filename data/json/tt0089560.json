@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0089560",
+    "title": "Mask",
+    "year": 1985,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 924,
+    "occurrences": [
+      [
+        204,
+        "00:22:24.329000",
+        "00:22:26.684000",
+        "Hey, kid. Take off your mask!"
+      ],
+      [
+        637,
+        "01:12:52.329000",
+        "01:12:54.889000",
+        "Hey, you in the back, take that mask off so I can see you."
+      ],
+      [
+        639,
+        "01:13:00.649000",
+        "01:13:03.209000",
+        "Gee, I'm sorry. I reaIIy thought it was a mask."
+      ],
+      [
+        853,
+        "01:35:15.769000",
+        "01:35:19.159000",
+        "If that's a mask he's wearing I sure wish he'd take it off."
+      ],
+      [
+        854,
+        "01:35:24.969000",
+        "01:35:28.166000",
+        "I'II take my mask off if you take your mask off, you sonofabitch!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMask:)Mask)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

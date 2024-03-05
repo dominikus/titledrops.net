@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0274711",
+    "title": "People I Know",
+    "year": 2002,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1875,
+    "occurrences": [
+      [
+        776,
+        "00:37:49.347000",
+        "00:37:51.611000",
+        "And you're gonna get the people I know."
+      ],
+      [
+        777,
+        "00:37:51.683000",
+        "00:37:53.651000",
+        "The people I know. Yes, sir."
+      ],
+      [
+        1076,
+        "00:52:06.570000",
+        "00:52:08.299000",
+        "than most people I know do to it."
+      ]
+    ],
+    "regex": "\\b((?!\\bPeople\\ I\\ Know:)People\\ I\\ Know)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1453405",
+    "title": "Monsters University",
+    "year": 2013,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1850,
+    "occurrences": [
+      [
+        58,
+        "00:03:29.728000",
+        "00:03:31.396000",
+        "Monsters University."
+      ],
+      [
+        107,
+        "00:07:13.195000",
+        "00:07:14.780000",
+        "Monsters University! Anybody getting off?"
+      ],
+      [
+        610,
+        "00:32:25.824000",
+        "00:32:28.285000",
+        "you will leave Monsters University."
+      ],
+      [
+        1366,
+        "01:07:34.826000",
+        "01:07:36.661000",
+        "Monsters University"
+      ],
+      [
+        1370,
+        "01:07:47.338000",
+        "01:07:49.716000",
+        "Oh, Monsters University"
+      ]
+    ],
+    "regex": "\\b((?!\\bMonsters\\ University:)Monsters\\ University)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

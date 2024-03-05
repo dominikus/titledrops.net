@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0044118",
+    "title": "The Texas Rangers",
+    "year": 1951,
+    "genres": [
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 1131,
+    "occurrences": [
+      [
+        55,
+        "00:04:36.815000",
+        "00:04:40.341000",
+        "the state once again called into being the Texas Rangers,"
+      ],
+      [
+        138,
+        "00:09:02.994000",
+        "00:09:05.345000",
+        "And that means the end of the Texas Rangers."
+      ],
+      [
+        262,
+        "00:15:55.319000",
+        "00:15:57.365000",
+        "Major Jones, if the Texas Rangers"
+      ]
+    ],
+    "regex": "\\b((?!\\bTexas\\ Rangers:)Texas\\ Rangers)(?!\\:)(?!'t)\\b",
+    "runtime": 74,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

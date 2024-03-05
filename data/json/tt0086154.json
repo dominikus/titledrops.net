@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0086154",
+    "title": "Psycho II",
+    "year": 1983,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 1629,
+    "occurrences": [
+      [
+        469,
+        "00:30:27.578000",
+        "00:30:29.246000",
+        "Screwin' a psycho?"
+      ],
+      [
+        495,
+        "00:31:39.191000",
+        "00:31:42.486000",
+        "Oh. Oh, that's... That's beautiful. Go on, psycho, pick it up."
+      ],
+      [
+        504,
+        "00:32:08.053000",
+        "00:32:10.597000",
+        "TOOMEY: The trouble is that psycho you hired."
+      ],
+      [
+        572,
+        "00:38:51.331000",
+        "00:38:55.169000",
+        "Psycho! Hey, hello, psycho!"
+      ]
+    ],
+    "regex": "\\b((?!\\bPsycho:)Psycho)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

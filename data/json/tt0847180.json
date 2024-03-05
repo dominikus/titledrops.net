@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0847180",
+    "title": "Loot",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 6,
+    "all_lines": 479,
+    "occurrences": [
+      [
+        177,
+        "00:29:26.498000",
+        "00:29:29.262000",
+        "You keep this blue print, That will help you for loot."
+      ],
+      [
+        184,
+        "00:29:46.684000",
+        "00:29:49.312000",
+        "Actually! You will need a car for tonighs loot."
+      ],
+      [
+        189,
+        "00:31:27.252000",
+        "00:31:29.550000",
+        "We will be caught. We are going for loot."
+      ],
+      [
+        196,
+        "00:34:17.255000",
+        "00:34:19.223000",
+        "Loot doesn't need introduction,"
+      ],
+      [
+        207,
+        "00:46:15.773000",
+        "00:46:17.832000",
+        "Tanya took the loot stuff and escaped."
+      ],
+      [
+        302,
+        "00:59:46.498000",
+        "00:59:49.365000",
+        "Loot in Don's houses?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLoot:)Loot)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

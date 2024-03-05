@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0235737",
+    "title": "The Salton Sea",
+    "year": 2002,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1062,
+    "occurrences": [
+      [
+        725,
+        "01:06:22.294000",
+        "01:06:25.214000",
+        "...in a meth lab out near the Salton Sea."
+      ],
+      [
+        739,
+        "01:07:20.773000",
+        "01:07:24.487000",
+        "We'd stopped for gas at the Salton Sea."
+      ],
+      [
+        919,
+        "01:27:01.723000",
+        "01:27:05.604000",
+        "You're lost. The Salton Sea."
+      ]
+    ],
+    "regex": "\\b((?!\\bSalton\\ Sea:)Salton\\ Sea)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

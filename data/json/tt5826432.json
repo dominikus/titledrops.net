@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt5826432",
+    "title": "Burning Sands",
+    "year": 2017,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1551,
+    "occurrences": [
+      [
+        193,
+        "00:12:20.354000",
+        "00:12:22.523000",
+        "Yo, look at them crossing the burning sands."
+      ],
+      [
+        1202,
+        "01:15:09.328000",
+        "01:15:12.039000",
+        "Now get out my office and cross them burning sands,"
+      ],
+      [
+        1255,
+        "01:19:26.376000",
+        "01:19:28.879000",
+        "After we cross them burning sands, we will act as such."
+      ]
+    ],
+    "regex": "\\b((?!\\bBurning\\ Sands:)Burning\\ Sands)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

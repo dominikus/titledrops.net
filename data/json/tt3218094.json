@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt3218094",
+    "title": "Adaline",
+    "year": 2015,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1172,
+    "occurrences": [
+      [
+        315,
+        "00:23:16.123000",
+        "00:23:18.559000",
+        "\"Happy birthday, Adaline.\""
+      ],
+      [
+        578,
+        "00:47:19.965000",
+        "00:47:23.133000",
+        "I think Adaline was seeing things before they happened."
+      ],
+      [
+        620,
+        "00:49:30.195000",
+        "00:49:31.963000",
+        "Adaline."
+      ],
+      [
+        1045,
+        "01:21:06.023000",
+        "01:21:07.793000",
+        "\"Adaline\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAdaline:)Adaline)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

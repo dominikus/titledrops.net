@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1230194",
+    "title": "The Storm",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 631,
+    "occurrences": [
+      [
+        7,
+        "00:01:07.629000",
+        "00:01:11.793000",
+        "...there's a severe storm between north-west and north."
+      ],
+      [
+        8,
+        "00:01:11.967000",
+        "00:01:18.681000",
+        "The storm is spreading to the southern and eastern part of the North Sea."
+      ],
+      [
+        9,
+        "00:01:19.391000",
+        "00:01:24.184000",
+        "The storm is expected to last all night."
+      ],
+      [
+        68,
+        "00:11:05.658000",
+        "00:11:09.525000",
+        "The storm. Bert thinks we can't cope."
+      ]
+    ],
+    "regex": "\\b((?!\\bStorm:)Storm)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

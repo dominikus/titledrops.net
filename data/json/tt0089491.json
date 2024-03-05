@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0089491",
+    "title": "The Lightship",
+    "year": 1985,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 681,
+    "occurrences": [
+      [
+        0,
+        "00:00:22.433000",
+        "00:00:32.433000",
+        "Subtitles by: Yucatan Verbatim, The Lightship, f/s: 23.976 English."
+      ],
+      [
+        373,
+        "00:42:48.597000",
+        "00:42:50.097000",
+        "To the Captains of the lightship..."
+      ],
+      [
+        592,
+        "01:09:14.964000",
+        "01:09:18.723000",
+        "Ah, tomorrow will be soon enough. We'll free the lightship from her chains..."
+      ],
+      [
+        677,
+        "01:26:14.563000",
+        "01:26:18.563000",
+        "I have been a lot of places since my father's last watch about the lightship."
+      ]
+    ],
+    "regex": "\\b((?!\\bLightship:)Lightship)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

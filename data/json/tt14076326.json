@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt14076326",
+    "title": "This Is Not Financial Advice",
+    "year": 2023,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1792,
+    "occurrences": [
+      [
+        875,
+        "00:39:54.727000",
+        "00:39:56.946000",
+        "This is not financial advice."
+      ],
+      [
+        1501,
+        "01:14:02.555000",
+        "01:14:04.015000",
+        "and this is not financial advice."
+      ]
+    ],
+    "regex": "\\b((?!\\bThis\\ Is\\ Not\\ Financial\\ Advice:)This\\ Is\\ Not\\ Financial\\ Advice)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

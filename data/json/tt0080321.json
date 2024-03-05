@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0080321",
+    "title": "AC/DC: Let There Be Rock",
+    "year": 1980,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 6,
+    "all_lines": 729,
+    "occurrences": [
+      [
+        247,
+        "00:30:19.234000",
+        "00:30:21.235000",
+        "[AC/DC PLAYlNG \"WALK ALL OVER YOU\"]"
+      ],
+      [
+        272,
+        "00:33:51.612000",
+        "00:33:55.866000",
+        "I'd never seen the band before. I'd never even heard of AC/DC."
+      ],
+      [
+        619,
+        "01:13:30.864000",
+        "01:13:33.074000",
+        "CLIFF: AC/DC."
+      ],
+      [
+        706,
+        "01:28:59.250000",
+        "01:29:02.085000",
+        "Oh, let there be rock"
+      ],
+      [
+        716,
+        "01:30:30.675000",
+        "01:30:33.510000",
+        "Oh, let there be rock"
+      ],
+      [
+        721,
+        "01:31:44.040000",
+        "01:31:47.417000",
+        "Let there be rock"
+      ]
+    ],
+    "regex": "\\b((?!\\bAC/DC:)AC/DC|(?!\\bLet\\ There\\ Be\\ Rock:)Let\\ There\\ Be\\ Rock)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.3
+  }
+]

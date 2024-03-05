@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1311672",
+    "title": "Vlog",
+    "year": 2008,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 972,
+    "occurrences": [
+      [
+        413,
+        "00:23:01.780000",
+        "00:23:03.873000",
+        "- Oh gee. - I saw your vlog."
+      ],
+      [
+        792,
+        "00:56:16.473000",
+        "00:56:19.306000",
+        "of this vlog"
+      ]
+    ],
+    "regex": "\\b((?!\\bVlog:)Vlog)(?!\\:)(?!'t)\\b",
+    "runtime": 71,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

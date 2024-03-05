@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt1618399",
+    "title": "The Waiting Room",
+    "year": 2012,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 6,
+    "all_lines": 1932,
+    "occurrences": [
+      [
+        196,
+        "00:08:25.005000",
+        "00:08:27.125000",
+        "back and sit in the waiting room next month."
+      ],
+      [
+        729,
+        "00:29:03.442000",
+        "00:29:05.709000",
+        "impact on the rest of the waiting room."
+      ],
+      [
+        1126,
+        "00:43:32.544000",
+        "00:43:34.744000",
+        "If I was a patient in the waiting room, knowing that"
+      ],
+      [
+        1818,
+        "01:12:40.557000",
+        "01:12:42.357000",
+        "then you did a great job of clearing the waiting room."
+      ],
+      [
+        1831,
+        "01:13:07.050000",
+        "01:13:08.649000",
+        "FEMALE SPEAKER (OFFSCREEN): How's the waiting room?"
+      ],
+      [
+        1832,
+        "01:13:08.651000",
+        "01:13:11.652000",
+        "DOCTOR (OFFSCREEN): Waiting room is a little bit better"
+      ]
+    ],
+    "regex": "\\b((?!\\bWaiting\\ Room:)Waiting\\ Room)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3773210",
+    "title": "Jonny's Sweet Revenge",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1773,
+    "occurrences": [
+      [
+        270,
+        "00:15:08.074000",
+        "00:15:11.009000",
+        "\"Jonny's sweet revenge.\""
+      ],
+      [
+        1552,
+        "01:19:19.756000",
+        "01:19:21.422000",
+        "It's called \"Jonny's sweet revenge\""
+      ]
+    ],
+    "regex": "\\b((?!\\bJonny's\\ Sweet\\ Revenge:)Jonny's\\ Sweet\\ Revenge)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

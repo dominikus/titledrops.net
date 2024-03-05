@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0462338",
+    "title": "The Hoax",
+    "year": 2006,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1624,
+    "occurrences": [
+      [
+        1063,
+        "01:08:47.054000",
+        "01:08:48.214000",
+        "A hoax."
+      ],
+      [
+        1618,
+        "01:50:14.589000",
+        "01:50:18.919000",
+        "Cliff resumed his writing with \"The Hoax\", a recollection of these events."
+      ]
+    ],
+    "regex": "\\b((?!\\bHoax:)Hoax)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

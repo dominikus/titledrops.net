@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0076582",
+    "title": "Coming Attractions",
+    "year": 1978,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1108,
+    "occurrences": [
+      [
+        1082,
+        "01:07:26.004000",
+        "01:07:28.086000",
+        "Coming attractions we've got"
+      ],
+      [
+        1093,
+        "01:08:13.561000",
+        "01:08:17.690000",
+        "Coming attractions, we got, cut into fractions"
+      ],
+      [
+        1105,
+        "01:09:01.824000",
+        "01:09:05.009000",
+        "Coming attractions, we got, so much action"
+      ]
+    ],
+    "regex": "\\b((?!\\bComing\\ Attractions:)Coming\\ Attractions)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

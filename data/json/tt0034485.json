@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0034485",
+    "title": "Babes on Broadway",
+    "year": 1941,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Musical"
+    ],
+    "count": 2,
+    "all_lines": 1490,
+    "occurrences": [
+      [
+        1483,
+        "01:56:31.918000",
+        "01:56:34.113000",
+        "We're babes on Broadway"
+      ],
+      [
+        1490,
+        "01:56:58.544000",
+        "01:57:03.982000",
+        "'Cause we're babes on Broadway now!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBabes\\ on\\ Broadway:)Babes\\ on\\ Broadway)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt5356318",
+    "title": "Suicide Club",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1176,
+    "occurrences": [
+      [
+        535,
+        "00:43:27.913000",
+        "00:43:29.713000",
+        "I need to ask him about the suicide club."
+      ],
+      [
+        571,
+        "00:46:59.728000",
+        "00:47:01.463000",
+        "It's another suicide club member."
+      ],
+      [
+        645,
+        "00:50:55.167000",
+        "00:50:56.367000",
+        "called the suicide club?"
+      ],
+      [
+        682,
+        "00:52:45.745000",
+        "00:52:47.247000",
+        "Time to join the suicide club."
+      ],
+      [
+        995,
+        "01:20:04.839000",
+        "01:20:07.105000",
+        "were involved with the suicide club, well you were right."
+      ],
+      [
+        1138,
+        "01:27:23.016000",
+        "01:27:24.751000",
+        "LIZ: Hello suicide club members."
+      ]
+    ],
+    "regex": "\\b((?!\\bSuicide\\ Club:)Suicide\\ Club)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

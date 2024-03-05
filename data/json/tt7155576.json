@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7155576",
+    "title": "Back Fork",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1261,
+    "occurrences": [
+      [
+        371,
+        "00:26:02.395000",
+        "00:26:04.328000",
+        "of fish up Back Fork in the mornin'."
+      ],
+      [
+        433,
+        "00:30:08.774000",
+        "00:30:10.507000",
+        "There's the apartments up Back Fork."
+      ]
+    ],
+    "regex": "\\b((?!\\bBack\\ Fork:)Back\\ Fork)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

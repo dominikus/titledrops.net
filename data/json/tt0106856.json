@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0106856",
+    "title": "Falling Down",
+    "year": 1993,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1463,
+    "occurrences": [
+      [
+        175,
+        "00:17:22.083000",
+        "00:17:24.418000",
+        "SINGING: London Bridge is falling down"
+      ],
+      [
+        176,
+        "00:17:25.044000",
+        "00:17:26.963000",
+        "Falling down, falling down"
+      ],
+      [
+        177,
+        "00:17:27.213000",
+        "00:17:29.382000",
+        "London bridge is falling down Help me."
+      ]
+    ],
+    "regex": "\\b((?!\\bFalling\\ Down:)Falling\\ Down)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

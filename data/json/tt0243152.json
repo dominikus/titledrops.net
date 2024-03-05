@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0243152",
+    "title": "Black Orchid",
+    "year": 1953,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 967,
+    "occurrences": [
+      [
+        0,
+        "00:00:15.805000",
+        "00:00:16.805000",
+        "Black Orchid"
+      ],
+      [
+        733,
+        "00:41:54.544000",
+        "00:41:55.590000",
+        "A black orchid?"
+      ],
+      [
+        737,
+        "00:42:20.881000",
+        "00:42:24.252000",
+        "Black orchid? Sophie was wearing one on the day she died"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Orchid:)Black\\ Orchid)(?!\\:)(?!'t)\\b",
+    "runtime": 58,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5981944",
+    "title": "The Invisible Boy: Second Generation",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 665,
+    "occurrences": [
+      [
+        86,
+        "00:13:01.175000",
+        "00:13:05.800000",
+        "You're the Invisible Boy, you also have a second power, you told me."
+      ],
+      [
+        460,
+        "01:01:16.466000",
+        "01:01:20.508000",
+        "See Misha, you and your sister are second generation Specials."
+      ]
+    ],
+    "regex": "\\b((?!\\bInvisible\\ Boy:)Invisible\\ Boy|(?!\\bSecond\\ Generation:)Second\\ Generation)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

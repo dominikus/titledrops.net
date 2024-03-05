@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt11592014",
+    "title": "Today We Fix the World",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1995,
+    "occurrences": [
+      [
+        155,
+        "00:08:03.333000",
+        "00:08:06.416000",
+        "Good day, everyone. Welcome to Today We Fix the World..."
+      ],
+      [
+        633,
+        "00:34:17.041000",
+        "00:34:20.416000",
+        "Aren't you the producer of Today We Fix the World?"
+      ],
+      [
+        1679,
+        "01:26:59.916000",
+        "01:27:04.833000",
+        "Warm welcome to the very last broadcast of Today We Fix the World..."
+      ]
+    ],
+    "regex": "\\b((?!\\bToday\\ We\\ Fix\\ the\\ World:)Today\\ We\\ Fix\\ the\\ World)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt6426714",
+    "title": "Critical Eleven",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1499,
+    "occurrences": [
+      [
+        71,
+        "00:03:38.318000",
+        "00:03:40.554000",
+        "there's a phrase called \"critical eleven.\""
+      ],
+      [
+        104,
+        "00:06:42.168000",
+        "00:06:45.905000",
+        "When you think about it, critical eleven could also describe"
+      ],
+      [
+        1449,
+        "0",
+        "0",
+        "critical eleven may not be determined by the first three minutes."
+      ]
+    ],
+    "regex": "\\b((?!\\bCritical\\ Eleven:)Critical\\ Eleven)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

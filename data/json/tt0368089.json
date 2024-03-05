@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0368089",
+    "title": "November",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 488,
+    "occurrences": [
+      [
+        39,
+        "00:06:48.490000",
+        "00:06:51.010000",
+        "A month ago, on 7 November."
+      ],
+      [
+        85,
+        "00:13:48.480000",
+        "00:13:51.080000",
+        "Is dated November 9."
+      ],
+      [
+        423,
+        "00:57:33",
+        "00:57:35",
+        "November."
+      ]
+    ],
+    "regex": "\\b((?!\\bNovember:)November)(?!\\:)(?!'t)\\b",
+    "runtime": 73,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

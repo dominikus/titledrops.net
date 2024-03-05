@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt2234032",
+    "title": "Stay",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1231,
+    "occurrences": [
+      [
+        136,
+        "00:14:35.744000",
+        "00:14:39.045000",
+        "I'm only going back for a visit, not to stay."
+      ],
+      [
+        393,
+        "00:34:12.949000",
+        "00:34:14.048000",
+        "Stay."
+      ],
+      [
+        541,
+        "00:45:30.908000",
+        "00:45:35.310000",
+        "to send over, so I suggest you stay away."
+      ]
+    ],
+    "regex": "\\b((?!\\bStay:)Stay)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

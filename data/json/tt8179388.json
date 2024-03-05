@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt8179388",
+    "title": "Rim of the World",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1740,
+    "occurrences": [
+      [
+        71,
+        "00:04:42.824000",
+        "00:04:44.409000",
+        "Rim of the World. Okay."
+      ],
+      [
+        83,
+        "00:05:42.133000",
+        "00:05:43.343000",
+        "Rim of the World."
+      ],
+      [
+        122,
+        "00:07:09.470000",
+        "00:07:12.557000",
+        "Welcome to the Rim of the World Adventure Camp."
+      ],
+      [
+        492,
+        "00:25:04.711000",
+        "00:25:07.130000",
+        "- Where am I? - At Rim of the World Adventure Camp."
+      ]
+    ],
+    "regex": "\\b((?!\\bRim\\ of\\ the\\ World:)Rim\\ of\\ the\\ World)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

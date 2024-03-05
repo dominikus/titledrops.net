@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0471565",
+    "title": "American Visa",
+    "year": 2005,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 851,
+    "occurrences": [
+      [
+        141,
+        "00:17:20.639000",
+        "00:17:23.870000",
+        "- What are we celebrating? - I just got my American visa."
+      ],
+      [
+        240,
+        "00:25:15.647000",
+        "00:25:17.877000",
+        "Maybe through Guatemala. No American visa..."
+      ]
+    ],
+    "regex": "\\b((?!\\bAmerican\\ Visa:)American\\ Visa)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

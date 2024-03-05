@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0033851",
+    "title": "Louisiana Purchase",
+    "year": 1941,
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "count": 5,
+    "all_lines": 1483,
+    "occurrences": [
+      [
+        895,
+        "00:56:54.813000",
+        "00:57:00.149000",
+        "? Louisiana purchase I'll tell you what it means ?"
+      ],
+      [
+        907,
+        "00:57:38.223000",
+        "00:57:43.525000",
+        "? Louisiana purchase I've told you what it means ?"
+      ],
+      [
+        912,
+        "00:58:02.547000",
+        "00:58:06.711000",
+        "? Louisiana purchase I'll tell you what it means ?"
+      ],
+      [
+        925,
+        "00:58:51.262000",
+        "00:58:55.289000",
+        "? Louisiana purchase ?"
+      ],
+      [
+        935,
+        "00:59:27.665000",
+        "00:59:30.156000",
+        "? New Orleans ? ? Louisiana purchase ?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLouisiana\\ Purchase:)Louisiana\\ Purchase)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

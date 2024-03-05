@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3605304",
+    "title": "Black Fly",
+    "year": 2014,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1415,
+    "occurrences": [
+      [
+        1362,
+        "01:25:29",
+        "01:25:35",
+        "(\"Black Fly Bone\" by Wyckham Porteous)"
+      ],
+      [
+        1365,
+        "01:25:48.585000",
+        "01:25:51.335000",
+        "Black fly bone"
+      ],
+      [
+        1401,
+        "01:27:47.293000",
+        "01:27:49.835000",
+        "Black fly bone"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Fly:)Black\\ Fly)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

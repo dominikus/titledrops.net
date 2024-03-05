@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4520988",
+    "title": "Frozen II",
+    "year": 2019,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1939,
+    "occurrences": [
+      [
+        496,
+        "00:23:22.403000",
+        "00:23:23.437000",
+        "survived a frozen heart,"
+      ],
+      [
+        1317,
+        "01:02:47.001000",
+        "01:02:49.102000",
+        "Ahtohallan is frozen."
+      ]
+    ],
+    "regex": "\\b((?!\\bFrozen:)Frozen)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

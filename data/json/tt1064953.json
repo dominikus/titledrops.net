@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1064953",
+    "title": "The Guard Post",
+    "year": 2008,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 574,
+    "occurrences": [
+      [
+        1,
+        "00:00:37.170000",
+        "00:00:42.540000",
+        "Guard Post is on the frontline inside the Demilitarized Zone."
+      ],
+      [
+        22,
+        "00:04:23.363000",
+        "00:04:32.738000",
+        "The Guard Post"
+      ]
+    ],
+    "regex": "\\b((?!\\bGuard\\ Post:)Guard\\ Post)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

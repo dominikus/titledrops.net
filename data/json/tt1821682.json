@@ -1,0 +1,77 @@
+[
+  {
+    "imdb": "tt1821682",
+    "title": "Traffic",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "count": 9,
+    "all_lines": 1188,
+    "occurrences": [
+      [
+        57,
+        "00:06:41.267000",
+        "00:06:43.531000",
+        "Yes. Traffic constable."
+      ],
+      [
+        472,
+        "00:46:38.595000",
+        "00:46:41.291000",
+        "If there is a traffic block for five minutes all planning will go awry."
+      ],
+      [
+        532,
+        "00:49:40.444000",
+        "00:49:43.971000",
+        "...less than 50 traffic signals about 40 police personnel..."
+      ],
+      [
+        567,
+        "00:52:16.833000",
+        "00:52:20.462000",
+        "In every point traffic control arrangement will be done."
+      ],
+      [
+        571,
+        "00:52:31.414000",
+        "00:52:33.974000",
+        "how much traffic control is possible, sir?"
+      ],
+      [
+        576,
+        "00:52:46.963000",
+        "00:52:49.830000",
+        "Not only that people who are not used to traffic regulations..."
+      ],
+      [
+        632,
+        "01:00:09.305000",
+        "01:00:11.933000",
+        "Noted traffic constable Sudevan has taken up the job."
+      ],
+      [
+        760,
+        "01:11:03.959000",
+        "01:11:05.324000",
+        "In which traffic signal?"
+      ],
+      [
+        1172,
+        "01:52:29.109000",
+        "01:52:32.977000",
+        "It is the brilliance and talent of the traffic constable..."
+      ]
+    ],
+    "regex": "\\b((?!\\bTraffic:)Traffic)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [
+      "Traffic Constable Sudevan"
+    ],
+    "title_is_name": true,
+    "rating": 8.1
+  }
+]

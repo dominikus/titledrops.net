@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0091203",
+    "title": "Highlander",
+    "year": 1986,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "count": 7,
+    "all_lines": 1224,
+    "occurrences": [
+      [
+        147,
+        "00:19:05.644000",
+        "00:19:07.103000",
+        "He's a highlander, by God!"
+      ],
+      [
+        308,
+        "00:32:09.802000",
+        "00:32:13.139000",
+        "Another time, Highlander! I will find you!"
+      ],
+      [
+        311,
+        "00:32:24.066000",
+        "00:32:26.610000",
+        "Who in the name of God was that? He called you Highlander."
+      ],
+      [
+        570,
+        "00:54:34.645000",
+        "00:54:38.107000",
+        "The Highlander, where is he?"
+      ],
+      [
+        1014,
+        "01:31:13.092000",
+        "01:31:18.847000",
+        "Holy ground, Highlander! Remember what Ramirez taught you."
+      ],
+      [
+        1016,
+        "01:31:29.108000",
+        "01:31:30.609000",
+        "You are weak, Highlander."
+      ],
+      [
+        1192,
+        "01:52:33.204000",
+        "01:52:36.332000",
+        "Patience, Highlander."
+      ]
+    ],
+    "regex": "\\b((?!\\bHighlander:)Highlander)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

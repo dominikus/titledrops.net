@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt2175947",
+    "title": "The Cure",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 889,
+    "occurrences": [
+      [
+        133,
+        "00:12:11.360000",
+        "00:12:13.477000",
+        "What do you expect? There is a miracle cure?"
+      ],
+      [
+        229,
+        "00:18:39.520000",
+        "00:18:43.100000",
+        "for hundreds of years, you tell me you want to develop a cure."
+      ],
+      [
+        369,
+        "00:30:04.080000",
+        "00:30:07.700000",
+        "I mean, a cure for cancer, so you can earn billions."
+      ],
+      [
+        399,
+        "00:31:52.440000",
+        "00:31:55.940000",
+        "cure for cancer there is a Nobel Prize."
+      ]
+    ],
+    "regex": "\\b((?!\\bCure:)Cure)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

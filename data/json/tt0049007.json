@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0049007",
+    "title": "Bhowani Junction",
+    "year": 1956,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 1404,
+    "occurrences": [
+      [
+        40,
+        "00:05:28.426000",
+        "00:05:31.394000",
+        "When were you detailed to Bhowani Junction?"
+      ],
+      [
+        47,
+        "00:05:45.777000",
+        "00:05:48.277000",
+        "I was detailed to Bhowani Junction with a battalion"
+      ],
+      [
+        62,
+        "00:06:27.685000",
+        "00:06:29.752000",
+        "the normal operation of Bhowani Junction"
+      ],
+      [
+        1031,
+        "01:14:37.905000",
+        "01:14:40.806000",
+        "But as soon as Bhowani Junction lay behind her"
+      ]
+    ],
+    "regex": "\\b((?!\\bBhowani\\ Junction:)Bhowani\\ Junction)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

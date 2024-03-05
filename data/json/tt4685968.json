@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt4685968",
+    "title": "Lion",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1466,
+    "occurrences": [
+      [
+        907,
+        "01:31:47.101000",
+        "01:31:48.341000",
+        "He was a lion who ripped out heads!"
+      ],
+      [
+        1299,
+        "02:09:40.839000",
+        "02:09:43.615000",
+        "One and only lion..."
+      ],
+      [
+        1300,
+        "02:09:43.776000",
+        "02:09:46.848000",
+        "Pure manly lion...lion..."
+      ],
+      [
+        1460,
+        "02:31:38.789000",
+        "02:31:43.260000",
+        "If anyone dares to cross line with Lion, they'll die a deadly death!"
+      ]
+    ],
+    "regex": "\\b((?!\\bLion:)Lion)(?!\\:)(?!'t)\\b",
+    "runtime": 152,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

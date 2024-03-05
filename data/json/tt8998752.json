@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt8998752",
+    "title": "Vanilla",
+    "year": 2019,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1614,
+    "occurrences": [
+      [
+        763,
+        "00:37:07.966000",
+        "00:37:10.369000",
+        "I will do a bowl of vanilla ice cream"
+      ],
+      [
+        767,
+        "00:37:14.908000",
+        "00:37:17.342000",
+        "Vanilla cone, what else?"
+      ],
+      [
+        980,
+        "00:49:10.639000",
+        "00:49:14.241000",
+        "I don't know if I like the chocolate or the vanilla more."
+      ],
+      [
+        1474,
+        "01:18:35.205000",
+        "01:18:38.408000",
+        "and... vanilla ice cream sandwich!"
+      ]
+    ],
+    "regex": "\\b((?!\\bVanilla:)Vanilla)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

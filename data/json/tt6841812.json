@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6841812",
+    "title": "United Colors of Bennett Song",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 2192,
+    "occurrences": [
+      [
+        1744,
+        "01:23:15.991000",
+        "01:23:20.064000",
+        "please welcome The United Colors of Bennett Song."
+      ],
+      [
+        1772,
+        "01:25:22.669000",
+        "01:25:25.534000",
+        "We're the United Colors of Bennett Song"
+      ],
+      [
+        2124,
+        "01:44:04.341000",
+        "01:44:07.724000",
+        "the lovely United Colors of Bennett Song and Family"
+      ],
+      [
+        2180,
+        "01:47:24.368000",
+        "01:47:27.130000",
+        "We're the United Colors of Bennett Song"
+      ]
+    ],
+    "regex": "\\b((?!\\bUnited\\ Colors\\ of\\ Bennett\\ Song:)United\\ Colors\\ of\\ Bennett\\ Song)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

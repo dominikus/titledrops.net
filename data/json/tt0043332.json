@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0043332",
+    "title": "Beautiful",
+    "year": 1951,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1532,
+    "occurrences": [
+      [
+        59,
+        "00:08:59.480000",
+        "00:09:01.320000",
+        "All dirty? Beautiful!"
+      ],
+      [
+        351,
+        "00:27:29.760000",
+        "00:27:34.280000",
+        "Let's see how you look. My beautiful potato!"
+      ],
+      [
+        1297,
+        "01:32:33.160000",
+        "01:32:36.560000",
+        "I'd convinced myself I was very good and very beautiful."
+      ]
+    ],
+    "regex": "\\b((?!\\bBeautiful:)Beautiful)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

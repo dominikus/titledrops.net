@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0479162",
+    "title": "Special",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 990,
+    "occurrences": [
+      [
+        471,
+        "00:33:46.900000",
+        "00:33:49.780000",
+        "And really, there's no proof the special is responsible"
+      ],
+      [
+        625,
+        "00:43:04.140000",
+        "00:43:06.860000",
+        "Why is it so hard for you to believe that I have special powers?"
+      ],
+      [
+        626,
+        "00:43:06.895000",
+        "00:43:09.740000",
+        "Special powers? Are you listening to yourself?"
+      ],
+      [
+        627,
+        "00:43:09.775000",
+        "00:43:11.545000",
+        "People don't have special powers."
+      ],
+      [
+        638,
+        "00:43:35.472000",
+        "00:43:37.646000",
+        "Not because you got special powers,"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpecial:)Special)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

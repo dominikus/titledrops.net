@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0417453",
+    "title": "The Plane",
+    "year": 2005,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 528,
+    "occurrences": [
+      [
+        197,
+        "00:24:20.058000",
+        "00:24:22.151000",
+        "Show us the plane. Gimme it!"
+      ],
+      [
+        253,
+        "00:33:20.164000",
+        "00:33:21.324000",
+        "He's gonna fly his plane."
+      ],
+      [
+        482,
+        "01:19:53.889000",
+        "01:19:55.914000",
+        "Your plane can't fly anymore?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPlane:)Plane)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

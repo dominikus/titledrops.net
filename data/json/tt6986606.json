@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt6986606",
+    "title": "Joel",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 419,
+    "occurrences": [
+      [
+        1,
+        "00:04:10.733000",
+        "00:04:16.360000",
+        "Hey Joel, as Detective Reese was saying I'm detective Moretti. Nice to officially meet you."
+      ],
+      [
+        11,
+        "00:05:03.853000",
+        "00:05:07.901000",
+        "Joel, about what we found in the back of your truck."
+      ],
+      [
+        19,
+        "00:05:39.300000",
+        "00:05:43.580000",
+        "Joel, I get the feeling this isn't the first time that things haven't gone well."
+      ],
+      [
+        30,
+        "00:06:16.880000",
+        "00:06:18.638000",
+        "Where are you from Joel?"
+      ]
+    ],
+    "regex": "\\b((?!\\bJoel:)Joel)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [
+      "Joel Rifkin"
+    ],
+    "title_is_name": true,
+    "rating": 4.2
+  }
+]

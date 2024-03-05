@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0110364",
+    "title": "Little Giants",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Sport"
+    ],
+    "count": 5,
+    "all_lines": 1298,
+    "occurrences": [
+      [
+        446,
+        "00:35:14.695000",
+        "00:35:19.860000",
+        "Big round of applause for the Little Giants."
+      ],
+      [
+        813,
+        "01:00:39.043000",
+        "01:00:44.037000",
+        "...because tomorrow, we're gonna crush the Little Giants into smithereens."
+      ],
+      [
+        961,
+        "01:12:55.045000",
+        "01:12:57.138000",
+        "... against Danny's Little Giants."
+      ],
+      [
+        962,
+        "01:12:57.314000",
+        "01:12:58.906000",
+        "Little Giants, nice touch."
+      ],
+      [
+        1284,
+        "01:40:13.715000",
+        "01:40:17.583000",
+        "No. They're wondering if your team wants to join the Little Giants."
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Giants:)Little\\ Giants)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

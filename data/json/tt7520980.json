@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7520980",
+    "title": "Worth",
+    "year": 2018,
+    "genres": [
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1548,
+    "occurrences": [
+      [
+        278,
+        "00:13:04.484000",
+        "00:13:07.420000",
+        "it's all been worth it, you know?"
+      ],
+      [
+        281,
+        "00:13:13.994000",
+        "00:13:16.096000",
+        "- Ah, my bad. - It's all worth it."
+      ]
+    ],
+    "regex": "\\b((?!\\bWorth:)Worth)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

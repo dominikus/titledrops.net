@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt4271730",
+    "title": "Alone",
+    "year": 2015,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1137,
+    "occurrences": [
+      [
+        209,
+        "00:27:24.816000",
+        "00:27:26.555000",
+        "Dealing with my problems alone."
+      ],
+      [
+        375,
+        "00:43:14.084000",
+        "00:43:15.995000",
+        "..and left you alone."
+      ],
+      [
+        901,
+        "01:41:14.180000",
+        "01:41:17.979000",
+        "And she wont leave you alone until you dont speak the truth."
+      ]
+    ],
+    "regex": "\\b((?!\\bAlone:)Alone)(?!\\:)(?!'t)\\b",
+    "runtime": 133,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

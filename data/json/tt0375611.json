@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0375611",
+    "title": "Black",
+    "year": 2005,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 597,
+    "occurrences": [
+      [
+        65,
+        "00:07:47.667000",
+        "00:07:49.635000",
+        "\"when my life entered a black vaccuum\""
+      ],
+      [
+        404,
+        "00:36:12.370000",
+        "00:36:15.498000",
+        "Black, black, black."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack:)Black)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

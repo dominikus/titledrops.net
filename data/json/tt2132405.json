@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2132405",
+    "title": "Spellbound",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1329,
+    "occurrences": [
+      [
+        25,
+        "00:03:24.477000",
+        "00:03:26.650000",
+        "(Spellbound)"
+      ],
+      [
+        26,
+        "00:03:28.432000",
+        "00:03:33.037000",
+        "(Spellbound)"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpellbound:)Spellbound)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

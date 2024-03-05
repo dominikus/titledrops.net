@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0085276",
+    "title": "Breathless",
+    "year": 1983,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1489,
+    "occurrences": [
+      [
+        280,
+        "00:17:20.915000",
+        "00:17:22.915000",
+        "Breathless."
+      ],
+      [
+        1453,
+        "01:37:41.439000",
+        "01:37:43.439000",
+        "- Breathless!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBreathless:)Breathless)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

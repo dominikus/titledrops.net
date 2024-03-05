@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt19719862",
+    "title": "The Worst Ones",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1294,
+    "occurrences": [
+      [
+        48,
+        "00:04:00.708000",
+        "00:04:03.333000",
+        "Sounds like you're only taking the worst ones."
+      ],
+      [
+        49,
+        "00:04:05",
+        "00:04:06.625000",
+        "What do you mean, \"the worst ones\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWorst\\ Ones:)Worst\\ Ones)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

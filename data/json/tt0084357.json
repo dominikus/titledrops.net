@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0084357",
+    "title": "The Living Dead Girl",
+    "year": 1982,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 321,
+    "occurrences": [
+      [
+        0,
+        "00:00:16.767000",
+        "00:00:21.477000",
+        "The Living Dead Girl."
+      ],
+      [
+        245,
+        "01:05:15.087000",
+        "01:05:17.920000",
+        "To turn me into a living dead girl."
+      ]
+    ],
+    "regex": "\\b((?!\\bLiving\\ Dead\\ Girl:)Living\\ Dead\\ Girl)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

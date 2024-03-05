@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2905856",
+    "title": "Black Panther",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 233,
+    "occurrences": [
+      [
+        0,
+        "00:00:00",
+        "00:00:05.710000",
+        "Black Panther"
+      ],
+      [
+        22,
+        "00:08:49.880000",
+        "00:08:51.990000",
+        "Danger in the alps: Black panther has appeared."
+      ],
+      [
+        64,
+        "00:14:07.640000",
+        "00:14:09.350000",
+        "Someone saw a black panther."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Panther:)Black\\ Panther)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

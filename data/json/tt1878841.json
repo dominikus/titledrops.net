@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1878841",
+    "title": "The Darkness",
+    "year": 2016,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 803,
+    "occurrences": [
+      [
+        611,
+        "01:01:34.024000",
+        "01:01:37.192000",
+        "This event was known as \"the darkness\""
+      ],
+      [
+        621,
+        "01:02:04.822000",
+        "01:02:08.023000",
+        "Leading to the darkness descending once more."
+      ],
+      [
+        731,
+        "01:13:54.230000",
+        "01:13:57.031000",
+        "They bring out the darkness within people,"
+      ]
+    ],
+    "regex": "\\b((?!\\bDarkness:)Darkness)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

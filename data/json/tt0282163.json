@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0282163",
+    "title": "Shredder",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 988,
+    "occurrences": [
+      [
+        521,
+        "00:43:14.959000",
+        "00:43:17.154000",
+        "Just boarder or shredder."
+      ],
+      [
+        522,
+        "00:43:17.227000",
+        "00:43:18.387000",
+        "Shredder's good."
+      ],
+      [
+        980,
+        "01:20:11.940000",
+        "01:20:13.999000",
+        "Who's the shredder now, huh?"
+      ]
+    ],
+    "regex": "\\b((?!\\bShredder:)Shredder)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

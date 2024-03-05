@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1043876",
+    "title": "Woodstock Villa",
+    "year": 2008,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 893,
+    "occurrences": [
+      [
+        363,
+        "00:32:53.905000",
+        "00:32:57.136000",
+        "Which place is this? - Woodstock villa."
+      ],
+      [
+        784,
+        "01:20:22.417000",
+        "01:20:24.715000",
+        "He has called us to Woodstock Villa with the money."
+      ]
+    ],
+    "regex": "\\b((?!\\bWoodstock\\ Villa:)Woodstock\\ Villa)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

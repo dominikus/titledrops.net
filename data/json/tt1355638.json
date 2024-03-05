@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1355638",
+    "title": "The Rabbi's Cat",
+    "year": 2011,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1280,
+    "occurrences": [
+      [
+        9,
+        "00:03:43.274000",
+        "00:03:47.202000",
+        "And in the port of Algiers, in the casbah, they call me: the rabbi's cat."
+      ],
+      [
+        651,
+        "00:42:53.988000",
+        "00:42:55.668000",
+        "(Luxury car Delage.) (Comic books The Rabbi's Cat Book 5. Africa's Jerusalem)"
+      ]
+    ],
+    "regex": "\\b((?!\\bRabbi's\\ Cat:)Rabbi's\\ Cat)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

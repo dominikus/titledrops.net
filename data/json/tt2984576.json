@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt2984576",
+    "title": "Death House",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Crime",
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 921,
+    "occurrences": [
+      [
+        64,
+        "00:08:14.908000",
+        "00:08:15.919000",
+        "Welcome to Death House."
+      ],
+      [
+        162,
+        "00:15:24.785000",
+        "00:15:27.523000",
+        "K.O Complex East, Death House."
+      ],
+      [
+        164,
+        "00:15:29.342000",
+        "00:15:32.355000",
+        "The Death House, established in 1954,"
+      ],
+      [
+        307,
+        "00:25:34.705000",
+        "00:25:37.615000",
+        "K.O complex, East, Death House."
+      ],
+      [
+        337,
+        "00:27:17.049000",
+        "00:27:19.914000",
+        "Did Sieg ever mention Death House to you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDeath\\ House:)Death\\ House)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3
+  }
+]

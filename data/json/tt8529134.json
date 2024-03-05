@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt8529134",
+    "title": "Ham on Rye",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 425,
+    "occurrences": [
+      [
+        2,
+        "00:02:00.380000",
+        "00:02:05.972000",
+        "Ham on Rye"
+      ],
+      [
+        260,
+        "00:28:46.870000",
+        "00:28:48.500000",
+        "-Ham on rye -Just a reuben"
+      ]
+    ],
+    "regex": "\\b((?!\\bHam\\ on\\ Rye:)Ham\\ on\\ Rye)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

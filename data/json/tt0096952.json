@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0096952",
+    "title": "Bloodfist",
+    "year": 1989,
+    "genres": [
+      "Action",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 950,
+    "occurrences": [
+      [
+        186,
+        "00:17:42.061000",
+        "00:17:44.097000",
+        "- Fighters for the Bloodfist."
+      ],
+      [
+        187,
+        "00:17:44.097000",
+        "00:17:45.892000",
+        "Bloodfist is a boxing club."
+      ]
+    ],
+    "regex": "\\b((?!\\bBloodfist:)Bloodfist)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

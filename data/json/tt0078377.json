@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0078377",
+    "title": "The Witness",
+    "year": 1978,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 1463,
+    "occurrences": [
+      [
+        691,
+        "00:42:40.921000",
+        "00:42:43.296000",
+        "-You don't have a witness? -What is it ?"
+      ],
+      [
+        1023,
+        "01:01:54.129000",
+        "01:01:57.796000",
+        "-Oh, what courage! Are you the witness?"
+      ],
+      [
+        1024,
+        "01:01:57.962000",
+        "01:02:00.587000",
+        "-You see, we recognize you. -The witness."
+      ],
+      [
+        1025,
+        "01:02:00.754000",
+        "01:02:03.171000",
+        "-The witness ? -Yes, yes, the witness."
+      ],
+      [
+        1164,
+        "01:11:28.712000",
+        "01:11:31.212000",
+        "because I am the witness, Robert?"
+      ],
+      [
+        1408,
+        "01:27:34.421000",
+        "01:27:37.671000",
+        "Think. The only witness, It's Mr. Maurisson."
+      ]
+    ],
+    "regex": "\\b((?!\\bWitness:)Witness)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

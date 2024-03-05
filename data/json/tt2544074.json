@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt2544074",
+    "title": "Identicals",
+    "year": 2015,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 907,
+    "occurrences": [
+      [
+        216,
+        "00:21:36.952000",
+        "00:21:38.518000",
+        "Let me tell you about identicals."
+      ],
+      [
+        218,
+        "00:21:39.755000",
+        "00:21:41.087000",
+        "Let me tell you about identicals."
+      ],
+      [
+        251,
+        "00:23:28.998000",
+        "00:23:32.035000",
+        "Let me tell you about identicals."
+      ],
+      [
+        257,
+        "00:23:48.084000",
+        "00:23:49.682000",
+        "Identicals."
+      ],
+      [
+        258,
+        "00:23:49.684000",
+        "00:23:52.819000",
+        "Identicals, but who are walking through"
+      ]
+    ],
+    "regex": "\\b((?!\\bIdenticals:)Identicals)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

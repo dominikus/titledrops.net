@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt11289168",
+    "title": "The Ladder",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 1409,
+    "occurrences": [
+      [
+        325,
+        "00:27:57.843000",
+        "00:28:00.846000",
+        "Too and not quite. We both go up the same ladder."
+      ],
+      [
+        480,
+        "00:39:35.039000",
+        "00:39:37.792000",
+        "The first step of the ladder."
+      ],
+      [
+        481,
+        "00:39:39.544000",
+        "00:39:41.504000",
+        "Which ladder?"
+      ],
+      [
+        665,
+        "00:56:11.159000",
+        "00:56:12.661000",
+        "We both climb the same ladder."
+      ]
+    ],
+    "regex": "\\b((?!\\bLadder:)Ladder)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

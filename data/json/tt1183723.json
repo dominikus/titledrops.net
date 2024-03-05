@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1183723",
+    "title": "Angel",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 916,
+    "occurrences": [
+      [
+        60,
+        "00:10:51.920000",
+        "00:10:57.280000",
+        "better known as Angel, at a chapel on the outskirts of Stockholm."
+      ],
+      [
+        63,
+        "00:11:07.520000",
+        "00:11:12.440000",
+        "Angel had chart-topping hits in the UK and in the US,"
+      ],
+      [
+        627,
+        "01:10:05.040000",
+        "01:10:08.360000",
+        "- Angel is back. - No one knows why..."
+      ],
+      [
+        629,
+        "01:10:12.520000",
+        "01:10:17.280000",
+        "Angel returns covered in a sarong, with paparazzi up her ass."
+      ]
+    ],
+    "regex": "\\b((?!\\bAngel:)Angel)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [
+      "Angel"
+    ],
+    "title_is_name": true,
+    "rating": 2.8
+  }
+]

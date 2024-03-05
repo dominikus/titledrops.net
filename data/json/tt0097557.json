@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0097557",
+    "title": "I, Madman",
+    "year": 1989,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 648,
+    "occurrences": [
+      [
+        105,
+        "00:16:32.958000",
+        "00:16:35.927000",
+        "I'm looking for this book called I, Madman."
+      ],
+      [
+        113,
+        "00:17:01.353000",
+        "00:17:05.255000",
+        "He wrote two of them, this one, and one called I, Madman..."
+      ],
+      [
+        116,
+        "00:17:16.902000",
+        "00:17:21.236000",
+        "You sure are spending a lot of time trying to find something called I, Madman."
+      ]
+    ],
+    "regex": "\\b((?!\\bI,\\ Madman:)I,\\ Madman)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

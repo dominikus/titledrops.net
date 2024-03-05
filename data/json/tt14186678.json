@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt14186678",
+    "title": "Turbo Cola",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1586,
+    "occurrences": [
+      [
+        101,
+        "00:05:02.703000",
+        "00:05:04.739000",
+        "You know that Turbo Cola contest?"
+      ],
+      [
+        1080,
+        "01:00:19.320000",
+        "01:00:20.754000",
+        "You should grab a Turbo Cola."
+      ],
+      [
+        1253,
+        "01:10:37.404000",
+        "01:10:39.483000",
+        "- I'll get him a Turbo Cola. - That's a really good idea."
+      ]
+    ],
+    "regex": "\\b((?!\\bTurbo\\ Cola:)Turbo\\ Cola)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

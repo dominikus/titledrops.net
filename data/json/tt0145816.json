@@ -1,0 +1,46 @@
+[
+  {
+    "imdb": "tt0145816",
+    "title": "Hellé",
+    "year": 1972,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 527,
+    "occurrences": [
+      [
+        191,
+        "00:25:30.960000",
+        "00:25:33.428000",
+        "Who, Helle? She's there."
+      ],
+      [
+        192,
+        "00:25:33.440000",
+        "00:25:34.839000",
+        "Ah, yes, Helle."
+      ],
+      [
+        196,
+        "00:25:40.840000",
+        "00:25:44.344000",
+        "She died immediately after the birth of her daughter. - Helle..."
+      ],
+      [
+        460,
+        "01:10:12.480000",
+        "01:10:13.822000",
+        "Tell me, Helle."
+      ]
+    ],
+    "regex": "\\b((?!\\bHelle:)Helle)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [
+      "Hellé"
+    ],
+    "title_is_name": true,
+    "rating": 6.1
+  }
+]

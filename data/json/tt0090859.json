@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0090859",
+    "title": "Cobra",
+    "year": 1986,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 566,
+    "occurrences": [
+      [
+        26,
+        "00:06:34.915000",
+        "00:06:36.428000",
+        "Call the Cobra."
+      ],
+      [
+        392,
+        "00:53:07.675000",
+        "00:53:11.190000",
+        "You're going to have to ask Cobra. He's the expert on this."
+      ]
+    ],
+    "regex": "\\b((?!\\bCobra:)Cobra)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

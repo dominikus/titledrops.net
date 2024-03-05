@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt4589218",
+    "title": "Five Nights at Freddy's",
+    "year": 2023,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1682,
+    "occurrences": [
+      [
+        1618,
+        "01:44:19.175000",
+        "01:44:22.637000",
+        "(\"Five Nights at Freddy's\" by The Living Tombstone playing)"
+      ],
+      [
+        1642,
+        "01:45:21.946000",
+        "01:45:27.326000",
+        "Five nights at Freddy's"
+      ],
+      [
+        1660,
+        "01:46:16.751000",
+        "01:46:20.921000",
+        "After all, you only got five nights at Freddy's"
+      ],
+      [
+        1664,
+        "01:46:27.387000",
+        "01:46:30.514000",
+        "Five nights at Freddy's"
+      ],
+      [
+        1668,
+        "01:46:36.604000",
+        "01:46:42.026000",
+        "Five nights at Freddy's"
+      ]
+    ],
+    "regex": "\\b((?!\\bFive\\ Nights\\ at\\ Freddy's:)Five\\ Nights\\ at\\ Freddy's)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

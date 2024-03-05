@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6388074",
+    "title": "Viper Club",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1629,
+    "occurrences": [
+      [
+        121,
+        "00:08:15.160000",
+        "00:08:17.060000",
+        "It's called the Viper Club."
+      ],
+      [
+        123,
+        "00:08:18.664000",
+        "00:08:19.974000",
+        "{\\an1}\"The Viper Club\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bViper\\ Club:)Viper\\ Club)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0483068",
+    "title": "Chasing the Sun",
+    "year": 2004,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 721,
+    "occurrences": [
+      [
+        151,
+        "00:12:32.840000",
+        "00:12:34.760000",
+        "\"Chasing The Sun\"."
+      ],
+      [
+        441,
+        "00:32:57.880000",
+        "00:33:02.200000",
+        "We all called it \"chasing the sun\"."
+      ]
+    ],
+    "regex": "\\b((?!\\bChasing\\ the\\ Sun:)Chasing\\ the\\ Sun)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

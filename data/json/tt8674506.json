@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt8674506",
+    "title": "There Are No Fakes",
+    "year": 2019,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1444,
+    "occurrences": [
+      [
+        719,
+        "00:57:09.469000",
+        "00:57:13.995000",
+        "And there are no fakes out there. And all this stuff is a bunch of nonsense."
+      ],
+      [
+        1419,
+        "01:50:22.964000",
+        "01:50:27.359000",
+        "There's a lot of people that are saying that there are no fakes out there,"
+      ]
+    ],
+    "regex": "\\b((?!\\bThere\\ Are\\ No\\ Fakes:)There\\ Are\\ No\\ Fakes)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

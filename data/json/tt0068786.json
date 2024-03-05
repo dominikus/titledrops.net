@@ -1,0 +1,40 @@
+[
+  {
+    "imdb": "tt0068786",
+    "title": "Junior Bonner",
+    "year": 1972,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 1175,
+    "occurrences": [
+      [
+        465,
+        "00:41:19.276000",
+        "00:41:21.335000",
+        "you look like you might've seen Junior Bonner."
+      ],
+      [
+        678,
+        "00:57:51.935000",
+        "00:57:55.302000",
+        "Well, if it isn't Junior Bonner."
+      ],
+      [
+        679,
+        "00:57:55.338000",
+        "00:57:57.568000",
+        "Hey, folks, this is Junior Bonner."
+      ]
+    ],
+    "regex": "\\b((?!\\bJunior\\ Bonner:)Junior\\ Bonner)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [
+      "Junior Bonner"
+    ],
+    "title_is_name": true,
+    "rating": 6.7
+  }
+]

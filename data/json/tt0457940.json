@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0457940",
+    "title": "Home Delivery: Aapko... Ghar Tak",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1829,
+    "occurrences": [
+      [
+        1772,
+        "02:18:25.280000",
+        "02:18:26.719000",
+        "You are the home delivery person, right?"
+      ],
+      [
+        1774,
+        "02:18:28.840000",
+        "02:18:30.480000",
+        "This is Mr. Home Delivery."
+      ]
+    ],
+    "regex": "\\b((?!\\bHome\\ Delivery:)Home\\ Delivery|(?!\\bAapko\\.\\.\\.\\ Ghar\\ Tak:)Aapko\\.\\.\\.\\ Ghar\\ Tak)(?!\\:)(?!'t)\\b",
+    "runtime": 151,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.4
+  }
+]

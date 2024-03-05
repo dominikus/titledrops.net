@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0037614",
+    "title": "The Corn Is Green",
+    "year": 1945,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1471,
+    "occurrences": [
+      [
+        375,
+        "00:28:55.707000",
+        "00:29:00.133000",
+        "and underneath where the corn is green."
+      ],
+      [
+        456,
+        "00:33:37.825000",
+        "00:33:40.734000",
+        "where the corn is green."
+      ]
+    ],
+    "regex": "\\b((?!\\bCorn\\ Is\\ Green:)Corn\\ Is\\ Green)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

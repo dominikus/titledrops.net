@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt5361596",
+    "title": "The Incantation",
+    "year": 2018,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1334,
+    "occurrences": [
+      [
+        923,
+        "01:03:41.165000",
+        "01:03:43.036000",
+        "an incantation."
+      ],
+      [
+        1187,
+        "01:22:29.031000",
+        "01:22:31.294000",
+        "[voices whispering incantation in Latin]"
+      ],
+      [
+        1215,
+        "01:25:17.199000",
+        "01:25:19.288000",
+        "[whispered incantation continuing]"
+      ],
+      [
+        1243,
+        "01:27:56.793000",
+        "01:27:59.186000",
+        "[whispered incantation continuing]"
+      ]
+    ],
+    "regex": "\\b((?!\\bIncantation:)Incantation)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

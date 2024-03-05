@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt14783444",
+    "title": "Everything Is Both",
+    "year": 2023,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1234,
+    "occurrences": [
+      [
+        7,
+        "00:01:24.209000",
+        "00:01:27.713000",
+        "What I came to find out is everything is both."
+      ],
+      [
+        9,
+        "00:01:34.928000",
+        "00:01:36.096000",
+        "Everything is both."
+      ],
+      [
+        1029,
+        "01:03:17.877000",
+        "01:03:21.131000",
+        "- 'Cause everything is both."
+      ],
+      [
+        1030,
+        "01:03:21.214000",
+        "01:03:24.592000",
+        "- Mm-hmm, 'cause everything is both."
+      ],
+      [
+        1233,
+        "01:19:21.173000",
+        "01:19:22.007000",
+        "Everything is both."
+      ]
+    ],
+    "regex": "\\b((?!\\bEverything\\ Is\\ Both:)Everything\\ Is\\ Both)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

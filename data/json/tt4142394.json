@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt4142394",
+    "title": "The Tracker",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 793,
+    "occurrences": [
+      [
+        11,
+        "00:02:58.047000",
+        "00:03:00.876000",
+        "between being a hunter and being a tracker."
+      ],
+      [
+        13,
+        "00:03:15.630000",
+        "00:03:17.545000",
+        "The tracker understands it."
+      ],
+      [
+        19,
+        "00:03:37.260000",
+        "00:03:39.219000",
+        "A tracker preserves history."
+      ],
+      [
+        791,
+        "01:22:13.929000",
+        "01:22:18.498000",
+        "And I knew the tracker, the hunter and its prey..."
+      ]
+    ],
+    "regex": "\\b((?!\\bTracker:)Tracker)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2086938",
+    "title": "The War of 1812",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 2386,
+    "occurrences": [
+      [
+        817,
+        "00:40:15.279000",
+        "00:40:16.880000",
+        "narrator: BUT IN THIS WAR OF SURPRISES,"
+      ],
+      [
+        2294,
+        "01:48:37.978000",
+        "01:48:39.979000",
+        "THAT'S HOW YOU END THE GREAT WAR OF 1812 STORY."
+      ]
+    ],
+    "regex": "\\b((?!\\bWar\\ of:)War\\ of)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1606595",
+    "title": "Tomorrow's Joe",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 801,
+    "occurrences": [
+      [
+        0,
+        "00:00:01",
+        "00:00:03.440000",
+        "\"Ashita no Joe\" (Tomorrow's Joe) released Aug 2011"
+      ],
+      [
+        1,
+        "00:01:52.090000",
+        "00:01:58.260000",
+        "\"Ashita no Joe\" (Tomorrow's Joe)"
+      ]
+    ],
+    "regex": "\\b((?!\\bTomorrow's\\ Joe:)Tomorrow's\\ Joe)(?!\\:)(?!'t)\\b",
+    "runtime": 131,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

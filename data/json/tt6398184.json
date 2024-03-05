@@ -1,0 +1,74 @@
+[
+  {
+    "imdb": "tt6398184",
+    "title": "Downton Abbey",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 9,
+    "all_lines": 2502,
+    "occurrences": [
+      [
+        111,
+        "00:08:40.747000",
+        "00:08:43.079000",
+        "I didn't realize we would be staying at Downton Abbey."
+      ],
+      [
+        265,
+        "00:15:04.481000",
+        "00:15:07.344000",
+        "will be staying at Downton Abbey during their tour of Yorkshire."
+      ],
+      [
+        295,
+        "00:16:29.281000",
+        "00:16:30.979000",
+        "Welcome to Downton Abbey."
+      ],
+      [
+        1003,
+        "00:45:16.379000",
+        "00:45:18.244000",
+        "welcome to Downton Abbey."
+      ],
+      [
+        1282,
+        "00:59:30.061000",
+        "00:59:32.625000",
+        "for the king and queen at Downton Abbey."
+      ],
+      [
+        1719,
+        "01:19:20.961000",
+        "01:19:23.492000",
+        "In fact, it is the Downton Abbey staff"
+      ],
+      [
+        1968,
+        "01:31:16.793000",
+        "01:31:19.591000",
+        "Downton Abbey is the heart of this community,"
+      ],
+      [
+        2278,
+        "01:45:49.525000",
+        "01:45:53.724000",
+        "I wish we had spoken more while we were at Downton Abbey."
+      ],
+      [
+        2395,
+        "01:51:13.992000",
+        "01:51:17.693000",
+        "but Downton Abbey will be part of them."
+      ]
+    ],
+    "regex": "\\b((?!\\bDownton\\ Abbey:)Downton\\ Abbey)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

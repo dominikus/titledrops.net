@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5280684",
+    "title": "The Ice Cream Truck",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 799,
+    "occurrences": [
+      [
+        75,
+        "00:09:23.430000",
+        "00:09:25.564000",
+        "- Did you know that we had an ice cream truck?"
+      ],
+      [
+        538,
+        "00:47:26.310000",
+        "00:47:29.579000",
+        "the ice cream truck being one of them."
+      ]
+    ],
+    "regex": "\\b((?!\\bIce\\ Cream\\ Truck:)Ice\\ Cream\\ Truck)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

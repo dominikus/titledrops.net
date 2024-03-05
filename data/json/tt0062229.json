@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0062229",
+    "title": "The Samurai",
+    "year": 1967,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 565,
+    "occurrences": [
+      [
+        17,
+        "00:02:11.965000",
+        "00:02:16.720000",
+        "\"There is no greater solitude than that of the samurai,"
+      ],
+      [
+        20,
+        "00:02:24.978000",
+        "00:02:27.481000",
+        "Bushido (Book of the Samurai)"
+      ]
+    ],
+    "regex": "\\b((?!\\bSamurai:)Samurai)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

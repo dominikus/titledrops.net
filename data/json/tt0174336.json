@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0174336",
+    "title": "Whipped",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1350,
+    "occurrences": [
+      [
+        875,
+        "00:51:59.725000",
+        "00:52:03.163000",
+        "Oh, man, she's got you all whipped!"
+      ],
+      [
+        877,
+        "00:52:08.516000",
+        "00:52:12.085000",
+        "-Excuse me. -Yeah, who's whipped?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWhipped:)Whipped)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

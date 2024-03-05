@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt1846783",
+    "title": "The Orator",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 905,
+    "occurrences": [
+      [
+        0,
+        "00:00:15.360000",
+        "00:00:19.433000",
+        "The Orator"
+      ],
+      [
+        462,
+        "00:43:18.520000",
+        "00:43:20.591000",
+        "Avoids being an Orator?"
+      ],
+      [
+        638,
+        "01:16:17.600000",
+        "01:16:18.999000",
+        "Who is their Orator?"
+      ],
+      [
+        709,
+        "01:21:49.320000",
+        "01:21:51.596000",
+        "Who was afraid to be an Orator?"
+      ],
+      [
+        711,
+        "01:22:05.880000",
+        "01:22:09.396000",
+        "I know of this really handsome Orator..."
+      ]
+    ],
+    "regex": "\\b((?!\\bOrator:)Orator)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

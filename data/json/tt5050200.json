@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt5050200",
+    "title": "Beyond Valkyrie: Dawn of the 4th Reich",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "History",
+      "War"
+    ],
+    "count": 1,
+    "all_lines": 1060,
+    "occurrences": [
+      [
+        88,
+        "00:08:56.169000",
+        "00:08:58.826000",
+        "that extends beyond Valkyrie."
+      ]
+    ],
+    "regex": "\\b((?!\\bBeyond\\ Valkyrie:)Beyond\\ Valkyrie|(?!\\bDawn\\ of\\ the\\ 4th\\ Reich:)Dawn\\ of\\ the\\ 4th\\ Reich)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

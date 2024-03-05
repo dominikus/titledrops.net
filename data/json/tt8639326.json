@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt8639326",
+    "title": "Roe v. Wade",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 5,
+    "all_lines": 2182,
+    "occurrences": [
+      [
+        104,
+        "00:05:53.220000",
+        "00:05:54.322000",
+        "of Roe v. Wade."
+      ],
+      [
+        820,
+        "00:40:36.304000",
+        "00:40:38.773000",
+        "Roe v. Wade, in the grand scheme of things,"
+      ],
+      [
+        1174,
+        "00:57:42.096000",
+        "00:57:44.132000",
+        " In the matter of Roe v. Wade,"
+      ],
+      [
+        1220,
+        "00:59:13.621000",
+        "00:59:16.357000",
+        "to reargue Roe v. Wade."
+      ],
+      [
+        1230,
+        "00:59:49.991000",
+        "00:59:54.962000",
+        "as to why he thought Roe v. Wade should not be reheard."
+      ]
+    ],
+    "regex": "\\b((?!\\bRoe\\ v\\.\\ Wade:)Roe\\ v\\.\\ Wade)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

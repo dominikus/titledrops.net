@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt9178190",
+    "title": "Maysville",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1869,
+    "occurrences": [
+      [
+        954,
+        "00:55:42.749000",
+        "00:55:47.450000",
+        "- You from Maysville or you here in Charlotte, Jackson?"
+      ],
+      [
+        1024,
+        "00:59:07.031000",
+        "00:59:08.787000",
+        "Welcome to Maysville."
+      ],
+      [
+        1692,
+        "01:38:27.157000",
+        "01:38:30.487000",
+        "Now get the hell out of Maysville before we run you out."
+      ]
+    ],
+    "regex": "\\b((?!\\bMaysville:)Maysville)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

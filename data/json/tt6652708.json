@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt6652708",
+    "title": "God's Not Dead: A Light in Darkness",
+    "year": 2018,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1475,
+    "occurrences": [
+      [
+        1457,
+        "01:44:39.488000",
+        "01:44:41.853000",
+        "Since the very first God's Not Dead movie,"
+      ],
+      [
+        1464,
+        "01:44:59.854000",
+        "01:45:03.585000",
+        "It's our chance to be a light in darkness."
+      ],
+      [
+        1470,
+        "01:45:15.387000",
+        "01:45:18.119000",
+        "and by downloading the \"God's Not Dead\" app."
+      ]
+    ],
+    "regex": "\\b((?!\\bGod's\\ Not\\ Dead:)God's\\ Not\\ Dead|(?!\\bLight\\ in\\ Darkness:)Light\\ in\\ Darkness)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

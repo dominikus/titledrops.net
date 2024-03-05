@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt12678146",
+    "title": "The Passenger",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 911,
+    "occurrences": [
+      [
+        147,
+        "00:12:43.333000",
+        "00:12:46.916000",
+        "To avoid getting a virus infection from a troublesome passenger."
+      ],
+      [
+        148,
+        "00:12:48.208000",
+        "00:12:49.916000",
+        "A female passenger, in this case."
+      ],
+      [
+        696,
+        "00:56:11.583000",
+        "00:56:14.042000",
+        "The fifth passenger has caused such a mess, Nessa."
+      ]
+    ],
+    "regex": "\\b((?!\\bPassenger:)Passenger)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

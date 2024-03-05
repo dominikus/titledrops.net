@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1234240",
+    "title": "Antarctica",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1159,
+    "occurrences": [
+      [
+        179,
+        "00:24:18.896000",
+        "00:24:20.518000",
+        "$ 2,499 exotic trip to Antarctica"
+      ],
+      [
+        495,
+        "00:50:33.520000",
+        "00:50:37",
+        "- Will you come with me to Antarctica? - Antarctica?"
+      ],
+      [
+        496,
+        "00:50:37.035000",
+        "00:50:39.990000",
+        "- Yes - What to do in Antarctica?"
+      ],
+      [
+        498,
+        "00:50:42.120000",
+        "00:50:44.480000",
+        "and come with me to Antarctica?"
+      ]
+    ],
+    "regex": "\\b((?!\\bAntarctica:)Antarctica)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

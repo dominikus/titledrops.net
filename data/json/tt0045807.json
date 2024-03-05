@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0045807",
+    "title": "Jealousy",
+    "year": 1953,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 873,
+    "occurrences": [
+      [
+        206,
+        "00:18:29.600000",
+        "00:18:33.036000",
+        "It was as if I were mad! I went mad with jealousy!"
+      ],
+      [
+        509,
+        "00:46:40.560000",
+        "00:46:43.711000",
+        "And the suspicion, the jealousy, rose in me suddenly."
+      ]
+    ],
+    "regex": "\\b((?!\\bJealousy:)Jealousy)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt0068014",
+    "title": "Zeppelin",
+    "year": 1971,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "count": 6,
+    "all_lines": 731,
+    "occurrences": [
+      [
+        7,
+        "00:04:25.400000",
+        "00:04:26.800000",
+        "Zeppelin! I've seen it."
+      ],
+      [
+        124,
+        "00:15:43.400000",
+        "00:15:48.600000",
+        "You've met Professor Altschul and Count Zeppelin socially."
+      ],
+      [
+        624,
+        "01:16:54.600000",
+        "01:16:59.200000",
+        "He claims he sailed from Norway in a Zeppelin!"
+      ],
+      [
+        646,
+        "01:21:21.400000",
+        "01:21:26.400000",
+        "They won't go on if the Zeppelin's on fire."
+      ],
+      [
+        658,
+        "01:23:08.400000",
+        "01:23:11.400000",
+        "Come on! Back to the Zeppelin!"
+      ],
+      [
+        659,
+        "01:23:11.400000",
+        "01:23:14.400000",
+        "We must save the Zeppelin!"
+      ]
+    ],
+    "regex": "\\b((?!\\bZeppelin:)Zeppelin)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

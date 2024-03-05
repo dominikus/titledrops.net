@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt3848892",
+    "title": "Baby",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1626,
+    "occurrences": [
+      [
+        27,
+        "00:04:11.376000",
+        "00:04:15.334000",
+        "'...we called our Black-Op unit \"Baby\"."
+      ],
+      [
+        28,
+        "00:04:15.709000",
+        "00:04:18.292000",
+        "'In the next 4 years, \"Baby\" built deep assets..."
+      ],
+      [
+        36,
+        "00:04:41.667000",
+        "00:04:44.084000",
+        "'This story is about Baby's last mission.'"
+      ],
+      [
+        1576,
+        "02:34:17.501000",
+        "02:34:20.417000",
+        "Baby... which was just on a 5 year trial run..."
+      ],
+      [
+        1581,
+        "02:34:31.709000",
+        "02:34:33.876000",
+        "But we love the name... Baby!"
+      ]
+    ],
+    "regex": "\\b((?!\\bBaby:)Baby)(?!\\:)(?!'t)\\b",
+    "runtime": 159,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

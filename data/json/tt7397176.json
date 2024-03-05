@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt7397176",
+    "title": "Krudttønden",
+    "year": 2020,
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 1204,
+    "occurrences": [
+      [
+        1053,
+        "01:25:10.008000",
+        "01:25:13.800000",
+        "Did he attend a meeting at Krudttonden in Osterbro today?"
+      ],
+      [
+        1083,
+        "01:27:59.175000",
+        "01:28:02.383000",
+        "Krudttonden in Osterbro"
+      ],
+      [
+        1141,
+        "01:33:13.758000",
+        "01:33:17.633000",
+        "Taxi driver drove him to Osterbro after Krudttonden."
+      ]
+    ],
+    "regex": "\\b((?!\\bKrudttonden:)Krudttonden)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0064490",
+    "title": "Invasion",
+    "year": 1969,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 471,
+    "occurrences": [
+      [
+        1,
+        "00:05:13.614000",
+        "00:05:16.481000",
+        "eight reels of the original negatives from Invasion, shot in 1969,"
+      ],
+      [
+        17,
+        "00:09:55.796000",
+        "00:09:58.788000",
+        "invasion"
+      ]
+    ],
+    "regex": "\\b((?!\\bInvasion:)Invasion)(?!\\:)(?!'t)\\b",
+    "runtime": 126,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

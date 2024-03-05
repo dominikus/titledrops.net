@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0212797",
+    "title": "The Bankers of God: The Calvi Affair",
+    "year": 2002,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1682,
+    "occurrences": [
+      [
+        2,
+        "00:00:25.592000",
+        "00:00:28.896000",
+        "BANKERS OF GOD"
+      ],
+      [
+        61,
+        "00:03:49.663000",
+        "00:03:54.067000",
+        "BANKERS OF GOD"
+      ]
+    ],
+    "regex": "\\b((?!\\bBankers\\ of\\ God:)Bankers\\ of\\ God|(?!\\bCalvi\\ Affair:)Calvi\\ Affair)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

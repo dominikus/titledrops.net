@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0052169",
+    "title": "The Screaming Skull",
+    "year": 1958,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 769,
+    "occurrences": [
+      [
+        0,
+        "00:00:50.676000",
+        "00:00:52.836000",
+        "The screaming skull is a motion picture"
+      ],
+      [
+        8,
+        "00:01:12.114000",
+        "00:01:15.084000",
+        "while seeing the screaming skull."
+      ]
+    ],
+    "regex": "\\b((?!\\bScreaming\\ Skull:)Screaming\\ Skull)(?!\\:)(?!'t)\\b",
+    "runtime": 68,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

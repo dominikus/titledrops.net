@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0756672",
+    "title": "The Killing Floor",
+    "year": 2007,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1237,
+    "occurrences": [
+      [
+        538,
+        "00:35:49.636000",
+        "00:35:53.242000",
+        "Entering the residence, we come upon the killing floor."
+      ],
+      [
+        574,
+        "00:37:41.313000",
+        "00:37:42.840000",
+        "The killing floor."
+      ],
+      [
+        1176,
+        "01:29:40.989000",
+        "01:29:43.454000",
+        "right onto the killing floor."
+      ]
+    ],
+    "regex": "\\b((?!\\bKilling\\ Floor:)Killing\\ Floor)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

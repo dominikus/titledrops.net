@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt1286165",
+    "title": "The Market: A Tale of Trade",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 685,
+    "occurrences": [
+      [
+        45,
+        "00:04:47.640000",
+        "00:04:51.155000",
+        "THE MARKET - A TALE OF TRADE"
+      ],
+      [
+        107,
+        "00:13:38",
+        "00:13:43.791000",
+        "That was okay once, but the market's changing. The little fish just get eaten."
+      ],
+      [
+        222,
+        "00:24:24.080000",
+        "00:24:27.356000",
+        "Someone has to regulate the black market."
+      ],
+      [
+        322,
+        "00:37:14.680000",
+        "00:37:16.716000",
+        "Occupation? - Market trader."
+      ],
+      [
+        616,
+        "01:11:05.720000",
+        "01:11:07.870000",
+        "It's a seller's market."
+      ],
+      [
+        684,
+        "01:25:30.720000",
+        "01:25:35.510000",
+        "THE MARKET"
+      ]
+    ],
+    "regex": "\\b((?!\\bMarket:)Market|(?!\\bTale\\ of\\ Trade:)Tale\\ of\\ Trade)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

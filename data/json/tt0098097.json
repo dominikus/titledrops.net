@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0098097",
+    "title": "Pink Cadillac",
+    "year": 1989,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1137,
+    "occurrences": [
+      [
+        177,
+        "00:15:47.453000",
+        "00:15:50.411000",
+        "Every boy's dream. A pink Cadillac."
+      ],
+      [
+        283,
+        "00:29:02.773000",
+        "00:29:05.207000",
+        "You seen a blonde in a pink Cadillac?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPink\\ Cadillac:)Pink\\ Cadillac)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

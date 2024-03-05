@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3074758",
+    "title": "Fantail",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 932,
+    "occurrences": [
+      [
+        4,
+        "00:01:03.925000",
+        "00:01:08.362000",
+        "Pi. Piwakawaka, the fantail."
+      ],
+      [
+        931,
+        "01:13:54.858000",
+        "01:13:58.030000",
+        "The cheeky little fantail ruined everything."
+      ]
+    ],
+    "regex": "\\b((?!\\bFantail:)Fantail)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

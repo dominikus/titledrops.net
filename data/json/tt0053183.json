@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0053183",
+    "title": "Pork Chop Hill",
+    "year": 1959,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 853,
+    "occurrences": [
+      [
+        628,
+        "01:07:12.560000",
+        "01:07:14.949000",
+        "in sharp fighting for Pork Chop Hill."
+      ],
+      [
+        845,
+        "01:33:05.080000",
+        "01:33:07.275000",
+        "Pork Chop Hill was held,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPork\\ Chop\\ Hill:)Pork\\ Chop\\ Hill)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

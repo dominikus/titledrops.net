@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt8884906",
+    "title": "Monday",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1737,
+    "occurrences": [
+      [
+        1368,
+        "01:23:03.640000",
+        "01:23:04.800000",
+        "Hector arrives on Monday."
+      ],
+      [
+        1649,
+        "01:40:09.520000",
+        "01:40:11.520000",
+        "Depends on what the judge says on Monday."
+      ],
+      [
+        1651,
+        "01:40:13.160000",
+        "01:40:15.200000",
+        "- We can't do Monday. - Sir, we can't do Monday."
+      ],
+      [
+        1653,
+        "01:40:17.160000",
+        "01:40:19.040000",
+        "We can't stay here until Monday."
+      ],
+      [
+        1655,
+        "01:40:21",
+        "01:40:22.136000",
+        "It doesn't matter but we can't do Monday."
+      ]
+    ],
+    "regex": "\\b((?!\\bMonday:)Monday)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "imdb": "tt0062792",
+    "title": "Charlie Bubbles",
+    "year": 1968,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 864,
+    "occurrences": [
+      [
+        97,
+        "00:06:53.369000",
+        "00:06:56.238000",
+        "Mr. Bigwood, Charlie Bubbles. Charlie's a writer."
+      ],
+      [
+        436,
+        "00:36:57.193000",
+        "00:37:00.548000",
+        "Yes, he has been on television. It's Charlie Bubbles."
+      ]
+    ],
+    "regex": "\\b((?!\\bCharlie\\ Bubbles:)Charlie\\ Bubbles)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [
+      "Charlie Bubbles"
+    ],
+    "title_is_name": true,
+    "rating": 6.3
+  }
+]

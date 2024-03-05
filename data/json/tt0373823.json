@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0373823",
+    "title": "En garde",
+    "year": 2004,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 975,
+    "occurrences": [
+      [
+        145,
+        "00:15:36.479000",
+        "00:15:38.552000",
+        "Left side begins: En Garde!"
+      ],
+      [
+        970,
+        "01:27:20.568000",
+        "01:27:22.192000",
+        "En Garde, and go."
+      ]
+    ],
+    "regex": "\\b((?!\\bEn\\ garde:)En\\ garde)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

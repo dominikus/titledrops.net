@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0049038",
+    "title": "Bus Stop",
+    "year": 1956,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1087,
+    "occurrences": [
+      [
+        837,
+        "01:07:01.101000",
+        "01:07:06.778000",
+        "We're in a bus stop. This here's an official, authorized bus stop!"
+      ],
+      [
+        1026,
+        "01:23:59.661000",
+        "01:24:03.176000",
+        "This bus stop is closed as of now."
+      ]
+    ],
+    "regex": "\\b((?!\\bBus\\ Stop:)Bus\\ Stop)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

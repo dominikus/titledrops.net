@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0065788",
+    "title": "Goin' Down the Road",
+    "year": 1970,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1176,
+    "occurrences": [
+      [
+        4,
+        "00:00:52.699000",
+        "00:00:58.788000",
+        "And I'm goin' down the road, boys"
+      ],
+      [
+        12,
+        "00:01:47.170000",
+        "00:01:52.800000",
+        "So I'm goin' down the road, boys"
+      ]
+    ],
+    "regex": "\\b((?!\\bGoin'\\ Down\\ the\\ Road:)Goin'\\ Down\\ the\\ Road)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

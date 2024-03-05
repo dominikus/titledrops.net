@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1314177",
+    "title": "Damage",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1164,
+    "occurrences": [
+      [
+        268,
+        "00:23:46.350000",
+        "00:23:50.260000",
+        "Do some damage, John. Goddamn, don't say he can't miss."
+      ],
+      [
+        1122,
+        "01:36:07.198000",
+        "01:36:09.359000",
+        "but I'm working on another one. What do you think about \"The Damage\"?"
+      ],
+      [
+        1123,
+        "01:36:10.012000",
+        "01:36:11.194000",
+        "Can we call it \"The Damage\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDamage:)Damage)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

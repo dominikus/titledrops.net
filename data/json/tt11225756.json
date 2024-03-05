@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt11225756",
+    "title": "The Lost Leonardo",
+    "year": 2021,
+    "genres": [
+      "Documentary",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1265,
+    "occurrences": [
+      [
+        157,
+        "00:14:30.829000",
+        "00:14:34.833000",
+        "Here's the lost Leonardo that somebody once mentioned in a book."
+      ],
+      [
+        1004,
+        "01:14:30.554000",
+        "01:14:33.891000",
+        "of a lost Leonardo da Vinci."
+      ]
+    ],
+    "regex": "\\b((?!\\bLost\\ Leonardo:)Lost\\ Leonardo)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

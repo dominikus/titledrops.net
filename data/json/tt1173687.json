@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1173687",
+    "title": "The Bang Bang Club",
+    "year": 2010,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 1364,
+    "occurrences": [
+      [
+        2,
+        "00:00:52.343000",
+        "00:00:55.679000",
+        "We've read a lot about the so called Bang Bang Club."
+      ],
+      [
+        728,
+        "00:56:29.469000",
+        "00:56:30.469000",
+        "The Bang Bang Club?"
+      ],
+      [
+        739,
+        "00:57:03.795000",
+        "00:57:06.422000",
+        "I'm just trying to find out how do I join this Bang Bang Club."
+      ],
+      [
+        756,
+        "00:57:50.675000",
+        "00:57:54.386000",
+        "Yeah, I've been getting phone calls about this fucking Bang Bang Club shit."
+      ]
+    ],
+    "regex": "\\b((?!\\bBang\\ Bang\\ Club:)Bang\\ Bang\\ Club)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

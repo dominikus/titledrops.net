@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt12412888",
+    "title": "Sonic the Hedgehog 2",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 1374,
+    "occurrences": [
+      [
+        312,
+        "00:27:32.542000",
+        "00:27:35.876000",
+        "Only Sonic the Hedgehog could come up with something like that."
+      ],
+      [
+        491,
+        "00:40:21.422000",
+        "00:40:23.832000",
+        "Sonic the Hedgehog prefers bubble baths."
+      ],
+      [
+        598,
+        "00:48:25.259000",
+        "00:48:29.952000",
+        "Wow. Only Sonic the Hedgehog could win a dance battle that epic."
+      ],
+      [
+        1031,
+        "01:26:09.610000",
+        "01:26:13.742000",
+        "Only Sonic the Hedgehog needs rescuing this much."
+      ]
+    ],
+    "regex": "\\b((?!\\bSonic\\ the\\ Hedgehog:)Sonic\\ the\\ Hedgehog)(?!\\:)(?!'t)\\b",
+    "runtime": 122,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0052607",
+    "title": "The Battle of the Sexes",
+    "year": 1960,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1036,
+    "occurrences": [
+      [
+        0,
+        "00:05:14.325000",
+        "00:05:16.919000",
+        "The battle of the sexes."
+      ],
+      [
+        1028,
+        "01:23:59.085000",
+        "01:24:03.363000",
+        "The battle of the sexes and never a ceasefire."
+      ]
+    ],
+    "regex": "\\b((?!\\bBattle\\ of\\ the\\ Sexes:)Battle\\ of\\ the\\ Sexes)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

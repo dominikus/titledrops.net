@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0201840",
+    "title": "The Cup",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Sport"
+    ],
+    "count": 6,
+    "all_lines": 703,
+    "occurrences": [
+      [
+        296,
+        "00:44:43.680000",
+        "00:44:45.600000",
+        "It's the World Cup."
+      ],
+      [
+        426,
+        "00:57:38.560000",
+        "00:57:39.520000",
+        "A cup."
+      ],
+      [
+        427,
+        "00:57:46.680000",
+        "00:57:48.080000",
+        "A cup... Mmm..."
+      ],
+      [
+        475,
+        "01:01:43.800000",
+        "01:01:45.680000",
+        "Washing cup, head or bottom,"
+      ],
+      [
+        480,
+        "01:01:57.080000",
+        "01:01:59.280000",
+        "It's the World Cup final."
+      ],
+      [
+        498,
+        "01:03:13.960000",
+        "01:03:16",
+        "It's the World Cup. Prices go up."
+      ]
+    ],
+    "regex": "\\b((?!\\bCup:)Cup)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

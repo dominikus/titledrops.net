@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0177845",
+    "title": "Hotel Splendide",
+    "year": 2000,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1098,
+    "occurrences": [
+      [
+        0,
+        "00:00:31.367000",
+        "00:00:37.633000",
+        "The Hotel Splendide is a unique and marvelous place."
+      ],
+      [
+        792,
+        "01:03:29.467000",
+        "01:03:34.867000",
+        "the kitchen staff at the Hotel Splendide, from Kath."
+      ],
+      [
+        1068,
+        "01:33:49.933000",
+        "01:33:54.200000",
+        "I've learned many things during my stay at the Hotel Splendide."
+      ]
+    ],
+    "regex": "\\b((?!\\bHotel\\ Splendide:)Hotel\\ Splendide)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0038119",
+    "title": "The Stork Club",
+    "year": 1945,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 2209,
+    "occurrences": [
+      [
+        63,
+        "00:04:53.193000",
+        "00:04:55.460000",
+        "STORK CLUB. WHAT'S THAT-- A FOUNDLING HOME?"
+      ],
+      [
+        777,
+        "00:34:58.097000",
+        "00:35:00.997000",
+        "STORK CLUB CLOAKROOM. MOLLY SPEAKING."
+      ],
+      [
+        2036,
+        "01:30:28.791000",
+        "01:30:30.957000",
+        "I'M HERE AT STORK CLUB SO LONG,"
+      ]
+    ],
+    "regex": "\\b((?!\\bStork\\ Club:)Stork\\ Club)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

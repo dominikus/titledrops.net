@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt13446168",
+    "title": "The Medium",
+    "year": 2021,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1212,
+    "occurrences": [
+      [
+        39,
+        "00:04:47.080000",
+        "00:04:49.120000",
+        "I saw my grandmother as Her medium."
+      ],
+      [
+        40,
+        "00:04:49.240000",
+        "00:04:53.440000",
+        "Ba Yan only chooses women to be Her medium."
+      ]
+    ],
+    "regex": "\\b((?!\\bMedium:)Medium)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

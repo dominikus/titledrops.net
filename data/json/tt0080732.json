@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0080732",
+    "title": "The Fifth Floor",
+    "year": 1978,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1107,
+    "occurrences": [
+      [
+        140,
+        "00:10:54.088000",
+        "00:10:56.922000",
+        "- Might as well do it fifth floor."
+      ],
+      [
+        151,
+        "00:11:45.755000",
+        "00:11:47.463000",
+        "- Fifth floor psycho city."
+      ],
+      [
+        420,
+        "00:28:21.713000",
+        "00:28:23.380000",
+        "that I've ever seen here on the fifth floor"
+      ],
+      [
+        448,
+        "00:30:47.505000",
+        "00:30:49.005000",
+        "behind you on the fifth floor"
+      ],
+      [
+        518,
+        "00:34:21.213000",
+        "00:34:23.588000",
+        "all over the fifth floor!"
+      ]
+    ],
+    "regex": "\\b((?!\\bFifth\\ Floor:)Fifth\\ Floor)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0086864",
+    "title": "Akelarre",
+    "year": 1984,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1139,
+    "occurrences": [
+      [
+        432,
+        "00:32:48.337000",
+        "00:32:51.547000",
+        "Not me nor my wife, have ever been in any akelarre."
+      ],
+      [
+        829,
+        "01:03:56.762000",
+        "01:04:03.062000",
+        "and she put some black-green, foul smelling water all over my skin and then she took me by air to the Akelarre"
+      ],
+      [
+        844,
+        "01:05:04.977000",
+        "01:05:08.697000",
+        "And the mentioned Amunia of Baxterretxea, Queen of the Akelarre,"
+      ],
+      [
+        1009,
+        "01:17:54.486000",
+        "01:17:58.486000",
+        "and one, that she was Queen of the Akelarre and Master fo the rest."
+      ]
+    ],
+    "regex": "\\b((?!\\bAkelarre:)Akelarre)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

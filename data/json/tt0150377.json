@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0150377",
+    "title": "Double Jeopardy",
+    "year": 1999,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1210,
+    "occurrences": [
+      [
+        395,
+        "00:29:09.825000",
+        "00:29:12.826000",
+        "Ever hear of double jeopardy? Fifth amendment to the constitution?"
+      ],
+      [
+        396,
+        "00:29:12.895000",
+        "00:29:15.396000",
+        "Huh? No? Well, double jeopardy provides that,"
+      ],
+      [
+        1139,
+        "01:33:27.346000",
+        "01:33:30.447000",
+        "It's called double jeopardy. I learned a few things in prison, Nick."
+      ]
+    ],
+    "regex": "\\b((?!\\bDouble\\ Jeopardy:)Double\\ Jeopardy)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0097971",
+    "title": "Night Game",
+    "year": 1989,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 1676,
+    "occurrences": [
+      [
+        853,
+        "00:43:12.123000",
+        "00:43:14.891000",
+        "Night game part 2 of 2 closed captioned"
+      ],
+      [
+        1313,
+        "01:11:45.100000",
+        "01:11:46.779000",
+        "-Night game. -Night game."
+      ],
+      [
+        1359,
+        "01:13:36.509000",
+        "01:13:39.141000",
+        "Night game at home..."
+      ]
+    ],
+    "regex": "\\b((?!\\bNight\\ Game:)Night\\ Game)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

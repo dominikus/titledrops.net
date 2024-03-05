@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0239570",
+    "title": "All About You",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1724,
+    "occurrences": [
+      [
+        1187,
+        "01:01:10.932000",
+        "01:01:14.602000",
+        "Is all about you, baby"
+      ],
+      [
+        1215,
+        "01:02:22.570000",
+        "01:02:28.476000",
+        "It's all about you."
+      ]
+    ],
+    "regex": "\\b((?!\\bAll\\ About\\ You:)All\\ About\\ You)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

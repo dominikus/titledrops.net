@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt2584058",
+    "title": "Neptune",
+    "year": 2015,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 737,
+    "occurrences": [
+      [
+        70,
+        "00:12:18.088000",
+        "00:12:22.826000",
+        "This August Voyager 2 will pass within 3,000 miles of the planet Neptune."
+      ],
+      [
+        71,
+        "00:12:22.858000",
+        "00:12:27.797000",
+        "Using its television cameras, Voyager 2 will send back pictures of Neptune..."
+      ],
+      [
+        660,
+        "01:24:44.029000",
+        "01:24:46.732000",
+        "Voyager 2 passed over the cold blue clouds of Neptune tonight,"
+      ],
+      [
+        665,
+        "01:25:03.082000",
+        "01:25:07.887000",
+        "As Voyager 2 approached Neptune at a speed of 38,000 miles an hour,"
+      ],
+      [
+        669,
+        "01:25:12.925000",
+        "01:25:18.931000",
+        "in Neptune's great dark spots, a storm system the size of earth."
+      ]
+    ],
+    "regex": "\\b((?!\\bNeptune:)Neptune)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

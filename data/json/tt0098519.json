@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0098519",
+    "title": "Troop Beverly Hills",
+    "year": 1989,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1125,
+    "occurrences": [
+      [
+        226,
+        "00:20:21.593000",
+        "00:20:28.264000",
+        "-Phyllis Nefler, Troop Beverly Hills. -Oh, shit."
+      ],
+      [
+        900,
+        "01:21:56.111000",
+        "01:21:57.577000",
+        "We're Troop Beverly Hills."
+      ],
+      [
+        1086,
+        "01:38:28.822000",
+        "01:38:36.694000",
+        "they are disqualified. And the winners are Troop Beverly Hills."
+      ]
+    ],
+    "regex": "\\b((?!\\bTroop\\ Beverly\\ Hills:)Troop\\ Beverly\\ Hills)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

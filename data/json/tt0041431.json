@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0041431",
+    "title": "The Green Promise",
+    "year": 1949,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1764,
+    "occurrences": [
+      [
+        798,
+        "00:36:24.875000",
+        "00:36:27.458000",
+        "a beautiful green promise."
+      ],
+      [
+        811,
+        "00:37:04.167000",
+        "00:37:06.833000",
+        "The beautiful green promise has been made to us."
+      ]
+    ],
+    "regex": "\\b((?!\\bGreen\\ Promise:)Green\\ Promise)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

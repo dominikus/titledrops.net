@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1826593",
+    "title": "Avalon",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 413,
+    "occurrences": [
+      [
+        3,
+        "00:02:25.200000",
+        "00:02:30.194000",
+        "Okay, let's say like this: Welcome to Avalon, our special guests!"
+      ],
+      [
+        105,
+        "00:13:55.680000",
+        "00:14:01.038000",
+        "Friday June 7, the hottest new night club Avalon is opening its doors!"
+      ],
+      [
+        107,
+        "00:14:06.480000",
+        "00:14:08.789000",
+        "- Avalon Nightclub! - Where the party..."
+      ],
+      [
+        387,
+        "01:04:02.760000",
+        "01:04:05.115000",
+        "- Faster, Avalon, Avalon! - Stop it, please!"
+      ],
+      [
+        388,
+        "01:04:05.320000",
+        "01:04:07.959000",
+        "- Avalon! - Please, please...!"
+      ]
+    ],
+    "regex": "\\b((?!\\bAvalon:)Avalon)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

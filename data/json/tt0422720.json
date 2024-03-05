@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt0422720",
+    "title": "Marie Antoinette",
+    "year": 2006,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 383,
+    "occurrences": [
+      [
+        57,
+        "00:13:31.243000",
+        "00:13:35.179000",
+        "May I present Madame la Dauphine, Marie Antoinette."
+      ],
+      [
+        111,
+        "00:30:05.003000",
+        "00:30:08.302000",
+        "Marie Antoinette looks very pretty tonight."
+      ],
+      [
+        114,
+        "00:30:15.914000",
+        "00:30:20.180000",
+        "When you think about it, this poor Marie Antoinette."
+      ],
+      [
+        144,
+        "00:31:59.017000",
+        "00:32:02.214000",
+        "Look at this beautiful Marie Antoinette. I look like her?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMarie\\ Antoinette:)Marie\\ Antoinette)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [
+      "Marie Antoinette"
+    ],
+    "title_is_name": true,
+    "rating": 6.5
+  }
+]

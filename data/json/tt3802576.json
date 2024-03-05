@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt3802576",
+    "title": "Brothers",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 1588,
+    "occurrences": [
+      [
+        1456,
+        "02:08:53.171000",
+        "02:08:54.255000",
+        "brothers!"
+      ],
+      [
+        1457,
+        "02:09:19.630000",
+        "02:09:21.880000",
+        "They are brothers? - What?"
+      ],
+      [
+        1464,
+        "02:09:45.796000",
+        "02:09:49.088000",
+        "this is a battle between two brothers again."
+      ],
+      [
+        1486,
+        "02:12:35.380000",
+        "02:12:38.088000",
+        "it's two brothers thirsty for each other's blood."
+      ]
+    ],
+    "regex": "\\b((?!\\bBrothers:)Brothers)(?!\\:)(?!'t)\\b",
+    "runtime": 156,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

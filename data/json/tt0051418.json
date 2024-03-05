@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0051418",
+    "title": "The Blob",
+    "year": 1958,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 6,
+    "all_lines": 1171,
+    "occurrences": [
+      [
+        2,
+        "00:01:30.007000",
+        "00:01:33.176000",
+        "Beware of the Blob It creeps and Ieaps"
+      ],
+      [
+        5,
+        "00:01:38.557000",
+        "00:01:41.559000",
+        "A spIotch, a bIotch Be careful of the Blob"
+      ],
+      [
+        6,
+        "00:01:42.394000",
+        "00:01:45.271000",
+        "Beware of the Blob It creeps and Ieaps"
+      ],
+      [
+        9,
+        "00:01:50.778000",
+        "00:01:53.821000",
+        "A spIotch, a bIotch Be careful of the Blob"
+      ],
+      [
+        10,
+        "00:01:54.782000",
+        "00:01:57.867000",
+        "Beware of the Blob It creeps and Ieaps"
+      ],
+      [
+        13,
+        "00:02:03.373000",
+        "00:02:06.501000",
+        "A spIotch, a bIotch Be careful of the Blob"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlob:)Blob)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

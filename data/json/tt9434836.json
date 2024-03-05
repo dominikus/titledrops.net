@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt9434836",
+    "title": "Norm of the North: Family Vacation",
+    "year": 2020,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 1260,
+    "occurrences": [
+      [
+        223,
+        "00:13:51.131000",
+        "00:13:55.302000",
+        "We're never going on a family vacation again, are we?"
+      ],
+      [
+        650,
+        "00:41:43.070000",
+        "00:41:45.706000",
+        "A long overdue family vacation."
+      ],
+      [
+        672,
+        "00:42:41.362000",
+        "00:42:43.061000",
+        "We're on a family vacation."
+      ]
+    ],
+    "regex": "\\b((?!\\bNorm\\ of\\ the\\ North:)Norm\\ of\\ the\\ North|(?!\\bFamily\\ Vacation:)Family\\ Vacation)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3
+  }
+]

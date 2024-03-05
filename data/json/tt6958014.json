@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6958014",
+    "title": "Duck Butter",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1308,
+    "occurrences": [
+      [
+        702,
+        "00:38:57.135000",
+        "00:38:58.802000",
+        "It's like duck butter."
+      ],
+      [
+        703,
+        "00:39:00.038000",
+        "00:39:01.137000",
+        "Duck butter."
+      ],
+      [
+        707,
+        "00:39:06.445000",
+        "00:39:07.944000",
+        "He didn't like my duck butter."
+      ],
+      [
+        715,
+        "00:39:29.334000",
+        "00:39:33.136000",
+        "Duck butter for your kids."
+      ]
+    ],
+    "regex": "\\b((?!\\bDuck\\ Butter:)Duck\\ Butter)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

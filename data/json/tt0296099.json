@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0296099",
+    "title": "My Voice",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "count": 4,
+    "all_lines": 981,
+    "occurrences": [
+      [
+        393,
+        "00:28:35.400000",
+        "00:28:37.030000",
+        "My voice."
+      ],
+      [
+        520,
+        "00:38:41.440000",
+        "00:38:43.430000",
+        "My voice."
+      ],
+      [
+        733,
+        "01:00:52.500000",
+        "01:00:54.200000",
+        "She's the only one who could recognize my voice."
+      ],
+      [
+        784,
+        "01:04:36.230000",
+        "01:04:38.020000",
+        "Mom, I sang. With my voice!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Voice:)My\\ Voice)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

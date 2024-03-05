@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt6220752",
+    "title": "Pledge",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1067,
+    "occurrences": [
+      [
+        420,
+        "00:24:23.698000",
+        "00:24:27.067000",
+        "So, if you pledge today, yes"
+      ],
+      [
+        443,
+        "00:26:02.202000",
+        "00:26:03.467000",
+        "So are you ready to pledge?"
+      ],
+      [
+        547,
+        "00:31:04.319000",
+        "00:31:06.552000",
+        "the president chopped a pledge's finger off one time."
+      ],
+      [
+        801,
+        "00:48:17.035000",
+        "00:48:18.968000",
+        "No, you can pledge without us, okay?"
+      ],
+      [
+        877,
+        "00:51:34.542000",
+        "00:51:36.142000",
+        "We don't want to pledge anymore."
+      ]
+    ],
+    "regex": "\\b((?!\\bPledge:)Pledge)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

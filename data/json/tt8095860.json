@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt8095860",
+    "title": "By the Grace of God",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 2223,
+    "occurrences": [
+      [
+        2085,
+        "02:06:30.249000",
+        "02:06:34.128000",
+        "By the grace of God, the statutes of limitations expired."
+      ],
+      [
+        2088,
+        "02:06:41.969000",
+        "02:06:43.554000",
+        "\"By the grace of God?\""
+      ],
+      [
+        2091,
+        "02:06:52.772000",
+        "02:06:55.816000",
+        "But \"by the grace of God\" means fortunately."
+      ]
+    ],
+    "regex": "\\b((?!\\bBy\\ the\\ Grace\\ of\\ God:)By\\ the\\ Grace\\ of\\ God)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

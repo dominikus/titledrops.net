@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0094595",
+    "title": "Summer Vacation 1999",
+    "year": 1988,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 666,
+    "occurrences": [
+      [
+        0,
+        "00:06:02.515000",
+        "00:06:05.851000",
+        "That summer vacation in 1999"
+      ],
+      [
+        3,
+        "00:06:17.905000",
+        "00:06:22.660000",
+        "It still lives in my memory that summer vacation"
+      ],
+      [
+        653,
+        "01:27:18.224000",
+        "01:27:21.811000",
+        "That summer vacation in 1999"
+      ]
+    ],
+    "regex": "\\b((?!\\bSummer\\ Vacation:)Summer\\ Vacation)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

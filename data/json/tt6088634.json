@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt6088634",
+    "title": "The Third Party",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1157,
+    "occurrences": [
+      [
+        883,
+        "01:19:59.461000",
+        "01:20:01.379000",
+        "And you want to be the third party?"
+      ],
+      [
+        884,
+        "01:20:01.755000",
+        "01:20:04.216000",
+        "Third party? Come on."
+      ]
+    ],
+    "regex": "\\b((?!\\bThird\\ Party:)Third\\ Party)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt6215446",
+    "title": "Ghost Light",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 1970,
+    "occurrences": [
+      [
+        55,
+        "00:03:49.707000",
+        "00:03:52.362000",
+        "is letting the ghost light go out."
+      ],
+      [
+        56,
+        "00:03:52.449000",
+        "00:03:54.625000",
+        "Ooh, what's the ghost light?"
+      ],
+      [
+        58,
+        "00:03:55.844000",
+        "00:03:57.149000",
+        "is the ghost light."
+      ]
+    ],
+    "regex": "\\b((?!\\bGhost\\ Light:)Ghost\\ Light)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

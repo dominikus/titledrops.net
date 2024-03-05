@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0495824",
+    "title": "Dorm",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 5,
+    "all_lines": 421,
+    "occurrences": [
+      [
+        46,
+        "00:05:25.158000",
+        "00:05:28.093000",
+        "...the dorm master for junior high boys."
+      ],
+      [
+        118,
+        "00:13:38.384000",
+        "00:13:40.443000",
+        "There are ghosts in the dorm."
+      ],
+      [
+        124,
+        "00:13:59.104000",
+        "00:14:02.096000",
+        "...he used to be the dorm master."
+      ],
+      [
+        140,
+        "00:15:21.487000",
+        "00:15:24.456000",
+        "he used to board in this dorm."
+      ],
+      [
+        333,
+        "00:46:51.842000",
+        "00:46:57.041000",
+        "Chatree Anantpitisuk, your father is on the dorm phone."
+      ]
+    ],
+    "regex": "\\b((?!\\bDorm:)Dorm)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

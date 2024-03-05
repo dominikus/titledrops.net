@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt12572040",
+    "title": "The Phantom of the Open",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1900,
+    "occurrences": [
+      [
+        1344,
+        "01:10:44.912000",
+        "01:10:46.881000",
+        "The so-called \"Phantom of the Open.\""
+      ],
+      [
+        1784,
+        "01:37:38.992000",
+        "01:37:41.730000",
+        "the Phantom of the Open, thank you."
+      ]
+    ],
+    "regex": "\\b((?!\\bPhantom\\ of\\ the\\ Open:)Phantom\\ of\\ the\\ Open)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

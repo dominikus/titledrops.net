@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1185242",
+    "title": "Finding Bliss",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1910,
+    "occurrences": [
+      [
+        1797,
+        "01:23:15.520000",
+        "01:23:17.599000",
+        "Jeff Drake for \"Finding Bliss. \""
+      ],
+      [
+        1831,
+        "01:24:51.006000",
+        "01:24:54.413000",
+        "Jeff Drake for \"Finding Bliss,\""
+      ]
+    ],
+    "regex": "\\b((?!\\bFinding\\ Bliss:)Finding\\ Bliss)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

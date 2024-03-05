@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt2299471",
+    "title": "See You Tomorrow, Everyone",
+    "year": 2013,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 987,
+    "occurrences": [
+      [
+        397,
+        "00:42:02.138000",
+        "00:42:05.165000",
+        "See you tomorrow, everyone!"
+      ],
+      [
+        512,
+        "00:55:44.261000",
+        "00:55:47.629000",
+        "See you tomorrow, everyone!"
+      ],
+      [
+        757,
+        "01:21:49.359000",
+        "01:21:53.023000",
+        "See you tomorrow, everyone!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSee\\ You\\ Tomorrow,\\ Everyone:)See\\ You\\ Tomorrow,\\ Everyone)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

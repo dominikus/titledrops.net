@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5789310",
+    "title": "The Cutlass",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 882,
+    "occurrences": [
+      [
+        194,
+        "00:18:47.513000",
+        "00:18:49.265000",
+        "I still think a cutlass is the best."
+      ],
+      [
+        480,
+        "00:53:39.312000",
+        "00:53:41.314000",
+        "You don't interfere with a man's cutlass."
+      ],
+      [
+        698,
+        "01:11:31.174000",
+        "01:11:33.093000",
+        "I find this cutlass here"
+      ]
+    ],
+    "regex": "\\b((?!\\bCutlass:)Cutlass)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt3409392",
+    "title": "Timbuktu",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 4,
+    "all_lines": 722,
+    "occurrences": [
+      [
+        41,
+        "00:07:03.925000",
+        "00:07:07.178000",
+        "Here in Timbuktu, one dedicated to religion"
+      ],
+      [
+        434,
+        "00:54:34.619000",
+        "00:54:38.513000",
+        "This is my land and this is my Timbuktu..."
+      ],
+      [
+        439,
+        "00:55:25.639000",
+        "00:55:29.105000",
+        "Stop crying, my Timbuktu will always be here"
+      ],
+      [
+        706,
+        "01:24:45.373000",
+        "01:24:47.751000",
+        "more than once in Timbuktu"
+      ]
+    ],
+    "regex": "\\b((?!\\bTimbuktu:)Timbuktu)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

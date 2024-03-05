@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0134630",
+    "title": "Duets",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1804,
+    "occurrences": [
+      [
+        826,
+        "00:47:42.985000",
+        "00:47:45.111000",
+        "It's duets night."
+      ],
+      [
+        866,
+        "00:49:15.994000",
+        "00:49:18.829000",
+        "Oh, look, it's duets night. Live in the moment."
+      ]
+    ],
+    "regex": "\\b((?!\\bDuets:)Duets)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

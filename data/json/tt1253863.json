@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt1253863",
+    "title": "300: Rise of an Empire",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "count": 6,
+    "all_lines": 921,
+    "occurrences": [
+      [
+        16,
+        "00:02:08.629000",
+        "00:02:12.304000",
+        "Leonidas and the brave 300 are dead."
+      ],
+      [
+        282,
+        "00:22:32.893000",
+        "00:22:36.773000",
+        "Only King Leonidas and his personal guard of 300..."
+      ],
+      [
+        356,
+        "00:29:01.281000",
+        "00:29:03.909000",
+        "Leonidas has marched to Thermopylae with just 300 men."
+      ],
+      [
+        359,
+        "00:29:11.333000",
+        "00:29:13.927000",
+        "is Leonidas and 300 Spartans."
+      ],
+      [
+        582,
+        "00:51:58.866000",
+        "00:52:01.085000",
+        "Leonidas with 300 Spartans."
+      ],
+      [
+        688,
+        "01:08:21.180000",
+        "01:08:25.185000",
+        "and his brave 300 were the finest Greece has to offer."
+      ]
+    ],
+    "regex": "\\b((?!\\b300:)300|(?!\\bRise\\ of\\ an\\ Empire:)Rise\\ of\\ an\\ Empire)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0050097",
+    "title": "Across the Bridge",
+    "year": 1957,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1002,
+    "occurrences": [
+      [
+        666,
+        "00:59:03.646000",
+        "00:59:08.083000",
+        "They even suggested that it be carried across the bridge to the American side."
+      ],
+      [
+        722,
+        "01:04:12.287000",
+        "01:04:14.881000",
+        "Unless I push it gently across the bridge"
+      ],
+      [
+        915,
+        "01:25:03.804000",
+        "01:25:06.238000",
+        "Couldn't be easier if you get him across the bridge."
+      ]
+    ],
+    "regex": "\\b((?!\\bAcross\\ the\\ Bridge:)Across\\ the\\ Bridge)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

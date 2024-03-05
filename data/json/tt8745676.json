@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt8745676",
+    "title": "The Swimmers",
+    "year": 2022,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "count": 5,
+    "all_lines": 1862,
+    "occurrences": [
+      [
+        322,
+        "00:21:27",
+        "00:21:29.083000",
+        "All the swimmers are leaving."
+      ],
+      [
+        877,
+        "00:59:40.291000",
+        "00:59:43.375000",
+        "And how stupid it would be for swimmers to die in the sea."
+      ],
+      [
+        892,
+        "01:00:42.791000",
+        "01:00:45.916000",
+        "You could have told me that you were professional swimmers."
+      ],
+      [
+        1358,
+        "01:32:25.666000",
+        "01:32:29.541000",
+        "Hi. We're swimmers, and we need training twice a day."
+      ],
+      [
+        1791,
+        "02:00:19.875000",
+        "02:00:21.875000",
+        "I heard other swimmers talking."
+      ]
+    ],
+    "regex": "\\b((?!\\bSwimmers:)Swimmers)(?!\\:)(?!'t)\\b",
+    "runtime": 134,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

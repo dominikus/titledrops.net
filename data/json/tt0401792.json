@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0401792",
+    "title": "Sin City",
+    "year": 2005,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1767,
+    "occurrences": [
+      [
+        163,
+        "00:11:17.967000",
+        "00:11:20.969000",
+        "Otherwise, their lies, everything that runs Sin City,"
+      ],
+      [
+        649,
+        "00:51:19.532000",
+        "00:51:22.910000",
+        "Turn the right corner in Sin City"
+      ],
+      [
+        762,
+        "01:03:23.422000",
+        "01:03:26.424000",
+        "Walk down the right back alley in Sin City..."
+      ],
+      [
+        1580,
+        "02:03:50.879000",
+        "02:03:55.879000",
+        "I have suffered your kind before, the dregs of Sin City."
+      ]
+    ],
+    "regex": "\\b((?!\\bSin\\ City:)Sin\\ City)(?!\\:)(?!'t)\\b",
+    "runtime": 137,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8
+  }
+]

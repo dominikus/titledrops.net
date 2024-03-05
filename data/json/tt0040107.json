@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0040107",
+    "title": "April Showers",
+    "year": 1948,
+    "genres": [
+      "Musical"
+    ],
+    "count": 4,
+    "all_lines": 2046,
+    "occurrences": [
+      [
+        281,
+        "00:12:25.412000",
+        "00:12:29.314000",
+        "# Though April showers #"
+      ],
+      [
+        298,
+        "00:13:35.315000",
+        "00:13:41.653000",
+        "# Whenever April showers #"
+      ],
+      [
+        2029,
+        "01:32:29.678000",
+        "01:32:33.613000",
+        "# Though April showers #"
+      ],
+      [
+        2043,
+        "01:33:26.835000",
+        "01:33:32.038000",
+        "# Whenever April showers #"
+      ]
+    ],
+    "regex": "\\b((?!\\bApril\\ Showers:)April\\ Showers)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

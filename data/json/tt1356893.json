@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1356893",
+    "title": "A Real Life",
+    "year": 2009,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 398,
+    "occurrences": [
+      [
+        339,
+        "01:11:37.720000",
+        "01:11:40.400000",
+        "Start a new life, a real life..."
+      ],
+      [
+        341,
+        "01:11:44.840000",
+        "01:11:46.080000",
+        "A real life?"
+      ],
+      [
+        342,
+        "01:11:47.880000",
+        "01:11:48.920000",
+        "A real life."
+      ],
+      [
+        343,
+        "01:12:07.520000",
+        "01:12:09.200000",
+        "Isn't this a real life?"
+      ]
+    ],
+    "regex": "\\b((?!\\bReal\\ Life:)Real\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

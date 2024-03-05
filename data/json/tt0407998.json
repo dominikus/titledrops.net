@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0407998",
+    "title": "The Mistress of Spices",
+    "year": 2005,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 889,
+    "occurrences": [
+      [
+        18,
+        "00:04:26.880000",
+        "00:04:30.077000",
+        "I love being a mistress of spices."
+      ],
+      [
+        98,
+        "00:11:38.280000",
+        "00:11:45.550000",
+        "First Mother said I had been brought to her to fulfill my duty as a mistress of spices."
+      ]
+    ],
+    "regex": "\\b((?!\\bMistress\\ of\\ Spices:)Mistress\\ of\\ Spices)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

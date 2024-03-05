@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt9243804",
+    "title": "The Green Knight",
+    "year": 2021,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 1239,
+    "occurrences": [
+      [
+        235,
+        "00:19:19.825000",
+        "00:19:21.227000",
+        "Have at me, Green Knight."
+      ],
+      [
+        305,
+        "00:26:20.826000",
+        "00:26:24.393000",
+        "This boy slew the Green Knight."
+      ],
+      [
+        667,
+        "01:01:55.283000",
+        "01:01:57.316000",
+        "The Green Knight is someone you know."
+      ],
+      [
+        761,
+        "01:15:31.183000",
+        "01:15:33.450000",
+        "come to face the Green Knight."
+      ]
+    ],
+    "regex": "\\b((?!\\bGreen\\ Knight:)Green\\ Knight)(?!\\:)(?!'t)\\b",
+    "runtime": 130,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1219289",
+    "title": "Limitless",
+    "year": 2011,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1181,
+    "occurrences": [
+      [
+        312,
+        "00:27:28.793000",
+        "00:27:32.909000",
+        "A tablet a day, and what I could do with my day, was limitless."
+      ],
+      [
+        1110,
+        "01:33:58.589000",
+        "01:34:01.902000",
+        "Limitless supply. We know you can't get anymore."
+      ]
+    ],
+    "regex": "\\b((?!\\bLimitless:)Limitless)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

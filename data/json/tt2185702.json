@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt2185702",
+    "title": "Liverpool",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 904,
+    "occurrences": [
+      [
+        1,
+        "00:01:44.304000",
+        "00:01:48.013000",
+        "I work at the Liverpool, a trendy nightclub in Montreal."
+      ],
+      [
+        3,
+        "00:01:51.211000",
+        "00:01:54.158000",
+        "besides the fact they play the song Liverpool every night"
+      ],
+      [
+        5,
+        "00:01:59.152000",
+        "00:02:02.690000",
+        "I mean, why calla Montreal bar the Liverpool?"
+      ],
+      [
+        90,
+        "00:14:04.143000",
+        "00:14:06.316000",
+        "Were you at the Liverpool the other night?"
+      ],
+      [
+        249,
+        "00:28:07.619000",
+        "00:28:09.496000",
+        "The Liverpool."
+      ],
+      [
+        649,
+        "01:08:23.299000",
+        "01:08:25.870000",
+        "The same guy was at the Liverpool last night."
+      ],
+      [
+        891,
+        "01:45:54.047000",
+        "01:45:57.256000",
+        "My name is Emilie and I work at the Liverpool."
+      ]
+    ],
+    "regex": "\\b((?!\\bLiverpool:)Liverpool)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

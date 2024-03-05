@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt9848626",
+    "title": "Hotel Transylvania 4: Transformania",
+    "year": 2022,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1504,
+    "occurrences": [
+      [
+        29,
+        "00:02:35.656000",
+        "00:02:38.784000",
+        "Living in Hotel Transylvania"
+      ],
+      [
+        36,
+        "00:02:55.760000",
+        "00:02:58.179000",
+        "Here's to Hotel Transylvania!"
+      ],
+      [
+        187,
+        "00:10:08.400000",
+        "00:10:11.987000",
+        "to begin a new chapter for Hotel Transylvania."
+      ],
+      [
+        197,
+        "00:10:37.846000",
+        "00:10:42.392000",
+        "and usher in a new destiny for the great Hotel Transylvania!"
+      ],
+      [
+        258,
+        "00:13:27.933000",
+        "00:13:33.021000",
+        "for Hotel Transylvania to, um..."
+      ]
+    ],
+    "regex": "\\b((?!\\bHotel\\ Transylvania:)Hotel\\ Transylvania|(?!\\bTransformania:)Transformania)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

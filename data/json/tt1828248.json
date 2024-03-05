@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1828248",
+    "title": "Money as Debt II: Promises Unleashed",
+    "year": 2009,
+    "genres": [
+      "Animation",
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 893,
+    "occurrences": [
+      [
+        12,
+        "00:01:21.742000",
+        "00:01:23.721000",
+        "Money as Debt II"
+      ],
+      [
+        13,
+        "00:01:30.376000",
+        "00:01:31.882000",
+        "Promises Unleashed"
+      ],
+      [
+        723,
+        "00:58:30.833000",
+        "00:58:38.845000",
+        "have discovered to their dismay that this commercial contract law is still the bedrock defence of money as debt."
+      ]
+    ],
+    "regex": "\\b((?!\\bMoney\\ as\\ Debt:)Money\\ as\\ Debt|(?!\\bPromises\\ Unleashed:)Promises\\ Unleashed)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

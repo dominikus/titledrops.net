@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0403358",
+    "title": "Night Watch",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 4,
+    "all_lines": 454,
+    "occurrences": [
+      [
+        26,
+        "00:03:05",
+        "00:03:08.510000",
+        "And it was said there shall be the Night Watch"
+      ],
+      [
+        208,
+        "00:25:36.920000",
+        "00:25:40.870000",
+        "The Night Watch. All step out of the gloom."
+      ],
+      [
+        253,
+        "00:31:58.920000",
+        "00:32:01.710000",
+        "and learned to treat the Night watch duty"
+      ],
+      [
+        402,
+        "00:46:48.120000",
+        "00:46:50.910000",
+        "Has never come in view of the Night Watch."
+      ]
+    ],
+    "regex": "\\b((?!\\bNight\\ Watch:)Night\\ Watch)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

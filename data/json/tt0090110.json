@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0090110",
+    "title": "Sweet Dreams",
+    "year": 1985,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "count": 5,
+    "all_lines": 1260,
+    "occurrences": [
+      [
+        1184,
+        "01:41:31.232000",
+        "01:41:36.829000",
+        "Sweet dreams"
+      ],
+      [
+        1190,
+        "01:42:05.866000",
+        "01:42:11.532000",
+        "Instead of having sweet dreams"
+      ],
+      [
+        1198,
+        "01:42:52.046000",
+        "01:42:57.780000",
+        "Instead of having sweet dreams"
+      ],
+      [
+        1200,
+        "01:43:03.757000",
+        "01:43:09.662000",
+        "Sweet dreams"
+      ],
+      [
+        1207,
+        "01:43:41.428000",
+        "01:43:44.124000",
+        "Sweet dreams"
+      ]
+    ],
+    "regex": "\\b((?!\\bSweet\\ Dreams:)Sweet\\ Dreams)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

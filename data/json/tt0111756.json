@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt0111756",
+    "title": "Wyatt Earp",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Biography"
+    ],
+    "count": 4,
+    "all_lines": 297,
+    "occurrences": [
+      [
+        32,
+        "00:03:19.030000",
+        "00:03:22.990000",
+        "You and your precious brothers. Damn you to hell, Wyatt Earp!"
+      ],
+      [
+        129,
+        "00:16:51.600000",
+        "00:16:53.500000",
+        "I'm here to see Wyatt Earp."
+      ],
+      [
+        130,
+        "00:16:53.570000",
+        "00:16:55.560000",
+        "Who's here to see Wyatt Earp?"
+      ],
+      [
+        252,
+        "00:38:43.310000",
+        "00:38:48.220000",
+        "Excuse me. I'm sorry to bother, but are you by any chance Wyatt Earp?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWyatt\\ Earp:)Wyatt\\ Earp)(?!\\:)(?!'t)\\b",
+    "runtime": 191,
+    "characters": [
+      "Wyatt Earp"
+    ],
+    "title_is_name": true,
+    "rating": 6.7
+  }
+]

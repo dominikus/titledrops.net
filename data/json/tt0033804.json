@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0033804",
+    "title": "The Lady Eve",
+    "year": 1941,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1382,
+    "occurrences": [
+      [
+        870,
+        "00:59:15.527000",
+        "00:59:18.462000",
+        "The Lady Eve Sidwich..."
+      ],
+      [
+        910,
+        "01:01:51.416000",
+        "01:01:54.010000",
+        "Oh, Charlie, I want you to meet Lady Eve Sidwich."
+      ],
+      [
+        1003,
+        "01:07:07.098000",
+        "01:07:10.192000",
+        "Did you hear how the Lady Eve got to this country?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLady\\ Eve:)Lady\\ Eve)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt6878306",
+    "title": "News of the World",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 1,
+    "all_lines": 1349,
+    "occurrences": [
+      [
+        1345,
+        "01:53:22.242000",
+        "01:53:24.460000",
+        "And that is all the news of the world we have for you."
+      ]
+    ],
+    "regex": "\\b((?!\\bNews\\ of\\ the\\ World:)News\\ of\\ the\\ World)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

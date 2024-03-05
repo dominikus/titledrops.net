@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt5862338",
+    "title": "Uppity: The Willy T. Ribbs Story",
+    "year": 2020,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 1988,
+    "occurrences": [
+      [
+        18,
+        "00:01:12.238000",
+        "00:01:15.909000",
+        "They called me Uppity. Uppity nigger."
+      ],
+      [
+        720,
+        "00:41:14.722000",
+        "00:41:15.931000",
+        "He's Uppity."
+      ],
+      [
+        724,
+        "00:41:29.028000",
+        "00:41:31.572000",
+        "And that was the reason they called me Uppity."
+      ],
+      [
+        725,
+        "00:41:32.907000",
+        "00:41:34.074000",
+        "Uppity Nigger."
+      ]
+    ],
+    "regex": "\\b((?!\\bUppity:)Uppity|(?!\\bWilly\\ T\\.\\ Ribbs\\ Story:)Willy\\ T\\.\\ Ribbs\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

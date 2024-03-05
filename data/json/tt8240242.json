@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt8240242",
+    "title": "Language Arts",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 2013,
+    "occurrences": [
+      [
+        1114,
+        "01:06:41.301000",
+        "01:06:45.272000",
+        "An experimental curriculum called Language Arts."
+      ],
+      [
+        1117,
+        "01:06:49.376000",
+        "01:06:52.379000",
+        "and meet with me in the Language Arts room."
+      ],
+      [
+        1188,
+        "01:10:38.973000",
+        "01:10:43.443000",
+        "that... that... that Language Arts thing."
+      ],
+      [
+        1239,
+        "01:13:04.852000",
+        "01:13:08.823000",
+        "Oh, you mean Language Arts."
+      ],
+      [
+        1482,
+        "01:27:40.962000",
+        "01:27:42.964000",
+        "The one that you wrote for your Language Arts class."
+      ]
+    ],
+    "regex": "\\b((?!\\bLanguage\\ Arts:)Language\\ Arts)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

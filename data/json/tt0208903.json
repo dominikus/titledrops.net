@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0208903",
+    "title": "Disco Dancer",
+    "year": 1982,
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1033,
+    "occurrences": [
+      [
+        253,
+        "00:28:08.844000",
+        "00:28:11.210000",
+        "That tinned man! Hopes of a disco dancer!"
+      ],
+      [
+        700,
+        "01:23:40.731000",
+        "01:23:43.161000",
+        "He's a far superior disco dancer."
+      ]
+    ],
+    "regex": "\\b((?!\\bDisco\\ Dancer:)Disco\\ Dancer)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "imdb": "tt0066065",
+    "title": "Medea",
+    "year": 1969,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 372,
+    "occurrences": [
+      [
+        147,
+        "01:02:17.540000",
+        "01:02:18.939000",
+        "love Medea."
+      ],
+      [
+        148,
+        "01:02:21.300000",
+        "01:02:24.178000",
+        "- l love Medea. - Yes."
+      ],
+      [
+        205,
+        "01:11:08.060000",
+        "01:11:10.176000",
+        "ln your old robes, Medea,"
+      ]
+    ],
+    "regex": "\\b((?!\\bMedea:)Medea)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [
+      "Medea"
+    ],
+    "title_is_name": true,
+    "rating": 6.9
+  }
+]

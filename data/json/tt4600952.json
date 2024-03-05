@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt4600952",
+    "title": "The Guardians",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 568,
+    "occurrences": [
+      [
+        67,
+        "00:12:20.890000",
+        "00:12:23.590000",
+        "Guardians"
+      ],
+      [
+        86,
+        "00:13:12.750000",
+        "00:13:15.920000",
+        "It's a secluded place where one of the Guardians stay,"
+      ],
+      [
+        181,
+        "00:25:53.760000",
+        "00:25:56.530000",
+        "You're ready to join the Guardians?"
+      ]
+    ],
+    "regex": "\\b((?!\\bGuardians:)Guardians)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

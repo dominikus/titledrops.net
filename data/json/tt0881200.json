@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0881200",
+    "title": "Assembly",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 705,
+    "occurrences": [
+      [
+        344,
+        "00:24:04.360000",
+        "00:24:05.395000",
+        "For the assembly bugle call"
+      ],
+      [
+        656,
+        "00:51:08.280000",
+        "00:51:11.590000",
+        "I just heard the assembly bugle call"
+      ],
+      [
+        662,
+        "00:51:22.560000",
+        "00:51:24.551000",
+        "Assembly"
+      ],
+      [
+        663,
+        "00:51:26.480000",
+        "00:51:30.075000",
+        "They played the Assembly"
+      ],
+      [
+        669,
+        "00:51:41.960000",
+        "00:51:43.393000",
+        "Assembly was played"
+      ]
+    ],
+    "regex": "\\b((?!\\bAssembly:)Assembly)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

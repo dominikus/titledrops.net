@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1715876",
+    "title": "The Discoverers",
+    "year": 2012,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1179,
+    "occurrences": [
+      [
+        425,
+        "00:36:47.333000",
+        "00:36:50.467000",
+        "Now you look like full-fledged Discoverers."
+      ],
+      [
+        573,
+        "00:50:07.833000",
+        "00:50:11.567000",
+        "So, what did the Discoverers used to do for fun,"
+      ]
+    ],
+    "regex": "\\b((?!\\bDiscoverers:)Discoverers)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0094919",
+    "title": "Critters 2: The Main Course",
+    "year": 1988,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 5,
+    "all_lines": 708,
+    "occurrences": [
+      [
+        117,
+        "00:12:59.411000",
+        "00:13:02.922000",
+        "I thought you'd want to talk with him... about the critters and all."
+      ],
+      [
+        417,
+        "00:41:15.731000",
+        "00:41:17.756000",
+        "Nana, the critters are here."
+      ],
+      [
+        475,
+        "00:47:56.493000",
+        "00:47:59.429000",
+        "- The critters are real. - I know."
+      ],
+      [
+        561,
+        "01:00:47.356000",
+        "01:00:50.470000",
+        "two years ago when the critters first come,"
+      ],
+      [
+        584,
+        "01:02:06.433000",
+        "01:02:08.731000",
+        "The critters are eating the cattle out there."
+      ]
+    ],
+    "regex": "\\b((?!\\bCritters:)Critters|(?!\\bMain\\ Course:)Main\\ Course)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

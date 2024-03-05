@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt15180952",
+    "title": "The Balcony Movie",
+    "year": 2021,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 1075,
+    "occurrences": [
+      [
+        20,
+        "00:05:03.120000",
+        "00:05:06.399000",
+        "Hello, Father, I'm making a balcony movie."
+      ],
+      [
+        42,
+        "00:06:19.759000",
+        "00:06:24.839000",
+        "I'm making this balcony movie about people who pass by my window,"
+      ],
+      [
+        95,
+        "00:10:16.759000",
+        "00:10:20.360000",
+        "I'm making a balcony movie, talking to people who walk by."
+      ],
+      [
+        541,
+        "00:46:12",
+        "00:46:16.679000",
+        "I'm making a balcony movie, asking passersby how it's going."
+      ]
+    ],
+    "regex": "\\b((?!\\bBalcony\\ Movie:)Balcony\\ Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

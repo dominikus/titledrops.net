@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt7524414",
+    "title": "Beats",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1216,
+    "occurrences": [
+      [
+        121,
+        "00:08:56.099000",
+        "00:09:00.807000",
+        "'\"by the emission of a succession of repetitive beats.\""
+      ],
+      [
+        268,
+        "00:17:43.274000",
+        "00:17:46.816000",
+        "'These are the universal beats from the people's streets."
+      ],
+      [
+        618,
+        "00:39:31.277000",
+        "00:39:34.817000",
+        "\"by the emission of a succession of repetitive beats.\""
+      ],
+      [
+        620,
+        "00:39:37.317000",
+        "00:39:42.359000",
+        "So, what these guys did was, they recorded this track which has no repetitive beats."
+      ],
+      [
+        621,
+        "00:39:42.484000",
+        "00:39:45.234000",
+        "Literally, no repetitive beats,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBeats:)Beats)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0085412",
+    "title": "Deal of the Century",
+    "year": 1983,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1279,
+    "occurrences": [
+      [
+        514,
+        "00:42:06.133000",
+        "00:42:08.931000",
+        "We're talking about pulling off the deal of the century here."
+      ],
+      [
+        1013,
+        "01:12:03.493000",
+        "01:12:06.610000",
+        "\"The deal of the century."
+      ]
+    ],
+    "regex": "\\b((?!\\bDeal\\ of\\ the\\ Century:)Deal\\ of\\ the\\ Century)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0132340",
+    "title": "The Panther Women",
+    "year": 1967,
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 632,
+    "occurrences": [
+      [
+        0,
+        "00:00:43.863000",
+        "00:00:48.543000",
+        "The Panther Women"
+      ],
+      [
+        90,
+        "00:13:36.149000",
+        "00:13:42.194000",
+        "Everything was set at the time so that the panther women could enslave mankind."
+      ],
+      [
+        537,
+        "01:09:57.151000",
+        "01:10:01.408000",
+        "the panther women will tear them apart at 10 pm."
+      ],
+      [
+        546,
+        "01:14:36.528000",
+        "01:14:39.404000",
+        "Get them! They're the panther women!"
+      ]
+    ],
+    "regex": "\\b((?!\\bPanther\\ Women:)Panther\\ Women)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

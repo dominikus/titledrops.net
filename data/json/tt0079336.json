@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0079336",
+    "title": "The In-Laws",
+    "year": 1979,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1576,
+    "occurrences": [
+      [
+        143,
+        "00:10:42.435000",
+        "00:10:45.646000",
+        "You did. Travels all over the world. Hasn't got time to meet the new in-laws."
+      ],
+      [
+        837,
+        "00:51:16.575000",
+        "00:51:18.493000",
+        "What do you think of Tommy's new in-laws?"
+      ]
+    ],
+    "regex": "\\b((?!\\bIn\\-Laws:)In\\-Laws)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

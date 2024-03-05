@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0047926",
+    "title": "Cell 2455, Death Row",
+    "year": 1955,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1436,
+    "occurrences": [
+      [
+        1,
+        "00:00:56.817000",
+        "00:01:00.129000",
+        "-  Cell 2455, Death Row."
+      ],
+      [
+        1431,
+        "01:16:27.646000",
+        "01:16:32.208000",
+        "nor is the story of cell 2455, death row."
+      ]
+    ],
+    "regex": "\\b((?!\\bCell\\ 2455,\\ Death\\ Row:)Cell\\ 2455,\\ Death\\ Row)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

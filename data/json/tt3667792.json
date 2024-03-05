@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3667792",
+    "title": "Natural Selection",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1262,
+    "occurrences": [
+      [
+        438,
+        "00:33:31.810000",
+        "00:33:33.677000",
+        "what must natural selection,"
+      ],
+      [
+        442,
+        "00:33:43.354000",
+        "00:33:45.088000",
+        "is natural selection."
+      ],
+      [
+        449,
+        "00:34:06.078000",
+        "00:34:10.147000",
+        "- Fact, evolution and natural selection"
+      ]
+    ],
+    "regex": "\\b((?!\\bNatural\\ Selection:)Natural\\ Selection)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0053931",
+    "title": "The Hypnotic Eye",
+    "year": 1960,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1186,
+    "occurrences": [
+      [
+        623,
+        "00:40:21.086000",
+        "00:40:29.826000",
+        "# YOUR LOVE I FIND IS CURSED WITH A HYPNOTIC EYE #"
+      ],
+      [
+        775,
+        "00:55:16.614000",
+        "00:55:19.181000",
+        "[ \"HYPNOTIC EYE\" THEME PLAYS ON PIANO ]"
+      ]
+    ],
+    "regex": "\\b((?!\\bHypnotic\\ Eye:)Hypnotic\\ Eye)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

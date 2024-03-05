@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0780485",
+    "title": "Blood Car",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1230,
+    "occurrences": [
+      [
+        1144,
+        "01:09:11.120000",
+        "01:09:13.933000",
+        "in official documents, a blood car."
+      ],
+      [
+        1184,
+        "01:11:25.160000",
+        "01:11:27.113000",
+        "We need another blood car."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlood\\ Car:)Blood\\ Car)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

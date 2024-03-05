@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0449561",
+    "title": "Bang Bang Orangutang",
+    "year": 2005,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 894,
+    "occurrences": [
+      [
+        44,
+        "00:06:02.817000",
+        "00:06:10.212000",
+        "Bang bang orangutang, The evil ones are gone."
+      ],
+      [
+        459,
+        "00:49:28.017000",
+        "00:49:32.932000",
+        "Bang bang orangutang, The evil ones are gone."
+      ]
+    ],
+    "regex": "\\b((?!\\bBang\\ Bang\\ Orangutang:)Bang\\ Bang\\ Orangutang)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

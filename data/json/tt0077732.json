@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0077732",
+    "title": "Night Nurse",
+    "year": 1979,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 992,
+    "occurrences": [
+      [
+        0,
+        "00:00:09.900000",
+        "00:00:14.900000",
+        "The Night Nurse"
+      ],
+      [
+        218,
+        "00:15:13.320000",
+        "00:15:16.711000",
+        "Then the night nurse does not help?"
+      ],
+      [
+        279,
+        "00:20:04.400000",
+        "00:20:07.552000",
+        "- The new night nurse. - Her?"
+      ],
+      [
+        311,
+        "00:22:18.400000",
+        "00:22:22.712000",
+        "- Have you seen the new night nurse? - No."
+      ],
+      [
+        878,
+        "01:17:07.720000",
+        "01:17:10.758000",
+        "He willed everything to the night nurse."
+      ]
+    ],
+    "regex": "\\b((?!\\bNight\\ Nurse:)Night\\ Nurse)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0051179",
+    "title": "War Drums",
+    "year": 1957,
+    "genres": [
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 826,
+    "occurrences": [
+      [
+        147,
+        "00:11:55.279000",
+        "00:11:57.325000",
+        "If my war drums sound,"
+      ],
+      [
+        489,
+        "00:41:55.991000",
+        "00:41:58.559000",
+        "War drums. Listen."
+      ]
+    ],
+    "regex": "\\b((?!\\bWar\\ Drums:)War\\ Drums)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

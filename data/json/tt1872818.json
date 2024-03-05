@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1872818",
+    "title": "Liberal Arts",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1885,
+    "occurrences": [
+      [
+        603,
+        "00:27:40.292000",
+        "00:27:43.637000",
+        "- No, a liberal arts education solves all your problems."
+      ],
+      [
+        1489,
+        "01:14:44.547000",
+        "01:14:46.857000",
+        "- Sit through a faculty meeting at a liberal arts college,"
+      ]
+    ],
+    "regex": "\\b((?!\\bLiberal\\ Arts:)Liberal\\ Arts)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt13583144",
+    "title": "The Minimalists: Less Is Now",
+    "year": 2021,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 959,
+    "occurrences": [
+      [
+        2,
+        "00:00:15.306000",
+        "00:00:16.306000",
+        "Less Is Now."
+      ],
+      [
+        73,
+        "00:04:00.281000",
+        "00:04:02.593000",
+        "- These guys, The Minimalists.\" -  The Minimalists."
+      ],
+      [
+        74,
+        "00:04:02.617000",
+        "00:04:05.703000",
+        "The Minimalists are with us. Joshua and Ryan."
+      ],
+      [
+        77,
+        "00:04:13.044000",
+        "00:04:17.757000",
+        "I don't think you can understand how Josh and I came to be minimalists"
+      ]
+    ],
+    "regex": "\\b((?!\\bMinimalists:)Minimalists|(?!\\bLess\\ Is\\ Now:)Less\\ Is\\ Now)(?!\\:)(?!'t)\\b",
+    "runtime": 53,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

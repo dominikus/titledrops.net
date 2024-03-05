@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0133197",
+    "title": "Shadow Run",
+    "year": 1998,
+    "genres": [
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1465,
+    "occurrences": [
+      [
+        612,
+        "00:34:20.880000",
+        "00:34:23.800000",
+        "Still the same then. We used to call this the \"Shadow Run.\""
+      ],
+      [
+        841,
+        "00:47:11.640000",
+        "00:47:14.160000",
+        "and Bob's your uncle it's gotta take the shadow run."
+      ]
+    ],
+    "regex": "\\b((?!\\bShadow\\ Run:)Shadow\\ Run)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

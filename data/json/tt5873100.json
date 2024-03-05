@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt5873100",
+    "title": "Created Equal",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1570,
+    "occurrences": [
+      [
+        799,
+        "00:39:38.966000",
+        "00:39:42.437000",
+        "when they said, \"All men are created equal.\""
+      ],
+      [
+        807,
+        "00:40:02.556000",
+        "00:40:06.391000",
+        "So, now the words \"all men are created equal\","
+      ],
+      [
+        1442,
+        "01:18:47.712000",
+        "01:18:50.683000",
+        "One dogma, is that men and women are created equal."
+      ]
+    ],
+    "regex": "\\b((?!\\bCreated\\ Equal:)Created\\ Equal)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

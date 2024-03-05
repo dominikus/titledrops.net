@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0887973",
+    "title": "Hell's Ground",
+    "year": 2007,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 370,
+    "occurrences": [
+      [
+        87,
+        "00:17:28.983000",
+        "00:17:33.113000",
+        "Welcome to Hell's Ground. Your destiny is in your hands"
+      ],
+      [
+        113,
+        "00:19:46.784000",
+        "00:19:49.308000",
+        "Haven't you heard of Hell's Ground?"
+      ],
+      [
+        116,
+        "00:19:58.161000",
+        "00:20:00.152000",
+        "Hell's Ground!!"
+      ]
+    ],
+    "regex": "\\b((?!\\bHell's\\ Ground:)Hell's\\ Ground)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

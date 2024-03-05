@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0216651",
+    "title": "Vampire Hunter D: Bloodlust",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Animation",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 949,
+    "occurrences": [
+      [
+        502,
+        "00:43:35.250000",
+        "00:43:39.230000",
+        "And so the townspeople pooled their money to hire a vampire hunter."
+      ],
+      [
+        729,
+        "01:05:47.450000",
+        "01:05:52.590000",
+        "He was impatient with her vanity; offended by her bloodlust, her gluttony."
+      ]
+    ],
+    "regex": "\\b((?!\\bVampire\\ Hunter:)Vampire\\ Hunter|(?!\\bBloodlust:)Bloodlust)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

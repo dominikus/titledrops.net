@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3319920",
+    "title": "Regression",
+    "year": 2015,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1036,
+    "occurrences": [
+      [
+        131,
+        "00:13:34.730000",
+        "00:13:39.317000",
+        "It's not that difficult to find a key and free them. Provoke a regression."
+      ],
+      [
+        745,
+        "01:09:56.567000",
+        "01:09:59.235000",
+        "She suffered a spontaneous regression."
+      ]
+    ],
+    "regex": "\\b((?!\\bRegression:)Regression)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

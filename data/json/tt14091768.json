@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt14091768",
+    "title": "Ste. Anne",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 302,
+    "occurrences": [
+      [
+        203,
+        "00:51:57.800000",
+        "00:51:59.175000",
+        "Ste. Anne, Manitoba."
+      ],
+      [
+        215,
+        "00:52:34.800000",
+        "00:52:36.800000",
+        "a big beautiful house in Ste. Anne.?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSte\\.\\ Anne:)Ste\\.\\ Anne)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

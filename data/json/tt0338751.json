@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0338751",
+    "title": "The Aviator",
+    "year": 2004,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2325,
+    "occurrences": [
+      [
+        720,
+        "00:52:57.494000",
+        "00:53:01.534000",
+        "A daring aviator, a true pioneer of the world's airways."
+      ],
+      [
+        1518,
+        "01:47:24.864000",
+        "01:47:27.864000",
+        "I'm Howard Hughes, the aviator."
+      ]
+    ],
+    "regex": "\\b((?!\\bAviator:)Aviator)(?!\\:)(?!'t)\\b",
+    "runtime": 170,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

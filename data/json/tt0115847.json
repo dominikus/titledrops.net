@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0115847",
+    "title": "Caught",
+    "year": 1996,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 951,
+    "occurrences": [
+      [
+        1,
+        "00:01:23.800000",
+        "00:01:27.210000",
+        "Caught"
+      ],
+      [
+        119,
+        "00:14:19.300000",
+        "00:14:22.580000",
+        "Caught my act, at the comedy center the other day."
+      ],
+      [
+        173,
+        "00:18:33",
+        "00:18:36.600000",
+        "Before I got sick and it came apart, you should have caught my act."
+      ],
+      [
+        942,
+        "01:42:08.400000",
+        "01:42:12.860000",
+        "Like the shad, some of us get caught,"
+      ]
+    ],
+    "regex": "\\b((?!\\bCaught:)Caught)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0036230",
+    "title": "Old Acquaintance",
+    "year": 1943,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1931,
+    "occurrences": [
+      [
+        1928,
+        "01:49:40.953000",
+        "01:49:44.980000",
+        "Well, if it's about us, why not Old Acquaintance?"
+      ],
+      [
+        1929,
+        "01:49:45.625000",
+        "01:49:47.286000",
+        "Old Acquaintance."
+      ],
+      [
+        1930,
+        "01:49:48.628000",
+        "01:49:51.597000",
+        "Old Acquaintance. Of course, Kit."
+      ]
+    ],
+    "regex": "\\b((?!\\bOld\\ Acquaintance:)Old\\ Acquaintance)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

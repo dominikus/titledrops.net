@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0085158",
+    "title": "A Friend of Vincent",
+    "year": 1983,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 1058,
+    "occurrences": [
+      [
+        251,
+        "00:25:22.416000",
+        "00:25:25.708000",
+        "Albert Palm. I'm a friend of Vincent's."
+      ],
+      [
+        274,
+        "00:26:38.458000",
+        "00:26:40.083000",
+        "I'm a friend of Vincent's."
+      ],
+      [
+        375,
+        "00:35:27.750000",
+        "00:35:29.166000",
+        "No, I'm a friend of Vincent's."
+      ]
+    ],
+    "regex": "\\b((?!\\bFriend\\ of\\ Vincent:)Friend\\ of\\ Vincent)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

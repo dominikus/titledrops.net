@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt13446128",
+    "title": "Love Destiny: The Movie",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "History",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1375,
+    "occurrences": [
+      [
+        0,
+        "00:00:53.291000",
+        "00:00:56.875000",
+        "THIS MOVIE IS INSPIRED BY HISTORICAL ANECDOTES,"
+      ],
+      [
+        2,
+        "00:00:59.666000",
+        "00:01:03.208000",
+        "THE EVENTS DEPICTED IN THIS MOVIE ARE FICTITIOUS."
+      ]
+    ],
+    "regex": "\\b((?!\\bLove\\ Destiny:)Love\\ Destiny|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 166,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

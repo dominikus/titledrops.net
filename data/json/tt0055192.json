@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0055192",
+    "title": "Morgan the Pirate",
+    "year": 1960,
+    "genres": [
+      "Adventure"
+    ],
+    "count": 5,
+    "all_lines": 509,
+    "occurrences": [
+      [
+        185,
+        "00:41:45.574000",
+        "00:41:46.818000",
+        "Prisoner of Morgan the Pirate."
+      ],
+      [
+        190,
+        "00:42:14.256000",
+        "00:42:20.119000",
+        "A reward of 15,000 ducats to whoever captures or kills Morgan the Pirate."
+      ],
+      [
+        196,
+        "00:42:49.550000",
+        "00:42:53.584000",
+        "the scourge of the seas, Morgan the Pirate."
+      ],
+      [
+        200,
+        "00:43:41.507000",
+        "00:43:44.779000",
+        "proclaims that the reward for the capture of Morgan the Pirate has been raised"
+      ],
+      [
+        321,
+        "00:58:17.925000",
+        "00:58:21.422000",
+        "the defeat and inglorious end of the notorious Morgan the Pirate."
+      ]
+    ],
+    "regex": "\\b((?!\\bMorgan\\ the\\ Pirate:)Morgan\\ the\\ Pirate)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

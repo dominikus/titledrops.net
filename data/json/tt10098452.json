@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt10098452",
+    "title": "Animals",
+    "year": 2021,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 936,
+    "occurrences": [
+      [
+        628,
+        "00:52:38.049000",
+        "00:52:41.257000",
+        "Smell it, Milos! - You really are animals."
+      ],
+      [
+        629,
+        "00:52:41.425000",
+        "00:52:43.216000",
+        "You really are animals."
+      ]
+    ],
+    "regex": "\\b((?!\\bAnimals:)Animals)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

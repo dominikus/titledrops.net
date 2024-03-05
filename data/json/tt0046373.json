@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0046373",
+    "title": "The Great Adventure",
+    "year": 1953,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 245,
+    "occurrences": [
+      [
+        172,
+        "01:06:29.167000",
+        "01:06:35.436000",
+        "With magical powers, he can open the door to The Great Adventure."
+      ],
+      [
+        204,
+        "01:13:04.127000",
+        "01:13:10.646000",
+        "Not even an otter with a boy who hoped to capture the great adventure-"
+      ]
+    ],
+    "regex": "\\b((?!\\bGreat\\ Adventure:)Great\\ Adventure)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

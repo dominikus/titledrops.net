@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0066095",
+    "title": "Moonfire",
+    "year": 1970,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1162,
+    "occurrences": [
+      [
+        133,
+        "00:13:32.760000",
+        "00:13:35.910000",
+        "You might say to the Moonfire, as the project"
+      ],
+      [
+        135,
+        "00:13:37.290000",
+        "00:13:40.840000",
+        "This Moonfire project has been under wraps for many months."
+      ]
+    ],
+    "regex": "\\b((?!\\bMoonfire:)Moonfire)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

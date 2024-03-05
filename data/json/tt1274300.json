@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1274300",
+    "title": "The Tempest",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1307,
+    "occurrences": [
+      [
+        135,
+        "00:11:11.280000",
+        "00:11:15.114000",
+        "Hast thou, spirit, perform'd, to point, the tempest that l bade thee?"
+      ],
+      [
+        1198,
+        "01:32:00.680000",
+        "01:32:02.477000",
+        "ln this last tempest"
+      ]
+    ],
+    "regex": "\\b((?!\\bTempest:)Tempest)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

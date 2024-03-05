@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4761112",
+    "title": "The Mauritanian",
+    "year": 2021,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1632,
+    "occurrences": [
+      [
+        44,
+        "00:07:48.150000",
+        "00:07:52.717000",
+        "In November 2001, their son was taken for questioning by Mauritanian police."
+      ],
+      [
+        147,
+        "00:13:06.484000",
+        "00:13:09.284000",
+        "Mohamedou Ould Slahi. The Mauritanian."
+      ]
+    ],
+    "regex": "\\b((?!\\bMauritanian:)Mauritanian)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

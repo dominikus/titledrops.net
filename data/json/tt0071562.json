@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0071562",
+    "title": "The Godfather Part II",
+    "year": 1974,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1501,
+    "occurrences": [
+      [
+        1026,
+        "02:20:57.200000",
+        "02:21:03.100000",
+        "Did he at times use an aIias that was known in certain circIes as Godfather?"
+      ],
+      [
+        1027,
+        "02:21:03.900000",
+        "02:21:10",
+        "Godfather is a term used by his friends. One of affection and respect."
+      ],
+      [
+        1178,
+        "02:35:15.400000",
+        "02:35:19.900000",
+        "and under Vito Corleone, aIso known as the Godfather?"
+      ],
+      [
+        1179,
+        "02:35:25.600000",
+        "02:35:28.200000",
+        "I never knew any Godfather."
+      ]
+    ],
+    "regex": "\\b((?!\\bGodfather:)Godfather)(?!\\:)(?!'t)\\b",
+    "runtime": 202,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 9
+  }
+]

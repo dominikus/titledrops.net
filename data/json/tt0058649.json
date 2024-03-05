@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0058649",
+    "title": "The Third Secret",
+    "year": 1964,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1234,
+    "occurrences": [
+      [
+        383,
+        "00:33:48.090000",
+        "00:33:50.081000",
+        "He knows the third secret."
+      ],
+      [
+        384,
+        "00:33:50.158000",
+        "00:33:52.752000",
+        "The third secret?"
+      ],
+      [
+        1134,
+        "01:33:43.948000",
+        "01:33:46.348000",
+        "Do you know what the third secret is, Alex?"
+      ],
+      [
+        1138,
+        "01:34:00.898000",
+        "01:34:03.025000",
+        "The third secret..."
+      ]
+    ],
+    "regex": "\\b((?!\\bThird\\ Secret:)Third\\ Secret)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

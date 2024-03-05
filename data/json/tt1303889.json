@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1303889",
+    "title": "Rembrandt's J'Accuse",
+    "year": 2008,
+    "genres": [
+      "Documentary",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1721,
+    "occurrences": [
+      [
+        63,
+        "00:03:40.286000",
+        "00:03:44.416000",
+        "a j'accuse... Rembrandt's j'accuse."
+      ],
+      [
+        1460,
+        "01:25:06.935000",
+        "01:25:10.894000",
+        "that has come to view Rembrandt's j'accuse accusations,"
+      ]
+    ],
+    "regex": "\\b((?!\\bRembrandt's\\ J'Accuse:)Rembrandt's\\ J'Accuse)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

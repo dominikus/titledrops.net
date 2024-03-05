@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0076935",
+    "title": "The Yellow Handkerchief",
+    "year": 1977,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1106,
+    "occurrences": [
+      [
+        849,
+        "01:16:15.003000",
+        "01:16:20.976000",
+        "How about a yellow handkerchief?"
+      ],
+      [
+        851,
+        "01:16:23.445000",
+        "01:16:26.148000",
+        "If you see a yellow handkerchief, buy some Sake"
+      ],
+      [
+        1030,
+        "01:34:16.017000",
+        "01:34:22.252000",
+        "put a yellow handkerchief on it"
+      ],
+      [
+        1074,
+        "01:37:55.369000",
+        "01:37:57.571000",
+        "If there's no yellow handkerchief,"
+      ]
+    ],
+    "regex": "\\b((?!\\bYellow\\ Handkerchief:)Yellow\\ Handkerchief)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0044586",
+    "title": "Encore",
+    "year": 1951,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1441,
+    "occurrences": [
+      [
+        3,
+        "00:01:29.853000",
+        "00:01:32.027000",
+        "to introduce Encore"
+      ],
+      [
+        1105,
+        "01:01:53.480000",
+        "01:01:56.448000",
+        "That's right.Hey,Philips encore deux coups."
+      ]
+    ],
+    "regex": "\\b((?!\\bEncore:)Encore)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

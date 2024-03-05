@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5647250",
+    "title": "On the Road",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1823,
+    "occurrences": [
+      [
+        505,
+        "00:35:13.280000",
+        "00:35:15.800000",
+        "Um, just being on the road all the time"
+      ],
+      [
+        631,
+        "00:43:15.320000",
+        "00:43:17.400000",
+        "Well, that's life on the road for you."
+      ]
+    ],
+    "regex": "\\b((?!\\bOn\\ the\\ Road:)On\\ the\\ Road)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

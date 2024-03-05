@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0088027",
+    "title": "On the Line",
+    "year": 1984,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1564,
+    "occurrences": [
+      [
+        101,
+        "00:05:31.880000",
+        "00:05:35.760000",
+        "again you're putting your life on the line."
+      ],
+      [
+        650,
+        "00:33:35",
+        "00:33:38.040000",
+        "My ass has been on the line and nobody ever got shot."
+      ]
+    ],
+    "regex": "\\b((?!\\bOn\\ the\\ Line:)On\\ the\\ Line)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

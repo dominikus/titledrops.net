@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0050282",
+    "title": "Man on the Tracks",
+    "year": 1957,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 629,
+    "occurrences": [
+      [
+        19,
+        "00:04:05.455000",
+        "00:04:06.820000",
+        "- What happened? - Man on the tracks!"
+      ],
+      [
+        601,
+        "01:15:01.607000",
+        "01:15:03.131000",
+        "- What happened? - Man on the tracks!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMan\\ on\\ the\\ Tracks:)Man\\ on\\ the\\ Tracks)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

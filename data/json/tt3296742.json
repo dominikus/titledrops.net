@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt3296742",
+    "title": "Illusion",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 644,
+    "occurrences": [
+      [
+        481,
+        "01:07:43.958000",
+        "01:07:45.881000",
+        "Where is the illusion?"
+      ],
+      [
+        598,
+        "01:20:14.917000",
+        "01:20:19.423000",
+        "What is real and what's illusion Who tells me, yes who..."
+      ],
+      [
+        625,
+        "01:22:03.708000",
+        "01:22:11.126000",
+        "What is real and what's illusion Who tells me, if only I knew."
+      ]
+    ],
+    "regex": "\\b((?!\\bIllusion:)Illusion)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

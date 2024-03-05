@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0340376",
+    "title": "The Statement",
+    "year": 2003,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 489,
+    "occurrences": [
+      [
+        111,
+        "00:24:36.908000",
+        "00:24:38.876000",
+        "Give him the statement."
+      ],
+      [
+        219,
+        "00:34:24.529000",
+        "00:34:28.295000",
+        "There's a statement that says..."
+      ]
+    ],
+    "regex": "\\b((?!\\bStatement:)Statement)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

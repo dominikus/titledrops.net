@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt15477042",
+    "title": "Waitress: The Musical",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "count": 6,
+    "all_lines": 2260,
+    "occurrences": [
+      [
+        102,
+        "00:05:48.448000",
+        "00:05:50.818000",
+        "Am I supposed to put on a waitress uniform myself?"
+      ],
+      [
+        176,
+        "00:09:34.942000",
+        "00:09:38.045000",
+        "Waitress!"
+      ],
+      [
+        646,
+        "00:35:48.215000",
+        "00:35:50.183000",
+        "-So, you're a waitress? -Yeah, I'm a waitress."
+      ],
+      [
+        679,
+        "00:37:28.649000",
+        "00:37:31.652000",
+        "Oh, my God. No, no, no. She was a waitress."
+      ],
+      [
+        975,
+        "00:57:23.110000",
+        "00:57:25.478000",
+        "Oh, you're so lovely, but no, I don't want you as my waitress."
+      ]
+    ],
+    "regex": "\\b((?!\\bWaitress:)Waitress|(?!\\bMusical:)Musical)(?!\\:)(?!'t)\\b",
+    "runtime": 145,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

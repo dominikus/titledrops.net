@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0489099",
+    "title": "Jumper",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1150,
+    "occurrences": [
+      [
+        814,
+        "01:00:44.520000",
+        "01:00:47.797000",
+        "Actually, I knew this Jumper once... crazy bastard..."
+      ],
+      [
+        1044,
+        "01:17:05.400000",
+        "01:17:09.439000",
+        "You're a Jumper! You don't save the girl!"
+      ],
+      [
+        1103,
+        "01:22:25.280000",
+        "01:22:28.511000",
+        "So I'm a Jumper. You're a Paladin."
+      ]
+    ],
+    "regex": "\\b((?!\\bJumper:)Jumper)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

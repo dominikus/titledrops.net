@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt9314984",
+    "title": "The Power",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 6,
+    "all_lines": 766,
+    "occurrences": [
+      [
+        17,
+        "00:03:55.958000",
+        "00:03:57.166000",
+        "there's more power."
+      ],
+      [
+        100,
+        "00:08:20.500000",
+        "00:08:24.916000",
+        "What's it like here, then? When the power's out?"
+      ],
+      [
+        215,
+        "00:18:02.625000",
+        "00:18:04.708000",
+        "Generators will power them."
+      ],
+      [
+        220,
+        "00:18:17",
+        "00:18:19.541000",
+        "I'll be back with the power at 7:00 AM."
+      ],
+      [
+        724,
+        "01:22:30.958000",
+        "01:22:33.208000",
+        "I have the power here."
+      ],
+      [
+        726,
+        "01:22:36.916000",
+        "01:22:38.416000",
+        "Where's the power in that?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPower:)Power)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

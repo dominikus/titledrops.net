@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0256676",
+    "title": "Out of the City",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 607,
+    "occurrences": [
+      [
+        67,
+        "00:05:36.300000",
+        "00:05:39.220000",
+        "Trip out of the city, concrete and grass"
+      ],
+      [
+        69,
+        "00:05:42.060000",
+        "00:05:44.900000",
+        "Trip out of the city, network error on the web"
+      ],
+      [
+        71,
+        "00:05:47.940000",
+        "00:05:50.780000",
+        "Trip out of the city, walls come down"
+      ],
+      [
+        73,
+        "00:05:53.700000",
+        "00:05:56.620000",
+        "Trip out of the city, dust and waste"
+      ]
+    ],
+    "regex": "\\b((?!\\bOut\\ of\\ the\\ City:)Out\\ of\\ the\\ City)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

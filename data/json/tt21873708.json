@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt21873708",
+    "title": "Repeat",
+    "year": 2022,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1781,
+    "occurrences": [
+      [
+        726,
+        "00:45:36.980000",
+        "00:45:41.610000",
+        "Repeat it. -TN21 BA 1488"
+      ],
+      [
+        1132,
+        "01:13:02.940000",
+        "01:13:03.770000",
+        "I will repeat."
+      ],
+      [
+        1137,
+        "01:13:19.360000",
+        "01:13:21.730000",
+        "I repeat, constable reporting from J2 police station."
+      ]
+    ],
+    "regex": "\\b((?!\\bRepeat:)Repeat)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

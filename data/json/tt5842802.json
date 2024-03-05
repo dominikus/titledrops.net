@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5842802",
+    "title": "Dracula",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1044,
+    "occurrences": [
+      [
+        314,
+        "00:23:21.080000",
+        "00:23:24.277000",
+        "Susan and I are the last survivors of the Dracula family."
+      ],
+      [
+        330,
+        "00:24:37.280000",
+        "00:24:43.389000",
+        "Now it's only me, Susan and her father Vladimir left from the Dracula family."
+      ]
+    ],
+    "regex": "\\b((?!\\bDracula:)Dracula)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

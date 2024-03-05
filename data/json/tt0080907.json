@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0080907",
+    "title": "The Hunter",
+    "year": 1980,
+    "genres": [
+      "Action",
+      "Biography",
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 614,
+    "occurrences": [
+      [
+        70,
+        "00:09:33.360000",
+        "00:09:37.751000",
+        "Just look at the two of us. An old sheriff and a bounty hunter."
+      ],
+      [
+        221,
+        "00:28:41",
+        "00:28:43.594000",
+        "Mr Thorson is a bounty hunter."
+      ]
+    ],
+    "regex": "\\b((?!\\bHunter:)Hunter)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt6802896",
+    "title": "A Ciambra",
+    "year": 2017,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 791,
+    "occurrences": [
+      [
+        1,
+        "00:02:05.131000",
+        "00:02:10.940000",
+        "The Ciambra"
+      ],
+      [
+        744,
+        "01:35:22.356000",
+        "01:35:25.772000",
+        "Or they'll kick you out, you can not go back to Ciambra."
+      ]
+    ],
+    "regex": "\\b((?!\\bCiambra:)Ciambra)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

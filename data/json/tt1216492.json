@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1216492",
+    "title": "Leap Year",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1324,
+    "occurrences": [
+      [
+        108,
+        "00:05:54.283000",
+        "00:05:55.347000",
+        "It is leap year, you know."
+      ],
+      [
+        156,
+        "00:09:17.541000",
+        "00:09:20.644000",
+        "and pull a Grandma Jane. It is leap year, you know."
+      ],
+      [
+        161,
+        "00:09:30.654000",
+        "00:09:34.791000",
+        "that in a leap year, a woman can propose to a man on February 29th,"
+      ],
+      [
+        412,
+        "00:25:56.522000",
+        "00:25:59.691000",
+        "on the 29th of February in a leap year."
+      ],
+      [
+        431,
+        "00:27:22.005000",
+        "00:27:24.602000",
+        "Better that than an idiot. \"Leap year, diddly-eye!"
+      ]
+    ],
+    "regex": "\\b((?!\\bLeap\\ Year:)Leap\\ Year)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

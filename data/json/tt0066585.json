@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0066585",
+    "title": "Wuthering Heights",
+    "year": 1970,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 863,
+    "occurrences": [
+      [
+        91,
+        "00:09:20.520000",
+        "00:09:25.674000",
+        "Less than two years after his arrival at Wuthering Heights, Mrs Earnshaw died,"
+      ],
+      [
+        230,
+        "00:24:42.640000",
+        "00:24:46.792000",
+        "- It is. She's from Wuthering Heights. - I hope she's all right."
+      ]
+    ],
+    "regex": "\\b((?!\\bWuthering\\ Heights:)Wuthering\\ Heights)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

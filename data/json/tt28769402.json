@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt28769402",
+    "title": "The Exorcists",
+    "year": 2023,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1355,
+    "occurrences": [
+      [
+        45,
+        "00:03:15.897000",
+        "00:03:18.432000",
+        "in exorcists?"
+      ],
+      [
+        341,
+        "00:23:18.532000",
+        "00:23:22.970000",
+        "And Baptist exorcists are even more rare than female priests."
+      ]
+    ],
+    "regex": "\\b((?!\\bExorcists:)Exorcists)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3
+  }
+]

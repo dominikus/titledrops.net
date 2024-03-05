@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0760506",
+    "title": "The Booth",
+    "year": 2005,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 852,
+    "occurrences": [
+      [
+        215,
+        "00:16:19.311000",
+        "00:16:20.573000",
+        "in that booth."
+      ],
+      [
+        774,
+        "01:01:15.138000",
+        "01:01:20.098000",
+        "Our sponsors are here. Can they enter the booth?"
+      ],
+      [
+        804,
+        "01:05:54.884000",
+        "01:05:59.446000",
+        "I think from inside the booth."
+      ]
+    ],
+    "regex": "\\b((?!\\bBooth:)Booth)(?!\\:)(?!'t)\\b",
+    "runtime": 73,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

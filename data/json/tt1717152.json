@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1717152",
+    "title": "Cracks in the Shell",
+    "year": 2011,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 825,
+    "occurrences": [
+      [
+        137,
+        "00:16:39.507000",
+        "00:16:41.797000",
+        "There are cracks in the shell."
+      ],
+      [
+        147,
+        "00:17:26.673000",
+        "00:17:28.839000",
+        "There are cracks in the shell."
+      ]
+    ],
+    "regex": "\\b((?!\\bCracks\\ in\\ the\\ Shell:)Cracks\\ in\\ the\\ Shell)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

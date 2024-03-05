@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0053925",
+    "title": "House of Usher",
+    "year": 1960,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 623,
+    "occurrences": [
+      [
+        0,
+        "00:00:50.733000",
+        "00:00:55.278000",
+        "The House of Usher"
+      ],
+      [
+        377,
+        "00:41:57.433000",
+        "00:42:00.214000",
+        "The house of Usher seems to you, then, normal?"
+      ],
+      [
+        622,
+        "01:17:23.861000",
+        "01:17:29.281000",
+        "...the fragments of the House of Usher\". POE"
+      ]
+    ],
+    "regex": "\\b((?!\\bHouse\\ of\\ Usher:)House\\ of\\ Usher)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

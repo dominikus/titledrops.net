@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4960764",
+    "title": "Go North",
+    "year": 2017,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 695,
+    "occurrences": [
+      [
+        181,
+        "00:25:20.585000",
+        "00:25:22.820000",
+        "You can't just go north."
+      ],
+      [
+        571,
+        "01:11:47.236000",
+        "01:11:49.671000",
+        "Go north. Go north."
+      ]
+    ],
+    "regex": "\\b((?!\\bGo\\ North:)Go\\ North)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt0775440",
+    "title": "Cell",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "count": 7,
+    "all_lines": 869,
+    "occurrences": [
+      [
+        85,
+        "00:09:02.632000",
+        "00:09:05.466000",
+        "- Quick, let's go. - Don't use your cell phone."
+      ],
+      [
+        92,
+        "00:11:06.373000",
+        "00:11:08.573000",
+        "- - Don't use your cell phones."
+      ],
+      [
+        220,
+        "00:20:16.328000",
+        "00:20:20.697000",
+        "My kid had a cell phone, but he never made calls."
+      ],
+      [
+        331,
+        "00:36:39.232000",
+        "00:36:41.999000",
+        "The boys who didn't have cell phones have all run off."
+      ],
+      [
+        338,
+        "00:36:57.981000",
+        "00:37:00.341000",
+        "Quite a problem these cell phones have caused now, isn't it?"
+      ],
+      [
+        523,
+        "00:53:02.657000",
+        "00:53:05.891000",
+        "Like a dead zone. No cell phone towers, so it's safe."
+      ],
+      [
+        678,
+        "01:07:00.822000",
+        "01:07:02.922000",
+        "and finally put up a cell phone tower."
+      ]
+    ],
+    "regex": "\\b((?!\\bCell:)Cell)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

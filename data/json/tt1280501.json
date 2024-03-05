@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt1280501",
+    "title": "The Necessities of Life",
+    "year": 2008,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 518,
+    "occurrences": [
+      [
+        0,
+        "00:00:56.589000",
+        "00:00:59.956000",
+        "The Necessities of Life"
+      ],
+      [
+        483,
+        "01:28:10.752000",
+        "01:28:14.586000",
+        "There's everything you need, all the necessities of life."
+      ]
+    ],
+    "regex": "\\b((?!\\bNecessities\\ of\\ Life:)Necessities\\ of\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

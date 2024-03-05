@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt7070496",
+    "title": "Meow",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 7,
+    "all_lines": 1334,
+    "occurrences": [
+      [
+        5,
+        "00:01:09.082000",
+        "00:01:11.082000",
+        "Meow"
+      ],
+      [
+        15,
+        "00:02:02.791000",
+        "00:02:05.707000",
+        "This is Planet Meow's palace"
+      ],
+      [
+        339,
+        "00:22:58.457000",
+        "00:23:00.873000",
+        "Planet Meow is in greater danger than ever"
+      ],
+      [
+        1090,
+        "01:13:38.416000",
+        "01:13:40.332000",
+        "Meow..."
+      ],
+      [
+        1166,
+        "01:22:57.041000",
+        "01:23:00.374000",
+        "I'm actually a warrior from Planet Meow"
+      ],
+      [
+        1274,
+        "01:33:25.582000",
+        "01:33:27.207000",
+        "There's nothing to see on Meow"
+      ],
+      [
+        1302,
+        "01:35:40.749000",
+        "01:35:42.624000",
+        "When will you take us on a trip to Planet Meow?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMeow:)Meow)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

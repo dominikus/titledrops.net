@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0062153",
+    "title": "The President's Analyst",
+    "year": 1967,
+    "genres": [
+      "Comedy",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1206,
+    "occurrences": [
+      [
+        138,
+        "00:13:44.957000",
+        "00:13:48.791000",
+        "The president's analyst. Beautiful."
+      ],
+      [
+        438,
+        "00:42:36.186000",
+        "00:42:39.781000",
+        "has run away from his job as the president's analyst"
+      ],
+      [
+        784,
+        "01:09:55.291000",
+        "01:10:00.058000",
+        "Look, I just don't wanna be the president's analyst anymore."
+      ]
+    ],
+    "regex": "\\b((?!\\bPresident's\\ Analyst:)President's\\ Analyst)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

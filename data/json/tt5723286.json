@@ -1,0 +1,47 @@
+[
+  {
+    "imdb": "tt5723286",
+    "title": "Wheelman",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1094,
+    "occurrences": [
+      [
+        109,
+        "00:10:44.352000",
+        "00:10:47.563000",
+        "That's weird. I drive the car. I'm the wheelman, okay?"
+      ],
+      [
+        111,
+        "00:10:49.440000",
+        "00:10:51.734000",
+        "- That's it, you're just the wheelman? - That's right."
+      ],
+      [
+        113,
+        "00:10:54.487000",
+        "00:10:56.155000",
+        "Well, then I'll just call you \"Wheelman.\""
+      ],
+      [
+        120,
+        "00:11:17.843000",
+        "00:11:21.430000",
+        "The guy in the front has a black belt in fucking weirdness. That's Wheelman."
+      ]
+    ],
+    "regex": "\\b((?!\\bWheelman:)Wheelman)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [
+      "Wheelman"
+    ],
+    "title_is_name": true,
+    "rating": 6.4
+  }
+]

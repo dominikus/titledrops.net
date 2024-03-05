@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7214762",
+    "title": "Jim & Andy: The Great Beyond",
+    "year": 2017,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1875,
+    "occurrences": [
+      [
+        1721,
+        "01:25:50.395000",
+        "01:25:52.063000",
+        "The great beyond to me."
+      ],
+      [
+        1723,
+        "01:25:54.524000",
+        "01:25:58.695000",
+        "but to me, Andy was the great beyond."
+      ]
+    ],
+    "regex": "\\b((?!\\bJim\\ \\&\\ Andy:)Jim\\ \\&\\ Andy|(?!\\bGreat\\ Beyond:)Great\\ Beyond)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1638328",
+    "title": "Love Lasts Three Years",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1493,
+    "occurrences": [
+      [
+        888,
+        "00:57:05.120000",
+        "00:57:08.875000",
+        "* \"Love lasts three years,\" Feodor Belvedere."
+      ],
+      [
+        899,
+        "00:57:43.080000",
+        "00:57:44.718000",
+        ".. \"Love lasts three years.\""
+      ],
+      [
+        1039,
+        "01:05:09.200000",
+        "01:05:12.875000",
+        "\"Love lasts three years, it is moms fault.\""
+      ],
+      [
+        1284,
+        "01:19:18.320000",
+        "01:19:19.515000",
+        "* .. \"Love lasts three years.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bLove\\ Lasts\\ Three\\ Years:)Love\\ Lasts\\ Three\\ Years)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

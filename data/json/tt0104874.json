@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0104874",
+    "title": "Minbo",
+    "year": 1992,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1765,
+    "occurrences": [
+      [
+        53,
+        "00:03:50.296000",
+        "00:03:52.958000",
+        "Yes. I specialize in 'Minbo'."
+      ],
+      [
+        54,
+        "00:03:53.066000",
+        "00:03:54.328000",
+        "What's Minbo?"
+      ],
+      [
+        605,
+        "00:36:58.916000",
+        "00:37:00.884000",
+        "I can. Minbo is my specialty."
+      ],
+      [
+        606,
+        "00:37:01.719000",
+        "00:37:02.515000",
+        "Minbo?"
+      ],
+      [
+        611,
+        "00:37:13.664000",
+        "00:37:15.791000",
+        "But we call it 'Minbo' for short."
+      ]
+    ],
+    "regex": "\\b((?!\\bMinbo:)Minbo)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

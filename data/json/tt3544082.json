@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3544082",
+    "title": "45 Years",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1080,
+    "occurrences": [
+      [
+        973,
+        "01:24:58.760000",
+        "01:25:02.262000",
+        "45 years ago... today."
+      ],
+      [
+        1017,
+        "01:28:05.321000",
+        "01:28:10.560000",
+        "this is the very same song that was played 45 years ago today."
+      ]
+    ],
+    "regex": "\\b((?!\\b45\\ Years:)45\\ Years)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

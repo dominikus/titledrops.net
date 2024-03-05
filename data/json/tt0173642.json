@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0173642",
+    "title": "Guardian Angel",
+    "year": 1987,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 550,
+    "occurrences": [
+      [
+        205,
+        "00:23:58.680000",
+        "00:24:06.678000",
+        "So the Guardian Angel took her away."
+      ],
+      [
+        421,
+        "00:55:30.877000",
+        "00:55:40.141000",
+        "In my dream appeared Guardian Angel ."
+      ],
+      [
+        426,
+        "00:56:08.509000",
+        "00:56:11.620000",
+        "It's about Saibia. That's our Guardian Angel."
+      ],
+      [
+        443,
+        "00:58:05.586000",
+        "00:58:16.745000",
+        "In my dream appeared Guardian Angel."
+      ]
+    ],
+    "regex": "\\b((?!\\bGuardian\\ Angel:)Guardian\\ Angel)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

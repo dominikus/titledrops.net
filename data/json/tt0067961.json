@@ -1,0 +1,59 @@
+[
+  {
+    "imdb": "tt0067961",
+    "title": "Wanda",
+    "year": 1970,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 449,
+    "occurrences": [
+      [
+        7,
+        "00:07:15.152000",
+        "00:07:17.063000",
+        "Hello, Wanda. I'm coming!"
+      ],
+      [
+        9,
+        "00:07:33.672000",
+        "00:07:36.106000",
+        "Yes, picking coal again, Wanda."
+      ],
+      [
+        15,
+        "00:07:59.032000",
+        "00:07:59.828000",
+        "Here it is, Wanda."
+      ],
+      [
+        25,
+        "00:09:30.992000",
+        "00:09:32.789000",
+        "Wanda Goronski."
+      ],
+      [
+        44,
+        "00:11:12.632000",
+        "00:11:15.590000",
+        "Wanda Goronski? Step up here, please."
+      ],
+      [
+        356,
+        "01:15:42.672000",
+        "01:15:45.505000",
+        "Wanda... Maybe you never did anything before..."
+      ]
+    ],
+    "regex": "\\b((?!\\bWanda:)Wanda)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [
+      "Wanda",
+      "Wanda`s Sister"
+    ],
+    "title_is_name": true,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2125685",
+    "title": "Mockingbird",
+    "year": 2014,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1097,
+    "occurrences": [
+      [
+        332,
+        "00:22:36.789000",
+        "00:22:39.524000",
+        "\"1805 Mockingbird.\""
+      ],
+      [
+        913,
+        "01:01:03.594000",
+        "01:01:05.294000",
+        "- EMMY: Um, Mockingbird. Mockingbird. Um... - TOM: The address?"
+      ],
+      [
+        914,
+        "01:01:05.295000",
+        "01:01:08.029000",
+        "- TOM: What? - EMMY: 1805, Mockingbird."
+      ],
+      [
+        968,
+        "01:05:21.919000",
+        "01:05:26.689000",
+        "\"Your presence is requested as the guest of honor at 1805, Mockingbird Drive.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bMockingbird:)Mockingbird)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

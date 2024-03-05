@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2382320",
+    "title": "No Time to Die",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 2124,
+    "occurrences": [
+      [
+        247,
+        "00:26:46.230000",
+        "00:26:49.733000",
+        ">> No time to die >"
+      ],
+      [
+        248,
+        "00:26:52.694000",
+        "00:26:59.660000",
+        ">> No time to die >"
+      ]
+    ],
+    "regex": "\\b((?!\\bNo\\ Time\\ to\\ Die:)No\\ Time\\ to\\ Die)(?!\\:)(?!'t)\\b",
+    "runtime": 163,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

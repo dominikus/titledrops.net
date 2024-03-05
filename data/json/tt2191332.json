@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2191332",
+    "title": "Watchtower",
+    "year": 2012,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 673,
+    "occurrences": [
+      [
+        0,
+        "00:01:09.200000",
+        "00:01:13.513000",
+        "Watchtower"
+      ],
+      [
+        138,
+        "00:20:23.680000",
+        "00:20:26.514000",
+        "- Go to the watchtower again ? - Yes"
+      ]
+    ],
+    "regex": "\\b((?!\\bWatchtower:)Watchtower)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

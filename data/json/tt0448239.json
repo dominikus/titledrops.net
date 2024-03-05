@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0448239",
+    "title": "Offset",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 866,
+    "occurrences": [
+      [
+        44,
+        "00:07:12",
+        "00:07:15.276000",
+        "Do you know how much the offset machine cost me?"
+      ],
+      [
+        115,
+        "00:13:30.680000",
+        "00:13:33.672000",
+        "That's the new offset machine."
+      ],
+      [
+        740,
+        "01:27:21.600000",
+        "01:27:26.276000",
+        "the new offset machine is being used only 30% of the time."
+      ]
+    ],
+    "regex": "\\b((?!\\bOffset:)Offset)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

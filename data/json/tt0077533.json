@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0077533",
+    "title": "Faces of Death",
+    "year": 1978,
+    "genres": [
+      "Documentary",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 877,
+    "occurrences": [
+      [
+        9,
+        "00:05:10.810000",
+        "00:05:16.815000",
+        "And over the past 20 years, l've compiled a library of the many faces of death."
+      ],
+      [
+        32,
+        "00:06:46.781000",
+        "00:06:52.994000",
+        "for l am sure you will gain a new perspective from the many faces of death."
+      ],
+      [
+        476,
+        "01:01:26.683000",
+        "01:01:31.520000",
+        "Of the many faces of death l have studied, suicide is the most perplexing."
+      ]
+    ],
+    "regex": "\\b((?!\\bFaces\\ of\\ Death:)Faces\\ of\\ Death)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

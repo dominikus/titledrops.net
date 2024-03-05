@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0187393",
+    "title": "The Patriot",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1369,
+    "occurrences": [
+      [
+        99,
+        "00:12:40.719000",
+        "00:12:42.471000",
+        "...I understood you to be a patriot."
+      ],
+      [
+        100,
+        "00:12:43.055000",
+        "00:12:46.600000",
+        "If you mean by \"patriot,\" am I angry about taxation without representation?"
+      ]
+    ],
+    "regex": "\\b((?!\\bPatriot:)Patriot)(?!\\:)(?!'t)\\b",
+    "runtime": 165,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

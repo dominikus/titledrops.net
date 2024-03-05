@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0872339",
+    "title": "Tartarus",
+    "year": 2005,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 949,
+    "occurrences": [
+      [
+        530,
+        "00:49:24.683000",
+        "00:49:26.833000",
+        "- Tartarus is a place of preparation."
+      ],
+      [
+        661,
+        "00:57:17.850000",
+        "00:57:19.999000",
+        "- Tartarus. - Ah!"
+      ],
+      [
+        700,
+        "00:58:54.090000",
+        "00:58:56.599000",
+        "- You've been in Tartarus for several years, John."
+      ]
+    ],
+    "regex": "\\b((?!\\bTartarus:)Tartarus)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

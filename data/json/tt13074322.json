@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt13074322",
+    "title": "The Gulf of Silence",
+    "year": 2020,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 795,
+    "occurrences": [
+      [
+        770,
+        "01:19:10.017000",
+        "01:19:13.645000",
+        "I wrote a book called \"The Gulf of Silence\" in 2012"
+      ],
+      [
+        773,
+        "01:19:35.050000",
+        "01:19:45.450000",
+        "She said the philosophy behind the CEU was to try and bridge the gulf of silence between us and whatever's out there."
+      ]
+    ],
+    "regex": "\\b((?!\\bGulf\\ of\\ Silence:)Gulf\\ of\\ Silence)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

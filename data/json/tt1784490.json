@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1784490",
+    "title": "Karak",
+    "year": 2011,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 829,
+    "occurrences": [
+      [
+        67,
+        "00:08:48.208000",
+        "00:08:51.083000",
+        "Even if you didn't mention it, Karak Highway..."
+      ],
+      [
+        274,
+        "00:24:53.292000",
+        "00:24:57.042000",
+        "...around Karak Highway, that it is haunted?"
+      ],
+      [
+        425,
+        "00:39:41.500000",
+        "00:39:44.167000",
+        "Have you heard, Karak..."
+      ],
+      [
+        820,
+        "01:23:12.958000",
+        "01:23:15.166000",
+        "...in Karak area."
+      ]
+    ],
+    "regex": "\\b((?!\\bKarak:)Karak)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

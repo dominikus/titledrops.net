@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0817885",
+    "title": "Colic: The Movie",
+    "year": 2006,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 794,
+    "occurrences": [
+      [
+        17,
+        "00:03:20.432000",
+        "00:03:24.067000",
+        "COLIC"
+      ],
+      [
+        214,
+        "00:29:05.461000",
+        "00:29:10.610000",
+        "Your son appears to have colic."
+      ],
+      [
+        215,
+        "00:29:10.820000",
+        "00:29:14.759000",
+        "Colic? What is Colic?"
+      ]
+    ],
+    "regex": "\\b((?!\\bColic:)Colic|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0092218",
+    "title": "Windaria",
+    "year": 1986,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 5,
+    "all_lines": 483,
+    "occurrences": [
+      [
+        5,
+        "00:02:19.750000",
+        "00:02:22.048000",
+        "We must pray to the Tree of Windaria."
+      ],
+      [
+        9,
+        "00:02:52.048000",
+        "00:03:03.947000",
+        "Windaria"
+      ],
+      [
+        162,
+        "00:28:37.349000",
+        "00:28:45.048000",
+        "Not while there's a Tree of Windaria... The tree which only brings good memories."
+      ],
+      [
+        177,
+        "00:30:41.948000",
+        "00:30:49.148000",
+        "But I like you this way.  And we have the Tree of Windaria, which neither Itha nor Paro have."
+      ],
+      [
+        274,
+        "00:50:40.266000",
+        "00:50:42.864000",
+        "The Tree of Windaria ahead. To the starboard!"
+      ]
+    ],
+    "regex": "\\b((?!\\bWindaria:)Windaria)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1838544",
+    "title": "Gone",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1122,
+    "occurrences": [
+      [
+        166,
+        "00:19:16.405000",
+        "00:19:18.282000",
+        "- Where's her purse? - It's gone."
+      ],
+      [
+        590,
+        "00:45:55.503000",
+        "00:45:56.675000",
+        "She's gone."
+      ],
+      [
+        728,
+        "00:58:23.375000",
+        "00:58:27.755000",
+        "DR. ANDERS: Jill, he's gone and he is never coming back."
+      ],
+      [
+        735,
+        "00:58:43.603000",
+        "00:58:46.823000",
+        "Tell Sergeant Powers to leave, and when he's gone, I'll come up."
+      ]
+    ],
+    "regex": "\\b((?!\\bGone:)Gone)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

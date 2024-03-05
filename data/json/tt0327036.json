@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0327036",
+    "title": "Martin Lawrence Live: Runteldat",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1601,
+    "occurrences": [
+      [
+        2,
+        "00:00:54.888000",
+        "00:00:56.378000",
+        "Runteldat."
+      ],
+      [
+        65,
+        "00:05:40.807000",
+        "00:05:42.274000",
+        "Runteldat. Nigger."
+      ]
+    ],
+    "regex": "\\b((?!\\bMartin\\ Lawrence\\ Live:)Martin\\ Lawrence\\ Live|(?!\\bRunteldat:)Runteldat)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

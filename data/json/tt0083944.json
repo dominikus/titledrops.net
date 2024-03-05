@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0083944",
+    "title": "First Blood",
+    "year": 1982,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 924,
+    "occurrences": [
+      [
+        613,
+        "00:53:02.523000",
+        "00:53:04.567000",
+        "They drew first blood, not me."
+      ],
+      [
+        616,
+        "00:53:10.030000",
+        "00:53:12.211000",
+        "They drew first blood."
+      ]
+    ],
+    "regex": "\\b((?!\\bFirst\\ Blood:)First\\ Blood)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

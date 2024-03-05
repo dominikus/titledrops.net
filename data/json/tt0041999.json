@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0041999",
+    "title": "Border Street",
+    "year": 1948,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1021,
+    "occurrences": [
+      [
+        4,
+        "00:02:23.803000",
+        "00:02:25.600000",
+        "Let us call it Border Street,"
+      ],
+      [
+        1018,
+        "01:54:04.030000",
+        "01:54:07.591000",
+        "that at the other side of the Border Street everybody will fight."
+      ]
+    ],
+    "regex": "\\b((?!\\bBorder\\ Street:)Border\\ Street)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

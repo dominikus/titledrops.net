@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt11044122",
+    "title": "Never Surrender: A Galaxy Quest Documentary",
+    "year": 2019,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1700,
+    "occurrences": [
+      [
+        138,
+        "00:06:56.485000",
+        "00:06:58.688000",
+        "which is never give up, never surrender, like,"
+      ],
+      [
+        1416,
+        "01:07:47.499000",
+        "01:07:51.170000",
+        "or just, never give up, never surrender, all of that stuff,"
+      ],
+      [
+        1682,
+        "01:22:49.367000",
+        "01:22:53.372000",
+        "-  Never give up, never surrender!"
+      ]
+    ],
+    "regex": "\\b((?!\\bNever\\ Surrender:)Never\\ Surrender|(?!\\bGalaxy\\ Quest\\ Documentary:)Galaxy\\ Quest\\ Documentary)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

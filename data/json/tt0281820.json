@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0281820",
+    "title": "The Good Thief",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1287,
+    "occurrences": [
+      [
+        549,
+        "00:39:50.117000",
+        "00:39:55.885000",
+        "Well, he was a good thief here. I can see some Ingres."
+      ],
+      [
+        692,
+        "00:51:32.984000",
+        "00:51:35.418000",
+        "Have you heard the story of the Good Thief, Roger?"
+      ],
+      [
+        695,
+        "00:51:40.725000",
+        "00:51:44.217000",
+        "The Good Thief... besideJesus on the cross..."
+      ],
+      [
+        707,
+        "00:52:22.367000",
+        "00:52:25.632000",
+        "I was good at thieving once, Roger, and I may not be the Good Thief yet..."
+      ]
+    ],
+    "regex": "\\b((?!\\bGood\\ Thief:)Good\\ Thief)(?!\\:)(?!'t)\\b",
+    "runtime": 109,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

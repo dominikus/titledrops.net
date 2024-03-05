@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt1407273",
+    "title": "Penguin's Memory: A Tale of Happiness",
+    "year": 1985,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Romance"
+    ],
+    "count": 1,
+    "all_lines": 1050,
+    "occurrences": [
+      [
+        0,
+        "00:00:11.820000",
+        "00:00:20.030000",
+        "A Penguin's Memories A Tale of Happiness"
+      ]
+    ],
+    "regex": "\\b((?!\\bPenguin's\\ Memory:)Penguin's\\ Memory|(?!\\bTale\\ of\\ Happiness:)Tale\\ of\\ Happiness)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

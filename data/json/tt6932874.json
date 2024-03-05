@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6932874",
+    "title": "The Boss Baby 2: Family Business",
+    "year": 2021,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 2780,
+    "occurrences": [
+      [
+        268,
+        "00:10:41.016000",
+        "00:10:43.143000",
+        "Yep. I'm in the family business."
+      ],
+      [
+        666,
+        "00:24:15.497000",
+        "00:24:17.183000",
+        "You can go ahead and take off. I have urgent family business."
+      ],
+      [
+        1929,
+        "01:09:02.559000",
+        "01:09:04.394000",
+        "YOUNG TIM: Dear Boss Baby,"
+      ],
+      [
+        2691,
+        "01:36:59.569000",
+        "01:37:01.488000",
+        "Nah, we got some family business."
+      ]
+    ],
+    "regex": "\\b((?!\\bBoss\\ Baby:)Boss\\ Baby|(?!\\bFamily\\ Business:)Family\\ Business)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

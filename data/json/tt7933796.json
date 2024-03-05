@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt7933796",
+    "title": "Disclosure",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1567,
+    "occurrences": [
+      [
+        671,
+        "00:29:43.028000",
+        "00:29:44.530000",
+        "and coughed it up as some fanciful disclosure."
+      ],
+      [
+        1029,
+        "00:49:27.721000",
+        "00:49:28.922000",
+        "Minimize the disclosure."
+      ],
+      [
+        1146,
+        "00:54:48.729000",
+        "00:54:51.298000",
+        "But you won't anonymize a four year old kid's disclosure?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDisclosure:)Disclosure)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

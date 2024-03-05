@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt10428440",
+    "title": "Hydra",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 461,
+    "occurrences": [
+      [
+        211,
+        "00:28:22.576000",
+        "00:28:25.913000",
+        "Uh, oh. I left my phone back at Hydra."
+      ],
+      [
+        319,
+        "00:45:05.536000",
+        "00:45:09.250000",
+        "Hydra, a beast from Greek mythology."
+      ]
+    ],
+    "regex": "\\b((?!\\bHydra:)Hydra)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

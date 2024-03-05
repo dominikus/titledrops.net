@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt8999372",
+    "title": "Sir Alex Ferguson: Never Give In",
+    "year": 2021,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Sport"
+    ],
+    "count": 3,
+    "all_lines": 1581,
+    "occurrences": [
+      [
+        1517,
+        "01:39:52.640000",
+        "01:39:55.280000",
+        "But they never give in, and that's what won it."
+      ],
+      [
+        1562,
+        "01:43:33.520000",
+        "01:43:36.440000",
+        "They came out that night. Never give in."
+      ],
+      [
+        1580,
+        "01:44:55.400000",
+        "01:45:01",
+        "Give the warmest of Old Trafford welcomes to Sir Alex Ferguson!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSir\\ Alex\\ Ferguson:)Sir\\ Alex\\ Ferguson|(?!\\bNever\\ Give\\ In:)Never\\ Give\\ In)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

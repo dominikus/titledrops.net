@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0100419",
+    "title": "Problem Child",
+    "year": 1990,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "count": 4,
+    "all_lines": 943,
+    "occurrences": [
+      [
+        696,
+        "00:55:00.280000",
+        "00:55:04.796000",
+        "So, the question before us is what are we gonna do with our little problem child?"
+      ],
+      [
+        916,
+        "01:13:37.560000",
+        "01:13:42.156000",
+        "Your teacher's calling you a problem child"
+      ],
+      [
+        926,
+        "01:14:46.960000",
+        "01:14:52.432000",
+        "And one of them might wanna be A problem child, yeah"
+      ],
+      [
+        936,
+        "01:15:57.160000",
+        "01:16:01.790000",
+        "Your teacher's calling you a problem child"
+      ]
+    ],
+    "regex": "\\b((?!\\bProblem\\ Child:)Problem\\ Child)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

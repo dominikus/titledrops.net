@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt14878070",
+    "title": "Emergency Situation",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1019,
+    "occurrences": [
+      [
+        559,
+        "00:52:09",
+        "00:52:11.800000",
+        "We want to report an emergency situation."
+      ],
+      [
+        860,
+        "01:18:47.840000",
+        "01:18:51.920000",
+        "to answer these questions about the emergency situation that has transpired."
+      ],
+      [
+        1007,
+        "01:35:50.080000",
+        "01:35:56",
+        "Due to an emergency situation on the line, we are experiencing an hour delay."
+      ],
+      [
+        1014,
+        "01:38:29.520000",
+        "01:38:34.920000",
+        "...this emergency situation that required emergency services."
+      ]
+    ],
+    "regex": "\\b((?!\\bEmergency\\ Situation:)Emergency\\ Situation)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

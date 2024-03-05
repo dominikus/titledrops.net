@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0044378",
+    "title": "The Assassin",
+    "year": 1952,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1205,
+    "occurrences": [
+      [
+        861,
+        "01:01:06.359000",
+        "01:01:08.829000",
+        "Lock him up in a room or go out and pick out the assassin now"
+      ],
+      [
+        888,
+        "01:03:59.624000",
+        "01:04:03.484000",
+        "will be body of the assassin, Mercer,whom you will have caught in the act"
+      ]
+    ],
+    "regex": "\\b((?!\\bAssassin:)Assassin)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

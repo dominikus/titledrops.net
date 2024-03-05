@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3107070",
+    "title": "Believe Me",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1572,
+    "occurrences": [
+      [
+        1187,
+        "01:06:54.478000",
+        "01:06:56.745000",
+        "Now, I know you don't believe me, and he will never tell you,"
+      ],
+      [
+        1209,
+        "01:08:09.252000",
+        "01:08:11.286000",
+        "You see, I knew Ken wouldn't believe me,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBelieve\\ Me:)Believe\\ Me)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

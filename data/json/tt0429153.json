@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0429153",
+    "title": "Tara Road",
+    "year": 2005,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1221,
+    "occurrences": [
+      [
+        157,
+        "00:13:48.927000",
+        "00:13:51.083000",
+        "Sell Tara Road?"
+      ],
+      [
+        689,
+        "00:53:24.433000",
+        "00:53:26.507000",
+        "Tara Road, I'm gonna lose the lot."
+      ],
+      [
+        806,
+        "01:02:07.371000",
+        "01:02:11.115000",
+        "We're gonna lose the house, we'll lose Tara Road! I've gotta tell Ria."
+      ],
+      [
+        1162,
+        "01:31:37.962000",
+        "01:31:41.161000",
+        "on 16 Tara Road..."
+      ]
+    ],
+    "regex": "\\b((?!\\bTara\\ Road:)Tara\\ Road)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

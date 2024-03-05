@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0079583",
+    "title": "Mr. Mike's Mondo Video",
+    "year": 1979,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 4,
+    "all_lines": 954,
+    "occurrences": [
+      [
+        42,
+        "00:02:35.087000",
+        "00:02:38.158000",
+        "of Mr. Mike's Mondo video."
+      ],
+      [
+        121,
+        "00:09:34.439000",
+        "00:09:37.209000",
+        "of Mr. Mike's Mondo Video."
+      ],
+      [
+        600,
+        "00:38:38.415000",
+        "00:38:41.352000",
+        "of Mr. Mike's Mondo Video."
+      ],
+      [
+        789,
+        "00:49:00.202000",
+        "00:49:03.473000",
+        "of Mr. Mike's Mondo Video."
+      ]
+    ],
+    "regex": "\\b((?!\\bMr\\.\\ Mike's\\ Mondo\\ Video:)Mr\\.\\ Mike's\\ Mondo\\ Video)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

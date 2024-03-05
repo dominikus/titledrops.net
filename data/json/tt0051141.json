@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0051141",
+    "title": "Until They Sail",
+    "year": 1957,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "count": 5,
+    "all_lines": 1505,
+    "occurrences": [
+      [
+        2,
+        "00:00:22.090000",
+        "00:00:26.630000",
+        "* Until they sail *"
+      ],
+      [
+        5,
+        "00:00:35.336000",
+        "00:00:41.006000",
+        "* Until they sail *"
+      ],
+      [
+        12,
+        "00:01:11.872000",
+        "00:01:16.842000",
+        "* Until they sail *"
+      ],
+      [
+        15,
+        "00:01:25.153000",
+        "00:01:30.363000",
+        "* Until they sail *"
+      ],
+      [
+        388,
+        "00:23:49.829000",
+        "00:23:52.569000",
+        "We only see each other until they sail."
+      ]
+    ],
+    "regex": "\\b((?!\\bUntil\\ They\\ Sail:)Until\\ They\\ Sail)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1508675",
+    "title": "Le Havre",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 725,
+    "occurrences": [
+      [
+        86,
+        "00:12:07.041000",
+        "00:12:08.681000",
+        "Inspector Monet, Le Havre."
+      ],
+      [
+        112,
+        "00:15:10.321000",
+        "00:15:12.961000",
+        "This is Le Havre, in Normandy."
+      ],
+      [
+        116,
+        "00:15:43.521000",
+        "00:15:46.161000",
+        "No Metro in Le Havre. Papers."
+      ],
+      [
+        358,
+        "00:41:38.281000",
+        "00:41:39.961000",
+        "His compatriots in Le Havre."
+      ]
+    ],
+    "regex": "\\b((?!\\bLe\\ Havre:)Le\\ Havre)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

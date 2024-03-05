@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7074886",
+    "title": "The Front Runner",
+    "year": 2018,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 2223,
+    "occurrences": [
+      [
+        532,
+        "00:21:13.905000",
+        "00:21:16.206000",
+        "NEWSWOMAN: Nowhere is Hart as much a front runner"
+      ],
+      [
+        569,
+        "00:22:45.096000",
+        "00:22:47.096000",
+        "with the visit of a front runner."
+      ]
+    ],
+    "regex": "\\b((?!\\bFront\\ Runner:)Front\\ Runner)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

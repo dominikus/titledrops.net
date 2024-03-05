@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0053825",
+    "title": "Flaming Star",
+    "year": 1960,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 737,
+    "occurrences": [
+      [
+        431,
+        "00:45:43.167000",
+        "00:45:48.799000",
+        "l can feel, close to me, the flaming star of death."
+      ],
+      [
+        528,
+        "00:58:33.767000",
+        "00:58:37.555000",
+        "l saw the flaming star of death."
+      ],
+      [
+        730,
+        "01:27:20.487000",
+        "01:27:24.605000",
+        ". . .l saw the flaming star of death."
+      ]
+    ],
+    "regex": "\\b((?!\\bFlaming\\ Star:)Flaming\\ Star)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

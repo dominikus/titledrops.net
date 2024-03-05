@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0117905",
+    "title": "Comrades: Almost a Love Story",
+    "year": 1996,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1053,
+    "occurrences": [
+      [
+        259,
+        "00:25:40.902000",
+        "00:25:43.715000",
+        "I knew it! We are comrades."
+      ],
+      [
+        394,
+        "00:40:14.334000",
+        "00:40:18.582000",
+        "I guess they're all your comrades here. Lots of training."
+      ]
+    ],
+    "regex": "\\b((?!\\bComrades:)Comrades|(?!\\bAlmost\\ a\\ Love\\ Story:)Almost\\ a\\ Love\\ Story)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

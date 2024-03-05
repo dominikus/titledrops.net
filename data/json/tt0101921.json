@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0101921",
+    "title": "Fried Green Tomatoes",
+    "year": 1991,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1863,
+    "occurrences": [
+      [
+        314,
+        "00:22:07.359000",
+        "00:22:11.853000",
+        "Oh, what I wouldn't give for a plate of fried green tomatoes..."
+      ],
+      [
+        899,
+        "01:04:04.907000",
+        "01:04:07.774000",
+        "Look at those fried green tomatoes."
+      ],
+      [
+        1424,
+        "01:42:35.182000",
+        "01:42:39.380000",
+        "You made me fried green tomatoes!"
+      ]
+    ],
+    "regex": "\\b((?!\\bFried\\ Green\\ Tomatoes:)Fried\\ Green\\ Tomatoes)(?!\\:)(?!'t)\\b",
+    "runtime": 136,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

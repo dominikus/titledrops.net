@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1663321",
+    "title": "Chicken with Plums",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 808,
+    "occurrences": [
+      [
+        429,
+        "00:38:45.847000",
+        "00:38:50.477000",
+        "In the hope of reconciliation she decided to prepare chicken with plums,"
+      ],
+      [
+        434,
+        "00:39:06.284000",
+        "00:39:08.620000",
+        "This is the best chicken with plums I have ever eaten."
+      ],
+      [
+        478,
+        "00:43:47.774000",
+        "00:43:49.943000",
+        "I made you chicken with plums."
+      ]
+    ],
+    "regex": "\\b((?!\\bChicken\\ with\\ Plums:)Chicken\\ with\\ Plums)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt26350277",
+    "title": "Ballerina",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 632,
+    "occurrences": [
+      [
+        116,
+        "00:14:01.006000",
+        "00:14:01.924000",
+        "I'm a ballerina."
+      ],
+      [
+        350,
+        "00:53:10.687000",
+        "00:53:11.897000",
+        "The ballerina."
+      ],
+      [
+        593,
+        "01:23:24.624000",
+        "01:23:25.542000",
+        "The ballerina."
+      ],
+      [
+        605,
+        "01:24:12.297000",
+        "01:24:14.632000",
+        "Was she really a ballerina?"
+      ],
+      [
+        607,
+        "01:24:18.303000",
+        "01:24:20.513000",
+        "I'd never seen such a fat ballerina."
+      ]
+    ],
+    "regex": "\\b((?!\\bBallerina:)Ballerina)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

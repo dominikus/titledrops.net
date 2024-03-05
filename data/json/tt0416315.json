@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0416315",
+    "title": "Wolf Creek",
+    "year": 2005,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 712,
+    "occurrences": [
+      [
+        55,
+        "00:05:04.443000",
+        "00:05:07.937000",
+        "Yeah we've got to get an early start if we want to get to Wolf Creek by tomorrow night."
+      ],
+      [
+        204,
+        "00:22:09.720000",
+        "00:22:13.164000",
+        "Here we go. Wolf Creek Crater!"
+      ],
+      [
+        213,
+        "00:22:35.321000",
+        "00:22:36.582000",
+        "Wolf Creek awaits you."
+      ],
+      [
+        215,
+        "00:22:39.159000",
+        "00:22:40.161000",
+        "Wolf Creek!"
+      ],
+      [
+        288,
+        "00:29:06.669000",
+        "00:29:08.138000",
+        "See you later Wolf Creek."
+      ]
+    ],
+    "regex": "\\b((?!\\bWolf\\ Creek:)Wolf\\ Creek)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

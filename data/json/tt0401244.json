@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0401244",
+    "title": "The Baxter",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 6,
+    "all_lines": 1334,
+    "occurrences": [
+      [
+        26,
+        "00:02:19.659000",
+        "00:02:23.616000",
+        "She called them Baxters. Well, I'm a Baxter."
+      ],
+      [
+        46,
+        "00:03:26.454000",
+        "00:03:29.132000",
+        "with my colleague and fellow Baxter, Wendall Wimms."
+      ],
+      [
+        458,
+        "00:26:04.660000",
+        "00:26:06.619000",
+        "And all this makes you think that you're a Baxter?"
+      ],
+      [
+        881,
+        "00:53:57.455000",
+        "00:53:59.454000",
+        "Wait a minute! You're the Baxter!"
+      ],
+      [
+        1232,
+        "01:15:56.248000",
+        "01:16:00.045000",
+        "- I guess you're not a Baxter after all. - I guess not."
+      ],
+      [
+        1325,
+        "01:26:55.884000",
+        "01:26:59.761000",
+        "And that's me, Dan, the Baxter."
+      ]
+    ],
+    "regex": "\\b((?!\\bBaxter:)Baxter)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

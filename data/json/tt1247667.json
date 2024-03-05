@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt1247667",
+    "title": "High School",
+    "year": 2010,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 6,
+    "all_lines": 1518,
+    "occurrences": [
+      [
+        226,
+        "00:13:59.872000",
+        "00:14:01.703000",
+        "High school."
+      ],
+      [
+        326,
+        "00:19:27.266000",
+        "00:19:31.202000",
+        "- at Morgan High School. Julia? - In five, four, three, two..."
+      ],
+      [
+        452,
+        "00:26:23.648000",
+        "00:26:26.139000",
+        "Graduated from high school at 15."
+      ],
+      [
+        891,
+        "00:53:37.280000",
+        "00:53:39.748000",
+        "- Weird day, isn't it? - It's high school."
+      ],
+      [
+        1073,
+        "01:04:37.740000",
+        "01:04:39.901000",
+        "Julia: We're live at the prestigious Morgan High School"
+      ],
+      [
+        1465,
+        "01:30:04.332000",
+        "01:30:07.392000",
+        "sans a high school diploma."
+      ]
+    ],
+    "regex": "\\b((?!\\bHigh\\ School:)High\\ School)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

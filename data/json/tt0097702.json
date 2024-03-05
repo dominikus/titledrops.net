@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0097702",
+    "title": "The Icicle Thief",
+    "year": 1989,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 746,
+    "occurrences": [
+      [
+        45,
+        "00:02:57.108000",
+        "00:02:59.986000",
+        "- \"The Icicle Thief.\" - Thank you."
+      ],
+      [
+        54,
+        "00:04:09.188000",
+        "00:04:13.784000",
+        "This evening's filrn is \"The Icicle Thief\" by Maurizio Nichetti."
+      ],
+      [
+        59,
+        "00:04:27.388000",
+        "00:04:30.937000",
+        "\"The Icicle Thief\" is an act of love"
+      ],
+      [
+        457,
+        "00:52:20.108000",
+        "00:52:25.899000",
+        "You tell hirn the real story of \"The Icicle Thief.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bIcicle\\ Thief:)Icicle\\ Thief)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

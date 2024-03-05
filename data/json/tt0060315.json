@@ -1,0 +1,59 @@
+[
+  {
+    "imdb": "tt0060315",
+    "title": "Django",
+    "year": 1966,
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "count": 6,
+    "all_lines": 286,
+    "occurrences": [
+      [
+        22,
+        "00:07:27.028000",
+        "00:07:28.496000",
+        "My name is Django."
+      ],
+      [
+        70,
+        "00:16:04.193000",
+        "00:16:06.155000",
+        "Someone by the name of Django."
+      ],
+      [
+        262,
+        "00:44:17.556000",
+        "00:44:18.834000",
+        "This is Django."
+      ],
+      [
+        266,
+        "00:44:33.403000",
+        "00:44:35.006000",
+        "l owe Django a lot!"
+      ],
+      [
+        272,
+        "00:44:57.601000",
+        "00:45:02.232000",
+        "To your health, Django! To the death of Jackson's pigs!"
+      ],
+      [
+        277,
+        "00:45:20.024000",
+        "00:45:23.039000",
+        "That's impossible! How did you do that, Django?"
+      ]
+    ],
+    "regex": "\\b((?!\\bDjango:)Django)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [
+      "Django"
+    ],
+    "title_is_name": true,
+    "rating": 7.2
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0059575",
+    "title": "The Pawnbroker",
+    "year": 1964,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1300,
+    "occurrences": [
+      [
+        650,
+        "00:45:28.435000",
+        "00:45:30.020000",
+        "a witch, a pawnbroker,"
+      ],
+      [
+        923,
+        "01:03:46.907000",
+        "01:03:48.451000",
+        "Pawnbroker..."
+      ],
+      [
+        958,
+        "01:06:12.219000",
+        "01:06:14.054000",
+        "I'm good, pawnbroker."
+      ],
+      [
+        1181,
+        "01:34:01.554000",
+        "01:34:03.681000",
+        "You got a mouth, boy. Pawnbroker says..."
+      ]
+    ],
+    "regex": "\\b((?!\\bPawnbroker:)Pawnbroker)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

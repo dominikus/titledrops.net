@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1363468",
+    "title": "Zenith",
+    "year": 2010,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 309,
+    "occurrences": [
+      [
+        117,
+        "00:13:19.300000",
+        "00:13:21.300000",
+        "do you know what Zenith means?"
+      ],
+      [
+        119,
+        "00:13:21.600000",
+        "00:13:26.500000",
+        "Zenith... the highest point in the heavens"
+      ],
+      [
+        130,
+        "00:13:59.300000",
+        "00:14:00.800000",
+        "Zenith is the time"
+      ]
+    ],
+    "regex": "\\b((?!\\bZenith:)Zenith)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

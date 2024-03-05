@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0100825",
+    "title": "Tusks",
+    "year": 1988,
+    "genres": [
+      "Adventure"
+    ],
+    "count": 3,
+    "all_lines": 1348,
+    "occurrences": [
+      [
+        276,
+        "00:17:12.300000",
+        "00:17:15.590000",
+        "They hack off their tusks, leave the carcasses to rot."
+      ],
+      [
+        1042,
+        "01:06:27.740000",
+        "01:06:29.293000",
+        "It's another 200 tusks."
+      ],
+      [
+        1051,
+        "01:06:58.320000",
+        "01:07:01.750000",
+        "Now you guys, go and collect the tusks, eh?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTusks:)Tusks)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

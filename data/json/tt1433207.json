@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1433207",
+    "title": "The Details",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1544,
+    "occurrences": [
+      [
+        6,
+        "00:01:13.539000",
+        "00:01:15.140000",
+        "all of the details."
+      ],
+      [
+        9,
+        "00:01:22.381000",
+        "00:01:24.883000",
+        "One of the details was this house plant"
+      ]
+    ],
+    "regex": "\\b((?!\\bDetails:)Details)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt5187886",
+    "title": "Abracadabra",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 749,
+    "occurrences": [
+      [
+        136,
+        "00:11:24.709000",
+        "00:11:27.126000",
+        "When I say the word \"Abracadabra\","
+      ],
+      [
+        139,
+        "00:11:40.876000",
+        "00:11:41.876000",
+        "Abracadabra."
+      ],
+      [
+        140,
+        "00:11:47.709000",
+        "00:11:48.917000",
+        "Abracadabra!"
+      ]
+    ],
+    "regex": "\\b((?!\\bAbracadabra:)Abracadabra)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

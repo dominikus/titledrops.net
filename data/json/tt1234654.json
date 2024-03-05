@@ -1,0 +1,83 @@
+[
+  {
+    "imdb": "tt1234654",
+    "title": "Greenberg",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 10,
+    "all_lines": 1775,
+    "occurrences": [
+      [
+        6,
+        "00:02:30.416000",
+        "00:02:33.010000",
+        "It's okay. It's under \"Phillip Greenberg.\""
+      ],
+      [
+        100,
+        "00:08:11.357000",
+        "00:08:13.655000",
+        "Hello? Hi, this is Roger Greenberg."
+      ],
+      [
+        164,
+        "00:13:15.561000",
+        "00:13:18.860000",
+        "Ivan, it's Greenberg. How you doing, man?"
+      ],
+      [
+        190,
+        "00:15:39.605000",
+        "00:15:44.167000",
+        "\"Yours in hopes of green sound, Roger Greenberg.\""
+      ],
+      [
+        271,
+        "00:19:25.297000",
+        "00:19:27.390000",
+        "Hey, Greenberg, what are you doing out here?"
+      ],
+      [
+        340,
+        "00:23:14.493000",
+        "00:23:17.053000",
+        "Florence, hey, it's Roger Greenberg."
+      ],
+      [
+        506,
+        "00:33:46.858000",
+        "00:33:49.383000",
+        "FLORENCE: Hello? Florence, it's Roger Greenberg."
+      ],
+      [
+        906,
+        "00:53:28.338000",
+        "00:53:30.033000",
+        "\"Sincerely, Roger Greenberg.\""
+      ],
+      [
+        1408,
+        "01:21:36.224000",
+        "01:21:38.488000",
+        "I'm Rich. Roger Greenberg."
+      ],
+      [
+        1647,
+        "01:34:36.671000",
+        "01:34:39.435000",
+        "\"Roger Greenberg. Hollywood, California.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bGreenberg:)Greenberg)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [
+      "Roger Greenberg"
+    ],
+    "title_is_name": true,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0090192",
+    "title": "Trancers",
+    "year": 1984,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 753,
+    "occurrences": [
+      [
+        3,
+        "00:02:28.649000",
+        "00:02:32.910000",
+        "We call them Trancers. Slaves to Whistler's psychic power."
+      ],
+      [
+        369,
+        "00:38:05.898000",
+        "00:38:07.826000",
+        "Are you kidding? It's looks like a room full of Trancers."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrancers:)Trancers)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

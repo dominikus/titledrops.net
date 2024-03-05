@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt8709312",
+    "title": "Northspur",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1171,
+    "occurrences": [
+      [
+        152,
+        "00:18:31.371000",
+        "00:18:32.371000",
+        "Camp Northspur."
+      ],
+      [
+        353,
+        "00:32:22.766000",
+        "00:32:26.901000",
+        "In fact, this cabin, Northspur Crossroads,"
+      ]
+    ],
+    "regex": "\\b((?!\\bNorthspur:)Northspur)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

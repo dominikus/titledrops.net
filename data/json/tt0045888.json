@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0045888",
+    "title": "House of Wax",
+    "year": 1953,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 994,
+    "occurrences": [
+      [
+        473,
+        "00:43:47.760000",
+        "00:43:50.991000",
+        "Come in, ladies and gentlemen. See the House of Wax."
+      ],
+      [
+        747,
+        "01:02:10",
+        "01:02:11.798000",
+        "Yes, The House of Wax."
+      ]
+    ],
+    "regex": "\\b((?!\\bHouse\\ of\\ Wax:)House\\ of\\ Wax)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

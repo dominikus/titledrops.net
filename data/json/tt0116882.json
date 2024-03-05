@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0116882",
+    "title": "Lilies",
+    "year": 1996,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 593,
+    "occurrences": [
+      [
+        409,
+        "00:55:25.320000",
+        "00:55:31.600000",
+        "These lilies are an indication of innocence and purity?"
+      ],
+      [
+        414,
+        "00:55:53.520000",
+        "00:55:57.040000",
+        "That was not the lilies of Mr. Scotts funeral yesterday?"
+      ]
+    ],
+    "regex": "\\b((?!\\bLilies:)Lilies)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

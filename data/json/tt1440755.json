@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1440755",
+    "title": "Round Ireland with a Fridge",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1306,
+    "occurrences": [
+      [
+        151,
+        "00:09:59.889000",
+        "00:10:01.769000",
+        "Hitchhike round Ireland with a fridge."
+      ],
+      [
+        157,
+        "00:10:16.729000",
+        "00:10:21.569000",
+        "You could not hitchhike round Ireland with a fridge. That's the bet."
+      ],
+      [
+        699,
+        "00:47:03.489000",
+        "00:47:06.169000",
+        "I want to hitchhike round Ireland with a fridge."
+      ],
+      [
+        915,
+        "00:59:17.689000",
+        "00:59:20.569000",
+        "- Been travelling round Ireland with a fridge. - What?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRound\\ Ireland\\ with\\ a\\ Fridge:)Round\\ Ireland\\ with\\ a\\ Fridge)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

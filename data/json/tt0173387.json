@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0173387",
+    "title": "The Honour of the House",
+    "year": 1999,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 766,
+    "occurrences": [
+      [
+        318,
+        "00:36:04.980000",
+        "00:36:07.938000",
+        "You seem not to worry about the honour of the house."
+      ],
+      [
+        353,
+        "00:41:10.300000",
+        "00:41:13.975000",
+        "all for the Honour of the House."
+      ],
+      [
+        449,
+        "00:50:33.100000",
+        "00:50:38.732000",
+        "Salute. For the honour of the House and the family."
+      ],
+      [
+        759,
+        "01:30:48.900000",
+        "01:30:54.293000",
+        "And yourself, who is phrasing the Honour of the House."
+      ]
+    ],
+    "regex": "\\b((?!\\bHonour\\ of\\ the\\ House:)Honour\\ of\\ the\\ House)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

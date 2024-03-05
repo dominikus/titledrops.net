@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt8535472",
+    "title": "Silly Fellows",
+    "year": 2018,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 2417,
+    "occurrences": [
+      [
+        1312,
+        "01:05:13.650000",
+        "01:05:16.150000",
+        "Silly... silly..Silly fellows..."
+      ],
+      [
+        1314,
+        "01:05:18.730000",
+        "01:05:22.190000",
+        "Silly... silly..Silly fellows..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSilly\\ Fellows:)Silly\\ Fellows)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

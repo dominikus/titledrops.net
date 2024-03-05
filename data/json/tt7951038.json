@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt7951038",
+    "title": "The Furnace",
+    "year": 2019,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1091,
+    "occurrences": [
+      [
+        24,
+        "00:01:39.130000",
+        "00:01:40.893000",
+        "- Africa? - The Furnace!"
+      ],
+      [
+        423,
+        "00:29:06.480000",
+        "00:29:07.480000",
+        "The Furnace."
+      ],
+      [
+        1041,
+        "01:25:02.197000",
+        "01:25:05.114000",
+        "The Furnace was made to purify God."
+      ],
+      [
+        1077,
+        "01:27:56.910000",
+        "01:27:59.760000",
+        "COFFIN: Mary ran the Furnace again the following year."
+      ]
+    ],
+    "regex": "\\b((?!\\bFurnace:)Furnace)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

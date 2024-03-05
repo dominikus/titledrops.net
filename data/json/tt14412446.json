@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt14412446",
+    "title": "Moloch",
+    "year": 2022,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 520,
+    "occurrences": [
+      [
+        368,
+        "00:57:00.554000",
+        "00:57:03.423000",
+        "a heathen god, Moloch."
+      ],
+      [
+        376,
+        "00:57:30.918000",
+        "00:57:35.690000",
+        "with the mark of Moloch burned into the girl's forehead."
+      ],
+      [
+        435,
+        "01:16:54.215000",
+        "01:16:55.683000",
+        "Moloch?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMoloch:)Moloch)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

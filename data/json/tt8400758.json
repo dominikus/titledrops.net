@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt8400758",
+    "title": "Killers Anonymous",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 1504,
+    "occurrences": [
+      [
+        158,
+        "00:10:10.015000",
+        "00:10:15.018000",
+        "to give our will over to the care of Killers Anonymous."
+      ],
+      [
+        1442,
+        "01:26:05.800000",
+        "01:26:08.771000",
+        "Killers Anonymous, you fucking cock."
+      ],
+      [
+        1502,
+        "01:30:05.173000",
+        "01:30:06.909000",
+        "Welcome to Killers Anonymous."
+      ]
+    ],
+    "regex": "\\b((?!\\bKillers\\ Anonymous:)Killers\\ Anonymous)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

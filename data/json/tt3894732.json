@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3894732",
+    "title": "Erasmus: Not Everything Is Fun",
+    "year": 2016,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 445,
+    "occurrences": [
+      [
+        197,
+        "00:23:18.748000",
+        "00:23:24.956000",
+        "I thought you wanted to record the Erasmus life, not a poor Dutch guy..."
+      ],
+      [
+        254,
+        "00:30:59.581000",
+        "00:31:03.913000",
+        "She was from Barcelona and she went as Erasmus in the UK."
+      ]
+    ],
+    "regex": "\\b((?!\\bErasmus:)Erasmus|(?!\\bNot\\ Everything\\ Is\\ Fun:)Not\\ Everything\\ Is\\ Fun)(?!\\:)(?!'t)\\b",
+    "runtime": 71,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

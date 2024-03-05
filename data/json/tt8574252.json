@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt8574252",
+    "title": "The Witch: Part 1 - The Subversion",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 1316,
+    "occurrences": [
+      [
+        7,
+        "00:04:31.400000",
+        "00:04:37.100000",
+        "THE WITCH"
+      ],
+      [
+        8,
+        "00:04:37.100000",
+        "00:04:41.500000",
+        "THE WITCH PART 1. THE SUBVERSION"
+      ],
+      [
+        471,
+        "00:31:47.890000",
+        "00:31:50.470000",
+        "'Miss Witch'?"
+      ],
+      [
+        1315,
+        "02:02:34.600000",
+        "02:02:38.200000",
+        "THE WITCH PART 1. THE SUBVERSION"
+      ]
+    ],
+    "regex": "\\b((?!\\bWitch:)Witch|(?!\\bPart\\ 1\\ \\-\\ The\\ Subversion:)Part\\ 1\\ \\-\\ The\\ Subversion)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

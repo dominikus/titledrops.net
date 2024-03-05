@@ -1,0 +1,59 @@
+[
+  {
+    "imdb": "tt7846844",
+    "title": "Enola Holmes",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "count": 6,
+    "all_lines": 2066,
+    "occurrences": [
+      [
+        570,
+        "00:30:15.583000",
+        "00:30:16.875000",
+        "Enola Holmes."
+      ],
+      [
+        659,
+        "00:34:49.750000",
+        "00:34:52.291000",
+        "Then, thank you, Enola Holmes, for helping me here."
+      ],
+      [
+        815,
+        "00:42:46.250000",
+        "00:42:47.583000",
+        "Enola Holmes."
+      ],
+      [
+        1316,
+        "01:12:34.583000",
+        "01:12:36.083000",
+        "I've missed you, Enola Holmes."
+      ],
+      [
+        1330,
+        "01:13:34.375000",
+        "01:13:37.083000",
+        "Why do you keep all these old newspapers, Enola Holmes?"
+      ],
+      [
+        1580,
+        "01:26:47.041000",
+        "01:26:49.125000",
+        "As do I, Enola Holmes."
+      ]
+    ],
+    "regex": "\\b((?!\\bEnola\\ Holmes:)Enola\\ Holmes)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [
+      "Enola Holmes"
+    ],
+    "title_is_name": true,
+    "rating": 6.6
+  }
+]

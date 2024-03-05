@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1763256",
+    "title": "Mischief Night",
+    "year": 2014,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 920,
+    "occurrences": [
+      [
+        6,
+        "00:03:47.694000",
+        "00:03:49.394000",
+        "It's mischief night, asshole!"
+      ],
+      [
+        386,
+        "00:37:18.302000",
+        "00:37:21.238000",
+        "It's mischief night."
+      ],
+      [
+        576,
+        "00:54:15.518000",
+        "00:54:17.586000",
+        "Mischief night,"
+      ]
+    ],
+    "regex": "\\b((?!\\bMischief\\ Night:)Mischief\\ Night)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1440129",
+    "title": "Battleship",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "count": 2,
+    "all_lines": 888,
+    "occurrences": [
+      [
+        262,
+        "00:15:07",
+        "00:15:09.100000",
+        "The U.S.S Missouri was the final battleship"
+      ],
+      [
+        267,
+        "00:15:16.720000",
+        "00:15:19.870000",
+        "What's the difference between a battleship and a destroyer?"
+      ]
+    ],
+    "regex": "\\b((?!\\bBattleship:)Battleship)(?!\\:)(?!'t)\\b",
+    "runtime": 540,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

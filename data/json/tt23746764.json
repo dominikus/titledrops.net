@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt23746764",
+    "title": "Christmas Carol",
+    "year": 2022,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1189,
+    "occurrences": [
+      [
+        388,
+        "00:33:17.540000",
+        "00:33:19.810000",
+        "Do you want to hear me sing Christmas carol?"
+      ],
+      [
+        1018,
+        "01:43:53.480000",
+        "01:43:56.060000",
+        "Would you like to hear a Christmas carol?"
+      ],
+      [
+        1078,
+        "01:50:08.860000",
+        "01:50:11.360000",
+        "Would you like me to sing you a Christmas carol?"
+      ]
+    ],
+    "regex": "\\b((?!\\bChristmas\\ Carol:)Christmas\\ Carol)(?!\\:)(?!'t)\\b",
+    "runtime": 131,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

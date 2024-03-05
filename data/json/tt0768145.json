@@ -1,0 +1,80 @@
+[
+  {
+    "imdb": "tt0768145",
+    "title": "Trick: The Movie",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ],
+    "count": 12,
+    "all_lines": 1818,
+    "occurrences": [
+      [
+        0,
+        "00:00:00.305000",
+        "00:01:41.960000",
+        "T R I C K THE MOVIE"
+      ],
+      [
+        118,
+        "00:06:46.180000",
+        "00:06:50.970000",
+        "Hey! This is just a basic magic trick."
+      ],
+      [
+        159,
+        "00:09:11.300000",
+        "00:09:15.800000",
+        "TRICK The movie"
+      ],
+      [
+        236,
+        "00:13:38.690000",
+        "00:13:43.830000",
+        "Not worth taking time for explanation as it is a cheap trick."
+      ],
+      [
+        427,
+        "00:23:59.210000",
+        "00:24:02.590000",
+        "This is just a magic trick."
+      ],
+      [
+        436,
+        "00:24:22.940000",
+        "00:24:26.100000",
+        "Nobody thinks that he is doing such a cheap trick."
+      ],
+      [
+        489,
+        "00:28:28.190000",
+        "00:28:31.650000",
+        "In front of the gate, you start your magic trick."
+      ],
+      [
+        714,
+        "00:42:33.280000",
+        "00:42:36.060000",
+        "This is just a magic trick."
+      ],
+      [
+        742,
+        "00:43:45.170000",
+        "00:43:48",
+        "To prove that it is not a trick,"
+      ],
+      [
+        1818,
+        "01:58:10.890000",
+        "01:58:31.390000",
+        "TRICK THE MOVIE E N D"
+      ]
+    ],
+    "regex": "\\b((?!\\bTrick:)Trick|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

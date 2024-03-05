@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3709552",
+    "title": "The Last Witness",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 851,
+    "occurrences": [
+      [
+        722,
+        "01:14:16.192000",
+        "01:14:20.230000",
+        "Yesterday evening, the last witness to that massacre was murdered right here,"
+      ],
+      [
+        845,
+        "01:28:17.198000",
+        "01:28:19.568000",
+        "the last witness to the countless Polish soldies"
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Witness:)Last\\ Witness)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

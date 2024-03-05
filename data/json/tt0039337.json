@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0039337",
+    "title": "Down to Earth",
+    "year": 1947,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Musical"
+    ],
+    "count": 4,
+    "all_lines": 1094,
+    "occurrences": [
+      [
+        10,
+        "00:02:01.796000",
+        "00:02:05.232000",
+        "...you told us he came down to Earth and got inside people's bodies."
+      ],
+      [
+        117,
+        "00:11:10.778000",
+        "00:11:14.270000",
+        "See, l want to go down to Earth and get into a theatrical production."
+      ],
+      [
+        504,
+        "00:39:50.162000",
+        "00:39:53.654000",
+        "My, you have come down to earth. And right into the gutter."
+      ],
+      [
+        851,
+        "01:14:12.089000",
+        "01:14:14.785000",
+        "When Joe died, Mr. Jordan brought him down to Earth..."
+      ]
+    ],
+    "regex": "\\b((?!\\bDown\\ to\\ Earth:)Down\\ to\\ Earth)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

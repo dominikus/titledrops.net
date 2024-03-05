@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt15041866",
+    "title": "The Swimmer",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sport"
+    ],
+    "count": 5,
+    "all_lines": 848,
+    "occurrences": [
+      [
+        214,
+        "00:23:45.691000",
+        "00:23:48.202000",
+        "What an amazing swimmer, a real fighter."
+      ],
+      [
+        267,
+        "00:28:01.553000",
+        "00:28:03.473000",
+        "That's like a dancer, not a swimmer."
+      ],
+      [
+        564,
+        "00:51:57.019000",
+        "00:52:00.206000",
+        "What kind of swimmer dares to oversleep a minute before the competition?"
+      ],
+      [
+        744,
+        "01:06:07.589000",
+        "01:06:10.669000",
+        "in the lives of a swimmer is..."
+      ],
+      [
+        821,
+        "01:13:56.365000",
+        "01:14:00.846000",
+        "We'll soon find out which swimmer will be landing a spot in the Olympics."
+      ]
+    ],
+    "regex": "\\b((?!\\bSwimmer:)Swimmer)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

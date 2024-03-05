@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0091091",
+    "title": "Millionaires' Express",
+    "year": 1986,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 1126,
+    "occurrences": [
+      [
+        319,
+        "00:28:31.460000",
+        "00:28:33.879000",
+        "- The Millionaires' Express is departing. - Yes, Dad."
+      ],
+      [
+        601,
+        "00:52:07.959000",
+        "00:52:10.753000",
+        "I want everyone on the Millionaires' Express to stay in Hon Sui town!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMillionaires'\\ Express:)Millionaires'\\ Express)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

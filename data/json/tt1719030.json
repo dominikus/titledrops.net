@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1719030",
+    "title": "Give Up Tomorrow",
+    "year": 2011,
+    "genres": [
+      "Crime",
+      "Documentary",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 726,
+    "occurrences": [
+      [
+        524,
+        "00:57:22.873000",
+        "00:57:25.843000",
+        "if you want to give up, give up tomorrow."
+      ],
+      [
+        525,
+        "00:57:25.910000",
+        "00:57:27.745000",
+        "When tomorrow comes, tell them, I'll give up tomorrow."
+      ],
+      [
+        526,
+        "00:57:27.812000",
+        "00:57:30.648000",
+        "When tomorrow comes, I'll give up tomorrow."
+      ]
+    ],
+    "regex": "\\b((?!\\bGive\\ Up\\ Tomorrow:)Give\\ Up\\ Tomorrow)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

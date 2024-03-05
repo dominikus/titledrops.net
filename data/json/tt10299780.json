@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt10299780",
+    "title": "The Reunited States",
+    "year": 2020,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1883,
+    "occurrences": [
+      [
+        5,
+        "00:00:15.181000",
+        "00:00:17.642000",
+        "called \"The Reunited States.\""
+      ],
+      [
+        6,
+        "00:00:17.684000",
+        "00:00:20.979000",
+        "That is my prayer, that we will have the Reunited States."
+      ],
+      [
+        68,
+        "00:03:40.220000",
+        "00:03:42.305000",
+        "of The Reunited States of America,"
+      ]
+    ],
+    "regex": "\\b((?!\\bReunited\\ States:)Reunited\\ States)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

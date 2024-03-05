@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0089017",
+    "title": "Desperately Seeking Susan",
+    "year": 1985,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1072,
+    "occurrences": [
+      [
+        16,
+        "00:01:53.600000",
+        "00:01:55.955000",
+        "\"Desperately seeking Susan. Keep the faith.\""
+      ],
+      [
+        1025,
+        "01:31:18.680000",
+        "01:31:21.592000",
+        "There was this ad for Susan. \"Desperately seeking Susan.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bDesperately\\ Seeking\\ Susan:)Desperately\\ Seeking\\ Susan)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

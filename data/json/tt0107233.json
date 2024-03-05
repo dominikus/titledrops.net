@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt0107233",
+    "title": "It's All True: Based on an Unfinished Film by Orson Welles",
+    "year": 1993,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 6,
+    "all_lines": 380,
+    "occurrences": [
+      [
+        67,
+        "00:05:08.894000",
+        "00:05:14.435000",
+        "A collection of true stories to be called, appropriately: 'It's All True'."
+      ],
+      [
+        70,
+        "00:05:26.412000",
+        "00:05:28.849000",
+        "As producer of 'It's All True'"
+      ],
+      [
+        103,
+        "00:09:52.835000",
+        "00:09:56.335000",
+        "the first part of the new Latin American version of 'It's All True',"
+      ],
+      [
+        160,
+        "00:15:41.888000",
+        "00:15:44.662000",
+        "which would be the third story of 'It's All True'."
+      ],
+      [
+        292,
+        "00:30:28.435000",
+        "00:30:33.751000",
+        "Once back, he learned that RKO was not going to let him finish 'It's All True'."
+      ],
+      [
+        307,
+        "00:31:19.939000",
+        "00:31:23.705000",
+        "After many years, 'It's All True' simply disappeared."
+      ]
+    ],
+    "regex": "\\b((?!\\bIt's\\ All\\ True:)It's\\ All\\ True|(?!\\bBased\\ on\\ an\\ Unfinished\\ Film\\ by\\ Orson\\ Welles:)Based\\ on\\ an\\ Unfinished\\ Film\\ by\\ Orson\\ Welles)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

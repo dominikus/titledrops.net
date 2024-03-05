@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0044537",
+    "title": "Denver & Rio Grande",
+    "year": 1952,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 4,
+    "all_lines": 1304,
+    "occurrences": [
+      [
+        0,
+        "00:01:39.200000",
+        "00:01:42.402000",
+        "This is the Denver & Rio Grande Western,"
+      ],
+      [
+        8,
+        "00:02:00.120000",
+        "00:02:03.423000",
+        "The Denver & Rio Grande Western flourishes today"
+      ],
+      [
+        537,
+        "00:33:44.690000",
+        "00:33:47.425000",
+        "Your tent's on Denver & Rio Grande property."
+      ],
+      [
+        543,
+        "00:34:00.471000",
+        "00:34:03.175000",
+        "There's talk the Denver & Rio Grande is busted."
+      ]
+    ],
+    "regex": "\\b((?!\\bDenver\\ \\&\\ Rio\\ Grande:)Denver\\ \\&\\ Rio\\ Grande)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

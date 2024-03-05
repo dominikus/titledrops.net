@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4401266",
+    "title": "Without Grace",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1716,
+    "occurrences": [
+      [
+        461,
+        "00:31:51.086000",
+        "00:31:53.757000",
+        "- You need to learn to live without Grace. - Hmm."
+      ],
+      [
+        1332,
+        "01:21:45.382000",
+        "01:21:47.651000",
+        "that you need to live this life without Grace."
+      ]
+    ],
+    "regex": "\\b((?!\\bWithout\\ Grace:)Without\\ Grace)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

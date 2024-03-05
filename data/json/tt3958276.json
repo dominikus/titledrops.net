@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt3958276",
+    "title": "Midnight Diner",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1148,
+    "occurrences": [
+      [
+        9,
+        "00:02:10.310000",
+        "00:02:14.840000",
+        "People call my eatery 'midnight diner.'"
+      ],
+      [
+        20,
+        "00:02:38.600000",
+        "00:02:46.670000",
+        "Midnight Diner"
+      ],
+      [
+        1143,
+        "01:56:19.690000",
+        "01:56:23.920000",
+        "People call my eatery 'midnight diner.'"
+      ]
+    ],
+    "regex": "\\b((?!\\bMidnight\\ Diner:)Midnight\\ Diner)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

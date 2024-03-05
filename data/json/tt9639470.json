@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt9639470",
+    "title": "Last Night in Soho",
+    "year": 2021,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 2110,
+    "occurrences": [
+      [
+        672,
+        "00:34:33.183000",
+        "00:34:36.083000",
+        "So, what did you get up to last night in Soho?"
+      ],
+      [
+        2107,
+        "01:52:30.034000",
+        "01:52:33.834000",
+        "(\"Last Night in Soho\" by Dave Dee, Dozy, Beaky, Mick & Tich)"
+      ]
+    ],
+    "regex": "\\b((?!\\bLast\\ Night\\ in\\ Soho:)Last\\ Night\\ in\\ Soho)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

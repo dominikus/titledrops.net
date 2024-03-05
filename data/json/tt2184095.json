@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2184095",
+    "title": "3 Day Test",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1398,
+    "occurrences": [
+      [
+        377,
+        "00:24:23.495000",
+        "00:24:26.297000",
+        " The 3 Day Test."
+      ],
+      [
+        1391,
+        "01:29:08.910000",
+        "01:29:13.880000",
+        "Why not give them the 3 Day Test? Bye now."
+      ]
+    ],
+    "regex": "\\b((?!\\b3\\ Day\\ Test:)3\\ Day\\ Test)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0072409",
+    "title": "Willie Dynamite",
+    "year": 1974,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1213,
+    "occurrences": [
+      [
+        613,
+        "00:44:20.671000",
+        "00:44:23.367000",
+        "So you listen to me, Mr. Willie Dynamite."
+      ],
+      [
+        764,
+        "00:57:23.620000",
+        "00:57:27.716000",
+        "You're a hard man to reach, Willie Dynamite."
+      ],
+      [
+        931,
+        "01:16:53.689000",
+        "01:16:56.715000",
+        "Nobody cuts out on Willie Dynamite."
+      ],
+      [
+        1028,
+        "01:25:18.326000",
+        "01:25:20.726000",
+        "alias Willie Dynamite,"
+      ]
+    ],
+    "regex": "\\b((?!\\bWillie\\ Dynamite:)Willie\\ Dynamite)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

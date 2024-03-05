@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt7014006",
+    "title": "Eighth Grade",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1579,
+    "occurrences": [
+      [
+        187,
+        "00:13:19.777000",
+        "00:13:21.743000",
+        "MARK: One more week of eighth grade, huh?"
+      ],
+      [
+        190,
+        "00:13:24.850000",
+        "00:13:27.018000",
+        "I said one more week of eighth grade, right?"
+      ],
+      [
+        824,
+        "00:50:51.651000",
+        "00:50:54.253000",
+        "No. Eighth grade is the worst."
+      ],
+      [
+        1278,
+        "01:14:57.075000",
+        "01:14:59.276000",
+        "to congratulate you on finishing eighth grade."
+      ],
+      [
+        1531,
+        "01:28:40.114000",
+        "01:28:41.848000",
+        "from eighth grade."
+      ]
+    ],
+    "regex": "\\b((?!\\bEighth\\ Grade:)Eighth\\ Grade)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1315214",
+    "title": "Hannah Free",
+    "year": 2009,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1395,
+    "occurrences": [
+      [
+        441,
+        "00:25:15.580000",
+        "00:25:19.016000",
+        "Your old friend, Hannah Free."
+      ],
+      [
+        922,
+        "00:53:30.907000",
+        "00:53:35.571000",
+        "My name is Hannah... Hannah Free."
+      ]
+    ],
+    "regex": "\\b((?!\\bHannah\\ Free:)Hannah\\ Free)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

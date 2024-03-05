@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3962984",
+    "title": "The Black Prince",
+    "year": 2017,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1049,
+    "occurrences": [
+      [
+        181,
+        "00:18:12.804000",
+        "00:18:16.137000",
+        "She calls me \"Black Prince.\""
+      ],
+      [
+        555,
+        "00:59:59.651000",
+        "01:00:05.066000",
+        "What you seek is all gone now, my Black Prince."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Prince:)Black\\ Prince)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

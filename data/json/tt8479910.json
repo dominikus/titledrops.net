@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt8479910",
+    "title": "My Name is Gulpilil",
+    "year": 2021,
+    "genres": [
+      "Biography",
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1034,
+    "occurrences": [
+      [
+        124,
+        "00:12:06.060000",
+        "00:12:08.420000",
+        "and I said, \"My name is Gulpilil.\""
+      ],
+      [
+        1016,
+        "01:37:24.100000",
+        "01:37:29.220000",
+        "My name is Gulpilil."
+      ],
+      [
+        1021,
+        "01:38:01.620000",
+        "01:38:04.180000",
+        "My name is Gulpilil. You know what that means?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Name\\ is\\ Gulpilil:)My\\ Name\\ is\\ Gulpilil)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

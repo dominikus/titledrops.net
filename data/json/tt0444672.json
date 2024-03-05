@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0444672",
+    "title": "Moving McAllister",
+    "year": 2007,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1444,
+    "occurrences": [
+      [
+        293,
+        "00:21:18.392000",
+        "00:21:20.175000",
+        "I'm moving McAllister's niece, remember?"
+      ],
+      [
+        795,
+        "00:45:25.826000",
+        "00:45:26.817000",
+        "I'm moving McAllister."
+      ]
+    ],
+    "regex": "\\b((?!\\bMoving\\ McAllister:)Moving\\ McAllister)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

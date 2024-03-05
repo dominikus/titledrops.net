@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1293847",
+    "title": "xXx: Return of Xander Cage",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 976,
+    "occurrences": [
+      [
+        3,
+        "00:03:41.250000",
+        "00:03:43.690000",
+        "Augustus Gibbons Founder of the XXX Program"
+      ],
+      [
+        19,
+        "00:04:36.190000",
+        "00:04:37.940000",
+        "NEYMAR JR. XXX Active RECRUIT OF A GENIUS WITH BALL at his feet"
+      ],
+      [
+        907,
+        "01:28:28.880000",
+        "01:28:30.040000",
+        "DARIUS STONE XXX SINCE 2005"
+      ]
+    ],
+    "regex": "\\b((?!\\bxXx:)xXx|(?!\\bReturn\\ of\\ Xander\\ Cage:)Return\\ of\\ Xander\\ Cage)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

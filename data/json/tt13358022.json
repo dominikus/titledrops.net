@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt13358022",
+    "title": "The Reading",
+    "year": 2023,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1590,
+    "occurrences": [
+      [
+        155,
+        "00:12:08.820000",
+        "00:12:09.520000",
+        "Yeah, the white boy from the last reading."
+      ],
+      [
+        258,
+        "00:16:56.720000",
+        "00:16:59.160000",
+        "Her sister-in-law, Ashley, is wanting to do a reading for her."
+      ],
+      [
+        442,
+        "00:26:39.440000",
+        "00:26:41.240000",
+        "Sky's the one doing your reading today."
+      ]
+    ],
+    "regex": "\\b((?!\\bReading:)Reading)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

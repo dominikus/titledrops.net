@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0232622",
+    "title": "Shadow Skill",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Animation",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 319,
+    "occurrences": [
+      [
+        12,
+        "00:03:52.058000",
+        "00:03:54.492000",
+        "It doesn't fit with the shadow skill training..."
+      ],
+      [
+        27,
+        "00:05:02.261000",
+        "00:05:07.130000",
+        "That's the 59th Sevalle, Elle Ragu, a master of shadow skill."
+      ],
+      [
+        115,
+        "00:15:39.631000",
+        "00:15:42.862000",
+        "A shadow skill ofthe Kuruda School... The Chainsaw!"
+      ],
+      [
+        202,
+        "00:27:04.215000",
+        "00:27:08.345000",
+        "A shadow skill of the Kuruda School... The Boomerang!"
+      ]
+    ],
+    "regex": "\\b((?!\\bShadow\\ Skill:)Shadow\\ Skill)(?!\\:)(?!'t)\\b",
+    "runtime": 47,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

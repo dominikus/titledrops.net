@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt10603568",
+    "title": "Souvenirs",
+    "year": 2020,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1167,
+    "occurrences": [
+      [
+        244,
+        "00:15:41.038000",
+        "00:15:43.609000",
+        "FEMALE SPEAKER: Gifts, souvenirs from a crime scene."
+      ],
+      [
+        1082,
+        "01:13:27.234000",
+        "01:13:29.670000",
+        "All you had to do was tell me about the souvenirs"
+      ]
+    ],
+    "regex": "\\b((?!\\bSouvenirs:)Souvenirs)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

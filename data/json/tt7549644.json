@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt7549644",
+    "title": "Maniac Farmer",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 990,
+    "occurrences": [
+      [
+        18,
+        "00:03:15.910000",
+        "00:03:19.160000",
+        "I am a maniac farmer"
+      ],
+      [
+        174,
+        "00:14:12.780000",
+        "00:14:15.447000",
+        "Maniac farmer"
+      ],
+      [
+        986,
+        "01:10:48.465000",
+        "01:10:51.715000",
+        "I am a maniac farmer"
+      ]
+    ],
+    "regex": "\\b((?!\\bManiac\\ Farmer:)Maniac\\ Farmer)(?!\\:)(?!'t)\\b",
+    "runtime": 71,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.2
+  }
+]

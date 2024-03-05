@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0768830",
+    "title": "Escort",
+    "year": 2006,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 788,
+    "occurrences": [
+      [
+        367,
+        "00:42:45.707000",
+        "00:42:49.222000",
+        "My dad, with you as an escort."
+      ],
+      [
+        375,
+        "00:43:23.187000",
+        "00:43:26.020000",
+        "If you're an escort girl, why don't you go all the way?"
+      ]
+    ],
+    "regex": "\\b((?!\\bEscort:)Escort)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

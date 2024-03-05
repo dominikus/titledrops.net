@@ -1,0 +1,35 @@
+[
+  {
+    "imdb": "tt0479143",
+    "title": "Rocky Balboa",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 1502,
+    "occurrences": [
+      [
+        1,
+        "00:01:03.088000",
+        "00:01:13.178000",
+        "Rocky Balboa"
+      ],
+      [
+        1297,
+        "01:21:26.700000",
+        "01:21:31.200000",
+        "...shock the world with one punch, why can't be Rocky Balboa?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRocky\\ Balboa:)Rocky\\ Balboa)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [
+      "Rocky Balboa"
+    ],
+    "title_is_name": true,
+    "rating": 7.1
+  }
+]

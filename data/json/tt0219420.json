@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0219420",
+    "title": "Zero Woman: Final Mission",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 638,
+    "occurrences": [
+      [
+        16,
+        "00:01:34.627000",
+        "00:01:35.286000",
+        "...zero woman?"
+      ],
+      [
+        623,
+        "01:16:28.216000",
+        "01:16:30.207000",
+        "...a zero woman i raised."
+      ]
+    ],
+    "regex": "\\b((?!\\bZero\\ Woman:)Zero\\ Woman|(?!\\bFinal\\ Mission:)Final\\ Mission)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

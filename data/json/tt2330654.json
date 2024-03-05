@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt2330654",
+    "title": "Blood Type: Unknown",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1666,
+    "occurrences": [
+      [
+        1325,
+        "01:08:39.249000",
+        "01:08:41.449000",
+        "It was an unknown blood type,"
+      ],
+      [
+        1327,
+        "01:08:43.320000",
+        "01:08:46.855000",
+        "like to call it, blood type U."
+      ],
+      [
+        1544,
+        "01:21:10.032000",
+        "01:21:11.565000",
+        "And the cause is unknown."
+      ],
+      [
+        1547,
+        "01:21:15.338000",
+        "01:21:19.206000",
+        "Unfortunately, due to his unknown blood type"
+      ]
+    ],
+    "regex": "\\b((?!\\bBlood\\ Type:)Blood\\ Type|(?!\\bUnknown:)Unknown)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

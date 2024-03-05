@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1989598",
+    "title": "The Dancer",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 929,
+    "occurrences": [
+      [
+        122,
+        "00:15:38.160000",
+        "00:15:41.360000",
+        "Srintil is filled with a dancer's energy."
+      ],
+      [
+        124,
+        "00:15:49",
+        "00:15:53.480000",
+        "So, now you can see when someone has a dancer's energy."
+      ]
+    ],
+    "regex": "\\b((?!\\bDancer:)Dancer)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

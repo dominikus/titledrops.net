@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0045184",
+    "title": "Springfield Rifle",
+    "year": 1952,
+    "genres": [
+      "Thriller",
+      "War",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 1295,
+    "occurrences": [
+      [
+        68,
+        "00:04:09.271000",
+        "00:04:10.706000",
+        "with the Springfield rifle."
+      ],
+      [
+        1287,
+        "01:31:56.801000",
+        "01:31:59.615000",
+        "the Springfield rifle has been made standard equipment"
+      ]
+    ],
+    "regex": "\\b((?!\\bSpringfield\\ Rifle:)Springfield\\ Rifle)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

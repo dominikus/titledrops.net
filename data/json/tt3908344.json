@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3908344",
+    "title": "From Caligari to Hitler: German Cinema in the Age of the Masses",
+    "year": 2014,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 1111,
+    "occurrences": [
+      [
+        14,
+        "00:02:13.523000",
+        "00:02:16.448000",
+        "FROM CALIGARI TO HITLER"
+      ],
+      [
+        15,
+        "00:02:16.841000",
+        "00:02:19.968000",
+        "GERMAN CINEMA IN THE AGE OF THE MASSES"
+      ]
+    ],
+    "regex": "\\b((?!\\bFrom\\ Caligari\\ to\\ Hitler:)From\\ Caligari\\ to\\ Hitler|(?!\\bGerman\\ Cinema\\ in\\ the\\ Age\\ of\\ the\\ Masses:)German\\ Cinema\\ in\\ the\\ Age\\ of\\ the\\ Masses)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

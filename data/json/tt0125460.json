@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0125460",
+    "title": "The Planet of Junior Brown",
+    "year": 1997,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1383,
+    "occurrences": [
+      [
+        50,
+        "00:05:24.891000",
+        "00:05:29.095000",
+        "Behold, the Planet of Junior Brown."
+      ],
+      [
+        737,
+        "00:42:51.702000",
+        "00:42:53.170000",
+        "Now, the planet of Junior Brown"
+      ]
+    ],
+    "regex": "\\b((?!\\bPlanet\\ of\\ Junior\\ Brown:)Planet\\ of\\ Junior\\ Brown)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

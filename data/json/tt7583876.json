@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt7583876",
+    "title": "Rock Camp",
+    "year": 2021,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 1679,
+    "occurrences": [
+      [
+        47,
+        "00:02:34.719000",
+        "00:02:39.159000",
+        "Looking forward to another good bashing at rock camp."
+      ],
+      [
+        456,
+        "00:24:05.618000",
+        "00:24:07.251000",
+        "The whole thing about the rock camp"
+      ],
+      [
+        723,
+        "00:37:27.854000",
+        "00:37:31.205000",
+        "Here's opening day at Rock Camp. Are you ready to rock?"
+      ],
+      [
+        1105,
+        "00:56:24.555000",
+        "00:56:27.035000",
+        "Rock camp is a little bit like self-realization"
+      ]
+    ],
+    "regex": "\\b((?!\\bRock\\ Camp:)Rock\\ Camp)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

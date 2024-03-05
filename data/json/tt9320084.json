@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt9320084",
+    "title": "Oil on Canvas",
+    "year": 2019,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 801,
+    "occurrences": [
+      [
+        0,
+        "00:01:37.380000",
+        "00:01:44.280000",
+        "Oil on Canvas."
+      ],
+      [
+        170,
+        "00:17:50.040000",
+        "00:17:51.680000",
+        "Oil on Canvas."
+      ],
+      [
+        794,
+        "01:12:29.161000",
+        "01:12:32.590000",
+        "Oil on Canvas."
+      ]
+    ],
+    "regex": "\\b((?!\\bOil\\ on\\ Canvas:)Oil\\ on\\ Canvas)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

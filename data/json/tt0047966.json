@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0047966",
+    "title": "Cult of the Cobra",
+    "year": 1955,
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1028,
+    "occurrences": [
+      [
+        58,
+        "00:04:47.787000",
+        "00:04:49.914000",
+        "a member of the cult of the cobra."
+      ],
+      [
+        106,
+        "00:06:57.917000",
+        "00:06:59.976000",
+        "Well, it isn't just the cult of the cobra."
+      ]
+    ],
+    "regex": "\\b((?!\\bCult\\ of\\ the\\ Cobra:)Cult\\ of\\ the\\ Cobra)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt6415416",
+    "title": "Mug",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 544,
+    "occurrences": [
+      [
+        331,
+        "00:53:29.460000",
+        "00:53:33.252000",
+        "My wife's not putting out because she's looking after Mug."
+      ],
+      [
+        333,
+        "00:53:37.416000",
+        "00:53:40.708000",
+        "Wonder if he's getting any with that mug of his?"
+      ],
+      [
+        461,
+        "01:09:54.416000",
+        "01:09:59.376000",
+        "Mug! Mug!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMug:)Mug)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

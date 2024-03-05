@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0248928",
+    "title": "The River",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 835,
+    "occurrences": [
+      [
+        565,
+        "01:01:14.640000",
+        "01:01:16.870000",
+        "Out there I see - a river"
+      ],
+      [
+        580,
+        "01:02:31.280000",
+        "01:02:33.236000",
+        "Out there I see - a river"
+      ],
+      [
+        581,
+        "01:02:33.600000",
+        "01:02:35.318000",
+        "A wet and thick river"
+      ],
+      [
+        817,
+        "01:40:19.880000",
+        "01:40:25.352000",
+        "Anne walked into the river and I asked her to come back but she didn't"
+      ]
+    ],
+    "regex": "\\b((?!\\bRiver:)River)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

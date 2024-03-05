@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt0088007",
+    "title": "The River",
+    "year": 1984,
+    "genres": [
+      "Drama"
+    ],
+    "count": 7,
+    "all_lines": 1002,
+    "occurrences": [
+      [
+        67,
+        "00:14:31.462000",
+        "00:14:35.466000",
+        "My aquifer's going dry. I'm too far from the river to irrigate."
+      ],
+      [
+        155,
+        "00:22:29.506000",
+        "00:22:31.349000",
+        "Away from the river."
+      ],
+      [
+        235,
+        "00:28:38.308000",
+        "00:28:40.577000",
+        "He's five miles down the river."
+      ],
+      [
+        777,
+        "01:24:12.539000",
+        "01:24:15.110000",
+        "I dreamt about the river last night."
+      ],
+      [
+        778,
+        "01:24:18.778000",
+        "01:24:21.224000",
+        "Only it wasn't a river."
+      ],
+      [
+        920,
+        "01:42:32.071000",
+        "01:42:34.173000",
+        "If we don't stop the river, it will finish us."
+      ],
+      [
+        927,
+        "01:42:55.627000",
+        "01:43:00.666000",
+        "I want to live with you, but you can't hold back the river."
+      ]
+    ],
+    "regex": "\\b((?!\\bRiver:)River)(?!\\:)(?!'t)\\b",
+    "runtime": 124,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0079450",
+    "title": "The Legacy",
+    "year": 1978,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 754,
+    "occurrences": [
+      [
+        345,
+        "00:37:10.147000",
+        "00:37:12.608000",
+        "My legacy..."
+      ],
+      [
+        727,
+        "01:32:19.748000",
+        "01:32:22.251000",
+        "Take my legacy-"
+      ]
+    ],
+    "regex": "\\b((?!\\bLegacy:)Legacy)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

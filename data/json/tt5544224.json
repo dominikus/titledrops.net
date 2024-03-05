@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt5544224",
+    "title": "Flashburn",
+    "year": 2017,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 792,
+    "occurrences": [
+      [
+        260,
+        "00:27:44.994000",
+        "00:27:46.764000",
+        "Flashburn."
+      ],
+      [
+        261,
+        "00:27:47.998000",
+        "00:27:49.933000",
+        "I named it Flashburn."
+      ],
+      [
+        274,
+        "00:28:54.064000",
+        "00:28:58.169000",
+        "Open the fridge and take the vial Flashburn number 7."
+      ],
+      [
+        460,
+        "00:48:30.206000",
+        "00:48:32.305000",
+        "an experimental virus called Flashburn"
+      ],
+      [
+        490,
+        "00:50:42.170000",
+        "00:50:45.139000",
+        "What does Flashburn do?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFlashburn:)Flashburn)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

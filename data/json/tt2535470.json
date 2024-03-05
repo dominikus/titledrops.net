@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2535470",
+    "title": "Wyrmwood: Road of the Dead",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 816,
+    "occurrences": [
+      [
+        438,
+        "00:55:14.277000",
+        "00:55:15.678000",
+        "- Wyrmwood."
+      ],
+      [
+        445,
+        "00:55:28.359000",
+        "00:55:30.659000",
+        "A star called Wyrmwood falls to the Earth"
+      ]
+    ],
+    "regex": "\\b((?!\\bWyrmwood:)Wyrmwood|(?!\\bRoad\\ of\\ the\\ Dead:)Road\\ of\\ the\\ Dead)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

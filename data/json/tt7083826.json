@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt7083826",
+    "title": "Hostage X",
+    "year": 2017,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 627,
+    "occurrences": [
+      [
+        35,
+        "00:12:30.481000",
+        "00:12:32.283000",
+        "I'm being held hostage in some stable, in some backassward country"
+      ],
+      [
+        503,
+        "00:56:44.333000",
+        "00:56:46.999000",
+        "Or someone who paid them to hold you hostage but doesn't entirely trust them."
+      ]
+    ],
+    "regex": "\\b((?!\\bHostage:)Hostage)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.9
+  }
+]

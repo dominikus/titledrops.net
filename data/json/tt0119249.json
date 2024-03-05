@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt0119249",
+    "title": "Hamilton",
+    "year": 1998,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "count": 3,
+    "all_lines": 835,
+    "occurrences": [
+      [
+        252,
+        "00:36:47.957000",
+        "00:36:51.472000",
+        "From now on I will only answer questions from Hamilton."
+      ],
+      [
+        558,
+        "01:13:24.888000",
+        "01:13:29.643000",
+        "Make sure that he gets the bomb. Very well. And Hamilton?"
+      ],
+      [
+        559,
+        "01:13:29.728000",
+        "01:13:34.006000",
+        "Hamilton should have been killed several years ago."
+      ]
+    ],
+    "regex": "\\b((?!\\bHamilton:)Hamilton)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [
+      "Hamilton"
+    ],
+    "title_is_name": true,
+    "rating": 5.8
+  }
+]

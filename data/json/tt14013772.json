@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt14013772",
+    "title": "Elevator Game",
+    "year": 2023,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 7,
+    "all_lines": 1191,
+    "occurrences": [
+      [
+        150,
+        "00:14:37.393000",
+        "00:14:40.327000",
+        "What about the Elevator Game?"
+      ],
+      [
+        367,
+        "00:26:23.340000",
+        "00:26:25.238000",
+        "the Elevator Game."
+      ],
+      [
+        370,
+        "00:26:30.209000",
+        "00:26:31.866000",
+        "Well, tonight, the Elevator Game"
+      ],
+      [
+        372,
+        "00:26:34.144000",
+        "00:26:36.905000",
+        "But with the Elevator Game,"
+      ],
+      [
+        586,
+        "00:39:46.176000",
+        "00:39:49.939000",
+        "but not before telling her all about the Elevator Game."
+      ],
+      [
+        1137,
+        "01:30:07.609000",
+        "01:30:08.886000",
+        "all played the elevator game"
+      ],
+      [
+        1142,
+        "01:30:20.553000",
+        "01:30:24.798000",
+        "I'm gonna play the elevator game in this very elevator."
+      ]
+    ],
+    "regex": "\\b((?!\\bElevator\\ Game:)Elevator\\ Game)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt6509432",
+    "title": "The Departure",
+    "year": 2017,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 638,
+    "occurrences": [
+      [
+        0,
+        "00:04:59.883000",
+        "00:05:02.469000",
+        "Welcome to the departure."
+      ],
+      [
+        2,
+        "00:05:11.561000",
+        "00:05:15.565000",
+        "The goal is for you to experience \"departure.\""
+      ],
+      [
+        637,
+        "01:22:19.101000",
+        "01:22:22.312000",
+        "Welcome to the departure."
+      ]
+    ],
+    "regex": "\\b((?!\\bDeparture:)Departure)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

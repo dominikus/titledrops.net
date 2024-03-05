@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1549571",
+    "title": "Pure Country 2: The Gift",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Music",
+      "Musical"
+    ],
+    "count": 3,
+    "all_lines": 738,
+    "occurrences": [
+      [
+        21,
+        "00:01:56.979000",
+        "00:01:58.879000",
+        "That voice is an incredible gift."
+      ],
+      [
+        22,
+        "00:02:00.817000",
+        "00:02:03.217000",
+        "And with a great gift comes great responsibilities."
+      ],
+      [
+        380,
+        "00:29:46.047000",
+        "00:29:50.279000",
+        "...you no accept gift, must kill you."
+      ]
+    ],
+    "regex": "\\b((?!\\bPure\\ Country:)Pure\\ Country|(?!\\bGift:)Gift)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "imdb": "tt0064111",
+    "title": "Bronco Bullfrog",
+    "year": 1970,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 800,
+    "occurrences": [
+      [
+        84,
+        "00:07:19.481000",
+        "00:07:21.524000",
+        "- Who? Bronco Bullfrog? - Yeah."
+      ],
+      [
+        185,
+        "00:17:26.254000",
+        "00:17:30.841000",
+        "Who, Bronco Bullfrog? He's still out of borstal. Let's go talk to him."
+      ]
+    ],
+    "regex": "\\b((?!\\bBronco\\ Bullfrog:)Bronco\\ Bullfrog)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [
+      "Jo Saville alias Bronco Bullfrog"
+    ],
+    "title_is_name": true,
+    "rating": 6.7
+  }
+]

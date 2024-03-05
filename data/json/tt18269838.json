@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt18269838",
+    "title": "Olivia Rodrigo: driving home 2 u (a SOUR film)",
+    "year": 2022,
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 1042,
+    "occurrences": [
+      [
+        9,
+        "00:00:26.693000",
+        "00:00:29.029000",
+        "It's \"drivers license\" by Olivia Rodrigo."
+      ],
+      [
+        28,
+        "00:01:21.373000",
+        "00:01:23.208000",
+        "Hi, I'm Olivia Rodrigo..."
+      ]
+    ],
+    "regex": "\\b((?!\\bOlivia\\ Rodrigo:)Olivia\\ Rodrigo|(?!\\bdriving\\ home\\ 2\\ u\\ \\(a\\ SOUR\\ film\\):)driving\\ home\\ 2\\ u\\ \\(a\\ SOUR\\ film\\))(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

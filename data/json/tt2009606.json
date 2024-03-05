@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2009606",
+    "title": "Believe",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 1011,
+    "occurrences": [
+      [
+        364,
+        "00:29:39.170000",
+        "00:29:41.160000",
+        "Dead cert, I don't believe it."
+      ],
+      [
+        662,
+        "00:55:13.090000",
+        "00:55:17.130000",
+        "If you believe, you could score with your eyes shut."
+      ],
+      [
+        919,
+        "01:16:46.100000",
+        "01:16:48.110000",
+        "I don't believe this."
+      ],
+      [
+        982,
+        "01:23:44.060000",
+        "01:23:50.050000",
+        "(MATT ECHOING): If you believe, you can score with your eyes shut"
+      ]
+    ],
+    "regex": "\\b((?!\\bBelieve:)Believe)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

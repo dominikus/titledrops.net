@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt7215262",
+    "title": "Super Size Me 2: Holy Chicken!",
+    "year": 2017,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 4,
+    "all_lines": 2291,
+    "occurrences": [
+      [
+        5,
+        "00:00:52.313000",
+        "00:00:55.142000",
+        "of the Academy Award nominee Best Documentary, \"Super Size Me.\""
+      ],
+      [
+        14,
+        "00:01:11.419000",
+        "00:01:14.161000",
+        "The star of the documentary \"Super Size Me.\""
+      ],
+      [
+        104,
+        "00:05:16.446000",
+        "00:05:18.187000",
+        "You know, having done \"Super Size Me,\""
+      ],
+      [
+        1880,
+        "01:24:22.274000",
+        "01:24:24.494000",
+        "The star of the documentary \"Super Size Me.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bSuper\\ Size\\ Me:)Super\\ Size\\ Me|(?!\\bHoly\\ Chicken!:)Holy\\ Chicken!)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

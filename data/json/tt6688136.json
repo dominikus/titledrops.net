@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6688136",
+    "title": "Expedition Happiness",
+    "year": 2017,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1044,
+    "occurrences": [
+      [
+        164,
+        "00:16:26.600000",
+        "00:16:28.320000",
+        "It's called Expedition Happiness,"
+      ],
+      [
+        471,
+        "00:44:44",
+        "00:44:47.560000",
+        "There is no Expedition Happiness, actually. I don't wanna go on without him."
+      ]
+    ],
+    "regex": "\\b((?!\\bExpedition\\ Happiness:)Expedition\\ Happiness)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

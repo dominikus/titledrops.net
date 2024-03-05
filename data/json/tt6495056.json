@@ -1,0 +1,57 @@
+[
+  {
+    "imdb": "tt6495056",
+    "title": "Migration",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "count": 6,
+    "all_lines": 1370,
+    "occurrences": [
+      [
+        191,
+        "00:08:14.330000",
+        "00:08:16.665000",
+        "I hear you want to join our migration."
+      ],
+      [
+        229,
+        "00:09:54.697000",
+        "00:09:56.532000",
+        "But migration?"
+      ],
+      [
+        254,
+        "00:10:43.712000",
+        "00:10:46.248000",
+        "This isn't about migration."
+      ],
+      [
+        307,
+        "00:13:08.390000",
+        "00:13:12.294000",
+        "for our big, super fun family migration!"
+      ],
+      [
+        316,
+        "00:13:27.843000",
+        "00:13:28.945000",
+        "-Yes. -On a migration?"
+      ],
+      [
+        321,
+        "00:13:35.451000",
+        "00:13:37.419000",
+        "Yes! We are all going on a migration to Jamaica."
+      ]
+    ],
+    "regex": "\\b((?!\\bMigration:)Migration)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

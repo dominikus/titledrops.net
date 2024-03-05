@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0288621",
+    "title": "Art Museum by the Zoo",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1036,
+    "occurrences": [
+      [
+        20,
+        "00:02:26.112000",
+        "00:02:28.672000",
+        "Art Museum By the Zoo."
+      ],
+      [
+        396,
+        "00:35:14.312000",
+        "00:35:16.803000",
+        "Art Museum by the Zoo?"
+      ],
+      [
+        397,
+        "00:35:19.383000",
+        "00:35:24.650000",
+        "'Art Museum by the Zoo'"
+      ]
+    ],
+    "regex": "\\b((?!\\bArt\\ Museum\\ by\\ the\\ Zoo:)Art\\ Museum\\ by\\ the\\ Zoo)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

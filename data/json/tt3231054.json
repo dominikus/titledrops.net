@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt3231054",
+    "title": "Risen",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 882,
+    "occurrences": [
+      [
+        262,
+        "00:31:06.200000",
+        "00:31:08.650000",
+        "They stole his body. And now they're he had risen."
+      ],
+      [
+        311,
+        "00:35:00.600000",
+        "00:35:02.750000",
+        "So you are saying, he has risen?"
+      ]
+    ],
+    "regex": "\\b((?!\\bRisen:)Risen)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

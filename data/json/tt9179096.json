@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt9179096",
+    "title": "Minamata",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 292,
+    "occurrences": [
+      [
+        60,
+        "00:31:10.890000",
+        "00:31:15.010000",
+        "It turns out their young boy was very sick with Minamata disease."
+      ],
+      [
+        64,
+        "00:31:35.010000",
+        "00:31:39.090000",
+        "In all cases of Minamata, there is someone to blame."
+      ],
+      [
+        110,
+        "00:57:46.810000",
+        "00:57:49.370000",
+        "or shame brought to Minamata."
+      ],
+      [
+        242,
+        "01:28:45.450000",
+        "01:28:47.170000",
+        "My child also has Minamata disease."
+      ]
+    ],
+    "regex": "\\b((?!\\bMinamata:)Minamata)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

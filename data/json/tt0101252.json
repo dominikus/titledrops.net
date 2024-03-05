@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0101252",
+    "title": "29th Street",
+    "year": 1991,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2195,
+    "occurrences": [
+      [
+        157,
+        "00:09:39.462000",
+        "00:09:43.231000",
+        "TO BELLEVUE HOSPITAL ON 29th STREET INSTEAD."
+      ],
+      [
+        821,
+        "00:35:45.193000",
+        "00:35:47.127000",
+        "I WAS ALWAYS ON 29th STREET"
+      ]
+    ],
+    "regex": "\\b((?!\\b29th\\ Street:)29th\\ Street)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

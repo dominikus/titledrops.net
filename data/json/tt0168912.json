@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0168912",
+    "title": "Just One Time",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1806,
+    "occurrences": [
+      [
+        316,
+        "00:14:52.456000",
+        "00:14:54.719000",
+        "Just one time."
+      ],
+      [
+        444,
+        "00:22:02.233000",
+        "00:22:04.148000",
+        "it's just one time."
+      ],
+      [
+        815,
+        "00:39:36.417000",
+        "00:39:37.897000",
+        "It's just one time, right."
+      ]
+    ],
+    "regex": "\\b((?!\\bJust\\ One\\ Time:)Just\\ One\\ Time)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt5597202",
+    "title": "Savitri",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1116,
+    "occurrences": [
+      [
+        115,
+        "00:09:58.600000",
+        "00:10:04.340000",
+        "Savitri. You look so beautiful It's not good to blame your eyelids"
+      ],
+      [
+        868,
+        "01:31:36.260000",
+        "01:31:38.930000",
+        "Savitri's marriage is the first card He's got it"
+      ]
+    ],
+    "regex": "\\b((?!\\bSavitri:)Savitri)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

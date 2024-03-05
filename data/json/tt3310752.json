@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3310752",
+    "title": "Respect the Jux",
+    "year": 2022,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1630,
+    "occurrences": [
+      [
+        147,
+        "00:08:36.642000",
+        "00:08:39.352000",
+        "Tell Bragga he jux, so he must respect the jux."
+      ],
+      [
+        570,
+        "00:34:05.754000",
+        "00:34:07.589000",
+        "You have to respect the jux, you know."
+      ]
+    ],
+    "regex": "\\b((?!\\bRespect\\ the\\ Jux:)Respect\\ the\\ Jux)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

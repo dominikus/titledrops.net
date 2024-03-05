@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4490762",
+    "title": "Traceroute",
+    "year": 2016,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 2448,
+    "occurrences": [
+      [
+        250,
+        "00:14:17.648000",
+        "00:14:21.027000",
+        "Traceroute is a road trip, a pilgrimage,"
+      ],
+      [
+        2216,
+        "01:45:24.068000",
+        "01:45:26.529000",
+        "is hosting a Traceroute party for us."
+      ]
+    ],
+    "regex": "\\b((?!\\bTraceroute:)Traceroute)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

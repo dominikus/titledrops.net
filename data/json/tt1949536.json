@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt1949536",
+    "title": "Once a Year",
+    "year": 2012,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 601,
+    "occurrences": [
+      [
+        12,
+        "00:02:12.040000",
+        "00:02:17.876000",
+        "Once a Year A film by Gorki Glaser-Muller"
+      ],
+      [
+        95,
+        "00:14:39.600000",
+        "00:14:41.989000",
+        "Once a year."
+      ],
+      [
+        177,
+        "00:22:42.200000",
+        "00:22:48.230000",
+        "You have felt that once a year wasn't enough."
+      ],
+      [
+        230,
+        "00:27:32.360000",
+        "00:27:37.115000",
+        "...to be together. Not once a year, but for the rest of our lives"
+      ],
+      [
+        570,
+        "01:09:53.120000",
+        "01:09:57.193000",
+        "I don't recall how we decided to meet once a year"
+      ]
+    ],
+    "regex": "\\b((?!\\bOnce\\ a\\ Year:)Once\\ a\\ Year)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

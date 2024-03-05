@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt6263618",
+    "title": "In the Aisles",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 684,
+    "occurrences": [
+      [
+        76,
+        "00:15:33.601000",
+        "00:15:36.641000",
+        "There was no daylight in the aisles."
+      ],
+      [
+        497,
+        "01:07:21.841000",
+        "01:07:24.121000",
+        "Sometimes I would see Marion in the aisles."
+      ],
+      [
+        507,
+        "01:09:33.961000",
+        "01:09:35.881000",
+        "I didn't see her in the aisles."
+      ]
+    ],
+    "regex": "\\b((?!\\bIn\\ the\\ Aisles:)In\\ the\\ Aisles)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

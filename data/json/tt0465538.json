@@ -1,0 +1,59 @@
+[
+  {
+    "imdb": "tt0465538",
+    "title": "Michael Clayton",
+    "year": 2007,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 6,
+    "all_lines": 1265,
+    "occurrences": [
+      [
+        158,
+        "00:12:19.182000",
+        "00:12:21.475000",
+        "Jerry, it's Michael Clayton."
+      ],
+      [
+        455,
+        "00:37:03.790000",
+        "00:37:07.251000",
+        "- Karen? Hi, I'm Michael Clayton. - You're late."
+      ],
+      [
+        983,
+        "01:20:48.412000",
+        "01:20:50.872000",
+        "- Who is this? - Michael Clayton."
+      ],
+      [
+        996,
+        "01:22:03.112000",
+        "01:22:06.156000",
+        "My name's Michael Clayton. I'm a friend of Arthur's."
+      ],
+      [
+        1060,
+        "01:31:35.184000",
+        "01:31:37.351000",
+        "Do you know Michael Clayton?"
+      ],
+      [
+        1163,
+        "01:45:31.477000",
+        "01:45:34.104000",
+        "- Yeah, they closed U/North. - No. Michael Clayton."
+      ]
+    ],
+    "regex": "\\b((?!\\bMichael\\ Clayton:)Michael\\ Clayton)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [
+      "Michael Clayton"
+    ],
+    "title_is_name": true,
+    "rating": 7.2
+  }
+]

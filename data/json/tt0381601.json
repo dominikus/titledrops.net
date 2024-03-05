@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0381601",
+    "title": "Slipstream",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 739,
+    "occurrences": [
+      [
+        55,
+        "00:07:07.594000",
+        "00:07:08.891000",
+        "\"Slipstream.\""
+      ],
+      [
+        348,
+        "00:35:56.279000",
+        "00:35:58.953000",
+        "- This is Slipstream, isn't it? - How'd you know?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSlipstream:)Slipstream)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

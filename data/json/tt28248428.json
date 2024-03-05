@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt28248428",
+    "title": "Home Service",
+    "year": 2023,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1082,
+    "occurrences": [
+      [
+        83,
+        "00:15:07.590000",
+        "00:15:09.170000",
+        "Do you do home service?"
+      ],
+      [
+        85,
+        "00:15:10.470000",
+        "00:15:13.720000",
+        "Home service like a freelancer."
+      ],
+      [
+        384,
+        "00:37:30.390000",
+        "00:37:31.770000",
+        "Home service?"
+      ],
+      [
+        446,
+        "00:43:34.620000",
+        "00:43:37.790000",
+        "You won't even need to do home service."
+      ]
+    ],
+    "regex": "\\b((?!\\bHome\\ Service:)Home\\ Service)(?!\\:)(?!'t)\\b",
+    "runtime": 114,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

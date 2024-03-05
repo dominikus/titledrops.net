@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0455407",
+    "title": "The Crazies",
+    "year": 2010,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 593,
+    "occurrences": [
+      [
+        245,
+        "00:34:17.982000",
+        "00:34:20.994000",
+        "C'mon! Let's go, let's go! The crazies are breached the corridor!"
+      ],
+      [
+        367,
+        "00:50:13.466000",
+        "00:50:15.386000",
+        "Any crazies back there, Babcock?"
+      ]
+    ],
+    "regex": "\\b((?!\\bCrazies:)Crazies)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

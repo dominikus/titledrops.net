@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0116594",
+    "title": "I Shot Andy Warhol",
+    "year": 1996,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1773,
+    "occurrences": [
+      [
+        1672,
+        "01:33:30.427000",
+        "01:33:32.998000",
+        "I shot Andy Warhol. Yeah, I had to."
+      ],
+      [
+        1675,
+        "01:33:52.254000",
+        "01:33:54.257000",
+        "\"I shot Andy Warhol."
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Shot\\ Andy\\ Warhol:)I\\ Shot\\ Andy\\ Warhol)(?!\\:)(?!'t)\\b",
+    "runtime": 103,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

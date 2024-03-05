@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6435146",
+    "title": "Phony",
+    "year": 2022,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2316,
+    "occurrences": [
+      [
+        535,
+        "00:20:31.211000",
+        "00:20:32.284000",
+        "That sounds phony."
+      ],
+      [
+        539,
+        "00:20:39.861000",
+        "00:20:43.709000",
+        "So, David kicked us out of his phony, metonymical fuck club,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPhony:)Phony)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.3
+  }
+]

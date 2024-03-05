@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt1849824",
+    "title": "Mr. Bricks: A Heavy Metal Murder Musical",
+    "year": 2011,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Musical"
+    ],
+    "count": 1,
+    "all_lines": 871,
+    "occurrences": [
+      [
+        88,
+        "00:09:26.800000",
+        "00:09:36.944000",
+        "Lucky for me, I'm going by Bricks these days, Mr. Bricks."
+      ]
+    ],
+    "regex": "\\b((?!\\bMr\\.\\ Bricks:)Mr\\.\\ Bricks|(?!\\bHeavy\\ Metal\\ Murder\\ Musical:)Heavy\\ Metal\\ Murder\\ Musical)(?!\\:)(?!'t)\\b",
+    "runtime": 71,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.1
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt15138970",
+    "title": "Harland Manor",
+    "year": 2021,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1290,
+    "occurrences": [
+      [
+        28,
+        "00:02:33.440000",
+        "00:02:34.463000",
+        "How's Harland Manor?"
+      ],
+      [
+        562,
+        "00:32:11.810000",
+        "00:32:13.630000",
+        "If what's occurred already in Harland Manor"
+      ]
+    ],
+    "regex": "\\b((?!\\bHarland\\ Manor:)Harland\\ Manor)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

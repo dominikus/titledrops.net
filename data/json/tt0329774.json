@@ -1,0 +1,81 @@
+[
+  {
+    "imdb": "tt0329774",
+    "title": "xXx: State of the Union",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "count": 10,
+    "all_lines": 1063,
+    "occurrences": [
+      [
+        24,
+        "00:04:41.848000",
+        "00:04:44.248000",
+        "The new XXX has gotta be more dangerous."
+      ],
+      [
+        50,
+        "00:07:29.215000",
+        "00:07:33.311000",
+        "So it's going in my State of the Union address this week."
+      ],
+      [
+        121,
+        "00:13:51.230000",
+        "00:13:53.391000",
+        "- Well, who the hell am l? - You're the new XXX."
+      ],
+      [
+        123,
+        "00:13:55.134000",
+        "00:13:57.364000",
+        "- What happened to the old XXX? - He's dead."
+      ],
+      [
+        124,
+        "00:13:57.536000",
+        "00:14:01.404000",
+        "XXX is the designation we give to deep-cover agents with special skills."
+      ],
+      [
+        149,
+        "00:15:24.089000",
+        "00:15:27.820000",
+        "The last XXX, he could ski, surf, do all kinds of stunts."
+      ],
+      [
+        250,
+        "00:24:27.332000",
+        "00:24:30.165000",
+        "You know what, X? I'm really starting to miss the old XXX."
+      ],
+      [
+        700,
+        "01:00:29.662000",
+        "01:00:31.596000",
+        "...for the State of the Union tonight."
+      ],
+      [
+        920,
+        "01:17:32.718000",
+        "01:17:34.879000",
+        "- I'm XXX. - Is this you, George?"
+      ],
+      [
+        1057,
+        "01:35:03.467000",
+        "01:35:06.459000",
+        "Sir, I've got some ideas for the next XXX."
+      ]
+    ],
+    "regex": "\\b((?!\\bxXx:)xXx|(?!\\bState\\ of\\ the\\ Union:)State\\ of\\ the\\ Union)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

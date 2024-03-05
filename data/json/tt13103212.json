@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt13103212",
+    "title": "Irul",
+    "year": 2021,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 945,
+    "occurrences": [
+      [
+        42,
+        "00:05:40.166000",
+        "00:05:41.916000",
+        "Since you're here, let me buy you a copy of Irul."
+      ],
+      [
+        332,
+        "00:32:49.750000",
+        "00:32:50.708000",
+        "Irul."
+      ],
+      [
+        333,
+        "00:32:51.916000",
+        "00:32:52.916000",
+        "Irul."
+      ]
+    ],
+    "regex": "\\b((?!\\bIrul:)Irul)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

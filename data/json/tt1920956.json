@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1920956",
+    "title": "Hidden in the Woods",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 839,
+    "occurrences": [
+      [
+        12,
+        "00:02:10.965000",
+        "00:02:15.344000",
+        "Hidden in the Woods"
+      ],
+      [
+        463,
+        "00:51:24.040000",
+        "00:51:28.419000",
+        "- I'm sure the drugs are hidden in the woods! - But where?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHidden\\ in\\ the\\ Woods:)Hidden\\ in\\ the\\ Woods)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt6985448",
+    "title": "Number 37",
+    "year": 2018,
+    "genres": [
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 842,
+    "occurrences": [
+      [
+        356,
+        "00:46:48.958000",
+        "00:46:50.166000",
+        "Do you have his number?"
+      ],
+      [
+        357,
+        "00:46:55.250000",
+        "00:46:56.250000",
+        "Put the number on private."
+      ],
+      [
+        707,
+        "01:27:19.666000",
+        "01:27:21.500000",
+        "Number 37."
+      ]
+    ],
+    "regex": "\\b((?!\\bNumber:)Number)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

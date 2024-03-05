@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1998204",
+    "title": "Home from Home: Chronicle of a Vision",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 1815,
+    "occurrences": [
+      [
+        18,
+        "00:03:19.436000",
+        "00:03:24.770000",
+        "HOME FROM HOME"
+      ],
+      [
+        19,
+        "00:03:24.895000",
+        "00:03:30.770000",
+        "Chronicle of a Vision"
+      ],
+      [
+        1804,
+        "03:43:19.561000",
+        "03:43:23.728000",
+        "\"with God's succour she will grow up a fine girl in this, our home from home."
+      ]
+    ],
+    "regex": "\\b((?!\\bHome\\ from\\ Home:)Home\\ from\\ Home|(?!\\bChronicle\\ of\\ a\\ Vision:)Chronicle\\ of\\ a\\ Vision)(?!\\:)(?!'t)\\b",
+    "runtime": 231,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.9
+  }
+]

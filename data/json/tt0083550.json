@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0083550",
+    "title": "Amityville II: The Possession",
+    "year": 1982,
+    "genres": [
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 682,
+    "occurrences": [
+      [
+        466,
+        "01:06:43.897000",
+        "01:06:46.388000",
+        "- Would you tell me where we're going? - Amityville."
+      ],
+      [
+        554,
+        "01:20:52.178000",
+        "01:20:54.942000",
+        "that Sonny is a victim of demonic possession, and therefore..."
+      ],
+      [
+        556,
+        "01:20:58.284000",
+        "01:21:01.685000",
+        "Demonic possession, Your Honor. Possession by demons."
+      ],
+      [
+        563,
+        "01:21:24.777000",
+        "01:21:27.712000",
+        "would be inundated with pleas of possession."
+      ]
+    ],
+    "regex": "\\b((?!\\bAmityville:)Amityville|(?!\\bPossession:)Possession)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

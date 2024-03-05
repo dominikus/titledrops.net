@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt1094594",
+    "title": "Sigur Rós: Heima",
+    "year": 2007,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 4,
+    "all_lines": 225,
+    "occurrences": [
+      [
+        0,
+        "00:01:08.760000",
+        "00:01:11.354000",
+        "Heima means \"at home\"."
+      ],
+      [
+        30,
+        "00:18:24.720000",
+        "00:18:26.551000",
+        "please welcome Sigur Ros!."
+      ],
+      [
+        90,
+        "00:44:17.600000",
+        "00:44:21.559000",
+        "Or in Sigur Ros in general, there's not much planning."
+      ],
+      [
+        183,
+        "01:13:44.200000",
+        "01:13:49.069000",
+        "I mean, we haven't played a proper Sigur Ros/Amiina show since then,"
+      ]
+    ],
+    "regex": "\\b((?!\\bSigur\\ Ros:)Sigur\\ Ros|(?!\\bHeima:)Heima)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.4
+  }
+]

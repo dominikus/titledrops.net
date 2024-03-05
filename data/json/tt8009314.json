@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt8009314",
+    "title": "Burn",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1320,
+    "occurrences": [
+      [
+        684,
+        "00:36:07.966000",
+        "00:36:10.433000",
+        "I burn myself all the time."
+      ],
+      [
+        1158,
+        "01:12:24.140000",
+        "01:12:26.641000",
+        "I'll burn this whole place down right now."
+      ],
+      [
+        1188,
+        "01:13:45.355000",
+        "01:13:46.387000",
+        "and now she's gonna burn the whole place down!"
+      ],
+      [
+        1190,
+        "01:13:47.424000",
+        "01:13:48.756000",
+        "I said she's gonna burn the whole..."
+      ],
+      [
+        1242,
+        "01:16:46.102000",
+        "01:16:47.802000",
+        "Please, I'll burn the whole place down"
+      ]
+    ],
+    "regex": "\\b((?!\\bBurn:)Burn)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

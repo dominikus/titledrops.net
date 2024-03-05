@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0215129",
+    "title": "Road Trip",
+    "year": 2000,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 2,
+    "all_lines": 1415,
+    "occurrences": [
+      [
+        357,
+        "00:24:01.386000",
+        "00:24:03.354000",
+        "Road trip."
+      ],
+      [
+        687,
+        "00:46:46.984000",
+        "00:46:50.147000",
+        "This is supposed to be a road trip."
+      ]
+    ],
+    "regex": "\\b((?!\\bRoad\\ Trip:)Road\\ Trip)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

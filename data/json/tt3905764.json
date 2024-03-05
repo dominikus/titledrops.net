@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt3905764",
+    "title": "The Neighbor",
+    "year": 2017,
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 931,
+    "occurrences": [
+      [
+        10,
+        "00:04:13.519000",
+        "00:04:15.719000",
+        "Hey... I'm gonna go say hello to the neighbor real quick."
+      ],
+      [
+        19,
+        "00:04:37.543000",
+        "00:04:41.545000",
+        "Hey! Jenna! Come over and meet Mike, our new neighbor."
+      ],
+      [
+        140,
+        "00:14:08.145000",
+        "00:14:10.280000",
+        "Hey, neighbor!"
+      ],
+      [
+        336,
+        "00:30:58.955000",
+        "00:31:04.392000",
+        "New neighbor... he sells them."
+      ],
+      [
+        375,
+        "00:35:17.481000",
+        "00:35:19.347000",
+        "Oh, yeah, what's going on with the neighbor?"
+      ],
+      [
+        781,
+        "01:15:01.595000",
+        "01:15:03.795000",
+        "with that neighbor of yours."
+      ]
+    ],
+    "regex": "\\b((?!\\bNeighbor:)Neighbor)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.8
+  }
+]

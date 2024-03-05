@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0041420",
+    "title": "The Golden Stallion",
+    "year": 1949,
+    "genres": [
+      "Drama",
+      "Music",
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 759,
+    "occurrences": [
+      [
+        147,
+        "00:11:56.349000",
+        "00:12:02.620000",
+        "P Ridin' my golden stallion"
+      ],
+      [
+        150,
+        "00:12:11.865000",
+        "00:12:17.368000",
+        "P Ridin' my golden stallion"
+      ],
+      [
+        157,
+        "00:12:42.329000",
+        "00:12:48.600000",
+        "P Ridin' my golden stallion"
+      ]
+    ],
+    "regex": "\\b((?!\\bGolden\\ Stallion:)Golden\\ Stallion)(?!\\:)(?!'t)\\b",
+    "runtime": 67,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

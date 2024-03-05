@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0034415",
+    "title": "Ziegfeld Girl",
+    "year": 1941,
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 1511,
+    "occurrences": [
+      [
+        94,
+        "00:07:42.921000",
+        "00:07:45.465000",
+        "...l'm a Ziegfeld girl."
+      ],
+      [
+        352,
+        "00:31:35.437000",
+        "00:31:38.899000",
+        "Well! I hope I didn't raise my boy to be a Ziegfeld girl."
+      ],
+      [
+        396,
+        "00:34:32.322000",
+        "00:34:36.326000",
+        "Oh, Gil, I'm in it now. I'm a Ziegfeld girl."
+      ],
+      [
+        658,
+        "00:52:23.685000",
+        "00:52:27.105000",
+        "That's a cinch, honey. Just get to be a Ziegfeld girl."
+      ],
+      [
+        1206,
+        "01:29:30.037000",
+        "01:29:32.248000",
+        "Listen, honey, being a Ziegfeld girl is swell..."
+      ]
+    ],
+    "regex": "\\b((?!\\bZiegfeld\\ Girl:)Ziegfeld\\ Girl)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

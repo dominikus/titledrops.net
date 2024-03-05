@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt0230600",
+    "title": "The Others",
+    "year": 2001,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1422,
+    "occurrences": [
+      [
+        160,
+        "00:11:13.750000",
+        "00:11:17.792000",
+        "The others said they wouldn't, but they did, and then it happened."
+      ],
+      [
+        378,
+        "00:23:02.292000",
+        "00:23:03.959000",
+        "His father's with the others in the hall."
+      ],
+      [
+        1054,
+        "01:12:40.584000",
+        "01:12:42.834000",
+        "Why couldn't you have stayed here like the others did?"
+      ],
+      [
+        1055,
+        "01:12:42.917000",
+        "01:12:45.709000",
+        "- The others surrendered. - We all surrendered!"
+      ],
+      [
+        1393,
+        "01:37:17.084000",
+        "01:37:21.625000",
+        "The intruders are leaving, but others will come."
+      ]
+    ],
+    "regex": "\\b((?!\\bOthers:)Others)(?!\\:)(?!'t)\\b",
+    "runtime": 101,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

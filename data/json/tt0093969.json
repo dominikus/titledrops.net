@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0093969",
+    "title": "Siesta",
+    "year": 1987,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 774,
+    "occurrences": [
+      [
+        329,
+        "00:37:07.938000",
+        "00:37:11.962000",
+        "Do you still take your siesta in the little shack beyond the church?"
+      ],
+      [
+        456,
+        "00:47:20.784000",
+        "00:47:23.291000",
+        "At the beginning of my siesta, you come."
+      ],
+      [
+        632,
+        "01:03:31.125000",
+        "01:03:35.548000",
+        "Tomorrow at the hour of the siesta, you come."
+      ]
+    ],
+    "regex": "\\b((?!\\bSiesta:)Siesta)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

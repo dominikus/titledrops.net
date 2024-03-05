@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0875701",
+    "title": "Tiramisu",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 749,
+    "occurrences": [
+      [
+        550,
+        "00:57:11",
+        "00:57:14.470000",
+        "And if l can make tiramisu. -Fine as well."
+      ],
+      [
+        613,
+        "01:03:22.560000",
+        "01:03:24.835000",
+        "You know what the word ''tiramisu'' literally means?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTiramisu:)Tiramisu)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

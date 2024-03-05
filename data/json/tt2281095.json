@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2281095",
+    "title": "American Addict",
+    "year": 2012,
+    "genres": [
+      "Documentary",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1906,
+    "occurrences": [
+      [
+        668,
+        "00:25:51.800000",
+        "00:25:54.800000",
+        "I'm an American addict"
+      ],
+      [
+        1906,
+        "01:29:20.580000",
+        "01:29:23",
+        "I'm an American addict!"
+      ]
+    ],
+    "regex": "\\b((?!\\bAmerican\\ Addict:)American\\ Addict)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

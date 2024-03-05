@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0353525",
+    "title": "A Different Way",
+    "year": 2003,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 794,
+    "occurrences": [
+      [
+        73,
+        "00:10:24.360000",
+        "00:10:29.718000",
+        "But that was good. \"A different way of being young... \""
+      ],
+      [
+        720,
+        "01:21:46.880000",
+        "01:21:53.149000",
+        "Real Live Television presents A Different Way of Being Young."
+      ],
+      [
+        722,
+        "01:21:59.040000",
+        "01:22:05.229000",
+        "- A Different Way of Being Young, in which we learn about youth culture."
+      ],
+      [
+        771,
+        "01:28:04",
+        "01:28:09.518000",
+        "\"A Different Way of Being Young. \""
+      ]
+    ],
+    "regex": "\\b((?!\\bDifferent\\ Way:)Different\\ Way)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

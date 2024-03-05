@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt12832900",
+    "title": "Sight: Extended",
+    "year": 2023,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 942,
+    "occurrences": [
+      [
+        8,
+        "00:02:15.769000",
+        "00:02:17.905000",
+        "- Ludovico Program uses permanent Sight lenses"
+      ],
+      [
+        662,
+        "01:03:33.680000",
+        "01:03:36.918000",
+        "it is now been blocked and removed from your Sight?"
+      ],
+      [
+        918,
+        "01:19:21.762000",
+        "01:19:23.697000",
+        "In fact, I even get to keep my Sight."
+      ]
+    ],
+    "regex": "\\b((?!\\bSight:)Sight|(?!\\bExtended:)Extended)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

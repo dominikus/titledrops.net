@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt7248248",
+    "title": "Lucky Day",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1447,
+    "occurrences": [
+      [
+        15,
+        "00:02:52.206000",
+        "00:02:57.242000",
+        "But then, one lucky day in December of my eighth year on this world,"
+      ],
+      [
+        1280,
+        "01:24:19.655000",
+        "01:24:22.222000",
+        "Lucky day."
+      ]
+    ],
+    "regex": "\\b((?!\\bLucky\\ Day:)Lucky\\ Day)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.1
+  }
+]

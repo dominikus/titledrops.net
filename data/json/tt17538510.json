@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt17538510",
+    "title": "Tchaikovsky's Wife",
+    "year": 2022,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1162,
+    "occurrences": [
+      [
+        763,
+        "01:33:10.290000",
+        "01:33:12.660000",
+        "I am Tchaikovsky's wife."
+      ],
+      [
+        835,
+        "01:41:18.450000",
+        "01:41:23",
+        "I am Tchaikovsky's wife. That's my destiny."
+      ],
+      [
+        963,
+        "01:56:16.700000",
+        "01:56:19.910000",
+        "Tchaikovsky's wife is begging. Shameful."
+      ]
+    ],
+    "regex": "\\b((?!\\bTchaikovsky's\\ Wife:)Tchaikovsky's\\ Wife)(?!\\:)(?!'t)\\b",
+    "runtime": 143,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

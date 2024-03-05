@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1307057",
+    "title": "Coming Soon",
+    "year": 2008,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 471,
+    "occurrences": [
+      [
+        1,
+        "00:01:45.549000",
+        "00:01:48.821000",
+        "Coming Soon"
+      ],
+      [
+        234,
+        "00:41:28.509000",
+        "00:41:31.443000",
+        "(Coming Soon)"
+      ]
+    ],
+    "regex": "\\b((?!\\bComing\\ Soon:)Coming\\ Soon)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt1675313",
+    "title": "Mighty Fine",
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1647,
+    "occurrences": [
+      [
+        1542,
+        "01:11:45.969000",
+        "01:11:48.772000",
+        "of reading your poem, \"mighty fine\"?"
+      ],
+      [
+        1561,
+        "01:13:33.209000",
+        "01:13:38.515000",
+        "\"and save one mighty fine family.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bMighty\\ Fine:)Mighty\\ Fine)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

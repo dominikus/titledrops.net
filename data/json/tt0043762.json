@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0043762",
+    "title": "Lullaby of Broadway",
+    "year": 1951,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 871,
+    "occurrences": [
+      [
+        473,
+        "00:47:16.133000",
+        "00:47:21.935000",
+        "l remember your mother once sung a great song, ''Lullaby of Broadway.''"
+      ],
+      [
+        477,
+        "00:47:35.886000",
+        "00:47:39.322000",
+        "We call the show Lullaby of Broadway."
+      ],
+      [
+        506,
+        "00:51:21.244000",
+        "00:51:23.542000",
+        "l'm giving her a part in Lullaby of Broadway."
+      ],
+      [
+        666,
+        "01:05:10.806000",
+        "01:05:13.297000",
+        "From the forthcoming show, Lullaby of Broadway..."
+      ]
+    ],
+    "regex": "\\b((?!\\bLullaby\\ of\\ Broadway:)Lullaby\\ of\\ Broadway)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

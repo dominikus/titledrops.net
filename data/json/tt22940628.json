@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt22940628",
+    "title": "The Big Steppers Tour: Live from Paris",
+    "year": 2022,
+    "genres": [
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 1769,
+    "occurrences": [
+      [
+        594,
+        "00:31:57",
+        "00:31:59.800000",
+        "this is the Big Steppers tour, you know."
+      ],
+      [
+        795,
+        "00:43:06.520000",
+        "00:43:09.800000",
+        "Oklama, Mr. Morale, this is the Big Steppers tour."
+      ],
+      [
+        1761,
+        "01:39:23.840000",
+        "01:39:25.480000",
+        "Mr. Morale and the Big Steppers Tour."
+      ]
+    ],
+    "regex": "\\b((?!\\bBig\\ Steppers\\ Tour:)Big\\ Steppers\\ Tour|(?!\\bLive\\ from\\ Paris:)Live\\ from\\ Paris)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.4
+  }
+]

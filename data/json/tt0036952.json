@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0036952",
+    "title": "In Our Time",
+    "year": 1944,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 2140,
+    "occurrences": [
+      [
+        6,
+        "00:01:15.399000",
+        "00:01:18.465000",
+        "But they told us there would be peace in our time."
+      ],
+      [
+        9,
+        "00:01:23.733000",
+        "00:01:25.498000",
+        "In our time."
+      ],
+      [
+        2140,
+        "01:49:52.649000",
+        "01:49:56.415000",
+        "That will be achieved-- In our time."
+      ]
+    ],
+    "regex": "\\b((?!\\bIn\\ Our\\ Time:)In\\ Our\\ Time)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

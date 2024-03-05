@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0072030",
+    "title": "Cousin Angelica",
+    "year": 1974,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 765,
+    "occurrences": [
+      [
+        503,
+        "01:08:14.624000",
+        "01:08:18.832000",
+        "So tell me: what have you and your cousin Angelica done?"
+      ],
+      [
+        507,
+        "01:08:32.429000",
+        "01:08:35.581000",
+        "You love your cousin Angelica just like you love your parents..."
+      ]
+    ],
+    "regex": "\\b((?!\\bCousin\\ Angelica:)Cousin\\ Angelica)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

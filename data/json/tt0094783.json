@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0094783",
+    "title": "The Boost",
+    "year": 1988,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 1689,
+    "occurrences": [
+      [
+        843,
+        "00:39:58.047000",
+        "00:40:00.615000",
+        "You need a boost, kid."
+      ],
+      [
+        848,
+        "00:40:09.755000",
+        "00:40:11.234000",
+        "It's a boost. That's all."
+      ],
+      [
+        883,
+        "00:42:39.252000",
+        "00:42:41.123000",
+        "It's Joel's. I needed a boost."
+      ],
+      [
+        1372,
+        "01:13:45.072000",
+        "01:13:47.727000",
+        "I just need a little boost, then it's back to work."
+      ]
+    ],
+    "regex": "\\b((?!\\bBoost:)Boost)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

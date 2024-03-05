@@ -1,0 +1,63 @@
+[
+  {
+    "imdb": "tt1433915",
+    "title": "Luke and Lucy: The Texas Rangers",
+    "year": 2009,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 7,
+    "all_lines": 1010,
+    "occurrences": [
+      [
+        32,
+        "00:05:55.386000",
+        "00:06:03.259000",
+        "LUKE and LUCY"
+      ],
+      [
+        33,
+        "00:06:25.088000",
+        "00:06:31.172000",
+        "THE TEXAS RANGERS"
+      ],
+      [
+        56,
+        "00:09:30.046000",
+        "00:09:33.397000",
+        "Good afternoon, Luke and Lucy."
+      ],
+      [
+        391,
+        "00:34:00.351000",
+        "00:34:03.892000",
+        "Hi. -Hello. We are the new Texas Rangers."
+      ],
+      [
+        816,
+        "01:10:24.198000",
+        "01:10:28.160000",
+        "Luke and Lucy are leaving, leaving you here to rot."
+      ],
+      [
+        961,
+        "01:24:12.987000",
+        "01:24:15.489000",
+        "Where are Luke and Lucy? -I don't know."
+      ],
+      [
+        974,
+        "01:25:06.513000",
+        "01:25:10.705000",
+        "honorary Texas Rangers for life."
+      ]
+    ],
+    "regex": "\\b((?!\\bLuke\\ and\\ Lucy:)Luke\\ and\\ Lucy|(?!\\bTexas\\ Rangers:)Texas\\ Rangers)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.6
+  }
+]

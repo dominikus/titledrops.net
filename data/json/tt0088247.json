@@ -1,0 +1,62 @@
+[
+  {
+    "imdb": "tt0088247",
+    "title": "The Terminator",
+    "year": 1984,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "count": 8,
+    "all_lines": 697,
+    "occurrences": [
+      [
+        272,
+        "00:40:24.302000",
+        "00:40:28.502000",
+        "A Terminator. A Cyberdine Systems model 101."
+      ],
+      [
+        278,
+        "00:41:37.387000",
+        "00:41:40.856000",
+        "All right, listen... The Terminator's an infiltration unit,"
+      ],
+      [
+        299,
+        "00:43:03.423000",
+        "00:43:07.910000",
+        "And understand. That Terminator is out there."
+      ],
+      [
+        385,
+        "00:53:58.468000",
+        "00:54:01.370000",
+        "Why this elaborate scheme with the Terminator?"
+      ],
+      [
+        393,
+        "00:54:22.162000",
+        "00:54:24.859000",
+        "The Terminator had already gone through."
+      ],
+      [
+        416,
+        "00:57:23.256000",
+        "00:57:26.897000",
+        "They just knew the city. The Terminator was just being systematic."
+      ],
+      [
+        553,
+        "01:12:20.404000",
+        "01:12:22.355000",
+        "Terminator! Terminator!"
+      ]
+    ],
+    "regex": "\\b((?!\\bTerminator:)Terminator)(?!\\:)(?!'t)\\b",
+    "runtime": 107,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

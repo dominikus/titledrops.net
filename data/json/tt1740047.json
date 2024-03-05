@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt1740047",
+    "title": "The Trip",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 2687,
+    "occurrences": [
+      [
+        243,
+        "00:08:59.405000",
+        "00:09:00.838000",
+        "Look, the reason I was doing this trip"
+      ],
+      [
+        1410,
+        "00:57:19.736000",
+        "00:57:21.328000",
+        "Yeah, there's been none of that on the trip."
+      ],
+      [
+        1452,
+        "00:58:58.101000",
+        "00:59:00.399000",
+        "So how has the trip been so far?"
+      ],
+      [
+        2087,
+        "01:24:52.787000",
+        "01:24:55.347000",
+        "Okay. How's the trip?"
+      ],
+      [
+        2169,
+        "01:28:46.954000",
+        "01:28:47.978000",
+        "before we went on this trip."
+      ]
+    ],
+    "regex": "\\b((?!\\bTrip:)Trip)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

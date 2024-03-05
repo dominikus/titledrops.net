@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0119550",
+    "title": "Little Ghost",
+    "year": 1997,
+    "genres": [
+      "Family",
+      "Fantasy"
+    ],
+    "count": 4,
+    "all_lines": 1265,
+    "occurrences": [
+      [
+        222,
+        "00:15:39.205000",
+        "00:15:41.721000",
+        "- Yeah, you're a little ghost."
+      ],
+      [
+        223,
+        "00:15:41.721000",
+        "00:15:42.971000",
+        "- Little ghost?"
+      ],
+      [
+        1255,
+        "01:27:01.708000",
+        "01:27:03.884000",
+        "- Not bad for a little ghost."
+      ],
+      [
+        1265,
+        "01:27:34.202000",
+        "01:27:37.952000",
+        "(Little Ghost Closing Theme)"
+      ]
+    ],
+    "regex": "\\b((?!\\bLittle\\ Ghost:)Little\\ Ghost)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0044936",
+    "title": "Mutiny",
+    "year": 1952,
+    "genres": [
+      "Adventure",
+      "History"
+    ],
+    "count": 4,
+    "all_lines": 1335,
+    "occurrences": [
+      [
+        387,
+        "00:20:08.598000",
+        "00:20:10.600000",
+        "and mutiny, do you understand?"
+      ],
+      [
+        478,
+        "00:23:53.432000",
+        "00:23:54.868000",
+        "part in the small mutiny."
+      ],
+      [
+        969,
+        "00:48:05.708000",
+        "00:48:07.101000",
+        "Quick, there's a mutiny!"
+      ],
+      [
+        972,
+        "00:48:32.822000",
+        "00:48:35.129000",
+        "Captain Waldridge, your men are on mutiny!"
+      ]
+    ],
+    "regex": "\\b((?!\\bMutiny:)Mutiny)(?!\\:)(?!'t)\\b",
+    "runtime": 77,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

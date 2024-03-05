@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0038574",
+    "title": "Great Expectations",
+    "year": 1946,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 3,
+    "all_lines": 698,
+    "occurrences": [
+      [
+        444,
+        "00:38:04.920000",
+        "00:38:09",
+        "And my communication to him is that he has great expectations."
+      ],
+      [
+        450,
+        "00:38:25.800000",
+        "00:38:27.840000",
+        "of great expectations."
+      ],
+      [
+        479,
+        "00:40:00.560000",
+        "00:40:03.760000",
+        "of great expectations."
+      ]
+    ],
+    "regex": "\\b((?!\\bGreat\\ Expectations:)Great\\ Expectations)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.8
+  }
+]

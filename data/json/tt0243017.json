@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0243017",
+    "title": "Waking Life",
+    "year": 2001,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 2,
+    "all_lines": 1064,
+    "occurrences": [
+      [
+        192,
+        "00:21:28.356000",
+        "00:21:30.899000",
+        "Like my waking life is her memories."
+      ],
+      [
+        567,
+        "00:50:10.367000",
+        "00:50:14.704000",
+        "It's bad enough you sell your waking life for..."
+      ]
+    ],
+    "regex": "\\b((?!\\bWaking\\ Life:)Waking\\ Life)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

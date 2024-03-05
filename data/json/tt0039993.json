@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0039993",
+    "title": "Wild Country",
+    "year": 1947,
+    "genres": [
+      "Western"
+    ],
+    "count": 4,
+    "all_lines": 673,
+    "occurrences": [
+      [
+        130,
+        "00:09:16.924000",
+        "00:09:23.396000",
+        "* my home is wild country"
+      ],
+      [
+        134,
+        "00:09:39.279000",
+        "00:09:43.717000",
+        "* wild country"
+      ],
+      [
+        144,
+        "00:10:29.062000",
+        "00:10:31.431000",
+        "* wild country"
+      ],
+      [
+        152,
+        "00:11:08.601000",
+        "00:11:10.738000",
+        "* wild country"
+      ]
+    ],
+    "regex": "\\b((?!\\bWild\\ Country:)Wild\\ Country)(?!\\:)(?!'t)\\b",
+    "runtime": 56,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

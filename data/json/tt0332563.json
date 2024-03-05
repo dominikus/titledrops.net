@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0332563",
+    "title": "Aiki",
+    "year": 2002,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "count": 2,
+    "all_lines": 674,
+    "occurrences": [
+      [
+        645,
+        "00:59:54",
+        "00:59:56.700000",
+        "Aiki-jujutsu?"
+      ],
+      [
+        668,
+        "01:01:55.600000",
+        "01:01:56.500000",
+        "Hello. Hiraishi from Aiki-jujutsu."
+      ]
+    ],
+    "regex": "\\b((?!\\bAiki:)Aiki)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

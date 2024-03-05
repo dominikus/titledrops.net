@@ -1,0 +1,40 @@
+[
+  {
+    "imdb": "tt0109858",
+    "title": "Funny Man",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 799,
+    "occurrences": [
+      [
+        43,
+        "00:04:20.136000",
+        "00:04:24.182000",
+        "You're a funny man, Mr. Taylor, but I've met funnier."
+      ],
+      [
+        152,
+        "00:16:39.250000",
+        "00:16:40.501000",
+        "Funny man."
+      ],
+      [
+        159,
+        "00:17:07.153000",
+        "00:17:09.697000",
+        "Fine thanks, I've been playing with the funny man."
+      ]
+    ],
+    "regex": "\\b((?!\\bFunny\\ Man:)Funny\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [
+      "The Funny Man"
+    ],
+    "title_is_name": true,
+    "rating": 4.4
+  }
+]

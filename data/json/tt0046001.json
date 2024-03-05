@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0046001",
+    "title": "The Limping Man",
+    "year": 1953,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 4,
+    "all_lines": 1038,
+    "occurrences": [
+      [
+        716,
+        "00:49:02.663000",
+        "00:49:04.722000",
+        "And this limping man, who is he? - Frank, I can't."
+      ],
+      [
+        755,
+        "00:51:57.540000",
+        "00:51:58.710000",
+        "The limping man?"
+      ],
+      [
+        995,
+        "01:11:15.483000",
+        "01:11:16.319000",
+        "The limping man!"
+      ],
+      [
+        999,
+        "01:11:35.265000",
+        "01:11:37.258000",
+        "I think this is your limping man."
+      ]
+    ],
+    "regex": "\\b((?!\\bLimping\\ Man:)Limping\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

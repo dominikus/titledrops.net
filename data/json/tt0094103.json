@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0094103",
+    "title": "Talking Walls",
+    "year": 1987,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1890,
+    "occurrences": [
+      [
+        1660,
+        "01:10:27.265000",
+        "01:10:32.062000",
+        "# Talking walls #"
+      ],
+      [
+        1701,
+        "01:12:16.583000",
+        "01:12:21.379000",
+        "# Talking walls #"
+      ]
+    ],
+    "regex": "\\b((?!\\bTalking\\ Walls:)Talking\\ Walls)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.8
+  }
+]

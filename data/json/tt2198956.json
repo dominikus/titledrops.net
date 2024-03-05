@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt2198956",
+    "title": "Coldwater",
+    "year": 2013,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 1231,
+    "occurrences": [
+      [
+        29,
+        "00:04:20.893000",
+        "00:04:23.428000",
+        "Frank: This is Coldwater."
+      ],
+      [
+        499,
+        "00:29:45.017000",
+        "00:29:48.385000",
+        "You will leave Coldwater Ranch a responsible adult."
+      ],
+      [
+        1106,
+        "01:18:42.819000",
+        "01:18:45.653000",
+        "Those are Coldwater property."
+      ],
+      [
+        1120,
+        "01:19:56.058000",
+        "01:19:58.058000",
+        "You still at the Coldwater compound?"
+      ]
+    ],
+    "regex": "\\b((?!\\bColdwater:)Coldwater)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

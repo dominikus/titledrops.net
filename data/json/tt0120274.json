@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0120274",
+    "title": "Tango",
+    "year": 1998,
+    "genres": [
+      "Drama",
+      "Musical"
+    ],
+    "count": 5,
+    "all_lines": 616,
+    "occurrences": [
+      [
+        12,
+        "00:03:41.971000",
+        "00:03:46.608000",
+        "We hear a woman singing the first notes of a tango."
+      ],
+      [
+        129,
+        "00:18:53.363000",
+        "00:18:56.396000",
+        "and ask him to delight us with a tango!"
+      ],
+      [
+        211,
+        "00:29:55.186000",
+        "00:29:57.258000",
+        "Called ''Tango''."
+      ],
+      [
+        282,
+        "00:38:08.209000",
+        "00:38:10.795000",
+        "-And the music? -A tango."
+      ],
+      [
+        561,
+        "01:30:25.358000",
+        "01:30:27.911000",
+        "lovely tango music."
+      ]
+    ],
+    "regex": "\\b((?!\\bTango:)Tango)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

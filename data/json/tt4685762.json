@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4685762",
+    "title": "The Craft: Legacy",
+    "year": 2020,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1409,
+    "occurrences": [
+      [
+        1207,
+        "01:11:25.720000",
+        "01:11:28.022000",
+        "to our number one rule of the craft?"
+      ],
+      [
+        1238,
+        "01:13:40.988000",
+        "01:13:43.624000",
+        "that your legacy was a curse."
+      ]
+    ],
+    "regex": "\\b((?!\\bCraft:)Craft|(?!\\bLegacy:)Legacy)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

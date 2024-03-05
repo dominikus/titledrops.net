@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2516792",
+    "title": "Alien Boy: The Life and Death of James Chasse",
+    "year": 2013,
+    "genres": [
+      "Crime",
+      "Documentary",
+      "News"
+    ],
+    "count": 2,
+    "all_lines": 1315,
+    "occurrences": [
+      [
+        54,
+        "00:03:04.100000",
+        "00:03:06.060000",
+        "And Greg said oh alien boy, that would be a cool song title."
+      ],
+      [
+        55,
+        "00:03:07.180000",
+        "00:03:10.090000",
+        "What was amazing about alien boy he prophetic the words"
+      ]
+    ],
+    "regex": "\\b((?!\\bAlien\\ Boy:)Alien\\ Boy|(?!\\bLife\\ and\\ Death\\ of\\ James\\ Chasse:)Life\\ and\\ Death\\ of\\ James\\ Chasse)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

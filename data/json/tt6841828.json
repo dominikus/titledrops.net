@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt6841828",
+    "title": "The Loss Adjuster",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1710,
+    "occurrences": [
+      [
+        50,
+        "00:03:19.492000",
+        "00:03:21.960000",
+        "- I'm a loss adjuster, Angie. - Aye, yeah."
+      ],
+      [
+        113,
+        "00:07:00.894000",
+        "00:07:04.160000",
+        "you don't get voted the company's number one loss adjuster"
+      ],
+      [
+        678,
+        "00:36:44.460000",
+        "00:36:46.094000",
+        "I'm the loss adjuster."
+      ],
+      [
+        746,
+        "00:39:20.194000",
+        "00:39:21.927000",
+        "but I'm just a loss adjuster."
+      ],
+      [
+        984,
+        "00:50:56.593000",
+        "00:50:59.060000",
+        "Your old man the loss adjuster."
+      ]
+    ],
+    "regex": "\\b((?!\\bLoss\\ Adjuster:)Loss\\ Adjuster)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt5134870",
+    "title": "The Happy Film",
+    "year": 2016,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1683,
+    "occurrences": [
+      [
+        74,
+        "00:03:56.036000",
+        "00:03:58.066000",
+        "For the happy film came up."
+      ],
+      [
+        1003,
+        "00:54:00.137000",
+        "00:54:02.806000",
+        "He wanted to work on the happy film."
+      ]
+    ],
+    "regex": "\\b((?!\\bHappy\\ Film:)Happy\\ Film)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

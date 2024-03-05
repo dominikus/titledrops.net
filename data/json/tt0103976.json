@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0103976",
+    "title": "City of Joy",
+    "year": 1992,
+    "genres": [
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1980,
+    "occurrences": [
+      [
+        319,
+        "00:24:04.462000",
+        "00:24:06.587000",
+        "You're in the city of Joy."
+      ],
+      [
+        466,
+        "00:32:18.920000",
+        "00:32:22.795000",
+        "It's your new home, it's called the City of Joy."
+      ]
+    ],
+    "regex": "\\b((?!\\bCity\\ of\\ Joy:)City\\ of\\ Joy)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

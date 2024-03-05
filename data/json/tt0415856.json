@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0415856",
+    "title": "Hounddog",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "count": 2,
+    "all_lines": 774,
+    "occurrences": [
+      [
+        1,
+        "00:01:33.164000",
+        "00:01:37.631000",
+        "Hounddog"
+      ],
+      [
+        232,
+        "00:25:28.810000",
+        "00:25:34.866000",
+        "They call her\"Big Mama\" now, she hit number one with \"Hounddog\" in 1953,"
+      ]
+    ],
+    "regex": "\\b((?!\\bHounddog:)Hounddog)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

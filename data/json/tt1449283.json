@@ -1,0 +1,72 @@
+[
+  {
+    "imdb": "tt1449283",
+    "title": "Winnie the Pooh",
+    "year": 2011,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 12,
+    "all_lines": 1020,
+    "occurrences": [
+      [
+        11,
+        "00:01:41.690000",
+        "00:01:46.559000",
+        "And his best friend among them is a bear named Winnie the Pooh."
+      ],
+      [
+        22,
+        "00:02:30.690000",
+        "00:02:33.648000",
+        "But most of all Winnie the Pooh"
+      ],
+      [
+        23,
+        "00:02:35.370000",
+        "00:02:38.203000",
+        "Winnie the Pooh Winnie the Pooh"
+      ],
+      [
+        25,
+        "00:02:40.970000",
+        "00:02:44.406000",
+        "He's Winnie the Pooh Winnie the Pooh"
+      ],
+      [
+        27,
+        "00:02:48.450000",
+        "00:02:51.328000",
+        "Winnie the Pooh Winnie the Pooh"
+      ],
+      [
+        29,
+        "00:02:53.490000",
+        "00:02:56.687000",
+        "He's Winnie the Pooh Winnie the Pooh"
+      ],
+      [
+        32,
+        "00:03:01.690000",
+        "00:03:06.480000",
+        "in which Winnie the Pooh has a very important thing to do."
+      ],
+      [
+        646,
+        "00:32:54.850000",
+        "00:32:58.047000",
+        "The favourite snack of Winnie the Pooh Can you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bWinnie\\ the\\ Pooh:)Winnie\\ the\\ Pooh)(?!\\:)(?!'t)\\b",
+    "runtime": 63,
+    "characters": [
+      "Winnie the Pooh",
+      "Tigger"
+    ],
+    "title_is_name": true,
+    "rating": 7.1
+  }
+]

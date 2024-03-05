@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0210584",
+    "title": "Bootmen",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1040,
+    "occurrences": [
+      [
+        726,
+        "00:54:59.129000",
+        "00:55:00.998000",
+        "Bootmen. It is?"
+      ],
+      [
+        863,
+        "01:10:32.161000",
+        "01:10:35.765000",
+        "Hey, tiger. What if the Bootmen could put on a benefit for these guys?"
+      ],
+      [
+        864,
+        "01:10:35.832000",
+        "01:10:39.569000",
+        "Bootmen? I thought you gave that idea the flick."
+      ]
+    ],
+    "regex": "\\b((?!\\bBootmen:)Bootmen)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

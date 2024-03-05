@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt9248940",
+    "title": "Dream Girl",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 5,
+    "all_lines": 2576,
+    "occurrences": [
+      [
+        418,
+        "00:20:00.480000",
+        "00:20:02.680000",
+        "That's my dream girl. This is your mother."
+      ],
+      [
+        1018,
+        "00:49:05.200000",
+        "00:49:07.440000",
+        "\"Be my dream girl..\""
+      ],
+      [
+        1022,
+        "00:49:14.240000",
+        "00:49:16.520000",
+        "\"Be my dream girl..\""
+      ],
+      [
+        1055,
+        "00:51:13.880000",
+        "00:51:16.200000",
+        "\"Be my dream girl..\""
+      ],
+      [
+        1059,
+        "00:51:22.880000",
+        "00:51:25.200000",
+        "\"Be my dream girl..\""
+      ]
+    ],
+    "regex": "\\b((?!\\bDream\\ Girl:)Dream\\ Girl)(?!\\:)(?!'t)\\b",
+    "runtime": 132,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

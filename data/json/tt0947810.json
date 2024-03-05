@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0947810",
+    "title": "Green Zone",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1279,
+    "occurrences": [
+      [
+        296,
+        "00:18:56.034000",
+        "00:18:57.797000",
+        "here inside the Green Zone tomorrow."
+      ],
+      [
+        337,
+        "00:20:39.137000",
+        "00:20:43.073000",
+        "Have you any idea what's going on outside the Green Zone?"
+      ],
+      [
+        653,
+        "00:40:59.590000",
+        "00:41:01.888000",
+        "I'm in the Green Zone, Republican Palace. By the pool."
+      ]
+    ],
+    "regex": "\\b((?!\\bGreen\\ Zone:)Green\\ Zone)(?!\\:)(?!'t)\\b",
+    "runtime": 115,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

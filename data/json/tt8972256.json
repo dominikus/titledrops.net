@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt8972256",
+    "title": "Greed",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 2193,
+    "occurrences": [
+      [
+        1159,
+        "00:48:32.654000",
+        "00:48:36.091000",
+        "So Greed invites a few friends down to his yacht in Monaco,"
+      ],
+      [
+        1216,
+        "00:50:56.766000",
+        "00:50:59.769000",
+        "It's the same with M&J, with all Greed's business deals."
+      ]
+    ],
+    "regex": "\\b((?!\\bGreed:)Greed)(?!\\:)(?!'t)\\b",
+    "runtime": 104,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

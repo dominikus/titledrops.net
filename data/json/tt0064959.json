@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0064959",
+    "title": "The Seed of Man",
+    "year": 1969,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 414,
+    "occurrences": [
+      [
+        388,
+        "01:35:44.087000",
+        "01:35:47.523000",
+        "Today, I hope to plant the seed of man."
+      ],
+      [
+        404,
+        "01:39:35.247000",
+        "01:39:37.522000",
+        "The seed of man is sprouting!"
+      ],
+      [
+        406,
+        "01:39:40.647000",
+        "01:39:42.797000",
+        "The seed of man is sprouting!"
+      ],
+      [
+        409,
+        "01:39:48.607000",
+        "01:39:51.075000",
+        "The seed of man is sprouting!"
+      ]
+    ],
+    "regex": "\\b((?!\\bSeed\\ of\\ Man:)Seed\\ of\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

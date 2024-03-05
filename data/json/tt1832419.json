@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1832419",
+    "title": "Riders of Pylos",
+    "year": 2011,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 810,
+    "occurrences": [
+      [
+        547,
+        "00:58:19.840000",
+        "00:58:21.717000",
+        "The Riders of Pylos."
+      ],
+      [
+        707,
+        "01:15:11.480000",
+        "01:15:15.473000",
+        "The \"Riders of Pylos\" is an institution, an ideal."
+      ],
+      [
+        753,
+        "01:20:19.720000",
+        "01:20:24.874000",
+        "The Riders of Pylos, as always, have chosen a historical figure..."
+      ]
+    ],
+    "regex": "\\b((?!\\bRiders\\ of\\ Pylos:)Riders\\ of\\ Pylos)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

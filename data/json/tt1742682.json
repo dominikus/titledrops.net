@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1742682",
+    "title": "The Colombian Connection",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1370,
+    "occurrences": [
+      [
+        99,
+        "00:06:32.426000",
+        "00:06:35.427000",
+        "Reason for the caution -- the Colombian connection."
+      ],
+      [
+        135,
+        "00:08:37.284000",
+        "00:08:41.686000",
+        "But we would miss the big show, his Colombian connection."
+      ]
+    ],
+    "regex": "\\b((?!\\bColombian\\ Connection:)Colombian\\ Connection)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4737772",
+    "title": "All She Wrote",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1306,
+    "occurrences": [
+      [
+        1136,
+        "01:25:29.542000",
+        "01:25:32.583000",
+        "And as they say, that's all she wrote."
+      ],
+      [
+        1138,
+        "01:25:35.375000",
+        "01:25:36.750000",
+        "That's all she wrote."
+      ]
+    ],
+    "regex": "\\b((?!\\bAll\\ She\\ Wrote:)All\\ She\\ Wrote)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

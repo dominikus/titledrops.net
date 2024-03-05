@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt14941222",
+    "title": "Hostage: Missing Celebrity",
+    "year": 2021,
+    "genres": [
+      "Action"
+    ],
+    "count": 4,
+    "all_lines": 1023,
+    "occurrences": [
+      [
+        115,
+        "00:08:26.405000",
+        "00:08:32.699000",
+        "Hostage"
+      ],
+      [
+        602,
+        "00:54:38.580000",
+        "00:54:39.921000",
+        "Where are you hiding the hostage?"
+      ],
+      [
+        603,
+        "00:54:41.535000",
+        "00:54:43.986000",
+        "Say it, you punk. Where's the hostage?"
+      ],
+      [
+        828,
+        "01:09:54.582000",
+        "01:09:56.481000",
+        "We need to save the hostage."
+      ]
+    ],
+    "regex": "\\b((?!\\bHostage:)Hostage|(?!\\bMissing\\ Celebrity:)Missing\\ Celebrity)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

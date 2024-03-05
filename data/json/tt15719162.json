@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt15719162",
+    "title": "Carole King & James Taylor: Just Call Out My Name",
+    "year": 2022,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "count": 3,
+    "all_lines": 1415,
+    "occurrences": [
+      [
+        1153,
+        "01:19:21.456000",
+        "01:19:28.163000",
+        "You just call out my name"
+      ],
+      [
+        1173,
+        "01:20:50.212000",
+        "01:20:55.250000",
+        "You just call out my name"
+      ],
+      [
+        1187,
+        "01:21:53.775000",
+        "01:21:58.480000",
+        "You just call out my name"
+      ]
+    ],
+    "regex": "\\b((?!\\bCarole\\ King\\ \\&\\ James\\ Taylor:)Carole\\ King\\ \\&\\ James\\ Taylor|(?!\\bJust\\ Call\\ Out\\ My\\ Name:)Just\\ Call\\ Out\\ My\\ Name)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.1
+  }
+]

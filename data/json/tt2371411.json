@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2371411",
+    "title": "Painted Skin: The Resurrection",
+    "year": 2012,
+    "genres": [
+      "Fantasy",
+      "Mystery",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 803,
+    "occurrences": [
+      [
+        8,
+        "00:05:38.505000",
+        "00:05:42.509000",
+        "\"The Resurrection Painted Skin\""
+      ],
+      [
+        650,
+        "01:37:10.742000",
+        "01:37:12.702000",
+        "The resurrection of our prince must come to pass"
+      ]
+    ],
+    "regex": "\\b((?!\\bPainted\\ Skin:)Painted\\ Skin|(?!\\bResurrection:)Resurrection)(?!\\:)(?!'t)\\b",
+    "runtime": 131,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

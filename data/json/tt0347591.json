@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0347591",
+    "title": "My Name Is Modesty: A Modesty Blaise Adventure",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 952,
+    "occurrences": [
+      [
+        51,
+        "00:07:27.932000",
+        "00:07:29.627000",
+        "My name is modesty, sir."
+      ],
+      [
+        928,
+        "01:09:15.494000",
+        "01:09:18.725000",
+        "My name is Modesty."
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Name\\ Is\\ Modesty:)My\\ Name\\ Is\\ Modesty|(?!\\bModesty\\ Blaise\\ Adventure:)Modesty\\ Blaise\\ Adventure)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.5
+  }
+]

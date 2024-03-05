@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt10268550",
+    "title": "Minyan",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1149,
+    "occurrences": [
+      [
+        44,
+        "00:05:20.083000",
+        "00:05:23.166000",
+        "- The rule of minyan is laid down in the Mishnah."
+      ],
+      [
+        297,
+        "00:28:44.958000",
+        "00:28:46.875000",
+        "Zalman cannot draw a minyan for Shabbat,"
+      ],
+      [
+        298,
+        "00:28:46.916000",
+        "00:28:48.041000",
+        "and if no minyan,"
+      ],
+      [
+        378,
+        "00:35:00.708000",
+        "00:35:01.875000",
+        "to make the minyan here."
+      ],
+      [
+        1142,
+        "01:52:10.541000",
+        "01:52:12.708000",
+        "Without them, we would never have a minyan."
+      ]
+    ],
+    "regex": "\\b((?!\\bMinyan:)Minyan)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

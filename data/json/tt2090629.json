@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt2090629",
+    "title": "The Culling",
+    "year": 2015,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1097,
+    "occurrences": [
+      [
+        1088,
+        "01:15:14.776000",
+        "01:15:17.382000",
+        "There will be a great culling."
+      ],
+      [
+        1089,
+        "01:15:17.445000",
+        "01:15:20.449000",
+        "A culling of mankind, and he shall reign for a thousand years."
+      ]
+    ],
+    "regex": "\\b((?!\\bCulling:)Culling)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

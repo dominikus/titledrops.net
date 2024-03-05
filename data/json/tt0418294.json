@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0418294",
+    "title": "The Virgin of Juarez",
+    "year": 2006,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 663,
+    "occurrences": [
+      [
+        1,
+        "00:00:26.944000",
+        "00:00:30.072000",
+        "The Virgin of Juarez"
+      ],
+      [
+        406,
+        "00:51:00.310000",
+        "00:51:02.396000",
+        "The Legend of the Virgin of Juarez. Special news article of Karina Danes."
+      ],
+      [
+        564,
+        "01:08:20.142000",
+        "01:08:22.102000",
+        "... supposed Virgin of Juarez."
+      ]
+    ],
+    "regex": "\\b((?!\\bVirgin\\ of\\ Juarez:)Virgin\\ of\\ Juarez)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0085390",
+    "title": "Daffy Duck's Movie: Fantastic Island",
+    "year": 1983,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 1501,
+    "occurrences": [
+      [
+        360,
+        "00:18:33.213000",
+        "00:18:36.414000",
+        "DAFFY DUCK'S FANTASTIC ISLAND!"
+      ],
+      [
+        370,
+        "00:19:10.316000",
+        "00:19:12.717000",
+        "AS THE HOST OF FANTASTIC ISLAND,"
+      ]
+    ],
+    "regex": "\\b((?!\\bDaffy\\ Duck's\\ Movie:)Daffy\\ Duck's\\ Movie|(?!\\bFantastic\\ Island:)Fantastic\\ Island)(?!\\:)(?!'t)\\b",
+    "runtime": 78,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

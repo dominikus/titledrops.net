@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt4360406",
+    "title": "Pink and Gray",
+    "year": 2015,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1227,
+    "occurrences": [
+      [
+        801,
+        "01:06:31.700000",
+        "01:06:34.510000",
+        "is told in Kawatori Dai's novel \"Pink and Gray\"."
+      ],
+      [
+        807,
+        "01:06:53.730000",
+        "01:06:56.700000",
+        "Kawatori Dai-san's novel \"Pink and Gray\","
+      ]
+    ],
+    "regex": "\\b((?!\\bPink\\ and\\ Gray:)Pink\\ and\\ Gray)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

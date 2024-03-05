@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt3150114",
+    "title": "The Tenor",
+    "year": 2014,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "count": 5,
+    "all_lines": 705,
+    "occurrences": [
+      [
+        2,
+        "00:01:22.043000",
+        "00:01:29.003000",
+        "The Tenor Lirico Spinto 2014"
+      ],
+      [
+        47,
+        "00:13:49.002000",
+        "00:13:52.020000",
+        "How was it? Tenor is Korean?"
+      ],
+      [
+        449,
+        "01:11:27.032000",
+        "01:11:30.072000",
+        "This is Jae-chul Bae, the tenor singer."
+      ],
+      [
+        529,
+        "01:19:22.022000",
+        "01:19:25.042000",
+        "A better tenor will be sing with you."
+      ],
+      [
+        682,
+        "01:44:03.021000",
+        "01:44:05.047000",
+        "This is tenor singer Jae-chul Bae's comeback performance"
+      ]
+    ],
+    "regex": "\\b((?!\\bTenor:)Tenor)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

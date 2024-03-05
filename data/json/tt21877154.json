@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt21877154",
+    "title": "Story Ave",
+    "year": 2023,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1491,
+    "occurrences": [
+      [
+        1450,
+        "01:38:16.497000",
+        "01:38:18.198000",
+        "I'm from Story Ave"
+      ],
+      [
+        1456,
+        "01:38:28.275000",
+        "01:38:30.043000",
+        "I'm from Story Ave"
+      ],
+      [
+        1482,
+        "01:39:26.734000",
+        "01:39:28.402000",
+        "I'm from Story Ave"
+      ],
+      [
+        1488,
+        "01:39:38.680000",
+        "01:39:40.180000",
+        "I'm from Story Ave"
+      ]
+    ],
+    "regex": "\\b((?!\\bStory\\ Ave:)Story\\ Ave)(?!\\:)(?!'t)\\b",
+    "runtime": 106,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

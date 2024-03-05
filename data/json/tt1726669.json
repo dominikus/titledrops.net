@@ -1,0 +1,41 @@
+[
+  {
+    "imdb": "tt1726669",
+    "title": "Killer Joe",
+    "year": 2011,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1610,
+    "occurrences": [
+      [
+        158,
+        "00:08:26.080000",
+        "00:08:29.801000",
+        "I mean, Killer Joe's a professional. He'll do this right."
+      ],
+      [
+        1032,
+        "01:05:01.160000",
+        "01:05:03.367000",
+        "Who told you about Killer Joe?"
+      ],
+      [
+        1041,
+        "01:05:25.600000",
+        "01:05:27.284000",
+        "to pay Killer Joe his money!"
+      ]
+    ],
+    "regex": "\\b((?!\\bKiller\\ Joe:)Killer\\ Joe)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [
+      "Killer Joe Cooper"
+    ],
+    "title_is_name": true,
+    "rating": 6.7
+  }
+]

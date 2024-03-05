@@ -1,0 +1,61 @@
+[
+  {
+    "imdb": "tt0082367",
+    "title": "Fear No Evil",
+    "year": 1981,
+    "genres": [
+      "Horror"
+    ],
+    "count": 7,
+    "all_lines": 1015,
+    "occurrences": [
+      [
+        578,
+        "00:54:56.668000",
+        "00:55:00.081000",
+        "t will fear no evil for thou art with me."
+      ],
+      [
+        971,
+        "01:36:16.938000",
+        "01:36:19.896000",
+        "j so I would fear no evil j"
+      ],
+      [
+        974,
+        "01:36:23.403000",
+        "01:36:26.566000",
+        "j well I would fear no evil j"
+      ],
+      [
+        981,
+        "01:36:54.434000",
+        "01:36:57.551000",
+        "j and they will fear no evil j"
+      ],
+      [
+        991,
+        "01:37:50.907000",
+        "01:37:54.070000",
+        "j I will fear no evil j"
+      ],
+      [
+        994,
+        "01:37:57.705000",
+        "01:38:01.163000",
+        "j I'll never never never fear no evil j"
+      ],
+      [
+        1005,
+        "01:38:19.519000",
+        "01:38:21.680000",
+        "j I'll fear no evil"
+      ]
+    ],
+    "regex": "\\b((?!\\bFear\\ No\\ Evil:)Fear\\ No\\ Evil)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

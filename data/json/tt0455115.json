@@ -1,0 +1,27 @@
+[
+  {
+    "imdb": "tt0455115",
+    "title": "H6: Diario de un asesino",
+    "year": 2005,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "count": 1,
+    "all_lines": 960,
+    "occurrences": [
+      [
+        47,
+        "00:03:30.991000",
+        "00:03:34.688000",
+        "H6 DIARY OF A SERIAL KILLER"
+      ]
+    ],
+    "regex": "\\b((?!\\bH6:)H6|(?!\\bDiario\\ de\\ un\\ asesino:)Diario\\ de\\ un\\ asesino)(?!\\:)(?!'t)\\b",
+    "runtime": 92,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0385752",
+    "title": "The Golden Compass",
+    "year": 2007,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "count": 3,
+    "all_lines": 584,
+    "occurrences": [
+      [
+        12,
+        "00:01:35.894000",
+        "00:01:40.913000",
+        "A golden compass. And it showed them all that was hidden."
+      ],
+      [
+        259,
+        "00:21:05.870000",
+        "00:21:10.879000",
+        "An Alethiometer. Also known as a Golden Compass."
+      ],
+      [
+        413,
+        "00:36:46.527000",
+        "00:36:49.820000",
+        "A Golden compass. It enables you to see,"
+      ]
+    ],
+    "regex": "\\b((?!\\bGolden\\ Compass:)Golden\\ Compass)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.1
+  }
+]

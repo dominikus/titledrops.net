@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0325352",
+    "title": "I'll Be There",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 694,
+    "occurrences": [
+      [
+        541,
+        "00:40:00.640000",
+        "00:40:05.077000",
+        "** I'll be there **"
+      ],
+      [
+        544,
+        "00:40:10.320000",
+        "00:40:13.949000",
+        "** And I'll be there **"
+      ]
+    ],
+    "regex": "\\b((?!\\bI'll\\ Be\\ There:)I'll\\ Be\\ There)(?!\\:)(?!'t)\\b",
+    "runtime": 105,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

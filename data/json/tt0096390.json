@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0096390",
+    "title": "Vijay",
+    "year": 1988,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1362,
+    "occurrences": [
+      [
+        10,
+        "00:03:41.714000",
+        "00:03:43.147000",
+        "Vijay"
+      ],
+      [
+        1111,
+        "02:13:06.909000",
+        "02:13:10.709000",
+        "Time ''Vijay, time heals all wounds''"
+      ]
+    ],
+    "regex": "\\b((?!\\bVijay:)Vijay)(?!\\:)(?!'t)\\b",
+    "runtime": 172,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

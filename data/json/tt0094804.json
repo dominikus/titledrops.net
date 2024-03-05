@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0094804",
+    "title": "The Break",
+    "year": 1989,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "count": 2,
+    "all_lines": 1170,
+    "occurrences": [
+      [
+        420,
+        "00:40:57.560000",
+        "00:41:00.120000",
+        "Did you break a bottle?"
+      ],
+      [
+        922,
+        "01:28:18.500000",
+        "01:28:22.780000",
+        "Lubowitz made the break, and you were involved."
+      ]
+    ],
+    "regex": "\\b((?!\\bBreak:)Break)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0080569",
+    "title": "Cruising",
+    "year": 1980,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 846,
+    "occurrences": [
+      [
+        273,
+        "00:24:11.733000",
+        "00:24:14.725000",
+        "-Scared to death of cruising myself. -They're gonna get that guy."
+      ],
+      [
+        321,
+        "00:31:05.146000",
+        "00:31:07.444000",
+        "I think he's cruising."
+      ]
+    ],
+    "regex": "\\b((?!\\bCruising:)Cruising)(?!\\:)(?!'t)\\b",
+    "runtime": 102,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

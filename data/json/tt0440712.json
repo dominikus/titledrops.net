@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt0440712",
+    "title": "Peões",
+    "year": 2004,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 5,
+    "all_lines": 1372,
+    "occurrences": [
+      [
+        1323,
+        "01:19:07.084000",
+        "01:19:10.520000",
+        "Peoes were shuttled all over the country."
+      ],
+      [
+        1324,
+        "01:19:10.721000",
+        "01:19:14.589000",
+        "When the 8O's came they turned everybody into Peoes,"
+      ],
+      [
+        1331,
+        "01:19:30.140000",
+        "01:19:32.438000",
+        "All those in uniforms are Peoes."
+      ],
+      [
+        1332,
+        "01:19:32.643000",
+        "01:19:37.080000",
+        "The ones who have to punch in are a Peoes."
+      ],
+      [
+        1333,
+        "01:19:37.281000",
+        "01:19:40.409000",
+        "The ones who aren't Peoes are engineers,"
+      ]
+    ],
+    "regex": "\\b((?!\\bPeoes:)Peoes)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt2325002",
+    "title": "Freezer",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "count": 6,
+    "all_lines": 1107,
+    "occurrences": [
+      [
+        107,
+        "00:10:48.148000",
+        "00:10:50.321000",
+        "I'm trapped in a freezer,"
+      ],
+      [
+        187,
+        "00:13:58.546000",
+        "00:14:00.514000",
+        "You may be in a freezer, pal, but not in Cafe Volga."
+      ],
+      [
+        190,
+        "00:14:05.094000",
+        "00:14:06.641000",
+        "including the freezer."
+      ],
+      [
+        527,
+        "00:35:41.640000",
+        "00:35:44.814000",
+        "you and I both know I'm not getting out of this freezer alive,"
+      ],
+      [
+        925,
+        "01:05:38.518000",
+        "01:05:41.146000",
+        "The lights will blow when the freezer door opens"
+      ],
+      [
+        942,
+        "01:06:44.375000",
+        "01:06:46.503000",
+        "They're the ones that power this freezer."
+      ]
+    ],
+    "regex": "\\b((?!\\bFreezer:)Freezer)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

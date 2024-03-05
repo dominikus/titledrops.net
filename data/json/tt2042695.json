@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt2042695",
+    "title": "Come Home",
+    "year": 2011,
+    "genres": [
+      "Family"
+    ],
+    "count": 2,
+    "all_lines": 611,
+    "occurrences": [
+      [
+        254,
+        "00:35:38.667000",
+        "00:35:42.582000",
+        "- Ida, your mother asks you to come home. - OK."
+      ],
+      [
+        603,
+        "01:18:14.417000",
+        "01:18:17.624000",
+        "You have to let Kehilan come home."
+      ]
+    ],
+    "regex": "\\b((?!\\bCome\\ Home:)Come\\ Home)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

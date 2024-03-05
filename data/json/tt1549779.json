@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt1549779",
+    "title": "Embargo",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "count": 6,
+    "all_lines": 721,
+    "occurrences": [
+      [
+        92,
+        "00:11:25.159000",
+        "00:11:29.519000",
+        "The thing is, I really disagree with this embargo and all of that."
+      ],
+      [
+        154,
+        "00:17:04.759000",
+        "00:17:07.479000",
+        "and this damn embargo."
+      ],
+      [
+        162,
+        "00:17:31.879000",
+        "00:17:37.431000",
+        "Embargo or no embargo, nothing will stop us now."
+      ],
+      [
+        436,
+        "00:44:00.959000",
+        "00:44:02.119000",
+        "Listen, it's the embargo."
+      ],
+      [
+        449,
+        "00:46:32.959000",
+        "00:46:37.119000",
+        "An oil embargo has started, as from yesterday."
+      ]
+    ],
+    "regex": "\\b((?!\\bEmbargo:)Embargo)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.5
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt10594792",
+    "title": "Mafia: Chapter 1",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1032,
+    "occurrences": [
+      [
+        414,
+        "00:42:21.450000",
+        "00:42:23.700000",
+        "Bloody bloody I'm riding crazy with the Mafia,"
+      ],
+      [
+        957,
+        "01:34:49.790000",
+        "01:34:51.910000",
+        "You mean to say, there's Mafia above you?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMafia:)Mafia|(?!\\bChapter:)Chapter)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

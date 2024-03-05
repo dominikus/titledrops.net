@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0094602",
+    "title": "Above the Law",
+    "year": 1988,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1051,
+    "occurrences": [
+      [
+        17,
+        "00:03:53.525000",
+        "00:03:56.820000",
+        "{y:i}No one is above the law, {y:i}no one is below the law.\""
+      ],
+      [
+        959,
+        "01:25:13.442000",
+        "01:25:17.446000",
+        "You guys think you're above the law, but you ain't above mine."
+      ],
+      [
+        1050,
+        "01:36:13.224000",
+        "01:36:17.395000",
+        "{y:i}... you'll have within our government {y:i}those who are above the law."
+      ]
+    ],
+    "regex": "\\b((?!\\bAbove\\ the\\ Law:)Above\\ the\\ Law)(?!\\:)(?!'t)\\b",
+    "runtime": 99,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

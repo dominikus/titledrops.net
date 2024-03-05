@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0039080",
+    "title": "The Verdict",
+    "year": 1946,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "count": 2,
+    "all_lines": 985,
+    "occurrences": [
+      [
+        827,
+        "01:11:33.800000",
+        "01:11:38.360000",
+        "The verdict is unanimous. Guilty."
+      ],
+      [
+        982,
+        "01:25:22.800000",
+        "01:25:27.920000",
+        "Whether it is so or not, is something that will remain without a verdict."
+      ]
+    ],
+    "regex": "\\b((?!\\bVerdict:)Verdict)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

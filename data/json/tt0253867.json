@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0253867",
+    "title": "The Sweetest Thing",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1089,
+    "occurrences": [
+      [
+        160,
+        "00:11:31.398000",
+        "00:11:33.127000",
+        "That is the sweetest thing."
+      ],
+      [
+        1086,
+        "01:26:46.442000",
+        "01:26:47.932000",
+        "That is the sweetest thing."
+      ]
+    ],
+    "regex": "\\b((?!\\bSweetest\\ Thing:)Sweetest\\ Thing)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

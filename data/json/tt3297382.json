@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt3297382",
+    "title": "The Crash",
+    "year": 2017,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1332,
+    "occurrences": [
+      [
+        701,
+        "00:42:00.018000",
+        "00:42:03.786000",
+        "'Cause they knew the market was gonna crash before 9/11."
+      ],
+      [
+        759,
+        "00:45:39.104000",
+        "00:45:41.804000",
+        "In '08 after the crash."
+      ],
+      [
+        1202,
+        "01:10:12.876000",
+        "01:10:15.577000",
+        "Wait a second. I'm tracking this crash just fine."
+      ]
+    ],
+    "regex": "\\b((?!\\bCrash:)Crash)(?!\\:)(?!'t)\\b",
+    "runtime": 84,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

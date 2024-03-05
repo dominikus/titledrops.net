@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2180411",
+    "title": "Into the Woods",
+    "year": 2014,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1428,
+    "occurrences": [
+      [
+        904,
+        "01:16:53.389000",
+        "01:16:55.913000",
+        "But as they made their way back into the woods,"
+      ],
+      [
+        923,
+        "01:18:10.420000",
+        "01:18:13.813000",
+        "What brings you into the woods? - The castle has been destroyed."
+      ]
+    ],
+    "regex": "\\b((?!\\bInto\\ the\\ Woods:)Into\\ the\\ Woods)(?!\\:)(?!'t)\\b",
+    "runtime": 125,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

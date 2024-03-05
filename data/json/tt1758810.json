@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt1758810",
+    "title": "The Snowman",
+    "year": 2017,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 4,
+    "all_lines": 1050,
+    "occurrences": [
+      [
+        103,
+        "00:17:33.716000",
+        "00:17:35.575000",
+        "The snowman."
+      ],
+      [
+        104,
+        "00:17:36.179000",
+        "00:17:37.805000",
+        "Snowman."
+      ],
+      [
+        190,
+        "00:28:58.411000",
+        "00:29:01.998000",
+        "Why did you build the snowman facing the house?"
+      ],
+      [
+        191,
+        "00:29:02.643000",
+        "00:29:04.753000",
+        "I didn't build the snowman."
+      ]
+    ],
+    "regex": "\\b((?!\\bSnowman:)Snowman)(?!\\:)(?!'t)\\b",
+    "runtime": 119,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt9358084",
+    "title": "The Amazing Johnathan Documentary",
+    "year": 2019,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 2,
+    "all_lines": 1496,
+    "occurrences": [
+      [
+        15,
+        "00:01:08.659000",
+        "00:01:12.078000",
+        "BEN: Echo, what is the best Amazing Johnathan documentary?"
+      ],
+      [
+        981,
+        "00:58:00.112000",
+        "00:58:03.824000",
+        "So if Simon isn't producing the other Amazing Johnathan documentary,"
+      ]
+    ],
+    "regex": "\\b((?!\\bAmazing\\ Johnathan\\ Documentary:)Amazing\\ Johnathan\\ Documentary)(?!\\:)(?!'t)\\b",
+    "runtime": 91,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.5
+  }
+]

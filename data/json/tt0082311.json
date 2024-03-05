@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0082311",
+    "title": "Egon Schiele: Excess and Punishment",
+    "year": 1980,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 766,
+    "occurrences": [
+      [
+        0,
+        "00:00:13.215000",
+        "00:00:30.026000",
+        "On April 13, 1912, the painter Egon Schiele was arrested under suspicion of seducing 13-year-old Tatjana von Mossig. On occasion of the verdict, one of his most beautiful paintings was burned."
+      ],
+      [
+        107,
+        "00:11:39.160000",
+        "00:11:41.981000",
+        "Good day, my name is Egon Schiele. I live here."
+      ],
+      [
+        140,
+        "00:14:03.080000",
+        "00:14:05.708000",
+        "In the house of Egon Schiele?"
+      ],
+      [
+        223,
+        "00:22:57.560000",
+        "00:23:00.142000",
+        "who can look after Egon Schiele."
+      ],
+      [
+        656,
+        "01:12:57.520000",
+        "01:13:00.865000",
+        "\"The horrible phantastic caricatures of Egon Schiele."
+      ]
+    ],
+    "regex": "\\b((?!\\bEgon\\ Schiele:)Egon\\ Schiele|(?!\\bExcess\\ and\\ Punishment:)Excess\\ and\\ Punishment)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

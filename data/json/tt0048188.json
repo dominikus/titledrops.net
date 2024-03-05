@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0048188",
+    "title": "I Am a Camera",
+    "year": 1955,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1434,
+    "occurrences": [
+      [
+        48,
+        "00:04:12.971000",
+        "00:04:17.018000",
+        "\"I am a camera\"."
+      ],
+      [
+        50,
+        "00:04:31.942000",
+        "00:04:33.874000",
+        "\"I am a camera\"."
+      ],
+      [
+        53,
+        "00:04:36.790000",
+        "00:04:38.786000",
+        "-What did you say? -I said I am a camera."
+      ],
+      [
+        60,
+        "00:04:52.916000",
+        "00:04:56.846000",
+        "...I didn't mean I am a camera,I meant I'm like one."
+      ]
+    ],
+    "regex": "\\b((?!\\bI\\ Am\\ a\\ Camera:)I\\ Am\\ a\\ Camera)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

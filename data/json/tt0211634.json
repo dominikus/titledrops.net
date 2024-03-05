@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0211634",
+    "title": "Soldier",
+    "year": 1998,
+    "genres": [
+      "Action",
+      "Drama",
+      "Musical"
+    ],
+    "count": 3,
+    "all_lines": 1055,
+    "occurrences": [
+      [
+        347,
+        "00:57:21.703000",
+        "00:57:25.332000",
+        "Deeds of a loafer and talks like a soldier!"
+      ],
+      [
+        348,
+        "00:57:25.740000",
+        "00:57:31.303000",
+        "Look in the mirror! Soldier! Let's go."
+      ],
+      [
+        870,
+        "02:12:02.087000",
+        "02:12:05.648000",
+        "And this soldier's story started not on foreign soil..."
+      ]
+    ],
+    "regex": "\\b((?!\\bSoldier:)Soldier)(?!\\:)(?!'t)\\b",
+    "runtime": 161,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

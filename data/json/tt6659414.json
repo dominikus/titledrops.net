@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt6659414",
+    "title": "Ask the Sexpert",
+    "year": 2017,
+    "genres": [
+      "Comedy",
+      "Documentary",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1282,
+    "occurrences": [
+      [
+        86,
+        "00:06:19.586000",
+        "00:06:22.174000",
+        "So when in doubt, please ask the sexpert Dr. Watsa."
+      ],
+      [
+        100,
+        "00:07:08.151000",
+        "00:07:11.638000",
+        "Have you ever read the column called Ask The Sexpert?"
+      ],
+      [
+        144,
+        "00:10:20.240000",
+        "00:10:24.313000",
+        "InMumbai Mirror, they have a column called Ask The Sexpert."
+      ],
+      [
+        740,
+        "00:50:03.586000",
+        "00:50:06.865000",
+        "The Ask the Sexpert case."
+      ]
+    ],
+    "regex": "\\b((?!\\bAsk\\ the\\ Sexpert:)Ask\\ the\\ Sexpert)(?!\\:)(?!'t)\\b",
+    "runtime": 80,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

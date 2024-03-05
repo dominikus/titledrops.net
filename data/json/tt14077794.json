@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt14077794",
+    "title": "The Fam",
+    "year": 2021,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1306,
+    "occurrences": [
+      [
+        59,
+        "00:03:32.550000",
+        "00:03:35.549000",
+        "Chill, we'll all be there, we're a fam now."
+      ],
+      [
+        61,
+        "00:03:40.508000",
+        "00:03:45.132000",
+        "The FAM"
+      ],
+      [
+        567,
+        "00:41:42.592000",
+        "00:41:45.716000",
+        "- Its the fam. - We're the fam."
+      ],
+      [
+        568,
+        "00:41:46.050000",
+        "00:41:47.841000",
+        "Whats \"the fam\"?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFam:)Fam)(?!\\:)(?!'t)\\b",
+    "runtime": 112,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

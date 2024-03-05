@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0098454",
+    "title": "Ten Little Indians",
+    "year": 1989,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 998,
+    "occurrences": [
+      [
+        351,
+        "00:36:26.142000",
+        "00:36:28.811000",
+        "\"Ten little Indians went out to dine,"
+      ],
+      [
+        990,
+        "01:35:11.706000",
+        "01:35:14.834000",
+        "My ten little Indians"
+      ],
+      [
+        995,
+        "01:35:38.524000",
+        "01:35:45.614000",
+        "All ten little Indians"
+      ]
+    ],
+    "regex": "\\b((?!\\bTen\\ Little\\ Indians:)Ten\\ Little\\ Indians)(?!\\:)(?!'t)\\b",
+    "runtime": 100,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.7
+  }
+]

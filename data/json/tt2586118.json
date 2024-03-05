@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt2586118",
+    "title": "The Ardennes",
+    "year": 2015,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 801,
+    "occurrences": [
+      [
+        19,
+        "00:02:54.800000",
+        "00:02:59.590000",
+        "The Ardennes"
+      ],
+      [
+        129,
+        "00:12:51.840000",
+        "00:12:55.515000",
+        "And those weekends in the Ardennes, good times!"
+      ],
+      [
+        130,
+        "00:12:56.520000",
+        "00:12:58.591000",
+        "The Ardennes were nice."
+      ],
+      [
+        137,
+        "00:13:28.080000",
+        "00:13:31.710000",
+        "There are hills in the Ardennes, not mountains."
+      ],
+      [
+        563,
+        "00:51:02.720000",
+        "00:51:04.358000",
+        "We're going to the Ardennes."
+      ]
+    ],
+    "regex": "\\b((?!\\bArdennes:)Ardennes)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.7
+  }
+]

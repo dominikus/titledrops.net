@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt3278540",
+    "title": "A Nice Girl Like You",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 2092,
+    "occurrences": [
+      [
+        594,
+        "00:27:53.433000",
+        "00:27:55.301000",
+        "You know, I was wondering what a nice girl like you"
+      ],
+      [
+        598,
+        "00:28:03.443000",
+        "00:28:07.346000",
+        "What's a nice girl like you doing in a place like this?"
+      ]
+    ],
+    "regex": "\\b((?!\\bNice\\ Girl\\ Like\\ You:)Nice\\ Girl\\ Like\\ You)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.2
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0059160",
+    "title": "Eva",
+    "year": 1962,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 4,
+    "all_lines": 583,
+    "occurrences": [
+      [
+        153,
+        "00:21:48.910000",
+        "00:21:51.299000",
+        "You must be tired, Eva."
+      ],
+      [
+        419,
+        "01:00:20.430000",
+        "01:00:22.466000",
+        "You resemble me, Eva."
+      ],
+      [
+        552,
+        "01:23:20.110000",
+        "01:23:24.342000",
+        "Eva seems to want to stay along with this gentleman."
+      ],
+      [
+        563,
+        "01:41:06.390000",
+        "01:41:07.664000",
+        "Eva was there."
+      ]
+    ],
+    "regex": "\\b((?!\\bEva:)Eva)(?!\\:)(?!'t)\\b",
+    "runtime": 116,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

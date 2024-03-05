@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1883121",
+    "title": "404: Error Not Found",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 2,
+    "all_lines": 1687,
+    "occurrences": [
+      [
+        235,
+        "00:15:28.093000",
+        "00:15:30.027000",
+        "Let us shift him to 404."
+      ],
+      [
+        802,
+        "00:47:38.589000",
+        "00:47:39.578000",
+        "My room no is 404."
+      ]
+    ],
+    "regex": "\\b((?!\\b404:)404|(?!\\bError\\ Not\\ Found:)Error\\ Not\\ Found)(?!\\:)(?!'t)\\b",
+    "runtime": 121,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt3502932",
+    "title": "Brides",
+    "year": 2014,
+    "genres": [
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 678,
+    "occurrences": [
+      [
+        67,
+        "00:09:17.256000",
+        "00:09:19.296000",
+        "- They are brides. - What brides?"
+      ],
+      [
+        71,
+        "00:09:35.418000",
+        "00:09:37.298000",
+        "Open the door, brides are here."
+      ],
+      [
+        73,
+        "00:09:49.979000",
+        "00:09:51.819000",
+        "Open the door! Let the brides in."
+      ],
+      [
+        78,
+        "00:10:47.143000",
+        "00:10:49.263000",
+        "Look what beautiful brides I bring to you."
+      ]
+    ],
+    "regex": "\\b((?!\\bBrides:)Brides)(?!\\:)(?!'t)\\b",
+    "runtime": 94,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

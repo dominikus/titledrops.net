@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt0399836",
+    "title": "Vanilla and Chocolate",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 860,
+    "occurrences": [
+      [
+        310,
+        "00:30:16.559000",
+        "00:30:20.039000",
+        "They're our speciality, vanilla and chocolate cakes."
+      ],
+      [
+        853,
+        "01:35:32.839000",
+        "01:35:35.999000",
+        "The house speciality, vanilla and chocolate cakes."
+      ]
+    ],
+    "regex": "\\b((?!\\bVanilla\\ and\\ Chocolate:)Vanilla\\ and\\ Chocolate)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6
+  }
+]

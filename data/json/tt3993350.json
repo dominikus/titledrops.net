@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt3993350",
+    "title": "The Hurt Business",
+    "year": 2016,
+    "genres": [
+      "Documentary",
+      "Sport"
+    ],
+    "count": 4,
+    "all_lines": 2839,
+    "occurrences": [
+      [
+        831,
+        "00:33:07.315000",
+        "00:33:08.815000",
+        "This is the hurt business."
+      ],
+      [
+        2255,
+        "01:24:22.554000",
+        "01:24:24.471000",
+        "It's a rough sport. It's the hurt business."
+      ],
+      [
+        2256,
+        "01:24:24.472000",
+        "01:24:27.765000",
+        "They don't call it the hurt business for"
+      ],
+      [
+        2735,
+        "01:47:17.761000",
+        "01:47:20.554000",
+        "Hurt business, you can't show it"
+      ]
+    ],
+    "regex": "\\b((?!\\bHurt\\ Business:)Hurt\\ Business)(?!\\:)(?!'t)\\b",
+    "runtime": 111,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

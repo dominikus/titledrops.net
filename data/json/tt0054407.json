@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0054407",
+    "title": "The Hole",
+    "year": 1960,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 4,
+    "all_lines": 959,
+    "occurrences": [
+      [
+        270,
+        "00:21:46.976000",
+        "00:21:49.434000",
+        "It'll be lights-out soon. We can't dig the hole at night."
+      ],
+      [
+        508,
+        "01:09:17.809000",
+        "01:09:20.768000",
+        "Funny man. We were getting ready to go down the hole."
+      ],
+      [
+        734,
+        "01:40:19.184000",
+        "01:40:20.976000",
+        "I ought to put you in the hole."
+      ],
+      [
+        859,
+        "01:54:36.559000",
+        "01:54:39.476000",
+        "If it weren't for me, you'd have ended up in the hole for a week."
+      ]
+    ],
+    "regex": "\\b((?!\\bHole:)Hole)(?!\\:)(?!'t)\\b",
+    "runtime": 131,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 8.5
+  }
+]

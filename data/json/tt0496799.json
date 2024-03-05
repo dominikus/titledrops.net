@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0496799",
+    "title": "Black Butterfly",
+    "year": 2006,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1506,
+    "occurrences": [
+      [
+        224,
+        "00:17:37.139000",
+        "00:17:40.040000",
+        "\"A black butterfly flutters in the room..."
+      ],
+      [
+        238,
+        "00:18:14.843000",
+        "00:18:17.539000",
+        "The black butterfly. It sat on the window there."
+      ],
+      [
+        274,
+        "00:20:53.635000",
+        "00:20:55.796000",
+        "Did you really see a black butterfly?"
+      ],
+      [
+        408,
+        "00:29:41.863000",
+        "00:29:43.831000",
+        "That night a black butterfly appeared."
+      ]
+    ],
+    "regex": "\\b((?!\\bBlack\\ Butterfly:)Black\\ Butterfly)(?!\\:)(?!'t)\\b",
+    "runtime": 118,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

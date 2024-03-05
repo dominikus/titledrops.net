@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0104467",
+    "title": "Hyenas",
+    "year": 1992,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1199,
+    "occurrences": [
+      [
+        215,
+        "00:18:15.619000",
+        "00:18:18.069000",
+        "Keep the hyenas at a distance!"
+      ],
+      [
+        612,
+        "00:52:28.409000",
+        "00:52:30.789000",
+        "The reign of the hyenas has begun!"
+      ],
+      [
+        1022,
+        "01:25:51.789000",
+        "01:25:53.939000",
+        "The reign of the hyenas has begun."
+      ],
+      [
+        1026,
+        "01:26:11.159000",
+        "01:26:14.350000",
+        "Monkeys are smiling, hyenas are sneering."
+      ],
+      [
+        1028,
+        "01:26:20.159000",
+        "01:26:23.180000",
+        "The reign of the hyenas has begun."
+      ]
+    ],
+    "regex": "\\b((?!\\bHyenas:)Hyenas)(?!\\:)(?!'t)\\b",
+    "runtime": 110,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.4
+  }
+]

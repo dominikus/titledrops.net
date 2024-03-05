@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt0066808",
+    "title": "Bananas",
+    "year": 1971,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 891,
+    "occurrences": [
+      [
+        617,
+        "00:59:14.320000",
+        "00:59:17.517000",
+        "- Dysentery. - We grow bananas."
+      ],
+      [
+        618,
+        "00:59:17.640000",
+        "00:59:20.393000",
+        "Bananas, bananas."
+      ]
+    ],
+    "regex": "\\b((?!\\bBananas:)Bananas)(?!\\:)(?!'t)\\b",
+    "runtime": 82,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

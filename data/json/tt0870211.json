@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0870211",
+    "title": "Battle for Haditha",
+    "year": 2007,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "count": 2,
+    "all_lines": 1172,
+    "occurrences": [
+      [
+        32,
+        "00:01:52.985000",
+        "00:01:54.985000",
+        "(Battle for Haditha)"
+      ],
+      [
+        1047,
+        "01:21:41.122000",
+        "01:21:43.122000",
+        "* The Marines have lost the battle for Haditha."
+      ]
+    ],
+    "regex": "\\b((?!\\bBattle\\ for\\ Haditha:)Battle\\ for\\ Haditha)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

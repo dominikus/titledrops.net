@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt4335804",
+    "title": "The Animal's Wife",
+    "year": 2016,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 900,
+    "occurrences": [
+      [
+        281,
+        "00:26:12.319000",
+        "00:26:17.880000",
+        "What are you doing here with that guy? So you are the animal's wife?"
+      ],
+      [
+        688,
+        "01:23:40",
+        "01:23:41.239000",
+        "She's the Animal's wife."
+      ],
+      [
+        899,
+        "01:47:07.520000",
+        "01:47:11.479000",
+        "Long live the Animal's wife! Long live the cubs!"
+      ]
+    ],
+    "regex": "\\b((?!\\bAnimal's\\ Wife:)Animal's\\ Wife)(?!\\:)(?!'t)\\b",
+    "runtime": 120,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.1
+  }
+]

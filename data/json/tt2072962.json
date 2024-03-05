@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt2072962",
+    "title": "The Client",
+    "year": 2011,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "count": 2,
+    "all_lines": 1714,
+    "occurrences": [
+      [
+        22,
+        "00:04:54.861000",
+        "00:05:00.234000",
+        "(The Client)"
+      ],
+      [
+        1704,
+        "01:57:53.306000",
+        "01:57:55.876000",
+        "Is it OK that your client's secrets got leaked?"
+      ]
+    ],
+    "regex": "\\b((?!\\bClient:)Client)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.8
+  }
+]

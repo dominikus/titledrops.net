@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt1212054",
+    "title": "16 Stones",
+    "year": 2014,
+    "genres": [
+      "Adventure"
+    ],
+    "count": 3,
+    "all_lines": 1525,
+    "occurrences": [
+      [
+        198,
+        "00:11:45.150000",
+        "00:11:49.040000",
+        "The brother of Jared took 16 stones to the Lord to touch."
+      ],
+      [
+        388,
+        "00:21:26.180000",
+        "00:21:28.190000",
+        "their leader took 16 stones"
+      ],
+      [
+        1434,
+        "01:23:33.010000",
+        "01:23:36.040000",
+        "Yes. He touched 16 stones."
+      ]
+    ],
+    "regex": "\\b((?!\\b16\\ Stones:)16\\ Stones)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.2
+  }
+]

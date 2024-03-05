@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0116250",
+    "title": "Evita",
+    "year": 1996,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "count": 2,
+    "all_lines": 634,
+    "occurrences": [
+      [
+        26,
+        "00:09:28.600000",
+        "00:09:31.200000",
+        "But who is this Santa Evita?"
+      ],
+      [
+        38,
+        "00:10:40.100000",
+        "00:10:43.100000",
+        "You let down your people, Evita"
+      ]
+    ],
+    "regex": "\\b((?!\\bEvita:)Evita)(?!\\:)(?!'t)\\b",
+    "runtime": 135,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

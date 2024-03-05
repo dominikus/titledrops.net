@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0283878",
+    "title": "Letter from the Mountain",
+    "year": 2002,
+    "genres": [
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 464,
+    "occurrences": [
+      [
+        175,
+        "00:25:17.582000",
+        "00:25:19.641000",
+        "Letter from the Mountain,"
+      ],
+      [
+        281,
+        "00:37:28.946000",
+        "00:37:31.107000",
+        "Oh, the \"Letter from the Mountain \"?"
+      ],
+      [
+        374,
+        "00:44:02.439000",
+        "00:44:04.430000",
+        "Letter from the Mountain"
+      ]
+    ],
+    "regex": "\\b((?!\\bLetter\\ from\\ the\\ Mountain:)Letter\\ from\\ the\\ Mountain)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.2
+  }
+]

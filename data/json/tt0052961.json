@@ -1,0 +1,68 @@
+[
+  {
+    "imdb": "tt0052961",
+    "title": "Kapo",
+    "year": 1960,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "count": 8,
+    "all_lines": 891,
+    "occurrences": [
+      [
+        91,
+        "00:15:44.540000",
+        "00:15:48.135000",
+        "They call them ''Kapo''. Beware of them."
+      ],
+      [
+        201,
+        "00:29:35.860000",
+        "00:29:39.569000",
+        "One's even been made a Kapo. The woman on block 10."
+      ],
+      [
+        239,
+        "00:34:42.460000",
+        "00:34:45.850000",
+        "Attention, please! The Kapo said..."
+      ],
+      [
+        428,
+        "00:53:19.860000",
+        "00:53:22.420000",
+        "If so, they'll need a new Kapo for this hut."
+      ],
+      [
+        503,
+        "01:04:45.580000",
+        "01:04:48.811000",
+        "-Who's that? -Our Kapo."
+      ],
+      [
+        507,
+        "01:04:57.940000",
+        "01:05:01.819000",
+        "You'll see, son... You'll find out what a Kapo is."
+      ],
+      [
+        537,
+        "01:08:11.380000",
+        "01:08:16.056000",
+        "Kapo, come here and bring three prisoners!"
+      ],
+      [
+        672,
+        "01:24:19.441000",
+        "01:24:22.558000",
+        "Excuse me, Kapo,"
+      ]
+    ],
+    "regex": "\\b((?!\\bKapo:)Kapo)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.6
+  }
+]

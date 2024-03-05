@@ -1,0 +1,65 @@
+[
+  {
+    "imdb": "tt1482459",
+    "title": "The Lorax",
+    "year": 2012,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 7,
+    "all_lines": 1229,
+    "occurrences": [
+      [
+        6,
+        "00:00:51.280000",
+        "00:00:54.682000",
+        "I am the Lorax. I speak for the trees."
+      ],
+      [
+        322,
+        "00:21:40.200000",
+        "00:21:41.725000",
+        "The Lorax."
+      ],
+      [
+        339,
+        "00:23:56.520000",
+        "00:23:59.922000",
+        "I'm the Lorax! Guardian of the forest."
+      ],
+      [
+        541,
+        "00:35:00.480000",
+        "00:35:01.481000",
+        "Come on, reach out for the Lorax."
+      ],
+      [
+        782,
+        "00:48:28.640000",
+        "00:48:32.281000",
+        "Yeah, acquaintance. Very good acquaintance, the Lorax."
+      ],
+      [
+        945,
+        "00:59:10.080000",
+        "00:59:12.242000",
+        "And each day since the Lorax left,"
+      ],
+      [
+        951,
+        "00:59:26.640000",
+        "00:59:28.847000",
+        "the Lorax left that word there."
+      ]
+    ],
+    "regex": "\\b((?!\\bLorax:)Lorax)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [
+      "The Lorax"
+    ],
+    "title_is_name": true,
+    "rating": 6.4
+  }
+]

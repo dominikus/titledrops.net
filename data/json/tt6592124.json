@@ -1,0 +1,31 @@
+[
+  {
+    "imdb": "tt6592124",
+    "title": "Mandy the Doll",
+    "year": 2018,
+    "genres": [
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 830,
+    "occurrences": [
+      [
+        63,
+        "00:05:26.151000",
+        "00:05:29.254000",
+        "Have you heard of the Legend of Mandy the Doll?"
+      ],
+      [
+        64,
+        "00:05:30.957000",
+        "00:05:32.591000",
+        "Mandy the Doll?"
+      ]
+    ],
+    "regex": "\\b((?!\\bMandy\\ the\\ Doll:)Mandy\\ the\\ Doll)(?!\\:)(?!'t)\\b",
+    "runtime": 75,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.6
+  }
+]

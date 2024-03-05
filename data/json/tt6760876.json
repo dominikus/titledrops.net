@@ -1,0 +1,51 @@
+[
+  {
+    "imdb": "tt6760876",
+    "title": "Wasp Network",
+    "year": 2019,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1879,
+    "occurrences": [
+      [
+        902,
+        "00:56:58.291000",
+        "00:56:59.583000",
+        "To run the Wasp Network."
+      ],
+      [
+        951,
+        "00:59:50.833000",
+        "00:59:52.250000",
+        "The Wasp Network."
+      ],
+      [
+        975,
+        "01:01:38.166000",
+        "01:01:42.541000",
+        "By the end of 1992, the Wasp Network is fully operational."
+      ],
+      [
+        989,
+        "01:02:35.083000",
+        "01:02:39.708000",
+        "During this period, the Wasp Network was able to thwart 20 terrorist attacks,"
+      ],
+      [
+        998,
+        "01:03:22.666000",
+        "01:03:25.875000",
+        "Thanks to informations collected by the Wasp Network,"
+      ]
+    ],
+    "regex": "\\b((?!\\bWasp\\ Network:)Wasp\\ Network)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.9
+  }
+]

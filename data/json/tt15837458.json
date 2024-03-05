@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt15837458",
+    "title": "Wrong Place",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1274,
+    "occurrences": [
+      [
+        257,
+        "00:15:59.809000",
+        "00:16:01.611000",
+        "You're in the wrong place."
+      ],
+      [
+        577,
+        "00:39:45.168000",
+        "00:39:46.568000",
+        "You're obviously in the wrong place."
+      ],
+      [
+        1087,
+        "01:16:35.345000",
+        "01:16:38.815000",
+        "Nothing personal, pal, you're just in the wrong place"
+      ]
+    ],
+    "regex": "\\b((?!\\bWrong\\ Place:)Wrong\\ Place)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.5
+  }
+]

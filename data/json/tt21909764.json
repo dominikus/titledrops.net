@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt21909764",
+    "title": "My Fault",
+    "year": 2023,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 1322,
+    "occurrences": [
+      [
+        2,
+        "00:01:34.080000",
+        "00:01:36.280000",
+        "My Fault"
+      ],
+      [
+        1118,
+        "01:29:48.720000",
+        "01:29:50.360000",
+        "All of this was my fault."
+      ]
+    ],
+    "regex": "\\b((?!\\bMy\\ Fault:)My\\ Fault)(?!\\:)(?!'t)\\b",
+    "runtime": 117,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt10050766",
+    "title": "Brené Brown: The Call to Courage",
+    "year": 2019,
+    "genres": [
+      "Documentary",
+      "Drama"
+    ],
+    "count": 5,
+    "all_lines": 1618,
+    "occurrences": [
+      [
+        4,
+        "00:00:18.435000",
+        "00:00:20.687000",
+        "Please welcome Brene Brown."
+      ],
+      [
+        237,
+        "00:10:53.820000",
+        "00:10:56.948000",
+        "\"What are people gonna google? 'Brene Brown, vulnerability'?\""
+      ],
+      [
+        426,
+        "00:19:34.006000",
+        "00:19:36.050000",
+        "'Fuck Brene Brown. Fuck Brene Brown.'\""
+      ],
+      [
+        1609,
+        "01:15:40.578000",
+        "01:15:42.997000",
+        "be seen, answer the call to courage,"
+      ]
+    ],
+    "regex": "\\b((?!\\bBrene\\ Brown:)Brene\\ Brown|(?!\\bCall\\ to\\ Courage:)Call\\ to\\ Courage)(?!\\:)(?!'t)\\b",
+    "runtime": 76,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

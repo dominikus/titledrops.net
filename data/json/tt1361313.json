@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt1361313",
+    "title": "The Extra Man",
+    "year": 2010,
+    "genres": [
+      "Comedy"
+    ],
+    "count": 5,
+    "all_lines": 1805,
+    "occurrences": [
+      [
+        410,
+        "00:22:14.419000",
+        "00:22:15.998000",
+        "I am an \"extra man.\""
+      ],
+      [
+        420,
+        "00:22:38.701000",
+        "00:22:40.866000",
+        "for an extra man at the table."
+      ],
+      [
+        425,
+        "00:22:50.033000",
+        "00:22:54.100000",
+        "an extra man must be extremely vigilant,"
+      ],
+      [
+        650,
+        "00:35:37.252000",
+        "00:35:39.466000",
+        "if you ever want to be an extra man,"
+      ],
+      [
+        657,
+        "00:35:55.834000",
+        "00:35:58.983000",
+        "would this officially make me an extra man?"
+      ]
+    ],
+    "regex": "\\b((?!\\bExtra\\ Man:)Extra\\ Man)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.8
+  }
+]

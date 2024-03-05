@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt5834278",
+    "title": "The Directive",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 870,
+    "occurrences": [
+      [
+        744,
+        "01:36:25.754000",
+        "01:36:29.154000",
+        "SAM: That is my primary directive."
+      ],
+      [
+        745,
+        "01:36:29.187000",
+        "01:36:31.854000",
+        "What's your primary directive?"
+      ],
+      [
+        746,
+        "01:36:33.254000",
+        "01:36:34.320000",
+        "SAM: My primary directive"
+      ],
+      [
+        762,
+        "01:37:15.187000",
+        "01:37:18.287000",
+        "in order to continue pursuing my directive."
+      ]
+    ],
+    "regex": "\\b((?!\\bDirective:)Directive)(?!\\:)(?!'t)\\b",
+    "runtime": 113,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 2.4
+  }
+]

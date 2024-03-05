@@ -1,0 +1,55 @@
+[
+  {
+    "imdb": "tt1331025",
+    "title": "The September Issue",
+    "year": 2009,
+    "genres": [
+      "Documentary"
+    ],
+    "count": 6,
+    "all_lines": 1441,
+    "occurrences": [
+      [
+        203,
+        "00:12:04.800000",
+        "00:12:07.200000",
+        "When we put out the September issue of Vogue,"
+      ],
+      [
+        238,
+        "00:13:29.600000",
+        "00:13:32.500000",
+        "Grace, I hear you, but it' just not what I need in the September issue."
+      ],
+      [
+        248,
+        "00:13:53.780000",
+        "00:13:57.760000",
+        "Usually in the September issue, there's one big disaster."
+      ],
+      [
+        283,
+        "00:15:44.500000",
+        "00:15:47.305000",
+        "...to put in the September issue?"
+      ],
+      [
+        783,
+        "00:42:33.400000",
+        "00:42:37.200000",
+        "Yeah. I mean, it's the September issue of Vogue."
+      ],
+      [
+        1422,
+        "01:22:08.820000",
+        "01:22:12.680000",
+        "You know you're featured in 'The September Issue'?"
+      ]
+    ],
+    "regex": "\\b((?!\\bSeptember\\ Issue:)September\\ Issue)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0301082",
+    "title": "Cardcaptor Sakura: The Movie",
+    "year": 1999,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "count": 3,
+    "all_lines": 740,
+    "occurrences": [
+      [
+        14,
+        "00:02:46.215000",
+        "00:02:48.133000",
+        "...Cardcaptor Sakura!"
+      ],
+      [
+        15,
+        "00:02:51.345000",
+        "00:03:01.313000",
+        "Cardcaptor Sakura: The Movie"
+      ],
+      [
+        562,
+        "00:57:31.914000",
+        "00:57:34.959000",
+        "All right! It's time for Cardcaptor Sakura!!"
+      ]
+    ],
+    "regex": "\\b((?!\\bCardcaptor\\ Sakura:)Cardcaptor\\ Sakura|(?!\\bMovie:)Movie)(?!\\:)(?!'t)\\b",
+    "runtime": 81,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.3
+  }
+]

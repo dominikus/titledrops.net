@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0054821",
+    "title": "The Informer",
+    "year": 1962,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 634,
+    "occurrences": [
+      [
+        3,
+        "00:00:36.600000",
+        "00:00:41.196000",
+        "The poIice informer"
+      ],
+      [
+        235,
+        "00:42:29",
+        "00:42:32.879000",
+        "I hate repeating myseIf: I wasn't the informer"
+      ],
+      [
+        278,
+        "00:46:13.960000",
+        "00:46:19.432000",
+        "The informer said the kiIIer was Maurice FaugeI"
+      ],
+      [
+        279,
+        "00:46:21.320000",
+        "00:46:27.429000",
+        "SaIignari agreed, at the informer's request, to deIay the arrest"
+      ],
+      [
+        543,
+        "01:24:54.240000",
+        "01:25:00.349000",
+        "A vaIuabIe informer, he toId me. I promptIy forgot about her..."
+      ]
+    ],
+    "regex": "\\b((?!\\bInformer:)Informer)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.7
+  }
+]

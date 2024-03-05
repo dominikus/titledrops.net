@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2245171",
+    "title": "The Cut",
+    "year": 2014,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "count": 3,
+    "all_lines": 637,
+    "occurrences": [
+      [
+        218,
+        "00:26:29.200000",
+        "00:26:30.759000",
+        "Cut his neck"
+      ],
+      [
+        219,
+        "00:26:33.040000",
+        "00:26:34.360000",
+        "Cut his neck"
+      ],
+      [
+        220,
+        "00:26:37.800000",
+        "00:26:38.995000",
+        "Cut his neck"
+      ]
+    ],
+    "regex": "\\b((?!\\bCut:)Cut)(?!\\:)(?!'t)\\b",
+    "runtime": 138,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.2
+  }
+]

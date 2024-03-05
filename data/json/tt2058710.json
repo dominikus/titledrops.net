@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt2058710",
+    "title": "The Mark",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "count": 3,
+    "all_lines": 1260,
+    "occurrences": [
+      [
+        164,
+        "00:11:59.985000",
+        "00:12:01.680000",
+        "Here's your mark."
+      ],
+      [
+        515,
+        "00:36:14.605000",
+        "00:36:16.596000",
+        "(Mr. Pike) Has anyone found the mark?"
+      ],
+      [
+        1123,
+        "01:19:41.910000",
+        "01:19:44.606000",
+        "It's the mark of the beast."
+      ]
+    ],
+    "regex": "\\b((?!\\bMark:)Mark)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.6
+  }
+]

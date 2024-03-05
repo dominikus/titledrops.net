@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt9844522",
+    "title": "Escape Room: Tournament of Champions",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "count": 2,
+    "all_lines": 1279,
+    "occurrences": [
+      [
+        279,
+        "00:17:35.149000",
+        "00:17:36.567000",
+        "Tournament of champions?"
+      ],
+      [
+        1200,
+        "01:16:43.744000",
+        "01:16:45.996000",
+        "into what they thought was a typical escape room,"
+      ]
+    ],
+    "regex": "\\b((?!\\bEscape\\ Room:)Escape\\ Room|(?!\\bTournament\\ of\\ Champions:)Tournament\\ of\\ Champions)(?!\\:)(?!'t)\\b",
+    "runtime": 88,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

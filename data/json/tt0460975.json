@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0460975",
+    "title": "Unidentified",
+    "year": 2006,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "count": 4,
+    "all_lines": 2807,
+    "occurrences": [
+      [
+        114,
+        "00:04:59.960000",
+        "00:05:04.230000",
+        "Cessna 843 be advised, unidentified traffic right,"
+      ],
+      [
+        115,
+        "00:05:04.230000",
+        "00:05:04.830000",
+        "unidentified traffic right, 2:00, 3 miles, air craft type,"
+      ],
+      [
+        124,
+        "00:05:39.540000",
+        "00:05:40.130000",
+        "I got ya! Look at that, the unidentified"
+      ],
+      [
+        125,
+        "00:05:40.140000",
+        "00:05:43.500000",
+        "Look at that, the unidentified just went out of scope."
+      ]
+    ],
+    "regex": "\\b((?!\\bUnidentified:)Unidentified)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.3
+  }
+]

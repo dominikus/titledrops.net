@@ -1,0 +1,56 @@
+[
+  {
+    "imdb": "tt0052877",
+    "title": "The Hangman",
+    "year": 1959,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "count": 6,
+    "all_lines": 1739,
+    "occurrences": [
+      [
+        6,
+        "00:02:15.367000",
+        "00:02:16.801000",
+        "See you in hell, Hangman!"
+      ],
+      [
+        472,
+        "00:22:12.430000",
+        "00:22:13.897000",
+        "They call you the Hangman?"
+      ],
+      [
+        1508,
+        "01:14:19.716000",
+        "01:14:21.917000",
+        "That's what they call you, isn't it? The Hangman."
+      ],
+      [
+        1524,
+        "01:14:49.647000",
+        "01:14:52.216000",
+        "I'm tired of looking at this hangman."
+      ],
+      [
+        1536,
+        "01:15:25.550000",
+        "01:15:27.917000",
+        "You're nothing but a-- A hangman, yes."
+      ],
+      [
+        1567,
+        "01:16:50.701000",
+        "01:16:54.605000",
+        "It's a lonesome business, Selah, being a hangman."
+      ]
+    ],
+    "regex": "\\b((?!\\bHangman:)Hangman)(?!\\:)(?!'t)\\b",
+    "runtime": 87,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

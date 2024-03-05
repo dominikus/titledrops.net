@@ -1,0 +1,59 @@
+[
+  {
+    "imdb": "tt13927994",
+    "title": "Salaar",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "count": 6,
+    "all_lines": 1763,
+    "occurrences": [
+      [
+        123,
+        "00:10:46.958000",
+        "00:10:48.083000",
+        "Salaar!"
+      ],
+      [
+        125,
+        "00:11:22.666000",
+        "00:11:23.708000",
+        "My Salaar!"
+      ],
+      [
+        750,
+        "01:08:57.708000",
+        "01:08:59.625000",
+        "The Salaar of Khansaar!"
+      ],
+      [
+        752,
+        "01:09:04.166000",
+        "01:09:06.583000",
+        "The Salaar to Varadha Rajamannaar."
+      ],
+      [
+        754,
+        "01:09:13.416000",
+        "01:09:17.708000",
+        "Salaar Devaratha Raisaar!"
+      ],
+      [
+        1763,
+        "02:51:19.500000",
+        "02:51:20.708000",
+        "Salaar."
+      ]
+    ],
+    "regex": "\\b((?!\\bSalaar:)Salaar)(?!\\:)(?!'t)\\b",
+    "runtime": 175,
+    "characters": [
+      "Salaar"
+    ],
+    "title_is_name": true,
+    "rating": 6.5
+  }
+]

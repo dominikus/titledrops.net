@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt3268288",
+    "title": "A Reunion",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 3,
+    "all_lines": 1163,
+    "occurrences": [
+      [
+        103,
+        "00:05:38.772000",
+        "00:05:41.409000",
+        "Josh: This, this whole reunion was your idea."
+      ],
+      [
+        169,
+        "00:08:21.669000",
+        "00:08:23.704000",
+        "Josh: Wonder what this reunion is really gonna be like."
+      ],
+      [
+        533,
+        "00:32:19.738000",
+        "00:32:21.573000",
+        "not going to the reunion."
+      ]
+    ],
+    "regex": "\\b((?!\\bReunion:)Reunion)(?!\\:)(?!'t)\\b",
+    "runtime": 79,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.4
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "imdb": "tt4178118",
+    "title": "Tunnel",
+    "year": 2014,
+    "genres": [
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 574,
+    "occurrences": [
+      [
+        81,
+        "00:11:17.243000",
+        "00:11:22.148000",
+        "when a miner dies in The Tunnel,"
+      ],
+      [
+        240,
+        "00:29:46.985000",
+        "00:29:48.680000",
+        "we hide h' in The Tunnel?"
+      ],
+      [
+        254,
+        "00:31:01.159000",
+        "00:31:03.491000",
+        "Let's find a Tunnel thcfs not under construction."
+      ],
+      [
+        496,
+        "01:08:47.556000",
+        "01:08:50.025000",
+        "we hide h' in The Tunnel?"
+      ],
+      [
+        497,
+        "01:09:43.479000",
+        "01:09:45.072000",
+        "In The locked Tunnel."
+      ]
+    ],
+    "regex": "\\b((?!\\bTunnel:)Tunnel)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.1
+  }
+]

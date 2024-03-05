@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0416111",
+    "title": "Transit",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1461,
+    "occurrences": [
+      [
+        501,
+        "00:49:42.440000",
+        "00:49:46.194000",
+        "Now the planes can be properly prepared for transit."
+      ],
+      [
+        1284,
+        "02:01:15.071000",
+        "02:01:16.504000",
+        "There's the transit."
+      ]
+    ],
+    "regex": "\\b((?!\\bTransit:)Transit)(?!\\:)(?!'t)\\b",
+    "runtime": 140,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.3
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "imdb": "tt0119774",
+    "title": "Nevada",
+    "year": 1997,
+    "genres": [
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1274,
+    "occurrences": [
+      [
+        500,
+        "00:39:38",
+        "00:39:40.600000",
+        "A lot of people thought I could have been Miss Nevada."
+      ],
+      [
+        725,
+        "00:56:03.440000",
+        "00:56:05.800000",
+        "- We're in Silver City, Nevada."
+      ],
+      [
+        727,
+        "00:56:09",
+        "00:56:10.440000",
+        "- Silver City, Nevada."
+      ],
+      [
+        729,
+        "00:56:11.960000",
+        "00:56:13.320000",
+        "Where in Nevada?"
+      ]
+    ],
+    "regex": "\\b((?!\\bNevada:)Nevada)(?!\\:)(?!'t)\\b",
+    "runtime": 108,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.3
+  }
+]

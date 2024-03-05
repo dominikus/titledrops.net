@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0095463",
+    "title": "A Hoof Here, a Hoof There",
+    "year": 1989,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 1358,
+    "occurrences": [
+      [
+        470,
+        "00:46:22.420000",
+        "00:46:25.492000",
+        "A hoof here, a hoof there..."
+      ],
+      [
+        479,
+        "00:46:53.940000",
+        "00:46:56.500000",
+        "A hoof here, a hoof there."
+      ],
+      [
+        501,
+        "00:48:20.340000",
+        "00:48:23.935000",
+        "a hoof here, a hoof there..."
+      ]
+    ],
+    "regex": "\\b((?!\\bHoof\\ Here,\\ a\\ Hoof\\ There:)Hoof\\ Here,\\ a\\ Hoof\\ There)(?!\\:)(?!'t)\\b",
+    "runtime": 129,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0120370",
+    "title": "Trekkies",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "count": 3,
+    "all_lines": 1855,
+    "occurrences": [
+      [
+        847,
+        "00:39:27.628000",
+        "00:39:29.425000",
+        "\"Oh, the Trekkers, the Trekkies.\""
+      ],
+      [
+        1006,
+        "00:46:24.442000",
+        "00:46:26.103000",
+        "A lot of Trekkies are here."
+      ],
+      [
+        1468,
+        "01:06:54.770000",
+        "01:06:56.362000",
+        "We're not a couple of Trekkies, right?"
+      ]
+    ],
+    "regex": "\\b((?!\\bTrekkies:)Trekkies)(?!\\:)(?!'t)\\b",
+    "runtime": 86,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.9
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt0066879",
+    "title": "Cain's Cutthroats",
+    "year": 1970,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "count": 2,
+    "all_lines": 1372,
+    "occurrences": [
+      [
+        349,
+        "00:19:12.833000",
+        "00:19:14.666000",
+        "when we was called Cain's Cutthroats."
+      ],
+      [
+        1341,
+        "01:26:23.583000",
+        "01:26:27.375000",
+        "This is Captain Justice Cain of Cain's Cutthroats,"
+      ]
+    ],
+    "regex": "\\b((?!\\bCain's\\ Cutthroats:)Cain's\\ Cutthroats)(?!\\:)(?!'t)\\b",
+    "runtime": 95,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5
+  }
+]

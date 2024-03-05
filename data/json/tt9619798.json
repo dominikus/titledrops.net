@@ -1,0 +1,32 @@
+[
+  {
+    "imdb": "tt9619798",
+    "title": "The Wrong Missy",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 2113,
+    "occurrences": [
+      [
+        1148,
+        "00:46:59.666000",
+        "00:47:01.708000",
+        "well, then, you brought the wrong Missy!"
+      ],
+      [
+        1222,
+        "00:49:41.416000",
+        "00:49:44.416000",
+        "I can't, because the wrong Missy is still here."
+      ]
+    ],
+    "regex": "\\b((?!\\bWrong\\ Missy:)Wrong\\ Missy)(?!\\:)(?!'t)\\b",
+    "runtime": 90,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "imdb": "tt0097474",
+    "title": "Halloween 5: The Revenge of Michael Myers",
+    "year": 1989,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "count": 5,
+    "all_lines": 1057,
+    "occurrences": [
+      [
+        132,
+        "00:12:54.978000",
+        "00:12:59.484000",
+        "That's why they fear her, especially on Halloween."
+      ],
+      [
+        287,
+        "00:25:00.244000",
+        "00:25:01.291000",
+        "It's Halloween, right?"
+      ],
+      [
+        328,
+        "00:27:12.043000",
+        "00:27:15.388000",
+        "They should ban Halloween in this town."
+      ],
+      [
+        450,
+        "00:39:48.465000",
+        "00:39:53.266000",
+        "Now, what we've all been waiting for: our annual Halloween costume pageant."
+      ],
+      [
+        614,
+        "00:51:22.408000",
+        "00:51:24.877000",
+        "No. Hey, it's just a little Halloween prank, okay?"
+      ]
+    ],
+    "regex": "\\b((?!\\bHalloween:)Halloween|(?!\\bRevenge\\ of\\ Michael\\ Myers:)Revenge\\ of\\ Michael\\ Myers)(?!\\:)(?!'t)\\b",
+    "runtime": 97,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.9
+  }
+]

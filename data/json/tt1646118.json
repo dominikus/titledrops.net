@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt1646118",
+    "title": "October",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 466,
+    "occurrences": [
+      [
+        130,
+        "00:23:57.752000",
+        "00:23:59.083000",
+        "At the end of October,"
+      ],
+      [
+        196,
+        "00:32:26.560000",
+        "00:32:28.494000",
+        "October arrives, people feel lucky."
+      ],
+      [
+        463,
+        "01:15:43.321000",
+        "01:15:45.551000",
+        "until the next month of October..."
+      ]
+    ],
+    "regex": "\\b((?!\\bOctober:)October)(?!\\:)(?!'t)\\b",
+    "runtime": 83,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.4
+  }
+]

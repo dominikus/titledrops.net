@@ -1,0 +1,45 @@
+[
+  {
+    "imdb": "tt0486578",
+    "title": "First Sunday",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "count": 4,
+    "all_lines": 1493,
+    "occurrences": [
+      [
+        674,
+        "00:43:57.635000",
+        "00:44:00.934000",
+        "It's first Sunday. They not supposed to rehearse till second Sunday."
+      ],
+      [
+        1349,
+        "01:23:54.496000",
+        "01:23:58.398000",
+        "Well, on first Sunday, you wrote down that we took in $34,000."
+      ],
+      [
+        1356,
+        "01:24:22.657000",
+        "01:24:24.284000",
+        "In the report on first Sunday..."
+      ],
+      [
+        1365,
+        "01:24:54.823000",
+        "01:24:58.281000",
+        "...exactly how much money was raised on the first Sunday?"
+      ]
+    ],
+    "regex": "\\b((?!\\bFirst\\ Sunday:)First\\ Sunday)(?!\\:)(?!'t)\\b",
+    "runtime": 98,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.6
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt4456774",
+    "title": "Dreams from Strangers",
+    "year": 2015,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 404,
+    "occurrences": [
+      [
+        324,
+        "00:56:54.094000",
+        "00:56:56.961000",
+        "We must never accept dreams from strangers."
+      ],
+      [
+        403,
+        "01:07:13.110000",
+        "01:07:16.610000",
+        "Don't accept dreams from strangers"
+      ]
+    ],
+    "regex": "\\b((?!\\bDreams\\ from\\ Strangers:)Dreams\\ from\\ Strangers)(?!\\:)(?!'t)\\b",
+    "runtime": 70,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.3
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "imdb": "tt1974420",
+    "title": "Rules Don't Apply",
+    "year": 2016,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "count": 2,
+    "all_lines": 2267,
+    "occurrences": [
+      [
+        456,
+        "00:21:01.927000",
+        "00:21:04.362000",
+        "The rules don't apply to you."
+      ],
+      [
+        610,
+        "00:30:48.247000",
+        "00:30:50.948000",
+        "that when you told me the rules don't apply to me"
+      ]
+    ],
+    "regex": "\\b((?!\\bRules\\ Don't\\ Apply:)Rules\\ Don't\\ Apply)(?!\\:)(?!'t)\\b",
+    "runtime": 127,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

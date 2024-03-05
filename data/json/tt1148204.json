@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1148204",
+    "title": "Orphan",
+    "year": 2009,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1047,
+    "occurrences": [
+      [
+        111,
+        "00:14:21.208000",
+        "00:14:22.573000",
+        "Look at the snow orphan."
+      ],
+      [
+        112,
+        "00:14:22.743000",
+        "00:14:24.107000",
+        "Snow orphan?"
+      ],
+      [
+        564,
+        "00:53:09.581000",
+        "00:53:12.743000",
+        "We're dealing with a 9-year-old girl who's an orphan, okay?"
+      ]
+    ],
+    "regex": "\\b((?!\\bOrphan:)Orphan)(?!\\:)(?!'t)\\b",
+    "runtime": 123,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7
+  }
+]

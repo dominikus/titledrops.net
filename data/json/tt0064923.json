@@ -1,0 +1,34 @@
+[
+  {
+    "imdb": "tt0064923",
+    "title": "Sam Whiskey",
+    "year": 1969,
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "count": 2,
+    "all_lines": 1046,
+    "occurrences": [
+      [
+        71,
+        "00:04:53.377000",
+        "00:04:55.546000",
+        "My name's Sam Whiskey."
+      ],
+      [
+        120,
+        "00:08:54.952000",
+        "00:08:56.328000",
+        "Sam Whiskey."
+      ]
+    ],
+    "regex": "\\b((?!\\bSam\\ Whiskey:)Sam\\ Whiskey)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [
+      "Sam Whiskey"
+    ],
+    "title_is_name": true,
+    "rating": 5.9
+  }
+]

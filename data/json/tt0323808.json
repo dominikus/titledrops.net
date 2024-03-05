@@ -1,0 +1,44 @@
+[
+  {
+    "imdb": "tt0323808",
+    "title": "The Wicker Tree",
+    "year": 2011,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "count": 5,
+    "all_lines": 1362,
+    "occurrences": [
+      [
+        1064,
+        "01:10:58.213000",
+        "01:11:01.550000",
+        "O wicker tree, O wicker tree, tell me, what do you see?"
+      ],
+      [
+        1221,
+        "01:24:22.100000",
+        "01:24:26.729000",
+        "Of the wicker tree"
+      ],
+      [
+        1224,
+        "01:24:41.119000",
+        "01:24:43.580000",
+        "O wicker tree"
+      ],
+      [
+        1225,
+        "01:24:43.746000",
+        "01:24:48.960000",
+        "Wicker tree."
+      ]
+    ],
+    "regex": "\\b((?!\\bWicker\\ Tree:)Wicker\\ Tree)(?!\\:)(?!'t)\\b",
+    "runtime": 96,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.8
+  }
+]

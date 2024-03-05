@@ -1,0 +1,75 @@
+[
+  {
+    "imdb": "tt10452766",
+    "title": "Uppercase Print",
+    "year": 2020,
+    "genres": [
+      "Documentary",
+      "Drama",
+      "History"
+    ],
+    "count": 9,
+    "all_lines": 1280,
+    "occurrences": [
+      [
+        26,
+        "00:05:40.292000",
+        "00:05:45.956000",
+        "the uppercase print letters were drawn in blue chalk,"
+      ],
+      [
+        77,
+        "00:10:21.792000",
+        "00:10:26.956000",
+        "I saw the uppercase print chalk writing:"
+      ],
+      [
+        108,
+        "00:13:34.832000",
+        "00:13:42.292000",
+        "The uppercase print text written in white chalk read:"
+      ],
+      [
+        180,
+        "00:20:16.540000",
+        "00:20:22.372000",
+        "and wipe off a text written on the fence in uppercase print."
+      ],
+      [
+        185,
+        "00:20:44.208000",
+        "00:20:48.040000",
+        "Check all mail written in uppercase print."
+      ],
+      [
+        199,
+        "00:22:55.252000",
+        "00:23:01.252000",
+        "whose uppercase print letters seem identical to the ones"
+      ],
+      [
+        226,
+        "00:26:38.624000",
+        "00:26:41.332000",
+        "Writing: uppercase print."
+      ],
+      [
+        261,
+        "00:29:58.624000",
+        "00:30:04.580000",
+        "the uppercase print text in white chalk: \"Freedom!\""
+      ],
+      [
+        264,
+        "00:30:14.332000",
+        "00:30:18.540000",
+        "in white chalk and uppercase print letters."
+      ]
+    ],
+    "regex": "\\b((?!\\bUppercase\\ Print:)Uppercase\\ Print)(?!\\:)(?!'t)\\b",
+    "runtime": 128,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 6.6
+  }
+]

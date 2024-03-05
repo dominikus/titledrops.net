@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt0046533",
+    "title": "War Paint",
+    "year": 1953,
+    "genres": [
+      "Adventure",
+      "War",
+      "Western"
+    ],
+    "count": 3,
+    "all_lines": 671,
+    "occurrences": [
+      [
+        152,
+        "00:16:49.475000",
+        "00:16:53.048000",
+        "This Indian has war paint, I know It when I see It."
+      ],
+      [
+        155,
+        "00:16:59.352000",
+        "00:17:03.494000",
+        "- War paint, if I were... - No need to wait!"
+      ],
+      [
+        317,
+        "00:35:28.793000",
+        "00:35:30.864000",
+        "War paint!"
+      ]
+    ],
+    "regex": "\\b((?!\\bWar\\ Paint:)War\\ Paint)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 5.7
+  }
+]

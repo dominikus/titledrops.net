@@ -1,0 +1,37 @@
+[
+  {
+    "imdb": "tt0164393",
+    "title": "Berserker",
+    "year": 1987,
+    "genres": [
+      "Horror"
+    ],
+    "count": 3,
+    "all_lines": 913,
+    "occurrences": [
+      [
+        382,
+        "00:24:37.810000",
+        "00:24:40.517000",
+        "the extinction of the entire Berserker bloodline."
+      ],
+      [
+        782,
+        "01:05:59.205000",
+        "01:06:03.995000",
+        "Man, normally this Berserker shit would drive me Berserk,"
+      ],
+      [
+        842,
+        "01:17:23.013000",
+        "01:17:27.757000",
+        "He's alive, Berserker attacked him but the bear came and..."
+      ]
+    ],
+    "regex": "\\b((?!\\bBerserker:)Berserker)(?!\\:)(?!'t)\\b",
+    "runtime": 85,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 4.4
+  }
+]

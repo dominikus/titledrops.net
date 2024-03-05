@@ -1,0 +1,38 @@
+[
+  {
+    "imdb": "tt0068817",
+    "title": "Lone Wolf and Cub: Baby Cart to Hades",
+    "year": 1972,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "count": 3,
+    "all_lines": 568,
+    "occurrences": [
+      [
+        14,
+        "00:04:58.598000",
+        "00:05:03.126000",
+        "\"Kozure Okami\" \"Lone Wolf and Cub\""
+      ],
+      [
+        15,
+        "00:05:03.236000",
+        "00:05:13.043000",
+        "\"Shinikaze ni Mukau Ubaguruma\" (Perambulator Against the Winds of Death) \"Baby Cart to Hades\""
+      ],
+      [
+        326,
+        "00:39:53.157000",
+        "00:39:57.389000",
+        "...been roaming the countryside as the assassin called \"Lone Wolf and Cub.\""
+      ]
+    ],
+    "regex": "\\b((?!\\bLone\\ Wolf\\ and\\ Cub:)Lone\\ Wolf\\ and\\ Cub|(?!\\bBaby\\ Cart\\ to\\ Hades:)Baby\\ Cart\\ to\\ Hades)(?!\\:)(?!'t)\\b",
+    "runtime": 89,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 7.5
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "imdb": "tt1780790",
+    "title": "Catskill Park",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "count": 3,
+    "all_lines": 1571,
+    "occurrences": [
+      [
+        1315,
+        "01:06:23.753000",
+        "01:06:25.887000",
+        "We're located in the Catskill Park region"
+      ],
+      [
+        1562,
+        "01:28:01.483000",
+        "01:28:02.851000",
+        "Catskill Park..."
+      ],
+      [
+        1563,
+        "01:28:05.153000",
+        "01:28:06.822000",
+        "We're in Catskill Park."
+      ]
+    ],
+    "regex": "\\b((?!\\bCatskill\\ Park:)Catskill\\ Park)(?!\\:)(?!'t)\\b",
+    "runtime": 93,
+    "characters": [],
+    "title_is_name": false,
+    "rating": 3.7
+  }
+]
